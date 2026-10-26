@@ -13,15 +13,15 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as BekuldesRouteImport } from './routes/bekuldes'
 import { Route as ForrasokRouteImport } from './routes/forrasok'
 import { Route as LoginRouteImport } from './routes/login'
-import { Route as NewsroomRouteImport } from './routes/newsroom'
 import { Route as OsszesRouteImport } from './routes/osszes'
 import { Route as RolunkRouteImport } from './routes/rolunk'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as TamogatasRouteImport } from './routes/tamogatas'
 import { Route as VisszajelzesRouteImport } from './routes/visszajelzes'
+import { Route as AuthenticatedNewsroomRouteImport } from './routes/_authenticated/newsroom'
 import { Route as ApiAskRouteImport } from './routes/api/ask'
 import { Route as HirIdRouteImport } from './routes/hir.$id'
-import { Route as NewsroomPrepareRouteImport } from './routes/newsroom_.prepare'
+import { Route as AuthenticatedNewsroomPrepareRouteImport } from './routes/_authenticated/newsroom_.prepare'
 import { Route as ApiPublicNewsRouteImport } from './routes/api/public/news'
 
 const IndexRoute = IndexRouteImport.update({
@@ -42,11 +42,6 @@ const ForrasokRoute = ForrasokRouteImport.update({
 const LoginRoute = LoginRouteImport.update({
   id: '/login',
   path: '/login',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const NewsroomRoute = NewsroomRouteImport.update({
-  id: '/newsroom',
-  path: '/newsroom',
   getParentRoute: () => rootRouteImport,
 } as any)
 const OsszesRoute = OsszesRouteImport.update({
@@ -74,6 +69,11 @@ const VisszajelzesRoute = VisszajelzesRouteImport.update({
   path: '/visszajelzes',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AuthenticatedNewsroomRoute = AuthenticatedNewsroomRouteImport.update({
+  id: '/_authenticated/newsroom',
+  path: '/newsroom',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ApiAskRoute = ApiAskRouteImport.update({
   id: '/api/ask',
   path: '/api/ask',
@@ -84,11 +84,12 @@ const HirIdRoute = HirIdRouteImport.update({
   path: '/hir/$id',
   getParentRoute: () => rootRouteImport,
 } as any)
-const NewsroomPrepareRoute = NewsroomPrepareRouteImport.update({
-  id: '/newsroom_/prepare',
-  path: '/newsroom/prepare',
-  getParentRoute: () => rootRouteImport,
-} as any)
+const AuthenticatedNewsroomPrepareRoute =
+  AuthenticatedNewsroomPrepareRouteImport.update({
+    id: '/_authenticated/newsroom_/prepare',
+    path: '/newsroom/prepare',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 const ApiPublicNewsRoute = ApiPublicNewsRouteImport.update({
   id: '/api/public/news',
   path: '/api/public/news',
@@ -100,15 +101,15 @@ export interface FileRoutesByFullPath {
   '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/login': typeof LoginRoute
-  '/newsroom': typeof NewsroomRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
+  '/newsroom': typeof AuthenticatedNewsroomRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
-  '/newsroom/prepare': typeof NewsroomPrepareRoute
+  '/newsroom/prepare': typeof AuthenticatedNewsroomPrepareRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
 export interface FileRoutesByTo {
@@ -116,15 +117,15 @@ export interface FileRoutesByTo {
   '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/login': typeof LoginRoute
-  '/newsroom': typeof NewsroomRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
+  '/newsroom': typeof AuthenticatedNewsroomRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
-  '/newsroom/prepare': typeof NewsroomPrepareRoute
+  '/newsroom/prepare': typeof AuthenticatedNewsroomPrepareRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
 export interface FileRoutesById {
@@ -133,15 +134,15 @@ export interface FileRoutesById {
   '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/login': typeof LoginRoute
-  '/newsroom': typeof NewsroomRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/tamogatas': typeof TamogatasRoute
   '/visszajelzes': typeof VisszajelzesRoute
+  '/_authenticated/newsroom': typeof AuthenticatedNewsroomRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
-  '/newsroom_/prepare': typeof NewsroomPrepareRoute
+  '/_authenticated/newsroom_/prepare': typeof AuthenticatedNewsroomPrepareRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
 export interface FileRouteTypes {
@@ -151,12 +152,12 @@ export interface FileRouteTypes {
     | '/bekuldes'
     | '/forrasok'
     | '/login'
-    | '/newsroom'
     | '/osszes'
     | '/rolunk'
     | '/sitemap.xml'
     | '/tamogatas'
     | '/visszajelzes'
+    | '/newsroom'
     | '/api/ask'
     | '/hir/$id'
     | '/newsroom/prepare'
@@ -167,12 +168,12 @@ export interface FileRouteTypes {
     | '/bekuldes'
     | '/forrasok'
     | '/login'
-    | '/newsroom'
     | '/osszes'
     | '/rolunk'
     | '/sitemap.xml'
     | '/tamogatas'
     | '/visszajelzes'
+    | '/newsroom'
     | '/api/ask'
     | '/hir/$id'
     | '/newsroom/prepare'
@@ -183,15 +184,15 @@ export interface FileRouteTypes {
     | '/bekuldes'
     | '/forrasok'
     | '/login'
-    | '/newsroom'
     | '/osszes'
     | '/rolunk'
     | '/sitemap.xml'
     | '/tamogatas'
     | '/visszajelzes'
+    | '/_authenticated/newsroom'
     | '/api/ask'
     | '/hir/$id'
-    | '/newsroom_/prepare'
+    | '/_authenticated/newsroom_/prepare'
     | '/api/public/news'
   fileRoutesById: FileRoutesById
 }
@@ -200,15 +201,15 @@ export interface RootRouteChildren {
   BekuldesRoute: typeof BekuldesRoute
   ForrasokRoute: typeof ForrasokRoute
   LoginRoute: typeof LoginRoute
-  NewsroomRoute: typeof NewsroomRoute
   OsszesRoute: typeof OsszesRoute
   RolunkRoute: typeof RolunkRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   TamogatasRoute: typeof TamogatasRoute
   VisszajelzesRoute: typeof VisszajelzesRoute
+  AuthenticatedNewsroomRoute: typeof AuthenticatedNewsroomRoute
   ApiAskRoute: typeof ApiAskRoute
   HirIdRoute: typeof HirIdRoute
-  NewsroomPrepareRoute: typeof NewsroomPrepareRoute
+  AuthenticatedNewsroomPrepareRoute: typeof AuthenticatedNewsroomPrepareRoute
   ApiPublicNewsRoute: typeof ApiPublicNewsRoute
 }
 
@@ -240,13 +241,6 @@ declare module '@tanstack/react-router' {
       path: '/login'
       fullPath: '/login'
       preLoaderRoute: typeof LoginRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/newsroom': {
-      id: '/newsroom'
-      path: '/newsroom'
-      fullPath: '/newsroom'
-      preLoaderRoute: typeof NewsroomRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/osszes': {
@@ -284,6 +278,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof VisszajelzesRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/_authenticated/newsroom': {
+      id: '/_authenticated/newsroom'
+      path: '/newsroom'
+      fullPath: '/newsroom'
+      preLoaderRoute: typeof AuthenticatedNewsroomRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/api/ask': {
       id: '/api/ask'
       path: '/api/ask'
@@ -298,11 +299,11 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof HirIdRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/newsroom_/prepare': {
-      id: '/newsroom_/prepare'
+    '/_authenticated/newsroom_/prepare': {
+      id: '/_authenticated/newsroom_/prepare'
       path: '/newsroom/prepare'
       fullPath: '/newsroom/prepare'
-      preLoaderRoute: typeof NewsroomPrepareRouteImport
+      preLoaderRoute: typeof AuthenticatedNewsroomPrepareRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/api/public/news': {
@@ -320,15 +321,15 @@ const rootRouteChildren: RootRouteChildren = {
   BekuldesRoute: BekuldesRoute,
   ForrasokRoute: ForrasokRoute,
   LoginRoute: LoginRoute,
-  NewsroomRoute: NewsroomRoute,
   OsszesRoute: OsszesRoute,
   RolunkRoute: RolunkRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   TamogatasRoute: TamogatasRoute,
   VisszajelzesRoute: VisszajelzesRoute,
+  AuthenticatedNewsroomRoute: AuthenticatedNewsroomRoute,
   ApiAskRoute: ApiAskRoute,
   HirIdRoute: HirIdRoute,
-  NewsroomPrepareRoute: NewsroomPrepareRoute,
+  AuthenticatedNewsroomPrepareRoute: AuthenticatedNewsroomPrepareRoute,
   ApiPublicNewsRoute: ApiPublicNewsRoute,
 }
 export const routeTree = rootRouteImport

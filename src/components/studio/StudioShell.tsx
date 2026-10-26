@@ -17,7 +17,7 @@ export function StudioShell({ children }: { children: ReactNode }) {
         <Button variant="ghost" disabled title="Még nem elérhető"><History className="mr-2 size-4" />Korábbi adások</Button>
         <Button variant="ghost" disabled title="Bejelentkezés szükséges"><Settings2 className="mr-2 size-4" />Beállítások</Button>
       </nav>
-      <div className="flex items-center gap-2"><Button size="icon" variant="ghost" disabled aria-label="Értesítések"><Bell className="size-4" /></Button><DropdownMenu><DropdownMenuTrigger asChild><Button size="icon" variant="outline" aria-label="Fiók"><LockKeyhole className="size-4" /></Button></DropdownMenuTrigger><DropdownMenuContent><DropdownMenuItem asChild><Link to="/login">Bejelentkezés</Link></DropdownMenuItem></DropdownMenuContent></DropdownMenu></div>
+      <div className="flex items-center gap-2"><Button size="icon" variant="ghost" disabled aria-label="Értesítések"><Bell className="size-4" /></Button><DropdownMenu><DropdownMenuTrigger asChild><Button size="icon" variant="outline" aria-label="Fiók"><LockKeyhole className="size-4" /></Button></DropdownMenuTrigger><DropdownMenuContent><DropdownMenuItem onSelect={async () => { await supabase.auth.signOut(); void navigate({ to: "/login", replace: true }); }}>Kijelentkezés</DropdownMenuItem></DropdownMenuContent></DropdownMenu></div>
     </header>{children}
   </div>;
 }
