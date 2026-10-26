@@ -10,7 +10,8 @@ import { StudioShell } from "@/components/studio/StudioShell";
 import { StudioNewsCard } from "@/components/studio/StudioNewsCard";
 import { STUDIO_SOURCES, WINDOWS, studioSearch, studioHead, hasSelection } from "@/lib/studio";
 
-const newsroomQuery = (search: ReturnType<typeof studioSearch>, fetchData = getNewsroomData) => queryOptions({
+type NewsroomFetcher = (options: { data: { selected_sources: string[]; time_window_hours: number } }) => ReturnType<typeof getNewsroomData>;
+const newsroomQuery = (search: ReturnType<typeof studioSearch>, fetchData: NewsroomFetcher = getNewsroomData) => queryOptions({
   queryKey: ["newsroom", search.sources, search.hours],
   queryFn: () => fetchData({ data: { selected_sources: search.sources.split("|").filter(Boolean), time_window_hours: search.hours } }),
   staleTime: 30_000,
