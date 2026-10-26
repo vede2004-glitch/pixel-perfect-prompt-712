@@ -19,7 +19,8 @@ let inflight: Promise<unknown[] | null> | null = null;
 function repoFromEnv(): Repo {
   const raw = process.env["NEWS_JSON_URL"];
   const m = raw && /raw\.githubusercontent\.com\/([^/]+)\/([^/]+)\/([^/]+)\/([^?#]+)/.exec(raw);
-  return m ? { owner: m[1]!, repo: m[2]!, branch: m[3]!, path: m[4]! } : DEFAULT_REPO;
+  const owner = m?.[1], repo = m?.[2], branch = m?.[3], path = m?.[4];
+  return owner && repo && branch && path ? { owner, repo, branch, path } : DEFAULT_REPO;
 }
 
 async function latestSha(r: Repo): Promise<string | null> {
@@ -79,4 +80,24 @@ export async function loadLiveNewsRaw(): Promise<unknown[] | null> {
       });
   }
   return inflight;
+}
+
+const supplemental = new Map<string, { at: number; data: unknown[] }>();
+const supplementalRequests = new Map<string, Promise<unknown[] | null>>();
+/** Only server-selected memory/archive paths are accepted by callers. */
+export async function loadNewsroomFile(path: "erdelyi_hirek_memoria.json" | "erdelyi_hirek_archivum.json"): Promise<unknown[] | null> {
+  const previous = supplemental.get(path);
+  if (previous && Date.now() - previous.at < CACHE_MS) return previous.data;
+  const pending = supplementalRequests.get(path);
+  if (pending) return pending;
+  const request = (async () => {
+    const repo = { ...repoFromEnv(), path };
+    const sha = await latestSha(repo);
+    const base = `https://raw.githubusercontent.com/${repo.owner}/${repo.repo}`;
+    const data = await fetchJson(`${base}/${sha ?? repo.branch}/${path}`);
+    if (data) supplemental.set(path, { at: Date.now(), data });
+    return data ?? previous?.data ?? null;
+  })().finally(() => supplementalRequests.delete(path));
+  supplementalRequests.set(path, request);
+  return request;
 }
