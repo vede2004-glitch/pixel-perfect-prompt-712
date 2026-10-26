@@ -1,5 +1,27 @@
 [
   {
+    "group_id": "group_2eaa8f2e63",
+    "category": "Sport",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Harry Kane și-a adjudecat Trofeul Gerd Muller pentru a doua oară",
+        "link": "https://agerpres.ro/sport-extern/2026/10/27/fotbal-harry-kane-si-a-adjudecat-trofeul-gerd-muller-pentru-a-doua-oara--1607058"
+      }
+    ],
+    "published_at": 1793054596,
+    "title_hu": "Fotbal: Harry Kane și-a adjudecat Trofeul Gerd Muller pentru a doua oară",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Harry Kane și-a adjudecat Trofeul Gerd Muller pentru a doua oară",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
     "group_id": "group_648bb29699",
     "category": "Általános",
     "image": "https://cdn.adh.reperio.news/image-a/a6f29c71-f03e-4d47-ab8d-a555bcb600f9/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
@@ -576,7 +598,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Digi24",
@@ -597,6 +619,11 @@
         "source": "Adevărul",
         "title": "Victoria lui Lula dă peste cap planurile lui Trump în America Latină. Trump: „A părut o altă alegere fraudată”",
         "link": "https://adevarul.ro/stiri-externe/sua/victoria-lui-lula-da-peste-cap-planurile-lui-trump-2566749.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Brazilia: Trump denunță alegeri 'fraudate' după înfrângerea lui Bolsonaro",
+        "link": "https://agerpres.ro/politic-extern/2026/10/27/video-brazilia-trump-denunta-alegeri-fraudate-dupa-infrangerea-lui-bolsonaro--1607057"
       }
     ],
     "published_at": 1793049231,
