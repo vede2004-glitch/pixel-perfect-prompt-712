@@ -15,8 +15,8 @@ class NewsroomRules(unittest.TestCase):
             {"group_id": "other", "published_at": 1_999_999_500, "source": "Digi24"},
         ], ["Maszol"])
         self.assertEqual(result["multi_source_news"], [])
-        self.assertEqual([n["group_id"] for n in result["single_source_news"]], ["pair", "single"])
-        self.assertEqual([s["source"] for s in result["single_source_news"][0]["sources"]], ["Maszol"])
+        self.assertEqual([n["group_id"] for n in result["single_source_news"]], ["single", "pair"])
+        self.assertEqual([s["source"] for s in result["single_source_news"][1]["sources"]], ["Maszol"])
 
     def test_pair_stays_multi_when_both_selected(self):
         result = self.run_engine([
