@@ -1,0 +1,58 @@
+name: 2. AI Szintézis (1 hour)
+
+on:
+  repository_dispatch:
+    types: [ai-synthesis-trigger]
+  workflow_dispatch:
+
+jobs:
+  synthesize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Kód letöltése a repóból
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python környezet beállítása
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Függőségek telepítése
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: AI Szintézis script futtatása
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python cikk_szintetizalas.py
+
+      - name: Memória elmentése és Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # 0. Esetleges el nem mentett lokális változások félretétele
+          git stash || true
+          
+          # 1. Legfrissebb állapot behúzása a távoliról
+          git pull origin main --rebase
+          
+          # 2. Hozzáadjuk a frissen generált JSON fájlokat
+          git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json erdelyi_hirek_archivum.json src/data/news.json src/data/archive.json src/data/news_archive.json
+
+          # 3. Commit és push csak érdemi változás esetén
+          if git diff --staged --quiet; then
+            echo "ℹ️ Nincs új hír vagy változás a fájlokban, commit és push kihagyva."
+            git stash pop || true
+          else
+            echo "✨ Új hírek találhatók! Frissítés mentése..."
+            git commit -m "update: RSS adatok frissítése [skip ci]"
+            git push origin main
+          fi
