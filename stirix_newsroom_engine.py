@@ -5,9 +5,10 @@ import time
 # ==============================================================================
 # 1. KONFIGURÁCIÓ ÉS REGISZTEREK
 # ==============================================================================
-LOCAL_NEWS_FILE = "src/data/news.json"
-MEMORY_NEWS_FILE = "erdelyi_hirek_memoria.json"
-ARCHIVE_NEWS_FILE = "erdelyi_hirek_archivum.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+LOCAL_NEWS_FILE = os.path.join(BASE_DIR, "src/data/news.json")
+MEMORY_NEWS_FILE = os.path.join(BASE_DIR, "erdelyi_hirek_memoria.json")
+ARCHIVE_NEWS_FILE = os.path.join(BASE_DIR, "erdelyi_hirek_archivum.json")
 
 # ==============================================================================
 # 2. DASHBOARD ADATGENERÁLÓ ENGINE (Csak a news.json-ből dolgozik)
@@ -34,10 +35,12 @@ def get_dashboard_newsroom_data(selected_sources: list, time_window_hours: int =
     seen_group_ids = set()
 
     for item in local_articles:
-        pub_at = item.get("published_at", item.get("fetched_at", 0))
+        if not isinstance(item, dict):
+            continue
+        pub_at = item.get("published_at") or item.get("fetched_at", 0)
         
         # Időablak szűrés
-        if pub_at < cutoff_time:
+        if not isinstance(pub_at, (int, float)) or pub_at < cutoff_time or pub_at > current_time:
             continue
 
         # Ellenőrizzük, hogy a cikk/csoport forrásai közül bármelyik benne van-e a felhasználó által kiválasztottakban
@@ -52,7 +55,7 @@ def get_dashboard_newsroom_data(selected_sources: list, time_window_hours: int =
             continue
 
         group_id = item.get("group_id", item.get("link", ""))
-        if group_id in seen_group_ids:
+        if not group_id or group_id in seen_group_ids:
             continue
         seen_group_ids.add(group_id)
 
@@ -84,6 +87,9 @@ def get_dashboard_newsroom_data(selected_sources: list, time_window_hours: int =
             single_source_articles.append({
                 "group_id": group_id,
                 "source": main_source,
+                "sources": distinct_sources,
+                "sources_count": sources_count,
+                "is_synthesized": False,
                 "title_hu": art_title,
                 "lead_hu": (art_lead[:180] + "…") if len(art_lead) > 180 else art_lead,
                 "image": cover_image,
@@ -96,7 +102,8 @@ def get_dashboard_newsroom_data(selected_sources: list, time_window_hours: int =
 
     return {
         "time_window_hours": time_window_hours,
-        "selected_sources_count": len(selected_sources),
+        "selected_sources_count": len(set(selected_sources)),
+        "selected_sources": list(dict.fromkeys(selected_sources)),
         "stats": {
             "multi_source_count": len(multi_source_groups),
             "single_source_count": len(single_source_articles)
