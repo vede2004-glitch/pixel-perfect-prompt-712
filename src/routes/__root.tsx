@@ -4,7 +4,8 @@ import { useTheme } from "@/lib/theme";
 import { initDomainLang } from "@/lib/lang";
 import { HU_ORIGIN, RO_ORIGIN, originFor } from "@/lib/domains";
 import { getDomainLang } from "@/lib/domain.functions";
-import { refreshNews } from "@/lib/news-live";
+import { hydrateLiveNews, refreshNews } from "@/lib/news-live";
+import { getLiveNews } from "@/lib/news-live.functions";
 import { Toaster } from "@/components/ui/sonner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import {
@@ -82,7 +83,14 @@ function ErrorComponent({ error, reset }: ErrorComponentProps) {
 }
 
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
-  loader: async ({ location }) => ({ domainLang: await getDomainLang(), path: location.pathname }),
+  loader: async ({ location }) => {
+    // Csak a szerveroldali első betöltéskor: a friss hírek már a HTML-ben érkeznek.
+    const [domainLang, liveNews] = await Promise.all([
+      getDomainLang(),
+      typeof window === "undefined" ? getLiveNews().catch(() => null) : Promise.resolve(null),
+    ]);
+    return { domainLang, path: location.pathname, liveNews };
+  },
   head: ({ loaderData }) => {
     const path = loaderData?.path ?? "/";
     const self = originFor(loaderData?.domainLang ?? "ro") + path;
@@ -131,7 +139,9 @@ function RootShell({ children }: { children: ReactNode }) {
 
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
-  initDomainLang(Route.useLoaderData()?.domainLang ?? null);
+  const loaderData = Route.useLoaderData();
+  initDomainLang(loaderData?.domainLang ?? null);
+  hydrateLiveNews(loaderData?.liveNews);
   useTheme();
   // A böngésző a kiszolgált, legfrissebb hír-adatokat kapja meg – gyorsítótár nélkül.
   useEffect(() => {

@@ -3,6 +3,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { getNews, timeAgo, tr } from "@/lib/news";
+import { getLiveNews } from "@/lib/news-live.functions";
 import { newsImage } from "@/lib/gallery";
 import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
@@ -10,8 +11,13 @@ import { ArticleQA } from "@/components/ArticleQA";
 import { articleSchema, breadcrumbSchema, serializeArticleSchema, SITE_URL } from "@/lib/article-schema";
 
 export const Route = createFileRoute("/hir/$id")({
-  loader: ({ params }) => {
-    const item = getNews(params.id);
+  loader: async ({ params }) => {
+    let item = getNews(params.id);
+    // Friss, még be nem égetett cikk: a szerver előbb átveszi a repó adatait.
+    if (!item && typeof window === "undefined") {
+      await getLiveNews().catch(() => null);
+      item = getNews(params.id);
+    }
     if (!item) throw notFound();
     return item;
   },

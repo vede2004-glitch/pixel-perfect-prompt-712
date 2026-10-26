@@ -15,6 +15,21 @@ export function useNewsVersion() {
   return useSyncExternalStore(subscribeNews, getNewsVersion, getNewsVersion);
 }
 
+let hydratedJson: string | null = null;
+/**
+ * A szerver által kirajzolt friss lista átvétele még az első rajzolás előtt,
+ * hogy frissítéskor ne villanjon fel a beégetett, régebbi hírlista.
+ */
+export function hydrateLiveNews(json: string | null | undefined) {
+  if (!json || json === hydratedJson) return;
+  hydratedJson = json;
+  try {
+    applyLiveNews(normalizeNewsList(JSON.parse(json)));
+  } catch {
+    // Hibás adat: marad a beégetett lista.
+  }
+}
+
 async function checkOnce(): Promise<boolean> {
   if (running) return false;
   running = true;
