@@ -7,7 +7,7 @@ import { StudioShell } from "@/components/studio/StudioShell";
 import { StudioNewsCard } from "@/components/studio/StudioNewsCard";
 import { STUDIO_SOURCES, WINDOWS, studioSearch, studioHead, hasSelection, type StudioNews } from "@/lib/studio";
 
-export const Route = createFileRoute("/newsroom")({ validateSearch: studioSearch, head: () => studioHead("Newsroom", "STIRIX Studio hírválogatás és rádiós előkészítés."), component: Newsroom });
+export const Route = createFileRoute("/_authenticated/newsroom")({ validateSearch: studioSearch, head: () => studioHead("Newsroom", "STIRIX Studio hírválogatás és rádiós előkészítés."), component: Newsroom });
 function Newsroom() {
   const search = Route.useSearch();
   const navigate = Route.useNavigate();
