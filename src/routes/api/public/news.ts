@@ -11,7 +11,7 @@ const NO_STORE = {
 };
 
 async function loadLive(): Promise<unknown | null> {
-  const base = process.env.NEWS_JSON_URL;
+  const base = process.env["NEWS_JSON_URL"];
   if (!base) return null;
   try {
     const url = `${base}${base.includes("?") ? "&" : "?"}t=${Date.now()}`;
