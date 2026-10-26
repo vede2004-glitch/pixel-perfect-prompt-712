@@ -29,7 +29,13 @@ function Login() {
     const { error } = await supabase.auth.signInWithPassword({ email: usernameToEmail(email), password });
     setBusy(false);
     if (error) {
-      setError(error.message.includes("Invalid login") ? "Hibás név vagy jelszó." : error.message);
+      setError(
+        error.message.includes("Invalid login")
+          ? "Hibás név vagy jelszó."
+          : error.message.includes("Email logins are disabled")
+            ? "A jelszavas belépés ki van kapcsolva a Supabase-ben (Authentication → Providers → Email)."
+            : error.message,
+      );
       return;
     }
     void navigate({ to: "/newsroom", search: { hours: 6, sources: "" }, replace: true });
