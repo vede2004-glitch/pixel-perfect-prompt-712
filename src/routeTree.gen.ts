@@ -10,6 +10,7 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
 import { Route as BekuldesRouteImport } from './routes/bekuldes'
 import { Route as ForrasokRouteImport } from './routes/forrasok'
 import { Route as LoginRouteImport } from './routes/login'
@@ -27,6 +28,10 @@ import { Route as ApiPublicNewsRouteImport } from './routes/api/public/news'
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
+  id: '/_authenticated',
   getParentRoute: () => rootRouteImport,
 } as any)
 const BekuldesRoute = BekuldesRouteImport.update({
@@ -70,9 +75,9 @@ const VisszajelzesRoute = VisszajelzesRouteImport.update({
   getParentRoute: () => rootRouteImport,
 } as any)
 const AuthenticatedNewsroomRoute = AuthenticatedNewsroomRouteImport.update({
-  id: '/_authenticated/newsroom',
+  id: '/newsroom',
   path: '/newsroom',
-  getParentRoute: () => rootRouteImport,
+  getParentRoute: () => AuthenticatedRouteRoute,
 } as any)
 const ApiAskRoute = ApiAskRouteImport.update({
   id: '/api/ask',
@@ -86,9 +91,9 @@ const HirIdRoute = HirIdRouteImport.update({
 } as any)
 const AuthenticatedNewsroomPrepareRoute =
   AuthenticatedNewsroomPrepareRouteImport.update({
-    id: '/_authenticated/newsroom_/prepare',
+    id: '/newsroom_/prepare',
     path: '/newsroom/prepare',
-    getParentRoute: () => rootRouteImport,
+    getParentRoute: () => AuthenticatedRouteRoute,
   } as any)
 const ApiPublicNewsRoute = ApiPublicNewsRouteImport.update({
   id: '/api/public/news',
@@ -131,6 +136,7 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
   '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/login': typeof LoginRoute
@@ -181,6 +187,7 @@ export interface FileRouteTypes {
   id:
     | '__root__'
     | '/'
+    | '/_authenticated'
     | '/bekuldes'
     | '/forrasok'
     | '/login'
@@ -198,6 +205,7 @@ export interface FileRouteTypes {
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
   BekuldesRoute: typeof BekuldesRoute
   ForrasokRoute: typeof ForrasokRoute
   LoginRoute: typeof LoginRoute
@@ -206,10 +214,8 @@ export interface RootRouteChildren {
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   TamogatasRoute: typeof TamogatasRoute
   VisszajelzesRoute: typeof VisszajelzesRoute
-  AuthenticatedNewsroomRoute: typeof AuthenticatedNewsroomRoute
   ApiAskRoute: typeof ApiAskRoute
   HirIdRoute: typeof HirIdRoute
-  AuthenticatedNewsroomPrepareRoute: typeof AuthenticatedNewsroomPrepareRoute
   ApiPublicNewsRoute: typeof ApiPublicNewsRoute
 }
 
@@ -220,6 +226,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/_authenticated': {
+      id: '/_authenticated'
+      path: ''
+      fullPath: '/'
+      preLoaderRoute: typeof AuthenticatedRouteRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/bekuldes': {
@@ -283,7 +296,7 @@ declare module '@tanstack/react-router' {
       path: '/newsroom'
       fullPath: '/newsroom'
       preLoaderRoute: typeof AuthenticatedNewsroomRouteImport
-      parentRoute: typeof rootRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
     }
     '/api/ask': {
       id: '/api/ask'
@@ -304,7 +317,7 @@ declare module '@tanstack/react-router' {
       path: '/newsroom/prepare'
       fullPath: '/newsroom/prepare'
       preLoaderRoute: typeof AuthenticatedNewsroomPrepareRouteImport
-      parentRoute: typeof rootRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
     }
     '/api/public/news': {
       id: '/api/public/news'
@@ -316,8 +329,22 @@ declare module '@tanstack/react-router' {
   }
 }
 
+interface AuthenticatedRouteRouteChildren {
+  AuthenticatedNewsroomRoute: typeof AuthenticatedNewsroomRoute
+  AuthenticatedNewsroomPrepareRoute: typeof AuthenticatedNewsroomPrepareRoute
+}
+
+const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
+  AuthenticatedNewsroomRoute: AuthenticatedNewsroomRoute,
+  AuthenticatedNewsroomPrepareRoute: AuthenticatedNewsroomPrepareRoute,
+}
+
+const AuthenticatedRouteRouteWithChildren =
+  AuthenticatedRouteRoute._addFileChildren(AuthenticatedRouteRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
   BekuldesRoute: BekuldesRoute,
   ForrasokRoute: ForrasokRoute,
   LoginRoute: LoginRoute,
@@ -326,10 +353,8 @@ const rootRouteChildren: RootRouteChildren = {
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   TamogatasRoute: TamogatasRoute,
   VisszajelzesRoute: VisszajelzesRoute,
-  AuthenticatedNewsroomRoute: AuthenticatedNewsroomRoute,
   ApiAskRoute: ApiAskRoute,
   HirIdRoute: HirIdRoute,
-  AuthenticatedNewsroomPrepareRoute: AuthenticatedNewsroomPrepareRoute,
   ApiPublicNewsRoute: ApiPublicNewsRoute,
 }
 export const routeTree = rootRouteImport
