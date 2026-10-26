@@ -5161,23 +5161,6 @@
     ]
   },
   {
-    "group_id": "group_0d530a5ae2",
-    "category": "Erdély",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Cum alegi: Bombeu metalic sau compozit pentru pantofii de lucru?",
-        "link": "https://www.presasm.ro/cum-alegi-bombeu-metalic-sau-compozit-pentru-pantofii-de-lucru/53980",
-        "image": "https://www.presasm.ro/uploads/2026/10/stro2.jpg",
-        "summary": "Ambele tipuri de bombeu oferă același nivel minim de protecție dacă încălțămintea este certificată conform standardului european EN ISO 20345, iar diferențele țin de greutate, de conductivitatea termică, de reacția la detectoarele de metale și de preț. Bombeul…",
-        "category": "Erdély",
-        "is_b2b_only": false,
-        "published_at": 1792971120
-      }
-    ]
-  },
-  {
     "group_id": "group_f7e52b790a",
     "category": "Általános",
     "articles_count": 1,
@@ -18577,7 +18560,7 @@
         "summary": "",
         "category": "Politika",
         "is_b2b_only": false,
-        "published_at": 1793054596
+        "published_at": 1793057792
       }
     ]
   },
@@ -19266,7 +19249,7 @@
         "summary": "",
         "category": "Sport",
         "is_b2b_only": false,
-        "published_at": 1793054596
+        "published_at": 1793057792
       }
     ]
   },
@@ -19385,7 +19368,7 @@
         "summary": "",
         "category": "Sport",
         "is_b2b_only": false,
-        "published_at": 1793054596
+        "published_at": 1793057792
       }
     ]
   },
@@ -19409,7 +19392,7 @@
   {
     "group_id": "group_13afbf199f",
     "category": "Politika",
-    "articles_count": 5,
+    "articles_count": 6,
     "articles": [
       {
         "source": "Mediafax",
@@ -19460,6 +19443,16 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793056861
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Fotbal: Englezul Harry Kane a câștigat 'Balonul de Aur'",
+        "link": "https://agerpres.ro/sport-extern/2026/10/27/video-fotbal-englezul-harry-kane-a-castigat-balonul-de-aur--1607060",
+        "image": "",
+        "summary": "",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793057792
       }
     ]
   },
@@ -19494,6 +19487,57 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793055625
+      }
+    ]
+  },
+  {
+    "group_id": "group_bdef08dff7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "#Ucraina: Un mort în urma atacurilor rusești asupra Kievului",
+        "link": "https://agerpres.ro/politic-extern/2026/10/27/ucraina-un-mort-in-urma-atacurilor-rusesti-asupra-kievului--1607062",
+        "image": "",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793057792
+      }
+    ]
+  },
+  {
+    "group_id": "group_2eef478e76",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Fotbal: Alexia Putellas a câștigat 'Balonul de Aur' la feminin pentru a treia oară",
+        "link": "https://agerpres.ro/sport-extern/2026/10/27/video-fotbal-alexia-putellas-a-castigat-balonul-de-aur-la-feminin-pentru-a-treia-oara--1607059",
+        "image": "",
+        "summary": "",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793057792
+      }
+    ]
+  },
+  {
+    "group_id": "group_12b53b544a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Cum ajung pacienții cronici să plătească mii de lei pentru investigații recomandate de medici",
+        "link": "https://adevarul.ro/stiri-interne/sanatate/cum-ajung-pacientii-cronici-sa-plateasca-mii-de-2566699.html",
+        "image": "https://cdn.adh.reperio.news/image-d/d9cca559-f770-4c52-913f-92b10962b3bd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Mai multe asociații de pacienți cer autorităților să elimine restricțiile privind decontarea investigațiilor RMN și CT și să lase necesitatea medicală să decidă cât de des trebuie efectuate acestea. Restricțiile din programul „Monitor” mută presiunea asupra bugetului pacienților.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793057425
       }
     ]
   }
