@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Kód letöltése a repóból
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python környezet beállítása
         uses: actions/setup-python@v5
@@ -35,23 +37,25 @@ jobs:
         run: |
           python cikk_szintetizalas.py
 
-      - name: Változások elmentése a GitHubra
+      - name: Friss adatok mentése és Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # Elmentjük a munkafájlokat és a végső news.json-t is
+          # FONTOS: a generált fájlokat NEM dobjuk el (nincs reset/stash) – előbb commit, aztán szinkron.
           git add erdelyi_hirek_memoria.json erdelyi_hirek_csoportositott.json erdelyi_hirek_archivum.json src/data/news.json src/data/archive.json src/data/news_archive.json
           if git diff --staged --quiet; then
             echo "Nincs valtozas, commit es push kihagyva."
             exit 0
           fi
-          git commit -m "Auto-update: Friss adatok és szintetizált hírek [skip ci]"
-
-          # Utkozeskor a frissen generalt (helyi) adat nyer: rebase alatt a
-          # "theirs" a replayelt helyi commit, az "ours" az origin/main-e.
-          git fetch origin main
-          if ! git rebase origin/main -X theirs; then
-            git rebase --abort || true
-            git merge origin/main -X ours --no-edit -m "merge: Auto-update [skip ci]"
-          fi
-          git push
+          git commit -m "update: friss hirek [skip ci]"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            # Utkozeskor a most generalt adat nyer (rebase alatt a "theirs" a helyi commit).
+            if ! git rebase -X theirs origin/main; then
+              git rebase --abort || true
+              git merge -X ours --no-edit origin/main -m "merge: friss hirek [skip ci]"
+            fi
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((i * 5))
+          done
+          exit 1

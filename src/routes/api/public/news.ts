@@ -10,9 +10,11 @@ const NO_STORE = {
   "cache-control": "no-store, max-age=0",
 };
 
+const DEFAULT_NEWS_JSON_URL =
+  "https://raw.githubusercontent.com/vede2004-glitch/pixel-perfect-prompt-712/main/src/data/news.json";
+
 async function loadLive(): Promise<unknown | null> {
-  const base = process.env["NEWS_JSON_URL"];
-  if (!base) return null;
+  const base = process.env["NEWS_JSON_URL"] || DEFAULT_NEWS_JSON_URL;
   try {
     const url = `${base}${base.includes("?") ? "&" : "?"}t=${Date.now()}`;
     const res = await fetch(url, { cache: "no-store", headers: { "cache-control": "no-cache" } });
