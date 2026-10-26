@@ -43,15 +43,13 @@ def get_dashboard_newsroom_data(selected_sources: list, time_window_hours: int =
         if not isinstance(pub_at, (int, float)) or pub_at < cutoff_time or pub_at > current_time:
             continue
 
-        # Ellenőrizzük, hogy a cikk/csoport forrásai közül bármelyik benne van-e a felhasználó által kiválasztottakban
-        item_sources = []
-        if item.get("sources"):
-            item_sources = [s.get("source") for s in item.get("sources") if s.get("source")]
-        elif item.get("source"):
-            item_sources = [item.get("source")]
-
-        # Csak azokat a cikkeket/párokat tartjuk meg, amik illeszkednek a felhasználó által kért forrásokhoz
-        if not any(src in selected_sources for src in item_sources):
+        # Források összegyűjtése, majd szigorú leszűkítés a kijelölt forrásokra
+        raw_sources = item.get("sources") if isinstance(item.get("sources"), list) else []
+        all_sources = [s for s in raw_sources if isinstance(s, dict) and s.get("source")]
+        if not all_sources and item.get("source"):
+            all_sources = [{"source": item.get("source"), "title": item.get("title", ""), "link": item.get("link", "")}]
+        distinct_sources = [s for s in all_sources if s.get("source") in selected_sources]
+        if not distinct_sources:
             continue
 
         group_id = item.get("group_id", item.get("link", ""))
@@ -59,39 +57,33 @@ def get_dashboard_newsroom_data(selected_sources: list, time_window_hours: int =
             continue
         seen_group_ids.add(group_id)
 
-        # Források feldolgozása
-        distinct_sources = item.get("sources", [])
-        if not distinct_sources and item.get("source"):
-            distinct_sources = [{"source": item.get("source"), "title": item.get("title", ""), "link": item.get("link", "")}]
-
         sources_count = len(distinct_sources)
         art_title = item.get("title_hu", item.get("title", ""))
-        art_lead = item.get("lead_hu", item.get("summary", ""))
+        art_lead = item.get("lead_hu", item.get("summary", "")) or ""
         cover_image = item.get("image", "")
 
-        # A) TÖBBFORRÁSOS / ÖSSZEPÁROSTOTT HÍREK (Bal oldali oszlop)
-        if sources_count > 1 or item.get("is_synthesized", False):
+        # A szűrt forrásszám dönti el az oszlopot
+        if sources_count > 1:
             multi_source_groups.append({
                 "group_id": group_id,
-                "is_synthesized": item.get("is_synthesized", True),
+                "is_synthesized": bool(item.get("is_synthesized", False)),
                 "sources_count": sources_count,
                 "sources": distinct_sources,
+                "source": distinct_sources[0].get("source"),
                 "title_hu": art_title,
-                "lead_hu": (art_lead[:220] + "…") if len(art_lead) > 220 else art_lead,
+                "lead_hu": art_lead,
                 "image": cover_image,
                 "published_at": pub_at
             })
-        # B) EGYFORRÁSOS HÍREK (Jobb oldali oszlop)
         else:
-            main_source = distinct_sources[0].get("source") if distinct_sources else "Hírforrás"
             single_source_articles.append({
                 "group_id": group_id,
-                "source": main_source,
+                "source": distinct_sources[0].get("source"),
                 "sources": distinct_sources,
-                "sources_count": sources_count,
-                "is_synthesized": False,
+                "sources_count": 1,
+                "is_synthesized": bool(item.get("is_synthesized", False)),
                 "title_hu": art_title,
-                "lead_hu": (art_lead[:180] + "…") if len(art_lead) > 180 else art_lead,
+                "lead_hu": art_lead,
                 "image": cover_image,
                 "published_at": pub_at
             })
