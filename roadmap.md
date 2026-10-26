@@ -15,6 +15,7 @@
 - [x] Alsó sáv csak kijelölt hírekkel; külön hír-előkészítő oldal és kijelölési szabálytesztek (élő hírekkel még nem ellenőrizhető)
 - [x] A feltöltött strix_newsroom_engine.py megőrzése és válaszformátumának illesztése
 - [ ] Valódi bejelentkezés és profilok — Lovable Cloud engedélyezése szükséges a fő projektbeszélgetésben
-- [ ] Élő RSS és generálás — futó Python API és generálási szolgáltatás szükséges
+- [x] Newsroom bekötése a központi hírekre, memóriára és archívumra, szűrési tesztekkel
+- [ ] Rádiós generálás — generálási szolgáltatás szükséges
 
 - [ ] Saját Supabase-fiók bekötése: Lovable Cloud projektben nem cserélhető (felhasználói döntés kell)

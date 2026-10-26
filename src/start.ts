@@ -2,6 +2,12 @@ import { createStart, createCsrfMiddleware, createMiddleware } from "@tanstack/r
 
 import { renderErrorPage } from "./lib/error-page";
 import { domainRedirect } from "./lib/domains";
+import { supabase } from "./integrations/supabase/client";
+
+const attachSupabaseAuth = createMiddleware({ type: "function" }).client(async ({ next }) => {
+  const { data } = await supabase.auth.getSession();
+  return next({ headers: data.session?.access_token ? { Authorization: `Bearer ${data.session.access_token}` } : {} });
+});
 
 const errorMiddleware = createMiddleware().server(async ({ next }) => {
   try {
@@ -59,5 +65,6 @@ const domainMiddleware = createMiddleware().server(async ({ next, request }) => 
 });
 
 export const startInstance = createStart(() => ({
+  functionMiddleware: [attachSupabaseAuth],
   requestMiddleware: [htmlNoStore, domainMiddleware, errorMiddleware, csrfMiddleware],
 }));

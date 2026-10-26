@@ -16,7 +16,7 @@ export const studioNewsSchema = z.object({
   source: z.string().optional(), sources_count: z.number().optional(), is_synthesized: z.boolean().optional(),
 });
 export const dashboardSchema = z.object({
-  time_window_hours: z.number(), selected_sources: z.array(z.string()),
+  time_window_hours: z.number(), selected_sources: z.array(z.string()), selected_sources_count: z.number().optional(),
   stats: z.object({ multi_source_count: z.number(), single_source_count: z.number() }),
   multi_source_news: z.array(studioNewsSchema), single_source_news: z.array(studioNewsSchema),
 });
