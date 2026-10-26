@@ -28,7 +28,7 @@ async function latestSha(r: Repo): Promise<string | null> {
     "user-agent": "stirix-news",
   };
   const token = process.env["GITHUB_TOKEN"];
-  if (token) headers.authorization = `Bearer ${token}`;
+  if (token) headers["authorization"] = `Bearer ${token}`;
   try {
     const res = await fetch(
       `https://api.github.com/repos/${r.owner}/${r.repo}/commits?sha=${r.branch}&path=${encodeURIComponent(r.path)}&per_page=1`,
