@@ -15,22 +15,22 @@ export function filterNewsroomNews(entries: unknown[], selectedSources: string[]
     const published = item['published_at'] ?? item['fetched_at'] ?? 0;
     if (typeof published !== "number" || !Number.isFinite(published) || published < now - hours * 3600 || published > now) continue;
     const sourceRows = Array.isArray(item['sources']) ? item['sources'] : [];
-    const sources = sourceRows.flatMap((raw) => {
+    const allSources = sourceRows.flatMap((raw) => {
       const row = record(raw);
       const source = text(row?.['source']);
       return source ? [{ source, link: text(row?.['link']) }] : [];
     });
-    if (!sources.length && text(item['source'])) sources.push({ source: text(item['source']), link: text(item['link']) });
-    if (!sources.some((s) => selected.has(s.source))) continue;
+    if (!allSources.length && text(item['source'])) allSources.push({ source: text(item['source']), link: text(item['link']) });
+    // Strictly narrow the group to the user's selected sources; the filtered count decides the column.
+    const sources = allSources.filter((s) => selected.has(s.source));
+    if (!sources.length) continue;
     const id = item['group_id'] ?? item['link'];
     if ((typeof id !== "string" && typeof id !== "number") || String(id) === "" || seen.has(String(id))) continue;
     seen.add(String(id));
-    const multiple = sources.length > 1 || item['is_synthesized'] === true;
-    const lead = text(item['lead_hu'] ?? item['summary']);
-    const limit = multiple ? 220 : 180;
+    const multiple = sources.length > 1;
     const news: StudioNews = {
       group_id: String(id), title_hu: text(item['title_hu'] ?? item['title']),
-      lead_hu: lead.length > limit ? `${lead.slice(0, limit)}…` : lead,
+      lead_hu: text(item['lead_hu'] ?? item['summary']),
       image: text(item['image']) || null, published_at: published, sources,
       source: sources[0]?.source, sources_count: sources.length, is_synthesized: item['is_synthesized'] === true,
     };
