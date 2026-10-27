@@ -97,23 +97,6 @@
     ]
   },
   {
-    "group_id": "group_6a8cf95c55",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Risipa banilor publici, văzută din interior. Doar 3 din 10 angajați la stat văd rezultate concrete ale investițiilor",
-        "link": "https://adevarul.ro/economie/risipa-banilor-publici-vazuta-din-interior-doar-2566011.html",
-        "image": "https://cdn.adh.reperio.news/image-a/a544e3e6-81c9-47c5-91a4-92facd51c5b6/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Bani cheltuiți cu rezultate sub așteptări sau fără efecte vizibile: aceasta este percepția multor angajați din sectorul public despre instituțiile în care lucrează. Consultanța cu valoare discutabilă, posturile fără utilitate clară și platformele informatice slab concepute se numără printre sursele de risipă indicate de aceștia.",
-        "category": "Gazdaság",
-        "is_b2b_only": false,
-        "published_at": 1792976426
-      }
-    ]
-  },
-  {
     "group_id": "group_fdcfd9d8b6",
     "category": "Általános",
     "articles_count": 8,
@@ -237,7 +220,7 @@
   {
     "group_id": "group_40a85852f3",
     "category": "Általános",
-    "articles_count": 11,
+    "articles_count": 10,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -278,16 +261,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1792991884
-      },
-      {
-        "source": "Transtelex",
-        "title": "Lula történelmi fordítással megnyerte a brazil elnökválasztást Flávio Bolsonaro ellen",
-        "link": "https://transtelex.ro/kulfold/2026/10/26/brazil-elnokvalasztas-flavio-bolsonaro-luiz-inacio-lula-da-silva",
-        "image": "https://assets.telex.hu/images/20261026/1792974092-temp-241aek1dctda0dcnmlm_cimlap-normal.jpg",
-        "summary": "A hivatalban lévő elnök az első fordulóban még szélsőjobboldali kihívója mögött végzett, de a vasárnapi második fordulóban már győzni tudott. Két órával meghosszabbították a szavazást, mert több városban nem volt elég buszjárat. Ezért Bolsonaro támogatói már előre megkérdőjelezték az eredményt.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1792976284
       },
       {
         "source": "G4Media",
@@ -17877,6 +17850,23 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793057425
+      }
+    ]
+  },
+  {
+    "group_id": "group_4e3b85be59",
+    "category": "Kultúra",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "„Prefer să citesc ceva greșit, decât perfect, dar scris cu AI”. Controversa care împarte lumea cărților",
+        "link": "https://adevarul.ro/ghid-de-cumparaturi/carti/prefer-sa-citesc-ceva-gresit-decat-perfect-dar-2566455.html",
+        "image": "https://cdn.adh.reperio.news/image-f/ff28bfc9-379d-474f-aedf-7caf627a248b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+        "summary": "Inteligența artificială stârnește controverse în lumea cărților, unde tot mai mulți autori și edituri recurg la această tehnologie. Creatoarea de conținut Sînziana Mocanu critică practica și susține că nicio carte scrisă cu AI nu poate fi autentică: „Prefer să citesc ceva greșit”.",
+        "category": "Kultúra",
+        "is_b2b_only": false,
+        "published_at": 1793062825
       }
     ]
   }
