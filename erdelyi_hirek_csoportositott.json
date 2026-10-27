@@ -15,16 +15,6 @@
         "published_at": 1793023407
       },
       {
-        "source": "Maszol",
-        "title": "Csütörtökön szabadulhat az előzetesből Călin Georgescu",
-        "link": "https://maszol.ro/belfold/Csutortokon-szabadulhat-az-elozetesbol-Calin-Georgescu",
-        "image": "https://maszol.ro/resized/2026_oktober/26/cikk_calin_georgescu_260922_agerpres_(2).jpg",
-        "summary": "Elutasította hétfőn a bukaresti törvényszék a szervezett bűnözés és terrorizmus elleni ügyészség (DIICOT) indítványát Călin Georgescu előzetes letartóztatásának 30 napos meghosszabbítására. A döntés még nem jogerős.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793019420
-      },
-      {
         "source": "ProTV Stiri",
         "title": "Pe ce a mizat DIICOT la cererea de prelungire a arestării preventive pentru Călin Georgescu. Procurorii au pierdut la tribunal",
         "link": "https://stirileprotv.ro/justitie/pe-ce-a-mizat-diicot-la-cererea-de-prelungire-a-arestarii-preventive-pentru-calin-georgescu-procurorii-au-pierdut-la-tribunal.html",
@@ -43,6 +33,16 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793094388
+      },
+      {
+        "source": "G4Media",
+        "title": "Cum motivează Tribunalul București de ce nu i-a prelungit arestul lui Călin Georgescu: Pericolul pentru ordinea publică s-a diminuat / Există probe care susțin suspiciunea rezonabilă că Georgescu a comis infracțiunile de care e acuzat",
+        "link": "https://www.g4media.ro/cum-motiveaza-tribunalul-bucuresti-ca-nu-i-a-prelungit-arestul-lui-calin-georgescu-pericolul-pentru-ordinea-publica-s-a-diminuat-exista-probe-care-sustin-suspiciunea-rezonabila-ca-georgescu-a-comis.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2026/10/INSTANT_CAB_CG_003_INQUAM_Photos_Octav_Ganea-scaled.jpg",
+        "summary": "Judecătorul de la Tribunalul București care a respins solicitarea DIICOT de prelungire a arestului preventiv pentru Călin Georgescu, acuzat de înșelăciune, a considerat că acesta nu mai reprezintă un pericol pentru ordinea publică. Și că există suficiente probe pentru suspiciunea rezonabilă că inculpatul a comis infracțiunile de care este acuzat, respectiv constituirea unui grup infracțional […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793105653
       }
     ]
   },
@@ -414,50 +414,6 @@
     ]
   },
   {
-    "group_id": "group_0f26e048ee",
-    "category": "Sport",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ioan Varga acuză o conspirație: „Bătaie de joc! Au intenția să ne distrugă”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/ioan-varga-reactie-cfr-cluj-declaratii-marius-sumudica-992458.html",
-        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/13092025/19e18979-0bbe-4f25-8305-4a84970b46d0.png?width=290&height=208",
-        "summary": "Ioan Varga, patronul celor de la CFR Cluj, a reacționat dur după remiza cu Dinamo, scor 2-2, din etapa a 13-a a Superligii. Finanțatorul ardelenilor s-a alăturat protestelor antrenorului Marius Șumudică, nemulțumit de programul încărcat al echipei în perioada următoare. Varga consideră că formația sa este dezavantajată de calendarul competițional și acuză lipsa de respect față de performanțele clubului. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793019169
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ioan Varga critică programarea meciurilor CFR-ului: „Bătaie de joc, au intenția să ne distrugă”",
-        "link": "https://hotnews.ro/ioan-varga-critica-programarea-meciurilor-cfr-ului-bataie-de-joc-au-intentia-sa-ne-distruga-2387300",
-        "image": "",
-        "summary": "Ioan Varga, finanțatorul lui CFR Cluj, a criticat dur programarea echipei, care trebuie să dispute trei meciuri oficiale în doar șase zile. Nemulțumirile au apărut după remiza cu Dinamo București, scor 2-2, de pe 25 octombrie. În perioada următoare, CFR Cluj va întâlni Universitatea Cluj în Cupa României (28 octombrie, apoi va juca în SuperLiga …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793047951
-      }
-    ]
-  },
-  {
-    "group_id": "group_c38b8ce541",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "A murit Costel Ploaie, unul dintre cei mai îndrăgiți cântăreți din Vaslui. Avea doar 47 de ani",
-        "link": "https://www.cancan.ro/a-murit-costel-ploaie-unul-dintre-cei-mai-indragiti-cantareti-din-vaslui-avea-doar-47-de-ani-21536733",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/costel-ploaie-1200x675.jpeg",
-        "summary": "Costel Ploaie, unul dintre cei mai îndrăgiți artiști din Vaslui, s-a stins din viață. Acesta a murit la vârsta de doar 47 de ani, cu doar câteva zile înainte de ziua sa de naștere. Cântărețului i s-a făcut rău, a ajuns la spital, dar medicii nu au mai putut face nimic pentru a-l salva. Costel […]",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793019066
-      }
-    ]
-  },
-  {
     "group_id": "group_1030048290",
     "category": "Általános",
     "articles_count": 5,
@@ -511,258 +467,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793028406
-      }
-    ]
-  },
-  {
-    "group_id": "group_8fc14f9f88",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "Ce este „vulnoapocalipsa”: Poate inteligența artificială să descopere breșe de securitate mai repede decât reușim să le reparăm?",
-        "link": "https://www.g4media.ro/ce-este-vulnoapocalipsa-poate-inteligenta-artificiala-sa-descopere-brese-de-securitate-mai-repede-decat-reusim-sa-le-reparam.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2026/07/dreamstime_xl_354316818-scaled-e1782989271104.jpg",
-        "summary": "Ce este „vulnoapocalipsa”: Termenul este tot mai des folosit în dezbaterile legate de riscurile generate de utilizarea AI în domenii critice. Inteligența artificială poate găsi vulnerabilități în programele informatice într-un ritm care pune sub presiune companiile și echipele responsabile de securitate. Perspectiva ca aceleași instrumente să ajute atacatorii să transforme rapid aceste descoperiri în atacuri […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793019410
-      }
-    ]
-  },
-  {
-    "group_id": "group_710b3ff871",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "Italia riscă o criză de canabis medicinal după falimentul principalului furnizor olandez / Ar putea afecta pacienții care folosesc planta pentru ameliorarea durerilor cronice și a simptomelor unor boli grave",
-        "link": "https://www.g4media.ro/italia-risca-o-criza-de-canabis-medicinal-dupa-falimentul-principalului-furnizor-olandez-ar-putea-afecta-pacientii-care-folosesc-planta-pentru-ameliorarea-durerilor-cronice-si-a-simptomelor-unor-bol.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2023/09/WhatsApp-Image-2023-09-26-at-09.52.42-e1695711457550.jpeg",
-        "summary": "Italia se confruntă cu riscul unei noi crize de aprovizionare cu canabis medicinal, după falimentul companiei olandeze Bedrocan, unul dintre principalii furnizori ai pieței europene. Situația ar putea afecta pacienții care folosesc tratamente pe bază de canabis pentru ameliorarea durerilor cronice și a simptomelor unor boli grave, scrie Mediafax. Cele două societăți olandeze ale grupului […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793019237
-      }
-    ]
-  },
-  {
-    "group_id": "group_93f1aece8a",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "BREAKING Ministrul Alexandru Nazare, replică indirectă pentru Sorin Grindeanu, care a acuzat o presupusă creștere a deficitului bugetar sub guvernarea lui Ilie Bolojan: ”Deficitul bugetar scade cu 1,5 puncte procentuale din PIB / Datele la zi continuă să confirme efectele măsurilor de consolidare fiscală”",
-        "link": "https://www.g4media.ro/breaking-ministrul-alexandru-nazare-replica-indirecta-pentru-sorin-grindeanu-care-a-acuzat-o-presupusa-crestere-a-deficitului-bugetar-sub-guvernarea-lui-ilie-bolojan-deficitul-bugetar.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2024/11/bani-lei-bancnote-cash-numerar-Sursa-foto-Inquam-Photos-Octav-Ganea-6.jpg",
-        "summary": "Ministrul Finanțelor Alexandru Nazare i-a dat luni o replică indirectă lui Sorin Grindeanu după ce președintele PSD a acuzat constant în ultima săptămână o presupusă creștere a deficitului bugetar sub guvernarea lui Ilie Bolojan. Nazare, care a fost ministru al Finanțelor atât în guvernul Bolojan, cât și în guvernul PSD-Nicușor Dan condus de Luca Niculescu, […] © G4Media.ro.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793019023
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cristian Socol critică modul în care a fost redus deficitul bugetar: „Raționalizarea reală a cheltuielilor statului? Zero”. Cine a suportat povara",
-        "link": "https://www.mediafax.ro/economic/cristian-socol-critica-modul-in-care-a-fost-redus-deficitul-bugetar-rationalizarea-reala-a-cheltuielilor-statului-zero-cine-a-suportat-povara-23832016",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/6907058-mediafax_foto-octav_ganea-3-1024x683.jpg",
-        "summary": "Economistul Cristian Socol critică modul în care a fost redus deficitul bugetar al României, afirmând că ajustarea s-a făcut în principal prin creșteri de taxe și reduceri de cheltuieli suportate de populație, fără reforme reale în funcționarea statului.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793035388
-      },
-      {
-        "source": "Mediafax",
-        "title": "Unde s-a greșit în consolidarea fiscal-bugetară din România?",
-        "link": "https://www.mediafax.ro/economic/unde-s-a-gresit-in-consolidarea-fiscal-bugetara-din-romania-23832388",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/17-3-cristian-socol-6907058-mediafax-foto-octav-ganea-1024x576.webp",
-        "summary": "România trebuie să își reducă deficitul bugetar. Nu există alternativă. Dar reducerea deficitului nu presupune slăbirea puternică a economiei și sărăcirea populației. Cristian Socol explică cele șapte greșeli care au afectat consolidarea bugetară.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793098705
-      }
-    ]
-  },
-  {
-    "group_id": "group_2f62f628af",
-    "category": "Általános",
-    "articles_count": 6,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Au plătit 7 milioane de euro pentru nave care nu pot circula pe Dunăre când apa scade. Patru funcționari, trimiși în judecată",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/au-platit-7-milioane-de-euro-pentru-nave-care-nu-2566609.html",
-        "image": "https://cdn.adh.reperio.news/image-f/ffb89502-2c28-4a88-a4f6-9d09ebbc8a3f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Patru funcționari ai Administrației Fluviale a Dunării de Jos (AFDJ) Galați au fost trimiși în judecată de Parchetul European condus de Laura Codruța Kovesi într-un dosar privind cumpărarea a două nave cu fonduri europene.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793019212
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "România a cumpărat remorchere inutile când apa scade pe Dunăre. Patru funcționari, trimiși în judecată",
-        "link": "https://hotnews.ro/romania-a-cumparat-remorchere-inutile-cand-apa-scade-pe-dunare-patru-functionari-trimisi-in-judecata-2387011",
-        "image": "",
-        "summary": "Patru funcționari publici de la Administrația Fluvială a Dunării de Jos (AFDJ) Galați au fost trimiși în judecată de Parchetul European în legătură cu achiziția frauduloasă din bani europeni a două remorchere pentru Dunărea de Jos, devenite inutile atunci când nivelul apei scade, potrivit Agerpres. Parchetul European (EPPO) din Cluj-Napoca a trimis în judecată, la …",
-        "category": "Gazdaság",
-        "is_b2b_only": false,
-        "published_at": 1793023959
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Șefii Administrației Fluviale a Dunării de Jos Galați, trimiși în judecată, din cauza unui contract de 7 milioane de euro",
-        "link": "https://stirileprotv.ro/stiri/actualitate/proces-dupa-o-licitatie-cu-dedicatie-pentru-nave-maritime-desi-remorcherele-erau-pentru-dunare-contract-de-7-milioane-de-euro.html",
-        "image": "https://stirileprotv.ro/img/2026/10/26/144650/remorchere-dosar-dna.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-        "summary": "Parchetul European a trimis în judecată șefii Administrației Fluviale a Dunării de Jos Galați, care ar fi plătit șapte milioane de euro pe remorchere care nu pot naviga pe anumite porțiuni din Dunăre.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793028185
-      },
-      {
-        "source": "Digi24",
-        "title": "Șase persoane și o companie, trimise în judecată de EPPO pentru cumpărarea frauduloasă a două remorchere pentru Dunărea de Jos",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/sase-persoane-si-o-companie-trimise-in-judecata-de-eppo-pentru-cumpararea-frauduloasa-a-doua-remorchere-pentru-dunarea-de-jos-4010029",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYxMCUyRjE0JTJGMTYwMTc5OF8xNjAx/Nzk4X2VwcG8tc2lnbGEtcHJvZmltZWRp/YS0wNjE2MDc3OTE5LmpwZyZoYXNoPTli/NDk5OTQ1NmY3ZjJjZTc3MGRjYjMzZjdhOTNlYmM2.jpg",
-        "summary": "Parchetul European (EPPO) din Cluj-Napoca (România) a trimis în judecată, la Tribunalul Iaşi, patru funcţionari publici din cadrul Administraţiei Fluviale a Dunării de Jos (AFDJ Galaţi), o persoană fizică şi o societate comercială, în legătură cu achiziţia frauduloasă a două remorchere destinate Dunării de Jos. Acestea erau destinate navigaţiei fluviale, inclusiv în perioadele cu nivel scăzut al apei, însă de fapt pot fi utilizate în siguranţă doar atunci când nivelul apei este suficient de ridicat. Proiectul a beneficiat de o finanţare europeană de aproximativ 7 milioane de euro, prin Programul Operaţional Infrastructură Mare 2014–2020.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793048059
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Fraudă de 3,5 milioane de euro cu fonduri UE, descoperită de procurorii lui Kövesi. Trei persoane au fost trimise în judecată",
-        "link": "https://stirileprotv.ro/stiri/actualitate/frauda-de-3-5-milioane-de-euro-cu-fonduri-ue-descoperita-de-procurorii-lui-kovesi-trei-persoane-au-fost-trimise-in-judecata.html",
-        "image": "https://stirileprotv.ro/img/2016/04/05/210000/61792697.jpg?fm=jpg&q=80&fit=crop&crop=2584%2C1938%2C0%2C0&w=1280",
-        "summary": "Parchetul European din București a trimis în judecată trei persoane acuzate de fraudă cu fonduri nerambursabile ale Uniunii Europene destinate unui număr de 237 de proiecte pentru sprijinirea fermelor mici și a tinerilor fermieri.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793098220
-      },
-      {
-        "source": "Mediafax",
-        "title": "Parchetul European, dosar de 3,5 milioane de euro în România: documente false în sute de proiecte pentru fermieri",
-        "link": "https://www.mediafax.ro/justitie/parchetul-european-dosar-de-35-milioane-de-euro-in-romania-documente-false-in-sute-de-proiecte-pentru-fermieri-23832487",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8142026-mediafax_foto-remus_badea-1024x683.jpg",
-        "summary": "Trei persoane au fost trimise în judecată la Tribunalul București într-un dosar privind o presupusă fraudă cu fonduri europene destinate fermelor mici și instalării tinerilor fermieri.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793103831
-      }
-    ]
-  },
-  {
-    "group_id": "group_38e69ba0aa",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Marele câștigător la Loto 6/49 și-a ridicat premiul de peste 3,32 milioane de euro. Joacă de mai bine de 20 de ani",
-        "link": "https://www.mediafax.ro/social/marele-castigator-la-loto-6-49-si-a-ridicat-premiul-de-peste-332-milioane-de-euro-joaca-de-mai-bine-de-20-de-ani-23831856",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/bilet-castigator-loto.png",
-        "summary": "Câștigătorul premiului de categoria I la Loto 6/49, în valoare de peste 17,76 milioane de lei, s-a prezentat luni, 26 octombrie, la sediul central al Loteriei Române pentru a-și ridica premiul.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793019015
-      },
-      {
-        "source": "Digi24",
-        "title": "Marele premiu la Loto 6/49 de peste 3,32 milioane € a fost câștigat de un prahovean: „Jucați în continuare, așa cum voi face și eu”",
-        "link": "https://www.digi24.ro/stiri/marele-premiu-la-loto-6-49-de-peste-332-milioane-e-a-fost-castigat-de-un-prahovean-jucati-in-continuare-asa-cum-voi-face-si-eu-4009261",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI2JTJGMzAzMTE4N18zMDMx/MTg3X2JpbGV0LWxvdG8uanBnJmhhc2g9/MTE2OTg0MTgwZTNhODdhOTFiNGIzODJiNWE5ODI1OWI=.jpg",
-        "summary": "Marele câștigător al premiului de categoria I la Loto 6/49, în valoare de peste 17,76 milioane de lei (peste 3,32 milioane de euro), s-a prezentat luni, 26 octombrie, la sediul central al Loteriei Române pentru a-și ridica premiul.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793023385
-      }
-    ]
-  },
-  {
-    "group_id": "group_ce8e8f2225",
-    "category": "Általános",
-    "articles_count": 8,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea se răcește accentuat la început de noiembrie. Meteorologii ANM anunță ploi, temperaturi negative și ninsori în România",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-se-raceste-accentuat-la-inceput-de-noiembrie-meteorologii-anm-anunta-ploi-lapovita-si-ninsori-in-romania.html",
-        "image": "https://stirileprotv.ro/img/2025/10/05/210000/62580543.jpg?fm=jpg&q=80&fit=crop&crop=5472%2C3648%2C0%2C0&w=1280",
-        "summary": "Următoarele două săptămâni (26 octombrie – 8 noiembrie) vor fi caracterizate de un regim termic normal pentru această perioadă, potrivit prognozei publicate luni de Administrația Națională de Meteorologie (ANM).",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793019294
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Prognoza meteo azi, 27 octombrie 2026. Ploi puternice și frig în mai multe regiuni ale României",
-        "link": "https://www.cancan.ro/prognoza-meteo-azi-27-octombrie-2026-vreme-de-cosmar-pentru-cei-care-ies-din-casa-ploi-puternice-si-frig-in-mai-multe-regiuni-ale-romaniei-21536662",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/vreme-rece.jpg-4-1200x675.jpeg",
-        "summary": "Vremea se răcește în mai multe regiuni ale României, iar ziua de marți, 27 octombrie 2026, aduce ploi extinse, cer predominant noros și temperaturi care vor coborî până la numai 7 grade Celsius în estul Transilvaniei. Potrivit prognozei meteorologice pentru intervalul 27 octombrie, ora 08:00 – 28 octombrie, ora 08:00, cele mai importante cantități de […]",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793071841
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Lehűlés, eső és havazás várható Romániában",
-        "link": "https://www.mediatica.ro/hirek/aktualis/lehules-eso-es-havazas-varhato-romaniaban",
-        "image": "",
-        "summary": "Szerda délig érvényes a meteorológiai figyelmeztetés.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793075029
-      },
-      {
-        "source": "Mediafax",
-        "title": "România, în pragul unei perioade mai reci. Ce se întâmplă cu temperaturile în noiembrie",
-        "link": "https://www.mediafax.ro/meteo/romania-in-pragul-unei-perioade-mai-reci-ce-se-intampla-cu-temperaturile-in-noiembrie-23832176",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8074881-mediafax_foto-alexandra_pandrea_gmn-1024x683.jpg",
-        "summary": "Vremea se va răci în România la începutul lunii noiembrie, iar temperaturile vor coborî sub valorile obișnuite pentru această perioadă în toate regiunile țării.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793080109
-      },
-      {
-        "source": "G4Media",
-        "title": "METEO | Se răcește vremea în toată țara, sub valorile obișnuite / Ce arată prognoza pentru luna noiembrie",
-        "link": "https://www.g4media.ro/meteo-se-raceste-vremea-in-toata-tara-sub-valorile-obisnuite-ce-arata-prognoza-pentru-luna-noiembrie.html",
-        "image": "https://www.g4media.ro//wp-content/uploads/2022/12/frig-europa-ninsoare-cold-e1670651856228.jpg",
-        "summary": "Vremea se va răci în România la începutul lunii noiembrie, iar temperaturile vor coborî sub valorile obișnuite pentru această perioadă în toate regiunile țării, transmite Mediafax. Administrația Națională de Meteorologie (ANM) a publicat estimările pentru intervalul 26 octombrie – 23 noiembrie, care indică și perioade cu precipitații peste normal. Cum va fi vremea până pe […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793081100
-      },
-      {
-        "source": "Maszol",
-        "title": "Lehűlés várható az egész országban – Így alakul a novemberi időjárás",
-        "link": "https://maszol.ro/belfold/Lehules-varhato-az-egesz-orszagban-Igy-alakul-a-novemberi-idojaras",
-        "image": "https://maszol.ro/resized/2026_oktober/27/cikk_hideg_Pexels.jpg",
-        "summary": "November elején lehűlés érkezik Romániába, minden régióban az ebben az időszakban megszokott értékek alá süllyed a hőmérséklet.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793088464
-      },
-      {
-        "source": "Mediafax",
-        "title": "ANM anunță răcire, ploi și temperaturi sub zero grade la început de noiembrie. Cum este vremea în următoarele două săptămâni",
-        "link": "https://www.mediafax.ro/meteo/anm-anunta-racire-ploi-si-temperaturi-sub-zero-grade-la-inceput-de-noiembrie-cum-este-vremea-in-urmatoarele-doua-saptamani-23832288",
-        "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/7446639-hepta_mediafax_foto-anadolu_agency_hepta-1024x676.jpg",
-        "summary": "ANM anunță că vremea se va răci treptat în următoarele două săptămâni, cu ploi în mai multe regiuni și temperaturi sub zero grade noaptea, mai ales la munte și în Transilvania.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793091272
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Iarna a venit în forță în România. Unde s-au înregistrat -5 grade și un strat de zăpadă de peste 30 cm",
-        "link": "https://www.cancan.ro/iarna-a-venit-in-forta-in-romania-unde-s-au-inregistrat-5-grade-si-un-strat-de-zapada-de-peste-30-cm-21537278",
-        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/pexels-simon73-29713231-scaled-1-1200x800.jpg",
-        "summary": "Primele ninsori au adus un peisaj de iarnă în zonele montane înalte din România. În timp ce în regiunile joase predomină ploile, la altitudine zăpada s-a așternut deja în straturi consistente, iar temperaturile au coborât sub pragul înghețului. Iarna începe să se instaleze la munte, unde ninsorile din ultimele zile au schimbat complet aspectul crestelor. […]",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793103256
       }
     ]
   },
@@ -1435,6 +1139,23 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793020454
+      }
+    ]
+  },
+  {
+    "group_id": "group_38e69ba0aa",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Marele premiu la Loto 6/49 de peste 3,32 milioane € a fost câștigat de un prahovean: „Jucați în continuare, așa cum voi face și eu”",
+        "link": "https://www.digi24.ro/stiri/marele-premiu-la-loto-6-49-de-peste-332-milioane-e-a-fost-castigat-de-un-prahovean-jucati-in-continuare-asa-cum-voi-face-si-eu-4009261",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI2JTJGMzAzMTE4N18zMDMx/MTg3X2JpbGV0LWxvdG8uanBnJmhhc2g9/MTE2OTg0MTgwZTNhODdhOTFiNGIzODJiNWE5ODI1OWI=.jpg",
+        "summary": "Marele câștigător al premiului de categoria I la Loto 6/49, în valoare de peste 17,76 milioane de lei (peste 3,32 milioane de euro), s-a prezentat luni, 26 octombrie, la sediul central al Loteriei Române pentru a-și ridica premiul.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793023385
       }
     ]
   },
@@ -2807,6 +2528,63 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793024016
+      }
+    ]
+  },
+  {
+    "group_id": "group_2f62f628af",
+    "category": "Gazdaság",
+    "articles_count": 5,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "România a cumpărat remorchere inutile când apa scade pe Dunăre. Patru funcționari, trimiși în judecată",
+        "link": "https://hotnews.ro/romania-a-cumparat-remorchere-inutile-cand-apa-scade-pe-dunare-patru-functionari-trimisi-in-judecata-2387011",
+        "image": "",
+        "summary": "Patru funcționari publici de la Administrația Fluvială a Dunării de Jos (AFDJ) Galați au fost trimiși în judecată de Parchetul European în legătură cu achiziția frauduloasă din bani europeni a două remorchere pentru Dunărea de Jos, devenite inutile atunci când nivelul apei scade, potrivit Agerpres. Parchetul European (EPPO) din Cluj-Napoca a trimis în judecată, la …",
+        "category": "Gazdaság",
+        "is_b2b_only": false,
+        "published_at": 1793023959
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Șefii Administrației Fluviale a Dunării de Jos Galați, trimiși în judecată, din cauza unui contract de 7 milioane de euro",
+        "link": "https://stirileprotv.ro/stiri/actualitate/proces-dupa-o-licitatie-cu-dedicatie-pentru-nave-maritime-desi-remorcherele-erau-pentru-dunare-contract-de-7-milioane-de-euro.html",
+        "image": "https://stirileprotv.ro/img/2026/10/26/144650/remorchere-dosar-dna.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
+        "summary": "Parchetul European a trimis în judecată șefii Administrației Fluviale a Dunării de Jos Galați, care ar fi plătit șapte milioane de euro pe remorchere care nu pot naviga pe anumite porțiuni din Dunăre.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793028185
+      },
+      {
+        "source": "Digi24",
+        "title": "Șase persoane și o companie, trimise în judecată de EPPO pentru cumpărarea frauduloasă a două remorchere pentru Dunărea de Jos",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/sase-persoane-si-o-companie-trimise-in-judecata-de-eppo-pentru-cumpararea-frauduloasa-a-doua-remorchere-pentru-dunarea-de-jos-4010029",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjIl/MkYxMCUyRjE0JTJGMTYwMTc5OF8xNjAx/Nzk4X2VwcG8tc2lnbGEtcHJvZmltZWRp/YS0wNjE2MDc3OTE5LmpwZyZoYXNoPTli/NDk5OTQ1NmY3ZjJjZTc3MGRjYjMzZjdhOTNlYmM2.jpg",
+        "summary": "Parchetul European (EPPO) din Cluj-Napoca (România) a trimis în judecată, la Tribunalul Iaşi, patru funcţionari publici din cadrul Administraţiei Fluviale a Dunării de Jos (AFDJ Galaţi), o persoană fizică şi o societate comercială, în legătură cu achiziţia frauduloasă a două remorchere destinate Dunării de Jos. Acestea erau destinate navigaţiei fluviale, inclusiv în perioadele cu nivel scăzut al apei, însă de fapt pot fi utilizate în siguranţă doar atunci când nivelul apei este suficient de ridicat. Proiectul a beneficiat de o finanţare europeană de aproximativ 7 milioane de euro, prin Programul Operaţional Infrastructură Mare 2014–2020.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793048059
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Fraudă de 3,5 milioane de euro cu fonduri UE, descoperită de procurorii lui Kövesi. Trei persoane au fost trimise în judecată",
+        "link": "https://stirileprotv.ro/stiri/actualitate/frauda-de-3-5-milioane-de-euro-cu-fonduri-ue-descoperita-de-procurorii-lui-kovesi-trei-persoane-au-fost-trimise-in-judecata.html",
+        "image": "https://stirileprotv.ro/img/2016/04/05/210000/61792697.jpg?fm=jpg&q=80&fit=crop&crop=2584%2C1938%2C0%2C0&w=1280",
+        "summary": "Parchetul European din București a trimis în judecată trei persoane acuzate de fraudă cu fonduri nerambursabile ale Uniunii Europene destinate unui număr de 237 de proiecte pentru sprijinirea fermelor mici și a tinerilor fermieri.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793098220
+      },
+      {
+        "source": "Mediafax",
+        "title": "Parchetul European, dosar de 3,5 milioane de euro în România: documente false în sute de proiecte pentru fermieri",
+        "link": "https://www.mediafax.ro/justitie/parchetul-european-dosar-de-35-milioane-de-euro-in-romania-documente-false-in-sute-de-proiecte-pentru-fermieri-23832487",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8142026-mediafax_foto-remus_badea-1024x683.jpg",
+        "summary": "Trei persoane au fost trimise în judecată la Tribunalul București într-un dosar privind o presupusă fraudă cu fonduri europene destinate fermelor mici și instalării tinerilor fermieri.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793103831
       }
     ]
   },
@@ -6359,6 +6137,33 @@
     ]
   },
   {
+    "group_id": "group_93f1aece8a",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Cristian Socol critică modul în care a fost redus deficitul bugetar: „Raționalizarea reală a cheltuielilor statului? Zero”. Cine a suportat povara",
+        "link": "https://www.mediafax.ro/economic/cristian-socol-critica-modul-in-care-a-fost-redus-deficitul-bugetar-rationalizarea-reala-a-cheltuielilor-statului-zero-cine-a-suportat-povara-23832016",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/6907058-mediafax_foto-octav_ganea-3-1024x683.jpg",
+        "summary": "Economistul Cristian Socol critică modul în care a fost redus deficitul bugetar al României, afirmând că ajustarea s-a făcut în principal prin creșteri de taxe și reduceri de cheltuieli suportate de populație, fără reforme reale în funcționarea statului.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793035388
+      },
+      {
+        "source": "Mediafax",
+        "title": "Unde s-a greșit în consolidarea fiscal-bugetară din România?",
+        "link": "https://www.mediafax.ro/economic/unde-s-a-gresit-in-consolidarea-fiscal-bugetara-din-romania-23832388",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/09/17-3-cristian-socol-6907058-mediafax-foto-octav-ganea-1024x576.webp",
+        "summary": "România trebuie să își reducă deficitul bugetar. Nu există alternativă. Dar reducerea deficitului nu presupune slăbirea puternică a economiei și sărăcirea populației. Cristian Socol explică cele șapte greșeli care au afectat consolidarea bugetară.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793098705
+      }
+    ]
+  },
+  {
     "group_id": "group_6cc3f742bd",
     "category": "Általános",
     "articles_count": 1,
@@ -9088,6 +8893,23 @@
     ]
   },
   {
+    "group_id": "group_0f26e048ee",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Ioan Varga critică programarea meciurilor CFR-ului: „Bătaie de joc, au intenția să ne distrugă”",
+        "link": "https://hotnews.ro/ioan-varga-critica-programarea-meciurilor-cfr-ului-bataie-de-joc-au-intentia-sa-ne-distruga-2387300",
+        "image": "",
+        "summary": "Ioan Varga, finanțatorul lui CFR Cluj, a criticat dur programarea echipei, care trebuie să dispute trei meciuri oficiale în doar șase zile. Nemulțumirile au apărut după remiza cu Dinamo București, scor 2-2, de pe 25 octombrie. În perioada următoare, CFR Cluj va întâlni Universitatea Cluj în Cupa României (28 octombrie, apoi va juca în SuperLiga …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793047951
+      }
+    ]
+  },
+  {
     "group_id": "group_1f8a7c2668",
     "category": "Általános",
     "articles_count": 6,
@@ -10226,6 +10048,83 @@
     ]
   },
   {
+    "group_id": "group_ce8e8f2225",
+    "category": "Bulvár",
+    "articles_count": 7,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoza meteo azi, 27 octombrie 2026. Ploi puternice și frig în mai multe regiuni ale României",
+        "link": "https://www.cancan.ro/prognoza-meteo-azi-27-octombrie-2026-vreme-de-cosmar-pentru-cei-care-ies-din-casa-ploi-puternice-si-frig-in-mai-multe-regiuni-ale-romaniei-21536662",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/vreme-rece.jpg-4-1200x675.jpeg",
+        "summary": "Vremea se răcește în mai multe regiuni ale României, iar ziua de marți, 27 octombrie 2026, aduce ploi extinse, cer predominant noros și temperaturi care vor coborî până la numai 7 grade Celsius în estul Transilvaniei. Potrivit prognozei meteorologice pentru intervalul 27 octombrie, ora 08:00 – 28 octombrie, ora 08:00, cele mai importante cantități de […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793071841
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Lehűlés, eső és havazás várható Romániában",
+        "link": "https://www.mediatica.ro/hirek/aktualis/lehules-eso-es-havazas-varhato-romaniaban",
+        "image": "",
+        "summary": "Szerda délig érvényes a meteorológiai figyelmeztetés.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793075029
+      },
+      {
+        "source": "Mediafax",
+        "title": "România, în pragul unei perioade mai reci. Ce se întâmplă cu temperaturile în noiembrie",
+        "link": "https://www.mediafax.ro/meteo/romania-in-pragul-unei-perioade-mai-reci-ce-se-intampla-cu-temperaturile-in-noiembrie-23832176",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8074881-mediafax_foto-alexandra_pandrea_gmn-1024x683.jpg",
+        "summary": "Vremea se va răci în România la începutul lunii noiembrie, iar temperaturile vor coborî sub valorile obișnuite pentru această perioadă în toate regiunile țării.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793080109
+      },
+      {
+        "source": "G4Media",
+        "title": "METEO | Se răcește vremea în toată țara, sub valorile obișnuite / Ce arată prognoza pentru luna noiembrie",
+        "link": "https://www.g4media.ro/meteo-se-raceste-vremea-in-toata-tara-sub-valorile-obisnuite-ce-arata-prognoza-pentru-luna-noiembrie.html",
+        "image": "https://www.g4media.ro//wp-content/uploads/2022/12/frig-europa-ninsoare-cold-e1670651856228.jpg",
+        "summary": "Vremea se va răci în România la începutul lunii noiembrie, iar temperaturile vor coborî sub valorile obișnuite pentru această perioadă în toate regiunile țării, transmite Mediafax. Administrația Națională de Meteorologie (ANM) a publicat estimările pentru intervalul 26 octombrie – 23 noiembrie, care indică și perioade cu precipitații peste normal. Cum va fi vremea până pe […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793081100
+      },
+      {
+        "source": "Maszol",
+        "title": "Lehűlés várható az egész országban – Így alakul a novemberi időjárás",
+        "link": "https://maszol.ro/belfold/Lehules-varhato-az-egesz-orszagban-Igy-alakul-a-novemberi-idojaras",
+        "image": "https://maszol.ro/resized/2026_oktober/27/cikk_hideg_Pexels.jpg",
+        "summary": "November elején lehűlés érkezik Romániába, minden régióban az ebben az időszakban megszokott értékek alá süllyed a hőmérséklet.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793088464
+      },
+      {
+        "source": "Mediafax",
+        "title": "ANM anunță răcire, ploi și temperaturi sub zero grade la început de noiembrie. Cum este vremea în următoarele două săptămâni",
+        "link": "https://www.mediafax.ro/meteo/anm-anunta-racire-ploi-si-temperaturi-sub-zero-grade-la-inceput-de-noiembrie-cum-este-vremea-in-urmatoarele-doua-saptamani-23832288",
+        "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/7446639-hepta_mediafax_foto-anadolu_agency_hepta-1024x676.jpg",
+        "summary": "ANM anunță că vremea se va răci treptat în următoarele două săptămâni, cu ploi în mai multe regiuni și temperaturi sub zero grade noaptea, mai ales la munte și în Transilvania.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793091272
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Iarna a venit în forță în România. Unde s-au înregistrat -5 grade și un strat de zăpadă de peste 30 cm",
+        "link": "https://www.cancan.ro/iarna-a-venit-in-forta-in-romania-unde-s-au-inregistrat-5-grade-si-un-strat-de-zapada-de-peste-30-cm-21537278",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/pexels-simon73-29713231-scaled-1-1200x800.jpg",
+        "summary": "Primele ninsori au adus un peisaj de iarnă în zonele montane înalte din România. În timp ce în regiunile joase predomină ploile, la altitudine zăpada s-a așternut deja în straturi consistente, iar temperaturile au coborât sub pragul înghețului. Iarna începe să se instaleze la munte, unde ninsorile din ultimele zile au schimbat complet aspectul crestelor. […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793103256
+      }
+    ]
+  },
+  {
     "group_id": "group_d6420fe2d6",
     "category": "Általános",
     "articles_count": 1,
@@ -10933,7 +10832,7 @@
   {
     "group_id": "group_11f0be45aa",
     "category": "Erdély",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Vásárhely.ma",
@@ -10954,6 +10853,16 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793105355
+      },
+      {
+        "source": "Maszol",
+        "title": "Ők az Év Erdélyi Magyar Szerzője díj 2026-os jelöltjei",
+        "link": "https://maszol.ro/kultura/Ok-az-Ev-Erdelyi-Magyar-Szerzoje-dij-2026-os-jeloltjei",
+        "image": "https://maszol.ro/resized/2026_oktober/27/cikk_ZcO95vLedg7TaKjfZ7O5mjbVC9zSyBNWZd1gchYn.jpg",
+        "summary": "A 34 esélyes szerző közül kiválasztotta a zsűri azt a 12 jelöltet, akik közül kikerül az Év Erdélyi Magyar Szerzője-díj idei nyertese. Az elismerést november 14-én, a 32. Marosvásárhelyi Nemzetközi Könyvvásáron adják át.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793105414
       }
     ]
   },
@@ -13601,7 +13510,7 @@
   {
     "group_id": "group_4c3147f192",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -13612,6 +13521,16 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793089107
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "„Radarul Balastierelor”, blocat de birocrație. Aplicația anti-exploatări ilegale este gata, dar nu poate fi folosită",
+        "link": "https://www.ebihoreanul.ro/stiri/radarul-balastierelor-blocat-de-birocratie-aplicatia-anti-exploatari-ilegale-este-gata-dar-nu-poate-fi-folosita-206146.html",
+        "image": "",
+        "summary": "Aplicația „Radarul Balastierelor”, care ar trebui să permită autorităților să monitorizeze exploatările de nisip și pietriș, precum și transporturile de materiale extrase, a ajuns în etapa de recepție finală, dar nu poate fi folosită. Ministerul Mediului anunță că sistemul nu poate deveni operațional până când Guvernul nu adoptă legislația necesară și nu sunt îndeplinite mai multe condiții tehnice și administrative.",
+        "category": "Erdély",
+        "is_b2b_only": false,
+        "published_at": 1793105640
       }
     ]
   },
@@ -13635,7 +13554,7 @@
   {
     "group_id": "group_da9ba41b59",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "G4Media",
@@ -13696,6 +13615,16 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793096568
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Condamnare în cazul Anastasiei, fetița de 4 ani ucisă într-un accident. Șoferița primește 5 ani și jumătate de închisoare",
+        "link": "https://www.cancan.ro/condamnare-in-cazul-anastasiei-fetita-de-4-ani-ucisa-intr-un-accident-soferita-primeste-5-ani-si-jumatate-de-inchisoare-21537290",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/cazul-anastasiei.jpg-1200x675.jpeg",
+        "summary": "Șoferița care a ucis-o într-un accident pe Anastasia, o fetiță de doar patru ani, a fost condamnată. La patru ani distanță, avocatul Adrian Cuculis a anunțat că a primit cinci ani și jumătate de închisoare cu executare. Femeia nu deținea la acel moment permis de conducere. La 1 iunie 2022, Anastasia, o fetiță de doar […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793105425
       }
     ]
   },
@@ -14902,7 +14831,7 @@
   {
     "group_id": "group_d1191912d6",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -14913,6 +14842,16 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793092761
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Sarcofag intact din epoca romană descoperit în orașul Constanța. Ce au scos arheologii din mormântul unui copil | VIDEO",
+        "link": "https://stirileprotv.ro/stiri/stiinta/sarcofag-intact-din-epoca-romana-descoperit-in-orasul-constanta-ce-au-scos-arheologii-din-mormantul-unui-copil-video.html",
+        "image": "https://stirileprotv.ro/img/2026/10/27/124836/whatsapp-image-2026-10-27-at-12-32-43-2.webp?fm=jpg&q=80&fit=crop&crop=540%2C303%2C0%2C0&w=1280",
+        "summary": "Reprezentanţii Muzeului de Istorie Naţională şi Arheologie Constanţa au descoperit, marţi, în municipiul Constanţa, un sarcofag intact din epoca romană.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793105578
       }
     ]
   },
@@ -16791,7 +16730,7 @@
   {
     "group_id": "group_cffe9e636a",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Mediafax",
@@ -16822,6 +16761,16 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1793104680
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cine este „Cel mai sexy bărbat în viaţă” al anului 2026. Actorul Noah Wyle a câștigat titlul. GALERIE FOTO",
+        "link": "https://stirileprotv.ro/show-buzz/entertainment/cine-este-cel-mai-sexy-barbat-in-via-a-al-anului-2026-actorul-noah-wyle-a-castigat-titlul-galerie-foto.html",
+        "image": "https://stirileprotv.ro/img/2026/10/27/123515/noah-wyle-5.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C666%2C0%2C0&w=1280",
+        "summary": "Actorul Noah Wyle a fost desemnat „Cel mai sexy bărbat în viaţă” de revista People.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793105313
       }
     ]
   },
@@ -17035,7 +16984,7 @@
   {
     "group_id": "group_e16b782346",
     "category": "Sport",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -17046,6 +16995,16 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793099058
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Manchester United, gata să plătească peste 3 milioane de euro pentru noul antrenor după demiterea lui Carrick",
+        "link": "https://www.gsp.ro/international/campionate/manchester-united-gata-sa-plateasca-peste-3-milioane-de-euro-pentru-noul-antrenor-dupa-demiterea-lui-carrick-992851.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/27102026/3ca11917-dd74-4066-b34a-920b02a3eb5e.png?width=290&height=208",
+        "summary": "Scaunul lui Michael Carrick (45 de ani) la Manchester United se clatină tot mai tare. Eșecul umilitor de pe teren propriu, 0-3 cu Bournemouth, a prelungit seria neagră la opt meciuri consecutive fără victorie, iar conducerea de pe Old Trafford pregătește terenul pentru un nou tehnician. Favoritul conducerii ar fi fostul antrenor al celor de la Newcastle, Eddie Howe (48 de ani), conform The Guardian. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793105300
       }
     ]
   },
@@ -18481,7 +18440,7 @@
   {
     "group_id": "group_e9ac480cef",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -18512,6 +18471,16 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793105154
+      },
+      {
+        "source": "Digi24",
+        "title": "VIDEO Au fost demolate etajele superioare ale blocului din Rahova afectat de explozie",
+        "link": "https://www.digi24.ro/stiri/actualitate/video-au-fost-demolate-etajele-superioare-ale-blocului-din-rahova-afectat-de-explozie-4010787",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI3JTJGMzAzMzMxN18zMDMz/MzE3X2RlbW9sYXJlLXJhaG92YS5qcGcm/aGFzaD03MjUwYzQ3YTU3ZGRlZmQ3MWRiN2EzMDNjYTYxODEzYQ==.jpg",
+        "summary": "La un an de la explozia catastrofală din cartierul bucureștean Rahova, au fost demolate etajele superioare ale blocului afectat de deflagrație. Acestea urmează să fie refăcute de la zero, o operațiune în premieră în România.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793105550
       }
     ]
   },
@@ -18896,6 +18865,108 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793105022
+      }
+    ]
+  },
+  {
+    "group_id": "group_c271b98b28",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Kolozsvári Rádió (HU)",
+        "title": "Az alapvető szükségletekre is alig futja, nemhogy kultúrára és utazásra",
+        "link": "https://www.kolozsvariradio.ro/2026/10/27/az-alapveto-szuksegletekre-is-alig-futja-nemhogy-kulturara-es-utazasra/",
+        "image": "https://www.kolozsvariradio.ro/wp-content/uploads/2026/10/chris-lawton-LarvHiXifpA-unsplash-300x200.jpg",
+        "summary": "Romániában nemcsak a kikapcsolódás, hanem sokak számára az alapvető szükségletek biztosítása is komoly anyagi nehézséget jelent – derül ki az Eurostat friss felméréséből. A lakosság csaknem negyede nem engedheti meg magának a rendszeres szabadidős programokat, míg több mint 60 százalékának egy egyhetes nyaralás is elérhetetlen. Az ország az élelmiszerhez való hozzáférés és az otthoni internet […] Articolul Az alapvető szükségletekre is alig futja, nemhogy kultúrára és utazásra apare prima dată în Kolozsvári Rádió Románia.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793105448
+      }
+    ]
+  },
+  {
+    "group_id": "group_8c9660c7b8",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Replică pentru Lamine? » Mesajul lui Kane care a strâns peste 13 milioane de vizualizări!",
+        "link": "https://www.gsp.ro/international/campionate/postare-kane-viral-lamine-yamal-balonul-de-aur-992840.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/27102026/1d8f9eeb-6fd2-4ec6-bc11-eac933c24cc6.jpg?width=290&height=208",
+        "summary": "Harry Kane (33 de ani) și-a adjudecat Balonul de Aur 2026, în duelul cu Kylian Mbappe și Lamine Yamal. După gala de la „London Paladium”, ceremonia în cadrul căreia a primit trofeul, Harry Kane a ieșit pe rețelele de socializare cu o postare ce s-a viralizat aproape instant. Harry Kane: „Muncește din greu în tăcere. Lasă succesul să vorbească de la sine” „Muncește din greu în tăcere. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793105686
+      }
+    ]
+  },
+  {
+    "group_id": "group_06498f6987",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ce traiectorie! Fostul antrenor de la Viitorul Constanța, premiat la Gala Balonului de Aur: a devenit cel mai bun din lume!",
+        "link": "https://www.gsp.ro/fotbal/liga-1/fostul-antrenor-de-la-viitorul-constanta-premiat-la-gala-balonului-de-aur-992842.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/27102026/f834d034-c2f0-4ba0-b1e0-24a5ef0c4d40.jpg?width=290&height=208",
+        "summary": "Antrenor secund la Viitorul Constanța în urmă cu șase ani, spaniolul Pere Romeu, 32 de ani, a fost desemnat cel mai bun antrenor din fotbalul femnin, la Gala Balonului de Aur de luni seara. Actualul antrenor al Barcelonei a fost „secundul” lui Ruben de la Barrera în 2020, în plină pandemie de coronavirus. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793105580
+      }
+    ]
+  },
+  {
+    "group_id": "group_522338378b",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "„Am timp, lăsați-mă în pace!”. Bianca Iotu explică de ce nu își dorește copii la 36 de ani",
+        "link": "https://www.cancan.ro/am-timp-lasati-ma-in-pace-bianca-iotu-explica-de-ce-nu-isi-doreste-copii-la-36-de-ani-21537304",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/bianca-iotu-1.jpg",
+        "summary": "Bianca Iotu a vorbit deschis despre unul dintre subiectele care îi sunt aduse frecvent în discuție de cei din jur. Concurenta de la Insula Iubirii a explicat de ce nu își dorește copii în această perioadă și cum privește ea acest capitol al vieții. La 36 de ani, Bianca Iotu spune că nu se vede […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793105501
+      }
+    ]
+  },
+  {
+    "group_id": "group_ed8dd2bc37",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "(P) Controlul de rutină îți aduce liniște",
+        "link": "https://www.cancan.ro/p-controlul-de-rutina-iti-aduce-liniste-21537305",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-2.43.26-PM.jpeg",
+        "summary": "În casa ta exista o regulă nescrisă: la doctor se merge doar când doare. Nimeni nu o rostise vreodată, dar toți o respectau. Când ceva te îngrijora, așteptai să treacă, iar când trecea, uitai de programare. Abia mult mai târziu ai înțeles că regula asta te costase timp și liniște. Un control făcut când te […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793105306
+      }
+    ]
+  },
+  {
+    "group_id": "group_5732310bc0",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un producător auto chinez își deschide prima fabrică din Europa, în Bulgaria. Ce model SUV va fi produs din 2027. FOTO",
+        "link": "https://stirileprotv.ro/stiri/international/un-producator-auto-chinez-isi-deschide-prima-fabrica-din-europa-in-bulgaria-ce-model-suv-va-fi-produs-din-2027-foto.html",
+        "image": "https://stirileprotv.ro/img/2026/10/27/124534/screenshot-2026-10-27-144215.png?fm=jpg&q=80&fit=crop&crop=1020%2C675%2C0%2C0&w=1280",
+        "summary": "Constructorul auto chinez Great Wall Motor va începe producția SUV-ului compact Ora 5 în Bulgaria, la începutul anului 2027, în baza unui acord cu un partener local. Aceasta va fi prima unitate de producție a companiei în Europa, potrivit Reuters.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793105205
       }
     ]
   }
