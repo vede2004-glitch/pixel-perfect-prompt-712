@@ -1,5 +1,49 @@
 [
   {
+    "group_id": "group_16f4ad75fc",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Egy kutya miatt borult folyómederbe az autó, utasterében két kisgyerekkel",
+        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/egy-kutya-miatt-borult-folyomederbe-az-auto-utastereben-ket-kisgyerekkel"
+      }
+    ],
+    "published_at": 1793078691,
+    "title_hu": "Egy kutya miatt borult folyómederbe az autó, utasterében két kisgyerekkel",
+    "lead_hu": "A baleset Felsőbozsényban történt, miután a sofőr megpróbálta kikerülni az úttesten kószáló ebet.....",
+    "content_hu": "A baleset Felsőbozsényban történt, miután a sofőr megpróbálta kikerülni az úttesten kószáló ebet..",
+    "title_ro": "Egy kutya miatt borult folyómederbe az autó, utasterében két kisgyerekkel",
+    "lead_ro": "A baleset Felsőbozsényban történt, miután a sofőr megpróbálta kikerülni az úttesten kószáló ebet.....",
+    "content_ro": "A baleset Felsőbozsényban történt, miután a sofőr megpróbálta kikerülni az úttesten kószáló ebet.."
+  },
+  {
+    "group_id": "group_59074abd7b",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Kievul, zguduit de noi bombardamente rusești. Un pod important și un cămin studențesc, lovite de rachete",
+        "link": "https://hotnews.ro/kievul-zguduit-de-noi-bombardamente-rusesti-un-pod-important-si-un-camin-studentesc-lovite-de-rachete-2387396"
+      }
+    ],
+    "published_at": 1793078570,
+    "title_hu": "Kievul, zguduit de noi bombardamente rusești. Un pod important și un cămin studențesc, lovite de rachete",
+    "lead_hu": "Un pod din sudul Kievului, o arteră importantă de transport, a fost lovit într-un atac rusesc, a declarat marți primarul capitalei ucrainene, Vitali Kliciko, informează AFP. „Un atac a lovit podul Piv...",
+    "content_hu": "Un pod din sudul Kievului, o arteră importantă de transport, a fost lovit într-un atac rusesc, a declarat marți primarul capitalei ucrainene, Vitali Kliciko, informează AFP. „Un atac a lovit podul Pivdennyi. Infrastructura metroului de pe pod a fost, de asemenea, avariată”, a declarat primarul pe Telegram. Autoritățile municipale au anunțat că traficul în zonă …",
+    "title_ro": "Kievul, zguduit de noi bombardamente rusești. Un pod important și un cămin studențesc, lovite de rachete",
+    "lead_ro": "Un pod din sudul Kievului, o arteră importantă de transport, a fost lovit într-un atac rusesc, a declarat marți primarul capitalei ucrainene, Vitali Kliciko, informează AFP. „Un atac a lovit podul Piv...",
+    "content_ro": "Un pod din sudul Kievului, o arteră importantă de transport, a fost lovit într-un atac rusesc, a declarat marți primarul capitalei ucrainene, Vitali Kliciko, informează AFP. „Un atac a lovit podul Pivdennyi. Infrastructura metroului de pe pod a fost, de asemenea, avariată”, a declarat primarul pe Telegram. Autoritățile municipale au anunțat că traficul în zonă …"
+  },
+  {
     "group_id": "group_7740cffef3",
     "category": "Általános",
     "image": "https://stirileprotv.ro/img/2026/10/27/051712/shutterstock-2652608479.jpg?fm=jpg&q=80&fit=crop&crop=5138%2C3425%2C0%2C0&w=1280",
@@ -249,7 +293,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Mediafax",
@@ -265,6 +309,11 @@
         "source": "G4Media",
         "title": "Microsoft renunță la un sfert din forța sa de muncă de la nivel global, în schimbul AI / Program de plecări voluntare pentru 60.000 de angajați",
         "link": "https://www.g4media.ro/microsoft-renunta-la-un-sfert-din-forta-sa-de-munca-de-la-nivel-global-in-schimbul-ai-program-de-plecari-voluntare-pentru-60-000-de-angajati.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Microsoft a pregătit „oferte de plecare voluntară” pentru 60.000 de angajați din patru țări. Ce posturi sunt vizate",
+        "link": "https://stirileprotv.ro/stiri/international/microsoft-a-pregatit-oferte-de-plecare-voluntara-pentru-60-000-de-angajati-din-patru-tari-ce-posturi-sunt-vizate.html"
       }
     ],
     "published_at": 1793076973,
@@ -667,7 +716,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Mediafax",
@@ -693,6 +742,11 @@
         "source": "ProTV Stiri",
         "title": "Premierul Luca Niculescu face prima vizită oficială în străinătate, în Republica Moldova. Cu cine se va întâlni la Chișinău",
         "link": "https://stirileprotv.ro/stiri/politic/premierul-luca-niculescu-face-prima-vizita-oficiala-in-strainatate-in-republica-moldova-cu-cine-se-va-intalni-la-chisinau.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Luca Niculescu – vizită în Republica Moldova / Va avea întâlniri cu Maia Sandu, Vasile Tofan şi Igor Grosu",
+        "link": "https://www.g4media.ro/luca-niculescu-vizita-in-republica-moldova-va-avea-intalniri-cu-maia-sandu-vasile-tofan-si-igor-grosu.html"
       }
     ],
     "published_at": 1793075088,
@@ -838,7 +892,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -849,6 +903,11 @@
         "source": "Mediafax",
         "title": "Prăbușire istorică pe piețele financiare din Brazilia după victoria lui Lula. Bursa pierde 15%, iar moneda națională înregistrează cel mai mare declin din 1999",
         "link": "https://www.mediafax.ro/economic/prabusire-istorica-pe-pietele-financiare-din-brazilia-dupa-victoria-lui-lula-bursa-pierde-15-iar-moneda-nationala-inregistreaza-cel-mai-mare-declin-din-1999-23832112"
+      },
+      {
+        "source": "G4Media",
+        "title": "Prăbușire istorică pe piețele financiare din Brazilia după victoria lui Lula / Investitorii mizaseră pe victoria candidatului de dreapta, Flavio Bolsonaro",
+        "link": "https://www.g4media.ro/prabusire-istorica-pe-pietele-financiare-din-brazilia-dupa-victoria-lui-lula-investitorii-mizasera-pe-victoria-candidatului-de-dreapta-flavio-bolsonaro.html"
       }
     ],
     "published_at": 1793069139,
@@ -1194,12 +1253,17 @@
     "image": "",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "VIDEO Fotbal: Alexia Putellas a câștigat 'Balonul de Aur' la feminin pentru a treia oară",
         "link": "https://agerpres.ro/sport-extern/2026/10/27/video-fotbal-alexia-putellas-a-castigat-balonul-de-aur-la-feminin-pentru-a-treia-oara--1607059"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alexia Putellas a câștigat „Balonul de Aur” la feminin pentru a treia oară. GALERIE FOTO&VIDEO",
+        "link": "https://stirileprotv.ro/stiri/sport/alexia-putellas-a-castigat-balonul-de-aur-la-feminin-pentru-a-treia-oara-galerie-foto-and-video.html"
       }
     ],
     "published_at": 1793059200,
@@ -20518,50 +20582,6 @@
     "title_ro": "Doi morți și peste 160.000 de locuințe rămase fără electricitate după furtuna Boelo. Rafale de 135 km/h au lovit Marea Britanie",
     "lead_ro": "Furtuna Boelo a provocat moartea a doi bărbați în Marea Britanie și a lăsat peste 160.000 de locuințe și alți consumatori fără electricitate, în timp ce rafalele de vânt au atins aproximativ 135 km/h.…",
     "content_ro": "Furtuna Boelo a provocat moartea a doi bărbați în Marea Britanie și a lăsat peste 160.000 de locuințe și alți consumatori fără electricitate, în timp ce rafalele de vânt au atins aproximativ 135 km/h. Copacii doborâți au blocat drumuri și căi ferate, iar inundațiile au afectat mai multe localități din Scoția."
-  },
-  {
-    "group_id": "group_52589fc8e4",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pensii-1024x683.jpg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„Nota 10” la pensii. Cele șase țări care au cele mai bune sisteme din lume",
-        "link": "https://www.mediafax.ro/social/nota-10-la-pensii-cele-sase-tari-care-au-cele-mai-bune-sisteme-din-lume-23831520"
-      }
-    ],
-    "published_at": 1792992224,
-    "title_hu": "„Nota 10” la pensii. Cele șase țări care au cele mai bune sisteme din lume",
-    "lead_hu": "Doar șase țări din lume au sisteme de pensii notate cu calificativul maxim, arată un clasament internațional care compară 55 de state. Majoritatea marilor economii europene se află la mijlocul listei.",
-    "content_hu": "Doar șase țări din lume au sisteme de pensii notate cu calificativul maxim, arată un clasament internațional care compară 55 de state. Majoritatea marilor economii europene se află la mijlocul listei.",
-    "title_ro": "„Nota 10” la pensii. Cele șase țări care au cele mai bune sisteme din lume",
-    "lead_ro": "Doar șase țări din lume au sisteme de pensii notate cu calificativul maxim, arată un clasament internațional care compară 55 de state. Majoritatea marilor economii europene se află la mijlocul listei.",
-    "content_ro": "Doar șase țări din lume au sisteme de pensii notate cu calificativul maxim, arată un clasament internațional care compară 55 de state. Majoritatea marilor economii europene se află la mijlocul listei."
-  },
-  {
-    "group_id": "group_ff91a9505a",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/26/052024/vlcsnap-2026-10-26-07h11m08s010.png?fm=jpg&q=80&fit=crop&crop=640%2C360%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Orașele în care vin prea mulți turiști: „Evit să mai merg în centru”. În Brașov se oferă deja reduceri localnicilor",
-        "link": "https://stirileprotv.ro/stiri/travel/orasele-in-care-vin-prea-multi-turisti-evit-sa-mai-merg-in-centru-in-brasov-se-ofera-deja-reduceri-localnicilor.html"
-      }
-    ],
-    "published_at": 1792992169,
-    "title_hu": "Orașele în care vin prea mulți turiști: „Evit să mai merg în centru”. În Brassó se oferă deja reduceri localnicilor",
-    "lead_hu": "Un studiu făcut la Nagyszeben arată că orașul riscă să ajungă la „turistificare” - fenomenul prin care o destinație satisface mai mult nevoile turiștilor decât ale locuitorilor.",
-    "content_hu": "Un studiu făcut la Nagyszeben arată că orașul riscă să ajungă la „turistificare” - fenomenul prin care o destinație satisface mai mult nevoile turiștilor decât ale locuitorilor.",
-    "title_ro": "Orașele în care vin prea mulți turiști: „Evit să mai merg în centru”. În Brașov se oferă deja reduceri localnicilor",
-    "lead_ro": "Un studiu făcut la Nagyszeben arată că orașul riscă să ajungă la „turistificare” - fenomenul prin care o destinație satisface mai mult nevoile turiștilor decât ale locuitorilor.",
-    "content_ro": "Un studiu făcut la Nagyszeben arată că orașul riscă să ajungă la „turistificare” - fenomenul prin care o destinație satisface mai mult nevoile turiștilor decât ale locuitorilor."
   },
   {
     "group_id": "group_12936ad67a",
