@@ -1,5 +1,49 @@
 [
   {
+    "group_id": "group_c498040475",
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2025/10/31/220000/62587875.jpg?fm=jpg&q=80&fit=crop&crop=1920%2C1080%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Trei produse populare folosite la costumele de Halloween îți pot distruge părul. Avertismentul medicilor",
+        "link": "https://stirileprotv.ro/divers/trei-produse-populare-folosite-la-costumele-de-halloween-iti-pot-distruge-parul-avertismentul-medicilor.html"
+      }
+    ],
+    "published_at": 1793132438,
+    "title_hu": "Trei produse populare folosite la costumele de Halloween îți pot distruge părul. Avertismentul medicilor",
+    "lead_hu": "Costumele de Halloween pot transforma complet aspectul unei persoane pentru o seară, însă unele accesorii folosite pentru a completa deghizarea pot avea efecte nedorite....",
+    "content_hu": "Costumele de Halloween pot transforma complet aspectul unei persoane pentru o seară, însă unele accesorii folosite pentru a completa deghizarea pot avea efecte nedorite.",
+    "title_ro": "Trei produse populare folosite la costumele de Halloween îți pot distruge părul. Avertismentul medicilor",
+    "lead_ro": "Costumele de Halloween pot transforma complet aspectul unei persoane pentru o seară, însă unele accesorii folosite pentru a completa deghizarea pot avea efecte nedorite....",
+    "content_ro": "Costumele de Halloween pot transforma complet aspectul unei persoane pentru o seară, însă unele accesorii folosite pentru a completa deghizarea pot avea efecte nedorite."
+  },
+  {
+    "group_id": "group_f80d7bc3d7",
+    "category": "Bulvár",
+    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/COLAJ-MARCEL-ARMINA.jpg-1-1200x675.jpeg",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Marcel și Armina, prezenți la evenimentul organizat la Palatul Parlamentului. Nu au plecat cu mâna goală!",
+        "link": "https://www.cancan.ro/marcel-si-armina-prezenti-la-evenimentul-organizat-la-palatul-parlamentului-nu-au-plecat-cu-mana-goala-21537532"
+      }
+    ],
+    "published_at": 1793132089,
+    "title_hu": "Marcel și Armina, prezenți la evenimentul organizat la Palatul Parlamentului. Nu au plecat cu mâna goală!",
+    "lead_hu": "Marcel și Armina au profitat de timpul liber și au participat la un eveniment dedicat tradițiilor românești, organizat la Palatul Parlamentului din București. Cei doi, care locuiesc în Tenerife, se af...",
+    "content_hu": "Marcel și Armina au profitat de timpul liber și au participat la un eveniment dedicat tradițiilor românești, organizat la Palatul Parlamentului din București. Cei doi, care locuiesc în Tenerife, se află în această perioadă în România și nu au ratat târgul Via Moldavia, unde au descoperit produse locale, au degustat preparate tradiționale și au făcut […]",
+    "title_ro": "Marcel și Armina, prezenți la evenimentul organizat la Palatul Parlamentului. Nu au plecat cu mâna goală!",
+    "lead_ro": "Marcel și Armina au profitat de timpul liber și au participat la un eveniment dedicat tradițiilor românești, organizat la Palatul Parlamentului din București. Cei doi, care locuiesc în Tenerife, se af...",
+    "content_ro": "Marcel și Armina au profitat de timpul liber și au participat la un eveniment dedicat tradițiilor românești, organizat la Palatul Parlamentului din București. Cei doi, care locuiesc în Tenerife, se află în această perioadă în România și nu au ratat târgul Via Moldavia, unde au descoperit produse locale, au degustat preparate tradiționale și au făcut […]"
+  },
+  {
     "group_id": "group_63e7066f3c",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2025/03/tichete-de-masa.jpg",
@@ -413,12 +457,17 @@
     "image": "https://stirileprotv.ro/img/2026/10/27/193706/gettyimages-2301568182.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C683%2C0%2C0&w=1280",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Serbia anchetează obstrucționarea votului în străinătate. Diplomați din România, vizați de investigație",
         "link": "https://stirileprotv.ro/stiri/international/serbia-ancheteaza-obstructionarea-votului-in-strainatate-diplomati-din-romania-vizati-de-investigatie.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Serbia deschide o anchetă privind obstrucționarea votului în diaspora. Printre persoanele vizate se numără și ambasadorul din România",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/serbia-deschide-o-ancheta-privind-obstructionarea-2567005.html"
       }
     ],
     "published_at": 1793129852,
@@ -1978,7 +2027,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 19,
+    "sources_count": 20,
     "sources": [
       {
         "source": "Adevărul",
@@ -2074,6 +2123,11 @@
         "source": "Mediafax",
         "title": "Alegeri parlamentare în Israel. Partidul lui Netanyahu conduce în exit-polluri, dar nicio tabără nu are majoritate / Prezență record la vot",
         "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-partidul-lui-netanyahu-conduce-in-exit-polluri-dar-nicio-tabara-nu-are-majoritate-prezenta-record-la-vot-23832625"
+      },
+      {
+        "source": "Digi24",
+        "title": "Exit-poll Israel: Partidul lui Netanyahu conduce, dar niciuna din cele două tabere nu are o cale clară către formarea unui guvern",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/alegeri-in-israel-partidul-lui-netanyahu-conduce-dar-niciuna-din-cele-doua-tabere-nu-are-o-cale-clara-catre-formarea-unui-guvern-4011437"
       }
     ],
     "published_at": 1793124330,
@@ -19535,12 +19589,17 @@
     "image": "",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "Elevii și studenții din Franța anunță că vor continuă protestele, în ciuda concesiilor făcute de guvern",
         "link": "https://hotnews.ro/elevii-si-studentii-din-franta-anunta-ca-vor-continua-protestele-in-ciuda-concesiilor-facute-de-guvern-2387317"
+      },
+      {
+        "source": "G4Media",
+        "title": "Elevii şi studenţii francezi plănuiesc noi proteste, după respingerea măsurilor guvernamentale / „Trebuie să ne menţinem mobilizarea dacă vrem să fim în continuare auziţi”",
+        "link": "https://www.g4media.ro/elevii-si-studentii-francezi-planuiesc-noi-proteste-dupa-respingerea-masurilor-guvernamentale-trebuie-sa-ne-mentinem-mobilizarea-daca-vrem-sa-fim-in-continuare-auziti.html"
       }
     ],
     "published_at": 1793049875,
@@ -20195,116 +20254,6 @@
     "title_ro": "Ce au spus fotbaliștii Universității Craiova, după ce oltenii au umilit Sepsi în deplasare",
     "lead_ro": "Universitatea Craiova a zdrobit în deplasare Sepsi, scor 5-0, în ultimul meci al etapei #13 din Superliga. Assad Al Hamlawi, Alexandru Cicâldău și Vladimir Screciu au oferit concluziile la capătul une…",
     "content_ro": "Universitatea Craiova a zdrobit în deplasare Sepsi, scor 5-0, în ultimul meci al etapei #13 din Superliga. Assad Al Hamlawi, Alexandru Cicâldău și Vladimir Screciu au oferit concluziile la capătul unei partide dominate de la cap la coadă, în care adversarul nu a reușit să trimită niciun sper poartă! Assad Al Hamlawi: „Avem o conexiune din ce în ce mai bună. ..."
-  },
-  {
-    "group_id": "group_1e3626d18b",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/26/202108/luca-niculescu-intalnire-govro.jpeg?fm=jpg&q=80&fit=crop&crop=1600%2C1066%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Sindicatele îi reporșează lui Luca Niculescu că s-a întâlnit mai întâi cu patronatele: Capitalul pare să aibă prioritate",
-        "link": "https://stirileprotv.ro/stiri/actualitate/sindicatele-ii-reporseaza-lui-luca-niculescu-ca-s-a-intalnit-mai-intai-cu-patronatele-capitalul-pare-sa-aiba-prioritate.html"
-      }
-    ],
-    "published_at": 1793046129,
-    "title_hu": "Sindicatele îi reporșează lui Luca Niculescu că s-a întâlnit mai întâi cu patronatele: Capitalul pare să aibă prioritate",
-    "lead_hu": "Blocul Național Sindical îi reproșează premierului Luca Niculescu că s-a întâlnit cu reprezentanții mediului de afaceri, fără să anunțe o întrevedere similară cu organizațiile sindicale, care reprezin…",
-    "content_hu": "Blocul Național Sindical îi reproșează premierului Luca Niculescu că s-a întâlnit cu reprezentanții mediului de afaceri, fără să anunțe o întrevedere similară cu organizațiile sindicale, care reprezintă interesele a aproximativ 5 milioane de lucrători.",
-    "title_ro": "Sindicatele îi reporșează lui Luca Niculescu că s-a întâlnit mai întâi cu patronatele: Capitalul pare să aibă prioritate",
-    "lead_ro": "Blocul Național Sindical îi reproșează premierului Luca Niculescu că s-a întâlnit cu reprezentanții mediului de afaceri, fără să anunțe o întrevedere similară cu organizațiile sindicale, care reprezin…",
-    "content_ro": "Blocul Național Sindical îi reproșează premierului Luca Niculescu că s-a întâlnit cu reprezentanții mediului de afaceri, fără să anunțe o întrevedere similară cu organizațiile sindicale, care reprezintă interesele a aproximativ 5 milioane de lucrători."
-  },
-  {
-    "group_id": "group_aa0081cd7c",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/01/26/121614/shutterstock-2267881603.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C662%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Vortexul polar ar putea schimba iarna 2026-2027 în Europa. Ce se poate întâmpla din noiembrie",
-        "link": "https://stirileprotv.ro/stiri/international/vortexul-polar-ar-putea-schimba-iarna-2026-2027-in-europa-ce-se-poate-intampla-din-noiembrie.html"
-      }
-    ],
-    "published_at": 1793046115,
-    "title_hu": "Vortexul polar ar putea schimba iarna 2026-2027 în Europa. Ce se poate întâmpla din noiembrie",
-    "lead_hu": "Modelul european ECMWF anticipează o posibilă perturbare majoră a vortexului polar din stratosferă la începutul lunii noiembrie, care s-ar putea chiar împărți în două părți.",
-    "content_hu": "Modelul european ECMWF anticipează o posibilă perturbare majoră a vortexului polar din stratosferă la începutul lunii noiembrie, care s-ar putea chiar împărți în două părți.",
-    "title_ro": "Vortexul polar ar putea schimba iarna 2026-2027 în Europa. Ce se poate întâmpla din noiembrie",
-    "lead_ro": "Modelul european ECMWF anticipează o posibilă perturbare majoră a vortexului polar din stratosferă la începutul lunii noiembrie, care s-ar putea chiar împărți în două părți.",
-    "content_ro": "Modelul european ECMWF anticipează o posibilă perturbare majoră a vortexului polar din stratosferă la începutul lunii noiembrie, care s-ar putea chiar împărți în două părți."
-  },
-  {
-    "group_id": "group_9d90f1facf",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/03/imagine-reprezentativa-horoscop-1024x683.png",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Horoscop 27 octombrie 2026: Berbecii stabilesc priorități, Taurii au cheltuieli neprevăzute, Racii trebuie să fie mai implicați",
-        "link": "https://www.mediafax.ro/horoscop/horoscop-27-octombrie-2026-berbecii-stabilesc-prioritati-taurii-au-cheltuieli-neprevazute-racii-trebuie-sa-fie-mai-implicati-23832091"
-      }
-    ],
-    "published_at": 1793046112,
-    "title_hu": "Horoscop 27 octombrie 2026: Berbecii stabilesc priorități, Taurii au cheltuieli neprevăzute, Racii trebuie să fie mai implicați",
-    "lead_hu": "Leii atrag atenția superiorilor la serviciu, Fecioarele au certuri cu persoana iubită, iar Balanțele au nevoie să argumenteze ideile în discuțiile alături de colegii de muncă.",
-    "content_hu": "Leii atrag atenția superiorilor la serviciu, Fecioarele au certuri cu persoana iubită, iar Balanțele au nevoie să argumenteze ideile în discuțiile alături de colegii de muncă.",
-    "title_ro": "Horoscop 27 octombrie 2026: Berbecii stabilesc priorități, Taurii au cheltuieli neprevăzute, Racii trebuie să fie mai implicați",
-    "lead_ro": "Leii atrag atenția superiorilor la serviciu, Fecioarele au certuri cu persoana iubită, iar Balanțele au nevoie să argumenteze ideile în discuțiile alături de colegii de muncă.",
-    "content_ro": "Leii atrag atenția superiorilor la serviciu, Fecioarele au certuri cu persoana iubită, iar Balanțele au nevoie să argumenteze ideile în discuțiile alături de colegii de muncă."
-  },
-  {
-    "group_id": "group_b402089ce4",
-    "category": "Gazdaság",
-    "image": "",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Premierul care a rezistat în funcție 49 de zile susține că mai multe misiuni ale țării sale ar fi ajuns pe Marte până în 2040",
-        "link": "https://hotnews.ro/liz-truss-sustine-ca-britanicii-ar-fi-ajuns-pe-marte-pana-in-2040-daca-nu-ar-fi-fost-inlaturata-2387277"
-      }
-    ],
-    "published_at": 1793046048,
-    "title_hu": "Premierul care a rezistat în funcție 49 de zile susține că mai multe misiuni ale țării sale ar fi ajuns pe Marte până în 2040",
-    "lead_hu": "Liz Truss susține că Marea Britanie ar fi reușit să desfășoare misiuni de succes pe Marte în doar câțiva ani – dacă mandatul ei de prim-ministru, care a durat 49 de zile, nu ar fi fost întrerupt. Afir…",
-    "content_hu": "Liz Truss susține că Marea Britanie ar fi reușit să desfășoare misiuni de succes pe Marte în doar câțiva ani – dacă mandatul ei de prim-ministru, care a durat 49 de zile, nu ar fi fost întrerupt. Afirmația apare în noua carte a fostului premier de la Londra, intitulată „Bank Job” și publicată luni. Cartea …",
-    "title_ro": "Premierul care a rezistat în funcție 49 de zile susține că mai multe misiuni ale țării sale ar fi ajuns pe Marte până în 2040",
-    "lead_ro": "Liz Truss susține că Marea Britanie ar fi reușit să desfășoare misiuni de succes pe Marte în doar câțiva ani – dacă mandatul ei de prim-ministru, care a durat 49 de zile, nu ar fi fost întrerupt. Afir…",
-    "content_ro": "Liz Truss susține că Marea Britanie ar fi reușit să desfășoare misiuni de succes pe Marte în doar câțiva ani – dacă mandatul ei de prim-ministru, care a durat 49 de zile, nu ar fi fost întrerupt. Afirmația apare în noua carte a fostului premier de la Londra, intitulată „Bank Job” și publicată luni. Cartea …"
-  },
-  {
-    "group_id": "group_53255cd7e1",
-    "category": "Általános",
-    "image": "https://www.g4media.ro//wp-content/uploads/2024/06/dreamstime_xl_7452271.jpg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Iranul anunță intensificarea cooperării cu Arabia Saudită, Pakistanul și Turcia în cadrul Pactului de la Mecca",
-        "link": "https://www.g4media.ro/iranul-anunta-intensificarea-cooperarii-cu-arabia-saudita-pakistanul-si-turcia-in-cadrul-pactului-de-la-mecca.html"
-      }
-    ],
-    "published_at": 1793046001,
-    "title_hu": "Iranul anunță intensificarea cooperării cu Arabia Saudită, Pakistanul și Turcia în cadrul Pactului de la Mecca",
-    "lead_hu": "Iranul a anunțat că va continua discuțiile cu Arabia Saudită, Pakistanul și Turcia pentru consolidarea cooperării regionale, în contextul tensiunilor care amenință stabilitatea Orientului Mijlociu și …",
-    "content_hu": "Iranul a anunțat că va continua discuțiile cu Arabia Saudită, Pakistanul și Turcia pentru consolidarea cooperării regionale, în contextul tensiunilor care amenință stabilitatea Orientului Mijlociu și afectează economia globală, relatează Al Jazeera. Anunțul a venit după o reuniune desfășurată luni la Teheran, la care au participat oficiali iranieni și reprezentanți de rang înalt ai celor […] © G4Media.ro.",
-    "title_ro": "Iranul anunță intensificarea cooperării cu Arabia Saudită, Pakistanul și Turcia în cadrul Pactului de la Mecca",
-    "lead_ro": "Iranul a anunțat că va continua discuțiile cu Arabia Saudită, Pakistanul și Turcia pentru consolidarea cooperării regionale, în contextul tensiunilor care amenință stabilitatea Orientului Mijlociu și …",
-    "content_ro": "Iranul a anunțat că va continua discuțiile cu Arabia Saudită, Pakistanul și Turcia pentru consolidarea cooperării regionale, în contextul tensiunilor care amenință stabilitatea Orientului Mijlociu și afectează economia globală, relatează Al Jazeera. Anunțul a venit după o reuniune desfășurată luni la Teheran, la care au participat oficiali iranieni și reprezentanți de rang înalt ai celor […] © G4Media.ro."
   },
   {
     "group_id": "group_0732a36998",
