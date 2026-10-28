@@ -1,5 +1,27 @@
 [
   {
+    "group_id": "group_5432f4d309",
+    "category": "Erdély",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Anunț comuna Abram",
+        "link": "https://www.ebihoreanul.ro/stiri/anunt-comuna-abram-206116.html"
+      }
+    ],
+    "published_at": 1793165520,
+    "title_hu": "Anunț comuna Abram",
+    "lead_hu": "COMUNA ABRAM anunţă publicul interesat asupra solicitării de emitere a acordului de mediu pentru proiectul „PLATFORMA COMUNALA TIP PC 02”, propus a fi amplasat în LOCALITATEA MARGINE CF 55818....",
+    "content_hu": "COMUNA ABRAM anunţă publicul interesat asupra solicitării de emitere a acordului de mediu pentru proiectul „PLATFORMA COMUNALA TIP PC 02”, propus a fi amplasat în LOCALITATEA MARGINE CF 55818.",
+    "title_ro": "Anunț comuna Abram",
+    "lead_ro": "COMUNA ABRAM anunţă publicul interesat asupra solicitării de emitere a acordului de mediu pentru proiectul „PLATFORMA COMUNALA TIP PC 02”, propus a fi amplasat în LOCALITATEA MARGINE CF 55818....",
+    "content_ro": "COMUNA ABRAM anunţă publicul interesat asupra solicitării de emitere a acordului de mediu pentru proiectul „PLATFORMA COMUNALA TIP PC 02”, propus a fi amplasat în LOCALITATEA MARGINE CF 55818."
+  },
+  {
     "group_id": "group_473b43c88d",
     "category": "Általános",
     "image": "https://www.mediafax.ro/wp-content/uploads/2025/05/politie-franta-crima-7ajhjpma2ti-unsplash-1024x577.jpg",
@@ -49,12 +71,17 @@
     "image": "https://www.g4media.ro//wp-content/uploads/2021/07/drink-730450_1280.jpg",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "G4Media",
         "title": "Cum se schimbă preferințele operatorilor de zbor de la clienții modești la clienții bogați, în timp ce prețul kerosenului a explodat / Caviar, șampanie și Porsche pe pistă la clasa premium de la Air France",
         "link": "https://www.g4media.ro/cum-se-schimba-preferintele-operatorilor-de-zbor-de-la-clientii-modesti-la-clientii-bogati-in-timp-ce-pretul-kerosenului-a-explodat-caviar-sampanie-si-porsche-pe-pista-la-clasa-premium-de-la-air-f.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Caviar, şampanie şi transfer cu Porsche. Companiile aeriene investesc în lux, în timp ce pasagerii clasei economice reduc cheltuielile",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/caviar-sampanie-si-transfer-cu-porsche-companiile-aeriene-investesc-in-lux-in-timp-ce-pasagerii-clasei-economice-reduc-cheltuielile-4011589"
       }
     ],
     "published_at": 1793165104,
@@ -159,12 +186,17 @@
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pexels-wal_-172619-2156618639-36252253-1024x653.jpg",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "710.000 de morți într-un singur an. Decesele cauzate de căldură au depășit malaria și HIV",
         "link": "https://www.mediafax.ro/social/710-000-de-morti-intr-un-singur-an-decesele-cauzate-de-caldura-au-depasit-malaria-si-hiv-23832770"
+      },
+      {
+        "source": "G4Media",
+        "title": "Decesele cauzate de căldură au depășit malaria și HIV: 710.000 de morți într-un singur an / Experții cer ca schimbările climatice să fie declarate urgență globală de sănătate",
+        "link": "https://www.g4media.ro/decesele-cauzate-de-caldura-au-depasit-malaria-si-hiv-710-000-de-morti-intr-un-singur-an-expertii-cer-ca-schimbarile-climatice-sa-fie-declarate-urgenta-globala-de-sanatate.html"
       }
     ],
     "published_at": 1793164649,
@@ -594,7 +626,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 28,
+    "sources_count": 29,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -735,6 +767,11 @@
         "source": "ProTV Stiri",
         "title": "Alegeri în Israel. Ce rol ar putea juca partidele arabe",
         "link": "https://stirileprotv.ro/stiri/international/alegeri-in-israel-ce-rol-ar-putea-juca-partidele-arabe.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare în Israel. Niciuna dintre tabere nu are majoritate | Intervenție salvatoare a lui Trump în favoarea lui „Bibi”",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-niciuna-dintre-tabere-nu-are-majoritate-interventie-salvatoare-a-lui-trump-in-favoarea-lui-bibi-23832625"
       }
     ],
     "published_at": 1793160603,
@@ -1127,7 +1164,7 @@
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8165142-mediafax_foto-marc_marasescu-1024x683.jpg",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -1138,6 +1175,11 @@
         "source": "G4Media",
         "title": "VIDEO Arsenal a fost eliminată de o echipă din liga a patra din Cupa Angliei / Fleetwood e ocupanta locului 18 în League Two",
         "link": "https://www.g4media.ro/video-arsenal-a-fost-eliminata-de-o-echipa-din-liga-a-patra-din-cupa-angliei-fleetwood-e-ocupanta-locului-18-in-league-two.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Arsenal, prima din Anglia care pățește asta! Detaliul rușinos după eliminarea din Cupa Ligii",
+        "link": "https://www.gsp.ro/international/campionate/fleetwood-arsenal-carabao-cupa-ligii-anglia-istorie-993104.html"
       }
     ],
     "published_at": 1793141159,
@@ -1490,7 +1532,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Digi24",
@@ -1501,6 +1543,11 @@
         "source": "Adevărul",
         "title": "George Simion: „Avem de-a face în anul 2026 cu un caz şi cu un om care este deţinut politic. Am făcut mii de kilometri pentru a internaţionaliza această problemă”",
         "link": "https://adevarul.ro/politica/george-simion-avem-de-a-face-in-anul-2026-cu-un-2567020.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "George Simion, despre Călin Georgescu: „Este deţinut politic”. Liderul AUR spune cum i-a „internaţionalizat” situația",
+        "link": "https://hotnews.ro/george-simion-despre-calin-georgescu-este-detinut-politic-liderul-aur-spune-cum-i-a-internationalizat-situatia-2388335"
       }
     ],
     "published_at": 1793138109,
@@ -19754,116 +19801,6 @@
     "title_ro": "Jay-Z va fi cap de afiș al spectacolului din pauza Super Bowl 2027",
     "lead_ro": "Jay-Z va fi cap de afiș al spectacolului din pauza Super Bowl din 2027, au anunțat Roc Nation, NFL și Apple Music. Rapperul și producătorul colaborează cu NFL din 2019, iar Roc Nation se implică în organizarea spectacolului din 2020.",
     "content_ro": "• **Jay-Z va fi cap de afiș al spectacolului din pauza Super Bowl 2027.** Anunțul a fost făcut de Roc Nation, NFL și Apple Music printr-un videoclip alb-negru.\n\n• **Desemnarea a fost anunțată luni noapte**, în timpul transmisiunii ESPN a meciului dintre Dallas Cowboys și Philadelphia Eagles. Jay-Z va trece astfel de la rolul de producător la cel de interpret principal al spectacolului.\n\n• **O posibilă apariție a lui Beyoncé nu a fost confirmată.** Fanii o menționează pe soția lui Jay-Z printre posibilii invitați; ea a fost cap de afiș în 2013 și a revenit ca invitată specială în 2016.\n\n• **Jay-Z, al cărui nume real este Shawn Carter, colaborează cu NFL din 2019** prin intermediul companiei Roc Nation. Compania participă la organizarea spectacolului din pauza Super Bowl începând din 2020.\n\n• **Carter a câștigat trei premii Emmy pentru activitatea sa legată de spectacolele din pauza Super Bowl.** A fost premiat ca producător executiv pentru edițiile din 2022 și 2025, iar în 2023 a primit un premiu pentru regia spectacolului susținut de Rihanna."
-  },
-  {
-    "group_id": "group_cd1fceb6ec",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-8/8fd78421-fe3a-4e73-982e-cb72b403dd32/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Jocurile zilei de la „Adevărul”. Știi să rezolvi integrama?",
-        "link": "https://adevarul.ro/stil-de-viata/magazin/jocurile-zilei-de-la-adevarul-stii-sa-rezolvi-2566761.html"
-      }
-    ],
-    "published_at": 1793079351,
-    "title_hu": "Jocurile zilei de la „Adevărul”. Știi să rezolvi integrama?",
-    "lead_hu": "Cititorii „Adevărul” au la dispoziție, pe telefon, tabletă sau computer, rubrica „Jocurile zilei”, care reunește provocări menite să le testeze atenția, memoria, cultura generală și spiritul de observ…",
-    "content_hu": "Cititorii „Adevărul” au la dispoziție, pe telefon, tabletă sau computer, rubrica „Jocurile zilei”, care reunește provocări menite să le testeze atenția, memoria, cultura generală și spiritul de observație.",
-    "title_ro": "Jocurile zilei de la „Adevărul”. Știi să rezolvi integrama?",
-    "lead_ro": "Cititorii „Adevărul” au la dispoziție, pe telefon, tabletă sau computer, rubrica „Jocurile zilei”, care reunește provocări menite să le testeze atenția, memoria, cultura generală și spiritul de observ…",
-    "content_ro": "Cititorii „Adevărul” au la dispoziție, pe telefon, tabletă sau computer, rubrica „Jocurile zilei”, care reunește provocări menite să le testeze atenția, memoria, cultura generală și spiritul de observație."
-  },
-  {
-    "group_id": "group_e52b3df656",
-    "category": "Politika",
-    "image": "https://cdn.adh.reperio.news/image-5/59ae26a9-1cd9-47db-89db-3ad097da615e/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "La o milă de marea teritorială: ce a însemnat pentru România săptămâna 19–25 octombrie 2026",
-        "link": "https://adevarul.ro/blogurile-adevarul/la-o-mila-de-marea-teritoriala-ce-a-insemnat-2566755.html"
-      }
-    ],
-    "published_at": 1793079159,
-    "title_hu": "La o milă de marea teritorială: ce a însemnat pentru România săptămâna 19–25 octombrie 2026",
-    "lead_hu": "Pe 20 octombrie, România a primit un guvern cu puteri depline, iar ambasadorii NATO s-au reunit la cererea ei pentru a discuta despre Marea Neagră. Trei zile mai târziu, o navă comercială lovită de o …",
-    "content_hu": "Pe 20 octombrie, România a primit un guvern cu puteri depline, iar ambasadorii NATO s-au reunit la cererea ei pentru a discuta despre Marea Neagră. Trei zile mai târziu, o navă comercială lovită de o dronă se scufunda la 13 mile marine de Constanța, cu un marinar mort și trei dispăruți.",
-    "title_ro": "La o milă de marea teritorială: ce a însemnat pentru România săptămâna 19–25 octombrie 2026",
-    "lead_ro": "Pe 20 octombrie, România a primit un guvern cu puteri depline, iar ambasadorii NATO s-au reunit la cererea ei pentru a discuta despre Marea Neagră. Trei zile mai târziu, o navă comercială lovită de o …",
-    "content_ro": "Pe 20 octombrie, România a primit un guvern cu puteri depline, iar ambasadorii NATO s-au reunit la cererea ei pentru a discuta despre Marea Neagră. Trei zile mai târziu, o navă comercială lovită de o dronă se scufunda la 13 mile marine de Constanța, cu un marinar mort și trei dispăruți."
-  },
-  {
-    "group_id": "group_88a301d4f8",
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Újabb díjat vezet be az EU a külföldről rendelt csomagokra",
-        "link": "https://www.mediatica.ro/hirek/kulfold/ujabb-dijat-vezet-be-az-eu-a-kulfoldrol-rendelt-csomagokra"
-      }
-    ],
-    "published_at": 1793079078,
-    "title_hu": "Újabb díjat vezet be az EU a külföldről rendelt csomagokra",
-    "lead_hu": "November 1-jétől további két eurót kell fizetni a harmadik országokból, online vásárlás útján érkező csomagokra, az áruk értékétől függetlenül.",
-    "content_hu": "November 1-jétől további két eurót kell fizetni a harmadik országokból, online vásárlás útján érkező csomagokra, az áruk értékétől függetlenül.",
-    "title_ro": "Újabb díjat vezet be az EU a külföldről rendelt csomagokra",
-    "lead_ro": "November 1-jétől további két eurót kell fizetni a harmadik országokból, online vásárlás útján érkező csomagokra, az áruk értékétől függetlenül.",
-    "content_ro": "November 1-jétől további két eurót kell fizetni a harmadik országokból, online vásárlás útján érkező csomagokra, az áruk értékétől függetlenül."
-  },
-  {
-    "group_id": "group_3e1bec5b2c",
-    "category": "Általános",
-    "image": "https://stirileprotv.ro/img/2026/10/27/052838/lamine-yamal-kopa.jpg?fm=jpg&q=80&fit=crop&crop=1024%2C682%2C0%2C0&w=1280",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Lamine Yamal, moment neașteptat după câștigarea Trofeului Kopa: „Cred că acest premiu ar fi trebuit să fie al lui”",
-        "link": "https://stirileprotv.ro/stiri/sport/lamine-yamal-moment-neasteptat-dupa-castigarea-trofeului-kopa-cred-ca-acest-premiu-ar-fi-trebuit-sa-fie-al-lui.html"
-      }
-    ],
-    "published_at": 1793079054,
-    "title_hu": "Lamine Yamal, moment neașteptat după câștigarea Trofeului Kopa: „Cred că acest premiu ar fi trebuit să fie al lui”",
-    "lead_hu": "Lamine Yamal, senzația Barcelonei, a intrat în istorie după ce a câștigat pentru a treia oară consecutiv Trofeul Kopa, consolidându-și statutul de cel mai valoros tânăr jucător din fotbalul mondial.",
-    "content_hu": "Lamine Yamal, senzația Barcelonei, a intrat în istorie după ce a câștigat pentru a treia oară consecutiv Trofeul Kopa, consolidându-și statutul de cel mai valoros tânăr jucător din fotbalul mondial.",
-    "title_ro": "Lamine Yamal, moment neașteptat după câștigarea Trofeului Kopa: „Cred că acest premiu ar fi trebuit să fie al lui”",
-    "lead_ro": "Lamine Yamal, senzația Barcelonei, a intrat în istorie după ce a câștigat pentru a treia oară consecutiv Trofeul Kopa, consolidându-și statutul de cel mai valoros tânăr jucător din fotbalul mondial.",
-    "content_ro": "Lamine Yamal, senzația Barcelonei, a intrat în istorie după ce a câștigat pentru a treia oară consecutiv Trofeul Kopa, consolidându-și statutul de cel mai valoros tânăr jucător din fotbalul mondial."
-  },
-  {
-    "group_id": "group_7f10ee99e4",
-    "category": "Általános",
-    "image": "https://cdn.adh.reperio.news/image-5/592b73e8-f932-42b2-ade0-0e732844eecb/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Războiul din Marea Neagră și ancora care amenință gazele României",
-        "link": "https://adevarul.ro/blogurile-adevarul/razboiul-din-marea-neagra-si-ancora-care-ameninta-2566758.html"
-      }
-    ],
-    "published_at": 1793079027,
-    "title_hu": "Războiul din Marea Neagră și ancora care amenință gazele României",
-    "lead_hu": "Neptun Deep pune România pe harta marilor producători de gaze, dar lecția Balticconnector arată că o singură ancoră poate transforma promisiunea independenței energetice într-o criză de securitate",
-    "content_hu": "Neptun Deep pune România pe harta marilor producători de gaze, dar lecția Balticconnector arată că o singură ancoră poate transforma promisiunea independenței energetice într-o criză de securitate",
-    "title_ro": "Războiul din Marea Neagră și ancora care amenință gazele României",
-    "lead_ro": "Neptun Deep pune România pe harta marilor producători de gaze, dar lecția Balticconnector arată că o singură ancoră poate transforma promisiunea independenței energetice într-o criză de securitate",
-    "content_ro": "Neptun Deep pune România pe harta marilor producători de gaze, dar lecția Balticconnector arată că o singură ancoră poate transforma promisiunea independenței energetice într-o criză de securitate"
   },
   {
     "group_id": "group_f2c7c20771",
