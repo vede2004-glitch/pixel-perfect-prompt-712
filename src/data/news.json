@@ -1,5 +1,27 @@
 [
   {
+    "group_id": "group_f9a21fcc37",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-e/e2e6b743-7b6e-4513-995c-1b9da2b1e476/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Numărătoarea: cum au căzut două regimuri în șase luni și ce avem noi de făcut în următorii doi ani",
+        "link": "https://adevarul.ro/blogurile-adevarul/numaratoarea-cum-au-cazut-doua-regimuri-in-sase-2567263.html"
+      }
+    ],
+    "published_at": 1793211987,
+    "title_hu": "Numărătoarea: cum au căzut două regimuri în șase luni și ce avem noi de făcut în următorii doi ani",
+    "lead_hu": "Duminică seara, 25 octombrie, Aleksandar Vučić a urcat pe scenă la sediul propriului partid, în fața propriilor susținători, și a anunțat că a pierdut....",
+    "content_hu": "Duminică seara, 25 octombrie, Aleksandar Vučić a urcat pe scenă la sediul propriului partid, în fața propriilor susținători, și a anunțat că a pierdut.",
+    "title_ro": "Numărătoarea: cum au căzut două regimuri în șase luni și ce avem noi de făcut în următorii doi ani",
+    "lead_ro": "Duminică seara, 25 octombrie, Aleksandar Vučić a urcat pe scenă la sediul propriului partid, în fața propriilor susținători, și a anunțat că a pierdut....",
+    "content_ro": "Duminică seara, 25 octombrie, Aleksandar Vučić a urcat pe scenă la sediul propriului partid, în fața propriilor susținători, și a anunțat că a pierdut."
+  },
+  {
     "group_id": "group_442afa67a5",
     "category": "Általános",
     "image": "https://www.g4media.ro//wp-content/uploads/2022/11/targul-de-craciun-timisoara.jpg",
@@ -423,7 +445,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 25,
+    "sources_count": 26,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -549,6 +571,11 @@
         "source": "HotNews.ro",
         "title": "După înfrângerea de la prezidențiale, Flavio Bolsonaro spune că i s-a interzis să plece din Brazilia",
         "link": "https://hotnews.ro/dupa-infrangerea-de-la-prezidentiale-flavio-bolsonaro-spune-ca-i-s-a-interzis-sa-plece-din-brazilia-2387330"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Senatorul Flavio Bolsonaro, fugit din Brazilia, a ajuns în Statele Unite",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/senatorul-flavio-bolsonaro-fugit-din-brazilia-a-ajuns-in-statele-unite--1607825"
       }
     ],
     "published_at": 1793209817,
@@ -655,7 +682,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Digi24",
@@ -666,6 +693,11 @@
         "source": "Mediafax",
         "title": "Dominic Fritz, acuzații la adresa social-democraților: „PSD se preface că ar căuta gaura în buget. Dar ce caută de fapt e o scuză”",
         "link": "https://www.mediafax.ro/politic/dominic-fritz-acuzatii-la-adresa-social-democratilor-psd-se-preface-ca-ar-cauta-gaura-in-buget-dar-ce-cauta-de-fapt-e-o-scuza-23833303"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Dominic Fritz: PSD se preface că ar căuta gaura în buget, dar ce caută de fapt e o scuză",
+        "link": "https://agerpres.ro/politic/2026/10/28/dominic-fritz-psd-se-preface-ca-ar-cauta-gaura-in-buget-dar-ce-cauta-de-fapt-e-o-scuza--1607828"
       }
     ],
     "published_at": 1793209448,
@@ -1768,12 +1800,17 @@
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjAxJTJGMjExODIyMV8yMTE4/MjIxX25vdmlfc2FkXzEuanBnJmhhc2g9/NjRlZTlmMGZjMmEyOTM5NzkxYmNiOGRlODZmNDVmZDI=.jpg",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Serbia redeschide dosarul tragediei de la Novi Sad, soldată cu 16 morți, la câteva zile după înfrângerea electorală a lui Vucic",
         "link": "https://www.digi24.ro/stiri/externe/serbia-redeschide-dosarul-tragediei-de-la-novi-sad-soldata-cu-16-morti-la-cateva-zile-dupa-infrangerea-electorala-a-lui-vucic-4012813"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Serbia: Justiția va redeschide dosarul prăbușirii acoperișului gării din Novi Sad",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/serbia-justitia-va-redeschide-dosarul-prabusirii-acoperisului-garii-din-novi-sad--1607809"
       }
     ],
     "published_at": 1793207158,
@@ -1965,7 +2002,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 27,
+    "sources_count": 29,
     "sources": [
       {
         "source": "Digi24",
@@ -2101,6 +2138,16 @@
         "source": "G4Media",
         "title": "Cine sunt judecătorii care au prelungit arestul lui Călin Georgescu: Andrei Buliga, fost procuror DNA, l-a eliberat pe Dragnea / Judecătorul Beșu susține că Buliga a fost și ofițer ”Doi ș-un sfert” / Dragoș Mirea, fost polițist promovat de rețeaua Savonea, a anulat condamnarea lui Sorin Blejnar",
         "link": "https://www.g4media.ro/cine-sunt-judecatorii-care-au-prelungit-arestul-lui-calin-georgescu-andrei-buliga-fost-procuror-dna-l-a-eliberat-pe-dragnea-judecatorul-besu-sustine-ca-buliga-a-fost-si-ofiter-doi-s-un-s.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Călin Georgescu rămâne în arest preventiv pentru încă 30 de zile (surse)",
+        "link": "https://agerpres.ro/justitie/2026/10/28/calin-georgescu-ramane-in-arest-preventiv-pentru-inca-30-de-zile-surse--1607837"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Curtea de Apel a decis: Călin Georgescu rămâne în arest preventiv pentru încă 30 de zile",
+        "link": "https://www.mediafax.ro/social/curtea-de-apel-a-decis-calin-georgescu-ramane-in-arest-preventiv-pentru-inca-30-de-zile-23832914"
       }
     ],
     "published_at": 1793206819,
@@ -2392,7 +2439,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Digi24",
@@ -2403,6 +2450,11 @@
         "source": "Mediafax",
         "title": "PSD acuză USR că și-a numit oamenii în conducerea companiilor de stat: „Dublul standard al USR nu se oprește niciodată”",
         "link": "https://www.mediafax.ro/politic/psd-acuza-usr-ca-si-a-numit-oamenii-in-conducerea-companiilor-de-stat-dublul-standard-al-usr-nu-se-opreste-niciodata-23833283"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "PSD: Dublul standard al USR nu se oprește niciodată",
+        "link": "https://agerpres.ro/politic/2026/10/28/psd-dublul-standard-al-usr-nu-se-opreste-niciodata--1607813"
       }
     ],
     "published_at": 1793206093,
@@ -3436,7 +3488,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 45,
+    "sources_count": 48,
     "sources": [
       {
         "source": "Mediafax",
@@ -3662,6 +3714,21 @@
         "source": "HotNews.ro",
         "title": "După trei ani, Netanyahu se confruntă mâine cu judecata alegătorilor pentru atacurile din 7 octombrie. Sondajele nu îi sunt favorabile",
         "link": "https://hotnews.ro/dupa-trei-ani-netanyahu-se-confrunta-maine-cu-judecata-alegatorilor-pentru-atacurile-din-7-octombrie-sondajele-nu-ii-sunt-favorabile-2386847"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Likud acuză partidele arabe că fură alegerile și cere să fie verificate voturile",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-likud-acuza-partidele-arabe-ca-fura-alegerile-si-cere-sa-fie-verificate-voturile--1607826"
+      },
+      {
+        "source": "G4Media",
+        "title": "Președintele Israelului le cere partidelor să evite organizarea unor noi alegeri",
+        "link": "https://www.g4media.ro/presedintele-israelului-le-cere-partidelor-sa-evite-organizarea-unor-noi-alegeri.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alegerile din Israel, fără un câștigător clar. Netanyahu conduce, dar voturile partidelor arabe ar putea decide cine formează guvernul",
+        "link": "https://stirileprotv.ro/stiri/international/alegerile-din-israel-fara-un-castigator-clar-netanyahu-conduce-dar-voturile-partidelor-arabe-ar-putea-decide-cine-formeaza-guvernul.html"
       }
     ],
     "published_at": 1793203161,
@@ -18692,7 +18759,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "G4Media",
@@ -18713,6 +18780,11 @@
         "source": "HotNews.ro",
         "title": "Elevii și studenții din Franța anunță că vor continuă protestele, în ciuda concesiilor făcute de guvern",
         "link": "https://hotnews.ro/elevii-si-studentii-din-franta-anunta-ca-vor-continua-protestele-in-ciuda-concesiilor-facute-de-guvern-2387317"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Franța: Experți ONU, ''consternați'' de ''represiunea'' manifestațiilor studențești",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/franta-experti-onu-consternati-de-represiunea-manifestatiilor-studentesti--1607830"
       }
     ],
     "published_at": 1793132834,
@@ -19662,35 +19734,6 @@
     "title_ro": "În ce relații au rămas Valerie Lungu și Mirela Vaida după Asia Express. De la ce a pornit scandalul între ele, de fapt",
     "lead_ro": "Participarea la Asia Express 2026 le-a pus la încercare răbdarea mai multor concurenți, iar printre momentele tensionate s-a numărat și întâlnirea dintre Mirela Vaida și Valerie Lungu. Cele două au aj…",
     "content_ro": "Participarea la Asia Express 2026 le-a pus la încercare răbdarea mai multor concurenți, iar printre momentele tensionate s-a numărat și întâlnirea dintre Mirela Vaida și Valerie Lungu. Cele două au ajuns să formeze o echipă temporară după schimbarea partenerilor, însă colaborarea lor nu a fost lipsită de conflicte. Unul dintre cele mai dificile momente a […]"
-  },
-  {
-    "group_id": "group_f848213076",
-    "fingerprint": "08ec1e250b853ae95344a395d987e3da",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI3JTJGMzAzMzkyMF8zMDMz/OTIwX3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjYtMTAtMjdUMjAxOTUxXzg5MS5wbmcm/aGFzaD0yZDBmZGJkYmYwNGExMzViOTU2ODQzMDFlZmY1MjFkYQ==.png",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "România și Republica Moldova își coordonează acțiunile împotriva atacurilor hibride și incursiunilor cu drone. Anunțul premierului",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/romania-si-republica-moldova-isi-coordoneaza-actiunile-impotriva-atacurilor-hibride-si-incursiunilor-cu-drone-anuntul-premierului-4011301"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Luca Niculescu, întâlnire cu președintele Parlamentului de la Chișinău: Ne coordonăm pentru a face faţă atacurilor hibride şi incursiunilor zilnice cu drone",
-        "link": "https://www.mediafax.ro/politic/luca-niculescu-intalnire-cu-presedintele-parlamentului-de-la-chisinau-ne-coordonam-pentru-a-face-fata-atacurilor-hibride-si-incursiunilor-zilnice-cu-drone-23832635"
-      }
-    ],
-    "published_at": 1793125562,
-    "title_hu": "Románia és Moldova összehangolja fellépését a hibrid támadások és a drónincidensek ellen",
-    "lead_hu": "Luca Niculescu román miniszterelnök chișinăui hivatalos látogatásán Igor Grosu moldovai parlamenti elnökkel tárgyalt a regionális biztonságról. A felek a hibrid támadások és a napi drónincidensek elleni együttműködésről, Moldova európai integrációjáról és közös összeköttetési projektekről egyeztettek.",
-    "content_hu": "• **Luca Niculescu román miniszterelnök** chișinăui látogatásán találkozott Igor Grosuval, a moldovai parlament elnökével; megbeszélésükön a regionális biztonság és az európai integráció is szóba került.\n\n• **Románia és Moldova** összehangolja fellépését a hibrid támadásokkal és a napi drónincidensekkel szemben – közölte Niculescu.\n\n• **A közös összeköttetési projektek** a román miniszterelnök szerint a biztonságot és a gazdasági fejlődést is szolgálják.\n\n• **Moldova európai integrációját** Bukarest támogatja; Niculescu méltatta a moldovai parlament uniós csatlakozást gyorsító munkáját.",
-    "title_ro": "România și Republica Moldova își coordonează eforturile împotriva atacurilor hibride și a incursiunilor cu drone",
-    "lead_ro": "Premierul român Luca Niculescu s-a întâlnit la Chișinău cu președintele Parlamentului Republicii Moldova, Igor Grosu, pentru discuții despre securitatea regională. Cei doi au abordat cooperarea împotriva atacurilor hibride și a incursiunilor zilnice cu drone, integrarea europeană a Republicii Moldova și proiectele comune de conectivitate.",
-    "content_ro": "• **Premierul român Luca Niculescu** s-a întâlnit la Chișinău cu Igor Grosu, președintele Parlamentului Republicii Moldova; discuțiile au vizat securitatea regională și integrarea europeană.\n\n• **România și Republica Moldova** își coordonează acțiunile împotriva atacurilor hibride și a incursiunilor zilnice cu drone, a transmis Niculescu.\n\n• **Proiectele comune de conectivitate**, potrivit premierului român, contribuie la siguranță și la dezvoltarea economică.\n\n• **Integrarea europeană a Republicii Moldova** beneficiază de sprijinul Bucureștiului; Niculescu a apreciat eforturile Parlamentului de a accelera aderarea la Uniunea Europeană."
   },
   {
     "group_id": "group_3b1c64a00c",
@@ -21548,6 +21591,292 @@
     "content_ro": ""
   },
   {
+    "group_id": "group_9f0d175eca",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Volei feminin: CSM București, învinsă de Panathinaikos în Cupa Challenge",
+        "link": "https://agerpres.ro/sport-extern/2026/10/28/volei-feminin-csm-bucuresti-invinsa-de-panathinaikos-in-cupa-challenge--1607839"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Volei feminin: CSM București, învinsă de Panathinaikos în Cupa Challenge",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Volei feminin: CSM București, învinsă de Panathinaikos în Cupa Challenge",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_32f5604479",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Republica Moldova: Liderul de la Tiraspol a prelungit cu încă 60 de zile nivelul ridicat de alertă teroristă în Transnistria",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/republica-moldova-liderul-de-la-tiraspol-a-prelungit-cu-inca-60-de-zile-nivelul-ridicat-de-alerta-te--1607834"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Republica Moldova: Liderul de la Tiraspol a prelungit cu încă 60 de zile nivelul ridicat de alertă teroristă în Transnistria",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Republica Moldova: Liderul de la Tiraspol a prelungit cu încă 60 de zile nivelul ridicat de alertă teroristă în Transnistria",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_d252dd859c",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Botoșani: O bombă de aruncător, descoperită în timpul lucrărilor la șoseaua de centură",
+        "link": "https://agerpres.ro/social/2026/10/28/botosani-o-bomba-de-aruncator-descoperita-in-timpul-lucrarilor-la-soseaua-de-centura--1607836"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Botoșani: O bombă de aruncător, descoperită în timpul lucrărilor la șoseaua de centură",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Botoșani: O bombă de aruncător, descoperită în timpul lucrărilor la șoseaua de centură",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4e291338c8",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "SUA: A murit Dolores Huerta, lider sindical și militantă pentru drepturi civile",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/sua-a-murit-dolores-huerta-lider-sindical-si-militanta-pentru-drepturi-civile--1607832"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "SUA: A murit Dolores Huerta, lider sindical și militantă pentru drepturi civile",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "SUA: A murit Dolores Huerta, lider sindical și militantă pentru drepturi civile",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_661236b5d8",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Poliția germană a arestat doi cetățeni belaruși suspectați de plănuirea unor acte de sabotaj în numele Rusiei",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/politia-germana-a-arestat-doi-cetateni-belarusi-suspectati-de-planuirea-unor-acte-de-sabotaj-in-nume--1607829"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Poliția germană a arestat doi cetățeni belaruși suspectați de plănuirea unor acte de sabotaj în numele Rusiei",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Poliția germană a arestat doi cetățeni belaruși suspectați de plănuirea unor acte de sabotaj în numele Rusiei",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_a87cdcd5f2",
+    "category": "Sport",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Atacantul Neymar (Santos FC), suspendat două etape în baza 'legii Vinicius'",
+        "link": "https://agerpres.ro/sport-extern/2026/10/28/fotbal-atacantul-neymar-santos-fc-suspendat-doua-etape-in-baza-legii-vinicius--1607822"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Fotbal: Atacantul Neymar (Santos FC), suspendat două etape în baza 'legii Vinicius'",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Atacantul Neymar (Santos FC), suspendat două etape în baza 'legii Vinicius'",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_8652497bd9",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Găurile negre s-ar putea diviza, dar doar dacă se rotesc la viteze extreme (studiu)",
+        "link": "https://agerpres.ro/stiinta/2026/10/28/gaurile-negre-s-ar-putea-diviza-dar-doar-daca-se-rotesc-la-viteze-extreme-studiu--1607820"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Găurile negre s-ar putea diviza, dar doar dacă se rotesc la viteze extreme (studiu)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Găurile negre s-ar putea diviza, dar doar dacă se rotesc la viteze extreme (studiu)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_e93e464d46",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mihai Enache (AUR): USR a transformat o procedură parlamentară într-un scandal fabricat",
+        "link": "https://agerpres.ro/politic/2026/10/28/mihai-enache-aur-usr-a-transformat-o-procedura-parlamentara-intr-un-scandal-fabricat--1607823"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Mihai Enache (AUR): USR a transformat o procedură parlamentară într-un scandal fabricat",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Mihai Enache (AUR): USR a transformat o procedură parlamentară într-un scandal fabricat",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c4b87e2731",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tragedie feroviară în Toledo: Posibilă ''eroare umană'', după o defectare a sistemului de semnalizare",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/tragedie-feroviara-in-toledo-posibila-eroare-umana-dupa-o-defectare-a-sistemului-de-semnalizare--1607815"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Tragedie feroviară în Toledo: Posibilă ''eroare umană'', după o defectare a sistemului de semnalizare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tragedie feroviară în Toledo: Posibilă ''eroare umană'', după o defectare a sistemului de semnalizare",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_79ec4b38f7",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Curtea de Apel Bucureși a rămas în pronunțare în cazul lui Georgescu",
+        "link": "https://agerpres.ro/justitie/2026/10/28/curtea-de-apel-bucuresi-a-ramas-in-pronuntare-in-cazul-lui-georgescu--1607816"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Curtea de Apel Bucureși a rămas în pronunțare în cazul lui Georgescu",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Curtea de Apel Bucureși a rămas în pronunțare în cazul lui Georgescu",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_cbea298b49",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Turcan: PSD este tot un AUR, doar că pe roșu; Grindeanu cere, AUR execută",
+        "link": "https://agerpres.ro/politic/2026/10/28/turcan-psd-este-tot-un-aur-doar-ca-pe-rosu-grindeanu-cere-aur-executa--1607827"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Turcan: PSD este tot un AUR, doar că pe roșu; Grindeanu cere, AUR execută",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Turcan: PSD este tot un AUR, doar că pe roșu; Grindeanu cere, AUR execută",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f98679f355",
+    "category": "Politika",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Diana Stoica (USR): Alianța PSD-AUR a funcționat, din nou, ca unsă în ședința BP al Camerei Deputaților",
+        "link": "https://agerpres.ro/politic/2026/10/28/diana-stoica-usr-alianta-psd-aur-a-functionat-din-nou-ca-unsa-in-sedinta-bp-al-camerei-deputatilor--1607811"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Diana Stoica (USR): Alianța PSD-AUR a funcționat, din nou, ca unsă în ședința BP al Camerei Deputaților",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Diana Stoica (USR): Alianța PSD-AUR a funcționat, din nou, ca unsă în ședința BP al Camerei Deputaților",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_9b3cce37f1",
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Niculescu - întâlnire cu reprezentanții UNCJR: Am încredere că administrația locală va fi partener solid al Guvernului pentru reforme corecte",
+        "link": "https://agerpres.ro/politic/2026/10/28/niculescu---intalnire-cu-reprezentantii-uncjr-am-incredere-ca-administratia-locala-va-fi-partener-so--1607810"
+      }
+    ],
+    "published_at": 1793145600,
+    "title_hu": "Niculescu - întâlnire cu reprezentanții UNCJR: Am încredere că administrația locală va fi partener solid al Guvernului pentru reforme corecte",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Niculescu - întâlnire cu reprezentanții UNCJR: Am încredere că administrația locală va fi partener solid al Guvernului pentru reforme corecte",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
     "group_id": "group_bcab20d263",
     "category": "Bulvár",
     "image": "https://www.cancan.ro/wp-content/uploads/2026/10/poza-28-1200x816.jpg",
@@ -21612,27 +21941,5 @@
     "title_ro": "La Liga a pierdut o piață de miliarde! Scandalul provocat de Kylian Mbappe a degenerat",
     "lead_ro": "CCTV, televiziunea de stat a Chinei, a decis să oprească transmiterea fotbalului din La Liga, ca urmare a scandalului cauzat de afirmațiile lui Kylian Mbappe legate de un meme viral în care chipul său…",
     "content_ro": "CCTV, televiziunea de stat a Chinei, a decis să oprească transmiterea fotbalului din La Liga, ca urmare a scandalului cauzat de afirmațiile lui Kylian Mbappe legate de un meme viral în care chipul său este asociat cu imaginea fostului lider chinez Mao Zedong. De asemenea, și platforma Migu, a operatorului China Mobile care are drepturile TV, a scos din grila de programe meciul celor de la Real Madrid cu Racing Santander. ..."
-  },
-  {
-    "group_id": "group_d46e07fd23",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/loredana-cu-sotul.jpg-1200x675.jpeg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "El este principalul suspect în cazul morții Loredanei Moroșanu. Ireal ce le-a spus logodnicul femeii polițiștilor",
-        "link": "https://www.cancan.ro/el-este-principalul-suspect-in-cazul-mortii-loredanei-morosanu-ireal-ce-le-a-spus-logodnicul-femeii-politistilor-21537504"
-      }
-    ],
-    "published_at": 1793125657,
-    "title_hu": "El este principalul suspect în cazul morții Loredanei Moroșanu. Ireal ce le-a spus logodnicul femeii polițiștilor",
-    "lead_hu": "O tragedie în care este implicată o româncă în vârstă de 48 de ani a zguduit comunitatea românească din Irlanda. Loredana, originară din municipiul Botoșani, a fost găsită fără viață într-o locuință d…",
-    "content_hu": "O tragedie în care este implicată o româncă în vârstă de 48 de ani a zguduit comunitatea românească din Irlanda. Loredana, originară din municipiul Botoșani, a fost găsită fără viață într-o locuință din Dublin, la scurt timp după ce se mutase în capitala irlandeză. Moartea sa a intrat în atenția autorităților, care au deschis o […]",
-    "title_ro": "El este principalul suspect în cazul morții Loredanei Moroșanu. Ireal ce le-a spus logodnicul femeii polițiștilor",
-    "lead_ro": "O tragedie în care este implicată o româncă în vârstă de 48 de ani a zguduit comunitatea românească din Irlanda. Loredana, originară din municipiul Botoșani, a fost găsită fără viață într-o locuință d…",
-    "content_ro": "O tragedie în care este implicată o româncă în vârstă de 48 de ani a zguduit comunitatea românească din Irlanda. Loredana, originară din municipiul Botoșani, a fost găsită fără viață într-o locuință din Dublin, la scurt timp după ce se mutase în capitala irlandeză. Moartea sa a intrat în atenția autorităților, care au deschis o […]"
   }
 ]
