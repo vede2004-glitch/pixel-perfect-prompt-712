@@ -43,7 +43,8 @@ PUBLIC_RSS_FEEDS = {
     "Mediafax": "https://www.mediafax.ro/rss/",
     "ProTV Stiri": "https://stirileprotv.ro/rss",
     "Ebihoreanul (Nagyvárad/Bihar)": "https://www.ebihoreanul.ro/rss",
-    "Maszol Gazdaság": "https://maszol.ro/gazdasag/rss"
+    "Maszol Gazdaság": "https://maszol.ro/gazdasag/rss",
+    "Pontmaros": "https://www.pontmaros.ro/feed/"
 }
 
 # 🎯 KIZÁRÓLAG B2B / EXKLUZÍV HÍRFORRÁSOK LISTÁJA
