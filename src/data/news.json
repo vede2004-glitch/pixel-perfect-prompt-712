@@ -1,5 +1,49 @@
 [
   {
+    "group_id": "group_c80f70ad92",
+    "category": "Sport",
+    "image": "https://cdn.adh.reperio.news/image-4/4e463365-1762-4f1a-8179-646aa3e6256b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Răzvan Burleanu ar putea fi contracandidatul lui Gianni Infantino pentru șefia FIFA!",
+        "link": "https://adevarul.ro/sport/razvan-burleanu-ar-putea-fi-contracandidatul-lui-2567293.html"
+      }
+    ],
+    "published_at": 1793226902,
+    "title_hu": "Răzvan Burleanu ar putea fi contracandidatul lui Gianni Infantino pentru șefia FIFA!",
+    "lead_hu": "Într-un articol apărut pe site-ul cotidianului francez „LEquipe”, sub semnătura lui Etienne Moatti, se vorbește despre „Planul B” al celor care se opun lui Gianni Infantino, actualul președinte al Fed...",
+    "content_hu": "Într-un articol apărut pe site-ul cotidianului francez „LEquipe”, sub semnătura lui Etienne Moatti, se vorbește despre „Planul B” al celor care se opun lui Gianni Infantino, actualul președinte al Federației Internaționale de Fotbal Asociația (FIFA).",
+    "title_ro": "Răzvan Burleanu ar putea fi contracandidatul lui Gianni Infantino pentru șefia FIFA!",
+    "lead_ro": "Într-un articol apărut pe site-ul cotidianului francez „LEquipe”, sub semnătura lui Etienne Moatti, se vorbește despre „Planul B” al celor care se opun lui Gianni Infantino, actualul președinte al Fed...",
+    "content_ro": "Într-un articol apărut pe site-ul cotidianului francez „LEquipe”, sub semnătura lui Etienne Moatti, se vorbește despre „Planul B” al celor care se opun lui Gianni Infantino, actualul președinte al Federației Internaționale de Fotbal Asociația (FIFA)."
+  },
+  {
+    "group_id": "group_1a2bc4588e",
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-b/b4081447-d0f0-477d-90e7-ab1aae408a99/index.png?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0.115%252C0%252C0.822%252C1%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "30 octombrie, o zi neagră în istoria României. 11 ani de la Colectiv: filmul incendiului care a cutremurat țara",
+        "link": "https://adevarul.ro/stiri-interne/societate/30-octombrie-o-zi-neagra-in-istoria-romaniei-11-2567181.html"
+      }
+    ],
+    "published_at": 1793226625,
+    "title_hu": "30 octombrie, o zi neagră în istoria României. 11 ani de la Colectiv: filmul incendiului care a cutremurat țara",
+    "lead_hu": "În 30 octombrie 2026 se împlinesc 11 ani de la incendiul din clubul Colectiv din București. Tragedia, în urma căreia 65 de oameni și-au pierdut viața, direct sau indirect, iar alți 186 au fost răniți,...",
+    "content_hu": "În 30 octombrie 2026 se împlinesc 11 ani de la incendiul din clubul Colectiv din București. Tragedia, în urma căreia 65 de oameni și-au pierdut viața, direct sau indirect, iar alți 186 au fost răniți, a provocat un val de revoltă în societatea românească, proteste de amploare și căderea Guvernului.",
+    "title_ro": "30 octombrie, o zi neagră în istoria României. 11 ani de la Colectiv: filmul incendiului care a cutremurat țara",
+    "lead_ro": "În 30 octombrie 2026 se împlinesc 11 ani de la incendiul din clubul Colectiv din București. Tragedia, în urma căreia 65 de oameni și-au pierdut viața, direct sau indirect, iar alți 186 au fost răniți,...",
+    "content_ro": "În 30 octombrie 2026 se împlinesc 11 ani de la incendiul din clubul Colectiv din București. Tragedia, în urma căreia 65 de oameni și-au pierdut viața, direct sau indirect, iar alți 186 au fost răniți, a provocat un val de revoltă în societatea românească, proteste de amploare și căderea Guvernului."
+  },
+  {
     "group_id": "group_d0dabd7ab3",
     "category": "Általános",
     "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjI5JTJGMzAzNTYyM18zMDM1/NjIzX0lEMjM2NzMyLUlOUVVBTS1QSE9U/T1MtU0FCSU4tQ0lSU1RPVkVBTlUuanBn/Jmhhc2g9MjIxNzRiYmEzMWE0MDE1ZjhkODY0NzgyMTVlY2MyYzQ=.jpg",
@@ -139,7 +183,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Mediafax",
@@ -155,6 +199,11 @@
         "source": "Adevărul",
         "title": "„U” a câștigat „Derby-ul Clujului” cu CFR, Dinamo a făcut scor cu Chindia",
         "link": "https://adevarul.ro/sport/u-a-castigat-derby-ul-clujului-cu-cfr-dinamo-2567291.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Resemnat, Marius Șumudică dă vina pe jucători: „Trei goluri, trei...”",
+        "link": "https://www.gsp.ro/fotbal/cupa-romaniei/marius-sumudica-reactie-cfr-u-cluj-cupa-romaniei-993452.html"
       }
     ],
     "published_at": 1793224591,
