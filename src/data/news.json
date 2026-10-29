@@ -44,6 +44,27 @@
     "content_ro": "Lakásárak tekintetében a legdrágább város továbbra is Kolozsvár, az egyetlen olyan település, ahol az eladásra kínált ingatlanok átlagos négyzetméterára meghaladja a 3300 eurót."
   },
   {
+    "group_id": "group_2380f29f89",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "(P) Care sunt serviciile de care te bucuri la o vulcanizare profesionistă?",
+        "link": "https://www.cancan.ro/p-care-sunt-serviciile-de-care-te-bucuri-la-o-vulcanizare-profesionista-21538309"
+      }
+    ],
+    "published_at": 1793268358,
+    "title_hu": "(P) Care sunt serviciile de care te bucuri la o vulcanizare profesionistă?",
+    "lead_hu": "Întreținerea corectă a anvelopelor este esențială pentru siguranța, confortul și performanța mașinii, indiferent de distanțele pe care le parcurgi zilnic. Anvelopele reprezintă singurul punct de conta...",
+    "content_hu": "Întreținerea corectă a anvelopelor este esențială pentru siguranța, confortul și performanța mașinii, indiferent de distanțele pe care le parcurgi zilnic. Anvelopele reprezintă singurul punct de contact dintre automobil și carosabil, iar starea lor influențează direct aderența, distanța de frânare și stabilitatea în timpul deplasării. Din acest motiv, alegerea unui atelier specializat este importantă atât atunci […]",
+    "title_ro": "(P) Care sunt serviciile de care te bucuri la o vulcanizare profesionistă?",
+    "lead_ro": "Întreținerea corectă a anvelopelor este esențială pentru siguranța, confortul și performanța mașinii, indiferent de distanțele pe care le parcurgi zilnic. Anvelopele reprezintă singurul punct de conta...",
+    "content_ro": "Întreținerea corectă a anvelopelor este esențială pentru siguranța, confortul și performanța mașinii, indiferent de distanțele pe care le parcurgi zilnic. Anvelopele reprezintă singurul punct de contact dintre automobil și carosabil, iar starea lor influențează direct aderența, distanța de frânare și stabilitatea în timpul deplasării. Din acest motiv, alegerea unui atelier specializat este importantă atât atunci […]"
+  },
+  {
     "group_id": "group_f67236c62d",
     "category": "Gazdaság",
     "image": "https://www.g4media.ro//wp-content/uploads/2026/10/g4media-XTB-Young-e1793267967230.jpg",
@@ -181,12 +202,17 @@
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8164986-mediafax_foto-alex_nicodim-1-1024x683.jpg",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Rogobete, mesaj ferm pentru cadrele didactice și medicii cu experiență: Tinerii medici nu trebuie priviți ca o amenințare",
         "link": "https://www.mediafax.ro/stirile-zilei/rogobete-mesaj-ferm-pentru-cadrele-didactice-si-medicii-cu-experienta-tinerii-medici-nu-trebuie-priviti-ca-o-amenintare-23833616"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rogobete: Tinerii medici, rezidenții și viitorii specialiști trebuie susținuți, nu priviți ca o amenințare",
+        "link": "https://agerpres.ro/sanatate/2026/10/29/rogobete-tinerii-medici-rezidentii-si-viitorii-specialisti-trebuie-sustinuti-nu-priviti-ca-o-amenint--1607987"
       }
     ],
     "published_at": 1793267854,
@@ -203,12 +229,17 @@
     "image": "https://stirileprotv.ro/img/2026/10/29/094842/shutterstock-tarom.jpg?fm=jpg&q=80&fit=crop&crop=1000%2C667%2C0%2C0&w=1280",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Recunoaștere regală pentru TAROM. Compania a primit titlul de Furnizor al Casei Regale de transport aerian",
         "link": "https://stirileprotv.ro/stiri/actualitate/recunoastere-regala-pentru-tarom-compania-a-primit-titlul-de-furnizor-al-casei-regale.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "TAROM a primit titlul de Furnizor al Casei Regale a României pentru servicii de transport aerian",
+        "link": "https://agerpres.ro/economic/2026/10/29/tarom-a-primit-titlul-de-furnizor-al-casei-regale-a-romaniei-pentru-servicii-de-transport-aerian--1607983"
       }
     ],
     "published_at": 1793267703,
@@ -1384,7 +1415,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Adevărul",
@@ -1410,6 +1441,11 @@
         "source": "ProTV Stiri",
         "title": "Carlyle şi BERD au ajuns la un acord pentru vânzarea Black Sea Oil & Gas către Mazarine Energy",
         "link": "https://stirileprotv.ro/stiri/financiar/carlyle-si-berd-au-ajuns-la-un-acord-pentru-vanzarea-black-sea-oil-and-gas-catre-mazarine-energy.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Tranzacție majoră. Compania americană Carlyle vinde Black Sea Oil & Gas, cel mai mare producător de gaze offshore din Marea Neagră / Cine este cumpărătorul",
+        "link": "https://hotnews.ro/compania-americana-carlyle-vinde-black-sea-oil-gas-cel-mai-mare-producator-de-gaze-offshore-din-marea-neagra-cine-este-cumparatorul-2389630"
       }
     ],
     "published_at": 1793266162,
@@ -1949,7 +1985,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Adevărul",
@@ -1975,6 +2011,11 @@
         "source": "Digi24",
         "title": "Linia de Apărare a Țărilor Baltice: un stat NATO va construi 150 de buncăre la granița cu Rusia",
         "link": "https://www.digi24.ro/stiri/externe/ue/linia-de-aparare-a-tarilor-baltice-un-stat-nato-va-construi-150-de-buncare-la-granita-cu-rusia-4013509"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Estonia va construi aproximativ 150 de buncăre la granița cu Rusia, inclusiv pe terenuri private",
+        "link": "https://agerpres.ro/politic-extern/2026/10/29/estonia-va-construi-aproximativ-150-de-buncare-la-granita-cu-rusia-inclusiv-pe-terenuri-private--1607991"
       }
     ],
     "published_at": 1793265258,
@@ -4729,7 +4770,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -4740,6 +4781,11 @@
         "source": "Digi24",
         "title": "O sută de ani de istorie pe patru roți. Vaticanul expune colecția de papamobile ale suveranilor pontifi începând din 1930",
         "link": "https://www.digi24.ro/stiri/diverse/o-suta-de-ani-de-istorie-pe-patru-roti-vaticanul-expune-colectia-de-papamobile-ale-suveranilor-pontifi-incepand-din-1930-4013321"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vaticanul deschide garajul Suveranilor Pontifi. Opt automobile Mercedes-Benz dezvăluie aproape 100 de ani de istorie",
+        "link": "https://www.mediafax.ro/life-inedit/vaticanul-deschide-garajul-suveranilor-pontifi-opt-automobile-mercedes-benz-dezvaluie-aproape-100-de-ani-de-istorie-23833614"
       }
     ],
     "published_at": 1793259407,
@@ -4812,12 +4858,17 @@
     "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/trafic-maritim-in-stramtoarea-ormuz-inainte-de-izbucnirea-razboiului-1024x541.jpg",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Coreea de Sud ar putea trimite avioane de patrulare în Strâmtoarea Ormuz. Nu va participa la lupte",
         "link": "https://www.mediafax.ro/externe/coreea-de-sud-ar-putea-trimite-avioane-de-patrulare-in-stramtoarea-ormuz-nu-va-participa-la-lupte-23833497"
+      },
+      {
+        "source": "G4Media",
+        "title": "Coreea de Sud ar putea trimite avioane de patrulare în strâmtoarea Ormuz, dar nu se va implica în operațiuni de luptă",
+        "link": "https://www.g4media.ro/coreea-de-sud-ar-putea-trimite-avioane-de-patrulare-in-stramtoarea-ormuz-dar-nu-se-va-implica-in-operatiuni-de-lupta.html"
       }
     ],
     "published_at": 1793259222,
@@ -6159,7 +6210,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Digi24",
@@ -6175,6 +6226,11 @@
         "source": "G4Media",
         "title": "Un atac cibernetic masiv asupra sistemelor guvernamentale din Republica Moldova s-a soldat cu furtul datelor personale a sute de mii de cetățeni. Expert: Sistemul nostru de securitate digitală nu este atât de bine dezvoltat pe cât s-a crezut",
         "link": "https://www.g4media.ro/un-atac-cibernetic-masiv-asupra-sistemelor-guvernamentale-din-republica-moldova-s-a-soldat-cu-furtul-datelor-personale-a-sute-de-mii-de-cetateni-expert-sistemul-nostru-de-securitate-digitala-nu-este.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Datele a circa 750.000 de cetățeni din Republica Moldova ar fi fost extrase în urma unui atac cibernetic",
+        "link": "https://agerpres.ro/politic-extern/2026/10/29/datele-a-circa-750-000-de-cetateni-din-republica-moldova-ar-fi-fost-extrase-in-urma-unui-atac-cibern--1607989"
       }
     ],
     "published_at": 1793255789,
@@ -8392,7 +8448,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "G4Media",
@@ -8443,6 +8499,11 @@
         "source": "HotNews.ro",
         "title": "Un român, martor la tragedia feroviară din Spania. „Eram la 15-20 de metri de trenul cu accidentul. A fost o explozie ca o bombă”",
         "link": "https://hotnews.ro/un-roman-martor-la-tragedia-feroviara-din-spania-eram-la-15-20-de-metri-de-trenul-cu-accidentul-a-fost-o-explozie-ca-o-bomba-2389597"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Un român, rănit în accidentul feroviar din Spania soldat cu 69 de morți. MAE: „A primit îngrijiri medicale, nu este internat”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/un-roman-ranit-in-accidentul-feroviar-din-spania-2567392.html"
       }
     ],
     "published_at": 1793237425,
@@ -16263,12 +16324,17 @@
     "image": "https://www.g4media.ro//wp-content/uploads/2025/11/8082543-Hepta_Mediafax_Foto-ABACAPRESS_Hepta.jpg",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "G4Media",
         "title": "Chivu, avertizat – Pericolul nu vine de la Milan sau Juventus",
         "link": "https://www.g4media.ro/chivu-avertizat-pericolul-nu-vine-de-la-milan-sau-juventus.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Veste importantă pentru Cristi Chivu: probleme pentru AC Milan înaintea marelui derby cu Inter",
+        "link": "https://www.gsp.ro/international/campionate/veste-importanta-cristi-chivu-probleme-ac-milan-derby-inter-993556.html"
       }
     ],
     "published_at": 1793195092,
@@ -18005,6 +18071,27 @@
     "title_ro": "Deputatul USR Emanuel Ungureanu cere DIICOT și DNA explicații în cazul Nordis, unde ancheta procurorilor bate pasul pe loc / Sorin Grindeanu și Marcel Ciolacu, printre pasagerii zborurilor de lux Nordis",
     "lead_ro": "Deputatul USR Emanuel Ungureanu a cerut miercuri DIICOT și DNA să comunice stadiul dosarului Nordis, respectiv dacă au fost înregistrate și analizate sesizările privind posibile fapte de corupție, pot…",
     "content_ro": "Deputatul USR Emanuel Ungureanu a cerut miercuri DIICOT și DNA să comunice stadiul dosarului Nordis, respectiv dacă au fost înregistrate și analizate sesizările privind posibile fapte de corupție, potrivit unui comunicat. Cererea USR, formulată într-o conferință de presă susținută alături de păgubiți Nordis, vine în contextul în care persoane prejudiciate din dosar reclamă întârzieri în […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_9f58787cad",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Másfélszeresére emelkedett a menedékkérelmek száma a tavalyi évhez képest",
+        "link": "https://maszol.ro/belfold/Masfelszeresere-emelkedett-a-menedekkerelmek-szama-a-tavalyi-evhez-kepest"
+      }
+    ],
+    "published_at": 1793189700,
+    "title_hu": "Másfélszeresére emelkedett a menedékkérelmek száma a tavalyi évhez képest",
+    "lead_hu": "Másfélszeresére emelkedett Romániában a külföldiek által beterjesztett menedékkérelmek száma az év első kilenc hónapjában a tavalyi év azonos időszakához képest....",
+    "content_hu": "Másfélszeresére emelkedett Romániában a külföldiek által beterjesztett menedékkérelmek száma az év első kilenc hónapjában a tavalyi év azonos időszakához képest.",
+    "title_ro": "Másfélszeresére emelkedett a menedékkérelmek száma a tavalyi évhez képest",
+    "lead_ro": "Másfélszeresére emelkedett Romániában a külföldiek által beterjesztett menedékkérelmek száma az év első kilenc hónapjában a tavalyi év azonos időszakához képest....",
+    "content_ro": "Másfélszeresére emelkedett Romániában a külföldiek által beterjesztett menedékkérelmek száma az év első kilenc hónapjában a tavalyi év azonos időszakához képest."
   },
   {
     "group_id": "group_372c3d3583",
@@ -20220,7 +20307,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Agerpres (HU)",
@@ -20241,6 +20328,11 @@
         "source": "Maszol",
         "title": "Kelemen Hunor: Szükség van közigazgatási reformra, de alaposan át kell gondolni",
         "link": "https://maszol.ro/belfold/Kelemen-Hunor-Szukseg-van-kozigazgatasi-reformra-de-alaposan-at-kell-gondolni"
+      },
+      {
+        "source": "Maszol",
+        "title": "Szociáldemokrata politikus a közigazgatási reformról: Nem jelenthet puszta összevonást",
+        "link": "https://maszol.ro/belfold/Szocialdemokrata-politikus-a-kozigazgatasi-reformrol-Nem-jelenthet-puszta-osszevonast"
       }
     ],
     "published_at": 1793183520,
@@ -20382,160 +20474,6 @@
     "title_ro": "Un poliţist a fost trimis în judecată după ce a dat ponturi unor hoţi din locuinţele unor medici şi a unui politician, din Timișoara",
     "lead_ro": "Un agent de poliţie de la Secţia 5 Poliţie Timişoara a fost trimis în judecată, după ce a fost prins că dădea ponturi unor hoţi din locuinţele unor medici, dar şi din casa rectorului Universităţii de …",
     "content_ro": "Un agent de poliţie de la Secţia 5 Poliţie Timişoara a fost trimis în judecată, după ce a fost prins că dădea ponturi unor hoţi din locuinţele unor medici, dar şi din casa rectorului Universităţii de Vest din Timişoara, deputatul liberal Marilen Pirtea."
-  },
-  {
-    "group_id": "group_154ba75fa9",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/oboseala-cearcane-fata-lipsa-de-fier-scaled-e1793181750393-1024x663.jpg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„Ferritin face”, fenomenul viral pe TikTok. Ce pot dezvălui cearcănele și pielea palidă despre sănătatea ta",
-        "link": "https://www.mediafax.ro/life-inedit/ferritin-face-fenomenul-viral-pe-tiktok-ce-pot-dezvalui-cearcanele-si-pielea-palida-despre-sanatatea-ta-23832993"
-      }
-    ],
-    "published_at": 1793182380,
-    "title_hu": "„Ferritin face”, fenomenul viral pe TikTok. Ce pot dezvălui cearcănele și pielea palidă despre sănătatea ta",
-    "lead_hu": "Cearcănele pronunțate, pielea palidă, buzele crăpate și căderea părului sunt prezentate pe TikTok drept semne ale unui fenomen numit „ferritin face”, asociat cu rezervele scăzute de fier din organism.…",
-    "content_hu": "Cearcănele pronunțate, pielea palidă, buzele crăpate și căderea părului sunt prezentate pe TikTok drept semne ale unui fenomen numit „ferritin face”, asociat cu rezervele scăzute de fier din organism. Medicii confirmă că deficitul de fier poate influența aspectul fizic, dar avertizează că aceste modificări nu sunt suficiente pentru stabilirea unui diagnostic.",
-    "title_ro": "„Ferritin face”, fenomenul viral pe TikTok. Ce pot dezvălui cearcănele și pielea palidă despre sănătatea ta",
-    "lead_ro": "Cearcănele pronunțate, pielea palidă, buzele crăpate și căderea părului sunt prezentate pe TikTok drept semne ale unui fenomen numit „ferritin face”, asociat cu rezervele scăzute de fier din organism.…",
-    "content_ro": "Cearcănele pronunțate, pielea palidă, buzele crăpate și căderea părului sunt prezentate pe TikTok drept semne ale unui fenomen numit „ferritin face”, asociat cu rezervele scăzute de fier din organism. Medicii confirmă că deficitul de fier poate influența aspectul fizic, dar avertizează că aceste modificări nu sunt suficiente pentru stabilirea unui diagnostic."
-  },
-  {
-    "group_id": "group_d928b6d5f8",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Meseria de a ști cine ești și de a face mereu cât poți mai bine. Ce ne-a arătat câștigătorul Balonului de Aur",
-        "link": "https://hotnews.ro/meseria-de-a-sti-cine-esti-si-de-a-face-mereu-cat-poti-mai-bine-ce-ne-a-aratat-castigatorul-balonului-de-aur-2388545"
-      }
-    ],
-    "published_at": 1793182282,
-    "title_hu": "Meseria de a ști cine ești și de a face mereu cât poți mai bine. Ce ne-a arătat câștigătorul Balonului de Aur",
-    "lead_hu": "N-are tatuaje. N-are cercei băgați pe te miri unde. N-are o freză fistichie. N-are nici măcar tunsoare „de fotbalist”, știți stilul, ras pe margini ca pe vremea pajilor medievali. Nu spune prostii, nu…",
-    "content_hu": "N-are tatuaje. N-are cercei băgați pe te miri unde. N-are o freză fistichie. N-are nici măcar tunsoare „de fotbalist”, știți stilul, ras pe margini ca pe vremea pajilor medievali. Nu spune prostii, nu își trage de păr adversarii, nu urlă ca disperatu’ după un fault care n-a fost. Nu e cool. E cold. Perseverență, concentrare, …",
-    "title_ro": "Meseria de a ști cine ești și de a face mereu cât poți mai bine. Ce ne-a arătat câștigătorul Balonului de Aur",
-    "lead_ro": "N-are tatuaje. N-are cercei băgați pe te miri unde. N-are o freză fistichie. N-are nici măcar tunsoare „de fotbalist”, știți stilul, ras pe margini ca pe vremea pajilor medievali. Nu spune prostii, nu…",
-    "content_ro": "N-are tatuaje. N-are cercei băgați pe te miri unde. N-are o freză fistichie. N-are nici măcar tunsoare „de fotbalist”, știți stilul, ras pe margini ca pe vremea pajilor medievali. Nu spune prostii, nu își trage de păr adversarii, nu urlă ca disperatu’ după un fault care n-a fost. Nu e cool. E cold. Perseverență, concentrare, …"
-  },
-  {
-    "group_id": "group_e97db5acc5",
-    "category": "Erdély",
-    "image": "",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Toamna, sezonul în care investim în confortul de acasă",
-        "link": "https://www.ebihoreanul.ro/stiri/toamna-sezonul-in-care-investim-in-confortul-de-acasa-206161.html"
-      }
-    ],
-    "published_at": 1793182260,
-    "title_hu": "Toamna, sezonul în care investim în confortul de acasă",
-    "lead_hu": "Pe măsură ce petrecem mai mult timp acasă în sezonul rece, confortul, eficiența și calitatea devin elemente esențiale în viața de zi cu zi. De la prepararea cafelei de dimineață și gătitul în familie,…",
-    "content_hu": "Pe măsură ce petrecem mai mult timp acasă în sezonul rece, confortul, eficiența și calitatea devin elemente esențiale în viața de zi cu zi. De la prepararea cafelei de dimineață și gătitul în familie, până la îngrijirea hainelor și menținerea curățeniei, electrocasnicele joacă un rol important în simplificarea rutinelor cotidiene.",
-    "title_ro": "Toamna, sezonul în care investim în confortul de acasă",
-    "lead_ro": "Pe măsură ce petrecem mai mult timp acasă în sezonul rece, confortul, eficiența și calitatea devin elemente esențiale în viața de zi cu zi. De la prepararea cafelei de dimineață și gătitul în familie,…",
-    "content_ro": "Pe măsură ce petrecem mai mult timp acasă în sezonul rece, confortul, eficiența și calitatea devin elemente esențiale în viața de zi cu zi. De la prepararea cafelei de dimineață și gătitul în familie, până la îngrijirea hainelor și menținerea curățeniei, electrocasnicele joacă un rol important în simplificarea rutinelor cotidiene."
-  },
-  {
-    "group_id": "group_998f43e689",
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjY5MF8zMDI2/NjkwX3Byb2ZpbWVkaWEtMTE0NDAyODM0/Mi5qcGcmaGFzaD02NTc4OTYwMTE5ZGMxY2Q3Y2ExZTA5YzE5M2UwNDRlMg==.jpg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "DNSC avertizează asupra fraudelor de Black Friday. Cum pot fi păcăliți cumpărătorii prin oferte false și mesaje despre colete",
-        "link": "https://www.digi24.ro/stiri/economie/consumatori/dnsc-avertizeaza-asupra-fraudelor-de-black-friday-cum-pot-fi-pacaliti-cumparatorii-prin-oferte-false-si-mesaje-despre-colete-4011965"
-      }
-    ],
-    "published_at": 1793182183,
-    "title_hu": "DNSC avertizează asupra fraudelor de Black Friday. Cum pot fi păcăliți cumpărătorii prin oferte false și mesaje despre colete",
-    "lead_hu": "Directoratul Național de Securitate Cibernetică (DNSC), Poliția Română și Asociația Română a Băncilor (ARB) avertizează asupra riscului de fraude online în perioada Black Friday și le recomandă cumpăr…",
-    "content_hu": "Directoratul Național de Securitate Cibernetică (DNSC), Poliția Română și Asociația Română a Băncilor (ARB) avertizează asupra riscului de fraude online în perioada Black Friday și le recomandă cumpărătorilor să verifice cu atenție ofertele, mesajele privind livrarea coletelor și solicitările de plată, pentru a nu le oferi infractorilor acces la datele bancare sau la conturile personale.",
-    "title_ro": "DNSC avertizează asupra fraudelor de Black Friday. Cum pot fi păcăliți cumpărătorii prin oferte false și mesaje despre colete",
-    "lead_ro": "Directoratul Național de Securitate Cibernetică (DNSC), Poliția Română și Asociația Română a Băncilor (ARB) avertizează asupra riscului de fraude online în perioada Black Friday și le recomandă cumpăr…",
-    "content_ro": "Directoratul Național de Securitate Cibernetică (DNSC), Poliția Română și Asociația Română a Băncilor (ARB) avertizează asupra riscului de fraude online în perioada Black Friday și le recomandă cumpărătorilor să verifice cu atenție ofertele, mesajele privind livrarea coletelor și solicitările de plată, pentru a nu le oferi infractorilor acces la datele bancare sau la conturile personale."
-  },
-  {
-    "group_id": "group_ecd5bab29c",
-    "category": "Erdély",
-    "image": "https://hargitanepe.ro//images/data/423x222/1793171005_0_petofiutcailik_kfcs_01_web.jpg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hargita Népe",
-        "title": "Karácsonyfa a virágágyásban",
-        "link": "https://hargitanepe.ro/karacsonyfa-a-viragagyasban"
-      }
-    ],
-    "published_at": 1793182169,
-    "title_hu": "Karácsonyfa a virágágyásban",
-    "lead_hu": "Megerősítik a város karácsonyfájának talapzatát és magaságyást is létesítenek köréje Csíkszeredában, a központi áruház előtti placcon. Emellett a Petőfi utca több pontján is hasonló magaságyásokat lét…",
-    "content_hu": "Megerősítik a város karácsonyfájának talapzatát és magaságyást is létesítenek köréje Csíkszeredában, a központi áruház előtti placcon. Emellett a Petőfi utca több pontján is hasonló magaságyásokat létesítenek, amelyek ülőalkalmatosságként is szolgálnak majd.",
-    "title_ro": "Karácsonyfa a virágágyásban",
-    "lead_ro": "Megerősítik a város karácsonyfájának talapzatát és magaságyást is létesítenek köréje Csíkszeredában, a központi áruház előtti placcon. Emellett a Petőfi utca több pontján is hasonló magaságyásokat lét…",
-    "content_ro": "Megerősítik a város karácsonyfájának talapzatát és magaságyást is létesítenek köréje Csíkszeredában, a központi áruház előtti placcon. Emellett a Petőfi utca több pontján is hasonló magaságyásokat létesítenek, amelyek ülőalkalmatosságként is szolgálnak majd."
-  },
-  {
-    "group_id": "group_1c459d9c64",
-    "category": "Politika",
-    "image": "",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Unele alegeri îți fac casa mai frumoasă. Altele îți fac fiecare zi mai bună",
-        "link": "https://hotnews.ro/unele-alegeri-iti-fac-casa-mai-frumoasa-altele-iti-fac-fiecare-zi-mai-buna-2388642"
-      }
-    ],
-    "published_at": 1793182159,
-    "title_hu": "Unele alegeri îți fac casa mai frumoasă. Altele îți fac fiecare zi mai bună",
-    "lead_hu": "Coregrafia vieții moderne presupune multe salturi între lucrurile de făcut în casă. Dar există soluții care să-ți ușureze treburile casnice, cum sunt cele de la Miele. Dacă te gândești de ceva timp să…",
-    "content_hu": "Coregrafia vieții moderne presupune multe salturi între lucrurile de făcut în casă. Dar există soluții care să-ți ușureze treburile casnice, cum sunt cele de la Miele. Dacă te gândești de ceva timp să investești în electrocasnice care să-ți simplifice rutina și să aducă mai mult confort în locuință, acum poate fi momentul potrivit. Unele achiziții …",
-    "title_ro": "Unele alegeri îți fac casa mai frumoasă. Altele îți fac fiecare zi mai bună",
-    "lead_ro": "Coregrafia vieții moderne presupune multe salturi între lucrurile de făcut în casă. Dar există soluții care să-ți ușureze treburile casnice, cum sunt cele de la Miele. Dacă te gândești de ceva timp să…",
-    "content_ro": "Coregrafia vieții moderne presupune multe salturi între lucrurile de făcut în casă. Dar există soluții care să-ți ușureze treburile casnice, cum sunt cele de la Miele. Dacă te gândești de ceva timp să investești în electrocasnice care să-ți simplifice rutina și să aducă mai mult confort în locuință, acum poate fi momentul potrivit. Unele achiziții …"
-  },
-  {
-    "group_id": "group_10a911e842",
-    "category": "Bulvár",
-    "image": "https://www.cancan.ro/wp-content/uploads/2026/10/banc-108-1200x686.jpeg",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "BANCUL ZILEI | Un bărbat cumpără o omidă vorbitoare",
-        "link": "https://www.cancan.ro/bancul-zilei-un-barbat-cumpara-o-omida-vorbitoare-21537791"
-      }
-    ],
-    "published_at": 1793182145,
-    "title_hu": "BANCUL ZILEI | Un bărbat cumpără o omidă vorbitoare",
-    "lead_hu": "Nu trebuie să treacă nicio zi fără o porție copioasă de râs, iar pentru asta am pregătit un banc amuzant care cu siguranță o să îți aducă zâmbetul pe buze. Protagonistul de astăzi își cumpără o omidă …",
-    "content_hu": "Nu trebuie să treacă nicio zi fără o porție copioasă de râs, iar pentru asta am pregătit un banc amuzant care cu siguranță o să îți aducă zâmbetul pe buze. Protagonistul de astăzi își cumpără o omidă vorbitoare, iar deznodământul este hilar. Se duce un om la un magazin zoo și zice: – Aveți vreun […]",
-    "title_ro": "BANCUL ZILEI | Un bărbat cumpără o omidă vorbitoare",
-    "lead_ro": "Nu trebuie să treacă nicio zi fără o porție copioasă de râs, iar pentru asta am pregătit un banc amuzant care cu siguranță o să îți aducă zâmbetul pe buze. Protagonistul de astăzi își cumpără o omidă …",
-    "content_ro": "Nu trebuie să treacă nicio zi fără o porție copioasă de râs, iar pentru asta am pregătit un banc amuzant care cu siguranță o să îți aducă zâmbetul pe buze. Protagonistul de astăzi își cumpără o omidă vorbitoare, iar deznodământul este hilar. Se duce un om la un magazin zoo și zice: – Aveți vreun […]"
   },
   {
     "group_id": "group_d6d21ae348",
@@ -21448,6 +21386,69 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Țuțuianu: AEP trebuie să devină mai puternică, mai transparentă și mai bine pregătită",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_78ff29670e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "#Ucraina: Operațiuni de deminare la Oleșki pentru evacuarea rezidenților în urma armistițiului local",
+        "link": "https://agerpres.ro/politic-extern/2026/10/29/ucraina-operatiuni-de-deminare-la-oleski-pentru-evacuarea-rezidentilor-in-urma-armistitiului-local--1607992"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "#Ucraina: Operațiuni de deminare la Oleșki pentru evacuarea rezidenților în urma armistițiului local",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "#Ucraina: Operațiuni de deminare la Oleșki pentru evacuarea rezidenților în urma armistițiului local",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f507fc4fb1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Un bijutier argentinian a confecționat un potir pentru papa Leon încorporând metal din războiul insulelor Falkland",
+        "link": "https://agerpres.ro/zigzag/2026/10/29/un-bijutier-argentinian-a-confectionat-un-potir-pentru-papa-leon-incorporand-metal-din-razboiul-insu--1607988"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "Un bijutier argentinian a confecționat un potir pentru papa Leon încorporând metal din războiul insulelor Falkland",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Un bijutier argentinian a confecționat un potir pentru papa Leon încorporând metal din războiul insulelor Falkland",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_62fdaeb0c0",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Președintele Uniunii Scriitorilor îi solicită ministrului Culturii retragerea din dezbaterea publică a Strategiei Culturii 2027-2034",
+        "link": "https://agerpres.ro/cultura-media/2026/10/29/presedintele-uniunii-scriitorilor-ii-solicita-ministrului-culturii-retragerea-din-dezbaterea-publica--1607985"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "Președintele Uniunii Scriitorilor îi solicită ministrului Culturii retragerea din dezbaterea publică a Strategiei Culturii 2027-2034",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Președintele Uniunii Scriitorilor îi solicită ministrului Culturii retragerea din dezbaterea publică a Strategiei Culturii 2027-2034",
     "lead_ro": "",
     "content_ro": ""
   },
