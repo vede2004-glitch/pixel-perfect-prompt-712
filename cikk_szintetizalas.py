@@ -197,7 +197,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
 
     # 🛑 SZIGORÚ JOGI ÉS PARAFRAZEÁLÁSI PROMPT UTASÍTÁSOK
     LEGAL_PARAPHRASE_INSTRUCTION = """
-SZIGORÚ SZERZŐI JOGI ÉS MEG FOGALMAZÁSI SZABÁLYOK:
+SZIGORÚ SZERZŐI JOGI ÉS MEGFOGALMAZÁSI SZABÁLYOK:
 1. TELJES ÁTFOGALMAZÁS (PARAFRÁZIS): SZIGORÚAN TILOS a forrásszövegekből teljes mondatokat vagy egyedi szófordulatokat szó szerint átvenni!
 2. KIZÁRÓLAG TÉNY-KIVONATOLÁS: A forrásokból kizárólag a puszta tényeket (dátumok, nevek, számok, helyszínek, események) használd fel.
 3. SAJÁT SZAVAK ÉS MONDTASZERKEZET: A cikket teljesen új, saját mondatszerkezetekkel és újságírói megfogalmazással írd meg.
@@ -229,8 +229,9 @@ FELADAT:
 3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
 4. Írd meg a frissített összefoglalót MAGYAR és ROMÁN nyelven is!
 
-FORMÁTUMSZABÁLYOK:
+TERJEDELMI ÉS FORMÁTUMSZABÁLYOK:
 - A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő pontokat írj!
+- A törzsszöveg ("content_hu" és "content_ro") hossza KÖZELÍTŐLEG 1200 KARAKTER LEGYEN (kb. 4-6 részletes, alaposan kifejtett gondolatjel)!
 - MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELNED!
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
@@ -256,8 +257,9 @@ FELADAT ÉS SZŰRÉS:
 3. Fogalmazd át a tényeket saját szavaiddal 100%-ban újszerű mondatokba.
 4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
 
-FORMÁTUMSZABÁLYOK:
+TERJEDELMI ÉS FORMÁTUMSZABÁLYOK:
 - A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
+- A törzsszöveg ("content_hu" és "content_ro") hossza KÖZELÍTŐLEG 1200 KARAKTER LEGYEN (kb. 4-6 részletes, alaposan kifejtett gondolatjel)!
 - MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELNED!
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
@@ -283,7 +285,8 @@ FORRÁSOK:
                 {"role": "system", "content": "Kizárólag érvényes JSON objektumot adj vissza!"},
                 {"role": "user", "content": prompt}
             ],
-            response_format={"type": "json_object"}
+            response_format={"type": "json_object"},
+            max_completion_tokens=2500
         )
         content_str = response.choices[0].message.content
         parsed_article = json.loads(content_str)
