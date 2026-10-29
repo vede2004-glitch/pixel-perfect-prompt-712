@@ -1,7 +1,4 @@
 import raw from "@/data/news.json";
-import archiveRaw from "@/data/archive.json";
-import historyRaw from "@/data/news_archive.json";
-import historyRaw2 from "@/data/news_archive_2.json";
 import type { Lang } from "@/lib/lang";
 import { localTz } from "@/lib/lang";
 
@@ -167,15 +164,20 @@ type ArchiveRaw = {
 };
 
 /** Minden valaha elkészült kártya (cikk_szintetizalas.py → news_archive.json), a friss news.json felülírja. */
+// A nagy archív fájlok nincsenek a kódba építve (szerver-csomag méretkorlát):
+// futásidőben töltjük be őket a repóból, lásd ensureHistory().
+let historyRaw: RawItem[] = [];
+let archiveRaw: ArchiveRaw[] = [];
+
 const buildHistory = (current: NewsItem[]) => {
   const currentIds = new Set(current.map((n) => n.group_id));
-  return ([...(historyRaw as unknown as RawItem[]), ...(historyRaw2 as unknown as RawItem[])]).filter((r) => r.group_id && !currentIds.has(r.group_id)).map(normalize);
+  return historyRaw.filter((r) => r.group_id && !currentIds.has(r.group_id)).map(normalize);
 };
 
 const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
   const knownIds = new Set([...current, ...hist].map((n) => n.group_id));
   const archiveGroups = new Map<string, ArchiveRaw[]>();
-  for (const a of archiveRaw as unknown as ArchiveRaw[]) {
+  for (const a of archiveRaw) {
     const id = a.group_id || a.link;
     if (!id || knownIds.has(id)) continue;
     archiveGroups.set(id, [...(archiveGroups.get(id) ?? []), a]);
@@ -258,4 +260,52 @@ export function applyLiveNews(items: NewsItem[]): boolean {
   newsVersion++;
   for (const fn of newsListeners) fn();
   return true;
+}
+
+// ---------------------------------------------------------------------------
+// Archívumok futásidejű betöltése (nem részei a szerver-csomagnak).
+// ---------------------------------------------------------------------------
+const HISTORY_BASE = "https://raw.githubusercontent.com/vede2004-glitch/pixel-perfect-prompt-712/main/src/data";
+const HISTORY_TTL_MS = 30 * 60 * 1000;
+let historyAt = 0;
+let historyLoading: Promise<void> | null = null;
+
+async function fetchArray(name: string): Promise<unknown[] | null> {
+  try {
+    const res = await fetch(`${HISTORY_BASE}/${name}`);
+    if (!res.ok) return null;
+    const data: unknown = await res.json();
+    return Array.isArray(data) ? data : null;
+  } catch {
+    return null;
+  }
+}
+
+/** Beépíti a kapott archív adatokat és újraszámolja a listákat. */
+export function applyHistory(hist: unknown[], arch: unknown[]) {
+  historyRaw = (hist as RawItem[]).filter((r) => r && typeof r.group_id === "string");
+  archiveRaw = arch as ArchiveRaw[];
+  const h = buildHistory(news);
+  history.splice(0, history.length, ...h);
+  const a = buildArchive(news, h);
+  archive.splice(0, archive.length, ...a);
+  byRelevance.splice(0, byRelevance.length, ...[...news, ...h, ...a].sort(byRelevanceCmp));
+  newsVersion++;
+  for (const fn of newsListeners) fn();
+}
+
+/** Betölti (és 30 percig megtartja) a régebbi cikkek archívumát. */
+export function ensureHistory(): Promise<void> {
+  if (historyAt && Date.now() - historyAt < HISTORY_TTL_MS) return Promise.resolve();
+  if (historyLoading) return historyLoading;
+  historyLoading = (async () => {
+    const [h1, h2, arch] = await Promise.all([fetchArray("news_archive.json"), fetchArray("news_archive_2.json"), fetchArray("archive.json")]);
+    if (h1 || h2 || arch) {
+      applyHistory([...(h1 ?? []), ...(h2 ?? [])], arch ?? []);
+      historyAt = Date.now();
+    }
+  })().finally(() => {
+    historyLoading = null;
+  });
+  return historyLoading;
 }

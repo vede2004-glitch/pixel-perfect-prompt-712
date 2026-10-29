@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { news, history, archive } from "@/lib/news";
+import { news, history, archive, ensureHistory } from "@/lib/news";
 import { domainLang, originFor } from "@/lib/domains";
 
 const STATIC_PAGES = ["/", "/osszes", "/tamogatas", "/bekuldes", "/visszajelzes", "/forrasok", "/rolunk"];
@@ -19,6 +19,7 @@ export const Route = createFileRoute("/sitemap.xml")({
         const lang = domainLang(request.headers.get("host") ?? url.host) ?? "ro";
         const origin = originFor(lang);
 
+        await ensureHistory();
         const seen = new Set<string>();
         const items = [...news, ...history, ...archive].filter((n) => {
           if (seen.has(n.group_id)) return false;

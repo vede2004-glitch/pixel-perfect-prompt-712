@@ -14,7 +14,7 @@ export const getNewsroomData = createServerFn({ method: "POST" })
     const { loadLiveNewsRaw, loadNewsroomFile } = await import("./news-source.server");
     const [live, memory, archive] = await Promise.all([loadLiveNewsRaw(), loadNewsroomFile("erdelyi_hirek_memoria.json"), loadNewsroomFile("erdelyi_hirek_archivum.json")]);
     const central = live ?? (await import("@/data/news.json")).default;
-    const memoryData = memory ?? (await import("../../erdelyi_hirek_memoria.json")).default;
-    const archiveData = archive ?? (await import("../../erdelyi_hirek_archivum.json")).default;
+    const memoryData = memory ?? [];
+    const archiveData = archive ?? [];
     return filterNewsroomNews([...central, ...memoryData, ...archiveData], data.selected_sources, data.time_window_hours);
   });
