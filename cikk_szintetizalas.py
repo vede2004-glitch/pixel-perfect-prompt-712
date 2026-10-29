@@ -149,7 +149,6 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
     
     print(f"\n{tag} Csoport [{g_id}] feldolgozása indult ({len(articles)} db forrás)...")
     
-    cover_image = articles[0].get("image", "https://via.placeholder.com/600x400?text=Nincs+Kep")
     category = articles[0].get("category", "Általános")
     latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", time.time()))) for a in articles])
 
@@ -312,7 +311,6 @@ FORRÁSOK:
             "group_id": g_id,
             "fingerprint": group_fingerprint,
             "category": category,
-            "image": cover_image,
             "is_synthesized": True,
             "rejected": False,
             "is_b2b_only": False,
@@ -398,7 +396,6 @@ def run_synthesis_direct():
             single_results.append({
                 "group_id": g_id,
                 "category": art.get("category", "Gazdaság"),
-                "image": art.get("image"),
                 "is_synthesized": False,
                 "is_b2b_only": True,
                 "sources_count": len(sources_list),
@@ -422,7 +419,6 @@ def run_synthesis_direct():
             single_results.append({
                 "group_id": g_id,
                 "category": art.get("category", "Általános"),
-                "image": art.get("image"),
                 "is_synthesized": False,
                 "is_b2b_only": False,
                 "sources_count": 1,
