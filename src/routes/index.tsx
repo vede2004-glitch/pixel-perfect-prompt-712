@@ -102,7 +102,7 @@ function Index() {
                 <div className="mb-2 flex items-center justify-between gap-3 text-[10px] font-bold uppercase text-muted-foreground"><span>{labelCategory(story.category)}</span><span>{formatDate(story.published_at, lang)}</span></div>
                 <h3 className="font-display text-lg font-bold leading-tight transition-colors group-hover:text-primary"><RichText text={t(story).title} /></h3>
                 <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground"><RichText text={t(story).lead} /></p>
-                <p className="mt-3 text-[10px] font-bold uppercase text-primary">{ro ? `Pe baza a ${story.sources.length} surse` : `${story.sources.length} forrás alapján`}</p>
+                <p className="mt-3 border-t border-border pt-3 text-[10px] font-bold uppercase text-primary">{ro ? `Pe baza a ${story.sources.length} surse` : `${story.sources.length} forrás alapján`}<span className="ml-2 font-medium normal-case text-muted-foreground">{story.sources.slice(0, 3).map((x) => x.source).join(" · ")}</span></p>
               </Link>)}
             </div> : <div className="rounded-lg border border-border bg-card p-8 text-center text-sm text-muted-foreground">{lead ? (ro ? "Nu mai sunt știri sintetizate cu AI în această secțiune." : "Nincs több AI összesített hír ebben a nézetben.") : (ro ? "Niciun rezultat. Încearcă altă căutare sau categorie." : "Nincs találat. Próbálj másik keresést vagy kategóriát.")}</div>}
           </div>
