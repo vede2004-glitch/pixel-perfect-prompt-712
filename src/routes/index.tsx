@@ -1,3 +1,6 @@
+import heroBorder from "@/assets/stirix-border-crossing.jpg";
+import heroHarghita from "@/assets/stirix-harghita.jpg";
+import heroHospital from "@/assets/stirix-hospital.jpg";
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
@@ -24,6 +27,12 @@ export const Route = createFileRoute("/")({
 });
 
 const categories = [ALL, ...CATEGORIES];
+const HERO_PHOTOS = [heroHarghita, heroBorder, heroHospital];
+const heroPhoto = (id: string) => {
+  let hash = 0;
+  for (const ch of id) hash = (hash * 31 + ch.charCodeAt(0)) >>> 0;
+  return HERO_PHOTOS[hash % HERO_PHOTOS.length];
+};
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
@@ -80,7 +89,8 @@ function Index() {
       <main id="top" className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
           <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 flex flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
-            <div className="pointer-events-none absolute -right-24 -top-24 size-96 rounded-full bg-primary/15 blur-3xl" />
+            <img src={heroPhoto(lead.group_id)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-40 transition-opacity duration-500 group-hover:opacity-50" />
+            <div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-background/30" />
             <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
             <span aria-hidden className="pointer-events-none absolute right-6 top-2 font-display text-[10rem] font-extrabold leading-none text-primary/10">{lead.sources.length}</span>
             <div className="relative p-5 sm:p-8">
