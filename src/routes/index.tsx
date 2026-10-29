@@ -48,8 +48,8 @@ const HERO_PHOTOS: Record<string, string> = {
 // Topic keywords (HU + RO) win over the category photo; first match wins.
 const TOPIC_PHOTOS: Array<[RegExp, string]> = [
   [/\b(EU|európai unió|európai bizottság|brüsszel|uniós|uniunea europeană|comisia europeană|bruxelles|ue)\b/i, heroEu],
-  [/(parlament|kormány|miniszter|szenátus|képviselőház|bukarest|guvern|ministr|senat|camera deputa|bucurești)/i, heroRoParliament],
-  [/(országgyűlés|budapest|orbán|magyar kormány|ungaria|ungar)/i, heroHuParliament],
+  [/(román (kormány|parlament|szenátus|miniszter|elnök)|romániai (kormány|parlament)|bukarest|bolojan|nicușor|guvernul|parlamentul|senatul|camera deputa|bucurești)/i, heroRoParliament],
+  [/(országgyűlés|budapest|orbán|magyar kormány|magyarországi (kormány|parlament)|guvernul ungar|budapesta)/i, heroHuParliament],
   [/(bíróság|ítélet|ügyész|rendőr|dna|instanț|procuror|poliți|tribunal)/i, heroJustice],
   [/(iskola|oktatás|érettségi|egyetem|diák|școal|educați|elev|universit|bacalaureat)/i, heroEducation],
   [/(kórház|egészség|orvos|beteg|spital|sănătat|medic|pacient)/i, heroHospital],
