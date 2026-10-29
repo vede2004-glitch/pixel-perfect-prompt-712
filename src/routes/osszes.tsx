@@ -4,10 +4,16 @@ import { useMemo, useState } from "react";
 import { PageShell } from "@/components/PageShell";
 import { Button } from "@/components/ui/button";
 import { useLang } from "@/lib/lang";
-import { ALL, CATEGORIES, byRelevance, formatDate, tr } from "@/lib/news";
+import { ALL, CATEGORIES, byRelevance, ensureHistory, formatDate, tr } from "@/lib/news";
 import { useNewsVersion } from "@/lib/news-live";
 
 export const Route = createFileRoute("/osszes")({
+  loader: async () => {
+    // Szerveren megvárjuk (teljes lista az első betöltéskor), böngészőben háttérben frissül.
+    if (typeof window === "undefined") await ensureHistory();
+    else void ensureHistory();
+    return null;
+  },
   head: () => ({
     meta: [
       { title: "Minden hír relevancia szerint – Stirix.ro" },

@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { createOpenAI } from "@ai-sdk/openai";
 import { streamText } from "ai";
 import { z } from "zod";
-import { getNews, tr } from "@/lib/news";
+import { ensureHistory, getNews, tr } from "@/lib/news";
 
 // ---------------------------------------------------------------------------
 // Gemini AI Konfiguráció (Gemini 3.1 Flash Lite)
@@ -26,7 +26,11 @@ export const Route = createFileRoute("/api/ask")({
           if (!parsed.success) return new Response("Érvénytelen kérés.", { status: 400 });
 
           const { id, question, history, lang } = parsed.data;
-          const item = getNews(id);
+          let item = getNews(id);
+          if (!item) {
+            await ensureHistory();
+            item = getNews(id);
+          }
           if (!item) return new Response(lang === "ro" ? "Articolul nu a fost găsit." : "A cikk nem található.", { status: 404 });
 
           const article = tr(item, lang);
