@@ -1,3 +1,6 @@
+import heroBorder from "@/assets/stirix-border-crossing.jpg";
+import heroHarghita from "@/assets/stirix-harghita.jpg";
+import heroHospital from "@/assets/stirix-hospital.jpg";
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
@@ -24,6 +27,12 @@ export const Route = createFileRoute("/")({
 });
 
 const categories = [ALL, ...CATEGORIES];
+const HERO_PHOTOS = [heroHarghita, heroBorder, heroHospital];
+const heroPhoto = (id: string) => {
+  let hash = 0;
+  for (const ch of id) hash = (hash * 31 + ch.charCodeAt(0)) >>> 0;
+  return HERO_PHOTOS[hash % HERO_PHOTOS.length];
+};
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
