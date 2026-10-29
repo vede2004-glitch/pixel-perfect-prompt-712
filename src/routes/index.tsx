@@ -51,7 +51,7 @@ const TOPIC_PHOTOS: Array<[RegExp, string]> = [
   [/(román (kormány|parlament|szenátus|miniszter|elnök)|romániai (kormány|parlament)|bukarest|bolojan|nicușor|guvernul|parlamentul|senatul|camera deputa|bucurești)/i, heroRoParliament],
   [/(országgyűlés|budapest|orbán|magyar kormány|magyarországi (kormány|parlament)|guvernul ungar|budapesta)/i, heroHuParliament],
   [/(bíróság|ítélet|ügyész|rendőr|dna|instanț|procuror|poliți|tribunal)/i, heroJustice],
-  [/(iskola|oktatás|érettségi|egyetem|diák|școal|educați|elev|universit|bacalaureat)/i, heroEducation],
+  [/(iskola|oktatás|érettségi|egyetem|școal|educați|universit|bacalaureat)/i, heroEducation],
   [/(kórház|egészség|orvos|beteg|spital|sănătat|medic|pacient)/i, heroHospital],
   [/(kolozsvár|cluj)/i, heroCluj],
 ];
@@ -114,7 +114,7 @@ function Index() {
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
           <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 flex flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
             <img src={heroPhoto(lead.category, `${t(lead).title} ${t(lead).lead ?? ""}`)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90" />
-            <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-background via-background/75 to-background/25" />
             <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
             <div className="relative p-5 sm:p-8">
               <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ {ro ? "Știre sintetizată cu AI" : "AI Összesített Hír"}</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{labelCategory(lead.category)} · {timeAgo(lead.published_at, lang)} · {formatDate(lead.published_at, lang)}</span></div>
