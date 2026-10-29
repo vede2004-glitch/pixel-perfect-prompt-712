@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_3cc51a8817",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "SUA și China se apropie de paritate în domeniul inteligenței artificiale. Beijingul ar putea domina mai multe tehnologii strategice până în 2030",
+        "link": "https://adevarul.ro/stiri-externe/china/sua-si-china-se-apropie-de-paritate-in-domeniul-2567247.html"
+      }
+    ],
+    "published_at": 1793306793,
+    "title_hu": "SUA și China se apropie de paritate în domeniul inteligenței artificiale. Beijingul ar putea domina mai multe tehnologii strategice până în 2030",
+    "lead_hu": "China ar putea deveni un lider mondial în dezvoltarea modelelor lingvistice de mari dimensiuni și în alte domenii tehnologice strategice până la sfârșitul deceniului, potrivit unei analize Bloomberg I...",
+    "content_hu": "China ar putea deveni un lider mondial în dezvoltarea modelelor lingvistice de mari dimensiuni și în alte domenii tehnologice strategice până la sfârșitul deceniului, potrivit unei analize Bloomberg Intelligence.",
+    "title_ro": "SUA și China se apropie de paritate în domeniul inteligenței artificiale. Beijingul ar putea domina mai multe tehnologii strategice până în 2030",
+    "lead_ro": "China ar putea deveni un lider mondial în dezvoltarea modelelor lingvistice de mari dimensiuni și în alte domenii tehnologice strategice până la sfârșitul deceniului, potrivit unei analize Bloomberg I...",
+    "content_ro": "China ar putea deveni un lider mondial în dezvoltarea modelelor lingvistice de mari dimensiuni și în alte domenii tehnologice strategice până la sfârșitul deceniului, potrivit unei analize Bloomberg Intelligence."
+  },
+  {
+    "group_id": "group_b20f104600",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cosmin Matei, pierderi de aproape 250.000 de euro » Jucătorul suspendat pentru dopaj, victima unei fraude cu criptomonede",
+        "link": "https://www.gsp.ro/fotbal/liga-1/cosmin-matei-victima-frauda-online-criptomonede-230000-euro-993773.html"
+      }
+    ],
+    "published_at": 1793306640,
+    "title_hu": "Cosmin Matei, pierderi de aproape 250.000 de euro » Jucătorul suspendat pentru dopaj, victima unei fraude cu criptomonede",
+    "lead_hu": "Cosmin Matei (35 de ani), căpitanul lui Sepsi, jucător pedepsit de TAS cu o suspendare de 9 luni pentru dopaj, a fost în trecut victima unei fraude online, în urma căreia a pierdut aproximativ 230.000...",
+    "content_hu": "Cosmin Matei (35 de ani), căpitanul lui Sepsi, jucător pedepsit de TAS cu o suspendare de 9 luni pentru dopaj, a fost în trecut victima unei fraude online, în urma căreia a pierdut aproximativ 230.000 de euro. Mijlocașul român a investit în urmă cu ceva vreme în criptomonede pe platforma Telegram, iar acestuia i-au dispărut din portofelul virtual 3,3 bitcoini, care valorau la acea vreme aproximativ 70.000 de euro fiecare, potrivit prosport.ro. Cosmin Matei, fraudat cu 230. ...",
+    "title_ro": "Cosmin Matei, pierderi de aproape 250.000 de euro » Jucătorul suspendat pentru dopaj, victima unei fraude cu criptomonede",
+    "lead_ro": "Cosmin Matei (35 de ani), căpitanul lui Sepsi, jucător pedepsit de TAS cu o suspendare de 9 luni pentru dopaj, a fost în trecut victima unei fraude online, în urma căreia a pierdut aproximativ 230.000...",
+    "content_ro": "Cosmin Matei (35 de ani), căpitanul lui Sepsi, jucător pedepsit de TAS cu o suspendare de 9 luni pentru dopaj, a fost în trecut victima unei fraude online, în urma căreia a pierdut aproximativ 230.000 de euro. Mijlocașul român a investit în urmă cu ceva vreme în criptomonede pe platforma Telegram, iar acestuia i-au dispărut din portofelul virtual 3,3 bitcoini, care valorau la acea vreme aproximativ 70.000 de euro fiecare, potrivit prosport.ro. Cosmin Matei, fraudat cu 230. ..."
+  },
+  {
     "group_id": "group_b8583930e2",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -261,7 +303,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "Digi24",
@@ -297,6 +339,11 @@
         "source": "Cancan.ro",
         "title": "Doliu în lumea filmului! A murit Patrick Stewart, actorul care l-a interpretat pe căpitanul Jean-Luc Picard în Star Trek",
         "link": "https://www.cancan.ro/doliu-in-lumea-filmului-a-murit-patrick-stewart-actorul-care-l-a-interpretat-pe-capitanul-jean-luc-picard-in-star-trek-21538753"
+      },
+      {
+        "source": "Adevărul",
+        "title": "A murit Patrick Stewart, vedeta din „Star Trek” și „X-Men”. Marele actor avea 86 de ani",
+        "link": "https://adevarul.ro/showbiz/vedete/a-murit-patrick-stewart-vedeta-din-star-trek-si-2567585.html"
       }
     ],
     "published_at": 1793304189,
@@ -1491,7 +1538,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -1502,6 +1549,11 @@
         "source": "Agerpres (HU)",
         "title": "Fotbal: Daniel Bîrligea a marcat primele sale goluri în Serie A, pentru Frosinone",
         "link": "https://agerpres.ro/sport-extern/2026/10/29/fotbal-daniel-birligea-a-marcat-primele-sale-goluri-in-serie-a-pentru-frosinone--1608228"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Daniel Bîrligea, cel mai bun de pe teren în Serie A! » Italienii, uluiți: „E ca un demon!”",
+        "link": "https://www.gsp.ro/international/stranieri/daniel-birligea-frosinone-serie-a-993779.html"
       }
     ],
     "published_at": 1793301668,
@@ -2557,7 +2609,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 12,
+    "sources_count": 13,
     "sources": [
       {
         "source": "PresaSM (Szatmár)",
@@ -2618,6 +2670,11 @@
         "source": "ProTV Stiri",
         "title": "O femeie de 51 de ani din Dolj, omorâtă în bătaie de concubin. Bărbatul a lovit-o cu pumnii și picioarele",
         "link": "https://stirileprotv.ro/stiri/actualitate/o-femeie-de-51-de-ani-din-dolj-omorata-in-bataie-de-concubin-barbatul-a-lovit-o-cu-pumnii-si-picioarele.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Femeie de 45 de ani din Maramureș, împușcată mortal din greșeală. Tragedia a avut loc în timpul unei partide de vânătoare",
+        "link": "https://www.cancan.ro/femeie-impuscata-de-vanator-in-maramures-cine-a-gasit-trupul-neinsufletit-21538733"
       }
     ],
     "published_at": 1793297477,
@@ -4640,7 +4697,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "G4Media",
@@ -4656,6 +4713,11 @@
         "source": "ProTV Stiri",
         "title": "Paiele din hartie ar fi mai nocive pentru mediu decât cele din plastic. Ce s-a descoperit în cel mai recent studiu",
         "link": "https://stirileprotv.ro/stiri/stiinta/paiele-din-hartie-ar-fi-mai-nocive-pentru-mediu-decat-cele-din-plastic-ce-s-a-descoperit-in-cel-mai-recent-studiu.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Rezultatele surprinzătoare ale unui studiu efectuat în Coreea de Sud. „Sunt chiar mai dăunătoare pentru mediu”",
+        "link": "https://hotnews.ro/rezultatele-surprinzatoare-ale-unui-studiu-efectuat-in-coreea-de-sud-sunt-chiar-mai-daunatoare-pentru-mediu-2390276"
       }
     ],
     "published_at": 1793292532,
@@ -19771,27 +19833,6 @@
     "content_ro": "Ministerul de Interne din Italia solicită intervenția unei comisii medicale pentru a face lumină asupra morții a zece pompieri care se aflau în serviciu la Lampedusa și care lucrau în apropierea unui radar activ până în primii ani ai anilor 2000, relatează Curierul Italiei care citează La Repubblica. Alți șapte sunt grav bolnavi. Cazul va […] © G4Media.ro."
   },
   {
-    "group_id": "group_da5d96309e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Horoscop 29 octombrie 2026: Berbecii rezolvă o problemă, Taurii sunt răbdători, Racii demonstrează că sunt pricepuți",
-        "link": "https://www.mediafax.ro/horoscop/horoscop-29-octombrie-2026-berbecii-rezolva-o-problema-taurii-sunt-rabdatori-racii-demonstreaza-ca-sunt-priceputi-23833366"
-      }
-    ],
-    "published_at": 1793220635,
-    "title_hu": "Horoscop 29 octombrie 2026: Berbecii rezolvă o problemă, Taurii sunt răbdători, Racii demonstrează că sunt pricepuți",
-    "lead_hu": "Gemenii depășesc un blocaj prin comunicare, Leii se pot afirma oferind soluții concrete, iar pe Fecioare le ajută foarte mult atenția la detalii. Iată ce prezic astrele, joi, pentru fiecare dintre zod…",
-    "content_hu": "Gemenii depășesc un blocaj prin comunicare, Leii se pot afirma oferind soluții concrete, iar pe Fecioare le ajută foarte mult atenția la detalii. Iată ce prezic astrele, joi, pentru fiecare dintre zodii!",
-    "title_ro": "Horoscop 29 octombrie 2026: Berbecii rezolvă o problemă, Taurii sunt răbdători, Racii demonstrează că sunt pricepuți",
-    "lead_ro": "Gemenii depășesc un blocaj prin comunicare, Leii se pot afirma oferind soluții concrete, iar pe Fecioare le ajută foarte mult atenția la detalii. Iată ce prezic astrele, joi, pentru fiecare dintre zod…",
-    "content_ro": "Gemenii depășesc un blocaj prin comunicare, Leii se pot afirma oferind soluții concrete, iar pe Fecioare le ajută foarte mult atenția la detalii. Iată ce prezic astrele, joi, pentru fiecare dintre zodii!"
-  },
-  {
     "group_id": "group_5acacddb91",
     "category": "Általános",
     "is_synthesized": false,
@@ -22461,12 +22502,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "Trump și consilierii săi l-au ajutat pe Flavio Bolsonaro să fugă în SUA (media)",
         "link": "https://agerpres.ro/politic-extern/2026/10/29/trump-si-consilierii-sai-l-au-ajutat-pe-flavio-bolsonaro-sa-fuga-in-sua-media--1608232"
+      },
+      {
+        "source": "G4Media",
+        "title": "Trump şi consilierii săi l-ar fi ajutat pe Flavio Bolsonaro să fugă în SUA",
+        "link": "https://www.g4media.ro/trump-si-consilierii-sai-l-ar-fi-ajutat-pe-flavio-bolsonaro-sa-fuga-in-sua.html"
       }
     ],
     "published_at": 1793232000,
