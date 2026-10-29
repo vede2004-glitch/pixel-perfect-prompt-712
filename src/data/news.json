@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_5b4e2402c1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Biztonsági készültség Olaszországban: sztrájk és diáktüntetések várhatók pénteken",
+        "link": "https://maszol.ro/kulfold/Biztonsagi-keszultseg-Olaszorszagban-sztrajk-es-diaktuntetesek-varhatok-penteken"
+      }
+    ],
+    "published_at": 1793303640,
+    "title_hu": "Biztonsági készültség Olaszországban: sztrájk és diáktüntetések várhatók pénteken",
+    "lead_hu": "Országos szakszervezeti sztrájkot hirdettek meg péntekre, és ezzel egy időben diáktüntetések várhatók: Milánó központját lezárják, Rómában biztonsági gyűrű övezi a Colosseumot....",
+    "content_hu": "Országos szakszervezeti sztrájkot hirdettek meg péntekre, és ezzel egy időben diáktüntetések várhatók: Milánó központját lezárják, Rómában biztonsági gyűrű övezi a Colosseumot.",
+    "title_ro": "Biztonsági készültség Olaszországban: sztrájk és diáktüntetések várhatók pénteken",
+    "lead_ro": "Országos szakszervezeti sztrájkot hirdettek meg péntekre, és ezzel egy időben diáktüntetések várhatók: Milánó központját lezárják, Rómában biztonsági gyűrű övezi a Colosseumot....",
+    "content_ro": "Országos szakszervezeti sztrájkot hirdettek meg péntekre, és ezzel egy időben diáktüntetések várhatók: Milánó központját lezárják, Rómában biztonsági gyűrű övezi a Colosseumot."
+  },
+  {
+    "group_id": "group_fe9c222a74",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Țara europeană care ar putea limita viteza pe autostrăzi la 80 km/h în cazul unei penurii de carburanți",
+        "link": "https://www.mediafax.ro/externe/tara-europeana-care-ar-putea-limita-viteza-pe-autostrazi-la-80-km-h-in-cazul-unei-penurii-de-carburanti-23834153"
+      }
+    ],
+    "published_at": 1793303456,
+    "title_hu": "Țara europeană care ar putea limita viteza pe autostrăzi la 80 km/h în cazul unei penurii de carburanți",
+    "lead_hu": "Autoritățile din Elveția analizează posibilitatea reducerii limitei maxime de viteză pe autostrăzi de la 120 la 80 km/h, în cazul unei penurii grave de carburanți. Măsura ar contribui la reducerea con...",
+    "content_hu": "Autoritățile din Elveția analizează posibilitatea reducerii limitei maxime de viteză pe autostrăzi de la 120 la 80 km/h, în cazul unei penurii grave de carburanți. Măsura ar contribui la reducerea consumului, în condițiile în care aprovizionarea cu produse petroliere este considerată „tensionată”.",
+    "title_ro": "Țara europeană care ar putea limita viteza pe autostrăzi la 80 km/h în cazul unei penurii de carburanți",
+    "lead_ro": "Autoritățile din Elveția analizează posibilitatea reducerii limitei maxime de viteză pe autostrăzi de la 120 la 80 km/h, în cazul unei penurii grave de carburanți. Măsura ar contribui la reducerea con...",
+    "content_ro": "Autoritățile din Elveția analizează posibilitatea reducerii limitei maxime de viteză pe autostrăzi de la 120 la 80 km/h, în cazul unei penurii grave de carburanți. Măsura ar contribui la reducerea consumului, în condițiile în care aprovizionarea cu produse petroliere este considerată „tensionată”."
+  },
+  {
     "group_id": "group_af2b74eb54",
     "category": "Általános",
     "is_synthesized": false,
@@ -256,12 +298,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Daniel Bîrligea și-a deschis contul în Serie A! Cum a marcat românul pentru Frosinone",
         "link": "https://www.gsp.ro/international/campionate/daniel-birligea-gol-frosinone-lecce-prima-reusita-serie-a-993748.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Daniel Bîrligea a marcat primele sale goluri în Serie A, pentru Frosinone",
+        "link": "https://agerpres.ro/sport-extern/2026/10/29/fotbal-daniel-birligea-a-marcat-primele-sale-goluri-in-serie-a-pentru-frosinone--1608228"
       }
     ],
     "published_at": 1793301668,
@@ -1032,7 +1079,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Mediafax",
@@ -1058,6 +1105,11 @@
         "source": "Agerpres (HU)",
         "title": "Patru morți în urma prăbușirii elicopterului militar italian în Bosnia (sursă medicală)",
         "link": "https://agerpres.ro/politic-extern/2026/10/29/patru-morti-in-urma-prabusirii-elicopterului-militar-italian-in-bosnia-sursa-medicala--1608224"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Patru morți și 12 răniți după prăbușirea unui elicopter militar italian în Bosnia. Aeronava participa la o misiune UE",
+        "link": "https://stirileprotv.ro/stiri/international/patru-morti-si-12-raniti-dupa-prabusirea-unui-elicopter-militar-italian-in-bosnia-aeronava-participa-la-o-misiune-ue.html"
       }
     ],
     "published_at": 1793298128,
@@ -4328,7 +4380,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 13,
+    "sources_count": 14,
     "sources": [
       {
         "source": "Mediatica.ro",
@@ -4394,6 +4446,11 @@
         "source": "ProTV Stiri",
         "title": "Câți bani ar putea să primească România din ultimele două cereri de plată din PNRR. Guvernul continuă negocierile cu CE",
         "link": "https://stirileprotv.ro/stiri/politic/cati-bani-ar-putea-sa-primeasca-romania-din-ultimele-doua-cereri-de-plata-din-pnrr-guvernul-continua-negocierile-cu-ce.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "România ar putea primi peste 8 miliarde de euro prin ultimele două cereri de plată din PNRR. Negocierile cu Comisia Europeană continuă",
+        "link": "https://adevarul.ro/economie/romania-ar-putea-primi-peste-8-miliarde-de-euro-2567579.html"
       }
     ],
     "published_at": 1793290351,
@@ -7338,7 +7395,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 54,
+    "sources_count": 55,
     "sources": [
       {
         "source": "Digi24",
@@ -7609,6 +7666,11 @@
         "source": "Agerpres (HU)",
         "title": "Accident feroviar în Spania: Bilanțul tragediei a urcat la 64 de morți",
         "link": "https://agerpres.ro/politic-extern/2026/10/28/accident-feroviar-in-spania-bilantul-tragediei-a-urcat-la-64-de-morti--1607735"
+      },
+      {
+        "source": "Digi24",
+        "title": "Raport: 70% din calea ferată de la noi trebuie schimbată de urgență. De ce sunt șanse mici să aibă loc un accident de tren ca în Spania",
+        "link": "https://www.digi24.ro/stiri/economie/transporturi/raport-70-din-calea-ferata-de-la-noi-trebuie-schimbata-de-urgenta-de-ce-sunt-sanse-mici-sa-aiba-loc-un-accident-de-tren-ca-in-spania-4014463"
       }
     ],
     "published_at": 1793282330,
@@ -19639,48 +19701,6 @@
     "content_ro": "Expertul militar ucrainean Oleh Jdanov a observat o posibilă legătură între luna plină și atacurile rusești de amploare asupra Ucrainei. Cercetătorul în domeniul practicilor mistice Igor Mehheda consideră că aceste coincidențe ar putea avea legătură cu presupusele convingeri oculte ale lui Putin."
   },
   {
-    "group_id": "group_f8b04f4eaf",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un urs negru a făcut praf o mașină după ce rămâne blocat în interior: „S-a luptat serios să iasă”. VIDEO",
-        "link": "https://stirileprotv.ro/stiri/international/un-urs-negru-a-facut-praf-o-masina-dupa-ce-ramane-blocat-in-interior-s-a-luptat-serios-sa-iasa.html"
-      }
-    ],
-    "published_at": 1793217370,
-    "title_hu": "Un urs negru a făcut praf o mașină după ce rămâne blocat în interior: „S-a luptat serios să iasă”. VIDEO",
-    "lead_hu": "Un urs negru șiret a pătruns într-un Subaru aparținând unei familii din Alaska și a făcut ravagii, după ce a rămas blocat în interiorul mașinii.",
-    "content_hu": "Un urs negru șiret a pătruns într-un Subaru aparținând unei familii din Alaska și a făcut ravagii, după ce a rămas blocat în interiorul mașinii.",
-    "title_ro": "Un urs negru a făcut praf o mașină după ce rămâne blocat în interior: „S-a luptat serios să iasă”. VIDEO",
-    "lead_ro": "Un urs negru șiret a pătruns într-un Subaru aparținând unei familii din Alaska și a făcut ravagii, după ce a rămas blocat în interiorul mașinii.",
-    "content_ro": "Un urs negru șiret a pătruns într-un Subaru aparținând unei familii din Alaska și a făcut ravagii, după ce a rămas blocat în interiorul mașinii."
-  },
-  {
-    "group_id": "group_dd22f621e6",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un supliment popular pentru stres și insomnie este sub lupa autorităților europene. Ce riscuri poate avea",
-        "link": "https://stirileprotv.ro/stiri/international/un-supliment-popular-pentru-stres-si-insomnie-este-sub-lupa-autoritatilor-europene-ce-riscuri-poate-avea.html"
-      }
-    ],
-    "published_at": 1793217270,
-    "title_hu": "Un supliment popular pentru stres și insomnie este sub lupa autorităților europene. Ce riscuri poate avea",
-    "lead_hu": "Un supliment folosit frecvent pentru reducerea stresului și îmbunătățirea somnului a intrat în atenția autorităților europene.",
-    "content_hu": "Un supliment folosit frecvent pentru reducerea stresului și îmbunătățirea somnului a intrat în atenția autorităților europene.",
-    "title_ro": "Un supliment popular pentru stres și insomnie este sub lupa autorităților europene. Ce riscuri poate avea",
-    "lead_ro": "Un supliment folosit frecvent pentru reducerea stresului și îmbunătățirea somnului a intrat în atenția autorităților europene.",
-    "content_ro": "Un supliment folosit frecvent pentru reducerea stresului și îmbunătățirea somnului a intrat în atenția autorităților europene."
-  },
-  {
     "group_id": "group_5acacddb91",
     "category": "Általános",
     "is_synthesized": false,
@@ -22158,6 +22178,137 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "SUA: Armata a instalat sisteme de apărare aeriană la reședința lui Trump de la Mar-a-Lago, în Florida",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_25080f3b5e",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Handbal feminin: CS Rapid București a pierdut dramatic în campionat cu Gloria Bistrița",
+        "link": "https://agerpres.ro/sport/2026/10/29/handbal-feminin-cs-rapid-bucuresti-a-pierdut-dramatic-in-campionat-cu-gloria-bistrita--1608231"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "Handbal feminin: CS Rapid București a pierdut dramatic în campionat cu Gloria Bistrița",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Handbal feminin: CS Rapid București a pierdut dramatic în campionat cu Gloria Bistrița",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f44efeb8df",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN transmite condoleanțe Forțelor Armate Italiene, în urma accidentului aviatic produs în Bosnia și Herțegovina",
+        "link": "https://agerpres.ro/social/2026/10/29/mapn-transmite-condoleante-fortelor-armate-italiene-in-urma-accidentului-aviatic-produs-in-bosnia-si--1608230"
+      },
+      {
+        "source": "Mediafax",
+        "title": "MApN, mesaj de condoleanțe după prăbușirea unui elicopter militar italian în Bosnia: „Gândurile noastre se îndreaptă către familiile îndoliate”",
+        "link": "https://www.mediafax.ro/social/mapn-mesaj-de-condoleante-dupa-prabusirea-unui-elicopter-militar-italian-in-bosnia-gandurile-noastre-se-indreapta-catre-familiile-indoliate-23834149"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "MApN transmite condoleanțe Forțelor Armate Italiene, în urma accidentului aviatic produs în Bosnia și Herțegovina",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "MApN transmite condoleanțe Forțelor Armate Italiene, în urma accidentului aviatic produs în Bosnia și Herțegovina",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_58de44dcfc",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Bogdan Pavel s-a oprit în sferturile probei de dublu la Sioux Falls (challenger)",
+        "link": "https://agerpres.ro/sport-extern/2026/10/29/tenis-bogdan-pavel-s-a-oprit-in-sferturile-probei-de-dublu-la-sioux-falls-challenger--1608229"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "Tenis: Bogdan Pavel s-a oprit în sferturile probei de dublu la Sioux Falls (challenger)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Bogdan Pavel s-a oprit în sferturile probei de dublu la Sioux Falls (challenger)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_69ea90aa70",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Chisăliță: România susține securitatea aprovizionării, tarife de rețea transparente și competitivitatea industriei energetice europene",
+        "link": "https://agerpres.ro/economic/2026/10/29/chisalita-romania-sustine-securitatea-aprovizionarii-tarife-de-retea-transparente-si-competitivitate--1608227"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "Chisăliță: România susține securitatea aprovizionării, tarife de rețea transparente și competitivitatea industriei energetice europene",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Chisăliță: România susține securitatea aprovizionării, tarife de rețea transparente și competitivitatea industriei energetice europene",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_5d55c0a908",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "CNSP revizuiește prognoza pentru 2026: economia României ar urma să scadă cu 0,4%",
+        "link": "https://agerpres.ro/economic/2026/10/29/cnsp-revizuieste-prognoza-pentru-2026-economia-romaniei-ar-urma-sa-scada-cu-0-4--1608226"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "CNSP revizuiește prognoza pentru 2026: economia României ar urma să scadă cu 0,4%",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "CNSP revizuiește prognoza pentru 2026: economia României ar urma să scadă cu 0,4%",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_bf36c93f28",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "PMB: 550 de persoane vor reveni de anul viitor în locuințe sigure, după consolidarea blocurilor acestora",
+        "link": "https://agerpres.ro/social/2026/10/29/pmb-550-de-persoane-vor-reveni-de-anul-viitor-in-locuinte-sigure-dupa-consolidarea-blocurilor-acesto--1608225"
+      }
+    ],
+    "published_at": 1793232000,
+    "title_hu": "PMB: 550 de persoane vor reveni de anul viitor în locuințe sigure, după consolidarea blocurilor acestora",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "PMB: 550 de persoane vor reveni de anul viitor în locuințe sigure, după consolidarea blocurilor acestora",
     "lead_ro": "",
     "content_ro": ""
   },
