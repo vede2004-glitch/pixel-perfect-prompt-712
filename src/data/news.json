@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_8b92552692",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Bărbatul care nu lasă un sat să moară, femeia de 90 de ani care sădește flori și scriitorul care le-a spus povestea",
+        "link": "https://hotnews.ro/barbatul-care-nu-lasa-un-sat-sa-moara-femeia-de-90-de-ani-care-sadeste-flori-si-scriitorul-care-le-a-spus-povestea-2389988"
+      }
+    ],
+    "published_at": 1793288616,
+    "title_hu": "Bărbatul care nu lasă un sat să moară, femeia de 90 de ani care sădește flori și scriitorul care le-a spus povestea",
+    "lead_hu": "Scriitorul Matei Florian este un mare iubitor al muntelui, pe care l-a descoperit prin bunicul său. Însă, spre deosebire de alți montaniarzi, atunci când merge pe munte, el nu caută doar peisaje și vâ...",
+    "content_hu": "Scriitorul Matei Florian este un mare iubitor al muntelui, pe care l-a descoperit prin bunicul său. Însă, spre deosebire de alți montaniarzi, atunci când merge pe munte, el nu caută doar peisaje și vârfuri, ci și oameni a căror realitate încearcă să o înțeleagă. În ediția de vineri, 30 octombrie, a newsletter-ului „Partea Bună”, vorbim …",
+    "title_ro": "Bărbatul care nu lasă un sat să moară, femeia de 90 de ani care sădește flori și scriitorul care le-a spus povestea",
+    "lead_ro": "Scriitorul Matei Florian este un mare iubitor al muntelui, pe care l-a descoperit prin bunicul său. Însă, spre deosebire de alți montaniarzi, atunci când merge pe munte, el nu caută doar peisaje și vâ...",
+    "content_ro": "Scriitorul Matei Florian este un mare iubitor al muntelui, pe care l-a descoperit prin bunicul său. Însă, spre deosebire de alți montaniarzi, atunci când merge pe munte, el nu caută doar peisaje și vârfuri, ci și oameni a căror realitate încearcă să o înțeleagă. În ediția de vineri, 30 octombrie, a newsletter-ului „Partea Bună”, vorbim …"
+  },
+  {
+    "group_id": "group_5e8036df64",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Merre tart az erdélyi magyar sajtó a fideszes pénzcsapok elzárása után?",
+        "link": "https://transtelex.ro/kozelet/2026/10/29/erdelyi-magyar-sajto-elemzes-paraszka-boroka-kiss-anna-transtelex-podcast"
+      }
+    ],
+    "published_at": 1793288552,
+    "title_hu": "Merre tart az erdélyi magyar sajtó a fideszes pénzcsapok elzárása után?",
+    "lead_hu": "A budapesti rendszerváltással elzárultak a pénzcsapok, a kitartott erdélyi sajtóbirodalom pedig egyik napról a másikra légüres térbe került. Parászka Borókával és Kiss Annával a politikai függés mecha...",
+    "content_hu": "A budapesti rendszerváltással elzárultak a pénzcsapok, a kitartott erdélyi sajtóbirodalom pedig egyik napról a másikra légüres térbe került. Parászka Borókával és Kiss Annával a politikai függés mechanizmusait, az elhallgatás kultúráját és a független újságírás túlélési esélyeit elemeztük.",
+    "title_ro": "Merre tart az erdélyi magyar sajtó a fideszes pénzcsapok elzárása után?",
+    "lead_ro": "A budapesti rendszerváltással elzárultak a pénzcsapok, a kitartott erdélyi sajtóbirodalom pedig egyik napról a másikra légüres térbe került. Parászka Borókával és Kiss Annával a politikai függés mecha...",
+    "content_ro": "A budapesti rendszerváltással elzárultak a pénzcsapok, a kitartott erdélyi sajtóbirodalom pedig egyik napról a másikra légüres térbe került. Parászka Borókával és Kiss Annával a politikai függés mechanizmusait, az elhallgatás kultúráját és a független újságírás túlélési esélyeit elemeztük."
+  },
+  {
     "group_id": "group_f984cd58e1",
     "category": "Erdély",
     "is_synthesized": false,
@@ -130,12 +172,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Moscova avertizează Ucraina că, dacă va ataca de ziua naţională a Rusiei, va pune în pericol reuniunea tripartită",
         "link": "https://www.digi24.ro/stiri/externe/rusia/moscova-avertizeaza-ucraina-ca-daca-va-ataca-de-ziua-nationala-a-rusiei-va-pune-in-pericol-reuniunea-tripartita-4014111"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Avertismentul Kremlinului către Kiev. Ce să nu facă pe 4 noiembrie, ca să nu pună în pericol negocierile de pace",
+        "link": "https://stirileprotv.ro/stiri/international/avertismentul-kremlinului-catre-kiev-ce-sa-nu-faca-pe-4-noiembrie-ca-sa-nu-puna-in-pericol-negocierile-de-pace.html"
       }
     ],
     "published_at": 1793287478,
@@ -1101,7 +1148,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "Digi24",
@@ -1152,6 +1199,11 @@
         "source": "Agerpres (HU)",
         "title": "Ghigiu: Prioritatea este ca România să încaseze fiecare euro din PNRR la care are dreptul",
         "link": "https://agerpres.ro/economic/2026/10/28/ghigiu-prioritatea-este-ca-romania-sa-incaseze-fiecare-euro-din-pnrr-la-care-are-dreptul--1607788"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Suma enormă cerută de ministere la rectificarea bugetară. Nazare: „În adâncul sufletului lor, știu că suma este un pic exagerată”",
+        "link": "https://hotnews.ro/suma-enorma-ceruta-de-ministere-la-rectificarea-bugetara-nazare-in-adancul-sufletului-lor-stiu-ca-suma-este-un-pic-exagerata-2389963"
       }
     ],
     "published_at": 1793284559,
@@ -1344,7 +1396,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Digi24",
@@ -1360,6 +1412,11 @@
         "source": "ProTV Stiri",
         "title": "Bătaie în Parlamentul de la Erevan. Aleșii au transformat ședința într-un ring de lupte din cauza unor declarații jignitoare | VIDEO",
         "link": "https://stirileprotv.ro/stiri/international/bataie-in-parlamentul-de-la-erevan-alesii-au-transformat-sedinta-intr-un-ring-de-lupte-din-cauza-unor-declaratii-jignitoare-video.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Bătaie în Parlamentul Armeniei: Imagini cu aleșii care s-au jignit și îmbrâncit. Scandalul s-a mutat pe holuri",
+        "link": "https://adevarul.ro/stiri-externe/europa/bataie-in-parlamentul-armeniei-imagini-cu-alesii-2567508.html"
       }
     ],
     "published_at": 1793284310,
@@ -5917,12 +5974,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Manna",
         "title": "Magyar Péter Skodával indult a prágai kormányülésre",
         "link": "https://a24.hu/magyar-peter-skodaval-indult-a-pragai-kormanyulesre/"
+      },
+      {
+        "source": "Manna",
+        "title": "Magyar Péter Prágába utazott Andrej Babišhoz",
+        "link": "https://a24.hu/magyar-peter-pragaba-utazott-andrej-babishoz/"
       }
     ],
     "published_at": 1793273723,
@@ -19652,119 +19714,6 @@
     "title_ro": "„Blatul PSD-AUR pentru București”. Alexandru Muraru susține că propunerea lui Piperea pentru PMB este încă un pas către o coaliție",
     "lead_ro": "Deputatul Alexandru Muraru a scris pe rețelele sociale că propunerea de către Geroge Simion a candidaturii lui Piperea pentru Primăria Municipiului București este încă un pas către oficializarea unei …",
     "content_ro": "Deputatul Alexandru Muraru a scris pe rețelele sociale că propunerea de către Geroge Simion a candidaturii lui Piperea pentru Primăria Municipiului București este încă un pas către oficializarea unei coaliții AUR-PSD."
-  },
-  {
-    "group_id": "group_2c440dff67",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Jannik Sinner, despre procesul de recuperare: „Corpul este singurul adversar pe care nu-l pot învinge”",
-        "link": "https://www.gsp.ro/sporturi/tenis/jannik-sinner-despre-procesul-de-recuperare-993307.html"
-      }
-    ],
-    "published_at": 1793202131,
-    "title_hu": "Jannik Sinner, despre procesul de recuperare: „Corpul este singurul adversar pe care nu-l pot învinge”",
-    "lead_hu": "Jannik Sinner (25 de ani, 1 ATP), jucător care și-a încheiat sezonul din cauza unei accidentări, a vorbit despre cum merge procesul de recuperare și a detaliat, metaforic, lupta cu propriul corp. În 1…",
-    "content_hu": "Jannik Sinner (25 de ani, 1 ATP), jucător care și-a încheiat sezonul din cauza unei accidentări, a vorbit despre cum merge procesul de recuperare și a detaliat, metaforic, lupta cu propriul corp. În 12 iulie, Jannik Sinner izbutea să îl învingă pe Alexander Zverev (29 de ani, 2 ATP) în finala Wimbledon, scor 6-7 (7), 7-6 (2), 6-3, 6-4, și își adjudeca al 5-lea titlu de Grand Slam al carierei. Avea să fie ultima partidă a italianului în acest sezon competițional. ...",
-    "title_ro": "Jannik Sinner, despre procesul de recuperare: „Corpul este singurul adversar pe care nu-l pot învinge”",
-    "lead_ro": "Jannik Sinner (25 de ani, 1 ATP), jucător care și-a încheiat sezonul din cauza unei accidentări, a vorbit despre cum merge procesul de recuperare și a detaliat, metaforic, lupta cu propriul corp. În 1…",
-    "content_ro": "Jannik Sinner (25 de ani, 1 ATP), jucător care și-a încheiat sezonul din cauza unei accidentări, a vorbit despre cum merge procesul de recuperare și a detaliat, metaforic, lupta cu propriul corp. În 12 iulie, Jannik Sinner izbutea să îl învingă pe Alexander Zverev (29 de ani, 2 ATP) în finala Wimbledon, scor 6-7 (7), 7-6 (2), 6-3, 6-4, și își adjudeca al 5-lea titlu de Grand Slam al carierei. Avea să fie ultima partidă a italianului în acest sezon competițional. ..."
-  },
-  {
-    "group_id": "group_61959eb4e9",
-    "fingerprint": "f7e1c97b1af6da0e705885c655726380",
-    "category": "Politika",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/09/petrisor-peiu-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "AUR anunță că va depune o moțiune de cenzură împotriva Guvernului. În ce condiții va face demersul",
-        "link": "https://www.mediafax.ro/politic/aur-anunta-ca-va-depune-o-motiune-de-cenzura-impotriva-guvernului-in-ce-conditii-va-face-demersul-23833259"
-      },
-      {
-        "source": "Adevărul",
-        "title": "AUR va depune moțiune de cenzură împotriva Guvernului Niculescu: „Ne vom face datoria de opoziție”",
-        "link": "https://adevarul.ro/politica/aur-va-depune-motiune-de-cenzura-impotriva-2567216.html"
-      }
-    ],
-    "published_at": 1793201986,
-    "title_hu": "Az AUR bizalmatlansági indítványt nyújt be a Niculescu-kormány ellen",
-    "lead_hu": "Az AUR bejelentette, hogy bizalmatlansági indítványt kezdeményez a Luca Niculescu vezette kormány ellen. George Simion és Petrișor Peiu szerint a párt akkor is benyújtja az indítványt, ha a kormány nem vállal parlamenti felelősséget a költségvetési kiigazításért; ebben az esetben a parlamenti ülésszak végére időzítik a lépést.",
-    "content_hu": "• **Az AUR bizalmatlansági indítványt nyújt be** a Luca Niculescu vezette kormány ellen, függetlenül attól, hogy az kabinet vállal-e parlamenti felelősséget a költségvetési kiigazításért.\n\n• **George Simion pártelnök** szerint az ellenzék feladata, hogy ilyen esetben bizalmatlansági indítványt kezdeményezzen; hozzátette, hogy az AUR más ellenzéki pártok támogatása nélkül is folytatja az akciót.\n\n• **Petrișor Peiu szenátor** közölte: ha a kormány felelősséget vállal, az AUR erre válaszul indítványt nyújt be. Ha erre nem kerül sor, a párt a parlamenti ülésszak végén kezdeményezi a bizalmatlansági indítványt.",
-    "title_ro": "AUR va depune o moțiune de cenzură împotriva Guvernului Niculescu",
-    "lead_ro": "AUR a anunțat că va iniția o moțiune de cenzură împotriva Guvernului condus de Luca Niculescu. George Simion și Petrișor Peiu au declarat că partidul va depune moțiunea chiar dacă Executivul nu își angajează răspunderea pentru rectificarea bugetară; în acest caz, demersul va fi inițiat la sfârșitul sesiunii parlamentare.",
-    "content_ro": "• **AUR va depune o moțiune de cenzură** împotriva Guvernului condus de Luca Niculescu, indiferent dacă Executivul își angajează sau nu răspunderea pentru rectificarea bugetară.\n\n• **George Simion, liderul partidului**, a declarat că opoziția trebuie să inițieze o moțiune într-o asemenea situație și a precizat că AUR își va continua demersul chiar dacă alte partide de opoziție nu îl susțin.\n\n• **Senatorul Petrișor Peiu** a spus că AUR va depune moțiunea ca răspuns dacă Guvernul își angajează răspunderea. Dacă Executivul nu recurge la această procedură, partidul va iniția moțiunea la sfârșitul sesiunii parlamentare."
-  },
-  {
-    "group_id": "group_bbf36d750c",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Beiuș Running Day, la a șaptea ediție. Alergători din mai multe țări, inclusiv din Kenya, sunt așteptați la competiția din Bihor",
-        "link": "https://www.ebihoreanul.ro/stiri/beius-running-day-la-a-saptea-editie-20-de-alergatori-din-kenya-sunt-asteptati-la-competitia-din-bihor-206165.html"
-      }
-    ],
-    "published_at": 1793201940,
-    "title_hu": "Beiuș Running Day, la a șaptea ediție. Alergători din mai multe țări, inclusiv din Kenya, sunt așteptați la competiția din Bihor",
-    "lead_hu": "Beiușul devine sâmbătă, 31 octombrie, gazda celei de-a șaptea ediții a Beiuș Running Day, una dintre cele mai importante competiții de alergare din județul Bihor. La start sunt așteptați sportivi din …",
-    "content_hu": "Beiușul devine sâmbătă, 31 octombrie, gazda celei de-a șaptea ediții a Beiuș Running Day, una dintre cele mai importante competiții de alergare din județul Bihor. La start sunt așteptați sportivi din mai multe țări, inclusiv 20 de alergători din Kenya.",
-    "title_ro": "Beiuș Running Day, la a șaptea ediție. Alergători din mai multe țări, inclusiv din Kenya, sunt așteptați la competiția din Bihor",
-    "lead_ro": "Beiușul devine sâmbătă, 31 octombrie, gazda celei de-a șaptea ediții a Beiuș Running Day, una dintre cele mai importante competiții de alergare din județul Bihor. La start sunt așteptați sportivi din …",
-    "content_ro": "Beiușul devine sâmbătă, 31 octombrie, gazda celei de-a șaptea ediții a Beiuș Running Day, una dintre cele mai importante competiții de alergare din județul Bihor. La start sunt așteptați sportivi din mai multe țări, inclusiv 20 de alergători din Kenya."
-  },
-  {
-    "group_id": "group_43f0aee186",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Manna",
-        "title": "Fél évvel halasztaná a kormány a prémiumüzemanyagok adóemelését",
-        "link": "https://a24.hu/fel-evvel-halasztana-a-kormany-a-premiumuzemanyagok-adoemeleset/"
-      }
-    ],
-    "published_at": 1793201905,
-    "title_hu": "Fél évvel halasztaná a kormány a prémiumüzemanyagok adóemelését",
-    "lead_hu": "Fél évvel tolná el a kormány a prémiumbenzin, a prémiumgázolaj és a kerozin jövő év elejére tervezett jövedékiadó-emelését. A törvényjavaslat szerint az inflációkövető adóemelés 2027. január 1-je hely…",
-    "content_hu": "Fél évvel tolná el a kormány a prémiumbenzin, a prémiumgázolaj és a kerozin jövő év elejére tervezett jövedékiadó-emelését. A törvényjavaslat szerint az inflációkövető adóemelés 2027. január 1-je helyett 2027. július 1-jén lépne életbe. A módosítás nem törölné el az emelést, csak későbbre tenné. A tervek szerint az érintett üzemanyagok adóterhe így a jövő év közepétől […]",
-    "title_ro": "Fél évvel halasztaná a kormány a prémiumüzemanyagok adóemelését",
-    "lead_ro": "Fél évvel tolná el a kormány a prémiumbenzin, a prémiumgázolaj és a kerozin jövő év elejére tervezett jövedékiadó-emelését. A törvényjavaslat szerint az inflációkövető adóemelés 2027. január 1-je hely…",
-    "content_ro": "Fél évvel tolná el a kormány a prémiumbenzin, a prémiumgázolaj és a kerozin jövő év elejére tervezett jövedékiadó-emelését. A törvényjavaslat szerint az inflációkövető adóemelés 2027. január 1-je helyett 2027. július 1-jén lépne életbe. A módosítás nem törölné el az emelést, csak későbbre tenné. A tervek szerint az érintett üzemanyagok adóterhe így a jövő év közepétől […]"
-  },
-  {
-    "group_id": "group_1048260087",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "30.000 de bilete procesate pentru meciul România-Polonia, de pe Arena Națională",
-        "link": "https://www.mediafax.ro/sport/30-000-de-bilete-procesate-pentru-meciul-romania-polonia-de-pe-arena-nationala-23833268"
-      }
-    ],
-    "published_at": 1793201816,
-    "title_hu": "30.000 de bilete procesate pentru meciul România-Polonia, de pe Arena Națională",
-    "lead_hu": "30.000 de bilete au fost procesate până miercuri pentru meciul România-Polonia, programat în 14 noiembrie, pe Arena Națională din București, a anunțat echipa națională de fotbal.",
-    "content_hu": "30.000 de bilete au fost procesate până miercuri pentru meciul România-Polonia, programat în 14 noiembrie, pe Arena Națională din București, a anunțat echipa națională de fotbal.",
-    "title_ro": "30.000 de bilete procesate pentru meciul România-Polonia, de pe Arena Națională",
-    "lead_ro": "30.000 de bilete au fost procesate până miercuri pentru meciul România-Polonia, programat în 14 noiembrie, pe Arena Națională din București, a anunțat echipa națională de fotbal.",
-    "content_ro": "30.000 de bilete au fost procesate până miercuri pentru meciul România-Polonia, programat în 14 noiembrie, pe Arena Națională din București, a anunțat echipa națională de fotbal."
   },
   {
     "group_id": "group_6e0dc8efc1",
