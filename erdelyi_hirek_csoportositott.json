@@ -229,63 +229,6 @@
     ]
   },
   {
-    "group_id": "group_fe8395c40f",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Frustrat după derby: „Rezultat mincinos!”",
-        "link": "https://www.gsp.ro/fotbal/cupa-romaniei/cfr-cluj-u-cluj-cupa-romaniei-mario-camora-993434.html",
-        "summary": "CFR Cluj - U Cluj 1-3, în runda a doua a grupelor Cupei României Betano. Mario Camora, fundașul stânga și căpitanul gazdelor, a vorbit la finalul derby-ului din Gruia. La flash-interviu, Mario Camora a făcut o scurtă recapitulare a partidei și a ajuns la concluzia că echipa lui putea obține mult mai mult în cazul ar fi marcat prima. Crede că scorul este mincinos. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793223859
-      }
-    ]
-  },
-  {
-    "group_id": "group_04ad2ea2bc",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "Generalul Iosif Rus a împlinit 111 ani! Povestea românului care a supraviețuit războiului",
-        "link": "https://www.cancan.ro/generalul-iosif-rus-a-implinit-111-ani-povestea-romanului-care-a-supravietuit-razboiului-21538177",
-        "summary": "România are un motiv de mândrie! Generalul de brigadă în retragere, Iosif Rus, a împlinit miercuri, 28 octombrie, vârsta de 111 ani. Considerat cel mai în vârstă om din țara noastră și al doilea cel mai longeviv veteran de război din lume, acesta a fost sărbătorit în cadrul unui eveniment organizat la Centrul Muzeal de […]",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793224115
-      }
-    ]
-  },
-  {
-    "group_id": "group_5b06fd462f",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "Primăria Capitalei anunță când se aprind luminiţele de sărbători în Bucureşti",
-        "link": "https://hotnews.ro/primaria-capitalei-anunta-cand-se-aprind-luminitele-de-sarbatori-in-bucuresti-2389328",
-        "summary": "Șase milioane de luminiţe vor împodobi în această iarnă principalele bulevarde ale Capitalei, iar compania municipală Iluminat Public Bucureşti a început, de luni seară, să monteze instalaţiile pe care le deţine deja în depozite, anunță PMB. Primăria Municipiului Bucureşti (PMB) informează miercuri, într-o postare pe Facebook, echipele de muncitori lucrează la montarea lor pe timpul …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793224029
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "PMB: Şase milioane de luminiţe vor împodobi, în această iarnă, principalele bulevarde ale Capitalei",
-        "link": "https://stirileprotv.ro/stiri/actualitate/pmb-sase-milioane-de-lumini-e-vor-impodobi-in-aceasta-iarna-principalele-bulevarde-ale-capitalei.html",
-        "summary": "Șase milioane de luminițe vor împodobi principalele bulevarde ale Capitalei în această iarnă. Compania municipală Iluminat Public București a început luni seară montarea instalațiilor pe care le are deja în depozite, a anunțat Municipalitatea.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793252060
-      }
-    ]
-  },
-  {
     "group_id": "group_b089ed3284",
     "category": "Sport",
     "articles_count": 1,
@@ -323,22 +266,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793250355
-      }
-    ]
-  },
-  {
-    "group_id": "group_1e82f3b0f9",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Stadionul Corvinul Hunedoara, demolat după 70 de ani de istorie. În locul lui va fi construită o arenă modernă",
-        "link": "https://adevarul.ro/stiri-locale/hunedoara/stadionul-corvinul-hunedoara-demolat-dupa-70-de-2567200.html",
-        "summary": "Lucrările de demolare a stadionului Corvinul au avansat rapid, iar tribuna principală a fost pusă la pământ în doar câteva zile. Construit la sfârșitul anilor ’50, stadionul din Hunedoara va lăsa locul unui complex modern.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793224225
       }
     ]
   },
@@ -2156,6 +2083,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793297704
+      }
+    ]
+  },
+  {
+    "group_id": "group_5b06fd462f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "PMB: Şase milioane de luminiţe vor împodobi, în această iarnă, principalele bulevarde ale Capitalei",
+        "link": "https://stirileprotv.ro/stiri/actualitate/pmb-sase-milioane-de-lumini-e-vor-impodobi-in-aceasta-iarna-principalele-bulevarde-ale-capitalei.html",
+        "summary": "Șase milioane de luminițe vor împodobi principalele bulevarde ale Capitalei în această iarnă. Compania municipală Iluminat Public București a început luni seară montarea instalațiilor pe care le are deja în depozite, a anunțat Municipalitatea.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793252060
       }
     ]
   },
@@ -6599,7 +6542,7 @@
   {
     "group_id": "group_f108fd88f7",
     "category": "Sport",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -6623,6 +6566,15 @@
         "source": "Agerpres (HU)",
         "title": "Handbal masculin: CS Dinamo București a câștigat la Montpellier și s-a calificat în grupele principale ale Ligii Campionilor",
         "link": "https://agerpres.ro/sport-extern/2026/10/29/handbal-masculin-cs-dinamo-bucuresti-a-castigat-la-montpellier-si-s-a-calificat-in-grupele-principal--1608240",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793232000
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Handbal masculin: CS Dinamo București a câștigat la Montpellier și s-a calificat în grupele principale ale Ligii Campionilor",
+        "link": "https://agerpres.ro/sport-extern/2026/10/29/video-handbal-masculin-cs-dinamo-bucuresti-a-castigat-la-montpellier-si-s-a-calificat-in-grupele-pri--1608240",
         "summary": "",
         "category": "Általános",
         "is_b2b_only": false,
@@ -6753,12 +6705,12 @@
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
-        "title": "Gloria Bistrița - FCSB, ultimul meci al etapei din Cupa României Betano » Reghecampf face 3 schimbări",
+        "title": "Înapoi la realitate! Gloria Bistrița i-a încheiat lui Reghecampf luna de miere la FCSB. Prestație ca în era Baciu",
         "link": "https://www.gsp.ro/fotbal/cupa-romaniei/live-gloria-bistrita-fcsb-grupe-cupa-romaniei-993524.html",
-        "summary": "Gloria Bistrița – FCSB este partida care închide a doua etapă din faza grupelor Cupei României Betano. Meciul a început la 21:30 și este liveTEXT pe GSP.ro și în direct pe Prima Sport 1 și Digi Sport 1. Cu trei victorii la rând în campionat, ultima fiind 4-1 cu Rapid, FCSB se mută acum în Cupa României. Acolo unde adversară va fi Gloria Bistrița, echipă de pe locul 11 din Liga 2 (18 puncte în 11 meciuri). ...",
+        "summary": "FCSB a fost învinsă lamentabil de Gloria Bistrița, echipă din Liga 2, scor 0-1, în ultimul meci al rundei cu numărul doi din grupele Cupei României Betano. A fost primul eșec din noul mandat al lui Laurențiu Reghecampf, iar bucureștenii vor da o luptă de totul sau nimic în ultima rundă, acasă, cu Csikszereda, pentru calificarea în „sferturi”. Ultima etapă va fi foarte echilibrată în grupa C. ...",
         "category": "Sport",
         "is_b2b_only": false,
-        "published_at": 1793307346
+        "published_at": 1793310377
       }
     ]
   },
@@ -16281,7 +16233,7 @@
   {
     "group_id": "group_fd3fd7a002",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Mediafax",
@@ -16318,6 +16270,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793296983
+      },
+      {
+        "source": "Digi24",
+        "title": "Gabriel-Ciprian Ene, magistrat-asistent la Înalta Curte de Casaţie şi Justiţie, a fost numit secretar general al Guvernului",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/gabriel-ciprian-ene-magistrat-asistent-la-inalta-curte-de-casatie-si-justitie-a-fost-numit-secretar-general-al-guvernului-4014607",
+        "summary": "Gabriel-Ciprian Ene, magistrat-asistent la Înalta Curte de Casaţoe şi Justiţie, a fost numit secretar general al Guvernului, printr-o decizie a premierului Luca Niculescu. Decizia intră în vigoare la 2 noiembrie.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793310534
       }
     ]
   },
@@ -17579,7 +17540,7 @@
         "summary": "Actorul Patrick Stewart a murit miercuri la reședința sa din Los Angeles, la vârsta de 86 de ani. Decesul, cauzat de boala Alzheimer și de demența cu corpi Lewy, a fost anunțat pe rețelele sociale, scrie The New York Times.",
         "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1793306259
+        "published_at": 1793310382
       },
       {
         "source": "G4Media",
@@ -18341,6 +18302,22 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1793309785
+      }
+    ]
+  },
+  {
+    "group_id": "group_c425ebc40a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "AUR, abia pe locul cinci în intenția de vot. George Simion, printre politicienii cu cel mai ridicat nivel de neîncredere SONDAJ",
+        "link": "https://adevarul.ro/politica/aur-abia-pe-locul-cinci-in-intentia-de-vot-2567591.html",
+        "summary": "AUR ar obține 10,8% din intențiile de vot, fiind depășit de PSD, PNL, un eventual partid condus de Călin Georgescu și USR, potrivit Barometrului Institutului pentru Politici Economice și Publice (IPEP).",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793310105
       }
     ]
   }
