@@ -6,7 +6,6 @@ import { ensureHistory, getNews, timeAgo, tr } from "@/lib/news";
 import { getLiveNews } from "@/lib/news-live.functions";
 import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
-import { ArticleQA } from "@/components/ArticleQA";
 import { articleSchema, breadcrumbSchema, serializeArticleSchema, SITE_URL } from "@/lib/article-schema";
 
 export const Route = createFileRoute("/hir/$id")({
