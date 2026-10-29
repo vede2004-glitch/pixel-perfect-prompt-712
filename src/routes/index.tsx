@@ -79,11 +79,11 @@ function Index() {
 
       <main id="top" className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
-          <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 flex min-h-[420px] flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
+          <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 flex flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
             <div className="pointer-events-none absolute -right-24 -top-24 size-96 rounded-full bg-primary/15 blur-3xl" />
             <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
             <span aria-hidden className="pointer-events-none absolute right-6 top-2 font-display text-[10rem] font-extrabold leading-none text-primary/10">{lead.sources.length}</span>
-            <div className="relative p-5 pt-16 sm:p-8 sm:pt-20">
+            <div className="relative p-5 sm:p-8">
               <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ {ro ? "Știre sintetizată cu AI" : "AI Összesített Hír"}</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{labelCategory(lead.category)} · {timeAgo(lead.published_at, lang)} · {formatDate(lead.published_at, lang)}</span></div>
               <h1 className="max-w-3xl font-display text-3xl font-extrabold leading-[1.1] sm:text-5xl"><RichText text={t(lead).title} /></h1>
               <p className="mt-4 hidden max-w-2xl text-base font-medium text-foreground/65 line-clamp-3 sm:block"><RichText text={t(lead).lead} /></p>
