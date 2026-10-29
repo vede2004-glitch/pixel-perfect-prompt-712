@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_0548f548c6",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Novak Djokovic a fost eliminat în optimi la Basel, după un meci echilibrat cu Jan-Lennard Struff",
+        "link": "https://www.gsp.ro/sporturi/tenis/novak-djokovic-eliminat-in-optimi-la-basel-2026-993791.html"
+      }
+    ],
+    "published_at": 1793312700,
+    "title_hu": "Novak Djokovic a fost eliminat în optimi la Basel, după un meci echilibrat cu Jan-Lennard Struff",
+    "lead_hu": "După ce a câștigat primul set la tie-break, Novak Djokovic (12 ATP) a fost învins de germanul Jan-Lennard Struff (47 ATP), care avansează în sferturile de finală ale turneului ATP 500 de la Basel. Ave...",
+    "content_hu": "După ce a câștigat primul set la tie-break, Novak Djokovic (12 ATP) a fost învins de germanul Jan-Lennard Struff (47 ATP), care avansează în sferturile de finală ale turneului ATP 500 de la Basel. Aventura lui Novak Djokovic la turneul ATP 500 de la Basel s-a încheiat prematur în faza optimilor de finală. ...",
+    "title_ro": "Novak Djokovic a fost eliminat în optimi la Basel, după un meci echilibrat cu Jan-Lennard Struff",
+    "lead_ro": "După ce a câștigat primul set la tie-break, Novak Djokovic (12 ATP) a fost învins de germanul Jan-Lennard Struff (47 ATP), care avansează în sferturile de finală ale turneului ATP 500 de la Basel. Ave...",
+    "content_ro": "După ce a câștigat primul set la tie-break, Novak Djokovic (12 ATP) a fost învins de germanul Jan-Lennard Struff (47 ATP), care avansează în sferturile de finală ale turneului ATP 500 de la Basel. Aventura lui Novak Djokovic la turneul ATP 500 de la Basel s-a încheiat prematur în faza optimilor de finală. ..."
+  },
+  {
     "group_id": "group_85f7f053d2",
     "category": "Általános",
     "is_synthesized": false,
@@ -733,7 +754,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Mediafax",
@@ -749,6 +770,11 @@
         "source": "ProTV Stiri",
         "title": "Criză de motorină în Elveția. Autoritățile iau în calcul limitarea vitezei pe autostrăzi la 80 km/h",
         "link": "https://stirileprotv.ro/stiri/international/criza-de-motorina-in-elvetia-autoritatile-iau-in-calcul-limitarea-vitezei-pe-autostrazi-la-80-km-h.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Elveţia vrea să reducă viteza maximă pe autostrăzi la 80 km/h pentru a combate penuria de combustibil",
+        "link": "https://hotnews.ro/elvetia-vrea-sa-reduca-viteza-maxima-pe-autostrazi-la-80-km-h-pentru-a-combate-penuria-de-combustibil-2390323"
       }
     ],
     "published_at": 1793308317,
@@ -19611,27 +19637,6 @@
     "title_ro": "Resemnat, Marius Șumudică dă vina pe jucători: „Trei goluri, trei...”",
     "lead_ro": "CFR - U Kolozsvár 1-3. La finalul partidei din Gruia, Marius Șumudică (55 de ani), antrenorul gazdelor, a pus înfrângerea pe seama greșelilor individuale ale jucătorilor săi și a recunoscut că rivala …",
     "content_ro": "CFR - U Kolozsvár 1-3. La finalul partidei din Gruia, Marius Șumudică (55 de ani), antrenorul gazdelor, a pus înfrângerea pe seama greșelilor individuale ale jucătorilor săi și a recunoscut că rivala din oraș este, în acest moment, superioară echipei sale. Tehnicianul s-a plâns din nou și de programul încărcat, explicând de ce a schimbat majoritatea titularilor. ..."
-  },
-  {
-    "group_id": "group_e5523723cc",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Elon Musk igazi zseni – mondta Putyin, majd elárulta, hogy szoros kapcsolatban állnak a SpaceX vezetőjével",
-        "link": "https://transtelex.ro/kulfold/2026/10/28/putyin-elon-musk-spacex-starlink-muhold"
-      }
-    ],
-    "published_at": 1793226275,
-    "title_hu": "Elon Musk igazi zseni – mondta Putyin, majd elárulta, hogy szoros kapcsolatban állnak a SpaceX vezetőjével",
-    "lead_hu": "Putyin szerint azért fontos Oroszország számára a kapcsolattartás Muskkal, hogy az orosz Rasszvet és a Starlink műholdjai ne zavarják egymást a Föld körüli pályán.",
-    "content_hu": "Putyin szerint azért fontos Oroszország számára a kapcsolattartás Muskkal, hogy az orosz Rasszvet és a Starlink műholdjai ne zavarják egymást a Föld körüli pályán.",
-    "title_ro": "Elon Musk igazi zseni – mondta Putyin, majd elárulta, hogy szoros kapcsolatban állnak a SpaceX vezetőjével",
-    "lead_ro": "Putyin szerint azért fontos Oroszország számára a kapcsolattartás Muskkal, hogy az orosz Rasszvet és a Starlink műholdjai ne zavarják egymást a Föld körüli pályán.",
-    "content_ro": "Putyin szerint azért fontos Oroszország számára a kapcsolattartás Muskkal, hogy az orosz Rasszvet és a Starlink műholdjai ne zavarják egymást a Föld körüli pályán."
   },
   {
     "group_id": "group_5acacddb91",
