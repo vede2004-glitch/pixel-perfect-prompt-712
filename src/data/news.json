@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_ecdc5653ef",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Peste 1,1 milioane de euro în echipamente sportive pentru copiii din fotbalul românesc, prin Liga Punctelor PENNY 2026",
+        "link": "https://www.mediafax.ro/comunicate/peste-11-milioane-de-euro-in-echipamente-sportive-pentru-copiii-din-fotbalul-romanesc-prin-liga-punctelor-penny-2026-23834068"
+      }
+    ],
+    "published_at": 1793292374,
+    "title_hu": "Peste 1,1 milioane de euro în echipamente sportive pentru copiii din fotbalul românesc, prin Liga Punctelor PENNY 2026",
+    "lead_hu": "5,76 milioane de puncte donate și peste 1.000 de cluburi susținute în cea de-a patra ediție a campaniei...",
+    "content_hu": "5,76 milioane de puncte donate și peste 1.000 de cluburi susținute în cea de-a patra ediție a campaniei",
+    "title_ro": "Peste 1,1 milioane de euro în echipamente sportive pentru copiii din fotbalul românesc, prin Liga Punctelor PENNY 2026",
+    "lead_ro": "5,76 milioane de puncte donate și peste 1.000 de cluburi susținute în cea de-a patra ediție a campaniei...",
+    "content_ro": "5,76 milioane de puncte donate și peste 1.000 de cluburi susținute în cea de-a patra ediție a campaniei"
+  },
+  {
+    "group_id": "group_1cb48aa421",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Ionuț Mocăniță și Claudia Ion, bănuiți că nu mai formau un cuplu dinainte de filmările de la Insula Iubirii. Un fost concurent lansează ipoteza-surpriză",
+        "link": "https://www.cancan.ro/ionut-mocanita-si-claudia-ion-banuiti-ca-nu-mai-formau-un-cuplu-dinainte-de-filmarile-de-la-insula-iubirii-un-fost-concurent-lanseaza-ipoteza-surpriza-21537466"
+      }
+    ],
+    "published_at": 1793292261,
+    "title_hu": "Ionuț Mocăniță și Claudia Ion, bănuiți că nu mai formau un cuplu dinainte de filmările de la Insula Iubirii. Un fost concurent lansează ipoteza-surpriză",
+    "lead_hu": "Fostul concurent de la Insula Iubirii, Marian Grozavu, a intrat în direct în cadrul emisiunii CANCAN pe insulă, ediția specială de Halloween, și a făcut o serie de declarații incendiare despre Claudia...",
+    "content_hu": "Fostul concurent de la Insula Iubirii, Marian Grozavu, a intrat în direct în cadrul emisiunii CANCAN pe insulă, ediția specială de Halloween, și a făcut o serie de declarații incendiare despre Claudia și Mocăniță. Marian spune că știe niște informații din surse sigure despre cei doi și a pus sub semnul întrebării autenticitatea relației lor. […]",
+    "title_ro": "Ionuț Mocăniță și Claudia Ion, bănuiți că nu mai formau un cuplu dinainte de filmările de la Insula Iubirii. Un fost concurent lansează ipoteza-surpriză",
+    "lead_ro": "Fostul concurent de la Insula Iubirii, Marian Grozavu, a intrat în direct în cadrul emisiunii CANCAN pe insulă, ediția specială de Halloween, și a făcut o serie de declarații incendiare despre Claudia...",
+    "content_ro": "Fostul concurent de la Insula Iubirii, Marian Grozavu, a intrat în direct în cadrul emisiunii CANCAN pe insulă, ediția specială de Halloween, și a făcut o serie de declarații incendiare despre Claudia și Mocăniță. Marian spune că știe niște informații din surse sigure despre cei doi și a pus sub semnul întrebării autenticitatea relației lor. […]"
+  },
+  {
     "group_id": "group_f65345c084",
     "category": "Általános",
     "is_synthesized": false,
@@ -424,7 +466,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "G4Media",
@@ -435,6 +477,11 @@
         "source": "Agerpres (HU)",
         "title": "Paiele de hârtie sunt mai dăunătoare pentru mediu decât cele din plastic (studiu)",
         "link": "https://agerpres.ro/planeta/2026/10/29/paiele-de-hartie-sunt-mai-daunatoare-pentru-mediu-decat-cele-din-plastic-studiu--1608173"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Paiele din hartie ar fi mai nocive pentru mediu decât cele din plastic. Ce s-a descoperit în cel mai recent studiu",
+        "link": "https://stirileprotv.ro/stiri/stiinta/paiele-din-hartie-ar-fi-mai-nocive-pentru-mediu-decat-cele-din-plastic-ce-s-a-descoperit-in-cel-mai-recent-studiu.html"
       }
     ],
     "published_at": 1793289868,
@@ -3302,7 +3349,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "G4Media",
@@ -3313,6 +3360,11 @@
         "source": "Agerpres (HU)",
         "title": "UE amână implementarea oricărei legislații naționale care vizează interzicerea accesului minorilor la rețelele de socializare",
         "link": "https://agerpres.ro/politic-extern/2026/10/29/ue-amana-implementarea-oricarei-legislatii-nationale-care-vizeaza-interzicerea-accesului-minorilor-l--1608114"
+      },
+      {
+        "source": "Digi24",
+        "title": "UE blochează timp de un an noi legi naționale privind interzicerea accesului copiilor la rețelele sociale. Motivul deciziei",
+        "link": "https://www.digi24.ro/stiri/externe/ue/ue-blocheaza-timp-de-un-an-noi-legi-nationale-privind-interzicerea-accesului-copiilor-la-retelele-sociale-motivul-deciziei-4014253"
       }
     ],
     "published_at": 1793283741,
@@ -6134,7 +6186,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Maszol",
@@ -6150,6 +6202,16 @@
         "source": "HotNews.ro",
         "title": "Prima rectificare bugetară din 2026: fonduri pentru sănătate, drepturi salariale, bugete locale și investiții",
         "link": "https://hotnews.ro/prima-rectificare-bugetara-pe-anul-2026-fonduri-pentru-sanatate-drepturi-salariale-bugete-locale-si-investitii-2390069"
+      },
+      {
+        "source": "Digi24",
+        "title": "Prima rectificare bugetară, pusă în transparență: câți bani vor fi acordați și ce ministere sunt „câștigătoare” DOCUMENT",
+        "link": "https://www.digi24.ro/finante/prima-rectificare-bugetara-pusa-in-transparenta-cati-bani-vor-fi-acordati-si-ce-ministere-sunt-castigatoare-document-4014271"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Prima rectificare bugetară pe anul 2026 este construită cu menținerea țintei de deficit cash de 6,2% din PIB. Cele mai mari suplimentări și tăieri de fonduri",
+        "link": "https://www.mediafax.ro/economic/prima-rectificare-bugetara-pe-anul-2026-este-construita-cu-mentinerea-tintei-de-deficit-cash-de-62-din-pib-cele-mai-mari-suplimentari-si-taieri-de-fonduri-23834064"
       }
     ],
     "published_at": 1793276944,
@@ -11737,7 +11799,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Digi24",
@@ -11748,6 +11810,11 @@
         "source": "ProTV Stiri",
         "title": "Trageri Loto 6/49, Joker și Loto 5/40, joi, 29 octombrie 2026. Ce premii sunt puse în joc",
         "link": "https://stirileprotv.ro/stiri/actualitate/trageri-loto-6-49-joker-si-loto-5-40-joi-29-octombrie-2026-ce-premii-sunt-puse-in-joc.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Rezultate Loto 6/49, Joker și Noroc, 29 octombrie 2026. Numerele câștigătoare extrase în această seară",
+        "link": "https://hotnews.ro/rezultate-loto-29-octombrie-2026-2388729"
       }
     ],
     "published_at": 1793262643,
@@ -19783,160 +19850,6 @@
     "title_ro": "Barcelona, decizie după eșecurile usturătoare » Ce au făcut fotbaliștii",
     "lead_ro": "Eșecurile consecutive suferite în fața celor de la Paris Saint-Germain (2-4) și Real Madrid (1-2) au reprezentat o lovitură pentru moralul Barcelonei, însă rezultatele negative nu au zdruncinat atmosf…",
     "content_ro": "Eșecurile consecutive suferite în fața celor de la Paris Saint-Germain (2-4) și Real Madrid (1-2) au reprezentat o lovitură pentru moralul Barcelonei, însă rezultatele negative nu au zdruncinat atmosfera excelentă din vestiarul catalanilor. Conform cotidianului Sport, căpitanii echipei au preluat inițiativa și au organizat miercuri un grătar cu întreg lotul. ..."
-  },
-  {
-    "group_id": "group_7c7d7dedef",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Újabb elutasítás a sepsiszentgyörgyi román iskola ügyében – Antal Árpád kifakadt a bíróságra",
-        "link": "https://maszol.ro/belfold/Ujabb-elutasitas-a-sepsiszentgyorgyi-roman-iskola-ugyeben-Antal-Arpad-kifakadt-a-birosagra"
-      }
-    ],
-    "published_at": 1793206260,
-    "title_hu": "Újabb elutasítás a sepsiszentgyörgyi román iskola ügyében – Antal Árpád kifakadt a bíróságra",
-    "lead_hu": "Majdnem kész és mégis elérhetetlen a sepsiszentgyörgyi Mihai Viteazul főgimnázium dísztermének és bentlakásának épülete.",
-    "content_hu": "Majdnem kész és mégis elérhetetlen a sepsiszentgyörgyi Mihai Viteazul főgimnázium dísztermének és bentlakásának épülete.",
-    "title_ro": "Újabb elutasítás a sepsiszentgyörgyi román iskola ügyében – Antal Árpád kifakadt a bíróságra",
-    "lead_ro": "Majdnem kész és mégis elérhetetlen a sepsiszentgyörgyi Mihai Viteazul főgimnázium dísztermének és bentlakásának épülete.",
-    "content_ro": "Majdnem kész és mégis elérhetetlen a sepsiszentgyörgyi Mihai Viteazul főgimnázium dísztermének és bentlakásának épülete."
-  },
-  {
-    "group_id": "group_336a005023",
-    "fingerprint": "a2b62b7f25a7777c4f9eee5de86f8f13",
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/thomaswolter-cruise-4339923_1920-1024x683.jpg",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "O navă de croazieră își încheie călătoria în jurul lumii din cauza costurilor ridicate la combustibil. Pasagerii au fost informați să părăsească nava",
-        "link": "https://www.mediafax.ro/stirile-zilei/o-nava-de-croaziera-isi-incheie-calatoria-in-jurul-lumii-din-cauza-costurilor-ridicate-la-combustibil-pasagerii-au-fost-informati-sa-paraseasca-nava-23832884"
-      },
-      {
-        "source": "Digi24",
-        "title": "O croazieră de lux în jurul lumii, oprită de scumpirea combustibilului. Sute de pasageri au rămas blocați în Cambodgia",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/o-croaziera-de-lux-in-jurul-lumii-oprita-de-scumpirea-combustibilului-sute-de-pasageri-au-ramas-blocati-in-cambodgia-4012015"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 200 de pasageri care au plătit sute de mii de dolari pentru o croazieră de lux, au fost abandonați în Cambodgia",
-        "link": "https://stirileprotv.ro/stiri/international/peste-200-de-pasageri-care-au-platit-sute-de-mii-de-dolari-pentru-o-croaziera-de-lux-au-fost-abandonati-in-cambodgia.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Croazieră de lux în jurul lumii cu 200 de pasageri la bord, oprită din cauza costurilor cu combustibilul. Oamenii au rămas în Cambodgia",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/croaziera-de-lux-in-jurul-lumii-cu-200-de-pasageri-2567165.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "O navă de croazieră își suspendă călătoria în jurul lumii din cauza costurilor la combustibil",
-        "link": "https://www.g4media.ro/o-nava-de-croaziera-isi-suspenda-calatoria-in-jurul-lumii-din-cauza-costurilor-la-combustibil.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Călătoria vieții lor s-a încheiat în Cambodgia. 200 de pasageri care călătoreau în jurul lumii, au fost debarcați după ce compania a rămas fără bani de combustibil",
-        "link": "https://hotnews.ro/calatoria-vietii-lor-s-a-incheiat-in-cambodgia-200-de-pasageri-care-calatoreau-in-jurul-lumii-au-fost-debarcati-dupa-ce-compania-a-ramas-fara-bani-de-combustibil-2389116"
-      }
-    ],
-    "published_at": 1793206131,
-    "title_hu": "Az üzemanyagköltségek miatt felfüggesztik az Odyssey világ körüli útját",
-    "lead_hu": "A Villa Vie Residences üzemanyagköltségekre hivatkozva felfüggesztette az Odyssey világ körüli útját, és felszólította az utasokat, hogy szálljanak le a kambodzsai Sihanoukville-ben veszteglő hajóról. A vállalat átmeneti szállást keres az érintetteknek, miközben 60 napon belül át akarja alakítani működését és tőkét bevonni; a folyamat kimenetelére nem vállal garanciát.",
-    "content_hu": "• **Az Odyssey üzemeltetője**, a floridai Villa Vie Residences bejelentette, hogy a hajó két év után befejezi a háromévesre tervezett, hét kontinenst érintő útját; az utasokat arra kérték, hogy szálljanak le.\n\n• **Az üzemanyagköltségek** kabinonkénti havi összege a korábbi, átlagosan 1800 dollárról egyes ázsiai térségekben becslések szerint 6000–8000 dollárra nőtt az iráni háború idején. A cég lassabb haladással és hosszabb kikötői tartózkodással próbálta mérsékelni a fogyasztást, de ez nem ellensúlyozta a drágulást.\n\n• **A vállalat** közölte, hogy nem tudja tovább viselni az ebből eredő működési veszteségeket, a teljes költségnövekedés utasokra hárítását pedig nem tartja reálisnak. A következő 60 napban a működés átalakítására és tőkebevonásra törekszik, de az eredményre nincs garancia.\n\n• **Sihanoukville-ben** a hajó október 23-án ötnapos látogatásra kötött ki, de a tervezett vietnámi út helyett továbbra is a kambodzsai kikötőben maradt. A kambodzsai hatóságok szerint indulása előtt, szombaton üzemanyagot vesz fel.\n\n• **Az utasok elhelyezése** a vállalat szerint átmeneti megoldást igényel: a társaság ideiglenes szállást próbál találni azoknak, akik elveszítették a fedélzeti lakóhelyüket. Egy részük már repülővel elutazott, mások Sihanoukville-ben várakoztak.\n\n• **A hajó mérete és kapacitása** a forrás szerint körülbelül 196 méter, és mintegy 650 lakó befogadására alkalmas; a fedélzeten 203, 15 különböző állampolgárságú utas – többségük amerikai – és 156 fős személyzet tartózkodott. A legénység további sorsa nem volt tisztázott.\n\n• **Az utasok értesítése** Randy Cassingham, a hajó egyik lakója szerint hétfő reggel történt: azt közölték velük, hogy délután 2 óráig el kell hagyniuk a hajót, amely átmenetileg felfüggeszti működését.\n\n• **A tervezett út és a második hajó** útitervét 2027 novemberéig tervezték, a vállalat pedig 2029 elejére egy második lakóhajó indítását is tervezte, erről azonban a mostani bejelentés nem közölt részleteket.\n\n• **A kabinok** megvásárolhatók vagy bérelhetők voltak; a hajó fedélzeti lakhatást és világ körüli utazást kínált az utasoknak.",
-    "title_ro": "Călătoria în jurul lumii a navei Odyssey este suspendată din cauza costurilor cu combustibilul",
-    "lead_ro": "Villa Vie Residences a suspendat călătoria în jurul lumii a navei Odyssey din cauza costurilor cu combustibilul și le-a cerut pasagerilor să debarce în portul cambodgian Sihanoukville. Compania caută cazare temporară pentru cei afectați și încearcă să își restructureze activitatea și să atragă capital în următoarele 60 de zile, fără să garanteze rezultatul procesului.",
-    "content_ro": "• **Operatorul navei Odyssey**, compania Villa Vie Residences din Florida, a anunțat că vasul își încheie după doi ani călătoria de trei ani planificată spre cele șapte continente; pasagerilor li s-a cerut să debarce.\n\n• **Costurile cu combustibilul** pe cabină și pe lună au crescut de la o medie obișnuită de 1.800 de dolari la o valoare estimată de 6.000–8.000 de dolari în unele zone din Asia, în timpul războiului cu Iranul. Compania a încercat să reducă consumul încetinind itinerarul și petrecând mai mult timp în port, însă economiile nu au compensat scumpirea.\n\n• **Compania** a declarat că nu mai poate suporta pierderile operaționale și că transferarea integrală a creșterii costurilor către pasageri nu este realistă. În următoarele 60 de zile, încearcă să își restructureze activitatea și să atragă capital, dar nu garantează rezultatul.\n\n• **La Sihanoukville**, nava a acostat pe 23 octombrie pentru o vizită de cinci zile, însă, în loc să plece spre Vietnam conform planului, a rămas în portul cambodgian. Autoritățile cambodgiene au declarat că va fi realimentată înainte de plecare, sâmbătă.\n\n• **Cazarea pasagerilor** necesită o soluție temporară, potrivit companiei, care încearcă să găsească locuri de cazare pentru cei rămași fără locuința de la bord. O parte dintre pasageri plecaseră deja cu avionul, iar alții așteptau în Sihanoukville.\n\n• **Dimensiunea și capacitatea navei** sunt de aproximativ 196 de metri, respectiv circa 650 de rezidenți; la bord se aflau 203 de pasageri de 15 naționalități, majoritatea americani, și 156 de membri ai echipajului. Situația viitoare a echipajului nu era clară.\n\n• **Informarea pasagerilor** a avut loc luni dimineață, potrivit lui Randy Cassingham, unul dintre rezidenții navei: li s-a spus să debarce până la ora 14:00, deoarece operațiunile urmau să fie suspendate temporar.\n\n• **Itinerarul și a doua navă** erau planificate până în noiembrie 2027, iar compania intenționa să lanseze o a doua navă rezidențială la începutul anului 2029; anunțul privind suspendarea călătoriei nu a oferit detalii despre acest proiect.\n\n• **Cabinele** puteau fi cumpărate sau închiriate; nava le oferea pasagerilor posibilitatea de a locui la bord și de a călători în jurul lumii."
-  },
-  {
-    "group_id": "group_9c04cb306b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Black Friday 2026 la Fashion Days. Ce produse vor fi la reduceri și când încep promoțiile",
-        "link": "https://stirileprotv.ro/stiri/black-friday/black-friday-2026-la-fashion-days-cand-incep-reducerile-la-haine-pantofi-si-accesorii.html"
-      }
-    ],
-    "published_at": 1793206019,
-    "title_hu": "Black Friday 2026 la Fashion Days. Ce produse vor fi la reduceri și când încep promoțiile",
-    "lead_hu": "Black Friday 2026 la Fashion Days este un moment așteptat de cei care vor să cumpere haine, pantofi și accesorii la prețuri reduse.",
-    "content_hu": "Black Friday 2026 la Fashion Days este un moment așteptat de cei care vor să cumpere haine, pantofi și accesorii la prețuri reduse.",
-    "title_ro": "Black Friday 2026 la Fashion Days. Ce produse vor fi la reduceri și când încep promoțiile",
-    "lead_ro": "Black Friday 2026 la Fashion Days este un moment așteptat de cei care vor să cumpere haine, pantofi și accesorii la prețuri reduse.",
-    "content_ro": "Black Friday 2026 la Fashion Days este un moment așteptat de cei care vor să cumpere haine, pantofi și accesorii la prețuri reduse."
-  },
-  {
-    "group_id": "group_47c9587826",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Önkormányzati hiba: titkos címet hoztak nyilvánosságra Besztercén",
-        "link": "https://maszol.ro/belfold/Onkormanyzati-hiba-titkos-cimet-hoztak-nyilvanossagra-Besztercen"
-      }
-    ],
-    "published_at": 1793205900,
-    "title_hu": "Önkormányzati hiba: titkos címet hoztak nyilvánosságra Besztercén",
-    "lead_hu": "A besztercei önkormányzat véletlenül nyilvánosságra hozta a családon belüli erőszak áldozatainak fenntartott védett otthon címét, amelyet a törvény szerint titokban kell tartani.",
-    "content_hu": "A besztercei önkormányzat véletlenül nyilvánosságra hozta a családon belüli erőszak áldozatainak fenntartott védett otthon címét, amelyet a törvény szerint titokban kell tartani.",
-    "title_ro": "Önkormányzati hiba: titkos címet hoztak nyilvánosságra Besztercén",
-    "lead_ro": "A besztercei önkormányzat véletlenül nyilvánosságra hozta a családon belüli erőszak áldozatainak fenntartott védett otthon címét, amelyet a törvény szerint titokban kell tartani.",
-    "content_ro": "A besztercei önkormányzat véletlenül nyilvánosságra hozta a családon belüli erőszak áldozatainak fenntartott védett otthon címét, amelyet a törvény szerint titokban kell tartani."
-  },
-  {
-    "group_id": "group_8e5a215b99",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Gina Pistol a făcut o mărturisire neașteptată: „Nu aș fi mers la MasterChef”. Emisiunea la care ar fi concurat: „Nu scăpa Smiley prea ușor de mine”",
-        "link": "https://adevarul.ro/showbiz/vedete/gina-pistol-a-facut-o-marturisire-neasteptata-nu-2567231.html"
-      }
-    ],
-    "published_at": 1793205888,
-    "title_hu": "Gina Pistol a făcut o mărturisire neașteptată: „Nu aș fi mers la MasterChef”. Emisiunea la care ar fi concurat: „Nu scăpa Smiley prea ușor de mine”",
-    "lead_hu": "Deși este una dintre figurile emblematice ale emisiunii „MasterChef”, Gina Pistol spune că, dacă ar fi fost în postura de concurent, nu ar fi ales show-ul culinar, ci una dintre competițiile de divert…",
-    "content_hu": "Deși este una dintre figurile emblematice ale emisiunii „MasterChef”, Gina Pistol spune că, dacă ar fi fost în postura de concurent, nu ar fi ales show-ul culinar, ci una dintre competițiile de divertisment de la Pro TV, potrivit Click!",
-    "title_ro": "Gina Pistol a făcut o mărturisire neașteptată: „Nu aș fi mers la MasterChef”. Emisiunea la care ar fi concurat: „Nu scăpa Smiley prea ușor de mine”",
-    "lead_ro": "Deși este una dintre figurile emblematice ale emisiunii „MasterChef”, Gina Pistol spune că, dacă ar fi fost în postura de concurent, nu ar fi ales show-ul culinar, ci una dintre competițiile de divert…",
-    "content_ro": "Deși este una dintre figurile emblematice ale emisiunii „MasterChef”, Gina Pistol spune că, dacă ar fi fost în postura de concurent, nu ar fi ales show-ul culinar, ci una dintre competițiile de divertisment de la Pro TV, potrivit Click!"
-  },
-  {
-    "group_id": "group_56b3d995c0",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Orădenii din strada Lăpușului reclamă că inaugurarea pasajului Oneștilor i-a lăsat fără posibilitatea virajului către centru și fără locuri de parcare (FOTO)",
-        "link": "https://www.ebihoreanul.ro/stiri/oradenii-din-strada-lapusului-reclama-ca-inaugurarea-pasajului-onestilor-i-a-lasat-fara-posibilitatea-virajului-catre-centru-si-fara-locuri-de-parcare-206176.html"
-      }
-    ],
-    "published_at": 1793205840,
-    "title_hu": "Orădenii din strada Lăpușului reclamă că inaugurarea pasajului Oneștilor i-a lăsat fără posibilitatea virajului către centru și fără locuri de parcare (FOTO)",
-    "lead_hu": "Inaugurarea pasajului subteran de la intersecția străzilor Oneștilor și Tudor Vladimirescu a stârnit un val de reclamații din partea orădenilor de pe strada Lăpușului. Riveranii sunt revoltați că nu m…",
-    "content_hu": "Inaugurarea pasajului subteran de la intersecția străzilor Oneștilor și Tudor Vladimirescu a stârnit un val de reclamații din partea orădenilor de pe strada Lăpușului. Riveranii sunt revoltați că nu mai pot vira la stânga către centrul orașului când ies din curțile blocurilor, iar trotuarele au fost îngustate pe alocuri, îngreunând deplasarea persoanelor cu cărucioare. În plus, modernizarea străzii a eliminat posibilitatea parcării a circa 60 de autoturisme lângă blocuri.",
-    "title_ro": "Orădenii din strada Lăpușului reclamă că inaugurarea pasajului Oneștilor i-a lăsat fără posibilitatea virajului către centru și fără locuri de parcare (FOTO)",
-    "lead_ro": "Inaugurarea pasajului subteran de la intersecția străzilor Oneștilor și Tudor Vladimirescu a stârnit un val de reclamații din partea orădenilor de pe strada Lăpușului. Riveranii sunt revoltați că nu m…",
-    "content_ro": "Inaugurarea pasajului subteran de la intersecția străzilor Oneștilor și Tudor Vladimirescu a stârnit un val de reclamații din partea orădenilor de pe strada Lăpușului. Riveranii sunt revoltați că nu mai pot vira la stânga către centrul orașului când ies din curțile blocurilor, iar trotuarele au fost îngustate pe alocuri, îngreunând deplasarea persoanelor cu cărucioare. În plus, modernizarea străzii a eliminat posibilitatea parcării a circa 60 de autoturisme lângă blocuri."
   },
   {
     "group_id": "group_4539227231",
