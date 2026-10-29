@@ -4,7 +4,6 @@ import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
 import { getNews, timeAgo, tr } from "@/lib/news";
 import { getLiveNews } from "@/lib/news-live.functions";
-import { newsImage } from "@/lib/gallery";
 import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, LANGS } from "@/lib/lang";
 import { ArticleQA } from "@/components/ArticleQA";
@@ -30,18 +29,14 @@ export const Route = createFileRoute("/hir/$id")({
       { property: "og:title", content: title },
       { property: "og:description", content: desc },
       { property: "og:type", content: "article" },
-      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:card", content: "summary" },
     ];
-    const image = loaderData ? newsImage(loaderData) : null;
-    if (image?.startsWith("https://")) {
-      meta.push({ property: "og:image", content: image }, { name: "twitter:image", content: image });
-    }
     const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.group_id)}` : undefined;
     return {
       meta: [...meta, ...(url ? [{ property: "og:url", content: url }] : [])],
       scripts: loaderData
         ? [
-            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, image)) },
+            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, null)) },
             { type: "application/ld+json", children: serializeArticleSchema(breadcrumbSchema(loaderData)) },
           ]
         : [],
@@ -55,7 +50,6 @@ function Article() {
   const lang = useLang();
   const t = tr(item, lang);
   const ro = lang === "ro";
-  const image = newsImage(item);
   return (
     <div className="min-h-screen bg-background font-sans text-foreground antialiased">
       <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur-xl">
@@ -74,7 +68,7 @@ function Article() {
         </div>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl"><RichText text={t.title} /></h1>
         {item.is_synthesized && !t.content.trim().startsWith(t.lead.replace(/…$/, "").trim().slice(0, 60)) && <p className="mt-4 text-lg font-medium leading-relaxed text-foreground/75"><RichText text={t.lead} /></p>}
-        {image && <img src={image} alt="" className="mt-6 aspect-video w-full rounded-lg border border-border object-cover" />}
+        <div className="mt-6 h-px w-24 bg-primary" />
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>

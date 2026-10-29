@@ -14,7 +14,221 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      broadcasts: {
+        Row: {
+          audio_script: string | null
+          created_at: string | null
+          id: string
+          mode: string | null
+          profile_id: string | null
+          script: string | null
+          settings: Json | null
+          status: string | null
+          title: string
+          user_id: string | null
+        }
+        Insert: {
+          audio_script?: string | null
+          created_at?: string | null
+          id?: string
+          mode?: string | null
+          profile_id?: string | null
+          script?: string | null
+          settings?: Json | null
+          status?: string | null
+          title: string
+          user_id?: string | null
+        }
+        Update: {
+          audio_script?: string | null
+          created_at?: string | null
+          id?: string
+          mode?: string | null
+          profile_id?: string | null
+          script?: string | null
+          settings?: Json | null
+          status?: string | null
+          title?: string
+          user_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "broadcasts_profile_id_fkey"
+            columns: ["profile_id"]
+            isOneToOne: false
+            referencedRelation: "radio_profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      news_items: {
+        Row: {
+          category: string | null
+          city: string | null
+          content: string | null
+          created_at: string | null
+          group_id: string | null
+          id: string
+          is_b2b_only: boolean | null
+          link: string
+          published_at: string | null
+          source: string
+          summary: string | null
+          title: string
+        }
+        Insert: {
+          category?: string | null
+          city?: string | null
+          content?: string | null
+          created_at?: string | null
+          group_id?: string | null
+          id?: string
+          is_b2b_only?: boolean | null
+          link: string
+          published_at?: string | null
+          source: string
+          summary?: string | null
+          title: string
+        }
+        Update: {
+          category?: string | null
+          city?: string | null
+          content?: string | null
+          created_at?: string | null
+          group_id?: string | null
+          id?: string
+          is_b2b_only?: boolean | null
+          link?: string
+          published_at?: string | null
+          source?: string
+          summary?: string | null
+          title?: string
+        }
+        Relationships: []
+      }
+      radio_profile_sources: {
+        Row: {
+          created_at: string
+          is_enabled: boolean
+          profile_id: string
+          source_id: string
+          updated_at: string
+        }
+        Insert: {
+          created_at?: string
+          is_enabled?: boolean
+          profile_id: string
+          source_id: string
+          updated_at?: string
+        }
+        Update: {
+          created_at?: string
+          is_enabled?: boolean
+          profile_id?: string
+          source_id?: string
+          updated_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "radio_profile_sources_profile_id_fkey"
+            columns: ["profile_id"]
+            isOneToOne: false
+            referencedRelation: "radio_profiles"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "radio_profile_sources_source_id_fkey"
+            columns: ["source_id"]
+            isOneToOne: false
+            referencedRelation: "rss_sources"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      radio_profiles: {
+        Row: {
+          city: string
+          colorful_count: number
+          created_at: string | null
+          frequency: string | null
+          id: string
+          intro_text: string | null
+          local_count: number | null
+          name: string
+          national_count: number | null
+          prompt_instructions: string | null
+          sport_count: number
+          updated_at: string | null
+          user_id: string | null
+        }
+        Insert: {
+          city: string
+          colorful_count?: number
+          created_at?: string | null
+          frequency?: string | null
+          id?: string
+          intro_text?: string | null
+          local_count?: number | null
+          name: string
+          national_count?: number | null
+          prompt_instructions?: string | null
+          sport_count?: number
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Update: {
+          city?: string
+          colorful_count?: number
+          created_at?: string | null
+          frequency?: string | null
+          id?: string
+          intro_text?: string | null
+          local_count?: number | null
+          name?: string
+          national_count?: number | null
+          prompt_instructions?: string | null
+          sport_count?: number
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Relationships: []
+      }
+      rss_sources: {
+        Row: {
+          category: string
+          city: string | null
+          created_at: string | null
+          id: string
+          is_active: boolean | null
+          is_global: boolean
+          name: string
+          url: string
+          user_id: string | null
+        }
+        Insert: {
+          category?: string
+          city?: string | null
+          created_at?: string | null
+          id?: string
+          is_active?: boolean | null
+          is_global?: boolean
+          name: string
+          url: string
+          user_id?: string | null
+        }
+        Update: {
+          category?: string
+          city?: string | null
+          created_at?: string | null
+          id?: string
+          is_active?: boolean | null
+          is_global?: boolean
+          name?: string
+          url?: string
+          user_id?: string | null
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never

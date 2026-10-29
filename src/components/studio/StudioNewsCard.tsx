@@ -1,4 +1,4 @@
-import { ChevronDown, ExternalLink, Maximize2, Newspaper } from "lucide-react";
+import { ChevronDown, ExternalLink, Maximize2 } from "lucide-react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { RichText } from "@/components/RichText";
@@ -8,7 +8,6 @@ export function StudioNewsCard({ item, selected, onSelect }: { item: StudioNews;
   const sources = item.sources.length ? item.sources : [{ source: item.source ?? "Ismeretlen" }];
   const label = sources.length > 1 ? `${sources.length} forrás` : sources[0]?.source;
   return <article className="flex gap-3 rounded-lg border border-border bg-card p-3">
-    {item.image ? <img src={item.image} alt="" className="h-28 w-24 shrink-0 rounded-md object-cover" /> : <div className="grid h-28 w-24 shrink-0 place-content-center rounded-md bg-secondary"><Newspaper className="size-7 text-muted-foreground" /></div>}
     <div className="min-w-0 flex-1">
       <div className="mb-2 flex items-center justify-between gap-2">
         <span className="text-xs text-studio-cyan">{label}</span>
@@ -23,7 +22,6 @@ export function StudioNewsCard({ item, selected, onSelect }: { item: StudioNews;
                 <DialogTitle className="text-xl leading-7"><RichText text={item.title_hu} /></DialogTitle>
                 <DialogDescription className="sr-only">Hír részletei és források</DialogDescription>
               </DialogHeader>
-              {item.image && <img src={item.image} alt="" className="max-h-72 w-full rounded-md object-cover" />}
               <div className="text-base leading-7 text-foreground"><RichText text={item.lead_hu || "Nincs összefoglaló."} /></div>
               <div>
                 <h4 className="mb-2 text-sm font-semibold">Források</h4>

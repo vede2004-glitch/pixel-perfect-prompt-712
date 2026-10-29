@@ -62,7 +62,7 @@ function AllNews() {
         {list.map((n) => (
           <li key={n.group_id}>
             <Link to="/hir/$id" params={{ id: n.group_id }} className="group flex gap-4 p-4">
-              {n.image && <img src={n.image} alt="" loading="lazy" className="hidden size-20 shrink-0 rounded-md object-cover sm:block" />}
+              <span className="hidden w-1 shrink-0 rounded-full bg-primary/30 transition-colors group-hover:bg-primary sm:block" />
               <div className="min-w-0">
                 <p className="text-[10px] font-bold uppercase text-muted-foreground">
                   {n.is_synthesized && <span className="text-primary">✨ AI · </span>}

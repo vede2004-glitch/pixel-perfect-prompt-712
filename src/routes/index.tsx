@@ -8,7 +8,6 @@ import { useNewsVersion } from "@/lib/news-live";
 import { SiteMenu } from "@/components/SiteMenu";
 import { useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
-import { newsImage } from "@/lib/gallery";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -29,7 +28,6 @@ const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
 };
-const img = (n: NewsItem) => newsImage(n) ?? "";
 
 function Index() {
   const [query, setQuery] = useState("");
@@ -81,9 +79,10 @@ function Index() {
 
       <main id="top" className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
-          <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 min-h-[470px] overflow-hidden rounded-lg border border-border lg:col-span-8 lg:row-span-2">
-            <img src={img(lead)} alt="" className="absolute inset-0 size-full object-cover transition-transform duration-700 group-hover:scale-105" />
-            <div className="absolute inset-0 bg-[linear-gradient(to_top,var(--background)_0%,var(--overlay)_42%,transparent_100%)]" />
+          <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 min-h-[420px] overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
+            <div className="pointer-events-none absolute -right-24 -top-24 size-96 rounded-full bg-primary/15 blur-3xl" />
+            <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
+            <span aria-hidden className="pointer-events-none absolute right-6 top-2 font-display text-[10rem] font-extrabold leading-none text-primary/10">{lead.sources.length}</span>
             <div className="absolute inset-x-0 bottom-0 p-5 sm:p-8">
               <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ {ro ? "Știre sintetizată cu AI" : "AI Összesített Hír"}</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{labelCategory(lead.category)} · {timeAgo(lead.published_at, lang)} · {formatDate(lead.published_at, lang)}</span></div>
               <h1 className="max-w-3xl font-display text-3xl font-extrabold leading-[1.1] sm:text-5xl"><RichText text={t(lead).title} /></h1>
@@ -99,7 +98,7 @@ function Index() {
             <div className="mb-6 flex items-center justify-between border-b border-border pb-4"><h2 className="font-display text-lg font-extrabold uppercase">{ro ? "Știri sintetizate cu AI" : "AI összesített hírek"}</h2><span className="flex items-center gap-2 text-[10px] font-bold uppercase text-muted-foreground"><span className="size-2 rounded-full bg-primary animate-live" />{aiList.length} {ro ? "știri" : "hír"}</span></div>
             {rest.length ? <div className="grid grid-cols-1 gap-x-6 gap-y-9 md:grid-cols-2">
               {rest.map((story, i) => <Link key={story.group_id} to="/hir/$id" params={{ id: story.group_id }} className="group min-w-0">
-                <div className="relative mb-4 aspect-video overflow-hidden rounded-lg border border-border bg-card"><img src={img(story)} loading="lazy" alt="" className="size-full object-cover transition-transform duration-500 group-hover:scale-105" /><span className="absolute right-3 top-3 rounded-sm border border-primary/20 bg-background/85 px-2 py-1 text-[9px] font-bold uppercase text-primary backdrop-blur">✨ {ro ? "Sintetizat cu AI" : "AI Összesített"}</span></div>
+                <div className="mb-4 flex items-center justify-between border-t-2 border-primary/60 pt-3 transition-colors group-hover:border-primary"><span className="text-[9px] font-bold uppercase text-primary">✨ {ro ? "Sintetizat cu AI" : "AI Összesített"}</span><span className="font-display text-2xl font-extrabold leading-none text-primary/30">{String(i + 1).padStart(2, "0")}</span></div>
                 <div className="mb-2 flex items-center justify-between gap-3 text-[10px] font-bold uppercase text-muted-foreground"><span>{labelCategory(story.category)}</span><span>{formatDate(story.published_at, lang)}</span></div>
                 <h3 className="font-display text-lg font-bold leading-tight transition-colors group-hover:text-primary"><RichText text={t(story).title} /></h3>
                 <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-muted-foreground"><RichText text={t(story).lead} /></p>
