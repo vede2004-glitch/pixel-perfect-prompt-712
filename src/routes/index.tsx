@@ -5,6 +5,12 @@ import heroHarghita from "@/assets/stirix-harghita.jpg";
 import heroHospital from "@/assets/stirix-hospital.jpg";
 import heroKultura from "@/assets/stirix-kultura.jpg";
 import heroSport from "@/assets/stirix-sport.jpg";
+import heroEu from "@/assets/stirix-eu.jpg";
+import heroRoParliament from "@/assets/stirix-ro-parliament.jpg";
+import heroHuParliament from "@/assets/stirix-hu-parliament.jpg";
+import heroJustice from "@/assets/stirix-justice.jpg";
+import heroEducation from "@/assets/stirix-education.jpg";
+import heroCluj from "@/assets/stirix-cluj.jpg";
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
@@ -39,7 +45,18 @@ const HERO_PHOTOS: Record<string, string> = {
   "Gazdaság": heroGazdasag,
   "Bulvár": heroBulvar,
 };
-const heroPhoto = (category: string) => HERO_PHOTOS[category] ?? heroHospital;
+// Topic keywords (HU + RO) win over the category photo; first match wins.
+const TOPIC_PHOTOS: Array<[RegExp, string]> = [
+  [/\b(EU|európai unió|európai bizottság|brüsszel|uniós|uniunea europeană|comisia europeană|bruxelles|ue)\b/i, heroEu],
+  [/(román (kormány|parlament|szenátus|miniszter|elnök)|romániai (kormány|parlament)|bukarest|bolojan|nicușor|guvernul|parlamentul|senatul|camera deputa|bucurești)/i, heroRoParliament],
+  [/(országgyűlés|budapest|orbán|magyar kormány|magyarországi (kormány|parlament)|guvernul ungar|budapesta)/i, heroHuParliament],
+  [/(bíróság|ítélet|ügyész|rendőr|dna|instanț|procuror|poliți|tribunal)/i, heroJustice],
+  [/(iskola|oktatás|érettségi|egyetem|școal|educați|universit|bacalaureat)/i, heroEducation],
+  [/(kórház|egészség|orvos|beteg|spital|sănătat|medic|pacient)/i, heroHospital],
+  [/(kolozsvár|cluj)/i, heroCluj],
+];
+const heroPhoto = (category: string, text: string) =>
+  TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1] ?? HERO_PHOTOS[category] ?? heroCluj;
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
@@ -96,10 +113,9 @@ function Index() {
       <main id="top" className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
           <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 flex flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
-            <img src={heroPhoto(lead.category)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-40 transition-opacity duration-500 group-hover:opacity-50" />
-            <div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-background/30" />
+            <img src={heroPhoto(lead.category, `${t(lead).title} ${t(lead).lead ?? ""}`)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90" />
+            <div className="absolute inset-0 bg-gradient-to-t from-background via-background/75 to-background/25" />
             <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
-            <span aria-hidden className="pointer-events-none absolute right-6 top-2 font-display text-[10rem] font-extrabold leading-none text-primary/10">{lead.sources.length}</span>
             <div className="relative p-5 sm:p-8">
               <div className="mb-4 flex flex-wrap items-center gap-3"><span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">✨ {ro ? "Știre sintetizată cu AI" : "AI Összesített Hír"}</span><span className="text-[10px] font-bold uppercase text-muted-foreground">{labelCategory(lead.category)} · {timeAgo(lead.published_at, lang)} · {formatDate(lead.published_at, lang)}</span></div>
               <h1 className="max-w-3xl font-display text-3xl font-extrabold leading-[1.1] sm:text-5xl"><RichText text={t(lead).title} /></h1>
