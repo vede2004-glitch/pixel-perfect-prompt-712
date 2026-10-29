@@ -166,24 +166,6 @@ def classify_article(title, summary, source_name):
 
     return "Általános"
 
-def extract_cover_image(entry, article_url, session):
-    if 'media_content' in entry and entry.media_content:
-        for media in entry.media_content:
-            if 'url' in media and media['url']:
-                return media['url']
-    if 'links' in entry:
-        for link in entry.links:
-            if link.get('type', '').startswith('image/') and 'href' in link:
-                return link['href']
-    raw_html = entry.get('summary', '') or entry.get('description', '')
-    if raw_html:
-        soup = BeautifulSoup(raw_html, 'html.parser')
-        img = soup.find('img')
-        if img and img.get('src'):
-            return img['src']
-
-    return ""
-
 def get_embedding(title, summary):
     clean_title = clean_text(title)
     clean_sum = clean_text(summary)[:250]
@@ -218,7 +200,6 @@ def extract_article_data(entry, source_name, is_b2b, session, cutoff_24h):
 
     raw_summary = entry.get('summary', '') or entry.get('description', '')
     clean_summary = clean_text(raw_summary)
-    image_url = extract_cover_image(entry, link, session)
     category = classify_article(title, clean_summary, source_name)
 
     return {
@@ -226,10 +207,9 @@ def extract_article_data(entry, source_name, is_b2b, session, cutoff_24h):
         "title": title,
         "link": link,
         "summary": clean_summary,
-        "image": image_url,
         "published_at": pub_timestamp,
         "category": category,
-        "is_b2b_only": is_b2b  # 🎯 MEGJELÖLÉS KINYERÉSKOR
+        "is_b2b_only": is_b2b
     }
 
 def fetch_single_feed(item_and_cutoff):
@@ -263,7 +243,6 @@ def run_pipeline():
 
     fetched_articles = []
     
-    # 🎯 LISTÁK ÖSSZEÁLLÍTÁSA A B2B JELZŐVEL
     feed_items = [((src, url, False), cutoff_24h) for src, url in PUBLIC_RSS_FEEDS.items()]
     feed_items.extend([((src, url, True), cutoff_24h) for src, url in B2B_RSS_FEEDS.items()])
     
@@ -280,8 +259,6 @@ def run_pipeline():
                 existing_item["title"] = art["title"]
                 existing_item["summary"] = art["summary"]
                 existing_item["fetched_at"] = art["published_at"]
-                if art["image"]:
-                    existing_item["image"] = art["image"]
             continue
 
         art_embedding = get_embedding(art['title'], art['summary'])
@@ -315,10 +292,9 @@ def run_pipeline():
             "source": art["source"],
             "title": art["title"],
             "link": art["link"],
-            "image": art["image"],
             "summary": art["summary"],
             "category": art["category"],
-            "is_b2b_only": art.get("is_b2b_only", False),  # 🎯 BENT VAN A MEMÓRIÁBAN
+            "is_b2b_only": art.get("is_b2b_only", False),
             "embedding": art_embedding,
             "fetched_at": art["published_at"]
         })
@@ -353,7 +329,6 @@ def run_pipeline():
             "source": item["source"],
             "title": item["title"],
             "link": item["link"],
-            "image": item["image"],
             "summary": item["summary"],
             "category": item["category"],
             "is_b2b_only": item.get("is_b2b_only", False),
@@ -395,10 +370,8 @@ def run_pipeline():
                     "link": item.get("link")
                 })
             
-            # PONTOs FORRÁSSZÁM FRISSÍTÉSE
             news_map[g_id]["sources_count"] = len(news_map[g_id]["sources"])
             
-            # HA A CSOPORTBAN BÁRMELYIK FORRÁS B2B, AKKOR A CSOPORT IS MEGKAPJA A B2B JELZŐT
             if item.get("is_b2b_only"):
                 news_map[g_id]["is_b2b_only"] = True
         
@@ -412,9 +385,8 @@ def run_pipeline():
             news_map[g_id] = {
                 "group_id": g_id,
                 "category": item.get("category", "Általános"),
-                "image": item.get("image", ""),
                 "is_synthesized": False,
-                "is_b2b_only": item.get("is_b2b_only", False),  # 🎯 ÚJ B2B FIELD MEGADVA
+                "is_b2b_only": item.get("is_b2b_only", False),
                 "sources_count": len(sources_list),
                 "sources": sources_list,
                 "published_at": pub_time,
@@ -430,7 +402,6 @@ def run_pipeline():
     updated_list = list(news_map.values())
     valid_news_list = [item for item in updated_list if item.get("published_at", 0) >= cutoff_24h]
 
-    # Biztonsági ellenőrzés a mentés előtt: minden cikknél kényszerítjük a legfrissebb sources_count értéket
     for item in valid_news_list:
         if "sources" in item and isinstance(item["sources"], list):
             item["sources_count"] = len(item["sources"])
