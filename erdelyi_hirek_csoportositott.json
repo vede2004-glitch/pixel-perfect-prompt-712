@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_05c4ba83f8",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Final în etapa a doua a Cupei României Betano! » FCSB și Craiova au comis-o cu Gloria Bistrița și FC Voluntari",
-        "link": "https://www.gsp.ro/fotbal/cupa-romaniei/live-etapa-2-grupe-cupa-romaniei-992752.html",
-        "summary": "Etapa a doua a grupelor Cupei României Betano s-a încheiat joi, cu ultimele trei meciuri. Duelul dintre Concordia Chiajna și Sepsi, 1-1, a deschis seara. A urmat Voluntari - Craiova (1-1), iar Gloria Bistrița - FCSB, 1-0, a încheiat runda. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793309442
-      }
-    ]
-  },
-  {
     "group_id": "group_b90a3480a9",
     "category": "Általános",
     "articles_count": 1,
@@ -198,22 +182,6 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1793309829
-      }
-    ]
-  },
-  {
-    "group_id": "group_bd5d7e62d9",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "Amgela Rusu, noi dezvăluiri după ce a fost țepuită de un agent în America: ”Nu mai vreau să aud de el!”",
-        "link": "https://www.cancan.ro/amgela-rusu-noi-dezvaluiri-dupa-ce-a-fost-tepuita-de-un-agent-in-america-nu-mai-vreau-sa-aud-de-el-21538790",
-        "summary": "Angela Rusu a făcut dezvăluiri despre scandalul izbucnit în timpul turneului din America! La Dan Capatos Show, artista a povestit ce s-a întâmplat după conflictul cu organizatorul Stelian Petcu. Cântăreața susține că decizia sa este definitivă și a explicat și de ce a ales să vorbească public despre situație. Vezi totul pe CANCAN.RO! Potrivit artistei, […]",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793309785
       }
     ]
   },
@@ -2443,7 +2411,7 @@
   {
     "group_id": "group_ab6eac4992",
     "category": "Általános",
-    "articles_count": 11,
+    "articles_count": 12,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -2543,6 +2511,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793382478
+      },
+      {
+        "source": "Mediafax",
+        "title": "Colectiv, 11 ani mai târziu: 65 de vieți pierdute, anchete neterminate și întrebarea care urmărește România. Comemorarea a continuat și noaptea târziu",
+        "link": "https://www.mediafax.ro/social/colectiv-11-ani-mai-tarziu-65-de-vieti-pierdute-anchete-neterminate-si-intrebarea-care-urmareste-romania-comemorarea-a-continuat-si-noaptea-tarziu-23834294",
+        "summary": "Vineri, 30 octombrie, se împlinesc 11 ani de la incendiul din clubul Colectiv din București, în urma căruia 65 de persoane și-au pierdut viața. Familiile victimelor și supraviețuitorii readuc în atenție promisiunile neîndeplinite, problemele sistemului medical și lupta pentru aflarea adevărului.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793394908
       }
     ]
   },
@@ -17871,6 +17848,38 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793395527
+      }
+    ]
+  },
+  {
+    "group_id": "group_856885627d",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Daniel Pancu lămurește „cazul Andrei Șucu”: „Nu înțelege! Se simte ca Mihai Viteazul și Superman la un loc”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/rapid-csikszereda-daniel-pancu-andrei-sucu-explicatii-994141.html",
+        "summary": "Daniel Pancu (49 de ani), antrenorul lui Rapid, a analizat victoria cu Csikszereda, 2-0 în deschiderea etapei 14 din Superligă, comentând și situația lui Andrei Șucu, titular în premieră astăzi. Venită după două meciuri fără succes, un 1-4 în campionat cu FCSB și un 0-0 în Cupă contra Corvinului, Rapid a simțit din nou gustul victoriei astăzi. A fost, însă, o victorie chinuită pentru formația lui Daniel Pancu. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793395853
+      }
+    ]
+  },
+  {
+    "group_id": "group_af6361099a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Papa Leon al XIV-lea, avertisment privind inteligența artificială: „Deciziile care afectează viața umană nu trebuie niciodată delegate mașinilor”",
+        "link": "https://www.mediafax.ro/externe/papa-leon-al-xiv-lea-avertisment-privind-inteligenta-artificiala-deciziile-care-afecteaza-viata-umana-nu-trebuie-niciodata-delegate-masinilor-23834996",
+        "summary": "Papa Leon al XIV-lea a lansat un avertisment privind dezvoltarea inteligenței artificiale, susținând că deciziile care afectează viața, libertatea oamenilor și folosirea forței trebuie să rămână întotdeauna în responsabilitatea ființelor umane. Suveranul Pontif a cerut, de asemenea, statelor să facă pași concreți pentru interzicerea armelor autonome letale.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793395844
       }
     ]
   }
