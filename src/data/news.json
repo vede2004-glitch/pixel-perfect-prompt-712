@@ -1,15 +1,41 @@
 [
   {
-    "group_id": "group_5170ef6b46",
-    "category": "Politika",
+    "group_id": "group_4a7a6da78b",
+    "category": "Bulvár",
     "is_synthesized": false,
     "is_b2b_only": false,
     "sources_count": 1,
     "sources": [
       {
+        "source": "ProTV Stiri",
+        "title": "Prevenirea și combaterea hărțuirii la serviciu, verificată de Ministerul Culturii în instituțiile subordonate. Termen de 15 zile",
+        "link": "https://stirileprotv.ro/stiri/actualitate/prevenirea-si-combaterea-hartuirii-la-serviciu-verificata-de-ministerul-culturii-in-institutiile-subordonate-termen-de-15-zile.html"
+      }
+    ],
+    "published_at": 1793390216,
+    "title_hu": "Prevenirea și combaterea hărțuirii la serviciu, verificată de Ministerul Culturii în instituțiile subordonate. Termen de 15 zile",
+    "lead_hu": "Ministerul Culturii a iniţiat o acţiune de verificare la nivel naţional pentru prevenirea și combaterea hărțuirii la locul de muncă în contextul reapariției unui scandal mai vechi....",
+    "content_hu": "Ministerul Culturii a iniţiat o acţiune de verificare la nivel naţional pentru prevenirea și combaterea hărțuirii la locul de muncă în contextul reapariției unui scandal mai vechi.",
+    "title_ro": "Prevenirea și combaterea hărțuirii la serviciu, verificată de Ministerul Culturii în instituțiile subordonate. Termen de 15 zile",
+    "lead_ro": "Ministerul Culturii a iniţiat o acţiune de verificare la nivel naţional pentru prevenirea și combaterea hărțuirii la locul de muncă în contextul reapariției unui scandal mai vechi....",
+    "content_ro": "Ministerul Culturii a iniţiat o acţiune de verificare la nivel naţional pentru prevenirea și combaterea hărțuirii la locul de muncă în contextul reapariției unui scandal mai vechi."
+  },
+  {
+    "group_id": "group_5170ef6b46",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
         "source": "G4Media",
         "title": "Alegeri în SUA la jumătatea mandatului: Un număr record de aproape 48 de milioane de americani au votat deja",
         "link": "https://www.g4media.ro/alegeri-in-sua-la-jumatatea-mandatului-un-numar-record-de-aproape-48-de-milioane-de-americani-au-votat-deja.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SUA/Alegeri la jumătatea mandatului: Un număr record de aproape 48 de milioane de americani au votat deja",
+        "link": "https://agerpres.ro/politic-extern/2026/10/30/sua-alegeri-la-jumatatea-mandatului-un-numar-record-de-aproape-48-de-milioane-de-americani-au-votat---1608628"
       }
     ],
     "published_at": 1793390144,
@@ -19,6 +45,27 @@
     "title_ro": "Alegeri în SUA la jumătatea mandatului: Un număr record de aproape 48 de milioane de americani au votat deja",
     "lead_ro": "Un număr record de 47,9 milioane de americani şi-au exprimat deja votul în cadrul alegerilor de la jumătatea mandatului din SUA, relatează Agerpres, care notează că se observă o creştere semnificativă...",
     "content_ro": "Un număr record de 47,9 milioane de americani şi-au exprimat deja votul în cadrul alegerilor de la jumătatea mandatului din SUA, relatează Agerpres, care notează că se observă o creştere semnificativă a prezenţei la urne în mai multe state-cheie, iar printre cei care au votat deja, numărul alegătorilor democraţi este mai mare decât cel al […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_f7df173313",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Daniel David explică tăierile de la Educație: „Nu am primit banii de la Ministerul de Finanțe”. Ce spune despre burse, austeritate și școlile din mediul rural",
+        "link": "https://adevarul.ro/stiri-interne/educatie/daniel-david-explica-taierile-de-la-educatie-nu-2567860.html"
+      }
+    ],
+    "published_at": 1793390127,
+    "title_hu": "Daniel David explică tăierile de la Educație: „Nu am primit banii de la Ministerul de Finanțe”. Ce spune despre burse, austeritate și școlile din mediul rural",
+    "lead_hu": "Fostul ministru al Educației, Daniel David, a explicat motivele care au stat la baza modificărilor sistemului de burse și a măsurilor de austeritate din învățământ....",
+    "content_hu": "Fostul ministru al Educației, Daniel David, a explicat motivele care au stat la baza modificărilor sistemului de burse și a măsurilor de austeritate din învățământ.",
+    "title_ro": "Daniel David explică tăierile de la Educație: „Nu am primit banii de la Ministerul de Finanțe”. Ce spune despre burse, austeritate și școlile din mediul rural",
+    "lead_ro": "Fostul ministru al Educației, Daniel David, a explicat motivele care au stat la baza modificărilor sistemului de burse și a măsurilor de austeritate din învățământ....",
+    "content_ro": "Fostul ministru al Educației, Daniel David, a explicat motivele care au stat la baza modificărilor sistemului de burse și a măsurilor de austeritate din învățământ."
   },
   {
     "group_id": "group_b583f026a7",
@@ -340,12 +387,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "G4Media",
         "title": "Preşedintele Poloniei îşi întrerupe călătoria spre Senegal după suspendarea preşedintelui Tribunalului Constituţional",
         "link": "https://www.g4media.ro/presedintele-poloniei-isi-intrerupe-calatoria-spre-senegal-dupa-suspendarea-presedintelui-tribunalului-constitutional.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Președintele Poloniei își întrerupe călătoria spre Senegal după suspendarea președintelui Tribunalului Constituțional",
+        "link": "https://agerpres.ro/politic-extern/2026/10/30/presedintele-poloniei-isi-intrerupe-calatoria-spre-senegal-dupa-suspendarea-presedintelui-tribunalul--1608626"
       }
     ],
     "published_at": 1793388859,
@@ -20278,111 +20330,6 @@
     "content_ro": "Alegerile din Serbia au schimbat raportul de forțe, iar Bulgaria se pregătește pentru turul al doilea al prezidențialelor, pe 1 noiembrie. Politologul Mihnea Stoica explică pentru „Adevărul” de ce revenirea pro-europeană nu garantează reforme rapide și ce lecții poate învăța România."
   },
   {
-    "group_id": "group_315513051d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Chitara lui George Michael din „Faith”, vândută la o licitație „dezonorantă” pentru o sumă mai mare decât estimările",
-        "link": "https://www.mediafax.ro/cultura-media/chitara-lui-george-michael-din-faith-vanduta-la-o-licitatie-dezonoranta-pentru-o-suma-mai-mare-decat-estimarile-23834158"
-      }
-    ],
-    "published_at": 1793304017,
-    "title_hu": "Chitara lui George Michael din „Faith”, vândută la o licitație „dezonorantă” pentru o sumă mai mare decât estimările",
-    "lead_hu": "Chitara cu care George Michael a făcut furori la sfârșitul anilor ’80 în piesa„ Faith” a fost vândută la licitație pentru o sumă ce a depășit așteptările – 180.000 de lire sterline. Vorbim de un eveni…",
-    "content_hu": "Chitara cu care George Michael a făcut furori la sfârșitul anilor ’80 în piesa„ Faith” a fost vândută la licitație pentru o sumă ce a depășit așteptările – 180.000 de lire sterline. Vorbim de un eveniment controversat din punct de vedere etic, pentru că vânzarea, deși absolut legală, a fost realizată de soțul înstrăinat al fidelei asistente a cântărețului, Siobhan Bailey, care a murit înainte să facă demersurile pentru moștenirea chitarei.",
-    "title_ro": "Chitara lui George Michael din „Faith”, vândută la o licitație „dezonorantă” pentru o sumă mai mare decât estimările",
-    "lead_ro": "Chitara cu care George Michael a făcut furori la sfârșitul anilor ’80 în piesa„ Faith” a fost vândută la licitație pentru o sumă ce a depășit așteptările – 180.000 de lire sterline. Vorbim de un eveni…",
-    "content_ro": "Chitara cu care George Michael a făcut furori la sfârșitul anilor ’80 în piesa„ Faith” a fost vândută la licitație pentru o sumă ce a depășit așteptările – 180.000 de lire sterline. Vorbim de un eveniment controversat din punct de vedere etic, pentru că vânzarea, deși absolut legală, a fost realizată de soțul înstrăinat al fidelei asistente a cântărețului, Siobhan Bailey, care a murit înainte să facă demersurile pentru moștenirea chitarei."
-  },
-  {
-    "group_id": "group_a4e2a885b0",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Gândul prezintă Best of Marius Tucă Show – vineri, 30 octombrie, de la ora 19.00",
-        "link": "https://www.cancan.ro/gandul-prezinta-best-of-marius-tuca-show-vineri-30-octombrie-de-la-ora-19-00-21538620"
-      }
-    ],
-    "published_at": 1793304010,
-    "title_hu": "Gândul prezintă Best of Marius Tucă Show – vineri, 30 octombrie, de la ora 19.00",
-    "lead_hu": "Nu ratați o ediție explozivă din Best of Marius Tucă Show, invitați – Dan Dungaciu, Ion Cristoiu, Adrian Severin, Ștefan Popescu. Cele mai intense dezvăluiri, cele mai memorabile schimburi de replici …",
-    "content_hu": "Nu ratați o ediție explozivă din Best of Marius Tucă Show, invitați – Dan Dungaciu, Ion Cristoiu, Adrian Severin, Ștefan Popescu. Cele mai intense dezvăluiri, cele mai memorabile schimburi de replici și cele mai aprinse discuții care au redefinit serile într-un talk-show mereu actual. De la analize la rece a celor mai importante decizii ale […]",
-    "title_ro": "Gândul prezintă Best of Marius Tucă Show – vineri, 30 octombrie, de la ora 19.00",
-    "lead_ro": "Nu ratați o ediție explozivă din Best of Marius Tucă Show, invitați – Dan Dungaciu, Ion Cristoiu, Adrian Severin, Ștefan Popescu. Cele mai intense dezvăluiri, cele mai memorabile schimburi de replici …",
-    "content_ro": "Nu ratați o ediție explozivă din Best of Marius Tucă Show, invitați – Dan Dungaciu, Ion Cristoiu, Adrian Severin, Ștefan Popescu. Cele mai intense dezvăluiri, cele mai memorabile schimburi de replici și cele mai aprinse discuții care au redefinit serile într-un talk-show mereu actual. De la analize la rece a celor mai importante decizii ale […]"
-  },
-  {
-    "group_id": "group_af05f52d9a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Uniunea Națională a Barourilor intervine în scandalul violului de la Facultatea de Drept din Iași: „Un mesaj grav pentru dreptul la apărare”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/uniunea-nationala-a-barourilor-intervine-in-2567577.html"
-      }
-    ],
-    "published_at": 1793303985,
-    "title_hu": "Uniunea Națională a Barourilor intervine în scandalul violului de la Facultatea de Drept din Iași: „Un mesaj grav pentru dreptul la apărare”",
-    "lead_hu": "Uniunea Națională a Barourilor din România (UNBR) solicită conducerii Facultății de Drept din Iași să reanalizeze decizia prin care avocații lectorului Alexandru Toader, acuzat de viol și agresiune se…",
-    "content_hu": "Uniunea Națională a Barourilor din România (UNBR) solicită conducerii Facultății de Drept din Iași să reanalizeze decizia prin care avocații lectorului Alexandru Toader, acuzat de viol și agresiune sexuală, au fost îndepărtați de la activitățile didactice.",
-    "title_ro": "Uniunea Națională a Barourilor intervine în scandalul violului de la Facultatea de Drept din Iași: „Un mesaj grav pentru dreptul la apărare”",
-    "lead_ro": "Uniunea Națională a Barourilor din România (UNBR) solicită conducerii Facultății de Drept din Iași să reanalizeze decizia prin care avocații lectorului Alexandru Toader, acuzat de viol și agresiune se…",
-    "content_ro": "Uniunea Națională a Barourilor din România (UNBR) solicită conducerii Facultății de Drept din Iași să reanalizeze decizia prin care avocații lectorului Alexandru Toader, acuzat de viol și agresiune sexuală, au fost îndepărtați de la activitățile didactice."
-  },
-  {
-    "group_id": "group_45caedc944",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Horoscop vineri, 30 octombrie. O zodie se reîntâlnește cu persoane din trecut, iar alta primește recompense neașteptate",
-        "link": "https://adevarul.ro/stil-de-viata/horoscop/horoscop-vineri-30-octombrie-o-zodie-se-2567580.html"
-      }
-    ],
-    "published_at": 1793303904,
-    "title_hu": "Horoscop vineri, 30 octombrie. O zodie se reîntâlnește cu persoane din trecut, iar alta primește recompense neașteptate",
-    "lead_hu": "Horoscop vineri, 30 octombrie. Nativii care își ascultă intuiția pot face pași importanți în relațiile personale, în timp ce alții sunt sfătuiți să fie mai atenți la cheltuieli și la deciziile profesi…",
-    "content_hu": "Horoscop vineri, 30 octombrie. Nativii care își ascultă intuiția pot face pași importanți în relațiile personale, în timp ce alții sunt sfătuiți să fie mai atenți la cheltuieli și la deciziile profesionale.",
-    "title_ro": "Horoscop vineri, 30 octombrie. O zodie se reîntâlnește cu persoane din trecut, iar alta primește recompense neașteptate",
-    "lead_ro": "Horoscop vineri, 30 octombrie. Nativii care își ascultă intuiția pot face pași importanți în relațiile personale, în timp ce alții sunt sfătuiți să fie mai atenți la cheltuieli și la deciziile profesi…",
-    "content_ro": "Horoscop vineri, 30 octombrie. Nativii care își ascultă intuiția pot face pași importanți în relațiile personale, în timp ce alții sunt sfătuiți să fie mai atenți la cheltuieli și la deciziile profesionale."
-  },
-  {
-    "group_id": "group_a5c507fec6",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Comisia de Prognoză revizuiește în minus creșterea economică pentru anul 2026. Care sunt principalele cauze ale contracției",
-        "link": "https://hotnews.ro/comisia-de-prognoza-revizuieste-in-minus-cresterea-economica-pentru-anul-2026-care-sunt-principalele-cauze-ale-contractiei-2390241"
-      }
-    ],
-    "published_at": 1793303890,
-    "title_hu": "Comisia de Prognoză revizuiește în minus creșterea economică pentru anul 2026. Care sunt principalele cauze ale contracției",
-    "lead_hu": "Comisia Naţională de Strategie şi Prognoză (CNSP) estimează pentru anul 2026 o contracţie economică de 0,4%, faţă de o creştere de 0,1% anticipată în prognoza anterioară, ceea ce reprezintă o revizuir…",
-    "content_hu": "Comisia Naţională de Strategie şi Prognoză (CNSP) estimează pentru anul 2026 o contracţie economică de 0,4%, faţă de o creştere de 0,1% anticipată în prognoza anterioară, ceea ce reprezintă o revizuire în scădere cu 0,5 puncte procentuale. În ceea ce priveşte valoarea nominală a PIB, aceasta a fost revizuită în sens ascendent, la 2.086,3 miliarde …",
-    "title_ro": "Comisia de Prognoză revizuiește în minus creșterea economică pentru anul 2026. Care sunt principalele cauze ale contracției",
-    "lead_ro": "Comisia Naţională de Strategie şi Prognoză (CNSP) estimează pentru anul 2026 o contracţie economică de 0,4%, faţă de o creştere de 0,1% anticipată în prognoza anterioară, ceea ce reprezintă o revizuir…",
-    "content_ro": "Comisia Naţională de Strategie şi Prognoză (CNSP) estimează pentru anul 2026 o contracţie economică de 0,4%, faţă de o creştere de 0,1% anticipată în prognoza anterioară, ceea ce reprezintă o revizuire în scădere cu 0,5 puncte procentuale. În ceea ce priveşte valoarea nominală a PIB, aceasta a fost revizuită în sens ascendent, la 2.086,3 miliarde …"
-  },
-  {
     "group_id": "group_5fc826fc21",
     "category": "Általános",
     "is_synthesized": false,
@@ -21874,12 +21821,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "Sibiu: 25 de persoane evacuate dintr-un bloc din municipiul Mediaș, din cauza unui incendiu la un apartament",
         "link": "https://agerpres.ro/social/2026/10/30/sibiu-25-de-persoane-evacuate-dintr-un-bloc-din-municipiul-medias-din-cauza-unui-incendiu-la-un-apar--1608618"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Sibiu: Aproximativ 45 de persoane evacuate din blocul în care a izbucnit un incendiu; cinci sunt evaluate medical",
+        "link": "https://agerpres.ro/social/2026/10/30/sibiu-aproximativ-45-de-persoane-evacuate-din-blocul-in-care-a-izbucnit-un-incendiu-cinci-sunt-evalu--1608625"
       }
     ],
     "published_at": 1793318400,
@@ -22139,6 +22091,69 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Curtea Constituțională organizează săptămâna viitoare Reuniunea Biroului Asociației Curților Constituționale Francofone",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f260b73c21",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Discuții finale înaintea ultimei sesiuni plenare COP17 de la Erevan",
+        "link": "https://agerpres.ro/planeta/2026/10/30/discutii-finale-inaintea-ultimei-sesiuni-plenare-cop17-de-la-erevan--1608629"
+      }
+    ],
+    "published_at": 1793318400,
+    "title_hu": "Discuții finale înaintea ultimei sesiuni plenare COP17 de la Erevan",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Discuții finale înaintea ultimei sesiuni plenare COP17 de la Erevan",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_646186b296",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Baschet feminin: Sportul Studențesc, la a doua victorie din acest campionat",
+        "link": "https://agerpres.ro/sport/2026/10/30/baschet-feminin-sportul-studentesc-la-a-doua-victorie-din-acest-campionat--1608627"
+      }
+    ],
+    "published_at": 1793318400,
+    "title_hu": "Baschet feminin: Sportul Studențesc, la a doua victorie din acest campionat",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Baschet feminin: Sportul Studențesc, la a doua victorie din acest campionat",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_1c3d94f95f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mureș: Șapte personalități, între care artiști și sportivi de talie mondială, au primit distincția 'Pro Urbe'",
+        "link": "https://agerpres.ro/cultura-media/2026/10/30/mures-sapte-personalitati-intre-care-artisti-si-sportivi-de-talie-mondiala-au-primit-distinctia-pro---1608624"
+      }
+    ],
+    "published_at": 1793318400,
+    "title_hu": "Mureș: Șapte personalități, între care artiști și sportivi de talie mondială, au primit distincția 'Pro Urbe'",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Mureș: Șapte personalități, între care artiști și sportivi de talie mondială, au primit distincția 'Pro Urbe'",
     "lead_ro": "",
     "content_ro": ""
   },
