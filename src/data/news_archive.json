@@ -1,5 +1,390 @@
 [
   {
+    "group_id": "group_e2525f657b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Nu mai au nevoie de spioni profesioniști. Noua tactică a Rusiei pentru sabotaje în România, explicată de un general NATO",
+        "link": "https://adevarul.ro/securitate-si-aparare/nu-mai-au-nevoie-de-spioni-profesionisti-noua-2567506.html"
+      }
+    ],
+    "published_at": 1793316625,
+    "title_hu": "Nu mai au nevoie de spioni profesioniști. Noua tactică a Rusiei pentru sabotaje în România, explicată de un general NATO",
+    "lead_hu": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adec…",
+    "content_hu": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adecvate și a unui control civil eficient lasă țara descoperită.",
+    "title_ro": "Nu mai au nevoie de spioni profesioniști. Noua tactică a Rusiei pentru sabotaje în România, explicată de un general NATO",
+    "lead_ro": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adec…",
+    "content_ro": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adecvate și a unui control civil eficient lasă țara descoperită."
+  },
+  {
+    "group_id": "group_ffdad6d345",
+    "fingerprint": "73006063bb3ec8c0df02039b316ddd07",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 65,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Trump susține că l-a salvat pe Netanyahu de la o înfrângere electorală zdrobitoare. Acum vrea să aibă influență asupra deciziilor sale",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/trump-sustine-ca-l-a-salvat-pe-netanyahu-de-la-o-2567239.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cine va conduce Israelul după alegeri: Patru scenarii pentru formarea noului guvern",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/cine-va-conduce-israelul-dupa-alegeri-patru-scenarii-pentru-formarea-noului-guvern-4012447"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Impas politic după alegerile din Israel. Soarta lui Netanyahu depinde de o alianță controversată",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/impas-politic-dupa-alegerile-din-israel-soarta-2567301.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Partidul lui Netanyahu acuză formaţiunile arabe că au „furat alegerile” şi cere anchete. Poliția spune că acuzațiile sunt nefondate",
+        "link": "https://www.digi24.ro/stiri/externe/partidul-lui-netanyahu-acuza-formatiunile-arabe-ca-au-furat-alegerile-din-israel-si-cere-anchete-4013391"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Netanyahu a acuzat partidele arabe că au „furat alegerile” din Israel. Partidul lui susţine că are sute de probe",
+        "link": "https://stirileprotv.ro/stiri/international/netanyahu-spune-ca-alegerile-au-fost-furate-de-catre-partide-arabe-care-sus-in-terorismul-adversarii-sai-sustin-ca-minte.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Poliția consideră neîntemeiată acuzația lui Netanyahu că partidele arabe ar fi 'furat alegerile'",
+        "link": "https://agerpres.ro/politic-extern/2026/10/29/alegeri-in-israel-politia-considera-neintemeiata-acuzatia-lui-netanyahu-ca-partidele-arabe-ar-fi-fur--1607949"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Netanjahunak 53, az ellenzéknek 48 mandátuma van Izraelben, egyik oldalnak sincs többsége",
+        "link": "https://transtelex.ro/kulfold/2026/10/29/szavazatok-91-szazalek-feldolgozottsag-izrael-valasztas"
+      },
+      {
+        "source": "G4Media",
+        "title": "Netanyahu susține că țările arabe s-au implicat în campania electorală și au finanțat partidele arabe, care au scos un rezultat record la alegerile din Israel",
+        "link": "https://www.g4media.ro/netanyahu-sustine-ca-tarile-arabe-s-au-implicat-in-campania-electorala-si-au-finantat-partidele-arabe-care-au-scos-un-rezultat-record-la-alegerile-din-israel.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "„Poate că este greu de acceptat, dar Netanyahu este câștigătorul”. Toate scenariile posibile după alegerile cruciale din Israel",
+        "link": "https://hotnews.ro/poate-ca-este-greu-de-acceptat-dar-netanyahu-este-castigatorul-toate-scenariile-posibile-dupa-alegerile-cruciale-din-israel-2389555"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Netanyahu și Eisenkot cer investigarea unei posibile 'ingerințe externe'",
+        "link": "https://agerpres.ro/politic-extern/2026/10/29/alegeri-in-israel-netanyahu-si-eisenkot-cer-investigarea-unei-posibile-ingerinte-externe--1608039"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alegeri în Israel: interferență străină sau tentativă de manipulare de către prim ministrul Benjamin Netanyahu – consecințe politice",
+        "link": "https://www.g4media.ro/alegeri-in-israel-interferenta-straina-sau-tentativa-de-manipulare-de-catre-prim-ministrul-benjamin-netanyahu-consecinte-politice.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cu 99% din voturi numărate și în pericol să piardă puterea, Netanyahu insistă cu o mișcare împotriva celor care au produs surpriza în alegeri",
+        "link": "https://hotnews.ro/alegeri-israel-rezultate-finale-netanyahu-amenintat-cu-pierderea-puterii-isi-intensifica-atacurile-la-adresa-partidelor-arabe-2390154"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Netanyahu vrea să discrediteze alegerile acuzând partidele arabe, afirmă Gadi Eisenkot",
+        "link": "https://agerpres.ro/politic-extern/2026/10/29/alegeri-in-israel-netanyahu-vrea-sa-discrediteze-alegerile-acuzand-partidele-arabe-afirma-gadi-eisen--1608203"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Opoziția israeliană îl acuză pe Netanyahu că încearcă să delegitimeze alegerile / Partidele arabe au obținut un număr record de mandate",
+        "link": "https://www.mediafax.ro/externe/opozitia-israeliana-il-acuza-pe-netanyahu-ca-incearca-sa-delegitimeze-alegerile-partidele-arabe-au-obtinut-un-numar-record-de-mandate-23834204"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Israel – alegeri: Ultimele informații la finalul unei zile tensionate",
+        "link": "https://hotnews.ro/israel-alegeri-ultimele-informatii-la-finalul-unei-zile-tensionate-2389252"
+      },
+      {
+        "source": "Digi24",
+        "title": "Pentru arabii din Israel, prezența record la vot ar putea însemna o influență politică sporită",
+        "link": "https://www.digi24.ro/stiri/externe/pentru-arabii-din-israel-prezenta-record-la-vot-ar-putea-insemna-o-influenta-politica-sporita-4013177"
+      },
+      {
+        "source": "G4Media",
+        "title": "Președintele Israelului le cere partidelor să evite organizarea unor noi alegeri",
+        "link": "https://www.g4media.ro/presedintele-israelului-le-cere-partidelor-sa-evite-organizarea-unor-noi-alegeri.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alegerile din Israel, fără un câștigător clar. Netanyahu conduce, dar voturile partidelor arabe ar putea decide cine formează guvernul",
+        "link": "https://stirileprotv.ro/stiri/international/alegerile-din-israel-fara-un-castigator-clar-netanyahu-conduce-dar-voturile-partidelor-arabe-ar-putea-decide-cine-formeaza-guvernul.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Partidele arabe vor deține balanța puterii în parlamentul Israelului. Cine dintre partidele sioniste este dispus și cine nu să colaboreze cu ele?",
+        "link": "https://www.g4media.ro/partidele-arabe-vor-detine-balanta-puterii-in-parlamentul-israelului-cine-dintre-partidele-sioniste-este-dispus-si-cine-nu-sa-colaboreze-cu-ele.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ce urmează în Israel după alegerile parlamentare. Patru scenarii pentru ieșirea din blocajul politic",
+        "link": "https://www.mediafax.ro/externe/ce-urmeaza-in-israel-dupa-alegerile-parlamentare-patru-scenarii-pentru-iesirea-din-blocajul-politic-23833267"
+      },
+      {
+        "source": "G4Media",
+        "title": "Trump susține că sprijinul său l-a ajutat pe Netanyahu în alegerile din Israel",
+        "link": "https://www.g4media.ro/trump-sustine-ca-sprijinul-sau-l-a-ajutat-pe-netanyahu-in-alegerile-din-israel.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Președintele Israelului le cere partidelor să evite organizarea unor noi alegeri, după un scrutin fără majoritate clară",
+        "link": "https://www.mediafax.ro/externe/presedintele-israelului-le-cere-partidelor-sa-evite-organizarea-unor-noi-alegeri-dupa-un-scrutin-fara-majoritate-clara-23833216"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Politikai patthelyzet Izraelben: Netanjahu és az ellenzék sem szerzett többséget",
+        "link": "https://www.mediatica.ro/hirek/kulfold/politikai-patthelyzet-izraelben-netanjahu-es-az-ellenzek-sem-szerzett-tobbseget"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alegerile din Israel, prin ochii vecinilor: puțini se așteaptă la un moment de cotitură, dar rezultatul influențează războiul cu Iranul",
+        "link": "https://www.digi24.ro/stiri/externe/alegerile-din-israel-prin-ochii-vecinilor-putini-se-asteapta-la-un-moment-de-cotitura-dar-rezultatul-influenteaza-razboiul-cu-iranul-4012547"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alegeri în Israel: Netanyahu revendică o majoritate a dreptei, dar rezultatele parțiale arată o luptă strânsă pentru putere",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/alegeri-in-israel-netanyahu-revendica-o-majoritate-a-dreptei-dar-rezultatele-partiale-arata-o-lupta-stransa-pentru-putere-4011437"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri în Israel: blocul lui Netanyahu conduce cu 53 de mandate, dar rămâne sub pragul majorității. Șekelul israelian s-a depreciat pe fondul incertitudinii politice",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-interventie-salvatoare-a-lui-trump-in-favoarea-lui-bibi-i-dupa-numararea-a-66-din-voturi-blocul-condus-de-netanyahu-are-avantaj-minim-23832625"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alegeri în Israel: Partidele arabe îşi exprimă disponibilitatea de a ajuta la înlăturarea guvernului condus de Netanyahu",
+        "link": "https://www.g4media.ro/alegeri-in-israel-partidele-arabe-isi-exprima-disponibilitatea-de-a-ajuta-la-inlaturarea-guvernului-condus-de-netanyahu.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Răsturnare de situație în Israel: Blocul lui Netanyahu a trecut pe primul loc după numărarea a 72% din voturi / Nicio tabără nu are majoritatea necesară pentru guvernare / Partidele arabe vor deține balanța puterii",
+        "link": "https://www.g4media.ro/rasturnare-de-situatie-in-israel-blocul-lui-netanyahu-a-trecut-pe-primul-loc-dupa-numararea-a-72-din-voturi-nicio-tabara-nu-are-majoritatea-necesara-pentru-guvernare-partidele-arabe-vor-detine-ba.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trump își asumă meritul pentru rezultatul lui Netanyahu la alegeri. Mesajul transmis după scrutinul strâns din Israel",
+        "link": "https://www.digi24.ro/stiri/externe/trump-isi-asuma-meritul-pentru-rezultatul-lui-netanyahu-la-alegeri-mesajul-transmis-dupa-scrutinul-strans-din-israel-4011693"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Răsturnare de situație și un mare semn de întrebare în Israel. Ce urmează după alegerile dramatice de ieri",
+        "link": "https://hotnews.ro/rasturnare-de-situatie-si-un-mare-semn-de-intrebare-in-israel-ce-urmeaza-dupa-alegerile-dramatice-de-ieri-2388457"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alegeri fără un câștigător clar în Israel. Cele patru scenarii care ar putea schimba jocul politic",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/alegeri-fara-un-castigator-clar-in-israel-cele-2567059.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Exit-poll Israel: Niciun câștigător, cele două tabere nu au o cale clară către formarea unui guvern. Reacția rivalului lui Netanyahu",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/alegeri-in-israel-partidul-lui-netanyahu-conduce-dar-niciuna-din-cele-doua-tabere-nu-are-o-cale-clara-catre-formarea-unui-guvern-4011437"
+      },
+      {
+        "source": "Maszol",
+        "title": "Exit poll: vereséget szenvedett Benjámin Netanjahu koalíciója",
+        "link": "https://maszol.ro/kulfold/Izrael-vereseget-szenvedett-Benjamin-Netanjahu-koalicioja"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Dacă voi nu mă vreți, eu vă vreu”, varianta israeliană",
+        "link": "https://www.digi24.ro/opinii/agora-digi/daca-voi-nu-ma-vreti-eu-va-vreu-varianta-israeliana-4011601"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alegeri în Israel. Ce rol ar putea juca partidele arabe",
+        "link": "https://stirileprotv.ro/stiri/international/alegeri-in-israel-ce-rol-ar-putea-juca-partidele-arabe.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare în Israel. Niciuna dintre tabere nu are majoritate | Intervenție salvatoare a lui Trump în favoarea lui „Bibi”",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-niciuna-dintre-tabere-nu-are-majoritate-interventie-salvatoare-a-lui-trump-in-favoarea-lui-bibi-23832625"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Blocaj politic după alegerile din Israel. Niciuna dintre tabere nu are majoritatea necesară pentru a forma un guvern",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/blocaj-politic-dupa-alegerile-din-israel-niciuna-2567024.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare în Israel. Exit-pollurile indică un blocaj politic. Niciuna dintre tabere nu are majoritate | Opoziția susține că Netanyahu a suferit o „înfrângere zdrobitoare”",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-exit-pollurile-indica-un-blocaj-politic-niciuna-dintre-tabere-nu-are-majoritate-opozitia-sustine-ca-netanyahu-a-suferit-o-infrangere-zdrobitoare-23832625"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Partidele arabe își exprimă disponibilitatea de a ajuta la înlăturarea lui Netanyahu",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-partidele-arabe-isi-exprima-disponibilitatea-de-a-ajuta-la-inlaturarea-lui-netanya--1607646"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Ministrul apărării denunță apelul lansat de Eisenkot către armată de a rezista presiunilor lui Netanyahu",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-ministrul-apararii-denunta-apelul-lansat-de-eisenkot-catre-armata-de-a-rezista-pre--1607787"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Likud acuză partidele arabe că fură alegerile și cere să fie verificate voturile",
+        "link": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-likud-acuza-partidele-arabe-ca-fura-alegerile-si-cere-sa-fie-verificate-voturile--1607826"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare în Israel. Partidul lui Netanyahu, pe primul loc în exit-polluri, dar blocul opoziției are mai multe mandate. Nicio tabără nu are majoritate | Prezență record la vot",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-partidul-lui-netanyahu-pe-primul-loc-in-exit-polluri-dar-blocul-opozitiei-are-mai-multe-mandate-nicio-tabara-nu-are-majoritate-prezenta-record-la-vot-23832625"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Reacția lui Gadi Eisenkot după primele exit-polluri din Israel: „O lipsă totală de încredere în Netanyahu”",
+        "link": "https://www.mediafax.ro/externe/reactia-lui-gadi-eisenkot-dupa-primele-exit-poll-uri-din-israel-o-lipsa-totala-de-incredere-in-netanyahu-23832722"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Urnele s-au închis în Israel. Așteptare febrilă în toată lumea privind rezultatul unor alegeri cu mare putere de simbol, decisive pentru Netanyahu",
+        "link": "https://hotnews.ro/rezultate-alegeri-israel-benjamin-netanyahu-gadi-eisenkot-exit-poll-2388124"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alegeri cruciale în Israel: Blocul anti-Netanyahu conduce / Likud este cel mai mare partid / Niciuna dintre părți nu are o cale clară către obținerea majorității",
+        "link": "https://www.g4media.ro/alegeri-cruciale-in-israel-record-de-participare-in-ultimii-53-de-ani-scrutinul-e-centrat-pe-persoana-lui-netanyahu-blocul-yashar-al-lui-eisenkot-acuza-o-incercare-sistematica-d.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Primele rezultate exit-poll la alegerile din Israel. Netanyahu e dat câștigător, dar fără o cale clară spre majoritate",
+        "link": "https://hotnews.ro/primele-rezultate-exit-poll-la-alegerile-din-israel-netanyahu-e-dat-castigator-dar-fara-o-cale-clara-spre-majoritate-2388153"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare în Israel. Partidul lui Netanyahu conduce în exit-polluri, dar nicio tabără nu are majoritate / Prezență record la vot",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-partidul-lui-netanyahu-conduce-in-exit-polluri-dar-nicio-tabara-nu-are-majoritate-prezenta-record-la-vot-23832625"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare în Israel. Partidul lui Netanyahu este pe primul loc în exit-polluri, dar nicio tabără nu are majoritate / Prezență record la vot",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-partidul-lui-netanyahu-este-pe-primul-loc-in-exit-polluri-dar-nicio-tabara-nu-are-majoritate-prezenta-record-la-vot-23832625"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alegeri în Israel. Likud, partidul lui Netanyahu, conduce în exit-poll, dar majoritatea rămâne incertă. Scenarii posibile",
+        "link": "https://stirileprotv.ro/stiri/international/alegeri-in-israel-likud-partidul-lui-netanyahu-conduce-in-exit-poll-dar-majoritatea-ramane-incerta-scenarii-posibile.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Exit pollok: Netanjahu pártja kapja a legtöbb szavazatot, de a legfontosabb tévék szerint a vele szembenálló blokk vezet",
+        "link": "https://transtelex.ro/kulfold/2026/10/27/izrael-valasztas-gyozelem-eredmeny"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare în Israel. Prezență record la vot, într-un scrutin decisiv pentru viitorul politic al lui Netanyahu",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-prezenta-record-la-vot-intr-un-scrutin-decisiv-pentru-viitorul-politic-al-lui-netanyahu-23832625"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Prezență record la urne la alegerile din Israel. Tabăra lui Netanyahu cere prelungirea votului",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/prezenta-record-la-urne-la-alegerile-din-israel-2566980.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Prezență-record la vot în Israel. Netanyahu, acuzat că se pregăteşte să conteste rezultatul scrutinului",
+        "link": "https://stirileprotv.ro/stiri/international/prezenta-record-la-vot-in-israel-netanyahu-acuzat-ca-se-pregateste-sa-conteste-rezultatul-scrutinului.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Alegeri în Israel. Acum, cea mai mare prezență din ultima jumătate de secol la scrutinul decisiv pentru Benjamin Netanyahu",
+        "link": "https://hotnews.ro/alegeri-israel-benjamin-netanyahu-2387417"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alegeri în Israel. Cele cinci scenarii pentru viitorul guvern israelian. Benjamin Netanyahu riscă să piardă puterea",
+        "link": "https://stirileprotv.ro/stiri/international/alegeri-in-israel-cele-cinci-scenarii-pentru-viitorul-guvern-israelian-benjamin-netanyahu-risca-sa-piarda-puterea.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alegeri decisive în Israel. Netanyahu riscă să piardă puterea după trei ani de război. Cine i-ar putea lua locul",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/alegeri-decisive-in-israel-netanyahu-risca-sa-piarda-puterea-dupa-trei-ani-de-razboi-cine-i-ar-putea-lua-locul-4010471"
+      },
+      {
+        "source": "Maszol",
+        "title": "A nemzetközi elszigeteltség árnyékában választ Izrael",
+        "link": "https://maszol.ro/kulfold/A-nemzetkozi-elszigeteltseg-arnyekaban-valaszt-Izrael"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alegeri parlamentare astăzi în Israel. Benjamin Netanyahu își joacă viitorul politic",
+        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-astazi-in-israel-benjamin-netanyahu-isi-joaca-viitorul-politic-23832181"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Israelienii sunt aşteptaţi la urne marţi pentru cele mai importante alegeri din ultimii ani",
+        "link": "https://stirileprotv.ro/stiri/international/israelienii-sunt-astepta-i-la-urne-mar-i-pentru-cele-mai-importante-alegeri-din-ultimii-ani.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cum poate fi forțată înlăturarea Guvernului Netanyahu chiar de palestinieni, la votul crucial de azi din Israel",
+        "link": "https://hotnews.ro/alegeri-israel-benjamin-netabyahu-hamas-atac-palestinieni-2387071"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alegeri decisive pentru viitorul Israelului. Cine este candidatul care ar putea pune capăt dominației lui Benjamin Netanyahu",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/alegeri-decisive-pentru-viitorul-israelului-cine-2566738.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Poate fi învins Netanyahu? Alegerile care ar putea schimba viitorul Israelului",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/poate-fi-invins-netanyahu-alegerile-care-ar-2566709.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Gadi Eisenkot cere electoratului să trimită acasă guvernul Netanyahu",
+        "link": "https://agerpres.ro/politic-extern/2026/10/27/alegeri-in-israel-gadi-eisenkot-cere-electoratului-sa-trimita-acasa-guvernul-netanyahu--1607283"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri în Israel: Partidul principalului rival al lui Netanyahu se opune cererii de prelungire a programului secțiilor de votare",
+        "link": "https://agerpres.ro/politic-extern/2026/10/27/alegeri-in-israel-partidul-principalului-rival-al-lui-netanyahu-se-opune-cererii-de-prelungire-a-pro--1607422"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "După trei ani, Netanyahu se confruntă mâine cu judecata alegătorilor pentru atacurile din 7 octombrie. Sondajele nu îi sunt favorabile",
+        "link": "https://hotnews.ro/dupa-trei-ani-netanyahu-se-confrunta-maine-cu-judecata-alegatorilor-pentru-atacurile-din-7-octombrie-sondajele-nu-ii-sunt-favorabile-2386847"
+      }
+    ],
+    "published_at": 1793315740,
+    "title_hu": "Izraeli választás: patthelyzet, arab mérlegnyelv és vitatott csalásvádak",
+    "lead_hu": "A szavazatok csaknem teljes összesítése után Netanjahu tábora 53, Gadi Eisenkot ellenzéki blokkja 48 mandátummal áll, az arab pártok pedig összesen 19 helyet szerezhetnek. A kormányalakítási tárgyalásokat csalásvádak és külföldi beavatkozás gyanúja kíséri, miközben a hatóságok nem találtak bizonyítékot a választás rendszerszintű befolyásolására.",
+    "content_hu": "• **A szavazatszámlálás** csaknem 99 százalékos feldolgozottságánál Netanjahu szövetsége 53, Eisenkot tábora 48 mandátummal vezetett a 120 fős kneszetben. A mintegy 480–500 ezer, katonáktól, diplomatáktól és más távollévőktől érkező voks feldolgozása még módosíthatta az egyes helyek számát, de az erőviszonyok alapvető átrendeződését nem várták.\n\n• **Az arab pártok szerepe** a várakozásokat felülmúló eredményük miatt meghatározóvá vált: a Közös Lista és a Ra’am együtt 19 mandátumhoz juthat. Eisenkot korábban kizárta, hogy bevonja őket a kormányba, de parlamenti külső támogatásukkal kisebbségi kabinetet alakíthatna. Ahmad Tibi szerint Netanjahu fellépése az ilyen együttműködés megakadályozását is szolgálhatja.\n\n• **A csalásvádak** nyomán a Likud több száz vallomást és bizonyítékot adott át a hatóságoknak, és egyebek mellett pénzt, fenyegetést, erőszakot és szabálytalan szavazást említett. A rendőrség nem talált az állításokat alátámasztó bizonyítékot, a választási bizottság pedig azt közölte, hogy nem történt rendszerszintű sérelem. A szavazatvásárlás gyanúja miatt egy esetben intézkedtek; hasonló további esetről nem érkezett jelentés.\n\n• **Eisenkot és az arab képviselők** azzal vádolták Netanjahut, hogy a csalásvádakkal kétségbe vonja a választás eredményét, és politikai nyomást gyakorol az ellenzékre. A választási bizottság elnöke, Noam Sohlberg a külföldi beavatkozás gyanújának kivizsgálását kérte a Shin Bettől. A sajtóban felmerült a katari pénzügyi ösztönzés lehetősége az arab közösségek részvételének növelésére, de ezt nem igazolták.\n\n• **Donald Trump** Netanjahu vártnál jobb szereplésének egyik okaként tüntette fel saját támogatását, és azt jelezte, hogy befolyást kíván gyakorolni az izraeli kormány döntéseire. Olyan kabinetet szeretne, amely támogatja regionális céljait Gázában, Szíriában és Libanonban; ennek érdekében Ben-Gvir és Szmotrics háttérbe szorítását is elfogadhatónak tartaná. Isaac Herzog államfő a következő héten kezdi a pártokkal az egyeztetéseket.",
+    "title_ro": "Alegerile din Israel: impas politic, rol decisiv pentru partidele arabe și acuzații contestate",
+    "lead_ro": "După numărarea a aproape tuturor voturilor, tabăra lui Benjamin Netanyahu avea 53 de mandate, blocul condus de Gadi Eisenkot 48, iar partidele arabe ar putea obține împreună 19 locuri. Negocierile pentru formarea guvernului sunt însoțite de acuzații de fraudă și suspiciuni privind ingerințe externe, însă autoritățile nu au identificat dovezi privind compromiterea sistematică a scrutinului.",
+    "content_ro": "• **Numărarea voturilor** ajunsese la aproape 99%, cu alianța lui Netanyahu în fața blocului lui Eisenkot, 53 la 48, într-un parlament de 120 de membri. Procesarea a aproximativ 480.000–500.000 de buletine de la militari, diplomați și alți alegători aflați în afara circumscripției putea modifica repartizarea unor mandate, dar nu era de așteptat să schimbe decisiv echilibrul politic.\n\n• **Partidele arabe** au depășit estimările, iar Lista Comună și Ra’am ar urma să obțină împreună 19 locuri. Eisenkot exclusese anterior includerea lor într-o coaliție, însă sprijinul parlamentar din exterior le-ar putea permite opoziției să încerce formarea unui guvern minoritar. Ahmad Tibi a susținut că demersurile lui Netanyahu urmăresc și să împiedice o asemenea colaborare.\n\n• **Acuzațiile de fraudă** ale Likud au fost însoțite de afirmații privind sute de mărturii și probe, precum și presupuse plăți, intimidări și nereguli la vot. Poliția a declarat că nu deține date care să confirme acuzațiile, iar Comisia Electorală Centrală a precizat că procesul nu a fost afectat sistematic. A fost semnalat un singur caz de presupusă cumpărare a voturilor, fără raportarea unor incidente similare în alte locuri.\n\n• **Eisenkot și reprezentanți ai partidelor arabe** au afirmat că Netanyahu încearcă să pună sub semnul întrebării rezultatul alegerilor și să descurajeze opoziția să caute sprijin arab. Noam Sohlberg, președintele Comisiei Electorale Centrale, a cerut Shin Bet să verifice suspiciunile de ingerință străină. Presa a relatat despre posibile fonduri din Qatar menite să stimuleze participarea alegătorilor arabi, însă informația nu a fost confirmată.\n\n• **Donald Trump** și-a atribuit o parte din meritul pentru rezultatul mai bun decât se anticipase al lui Netanyahu și a indicat că dorește să influențeze deciziile guvernului israelian. El urmărește o administrație care să susțină obiectivele SUA în Gaza, Siria și Liban și ar accepta marginalizarea lui Itamar Ben-Gvir și Bezalel Smotrich. Președintele Isaac Herzog urmează să înceapă săptămâna viitoare consultările cu partidele."
+  },
+  {
+    "group_id": "group_25f67007c0",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Până la ce vârstă ne adresăm cu „domnișoară”. De la câți ani devin femeile „doamne” și care este apelativul pentru o femeie divorțată",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/pana-la-ce-varsta-ne-adresam-cu-domnisoara-de-2567276.html"
+      }
+    ],
+    "published_at": 1793314825,
+    "title_hu": "Până la ce vârstă ne adresăm cu „domnișoară”. De la câți ani devin femeile „doamne” și care este apelativul pentru o femeie divorțată",
+    "lead_hu": "Doamnă sau domnișoară? Iată o dilemă care apare în societatea românească atunci când trebuie să ne adresăm corect unei femei fără să o jignim. Codurile bunelor maniere arată însă clar care sunt limite…",
+    "content_hu": "Doamnă sau domnișoară? Iată o dilemă care apare în societatea românească atunci când trebuie să ne adresăm corect unei femei fără să o jignim. Codurile bunelor maniere arată însă clar care sunt limitele și cum trebuie să procedăm în diferite situații.",
+    "title_ro": "Până la ce vârstă ne adresăm cu „domnișoară”. De la câți ani devin femeile „doamne” și care este apelativul pentru o femeie divorțată",
+    "lead_ro": "Doamnă sau domnișoară? Iată o dilemă care apare în societatea românească atunci când trebuie să ne adresăm corect unei femei fără să o jignim. Codurile bunelor maniere arată însă clar care sunt limite…",
+    "content_ro": "Doamnă sau domnișoară? Iată o dilemă care apare în societatea românească atunci când trebuie să ne adresăm corect unei femei fără să o jignim. Codurile bunelor maniere arată însă clar care sunt limitele și cum trebuie să procedăm în diferite situații."
+  },
+  {
     "group_id": "group_78ff29670e",
     "fingerprint": "3ab01a5c36cbe7d0057a9d92d8540382",
     "category": "Általános",
@@ -164,6 +549,44 @@
     "title_ro": "Revenire cu ghinion în „primul 11” la FCSB: „Pentru mine e un start rău”",
     "lead_ro": "Mihai Popescu (33 de ani) a revenit pe teren după aproape 5 luni de absență și a fost trimis titular de Laurențiu Reghecampf (51 de ani) în meciul pierdut de FCSB în deplasare cu divizonara secundă Gl…",
     "content_ro": "Mihai Popescu (33 de ani) a revenit pe teren după aproape 5 luni de absență și a fost trimis titular de Laurențiu Reghecampf (51 de ani) în meciul pierdut de FCSB în deplasare cu divizonara secundă Gloria Beszterce, scor 0-1, în etapa a doua a grupelor Cupei României Betano. Fundașul central a suferit o leziune la ligamente și s-a aflat pe teren ultima dată pe 6 iunie, când a bifat 26 de minute pentru naționala României în victoria din amicalul cu Țara Galilor, scor 2-1. ..."
+  },
+  {
+    "group_id": "group_fe9c222a74",
+    "fingerprint": "bf13dab3805bbd2b0bd88c13307a9bd2",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Țara europeană care ar putea limita viteza pe autostrăzi la 80 km/h în cazul unei penurii de carburanți",
+        "link": "https://www.mediafax.ro/externe/tara-europeana-care-ar-putea-limita-viteza-pe-autostrazi-la-80-km-h-in-cazul-unei-penurii-de-carburanti-23834153"
+      },
+      {
+        "source": "Digi24",
+        "title": "Elveţia ia în calcul reducerea vitezei maxime pe autostrăzile sale la 80 km/h. Motivul pentru care s-ar putea lua această decizie",
+        "link": "https://www.digi24.ro/stiri/externe/ue/elvetia-ia-in-calcul-reducerea-vitezei-maxime-pe-autostrazile-sale-la-80-km-h-motivul-pentru-care-s-ar-putea-lua-aceasta-decizie-4014579"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Criză de motorină în Elveția. Autoritățile iau în calcul limitarea vitezei pe autostrăzi la 80 km/h",
+        "link": "https://stirileprotv.ro/stiri/international/criza-de-motorina-in-elvetia-autoritatile-iau-in-calcul-limitarea-vitezei-pe-autostrazi-la-80-km-h.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Elveţia vrea să reducă viteza maximă pe autostrăzi la 80 km/h pentru a combate penuria de combustibil",
+        "link": "https://hotnews.ro/elvetia-vrea-sa-reduca-viteza-maxima-pe-autostrazi-la-80-km-h-pentru-a-combate-penuria-de-combustibil-2390323"
+      }
+    ],
+    "published_at": 1793312378,
+    "title_hu": "Svájc a 80 km/órás autópálya-limitet is vizsgálja az üzemanyag-ellátási gondok miatt",
+    "lead_hu": "Svájcban közigazgatási egyeztetés indult az autópályák ideiglenes, 80 km/órás sebességkorlátozásáról. Az intézkedés kiegészíthetné a dízel vésztartalékok felhasználását, de a bevezetésről és a várható megtakarítás mértékéről még nem döntöttek.",
+    "content_hu": "• **A 80 km/órás korlátozás** bevezetését a szövetségi hatóságok egyelőre mérlegelik, és az ügyben egyeztetést kezdeményeztek más közigazgatási szervekkel. A sebességcsökkentés az autópályákra vonatkozna; a legtöbb svájci autópályán jelenleg 120 km/óra a megengedett felső határ.\n\n• **A javaslat előzménye** az iráni háború kitörésekor merült fel: akkor a svájci Zöld Párt vetette fel a 120-ról 80 km/órára történő átállást. Most az intézkedés az üzemanyag-takarékosságot szolgáló lehetőségek között szerepel, de hivatalos döntés még nem született.\n\n• **A megtakarítás várható nagysága** jelenleg nem ismert. A sebességhatár mérséklése a kötelező készletekből már megkezdett dízelkivételt egészíthetné ki; az esetleges fogyasztáscsökkenést az egyeztetési folyamat lezárása után értékelhetik.\n\n• **A dízel vésztartalékok használatát** az előző héten engedélyezték, miután az ellátásért felelős szövetségi hivatal rendkívül feszültnek minősítette a helyzetet. A hatóságok addig is takarékosságra ösztönzik a lakosságot: javasolják az autómegosztást, a közösségi közlekedést és a szabadidős utak visszafogását.\n\n• **Az ellátási zavarok hátterében** a Perzsa-öböl térségének bizonytalansága mellett szállítási nehézségek is állnak. A heves esőzések késleltetik a csővezetékes szállításokat, egy vasútvonalon ismétlődő fennakadások vannak, a szárazság pedig a folyami áruszállítást sújtja.",
+    "title_ro": "Elveția analizează limita de 80 km/h pe autostrăzi pe fondul problemelor de aprovizionare cu combustibil",
+    "lead_ro": "Autoritățile elvețiene au început consultări privind o posibilă limită temporară de 80 km/h pe autostrăzi. Măsura ar putea completa folosirea rezervelor de motorină, însă nu există încă o decizie, iar economia estimată de combustibil nu a fost calculată public.",
+    "content_ro": "• **Limita de 80 km/h** este în etapa de analiză, iar autoritățile federale au cerut opiniile altor servicii administrative. Restricția ar viza autostrăzile, unde plafonul de viteză este în prezent de 120 km/h pe majoritatea tronsoanelor.\n\n• **Ideea reducerii vitezei** a fost avansată de Partidul Ecologist elvețian la începutul războiului din Iran, printr-o propunere de coborâre a limitei de la 120 la 80 km/h. Subiectul a revenit acum în discuție ca posibilă măsură de reducere a consumului, fără ca guvernul să fi luat o hotărâre.\n\n• **Economiile de combustibil** care ar rezulta dintr-o eventuală limită mai mică nu sunt deocamdată cuantificate. Reducerea vitezei ar putea însoți extragerea deja autorizată din stocurile obligatorii de motorină, iar efectele ar urma să fie evaluate după încheierea consultărilor.\n\n• **Rezervele de motorină** au fost autorizate pentru utilizare săptămâna trecută, în contextul în care Oficiul Federal pentru Aprovizionarea Economică descrie situația drept foarte tensionată. Până la noi decizii, populația este îndemnată să împartă mașinile, să aleagă transportul public și să limiteze deplasările recreative.\n\n• **Dificultățile logistice** se adaugă instabilității din Golful Persic. Ploile abundente întârzie livrările prin conducte, o linie feroviară este afectată de întreruperi repetate, iar seceta îngreunează transportul de mărfuri pe râuri."
   },
   {
     "group_id": "group_0972e5889a",
@@ -882,44 +1305,6 @@
     "title_ro": "Bogdan Dumitru vrea să reducă folosirea hârtiei în minister prin digitalizare",
     "lead_ro": "Ministrul român delegat pentru Digitalizare și Inteligență Artificială spune că volumul mare de documente întâlnit la începutul mandatului arată utilitatea unor instrumente digitale. Voucherele pregătite pentru companii ar urma să sprijine, în special, testarea și adoptarea soluțiilor AI de către IMM-uri.",
     "content_ro": "• **Bogdan Dumitru** a întâlnit, în prima săptămână de la preluarea portofoliului, un volum de documente de aproape un sfert de metru cub, pe care trebuia să le parcurgă. Ministrul responsabil de digitalizare și inteligență artificială a spus că vrea ca instituția să folosească mai mult AI și să reducă utilizarea imprimantelor.\n\n• **Declarațiile au fost făcute joi seara**, la evenimentul de prezentare a unui studiu despre utilizarea inteligenței artificiale de către firmele din România. Cercetarea a fost realizată de Edge Institute împreună cu Confederația Patronală Concordia.\n\n• **Voucherele avute în vedere pentru companii** ar finanța etapele inițiale ale adoptării AI, cu atenție deosebită pentru întreprinderile mici și mijlocii. Acestea ar putea testa un proces de lucru și ar putea verifica dacă anumite componente de inteligență artificială se potrivesc modului lor actual de operare.\n\n• **Dacă testarea dă rezultate**, firmele ar putea primi sprijin și pentru implementarea completă a soluției. Dumitru a estimat că impactul AI ar putea fi foarte amplu, dar a precizat că direcția exactă a schimbărilor nu este încă limpede; în opinia sa, utilizarea tehnologiei este totuși necesară."
-  },
-  {
-    "group_id": "group_fe9c222a74",
-    "fingerprint": "ac02aeefce69355b8616ef5039b35a98",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Țara europeană care ar putea limita viteza pe autostrăzi la 80 km/h în cazul unei penurii de carburanți",
-        "link": "https://www.mediafax.ro/externe/tara-europeana-care-ar-putea-limita-viteza-pe-autostrazi-la-80-km-h-in-cazul-unei-penurii-de-carburanti-23834153"
-      },
-      {
-        "source": "Digi24",
-        "title": "Elveţia ia în calcul reducerea vitezei maxime pe autostrăzile sale la 80 km/h. Motivul pentru care s-ar putea lua această decizie",
-        "link": "https://www.digi24.ro/stiri/externe/ue/elvetia-ia-in-calcul-reducerea-vitezei-maxime-pe-autostrazile-sale-la-80-km-h-motivul-pentru-care-s-ar-putea-lua-aceasta-decizie-4014579"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Criză de motorină în Elveția. Autoritățile iau în calcul limitarea vitezei pe autostrăzi la 80 km/h",
-        "link": "https://stirileprotv.ro/stiri/international/criza-de-motorina-in-elvetia-autoritatile-iau-in-calcul-limitarea-vitezei-pe-autostrazi-la-80-km-h.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Elveţia vrea să reducă viteza maximă pe autostrăzi la 80 km/h pentru a combate penuria de combustibil",
-        "link": "https://hotnews.ro/elvetia-vrea-sa-reduca-viteza-maxima-pe-autostrazi-la-80-km-h-pentru-a-combate-penuria-de-combustibil-2390323"
-      }
-    ],
-    "published_at": 1793308317,
-    "title_hu": "Svájc ideiglenes 80 km/órás autópálya-korlátozást mérlegelhet üzemanyaghiány esetén",
-    "lead_hu": "A dízel vésztartalékok felhasználása mellett további üzemanyag-takarékossági lépéseket vizsgálnak Svájcban. Az autópályákon alkalmazható, ideiglenes 80 km/órás sebességhatárról még nem született döntés.",
-    "content_hu": "• **Az ideiglenes 80 km/órás korlátozás** lehetséges kiegészítő intézkedésként merült fel arra az esetre, ha tovább romlana az üzemanyag-ellátás. A tervezett sebességcsökkentés az autópályákra vonatkozna, és célja a járművek fogyasztásának mérséklése lenne; a bevezetéséről egyelőre nem határoztak.\n\n• **A dízel vésztartalékok felhasználását** az előző héten engedélyezték. A gazdasági ellátásért felelős szövetségi hivatal nagyon feszültnek minősítette az ország helyzetét, ezért a tartalékok igénybevétele mellett további üzemanyag-megtakarítási lehetőségeket is mérlegelnek.\n\n• **A lakosságnak szóló takarékossági javaslatok** között szerepel az autók közös használata, a tömegközlekedés választása, valamint a szabadidős utazások visszafogása. Ezek önkéntes lépésekkel csökkenthetnék a közúti közlekedés üzemanyag-igényét, amíg a hatóságok a további intézkedésekről döntenek.\n\n• **Az ellátási gondok egyik oka** a Perzsa-öböl térségének bizonytalansága, de a szállítási problémák is nehezítik a beszerzést. A csővezetékes szállítások késnek, egy vasútvonalon ismétlődő fennakadások vannak, a szárazság pedig a folyami áruszállítást is jelentősen akadályozza.",
-    "title_ro": "Elveția analizează o limită temporară de 80 km/h pe autostrăzi în cazul unei penurii de carburanți",
-    "lead_ro": "Pe lângă folosirea rezervelor de urgență de motorină, Elveția examinează și alte măsuri pentru reducerea consumului. O limită temporară de 80 km/h pe autostrăzi este luată în calcul, însă autoritățile nu au decis deocamdată dacă o vor introduce.",
-    "content_ro": "• **Limita temporară de 80 km/h** a fost menționată ca posibilă măsură suplimentară dacă aprovizionarea cu carburanți se deteriorează. Restricția ar viza autostrăzile și ar urmări reducerea consumului vehiculelor, dar introducerea ei nu a fost încă decisă.\n\n• **Folosirea rezervelor de urgență de motorină** a fost autorizată săptămâna trecută. Oficiul federal responsabil de aprovizionarea economică a descris situația din țară drept foarte tensionată. În paralel cu utilizarea rezervelor, sunt analizate și alte modalități de economisire a combustibilului.\n\n• **Recomandările adresate populației** includ folosirea în comun a automobilelor, alegerea transportului public și reducerea călătoriilor de agrement. Aplicate voluntar, aceste măsuri ar putea diminua cererea de carburant pentru deplasările rutiere, în timp ce autoritățile evaluează pașii următori.\n\n• **Dificultățile de aprovizionare** sunt legate atât de instabilitatea din zona Golfului Persic, cât și de problemele logistice. Livrările prin conducte au întârzieri, o linie feroviară este afectată de întreruperi repetate, iar seceta perturbă semnificativ transportul pe râuri."
   },
   {
     "group_id": "group_9c00973dfd",
@@ -4002,344 +4387,6 @@
     "title_ro": "Cine este și cu ce se ocupă soțul Monicăi Iagăr. Cristi Neacșu ar fi agresat-o pe fiica lui Cosmin Cernat",
     "lead_ro": "Numele Monicăi Iagăr a ajuns în centrul atenției după ce fostul său partener, prezentatorul TV Cosmin Cernat, a făcut publice acuzații grave la adresa actualului soț al fostei sportive. Potrivit decla…",
     "content_ro": "Numele Monicăi Iagăr a ajuns în centrul atenției după ce fostul său partener, prezentatorul TV Cosmin Cernat, a făcut publice acuzații grave la adresa actualului soț al fostei sportive. Potrivit declarațiilor prezentatorului, fiica sa minoră ar fi fost agresată de Cristi Neacșu, în luna iulie a acestui an. Cazul ar fi ajuns în atenția autorităților, […]"
-  },
-  {
-    "group_id": "group_ffdad6d345",
-    "fingerprint": "2843913b3d60dd5daab4029df93d5aab",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 64,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Trump susține că l-a salvat pe Netanyahu de la o înfrângere electorală zdrobitoare. Acum vrea să aibă influență asupra deciziilor sale",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/trump-sustine-ca-l-a-salvat-pe-netanyahu-de-la-o-2567239.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Cine va conduce Israelul după alegeri: Patru scenarii pentru formarea noului guvern",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/cine-va-conduce-israelul-dupa-alegeri-patru-scenarii-pentru-formarea-noului-guvern-4012447"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Impas politic după alegerile din Israel. Soarta lui Netanyahu depinde de o alianță controversată",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/impas-politic-dupa-alegerile-din-israel-soarta-2567301.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Partidul lui Netanyahu acuză formaţiunile arabe că au „furat alegerile” şi cere anchete. Poliția spune că acuzațiile sunt nefondate",
-        "link": "https://www.digi24.ro/stiri/externe/partidul-lui-netanyahu-acuza-formatiunile-arabe-ca-au-furat-alegerile-din-israel-si-cere-anchete-4013391"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Netanyahu a acuzat partidele arabe că au „furat alegerile” din Israel. Partidul lui susţine că are sute de probe",
-        "link": "https://stirileprotv.ro/stiri/international/netanyahu-spune-ca-alegerile-au-fost-furate-de-catre-partide-arabe-care-sus-in-terorismul-adversarii-sai-sustin-ca-minte.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Poliția consideră neîntemeiată acuzația lui Netanyahu că partidele arabe ar fi 'furat alegerile'",
-        "link": "https://agerpres.ro/politic-extern/2026/10/29/alegeri-in-israel-politia-considera-neintemeiata-acuzatia-lui-netanyahu-ca-partidele-arabe-ar-fi-fur--1607949"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Netanjahunak 53, az ellenzéknek 48 mandátuma van Izraelben, egyik oldalnak sincs többsége",
-        "link": "https://transtelex.ro/kulfold/2026/10/29/szavazatok-91-szazalek-feldolgozottsag-izrael-valasztas"
-      },
-      {
-        "source": "G4Media",
-        "title": "Netanyahu susține că țările arabe s-au implicat în campania electorală și au finanțat partidele arabe, care au scos un rezultat record la alegerile din Israel",
-        "link": "https://www.g4media.ro/netanyahu-sustine-ca-tarile-arabe-s-au-implicat-in-campania-electorala-si-au-finantat-partidele-arabe-care-au-scos-un-rezultat-record-la-alegerile-din-israel.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "„Poate că este greu de acceptat, dar Netanyahu este câștigătorul”. Toate scenariile posibile după alegerile cruciale din Israel",
-        "link": "https://hotnews.ro/poate-ca-este-greu-de-acceptat-dar-netanyahu-este-castigatorul-toate-scenariile-posibile-dupa-alegerile-cruciale-din-israel-2389555"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Netanyahu și Eisenkot cer investigarea unei posibile 'ingerințe externe'",
-        "link": "https://agerpres.ro/politic-extern/2026/10/29/alegeri-in-israel-netanyahu-si-eisenkot-cer-investigarea-unei-posibile-ingerinte-externe--1608039"
-      },
-      {
-        "source": "G4Media",
-        "title": "Alegeri în Israel: interferență străină sau tentativă de manipulare de către prim ministrul Benjamin Netanyahu – consecințe politice",
-        "link": "https://www.g4media.ro/alegeri-in-israel-interferenta-straina-sau-tentativa-de-manipulare-de-catre-prim-ministrul-benjamin-netanyahu-consecinte-politice.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Cu 99% din voturi numărate și în pericol să piardă puterea, Netanyahu insistă cu o mișcare împotriva celor care au produs surpriza în alegeri",
-        "link": "https://hotnews.ro/alegeri-israel-rezultate-finale-netanyahu-amenintat-cu-pierderea-puterii-isi-intensifica-atacurile-la-adresa-partidelor-arabe-2390154"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Netanyahu vrea să discrediteze alegerile acuzând partidele arabe, afirmă Gadi Eisenkot",
-        "link": "https://agerpres.ro/politic-extern/2026/10/29/alegeri-in-israel-netanyahu-vrea-sa-discrediteze-alegerile-acuzand-partidele-arabe-afirma-gadi-eisen--1608203"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Israel – alegeri: Ultimele informații la finalul unei zile tensionate",
-        "link": "https://hotnews.ro/israel-alegeri-ultimele-informatii-la-finalul-unei-zile-tensionate-2389252"
-      },
-      {
-        "source": "Digi24",
-        "title": "Pentru arabii din Israel, prezența record la vot ar putea însemna o influență politică sporită",
-        "link": "https://www.digi24.ro/stiri/externe/pentru-arabii-din-israel-prezenta-record-la-vot-ar-putea-insemna-o-influenta-politica-sporita-4013177"
-      },
-      {
-        "source": "G4Media",
-        "title": "Președintele Israelului le cere partidelor să evite organizarea unor noi alegeri",
-        "link": "https://www.g4media.ro/presedintele-israelului-le-cere-partidelor-sa-evite-organizarea-unor-noi-alegeri.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Alegerile din Israel, fără un câștigător clar. Netanyahu conduce, dar voturile partidelor arabe ar putea decide cine formează guvernul",
-        "link": "https://stirileprotv.ro/stiri/international/alegerile-din-israel-fara-un-castigator-clar-netanyahu-conduce-dar-voturile-partidelor-arabe-ar-putea-decide-cine-formeaza-guvernul.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Partidele arabe vor deține balanța puterii în parlamentul Israelului. Cine dintre partidele sioniste este dispus și cine nu să colaboreze cu ele?",
-        "link": "https://www.g4media.ro/partidele-arabe-vor-detine-balanta-puterii-in-parlamentul-israelului-cine-dintre-partidele-sioniste-este-dispus-si-cine-nu-sa-colaboreze-cu-ele.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ce urmează în Israel după alegerile parlamentare. Patru scenarii pentru ieșirea din blocajul politic",
-        "link": "https://www.mediafax.ro/externe/ce-urmeaza-in-israel-dupa-alegerile-parlamentare-patru-scenarii-pentru-iesirea-din-blocajul-politic-23833267"
-      },
-      {
-        "source": "G4Media",
-        "title": "Trump susține că sprijinul său l-a ajutat pe Netanyahu în alegerile din Israel",
-        "link": "https://www.g4media.ro/trump-sustine-ca-sprijinul-sau-l-a-ajutat-pe-netanyahu-in-alegerile-din-israel.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Președintele Israelului le cere partidelor să evite organizarea unor noi alegeri, după un scrutin fără majoritate clară",
-        "link": "https://www.mediafax.ro/externe/presedintele-israelului-le-cere-partidelor-sa-evite-organizarea-unor-noi-alegeri-dupa-un-scrutin-fara-majoritate-clara-23833216"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Politikai patthelyzet Izraelben: Netanjahu és az ellenzék sem szerzett többséget",
-        "link": "https://www.mediatica.ro/hirek/kulfold/politikai-patthelyzet-izraelben-netanjahu-es-az-ellenzek-sem-szerzett-tobbseget"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alegerile din Israel, prin ochii vecinilor: puțini se așteaptă la un moment de cotitură, dar rezultatul influențează războiul cu Iranul",
-        "link": "https://www.digi24.ro/stiri/externe/alegerile-din-israel-prin-ochii-vecinilor-putini-se-asteapta-la-un-moment-de-cotitura-dar-rezultatul-influenteaza-razboiul-cu-iranul-4012547"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alegeri în Israel: Netanyahu revendică o majoritate a dreptei, dar rezultatele parțiale arată o luptă strânsă pentru putere",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/alegeri-in-israel-netanyahu-revendica-o-majoritate-a-dreptei-dar-rezultatele-partiale-arata-o-lupta-stransa-pentru-putere-4011437"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri în Israel: blocul lui Netanyahu conduce cu 53 de mandate, dar rămâne sub pragul majorității. Șekelul israelian s-a depreciat pe fondul incertitudinii politice",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-interventie-salvatoare-a-lui-trump-in-favoarea-lui-bibi-i-dupa-numararea-a-66-din-voturi-blocul-condus-de-netanyahu-are-avantaj-minim-23832625"
-      },
-      {
-        "source": "G4Media",
-        "title": "Alegeri în Israel: Partidele arabe îşi exprimă disponibilitatea de a ajuta la înlăturarea guvernului condus de Netanyahu",
-        "link": "https://www.g4media.ro/alegeri-in-israel-partidele-arabe-isi-exprima-disponibilitatea-de-a-ajuta-la-inlaturarea-guvernului-condus-de-netanyahu.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Răsturnare de situație în Israel: Blocul lui Netanyahu a trecut pe primul loc după numărarea a 72% din voturi / Nicio tabără nu are majoritatea necesară pentru guvernare / Partidele arabe vor deține balanța puterii",
-        "link": "https://www.g4media.ro/rasturnare-de-situatie-in-israel-blocul-lui-netanyahu-a-trecut-pe-primul-loc-dupa-numararea-a-72-din-voturi-nicio-tabara-nu-are-majoritatea-necesara-pentru-guvernare-partidele-arabe-vor-detine-ba.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Trump își asumă meritul pentru rezultatul lui Netanyahu la alegeri. Mesajul transmis după scrutinul strâns din Israel",
-        "link": "https://www.digi24.ro/stiri/externe/trump-isi-asuma-meritul-pentru-rezultatul-lui-netanyahu-la-alegeri-mesajul-transmis-dupa-scrutinul-strans-din-israel-4011693"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Răsturnare de situație și un mare semn de întrebare în Israel. Ce urmează după alegerile dramatice de ieri",
-        "link": "https://hotnews.ro/rasturnare-de-situatie-si-un-mare-semn-de-intrebare-in-israel-ce-urmeaza-dupa-alegerile-dramatice-de-ieri-2388457"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Alegeri fără un câștigător clar în Israel. Cele patru scenarii care ar putea schimba jocul politic",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/alegeri-fara-un-castigator-clar-in-israel-cele-2567059.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Exit-poll Israel: Niciun câștigător, cele două tabere nu au o cale clară către formarea unui guvern. Reacția rivalului lui Netanyahu",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/alegeri-in-israel-partidul-lui-netanyahu-conduce-dar-niciuna-din-cele-doua-tabere-nu-are-o-cale-clara-catre-formarea-unui-guvern-4011437"
-      },
-      {
-        "source": "Maszol",
-        "title": "Exit poll: vereséget szenvedett Benjámin Netanjahu koalíciója",
-        "link": "https://maszol.ro/kulfold/Izrael-vereseget-szenvedett-Benjamin-Netanjahu-koalicioja"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Dacă voi nu mă vreți, eu vă vreu”, varianta israeliană",
-        "link": "https://www.digi24.ro/opinii/agora-digi/daca-voi-nu-ma-vreti-eu-va-vreu-varianta-israeliana-4011601"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Alegeri în Israel. Ce rol ar putea juca partidele arabe",
-        "link": "https://stirileprotv.ro/stiri/international/alegeri-in-israel-ce-rol-ar-putea-juca-partidele-arabe.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri parlamentare în Israel. Niciuna dintre tabere nu are majoritate | Intervenție salvatoare a lui Trump în favoarea lui „Bibi”",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-niciuna-dintre-tabere-nu-are-majoritate-interventie-salvatoare-a-lui-trump-in-favoarea-lui-bibi-23832625"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Blocaj politic după alegerile din Israel. Niciuna dintre tabere nu are majoritatea necesară pentru a forma un guvern",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/blocaj-politic-dupa-alegerile-din-israel-niciuna-2567024.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri parlamentare în Israel. Exit-pollurile indică un blocaj politic. Niciuna dintre tabere nu are majoritate | Opoziția susține că Netanyahu a suferit o „înfrângere zdrobitoare”",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-exit-pollurile-indica-un-blocaj-politic-niciuna-dintre-tabere-nu-are-majoritate-opozitia-sustine-ca-netanyahu-a-suferit-o-infrangere-zdrobitoare-23832625"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Partidele arabe își exprimă disponibilitatea de a ajuta la înlăturarea lui Netanyahu",
-        "link": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-partidele-arabe-isi-exprima-disponibilitatea-de-a-ajuta-la-inlaturarea-lui-netanya--1607646"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Ministrul apărării denunță apelul lansat de Eisenkot către armată de a rezista presiunilor lui Netanyahu",
-        "link": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-ministrul-apararii-denunta-apelul-lansat-de-eisenkot-catre-armata-de-a-rezista-pre--1607787"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Likud acuză partidele arabe că fură alegerile și cere să fie verificate voturile",
-        "link": "https://agerpres.ro/politic-extern/2026/10/28/alegeri-in-israel-likud-acuza-partidele-arabe-ca-fura-alegerile-si-cere-sa-fie-verificate-voturile--1607826"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri parlamentare în Israel. Partidul lui Netanyahu, pe primul loc în exit-polluri, dar blocul opoziției are mai multe mandate. Nicio tabără nu are majoritate | Prezență record la vot",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-partidul-lui-netanyahu-pe-primul-loc-in-exit-polluri-dar-blocul-opozitiei-are-mai-multe-mandate-nicio-tabara-nu-are-majoritate-prezenta-record-la-vot-23832625"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Reacția lui Gadi Eisenkot după primele exit-polluri din Israel: „O lipsă totală de încredere în Netanyahu”",
-        "link": "https://www.mediafax.ro/externe/reactia-lui-gadi-eisenkot-dupa-primele-exit-poll-uri-din-israel-o-lipsa-totala-de-incredere-in-netanyahu-23832722"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Urnele s-au închis în Israel. Așteptare febrilă în toată lumea privind rezultatul unor alegeri cu mare putere de simbol, decisive pentru Netanyahu",
-        "link": "https://hotnews.ro/rezultate-alegeri-israel-benjamin-netanyahu-gadi-eisenkot-exit-poll-2388124"
-      },
-      {
-        "source": "G4Media",
-        "title": "Alegeri cruciale în Israel: Blocul anti-Netanyahu conduce / Likud este cel mai mare partid / Niciuna dintre părți nu are o cale clară către obținerea majorității",
-        "link": "https://www.g4media.ro/alegeri-cruciale-in-israel-record-de-participare-in-ultimii-53-de-ani-scrutinul-e-centrat-pe-persoana-lui-netanyahu-blocul-yashar-al-lui-eisenkot-acuza-o-incercare-sistematica-d.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Primele rezultate exit-poll la alegerile din Israel. Netanyahu e dat câștigător, dar fără o cale clară spre majoritate",
-        "link": "https://hotnews.ro/primele-rezultate-exit-poll-la-alegerile-din-israel-netanyahu-e-dat-castigator-dar-fara-o-cale-clara-spre-majoritate-2388153"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri parlamentare în Israel. Partidul lui Netanyahu conduce în exit-polluri, dar nicio tabără nu are majoritate / Prezență record la vot",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-partidul-lui-netanyahu-conduce-in-exit-polluri-dar-nicio-tabara-nu-are-majoritate-prezenta-record-la-vot-23832625"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri parlamentare în Israel. Partidul lui Netanyahu este pe primul loc în exit-polluri, dar nicio tabără nu are majoritate / Prezență record la vot",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-partidul-lui-netanyahu-este-pe-primul-loc-in-exit-polluri-dar-nicio-tabara-nu-are-majoritate-prezenta-record-la-vot-23832625"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Alegeri în Israel. Likud, partidul lui Netanyahu, conduce în exit-poll, dar majoritatea rămâne incertă. Scenarii posibile",
-        "link": "https://stirileprotv.ro/stiri/international/alegeri-in-israel-likud-partidul-lui-netanyahu-conduce-in-exit-poll-dar-majoritatea-ramane-incerta-scenarii-posibile.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Exit pollok: Netanjahu pártja kapja a legtöbb szavazatot, de a legfontosabb tévék szerint a vele szembenálló blokk vezet",
-        "link": "https://transtelex.ro/kulfold/2026/10/27/izrael-valasztas-gyozelem-eredmeny"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri parlamentare în Israel. Prezență record la vot, într-un scrutin decisiv pentru viitorul politic al lui Netanyahu",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-in-israel-prezenta-record-la-vot-intr-un-scrutin-decisiv-pentru-viitorul-politic-al-lui-netanyahu-23832625"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Prezență record la urne la alegerile din Israel. Tabăra lui Netanyahu cere prelungirea votului",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/prezenta-record-la-urne-la-alegerile-din-israel-2566980.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Prezență-record la vot în Israel. Netanyahu, acuzat că se pregăteşte să conteste rezultatul scrutinului",
-        "link": "https://stirileprotv.ro/stiri/international/prezenta-record-la-vot-in-israel-netanyahu-acuzat-ca-se-pregateste-sa-conteste-rezultatul-scrutinului.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Alegeri în Israel. Acum, cea mai mare prezență din ultima jumătate de secol la scrutinul decisiv pentru Benjamin Netanyahu",
-        "link": "https://hotnews.ro/alegeri-israel-benjamin-netanyahu-2387417"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Alegeri în Israel. Cele cinci scenarii pentru viitorul guvern israelian. Benjamin Netanyahu riscă să piardă puterea",
-        "link": "https://stirileprotv.ro/stiri/international/alegeri-in-israel-cele-cinci-scenarii-pentru-viitorul-guvern-israelian-benjamin-netanyahu-risca-sa-piarda-puterea.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alegeri decisive în Israel. Netanyahu riscă să piardă puterea după trei ani de război. Cine i-ar putea lua locul",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/alegeri-decisive-in-israel-netanyahu-risca-sa-piarda-puterea-dupa-trei-ani-de-razboi-cine-i-ar-putea-lua-locul-4010471"
-      },
-      {
-        "source": "Maszol",
-        "title": "A nemzetközi elszigeteltség árnyékában választ Izrael",
-        "link": "https://maszol.ro/kulfold/A-nemzetkozi-elszigeteltseg-arnyekaban-valaszt-Izrael"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alegeri parlamentare astăzi în Israel. Benjamin Netanyahu își joacă viitorul politic",
-        "link": "https://www.mediafax.ro/externe/alegeri-parlamentare-astazi-in-israel-benjamin-netanyahu-isi-joaca-viitorul-politic-23832181"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Israelienii sunt aşteptaţi la urne marţi pentru cele mai importante alegeri din ultimii ani",
-        "link": "https://stirileprotv.ro/stiri/international/israelienii-sunt-astepta-i-la-urne-mar-i-pentru-cele-mai-importante-alegeri-din-ultimii-ani.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Cum poate fi forțată înlăturarea Guvernului Netanyahu chiar de palestinieni, la votul crucial de azi din Israel",
-        "link": "https://hotnews.ro/alegeri-israel-benjamin-netabyahu-hamas-atac-palestinieni-2387071"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Alegeri decisive pentru viitorul Israelului. Cine este candidatul care ar putea pune capăt dominației lui Benjamin Netanyahu",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/alegeri-decisive-pentru-viitorul-israelului-cine-2566738.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Poate fi învins Netanyahu? Alegerile care ar putea schimba viitorul Israelului",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/poate-fi-invins-netanyahu-alegerile-care-ar-2566709.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Gadi Eisenkot cere electoratului să trimită acasă guvernul Netanyahu",
-        "link": "https://agerpres.ro/politic-extern/2026/10/27/alegeri-in-israel-gadi-eisenkot-cere-electoratului-sa-trimita-acasa-guvernul-netanyahu--1607283"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în Israel: Partidul principalului rival al lui Netanyahu se opune cererii de prelungire a programului secțiilor de votare",
-        "link": "https://agerpres.ro/politic-extern/2026/10/27/alegeri-in-israel-partidul-principalului-rival-al-lui-netanyahu-se-opune-cererii-de-prelungire-a-pro--1607422"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "După trei ani, Netanyahu se confruntă mâine cu judecata alegătorilor pentru atacurile din 7 octombrie. Sondajele nu îi sunt favorabile",
-        "link": "https://hotnews.ro/dupa-trei-ani-netanyahu-se-confrunta-maine-cu-judecata-alegatorilor-pentru-atacurile-din-7-octombrie-sondajele-nu-ii-sunt-favorabile-2386847"
-      }
-    ],
-    "published_at": 1793296831,
-    "title_hu": "Izraeli választás: 53–48-as állás, arab kulcsszerep és vitatott csalásvádak",
-    "lead_hu": "A szavazatok közel 99 százalékának összesítése szerint Benjámin Netanjahu tábora 53, Gadi Eisenkot ellenzéki blokkja 48 mandátumot szerzett, a két arab párt pedig 19 képviselői helyre számíthat. Egyik oldalnak sincs többsége, így koalíciós tárgyalások, kisebbségi kormány vagy akár új választás is szóba kerülhet.",
-    "content_hu": "• **A véglegesedő erőviszonyok** alapján Netanjahu pártszövetsége 53, Eisenkot tömbje 48 helyet kapott a 120 fős kneszetben; a kormányzáshoz szükséges 61 mandátum egyik oldalnak sem áll rendelkezésére. A két arab párt együttesen 19 képviselőt küldhet a parlamentbe. Az október 27-i választáson csaknem 78 százalékos volt a részvétel, ami 1999 óta a legmagasabb arány.\n\n• **A kormányalakítás lehetséges útjai** között szerepel, hogy Netanjahu ellenzéki pártokból próbáljon támogatókat szerezni, illetve hogy Eisenkot arab pártok külső támogatásával alakítson kisebbségi kabinetet. Felmerülhet egységkormány vagy újabb választás is. Naftali Bennett és Avigdor Lieberman pártjai ideológiai szempontból közelebb állhatnak a Likudhoz, de korábbi konfliktusaik nehezíthetik az együttműködést. Jichák Hercog államfő a következő héten kezdi meg a pártokkal folytatott egyeztetéseket a kormányalakítási megbízás előtt.\n\n• **A csalásvádak ügyében** a Likud több száz állítólagos bizonyítékot és tanúvallomást említett, és a választás tisztaságát érintő szabálytalanságok kivizsgálását kérte. A rendőrség szerint nincs olyan adat, amely alátámasztaná a párt állításait; a választási bizottság szerint a folyamatot nem érte rendszerszintű sérelem. A választás napján ugyanakkor egy szavazatvásárlási kísérlet miatt történt letartóztatás, de hasonló esetről máshonnan nem érkezett jelentés. Eisenkot szerint a vádak a választási eredmény hiteltelenítését célozzák.\n\n• **A külföldi beavatkozás gyanúja** miatt Noam Sohlberg, a választási bizottság elnöke a Shin Bet vizsgálatát kérte; a Likud és Eisenkot szövetsége is támogatta az ügy kivizsgálását. A sajtóban felmerült, hogy Katar pénzzel ösztönözhette az arab közösségek részvételét, de ezt nem igazolták. A vádak különböznek a választási csalásra vonatkozó állításoktól.\n\n• **Donald Trump szerepvállalása** során saját támogatását Netanjahu vártnál jobb eredményének egyik okaként állította be. Az amerikai elnök olyan izraeli kormányt szeretne, amely segíti regionális céljait Gázában, Szíriában és Libanonban; ennek részeként Itamar Ben-Gvir és Becalel Szmotrics háttérbe szorítását is elképzelhetőnek tartja. A választás a 2023. október 7-i Hamász-támadásért viselt politikai felelősség megítéléséről is szólt.",
-    "title_ro": "Alegerile din Israel: raport 53–48, rol decisiv al partidelor arabe și acuzații contestate",
-    "lead_ro": "După centralizarea a aproape 99% din voturi, tabăra lui Benjamin Netanyahu are 53 de mandate, blocul de opoziție condus de Gadi Eisenkot 48, iar cele două partide arabe ar urma să obțină împreună 19 locuri. Nicio tabără nu deține majoritatea, astfel că negocierile ar putea duce la un guvern minoritar, o coaliție de uniune sau noi alegeri.",
-    "content_ro": "• **Repartizarea mandatelor** arată 53 de locuri pentru alianța lui Netanyahu și 48 pentru blocul lui Eisenkot, într-un parlament cu 120 de membri; pragul pentru majoritate este de 61. Cele două formațiuni arabe ar putea avea împreună 19 mandate. Prezența la scrutinul din 27 octombrie a fost de aproape 78%, cea mai ridicată din 1999 încoace.\n\n• **Variantele pentru formarea guvernului** includ încercarea lui Netanyahu de a atrage partide din tabăra adversă și un cabinet minoritar al opoziției, sprijinit în parlament de formațiunile arabe. Au fost menționate și o coaliție de uniune națională ori organizarea unui nou scrutin. Partidele lui Naftali Bennett și Avigdor Lieberman au unele apropieri ideologice de Likud, însă disputele lor anterioare cu premierul pot complica negocierile. Președintele Isaac Herzog urmează să înceapă consultările cu partidele săptămâna viitoare, înainte de a desemna un candidat pentru formarea guvernului.\n\n• **Acuzațiile de fraudă electorală** au fost însoțite de afirmația Likudului că ar fi transmis sute de mărturii și materiale autorităților. Poliția a declarat că nu există probe care să confirme acuzațiile, iar procesul electoral nu a fost afectat sistematic. În ziua votului a fost raportată o arestare legată de o tentativă de cumpărare a voturilor, fără semnalarea unor incidente similare în alte zone. Eisenkot susține că acuzațiile urmăresc să pună sub semnul întrebării rezultatul alegerilor.\n\n• **Suspiciunile privind influența externă** au determinat Comisia Electorală Centrală, condusă de Noam Sohlberg, să solicite o anchetă a Shin Bet; atât Likud, cât și alianța lui Eisenkot au susținut verificările. În presă a fost avansată ipoteza unor fonduri din Qatar menite să stimuleze participarea comunităților arabe, însă aceasta nu a fost confirmată. Acest dosar este distinct de acuzațiile privind fraudarea votului.\n\n• **Poziția lui Donald Trump** a inclus revendicarea unui rol în rezultatul mai bun decât se anticipa al lui Netanyahu. Președintele american dorește ca guvernul israelian să contribuie la obiectivele sale regionale în Gaza, Siria și Liban și a sugerat că politicieni precum Itamar Ben-Gvir și Bezalel Smotrich ar putea fi marginalizați. Scrutinul a reprezentat, de asemenea, un test al modului în care alegătorii evaluează responsabilitatea liderilor pentru atacul Hamas din 7 octombrie 2023."
   },
   {
     "group_id": "group_edce7fdf3e",
@@ -21621,12 +21668,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "Învestituri regale la Palatul Regal: Nunțiul Apostolic - Decorația Nihil Sine Deo",
         "link": "https://agerpres.ro/social/2026/10/29/investituri-regale-la-palatul-regal-nuntiul-apostolic---decoratia-nihil-sine-deo--1608168"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Învestituri regale la Palatul Regal: Nunțiul Apostolic - Decorația Nihil Sine Deo (GALERIE FOTO)",
+        "link": "https://agerpres.ro/social/2026/10/29/investituri-regale-la-palatul-regal-nuntiul-apostolic---decoratia-nihil-sine-deo-galerie-foto--1608168"
       }
     ],
     "published_at": 1793232000,
