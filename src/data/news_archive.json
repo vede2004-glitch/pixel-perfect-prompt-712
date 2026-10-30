@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_cd49816adb",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Hipertensiunea arterială pulmonară, o boală rară și severă. Accesul la tratament rămâne o provocare pentru pacienții din România",
+        "link": "https://adevarul.ro/stiri-interne/sanatate/hipertensiunea-arteriala-pulmonara-o-boala-rara-2567557.html"
+      }
+    ],
+    "published_at": 1793331025,
+    "title_hu": "Hipertensiunea arterială pulmonară, o boală rară și severă. Accesul la tratament rămâne o provocare pentru pacienții din România",
+    "lead_hu": "Hipertensiunea arterială pulmonară (HTAP) este o boală rară, gravă și progresivă, care afectează vasele de sânge din plămâni și pune presiune suplimentară asupra inimii. Pentru persoanele diagnosticat…",
+    "content_hu": "Hipertensiunea arterială pulmonară (HTAP) este o boală rară, gravă și progresivă, care afectează vasele de sânge din plămâni și pune presiune suplimentară asupra inimii. Pentru persoanele diagnosticate, activități obișnuite, precum mersul pe jos sau urcatul scărilor, pot deveni tot mai dificile.",
+    "title_ro": "Hipertensiunea arterială pulmonară, o boală rară și severă. Accesul la tratament rămâne o provocare pentru pacienții din România",
+    "lead_ro": "Hipertensiunea arterială pulmonară (HTAP) este o boală rară, gravă și progresivă, care afectează vasele de sânge din plămâni și pune presiune suplimentară asupra inimii. Pentru persoanele diagnosticat…",
+    "content_ro": "Hipertensiunea arterială pulmonară (HTAP) este o boală rară, gravă și progresivă, care afectează vasele de sânge din plămâni și pune presiune suplimentară asupra inimii. Pentru persoanele diagnosticate, activități obișnuite, precum mersul pe jos sau urcatul scărilor, pot deveni tot mai dificile."
+  },
+  {
+    "group_id": "group_a3206370ae",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Programul Tomata a crescut suprafețele cultivate, dar nu a rezolvat problema pieței pentru legumicultori",
+        "link": "https://adevarul.ro/stiri-locale/slatina/programul-tomata-a-crescut-suprafetele-cultivate-2566718.html"
+      }
+    ],
+    "published_at": 1793329225,
+    "title_hu": "Programul Tomata a crescut suprafețele cultivate, dar nu a rezolvat problema pieței pentru legumicultori",
+    "lead_hu": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, î…",
+    "content_hu": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, întrebarea „Unde ne vindem roșiile?” a rămas.",
+    "title_ro": "Programul Tomata a crescut suprafețele cultivate, dar nu a rezolvat problema pieței pentru legumicultori",
+    "lead_ro": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, î…",
+    "content_ro": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, întrebarea „Unde ne vindem roșiile?” a rămas."
+  },
+  {
     "group_id": "group_7492fc2fb1",
     "category": "Általános",
     "is_synthesized": false,
@@ -22,18 +64,13 @@
   },
   {
     "group_id": "group_ffdad6d345",
-    "fingerprint": "3d1f11ce247bafc201790e365189f916",
+    "fingerprint": "ad3068e3d3b9c4f6cf52091ff3de9d03",
     "category": "Politika",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
     "sources_count": 67,
     "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Trump susține că l-a salvat pe Netanyahu de la o înfrângere electorală zdrobitoare. Acum vrea să aibă influență asupra deciziilor sale",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/trump-sustine-ca-l-a-salvat-pe-netanyahu-de-la-o-2567239.html"
-      },
       {
         "source": "Digi24",
         "title": "Cine va conduce Israelul după alegeri: Patru scenarii pentru formarea noului guvern",
@@ -93,6 +130,11 @@
         "source": "G4Media",
         "title": "Alegeri Israel, rezultate complete: Coaliția condusă de prim ministrul Benjamin Netanyahu 53 de mandate din 120, opoziția sionistă 48, partidele arabe 19 (cu care dețin balanța puterii)",
         "link": "https://www.g4media.ro/alegeri-israel-rezultate-complete-coalitia-condusa-de-prim-ministrul-benjamin-netanyahu-53-de-mandate-din-120-opozitia-sionista-48-partidele-arabe-19-cu-care-detin-balanta-puterii.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trump susține că l-a salvat pe Netanyahu de la o înfrângere electorală zdrobitoare. Acum vrea să aibă influență asupra deciziilor sale",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/trump-sustine-ca-l-a-salvat-pe-netanyahu-de-la-o-2567239.html"
       },
       {
         "source": "Agerpres (HU)",
@@ -366,12 +408,12 @@
       }
     ],
     "published_at": 1793327689,
-    "title_hu": "Izraeli választás: 53–48-as erőviszonyok, 19 mandátum az arab pártoknál",
-    "lead_hu": "A végleges eredmény szerint Netanjahu tábora 53, az Eisenkot vezette ellenzéki szövetség 48 helyet szerzett a kneszetben, így egyiküknek sincs önálló többsége. Az arab pártok 19 képviselője döntő lehet a kormányalakításban, miközben a választási szabálytalanságokra vonatkozó állításokat vizsgálják.",
-    "content_hu": "• **Végleges eredmény** A 120 fős kneszetben Netanjahu szövetsége 53, Gadi Eisenkot ellenzéki tömbje 48 mandátumot kapott; a kormányalakításhoz szükséges 61 hely egyik oldalnak sincs meg. A Likud 27, a Jásár 21, a B’Yachad 12 képviselői helyet szerzett.\n\n• **A pártok megoszlása** A Közös Lista 11, a Ra’am 8 mandátummal jutott be, így az arab pártok összesen 19 helyet szereztek, ami történelmi eredmény. A részvétel 77,9 százalékos volt, összesen 5 716 665 voksot adtak le; az arab közösségek magas részvétele is hozzájárult a pártok eredményéhez.\n\n• **Lehetséges kormányalakítás** A patthelyzetet Netanjahu az ellenzéki oldal egyes szereplőinek megnyerésével próbálhatja feloldani, míg Eisenkot kisebbségi kabinetet alakíthatna az arab pártok parlamenti támogatásával. Mindkét út politikai akadályokkal jár; egységkormány vagy új választás lehetősége is felmerült.\n\n• **Választási kifogások** A Likud több száz vallomást és bizonyítékot adott át a hatóságoknak, és többek között szavazatvásárlást, fenyegetést, erőszakot és hamisítást állított. A rendőrség szerint a vádakat alátámasztó bizonyítékot nem találtak; a választási bizottság vizsgálata nem mutatott rendszerszintű sérelmet, és nem módosítja a végeredményt.\n\n• **Külföldi szerep és következő lépések** A Shin Bet a külföldi beavatkozás gyanúját is vizsgálja, a katari finanszírozásról szóló állításokat Doha visszautasította. Donald Trump saját támogatásának tulajdonította Netanjahu jobb szereplését, és az izraeli döntésekre is hatást kíván gyakorolni; regionális céljai Gázát, Szíriát és Libanont is érintik. Isaac Herzog a következő héten egyeztet a pártokkal.",
-    "title_ro": "Alegeri în Israel: raport de 53–48, iar partidele arabe au 19 mandate",
-    "lead_ro": "Rezultatul final le atribuie 53 de locuri în Knesset taberei lui Benjamin Netanyahu și 48 alianței conduse de Gadi Eisenkot, fără ca vreuna să dețină majoritatea necesară. Cele 19 mandate ale partidelor arabe pot influența formarea guvernului, în timp ce autoritățile verifică acuzațiile privind nereguli electorale.",
-    "content_ro": "• **Rezultatul final** În parlamentul cu 120 de membri, alianța lui Netanyahu a obținut 53 de mandate, iar blocul opoziției condus de Gadi Eisenkot, 48; pragul pentru majoritate este de 61. Likud a câștigat 27 de locuri, Yashar 21, iar B’Yachad 12.\n\n• **Mandatele partidelor** Lista Comună a obținut 11 locuri, iar Ra’am, 8, totalul formațiunilor arabe ajungând la 19, un rezultat record. Prezența la urne a fost de 77,9%, cu 5.716.665 de voturi exprimate; participarea ridicată în comunitățile arabe a contribuit la scorul acestor partide.\n\n• **Opțiuni pentru guvernare** Netanyahu ar putea încerca să atragă formațiuni din tabăra rivală, în timp ce Eisenkot ar putea negocia un cabinet minoritar sprijinit în parlament de partidele arabe. Ambele variante întâmpină dificultăți politice; au fost luate în calcul și un guvern de uniune națională sau organizarea unor noi alegeri.\n\n• **Acuzații privind votul** Likud a transmis autorităților sute de declarații și materiale, susținând că au existat cumpărare de voturi, amenințări, violențe și falsuri. Poliția a spus că nu a găsit probe care să confirme acuzațiile; comisia electorală nu a identificat încălcări sistematice și a precizat că ancheta nu schimbă rezultatul final.\n\n• **Influență externă și pașii următori** Shin Bet investighează suspiciuni de intervenție din străinătate, inclusiv afirmații despre finanțare din Qatar, respinse de Doha. Donald Trump și-a revendicat meritul pentru evoluția lui Netanyahu și a spus că dorește să influențeze deciziile israeliene; agenda sa regională privește Gaza, Siria și Libanul. Isaac Herzog va începe consultările cu partidele săptămâna viitoare."
+    "title_hu": "Izraeli választás: patthelyzet, az arab pártoké lehet a mérleg nyelve",
+    "lead_hu": "A végleges eredmény alapján Netanjahu szövetsége 53, az Eisenkot vezette ellenzék 48 mandátumot szerzett, így egyik tábor sem rendelkezik önálló többséggel. A 19 képviselői helyhez jutó arab pártok szerepe meghatározó lehet, miközben a Likud választási csalásra vonatkozó vádjait vizsgálják.",
+    "content_hu": "• **Végeredmény és részvétel** A 120 fős kneszetben Netanjahu tábora 53, Gadi Eisenkot ellenzéki szövetsége 48 helyet szerzett; a kormányalakításhoz szükséges 61 mandátum egyik oldalnak sincs meg. A Likud 27, a Jásár 21, a B’Yachad 12 helyet kapott. A részvétel 77,9 százalékos volt, 5 716 665 szavazattal.\n\n• **Külön kezelt voksok** A számlálás során a katonáktól és diplomatáktól érkező, mintegy 480 ezer távolléti szavazat feldolgozása is zajlott. A részleges adatoknál a szavazatok 93,8 százalékát rögzítették; a későbbi végleges eredmény nem változtatta meg a két nagy tábor közötti erőviszonyt.\n\n• **Lehetséges alkuk** A Közös Lista 11 és a Ra’am 8 mandátuma együtt 19 helyet jelent, ami történelmi eredmény és fontos tényező a többség kialakításában. Netanjahu a másik tábor egyes szereplőit, köztük Naftali Bennettet vagy Avigdor Liebermant próbálhatja maga mellé állítani; Eisenkot kisebbségi kormányt alakíthatna arab parlamenti támogatással. Az egyeztetések politikai akadályai jelentősek.\n\n• **Kifogások és vizsgálatok** A Likud több száz tanúvallomásra és bizonyítékra hivatkozva kért vizsgálatot, szavazatvásárlást, fenyegetést és hamisítást említve. A rendőrség nem talált a vádakat alátámasztó bizonyítékot, a választási szervek pedig nem jeleztek rendszerszintű sérelmet; a vizsgálat nem módosítja az eredményt. Az ellenzék szerint Netanjahu a választás hitelét próbálja aláásni.\n\n• **Következő lépések** A szavazás az első volt a 2023. október 7-i Hamász-támadás óta, ezért a kampányban a vezetők felelőssége és a támadás következményei is központi témát jelentettek. Isaac Herzog a következő héten konzultál a pártokkal, majd a kormányalakítási megbízásról dönt; egységkormány vagy új választás lehetősége is felmerülhet.",
+    "title_ro": "Alegerile din Israel: impas politic, cu partidele arabe în rol decisiv",
+    "lead_ro": "Rezultatele finale îi atribuie blocului lui Benjamin Netanyahu 53 de mandate, iar opoziției conduse de Gadi Eisenkot 48, fără ca vreuna dintre tabere să aibă majoritatea necesară. Formațiunile arabe, cu 19 locuri, pot influența negocierile, în timp ce sunt verificate acuzațiile de fraudă lansate de Likud.",
+    "content_ro": "• **Rezultatul final și participarea** În Knessetul cu 120 de membri, tabăra lui Netanyahu a obținut 53 de locuri, iar alianța opoziției conduse de Gadi Eisenkot, 48; niciuna nu atinge pragul de 61 necesar pentru guvernare. Likud a câștigat 27 de mandate, Yashar 21, iar B’Yachad 12. Prezența la vot a fost de 77,9%, cu 5.716.665 de voturi exprimate.\n\n• **Voturile numărate separat** În timpul procesării rezultatelor au fost incluse și aproximativ 480.000 de buletine de la militari și diplomați. La raportarea intermediară, fuseseră înregistrate 93,8% dintre voturi; rezultatul final nu a schimbat raportul general dintre cele două blocuri principale.\n\n• **Variante de negociere** Lista Comună a obținut 11 mandate, iar Ra’am 8, totalul de 19 reprezentând un rezultat istoric și un factor important în formarea majorității. Netanyahu ar putea încerca să atragă politicieni din tabăra adversă, între care Naftali Bennett sau Avigdor Lieberman; Eisenkot ar putea miza pe un guvern minoritar sprijinit în parlament de formațiunile arabe. Ambele variante întâmpină obstacole politice serioase.\n\n• **Acuzații și verificări** Likud a cerut anchete, invocând sute de mărturii și probe, și a reclamat cumpărarea voturilor, intimidări și falsificări. Poliția nu a identificat dovezi care să confirme acuzațiile, iar autoritățile electorale nu au semnalat nereguli sistematice; verificările nu vor schimba rezultatul. Opoziția susține că Netanyahu încearcă să compromită legitimitatea scrutinului.\n\n• **Pașii următori** Scrutinul a fost primul organizat după atacul Hamas din 7 octombrie 2023, iar campania a adus în discuție responsabilitatea liderilor și urmările atacului. Isaac Herzog va purta consultări cu partidele săptămâna viitoare înainte de a desemna persoana însărcinată cu formarea guvernului; sunt luate în calcul și o coaliție de uniune națională sau noi alegeri."
   },
   {
     "group_id": "group_bc61340b45",
@@ -561,6 +603,69 @@
     "title_ro": "Facultăți de viitor în 2027. Cum îți alegi facultatea în era AI",
     "lead_ro": "Dacă te pregătești să alegi o facultate în 2027, merită să te întrebi ce specializări îți pot oferi cele mai bune perspective de carieră într-o lume tot mai influențată de inteligența artificială.",
     "content_ro": "Dacă te pregătești să alegi o facultate în 2027, merită să te întrebi ce specializări îți pot oferi cele mai bune perspective de carieră într-o lume tot mai influențată de inteligența artificială."
+  },
+  {
+    "group_id": "group_76eb0133c0",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "EFEMERIDE ASTRONOMICE - 30 octombrie",
+        "link": "https://agerpres.ro/documentare/2026/10/30/efemeride-astronomice---30-octombrie--1608253"
+      }
+    ],
+    "published_at": 1793318400,
+    "title_hu": "EFEMERIDE ASTRONOMICE - 30 octombrie",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "EFEMERIDE ASTRONOMICE - 30 octombrie",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4c9309d996",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "ROBOFEST, la Politehnica la sfârșitul săptămânii: Peste 260 de echipe, din 34 de țări",
+        "link": "https://agerpres.ro/educatie-stiinta/2026/10/30/robofest-la-politehnica-la-sfarsitul-saptamanii-peste-260-de-echipe-din-34-de-tari--1606752"
+      }
+    ],
+    "published_at": 1793318400,
+    "title_hu": "ROBOFEST, la Politehnica la sfârșitul săptămânii: Peste 260 de echipe, din 34 de țări",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "ROBOFEST, la Politehnica la sfârșitul săptămânii: Peste 260 de echipe, din 34 de țări",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_4484687ba6",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Seara Colocviului Regal - vineri, la Palatul Elisabeta; prof. emerit Antoon De Baets - Premiul Cantemir 2026",
+        "link": "https://agerpres.ro/social/2026/10/30/seara-colocviului-regal---vineri-la-palatul-elisabeta-prof-emerit-antoon-de-baets---premiul-cantemir--1608255"
+      }
+    ],
+    "published_at": 1793318400,
+    "title_hu": "Seara Colocviului Regal - vineri, la Palatul Elisabeta; prof. emerit Antoon De Baets - Premiul Cantemir 2026",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Seara Colocviului Regal - vineri, la Palatul Elisabeta; prof. emerit Antoon De Baets - Premiul Cantemir 2026",
+    "lead_ro": "",
+    "content_ro": ""
   },
   {
     "group_id": "group_e2525f657b",
