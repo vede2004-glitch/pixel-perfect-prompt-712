@@ -1,15 +1,41 @@
 [
   {
-    "group_id": "group_617df56c8e",
-    "category": "Sport",
+    "group_id": "group_9231cbed2f",
+    "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
     "sources_count": 1,
     "sources": [
       {
+        "source": "Adevărul",
+        "title": "„Supraviețuitorii orfani” ai ordinii mondiale: de ce trebuie să facă front comun Europa și Canada",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/supravietuitorii-orfani-ai-ordinii-mondiale-de-2567734.html"
+      }
+    ],
+    "published_at": 1793401225,
+    "title_hu": "„Supraviețuitorii orfani” ai ordinii mondiale: de ce trebuie să facă front comun Europa și Canada",
+    "lead_hu": "Europa și Canada trebuie să își reducă dependența de Statele Unite și China și să construiască împreună alternative economice, tehnologice și strategice dacă vor să își păstreze suveranitatea într-o l...",
+    "content_hu": "Europa și Canada trebuie să își reducă dependența de Statele Unite și China și să construiască împreună alternative economice, tehnologice și strategice dacă vor să își păstreze suveranitatea într-o lume dominată de marile puteri, susține istoricul canadian Michael Ignatieff în Le Monde.",
+    "title_ro": "„Supraviețuitorii orfani” ai ordinii mondiale: de ce trebuie să facă front comun Europa și Canada",
+    "lead_ro": "Europa și Canada trebuie să își reducă dependența de Statele Unite și China și să construiască împreună alternative economice, tehnologice și strategice dacă vor să își păstreze suveranitatea într-o l...",
+    "content_ro": "Europa și Canada trebuie să își reducă dependența de Statele Unite și China și să construiască împreună alternative economice, tehnologice și strategice dacă vor să își păstreze suveranitatea într-o lume dominată de marile puteri, susține istoricul canadian Michael Ignatieff în Le Monde."
+  },
+  {
+    "group_id": "group_617df56c8e",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Astăzi sunt programate 8 meciuri din Liga 2! Clasamentul și programul complet",
         "link": "https://www.gsp.ro/fotbal/liga-2/liga-2-program-rezultate-etapa-12-993890.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Steaua - CS Dinamo, întâlnire în Ghencea » Meciul care deschide etapa 12 din Liga 2",
+        "link": "https://www.gsp.ro/fotbal/liga-2/live-liga-2-etapa-12-steaua-cs-dinamo-intalnire-in-ghencea-993890.html"
       }
     ],
     "published_at": 1793400230,
@@ -211,12 +237,17 @@
     "category": "Bulvár",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Cancan.ro",
         "title": "„Am simțit o furie!”. Remi Dobre a cedat după bonfireul cu Narcis Bujor și a izbucnit în lacrimi",
         "link": "https://www.cancan.ro/am-simtit-o-furie-remi-dobre-a-cedat-dupa-bonfireul-cu-narcis-bujor-si-a-izbucnit-in-lacrimi-21539359"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Tensiuni uriașe la Insula Iubirii! Remi Dobre i-a dat replica lui Narcis Bujor: „Te cam uitai după cameră”",
+        "link": "https://www.cancan.ro/tensiuni-uriase-la-insula-iubirii-remi-dobre-i-a-dat-replica-lui-narcis-bujor-te-cam-uitai-dupa-camera-21539288"
       }
     ],
     "published_at": 1793397058,
@@ -697,12 +728,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Csikszereda pleacă fără puncte din Giulești, dar Valentin Suciu e sigur: „Meritam mai mult”",
         "link": "https://www.gsp.ro/fotbal/liga-1/valentin-suciu-csikszereda-rapid-994151.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Note GSP la Rapid - Csikszereda » Cum s-a mișcat Andrei Șucu, titular în premieră în Superliga",
+        "link": "https://www.gsp.ro/fotbal/liga-1/note-gsp-la-rapid-csikszereda-cum-s-a-miscat-andrei-sucu-994144.html"
       }
     ],
     "published_at": 1793394661,
@@ -1943,34 +1979,6 @@
     "content_ro": "Brazilia a convocat-o pe reprezentanta diplomatică a Argentinei pentru a cere explicații cu privire la posibila implicare a guvernului președintelui Javier Milei în facilitarea plecării lui Flavio Bolsonaro din țară, a declarat o sursă diplomatică braziliană vineri pentru AFP, citată de Buenos Aires Times. Însărcinata cu afaceri a ambasadei Argentinei, Maria Emilia Cortes, a fost …"
   },
   {
-    "group_id": "group_15bca9eed5",
-    "fingerprint": "d6ad2c5d28a5f20060bb64a05358d575",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Cum au ales miniștrii europeni de Externe să protesteze față de prezența Rusiei la reuniunea G20",
-        "link": "https://hotnews.ro/cum-au-ales-ministrii-europeni-de-externe-sa-protesteze-fata-de-prezenta-rusiei-la-reuniunea-g20-2390987"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Fotografia de grup” a G20 a fost anulată din cauza lui Serghei Lavrov: proteste ale europenilor față de prezența rusului",
-        "link": "https://www.digi24.ro/stiri/externe/fotografia-de-grup-a-g20-a-fost-anulata-din-cauza-lui-serghei-lavrov-proteste-ale-europenilor-fata-de-prezenta-rusului-4015879"
-      }
-    ],
-    "published_at": 1793388615,
-    "title_hu": "Elmaradt a G20 külügyminisztereinek közös fotója Lavrov jelenléte miatt",
-    "lead_hu": "Az atlantai G20-külügyminiszteri találkozó résztvevői közös csoportkép nélkül kezdték meg az egyeztetést, miután európai képviselők tiltakoztak Szergej Lavrov orosz külügyminiszter jelenléte ellen. A megbeszélés a geopolitikai válságok gazdasági hatásairól és a decemberi vezetői csúcs előkészítéséről is szólt.",
-    "content_hu": "• **Pénteken, Atlantában** a G20 külügyminisztereinek találkozója közös csoportkép nélkül indult. Az amerikai külügyminisztérium közzétett programjában sem szerepelt ilyen fotó, a résztvevők pedig fényképezés nélkül kezdték meg az első ülést.\n\n• **Szergej Lavrov részvétele** váltotta ki az európai tiltakozást. Johann Wadephul német külügyminiszter a találkozó előtt arról beszélt, hogy az európai partnerek nem kívánnak közös képen szerepelni az orosz tárcavezetővel; korábban külön fotók lehetősége is felmerült.\n\n• **Huszonegy delegáció** vett részt az egyeztetésen: 19 ország képviselői mellett az Európai Uniót Kaja Kallas, az Afrikai Uniót pedig egy külön delegáció képviselte. Az orosz külügyminisztérium korábban arról számolt be, hogy a küldöttség vízumai késve készültek el, de az ügy végül rendeződött.\n\n• **Marco Rubio amerikai külügyminiszter** vezette a találkozót az Egyesült Államok G20-elnöksége keretében. Az egyeztetés céljai közé tartozott a decemberi vezetői csúcs előkészítése, amelyet Donald Trump Miami közelében, golfklubjában rendez meg.\n\n• **A globális válságok gazdasági következményei** szintén napirendre kerültek: a résztvevők a világgazdaságot, az ellátási láncokat, valamint az energia- és élelmiszer-biztonságot érintő kérdéseket vitatták meg. Az amerikai kormány a hajózás szabadságát biztosító G20-as vállalást is szorgalmazta, különös tekintettel a Hormuzi-szorosra.",
-    "title_ro": "Miniștrii de Externe ai G20 au renunțat la fotografia comună din cauza prezenței lui Lavrov",
-    "lead_ro": "Reuniunea miniștrilor de Externe ai G20 de la Atlanta a început fără fotografia tradițională de grup, după obiecțiile unor reprezentanți europeni față de participarea lui Serghei Lavrov. Discuțiile au vizat efectele crizelor geopolitice asupra economiei și pregătirea summitului liderilor din decembrie.",
-    "content_ro": "• **Vineri, la Atlanta**, reuniunea miniștrilor de Externe ai G20 a început fără o fotografie comună. Programul publicat de Departamentul de Stat al SUA nu prevedea un asemenea moment, iar participanții au intrat în prima sesiune fără să fie fotografiați împreună.\n\n• **Participarea lui Serghei Lavrov** a provocat obiecții din partea europenilor. Înaintea reuniunii, ministrul german de Externe, Johann Wadephul, a spus că partenerii europeni nu vor să apară într-o imagine comună cu omologul rus; anterior fusese luată în calcul și varianta unor fotografii separate.\n\n• **La întâlnire au fost prezente 21 de delegații**: reprezentanți ai 19 state, ai Uniunii Europene, prin Kaja Kallas, și ai Uniunii Africane. Ministerul rus de Externe anunțase că vizele delegației sale au fost eliberate cu întârziere, însă problema a fost soluționată înaintea reuniunii.\n\n• **Marco Rubio, secretarul de stat american**, a prezidat discuțiile în cadrul mandatului SUA la conducerea G20. Reuniunea a contribuit la pregătirea summitului liderilor programat în decembrie, pe care Donald Trump urmează să îl găzduiască la clubul său de golf din apropierea orașului Miami.\n\n• **Efectele crizelor geopolitice asupra economiei mondiale** s-au aflat, de asemenea, pe agenda discuțiilor. Participanții au abordat perturbările comerțului, ale lanțurilor de aprovizionare și ale securității energetice și alimentare. Administrația americană a urmărit obținerea unui angajament al G20 pentru protejarea libertății navigației, cu accent pe Strâmtoarea Ormuz."
-  },
-  {
     "group_id": "group_f0c2b969f6",
     "fingerprint": "47cd7e613c8b5e3ed2ea34d19522815b",
     "category": "Politika",
@@ -2651,12 +2659,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Maszol",
         "title": "Önkénteseket vár a család a Gyergyóban eltűnt idős férfi keresésére",
         "link": "https://maszol.ro/belfold/Onkenteseket-var-a-csalad-a-Gyergyoban-eltunt-idos-ferfi-keresesere"
+      },
+      {
+        "source": "Maszol",
+        "title": "Civil összefogással folytatják a Gyergyóban eltűnt idős férfi keresését",
+        "link": "https://maszol.ro/belfold/Civil-osszefogassal-folytatjak-a-Gyergyoban-eltunt-idos-ferfi-kereseset"
       }
     ],
     "published_at": 1793385720,
@@ -3313,12 +3326,22 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 3,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Fostul coleg al lui Radu Drăgușin revine după 17 luni: „Este o poveste incredibilă! Nu credeam că o să mai joc”",
         "link": "https://www.gsp.ro/international/campionate/fostul-coleg-al-lui-radu-dragusin-revine-dupa-17-luni-este-o-poveste-incredibila-nu-credeam-ca-o-sa-mai-joc-994086.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Fostul coleg al lui Radu Drăgușin revine după 17 luni: „Este o poveste incredibilă! Nu speram că o să mai joc”",
+        "link": "https://www.gsp.ro/international/campionate/fostul-coleg-al-lui-radu-dragusin-revine-dupa-17-luni-este-o-poveste-incredibila-nu-speram-ca-o-sa-mai-joc-994086.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Fostul coleg al lui Radu Drăgușin e gata să revină titular după 17 luni: „Este o poveste incredibilă! Nu speram că o să mai joc”",
+        "link": "https://www.gsp.ro/international/campionate/fostul-coleg-al-lui-radu-dragusin-e-gata-sa-revina-titular-dupa-17-luni-este-o-poveste-incredibila-nu-speram-ca-o-sa-mai-joc-994086.html"
       }
     ],
     "published_at": 1793383696,
@@ -3465,12 +3488,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Tailoring marchează un deceniu de excelență și începe un nou capitol alături de Alessandro Del Piero",
         "link": "https://www.gsp.ro/comercial/advertorial/tailoring-marcheaza-un-deceniu-de-excelenta-si-incepe-un-nou-capitol-alaturi-de-alessandro-del-piero-994089.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "VIGGO Tailoring marchează un deceniu de excelență și începe un nou capitol alături de Alessandro Del Piero",
+        "link": "https://www.gsp.ro/comercial/advertorial/viggo-tailoring-marcheaza-un-deceniu-de-excelenta-si-incepe-un-nou-capitol-alaturi-de-alessandro-del-piero-994089.html"
       }
     ],
     "published_at": 1793383526,
@@ -3934,39 +3962,6 @@
     "content_ro": "• **Peste 8 miliarde de euro din PNRR** ar putea fi asociate cererilor de plată cinci și șase. În discuțiile de la Bruxelles, ministrul Mihai Alexandru Ghigiu a abordat documentarea investițiilor deja realizate; Comisia solicită dovezi privind eficiența energetică, respectarea normelor de mediu și punerea proiectelor în funcțiune. România a cerut acceptarea unor documente emise ulterior, dacă acestea atestă rezultate obținute la timp.\n\n• **6 noiembrie** este termenul pentru transmiterea clarificărilor legate de PNRR; rezolvarea a aproximativ 2.400 de situații restante poate influența plățile. Autoritățile încearcă și să păstreze aproape 370 de milioane de euro din fondurile de coeziune, pentru care termenul măsurilor necesare este 31 decembrie.\n\n• **Prima rectificare bugetară a fost aprobată:** ținta de deficit a rămas la 6,2%, fără majorarea cheltuielilor totale. Pe baza unui PIB estimat la 2.086 de miliarde de lei, sănătatea a fost declarată prioritară; aproximativ 4 miliarde din cele 5 miliarde reținute la începutul anului au fost realocate. Casa de Asigurări de Sănătate mai solicită 6,4 miliarde de lei până la sfârșitul anului.\n\n• **Statul trebuie să finanțeze 70 de miliarde de lei în opt săptămâni.** Ministerele au cerut fonduri suplimentare de aproape 60 de miliarde, iar Frames estimează că plățile întârziate, dobânzile și penalitățile pot genera costuri de 10–15 milioane de lei pe zi, până la 450 de milioane lunar. Restanțele invocate includ 15 miliarde de lei pentru construcții, 5–8 miliarde pentru energie și aproape 13 miliarde pentru drepturi salariale stabilite definitiv.\n\n• **Economia României ar putea scădea cu 0,4%**, iar inflația a fost de 6,5% în septembrie; prognoza pentru finalul anului este de 6,4%. Prețul energiei electrice a crescut cu aproape 52% într-un an, iar pentru industrie se anticipează o contracție de 3,4% în 2026."
   },
   {
-    "group_id": "group_928ede55c5",
-    "fingerprint": "f2fb372af89d9fd003d3d3ff137d5e85",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Canada are de gând să participe la împrumutul de 90 de miliarde de euro acordat de UE Ucrainei",
-        "link": "https://www.digi24.ro/stiri/externe/canada-are-de-gand-sa-participe-la-imprumutul-de-90-de-miliarde-de-euro-acordat-de-ue-ucrainei-4015799"
-      },
-      {
-        "source": "Digi24",
-        "title": "Canada are de gând să participe la împrumutul de 90 de miliarde de euro acordat de UE Ucrainei",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/canada-are-de-gand-sa-participe-la-imprumutul-de-90-de-miliarde-de-euro-acordat-de-ue-ucrainei-4015799"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Canada intenționează să participe la împrumutul de 90 de miliarde de euro al UE pentru #Ucraina",
-        "link": "https://agerpres.ro/politic-extern/2026/10/30/canada-intentioneaza-sa-participe-la-imprumutul-de-90-de-miliarde-de-euro-al-ue-pentru-ucraina--1608611"
-      }
-    ],
-    "published_at": 1793382575,
-    "title_hu": "Kanada 500 millió euróval csatlakozna az Ukrajnának szánt uniós hitelhez",
-    "lead_hu": "Kanada részt vállalna az Európai Unió Ukrajnának biztosított, 90 milliárd eurós hiteléből: Mark Carney miniszterelnök 500 millió eurós hozzájárulást jelentett be. A megállapodást egy montreali csúcstalálkozó zárásakor ismertették, ahol stratégiai együttműködési megállapodásokat is kötöttek.",
-    "content_hu": "• **Kanada pénteken jelezte csatlakozási szándékát** az Ukrajnának szánt uniós hitelprogramhoz. Mark Carney miniszterelnök közlése szerint az ország 500 millió euróval járulna hozzá a finanszírozáshoz. A bejelentés egy kétnapos, Montrealban tartott csúcstalálkozó végén hangzott el.\n\n• **Az Európai Unió 90 milliárd eurós kölcsönt biztosított 2026–2027-re.** A keretből 45 milliárd eurót a következő évre terveztek. Az európai fél szerint ez az összeg nem fedezi teljes egészében Ukrajna szükségleteit, ezért további támogatási lehetőségeket keresnek a háborús erőfeszítések finanszírozására.\n\n• **A találkozón több stratégiai együttműködési megállapodást is aláírtak.** Kanada és az Európai Unió a kritikus ásványkincsekhez kapcsolódó területeken, valamint a mesterséges intelligencia fejlesztésében kívánja erősíteni kapcsolatait.\n\n• **Magyarország, Csehország és Szlovákia nem vállal részt a hitel költségeiből.** A három uniós tagállam úgy tárgyalt a konstrukcióról, hogy mentesüljön az ahhoz kapcsolódó kiadások finanszírozása alól.\n\n• **Az EU és tagállamai eddig összesen 231,5 milliárd euró támogatást mozgósítottak Ukrajna számára.** Ebből 117,3 milliárd euró uniós költségvetési forrás vagy garancia, 77,9 milliárd katonai segítség, 17 milliárd az unión belüli ukrán menekültek támogatása, 15,5 milliárd a tagállamoktól érkezett, 3,8 milliárd euró pedig befagyasztott orosz vagyonból származó bevétel.",
-    "title_ro": "Canada ar urma să contribuie cu 500 de milioane de euro la împrumutul UE pentru Ucraina",
-    "lead_ro": "Canada intenționează să participe la împrumutul de 90 de miliarde de euro acordat Ucrainei de Uniunea Europeană, cu o contribuție de 500 de milioane de euro, a anunțat premierul Mark Carney. Declarația a fost făcută la încheierea unui summit de două zile de la Montreal, unde au fost semnate și acorduri de cooperare strategică.",
-    "content_ro": "• **Canada și-a anunțat vineri intenția de a participa la finanțarea destinată Ucrainei.** Premierul Mark Carney a precizat că țara sa ar urma să contribuie cu 500 de milioane de euro la împrumutul european. Anunțul a fost făcut la finalul unei reuniuni de două zile organizate la Montreal.\n\n• **Împrumutul Uniunii Europene se ridică la 90 de miliarde de euro pentru perioada 2026–2027.** Din această sumă, 45 de miliarde de euro sunt prevăzute pentru anul următor. Potrivit informațiilor prezentate, finanțarea nu va acoperi toate nevoile Ucrainei, iar statele europene caută surse suplimentare pentru susținerea efortului de război al Kievului.\n\n• **Canada și Uniunea Europeană au semnat mai multe acorduri în domenii strategice.** Documentele vizează dezvoltarea cooperării privind resursele minerale critice și inteligența artificială.\n\n• **Ungaria, Cehia și Slovacia nu vor suporta costurile împrumutului.** Cele trei state membre au negociat să nu contribuie la cheltuielile asociate acestui mecanism financiar.\n\n• **Uniunea Europeană și statele sale membre au mobilizat până acum 231,5 miliarde de euro pentru Ucraina.** În total intră 117,3 miliarde de euro din bugetul UE sau garantate de acesta, 77,9 miliarde pentru asistență militară, 17 miliarde pentru refugiații aflați în interiorul Uniunii și 15,5 miliarde oferite de statele membre. Alte 3,8 miliarde de euro provin din veniturile generate de activele rusești înghețate."
-  },
-  {
     "group_id": "group_ae50113f0a",
     "category": "Általános",
     "is_synthesized": false,
@@ -4076,12 +4071,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Adevărul",
         "title": "Miliardarul ucrainean Rinat Ahmetov închide o importantă fabrică din România, după atacurile Rusiei din Ucraina. Urmează concedieri colective",
         "link": "https://adevarul.ro/stiri-locale/iasi/miliardarul-ucrainean-rinat-ahmetov-inchide-o-2567839.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Miliardarul ucrainean Rinat Ahmetov închide o importantă fabrică din România, după atacurile Rusiei din Ucraina. Urmează concedieri colective",
+        "link": "https://adevarul.ro/economie/miliardarul-ucrainean-rinat-ahmetov-inchide-o-2567839.html"
       }
     ],
     "published_at": 1793381989,
@@ -6482,12 +6482,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "România elimină taxa de 25 de lei la coletele de pe Shein și Temu, însă UE adaugă altele. Cât vor plăti clienții",
         "link": "https://stirileprotv.ro/stiri/financiar/romania-elimina-taxa-de-25-de-lei-la-coletele-de-pe-shein-si-temu-insa-ue-adauga-altele-cat-vor-plati-clientii-de-la-1-noiembrie.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "România elimina taxa de 25 de lei la coletele de pe Shein și Temu, însă UE adaugă altele. Cât vor plăti clienții de la 1 noiembrie",
+        "link": "https://stirileprotv.ro/divers/romania-elimina-taxa-de-25-de-lei-la-coletele-de-pe-shein-si-temu-insa-ue-adauga-altele-cat-vor-plati-clientii-de-la-1-noiembrie.html"
       }
     ],
     "published_at": 1793373919,
@@ -7065,12 +7070,17 @@
     "category": "Erdély",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Ebihoreanul (Nagyvárad/Bihar)",
         "title": "OTL: Anunț pentru vânzare prin licitație publică cu strigare pentru valorificarea deșeurilor metalice",
         "link": "https://www.ebihoreanul.ro/stiri/otl-anunt-pentru-vanzare-prin-licitatie-publica-cu-strigare-pentru-valorificarea-deseurilor-metalice-206224.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "OTL: Anunţ pentru vânzare prin licitaţie publică",
+        "link": "https://www.ebihoreanul.ro/stiri/otl-anunt-pentru-vanzare-prin-licitatie-publica-206223.html"
       }
     ],
     "published_at": 1793372820,
@@ -7344,39 +7354,6 @@
     "title_ro": "Boxpalete returnabile: în ce industrii reduc costurile logistice și cum alegi soluția potrivită? (P)",
     "lead_ro": "Cât te costă ambalajele folosite pentru transportul mărfurilor? Dacă lucrezi în producție, distribuție sau logistică, probabil știi că achiziția ambalajelor reprezintă doar o parte din costul total. A…",
     "content_ro": "Cât te costă ambalajele folosite pentru transportul mărfurilor? Dacă lucrezi în producție, distribuție sau logistică, probabil știi că achiziția ambalajelor reprezintă doar o parte din costul total. Ambalajele generează și alte costuri legate de transport sau reciclare. Pentru optimizarea costurilor contează inclusiv volumul pe care-l au când nu sunt utilizate, rezistența lor și ce se întâmplă cu ele după livrare."
-  },
-  {
-    "group_id": "group_cc91440cef",
-    "fingerprint": "a5c53e39e69af208e12ad13c17502256",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "CNAIR: De ce este preferată devierea traficului pe DN1 în timpul lucrărilor de pe A10",
-        "link": "https://www.mediafax.ro/social/cnair-de-ce-este-preferata-devierea-traficului-pe-dn1-in-timpul-lucrarilor-de-pe-a10-23834503"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "CNAIR: Devierea traficului de pe A10 pe DN1, o soluție mai bună pe durata lucrărilor de consolidare",
-        "link": "https://agerpres.ro/economic/2026/10/30/cnair-devierea-traficului-de-pe-a10-pe-dn1-o-solutie-mai-buna-pe-durata-lucrarilor-de-consolidare--1608411"
-      },
-      {
-        "source": "G4Media",
-        "title": "CNAIR explică situația de pe Autostrada A10, după devierea circulației pe DN1: Lucrările de consolidare ridică riscuri suplimentare pentru infrastructură și ar putea genera probleme de trafic și siguranță rutieră",
-        "link": "https://www.g4media.ro/cnair-explica-situatia-de-pe-autostrada-a10-dupa-devierea-circulatiei-pe-dn1-lucrarile-de-consolidare-ridica-riscuri-suplimentare-pentru-infrastructura-si-ar-putea-genera-probleme-de-trafic-si-sigur.html"
-      }
-    ],
-    "published_at": 1793371915,
-    "title_hu": "A DN1-re terelné a forgalmat a CNAIR az A10-es munkálatai alatt",
-    "lead_hu": "A CNAIR a munkaterületen kívüli útvonalat tartja biztonságosabbnak az A10-es felújításakor. Indokai között a torlódások, a munkagépek okozta rezgések, egy esetleges műszaki hiba és a csapadék miatt súlyosbodó útkárok szerepelnek.",
-    "content_hu": "• **A DN1-es kerülő** lehetővé tenné, hogy az A10-es érintett részén a javítási munkák a forgalom fenntartása nélkül folyjanak. A CNAIR szerint a munkaterület és a közlekedő járművek egyidejű jelenléte biztonsági és műszaki kockázatokat teremtene.\n\n• **A sebességkorlátozás** a mintegy tíz kilométeres szakaszon 130-ról 30 km/órára csökkentené a megengedett tempót. A hatóság szerint ez főként csúcsidőben okozhat jelentős torlódást, és visszafoghatja az autópálya forgalomáteresztő képességét.\n\n• **A munkagépek rezgései** tovább terhelhetik a már károsodott útszerkezetet. A CNAIR a bontókalapácsokat, tömörítőgépeket és kotrógépeket is megnevezi; ezek rázkódása a munkálatok mellett tovább használt útpálya állapotát is ronthatja.\n\n• **Egy meghibásodás** a leállósáv munkaterület miatti kiesésekor az egész forgalmat megakaszthatja. Egy lerobbant teherautó vagy mozgásképtelen személyautó eltorlaszolhatja az utat, miközben a sürgősségi egységek és a műszaki mentést végző járművek hozzáférése is nehezebbé válhat.\n\n• **Az eső és a korlátozások megszegése** további veszélyt jelenthet. A 30 km/órás limit figyelmen kívül hagyása hirtelen fékezéshez és koccanáshoz vezethet, a feltárt alsó útrétegekbe pedig heves esőzéskor víz szivároghat. A CNAIR olyan repedésekről is beszámol, amelyek kialakulásában a víz és a földcsuszamlás szerepet játszhatott.",
-    "title_ro": "CNAIR preferă devierea pe DN1 în timpul lucrărilor de pe A10",
-    "lead_ro": "CNAIR consideră că traficul ar trebui scos de pe sectorul A10 aflat în reparații. Instituția invocă riscul de ambuteiaje, vibrațiile utilajelor, blocarea drumului în cazul unei avarii și posibila agravare a degradărilor din cauza apei.",
-    "content_ro": "• **Devierea pe DN1** ar permite executarea lucrărilor pe sectorul afectat al autostrăzii fără circulație în zona șantierului. CNAIR apreciază că prezența simultană a echipelor și a vehiculelor ar aduce riscuri atât pentru siguranță, cât și pentru starea drumului.\n\n• **Limitarea vitezei** de la 130 la 30 km/h s-ar aplica pe o porțiune de aproximativ zece kilometri. Potrivit CNAIR, măsura ar putea provoca blocaje mai ales la orele aglomerate și ar reduce capacitatea autostrăzii de a prelua traficul.\n\n• **Vibrațiile utilajelor** pot solicita suplimentar o structură rutieră deja deteriorată. CNAIR menționează picamerele, compactoarele și excavatoarele, ale căror trepidații ar putea afecta inclusiv partea de drum utilizată în continuare de șoferi.\n\n• **O avarie** ar putea opri circulația dacă banda de urgență nu este disponibilă din cauza restricțiilor. Un camion defect sau un autoturism rămas imobilizat ar putea bloca trecerea, iar accesul echipajelor de intervenție și al platformelor de tractare ar deveni mai dificil.\n\n• **Ploile și nerespectarea limitei** pot spori pericolele. Depășirea vitezei de 30 km/h poate duce la frânări bruște și tamponări, iar precipitațiile abundente pot permite apei să ajungă la straturile inferioare expuse. CNAIR indică fisuri într-o zonă unde apa și alunecările de teren ar fi putut contribui la degradarea drumului."
   },
   {
     "group_id": "group_b7ba449f9e",
@@ -8190,12 +8167,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Adevărul",
         "title": "Ediție specială de Halloween, cu Daniel David. Ne îngrozim împreună de sărăcia tinerilor, în livestream-ul „trends”",
         "link": "https://adevarul.ro/stiri-interne/societate/editie-speciala-de-halloween-cu-daniel-david-ne-2567776.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ediție specială de Halloween, cu Daniel David. Ne îngrozim împreună de sărăcia tinerilor, în livestream-ul „trends”",
+        "link": "https://adevarul.ro/video/trends/editie-speciala-de-halloween-cu-daniel-david-ne-2567776.html"
       }
     ],
     "published_at": 1793369924,
@@ -8760,12 +8742,17 @@
     "category": "Gazdaság",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Provocarea celor 100 de plicuri. Metoda simplă prin care poți economisi 5.050 de euro în aproximativ trei luni, fără efort",
         "link": "https://stirileprotv.ro/divers/provocarea-celor-100-de-plicuri-metoda-simpla-prin-care-poti-economisi-5-050-de-euro-in-aproximativ-trei-luni-fara-efort.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Provocarea celor 100 de plicuri. Metoda simplă prin care poți economisi 5.050 de lei în aproximativ trei luni, fără efort",
+        "link": "https://stirileprotv.ro/divers/provocarea-celor-100-de-plicuri-metoda-simpla-prin-care-poti-economisi-5-050-de-lei-in-aproximativ-trei-luni-fara-efort.html"
       }
     ],
     "published_at": 1793368117,
@@ -9091,27 +9078,6 @@
     "title_ro": "Fostul campion cu Rapid intervine în scandalul Săpunaru - Niță: „N-a avut dreptate?”",
     "lead_ro": "Daniel Niculae (44 de ani), fost atacant și președinte al Rapidului, și-a expus opinia în legătură cu schimbul recent de replici dintre Cristian Săpunaru și Robert Niță. CONTEXT: Cristi Săpunaru a cri…",
     "content_ro": "Daniel Niculae (44 de ani), fost atacant și președinte al Rapidului, și-a expus opinia în legătură cu schimbul recent de replici dintre Cristian Săpunaru și Robert Niță. CONTEXT: Cristi Săpunaru a criticat mesajul transmis de Daniel Pancu înaintea derby-ului pierdut cu FCSB (1-4), referitor la evitarea intrărilor periculoase și a eliminărilor. Ulterior, Robert Niță a intervenit în apărarea antrenorului giuleștean. A urmat un schimbt de replici care a degenerat. ..."
-  },
-  {
-    "group_id": "group_4ad0ab2aeb",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Mihai Stoica, conflict pe stadion după Bistrița - FCSB » De unde a pornit totul",
-        "link": "https://www.gsp.ro/fotbal/cupa-romaniei/mihai-stoica-conflict-stadion-bistrita-fcsb-993993.html"
-      }
-    ],
-    "published_at": 1793367023,
-    "title_hu": "Mihai Stoica, conflict pe stadion după Beszterce - FCSB » De unde a pornit totul",
-    "lead_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a porn…",
-    "content_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a pornit după ce Florin Cilică, realizator radio în Beszterce și fan al Gloriei, a țipat după oficialul roș-albaștrilor la finalul partidei. ...",
-    "title_ro": "Mihai Stoica, conflict pe stadion după Bistrița - FCSB » De unde a pornit totul",
-    "lead_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a porn…",
-    "content_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a pornit după ce Florin Cilică, realizator radio în Beszterce și fan al Gloriei, a țipat după oficialul roș-albaștrilor la finalul partidei. ..."
   },
   {
     "group_id": "group_d508185e12",
@@ -10531,12 +10497,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Ratează EURO 2028! Procesul atacantului englez, programat chiar la startul turneului final:„Așteaptă să își curețe numele!”",
         "link": "https://www.gsp.ro/international/campionate/rateaza-euro-2028-procesul-atacantului-englez-programat-chiar-la-startul-turneului-finalasteapta-sa-isi-curete-numele-993974.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ratează EURO 2028! Procesul atacantului englez, programat chiar la startul turneului final: „Așteaptă să își curețe numele!”",
+        "link": "https://www.gsp.ro/international/campionate/rateaza-euro-2028-procesul-atacantului-englez-programat-chiar-la-startul-turneului-final-asteapta-sa-isi-curete-numele-993974.html"
       }
     ],
     "published_at": 1793364073,
@@ -11906,12 +11877,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Andrei Nicolescu, despre revenirea lui Florin Răducioiu la Dinamo: „Ne gândim la cea mai bună poziție”",
         "link": "https://www.gsp.ro/fotbal/liga-1/andrei-nicolescu-revenirea-lui-florin-raducioiu-la-dinamo-993954.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Legenda lui Dinamo analizează revenirea lui Răducioiu în „haită”: „Poate să fie folosit”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/l-a-avut-elev-pe-florin-raducioiu-la-dinamo-si-vede-cu-ochi-buni-revenirea-lui-poate-sa-fie-folosit-993917.html"
       }
     ],
     "published_at": 1793360449,
@@ -12361,12 +12337,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "The Minister of Economy announces measures targeting three state-owned companies",
         "link": "https://www.mediafax.ro/english/the-minister-of-economy-announces-measures-targeting-three-state-owned-companies-23834545"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Trei companii strategice ale statului, în vizorul ministrului Economiei. Acuzații privind activele și indemnizațiile conducerii",
+        "link": "https://www.mediafax.ro/economic/trei-companii-strategice-ale-statului-in-vizorul-ministrului-economiei-acuzatii-privind-activele-si-indemnizatiile-conducerii-23834376"
       }
     ],
     "published_at": 1793359103,
@@ -12494,12 +12475,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Romania notified the OSCE after the Carfil sabotage. Over 40 states expressed their solidarity",
         "link": "https://www.mediafax.ro/english/romania-notified-the-osce-after-the-carfil-sabotage-over-40-states-expressed-their-solidarity-23834525"
+      },
+      {
+        "source": "Mediafax",
+        "title": "România a sesizat OSCE după sabotajul de la Carfil. Peste 40 de state și-au exprimat solidaritatea",
+        "link": "https://www.mediafax.ro/politic/romania-a-sesizat-osce-dupa-sabotajul-de-la-carfil-peste-40-de-state-si-au-exprimat-solidaritatea-23834427"
       }
     ],
     "published_at": 1793358902,
@@ -13359,12 +13345,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Pentru al patrulea an consecutiv, în România s-au întors mai mulți români decât au plecat",
         "link": "https://www.digi24.ro/stiri/actualitate/pentru-al-patrulea-an-consecutiv-in-romania-s-au-intors-mai-multi-romani-decat-au-plecat-4015003"
+      },
+      {
+        "source": "Digi24",
+        "title": "Pentru al patrulea an consecutiv, în România s-au întors mai mulți români decât au plecat",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/pentru-al-patrulea-an-consecutiv-in-romania-s-au-intors-mai-multi-romani-decat-au-plecat-4015003"
       }
     ],
     "published_at": 1793356102,
@@ -16003,27 +15994,6 @@
     "content_ro": "Dan Tăpălagă susține că Sorin Grindeanu ar putea folosi reforma administrativă pentru a pregăti înlocuirea premierului Luca Niculescu. Acesta a explicat cum ar putea PSD să transforme o eventuală plecare a șefului Guvernului într-un avantaj de imagine. Jurnalistul analizează rolul AUR într-o posibilă revenire a social-democraților la guvernare. Urmăriți emisiunea integrală pe YouTube. „Sorin Grindeanu […] © G4Media.ro."
   },
   {
-    "group_id": "group_5125c9ca1c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Edouard Philippe și Gabriel Attal, împotmoliți într-o campanie prezidențială anevoioasă, încearcă să recupereze pierderea de influență",
-        "link": "https://www.g4media.ro/edouard-philippe-si-gabriel-attal-impotmoliti-intr-o-campanie-prezidentiala-anevoioasa-incearca-sa-recupereze-pierderea-de-influenta.html"
-      }
-    ],
-    "published_at": 1793350297,
-    "title_hu": "Edouard Philippe și Gabriel Attal, împotmoliți într-o campanie prezidențială anevoioasă, încearcă să recupereze pierderea de influență",
-    "lead_hu": "Analiză LE MONDE (Franța), via Rador: Aflați în plină campanie prezidențială, în cadrul căreia se confruntă pentru conducerea blocului de centru, rareori Gabriel Attal și Edouard Philippe găsesc un nu…",
-    "content_hu": "Analiză LE MONDE (Franța), via Rador: Aflați în plină campanie prezidențială, în cadrul căreia se confruntă pentru conducerea blocului de centru, rareori Gabriel Attal și Edouard Philippe găsesc un numitor comun. Însă, în fața impasului crizei generate de mișcarea liceenilor, amplificată de eșecul gestionării manifestației din 17 octombrie, echipele lor au ajuns la aceeași concluzie. […] © G4Media.ro.",
-    "title_ro": "Edouard Philippe și Gabriel Attal, împotmoliți într-o campanie prezidențială anevoioasă, încearcă să recupereze pierderea de influență",
-    "lead_ro": "Analiză LE MONDE (Franța), via Rador: Aflați în plină campanie prezidențială, în cadrul căreia se confruntă pentru conducerea blocului de centru, rareori Gabriel Attal și Edouard Philippe găsesc un nu…",
-    "content_ro": "Analiză LE MONDE (Franța), via Rador: Aflați în plină campanie prezidențială, în cadrul căreia se confruntă pentru conducerea blocului de centru, rareori Gabriel Attal și Edouard Philippe găsesc un numitor comun. Însă, în fața impasului crizei generate de mișcarea liceenilor, amplificată de eșecul gestionării manifestației din 17 octombrie, echipele lor au ajuns la aceeași concluzie. […] © G4Media.ro."
-  },
-  {
     "group_id": "group_54f6634705",
     "category": "Általános",
     "is_synthesized": false,
@@ -17433,12 +17403,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Daniel Niculae vine la GSP Live: rezultate-surpriză în Cupa României",
         "link": "https://www.gsp.ro/gsp-special/media/daniel-niculae-vine-la-gsp-live-rezultate-surpriza-in-cupa-romaniei-993873.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Daniel Niculae, invitatul zilei la GSP Live",
+        "link": "https://www.gsp.ro/gsp-special/media/daniel-niculae-invitatul-zilei-la-gsp-live-993873.html"
       }
     ],
     "published_at": 1793346077,
@@ -17629,12 +17604,17 @@
     "category": "Bulvár",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Cancan.ro",
         "title": "Valeria Lungu a vrut să își anuleze nunta! Cum a traumatizat-o experiența Asia Express: „Ne-a afectat foarte mult”",
         "link": "https://www.cancan.ro/valeria-lungu-a-vrut-sa-isi-anuleze-nunta-cum-a-traumatizat-o-experienta-asia-express-ne-a-afectat-foarte-mult-21538839"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Valerie Lungu a vrut să își anuleze nunta! Cum a traumatizat-o experiența Asia Express: „Ne-a afectat foarte mult”",
+        "link": "https://www.cancan.ro/valerie-lungu-a-vrut-sa-isi-anuleze-nunta-cum-a-traumatizat-o-experienta-asia-express-ne-a-afectat-foarte-mult-21538839"
       }
     ],
     "published_at": 1793345049,
@@ -18169,12 +18149,17 @@
     "category": "Erdély",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "PresaSM (Szatmár)",
         "title": "Aproape 100 de controale în gospodăriile din Satu Mare. Șapte proprietari de animale, sancționați de DSVSA",
         "link": "https://www.presasm.ro/aproape-100-de-controale-in-gospodariile-din-satu-mare-sapte-proprietari-de-animale-sanctionati-de/54054"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Amenzi de 10.000 de lei aplicate de DSVSA Satu Mare în urma controalelor. Un bar, sancționat pentru probleme de igienă",
+        "link": "https://www.presasm.ro/amenzi-de-10-000-de-lei-aplicate-de-dsvsa-satu-mare-in-urma-controalelor-un-bar-sanctionat-pentru/54053"
       }
     ],
     "published_at": 1793343480,
@@ -19101,12 +19086,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Colectiv, la 11 ani de la incendiu. Care e stadiul celor trei Centre de Mari Arşi şi când vor fi operaţionale",
         "link": "https://stirileprotv.ro/stiri/actualitate/colectiv-la-11-ani-de-la-incendiu-care-e-stadiul-celor-trei-centre-de-mari-arsi-si-cand-vor-fi-opera-ionale.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Colectiv, la 11 ani de la incendiu. Care e stadiul celor trei Centre de Mari Arşi şi când vor fi operaţionale",
+        "link": "https://stirileprotv.ro/stiri/incendiu-in-colectiv/colectiv-la-11-ani-de-la-incendiu-care-e-stadiul-celor-trei-centre-de-mari-arsi-si-cand-vor-fi-opera-ionale.html"
       }
     ],
     "published_at": 1793339416,
@@ -19570,12 +19560,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "G4Media",
         "title": "Revolta primarilor PSD Iași după comasarea comunelor cerută de propriul Guvern: „Dispare un brand de țară” / ”Nu stau în salariul de primar, pentru mine nu e o problemă”",
         "link": "https://www.g4media.ro/revolta-primarilor-psd-iasi-dupa-comasarea-comunelor-ceruta-de-propriul-guvern-dispare-un-brand-de-tara-nu-stau-in-salariul-de-primar-pentru-mine-nu-e-o-problema.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Revolta primarilor PSD Iași după comasarea comunelor cerută de propriul Guvern: „Dacă dispare Cucuteni, dispare un brand de țară” / ”Nu stau în salariul de primar, pentru mine nu e o problemă”",
+        "link": "https://www.g4media.ro/revolta-primarilor-psd-iasi-dupa-comasarea-comunelor-ceruta-de-propriul-guvern-daca-dispare-cucuteni-dispare-un-brand-de-tara-nu-stau-in-salariul-de-primar-pentru-mine.html"
       }
     ],
     "published_at": 1793336501,
@@ -19753,27 +19748,6 @@
     "title_ro": "Rusia nu a reușit să înlocuiască microcipurile americane din rachetele sale. Ucraina cere sancțiuni mai dure",
     "lead_ro": "Rusia continuă să utilizeze microcipuri americane în producția de rachete balistice și de croazieră, deoarece nu a reușit încă să le înlocuiască cu componente rusești, a declarat Vladislav Vlasyuk, re…",
     "content_ro": "Rusia continuă să utilizeze microcipuri americane în producția de rachete balistice și de croazieră, deoarece nu a reușit încă să le înlocuiască cu componente rusești, a declarat Vladislav Vlasyuk, reprezentantul președintelui Ucrainei pentru politica sancțiunilor, potrivit agenției Interfax-Ucraina."
-  },
-  {
-    "group_id": "group_fa4287a651",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Fred Lebow, evreul născut în România care a transformat maratonul de la New York într-un fenomen mondial. Povestea unui copil din Arad",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/fred-lebow-evreul-nascut-in-romania-care-a-transformat-maratonul-de-la-new-york-intr-un-fenomen-mondial-povestea-unui-copil-din-arad-4010099"
-      }
-    ],
-    "published_at": 1793336402,
-    "title_hu": "Fred Lebow, evreul născut în România care a transformat maratonul de la New York într-un fenomen mondial. Povestea unui copil din Arad",
-    "lead_hu": "S-a născut în România, într-o familie de evrei, a cunoscut persecuțiile Holocaustului, a fugit din Europa după război și a ajuns în America fără să bănuiască faptul că avea să schimbe istoria sportulu…",
-    "content_hu": "S-a născut în România, într-o familie de evrei, a cunoscut persecuțiile Holocaustului, a fugit din Europa după război și a ajuns în America fără să bănuiască faptul că avea să schimbe istoria sportului. Fred Lebow, născut Fischel Lebowitz la Arad, în 1932, este omul care a transformat maratonul de la New York dintr-o întrecere modestă, desfășurată în Central Park, într-un spectacol urmărit de întreaga lume. A murit la 62 de ani, răpus de cancer, după ce a alergat pentru ultima dată cei 42 de kilometri alături de una dintre cele mai mari campioane ale atletismului.",
-    "title_ro": "Fred Lebow, evreul născut în România care a transformat maratonul de la New York într-un fenomen mondial. Povestea unui copil din Arad",
-    "lead_ro": "S-a născut în România, într-o familie de evrei, a cunoscut persecuțiile Holocaustului, a fugit din Europa după război și a ajuns în America fără să bănuiască faptul că avea să schimbe istoria sportulu…",
-    "content_ro": "S-a născut în România, într-o familie de evrei, a cunoscut persecuțiile Holocaustului, a fugit din Europa după război și a ajuns în America fără să bănuiască faptul că avea să schimbe istoria sportului. Fred Lebow, născut Fischel Lebowitz la Arad, în 1932, este omul care a transformat maratonul de la New York dintr-o întrecere modestă, desfășurată în Central Park, într-un spectacol urmărit de întreaga lume. A murit la 62 de ani, răpus de cancer, după ce a alergat pentru ultima dată cei 42 de kilometri alături de una dintre cele mai mari campioane ale atletismului."
   },
   {
     "group_id": "group_87c8abd2b0",
@@ -20007,27 +19981,6 @@
     "content_ro": "Hipertensiunea arterială pulmonară (HTAP) este o boală rară, gravă și progresivă, care afectează vasele de sânge din plămâni și pune presiune suplimentară asupra inimii. Pentru persoanele diagnosticate, activități obișnuite, precum mersul pe jos sau urcatul scărilor, pot deveni tot mai dificile."
   },
   {
-    "group_id": "group_a3206370ae",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Programul Tomata a crescut suprafețele cultivate, dar nu a rezolvat problema pieței pentru legumicultori",
-        "link": "https://adevarul.ro/stiri-locale/slatina/programul-tomata-a-crescut-suprafetele-cultivate-2566718.html"
-      }
-    ],
-    "published_at": 1793329225,
-    "title_hu": "Programul Tomata a crescut suprafețele cultivate, dar nu a rezolvat problema pieței pentru legumicultori",
-    "lead_hu": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, î…",
-    "content_hu": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, întrebarea „Unde ne vindem roșiile?” a rămas.",
-    "title_ro": "Programul Tomata a crescut suprafețele cultivate, dar nu a rezolvat problema pieței pentru legumicultori",
-    "lead_ro": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, î…",
-    "content_ro": "Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, întrebarea „Unde ne vindem roșiile?” a rămas."
-  },
-  {
     "group_id": "group_7492fc2fb1",
     "category": "Általános",
     "is_synthesized": false,
@@ -20160,7 +20113,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -20171,6 +20124,11 @@
         "source": "Digi24",
         "title": "„Fotografia de grup” a G20 a fost anulată din cauza lui Serghei Lavrov: proteste ale europenilor față de prezența rusului",
         "link": "https://www.digi24.ro/stiri/externe/fotografia-de-grup-a-g20-a-fost-anulata-din-cauza-lui-serghei-lavrov-proteste-ale-europenilor-fata-de-prezenta-rusului-4015879"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Scandal la reuniunea G20: Marco Rubio a anulat fotografia oficială după ce europenii au refuzat să apară alături de Serghei Lavrov",
+        "link": "https://www.mediafax.ro/externe/scandal-la-reuniunea-g20-marco-rubio-a-anulat-fotografia-oficiala-dupa-ce-europenii-au-refuzat-sa-apara-alaturi-de-serghei-lavrov-23835006"
       }
     ],
     "published_at": 1793388615,
@@ -20393,48 +20351,6 @@
     "title_ro": "Facultăți de viitor în 2027. Cum îți alegi facultatea în era AI",
     "lead_ro": "Dacă te pregătești să alegi o facultate în 2027, merită să te întrebi ce specializări îți pot oferi cele mai bune perspective de carieră într-o lume tot mai influențată de inteligența artificială.",
     "content_ro": "Dacă te pregătești să alegi o facultate în 2027, merită să te întrebi ce specializări îți pot oferi cele mai bune perspective de carieră într-o lume tot mai influențată de inteligența artificială."
-  },
-  {
-    "group_id": "group_76eb0133c0",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "EFEMERIDE ASTRONOMICE - 30 octombrie",
-        "link": "https://agerpres.ro/documentare/2026/10/30/efemeride-astronomice---30-octombrie--1608253"
-      }
-    ],
-    "published_at": 1793318400,
-    "title_hu": "EFEMERIDE ASTRONOMICE - 30 octombrie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "EFEMERIDE ASTRONOMICE - 30 octombrie",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_4c9309d996",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "ROBOFEST, la Politehnica la sfârșitul săptămânii: Peste 260 de echipe, din 34 de țări",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/10/30/robofest-la-politehnica-la-sfarsitul-saptamanii-peste-260-de-echipe-din-34-de-tari--1606752"
-      }
-    ],
-    "published_at": 1793318400,
-    "title_hu": "ROBOFEST, la Politehnica la sfârșitul săptămânii: Peste 260 de echipe, din 34 de țări",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "ROBOFEST, la Politehnica la sfârșitul săptămânii: Peste 260 de echipe, din 34 de țări",
-    "lead_ro": "",
-    "content_ro": ""
   },
   {
     "group_id": "group_ff84f83166",
@@ -22136,26 +22052,5 @@
     "title_ro": "Gorghiu: Registrul agresorilor și brățară odată cu ordinul de protecție, în lucru la Comisia 'România fără violență domestică'",
     "lead_ro": "",
     "content_ro": ""
-  },
-  {
-    "group_id": "group_e2525f657b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Nu mai au nevoie de spioni profesioniști. Noua tactică a Rusiei pentru sabotaje în România, explicată de un general NATO",
-        "link": "https://adevarul.ro/securitate-si-aparare/nu-mai-au-nevoie-de-spioni-profesionisti-noua-2567506.html"
-      }
-    ],
-    "published_at": 1793316625,
-    "title_hu": "Nu mai au nevoie de spioni profesioniști. Noua tactică a Rusiei pentru sabotaje în România, explicată de un general NATO",
-    "lead_hu": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adec…",
-    "content_hu": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adecvate și a unui control civil eficient lasă țara descoperită.",
-    "title_ro": "Nu mai au nevoie de spioni profesioniști. Noua tactică a Rusiei pentru sabotaje în România, explicată de un general NATO",
-    "lead_ro": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adec…",
-    "content_ro": "Tentativa de sabotaj de la fabrica Carfil din Brassó scoate la iveală vulnerabilitățile majore ale României în fața războiului hibrid. Un general NATO avertizează că lipsa unor unelte legislative adecvate și a unui control civil eficient lasă țara descoperită."
   }
 ]
