@@ -18,7 +18,7 @@
   {
     "group_id": "group_f6dc971e7a",
     "category": "Általános",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -46,15 +46,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793423489
-      },
-      {
-        "source": "Transtelex",
-        "title": "500 darab Patriot elfogórakétát ad Ukrajnának az Egyesült Államok",
-        "link": "https://transtelex.ro/kulfold/2026/10/30/ukrajna-egyesult-allamok-patriot-raketa-vedelem-jovahagyas",
-        "summary": "2,1 milliárd dollár értékben kaphat védelmi eszközöket Ukrajna.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793400553
       },
       {
         "source": "Digi24",
@@ -9491,7 +9482,7 @@
   {
     "group_id": "group_2ff553dd5c",
     "category": "Sport",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -9501,6 +9492,15 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793469166
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Atanas Trică a marcat primul său gol pentru AEK Larnaca",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/fotbal-atanas-trica-a-marcat-primul-sau-gol-pentru-aek-larnaca--1608788",
+        "summary": "",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793404800
       }
     ]
   },
@@ -11063,6 +11063,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793486066
+      }
+    ]
+  },
+  {
+    "group_id": "group_fce748f0e0",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Kairat a remizat în ultima etapă a sezonului în Kazahstan",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/fotbal-kairat-a-remizat-in-ultima-etapa-a-sezonului-in-kazahstan--1608787",
+        "summary": "",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793404800
       }
     ]
   }
