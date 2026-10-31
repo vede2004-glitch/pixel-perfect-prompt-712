@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_85537714dc",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Scene incredibile în Alexandria. Un poliţist plimbă bebeluşul de o lună abandonat în cărucior, în timp ce părinţii se ceartă pe stradă",
+        "link": "https://adevarul.ro/stiri-locale/alexandria/scene-incredibile-in-alexandria-un-politist-2567997.html"
+      }
+    ],
+    "published_at": 1793474663,
+    "title_hu": "Scene incredibile în Alexandria. Un poliţist plimbă bebeluşul de o lună abandonat în cărucior, în timp ce părinţii se ceartă pe stradă",
+    "lead_hu": "Un copil de numai o lună a rămas în cărucior, în frig și burniță, în timp ce părinții lui făceau scandal pe o stradă din Alexandria. În cele din urmă, a ajuns neînsoţit de niciunul dintre ei la spital...",
+    "content_hu": "Un copil de numai o lună a rămas în cărucior, în frig și burniță, în timp ce părinții lui făceau scandal pe o stradă din Alexandria. În cele din urmă, a ajuns neînsoţit de niciunul dintre ei la spital, ambii fiind luaţi de poliţişti şi duşi la psihiatrie.",
+    "title_ro": "Scene incredibile în Alexandria. Un poliţist plimbă bebeluşul de o lună abandonat în cărucior, în timp ce părinţii se ceartă pe stradă",
+    "lead_ro": "Un copil de numai o lună a rămas în cărucior, în frig și burniță, în timp ce părinții lui făceau scandal pe o stradă din Alexandria. În cele din urmă, a ajuns neînsoţit de niciunul dintre ei la spital...",
+    "content_ro": "Un copil de numai o lună a rămas în cărucior, în frig și burniță, în timp ce părinții lui făceau scandal pe o stradă din Alexandria. În cele din urmă, a ajuns neînsoţit de niciunul dintre ei la spital, ambii fiind luaţi de poliţişti şi duşi la psihiatrie."
+  },
+  {
     "group_id": "group_fdda66e4fd",
     "category": "Általános",
     "is_synthesized": false,
@@ -333,7 +354,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 17,
+    "sources_count": 18,
     "sources": [
       {
         "source": "Mediafax",
@@ -419,6 +440,11 @@
         "source": "HotNews.ro",
         "title": "„România contribuie concret la edificarea NATO 3.0”. Mesajul ministrului de Externe după incursiunea dronelor în spațiul aerian românesc",
         "link": "https://hotnews.ro/romania-contribuie-concret-la-edificarea-nato-3-0-mesajul-ministrului-de-externe-dupa-incursiunea-dronelor-in-spatiul-aerian-romanesc-2391657"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ministrul Neculăescu: Piloţii Forțelor Aeriene au reacţionat prompt şi cu profesionalism în cazul dronelor intrate în spațiul aerian",
+        "link": "https://www.digi24.ro/stiri/actualitate/ministrul-neculaescu-pilotii-fortelor-aeriene-au-reactionat-prompt-si-cu-profesionalism-in-cazul-dronelor-intrate-in-spatiul-aerian-4016749"
       }
     ],
     "published_at": 1793472267,
@@ -2704,7 +2730,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Mediafax",
@@ -2725,6 +2751,11 @@
         "source": "GSP - Gazeta Sporturilor",
         "title": "Nu va fi finală Carlos Alcaraz - Alexander Zverev la Viena! Germanul, eliminat în semifinală după ce s-a plâns de mingi",
         "link": "https://www.gsp.ro/sporturi/tenis/alexander-zverev-infrangere-semifinala-viena-994446.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Zverev, eliminat în semifinale la Viena de Alex de Minaur. Australianul va juca finala cu Alcaraz",
+        "link": "https://www.mediafax.ro/sport/zverev-eliminat-in-semifinale-la-viena-de-alex-de-minaur-australianul-va-juca-finala-cu-alcaraz-23835242"
       }
     ],
     "published_at": 1793462552,
@@ -5135,12 +5166,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Adevărul",
         "title": "Cât ar trebui să fie rata la apartament din venitul familiei. Recomandarea lui Șerban Trîmbițașu",
         "link": "https://adevarul.ro/economie/cat-ar-trebui-sa-fie-rata-la-apartament-din-2567788.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "11.000 de lei pe lună, suma necesară pentru o familie cu doi copii ca să trăiască decent în România. Ce spune ministrul Muncii",
+        "link": "https://www.mediafax.ro/social/11-000-de-lei-pe-luna-suma-necesara-pentru-o-familie-cu-doi-copii-ca-sa-traiasca-decent-in-romania-ce-spune-ministrul-muncii-23835245"
       }
     ],
     "published_at": 1793451964,
@@ -11460,12 +11496,17 @@
     "category": "Erdély",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Ebihoreanul (Nagyvárad/Bihar)",
         "title": "CSM Oradea joacă la București cu Rapid. Kris Richard este la 8 puncte de o bornă istorică",
         "link": "https://www.ebihoreanul.ro/stiri/csm-oradea-joaca-la-bucuresti-cu-rapid-kris-richard-este-la-8-puncte-de-o-borna-istorica-206246.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "CSM Oradea, învinsă de Rapid București după ce a condus la pauză. Kris Richard a depășit borna de 4.000 de puncte",
+        "link": "https://www.ebihoreanul.ro/stiri/csm-oradea-invinsa-de-rapid-bucuresti-dupa-ce-a-condus-la-pauza-kris-richard-a-depasit-borna-de-4000-de-puncte-206257.html"
       }
     ],
     "published_at": 1793396400,
@@ -12645,69 +12686,6 @@
     "title_ro": "Șase proiectile neexplodate, găsite pe traseul viitoarei autostrăzi A8",
     "lead_ro": "La 29 octombrie 2026, în apropiere de Bogonos, pe traseul planificat al autostrăzii A8, au fost descoperite șase proiectile explozive de 150 mm. Echipele de specialitate le-au transportat în siguranță, iar distrugerea lor va avea loc ulterior.",
     "content_ro": "• **La 29 octombrie 2026**, pirotehniști din județul Iași au cercetat și curățat de muniție o porțiune de pe traseul planificat al autostrăzii A8. Intervenția s-a desfășurat în Bogonos, localitate din comuna Lețcani, unde au fost identificate șase proiectile explozive.\n\n• **Proiectilele aveau calibrul de 150 mm** și proveneau din conflicte armate anterioare. Acestea nu explodaseră, iar specialiștii le-au adunat și le-au transportat în condiții de siguranță.\n\n• **La intervenție a participat echipa pirotehnică a Detașamentului 2 de Pompieri Iași.** Inspectoratul pentru Situații de Urgență al județului poartă numele „Mihail Sturdza”; instituția a făcut publice informațiile vineri seară, după misiunea desfășurată joi.\n\n• **Neutralizarea muniției este prevăzută într-o etapă ulterioară.** Distrugerea proiectilelor transportate va fi realizată în cadrul unei operațiuni distincte, de personal specializat.\n\n• **În zona Bogonos au mai fost găsite elemente de muniție neexplodată în zilele precedente.** Cele șase proiectile reprezintă o descoperire suplimentară de-a lungul traseului viitoarei autostrăzi. ISU Iași avertizează că astfel de muniții pot pune în pericol oamenii, indiferent de vechimea, starea sau locul în care sunt găsite."
-  },
-  {
-    "group_id": "group_f0c2b969f6",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Val de eliberări din funcție ale prefecților și subprefecților, după instalarea Guvernului Niculescu. Lista cu cei schimbați",
-        "link": "https://stirileprotv.ro/stiri/politic/val-de-eliberari-din-functie-ale-prefectilor-si-subprefectilor-dupa-instalarea-guvernului-niculescu-44-de-schimbari-in-teritoriu.html"
-      }
-    ],
-    "published_at": 1793388547,
-    "title_hu": "Val de eliberări din funcție ale prefecților și subprefecților, după instalarea Guvernului Niculescu. Lista cu cei schimbați",
-    "lead_hu": "Guvernul a adoptat, în şedinţa de vineri, mai multe hotărâri pentru numirea unor prefecţi şi subprefecţi.",
-    "content_hu": "Guvernul a adoptat, în şedinţa de vineri, mai multe hotărâri pentru numirea unor prefecţi şi subprefecţi.",
-    "title_ro": "Val de eliberări din funcție ale prefecților și subprefecților, după instalarea Guvernului Niculescu. Lista cu cei schimbați",
-    "lead_ro": "Guvernul a adoptat, în şedinţa de vineri, mai multe hotărâri pentru numirea unor prefecţi şi subprefecţi.",
-    "content_ro": "Guvernul a adoptat, în şedinţa de vineri, mai multe hotărâri pentru numirea unor prefecţi şi subprefecţi."
-  },
-  {
-    "group_id": "group_06cd6e8100",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Probleme la un avion Wizz Air plecat din Oradea spre Bergamo. Aeronava a fost deviată și a aterizat la Budapesta (FOTO/VIDEO)",
-        "link": "https://www.ebihoreanul.ro/stiri/probleme-la-un-avion-wizz-air-plecat-din-oradea-spre-bergamo-aeronava-a-fost-deviata-si-a-aterizat-la-budapesta-206239.html"
-      }
-    ],
-    "published_at": 1793388480,
-    "title_hu": "Probleme la un avion Wizz Air plecat din Nagyvárad spre Bergamo. Aeronava a fost deviată și a aterizat la Budapesta (FOTO/VIDEO)",
-    "lead_hu": "Un avion Wizz Air care a decolat vineri seară de pe Aeroportul Nagyvárad, cu destinația Bergamo, Italia, a fost deviat spre Budapesta, unde a aterizat, din câte se pare, în urma unor probleme tehnice.…",
-    "content_hu": "Un avion Wizz Air care a decolat vineri seară de pe Aeroportul Nagyvárad, cu destinația Bergamo, Italia, a fost deviat spre Budapesta, unde a aterizat, din câte se pare, în urma unor probleme tehnice. Pasagerilor li s-a comunicat că aeronava nu mai poate continua călătoria, urmând să fie îmbarcați într-un alt avion.",
-    "title_ro": "Probleme la un avion Wizz Air plecat din Oradea spre Bergamo. Aeronava a fost deviată și a aterizat la Budapesta (FOTO/VIDEO)",
-    "lead_ro": "Un avion Wizz Air care a decolat vineri seară de pe Aeroportul Nagyvárad, cu destinația Bergamo, Italia, a fost deviat spre Budapesta, unde a aterizat, din câte se pare, în urma unor probleme tehnice.…",
-    "content_ro": "Un avion Wizz Air care a decolat vineri seară de pe Aeroportul Nagyvárad, cu destinația Bergamo, Italia, a fost deviat spre Budapesta, unde a aterizat, din câte se pare, în urma unor probleme tehnice. Pasagerilor li s-a comunicat că aeronava nu mai poate continua călătoria, urmând să fie îmbarcați într-un alt avion."
-  },
-  {
-    "group_id": "group_d33a4983ec",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ionuț Iancu, jucătorul etapei în Liga Campionilor » Ce urmează pentru „dulăi”: EHF a anunțat programul",
-        "link": "https://www.gsp.ro/sporturi/handbal/ionut-iancu-jucatorul-etapei-in-liga-campionilor-ce-urmeaza-pentru-dulai-ehf-a-anuntat-programul-994103.html"
-      }
-    ],
-    "published_at": 1793388153,
-    "title_hu": "Ionuț Iancu, jucătorul etapei în Liga Campionilor » Ce urmează pentru „dulăi”: EHF a anunțat programul",
-    "lead_hu": "Ionuț Iancu (32 de ani), portarul lui Dinamo, a fost desemnat cel mai bun jucător al etapei din Liga Campionilor. În runda decisivă a grupelor din Liga Campionilor, Dinamo a obținut o victorie mare la…",
-    "content_hu": "Ionuț Iancu (32 de ani), portarul lui Dinamo, a fost desemnat cel mai bun jucător al etapei din Liga Campionilor. În runda decisivă a grupelor din Liga Campionilor, Dinamo a obținut o victorie mare la Montpellier, scor 36-26, și biletul pentru faza următoare a competiției. Un rol important l-a avut portarul Ionuț Iancu. Acesta a apărat 14 aruncări (40%) și a fost ales în cea mai bună echipă a săptămânii. Mai mult, a primit „coroana” dedicată MVP-ului. ...",
-    "title_ro": "Ionuț Iancu, jucătorul etapei în Liga Campionilor » Ce urmează pentru „dulăi”: EHF a anunțat programul",
-    "lead_ro": "Ionuț Iancu (32 de ani), portarul lui Dinamo, a fost desemnat cel mai bun jucător al etapei din Liga Campionilor. În runda decisivă a grupelor din Liga Campionilor, Dinamo a obținut o victorie mare la…",
-    "content_ro": "Ionuț Iancu (32 de ani), portarul lui Dinamo, a fost desemnat cel mai bun jucător al etapei din Liga Campionilor. În runda decisivă a grupelor din Liga Campionilor, Dinamo a obținut o victorie mare la Montpellier, scor 36-26, și biletul pentru faza următoare a competiției. Un rol important l-a avut portarul Ionuț Iancu. Acesta a apărat 14 aruncări (40%) și a fost ales în cea mai bună echipă a săptămânii. Mai mult, a primit „coroana” dedicată MVP-ului. ..."
   },
   {
     "group_id": "group_6bb56093c8",
