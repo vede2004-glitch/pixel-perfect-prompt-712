@@ -240,12 +240,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Ambasadorul Poloniei în România demisionează pe fondul crizei politice de la Varșovia",
         "link": "https://www.mediafax.ro/externe/ambasadorul-poloniei-in-romania-demisioneaza-pe-fondul-crizei-politice-de-la-varsovia-23835040"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ambasadorul Poloniei în România demisionează pe fondul crizei politice de la Varșovia / ”Nu văd posibilitatea de a-mi continua activitatea”",
+        "link": "https://www.g4media.ro/ambasadorul-poloniei-in-romania-demisioneaza-pe-fondul-crizei-politice-de-la-varsovia-nu-vad-posibilitatea-de-a-mi-continua-activitatea.html"
       }
     ],
     "published_at": 1793429294,
@@ -2033,7 +2038,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -2069,6 +2074,11 @@
         "source": "Mediafax",
         "title": "Novaya Gazeta, una dintre cele mai importante publicații independente din Rusia, își închide redacția după 30 de ani / Cofondatorul Dmitri Muratov: „Ne-au ucis”",
         "link": "https://www.mediafax.ro/externe/novaya-gazeta-una-dintre-cele-mai-importante-publicatii-independente-din-rusia-isi-inchide-redactia-dupa-30-de-ani-cofondatorul-dmitri-muratov-ne-au-ucis-23835009"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Una dintre cele mai vechi publicații independente din Rusia își închide porțile după 30 de ani. Jurnaliștii de la Novaya Gazeta: „Am fost uciși”",
+        "link": "https://adevarul.ro/stiri-externe/europa/una-dintre-cele-mai-vechi-publicatii-independente-2567883.html"
       }
     ],
     "published_at": 1793403620,
@@ -2208,7 +2218,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -2244,6 +2254,11 @@
         "source": "G4Media",
         "title": "SUA aprobă vânzarea de rachete Patriot către Ucraina în valoare de 2,1 miliarde dolari / Kievul va plăti folosind contribuţii din partea Canadei, Germaniei şi Norvegiei",
         "link": "https://www.g4media.ro/sua-aproba-vanzarea-de-rachete-patriot-catre-ucraina-in-valoare-de-21-miliarde-dolari-kievul-va-plati-folosind-contributii-din-partea-canadei-germaniei-si-norvegiei.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "500 darab Patriot elfogórakétát ad Ukrajnának az Egyesült Államok",
+        "link": "https://transtelex.ro/kulfold/2026/10/30/ukrajna-egyesult-allamok-patriot-raketa-vedelem-jovahagyas"
       }
     ],
     "published_at": 1793397832,
@@ -3829,12 +3844,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "„Alianța pentru Viitor”, noul parteneriat anunțat de UE și Canada: „Are potențialul de a oferi oportunități fără precedent”",
         "link": "https://www.digi24.ro/stiri/externe/ue/alianta-pentru-viitor-noul-parteneriat-anuntat-de-ue-si-canada-are-potentialul-de-a-oferi-oportunitati-fara-precedent-4015893"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Scut transatlantic împotriva „noilor furtuni”: Canada și UE creează „Alianța pentru Viitor” contra dependenței tech de SUA",
+        "link": "https://hotnews.ro/scut-transatlantic-impotriva-noilor-furtuni-canada-si-ue-creeaza-alianta-pentru-viitor-contra-dependentei-tech-de-sua-2391135"
       }
     ],
     "published_at": 1793389418,
@@ -4312,6 +4332,27 @@
     "title_ro": "Canada vrea să devină primul „membru asociat” al UE până în iunie 2027. Germania se opune inițiativei",
     "lead_ro": "Premierul canadian Mark Carney vrea ca țara sa să devină primul „membru asociat” al Uniunii Europene până în iunie 2027, dar propunerea întâmpină opoziția Germaniei.",
     "content_ro": "Premierul canadian Mark Carney vrea ca țara sa să devină primul „membru asociat” al Uniunii Europene până în iunie 2027, dar propunerea întâmpină opoziția Germaniei."
+  },
+  {
+    "group_id": "group_ecda5c85f9",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Napok alatt vált az elnöki szék várományosából egy titokban menekülő gyanúsítottá",
+        "link": "https://transtelex.ro/kulfold/2026/10/30/flavio-bolsonaro-brazilia-egyesult-allamok-titkos-menekules-elnokvalasztas-eljarasok"
+      }
+    ],
+    "published_at": 1793386817,
+    "title_hu": "Napok alatt vált az elnöki szék várományosából egy titokban menekülő gyanúsítottá",
+    "lead_hu": "Politikai üldöztetésről beszél és továbbra is magát tartja a brazilok törvényes vezetőjének Flávio Bolsonaro, aki a Lula ellen elbukott vasárnapi elnökválasztás után már Floridában van. A 60 millió vá...",
+    "content_hu": "Politikai üldöztetésről beszél és továbbra is magát tartja a brazilok törvényes vezetőjének Flávio Bolsonaro, aki a Lula ellen elbukott vasárnapi elnökválasztás után már Floridában van. A 60 millió választóját magára hagyó elnökjelölt ellen Brazíliában korrupció és pénzmosás gyanújával zajlik eljárás. A Bolsonaro-mozgalom egyre több tagja köt ki az USA-ban.",
+    "title_ro": "Napok alatt vált az elnöki szék várományosából egy titokban menekülő gyanúsítottá",
+    "lead_ro": "Politikai üldöztetésről beszél és továbbra is magát tartja a brazilok törvényes vezetőjének Flávio Bolsonaro, aki a Lula ellen elbukott vasárnapi elnökválasztás után már Floridában van. A 60 millió vá...",
+    "content_ro": "Politikai üldöztetésről beszél és továbbra is magát tartja a brazilok törvényes vezetőjének Flávio Bolsonaro, aki a Lula ellen elbukott vasárnapi elnökválasztás után már Floridában van. A 60 millió választóját magára hagyó elnökjelölt ellen Brazíliában korrupció és pénzmosás gyanújával zajlik eljárás. A Bolsonaro-mozgalom egyre több tagja köt ki az USA-ban."
   },
   {
     "group_id": "group_0433117b96",
@@ -18906,90 +18947,6 @@
     "title_ro": "Gigi Becali nu-și ia ochii de pe Daniel Bîrligea în Serie A: „Îmi pare rău că n-am pus și clauza aia! Mai luam 3 milioane”",
     "lead_ro": "Gigi Becali (68 de ani), patronul de la FCSB, a dezvăluit că este cu ochii în fiecare zi pe Serie A, fiind interesat ca Frosinone să se salveze de la retrogadare, fapt care i-ar asigura suma de 3,5 mi…",
     "content_ro": "Gigi Becali (68 de ani), patronul de la FCSB, a dezvăluit că este cu ochii în fiecare zi pe Serie A, fiind interesat ca Frosinone să se salveze de la retrogadare, fapt care i-ar asigura suma de 3,5 milioane de euro. Gigi Becali l-a cedat în această vară pe Daniel Bîrligea la nou-promovata din Serie A, Frosinone, sub formă de împrumut. ..."
-  },
-  {
-    "group_id": "group_169a40f460",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Argumentul escrocilor care organizează alba-neagra în centrul Romei: „Dacă plecăm noi, vin alții mai răi”",
-        "link": "https://www.mediafax.ro/social/argumentul-escrocilor-care-organizeaza-alba-neagra-in-centrul-romei-daca-plecam-noi-vin-altii-mai-rai-23834302"
-      }
-    ],
-    "published_at": 1793344505,
-    "title_hu": "Argumentul escrocilor care organizează alba-neagra în centrul Romei: „Dacă plecăm noi, vin alții mai răi”",
-    "lead_hu": "Escrocii care organizează alba-neagra în centrul Romei au intrat în conflict cu autoritățile. Ei sunt vânați de polițiști, dar și de unii politicieni. „Dacă plecăm noi, vin alții mai răi”, i-au spus e…",
-    "content_hu": "Escrocii care organizează alba-neagra în centrul Romei au intrat în conflict cu autoritățile. Ei sunt vânați de polițiști, dar și de unii politicieni. „Dacă plecăm noi, vin alții mai răi”, i-au spus ei unui consilier al Primăriei din capitala Italiei.",
-    "title_ro": "Argumentul escrocilor care organizează alba-neagra în centrul Romei: „Dacă plecăm noi, vin alții mai răi”",
-    "lead_ro": "Escrocii care organizează alba-neagra în centrul Romei au intrat în conflict cu autoritățile. Ei sunt vânați de polițiști, dar și de unii politicieni. „Dacă plecăm noi, vin alții mai răi”, i-au spus e…",
-    "content_ro": "Escrocii care organizează alba-neagra în centrul Romei au intrat în conflict cu autoritățile. Ei sunt vânați de polițiști, dar și de unii politicieni. „Dacă plecăm noi, vin alții mai răi”, i-au spus ei unui consilier al Primăriei din capitala Italiei."
-  },
-  {
-    "group_id": "group_fd3fd7a002",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Soțul deputatei PSD de Bihor Corina Ene, numit secretar general al Guvernului. Numirea sa ridică probleme de legalitate",
-        "link": "https://www.ebihoreanul.ro/stiri/sotul-deputatei-psd-de-bihor-corina-ene-numit-secretar-general-al-guvernului-numirea-sa-ridica-probleme-de-legalitate-206209.html"
-      }
-    ],
-    "published_at": 1793344380,
-    "title_hu": "Soțul deputatei PSD de Bihor Corina Ene, numit secretar general al Guvernului. Numirea sa ridică probleme de legalitate",
-    "lead_hu": "Premierul Luca Niculescu l-a numit secretar general al Guvernului, cu rang de ministru, pe Gabriel-Ciprian Ene, magistrat-asistent șef la Înalta Curte de Casație și Justiție, soț al deputatei PSD de B…",
-    "content_hu": "Premierul Luca Niculescu l-a numit secretar general al Guvernului, cu rang de ministru, pe Gabriel-Ciprian Ene, magistrat-asistent șef la Înalta Curte de Casație și Justiție, soț al deputatei PSD de Bihor Gabriela Corina Ene, fostă primăriță a comunei Căbești, și apropiat al fostului premier Marcel Ciolacu. Numirea ridică serioase probleme de legalitate, deoarece legea interzice magistraților-asistenți să ocupe simultan alte funcții publice.",
-    "title_ro": "Soțul deputatei PSD de Bihor Corina Ene, numit secretar general al Guvernului. Numirea sa ridică probleme de legalitate",
-    "lead_ro": "Premierul Luca Niculescu l-a numit secretar general al Guvernului, cu rang de ministru, pe Gabriel-Ciprian Ene, magistrat-asistent șef la Înalta Curte de Casație și Justiție, soț al deputatei PSD de B…",
-    "content_ro": "Premierul Luca Niculescu l-a numit secretar general al Guvernului, cu rang de ministru, pe Gabriel-Ciprian Ene, magistrat-asistent șef la Înalta Curte de Casație și Justiție, soț al deputatei PSD de Bihor Gabriela Corina Ene, fostă primăriță a comunei Căbești, și apropiat al fostului premier Marcel Ciolacu. Numirea ridică serioase probleme de legalitate, deoarece legea interzice magistraților-asistenți să ocupe simultan alte funcții publice."
-  },
-  {
-    "group_id": "group_0952a208a6",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Manna",
-        "title": "Seszták Miklós ügyvédje tagadja a kilencmilliárdos készpénzt",
-        "link": "https://a24.hu/sesztak-miklos-ugyvedje-tagadja-a-kilencmilliardos-keszpenzt/"
-      }
-    ],
-    "published_at": 1793344349,
-    "title_hu": "Seszták Miklós ügyvédje tagadja a kilencmilliárdos készpénzt",
-    "lead_hu": "Seszták Miklós ügyvédje, Papp Gábor tagadta, hogy védence 9 milliárd forint készpénzt tartott volna a bíróság által említett széfjében. A jogász a Telexnek azt mondta, hogy a politikus 2014 és 2018 kö…",
-    "content_hu": "Seszták Miklós ügyvédje, Papp Gábor tagadta, hogy védence 9 milliárd forint készpénzt tartott volna a bíróság által említett széfjében. A jogász a Telexnek azt mondta, hogy a politikus 2014 és 2018 között csak iratokat tárolt a páncélszekrényben, később sem volt benne ekkora összeg. Papp Gábor szerint a letartóztatási ülésen nem hangzott el olyan adat, hogy […]",
-    "title_ro": "Seszták Miklós ügyvédje tagadja a kilencmilliárdos készpénzt",
-    "lead_ro": "Seszták Miklós ügyvédje, Papp Gábor tagadta, hogy védence 9 milliárd forint készpénzt tartott volna a bíróság által említett széfjében. A jogász a Telexnek azt mondta, hogy a politikus 2014 és 2018 kö…",
-    "content_ro": "Seszták Miklós ügyvédje, Papp Gábor tagadta, hogy védence 9 milliárd forint készpénzt tartott volna a bíróság által említett széfjében. A jogász a Telexnek azt mondta, hogy a politikus 2014 és 2018 között csak iratokat tárolt a páncélszekrényben, később sem volt benne ekkora összeg. Papp Gábor szerint a letartóztatási ülésen nem hangzott el olyan adat, hogy […]"
-  },
-  {
-    "group_id": "group_622ef668fa",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Serghei Lavrov a sosit în SUA pentru a participa la reuniunea miniștrilor de externe din G20",
-        "link": "https://www.mediafax.ro/externe/serghei-lavrov-a-sosit-in-sua-pentru-a-participa-la-reuniunea-ministrilor-de-externe-din-g20-23834306"
-      }
-    ],
-    "published_at": 1793344315,
-    "title_hu": "Serghei Lavrov a sosit în SUA pentru a participa la reuniunea miniștrilor de externe din G20",
-    "lead_hu": "Ministrul rus de externe, Serghei Lavrov, a sosit vineri în orașul Atlanta, din statul american Georgia, unde urmează să reprezinte Moscova la o reuniune a miniștrilor de externe din G20.",
-    "content_hu": "Ministrul rus de externe, Serghei Lavrov, a sosit vineri în orașul Atlanta, din statul american Georgia, unde urmează să reprezinte Moscova la o reuniune a miniștrilor de externe din G20.",
-    "title_ro": "Serghei Lavrov a sosit în SUA pentru a participa la reuniunea miniștrilor de externe din G20",
-    "lead_ro": "Ministrul rus de externe, Serghei Lavrov, a sosit vineri în orașul Atlanta, din statul american Georgia, unde urmează să reprezinte Moscova la o reuniune a miniștrilor de externe din G20.",
-    "content_ro": "Ministrul rus de externe, Serghei Lavrov, a sosit vineri în orașul Atlanta, din statul american Georgia, unde urmează să reprezinte Moscova la o reuniune a miniștrilor de externe din G20."
   },
   {
     "group_id": "group_6f6415bc17",
