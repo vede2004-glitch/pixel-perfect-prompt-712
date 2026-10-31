@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_6a668bc16d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "INTERVIU O cercetătoare din Bruxelles, originară din R. Moldova: „Cu ajutorul AI poți să-ți amplifici gândirea critică sau poți lăsa tehnologia să-ți înlocuiască gândirea”",
+        "link": "https://hotnews.ro/interviu-o-cercetatoare-din-bruxelles-originara-din-r-moldova-cu-ajutorul-ai-poti-sa-ti-amplifici-gandirea-critica-sau-poti-lasa-tehnologia-sa-ti-inlocuiasca-gandirea-2390722"
+      }
+    ],
+    "published_at": 1793425186,
+    "title_hu": "INTERVIU O cercetătoare din Bruxelles, originară din R. Moldova: „Cu ajutorul AI poți să-ți amplifici gândirea critică sau poți lăsa tehnologia să-ți înlocuiască gândirea”",
+    "lead_hu": "„Din cauza stadiului lor de dezvoltare, copiii sunt cei mai vulnerabili la anumite funcții ale rețelelor sociale. E mai bine să abordăm designul platformelor, nu să interzicem accesul la servicii care...",
+    "content_hu": "„Din cauza stadiului lor de dezvoltare, copiii sunt cei mai vulnerabili la anumite funcții ale rețelelor sociale. E mai bine să abordăm designul platformelor, nu să interzicem accesul la servicii care pot fi și benefice”, este doar unul dintre exemplele pe care mi l-a dat Nicoleta Prutean, pentru a-mi explica miza cercetărilor sale. Nicoleta Prutean …",
+    "title_ro": "INTERVIU O cercetătoare din Bruxelles, originară din R. Moldova: „Cu ajutorul AI poți să-ți amplifici gândirea critică sau poți lăsa tehnologia să-ți înlocuiască gândirea”",
+    "lead_ro": "„Din cauza stadiului lor de dezvoltare, copiii sunt cei mai vulnerabili la anumite funcții ale rețelelor sociale. E mai bine să abordăm designul platformelor, nu să interzicem accesul la servicii care...",
+    "content_ro": "„Din cauza stadiului lor de dezvoltare, copiii sunt cei mai vulnerabili la anumite funcții ale rețelelor sociale. E mai bine să abordăm designul platformelor, nu să interzicem accesul la servicii care pot fi și benefice”, este doar unul dintre exemplele pe care mi l-a dat Nicoleta Prutean, pentru a-mi explica miza cercetărilor sale. Nicoleta Prutean …"
+  },
+  {
+    "group_id": "group_8f2c36f27d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Bărbat de 25 de ani, prins sub un mal de pământ, a fost scos decedat, după şapte ore de intervenţie / A fost găsit la o adâncime de peste 7 metri",
+        "link": "https://www.g4media.ro/barbat-de-25-de-ani-prins-sub-un-mal-de-pamant-a-fost-scos-decedat-dupa-sapte-ore-de-interventie-a-fost-gasit-la-o-adancime-de-peste-7-metri.html"
+      }
+    ],
+    "published_at": 1793425101,
+    "title_hu": "Bărbat de 25 de ani, prins sub un mal de pământ, a fost scos decedat, după şapte ore de intervenţie / A fost găsit la o adâncime de peste 7 metri",
+    "lead_hu": "Bărbatul în vârstă de 25 de ani, prins sub un mal de pământ care s-a surpat vineri în cartierul Obor din municipiul Călăraşi, a fost scos decedat, după şapte ore de intervenţie, relatează Agerpres. „V...",
+    "content_hu": "Bărbatul în vârstă de 25 de ani, prins sub un mal de pământ care s-a surpat vineri în cartierul Obor din municipiul Călăraşi, a fost scos decedat, după şapte ore de intervenţie, relatează Agerpres. „Victima a fost găsită decedată, la o adâncime de aproximativ 7,5 metri, după şapte ore de eforturi susţinute”, a informat ISU […] © G4Media.ro.",
+    "title_ro": "Bărbat de 25 de ani, prins sub un mal de pământ, a fost scos decedat, după şapte ore de intervenţie / A fost găsit la o adâncime de peste 7 metri",
+    "lead_ro": "Bărbatul în vârstă de 25 de ani, prins sub un mal de pământ care s-a surpat vineri în cartierul Obor din municipiul Călăraşi, a fost scos decedat, după şapte ore de intervenţie, relatează Agerpres. „V...",
+    "content_ro": "Bărbatul în vârstă de 25 de ani, prins sub un mal de pământ care s-a surpat vineri în cartierul Obor din municipiul Călăraşi, a fost scos decedat, după şapte ore de intervenţie, relatează Agerpres. „Victima a fost găsită decedată, la o adâncime de aproximativ 7,5 metri, după şapte ore de eforturi susţinute”, a informat ISU […] © G4Media.ro."
+  },
+  {
     "group_id": "group_c7237a300d",
     "category": "Általános",
     "is_synthesized": false,
@@ -1603,7 +1645,7 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Adevărul",
@@ -1614,6 +1656,16 @@
         "source": "ProTV Stiri",
         "title": "Criză politică în Polonia, după demiterea șefului Curții Constituționale. Poliția anti-revoltă, mobilizată de urgență",
         "link": "https://stirileprotv.ro/stiri/international/criza-politica-in-polonia-dupa-demiterea-sefului-curtii-constitutionale-politia-anti-revolta-mobilizata-de-urgenta.html"
+      },
+      {
+        "source": "Manna",
+        "title": "Varsóban felfüggesztették az alkotmánybíróság vezetőit",
+        "link": "https://a24.hu/varsoban-felfuggesztettek-az-alkotmanybirosag-vezetoit/"
+      },
+      {
+        "source": "Digi24",
+        "title": "Criză politică în Polonia: președintele Curții Constituționale demis, poliția antirevolte, mobilizată. Nawrocki a revenit în țară",
+        "link": "https://www.digi24.ro/stiri/externe/ue/criza-politica-in-polonia-presedintele-curtii-constitutionale-demis-politia-antirevolte-mobilizata-nawrocki-a-revenit-in-tara-4016063"
       }
     ],
     "published_at": 1793394033,
@@ -19805,118 +19857,6 @@
     "title_ro": "Primarii PSD contestă comasarea comunelor propusă de propriul Guvern. O localitate cu o istorie de mii de ani ar putea dispărea",
     "lead_ro": "Planul Guvernului de comasare a comunelor cu mai puțin de 1.500 de locuitori provoacă nemulțumiri în rândul primarilor, care avertizează că reforma ar putea duce la pierderea identității unor comunită…",
     "content_ro": "Planul Guvernului de comasare a comunelor cu mai puțin de 1.500 de locuitori provoacă nemulțumiri în rândul primarilor, care avertizează că reforma ar putea duce la pierderea identității unor comunități și ar îngreuna accesul oamenilor la serviciile administrative."
-  },
-  {
-    "group_id": "group_902fb24d0c",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Un pilot de Formula 1 a primit 13.000 de amenințări cu moartea! FIA a reacționat prompt în urma atacurilor cutremurătoare",
-        "link": "https://www.gsp.ro/sporturi/formula-1/pierre-gasly-amenintari-formula-1-fia-alpine-993858.html"
-      }
-    ],
-    "published_at": 1793338986,
-    "title_hu": "Un pilot de Formula 1 a primit 13.000 de amenințări cu moartea! FIA a reacționat prompt în urma atacurilor cutremurătoare",
-    "lead_hu": "Pilotul francez Pierre Gasly (Alpine) și familia sa au fost ținta a nu mai puțin de 13.000 de amenințări cu moartea după un incident din Marele Premiu al Madridului. Președintele FIA, Mohammed Ben Sul…",
-    "content_hu": "Pilotul francez Pierre Gasly (Alpine) și familia sa au fost ținta a nu mai puțin de 13.000 de amenințări cu moartea după un incident din Marele Premiu al Madridului. Președintele FIA, Mohammed Ben Sulayem, a anunțat recurgerea la inteligența artificială și interdicții pe viață pentru vinovați. ...",
-    "title_ro": "Un pilot de Formula 1 a primit 13.000 de amenințări cu moartea! FIA a reacționat prompt în urma atacurilor cutremurătoare",
-    "lead_ro": "Pilotul francez Pierre Gasly (Alpine) și familia sa au fost ținta a nu mai puțin de 13.000 de amenințări cu moartea după un incident din Marele Premiu al Madridului. Președintele FIA, Mohammed Ben Sul…",
-    "content_ro": "Pilotul francez Pierre Gasly (Alpine) și familia sa au fost ținta a nu mai puțin de 13.000 de amenințări cu moartea după un incident din Marele Premiu al Madridului. Președintele FIA, Mohammed Ben Sulayem, a anunțat recurgerea la inteligența artificială și interdicții pe viață pentru vinovați. ..."
-  },
-  {
-    "group_id": "group_9f988614e0",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "BANC | Însurat și cu 3 copii acasă, Bulă face ghidușii într-o noapte cu o vecină de scară",
-        "link": "https://www.cancan.ro/banc-insurat-si-cu-3-copii-acasa-bula-face-ghidusii-intr-o-noapte-cu-o-vecina-de-scara-21538814"
-      }
-    ],
-    "published_at": 1793338914,
-    "title_hu": "BANC | Însurat și cu 3 copii acasă, Bulă face ghidușii într-o noapte cu o vecină de scară",
-    "lead_hu": "Este vineri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Însurat și c…",
-    "content_hu": "Este vineri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Însurat și cu 3 copii acasă, Bulă face ghidușii într-o noapte cu o vecină de scară. După nouă luni, […]",
-    "title_ro": "BANC | Însurat și cu 3 copii acasă, Bulă face ghidușii într-o noapte cu o vecină de scară",
-    "lead_ro": "Este vineri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Însurat și c…",
-    "content_ro": "Este vineri, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Însurat și cu 3 copii acasă, Bulă face ghidușii într-o noapte cu o vecină de scară. După nouă luni, […]"
-  },
-  {
-    "group_id": "group_a8e60a29af",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 30 octombrie. Cer înnorat și ploi în sud și la munte. Maximele ajung la 18 grade",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-30-octombrie-cer-innorat-si-ploi-in-sud-si-la-munte-maximele-ajung-la-18-grade.html"
-      }
-    ],
-    "published_at": 1793338893,
-    "title_hu": "Vremea azi, 30 octombrie. Cer înnorat și ploi în sud și la munte. Maximele ajung la 18 grade",
-    "lead_hu": "Vineri avem tot vreme închisă. O să mai plouă puțin, în special în ținuturile sudice și la munte, iar vântul o să fie mai activ în estul țării.",
-    "content_hu": "Vineri avem tot vreme închisă. O să mai plouă puțin, în special în ținuturile sudice și la munte, iar vântul o să fie mai activ în estul țării.",
-    "title_ro": "Vremea azi, 30 octombrie. Cer înnorat și ploi în sud și la munte. Maximele ajung la 18 grade",
-    "lead_ro": "Vineri avem tot vreme închisă. O să mai plouă puțin, în special în ținuturile sudice și la munte, iar vântul o să fie mai activ în estul țării.",
-    "content_ro": "Vineri avem tot vreme închisă. O să mai plouă puțin, în special în ținuturile sudice și la munte, iar vântul o să fie mai activ în estul țării."
-  },
-  {
-    "group_id": "group_0b8fb47640",
-    "fingerprint": "b8ec5105810a9c4c7f99d93d18149865",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Un meteorit marţian descoperit în Sahara are o vechime de 4,1 miliarde de ani / ”Nu ştim cu exactitate când a ajuns pe Pământ” / ”Ne arată că pe suprafaţa planetei Marte a existat apă”",
-        "link": "https://www.g4media.ro/un-meteorit-martian-descoperit-in-sahara-are-o-vechime-de-41-miliarde-de-ani-nu-stim-cu-exactitate-cand-a-ajuns-pe-pamant-ne-arata-ca-pe-suprafata-planetei-marte-a-exis.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Un meteorit vechi de 4,1 miliarde de ani, descoperit în Sahara, dezvăluie noi indicii despre posibilitatea existenței vieții pe Marte",
-        "link": "https://www.mediafax.ro/life-inedit/un-meteorit-vechi-de-41-miliarde-de-ani-descoperit-in-sahara-dezvaluie-noi-indicii-despre-posibilitatea-existentei-vietii-pe-marte-23834238"
-      }
-    ],
-    "published_at": 1793338828,
-    "title_hu": "A Szaharában talált marsi meteorit legalább 4,1 milliárd éves",
-    "lead_hu": "A Teghaza 001 nevű kőzetet 2022-ben fedezték fel Mali Szaharájában. A kutatók szerint legalább 4,1 milliárd éve alakult ki a Mars kérgében, és a benne található ásványok arra utalnak, hogy formálódása közben vízzel is kapcsolatba került.",
-    "content_hu": "• **A Teghaza 001 meteoritot 2022-ben találták meg Maliban**, a Szahara területén, Bir Chali településtől mintegy 34 kilométerre. A lelet nyolc darabból állt; a legnagyobb töredék körülbelül ökölméretű.\n\n• **A kőzet legalább 4,1 milliárd éves**, és a kutatók becslése alapján a Földön ismert 435 marsi eredetű meteorit közül valószínűleg ez a legrégebbi. A kormeghatározást a benne lévő cirkonkristályok urántartalmának, illetve az urán ólommá alakulásának vizsgálatával végezték.\n\n• **A meteorit gabbró típusú magmás kőzet**, amely a Mars kérgében jött létre. Anyaga mélyebbről, a bolygó köpenyéből származó magmából alakult ki, amely a felszín alatti környezetben lassan hűlt le és kristályosodott.\n\n• **Az ásványi összetétel vízzel való kölcsönhatásra utal** a kőzet lehűlése és kristályosodása idején. A fő alkotók között földpát és piroxén található, emellett uránt tartalmazó cirkonkristályokat is azonosítottak.\n\n• **A lelet a Mars korai történetének vizsgálatához ad támpontot.** A marsi meteoritok a bolygóról származó, laboratóriumban közvetlenül elemezhető minták; segítségükkel a kutatók a Mars kialakulását és korai fejlődését, valamint az egykori lakhatóság lehetőségét tanulmányozzák.",
-    "title_ro": "Meteoritul marțian găsit în Sahara are cel puțin 4,1 miliarde de ani",
-    "lead_ro": "Roca numită Teghaza 001 a fost descoperită în 2022, în Sahara din Mali. Cercetătorii estimează că s-a format în scoarța marțiană cu cel puțin 4,1 miliarde de ani în urmă, iar mineralele sale indică o interacțiune cu apa în timpul formării.",
-    "content_ro": "• **Meteoritul Teghaza 001 a fost găsit în 2022, în Mali**, într-o zonă a Saharei aflată la aproximativ 34 de kilometri de localitatea Bir Chali. Descoperirea cuprindea opt fragmente, iar cel mai mare avea dimensiuni apropiate de cele ale unui pumn.\n\n• **Vârsta rocii este de cel puțin 4,1 miliarde de ani**, iar oamenii de știință consideră că ar putea fi cel mai vechi dintre cei 435 de meteoriți marțieni identificați până acum pe Pământ. Datarea s-a bazat pe analiza uraniului din cristalele de zircon și a transformării acestuia în plumb în timp.\n\n• **Teghaza 001 este o rocă magmatică de tip gabrou**, formată în scoarța planetei Marte. Materialul său provine din magmă asociată unor regiuni mai adânci ale planetei, iar răcirea și cristalizarea au avut loc lent, sub suprafață.\n\n• **Compoziția minerală sugerează că roca a intrat în contact cu apa** pe măsură ce se răcea și cristaliza. Printre componentele principale se numără feldspatul și piroxenul; cercetătorii au identificat și cristale de zircon care conțin uraniu.\n\n• **Meteoritul oferă indicii despre primele etape ale istoriei lui Marte.** Rocile marțiene ajunse pe Pământ pot fi analizate direct în laborator, ceea ce permite studierea formării și evoluției timpurii a planetei, precum și evaluarea posibilității ca aceasta să fi avut cândva condiții favorabile vieții."
-  },
-  {
-    "group_id": "group_3a51c31fcc",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "România, pe penultimul loc în UE la veniturile din taxe raportate la PIB. Diferență de peste 11 puncte față de media europeană",
-        "link": "https://www.mediafax.ro/economic/romania-pe-penultimul-loc-in-ue-la-veniturile-din-taxe-raportate-la-pib-diferenta-de-peste-11-puncte-fata-de-media-europeana-23834224"
-      }
-    ],
-    "published_at": 1793338625,
-    "title_hu": "România, pe penultimul loc în UE la veniturile din taxe raportate la PIB. Diferență de peste 11 puncte față de media europeană",
-    "lead_hu": "România are a doua cea mai mică pondere a veniturilor din taxe și contribuții sociale în PIB dintre statele Uniunii Europene. În 2025, indicatorul a ajuns la 29,3%, față de media europeană de 40,7%.",
-    "content_hu": "România are a doua cea mai mică pondere a veniturilor din taxe și contribuții sociale în PIB dintre statele Uniunii Europene. În 2025, indicatorul a ajuns la 29,3%, față de media europeană de 40,7%.",
-    "title_ro": "România, pe penultimul loc în UE la veniturile din taxe raportate la PIB. Diferență de peste 11 puncte față de media europeană",
-    "lead_ro": "România are a doua cea mai mică pondere a veniturilor din taxe și contribuții sociale în PIB dintre statele Uniunii Europene. În 2025, indicatorul a ajuns la 29,3%, față de media europeană de 40,7%.",
-    "content_ro": "România are a doua cea mai mică pondere a veniturilor din taxe și contribuții sociale în PIB dintre statele Uniunii Europene. În 2025, indicatorul a ajuns la 29,3%, față de media europeană de 40,7%."
   },
   {
     "group_id": "group_60a951f7ae",
