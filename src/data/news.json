@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_337afbc603",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Prognoză Sărbători | Vreme ciudată în București de Crăciun și de Revelion, potrivit meteorologilor EaseWeather",
+        "link": "https://www.cancan.ro/prognoza-sarbatori-vreme-ciudata-in-bucuresti-de-craciun-si-de-revelion-potrivit-meteorologilor-easeweather-21539450"
+      }
+    ],
+    "published_at": 1793440915,
+    "title_hu": "Prognoză Sărbători | Vreme ciudată în București de Crăciun și de Revelion, potrivit meteorologilor EaseWeather",
+    "lead_hu": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai re...",
+    "content_hu": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai recente măsurători ale experților Accuweather, luna decembrie se anunță destul de caldă, cu temperaturi maxime care nu scad sub 6 grade Celsius și ajung până la 10 […]",
+    "title_ro": "Prognoză Sărbători | Vreme ciudată în București de Crăciun și de Revelion, potrivit meteorologilor EaseWeather",
+    "lead_ro": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai re...",
+    "content_ro": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai recente măsurători ale experților Accuweather, luna decembrie se anunță destul de caldă, cu temperaturi maxime care nu scad sub 6 grade Celsius și ajung până la 10 […]"
+  },
+  {
+    "group_id": "group_b10c235316",
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Costuri mai mari pentru producători în SGR: tariful pentru ambalajele metalice s-a dublat în 2026",
+        "link": "https://adevarul.ro/economie/costuri-mai-mari-pentru-producatori-in-sgr-2567922.html"
+      }
+    ],
+    "published_at": 1793440592,
+    "title_hu": "Costuri mai mari pentru producători în SGR: tariful pentru ambalajele metalice s-a dublat în 2026",
+    "lead_hu": "Tarifele de administrare achitate de producătorii de băuturi au crescut în 2026 cu 103% pentru ambalajele metalice și cu 40% pentru plasticul transparent, potrivit unei analize Adevărul Financiar. Ace...",
+    "content_hu": "Tarifele de administrare achitate de producătorii de băuturi au crescut în 2026 cu 103% pentru ambalajele metalice și cu 40% pentru plasticul transparent, potrivit unei analize Adevărul Financiar. Aceste costuri sunt distincte de garanția de 50 de bani restituită consumatorilor.",
+    "title_ro": "Costuri mai mari pentru producători în SGR: tariful pentru ambalajele metalice s-a dublat în 2026",
+    "lead_ro": "Tarifele de administrare achitate de producătorii de băuturi au crescut în 2026 cu 103% pentru ambalajele metalice și cu 40% pentru plasticul transparent, potrivit unei analize Adevărul Financiar. Ace...",
+    "content_ro": "Tarifele de administrare achitate de producătorii de băuturi au crescut în 2026 cu 103% pentru ambalajele metalice și cu 40% pentru plasticul transparent, potrivit unei analize Adevărul Financiar. Aceste costuri sunt distincte de garanția de 50 de bani restituită consumatorilor."
+  },
+  {
     "group_id": "group_61f098e4e3",
     "category": "Általános",
     "is_synthesized": false,
@@ -25,12 +67,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Maszol",
         "title": "Bővült az ENSZ-főtitkári posztra jelöltek száma",
         "link": "https://maszol.ro/kulfold/Bovult-az-ENSZ-fotitkari-posztra-jeloltek-szama"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Turcia propune un candidat la funcția de secretar general al ONU",
+        "link": "https://agerpres.ro/politic-extern/2026/10/31/turcia-propune-un-candidat-la-functia-de-secretar-general-al-onu--1608666"
       }
     ],
     "published_at": 1793440320,
@@ -361,12 +408,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Vicepremierul Marian Neacşu, de Ziua Internațională a Mării Negre: Pentru România, marea ţine de identitatea naţională",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/vicepremierul-marian-neacsu-de-ziua-internationala-a-marii-negre-pentru-romania-marea-tine-de-identitatea-nationala-4016205"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Vicepremierul Marian Neacșu: Pentru România, Marea Neagră ține de identitatea națională",
+        "link": "https://agerpres.ro/social/2026/10/31/vicepremierul-marian-neacsu-pentru-romania-marea-neagra-tine-de-identitatea-nationala--1608662"
       }
     ],
     "published_at": 1793437428,
@@ -991,12 +1043,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "G4Media",
         "title": "Cod portocaliu de ploi în zone din judeţele Mehedinţi şi Gorj, până luni dimineaţa / Cod galben, în nouă judeţe",
         "link": "https://www.g4media.ro/cod-portocaliu-de-ploi-in-zone-din-judetele-mehedinti-si-gorj-pana-luni-dimineata-cod-galben-in-noua-judete.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Cod portocaliu de ploi în zone din județele Mehedinți și Gorj, până luni dimineața; Cod galben, în nouă județe",
+        "link": "https://agerpres.ro/social/2026/10/31/cod-portocaliu-de-ploi-in-zone-din-judetele-mehedinti-si-gorj-pana-luni-dimineata-cod-galben-in-noua--1608656"
       }
     ],
     "published_at": 1793435537,
@@ -1040,7 +1097,7 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -1051,6 +1108,11 @@
         "source": "G4Media",
         "title": "Sondaj Avangarde: AUR – 35%, PSD – 26%, PNL – 15%, USR – 10% / 78% dintre români consideră că ţara se îndreaptă într-o direcţie greşită",
         "link": "https://www.g4media.ro/sondaj-avangarde-aur-35-psd-26-pnl-15-usr-10-78-dintre-romani-considera-ca-tara-se-indreapta-intr-o-directie-gresita.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Sondaj Avangarde: 78% dintre români consideră că țara se îndreaptă într-o direcție greșită",
+        "link": "https://agerpres.ro/social/2026/10/31/sondaj-avangarde-78-dintre-romani-considera-ca-tara-se-indreapta-intr-o-directie-gresita--1608681"
       }
     ],
     "published_at": 1793435232,
@@ -2556,7 +2618,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Mediafax",
@@ -2587,6 +2649,11 @@
         "source": "ProTV Stiri",
         "title": "Ambasadorii din România și China și-au anunțat demisiile pe fondul crizei politice din Polonia: „Nu mai văd nicio posibilitate de a continua”",
         "link": "https://stirileprotv.ro/stiri/international/primii-ambasadori-au-demisionat-in-urma-crizei-politice-din-polonia-capitalele-in-care-reprezentau-statul.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Criză politică în Polonia: Ambasadorii din România și China și-au anunțat demisia",
+        "link": "https://agerpres.ro/politic-extern/2026/10/31/criza-politica-in-polonia-ambasadorii-din-romania-si-china-si-au-anuntat-demisia--1608664"
       }
     ],
     "published_at": 1793430551,
@@ -2723,7 +2790,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "Adevărul",
@@ -2759,6 +2826,11 @@
         "source": "Mediafax",
         "title": "Criza din Polonia explicată. Cum s-a ajuns la haosul de la Varșovia și ce urmează",
         "link": "https://www.mediafax.ro/externe/criza-din-polonia-explicata-cum-s-a-ajuns-la-haosul-de-la-varsovia-si-ce-urmeaza-23835105"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "UPDATE Criză politică în Polonia: Președintele Karol Nawrocki face apel la 'restabilirea statului de drept'",
+        "link": "https://agerpres.ro/politic-extern/2026/10/31/update-criza-politica-in-polonia-presedintele-karol-nawrocki-face-apel-la-restabilirea-statului-de-d--1608661"
       }
     ],
     "published_at": 1793429765,
@@ -3648,7 +3720,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "Mediafax",
@@ -3699,6 +3771,11 @@
         "source": "ProTV Stiri",
         "title": "Ipoteza răpirii, luată în calcul după dispariția celor trei frați minori din Sălaj. Copiii sunt căutați de două zile",
         "link": "https://stirileprotv.ro/divers/ipoteza-rapirii-luata-in-calcul-dupa-disparitia-celor-trei-frati-minori-din-salaj-copiii-sunt-cautati-de-doua-zile.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Trei frați dispăruți din Sălaj sunt căutați în două județe. Autoritățile au emis mesaje RO-Alert și este luată în calcul ipoteza răpirii",
+        "link": "https://www.ebihoreanul.ro/stiri/trei-frati-disparuti-din-salaj-sunt-cautati-in-doua-judete-autoritatile-au-emis-mesaje-ro-alert-si-este-luata-in-calcul-ipoteza-rapirii-206248.html"
       }
     ],
     "published_at": 1793425689,
@@ -7416,7 +7493,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "Adevărul",
@@ -7467,6 +7544,11 @@
         "source": "Agerpres (HU)",
         "title": "Papa a votat la alegerile de la jumătatea mandatului din SUA, anunță Vaticanul",
         "link": "https://agerpres.ro/politic-extern/2026/10/30/papa-a-votat-la-alegerile-de-la-jumatatea-mandatului-din-sua-anunta-vaticanul--1608502"
+      },
+      {
+        "source": "Digi24",
+        "title": "Premieră la Vatican: Papa Leon al XIV-lea a votat la alegerile din SUA. Ce dezvăluie registrele electorale",
+        "link": "https://www.digi24.ro/stiri/externe/sua/premiera-la-vatican-papa-leon-al-xiv-lea-a-votat-la-alegerile-din-sua-ce-dezvaluie-registrele-electorale-4016237"
       }
     ],
     "published_at": 1793383616,
@@ -16772,6 +16854,47 @@
     "content_ro": "Prima dimineață cu brumă pe șantier e momentul în care mulți își dau seama că geaca de anul trecut nu mai face față. Fermoarul s-a blocat, manșetele lasă vântul să intre, iar spatele se ridică de fiecare dată când întinzi mâinile după o scândură. Atunci se cumpără ceva în grabă, după culoare și preț, și de multe ori se greșește a doua oară."
   },
   {
+    "group_id": "group_3871d426f1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Schimbare de gardă, un reportaj de Rareș Năstase, la România, te iubesc!: „Am văzut o altă mentalitate”",
+        "link": "https://stirileprotv.ro/stiri/social/schimbare-de-garda-un-reportaj-de-rares-nastase-la-romania-te-iubesc-am-vazut-o-alta-mentalitate.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "În căutarea noii generații de 10 a României. Ciprian Marica, mentor GEN10: „Mulți copii visează să devină mari fotbaliști și au nevoie de repere, dar și de o infrastructură corectă”",
+        "link": "https://www.mediafax.ro/romania-oameni-comunitati/in-cautarea-noii-generatii-de-10-a-romaniei-ciprian-marica-mentor-gen10-multi-copii-viseaza-sa-devina-mari-fotbalisti-si-au-nevoie-de-repere-dar-si-de-o-infrastructura-corecta-23834415#new_tab"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Premierul Luca Niculescu, la 11 ani de la Colectiv: „Le datorăm nu numai respect și compasiune, ci și fapte”. Noi demersuri pentru un centru de mari arși în București",
+        "link": "https://www.mediafax.ro/politic/premierul-luca-niculescu-la-11-ani-de-la-colectiv-le-datoram-nu-numai-respect-si-compasiune-ci-si-fapte-noi-demersuri-pentru-un-centru-de-mari-arsi-in-bucuresti-23834550"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Românul din Spania care își caută mama biologică după ce a descoperit un document vechi: „Acest mesaj este pentru tine!”",
+        "link": "https://adevarul.ro/stiri-interne/societate/romanul-din-spania-care-isi-cauta-mama-biologica-2567705.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Artistul care a plecat din IRIS fără regrete. Mihai Alexandru a sacrificat faima de a fi într-una dintre marile trupe ale României: „Dacă aș fi rămas nu făceam niciodată cariera de azi”",
+        "link": "https://www.cancan.ro/artistul-care-a-plecat-din-iris-fara-regrete-mihai-alexandru-a-sacrificat-faima-de-a-fi-intr-una-dintre-marile-trupe-ale-romaniei-daca-as-fi-ramas-nu-faceam-niciodata-cariera-de-azi-21539087"
+      }
+    ],
+    "published_at": 1793356813,
+    "title_hu": "Schimbare de gardă, un reportaj de Rareș Năstase, la România, te iubesc!: „Am văzut o altă mentalitate”",
+    "lead_hu": "Duminică, de la 18:00, la România, te iubesc!, Rareș Năstase ne prezintă ancheta Schimbare de gardă, în care ne arată că, în fiecare an, aproape o mie de tineri absolvenți de medicină pleacă din Român...",
+    "content_hu": "Duminică, de la 18:00, la România, te iubesc!, Rareș Năstase ne prezintă ancheta Schimbare de gardă, în care ne arată că, în fiecare an, aproape o mie de tineri absolvenți de medicină pleacă din România.",
+    "title_ro": "Schimbare de gardă, un reportaj de Rareș Năstase, la România, te iubesc!: „Am văzut o altă mentalitate”",
+    "lead_ro": "Duminică, de la 18:00, la România, te iubesc!, Rareș Năstase ne prezintă ancheta Schimbare de gardă, în care ne arată că, în fiecare an, aproape o mie de tineri absolvenți de medicină pleacă din Român...",
+    "content_ro": "Duminică, de la 18:00, la România, te iubesc!, Rareș Năstase ne prezintă ancheta Schimbare de gardă, în care ne arată că, în fiecare an, aproape o mie de tineri absolvenți de medicină pleacă din România."
+  },
+  {
     "group_id": "group_4b22d8a3f2",
     "category": "Általános",
     "is_synthesized": false,
@@ -16791,27 +16914,6 @@
     "title_ro": "Poliția din Italia a reușit să recupereze o pictură dispărută timp de 20 de ani cu ajutorul IA. Ce detaliu a dat-o de gol",
     "lead_ro": "O pictură furată dintr-o biserică din Italia în urmă cu 20 de ani a fost recuperată cu ajutorul inteligenței artificiale, după ce fusese înlocuită, pentru a ascunde furtul. Tehnologia i-a ajutat pe an…",
     "content_ro": "O pictură furată dintr-o biserică din Italia în urmă cu 20 de ani a fost recuperată cu ajutorul inteligenței artificiale, după ce fusese înlocuită, pentru a ascunde furtul. Tehnologia i-a ajutat pe anchetatori să identifice opere de artă furate."
-  },
-  {
-    "group_id": "group_550ecd289e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "ANAF îi îndrumă pe contribuabilii cu risc să se mai uite o dată pe declarațiile fiscale depuse",
-        "link": "https://stirileprotv.ro/stiri/financiar/anaf-ii-indruma-pe-contribuabilii-cu-risc-sa-se-mai-uite-o-data-pe-declaratiile-fiscale-depuse.html"
-      }
-    ],
-    "published_at": 1793356583,
-    "title_hu": "ANAF îi îndrumă pe contribuabilii cu risc să se mai uite o dată pe declarațiile fiscale depuse",
-    "lead_hu": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele necon…",
-    "content_hu": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele neconcordanţe înainte de iniţierea unui control fiscal.",
-    "title_ro": "ANAF îi îndrumă pe contribuabilii cu risc să se mai uite o dată pe declarațiile fiscale depuse",
-    "lead_ro": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele necon…",
-    "content_ro": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele neconcordanţe înainte de iniţierea unui control fiscal."
   },
   {
     "group_id": "group_50c5ce6627",
@@ -17428,132 +17530,6 @@
     "content_ro": "A 3,98 millió lejes összköltségvetésű kezdeményezés több mint 220 diák számára biztosítana oktatási, pszichológiai és logopédiai támogatást."
   },
   {
-    "group_id": "group_f527295e11",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Tânăr de 20 de ani, prins la volanul unui BMW fără permis, în Bihor. A dormit în Arestul Poliţiei",
-        "link": "https://www.ebihoreanul.ro/stiri/tanar-de-20-de-ani-prins-la-volanul-unui-bmw-fara-permis-in-bihor-a-dormit-in-arestul-politiei-206212.html"
-      }
-    ],
-    "published_at": 1793354520,
-    "title_hu": "Tânăr de 20 de ani, prins la volanul unui BMW fără permis, în Bihor. A dormit în Arestul Poliţiei",
-    "lead_hu": "Un tânăr de 20 de ani din comuna bihoreană Oșorhei a fost reținut pentru 24 de ore după ce a fost prins de polițiști conducând un BMW, deși nu avea permis de conducere pentru nicio categorie de vehicu…",
-    "content_hu": "Un tânăr de 20 de ani din comuna bihoreană Oșorhei a fost reținut pentru 24 de ore după ce a fost prins de polițiști conducând un BMW, deși nu avea permis de conducere pentru nicio categorie de vehicule.",
-    "title_ro": "Tânăr de 20 de ani, prins la volanul unui BMW fără permis, în Bihor. A dormit în Arestul Poliţiei",
-    "lead_ro": "Un tânăr de 20 de ani din comuna bihoreană Oșorhei a fost reținut pentru 24 de ore după ce a fost prins de polițiști conducând un BMW, deși nu avea permis de conducere pentru nicio categorie de vehicu…",
-    "content_ro": "Un tânăr de 20 de ani din comuna bihoreană Oșorhei a fost reținut pentru 24 de ore după ce a fost prins de polițiști conducând un BMW, deși nu avea permis de conducere pentru nicio categorie de vehicule."
-  },
-  {
-    "group_id": "group_b2969e74b2",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Noul ministru al Economiei a explicat care este mecanismul prin care unele multinaționale „fentează” statul român și nu plătesc impozite",
-        "link": "https://stirileprotv.ro/stiri/politic/noul-ministru-al-economiei-a-explicat-care-este-mecanismul-prin-care-unele-multinationale-fenteaza-statul-roman-si-nu-platesc-impozite.html"
-      }
-    ],
-    "published_at": 1793354476,
-    "title_hu": "Noul ministru al Economiei a explicat care este mecanismul prin care unele multinaționale „fentează” statul român și nu plătesc impozite",
-    "lead_hu": "Ministrul Economiei, Daniel Zamfir, spune că nu are nimic împotriva multinaționalelor care plătesc corect impozitele în România, dar îi consideră „adversari” pe cei care mută profitul în afara țării.",
-    "content_hu": "Ministrul Economiei, Daniel Zamfir, spune că nu are nimic împotriva multinaționalelor care plătesc corect impozitele în România, dar îi consideră „adversari” pe cei care mută profitul în afara țării.",
-    "title_ro": "Noul ministru al Economiei a explicat care este mecanismul prin care unele multinaționale „fentează” statul român și nu plătesc impozite",
-    "lead_ro": "Ministrul Economiei, Daniel Zamfir, spune că nu are nimic împotriva multinaționalelor care plătesc corect impozitele în România, dar îi consideră „adversari” pe cei care mută profitul în afara țării.",
-    "content_ro": "Ministrul Economiei, Daniel Zamfir, spune că nu are nimic împotriva multinaționalelor care plătesc corect impozitele în România, dar îi consideră „adversari” pe cei care mută profitul în afara țării."
-  },
-  {
-    "group_id": "group_6c70193d78",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Vérszagot éreznek",
-        "link": "https://maszol.ro/velemeny/Verszagot-ereznek"
-      }
-    ],
-    "published_at": 1793354400,
-    "title_hu": "Vérszagot éreznek",
-    "lead_hu": "A kérdés most már csak az, mikor kerül olyan helyzetbe az AUR, hogy a soviniszta programot megvalósítsa.",
-    "content_hu": "A kérdés most már csak az, mikor kerül olyan helyzetbe az AUR, hogy a soviniszta programot megvalósítsa.",
-    "title_ro": "Vérszagot éreznek",
-    "lead_ro": "A kérdés most már csak az, mikor kerül olyan helyzetbe az AUR, hogy a soviniszta programot megvalósítsa.",
-    "content_ro": "A kérdés most már csak az, mikor kerül olyan helyzetbe az AUR, hogy a soviniszta programot megvalósítsa."
-  },
-  {
-    "group_id": "group_7541eb2863",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Egyetlen tömbházra sem adtak építési engedélyt Maros megyében szeptemberben – mind a 62 engedély családi házra szólt",
-        "link": "https://www.pontmaros.ro/egyetlen-tombhazra-sem-adtak-epitesi-engedelyt-maros-megyeben-szeptemberben-mind-a-62-engedely-csaladi-hazra-szolt/"
-      }
-    ],
-    "published_at": 1793354400,
-    "title_hu": "Egyetlen tömbházra sem adtak építési engedélyt Maros megyében szeptemberben – mind a 62 engedély családi házra szólt",
-    "lead_hu": "Szeptemberben 62 lakóépületre szóló építési engedélyt bocsátottak ki Maros megyében, és valamennyi családi ház építésére vonatkozott. Tömbházak vagy több lakásos lakóépületek építésére egyetlen engedé…",
-    "content_hu": "Szeptemberben 62 lakóépületre szóló építési engedélyt bocsátottak ki Maros megyében, és valamennyi családi ház építésére vonatkozott. Tömbházak vagy több lakásos lakóépületek építésére egyetlen engedélyt sem …",
-    "title_ro": "Egyetlen tömbházra sem adtak építési engedélyt Maros megyében szeptemberben – mind a 62 engedély családi házra szólt",
-    "lead_ro": "Szeptemberben 62 lakóépületre szóló építési engedélyt bocsátottak ki Maros megyében, és valamennyi családi ház építésére vonatkozott. Tömbházak vagy több lakásos lakóépületek építésére egyetlen engedé…",
-    "content_ro": "Szeptemberben 62 lakóépületre szóló építési engedélyt bocsátottak ki Maros megyében, és valamennyi családi ház építésére vonatkozott. Tömbházak vagy több lakásos lakóépületek építésére egyetlen engedélyt sem …"
-  },
-  {
-    "group_id": "group_3b46721e32",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Primăria din România unde jumătate dintre angajați sunt rude între ei sau cu aleșii locali",
-        "link": "https://hotnews.ro/primaria-din-romania-unde-jumatate-dintre-angajati-sunt-rude-intre-ei-sau-cu-alesii-locali-2390566"
-      }
-    ],
-    "published_at": 1793354290,
-    "title_hu": "Primăria din România unde jumătate dintre angajați sunt rude între ei sau cu aleșii locali",
-    "lead_hu": "Din cei 30 de oameni angajați ai Primăriei Mogoșești, județul Iași, 15 sunt soți, copii, veri, frați, nepoți sau fini ai primarului PSD Ionel Baraboi, ai secretarului general Mariana Anton, ai unor co…",
-    "content_hu": "Din cei 30 de oameni angajați ai Primăriei Mogoșești, județul Iași, 15 sunt soți, copii, veri, frați, nepoți sau fini ai primarului PSD Ionel Baraboi, ai secretarului general Mariana Anton, ai unor consilieri locali sau ai fostului primar PSD Ștefan Maftei, relatează publicația locală Reporter de Iași. Mogoșești este o comună în județul Iași formată …",
-    "title_ro": "Primăria din România unde jumătate dintre angajați sunt rude între ei sau cu aleșii locali",
-    "lead_ro": "Din cei 30 de oameni angajați ai Primăriei Mogoșești, județul Iași, 15 sunt soți, copii, veri, frați, nepoți sau fini ai primarului PSD Ionel Baraboi, ai secretarului general Mariana Anton, ai unor co…",
-    "content_ro": "Din cei 30 de oameni angajați ai Primăriei Mogoșești, județul Iași, 15 sunt soți, copii, veri, frați, nepoți sau fini ai primarului PSD Ionel Baraboi, ai secretarului general Mariana Anton, ai unor consilieri locali sau ai fostului primar PSD Ștefan Maftei, relatează publicația locală Reporter de Iași. Mogoșești este o comună în județul Iași formată …"
-  },
-  {
-    "group_id": "group_52df68cad3",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un plan zilnic de mese, coșul de consum pentru trai decent și alte vești din gastro, în newsletterul HotNews Food din 31 octombrie",
-        "link": "https://hotnews.ro/un-plan-zilnic-de-mese-cosul-de-consum-pentru-trai-decent-si-alte-vesti-din-gastro-in-newsletterul-hotnews-food-din-31-octombrie-2390603"
-      }
-    ],
-    "published_at": 1793354286,
-    "title_hu": "Un plan zilnic de mese, coșul de consum pentru trai decent și alte vești din gastro, în newsletterul HotNews Food din 31 octombrie",
-    "lead_hu": "HotNews Food are, de săptămâna aceasta, o rubrică de planificare a meselor, care să vă ajute să nu vă mai întrebați tot timpul „ce mâncăm azi?”. Sau să nu vă mai întrebe alții. Puteți să le spuneți: „…",
-    "content_hu": "HotNews Food are, de săptămâna aceasta, o rubrică de planificare a meselor, care să vă ajute să nu vă mai întrebați tot timpul „ce mâncăm azi?”. Sau să nu vă mai întrebe alții. Puteți să le spuneți: „Vezi acolo pe frigider!”. Mai multe detalii, în newsletterul HotNews Food de mâine, 24 octombrie. Tot în ediția …",
-    "title_ro": "Un plan zilnic de mese, coșul de consum pentru trai decent și alte vești din gastro, în newsletterul HotNews Food din 31 octombrie",
-    "lead_ro": "HotNews Food are, de săptămâna aceasta, o rubrică de planificare a meselor, care să vă ajute să nu vă mai întrebați tot timpul „ce mâncăm azi?”. Sau să nu vă mai întrebe alții. Puteți să le spuneți: „…",
-    "content_ro": "HotNews Food are, de săptămâna aceasta, o rubrică de planificare a meselor, care să vă ajute să nu vă mai întrebați tot timpul „ce mâncăm azi?”. Sau să nu vă mai întrebe alții. Puteți să le spuneți: „Vezi acolo pe frigider!”. Mai multe detalii, în newsletterul HotNews Food de mâine, 24 octombrie. Tot în ediția …"
-  },
-  {
     "group_id": "group_01651ed007",
     "category": "Sport",
     "is_synthesized": false,
@@ -17731,12 +17707,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "31 octombrie - Ziua mondială a orașelor (ONU)",
         "link": "https://agerpres.ro/documentare/2026/10/31/31-octombrie---ziua-mondiala-a-oraselor-onu--1608639"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "31 octombrie - Ziua internațională a Mării Negre",
+        "link": "https://agerpres.ro/documentare/2026/10/31/31-octombrie---ziua-internationala-a-marii-negre--1608640"
       }
     ],
     "published_at": 1793404800,
@@ -17765,6 +17746,279 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "31 octombrie - Ziua Arhivelor Naționale",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_d0ebe23153",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: PSG a surclasat în deplasare pe Le Havre (5-1), în etapa a 9-a din Ligue 1",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/fotbal-psg-a-surclasat-in-deplasare-pe-le-havre-5-1-in-etapa-a-9-a-din-ligue-1--1608680"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Fotbal: PSG a surclasat în deplasare pe Le Havre (5-1), în etapa a 9-a din Ligue 1",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: PSG a surclasat în deplasare pe Le Havre (5-1), în etapa a 9-a din Ligue 1",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_a47f148e5e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "BTA/36 de posturi publice de radio și televiziune, pe lista participanților la Eurovision 2027 de la Burgas",
+        "link": "https://agerpres.ro/cultura/2026/10/31/bta-36-de-posturi-publice-de-radio-si-televiziune-pe-lista-participantilor-la-eurovision-2027-de-la---1608682"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "BTA/36 de posturi publice de radio și televiziune, pe lista participanților la Eurovision 2027 de la Burgas",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "BTA/36 de posturi publice de radio și televiziune, pe lista participanților la Eurovision 2027 de la Burgas",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c912709cbe",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "DOCUMENTAR: 145 de ani de la nașterea a criticului literar Eugen Lovinescu (31 octombrie)",
+        "link": "https://agerpres.ro/documentare/2026/10/31/documentar-145-de-ani-de-la-nasterea-a-criticului-literar-eugen-lovinescu-31-octombrie--1608642"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "DOCUMENTAR: 145 de ani de la nașterea a criticului literar Eugen Lovinescu (31 octombrie)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "DOCUMENTAR: 145 de ani de la nașterea a criticului literar Eugen Lovinescu (31 octombrie)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_fd7fd9d464",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Auto-F1: Leclerc (Ferrari) a dominat ambele sesiuni de antrenamente din Marele Premiu al Mexicului",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/auto-f1-leclerc-ferrari-a-dominat-ambele-sesiuni-de-antrenamente-din-marele-premiu-al-mexicului--1608678"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Auto-F1: Leclerc (Ferrari) a dominat ambele sesiuni de antrenamente din Marele Premiu al Mexicului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Auto-F1: Leclerc (Ferrari) a dominat ambele sesiuni de antrenamente din Marele Premiu al Mexicului",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f1652868e1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Meteo București: Vreme închisă, ploi și intensificări temporare ale vântului, în următoarele zile",
+        "link": "https://agerpres.ro/social/2026/10/31/meteo-bucuresti-vreme-inchisa-ploi-si-intensificari-temporare-ale-vantului-in-urmatoarele-zile--1608675"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Meteo București: Vreme închisă, ploi și intensificări temporare ale vântului, în următoarele zile",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Meteo București: Vreme închisă, ploi și intensificări temporare ale vântului, în următoarele zile",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_ac67df277a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Meteorologi: Informare de vreme rea în întreaga țară, până luni dimineața",
+        "link": "https://agerpres.ro/social/2026/10/31/meteorologi-informare-de-vreme-rea-in-intreaga-tara-pana-luni-dimineata--1608670"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Meteorologi: Informare de vreme rea în întreaga țară, până luni dimineața",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Meteorologi: Informare de vreme rea în întreaga țară, până luni dimineața",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_252cc8496a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Finală Fernandez-Shnaider la Tokyo (WTA)",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/tenis-finala-fernandez-shnaider-la-tokyo-wta--1608677"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Tenis: Finală Fernandez-Shnaider la Tokyo (WTA)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Finală Fernandez-Shnaider la Tokyo (WTA)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_04dfe96fb3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Neamț: Nu cer încredere necondiționată, ci șansa de a o câștiga prin ce voi face, susține prefectul Vlad Grigorean",
+        "link": "https://agerpres.ro/administratie/2026/10/31/neamt-nu-cer-incredere-neconditionata-ci-sansa-de-a-o-castiga-prin-ce-voi-face-sustine-prefectul-vla--1608660"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Neamț: Nu cer încredere necondiționată, ci șansa de a o câștiga prin ce voi face, susține prefectul Vlad Grigorean",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Neamț: Nu cer încredere necondiționată, ci șansa de a o câștiga prin ce voi face, susține prefectul Vlad Grigorean",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_1385012a64",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Zverev și De Minaur, ultimii semifinaliști la Viena (ATP)",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/tenis-zverev-si-de-minaur-ultimii-semifinalisti-la-viena-atp--1608676"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Tenis: Zverev și De Minaur, ultimii semifinaliști la Viena (ATP)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Zverev și De Minaur, ultimii semifinaliști la Viena (ATP)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_b807b070d6",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Franța: 70.000 de polițiști, mobilizați de autorități pentru o nouă zi de manifestații antiguvernamentale",
+        "link": "https://agerpres.ro/social-extern/2026/10/31/franta-70-000-de-politisti-mobilizati-de-autoritati-pentru-o-noua-zi-de-manifestatii-antiguvernament--1608665"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Franța: 70.000 de polițiști, mobilizați de autorități pentru o nouă zi de manifestații antiguvernamentale",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Franța: 70.000 de polițiști, mobilizați de autorități pentru o nouă zi de manifestații antiguvernamentale",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_ff31d88f78",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "FRAGMENT DE ISTORIE: A fost finalizată lucrarea Memorialul Național Muntele Rushmore (31 octombrie 1941)",
+        "link": "https://agerpres.ro/documentare/2026/10/31/fragment-de-istorie-a-fost-finalizata-lucrarea-memorialul-national-muntele-rushmore-31-octombrie-194--1608641"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "FRAGMENT DE ISTORIE: A fost finalizată lucrarea Memorialul Național Muntele Rushmore (31 octombrie 1941)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "FRAGMENT DE ISTORIE: A fost finalizată lucrarea Memorialul Național Muntele Rushmore (31 octombrie 1941)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c906fe162b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Taylor Fritz (SUA), calificat în semifinale la Basel (ATP)",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/tenis-taylor-fritz-sua-calificat-in-semifinale-la-basel-atp--1608668"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Tenis: Taylor Fritz (SUA), calificat în semifinale la Basel (ATP)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Taylor Fritz (SUA), calificat în semifinale la Basel (ATP)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_0121eede5d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bacău: Accident rutier în care a fost implicat un microbuz; cinci persoane, transportate la spital",
+        "link": "https://agerpres.ro/social/2026/10/31/bacau-accident-rutier-in-care-a-fost-implicat-un-microbuz-cinci-persoane-transportate-la-spital--1608667"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Bacău: Accident rutier în care a fost implicat un microbuz; cinci persoane, transportate la spital",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Bacău: Accident rutier în care a fost implicat un microbuz; cinci persoane, transportate la spital",
     "lead_ro": "",
     "content_ro": ""
   },
@@ -17821,5 +18075,26 @@
     "title_ro": "Mihai Stoica, conflict pe stadion după Bistrița - FCSB » De unde a pornit totul",
     "lead_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a porn…",
     "content_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a pornit după ce Florin Cilică, realizator radio în Beszterce și fan al Gloriei, a țipat după oficialul roș-albaștrilor la finalul partidei. ..."
+  },
+  {
+    "group_id": "group_550ecd289e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "ANAF îi îndrumă pe contribuabilii cu risc să se mai uite o dată pe declarațiile fiscale depuse",
+        "link": "https://stirileprotv.ro/stiri/financiar/anaf-ii-indruma-pe-contribuabilii-cu-risc-sa-se-mai-uite-o-data-pe-declaratiile-fiscale-depuse.html"
+      }
+    ],
+    "published_at": 1793356583,
+    "title_hu": "ANAF îi îndrumă pe contribuabilii cu risc să se mai uite o dată pe declarațiile fiscale depuse",
+    "lead_hu": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele necon…",
+    "content_hu": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele neconcordanţe înainte de iniţierea unui control fiscal.",
+    "title_ro": "ANAF îi îndrumă pe contribuabilii cu risc să se mai uite o dată pe declarațiile fiscale depuse",
+    "lead_ro": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele necon…",
+    "content_ro": "ANAF derulează un program de conformare cu rol preventiv, prin care contribuabilii identificaţi cu posibile riscuri fiscale în domeniul TVA sunt îndrumaţi să verifice şi să corecteze eventualele neconcordanţe înainte de iniţierea unui control fiscal."
   }
 ]
