@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_784e55bf75",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Ministrul Dezvoltării revine asupra amenzilor pentru balcoanele închise",
+        "link": "https://hotnews.ro/ministrul-dezvoltarii-revine-asupra-amenzilor-pentru-balcoanele-inchise-2391442"
+      }
+    ],
+    "published_at": 1793451550,
+    "title_hu": "Ministrul Dezvoltării revine asupra amenzilor pentru balcoanele închise",
+    "lead_hu": "Ministrul Dezvoltării, Alexandru Stoica, a revenit sâmbătă cu noi explicații legate de legislația care prevede amenzi pentru proprietarii apartamelor care și-au închis balconul fără autorizație. Ofici...",
+    "content_hu": "Ministrul Dezvoltării, Alexandru Stoica, a revenit sâmbătă cu noi explicații legate de legislația care prevede amenzi pentru proprietarii apartamelor care și-au închis balconul fără autorizație. Oficialul a dat asigurări statul nu va vâna cetățenii cu amenzi. „Vreau să fie foarte clar: românii NU vor plăti taxe înzecite și nici nu li se va dubla impozitul …",
+    "title_ro": "Ministrul Dezvoltării revine asupra amenzilor pentru balcoanele închise",
+    "lead_ro": "Ministrul Dezvoltării, Alexandru Stoica, a revenit sâmbătă cu noi explicații legate de legislația care prevede amenzi pentru proprietarii apartamelor care și-au închis balconul fără autorizație. Ofici...",
+    "content_ro": "Ministrul Dezvoltării, Alexandru Stoica, a revenit sâmbătă cu noi explicații legate de legislația care prevede amenzi pentru proprietarii apartamelor care și-au închis balconul fără autorizație. Oficialul a dat asigurări statul nu va vâna cetățenii cu amenzi. „Vreau să fie foarte clar: românii NU vor plăti taxe înzecite și nici nu li se va dubla impozitul …"
+  },
+  {
+    "group_id": "group_fd2d27d294",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Daniel Bîrligea, inclus în echipa etapei din Serie A, după ce a spart gheața la Frosinone cu o dublă de senzație",
+        "link": "https://adevarul.ro/sport/daniel-birligea-inclus-in-echipa-etapei-din-serie-2567948.html"
+      }
+    ],
+    "published_at": 1793451501,
+    "title_hu": "Daniel Bîrligea, inclus în echipa etapei din Serie A, după ce a spart gheața la Frosinone cu o dublă de senzație",
+    "lead_hu": "Daniel Bîrligea a avut o apariție de senzație în tricoul lui Frosinone....",
+    "content_hu": "Daniel Bîrligea a avut o apariție de senzație în tricoul lui Frosinone.",
+    "title_ro": "Daniel Bîrligea, inclus în echipa etapei din Serie A, după ce a spart gheața la Frosinone cu o dublă de senzație",
+    "lead_ro": "Daniel Bîrligea a avut o apariție de senzație în tricoul lui Frosinone....",
+    "content_ro": "Daniel Bîrligea a avut o apariție de senzație în tricoul lui Frosinone."
+  },
+  {
     "group_id": "group_9f2ec73499",
     "category": "Erdély",
     "is_synthesized": false,
@@ -445,7 +487,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "G4Media",
@@ -456,6 +498,11 @@
         "source": "Agerpres (HU)",
         "title": "Salvamont Prahova: Toate traseele montane de altitudine închise din cauza vremii",
         "link": "https://agerpres.ro/social/2026/10/31/salvamont-prahova-toate-traseele-montane-de-altitudine-inchise-din-cauza-vremii--1608708"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Toate traseele montane de altitudine din Prahova, închise din cauza ninsorilor. La Omu, stratul de zăpadă va fi de 50 de cm",
+        "link": "https://stirileprotv.ro/stiri/actualitate/toate-traseele-montane-de-altitudine-din-prahova-inchise-din-cauza-ninsorilor-la-omu-stratul-de-zapada-va-fi-de-50-de-cm.html"
       }
     ],
     "published_at": 1793448232,
@@ -578,7 +625,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 13,
+    "sources_count": 14,
     "sources": [
       {
         "source": "Maszol",
@@ -644,6 +691,11 @@
         "source": "Mediafax",
         "title": "Trei copii în vârstă de 11, 12 și 13 ani, dispăruți în Sălaj. Poliția cere ajutorul populației",
         "link": "https://www.mediafax.ro/stirile-zilei/trei-copii-in-varsta-de-11-12-si-13-ani-disparuti-in-salaj-politia-cere-ajutorul-populatiei-23834417"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Noi indicii în cazul celor trei frați dispăruți din Sălaj. Poliţia verifică şi ipoteza răpirii. Cine este bărbatul cu care ar fi fost văzut unul dintre copii",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/noi-indicii-in-cazul-celor-trei-frati-disparuti-2567949.html"
       }
     ],
     "published_at": 1793447715,
@@ -15828,6 +15880,27 @@
     "content_ro": "Ministrul Finanțelor, Alexandru Nazare, a declarat vineri, la finalul ședinței de Guvern, că aprobarea primei rectificări bugetare din 2026 este esențială pentru menținerea credibilității României pe piețele financiare internaționale și pentru protejarea ratingului de țară."
   },
   {
+    "group_id": "group_71c620118d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Furturi de cabluri din parcuri fotovoltaice, în trei judeţe. Suspecţii aveau două tone de cupru şi sute de mii de lei",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/furturi-de-cabluri-din-parcuri-fotovoltaice-in-trei-judete-suspectii-aveau-doua-tone-de-cupru-si-sute-de-mii-de-lei-4015297"
+      }
+    ],
+    "published_at": 1793365470,
+    "title_hu": "Furturi de cabluri din parcuri fotovoltaice, în trei judeţe. Suspecţii aveau două tone de cupru şi sute de mii de lei",
+    "lead_hu": "Şapte persoane sunt suspectate că au furat aproximativ 1.500 de metri de cabluri electrice dintr-un parc fotovoltaic din Dâmboviţa, pentru a recupera şi vinde cuprul. În urma cercetărilor, poliţiştii ...",
+    "content_hu": "Şapte persoane sunt suspectate că au furat aproximativ 1.500 de metri de cabluri electrice dintr-un parc fotovoltaic din Dâmboviţa, pentru a recupera şi vinde cuprul. În urma cercetărilor, poliţiştii au descoperit la suspecţi două tone de cupru şi sute de mii de lei. Unul dintre bărbaţi a fost plasat săptămâna aceasta sub control judiciar. Anchetatorii îi suspectează pe acesta şi pe complicii săi că ar fi comis furturi similare şi în judeţele Ilfov şi Giurgiu.",
+    "title_ro": "Furturi de cabluri din parcuri fotovoltaice, în trei judeţe. Suspecţii aveau două tone de cupru şi sute de mii de lei",
+    "lead_ro": "Şapte persoane sunt suspectate că au furat aproximativ 1.500 de metri de cabluri electrice dintr-un parc fotovoltaic din Dâmboviţa, pentru a recupera şi vinde cuprul. În urma cercetărilor, poliţiştii ...",
+    "content_ro": "Şapte persoane sunt suspectate că au furat aproximativ 1.500 de metri de cabluri electrice dintr-un parc fotovoltaic din Dâmboviţa, pentru a recupera şi vinde cuprul. În urma cercetărilor, poliţiştii au descoperit la suspecţi două tone de cupru şi sute de mii de lei. Unul dintre bărbaţi a fost plasat săptămâna aceasta sub control judiciar. Anchetatorii îi suspectează pe acesta şi pe complicii săi că ar fi comis furturi similare şi în judeţele Ilfov şi Giurgiu."
+  },
+  {
     "group_id": "group_aa436b96db",
     "category": "Általános",
     "is_synthesized": false,
@@ -15910,111 +15983,6 @@
     "title_ro": "Fostul prim-ministru Ludovic Orban, atac dur la PSD: Totul este o parodie nenorocită, un discurs pervers, schizoid. Luca Niculescu va juca cum îi cântă PSD-ul, nu are practic o autoritate reală",
     "lead_ro": "Ludovic Orban acuză PSD că controlează Guvernul și susține că premierul Luca Niculescu nu are autoritate reală. Fostul premier avertizează că social-democrații îl vor îndepărta dacă nu le respectă sol…",
     "content_ro": "Ludovic Orban acuză PSD că controlează Guvernul și susține că premierul Luca Niculescu nu are autoritate reală. Fostul premier avertizează că social-democrații îl vor îndepărta dacă nu le respectă solicitările, scrie Mediafax. PSD îl va arunca peste bord pe Luca Niculescu, dacă premierul va nesocoti solicitările social-democraților, declară la RFI fostul prim-ministru Ludovic Orban. În […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_169305ea6f",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Őszi kikapcsolódásra várja a vendégeket a hatolykai fürdőközpont",
-        "link": "https://www.pontmaros.ro/oszi-kikapcsolodasra-varja-a-vendegeket-a-hatolykai-furdokozpont/"
-      }
-    ],
-    "published_at": 1793365200,
-    "title_hu": "Őszi kikapcsolódásra várja a vendégeket a hatolykai fürdőközpont",
-    "lead_hu": "A nyugodt környezet, a természet közelsége és a pihenést szolgáló kezelések lehetősége várja azokat, akik néhány napra szeretnének kiszakadni a hétköznapok rohanásából a Hatolykai Fürdőközpontban. …",
-    "content_hu": "A nyugodt környezet, a természet közelsége és a pihenést szolgáló kezelések lehetősége várja azokat, akik néhány napra szeretnének kiszakadni a hétköznapok rohanásából a Hatolykai Fürdőközpontban. …",
-    "title_ro": "Őszi kikapcsolódásra várja a vendégeket a hatolykai fürdőközpont",
-    "lead_ro": "A nyugodt környezet, a természet közelsége és a pihenést szolgáló kezelések lehetősége várja azokat, akik néhány napra szeretnének kiszakadni a hétköznapok rohanásából a Hatolykai Fürdőközpontban. …",
-    "content_ro": "A nyugodt környezet, a természet közelsége és a pihenést szolgáló kezelések lehetősége várja azokat, akik néhány napra szeretnének kiszakadni a hétköznapok rohanásából a Hatolykai Fürdőközpontban. …"
-  },
-  {
-    "group_id": "group_0f08790293",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Ministrul Energiei, apel pentru CE Valea Jiului. Dumitru Chisăliță: Dezechilibrul actual riscă să se transforme într-o situaţie cu risc major asupra siguranţei publice, mediului şi stabilităţii sociale",
-        "link": "https://www.mediafax.ro/economic/ministrul-energiei-apel-pentru-ce-valea-jiului-dumitru-chisalita-dezechilibrul-actual-risca-sa-se-transforme-intr-o-situatie-cu-risc-major-asupra-sigurantei-publice-mediului-si-stabilitatii-social-23834654"
-      }
-    ],
-    "published_at": 1793365167,
-    "title_hu": "Ministrul Energiei, apel pentru CE Valea Jiului. Dumitru Chisăliță: Dezechilibrul actual riscă să se transforme într-o situaţie cu risc major asupra siguranţei publice, mediului şi stabilităţii sociale",
-    "lead_hu": "Dezechilibrul actual de la Complexul Energetic „Valea Jiului” riscă să se transforme, în lipsa unei intervenţii imediate, dintr-o problemă financiară într-o situaţie cu risc major asupra siguranţei pu…",
-    "content_hu": "Dezechilibrul actual de la Complexul Energetic „Valea Jiului” riscă să se transforme, în lipsa unei intervenţii imediate, dintr-o problemă financiară într-o situaţie cu risc major asupra siguranţei publice, mediului şi stabilităţii sociale, ale cărei costuri de remediere poate depăşi semnificativ efortul bugetar necesar în prezent, a transmis Dumitru Chisăliță, ministrul Energiei, într-o informare ajunsă pe masa Guvernului în ședința de vineri.",
-    "title_ro": "Ministrul Energiei, apel pentru CE Valea Jiului. Dumitru Chisăliță: Dezechilibrul actual riscă să se transforme într-o situaţie cu risc major asupra siguranţei publice, mediului şi stabilităţii sociale",
-    "lead_ro": "Dezechilibrul actual de la Complexul Energetic „Valea Jiului” riscă să se transforme, în lipsa unei intervenţii imediate, dintr-o problemă financiară într-o situaţie cu risc major asupra siguranţei pu…",
-    "content_ro": "Dezechilibrul actual de la Complexul Energetic „Valea Jiului” riscă să se transforme, în lipsa unei intervenţii imediate, dintr-o problemă financiară într-o situaţie cu risc major asupra siguranţei publice, mediului şi stabilităţii sociale, ale cărei costuri de remediere poate depăşi semnificativ efortul bugetar necesar în prezent, a transmis Dumitru Chisăliță, ministrul Energiei, într-o informare ajunsă pe masa Guvernului în ședința de vineri."
-  },
-  {
-    "group_id": "group_d9b26aa707",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Vicepreședintele AJF, acuzat că și-a dat pantalonii jos în fața arbitrilor: „Voi știți cine p*** mea sunt eu?!”",
-        "link": "https://www.gsp.ro/fotbal/liga-4/liga-4-ilfov-marius-serban-scandal-arbitri-branesti-993963.html"
-      }
-    ],
-    "published_at": 1793365148,
-    "title_hu": "Vicepreședintele AJF, acuzat că și-a dat pantalonii jos în fața arbitrilor: „Voi știți cine p*** mea sunt eu?!”",
-    "lead_hu": "Acuzații scandaloase planează în jurul unui meci disputat sâmbăta trecută, pe 24 octombrie, în Liga 4 Ilfov. Vicepreședintele AJF Ilfov, Marius Șerban, care ocupă și funcția de delegat la CS Brănești,…",
-    "content_hu": "Acuzații scandaloase planează în jurul unui meci disputat sâmbăta trecută, pe 24 octombrie, în Liga 4 Ilfov. Vicepreședintele AJF Ilfov, Marius Șerban, care ocupă și funcția de delegat la CS Brănești, ar fi intrat în vestiarul arbitrilor după meci și le-ar fi arătat acestora organele genitale! El neagă gestul, dar își asumă că a folosit un limbaj suburban la adresa oficialilor de joc. ...",
-    "title_ro": "Vicepreședintele AJF, acuzat că și-a dat pantalonii jos în fața arbitrilor: „Voi știți cine p*** mea sunt eu?!”",
-    "lead_ro": "Acuzații scandaloase planează în jurul unui meci disputat sâmbăta trecută, pe 24 octombrie, în Liga 4 Ilfov. Vicepreședintele AJF Ilfov, Marius Șerban, care ocupă și funcția de delegat la CS Brănești,…",
-    "content_ro": "Acuzații scandaloase planează în jurul unui meci disputat sâmbăta trecută, pe 24 octombrie, în Liga 4 Ilfov. Vicepreședintele AJF Ilfov, Marius Șerban, care ocupă și funcția de delegat la CS Brănești, ar fi intrat în vestiarul arbitrilor după meci și le-ar fi arătat acestora organele genitale! El neagă gestul, dar își asumă că a folosit un limbaj suburban la adresa oficialilor de joc. ..."
-  },
-  {
-    "group_id": "group_ce20588413",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "STUDIU Salvaţi Copiii: Aproape 42% dintre părinţii care lucrează în străinătate intenţionează să revină în România",
-        "link": "https://www.g4media.ro/studiu-salvati-copiii-aproape-42-dintre-parintii-care-lucreaza-in-strainatate-intentioneaza-sa-revina-in-romania.html"
-      }
-    ],
-    "published_at": 1793365140,
-    "title_hu": "STUDIU Salvaţi Copiii: Aproape 42% dintre părinţii care lucrează în străinătate intenţionează să revină în România",
-    "lead_hu": "41,7% dintre părinţii români care lucrează în străinătate intenţionează să revină definitiv în România în următorii ani, iar peste o treime dintre aceştia afirmă că relaţia cu propriul copil a devenit…",
-    "content_hu": "41,7% dintre părinţii români care lucrează în străinătate intenţionează să revină definitiv în România în următorii ani, iar peste o treime dintre aceştia afirmă că relaţia cu propriul copil a devenit mai distantă, potrivit unei cercetări realizate de Salvaţi Copiii România, cu finanţarea Departamentului pentru Românii de Pretutindeni, scrie Agerpres. Cercetarea a fost realizată în […] © G4Media.ro.",
-    "title_ro": "STUDIU Salvaţi Copiii: Aproape 42% dintre părinţii care lucrează în străinătate intenţionează să revină în România",
-    "lead_ro": "41,7% dintre părinţii români care lucrează în străinătate intenţionează să revină definitiv în România în următorii ani, iar peste o treime dintre aceştia afirmă că relaţia cu propriul copil a devenit…",
-    "content_ro": "41,7% dintre părinţii români care lucrează în străinătate intenţionează să revină definitiv în România în următorii ani, iar peste o treime dintre aceştia afirmă că relaţia cu propriul copil a devenit mai distantă, potrivit unei cercetări realizate de Salvaţi Copiii România, cu finanţarea Departamentului pentru Românii de Pretutindeni, scrie Agerpres. Cercetarea a fost realizată în […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_868bed2744",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "SUA anunță că au eliminat minele iraniene de pe principalele rute din Strâmtoarea Ormuz. Amiral american: Flota Iranului este pe fundul mării",
-        "link": "https://www.mediafax.ro/externe/sua-anunta-ca-au-eliminat-minele-iraniene-de-pe-principalele-rute-din-stramtoarea-ormuz-amiral-american-flota-iranului-este-pe-fundul-marii-23834618"
-      }
-    ],
-    "published_at": 1793365122,
-    "title_hu": "SUA anunță că au eliminat minele iraniene de pe principalele rute din Strâmtoarea Ormuz. Amiral american: Flota Iranului este pe fundul mării",
-    "lead_hu": "Forțele americane au curățat principalele rute de navigație din Strâmtoarea Ormuz de minele iraniene, susține comandantul CENTCOM, Brad Cooper. Amiralul a transmis vineri că flota militară a Iranului …",
-    "content_hu": "Forțele americane au curățat principalele rute de navigație din Strâmtoarea Ormuz de minele iraniene, susține comandantul CENTCOM, Brad Cooper. Amiralul a transmis vineri că flota militară a Iranului a fost distrusă și că navele comerciale pot traversa zona în siguranță.",
-    "title_ro": "SUA anunță că au eliminat minele iraniene de pe principalele rute din Strâmtoarea Ormuz. Amiral american: Flota Iranului este pe fundul mării",
-    "lead_ro": "Forțele americane au curățat principalele rute de navigație din Strâmtoarea Ormuz de minele iraniene, susține comandantul CENTCOM, Brad Cooper. Amiralul a transmis vineri că flota militară a Iranului …",
-    "content_ro": "Forțele americane au curățat principalele rute de navigație din Strâmtoarea Ormuz de minele iraniene, susține comandantul CENTCOM, Brad Cooper. Amiralul a transmis vineri că flota militară a Iranului a fost distrusă și că navele comerciale pot traversa zona în siguranță."
   },
   {
     "group_id": "group_6f6415bc17",
