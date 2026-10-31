@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_61f098e4e3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "A köztisztviselők már rég rászabadították az AI-t az aktákra, az állam csak most próbál észbe kapni",
+        "link": "https://transtelex.ro/kozelet/2026/10/31/koztisztviselok-ai-hasznalat-szabalyozas"
+      }
+    ],
+    "published_at": 1793440587,
+    "title_hu": "A köztisztviselők már rég rászabadították az AI-t az aktákra, az állam csak most próbál észbe kapni",
+    "lead_hu": "Miközben Romániában sem egységes szabályozás, sem biztonságos állami szerverrendszer nem létezik a mesterséges intelligencia hivatali használatára, a köztisztviselők csendben a maguk szakállára vetik ...",
+    "content_hu": "Miközben Romániában sem egységes szabályozás, sem biztonságos állami szerverrendszer nem létezik a mesterséges intelligencia hivatali használatára, a köztisztviselők csendben a maguk szakállára vetik be a ChatGPT-t és a Claude-ot a napi munkában.",
+    "title_ro": "A köztisztviselők már rég rászabadították az AI-t az aktákra, az állam csak most próbál észbe kapni",
+    "lead_ro": "Miközben Romániában sem egységes szabályozás, sem biztonságos állami szerverrendszer nem létezik a mesterséges intelligencia hivatali használatára, a köztisztviselők csendben a maguk szakállára vetik ...",
+    "content_ro": "Miközben Romániában sem egységes szabályozás, sem biztonságos állami szerverrendszer nem létezik a mesterséges intelligencia hivatali használatára, a köztisztviselők csendben a maguk szakállára vetik be a ChatGPT-t és a Claude-ot a napi munkában."
+  },
+  {
+    "group_id": "group_e316fd3c11",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Bővült az ENSZ-főtitkári posztra jelöltek száma",
+        "link": "https://maszol.ro/kulfold/Bovult-az-ENSZ-fotitkari-posztra-jeloltek-szama"
+      }
+    ],
+    "published_at": 1793440320,
+    "title_hu": "Bővült az ENSZ-főtitkári posztra jelöltek száma",
+    "lead_hu": "Törökország pénteken hivatalosan is jelölte Feridun Sinirlioglut, az Európai Biztonsági és Együttműködési Szervezet (EBESZ) főtitkárát az ENSZ főtitkári posztjára – közölte a török külügyminisztérium....",
+    "content_hu": "Törökország pénteken hivatalosan is jelölte Feridun Sinirlioglut, az Európai Biztonsági és Együttműködési Szervezet (EBESZ) főtitkárát az ENSZ főtitkári posztjára – közölte a török külügyminisztérium.",
+    "title_ro": "Bővült az ENSZ-főtitkári posztra jelöltek száma",
+    "lead_ro": "Törökország pénteken hivatalosan is jelölte Feridun Sinirlioglut, az Európai Biztonsági és Együttműködési Szervezet (EBESZ) főtitkárát az ENSZ főtitkári posztjára – közölte a török külügyminisztérium....",
+    "content_ro": "Törökország pénteken hivatalosan is jelölte Feridun Sinirlioglut, az Európai Biztonsági és Együttműködési Szervezet (EBESZ) főtitkárát az ENSZ főtitkári posztjára – közölte a török külügyminisztérium."
+  },
+  {
     "group_id": "group_dd0615cce9",
     "category": "Politika",
     "is_synthesized": false,
@@ -2681,7 +2723,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Adevărul",
@@ -2712,6 +2754,11 @@
         "source": "HotNews.ro",
         "title": "Escaladare dramatică a războiului pe justiție în Polonia. Karol Nawrocki a convocat o ședință de urgență cu partidele parlamentare",
         "link": "https://hotnews.ro/escaladare-dramatica-a-razboiului-pe-justitie-in-polonia-karol-nawrocki-a-convocat-o-sedinta-de-urgenta-cu-partidele-parlamentare-2391299"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Criza din Polonia explicată. Cum s-a ajuns la haosul de la Varșovia și ce urmează",
+        "link": "https://www.mediafax.ro/externe/criza-din-polonia-explicata-cum-s-a-ajuns-la-haosul-de-la-varsovia-si-ce-urmeaza-23835105"
       }
     ],
     "published_at": 1793429765,
@@ -4933,12 +4980,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Criză politică majoră în Polonia. Protestatarii au forțat intrarea în Tribunalul Constituțional, iar președintele și-a întors avionul din drum. Acuzații de lovitură de stat",
         "link": "https://www.mediafax.ro/stirile-zilei/criza-politica-majora-in-polonia-protestatarii-au-fortat-intrarea-in-tribunalul-constitutional-iar-presedintele-si-a-intors-avionul-din-drum-acuzatii-de-lovitura-de-stat-23834985"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A rohamrendőröket megkerülve, a bírákon átgázolva tört be a lengyel elnök az alkotmánybíróságra",
+        "link": "https://transtelex.ro/kulfold/2026/10/31/lengyelorszag-alkotmanybirosag-karol-nawrocki"
       }
     ],
     "published_at": 1793394393,
@@ -17500,178 +17552,6 @@
     "title_ro": "Un plan zilnic de mese, coșul de consum pentru trai decent și alte vești din gastro, în newsletterul HotNews Food din 31 octombrie",
     "lead_ro": "HotNews Food are, de săptămâna aceasta, o rubrică de planificare a meselor, care să vă ajute să nu vă mai întrebați tot timpul „ce mâncăm azi?”. Sau să nu vă mai întrebe alții. Puteți să le spuneți: „…",
     "content_ro": "HotNews Food are, de săptămâna aceasta, o rubrică de planificare a meselor, care să vă ajute să nu vă mai întrebați tot timpul „ce mâncăm azi?”. Sau să nu vă mai întrebe alții. Puteți să le spuneți: „Vezi acolo pe frigider!”. Mai multe detalii, în newsletterul HotNews Food de mâine, 24 octombrie. Tot în ediția …"
-  },
-  {
-    "group_id": "group_8d99d07585",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Daniel Niculae sare în apărarea lui FCSB: „Cred că a fost un accident” » Cum explică eșecul de la Bistrița",
-        "link": "https://www.gsp.ro/fotbal/liga-1/imaginile-din-vestiar-fcsb-bistrita-daniel-nicuale-993907.html"
-      }
-    ],
-    "published_at": 1793354160,
-    "title_hu": "Daniel Niculae sare în apărarea lui FCSB: „Cred că a fost un accident” » Cum explică eșecul de la Beszterce",
-    "lead_hu": "Daniel Niculae (44 de ani), fost internațional român și jucător al Rapidului, a fost prezent în studioul emisiunii GSP Live, acolo unde a vorbit despre victoria mare obținută joi seară de Gloria Beszt…",
-    "content_hu": "Daniel Niculae (44 de ani), fost internațional român și jucător al Rapidului, a fost prezent în studioul emisiunii GSP Live, acolo unde a vorbit despre victoria mare obținută joi seară de Gloria Beszterce, scor 1-0, în fața celor de la FCSB, în a doua etapă din faza grupelor Cupei României Betano. ...",
-    "title_ro": "Daniel Niculae sare în apărarea lui FCSB: „Cred că a fost un accident” » Cum explică eșecul de la Bistrița",
-    "lead_ro": "Daniel Niculae (44 de ani), fost internațional român și jucător al Rapidului, a fost prezent în studioul emisiunii GSP Live, acolo unde a vorbit despre victoria mare obținută joi seară de Gloria Beszt…",
-    "content_ro": "Daniel Niculae (44 de ani), fost internațional român și jucător al Rapidului, a fost prezent în studioul emisiunii GSP Live, acolo unde a vorbit despre victoria mare obținută joi seară de Gloria Beszterce, scor 1-0, în fața celor de la FCSB, în a doua etapă din faza grupelor Cupei României Betano. ..."
-  },
-  {
-    "group_id": "group_6ff398ecb8",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Ștefania a murit cu o lună înainte să împlinească 18 ani. Sute de oameni s-au mobilizat pentru salvarea fetei",
-        "link": "https://www.cancan.ro/stefania-a-murit-cu-o-luna-inainte-sa-implineasca-18-ani-sute-de-oameni-s-au-mobilizat-pentru-salvarea-fetei-21538911"
-      }
-    ],
-    "published_at": 1793354096,
-    "title_hu": "Ștefania a murit cu o lună înainte să împlinească 18 ani. Sute de oameni s-au mobilizat pentru salvarea fetei",
-    "lead_hu": "Popoiu Ștefania Daria a murit cu aproximativ o lună înainte să împlinească 18 ani. Adolescenta se afla internată în stare gravă la Spitalul de Urgență Floreasca din București, după ce comunitatea din …",
-    "content_hu": "Popoiu Ștefania Daria a murit cu aproximativ o lună înainte să împlinească 18 ani. Adolescenta se afla internată în stare gravă la Spitalul de Urgență Floreasca din București, după ce comunitatea din mediul online s-a mobilizat pentru campanii de donare de sânge. Familia și prietenii se pregătesc acum de înmormântare. Originară din Galați, moartea fulgerătoare […]",
-    "title_ro": "Ștefania a murit cu o lună înainte să împlinească 18 ani. Sute de oameni s-au mobilizat pentru salvarea fetei",
-    "lead_ro": "Popoiu Ștefania Daria a murit cu aproximativ o lună înainte să împlinească 18 ani. Adolescenta se afla internată în stare gravă la Spitalul de Urgență Floreasca din București, după ce comunitatea din …",
-    "content_ro": "Popoiu Ștefania Daria a murit cu aproximativ o lună înainte să împlinească 18 ani. Adolescenta se afla internată în stare gravă la Spitalul de Urgență Floreasca din București, după ce comunitatea din mediul online s-a mobilizat pentru campanii de donare de sânge. Familia și prietenii se pregătesc acum de înmormântare. Originară din Galați, moartea fulgerătoare […]"
-  },
-  {
-    "group_id": "group_3871d426f1",
-    "fingerprint": "ba53cf8f66e29b0d0b325275c39e1915",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 14,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Un român, rănit în accidentul feroviar din Spania soldat cu 69 de morți. MAE: „A primit îngrijiri medicale, nu este internat”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/un-roman-ranit-in-accidentul-feroviar-din-spania-2567392.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Bucureștiul are o restanță de suflet”. Rogobete vrea un centru pentru arși gravi la București, la 11 ani de la Colectiv",
-        "link": "https://www.mediafax.ro/social/bucurestiul-are-o-restanta-de-suflet-rogobete-vrea-un-centru-pentru-arsi-gravi-la-bucuresti-la-11-ani-de-la-colectiv-23833873"
-      },
-      {
-        "source": "Digi24",
-        "title": "Diana Buzoianu, după revenirea directorului demis la Apele Române: „S-a însănătoșit când a văzut-o pe Natalia Intotero”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/diana-buzoianu-dupa-revenirea-directorului-demis-la-apele-romane-s-a-insanatosit-cand-a-vazut-o-pe-natalia-intotero-4013931"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "„Minune medicală!”. Buzoianu spune că șeful de la Apele Române a evitat demiterea prin concediu medical până la plecarea ei din funcție",
-        "link": "https://hotnews.ro/minune-medicala-buzoianu-spune-ca-seful-de-la-apele-romane-a-evitat-demiterea-prin-concediu-medical-pana-la-plecarea-ei-din-functie-2389882"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "„Minune medicală” la Apele Române: directorul demis de Diana Buzoianu a revenit în funcție",
-        "link": "https://stirileprotv.ro/stiri/politic/minune-medicala-la-apele-romane-directorul-demis-de-diana-buzoianu-a-revenit-in-functie.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Rogobete: „Bucureștiul are o restanță de suflet”. La 11 ani de la tragedia Colectiv, Capitala încă nu are un spital pentru mari arși",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/rogobete-bucurestiul-are-o-restanta-de-suflet-la-11-ani-de-la-tragedia-colectiv-capitala-inca-nu-are-un-spital-pentru-mari-arsi-4014017"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Am controlat partida!” » Ce spune antrenorul lui Dinamo după marea victorie din Liga Campionilor + Ce scrie EHF. Ce adversare vor avea „dulăii”",
-        "link": "https://www.gsp.ro/sporturi/handbal/ehf-liga-campionilor-dinamo-adversare-paulo-pereira-reactie-montpellier-993916.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "În căutarea noii generații de 10 a României. Ciprian Marica, mentor GEN10: „Mulți copii visează să devină mari fotbaliști și au nevoie de repere, dar și de o infrastructură corectă”",
-        "link": "https://www.mediafax.ro/romania-oameni-comunitati/in-cautarea-noii-generatii-de-10-a-romaniei-ciprian-marica-mentor-gen10-multi-copii-viseaza-sa-devina-mari-fotbalisti-si-au-nevoie-de-repere-dar-si-de-o-infrastructura-corecta-23834415"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Un român, martor la tragedia feroviară din Spania. „Eram la 15-20 de metri de trenul cu accidentul. A fost o explozie ca o bombă”",
-        "link": "https://hotnews.ro/un-roman-martor-la-tragedia-feroviara-din-spania-eram-la-15-20-de-metri-de-trenul-cu-accidentul-a-fost-o-explozie-ca-o-bomba-2389597"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Schimbare de gardă, un reportaj de Rareș Năstase, la România, te iubesc!: „Am văzut o altă mentalitate”",
-        "link": "https://stirileprotv.ro/stiri/social/schimbare-de-garda-un-reportaj-de-rares-nastase-la-romania-te-iubesc-am-vazut-o-alta-mentalitate.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "În căutarea noii generații de 10 a României. Ciprian Marica, mentor GEN10: „Mulți copii visează să devină mari fotbaliști și au nevoie de repere, dar și de o infrastructură corectă”",
-        "link": "https://www.mediafax.ro/romania-oameni-comunitati/in-cautarea-noii-generatii-de-10-a-romaniei-ciprian-marica-mentor-gen10-multi-copii-viseaza-sa-devina-mari-fotbalisti-si-au-nevoie-de-repere-dar-si-de-o-infrastructura-corecta-23834415#new_tab"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Premierul Luca Niculescu, la 11 ani de la Colectiv: „Le datorăm nu numai respect și compasiune, ci și fapte”. Noi demersuri pentru un centru de mari arși în București",
-        "link": "https://www.mediafax.ro/politic/premierul-luca-niculescu-la-11-ani-de-la-colectiv-le-datoram-nu-numai-respect-si-compasiune-ci-si-fapte-noi-demersuri-pentru-un-centru-de-mari-arsi-in-bucuresti-23834550"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Românul din Spania care își caută mama biologică după ce a descoperit un document vechi: „Acest mesaj este pentru tine!”",
-        "link": "https://adevarul.ro/stiri-interne/societate/romanul-din-spania-care-isi-cauta-mama-biologica-2567705.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Artistul care a plecat din IRIS fără regrete. Mihai Alexandru a sacrificat faima de a fi într-una dintre marile trupe ale României: „Dacă aș fi rămas nu făceam niciodată cariera de azi”",
-        "link": "https://www.cancan.ro/artistul-care-a-plecat-din-iris-fara-regrete-mihai-alexandru-a-sacrificat-faima-de-a-fi-intr-una-dintre-marile-trupe-ale-romaniei-daca-as-fi-ramas-nu-faceam-niciodata-cariera-de-azi-21539087"
-      }
-    ],
-    "published_at": 1793353995,
-    "title_hu": "Halálos spanyolországi vonatbaleset: román utas sérült meg",
-    "lead_hu": "A Toledo tartományban történt vasúti szerencsétlenségben 69 ember vesztette életét. Egy román utas is megsérült; a román külügyminisztérium szerint ellátták, de nem kellett kórházban maradnia.",
-    "content_hu": "• **A baleset** szerda reggel történt a Madrid–Sevilla vonal Toledo tartományon áthaladó részén, ahol egy AVE és egy Iryo nagysebességű vonat ütközött össze. A két szerelvényen összesen több mint ötszázan utaztak, a halálos áldozatok száma 69 volt.\n\n• **Az ütközés előzménye** a korábbi beszámoló szerint az volt, hogy az Iryo egy informatikai rendszer meghibásodása miatt megállt a pályán. A mögötte érkező AVE óránként több mint 100 kilométeres sebességgel haladt; a becsapódás után több kocsi kisiklott, a mentés pedig éjszaka is folytatódott.\n\n• **Ioan Dunca**, a román szemtanú elmondása alapján a helyszíntől mintegy 15–20 méterre volt, amikor a szerelvények összeütköztek. Azt állította, hogy ő hívta először a 112-t, majd a mentésben is részt vett: vezetéket vágott el, és segített az utasoknak elhagyni a vonatot.\n\n• **A sérült román utast** a Ciudad Real-i román konzulátus az utaslisták adatai alapján azonosította, majd felvette vele a kapcsolatot. A férfi megerősítette, hogy megsérült, orvosi ellátást kapott, kórházi felvételre nem volt szüksége, és további vizsgálatokat terveztek számára.\n\n• **Október 28-án, csütörtökön** a román külügy közölte, hogy a spanyol hatóságok addig nem tájékoztatták a konzulátust román áldozatokról vagy sérültekről, és konzuli segítséget sem kértek. A konzulátus és a madridi nagykövetség belügyi attaséja kapcsolatban maradt a spanyol szervekkel, és szükség esetére segítséget ajánlott.",
-    "title_ro": "Accident feroviar mortal în Spania: un pasager român a fost rănit",
-    "lead_ro": "Coliziunea feroviară din provincia Toledo s-a soldat cu 69 de decese. Un pasager român a fost rănit, însă, potrivit Ministerului român de Externe, a primit îngrijiri medicale fără să fie internat.",
-    "content_ro": "• **Accidentul** s-a produs miercuri dimineață pe tronsonul din provincia Toledo al liniei Madrid–Sevilla, unde s-au ciocnit un tren AVE și unul Iryo, ambele de mare viteză. În cele două garnituri călătoreau peste 500 de persoane, iar bilanțul a ajuns la 69 de morți.\n\n• **Împrejurările coliziunii**, potrivit informațiilor prezentate anterior, includ oprirea trenului Iryo pe șine în urma unei defecțiuni a unui sistem informatic. Garnitura AVE care venea din urmă circula cu peste 100 km/h; impactul a provocat deraierea unor vagoane, iar operațiunile de salvare au continuat și pe timpul nopții.\n\n• **Ioan Dunca**, martor român, a relatat că se afla la aproximativ 15–20 de metri de locul accidentului. El a spus că a sunat primul la numărul 112 și că a intervenit pentru a-i ajuta pe călători, inclusiv prin tăierea unui cablu și sprijinirea evacuării din tren.\n\n• **Pasagerul român rănit** a fost identificat de Consulatul României la Ciudad Real pe baza listelor de călători și contactat de reprezentanții acestuia. Bărbatul a confirmat că a suferit răni și a primit îngrijiri medicale; nu a fost internat, dar urma să facă investigații suplimentare.\n\n• **Joi, 28 octombrie**, Ministerul român de Externe a precizat că autoritățile spaniole nu notificaseră consulatul despre cetățeni români printre victime și că nu primise solicitări de asistență consulară. Consulatul și atașatul pentru afaceri interne al Ambasadei României la Madrid au păstrat legătura cu instituțiile spaniole și s-au declarat pregătiți să ofere sprijin."
-  },
-  {
-    "group_id": "group_3db8ef87e6",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Mauro Icardi se autopropune la echipa lui Cristi Chivu! » „Ar fi ceva special pentru mine”",
-        "link": "https://www.gsp.ro/international/campionate/fostul-golgheter-mauro-icardi-autopropune-inter-chivu-s-ar-inchide-un-ciclu-993915.html"
-      }
-    ],
-    "published_at": 1793353930,
-    "title_hu": "Mauro Icardi se autopropune la echipa lui Cristi Chivu! » „Ar fi ceva special pentru mine”",
-    "lead_hu": "În cadrul unui lung interviu lung pentru La Repubblica, Mauro Icardi (33 de ani) a vorbit despre dorința de a purta din nou tricoul lui Inter. „Aș vrea să mă întorc! Visez să închid cercul și să câști…",
-    "content_hu": "În cadrul unui lung interviu lung pentru La Repubblica, Mauro Icardi (33 de ani) a vorbit despre dorința de a purta din nou tricoul lui Inter. „Aș vrea să mă întorc! Visez să închid cercul și să câștig”, a mărtusit atacantul argentinian, liber de contract de patru luni. În ciuda faptului că au trecut șase ani și jumătare de la despărțirea sa de Inter, Mauro Icardi nu a uitat cea mai bună perioadă a carierei petrecută la echipa nerazzurra. ...",
-    "title_ro": "Mauro Icardi se autopropune la echipa lui Cristi Chivu! » „Ar fi ceva special pentru mine”",
-    "lead_ro": "În cadrul unui lung interviu lung pentru La Repubblica, Mauro Icardi (33 de ani) a vorbit despre dorința de a purta din nou tricoul lui Inter. „Aș vrea să mă întorc! Visez să închid cercul și să câști…",
-    "content_ro": "În cadrul unui lung interviu lung pentru La Repubblica, Mauro Icardi (33 de ani) a vorbit despre dorința de a purta din nou tricoul lui Inter. „Aș vrea să mă întorc! Visez să închid cercul și să câștig”, a mărtusit atacantul argentinian, liber de contract de patru luni. În ciuda faptului că au trecut șase ani și jumătare de la despărțirea sa de Inter, Mauro Icardi nu a uitat cea mai bună perioadă a carierei petrecută la echipa nerazzurra. ..."
-  },
-  {
-    "group_id": "group_5c273cdef7",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Vineri, ultima ediție a audițiilor pe nevăzute la Vocea României. Smiley: „N-am auzit asemenea note nici la Mariah Carey”",
-        "link": "https://stirileprotv.ro/show-buzz/entertainment/vineri-ultima-editie-a-auditiilor-pe-nevazute-la-vocea-romaniei-smiley-n-am-auzit-asemenea-note-nici-la-mariah-carey.html"
-      }
-    ],
-    "published_at": 1793353923,
-    "title_hu": "Vineri, ultima ediție a audițiilor pe nevăzute la Vocea României. Smiley: „N-am auzit asemenea note nici la Mariah Carey”",
-    "lead_hu": "Vineri, de la 20:30, antrenorii au ocazia, pentru ultima dată în acest sezon, să-și completeze echipele cu vocile pe care și le doresc.",
-    "content_hu": "Vineri, de la 20:30, antrenorii au ocazia, pentru ultima dată în acest sezon, să-și completeze echipele cu vocile pe care și le doresc.",
-    "title_ro": "Vineri, ultima ediție a audițiilor pe nevăzute la Vocea României. Smiley: „N-am auzit asemenea note nici la Mariah Carey”",
-    "lead_ro": "Vineri, de la 20:30, antrenorii au ocazia, pentru ultima dată în acest sezon, să-și completeze echipele cu vocile pe care și le doresc.",
-    "content_ro": "Vineri, de la 20:30, antrenorii au ocazia, pentru ultima dată în acest sezon, să-și completeze echipele cu vocile pe care și le doresc."
   },
   {
     "group_id": "group_01651ed007",
