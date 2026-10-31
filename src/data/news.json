@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_b17c645813",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "L-a învins la FIFA, acum l-a ales antrenor. Tânărul orădean care a cântat cu Smiley la FestiFall merge mai departe la „Vocea României” (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/l-a-invins-la-fifa-acum-l-a-ales-antrenor-tanarul-oradean-care-a-cantat-cu-smiley-la-festifall-merge-mai-departe-la-vocea-romaniei-video-206247.html"
+      }
+    ],
+    "published_at": 1793438940,
+    "title_hu": "L-a învins la FIFA, acum l-a ales antrenor. Tânărul orădean care a cântat cu Smiley la FestiFall merge mai departe la „Vocea României” (VIDEO)",
+    "lead_hu": "Orădeanul Alexandru Slăvescu, în vârstă de 19 ani, a întors trei scaune la audițiile pe nevăzute de la „Vocea României”, în ediția difuzată vineri seara, la PRO TV. Tânărul, care a cântat alături de S...",
+    "content_hu": "Orădeanul Alexandru Slăvescu, în vârstă de 19 ani, a întors trei scaune la audițiile pe nevăzute de la „Vocea României”, în ediția difuzată vineri seara, la PRO TV. Tânărul, care a cântat alături de Smiley la recenta ediție FestiFall, a ales să continue concursul în echipa acestuia. În aceeași emisiune a participat și orădeanca Natalia Bendre, însă niciun antrenor nu s-a întors la interpretarea ei.",
+    "title_ro": "L-a învins la FIFA, acum l-a ales antrenor. Tânărul orădean care a cântat cu Smiley la FestiFall merge mai departe la „Vocea României” (VIDEO)",
+    "lead_ro": "Orădeanul Alexandru Slăvescu, în vârstă de 19 ani, a întors trei scaune la audițiile pe nevăzute de la „Vocea României”, în ediția difuzată vineri seara, la PRO TV. Tânărul, care a cântat alături de S...",
+    "content_ro": "Orădeanul Alexandru Slăvescu, în vârstă de 19 ani, a întors trei scaune la audițiile pe nevăzute de la „Vocea României”, în ediția difuzată vineri seara, la PRO TV. Tânărul, care a cântat alături de Smiley la recenta ediție FestiFall, a ales să continue concursul în echipa acestuia. În aceeași emisiune a participat și orădeanca Natalia Bendre, însă niciun antrenor nu s-a întors la interpretarea ei."
+  },
+  {
+    "group_id": "group_ad17c805d3",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Alexandru Cordoș (PSD) este noul prefect al județului Cluj / A fost urmărit penal pentru complicitate la trafic de influenţă în dosarul în urma căruia soţia sa fost condamnată la 3 ani de închisoare cu suspendare",
+        "link": "https://www.g4media.ro/alexandru-cordos-psd-este-noul-prefect-al-judetului-cluj-a-fost-urmarit-penal-pentru-complicitate-la-trafic-de-influenta-in-dosarul-in-urma-caruia-sotia-sa-fost-condamnata-la-3-ani-de-inchisoare-c.html"
+      }
+    ],
+    "published_at": 1793438920,
+    "title_hu": "Alexandru Cordoș (PSD) este noul prefect al județului Cluj / A fost urmărit penal pentru complicitate la trafic de influenţă în dosarul în urma căruia soţia sa fost condamnată la 3 ani de închisoare cu suspendare",
+    "lead_hu": "Fost senator PSD, cu două mandate în Parlamentul României, Alexandru Cordoș revine astfel în prim-planul administrației publice județene, urmând să reprezinte Guvernul în județul Cluj, relatează Actua...",
+    "content_hu": "Fost senator PSD, cu două mandate în Parlamentul României, Alexandru Cordoș revine astfel în prim-planul administrației publice județene, urmând să reprezinte Guvernul în județul Cluj, relatează Actual de Cluj. Numirea vine după ce acesta și-a dat demisia din funcția de consilier județean, în contextul pregătirii pentru preluarea noii responsabilități. De asemenea, tot prin Hotărâre de […] © G4Media.ro.",
+    "title_ro": "Alexandru Cordoș (PSD) este noul prefect al județului Cluj / A fost urmărit penal pentru complicitate la trafic de influenţă în dosarul în urma căruia soţia sa fost condamnată la 3 ani de închisoare cu suspendare",
+    "lead_ro": "Fost senator PSD, cu două mandate în Parlamentul României, Alexandru Cordoș revine astfel în prim-planul administrației publice județene, urmând să reprezinte Guvernul în județul Cluj, relatează Actua...",
+    "content_ro": "Fost senator PSD, cu două mandate în Parlamentul României, Alexandru Cordoș revine astfel în prim-planul administrației publice județene, urmând să reprezinte Guvernul în județul Cluj, relatează Actual de Cluj. Numirea vine după ce acesta și-a dat demisia din funcția de consilier județean, în contextul pregătirii pentru preluarea noii responsabilități. De asemenea, tot prin Hotărâre de […] © G4Media.ro."
+  },
+  {
     "group_id": "group_7aee850c6b",
     "category": "Sport",
     "is_synthesized": false,
@@ -1110,7 +1152,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "Adevărul",
@@ -1151,6 +1193,11 @@
         "source": "HotNews.ro",
         "title": "România discută cu SUA despre suportarea costurilor prezenței militare americane. „Suntem în dialog, nu avem decizii finale”, spune ministrul de Externe",
         "link": "https://hotnews.ro/romania-discuta-cu-sua-despre-suportarea-costurilor-prezentei-militare-americane-suntem-in-dialog-nu-avem-decizii-finale-spune-ministrul-de-externe-2390285"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Consilierul prezidențial Marius Lazurca, întâlnire cu un oficial SUA de rang înalt. Mesajul transmis de Washington despre România",
+        "link": "https://adevarul.ro/politica/consilierul-prezidential-marius-lazurca-intalnire-2567896.html"
       }
     ],
     "published_at": 1793434500,
@@ -17832,206 +17879,6 @@
     "content_ro": "Vestiarul FCSB a fost lăsat într-o stare deplorabilă după înfrângerea cu Gloria Beszterce."
   },
   {
-    "group_id": "group_03a98a0dab",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ești în pericol dacă garniturile de metrou frânează brusc sau opresc între stații? Directorul general: 104 petiții depuse",
-        "link": "https://www.digi24.ro/stiri/esti-in-pericol-daca-garniturile-de-metrou-franeaza-brusc-sau-opresc-intre-statii-directorul-general-104-petitii-depuse-4013961"
-      }
-    ],
-    "published_at": 1793352524,
-    "title_hu": "Ești în pericol dacă garniturile de metrou frânează brusc sau opresc între stații? Directorul general: 104 petiții depuse",
-    "lead_hu": "Cei care au călătorit cel puțin o singură dată cu metroul prin București, au avut riscul să se confrunte cu situațiile neplăcute în care garniturile de metrou frânează brusc sau staționează între staț…",
-    "content_hu": "Cei care au călătorit cel puțin o singură dată cu metroul prin București, au avut riscul să se confrunte cu situațiile neplăcute în care garniturile de metrou frânează brusc sau staționează între stații cu ușile închise. Din păcate, de foarte multe ori, aceste incidente pot duce la atacuri de panică izolate sau neliniște în rândul călătorilor. Directorul general al Metrorex, Mariana Miclăuș, a explicat pentru digi24.ro dacă aceste situații pot pune integritatea călătorilor în pericol.",
-    "title_ro": "Ești în pericol dacă garniturile de metrou frânează brusc sau opresc între stații? Directorul general: 104 petiții depuse",
-    "lead_ro": "Cei care au călătorit cel puțin o singură dată cu metroul prin București, au avut riscul să se confrunte cu situațiile neplăcute în care garniturile de metrou frânează brusc sau staționează între staț…",
-    "content_ro": "Cei care au călătorit cel puțin o singură dată cu metroul prin București, au avut riscul să se confrunte cu situațiile neplăcute în care garniturile de metrou frânează brusc sau staționează între stații cu ușile închise. Din păcate, de foarte multe ori, aceste incidente pot duce la atacuri de panică izolate sau neliniște în rândul călătorilor. Directorul general al Metrorex, Mariana Miclăuș, a explicat pentru digi24.ro dacă aceste situații pot pune integritatea călătorilor în pericol."
-  },
-  {
-    "group_id": "group_ed281e98b3",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Cum a ajuns „croaziera fără sfârșit” să se încheie brusc într-un port din Cambodgia. „Eu sunt personajul negativ din această poveste”",
-        "link": "https://www.digi24.ro/stiri/externe/cum-a-ajuns-croaziera-fara-sfarsit-sa-se-incheie-brusc-intr-un-port-din-cambodgia-eu-sunt-personajul-negativ-din-aceasta-poveste-4013935"
-      }
-    ],
-    "published_at": 1793352453,
-    "title_hu": "Cum a ajuns „croaziera fără sfârșit” să se încheie brusc într-un port din Cambodgia. „Eu sunt personajul negativ din această poveste”",
-    "lead_hu": "După doi ani furtunoși pe mare, proprietarul companiei care a organizat o croazieră „fără sfârșit” avea un plan săptămâna trecută pentru a menține finanțele navei pe linia de plutire. Săptămâna aceast…",
-    "content_hu": "După doi ani furtunoși pe mare, proprietarul companiei care a organizat o croazieră „fără sfârșit” avea un plan săptămâna trecută pentru a menține finanțele navei pe linia de plutire. Săptămâna aceasta, însă, compania le-a cerut pasagerilor aflați la bord să părăsească nava în termen de câteva ore, relatează Business Insider.",
-    "title_ro": "Cum a ajuns „croaziera fără sfârșit” să se încheie brusc într-un port din Cambodgia. „Eu sunt personajul negativ din această poveste”",
-    "lead_ro": "După doi ani furtunoși pe mare, proprietarul companiei care a organizat o croazieră „fără sfârșit” avea un plan săptămâna trecută pentru a menține finanțele navei pe linia de plutire. Săptămâna aceast…",
-    "content_ro": "După doi ani furtunoși pe mare, proprietarul companiei care a organizat o croazieră „fără sfârșit” avea un plan săptămâna trecută pentru a menține finanțele navei pe linia de plutire. Săptămâna aceasta, însă, compania le-a cerut pasagerilor aflați la bord să părăsească nava în termen de câteva ore, relatează Business Insider."
-  },
-  {
-    "group_id": "group_b8f2a1dbfc",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "RomKat",
-        "title": "Tervezett a FIF az érsek atyával",
-        "link": "https://romkat.ro/2026/10/30/tervezett-a-fif-az-ersek-atyaval/"
-      }
-    ],
-    "published_at": 1793352360,
-    "title_hu": "Tervezett a FIF az érsek atyával",
-    "lead_hu": "Október utolsó napjain a Mindenszentek ünnepére készülve a Főegyházmegyei Ifjúsági Főlelkészség munkájában egy három éves folyamat a végéhez érkezett, ugyanis a FIF munkatársai Kovács Gergely érsek at…",
-    "content_hu": "Október utolsó napjain a Mindenszentek ünnepére készülve a Főegyházmegyei Ifjúsági Főlelkészség munkájában egy három éves folyamat a végéhez érkezett, ugyanis a FIF munkatársai Kovács Gergely érsek atyával találkozhatott az elkövetkezendő 5 év terveinek átbeszélésére, egy stratégia formájában. Közel három éves folyamat zárul le lassan, hiszen az irodai munkatársak először az előző stratégiát értékelték ki, majd […]",
-    "title_ro": "Tervezett a FIF az érsek atyával",
-    "lead_ro": "Október utolsó napjain a Mindenszentek ünnepére készülve a Főegyházmegyei Ifjúsági Főlelkészség munkájában egy három éves folyamat a végéhez érkezett, ugyanis a FIF munkatársai Kovács Gergely érsek at…",
-    "content_ro": "Október utolsó napjain a Mindenszentek ünnepére készülve a Főegyházmegyei Ifjúsági Főlelkészség munkájában egy három éves folyamat a végéhez érkezett, ugyanis a FIF munkatársai Kovács Gergely érsek atyával találkozhatott az elkövetkezendő 5 év terveinek átbeszélésére, egy stratégia formájában. Közel három éves folyamat zárul le lassan, hiszen az irodai munkatársak először az előző stratégiát értékelték ki, majd […]"
-  },
-  {
-    "group_id": "group_cd1791ba8d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "„În patru ore vom fi în avion”. Forțele de elită din Germania au început pregătirea pentru un război împotriva Rusiei",
-        "link": "https://www.digi24.ro/stiri/externe/in-patru-ore-vom-fi-in-avion-fortele-de-elita-din-germania-au-inceput-pregatirea-pentru-un-razboi-impotriva-rusiei-4013877"
-      }
-    ],
-    "published_at": 1793352334,
-    "title_hu": "„În patru ore vom fi în avion”. Forțele de elită din Germania au început pregătirea pentru un război împotriva Rusiei",
-    "lead_hu": "După 30 de ani în care s-a concentrat pe operațiuni de salvare a ostaticilor, operațiuni antiteroriste și misiuni de recunoaștere cu grad ridicat de risc, unitatea de elită a forțelor speciale KSK din…",
-    "content_hu": "După 30 de ani în care s-a concentrat pe operațiuni de salvare a ostaticilor, operațiuni antiteroriste și misiuni de recunoaștere cu grad ridicat de risc, unitatea de elită a forțelor speciale KSK din Germania se pregătește pentru o potențială confruntare militară cu Rusia, scrie Kyiv Post.",
-    "title_ro": "„În patru ore vom fi în avion”. Forțele de elită din Germania au început pregătirea pentru un război împotriva Rusiei",
-    "lead_ro": "După 30 de ani în care s-a concentrat pe operațiuni de salvare a ostaticilor, operațiuni antiteroriste și misiuni de recunoaștere cu grad ridicat de risc, unitatea de elită a forțelor speciale KSK din…",
-    "content_ro": "După 30 de ani în care s-a concentrat pe operațiuni de salvare a ostaticilor, operațiuni antiteroriste și misiuni de recunoaștere cu grad ridicat de risc, unitatea de elită a forțelor speciale KSK din Germania se pregătește pentru o potențială confruntare militară cu Rusia, scrie Kyiv Post."
-  },
-  {
-    "group_id": "group_1ed8fde9fd",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Sondaj realizat de un institut al lui Marius Lulea: AUR ar avea 10,8% din intenția de vot. „Partidul Călin Georgescu”, la debut",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/sondaj-realizat-de-un-institut-al-lui-marius-lulea-aur-ar-avea-108-din-intentia-de-vot-partidul-calin-georgescu-la-debut-4014513"
-      }
-    ],
-    "published_at": 1793352294,
-    "title_hu": "Sondaj realizat de un institut al lui Marius Lulea: AUR ar avea 10,8% din intenția de vot. „Partidul Călin Georgescu”, la debut",
-    "lead_hu": "Un sondaj realizat de Institutul pentru Politici Economice şi Publice (IPEP), condus de Marius Lulea, cofondator AUR exclus din partid şi aflat în conflict cu conducerea formaţiunii, susține că AUR ar…",
-    "content_hu": "Un sondaj realizat de Institutul pentru Politici Economice şi Publice (IPEP), condus de Marius Lulea, cofondator AUR exclus din partid şi aflat în conflict cu conducerea formaţiunii, susține că AUR are 10,8% în intenţia de vot, clasându-se după PSD, PNL şi USR. De asemenea, rezultatele ar indica existenţa a două electorate distincte pentru AUR şi Călin Georgescu, care însumează 23,9%. În plus, potrivit rezultatelor anunţate de Institut, liderul AUR, George Simion, ar fi cotat cu 58,8% în topul neîncrederii, devansat doar de preşedintele Nicuşor Dan.",
-    "title_ro": "Sondaj realizat de un institut al lui Marius Lulea: AUR ar avea 10,8% din intenția de vot. „Partidul Călin Georgescu”, la debut",
-    "lead_ro": "Un sondaj realizat de Institutul pentru Politici Economice şi Publice (IPEP), condus de Marius Lulea, cofondator AUR exclus din partid şi aflat în conflict cu conducerea formaţiunii, susține că AUR ar…",
-    "content_ro": "Un sondaj realizat de Institutul pentru Politici Economice şi Publice (IPEP), condus de Marius Lulea, cofondator AUR exclus din partid şi aflat în conflict cu conducerea formaţiunii, susține că AUR are 10,8% în intenţia de vot, clasându-se după PSD, PNL şi USR. De asemenea, rezultatele ar indica existenţa a două electorate distincte pentru AUR şi Călin Georgescu, care însumează 23,9%. În plus, potrivit rezultatelor anunţate de Institut, liderul AUR, George Simion, ar fi cotat cu 58,8% în topul neîncrederii, devansat doar de preşedintele Nicuşor Dan."
-  },
-  {
-    "group_id": "group_aa3840deac",
-    "fingerprint": "c10890646a24859355650e5f9cb8aab7",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Laura Codruța Kovesi își încheie mandatul de procuror-șef al Parchetului European. Fraude depistate de 67 miliarde euro",
-        "link": "https://stirileprotv.ro/justitie/laura-codruta-kovesi-isi-incheie-mandatul-de-procuror-sef-al-parchetului-european-fraude-depistate-de-67-miliarde-euro.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Befejezi hétéves mandátumát Laura Codruța Kövesi az Európai Ügyészség élén",
-        "link": "https://maszol.ro/kulfold/Befejezi-heteves-mandatumat-Laura-Codruta-Kovesi-az-Europai-Ugyeszseg-elen"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Laura Codruța Kovesi încheie activitatea la conducerea Parchetului European. În mandatul ei instituția a anchetat fraude de peste 67 de miliarde de euro",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/laura-codruta-kovesi-incheie-activitatea-la-2567609.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Laura Kovesi îşi încheie azi mandatul la conducerea Parchetului European. Anchete cu un prejudiciu total de peste 67 de miliarde euro",
-        "link": "https://www.digi24.ro/stiri/externe/ue/laura-kovesi-isi-incheie-azi-mandatul-la-conducerea-parchetului-european-anchete-cu-un-prejudiciu-total-de-peste-67-de-miliarde-euro-4014733"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Laura Kovesi îşi încheie azi mandatul la conducerea Parchetului European, după şapte ani: „Sunt îngrijorată că EPPO va fi ucis încet, tocmai pentru că își face treaba”",
-        "link": "https://hotnews.ro/laura-kovesi-isi-incheie-azi-mandatul-la-conducerea-parchetului-european-dupa-sapte-ani-sunt-ingrijorata-ca-eppo-va-fi-ucis-incet-tocmai-pentru-ca-isi-face-treaba-2390571"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Pénteken lejár Laura Codruța Kövesi mandátuma az Európai Ügyészség élén",
-        "link": "https://transtelex.ro/kozelet/2026/10/30/laura-codruta-kovesi-eppo-korrupcio-csalas"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Laura Codruța Kovesi își încheie mandatul de procuror-șef european",
-        "link": "https://agerpres.ro/romania-in-lume/2026/10/30/laura-codruta-kovesi-isi-incheie-mandatul-de-procuror-sef-european--1608398"
-      }
-    ],
-    "published_at": 1793352260,
-    "title_hu": "Kövesi távozik az EPPO éléről, rekordméretű ügyállománnyal",
-    "lead_hu": "Laura Codruța Kövesi október 30-án lezárja hétéves vezetői megbízatását az Európai Ügyészségnél, amelynek első európai főügyésze volt. Az Európai Bizottság értékelése nagyon hatékonynak minősítette az intézmény működését; az aktív vizsgálatokban feltételezett kár 67,27 milliárd euróra emelkedett.",
-    "content_hu": "• **Október 30.** Laura Codruța Kövesi ezen a napon fejezi be az EPPO vezetését. A román korrupcióellenes ügyészség korábbi vezetője 2019 októberében lett a szervezet első európai főügyésze. Utódja, Andrés Ritter német ügyész november 1-jén kezdi meg hétéves megbízatását.\n\n• **A Bizottság értékelése** az EPPO működését nagyon hatékonynak találta, és az intézmény tevékenységének jelentős növekedését rögzítette. Az aktív nyomozások száma a 2021-es 515-ről 2025 végére 3602-re nőtt.\n\n• **Új ügyek és becsült kár:** 2025-ben 2030 vizsgálat indult, hozzávetőleg 35 százalékkal több, mint egy évvel korábban. Az EPPO éves jelentése a folyamatban lévő ügyekhez kapcsolódó feltételezett pénzügyi veszteséget 67,27 milliárd euróra tette. Ez nem a már visszaszerzett pénz, és nem jelenti azt, hogy a gyanított bűncselekményekről jogerős bírósági döntés született.\n\n• **Kövesi figyelmeztetése:** a távozása előtt a Politicónak adott interjúban az elégtelen finanszírozást, az adminisztratív nehézségeket és a politikai nyomást emelte ki, mint amelyek gyengíthetik az ügyészség függetlenségét és eredményességét.\n\n• **Az EPPO feladata** az uniós pénzügyi érdekeket sértő bűncselekmények nyomozása és üldözése. A luxembourgi székhelyű szervezet 2021. június 1-jén kezdte meg működését; hatáskörébe tartoznak többek között az uniós támogatásokkal kapcsolatos csalások, a korrupció és a súlyos, határokon átnyúló áfacsalások.",
-    "title_ro": "Kövesi părăsește conducerea EPPO, cu un volum record de anchete",
-    "lead_ro": "Laura Codruța Kövesi își încheie la 30 octombrie mandatul de șapte ani la conducerea Parchetului European, pe care l-a condus de la înființare. Evaluarea Comisiei Europene a apreciat funcționarea instituției drept foarte eficientă, în timp ce prejudiciile suspectate în anchetele active au ajuns la 67,27 miliarde de euro.",
-    "content_ro": "• **30 octombrie** marchează încheierea mandatului Laurei Codruța Kövesi la conducerea EPPO. Fosta șefă a Direcției Naționale Anticorupție din România a devenit primul procuror-șef european în octombrie 2019. Procurorul german Andrés Ritter îi va succeda de la 1 noiembrie, pentru un mandat de șapte ani.\n\n• **Evaluarea Comisiei Europene** a descris activitatea Parchetului European ca fiind foarte eficientă și a remarcat extinderea substanțială a activității sale. Numărul anchetelor aflate în desfășurare a crescut de la 515 în 2021 la 3.602 la sfârșitul lui 2025.\n\n• **Anchetele și prejudiciile estimate:** în 2025 au fost deschise 2.030 de investigații noi, cu aproximativ 35% peste nivelul anului precedent. Raportul anual al EPPO a estimat la 67,27 miliarde de euro pierderile suspectate în dosarele active. Suma nu reprezintă bani recuperați și nici nu dovedește că fraudele investigate au fost confirmate de instanțe.\n\n• **Avertismentul lui Kövesi:** într-un interviu acordat publicației Politico înainte de plecare, ea a indicat finanțarea insuficientă, dificultățile birocratice și presiunile politice printre riscurile pentru independența și eficiența instituției.\n\n• **Rolul EPPO** este să investigheze și să urmărească infracțiunile care afectează interesele financiare ale Uniunii. Instituția, cu sediul la Luxemburg, și-a început activitatea la 1 iunie 2021; competențele sale includ fraudele cu fonduri europene, corupția și fraudele grave transfrontaliere în domeniul TVA."
-  },
-  {
-    "group_id": "group_d4c0613504",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "O familie din Bosnia oferă o casă, un job și un salariu de 920 de euro celor care vor să se mute acolo, însă cu o condiție",
-        "link": "https://stirileprotv.ro/divers/o-familie-din-bosnia-ofera-o-casa-un-job-si-un-salariu-de-920-de-euro-celor-care-vor-sa-se-mute-acolo-insa-cu-o-conditie.html"
-      }
-    ],
-    "published_at": 1793352225,
-    "title_hu": "O familie din Bosnia oferă o casă, un job și un salariu de 920 de euro celor care vor să se mute acolo, însă cu o condiție",
-    "lead_hu": "În localitatea Motike, din apropierea orașului Banja Luka din Bosnia, se caută o familie care să se ocupe de o proprietate întinsă. În schimb, aceasta va primi o casă în care să locuiască, un salariu …",
-    "content_hu": "În localitatea Motike, din apropierea orașului Banja Luka din Bosnia, se caută o familie care să se ocupe de o proprietate întinsă. În schimb, aceasta va primi o casă în care să locuiască, un salariu și un contract de muncă.",
-    "title_ro": "O familie din Bosnia oferă o casă, un job și un salariu de 920 de euro celor care vor să se mute acolo, însă cu o condiție",
-    "lead_ro": "În localitatea Motike, din apropierea orașului Banja Luka din Bosnia, se caută o familie care să se ocupe de o proprietate întinsă. În schimb, aceasta va primi o casă în care să locuiască, un salariu …",
-    "content_ro": "În localitatea Motike, din apropierea orașului Banja Luka din Bosnia, se caută o familie care să se ocupe de o proprietate întinsă. În schimb, aceasta va primi o casă în care să locuiască, un salariu și un contract de muncă."
-  },
-  {
-    "group_id": "group_15008a3275",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Bukarest–Szatmárnémeti „felejthetetlen” vonatozásra hívják a döntéshozókat a vasutasok",
-        "link": "https://maszol.ro/belfold/BukarestSzatmarnemeti-felejthetetlen-vonatozasra-hivjak-a-donteshozokat-a-vasutasok"
-      }
-    ],
-    "published_at": 1793352217,
-    "title_hu": "Bukarest–Szatmárnémeti „felejthetetlen” vonatozásra hívják a döntéshozókat a vasutasok",
-    "lead_hu": "Az Országos Vasúti Szakszervezeti Szövetség (FNFMCV) élesen bírálja a legújabb költségvetés-kiigazítási tervezetet.",
-    "content_hu": "Az Országos Vasúti Szakszervezeti Szövetség (FNFMCV) élesen bírálja a legújabb költségvetés-kiigazítási tervezetet.",
-    "title_ro": "Bukarest–Szatmárnémeti „felejthetetlen” vonatozásra hívják a döntéshozókat a vasutasok",
-    "lead_ro": "Az Országos Vasúti Szakszervezeti Szövetség (FNFMCV) élesen bírálja a legújabb költségvetés-kiigazítási tervezetet.",
-    "content_ro": "Az Országos Vasúti Szakszervezeti Szövetség (FNFMCV) élesen bírálja a legújabb költségvetés-kiigazítási tervezetet."
-  },
-  {
     "group_id": "group_6f6415bc17",
     "category": "Általános",
     "is_synthesized": false,
@@ -18278,47 +18125,5 @@
     "title_ro": "Mihai Stoica, conflict pe stadion după Bistrița - FCSB » De unde a pornit totul",
     "lead_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a porn…",
     "content_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a fost implicat într-un conflict la Beszterce, după eșecul cu Gloria, scor 0-1, din grupele Cupei României Betano. Altercația a pornit după ce Florin Cilică, realizator radio în Beszterce și fan al Gloriei, a țipat după oficialul roș-albaștrilor la finalul partidei. ..."
-  },
-  {
-    "group_id": "group_ffdad6d345",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Rezultatele finale ale alegerilor din Israel: Partidul lui Netanyahu pierde teren, iar formarea guvernului devine o provocare",
-        "link": "https://www.digi24.ro/stiri/externe/rezultatele-finale-ale-alegerilor-din-israel-partidul-lui-netanyahu-pierde-teren-iar-formarea-guvernului-devine-o-provocare-4014727"
-      }
-    ],
-    "published_at": 1793352412,
-    "title_hu": "Rezultatele finale ale alegerilor din Israel: Partidul lui Netanyahu pierde teren, iar formarea guvernului devine o provocare",
-    "lead_hu": "Alegerile din Israel conturează un nou echilibru politic, după ce rezultatele finale au confirmat 53 de mandate pentru blocul pro-Netanyahu, 48 pentru cel condus de Eisenkot și un scor record de 19 ma…",
-    "content_hu": "Alegerile din Israel conturează un nou echilibru politic, după ce rezultatele finale au confirmat 53 de mandate pentru blocul pro-Netanyahu, 48 pentru cel condus de Eisenkot și un scor record de 19 mandate pentru partidele arabe. Cu o prezență la urne de 77,9%, formarea viitorului guvern se anunță dificilă, în condițiile în care nicio tabără nu dispune de majoritatea necesară de 61 de locuri în Knesset, informează Times of Israel.",
-    "title_ro": "Rezultatele finale ale alegerilor din Israel: Partidul lui Netanyahu pierde teren, iar formarea guvernului devine o provocare",
-    "lead_ro": "Alegerile din Israel conturează un nou echilibru politic, după ce rezultatele finale au confirmat 53 de mandate pentru blocul pro-Netanyahu, 48 pentru cel condus de Eisenkot și un scor record de 19 ma…",
-    "content_ro": "Alegerile din Israel conturează un nou echilibru politic, după ce rezultatele finale au confirmat 53 de mandate pentru blocul pro-Netanyahu, 48 pentru cel condus de Eisenkot și un scor record de 19 mandate pentru partidele arabe. Cu o prezență la urne de 77,9%, formarea viitorului guvern se anunță dificilă, în condițiile în care nicio tabără nu dispune de majoritatea necesară de 61 de locuri în Knesset, informează Times of Israel."
-  },
-  {
-    "group_id": "group_f329cafc53",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "„Nu e deloc amuzant.” Angajatul unui supermarket din SUA a primit donații de 250.000 de dolari după ce a fost hărţuit de un influencer",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/nu-e-deloc-amuzant-angajatul-unui-supermarket-din-sua-a-primit-donatii-de-250-000-de-dolari-dupa-ce-a-fost-hartuit-de-un-influencer-4014715"
-      }
-    ],
-    "published_at": 1793352383,
-    "title_hu": "„Nu e deloc amuzant.” Angajatul unui supermarket din SUA a primit donații de 250.000 de dolari după ce a fost hărţuit de un influencer",
-    "lead_hu": "Un bărbat a fost ţinta unei glume ofensatoare într-un hipermarket din Statele Unite. Videoclipul a făcut înconjurul reţelelor sociale, iar un val de generozitate l-a ajutat pe angajatul hărţuit: oamen…",
-    "content_hu": "Un bărbat a fost ţinta unei glume ofensatoare într-un hipermarket din Statele Unite. Videoclipul a făcut înconjurul reţelelor sociale, iar un val de generozitate l-a ajutat pe angajatul hărţuit: oamenii au strâns pentru el 250.000 de dolari.",
-    "title_ro": "„Nu e deloc amuzant.” Angajatul unui supermarket din SUA a primit donații de 250.000 de dolari după ce a fost hărţuit de un influencer",
-    "lead_ro": "Un bărbat a fost ţinta unei glume ofensatoare într-un hipermarket din Statele Unite. Videoclipul a făcut înconjurul reţelelor sociale, iar un val de generozitate l-a ajutat pe angajatul hărţuit: oamen…",
-    "content_ro": "Un bărbat a fost ţinta unei glume ofensatoare într-un hipermarket din Statele Unite. Videoclipul a făcut înconjurul reţelelor sociale, iar un val de generozitate l-a ajutat pe angajatul hărţuit: oamenii au strâns pentru el 250.000 de dolari."
   }
 ]
