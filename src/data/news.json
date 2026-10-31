@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_09aedc1b27",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Shot de țelină apio, elixirul verde al dimineților. Ce beneficii are și cum îl prepari",
+        "link": "https://stirileprotv.ro/divers/shot-de-telina-apio-elixirul-verde-al-diminetilor-ce-beneficii-are-si-cum-il-prepari.html"
+      }
+    ],
+    "published_at": 1793442391,
+    "title_hu": "Shot de țelină apio, elixirul verde al dimineților. Ce beneficii are și cum îl prepari",
+    "lead_hu": "În ultimele luni, shot-ul de țelină apio a devenit ritualul de dimineață al multor oameni care vor să înceapă ziua cu ceva curat, energizant și plin de nutrienți....",
+    "content_hu": "În ultimele luni, shot-ul de țelină apio a devenit ritualul de dimineață al multor oameni care vor să înceapă ziua cu ceva curat, energizant și plin de nutrienți.",
+    "title_ro": "Shot de țelină apio, elixirul verde al dimineților. Ce beneficii are și cum îl prepari",
+    "lead_ro": "În ultimele luni, shot-ul de țelină apio a devenit ritualul de dimineață al multor oameni care vor să înceapă ziua cu ceva curat, energizant și plin de nutrienți....",
+    "content_ro": "În ultimele luni, shot-ul de țelină apio a devenit ritualul de dimineață al multor oameni care vor să înceapă ziua cu ceva curat, energizant și plin de nutrienți."
+  },
+  {
+    "group_id": "group_8e06879f00",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Valentin Suciu, despre rasismul și xenofobia din fotbalul românesc: „Nu văd cum să stopăm asta! Mă depășește total”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/valentin-suciu-rasism-xenofobie-fotbal-romanesc-994259.html"
+      }
+    ],
+    "published_at": 1793442225,
+    "title_hu": "Valentin Suciu, despre rasismul și xenofobia din fotbalul românesc: „Nu văd cum să stopăm asta! Mă depășește total”",
+    "lead_hu": "Rasismul și xenofobia continuă să fie probleme prezente pe stadioanele din România, iar fotbalul românesc pare departe de a găsi soluții eficiente pentru combaterea acestora. Într-un context în care R...",
+    "content_hu": "Rasismul și xenofobia continuă să fie probleme prezente pe stadioanele din România, iar fotbalul românesc pare departe de a găsi soluții eficiente pentru combaterea acestora. Într-un context în care Rapid se consideră victimă a manifestărilor rasiste, în timp ce Sepsi și Csikszereda s-au confruntat, la rândul lor, cu episoade de xenofobie, Valentin Suciu, antrenorul formației Csikszereda, a vorbit despre fenomen și despre măsurile care ar putea contribui la eliminarea lui. ...",
+    "title_ro": "Valentin Suciu, despre rasismul și xenofobia din fotbalul românesc: „Nu văd cum să stopăm asta! Mă depășește total”",
+    "lead_ro": "Rasismul și xenofobia continuă să fie probleme prezente pe stadioanele din România, iar fotbalul românesc pare departe de a găsi soluții eficiente pentru combaterea acestora. Într-un context în care R...",
+    "content_ro": "Rasismul și xenofobia continuă să fie probleme prezente pe stadioanele din România, iar fotbalul românesc pare departe de a găsi soluții eficiente pentru combaterea acestora. Într-un context în care Rapid se consideră victimă a manifestărilor rasiste, în timp ce Sepsi și Csikszereda s-au confruntat, la rândul lor, cu episoade de xenofobie, Valentin Suciu, antrenorul formației Csikszereda, a vorbit despre fenomen și despre măsurile care ar putea contribui la eliminarea lui. ..."
+  },
+  {
     "group_id": "group_fb70d0f70a",
     "category": "Politika",
     "is_synthesized": false,
@@ -825,12 +867,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Denis Alibec a dezvăluit ce va face după retragerea din fotbal: „Îmi place mult ideea!”",
         "link": "https://www.gsp.ro/fotbal/liga-1/denis-alibec-afaceri-retragere-fotbal-994244.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Revenit din suspendare, Alibec se gândește deja la retragere. Vrea să se reprofileze: „Aș vrea să fac asta, îmi place ideea. Mă apuc acum!”",
+        "link": "https://adevarul.ro/sport/revenit-din-suspendare-alibec-se-gandeste-deja-la-2567924.html"
       }
     ],
     "published_at": 1793438842,
@@ -4205,12 +4252,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Vremea azi, 31 octombrie 2026. Temperaturile scad brusc și apar ninsorile, ploile și vântul puternic",
         "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-31-octombrie-2026-temperaturile-scad-brusc-si-apar-ninsorile-ploile-si-vantul-puternic.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Vreme rea tot weekendul. Ploi abundente în sudul țării, ninsori la munte și rafale de vânt de până la 80 km/h",
+        "link": "https://adevarul.ro/stiri-interne/meteo/vreme-rea-tot-weekendul-ploi-abundente-in-sudul-2567923.html"
       }
     ],
     "published_at": 1793424963,
@@ -7466,7 +7518,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 12,
+    "sources_count": 13,
     "sources": [
       {
         "source": "G4Media",
@@ -7527,6 +7579,11 @@
         "source": "Mediafax",
         "title": "Alertă pe piața crypto: Binance investighează un posibil atac / Peste 5,8 miliarde de dolari ar fi fost furate",
         "link": "https://www.mediafax.ro/externe/alerta-pe-piata-crypto-binance-investigheaza-un-posibil-atac-peste-58-miliarde-de-dolari-ar-fi-fost-furate-23834210"
+      },
+      {
+        "source": "G4Media",
+        "title": "Computerul spart, prada în criptomonede, fuga digitală / Cum s-a desfășurat jaful record de la Binance / Modul de oparare al hackerilor nord-coreeni",
+        "link": "https://www.g4media.ro/computerul-spart-prada-in-criptomonede-fuga-digitala-cum-s-a-desfasurat-jaful-record-de-la-binance-modul-de-oparare-al-hackerilor-nord-coreeni.html"
       }
     ],
     "published_at": 1793384681,
@@ -15676,12 +15733,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Manuel Neuer ratează Der Klassiker. Și antrenorul lui Bayern va lipsi la derby-ul cu Dortmund",
         "link": "https://www.mediafax.ro/sport/manuel-neuer-rateaza-der-klassiker-si-antrenorul-lui-bayern-va-lipsi-la-derby-ul-cu-dortmund-23834562"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bayern - Borussia Dortmund, Der Klassiker în etapa #8 din Bundesliga » Echipele probabile + cote",
+        "link": "https://www.gsp.ro/international/campionate/live-bayern-borussia-dortmund-der-klassiker-bundesliga-994243.html"
       }
     ],
     "published_at": 1793360537,
@@ -17144,200 +17206,6 @@
     "title_ro": "Aparatul pe care toți românii îl au în casă și poate crește cu 30% consumul de curent dacă nu e curățat",
     "lead_ro": "Facturile mai mici la energie încep cu verificări simple în casă: ferestrele care nu se închid bine, golurile din jurul conductelor și electrocasnicele neîntreținute pot crește consumul unei locuințe.",
     "content_ro": "Facturile mai mici la energie încep cu verificări simple în casă: ferestrele care nu se închid bine, golurile din jurul conductelor și electrocasnicele neîntreținute pot crește consumul unei locuințe."
-  },
-  {
-    "group_id": "group_22e6e8565b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Pentru al patrulea an consecutiv, în România s-au întors mai mulți români decât au plecat",
-        "link": "https://www.digi24.ro/stiri/actualitate/pentru-al-patrulea-an-consecutiv-in-romania-s-au-intors-mai-multi-romani-decat-au-plecat-4015003"
-      },
-      {
-        "source": "Digi24",
-        "title": "Pentru al patrulea an consecutiv, în România s-au întors mai mulți români decât au plecat",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/pentru-al-patrulea-an-consecutiv-in-romania-s-au-intors-mai-multi-romani-decat-au-plecat-4015003"
-      }
-    ],
-    "published_at": 1793356102,
-    "title_hu": "Pentru al patrulea an consecutiv, în România s-au întors mai mulți români decât au plecat",
-    "lead_hu": "Pentru al patrulea an consecutiv, numărul românilor care se stabilesc în țară este mai mare decât al celor care pleacă, arată datele Monitorului Social, un proiect al Fundației Friedrich Ebert, pe baz…",
-    "content_hu": "Pentru al patrulea an consecutiv, numărul românilor care se stabilesc în țară este mai mare decât al celor care pleacă, arată datele Monitorului Social, un proiect al Fundației Friedrich Ebert, pe baza datelor oficiale. În perioada 2022-2025, România a înregistrat aproape 280.000 de locuitori în plus datorită imigrației.",
-    "title_ro": "Pentru al patrulea an consecutiv, în România s-au întors mai mulți români decât au plecat",
-    "lead_ro": "Pentru al patrulea an consecutiv, numărul românilor care se stabilesc în țară este mai mare decât al celor care pleacă, arată datele Monitorului Social, un proiect al Fundației Friedrich Ebert, pe baz…",
-    "content_ro": "Pentru al patrulea an consecutiv, numărul românilor care se stabilesc în țară este mai mare decât al celor care pleacă, arată datele Monitorului Social, un proiect al Fundației Friedrich Ebert, pe baza datelor oficiale. În perioada 2022-2025, România a înregistrat aproape 280.000 de locuitori în plus datorită imigrației."
-  },
-  {
-    "group_id": "group_9180fcf158",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Portalul pentru angajarea muncitorilor străini ar urma să fie redeschis până la 15 noiembrie. Lista meseriilor deficitare crește la 400",
-        "link": "https://adevarul.ro/economie/portalul-pentru-angajarea-muncitorilor-straini-ar-2567664.html"
-      }
-    ],
-    "published_at": 1793356084,
-    "title_hu": "Portalul pentru angajarea muncitorilor străini ar urma să fie redeschis până la 15 noiembrie. Lista meseriilor deficitare crește la 400",
-    "lead_hu": "Portalul workinromania.gov.ro, folosit în procedurile de recrutare și angajare a lucrătorilor străini, ar urma să redevină funcțional cel târziu la jumătatea lunii noiembrie, după săptămâni de blocaje…",
-    "content_hu": "Portalul workinromania.gov.ro, folosit în procedurile de recrutare și angajare a lucrătorilor străini, ar urma să redevină funcțional cel târziu la jumătatea lunii noiembrie, după săptămâni de blocaje.",
-    "title_ro": "Portalul pentru angajarea muncitorilor străini ar urma să fie redeschis până la 15 noiembrie. Lista meseriilor deficitare crește la 400",
-    "lead_ro": "Portalul workinromania.gov.ro, folosit în procedurile de recrutare și angajare a lucrătorilor străini, ar urma să redevină funcțional cel târziu la jumătatea lunii noiembrie, după săptămâni de blocaje…",
-    "content_ro": "Portalul workinromania.gov.ro, folosit în procedurile de recrutare și angajare a lucrătorilor străini, ar urma să redevină funcțional cel târziu la jumătatea lunii noiembrie, după săptămâni de blocaje."
-  },
-  {
-    "group_id": "group_c38565f3bf",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "A mers să ceară un loc de muncă la Bugatti și a plecat cu un Chiron de 3 milioane de euro. Șeful companiei l-a urmărit cu un Porsche",
-        "link": "https://www.mediafax.ro/externe/a-mers-sa-ceara-un-loc-de-munca-la-bugatti-si-a-plecat-cu-un-chiron-de-3-milioane-de-euro-seful-companiei-l-a-urmarit-cu-un-porsche-23834494"
-      }
-    ],
-    "published_at": 1793356024,
-    "title_hu": "A mers să ceară un loc de muncă la Bugatti și a plecat cu un Chiron de 3 milioane de euro. Șeful companiei l-a urmărit cu un Porsche",
-    "lead_hu": "Un croat a mers să ceară un loc de muncă la Bugatti. A plecat cu un Bugatti Chiron, ediție limitată, de 3 milioane de euro. Mașina a fost găsită în Austria, după o urmărire prin trei țări.",
-    "content_hu": "Un croat a mers să ceară un loc de muncă la Bugatti. A plecat cu un Bugatti Chiron, ediție limitată, de 3 milioane de euro. Mașina a fost găsită în Austria, după o urmărire prin trei țări.",
-    "title_ro": "A mers să ceară un loc de muncă la Bugatti și a plecat cu un Chiron de 3 milioane de euro. Șeful companiei l-a urmărit cu un Porsche",
-    "lead_ro": "Un croat a mers să ceară un loc de muncă la Bugatti. A plecat cu un Bugatti Chiron, ediție limitată, de 3 milioane de euro. Mașina a fost găsită în Austria, după o urmărire prin trei țări.",
-    "content_ro": "Un croat a mers să ceară un loc de muncă la Bugatti. A plecat cu un Bugatti Chiron, ediție limitată, de 3 milioane de euro. Mașina a fost găsită în Austria, după o urmărire prin trei țări."
-  },
-  {
-    "group_id": "group_d12447001a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Războiul din Iran aduce profituri record pentru BP. Gigantul petrolier a câștigat 8,46 miliarde de dolari în doar trei luni",
-        "link": "https://www.mediafax.ro/economic/razboiul-din-iran-aduce-profituri-record-pentru-bp-gigantul-petrolier-a-castigat-846-miliarde-de-dolari-in-doar-trei-luni-23834466"
-      }
-    ],
-    "published_at": 1793356017,
-    "title_hu": "Războiul din Iran aduce profituri record pentru BP. Gigantul petrolier a câștigat 8,46 miliarde de dolari în doar trei luni",
-    "lead_hu": "Gigantul petrolier britanic BP a raportat un profit trimestrial record de 8,46 miliarde de dolari, de aproape patru ori mai mare decât în aceeași perioadă a anului trecut.",
-    "content_hu": "Gigantul petrolier britanic BP a raportat un profit trimestrial record de 8,46 miliarde de dolari, de aproape patru ori mai mare decât în aceeași perioadă a anului trecut.",
-    "title_ro": "Războiul din Iran aduce profituri record pentru BP. Gigantul petrolier a câștigat 8,46 miliarde de dolari în doar trei luni",
-    "lead_ro": "Gigantul petrolier britanic BP a raportat un profit trimestrial record de 8,46 miliarde de dolari, de aproape patru ori mai mare decât în aceeași perioadă a anului trecut.",
-    "content_ro": "Gigantul petrolier britanic BP a raportat un profit trimestrial record de 8,46 miliarde de dolari, de aproape patru ori mai mare decât în aceeași perioadă a anului trecut."
-  },
-  {
-    "group_id": "group_3bca284222",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Replica fabuloasă a Norvegiei după ce a fost numită de Trump „țară de rahat”",
-        "link": "https://adevarul.ro/stiri-externe/europa/replica-fabuloasa-a-norvegiei-dupa-ce-a-fost-2567671.html"
-      }
-    ],
-    "published_at": 1793356005,
-    "title_hu": "Replica fabuloasă a Norvegiei după ce a fost numită de Trump „țară de rahat”",
-    "lead_hu": "Oficiul de turism al Norvegiei a ripostat la criza de nervi a președintelui SUA, care a lansat noi atacuri verbale la adresa statului nordic, descris o „țară de rahat”. Trump a mai afirmat că nu mai d…",
-    "content_hu": "Oficiul de turism al Norvegiei a ripostat la criza de nervi a președintelui SUA, care a lansat noi atacuri verbale la adresa statului nordic, descris o „țară de rahat”. Trump a mai afirmat că nu mai dorește imigranți norvegieni în Statele Unite din cauză că nu a primit Premiului Nobel.",
-    "title_ro": "Replica fabuloasă a Norvegiei după ce a fost numită de Trump „țară de rahat”",
-    "lead_ro": "Oficiul de turism al Norvegiei a ripostat la criza de nervi a președintelui SUA, care a lansat noi atacuri verbale la adresa statului nordic, descris o „țară de rahat”. Trump a mai afirmat că nu mai d…",
-    "content_ro": "Oficiul de turism al Norvegiei a ripostat la criza de nervi a președintelui SUA, care a lansat noi atacuri verbale la adresa statului nordic, descris o „țară de rahat”. Trump a mai afirmat că nu mai dorește imigranți norvegieni în Statele Unite din cauză că nu a primit Premiului Nobel."
-  },
-  {
-    "group_id": "group_6c103a213d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Una dintre cele mai mari trupe ale lumii anunță un turneu în Europa, dar fanii au parte de o surpriză mai puțin plăcută",
-        "link": "https://hotnews.ro/una-dintre-cele-mai-mari-trupe-ale-lumii-anunta-un-turneu-in-europa-dar-fanii-au-parte-de-o-surpriza-mai-putin-placuta-2390588"
-      }
-    ],
-    "published_at": 1793356002,
-    "title_hu": "Una dintre cele mai mari trupe ale lumii anunță un turneu în Europa, dar fanii au parte de o surpriză mai puțin plăcută",
-    "lead_hu": "Trupa U2 a anunțat oficial etapele din Marea Britanie și Europa ale turneului mondial „The Greatest Show On Earth”. Seria de concerte de pe stadioane va debuta la sfârșitul lunii aprilie 2027 la Stock…",
-    "content_hu": "Trupa U2 a anunțat oficial etapele din Marea Britanie și Europa ale turneului mondial „The Greatest Show On Earth”. Seria de concerte de pe stadioane va debuta la sfârșitul lunii aprilie 2027 la Stockholm. Irlandezii vor urca pe scenele unor mari orașe precum Paris, Lisabona, Amsterdam, Londra, Berlin și Milano, alături de trupa Wolf Alice, …",
-    "title_ro": "Una dintre cele mai mari trupe ale lumii anunță un turneu în Europa, dar fanii au parte de o surpriză mai puțin plăcută",
-    "lead_ro": "Trupa U2 a anunțat oficial etapele din Marea Britanie și Europa ale turneului mondial „The Greatest Show On Earth”. Seria de concerte de pe stadioane va debuta la sfârșitul lunii aprilie 2027 la Stock…",
-    "content_ro": "Trupa U2 a anunțat oficial etapele din Marea Britanie și Europa ale turneului mondial „The Greatest Show On Earth”. Seria de concerte de pe stadioane va debuta la sfârșitul lunii aprilie 2027 la Stockholm. Irlandezii vor urca pe scenele unor mari orașe precum Paris, Lisabona, Amsterdam, Londra, Berlin și Milano, alături de trupa Wolf Alice, …"
-  },
-  {
-    "group_id": "group_7b91cf39ce",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Aeroportul Satu Mare mai cere mulți bani de la Consiliul Județean. Deși mai avem doar o singură cursă",
-        "link": "https://www.presasm.ro/aeroportul-satu-mare-mai-cere-multi-bani-de-la-consiliul-judetean-desi-mai-avem-doar-o-singura-cursa/54060"
-      }
-    ],
-    "published_at": 1793355900,
-    "title_hu": "Aeroportul Szatmárnémeti mai cere mulți bani de la Consiliul Județean. Deși mai avem doar o singură cursă",
-    "lead_hu": "Aeroportul Internațional Szatmárnémeti solicită o nouă suplimentare a fondurilor alocate de Consiliul Județean Szatmárnémeti, în contextul în care veniturile proprii ale regiei sunt în scădere, iar ch…",
-    "content_hu": "Aeroportul Internațional Szatmárnémeti solicită o nouă suplimentare a fondurilor alocate de Consiliul Județean Szatmárnémeti, în contextul în care veniturile proprii ale regiei sunt în scădere, iar cheltuielile necesare funcționării și întreținerii infrastructurii aer…",
-    "title_ro": "Aeroportul Satu Mare mai cere mulți bani de la Consiliul Județean. Deși mai avem doar o singură cursă",
-    "lead_ro": "Aeroportul Internațional Szatmárnémeti solicită o nouă suplimentare a fondurilor alocate de Consiliul Județean Szatmárnémeti, în contextul în care veniturile proprii ale regiei sunt în scădere, iar ch…",
-    "content_ro": "Aeroportul Internațional Szatmárnémeti solicită o nouă suplimentare a fondurilor alocate de Consiliul Județean Szatmárnémeti, în contextul în care veniturile proprii ale regiei sunt în scădere, iar cheltuielile necesare funcționării și întreținerii infrastructurii aer…"
-  },
-  {
-    "group_id": "group_afbfde9c78",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "O tânără de 23 de ani a leșinat la serviciu. Medicii au descoperit că avea un deficit sever de vitamina D",
-        "link": "https://stirileprotv.ro/divers/o-tanara-de-23-de-ani-a-lesinat-la-serviciu-medicii-au-descoperit-ca-avea-un-deficit-sever-de-vitamina-d.html"
-      }
-    ],
-    "published_at": 1793355822,
-    "title_hu": "O tânără de 23 de ani a leșinat la serviciu. Medicii au descoperit că avea un deficit sever de vitamina D",
-    "lead_hu": "Saskia Reeves-Priestley, în vârstă de 23 de ani, se afla la serviciu când s-a prăbușit brusc.",
-    "content_hu": "Saskia Reeves-Priestley, în vârstă de 23 de ani, se afla la serviciu când s-a prăbușit brusc.",
-    "title_ro": "O tânără de 23 de ani a leșinat la serviciu. Medicii au descoperit că avea un deficit sever de vitamina D",
-    "lead_ro": "Saskia Reeves-Priestley, în vârstă de 23 de ani, se afla la serviciu când s-a prăbușit brusc.",
-    "content_ro": "Saskia Reeves-Priestley, în vârstă de 23 de ani, se afla la serviciu când s-a prăbușit brusc."
-  },
-  {
-    "group_id": "group_8f8c9d2f79",
-    "category": "Gazdaság",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Deținători de locuri de veci din cimitirele Capitalei, înșelați cu sume mari de bani de o grupare de escroci / Doi sunt în arest la domiciliu, iar alți doi au fost plasați sub control judiciar",
-        "link": "https://www.g4media.ro/detinatori-de-locuri-de-veci-din-cimitirele-capitalei-inselati-cu-sume-mari-de-bani-de-o-grupare-de-escroci-doi-sunt-in-arest-la-domiciliu-iar-alti-doi-au-fost-plasati-sub-control-judiciar.html"
-      }
-    ],
-    "published_at": 1793355774,
-    "title_hu": "Deținători de locuri de veci din cimitirele Capitalei, înșelați cu sume mari de bani de o grupare de escroci / Doi sunt în arest la domiciliu, iar alți doi au fost plasați sub control judiciar",
-    "lead_hu": "Parchetul de pe lângă Judecătoria Sectorului 6 București a trimis în judecată patru persoane sub acuzațiile de înșelăciune, înșelăciune în formă continuată și uz de fals. În 28 octombrie, procurorul d…",
-    "content_hu": "Parchetul de pe lângă Judecătoria Sectorului 6 București a trimis în judecată patru persoane sub acuzațiile de înșelăciune, înșelăciune în formă continuată și uz de fals. În 28 octombrie, procurorul de caz din cadrul Parchetului de pe lângă Judecătoria Sectorului 6 București a finalizat urmărirea penală şi a sesizat instanța de judecată prin rechizitoriu cu […] © G4Media.ro.",
-    "title_ro": "Deținători de locuri de veci din cimitirele Capitalei, înșelați cu sume mari de bani de o grupare de escroci / Doi sunt în arest la domiciliu, iar alți doi au fost plasați sub control judiciar",
-    "lead_ro": "Parchetul de pe lângă Judecătoria Sectorului 6 București a trimis în judecată patru persoane sub acuzațiile de înșelăciune, înșelăciune în formă continuată și uz de fals. În 28 octombrie, procurorul d…",
-    "content_ro": "Parchetul de pe lângă Judecătoria Sectorului 6 București a trimis în judecată patru persoane sub acuzațiile de înșelăciune, înșelăciune în formă continuată și uz de fals. În 28 octombrie, procurorul de caz din cadrul Parchetului de pe lângă Judecătoria Sectorului 6 București a finalizat urmărirea penală şi a sesizat instanța de judecată prin rechizitoriu cu […] © G4Media.ro."
   },
   {
     "group_id": "group_efa9ba877d",
