@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_0ecb6cd07f",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Cum s-a produs accidentul rutier din Bihor. Șoferul, un tânăr de 19 ani, este în stare critică",
+        "link": "https://www.cancan.ro/cum-s-a-produs-accidentul-rutier-din-bihor-soferul-un-tanar-de-19-ani-este-in-stare-critica-21539556"
+      }
+    ],
+    "published_at": 1793450260,
+    "title_hu": "Cum s-a produs accidentul rutier din Bihor. Șoferul, un tânăr de 19 ani, este în stare critică",
+    "lead_hu": "Un tânăr de 19 ani din Satu Mare se zbate între viață și moarte în urma unui grav accident rutier petrecut în noaptea de joi spre vineri, în localitatea Viișoara. Într-o curbă periculoasă, șoferul a p...",
+    "content_hu": "Un tânăr de 19 ani din Satu Mare se zbate între viață și moarte în urma unui grav accident rutier petrecut în noaptea de joi spre vineri, în localitatea Viișoara. Într-o curbă periculoasă, șoferul a pierdut controlul asupra direcției de deplasare și s-a izbit violent într-un cap de pod. Tânărul a primit îngrijiri medicale la […]",
+    "title_ro": "Cum s-a produs accidentul rutier din Bihor. Șoferul, un tânăr de 19 ani, este în stare critică",
+    "lead_ro": "Un tânăr de 19 ani din Satu Mare se zbate între viață și moarte în urma unui grav accident rutier petrecut în noaptea de joi spre vineri, în localitatea Viișoara. Într-o curbă periculoasă, șoferul a p...",
+    "content_ro": "Un tânăr de 19 ani din Satu Mare se zbate între viață și moarte în urma unui grav accident rutier petrecut în noaptea de joi spre vineri, în localitatea Viișoara. Într-o curbă periculoasă, șoferul a pierdut controlul asupra direcției de deplasare și s-a izbit violent într-un cap de pod. Tânărul a primit îngrijiri medicale la […]"
+  },
+  {
     "group_id": "group_51ddf811b2",
     "category": "Általános",
     "is_synthesized": false,
@@ -491,12 +512,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "David Cosma Cristofor, de două ori în pole position, în fața juniorilor McLaren, Mercedes și Ferrari, pentru cursele Campionatului Italian de Formula 4",
         "link": "https://www.gsp.ro/sporturi/altele/david-cosma-cristofor-de-doua-ori-in-pole-position-in-fata-juniorilor-mclaren-mercedes-si-ferrari-pentru-cursele-campionatului-italian-de-formula-4-994291.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Tânărul de 17 ani care a pus Ferrari, McLaren și Mercedes în spate! Dublă pole position pentru David Cosma Cristofor, la Mugello, în Formula 4",
+        "link": "https://adevarul.ro/sport/tanarul-de-17-ani-care-a-pus-ferrari-mclaren-si-2567936.html"
       }
     ],
     "published_at": 1793447640,
@@ -512,7 +538,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Digi24",
@@ -538,6 +564,11 @@
         "source": "Agerpres (HU)",
         "title": "Gorj: Se închide circulația rutieră pe Transalpina, între Rânca și Obârșia Lotrului, din cauza zăpezii",
         "link": "https://agerpres.ro/social/2026/10/31/gorj-se-inchide-circulatia-rutiera-pe-transalpina-intre-ranca-si-obarsia-lotrului-din-cauza-zapezii--1608702"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ninsorile blochează Transalpina / Sectorul Rânca – Obârșia Lotrului se închide sâmbătă pentru toate autovehiculele",
+        "link": "https://www.g4media.ro/ninsorile-blocheaza-transalpina-sectorul-ranca-obarsia-lotrului-se-inchide-sambata-pentru-toate-autovehiculele.html"
       }
     ],
     "published_at": 1793447498,
@@ -1047,7 +1078,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -1073,6 +1104,11 @@
         "source": "Maszol",
         "title": "USR-kongresszus: három csapat verseng a vezetőtestületi tagságért",
         "link": "https://maszol.ro/belfold/USR-kongresszus-harom-csapat-verseng-a-vezetotestuleti-tagsagert"
+      },
+      {
+        "source": "Adevărul",
+        "title": "USR își alege noua conducere la primul congres după intrarea în opoziție. Fritz: „AUR nu e antisistem. Este supapa sistemului”",
+        "link": "https://adevarul.ro/politica/usr-isi-alege-noua-conducere-la-primul-congres-2567937.html"
       }
     ],
     "published_at": 1793446207,
@@ -1167,7 +1203,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -1178,6 +1214,11 @@
         "source": "Digi24",
         "title": "Atac armat într-un magazin de Halloween din California. Un mort și șase răniți, dintre care trei în stare gravă",
         "link": "https://www.digi24.ro/stiri/externe/sua/atac-armat-intr-un-magazin-de-halloween-din-california-un-mort-si-sase-raniti-dintre-care-trei-in-stare-grava-4016315"
+      },
+      {
+        "source": "Maszol",
+        "title": "Fegyveres támadás egy Halloween-termékeket árusító üzletben",
+        "link": "https://maszol.ro/kulfold/Fegyveres-tamadas-egy-Halloween-termekeket-arusito-uzletben"
       }
     ],
     "published_at": 1793445991,
@@ -16129,200 +16170,6 @@
     "title_ro": "Rangadót játszanak Mezőfényen, minden meccset kiírtak a Liga 5-ben",
     "lead_ro": "A megyei labdarúgó-idény a kilencedik forduló mérkőzéseivel folytatódik a Liga 4-ben, míg a Liga 5-ben a nyolcadik etap meccseit játsszák majd vasárnap. A Rangadót játszanak Mezőfényen, minden meccset…",
     "content_ro": "A megyei labdarúgó-idény a kilencedik forduló mérkőzéseivel folytatódik a Liga 4-ben, míg a Liga 5-ben a nyolcadik etap meccseit játsszák majd vasárnap. A Rangadót játszanak Mezőfényen, minden meccset kiírtak a Liga 5-ben bejegyzés először Szatmári sporthírek, magyarul-én jelent meg."
-  },
-  {
-    "group_id": "group_28435fbde1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Managerul TNB explică de ce l-a angajat pe regizorul Felix Alexa, acuzat în trecut de hărțuire, agresiune sexuală și șantaj professional",
-        "link": "https://hotnews.ro/managerul-tnb-explica-de-ce-l-a-angajat-pe-regizorul-felix-alexa-acuzat-in-trecut-de-hartuire-agresiune-sexuala-si-santaj-professional-2390709"
-      }
-    ],
-    "published_at": 1793364167,
-    "title_hu": "Managerul TNB explică de ce l-a angajat pe regizorul Felix Alexa, acuzat în trecut de hărțuire, agresiune sexuală și șantaj professional",
-    "lead_hu": "Ada Hausvater, managerul Teatrului Naţional „I.L. Caragiale” din Bucureşti, a declarat vineri că angajarea lui Felix Alexa a fost „o decizie a sa, discutată şi agreată de Consiliul artistic al TNB”, d…",
-    "content_hu": "Ada Hausvater, managerul Teatrului Naţional „I.L. Caragiale” din Bucureşti, a declarat vineri că angajarea lui Felix Alexa a fost „o decizie a sa, discutată şi agreată de Consiliul artistic al TNB”, după ce a făcut „verificări prealabile”, fiind la curent cu acuzațiile care îl vizează pe regizor. Hausvater a detaliat, printr-un comunicat de presă, elementele …",
-    "title_ro": "Managerul TNB explică de ce l-a angajat pe regizorul Felix Alexa, acuzat în trecut de hărțuire, agresiune sexuală și șantaj professional",
-    "lead_ro": "Ada Hausvater, managerul Teatrului Naţional „I.L. Caragiale” din Bucureşti, a declarat vineri că angajarea lui Felix Alexa a fost „o decizie a sa, discutată şi agreată de Consiliul artistic al TNB”, d…",
-    "content_ro": "Ada Hausvater, managerul Teatrului Naţional „I.L. Caragiale” din Bucureşti, a declarat vineri că angajarea lui Felix Alexa a fost „o decizie a sa, discutată şi agreată de Consiliul artistic al TNB”, după ce a făcut „verificări prealabile”, fiind la curent cu acuzațiile care îl vizează pe regizor. Hausvater a detaliat, printr-un comunicat de presă, elementele …"
-  },
-  {
-    "group_id": "group_b91d639c29",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ratează EURO 2028! Procesul atacantului englez, programat chiar la startul turneului final:„Așteaptă să își curețe numele!”",
-        "link": "https://www.gsp.ro/international/campionate/rateaza-euro-2028-procesul-atacantului-englez-programat-chiar-la-startul-turneului-finalasteapta-sa-isi-curete-numele-993974.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ratează EURO 2028! Procesul atacantului englez, programat chiar la startul turneului final: „Așteaptă să își curețe numele!”",
-        "link": "https://www.gsp.ro/international/campionate/rateaza-euro-2028-procesul-atacantului-englez-programat-chiar-la-startul-turneului-final-asteapta-sa-isi-curete-numele-993974.html"
-      }
-    ],
-    "published_at": 1793364073,
-    "title_hu": "Ratează EURO 2028! Procesul atacantului englez, programat chiar la startul turneului final:„Așteaptă să își curețe numele!”",
-    "lead_hu": "Atacantul englez Ivan Toney (30 de ani) a primit o veste devastatoare din partea justiției britanice: decizia îi compromite definitiv prezența la Campionatul European din 2028. Procesul în care fotbal…",
-    "content_hu": "Atacantul englez Ivan Toney (30 de ani) a primit o veste devastatoare din partea justiției britanice: decizia îi compromite definitiv prezența la Campionatul European din 2028. Procesul în care fotbalistul este acuzat de agresiune a fost fixat exact în perioada în care este programat startul turneului final gazduit de Marea Britanie și Irlanda. ...",
-    "title_ro": "Ratează EURO 2028! Procesul atacantului englez, programat chiar la startul turneului final:„Așteaptă să își curețe numele!”",
-    "lead_ro": "Atacantul englez Ivan Toney (30 de ani) a primit o veste devastatoare din partea justiției britanice: decizia îi compromite definitiv prezența la Campionatul European din 2028. Procesul în care fotbal…",
-    "content_ro": "Atacantul englez Ivan Toney (30 de ani) a primit o veste devastatoare din partea justiției britanice: decizia îi compromite definitiv prezența la Campionatul European din 2028. Procesul în care fotbalistul este acuzat de agresiune a fost fixat exact în perioada în care este programat startul turneului final gazduit de Marea Britanie și Irlanda. ..."
-  },
-  {
-    "group_id": "group_02e52570c6",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Mihai Iosif, prezentat oficial la noua echipă » Debutează în acest weekend",
-        "link": "https://www.gsp.ro/fotbal/liga-2/mihai-iosif-prezentat-oficial-liga-2-asa-targu-mures-993972.html"
-      }
-    ],
-    "published_at": 1793364027,
-    "title_hu": "Mihai Iosif, prezentat oficial la noua echipă » Debutează în acest weekend",
-    "lead_hu": "Mihai Iosif (52 de ani) a fost prezentat oficial în funcția de antrenor principal la ASA Marosvásárhely, așa cum GSP.ro anunța pe 28 octombrie. Acesta va debuta sâmbătă, 31 octombrie, de la ora 11:00,…",
-    "content_hu": "Mihai Iosif (52 de ani) a fost prezentat oficial în funcția de antrenor principal la ASA Marosvásárhely, așa cum GSP.ro anunța pe 28 octombrie. Acesta va debuta sâmbătă, 31 octombrie, de la ora 11:00, pe banca formației din liga secundă. În cadrul etapei cu numărul 12, ASA Marosvásárhely primește vizita Unirii Slobozia. Mihai Iosif este noul antrenor al lui ASA Marosvásárhely „Bun venit! Mihai Iosif este, începând de astăzi, noul antrenor principal al echipei noastre. ...",
-    "title_ro": "Mihai Iosif, prezentat oficial la noua echipă » Debutează în acest weekend",
-    "lead_ro": "Mihai Iosif (52 de ani) a fost prezentat oficial în funcția de antrenor principal la ASA Marosvásárhely, așa cum GSP.ro anunța pe 28 octombrie. Acesta va debuta sâmbătă, 31 octombrie, de la ora 11:00,…",
-    "content_ro": "Mihai Iosif (52 de ani) a fost prezentat oficial în funcția de antrenor principal la ASA Marosvásárhely, așa cum GSP.ro anunța pe 28 octombrie. Acesta va debuta sâmbătă, 31 octombrie, de la ora 11:00, pe banca formației din liga secundă. În cadrul etapei cu numărul 12, ASA Marosvásárhely primește vizita Unirii Slobozia. Mihai Iosif este noul antrenor al lui ASA Marosvásárhely „Bun venit! Mihai Iosif este, începând de astăzi, noul antrenor principal al echipei noastre. ..."
-  },
-  {
-    "group_id": "group_e4d27282a0",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "OPIA a consolidat dialogul internațional și a promovat industria românească de apărare în cadrul AFRIDEX 2026, în Nigeria",
-        "link": "https://www.mediafax.ro/comunicate-de-presa/opia-a-consolidat-dialogul-international-si-a-promovat-industria-romaneasca-de-aparare-in-cadrul-afridex-2026-in-nigeria-23834647"
-      }
-    ],
-    "published_at": 1793364017,
-    "title_hu": "OPIA a consolidat dialogul internațional și a promovat industria românească de apărare în cadrul AFRIDEX 2026, în Nigeria",
-    "lead_hu": "Organizația Patronală a Industriei de Apărare (OPIA), reprezentată de Răzvan Marian Pîrcălăbescu, președinte OPIA și director general al Companiei Naționale ROMARM S.A., a participat la Africa Interna…",
-    "content_hu": "Organizația Patronală a Industriei de Apărare (OPIA), reprezentată de Răzvan Marian Pîrcălăbescu, președinte OPIA și director general al Companiei Naționale ROMARM S.A., a participat la Africa International Defence Exhibition – AFRIDEX 2026, organizată la Lagos, Nigeria, în perioada 26–29 octombrie 2026. Participarea la acest eveniment s-a înscris în demersurile OPIA de promovare a industriei naționale […]",
-    "title_ro": "OPIA a consolidat dialogul internațional și a promovat industria românească de apărare în cadrul AFRIDEX 2026, în Nigeria",
-    "lead_ro": "Organizația Patronală a Industriei de Apărare (OPIA), reprezentată de Răzvan Marian Pîrcălăbescu, președinte OPIA și director general al Companiei Naționale ROMARM S.A., a participat la Africa Interna…",
-    "content_ro": "Organizația Patronală a Industriei de Apărare (OPIA), reprezentată de Răzvan Marian Pîrcălăbescu, președinte OPIA și director general al Companiei Naționale ROMARM S.A., a participat la Africa International Defence Exhibition – AFRIDEX 2026, organizată la Lagos, Nigeria, în perioada 26–29 octombrie 2026. Participarea la acest eveniment s-a înscris în demersurile OPIA de promovare a industriei naționale […]"
-  },
-  {
-    "group_id": "group_915a748e1a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "O universitate din Lituania a descoperit exemple de plagiat în teza de doctorat a premierului / I-au acordat un termen de şase luni pentru a remedia neregulile",
-        "link": "https://www.g4media.ro/o-universitate-din-lituania-a-descoperit-exemple-de-plagiat-in-teza-de-doctorat-a-premierului-i-au-acordat-un-termen-de-sase-luni-pentru-a-remedia-neregulile.html"
-      }
-    ],
-    "published_at": 1793364012,
-    "title_hu": "O universitate din Lituania a descoperit exemple de plagiat în teza de doctorat a premierului / I-au acordat un termen de şase luni pentru a remedia neregulile",
-    "lead_hu": "O universitate din Lituania a descoperit exemple de plagiat şi alte încălcări ale integrităţii academice în teza de doctorat a prim-ministrului Mindaugas Sinkevicius, acordându-i un termen de şase lun…",
-    "content_hu": "O universitate din Lituania a descoperit exemple de plagiat şi alte încălcări ale integrităţii academice în teza de doctorat a prim-ministrului Mindaugas Sinkevicius, acordându-i un termen de şase luni pentru a remedia neregulile, a relatat vineri postul de televiziune LRT, citat de agenţia de presă Anadolu, informație preluată de Agerpres. Comisia de etică a Universităţii […] © G4Media.ro.",
-    "title_ro": "O universitate din Lituania a descoperit exemple de plagiat în teza de doctorat a premierului / I-au acordat un termen de şase luni pentru a remedia neregulile",
-    "lead_ro": "O universitate din Lituania a descoperit exemple de plagiat şi alte încălcări ale integrităţii academice în teza de doctorat a prim-ministrului Mindaugas Sinkevicius, acordându-i un termen de şase lun…",
-    "content_ro": "O universitate din Lituania a descoperit exemple de plagiat şi alte încălcări ale integrităţii academice în teza de doctorat a prim-ministrului Mindaugas Sinkevicius, acordându-i un termen de şase luni pentru a remedia neregulile, a relatat vineri postul de televiziune LRT, citat de agenţia de presă Anadolu, informație preluată de Agerpres. Comisia de etică a Universităţii […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_1d31f2fa18",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "OTL: Curse rapide spre Cimitirul Municipal ȋn perioada 31 octombrie – 1 noiembrie 2026",
-        "link": "https://www.ebihoreanul.ro/stiri/otl-curse-rapide-spre-cimitirul-municipal-n-perioada-31-octombrie-1-noiembrie-2026-206219.html"
-      }
-    ],
-    "published_at": 1793364000,
-    "title_hu": "OTL: Curse rapide spre Cimitirul Municipal ȋn perioada 31 octombrie – 1 noiembrie 2026",
-    "lead_hu": "Pentru a facilita deplasarea călătorilor la Cimitirul Rulikowski, în perioada 31 octombrie - 1 noiembrie 2026, se vor efectua curse cu autobuze, după cum urmează: sâmbătă, 31 octombrie şi duminică 1 n…",
-    "content_hu": "Pentru a facilita deplasarea călătorilor la Cimitirul Rulikowski, în perioada 31 octombrie - 1 noiembrie 2026, se vor efectua curse cu autobuze, după cum urmează: sâmbătă, 31 octombrie şi duminică 1 noiembrie 2026 - se introduc curse rapide, ȋn intervalul orar 10:00 – 19:00.",
-    "title_ro": "OTL: Curse rapide spre Cimitirul Municipal ȋn perioada 31 octombrie – 1 noiembrie 2026",
-    "lead_ro": "Pentru a facilita deplasarea călătorilor la Cimitirul Rulikowski, în perioada 31 octombrie - 1 noiembrie 2026, se vor efectua curse cu autobuze, după cum urmează: sâmbătă, 31 octombrie şi duminică 1 n…",
-    "content_ro": "Pentru a facilita deplasarea călătorilor la Cimitirul Rulikowski, în perioada 31 octombrie - 1 noiembrie 2026, se vor efectua curse cu autobuze, după cum urmează: sâmbătă, 31 octombrie şi duminică 1 noiembrie 2026 - se introduc curse rapide, ȋn intervalul orar 10:00 – 19:00."
-  },
-  {
-    "group_id": "group_07f58102bd",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Andrei Cordea, la un pas să plece de la CFR Cluj » Ofertă la club + Salariu uriaș",
-        "link": "https://www.gsp.ro/fotbal/liga-1/cfr-clu-oferta-andrei-cordea-china-negocieri-993970.html"
-      }
-    ],
-    "published_at": 1793363906,
-    "title_hu": "Andrei Cordea, la un pas să plece de la CFR Kolozsvár » Ofertă la club + Salariu uriaș",
-    "lead_hu": "Andrei Cordea (27 de ani), cel mai important jucător de la CFR Kolozsvár, ar putea părăsi echipa în această iarnă, fiind dorit în China. Aflată în insolvență și într-o situație complicată în clasament…",
-    "content_hu": "Andrei Cordea (27 de ani), cel mai important jucător de la CFR Kolozsvár, ar putea părăsi echipa în această iarnă, fiind dorit în China. Aflată în insolvență și într-o situație complicată în clasament, CFR Kolozsvár riscă să-și piardă vedeta. Evoluțiile excelente pe care Andrei Cordea le-a avut în acest an au atras atenția mai multor cluburi. Iar extrema ar putea ajunge în China. ...",
-    "title_ro": "Andrei Cordea, la un pas să plece de la CFR Cluj » Ofertă la club + Salariu uriaș",
-    "lead_ro": "Andrei Cordea (27 de ani), cel mai important jucător de la CFR Kolozsvár, ar putea părăsi echipa în această iarnă, fiind dorit în China. Aflată în insolvență și într-o situație complicată în clasament…",
-    "content_ro": "Andrei Cordea (27 de ani), cel mai important jucător de la CFR Kolozsvár, ar putea părăsi echipa în această iarnă, fiind dorit în China. Aflată în insolvență și într-o situație complicată în clasament, CFR Kolozsvár riscă să-și piardă vedeta. Evoluțiile excelente pe care Andrei Cordea le-a avut în acest an au atras atenția mai multor cluburi. Iar extrema ar putea ajunge în China. ..."
-  },
-  {
-    "group_id": "group_56a71b7971",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "„Az AUR képviselői folyamatosan mérgezik a közéletet és a közösségek viszonyát”",
-        "link": "https://maszol.ro/belfold/Az-AUR-kepviseloi-folyamatosan-mergezik-a-kozeletet-es-a-kozossegek-viszonyat"
-      }
-    ],
-    "published_at": 1793363820,
-    "title_hu": "„Az AUR képviselői folyamatosan mérgezik a közéletet és a közösségek viszonyát”",
-    "lead_hu": "A jogvédő szolgálat újabb két esetben tett feljelentést az Országos Diszkriminációellenes Tanácsnál.",
-    "content_hu": "A jogvédő szolgálat újabb két esetben tett feljelentést az Országos Diszkriminációellenes Tanácsnál.",
-    "title_ro": "„Az AUR képviselői folyamatosan mérgezik a közéletet és a közösségek viszonyát”",
-    "lead_ro": "A jogvédő szolgálat újabb két esetben tett feljelentést az Országos Diszkriminációellenes Tanácsnál.",
-    "content_ro": "A jogvédő szolgálat újabb két esetben tett feljelentést az Országos Diszkriminációellenes Tanácsnál."
-  },
-  {
-    "group_id": "group_5ef69ee563",
-    "category": "Kultúra",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Îngrijorare în Biserica Ortodoxă Română din cauza falșilor preoți ortodocși schismatici care folosesc ”abuziv” însemnele BOR și le cer credincioșilor donații pentru construcția de biserici",
-        "link": "https://www.g4media.ro/ingrijorare-in-biserica-ortodoxa-romana-din-cauza-falsilor-preoti-ortodocsi-schismatici-care-folosesc-abuziv-insemnele-bor-si-le-cer-credinciosilor-donatii-pentru-constructia-de-bise.html"
-      }
-    ],
-    "published_at": 1793363816,
-    "title_hu": "Îngrijorare în Biserica Ortodoxă Română din cauza falșilor preoți ortodocși schismatici care folosesc ”abuziv” însemnele BOR și le cer credincioșilor donații pentru construcția de biserici",
-    "lead_hu": "Sinodul Bisericii Ortodoxe Române (BOR), conducerea colectivă a instituției de cult, a denunțat joi proliferarea unor grupări ”eretice și schismatice” care folosesc ”abuziv” însemnele BOR și le cer cr…",
-    "content_hu": "Sinodul Bisericii Ortodoxe Române (BOR), conducerea colectivă a instituției de cult, a denunțat joi proliferarea unor grupări ”eretice și schismatice” care folosesc ”abuziv” însemnele BOR și le cer credincioșilor donații pentru construcția de biserici, potrivit unui comunicat al Patriarhiei Române. ”A luat act cu preocupare de evoluția grupărilor eretice și schismatice, pretins „ortodoxe”, care desfășoară […] © G4Media.ro.",
-    "title_ro": "Îngrijorare în Biserica Ortodoxă Română din cauza falșilor preoți ortodocși schismatici care folosesc ”abuziv” însemnele BOR și le cer credincioșilor donații pentru construcția de biserici",
-    "lead_ro": "Sinodul Bisericii Ortodoxe Române (BOR), conducerea colectivă a instituției de cult, a denunțat joi proliferarea unor grupări ”eretice și schismatice” care folosesc ”abuziv” însemnele BOR și le cer cr…",
-    "content_ro": "Sinodul Bisericii Ortodoxe Române (BOR), conducerea colectivă a instituției de cult, a denunțat joi proliferarea unor grupări ”eretice și schismatice” care folosesc ”abuziv” însemnele BOR și le cer credincioșilor donații pentru construcția de biserici, potrivit unui comunicat al Patriarhiei Române. ”A luat act cu preocupare de evoluția grupărilor eretice și schismatice, pretins „ortodoxe”, care desfășoară […] © G4Media.ro."
   },
   {
     "group_id": "group_6f6415bc17",
