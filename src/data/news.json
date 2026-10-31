@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_c630bb7111",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "România, printre ultimele țări din UE care nu recunosc parteneriatul civil. Peste 360.000 de cupluri nu au protecție legală",
+        "link": "https://stirileprotv.ro/stiri/social/romania-printre-ultimele-tari-din-ue-care-nu-recunosc-parteneriatul-civil-peste-360-000-de-cupluri-nu-au-protectie-legala.html"
+      }
+    ],
+    "published_at": 1793467741,
+    "title_hu": "România, printre ultimele țări din UE care nu recunosc parteneriatul civil. Peste 360.000 de cupluri nu au protecție legală",
+    "lead_hu": "Sute de oameni au participat, în Capitală, în ciuda ploii, la un marș pentru legalizarea parteneriatului civil. Manifestanții le cer parlamentarilor să adopte o lege care să recunoască legal cuplurile...",
+    "content_hu": "Sute de oameni au participat, în Capitală, în ciuda ploii, la un marș pentru legalizarea parteneriatului civil. Manifestanții le cer parlamentarilor să adopte o lege care să recunoască legal cuplurile necăsătorite, indiferent de sexul partenerilor.",
+    "title_ro": "România, printre ultimele țări din UE care nu recunosc parteneriatul civil. Peste 360.000 de cupluri nu au protecție legală",
+    "lead_ro": "Sute de oameni au participat, în Capitală, în ciuda ploii, la un marș pentru legalizarea parteneriatului civil. Manifestanții le cer parlamentarilor să adopte o lege care să recunoască legal cuplurile...",
+    "content_ro": "Sute de oameni au participat, în Capitală, în ciuda ploii, la un marș pentru legalizarea parteneriatului civil. Manifestanții le cer parlamentarilor să adopte o lege care să recunoască legal cuplurile necăsătorite, indiferent de sexul partenerilor."
+  },
+  {
     "group_id": "group_0785c77429",
     "category": "Erdély",
     "is_synthesized": false,
@@ -342,7 +363,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "G4Media",
@@ -363,6 +384,11 @@
         "source": "Digi24",
         "title": "Alertă la Moscova: FSB anunță că SUA au avertizat cu privire la pregătirea unui atac terorist. Care ar fi ținta",
         "link": "https://www.digi24.ro/stiri/externe/alerta-la-moscova-fsb-anunta-ca-sua-au-avertizat-cu-privire-la-pregatirea-unui-atac-terorist-in-capitala-rusiei-4016615"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rusia: FSB spune că SUA au avertizat Rusia cu privire la un atac planificat la Moscova",
+        "link": "https://agerpres.ro/politic-extern/2026/10/31/rusia-fsb-spune-ca-sua-au-avertizat-rusia-cu-privire-la-un-atac-planificat-la-moscova--1608744"
       }
     ],
     "published_at": 1793465641,
@@ -380,7 +406,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Digi24",
@@ -401,6 +427,11 @@
         "source": "Maszol",
         "title": "FRISSÍTVE – RO-Alert riasztás több megyében: lehetséges drónbehatolásra figyelmeztetnek",
         "link": "https://maszol.ro/belfold/RO-Alert-riasztas-tobb-megyeben-lehetseges-dronbehatolasra-figyelmeztetnek"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mesaj RO-ALERT în Iași și Neamț despre posibilă incursiune de dronă, după ce a fost detectată de radarul MApN",
+        "link": "https://agerpres.ro/social/2026/10/31/mesaj-ro-alert-in-iasi-si-neamt-despre-posibila-incursiune-de-drona-dupa-ce-a-fost-detectata-de-rada--1608742"
       }
     ],
     "published_at": 1793465580,
@@ -418,7 +449,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 9,
+    "sources_count": 11,
     "sources": [
       {
         "source": "Mediafax",
@@ -464,6 +495,16 @@
         "source": "Mediafax",
         "title": "UPDATE Spațiul aerian restricționat în nordul și centrul Republicii Moldova. Două drone au pătruns neautorizat",
         "link": "https://www.mediafax.ro/externe/update-spatiul-aerian-restrictionat-in-nordul-si-centrul-republicii-moldova-doua-drone-au-patruns-neautorizat-23835183"
+      },
+      {
+        "source": "Digi24",
+        "title": "Prima reacție a noului ministru al Apărării după ce două drone au pătruns neautorizat în spațiul aerian al României",
+        "link": "https://www.digi24.ro/stiri/actualitate/prima-reactie-a-noului-ministru-al-apararii-dupa-ce-doua-drone-au-patruns-neautorizat-in-spatiul-aerian-al-romaniei-4016655"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ministrul Apărării Naționale, despre pătrunderea neautorizată a două drone în spațiul aerian național: Forțele și mijloacele aflate în serviciul de luptă Poliție Aeriană au fost activate, iar acțiunile de monitorizare și intervenție sunt în desfășurare",
+        "link": "https://www.g4media.ro/ministrul-apararii-nationale-despre-patrunderea-neautorizata-a-doua-drone-in-spatiul-aerian-national-fortele-si-mijloacele-aflate-in-serviciul-de-lupta-politie-aeriana-au-fost-activate-iar-actiunil.html"
       }
     ],
     "published_at": 1793465456,
@@ -766,12 +807,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "G4Media",
         "title": "OpenAI, Google, Microsoft şi Anthropic promit companiilor mass-media o modalitate unică care împiedică preluarea conţinuturilor pentru antrenarea modelelor de inteligență artificială",
         "link": "https://www.g4media.ro/openai-google-microsoft-si-anthropic-promit-companiilor-mass-media-o-modalitate-unica-care-impiedica-preluarea-continuturilor-pentru-antrenarea-modelelor-de-inteligenta-artificiala.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Giganții din domeniul AI promit companiilor mass-media un buton care împiedică preluarea conținuturilor",
+        "link": "https://agerpres.ro/stiinta/2026/10/31/gigantii-din-domeniul-ai-promit-companiilor-mass-media-un-buton-care-impiedica-preluarea-continuturi--1608745"
       }
     ],
     "published_at": 1793464317,
@@ -4059,7 +4105,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -4100,6 +4146,11 @@
         "source": "G4Media",
         "title": "USR și-a ales noul Birou Național la congresul de la Timișoara / Foștii miniștri Radu Miruță și Diana Buzoianu, vicepreședinți ai formațiunii politice",
         "link": "https://www.g4media.ro/usr-si-a-ales-noul-birou-national-la-congresul-de-la-timisoara-fostii-ministri-radu-miruta-si-diana-buzoianu-vicepresedinti-ai-formatiunii-politice.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Congres USR/A fost ales noul Birou Național; printre vicepreședinți-Miruță, Buzoianu, Barna (rezultatele preliminare)",
+        "link": "https://agerpres.ro/politic/2026/10/31/congres-usr-a-fost-ales-noul-birou-national-printre-vicepresedinti-miruta-buzoianu-barna-rezultatele--1608760"
       }
     ],
     "published_at": 1793449769,
@@ -13108,69 +13159,6 @@
     "content_ro": "Christa Pike a declarat vineri, 30 octombrie, că a suferit dureri continue după ce i-a fost administrată o doză masivă de pentobarbital, un sedativ folosit în procedura de execuție."
   },
   {
-    "group_id": "group_25907b02b5",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cum a reacționat Lamine Yamal după ce a pierdut Balonul de Aur: „Este matur. Așa fac marii campioni!”",
-        "link": "https://www.gsp.ro/international/campionate/cum-a-reactionat-lamine-yamal-dupa-ce-a-pierdut-balonul-de-aur-este-matur-asa-fac-marii-campioni-994042.html"
-      }
-    ],
-    "published_at": 1793381757,
-    "title_hu": "Cum a reacționat Lamine Yamal după ce a pierdut Balonul de Aur: „Este matur. Așa fac marii campioni!”",
-    "lead_hu": "Hansi Flick, antrenorul Barcelonei, laudă modul în care s-a comportat Lamine Yamal după Gala Balonului de Aur 2026, organizată de France Football. La conferința de presă dinaintea partidei dintre camp…",
-    "content_hu": "Hansi Flick, antrenorul Barcelonei, laudă modul în care s-a comportat Lamine Yamal după Gala Balonului de Aur 2026, organizată de France Football. La conferința de presă dinaintea partidei dintre campioana Spaniei și Alaves, germanul a evidențiat atitudinea tânărului atacant la ședințele zilnice de pregătire. „Sunt foarte mândru de Lamine pentru că a reacționat excelent și remarc la antrenamente că este extrem de concentrat. ...",
-    "title_ro": "Cum a reacționat Lamine Yamal după ce a pierdut Balonul de Aur: „Este matur. Așa fac marii campioni!”",
-    "lead_ro": "Hansi Flick, antrenorul Barcelonei, laudă modul în care s-a comportat Lamine Yamal după Gala Balonului de Aur 2026, organizată de France Football. La conferința de presă dinaintea partidei dintre camp…",
-    "content_ro": "Hansi Flick, antrenorul Barcelonei, laudă modul în care s-a comportat Lamine Yamal după Gala Balonului de Aur 2026, organizată de France Football. La conferința de presă dinaintea partidei dintre campioana Spaniei și Alaves, germanul a evidențiat atitudinea tânărului atacant la ședințele zilnice de pregătire. „Sunt foarte mândru de Lamine pentru că a reacționat excelent și remarc la antrenamente că este extrem de concentrat. ..."
-  },
-  {
-    "group_id": "group_f69237634d",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Când primesc românii alocațiile în noiembrie 2026. De ce se schimbă data obișnuită de plată",
-        "link": "https://www.cancan.ro/cand-primesc-romanii-alocatiile-in-noiembrie-2026-de-ce-se-schimba-data-obisnuita-de-plata-21539221"
-      }
-    ],
-    "published_at": 1793381475,
-    "title_hu": "Când primesc românii alocațiile în noiembrie 2026. De ce se schimbă data obișnuită de plată",
-    "lead_hu": "Părinții care așteaptă alocațiile de stat trebuie să fie atenți la calendarul plăților din luna noiembrie. Data obișnuită de virare, 8 noiembrie, pică duminică. Din acest motiv, banii ar putea ajunge …",
-    "content_hu": "Părinții care așteaptă alocațiile de stat trebuie să fie atenți la calendarul plăților din luna noiembrie. Data obișnuită de virare, 8 noiembrie, pică duminică. Din acest motiv, banii ar putea ajunge pe carduri mai devreme, respectiv vineri, 6 noiembrie 2026. Totuși, data de 6 noiembrie reprezintă o estimare bazată pe calendarul obișnuit al plăților. Până […]",
-    "title_ro": "Când primesc românii alocațiile în noiembrie 2026. De ce se schimbă data obișnuită de plată",
-    "lead_ro": "Părinții care așteaptă alocațiile de stat trebuie să fie atenți la calendarul plăților din luna noiembrie. Data obișnuită de virare, 8 noiembrie, pică duminică. Din acest motiv, banii ar putea ajunge …",
-    "content_ro": "Părinții care așteaptă alocațiile de stat trebuie să fie atenți la calendarul plăților din luna noiembrie. Data obișnuită de virare, 8 noiembrie, pică duminică. Din acest motiv, banii ar putea ajunge pe carduri mai devreme, respectiv vineri, 6 noiembrie 2026. Totuși, data de 6 noiembrie reprezintă o estimare bazată pe calendarul obișnuit al plăților. Până […]"
-  },
-  {
-    "group_id": "group_ba87689364",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Iarna vine cu o lună mai devreme în România. Meteorologii anunță ninsori și un strat de zăpadă de până la 25 de centimetri",
-        "link": "https://stirileprotv.ro/stiri/actualitate/vremea-se-raceste-brusc-in-romania-sunt-anuntate-ninsori-si-temperaturi-sub-zero-grade.html"
-      }
-    ],
-    "published_at": 1793381408,
-    "title_hu": "Iarna vine cu o lună mai devreme în România. Meteorologii anunță ninsori și un strat de zăpadă de până la 25 de centimetri",
-    "lead_hu": "Iarna se grăbește să se instaleze cu o lună mai devreme la noi. Se anunță un weekend cu ninsori la munte, iar meteorologii au emis un Cod galben și estimează până la 25 de centimetri de zăpadă.",
-    "content_hu": "Iarna se grăbește să se instaleze cu o lună mai devreme la noi. Se anunță un weekend cu ninsori la munte, iar meteorologii au emis un Cod galben și estimează până la 25 de centimetri de zăpadă.",
-    "title_ro": "Iarna vine cu o lună mai devreme în România. Meteorologii anunță ninsori și un strat de zăpadă de până la 25 de centimetri",
-    "lead_ro": "Iarna se grăbește să se instaleze cu o lună mai devreme la noi. Se anunță un weekend cu ninsori la munte, iar meteorologii au emis un Cod galben și estimează până la 25 de centimetri de zăpadă.",
-    "content_ro": "Iarna se grăbește să se instaleze cu o lună mai devreme la noi. Se anunță un weekend cu ninsori la munte, iar meteorologii au emis un Cod galben și estimează până la 25 de centimetri de zăpadă."
-  },
-  {
     "group_id": "group_6bb56093c8",
     "category": "Sport",
     "is_synthesized": false,
@@ -14035,12 +14023,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "Tenis: Francezul Vacherot, adversarul lui Djokovic din primul tur la Paris (ATP)",
         "link": "https://agerpres.ro/sport-extern/2026/10/31/tenis-francezul-vacherot-adversarul-lui-djokovic-din-primul-tur-la-paris-atp--1608716"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Vacherot, adversarul lui Djokovic din primul tur la Paris (ATP)",
+        "link": "https://agerpres.ro/sport-extern/2026/10/31/tenis-vacherot-adversarul-lui-djokovic-din-primul-tur-la-paris-atp--1608716"
       }
     ],
     "published_at": 1793404800,
@@ -14132,6 +14125,153 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Papa Leon a primit la Vatican echipa de baschet a fostei sale universități din Statele Unite",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_e85366ff1c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Radu Oprea, despre dronele intrate în spațiul aerian național: Acțiunile de monitorizare și intervenție sunt în desfășurare",
+        "link": "https://agerpres.ro/social/2026/10/31/radu-oprea-despre-dronele-intrate-in-spatiul-aerian-national-actiunile-de-monitorizare-si-interventi--1608758"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Radu Oprea, despre dronele intrate în spațiul aerian național: Acțiunile de monitorizare și intervenție sunt în desfășurare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Radu Oprea, despre dronele intrate în spațiul aerian național: Acțiunile de monitorizare și intervenție sunt în desfășurare",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_6d83139b3d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: A fost emisă alertă aeriană pentru județul Suceava",
+        "link": "https://agerpres.ro/social/2026/10/31/mapn-a-fost-emisa-alerta-aeriana-pentru-judetul-suceava--1608756"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "MApN: A fost emisă alertă aeriană pentru județul Suceava",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "MApN: A fost emisă alertă aeriană pentru județul Suceava",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_de357ace16",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Germania: Tinerii din 'Gen Z' se mobilizează în peste 30 de orașe",
+        "link": "https://agerpres.ro/social-extern/2026/10/31/video-germania-tinerii-din-gen-z-se-mobilizeaza-in-peste-30-de-orase--1608754"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "VIDEO Germania: Tinerii din 'Gen Z' se mobilizează în peste 30 de orașe",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "VIDEO Germania: Tinerii din 'Gen Z' se mobilizează în peste 30 de orașe",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_f4c98084d3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Iași: Spațiul aerian, închis temporar; cursa de Eindhoven, redirecționată pe Aeroportul 'Ștefan cel Mare' de la Suceava",
+        "link": "https://agerpres.ro/social/2026/10/31/iasi-spatiul-aerian-inchis-temporar-cursa-de-eindhoven-redirectionata-pe-aeroportul-stefan-cel-mare---1608752"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "Iași: Spațiul aerian, închis temporar; cursa de Eindhoven, redirecționată pe Aeroportul 'Ștefan cel Mare' de la Suceava",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Iași: Spațiul aerian, închis temporar; cursa de Eindhoven, redirecționată pe Aeroportul 'Ștefan cel Mare' de la Suceava",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_1b5d086609",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Albania: Tensiuni în timpul unui protest convocat de studenți",
+        "link": "https://agerpres.ro/social-extern/2026/10/31/video-albania-tensiuni-in-timpul-unui-protest-convocat-de-studenti--1608749"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "VIDEO Albania: Tensiuni în timpul unui protest convocat de studenți",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "VIDEO Albania: Tensiuni în timpul unui protest convocat de studenți",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_442dc2ae49",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN: Alerte și în județele Botoșani și Bacău; o nouă țintă aeriană a intrat neautorizat în spațiul aerian național",
+        "link": "https://agerpres.ro/social/2026/10/31/mapn-alerte-si-in-judetele-botosani-si-bacau-o-noua-tinta-aeriana-a-intrat-neautorizat-in-spatiul-ae--1608748"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "MApN: Alerte și în județele Botoșani și Bacău; o nouă țintă aeriană a intrat neautorizat în spațiul aerian național",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "MApN: Alerte și în județele Botoșani și Bacău; o nouă țintă aeriană a intrat neautorizat în spațiul aerian național",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_8afeaa4e34",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "MApN anunță extinderea alertei aeriene; mesaj RO-ALERT pentru populația județului Vaslui",
+        "link": "https://agerpres.ro/social/2026/10/31/mapn-anunta-extinderea-alertei-aeriene-mesaj-ro-alert-pentru-populatia-judetului-vaslui--1608747"
+      }
+    ],
+    "published_at": 1793404800,
+    "title_hu": "MApN anunță extinderea alertei aeriene; mesaj RO-ALERT pentru populația județului Vaslui",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "MApN anunță extinderea alertei aeriene; mesaj RO-ALERT pentru populația județului Vaslui",
     "lead_ro": "",
     "content_ro": ""
   }
