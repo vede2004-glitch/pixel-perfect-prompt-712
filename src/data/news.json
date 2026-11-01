@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_683d2262a8",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Harry Kane, duș rece după „Balon” » „Am fost foarte neglijenți”",
+        "link": "https://www.gsp.ro/international/campionate/harry-kane-reactie-bayern-dortmund-2-2-994557.html"
+      }
+    ],
+    "published_at": 1793514289,
+    "title_hu": "Harry Kane, duș rece după „Balon” » „Am fost foarte neglijenți”",
+    "lead_hu": "Bayern a dat cu piciorul unei victorii în Der Klassiker, 2-2 cu Borussia Dortmund, irosind numeroase ocazii, între care nu mai puțin de 3 bare. Drumul de la sublim la ridicol este uneori foarte scurt ...",
+    "content_hu": "Bayern a dat cu piciorul unei victorii în Der Klassiker, 2-2 cu Borussia Dortmund, irosind numeroase ocazii, între care nu mai puțin de 3 bare. Drumul de la sublim la ridicol este uneori foarte scurt în fotbal. Înaintea Der Klassiker, cu Borussia Dortmund, Harry Kane le-a prezentat suporterilor „Balonul de Aur” primit luni, la Londra, pentru realizările sezonului trecut, între care 73 de goluri în 65 de partide. ...",
+    "title_ro": "Harry Kane, duș rece după „Balon” » „Am fost foarte neglijenți”",
+    "lead_ro": "Bayern a dat cu piciorul unei victorii în Der Klassiker, 2-2 cu Borussia Dortmund, irosind numeroase ocazii, între care nu mai puțin de 3 bare. Drumul de la sublim la ridicol este uneori foarte scurt ...",
+    "content_ro": "Bayern a dat cu piciorul unei victorii în Der Klassiker, 2-2 cu Borussia Dortmund, irosind numeroase ocazii, între care nu mai puțin de 3 bare. Drumul de la sublim la ridicol este uneori foarte scurt în fotbal. Înaintea Der Klassiker, cu Borussia Dortmund, Harry Kane le-a prezentat suporterilor „Balonul de Aur” primit luni, la Londra, pentru realizările sezonului trecut, între care 73 de goluri în 65 de partide. ..."
+  },
+  {
     "group_id": "group_874251f891",
     "category": "Általános",
     "is_synthesized": false,
@@ -67,12 +88,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Val de infecții respiratorii! 441 de cazuri de pneumonie într-o singură săptămână la Sibiu",
         "link": "https://www.mediafax.ro/social/val-de-infectii-respiratorii-441-de-cazuri-de-pneumonie-intr-o-singura-saptamana-la-sibiu-23835280"
+      },
+      {
+        "source": "G4Media",
+        "title": "Val de infecții respiratorii la Sibiu: 441 de cazuri de pneumonie într-o singură săptămână",
+        "link": "https://www.g4media.ro/val-de-infectii-respiratorii-la-sibiu-441-de-cazuri-de-pneumonie-intr-o-singura-saptamana.html"
       }
     ],
     "published_at": 1793513566,
@@ -326,7 +352,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 9,
+    "sources_count": 10,
     "sources": [
       {
         "source": "Adevărul",
@@ -372,6 +398,11 @@
         "source": "GSP - Gazeta Sporturilor",
         "title": "Adversarul lui Cristi Chivu a luat decizia chiar înaintea derby-ului cu Inter: „Sunt îndrăgostit de club”",
         "link": "https://www.gsp.ro/international/campionate/christian-pulisic-prelunguire-contract-decizia-inaintea-derby-inter-indragostit-de-milan-994046.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Patronul lui AC Milan a exultat după victoria cu Inter: „Ne-am confruntat cu asta”",
+        "link": "https://www.gsp.ro/international/campionate/gerry-cardinale-patron-ac-milan-reactie-victorie-inter-cristi-chivu-994550.html"
       }
     ],
     "published_at": 1793511953,
@@ -1665,7 +1696,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -1681,6 +1712,11 @@
         "source": "Mediafax",
         "title": "Franța, în flăcări în noaptea de Halloween. Peste 500 de persoane reținute, magazine jefuite și un polițist incendiat cu un cocktail Molotov",
         "link": "https://www.mediafax.ro/externe/franta-in-flacari-in-noaptea-de-halloween-peste-500-de-persoane-retinute-magazine-jefuite-si-un-politist-incendiat-cu-un-cocktail-molotov-23835257"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Több mint 320 ezren, sokan halloweeni jelmezben tüntettek Franciaországban, Németországban fosztogatás is volt",
+        "link": "https://transtelex.ro/kulfold/2026/10/31/franciaorszag-parizs-tuntetes-320-ezer-ember-nemetorszag"
       }
     ],
     "published_at": 1793479390,
@@ -2839,12 +2875,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Adevărul",
         "title": "Prietenii lui Putin, petrecere în Balcani. Viktor Orbán a mers în vizită la liderul separatist Milorad Dodik",
         "link": "https://adevarul.ro/stiri-externe/europa/prietenii-lui-putin-petrecere-in-balcani-viktor-2567996.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "„A barátok mindig barátok maradnak” – apja házában fogadta Aleksandar Vučić Orbán Viktort",
+        "link": "https://transtelex.ro/kulfold/2026/10/31/orban-viktor-aleksandar-vucic-talalkozo-a-baratok-mindig-baratok-maradnak"
       }
     ],
     "published_at": 1793472531,
@@ -11887,69 +11928,6 @@
     "content_ro": "O profesoară în vârstă de 23 de ani, angajată a Centrului Județean de Resurse și Asistență Educațională (CJRAE) Szatmárnémeti, a fost condamnată pentru dare de mită și furt, după ce a sustras mai multe produse din magazinul Carrefour, situat în Shopping City Satu …"
   },
   {
-    "group_id": "group_ad086de8de",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Scriitoarea Svetlana Aleksievici vine la Cazinoul din Constanţa: Laureată Nobel și ultimul lider al opoziției care e liber în Belarus, în dialog cu publicul / Despre dictaturile de azi, nostalgia nocivă a comunismului și războiul din Ucraina",
-        "link": "https://www.g4media.ro/scriitoarea-svetlana-aleksievici-vine-la-cazinoul-din-constanta-laureata-nobel-si-ultimul-lider-al-opozitiei-care-e-liber-in-belarus-in-dialog-cu-publicul-despre-dictaturile-de-azi-nostalgia-noci.html"
-      }
-    ],
-    "published_at": 1793428108,
-    "title_hu": "Scriitoarea Svetlana Aleksievici vine la Cazinoul din Constanţa: Laureată Nobel și ultimul lider al opoziției care e liber în Belarus, în dialog cu publicul / Despre dictaturile de azi, nostalgia nocivă a comunismului și războiul din Ucraina",
-    "lead_hu": "Scriitoarea Svetlana Aleksievici, opozantă a dictatorului Alexander Lukașenko, vine la Cazinoul din Constanţa, joi, 5 noiembrie, la ora 18:00, la conferința ”O viață pentru libertate”, anunță Facultat…",
-    "content_hu": "Scriitoarea Svetlana Aleksievici, opozantă a dictatorului Alexander Lukașenko, vine la Cazinoul din Constanţa, joi, 5 noiembrie, la ora 18:00, la conferința ”O viață pentru libertate”, anunță Facultatea de Istorie și Științe Politice (Universitatea ”Ovidius”, Constanța), organizatoarea evenimentului, alături de publicația Veridica. Laureată Nobel pentru Literatură (2015) și ultimul lider al opoziției care nu se află […] © G4Media.ro.",
-    "title_ro": "Scriitoarea Svetlana Aleksievici vine la Cazinoul din Constanţa: Laureată Nobel și ultimul lider al opoziției care e liber în Belarus, în dialog cu publicul / Despre dictaturile de azi, nostalgia nocivă a comunismului și războiul din Ucraina",
-    "lead_ro": "Scriitoarea Svetlana Aleksievici, opozantă a dictatorului Alexander Lukașenko, vine la Cazinoul din Constanţa, joi, 5 noiembrie, la ora 18:00, la conferința ”O viață pentru libertate”, anunță Facultat…",
-    "content_ro": "Scriitoarea Svetlana Aleksievici, opozantă a dictatorului Alexander Lukașenko, vine la Cazinoul din Constanţa, joi, 5 noiembrie, la ora 18:00, la conferința ”O viață pentru libertate”, anunță Facultatea de Istorie și Științe Politice (Universitatea ”Ovidius”, Constanța), organizatoarea evenimentului, alături de publicația Veridica. Laureată Nobel pentru Literatură (2015) și ultimul lider al opoziției care nu se află […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_96fdccc1e0",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Accident grav în Craiova. Trei pietoni, loviți de o mașină pe trotuar, au ajuns la spital",
-        "link": "https://stirileprotv.ro/stiri/actualitate/accident-grav-in-craiova-trei-pietoni-loviti-de-o-masina-pe-trotuar-au-ajuns-la-spital.html"
-      }
-    ],
-    "published_at": 1793428073,
-    "title_hu": "Accident grav în Craiova. Trei pietoni, loviți de o mașină pe trotuar, au ajuns la spital",
-    "lead_hu": "Trei pietoni au ajuns vineri la spital, după ce au fost loviți de o mașină pe trotuar, în Craiova.",
-    "content_hu": "Trei pietoni au ajuns vineri la spital, după ce au fost loviți de o mașină pe trotuar, în Craiova.",
-    "title_ro": "Accident grav în Craiova. Trei pietoni, loviți de o mașină pe trotuar, au ajuns la spital",
-    "lead_ro": "Trei pietoni au ajuns vineri la spital, după ce au fost loviți de o mașină pe trotuar, în Craiova.",
-    "content_ro": "Trei pietoni au ajuns vineri la spital, după ce au fost loviți de o mașină pe trotuar, în Craiova."
-  },
-  {
-    "group_id": "group_21ab1a40d1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Leclerc, cel mai rapid în al doilea antrenament din Mexic – Hamilton nu a prins top 10",
-        "link": "https://www.g4media.ro/leclerc-cel-mai-rapid-in-mexic-hamilton-nu-a-prins-top-10.html"
-      }
-    ],
-    "published_at": 1793427850,
-    "title_hu": "Leclerc, cel mai rapid în al doilea antrenament din Mexic – Hamilton nu a prins top 10",
-    "lead_hu": "Charles Leclerc (Ferrari) a dominat calificările cu numărul doi (FP2) contând pentru Marele Premiu de Formula 1 din Mexic. Monegascul a fost urmat de Lando Norris (McLaren) și George Russell (Mercedes…",
-    "content_hu": "Charles Leclerc (Ferrari) a dominat calificările cu numărul doi (FP2) contând pentru Marele Premiu de Formula 1 din Mexic. Monegascul a fost urmat de Lando Norris (McLaren) și George Russell (Mercedes). Lewis Hamilton a avut parte de o sesiune FP2 modestă: a avut doar al 11-lea timp. Kimi Antonelli (liderul ierarhiei mondiale) a avut al […] © G4Media.ro.",
-    "title_ro": "Leclerc, cel mai rapid în al doilea antrenament din Mexic – Hamilton nu a prins top 10",
-    "lead_ro": "Charles Leclerc (Ferrari) a dominat calificările cu numărul doi (FP2) contând pentru Marele Premiu de Formula 1 din Mexic. Monegascul a fost urmat de Lando Norris (McLaren) și George Russell (Mercedes…",
-    "content_ro": "Charles Leclerc (Ferrari) a dominat calificările cu numărul doi (FP2) contând pentru Marele Premiu de Formula 1 din Mexic. Monegascul a fost urmat de Lando Norris (McLaren) și George Russell (Mercedes). Lewis Hamilton a avut parte de o sesiune FP2 modestă: a avut doar al 11-lea timp. Kimi Antonelli (liderul ierarhiei mondiale) a avut al […] © G4Media.ro."
-  },
-  {
     "group_id": "group_fdda66e4fd",
     "fingerprint": "980e940d17019fa5479cce2662ea3257",
     "category": "Általános",
@@ -12155,7 +12133,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Digi24",
@@ -12176,6 +12154,11 @@
         "source": "HotNews.ro",
         "title": "Alegeri prezidențiale în Bulgaria. O luptă strânsă între „președinta păcii” și candidatul pro-occidental în cea mai săracă țară din UE",
         "link": "https://hotnews.ro/alegeri-prezidentiale-in-bulgaria-o-lupta-stransa-intre-presedinta-pacii-si-candidatul-pro-occidental-in-cea-mai-saraca-tara-din-ue-2391718"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Bulgaria își alege președintele în turul al doilea. Miza votului, între Rusia și Occident",
+        "link": "https://adevarul.ro/stiri-externe/europa/bulgaria-isi-alege-presedintele-in-turul-al-2568011.html"
       }
     ],
     "published_at": 1793509200,
