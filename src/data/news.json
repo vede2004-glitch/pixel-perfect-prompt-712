@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_4e494fa054",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "18 din ultimele 20 de alegeri de la jumătatea mandatului au adus pierderi partidului președintelui SUA. Se repetă istoria cu Trump?",
+        "link": "https://adevarul.ro/stiri-externe/sua/18-din-ultimele-20-de-alegeri-de-la-jumatatea-2567900.html"
+      }
+    ],
+    "published_at": 1793532352,
+    "title_hu": "18 din ultimele 20 de alegeri de la jumătatea mandatului au adus pierderi partidului președintelui SUA. Se repetă istoria cu Trump?",
+    "lead_hu": "Partidul președintelui pierde de regulă locuri în Congres la alegerile de la jumătatea mandatului, iar istoria sugerează că republicanii ar putea pierde peste 20 de locuri în Cameră pe 3 noiembrie....",
+    "content_hu": "Partidul președintelui pierde de regulă locuri în Congres la alegerile de la jumătatea mandatului, iar istoria sugerează că republicanii ar putea pierde peste 20 de locuri în Cameră pe 3 noiembrie.",
+    "title_ro": "18 din ultimele 20 de alegeri de la jumătatea mandatului au adus pierderi partidului președintelui SUA. Se repetă istoria cu Trump?",
+    "lead_ro": "Partidul președintelui pierde de regulă locuri în Congres la alegerile de la jumătatea mandatului, iar istoria sugerează că republicanii ar putea pierde peste 20 de locuri în Cameră pe 3 noiembrie....",
+    "content_ro": "Partidul președintelui pierde de regulă locuri în Congres la alegerile de la jumătatea mandatului, iar istoria sugerează că republicanii ar putea pierde peste 20 de locuri în Cameră pe 3 noiembrie."
+  },
+  {
     "group_id": "group_694193516c",
     "category": "Általános",
     "is_synthesized": false,
@@ -634,6 +655,27 @@
     "title_ro": "Licență revocată pentru o bancă apropiată de fostul președinte Aleksandar Vucic după ce banii au fost sifonați din Serbia",
     "lead_ro": "Banca centrală sârbă a revocat licența unei instituții financiare al cărei proprietar este considerat de presa locală apropiat de Partidul Progresist Sârb al fostului președinte Aleksandar Vucic, scri…",
     "content_ro": "Banca centrală sârbă a revocat licența unei instituții financiare al cărei proprietar este considerat de presa locală apropiat de Partidul Progresist Sârb al fostului președinte Aleksandar Vucic, scrie hvg.hu. Potrivit unui comunicat al băncii centrale, aceasta a revocat licența Alta Bankă deoarece situația financiară a băncii s-a deteriorat semnificativ, punând în pericol interesele deponenților. Alta […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_d530c0fc80",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Nem sikerült a mentőakció, egy hét múlva lezuhanhatnak a NASA egyik űrteleszkópjának darabjai",
+        "link": "https://transtelex.ro/techtud/2026/11/01/nasa-swift-ureleszkop-mentoakcio-fold-zuhanas"
+      }
+    ],
+    "published_at": 1793530177,
+    "title_hu": "Nem sikerült a mentőakció, egy hét múlva lezuhanhatnak a NASA egyik űrteleszkópjának darabjai",
+    "lead_hu": "A több mint 20 éves Swift űrteleszkóp jelentős része elég majd a légkörben, de így is lesz alkatrészeső....",
+    "content_hu": "A több mint 20 éves Swift űrteleszkóp jelentős része elég majd a légkörben, de így is lesz alkatrészeső.",
+    "title_ro": "Nem sikerült a mentőakció, egy hét múlva lezuhanhatnak a NASA egyik űrteleszkópjának darabjai",
+    "lead_ro": "A több mint 20 éves Swift űrteleszkóp jelentős része elég majd a légkörben, de így is lesz alkatrészeső....",
+    "content_ro": "A több mint 20 éves Swift űrteleszkóp jelentős része elég majd a légkörben, de így is lesz alkatrészeső."
   },
   {
     "group_id": "group_5cb8b6c5ef",
@@ -1452,12 +1494,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Cod portocaliu de inundații extins în România. Ce județe sunt vizate de noile avertizări ale hidrologilor",
         "link": "https://www.digi24.ro/meteo/cod-portocaliu-de-inundatii-extins-in-romania-ce-judete-sunt-vizate-de-noile-avertizari-ale-hidrologilor-4017059"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Alertă hidrologică în România. Cod portocaliu de inundații în mai multe județe din țară",
+        "link": "https://www.cancan.ro/alerta-hidrologica-in-romania-cod-portocaliu-de-inundatii-in-mai-multe-judete-din-tara-21540052"
       }
     ],
     "published_at": 1793527874,
@@ -4643,7 +4690,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Mediafax",
@@ -4659,6 +4706,11 @@
         "source": "Agerpres (HU)",
         "title": "Proteste în Portugalia: Poliția a evacuat tabere de corturi la Lisabona și Porto; 13 persoane arestate",
         "link": "https://agerpres.ro/social-extern/2026/11/01/proteste-in-portugalia-politia-a-evacuat-tabere-de-corturi-la-lisabona-si-porto-13-persoane-arestate--1608830"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Poliția din Portugalia a evacuat zeci de corturi ridicate de manifestanți. Protestele legate de problema locuinţelor s-au intensificat",
+        "link": "https://stirileprotv.ro/stiri/international/politia-din-portugalia-a-evacuat-zeci-de-corturi-ridicate-de-manifestanti-protestele-legate-de-problema-locuin-elor-s-au-intensificat.html"
       }
     ],
     "published_at": 1793515973,
@@ -12428,111 +12480,6 @@
     "title_ro": "Au găsit arheologii dovezi că Ulise a existat? Inscripțiile vechi de peste 2.000 de ani care au schimbat istoria insulei Itaca (P)",
     "lead_ro": "Aproape 3.000 de ani după ce Homer a povestit aventurile lui Ulise, arheologii greci au făcut o descoperire spectaculoasă chiar pe insula unde eroul din „Odiseea” ar fi trebuit să se întoarcă după răz…",
     "content_ro": "Aproape 3.000 de ani după ce Homer a povestit aventurile lui Ulise, arheologii greci au făcut o descoperire spectaculoasă chiar pe insula unde eroul din „Odiseea” ar fi trebuit să se întoarcă după războiul troian. Fragmente de țiglă inscripționate cu numele său, un bust de bronz și vestigiile unui complex monumental au permis identificarea unui sanctuar antic dedicat legendarului rege al Itacăi. Anunțată în 2025, descoperirea a readus în actualitate una dintre cele mai fascinante întrebări ale istoriei: a existat Ulise cu adevărat sau a fost doar un personaj creat de imaginația lui Homer?"
-  },
-  {
-    "group_id": "group_e04fbe3b86",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Miliarde de dolari și un pariu riscant. Meta, perspectivă negativă de la o mare agenție de rating",
-        "link": "https://www.mediafax.ro/economic/miliarde-de-dolari-si-un-pariu-riscant-meta-perspectiva-negativa-de-la-o-mare-agentie-de-rating-23835074"
-      }
-    ],
-    "published_at": 1793446150,
-    "title_hu": "Miliarde de dolari și un pariu riscant. Meta, perspectivă negativă de la o mare agenție de rating",
-    "lead_hu": "Investițiile uriașe ale Meta în inteligența artificială au determinat agenția S&P să schimbe perspectiva financiară a companiei de la stabilă la negativă. Analiștii financiari avertizează că Meta risc…",
-    "content_hu": "Investițiile uriașe ale Meta în inteligența artificială au determinat agenția S&P să schimbe perspectiva financiară a companiei de la stabilă la negativă. Analiștii financiari avertizează că Meta riscă să nu-și mai poată acoperi cheltuielile din banii pe care îi generează.",
-    "title_ro": "Miliarde de dolari și un pariu riscant. Meta, perspectivă negativă de la o mare agenție de rating",
-    "lead_ro": "Investițiile uriașe ale Meta în inteligența artificială au determinat agenția S&P să schimbe perspectiva financiară a companiei de la stabilă la negativă. Analiștii financiari avertizează că Meta risc…",
-    "content_ro": "Investițiile uriașe ale Meta în inteligența artificială au determinat agenția S&P să schimbe perspectiva financiară a companiei de la stabilă la negativă. Analiștii financiari avertizează că Meta riscă să nu-și mai poată acoperi cheltuielile din banii pe care îi generează."
-  },
-  {
-    "group_id": "group_f386c86460",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Fenomenul „bebelușilor suverani” ia amploare în SUA / Părinții refuză certificatele de naștere / Influencerii îi învață pe părinți cum să evite înregistrarea oficială a nașterii copiilor",
-        "link": "https://www.g4media.ro/fenomenul-bebelusilor-suverani-ia-amploare-in-sua-parintii-refuza-certificatele-de-nastere-influencerii-ii-invata-pe-parinti-cum-sa-evite-inregistrarea-oficiala-a-nasterii.html"
-      }
-    ],
-    "published_at": 1793446107,
-    "title_hu": "Fenomenul „bebelușilor suverani” ia amploare în SUA / Părinții refuză certificatele de naștere / Influencerii îi învață pe părinți cum să evite înregistrarea oficială a nașterii copiilor",
-    "lead_hu": "O mișcare controversată câștigă vizibilitate pe rețelele sociale din Statele Unite. Tot mai mulți influenceri promovează ideea creșterii copiilor fără certificate de naștere sau numere de securitate s…",
-    "content_hu": "O mișcare controversată câștigă vizibilitate pe rețelele sociale din Statele Unite. Tot mai mulți influenceri promovează ideea creșterii copiilor fără certificate de naștere sau numere de securitate socială, susținând că astfel îi protejează de controlul autorităților, relatează Mediafax. Fenomenul, cunoscut sub denumirea de „sovereign babies” („bebeluși suverani”, n. e.), provine din ideologia mișcării americane „sovereign […] © G4Media.ro.",
-    "title_ro": "Fenomenul „bebelușilor suverani” ia amploare în SUA / Părinții refuză certificatele de naștere / Influencerii îi învață pe părinți cum să evite înregistrarea oficială a nașterii copiilor",
-    "lead_ro": "O mișcare controversată câștigă vizibilitate pe rețelele sociale din Statele Unite. Tot mai mulți influenceri promovează ideea creșterii copiilor fără certificate de naștere sau numere de securitate s…",
-    "content_ro": "O mișcare controversată câștigă vizibilitate pe rețelele sociale din Statele Unite. Tot mai mulți influenceri promovează ideea creșterii copiilor fără certificate de naștere sau numere de securitate socială, susținând că astfel îi protejează de controlul autorităților, relatează Mediafax. Fenomenul, cunoscut sub denumirea de „sovereign babies” („bebeluși suverani”, n. e.), provine din ideologia mișcării americane „sovereign […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_76b81e4ac3",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Cea mai mare companie auto chineză promite investiții de „ordinul sutelor de milioane de dolari” în România. Anunțul făcut la București de vicepreședinta companiei BYD",
-        "link": "https://hotnews.ro/cea-mai-mare-companie-auto-chineza-promite-investitii-de-ordinul-sutelor-de-milioane-de-dolari-in-romania-anuntul-facut-la-bucuresti-de-vicepresedinta-companiei-byd-2391390"
-      }
-    ],
-    "published_at": 1793446008,
-    "title_hu": "Cea mai mare companie auto chineză promite investiții de „ordinul sutelor de milioane de dolari” în România. Anunțul făcut la București de vicepreședinta companiei BYD",
-    "lead_hu": "În acest weekend se află la București Stella Li, una din cele mai marcante figuri din industria auto chineză, inclusă, în acest an, de revista TIME în lista celor mai influente 100 de persoane din lum…",
-    "content_hu": "În acest weekend se află la București Stella Li, una din cele mai marcante figuri din industria auto chineză, inclusă, în acest an, de revista TIME în lista celor mai influente 100 de persoane din lume în domeniul AI. Este vicepreședinta BYD, cel mai mare producător auto chinez, și a venit să facă un anunț …",
-    "title_ro": "Cea mai mare companie auto chineză promite investiții de „ordinul sutelor de milioane de dolari” în România. Anunțul făcut la București de vicepreședinta companiei BYD",
-    "lead_ro": "În acest weekend se află la București Stella Li, una din cele mai marcante figuri din industria auto chineză, inclusă, în acest an, de revista TIME în lista celor mai influente 100 de persoane din lum…",
-    "content_ro": "În acest weekend se află la București Stella Li, una din cele mai marcante figuri din industria auto chineză, inclusă, în acest an, de revista TIME în lista celor mai influente 100 de persoane din lume în domeniul AI. Este vicepreședinta BYD, cel mai mare producător auto chinez, și a venit să facă un anunț …"
-  },
-  {
-    "group_id": "group_ab6eac4992",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Mărturia sfâșietoare a unui supraviețuitor de la Colectiv, la 11 ani de la tragedie: „România nu a învățat nimic”",
-        "link": "https://www.cancan.ro/marturia-sfasietoare-a-unui-supravietuitor-de-la-colectiv-la-11-ani-de-la-tragedie-romania-nu-a-invatat-nimic-21539449"
-      }
-    ],
-    "published_at": 1793445787,
-    "title_hu": "Mărturia sfâșietoare a unui supraviețuitor de la Colectiv, la 11 ani de la tragedie: „România nu a învățat nimic”",
-    "lead_hu": "11 ani de la Colectiv. 11 ani de promisiuni, declarații și lacrimi. 11 ani în care un supraviețuitor al celui mai cumplit incendiu din istoria recentă a României privește în jur și vede același sistem…",
-    "content_hu": "11 ani de la Colectiv. 11 ani de promisiuni, declarații și lacrimi. 11 ani în care un supraviețuitor al celui mai cumplit incendiu din istoria recentă a României privește în jur și vede același sistem nepăsător, aceleași greșeli și aceeași indiferență. Cristi Filipescu, unul dintre oamenii care au supraviețuit infernului din clubul bucureștean, a făcut, […]",
-    "title_ro": "Mărturia sfâșietoare a unui supraviețuitor de la Colectiv, la 11 ani de la tragedie: „România nu a învățat nimic”",
-    "lead_ro": "11 ani de la Colectiv. 11 ani de promisiuni, declarații și lacrimi. 11 ani în care un supraviețuitor al celui mai cumplit incendiu din istoria recentă a României privește în jur și vede același sistem…",
-    "content_ro": "11 ani de la Colectiv. 11 ani de promisiuni, declarații și lacrimi. 11 ani în care un supraviețuitor al celui mai cumplit incendiu din istoria recentă a României privește în jur și vede același sistem nepăsător, aceleași greșeli și aceeași indiferență. Cristi Filipescu, unul dintre oamenii care au supraviețuit infernului din clubul bucureștean, a făcut, […]"
-  },
-  {
-    "group_id": "group_5810114bc2",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Akár harminc centis hó is hullhat a hegyekben: esőre és viharos szélre figyelmeztetnek a meteorológusok",
-        "link": "https://transtelex.ro/eletmod/2026/10/31/hohullas-eso-viharos-szel-figyelmeztetes-meteorologus"
-      }
-    ],
-    "published_at": 1793445786,
-    "title_hu": "Akár harminc centis hó is hullhat a hegyekben: esőre és viharos szélre figyelmeztetnek a meteorológusok",
-    "lead_hu": "Havazással, viharos erejű széllökések és kiadós esőzések kíséretében érkezik a lehűlés az ország jelentős részére.",
-    "content_hu": "Havazással, viharos erejű széllökések és kiadós esőzések kíséretében érkezik a lehűlés az ország jelentős részére.",
-    "title_ro": "Akár harminc centis hó is hullhat a hegyekben: esőre és viharos szélre figyelmeztetnek a meteorológusok",
-    "lead_ro": "Havazással, viharos erejű széllökések és kiadós esőzések kíséretében érkezik a lehűlés az ország jelentős részére.",
-    "content_ro": "Havazással, viharos erejű széllökések és kiadós esőzések kíséretében érkezik a lehűlés az ország jelentős részére."
   },
   {
     "group_id": "group_9f1d394806",
