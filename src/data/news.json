@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_1f2144d8d8",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Ispita pe care a pus ochii Marcel la Insula iubirii o ”distruge” pe Armina: ”Ai mințit că ești gravidă”",
+        "link": "https://www.cancan.ro/ispita-pe-care-a-pus-ochii-marcel-la-insula-iubirii-o-distruge-pe-armina-ai-mintit-ca-esti-gravida-21539929"
+      }
+    ],
+    "published_at": 1793515900,
+    "title_hu": "Ispita pe care a pus ochii Marcel la Insula iubirii o ”distruge” pe Armina: ”Ai mințit că ești gravidă”",
+    "lead_hu": "Armina revine în atenția publicului, însă de data aceasta este luată peste picior de Frankie, ispita pe care Marcel a pus ochii la Insula Iubirii. Cea din urmă o acuză pe soția lui Maluma de România c...",
+    "content_hu": "Armina revine în atenția publicului, însă de data aceasta este luată peste picior de Frankie, ispita pe care Marcel a pus ochii la Insula Iubirii. Cea din urmă o acuză pe soția lui Maluma de România că a mințit că este însărcinată pentru a se da în spectacol și pentru a primi atenție. Într-o postare […]",
+    "title_ro": "Ispita pe care a pus ochii Marcel la Insula iubirii o ”distruge” pe Armina: ”Ai mințit că ești gravidă”",
+    "lead_ro": "Armina revine în atenția publicului, însă de data aceasta este luată peste picior de Frankie, ispita pe care Marcel a pus ochii la Insula Iubirii. Cea din urmă o acuză pe soția lui Maluma de România c...",
+    "content_ro": "Armina revine în atenția publicului, însă de data aceasta este luată peste picior de Frankie, ispita pe care Marcel a pus ochii la Insula Iubirii. Cea din urmă o acuză pe soția lui Maluma de România că a mințit că este însărcinată pentru a se da în spectacol și pentru a primi atenție. Într-o postare […]"
+  },
+  {
+    "group_id": "group_38b2fb5904",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Provocarea zilei de duminică, 1 noiembrie. Cât de bine te descurci la Sudoku?",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/provocarea-zilei-de-duminica-1-noiembrie-cat-de-2568017.html"
+      }
+    ],
+    "published_at": 1793515839,
+    "title_hu": "Provocarea zilei de duminică, 1 noiembrie. Cât de bine te descurci la Sudoku?",
+    "lead_hu": "Cititorii „Adevărul” au la dispoziție, pe telefon și pe computer, una dintre rubricile cunoscute ale ediției tipărite: „Jocurile zilei”. AICI puteți găsi zilnic provocări care vă testează atenția, cun...",
+    "content_hu": "Cititorii „Adevărul” au la dispoziție, pe telefon și pe computer, una dintre rubricile cunoscute ale ediției tipărite: „Jocurile zilei”. AICI puteți găsi zilnic provocări care vă testează atenția, cunoștințele generale și spiritul de observație, dar vă mențin creierul în formă.",
+    "title_ro": "Provocarea zilei de duminică, 1 noiembrie. Cât de bine te descurci la Sudoku?",
+    "lead_ro": "Cititorii „Adevărul” au la dispoziție, pe telefon și pe computer, una dintre rubricile cunoscute ale ediției tipărite: „Jocurile zilei”. AICI puteți găsi zilnic provocări care vă testează atenția, cun...",
+    "content_ro": "Cititorii „Adevărul” au la dispoziție, pe telefon și pe computer, una dintre rubricile cunoscute ale ediției tipărite: „Jocurile zilei”. AICI puteți găsi zilnic provocări care vă testează atenția, cunoștințele generale și spiritul de observație, dar vă mențin creierul în formă."
+  },
+  {
     "group_id": "group_3b852c45af",
     "category": "Általános",
     "is_synthesized": false,
@@ -151,12 +193,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Poliția a evacuat o nouă tabără de protest din Lisabona, după manifestația la care s-au adunat mii de oameni",
         "link": "https://www.mediafax.ro/externe/politia-a-evacuat-o-noua-tabara-de-protest-din-lisabona-dupa-manifestatia-la-care-s-au-adunat-mii-de-oameni-23835278"
+      },
+      {
+        "source": "G4Media",
+        "title": "Poliția portugheză a evacuat duminică o nouă tabără de protest din Lisabona, după manifestația la care s-au adunat mii de oameni",
+        "link": "https://www.g4media.ro/politia-portugheza-a-evacuat-duminica-o-noua-tabara-de-protest-din-lisabona-dupa-manifestatia-la-care-s-au-adunat-mii-de-oameni.html"
       }
     ],
     "published_at": 1793515208,
@@ -2245,7 +2292,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 11,
+    "sources_count": 12,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -2301,6 +2348,11 @@
         "source": "Agerpres (HU)",
         "title": "Congres USR/A fost ales noul Birou Național; printre vicepreședinți-Miruță, Buzoianu, Barna (rezultatele preliminare)",
         "link": "https://agerpres.ro/politic/2026/10/31/congres-usr-a-fost-ales-noul-birou-national-printre-vicepresedinti-miruta-buzoianu-barna-rezultatele--1608760"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Strategia noii conduceri USR pentru a reveni la guvernare în 2028. „Ieșim din orașele mari”",
+        "link": "https://stirileprotv.ro/stiri/politic/strategia-noii-conduceri-usr-pentru-a-reveni-la-guvernare-in-2028-iesim-din-orasele-mari.html"
       }
     ],
     "published_at": 1793477233,
@@ -2360,7 +2412,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -2411,6 +2463,11 @@
         "source": "Adevărul",
         "title": "Criză la Curtea Constituțională din Polonia. Susținătorii fostului partid de la guvernare acuză o „lovitură de stat”",
         "link": "https://adevarul.ro/stiri-externe/europa/criza-la-curtea-constitutionala-din-polonia-2567874.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Război politic la Varșovia. Tusk în conflict deschis cu președintele Poloniei: „Nu poate exista niciun compromis”",
+        "link": "https://adevarul.ro/stiri-externe/europa/razboi-politic-la-varsovia-tusk-in-conflict-2568018.html"
       }
     ],
     "published_at": 1793476750,

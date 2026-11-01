@@ -34,7 +34,7 @@
   {
     "group_id": "group_b26b7ccdba",
     "category": "Politika",
-    "articles_count": 9,
+    "articles_count": 10,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -116,6 +116,15 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793477233
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Strategia noii conduceri USR pentru a reveni la guvernare în 2028. „Ieșim din orașele mari”",
+        "link": "https://stirileprotv.ro/stiri/politic/strategia-noii-conduceri-usr-pentru-a-reveni-la-guvernare-in-2028-iesim-din-orasele-mari.html",
+        "summary": "USR și-a ales, sâmbătă, noua conducere, la congresul de la Timișoara. Peste 600 de delegați au votat pentru cele 24 de locuri din Biroul Național, disputate de 3 echipe.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793515707
       }
     ]
   },
@@ -156,7 +165,7 @@
   {
     "group_id": "group_a02844e85d",
     "category": "Általános",
-    "articles_count": 7,
+    "articles_count": 8,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -220,6 +229,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793476750
+      },
+      {
+        "source": "Adevărul",
+        "title": "Război politic la Varșovia. Tusk în conflict deschis cu președintele Poloniei: „Nu poate exista niciun compromis”",
+        "link": "https://adevarul.ro/stiri-externe/europa/razboi-politic-la-varsovia-tusk-in-conflict-2568018.html",
+        "summary": "Polonia este zguduită de un nou conflict politic, după ce premierul Donald Tusk a declanșat o reformă controversată a Curții Constituționale, în ciuda opoziției președintelui Karol Nawrocki.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793516094
       }
     ]
   },
@@ -9931,7 +9949,7 @@
   {
     "group_id": "group_894191388a",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -9941,6 +9959,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793515208
+      },
+      {
+        "source": "G4Media",
+        "title": "Poliția portugheză a evacuat duminică o nouă tabără de protest din Lisabona, după manifestația la care s-au adunat mii de oameni",
+        "link": "https://www.g4media.ro/politia-portugheza-a-evacuat-duminica-o-noua-tabara-de-protest-din-lisabona-dupa-manifestatia-la-care-s-au-adunat-mii-de-oameni.html",
+        "summary": "Poliția a intervenit, duminică, în Piața Rossio din Lisabona pentru a evacua o tabără de corturi amenajată, după ce mii de oameni au protestat, cerând guvernului minoritar de centru-dreapta din Portugalia să retragă un proiect de lege privind chiriile care, potrivit acestora, ar agrava criza locuințelor din țară, scrie Mediafax. Portugalia se confruntă cu una […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793515973
       }
     ]
   },
@@ -9957,6 +9984,38 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793515576
+      }
+    ]
+  },
+  {
+    "group_id": "group_1f2144d8d8",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Ispita pe care a pus ochii Marcel la Insula iubirii o ”distruge” pe Armina: ”Ai mințit că ești gravidă”",
+        "link": "https://www.cancan.ro/ispita-pe-care-a-pus-ochii-marcel-la-insula-iubirii-o-distruge-pe-armina-ai-mintit-ca-esti-gravida-21539929",
+        "summary": "Armina revine în atenția publicului, însă de data aceasta este luată peste picior de Frankie, ispita pe care Marcel a pus ochii la Insula Iubirii. Cea din urmă o acuză pe soția lui Maluma de România că a mințit că este însărcinată pentru a se da în spectacol și pentru a primi atenție. Într-o postare […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793515900
+      }
+    ]
+  },
+  {
+    "group_id": "group_38b2fb5904",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Provocarea zilei de duminică, 1 noiembrie. Cât de bine te descurci la Sudoku?",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/provocarea-zilei-de-duminica-1-noiembrie-cat-de-2568017.html",
+        "summary": "Cititorii „Adevărul” au la dispoziție, pe telefon și pe computer, una dintre rubricile cunoscute ale ediției tipărite: „Jocurile zilei”. AICI puteți găsi zilnic provocări care vă testează atenția, cunoștințele generale și spiritul de observație, dar vă mențin creierul în formă.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793515839
       }
     ]
   }
