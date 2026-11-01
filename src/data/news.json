@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_2d79d57654",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Fekete-tengeri részleges tűzszünetről tárgyalnak Washingtonban, Törökország és India mentené a gabonaexportot",
+        "link": "https://transtelex.ro/kulfold/2026/11/01/fekete-tenger-reszleges-tuzszunetrol-targyalas-washington-torokorszag-india-gabonaexport-vedelelem"
+      }
+    ],
+    "published_at": 1793527203,
+    "title_hu": "Fekete-tengeri részleges tűzszünetről tárgyalnak Washingtonban, Törökország és India mentené a gabonaexportot",
+    "lead_hu": "A gabona- és energiaszállítmányokat védő fegyverszünetet hoznának tető alá, miután a kereskedelmi hajók elleni támadások már a globális ellátást veszélyeztetik....",
+    "content_hu": "A gabona- és energiaszállítmányokat védő fegyverszünetet hoznának tető alá, miután a kereskedelmi hajók elleni támadások már a globális ellátást veszélyeztetik.",
+    "title_ro": "Fekete-tengeri részleges tűzszünetről tárgyalnak Washingtonban, Törökország és India mentené a gabonaexportot",
+    "lead_ro": "A gabona- és energiaszállítmányokat védő fegyverszünetet hoznának tető alá, miután a kereskedelmi hajók elleni támadások már a globális ellátást veszélyeztetik....",
+    "content_ro": "A gabona- és energiaszállítmányokat védő fegyverszünetet hoznának tető alá, miután a kereskedelmi hajók elleni támadások már a globális ellátást veszélyeztetik."
+  },
+  {
+    "group_id": "group_243d23e107",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Daniel Niculae intervine în scandalul momentului: „Găsiți și INTERZIȘI!”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/daniel-niculae-rasism-gsp-live-994589.html"
+      }
+    ],
+    "published_at": 1793527100,
+    "title_hu": "Daniel Niculae intervine în scandalul momentului: „Găsiți și INTERZIȘI!”",
+    "lead_hu": "Daniel Niculae a condamnat rasismul, în direct la GSP Live. Poziția fostului președinte de la Rapid și Hermannstadt vine în contextul în care incidentele și scandările cu tentă rasistă continuă pe sta...",
+    "content_hu": "Daniel Niculae a condamnat rasismul, în direct la GSP Live. Poziția fostului președinte de la Rapid și Hermannstadt vine în contextul în care incidentele și scandările cu tentă rasistă continuă pe stadioanele din România. Marius Șumudică a scos temporar echipa de pe teren în meciul CFR Cluj - U Cluj 1-3 din Cupa României. I se strigase din peluza oaspeților „Tiganule, tiganule”.Scene reprobabile au fost și la derby-ul FCSB - Rapid 4-1. ...",
+    "title_ro": "Daniel Niculae intervine în scandalul momentului: „Găsiți și INTERZIȘI!”",
+    "lead_ro": "Daniel Niculae a condamnat rasismul, în direct la GSP Live. Poziția fostului președinte de la Rapid și Hermannstadt vine în contextul în care incidentele și scandările cu tentă rasistă continuă pe sta...",
+    "content_ro": "Daniel Niculae a condamnat rasismul, în direct la GSP Live. Poziția fostului președinte de la Rapid și Hermannstadt vine în contextul în care incidentele și scandările cu tentă rasistă continuă pe stadioanele din România. Marius Șumudică a scos temporar echipa de pe teren în meciul CFR Cluj - U Cluj 1-3 din Cupa României. I se strigase din peluza oaspeților „Tiganule, tiganule”.Scene reprobabile au fost și la derby-ul FCSB - Rapid 4-1. ..."
+  },
+  {
     "group_id": "group_851ee212d3",
     "category": "Politika",
     "is_synthesized": false,
@@ -151,7 +193,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -162,6 +204,11 @@
         "source": "Digi24",
         "title": "Noi medicamente ar putea intra pe lista celor compensate. Rogobete: „Accesul la tratamente nu trebuie blocat de dispute politice”",
         "link": "https://www.digi24.ro/stiri/actualitate/noi-medicamente-ar-putea-intra-pe-lista-celor-compensate-rogobete-accesul-la-tratamente-nu-trebuie-blocat-de-dispute-politice-4017049"
+      },
+      {
+        "source": "Digi24",
+        "title": "Noi medicamente ar putea intra pe lista celor compensate. Rogobete: „Accesul la tratamente nu trebuie blocat de dispute politice”",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/noi-medicamente-ar-putea-intra-pe-lista-celor-compensate-rogobete-accesul-la-tratamente-nu-trebuie-blocat-de-dispute-politice-4017049"
       }
     ],
     "published_at": 1793526154,
@@ -324,12 +371,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Coreea de Nord anunță testarea unor focoase cu submuniție pentru rachete balistice. Când vrea să le introducă în arsenalul armatei",
         "link": "https://www.digi24.ro/stiri/externe/coreea-de-nord-anunta-testarea-unor-focoase-cu-submunitie-pentru-rachete-balistice-cand-vrea-sa-le-introduca-in-arsenalul-armatei-4017035"
+      },
+      {
+        "source": "G4Media",
+        "title": "Coreea de Nord anunţă că a testat focoase cu submuniţie",
+        "link": "https://www.g4media.ro/coreea-de-nord-anunta-ca-a-testat-focoase-cu-submunitie.html"
       }
     ],
     "published_at": 1793525506,
@@ -5229,12 +5281,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "Tusk acuză opoziția naționalistă că vrea să „distrugă democrația și statul de drept”: „Să spunem lucrurilor pe nume”",
         "link": "https://hotnews.ro/tusk-acuza-opozitia-nationalista-ca-vrea-sa-distruga-democratia-si-statul-de-drept-sa-spunem-lucrurilor-pe-nume-2391678"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Premierul Tusk refuză să dea înapoi în privința reformei Curții Constituționale din Polonia. Opoziția pregătește o moțiune de cenzură",
+        "link": "https://adevarul.ro/stiri-externe/europa/premierul-tusk-refuza-sa-dea-inapoi-in-privinta-2568063.html"
       }
     ],
     "published_at": 1793479673,
@@ -12423,27 +12480,6 @@
     "title_ro": "Premieră la Vatican: Papa Leon al XIV-lea a votat la alegerile din SUA. Ce dezvăluie registrele electorale",
     "lead_ro": "Papa Leon al XIV-lea, primul Suveran Pontif american din istorie, și-a exercitat dreptul de vot la alegerile de la jumătate de mandat din Statele Unite, programate pentru 3 noiembrie. Vaticanul a conf…",
     "content_ro": "Papa Leon al XIV-lea, primul Suveran Pontif american din istorie, și-a exercitat dreptul de vot la alegerile de la jumătate de mandat din Statele Unite, programate pentru 3 noiembrie. Vaticanul a confirmat că acesta și-a trimis buletinul de vot prin poștă, la Chicago, marcând o premieră în istoria Bisericii Catolice."
-  },
-  {
-    "group_id": "group_337afbc603",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Prognoză Sărbători | Vreme ciudată în București de Crăciun și de Revelion, potrivit meteorologilor EaseWeather",
-        "link": "https://www.cancan.ro/prognoza-sarbatori-vreme-ciudata-in-bucuresti-de-craciun-si-de-revelion-potrivit-meteorologilor-easeweather-21539450"
-      }
-    ],
-    "published_at": 1793440915,
-    "title_hu": "Prognoză Sărbători | Vreme ciudată în București de Crăciun și de Revelion, potrivit meteorologilor EaseWeather",
-    "lead_hu": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai re…",
-    "content_hu": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai recente măsurători ale experților Accuweather, luna decembrie se anunță destul de caldă, cu temperaturi maxime care nu scad sub 6 grade Celsius și ajung până la 10 […]",
-    "title_ro": "Prognoză Sărbători | Vreme ciudată în București de Crăciun și de Revelion, potrivit meteorologilor EaseWeather",
-    "lead_ro": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai re…",
-    "content_ro": "Meteorologii Accuweather au actualizat prognoza meteo completă pentru luna decembrie. Cum va fi vremea în București de Crăciun și Revelion, potrivit celor mai recente măsurători. Potrivit celor mai recente măsurători ale experților Accuweather, luna decembrie se anunță destul de caldă, cu temperaturi maxime care nu scad sub 6 grade Celsius și ajung până la 10 […]"
   },
   {
     "group_id": "group_54694c5969",
