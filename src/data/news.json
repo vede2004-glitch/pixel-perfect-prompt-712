@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_1027503a01",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Scriitorul Gheorghi Gospodinov, după alegerile din Bulgaria. „Somnul societăților naște dictaturi”",
+        "link": "https://hotnews.ro/scriitorul-gheorghi-gospodinov-dupa-alegerile-din-bulgaria-somnul-societatilor-naste-dictaturi-2392093"
+      }
+    ],
+    "published_at": 1793564101,
+    "title_hu": "Scriitorul Gheorghi Gospodinov, după alegerile din Bulgaria. „Somnul societăților naște dictaturi”",
+    "lead_hu": "Cel mai reputat scriitor bulgar contemporan, Gheorghi Gospodinov, a reacționat după alegerile de duminică din Bulgaria, unde rezultatele exit-poll o indică pe candidata pro-rusă Iliana Iotova drept fa...",
+    "content_hu": "Cel mai reputat scriitor bulgar contemporan, Gheorghi Gospodinov, a reacționat după alegerile de duminică din Bulgaria, unde rezultatele exit-poll o indică pe candidata pro-rusă Iliana Iotova drept favorită în alegerile prezidențiale. „În curând copiii vor întreba unde ați fost pe 1 noiembrie 2026”, le-a transmis scriitorul concetățenilor săi. Potrivit sondajelor de la ieșirea de la …",
+    "title_ro": "Scriitorul Gheorghi Gospodinov, după alegerile din Bulgaria. „Somnul societăților naște dictaturi”",
+    "lead_ro": "Cel mai reputat scriitor bulgar contemporan, Gheorghi Gospodinov, a reacționat după alegerile de duminică din Bulgaria, unde rezultatele exit-poll o indică pe candidata pro-rusă Iliana Iotova drept fa...",
+    "content_ro": "Cel mai reputat scriitor bulgar contemporan, Gheorghi Gospodinov, a reacționat după alegerile de duminică din Bulgaria, unde rezultatele exit-poll o indică pe candidata pro-rusă Iliana Iotova drept favorită în alegerile prezidențiale. „În curând copiii vor întreba unde ați fost pe 1 noiembrie 2026”, le-a transmis scriitorul concetățenilor săi. Potrivit sondajelor de la ieșirea de la …"
+  },
+  {
     "group_id": "group_bcf5bb02a6",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -1620,7 +1641,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Agerpres (HU)",
@@ -1631,6 +1652,11 @@
         "source": "Digi24",
         "title": "Modelele de subiecte pentru Bacalaureat 2027 și Evaluarea Națională 2027 au fost publicate",
         "link": "https://www.digi24.ro/stiri/actualitate/educatie/modelele-de-subiecte-pentru-bacalaureat-2027-si-evaluarea-nationala-2027-au-fost-publicate-4017395"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Evaluarea Națională și Bacalaureatul 2027. Au fost publicate modelele oficiale de subiecte",
+        "link": "https://adevarul.ro/stiri-interne/educatie/evaluarea-nationala-si-bacalaureatul-2027-au-fost-2568163.html"
       }
     ],
     "published_at": 1793555435,
@@ -11373,12 +11399,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Horoscop pentru prima jumătate a lunii noiembrie 2026. Zodia care începe un nou capitol și nativii care primesc vești mari",
         "link": "https://stirileprotv.ro/divers/horoscop-pentru-prima-jumatate-a-lunii-noiembrie-2026-zodia-care-incepe-un-nou-capitol-si-nativii-care-primesc-vesti-mari.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Horoscop luni, 2 noiembrie 2026. Zodia care trebuie să evite conflictele și să nu facă cheltuieli. Cine riscă să fie dezamăgit în dragoste",
+        "link": "https://adevarul.ro/stil-de-viata/horoscop/horoscop-luni-2-noiembrie-2026-zodia-care-2568171.html"
       }
     ],
     "published_at": 1793511496,
@@ -13315,12 +13346,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "Timiș/Bolojan: Dacă Guvernul Niculescu va avea derapaje în administrarea țării, PNL le va taxa",
         "link": "https://agerpres.ro/politic/2026/11/01/timis-bolojan-daca-guvernul-niculescu-va-avea-derapaje-in-administrarea-tarii-pnl-le-va-taxa--1608889"
+      },
+      {
+        "source": "Digi24",
+        "title": "Bolojan: Dacă Guvernul Niculescu va avea derapaje în administrarea țării, PNL le va taxa",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-daca-guvernul-niculescu-va-avea-derapaje-in-administrarea-tarii-pnl-le-va-taxa-4017551"
       }
     ],
     "published_at": 1793491200,
@@ -13483,12 +13519,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "Bolojan: Nu se pune problema schimbării mele de la conducerea PNL",
         "link": "https://agerpres.ro/politic/2026/11/01/bolojan-nu-se-pune-problema-schimbarii-mele-de-la-conducerea-pnl--1608890"
+      },
+      {
+        "source": "G4Media",
+        "title": "Bolojan: Nu se pune problema schimbării mele de la conducerea PNL / ”Cei care doresc ca PNL să fie o clonă sau un breloc al PSD, nu au decât să plece pe drumul pe care şi-l doresc”",
+        "link": "https://www.g4media.ro/bolojan-nu-se-pune-problema-schimbarii-mele-de-la-conducerea-pnl-cei-care-doresc-ca-pnl-sa-fie-o-clona-sau-un-breloc-al-psd-nu-au-decat-sa-plece-pe-drumul-pe-care-si-l-doresc.html"
       }
     ],
     "published_at": 1793491200,
