@@ -136,67 +136,6 @@
     ]
   },
   {
-    "group_id": "group_a6eed2fd91",
-    "category": "Sport",
-    "articles_count": 6,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Lewis Hamilton a câștigat calificările din Mexic și a obținut primul pole position alături de Ferrari",
-        "link": "https://www.gsp.ro/sporturi/formula-1/lewis-hamilton-formula-1-marele-premiu-din-mexic-994507.html",
-        "summary": "Lewis Hamilton a obținut primul său pole position în calitate de pilot Ferrari, după ce a dominat calificările pentru Marele Premiu din Mexico City. Pentru pilotul britanic, aceasta este prima calificare câștigată pentru o cursă principală după Marele Premiu al Ungariei din vara anului 2023, pe vremea când concura pentru Mercedes. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793485443
-      },
-      {
-        "source": "G4Media",
-        "title": "Lewis Hamilton, pole position în Marele Premiu de Formula 1 din Mexic",
-        "link": "https://www.g4media.ro/lewis-hamilton-pole-position-in-marele-premiu-de-formula-1-din-mexic.html",
-        "summary": "Lewis Hamilton a reușit cel mai bun timp în calificările contând pentru Marele Premiu de Formula 1 din Mexic. Multiplul campion mondial va pleca din pole position în Gran Prix-ul de duminică seara (de la ora 22:00). Pe circuitul Hermanos Rodgriguez din Mexico City, Hamilton a bifat al 105-lea pole position din carieră. Este primul […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793515809
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ce a declarat Lewis Hamilton, după primul pole position ca pilot Ferrari în Formula 1",
-        "link": "https://www.gsp.ro/sporturi/formula-1/ewis-hamilton-pole-position-ferrari-mexic-994527.html",
-        "summary": "Septuplul campion mondial Lewis Hamilton a obținut primul său pole position ca pilot Ferrari. S-a întâmplat în Mexico City. Marele Premiu din Mexic are loc azi, de la 22:00, liveTEXT pe GSP și la TV pe Antena 2 CNN. Kimi Antonelli are nevoie de două puncte pentru a deveni matematic noul campion mondial din Formula 1. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793519661
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Marele Premiu al Mexicului: seara în care Kimi Antonelli câștigă titlul?!",
-        "link": "https://www.gsp.ro/sporturi/formula-1/marele-premiu-mexic-kimi-antonelli-aproape-de-titlu-994585.html",
-        "summary": "Lewis Hamilton va porni din pole position în Marele Premiu al Mexicului, însă atenția va fi asupra lui Kimi Antonelli, care cel mai probabil își va adjudeca titlul mondial în această seară. Al 19-lea Mare Premiu din acest an va începe la ora 22:00, va fi liveTEXT pe GSP.ro și televizat de Antena 3 CNN. Sezonul actual de Formula 1 se apropie de final, iar suspansul cu privire la titlul mondial nu mai există. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793562469
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Auto-F1: Hamilton va lua startul din pole position în Marele Premiu al Mexicului",
-        "link": "https://agerpres.ro/sport-extern/2026/11/01/auto-f1-hamilton-va-lua-startul-din-pole-position-in-marele-premiu-al-mexicului--1608808",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793491200
-      },
-      {
-        "source": "Adevărul",
-        "title": "F1: Lewis Hamilton, premieră la Ferrari, pole-position în Mexic! Kimi Antonelli, aproape de primul său titlul mondial",
-        "link": "https://adevarul.ro/sport/f1-lewis-hamilton-premiera-la-ferrari-2568095.html",
-        "summary": "Marele Premiu al Mexicului poate aduce un nou campion în Formula 1.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793535970
-      }
-    ]
-  },
-  {
     "group_id": "group_4c8c10537d",
     "category": "Általános",
     "articles_count": 1,
@@ -2026,6 +1965,58 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793515772
+      }
+    ]
+  },
+  {
+    "group_id": "group_a6eed2fd91",
+    "category": "Általános",
+    "articles_count": 5,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "Lewis Hamilton, pole position în Marele Premiu de Formula 1 din Mexic",
+        "link": "https://www.g4media.ro/lewis-hamilton-pole-position-in-marele-premiu-de-formula-1-din-mexic.html",
+        "summary": "Lewis Hamilton a reușit cel mai bun timp în calificările contând pentru Marele Premiu de Formula 1 din Mexic. Multiplul campion mondial va pleca din pole position în Gran Prix-ul de duminică seara (de la ora 22:00). Pe circuitul Hermanos Rodgriguez din Mexico City, Hamilton a bifat al 105-lea pole position din carieră. Este primul […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793515809
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ce a declarat Lewis Hamilton, după primul pole position ca pilot Ferrari în Formula 1",
+        "link": "https://www.gsp.ro/sporturi/formula-1/ewis-hamilton-pole-position-ferrari-mexic-994527.html",
+        "summary": "Septuplul campion mondial Lewis Hamilton a obținut primul său pole position ca pilot Ferrari. S-a întâmplat în Mexico City. Marele Premiu din Mexic are loc azi, de la 22:00, liveTEXT pe GSP și la TV pe Antena 2 CNN. Kimi Antonelli are nevoie de două puncte pentru a deveni matematic noul campion mondial din Formula 1. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793519661
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Regele „Marelui Circ” la doar 20 de ani! Kimi Antonelli este cel mai tânăr campion din istoria Formulei 1!",
+        "link": "https://www.gsp.ro/sporturi/formula-1/marele-premiu-mexic-kimi-antonelli-aproape-de-titlu-994585.html",
+        "summary": "Kimi Antonelli (Mercedes) este campion mondial în Formula 1, cel mai tânăr campion din istoria competiției, la doar 20 de ani și 68 de zile! Italianul și-a adjudecat matematic titlul după rezultatul de astăzi, locul 3 în Marele Premiu al Mexicului, cursă câștigată de Max Verstappen. Ceea ce era doar o chestiune de timp s-a desăvârșit astăzi: Kimi Antonelli a devenit campion mondial, cel mai tânăr din istoria „Marelui Circ”. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793571878
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Auto-F1: Hamilton va lua startul din pole position în Marele Premiu al Mexicului",
+        "link": "https://agerpres.ro/sport-extern/2026/11/01/auto-f1-hamilton-va-lua-startul-din-pole-position-in-marele-premiu-al-mexicului--1608808",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793491200
+      },
+      {
+        "source": "Adevărul",
+        "title": "F1: Lewis Hamilton, premieră la Ferrari, pole-position în Mexic! Kimi Antonelli, aproape de primul său titlul mondial",
+        "link": "https://adevarul.ro/sport/f1-lewis-hamilton-premiera-la-ferrari-2568095.html",
+        "summary": "Marele Premiu al Mexicului poate aduce un nou campion în Formula 1.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793535970
       }
     ]
   },
@@ -11498,6 +11489,31 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793570933
+      }
+    ]
+  },
+  {
+    "group_id": "group_3ef392fb14",
+    "category": "Bulvár",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "9 morți în urma unui accident aviatic în Florida! Ultimele cuvinte ale pilotului: „Ne vom prăbuși la sol”",
+        "link": "https://www.cancan.ro/9-morti-in-urma-unui-accident-aviatic-in-florida-ultimele-cuvinte-ale-pilotului-ne-vom-prabusi-la-sol-21540391",
+        "summary": "Nouă persoane au murit în urma unui tragic accident aviatic ce a avut loc în SUA. Potrivit primelor informații, un avion de tip Learjet, care se îndrepta spre Bahamas, s-a prăbușit și a fost cuprins de flăcări. Accidentul a avut loc astăzi, 1 noiembrie, în jurul orei locale 12:50. Avionul s-a prăbușit într-o zonă rezidențială. […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793571041
+      },
+      {
+        "source": "Mediafax",
+        "title": "VIDEO | Tragedie aviatică în SUA. Nouă morți după ce un avion privat s-a prăbușit și a explodat în Florida. Ultimele cuvinte ale pilotului: „Ne vom izbi de pământ”",
+        "link": "https://www.mediafax.ro/externe/video-tragedie-aviatica-in-sua-noua-morti-dupa-ce-un-avion-privat-s-a-prabusit-si-a-explodat-in-florida-ultimele-cuvinte-ale-pilotului-ne-vom-izbi-de-pamant-23835501",
+        "summary": "Nouă persoane au murit duminică, 1 noiembrie, după ce un avion privat de tip Learjet 60 s-a prăbușit într-o zonă rezidențială din comitatul Palm Beach, statul american Florida, și a explodat la impactul cu solul. Aeronava se îndrepta spre Bahamas, iar cu doar câteva momente înainte de tragedie pilotul a transmis un apel disperat de urgență, anunțând că avionul pierde altitudine într-un ritm extrem de rapid, relatează CNN. Aproximativ 600 de persoane au nevoie de adăpost în urma distrugerilor provocate la sol.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793571844
       }
     ]
   }
