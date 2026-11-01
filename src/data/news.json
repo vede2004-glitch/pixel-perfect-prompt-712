@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_2fea6c4ac1",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Elevii blochează din nou liceele din Franța, de luni, când reîncepe școala. Liderul unui grup, despre declarația lui Macron: „E praf în ochi”",
+        "link": "https://hotnews.ro/elevii-blocheaza-din-nou-liceele-din-franta-de-luni-cand-reincepe-scoala-liderul-unui-grup-despre-declaratia-lui-macron-e-praf-in-ochi-2392019"
+      }
+    ],
+    "published_at": 1793556613,
+    "title_hu": "Elevii blochează din nou liceele din Franța, de luni, când reîncepe școala. Liderul unui grup, despre declarația lui Macron: „E praf în ochi”",
+    "lead_hu": "Liderul unei organizații de elevi a anunțat că de luni va fi reluată campania de blocare a liceelor din Franța, și susține că măsurile propuse de guvern nu satisfac pe deplin revendicările școlarilor,...",
+    "content_hu": "Liderul unei organizații de elevi a anunțat că de luni va fi reluată campania de blocare a liceelor din Franța, și susține că măsurile propuse de guvern nu satisfac pe deplin revendicările școlarilor, a transmis AFP. Sâmbătă, sute de mii de oameni, printre care elevi de liceu și studenți, au ieșit din nou în stradă …",
+    "title_ro": "Elevii blochează din nou liceele din Franța, de luni, când reîncepe școala. Liderul unui grup, despre declarația lui Macron: „E praf în ochi”",
+    "lead_ro": "Liderul unei organizații de elevi a anunțat că de luni va fi reluată campania de blocare a liceelor din Franța, și susține că măsurile propuse de guvern nu satisfac pe deplin revendicările școlarilor,...",
+    "content_ro": "Liderul unei organizații de elevi a anunțat că de luni va fi reluată campania de blocare a liceelor din Franța, și susține că măsurile propuse de guvern nu satisfac pe deplin revendicările școlarilor, a transmis AFP. Sâmbătă, sute de mii de oameni, printre care elevi de liceu și studenți, au ieșit din nou în stradă …"
+  },
+  {
+    "group_id": "group_3fbed89043",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Marine Le Pen, „îngrijorată profund” de criza din Polonia: „Nu restaurezi statul de drept eliminând regulile de la baza lui”",
+        "link": "https://stirileprotv.ro/stiri/international/marine-le-pen-ingrijorata-profund-de-criza-din-polonia-nu-restaurezi-statul-de-drept-eliminand-regulile-de-la-baza-lui.html"
+      }
+    ],
+    "published_at": 1793556589,
+    "title_hu": "Marine Le Pen, „îngrijorată profund” de criza din Polonia: „Nu restaurezi statul de drept eliminând regulile de la baza lui”",
+    "lead_hu": "Candidata extremei drepte în alegerile prezidențiale din Franța, Marine Le Pen, și-a exprimat „îngrijorarea profundă” față de criza politică din Polonia și a deplâns „intervenția forțelor de securitat...",
+    "content_hu": "Candidata extremei drepte în alegerile prezidențiale din Franța, Marine Le Pen, și-a exprimat „îngrijorarea profundă” față de criza politică din Polonia și a deplâns „intervenția forțelor de securitate” la Tribunalul Constituțional de la Varșovia.",
+    "title_ro": "Marine Le Pen, „îngrijorată profund” de criza din Polonia: „Nu restaurezi statul de drept eliminând regulile de la baza lui”",
+    "lead_ro": "Candidata extremei drepte în alegerile prezidențiale din Franța, Marine Le Pen, și-a exprimat „îngrijorarea profundă” față de criza politică din Polonia și a deplâns „intervenția forțelor de securitat...",
+    "content_ro": "Candidata extremei drepte în alegerile prezidențiale din Franța, Marine Le Pen, și-a exprimat „îngrijorarea profundă” față de criza politică din Polonia și a deplâns „intervenția forțelor de securitate” la Tribunalul Constituțional de la Varșovia."
+  },
+  {
     "group_id": "group_1a19ece819",
     "category": "Általános",
     "is_synthesized": false,
@@ -877,7 +919,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Digi24",
@@ -888,6 +930,11 @@
         "source": "Mediafax",
         "title": "Sute de mii de oameni din Ucraina au rămas fără electricitate în urma atacurilor rusești asupra infrastructurii energetice",
         "link": "https://www.mediafax.ro/externe/sute-de-mii-de-oameni-din-ucraina-au-ramas-fara-electricitate-in-urma-atacurilor-rusesti-asupra-infrastructurii-energetice-23835414"
+      },
+      {
+        "source": "G4Media",
+        "title": "Sute de mii de ucraineni au rămas fără curent după un masiv atac rusesc cu drone / ”Au fost vizate substații electrice, transformatoare și linii de înaltă tensiune”",
+        "link": "https://www.g4media.ro/sute-de-mii-de-ucraineni-au-ramas-fara-curent-dupa-un-masiv-atac-rusesc-cu-drone-au-fost-vizate-substatii-electrice-transformatoare-si-linii-de-inalta-tensiune.html"
       }
     ],
     "published_at": 1793553896,
@@ -12522,90 +12569,6 @@
     "title_ro": "„Ca Zidane!” » Andrei Rațiu, ridicat în slăvi de spanioli, după spectacolul din Rayo - Celta + Ce au scris despre Ionuț Radu",
     "lead_ro": "Publicațiile de sport din Spania au evaluat modul în care s-au mișcat internaționalii români Andrei Rațiu și Ionuț Radu în meciul câștigat de Rayo Vallecano cu Celta Vigo, scor 3-0, în runda cu număru…",
     "content_ro": "Publicațiile de sport din Spania au evaluat modul în care s-au mișcat internaționalii români Andrei Rațiu și Ionuț Radu în meciul câștigat de Rayo Vallecano cu Celta Vigo, scor 3-0, în runda cu numărul 11 din La Liga. Andrei Rațiu a reușit foarte bun și a pasat decisiv la al doilea gol al lui De Frutos (55), cu care gazdele s-au desprins pe tabelă. Ionuț Radu a avut mai multe parade remarcabile, însă nu a putut interveni la golurile gazdelor. ..."
-  },
-  {
-    "group_id": "group_8c0c339e8a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "De la înfrângerea din primul tur la victoria decisivă. Cum a recuperat Lula terenul pierdut în fața lui Bolsonaro pe rețelele sociale",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/de-la-infrangerea-din-primul-tur-la-victoria-decisiva-cum-a-recuperat-lula-terenul-pierdut-in-fata-lui-bolsonaro-pe-retelele-sociale-4016677"
-      }
-    ],
-    "published_at": 1793470545,
-    "title_hu": "De la înfrângerea din primul tur la victoria decisivă. Cum a recuperat Lula terenul pierdut în fața lui Bolsonaro pe rețelele sociale",
-    "lead_hu": "După o înfrângere neașteptată în primul tur, Luiz Inacio Lula da Silva și-a schimbat radical strategia pe rețelele sociale. O rețea de aproape 11 milioane de susținători, mobilizată prin WhatsApp, a c…",
-    "content_hu": "După o înfrângere neașteptată în primul tur, Luiz Inacio Lula da Silva și-a schimbat radical strategia pe rețelele sociale. O rețea de aproape 11 milioane de susținători, mobilizată prin WhatsApp, a contribuit la creșterea vizibilității mesajelor sale și la victoria în fața lui Flavio Bolsonaro, potrivit The Guardian.",
-    "title_ro": "De la înfrângerea din primul tur la victoria decisivă. Cum a recuperat Lula terenul pierdut în fața lui Bolsonaro pe rețelele sociale",
-    "lead_ro": "După o înfrângere neașteptată în primul tur, Luiz Inacio Lula da Silva și-a schimbat radical strategia pe rețelele sociale. O rețea de aproape 11 milioane de susținători, mobilizată prin WhatsApp, a c…",
-    "content_ro": "După o înfrângere neașteptată în primul tur, Luiz Inacio Lula da Silva și-a schimbat radical strategia pe rețelele sociale. O rețea de aproape 11 milioane de susținători, mobilizată prin WhatsApp, a contribuit la creșterea vizibilității mesajelor sale și la victoria în fața lui Flavio Bolsonaro, potrivit The Guardian."
-  },
-  {
-    "group_id": "group_6608b10509",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Interes în creştere pentru o încetare a focului în Marea Neagră, consideră Marco Rubio / Zelenski și Erdogan vor un nou coridor pentruy exportul cerealelor",
-        "link": "https://www.g4media.ro/interes-in-crestere-pentru-o-incetare-a-focului-in-marea-neagra-considera-marco-rubio-zelenski-si-erdogan-vor-un-nou-coridor-pentruy-exportul-cerealelor.html"
-      }
-    ],
-    "published_at": 1793470513,
-    "title_hu": "Interes în creştere pentru o încetare a focului în Marea Neagră, consideră Marco Rubio / Zelenski și Erdogan vor un nou coridor pentruy exportul cerealelor",
-    "lead_hu": "Secretarul de stat al SUA, Marco Rubio, a afirmat sâmbătă că există un interes tot mai mare din partea comunităţii internaţionale pentru facilitarea unei încetări a focului limitate în Marea Neagră, c…",
-    "content_hu": "Secretarul de stat al SUA, Marco Rubio, a afirmat sâmbătă că există un interes tot mai mare din partea comunităţii internaţionale pentru facilitarea unei încetări a focului limitate în Marea Neagră, cu scopul de a asigura transporturile neîngrădite de energie şi cereale dinspre Rusia şi Ucraina, transmite agenției de știri Reuters, citate de Agerpres. Rubio […] © G4Media.ro.",
-    "title_ro": "Interes în creştere pentru o încetare a focului în Marea Neagră, consideră Marco Rubio / Zelenski și Erdogan vor un nou coridor pentruy exportul cerealelor",
-    "lead_ro": "Secretarul de stat al SUA, Marco Rubio, a afirmat sâmbătă că există un interes tot mai mare din partea comunităţii internaţionale pentru facilitarea unei încetări a focului limitate în Marea Neagră, c…",
-    "content_ro": "Secretarul de stat al SUA, Marco Rubio, a afirmat sâmbătă că există un interes tot mai mare din partea comunităţii internaţionale pentru facilitarea unei încetări a focului limitate în Marea Neagră, cu scopul de a asigura transporturile neîngrădite de energie şi cereale dinspre Rusia şi Ucraina, transmite agenției de știri Reuters, citate de Agerpres. Rubio […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_19f846c876",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Tandemul Miruță-Moșteanu a câștigat cele mai multe mandate la Congres SURSE",
-        "link": "https://adevarul.ro/politica/tandemul-miruta-mosteanu-a-castigat-cele-mai-multe-2567992.html"
-      }
-    ],
-    "published_at": 1793470178,
-    "title_hu": "Tandemul Miruță-Moșteanu a câștigat cele mai multe mandate la Congres SURSE",
-    "lead_hu": "Primul congres USR de la intrarea formațiunii în opoziție s-a încheiat. Membrii reuniți i-au ales prin vot pe cei 24 de membri care vor face parte din Biroul Național.",
-    "content_hu": "Primul congres USR de la intrarea formațiunii în opoziție s-a încheiat. Membrii reuniți i-au ales prin vot pe cei 24 de membri care vor face parte din Biroul Național.",
-    "title_ro": "Tandemul Miruță-Moșteanu a câștigat cele mai multe mandate la Congres SURSE",
-    "lead_ro": "Primul congres USR de la intrarea formațiunii în opoziție s-a încheiat. Membrii reuniți i-au ales prin vot pe cei 24 de membri care vor face parte din Biroul Național.",
-    "content_ro": "Primul congres USR de la intrarea formațiunii în opoziție s-a încheiat. Membrii reuniți i-au ales prin vot pe cei 24 de membri care vor face parte din Biroul Național."
-  },
-  {
-    "group_id": "group_7ab34538df",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Autoritățile din Europa de Vest se pregătesc de noi proteste. Comercianții și-au baricadat magazinele de teama violențelor",
-        "link": "https://stirileprotv.ro/stiri/international/autoritatile-din-europa-de-vest-se-pregatesc-de-noi-proteste-comerciantii-si-au-baricadat-magazinele-de-teama-violentelor.html"
-      }
-    ],
-    "published_at": 1793470175,
-    "title_hu": "Autoritățile din Europa de Vest se pregătesc de noi proteste. Comercianții și-au baricadat magazinele de teama violențelor",
-    "lead_hu": "Este alertă în mai multe țări din Europa de Vest, unde au început noi proteste de amploare. În Franța și în Germania, manifestațiile au degenerat în violențe. În Spania, comercianții și-au luat măsuri…",
-    "content_hu": "Este alertă în mai multe țări din Europa de Vest, unde au început noi proteste de amploare. În Franța și în Germania, manifestațiile au degenerat în violențe. În Spania, comercianții și-au luat măsuri de precauție și își baricadează magazinele.",
-    "title_ro": "Autoritățile din Europa de Vest se pregătesc de noi proteste. Comercianții și-au baricadat magazinele de teama violențelor",
-    "lead_ro": "Este alertă în mai multe țări din Europa de Vest, unde au început noi proteste de amploare. În Franța și în Germania, manifestațiile au degenerat în violențe. În Spania, comercianții și-au luat măsuri…",
-    "content_ro": "Este alertă în mai multe țări din Europa de Vest, unde au început noi proteste de amploare. În Franța și în Germania, manifestațiile au degenerat în violențe. În Spania, comercianții și-au luat măsuri de precauție și își baricadează magazinele."
   },
   {
     "group_id": "group_0958829042",
