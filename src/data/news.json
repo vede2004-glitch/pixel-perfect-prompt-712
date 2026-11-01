@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_a4709fbe97",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
+        "link": "https://adevarul.ro/stiri-interne/societate/zatul-de-cafea-ar-putea-face-betonul-cu-30percent-mai-2566655.html"
+      }
+    ],
+    "published_at": 1793492605,
+    "title_hu": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
+    "lead_hu": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții....",
+    "content_hu": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
+    "title_ro": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
+    "lead_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții....",
+    "content_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții."
+  },
+  {
     "group_id": "group_5062941da1",
     "category": "Általános",
     "is_synthesized": false,
@@ -19,27 +40,6 @@
     "title_ro": "„Supat”, „lasă-mă-să-te-las” și „dramaturgă”. Ce noutăți și capcane aduce noul DOOM",
     "lead_ro": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în D…",
     "content_ro": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în DOOM3."
-  },
-  {
-    "group_id": "group_ae56b06990",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
-        "link": "https://adevarul.ro/stiri-locale/resita/lacul-trei-ape-golit-controlat-pentru-lucrari-2567217.html"
-      }
-    ],
-    "published_at": 1793488285,
-    "title_hu": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
-    "lead_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
-    "content_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită.",
-    "title_ro": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
-    "lead_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
-    "content_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită."
   },
   {
     "group_id": "group_5fc826fc21",
@@ -12071,6 +12071,27 @@
     "title_ro": "„Cartofi cu cartofi la cuptor”. Cum supraviețuiesc mulți români cu bani puțini până la următorul salariu, după ce achită facturile",
     "lead_ro": "Achitarea facturilor este unul dintre lucrurile pe care românii le fac imediat după ce primesc salariul, însă, după ce scapă de grija cheltuielilor cu utilitățile, mulți dintre ei constată că sumele r…",
     "content_ro": "Achitarea facturilor este unul dintre lucrurile pe care românii le fac imediat după ce primesc salariul, însă, după ce scapă de grija cheltuielilor cu utilitățile, mulți dintre ei constată că sumele rămase în cont ar putea fi prea mici pentru a le acoperi celelalte nevoi până la următorul salariu."
+  },
+  {
+    "group_id": "group_ae56b06990",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
+        "link": "https://adevarul.ro/stiri-locale/resita/lacul-trei-ape-golit-controlat-pentru-lucrari-2567217.html"
+      }
+    ],
+    "published_at": 1793488285,
+    "title_hu": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
+    "lead_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
+    "content_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită.",
+    "title_ro": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
+    "lead_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
+    "content_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită."
   },
   {
     "group_id": "group_4c8c10537d",
