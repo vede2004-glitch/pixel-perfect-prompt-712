@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_fc610d6888",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Înscriși pe hârtie, absenți în clasă: Prăpastia care ține educația timpurie din România în urma Europei",
+        "link": "https://adevarul.ro/stiri-interne/educatie/inscrisi-pe-hartie-absenti-in-clasa-prapastia-2567801.html"
+      }
+    ],
+    "published_at": 1793499505,
+    "title_hu": "Înscriși pe hârtie, absenți în clasă: Prăpastia care ține educația timpurie din România în urma Europei",
+    "lead_hu": "România continuă să înregistreze decalaje importante față de media europeană în ceea ce privește participarea copiilor la educația timpurie. Datele Eurostat pentru 2024 arată că toate cele opt regiuni...",
+    "content_hu": "România continuă să înregistreze decalaje importante față de media europeană în ceea ce privește participarea copiilor la educația timpurie. Datele Eurostat pentru 2024 arată că toate cele opt regiuni de dezvoltare ale țării se situează sub pragul de 85%.",
+    "title_ro": "Înscriși pe hârtie, absenți în clasă: Prăpastia care ține educația timpurie din România în urma Europei",
+    "lead_ro": "România continuă să înregistreze decalaje importante față de media europeană în ceea ce privește participarea copiilor la educația timpurie. Datele Eurostat pentru 2024 arată că toate cele opt regiuni...",
+    "content_ro": "România continuă să înregistreze decalaje importante față de media europeană în ceea ce privește participarea copiilor la educația timpurie. Datele Eurostat pentru 2024 arată că toate cele opt regiuni de dezvoltare ale țării se situează sub pragul de 85%."
+  },
+  {
     "group_id": "group_75c3d3c324",
     "category": "Általános",
     "is_synthesized": false,
@@ -19,27 +40,6 @@
     "title_ro": "Timpii de așteptare pentru analize, CT sau RMN, de la câteva zile la câteva luni. „Unii renunță, alții plătesc sau se duc în Urgențe”",
     "lead_ro": "Cu două proiecte pe masa decidenților, pacienții care au nevoie de investigații paraclinice sunt în continuare nevoiți să aștepte de la câteva zile la câteva luni atunci când încearcă să facă o progra…",
     "content_ro": "Cu două proiecte pe masa decidenților, pacienții care au nevoie de investigații paraclinice sunt în continuare nevoiți să aștepte de la câteva zile la câteva luni atunci când încearcă să facă o programare. „Nu sunt fonduri” rămâne răspunsul pe care sistemul de sănătate îl oferă deja mulți ani."
-  },
-  {
-    "group_id": "group_a4709fbe97",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
-        "link": "https://adevarul.ro/stiri-interne/societate/zatul-de-cafea-ar-putea-face-betonul-cu-30percent-mai-2566655.html"
-      }
-    ],
-    "published_at": 1793492605,
-    "title_hu": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
-    "lead_hu": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
-    "content_hu": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
-    "title_ro": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
-    "lead_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
-    "content_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții."
   },
   {
     "group_id": "group_5fc826fc21",
@@ -11900,6 +11900,27 @@
     "title_ro": "„De ce mai plătim CASS dacă tot mergem la privat?” Revolta multor români față de sistemul de sănătate",
     "lead_ro": "Mulți români care plătesc contribuții la asigurările de sănătate se plâng că ajung să plătească pentru consultații, analize și investigații medicale, după ce constată că nu mai sunt fonduri sau că tre…",
     "content_ro": "Mulți români care plătesc contribuții la asigurările de sănătate se plâng că ajung să plătească pentru consultații, analize și investigații medicale, după ce constată că nu mai sunt fonduri sau că trebuie să aștepte luni întregi pentru programări."
+  },
+  {
+    "group_id": "group_a4709fbe97",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
+        "link": "https://adevarul.ro/stiri-interne/societate/zatul-de-cafea-ar-putea-face-betonul-cu-30percent-mai-2566655.html"
+      }
+    ],
+    "published_at": 1793492605,
+    "title_hu": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
+    "lead_hu": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
+    "content_hu": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
+    "title_ro": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
+    "lead_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
+    "content_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții."
   },
   {
     "group_id": "group_5062941da1",
