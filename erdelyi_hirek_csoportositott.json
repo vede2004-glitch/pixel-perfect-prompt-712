@@ -179,22 +179,6 @@
     ]
   },
   {
-    "group_id": "group_2711db8613",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Digi24",
-        "title": "Ministrul Florin Manole spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/ministrul-florin-manole-spune-ca-nu-a-avut-nicio-discutie-pentru-eliminarea-impozitarii-pensiilor-peste-3-000-de-lei-4016773",
-        "summary": "Ministrul Muncii, Florin Manole, spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei. El a adăugat că este membru într-un guvern care reprezintă România şi are nişte angajamente luate privind ţinta de deficit. În plus, spune ministrul, „nu vrea să facă viaţa mai grea” niciunui alt coleg.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793477172
-      }
-    ]
-  },
-  {
     "group_id": "group_38127707d3",
     "category": "Sport",
     "articles_count": 1,
@@ -207,40 +191,6 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793477734
-      }
-    ]
-  },
-  {
-    "group_id": "group_b26b7ccdba",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "USR și-a ales noua conducere, la Timișoara. Radu Miruță, Diana Buzoianu și Dan Barna, printre vicepreședinți",
-        "link": "https://stirileprotv.ro/stiri/politic/usr-si-a-ales-noua-conducere-la-timisoara-radu-miruta-diana-buzoianu-si-dan-barna-printre-vicepresedinti.html",
-        "summary": "USR şi-a ales sâmbătă, la Timişoara, noul Birou Naţional, printre vicepreşedinţi fiind Radu Miruţă, Diana Buzoianu şi Dan Barna, arată rezultatele preliminare ale votului.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793477233
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Strategia noii conduceri USR pentru a reveni la guvernare în 2028. „Ieșim din orașele mari”",
-        "link": "https://stirileprotv.ro/stiri/politic/strategia-noii-conduceri-usr-pentru-a-reveni-la-guvernare-in-2028-iesim-din-orasele-mari.html",
-        "summary": "USR și-a ales, sâmbătă, noua conducere, la congresul de la Timișoara. Peste 600 de delegați au votat pentru cele 24 de locuri din Biroul Național, disputate de 3 echipe.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793515707
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "„Marele câștigător” al congresului USR. Radu Miruță obținut cele mai multe voturi și jumătate din locurile din conducere",
-        "link": "https://stirileprotv.ro/stiri/politic/marele-castigator-al-congresului-usr-radu-miruta-obtinut-cele-mai-multe-voturi-si-jumatate-din-locurile-din-conducere.html",
-        "summary": "USR și-a ales noua conducere colectivă la congresul de la Timișoara. Radu Miruță a obținut cele mai multe voturi și va ocupa una dintre cele șapte funcții de vicepreședinte.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793554004
       }
     ]
   },
@@ -2890,6 +2840,31 @@
     ]
   },
   {
+    "group_id": "group_b26b7ccdba",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Strategia noii conduceri USR pentru a reveni la guvernare în 2028. „Ieșim din orașele mari”",
+        "link": "https://stirileprotv.ro/stiri/politic/strategia-noii-conduceri-usr-pentru-a-reveni-la-guvernare-in-2028-iesim-din-orasele-mari.html",
+        "summary": "USR și-a ales, sâmbătă, noua conducere, la congresul de la Timișoara. Peste 600 de delegați au votat pentru cele 24 de locuri din Biroul Național, disputate de 3 echipe.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793515707
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "„Marele câștigător” al congresului USR. Radu Miruță obținut cele mai multe voturi și jumătate din locurile din conducere",
+        "link": "https://stirileprotv.ro/stiri/politic/marele-castigator-al-congresului-usr-radu-miruta-obtinut-cele-mai-multe-voturi-si-jumatate-din-locurile-din-conducere.html",
+        "summary": "USR și-a ales noua conducere colectivă la congresul de la Timișoara. Radu Miruță a obținut cele mai multe voturi și va ocupa una dintre cele șapte funcții de vicepreședinte.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793554004
+      }
+    ]
+  },
+  {
     "group_id": "group_c1c2d85ce8",
     "category": "Általános",
     "articles_count": 1,
@@ -4524,7 +4499,7 @@
   {
     "group_id": "group_f0bfd644f9",
     "category": "Sport",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -4534,6 +4509,15 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793520631
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Raluca Zenga, vacanță după vacanță la 6 ani de la divorț! Destinațiile spectaculoase în care a ajuns",
+        "link": "https://www.cancan.ro/raluca-zenga-vacanta-dupa-vacanta-la-6-ani-de-la-divort-destinatiile-spectaculoase-in-care-a-ajuns-21540350",
+        "summary": "Raluca Zenga pare că înflorește după divorțul de Walter Zenga, portarul celor de la Inter. Aceasta împărtășește cu urmăritorii săi imagini inedite din vacanțele spectaculoase. Fotografiile adună numeroase aprecieri, mai ales că destinațiile sunt uimitoare. Raluca Zenga și Walter Zenga au divorțat în urmă cu șase ani. După ce au decis să meargă pe drumuri […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793563297
       }
     ]
   },
@@ -7758,7 +7742,7 @@
         "summary": "Critici dure au venit din partea PNL și USR după botezul fiului președintelui Consiliului Județean Timiș, Alfred Simonis. Ținutele luxoase purtate de partenerele unor lideri PSD au fost luate în vizor de vicepreședintele liberal Gigel Știrbu. Acesta a descris evenimentul drept un spectacol „de o vulgaritate financiară strigătoare la cer”. La rândul său, liderul USR, Dominic Fritz, a ironizat apariția invitaților, spunând că membrii partidului său nu își permit astfel de ținute.",
         "category": "Politika",
         "is_b2b_only": false,
-        "published_at": 1793553253
+        "published_at": 1793563572
       }
     ]
   },
@@ -9063,7 +9047,7 @@
   {
     "group_id": "group_99da16cb2d",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Digi24",
@@ -9091,6 +9075,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793556712
+      },
+      {
+        "source": "Adevărul",
+        "title": "Sute de mii de ucraineni în beznă după atacurile Rusiei asupra infrastructurii energetice",
+        "link": "https://adevarul.ro/stiri-externe/europa/sute-de-mii-de-ucraineni-in-bezna-dupa-atacurile-2568153.html",
+        "summary": "Atacurile rusești asupra infrastructurii energetice a Ucrainei au lăsat mii de gospodării fără electricitate, a declarat duminică președintele ucrainean Volodimir Zelenski.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793563409
       }
     ]
   },
@@ -10469,7 +10462,7 @@
   {
     "group_id": "group_84d2745989",
     "category": "Általános",
-    "articles_count": 7,
+    "articles_count": 8,
     "articles": [
       {
         "source": "Mediafax",
@@ -10529,6 +10522,15 @@
         "source": "Agerpres (HU)",
         "title": "VIDEO LIVE UPDATE Iaşi: Planul Roşu de Intervenţie activat la Ţigănaşi după răsturnarea unui microbuz; două victime - inconştiente",
         "link": "https://agerpres.ro/social/2026/11/01/video-live-update-iasi-planul-rosu-de-interventie-activat-la-iganasi-dupa-rasturnarea-unui-microbuz---1608876",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793491200
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO LIVE UPDATE Iaşi: Planul Roşu de Intervenţie-dezactivat după accidentul de la Ţigănaşi soldat cu nouă victime, dintre care una intubată",
+        "link": "https://agerpres.ro/social/2026/11/01/video-live-update-iasi-planul-rosu-de-interventie-dezactivat-dupa-accidentul-de-la-iganasi-soldat-cu--1608876",
         "summary": "",
         "category": "Általános",
         "is_b2b_only": false,
@@ -11227,6 +11229,38 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793563141
+      }
+    ]
+  },
+  {
+    "group_id": "group_285abe4dcc",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Israel: Rezultatul alegerilor nu e pus sub semnul întrebării de suspiciunile de fraudă, susține președintele comisiei electorale",
+        "link": "https://agerpres.ro/politic-extern/2026/11/01/israel-rezultatul-alegerilor-nu-e-pus-sub-semnul-intrebarii-de-suspiciunile-de-frauda-sustine-presed--1608894",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793491200
+      }
+    ]
+  },
+  {
+    "group_id": "group_bcf5bb02a6",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Marius Tucă Show începe luni, 2 noiembrie, de la ora 19.00, pe Gândul. Invitat: Victor Ponta",
+        "link": "https://www.cancan.ro/marius-tuca-show-incepe-luni-2-noiembrie-de-la-ora-19-00-pe-gandul-invitat-victor-ponta-21540245",
+        "summary": "Invitatul zilei este Victor Ponta, fost premier al României. Emisiunea poate fi urmărită live pe Facebook și pe canalul de YouTube Gandul. ”Tineți aproape!”",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793563222
       }
     ]
   }

@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_bcf5bb02a6",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Marius Tucă Show începe luni, 2 noiembrie, de la ora 19.00, pe Gândul. Invitat: Victor Ponta",
+        "link": "https://www.cancan.ro/marius-tuca-show-incepe-luni-2-noiembrie-de-la-ora-19-00-pe-gandul-invitat-victor-ponta-21540245"
+      }
+    ],
+    "published_at": 1793563222,
+    "title_hu": "Marius Tucă Show începe luni, 2 noiembrie, de la ora 19.00, pe Gândul. Invitat: Victor Ponta",
+    "lead_hu": "Invitatul zilei este Victor Ponta, fost premier al României. Emisiunea poate fi urmărită live pe Facebook și pe canalul de YouTube Gandul. ”Tineți aproape!”...",
+    "content_hu": "Invitatul zilei este Victor Ponta, fost premier al României. Emisiunea poate fi urmărită live pe Facebook și pe canalul de YouTube Gandul. ”Tineți aproape!”",
+    "title_ro": "Marius Tucă Show începe luni, 2 noiembrie, de la ora 19.00, pe Gândul. Invitat: Victor Ponta",
+    "lead_ro": "Invitatul zilei este Victor Ponta, fost premier al României. Emisiunea poate fi urmărită live pe Facebook și pe canalul de YouTube Gandul. ”Tineți aproape!”...",
+    "content_ro": "Invitatul zilei este Victor Ponta, fost premier al României. Emisiunea poate fi urmărită live pe Facebook și pe canalul de YouTube Gandul. ”Tineți aproape!”"
+  },
+  {
     "group_id": "group_6eaaf735cb",
     "category": "Politika",
     "is_synthesized": false,
@@ -241,27 +262,6 @@
     "content_ro": "Nu toți angajatorii aleg să își concedieze direct salariații atunci când nu mai vor să colaboreze cu ei."
   },
   {
-    "group_id": "group_8853fabbac",
-    "category": "Gazdaság",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 2 noiembrie 2026, cu Neti Sandu. O să vină niște bani pentru o zodie",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-2-noiembrie-2026-cu-neti-sandu-o-sa-vina-niste-bani-pentru-o-zodie.html"
-      }
-    ],
-    "published_at": 1793562119,
-    "title_hu": "Horoscop 2 noiembrie 2026, cu Neti Sandu. O să vină niște bani pentru o zodie",
-    "lead_hu": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar.",
-    "content_hu": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar.",
-    "title_ro": "Horoscop 2 noiembrie 2026, cu Neti Sandu. O să vină niște bani pentru o zodie",
-    "lead_ro": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar.",
-    "content_ro": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar."
-  },
-  {
     "group_id": "group_9db972d375",
     "category": "Sport",
     "is_synthesized": false,
@@ -471,7 +471,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 7,
+    "sources_count": 8,
     "sources": [
       {
         "source": "Mediafax",
@@ -507,6 +507,11 @@
         "source": "Agerpres (HU)",
         "title": "VIDEO LIVE UPDATE Iaşi: Planul Roşu de Intervenţie activat la Ţigănaşi după răsturnarea unui microbuz; două victime - inconştiente",
         "link": "https://agerpres.ro/social/2026/11/01/video-live-update-iasi-planul-rosu-de-interventie-activat-la-iganasi-dupa-rasturnarea-unui-microbuz---1608876"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO LIVE UPDATE Iaşi: Planul Roşu de Intervenţie-dezactivat după accidentul de la Ţigănaşi soldat cu nouă victime, dintre care una intubată",
+        "link": "https://agerpres.ro/social/2026/11/01/video-live-update-iasi-planul-rosu-de-interventie-dezactivat-dupa-accidentul-de-la-iganasi-soldat-cu--1608876"
       }
     ],
     "published_at": 1793560834,
@@ -522,12 +527,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Rogobete, despre nosocomiale: „Să nu uităm că un partid s-a născut și a crescut pe acest subiect. Pe drama Colectiv”",
         "link": "https://www.mediafax.ro/politic/rogobete-despre-nosocomiale-sa-nu-uitam-ca-un-partid-s-a-nascut-si-a-crescut-pe-acest-subiect-pe-drama-colectiv-23835450"
+      },
+      {
+        "source": "G4Media",
+        "title": "Rogobete, despre nosocomiale: Un partid s-a născut și a crescut pe acest subiect. Pe drama Colectiv",
+        "link": "https://www.g4media.ro/rogobete-despre-nosocomiale-un-partid-s-a-nascut-si-a-crescut-pe-acest-subiect-pe-drama-colectiv.html"
       }
     ],
     "published_at": 1793560796,
@@ -630,12 +640,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Un ciclon mediteraneean se apropie de România. Sunt așteptate ploi abundente, vijelii și risc de viituri. Avertismentul climatologilor",
         "link": "https://www.digi24.ro/meteo/un-ciclon-mediteraneean-se-apropie-de-romania-sunt-asteptate-ploi-abundente-vijelii-si-risc-de-viituri-avertismentul-climatologilor-4017473"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Un nou ciclon lovește România! Meteorologii anunță ploi abundente în Europa",
+        "link": "https://www.cancan.ro/un-nou-ciclon-loveste-romania-meteorologii-anunta-ploi-abundente-in-europa-21540347"
       }
     ],
     "published_at": 1793560467,
@@ -1076,12 +1091,17 @@
     "category": "Erdély",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Ebihoreanul (Nagyvárad/Bihar)",
         "title": "Accident mortal în Oradea: Un pieton a fost lovit de o mașină pe șoseaua Borșului",
         "link": "https://www.ebihoreanul.ro/stiri/accident-mortal-in-oradea-un-pieton-a-fost-lovit-de-o-masina-pe-soseaua-borsului-206272.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Accident mortal în Oradea: Un bărbat a fost lovit de o mașină pe șoseaua Borșului",
+        "link": "https://www.ebihoreanul.ro/stiri/accident-mortal-in-oradea-un-barbat-a-fost-lovit-de-o-masina-pe-soseaua-borsului-206272.html"
       }
     ],
     "published_at": 1793558100,
@@ -1281,7 +1301,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Digi24",
@@ -1297,6 +1317,11 @@
         "source": "G4Media",
         "title": "Sute de mii de ucraineni au rămas fără curent după un masiv atac rusesc cu drone / ”Au fost vizate substații electrice, transformatoare și linii de înaltă tensiune”",
         "link": "https://www.g4media.ro/sute-de-mii-de-ucraineni-au-ramas-fara-curent-dupa-un-masiv-atac-rusesc-cu-drone-au-fost-vizate-substatii-electrice-transformatoare-si-linii-de-inalta-tensiune.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Sute de mii de ucraineni în beznă după atacurile Rusiei asupra infrastructurii energetice",
+        "link": "https://adevarul.ro/stiri-externe/europa/sute-de-mii-de-ucraineni-in-bezna-dupa-atacurile-2568153.html"
       }
     ],
     "published_at": 1793556712,
@@ -1545,39 +1570,6 @@
     "title_ro": "Luminația, sărbătorită în vestul țării. Mii de candele au luminat cimitirele în memoria celor răposați",
     "lead_ro": "În vestul țării în Ardeal și în Maramureș este Luminația sau Ziua Morților. Oamenii îi pomenesc pe cei dragi din familiile lor plecați din lumea aceasta și le acoperă mormintele cu flori, candele și l…",
     "content_ro": "În vestul țării în Ardeal și în Maramureș este Luminația sau Ziua Morților. Oamenii îi pomenesc pe cei dragi din familiile lor plecați din lumea aceasta și le acoperă mormintele cu flori, candele și lumânări."
-  },
-  {
-    "group_id": "group_0958829042",
-    "fingerprint": "4c4b0b8b25a5e6faf6d967aa638ec060",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Castelul Bran, transformat într-un tărâm al groazei de Halloween. Mii de turiști au petrecut printre fantome și monștri",
-        "link": "https://stirileprotv.ro/divers/castelul-bran-transformat-intr-un-taram-al-groazei-de-halloween-mii-de-turisti-au-petrecut-printre-fantome-si-monstri.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Cât a ajuns să coste un mic în stațiunea Bran! Prețul care îi ia prin surprindere pe turiști",
-        "link": "https://www.cancan.ro/cat-a-ajuns-sa-coste-un-mic-in-statiunea-bran-pretul-care-ii-ia-prin-surprindere-pe-turisti-21540267"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 5.000 de turiști au petrecut Halloweenul la Castelul Bran. Cât a costat biletul",
-        "link": "https://stirileprotv.ro/divers/peste-5-000-de-turisti-au-petrecut-halloweenul-la-castelul-bran-cat-a-costat-biletul.html"
-      }
-    ],
-    "published_at": 1793555585,
-    "title_hu": "Több mint ötezer vendég fordult meg Halloweenkor a törcsvári kastélyban",
-    "lead_hu": "A Halloween alkalmából több mint ötezer látogatót fogadott a törcsvári kastély, ahol tematikus látványvilággal, színészekkel és esti bulival várták a közönséget. A rendezvény mellett a bran-i ételárak és a helyi gyerekek édességgyűjtő körútja is a hétvége része volt.",
-    "content_hu": "• **A szombati forgalom meghaladta az ötezer főt:** a kastélyban 4000 látogatót regisztráltak, további 1300-an pedig olyan belépési csomagot választottak, amely tárlatvezetést és bulit is tartalmazott. A csomagok ára 700 és 3000 lej között mozgott, a programban DJ-s rendezvény is szerepelt.\n\n• **Húsz helyiséget alakítottak át Halloween-tematikájúvá,** a látogatói útvonalon pedig több mint harminc színész vett részt a műsorban. A kastélyban és udvarán jelmezes vendégek, sötét díszletek és esti programok teremtettek alkalomhoz illő hangulatot.\n\n• **A közönség jelentős része külföldről érkezett.** A szervezők az Egyesült Államokat, az Egyesült Királyságot, Spanyolországot és Németországot nevezték meg a fontosabb küldő országok között; Latin-Amerikából, a Közel-Keletről és Ausztráliából is jöttek turisták. Néhány amerikai vendég már két hónappal korábban megvette a jegyét.\n\n• **A Halloween-napi kastélybelépő 300 lejbe került.** Lucian Popa, a Survivor korábbi szereplője két felnőtt belépését 600 lejért említette; ő családjával érkezett. A bran-i ételstandoknál egy miccs 15 lejbe, a kolbászos szendvicsek 45–50 lejbe kerültek, a feltéttől függően.\n\n• **A környékbeli gyerekek is tartották a Halloween szokását:** jelmezben, szüleik kíséretében jártak házról házra, és édességet gyűjtöttek. Ez a program a kastély esti rendezvényeitől elkülönülten, a helyi lakónegyedekben zajlott.",
-    "title_ro": "Peste cinci mii de vizitatori au ajuns la Castelul Bran de Halloween",
-    "lead_ro": "Castelul Bran a primit peste cinci mii de vizitatori în weekendul de Halloween, într-un program cu decoruri tematice, actori și petreceri de seară. În stațiunea Bran, turiștii au remarcat și costurile mâncării, iar copiii din zonă au mers costumați după dulciuri.",
-    "content_ro": "• **Sâmbătă, numărul vizitatorilor a depășit cinci mii:** 4.000 de persoane au intrat la castel, iar alte 1.300 au cumpărat o ofertă care includea tur ghidat și petrecere. Pachetele au costat între 700 și 3.000 de lei, iar programul de seară a cuprins și un eveniment cu DJ.\n\n• **Douăzeci de încăperi au primit o amenajare specifică Halloweenului,** iar pe traseul de vizitare au participat peste 30 de actori. Decorurile întunecate, costumele oaspeților și activitățile de seară au completat programul pregătit la castel.\n\n• **O mare parte dintre vizitatori au venit din afara României.** Organizatorii au indicat Statele Unite, Marea Britanie, Spania și Germania printre principalele țări de proveniență; au sosit turiști și din America Latină, Orientul Mijlociu și Australia. Unii călători americani își cumpăraseră biletele cu două luni înainte.\n\n• **Intrarea la castel în ziua de Halloween a costat 300 de lei.** Lucian Popa, fost participant la Survivor, a menționat online un cost de 600 de lei pentru două persoane; el a venit împreună cu familia. La standurile din Bran, un mic a costat 15 lei, iar sandvișurile cu cârnați au fost 45 sau 50 de lei, în funcție de ingredientele alese.\n\n• **Și copiii din localitate au participat la obiceiurile de Halloween:** costumați și însoțiți de părinți, au trecut pe la casele din vecinătate pentru a primi dulciuri. Activitatea a avut loc în comunitate, separat de petrecerile organizate la castel."
   },
   {
     "group_id": "group_93663dfddf",
@@ -2110,12 +2102,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "„Marele câștigător” al congresului USR. Radu Miruță obținut cele mai multe voturi și jumătate din locurile din conducere",
         "link": "https://stirileprotv.ro/stiri/politic/marele-castigator-al-congresului-usr-radu-miruta-obtinut-cele-mai-multe-voturi-si-jumatate-din-locurile-din-conducere.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Strategia noii conduceri USR pentru a reveni la guvernare în 2028. „Ieșim din orașele mari”",
+        "link": "https://stirileprotv.ro/stiri/politic/strategia-noii-conduceri-usr-pentru-a-reveni-la-guvernare-in-2028-iesim-din-orasele-mari.html"
       }
     ],
     "published_at": 1793554004,
@@ -7443,12 +7440,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Europa se confruntă cu o „furtună perfectă”, avertizează șeful unui gigant german. Ce amenință economia continentului",
         "link": "https://www.digi24.ro/stiri/actualitate/europa-se-confrunta-cu-o-furtuna-perfecta-avertizeaza-seful-unui-gigant-german-ce-ameninta-economia-continentului-4017089"
+      },
+      {
+        "source": "Digi24",
+        "title": "Europa se confruntă cu o „furtună perfectă”, avertizează șeful unui gigant german. Ce amenință economia continentului",
+        "link": "https://www.digi24.ro/stiri/externe/ue/europa-se-confrunta-cu-o-furtuna-perfecta-avertizeaza-seful-unui-gigant-german-ce-ameninta-economia-continentului-4017089"
       }
     ],
     "published_at": 1793530859,
@@ -9033,27 +9035,6 @@
     "content_ro": "Meningita bacteriană se ia prin sărut. Și, de aceea, adolescenții și tinerii sunt în cea mai mare grupă de risc pentru această infecție gravă a sistemului nervos. Vorbim despre o infecție care debutează ca o viroză. Și păcălește în sezonul virozelor."
   },
   {
-    "group_id": "group_54694c5969",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Accident grav în județul Prahova. Un șofer de 74 de ani a pierdut controlul volanului și a ajuns într-un stâlp de electricitate",
-        "link": "https://stirileprotv.ro/stiri/actualitate/accident-grav-in-judetul-prahova-un-sofer-de-74-de-ani-a-pierdut-controlul-volanului-si-a-ajuns-intr-un-stalp-de-electricitate.html"
-      }
-    ],
-    "published_at": 1793524502,
-    "title_hu": "Accident grav în județul Prahova. Un șofer de 74 de ani a pierdut controlul volanului și a ajuns într-un stâlp de electricitate",
-    "lead_hu": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova.",
-    "content_hu": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova.",
-    "title_ro": "Accident grav în județul Prahova. Un șofer de 74 de ani a pierdut controlul volanului și a ajuns într-un stâlp de electricitate",
-    "lead_ro": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova.",
-    "content_ro": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova."
-  },
-  {
     "group_id": "group_8c6a58e47e",
     "category": "Sport",
     "is_synthesized": false,
@@ -9902,12 +9883,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "O mai recunoști? Ce face Raluca, la 6 ani de la divorțul de Walter Zenga",
         "link": "https://www.gsp.ro/sporturi/altele/ce-face-raluca-la-6-ani-de-la-divortul-de-walter-zenga-994581.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Raluca Zenga, vacanță după vacanță la 6 ani de la divorț! Destinațiile spectaculoase în care a ajuns",
+        "link": "https://www.cancan.ro/raluca-zenga-vacanta-dupa-vacanta-la-6-ani-de-la-divort-destinatiile-spectaculoase-in-care-a-ajuns-21540350"
       }
     ],
     "published_at": 1793520631,
@@ -11694,90 +11680,6 @@
     "content_ro": "Târgurile de Crăciun din București au primele deschideri anunțate pentru a doua jumătate a lunii noiembrie. Opera Comică pentru Copii va primi vizitatori din 20 noiembrie, iar evenimentul din Piața Constituției va începe pe 27 noiembrie. Accesul publicului va fi gratuit în ambele locații."
   },
   {
-    "group_id": "group_7c3e209908",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Misterul Sfintei Agnes, inteligența artificială și furtul de opere de artă: cum a găsit poliția italiană un tablou furat acum 20 de ani",
-        "link": "https://www.digi24.ro/magazin/timp-liber/cultura/misterul-sfintei-agnes-cum-a-gasit-politia-italiana-ajutata-de-inteligenta-artificiala-un-tablou-furat-in-urma-cu-20-de-ani-4012695"
-      }
-    ],
-    "published_at": 1793509250,
-    "title_hu": "Misterul Sfintei Agnes, inteligența artificială și furtul de opere de artă: cum a găsit poliția italiană un tablou furat acum 20 de ani",
-    "lead_hu": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai b…",
-    "content_hu": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai bine ascunse opere de artă, scrie BBC care prezintă cazul unui tablou furat în urmă cu două deceni și găsit apoi întâmplător într-un târg de antichități din Parma.",
-    "title_ro": "Misterul Sfintei Agnes, inteligența artificială și furtul de opere de artă: cum a găsit poliția italiană un tablou furat acum 20 de ani",
-    "lead_ro": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai b…",
-    "content_ro": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai bine ascunse opere de artă, scrie BBC care prezintă cazul unui tablou furat în urmă cu două deceni și găsit apoi întâmplător într-un târg de antichități din Parma."
-  },
-  {
-    "group_id": "group_281e2968b6",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Utilizatorii serviciilor de inteligență artificială consideră că pe ei îi face mai deștepți, iar pe ceilalți mai proști (studiu)",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/utilizatorii-serviciilor-de-inteligenta-artificiala-considera-ca-ii-face-mai-destepti-iar-pe-ceilalti-mai-prosti-sondaj-4014053"
-      }
-    ],
-    "published_at": 1793509247,
-    "title_hu": "Utilizatorii serviciilor de inteligență artificială consideră că pe ei îi face mai deștepți, iar pe ceilalți mai proști (studiu)",
-    "lead_hu": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „flu…",
-    "content_hu": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „fluenți” din punct de vedere mintal, arată un studiu citat de The Times.",
-    "title_ro": "Utilizatorii serviciilor de inteligență artificială consideră că pe ei îi face mai deștepți, iar pe ceilalți mai proști (studiu)",
-    "lead_ro": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „flu…",
-    "content_ro": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „fluenți” din punct de vedere mintal, arată un studiu citat de The Times."
-  },
-  {
-    "group_id": "group_5486312d95",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Când pot primi proprietarii de locuințe despăgubiri de până la 100.000 de lei. Obligația prevăzută de lege",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/cand-pot-primi-proprietarii-de-locuinte-despagubiri-de-pana-la-100-000-de-lei-obligatia-prevazuta-de-lege-4015477"
-      }
-    ],
-    "published_at": 1793509247,
-    "title_hu": "Când pot primi proprietarii de locuințe despăgubiri de până la 100.000 de lei. Obligația prevăzută de lege",
-    "lead_hu": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței …",
-    "content_hu": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței și suma asigurată diferă în funcție de tipul construcției, iar valoarea despăgubirilor depinde de prejudiciul constatat.",
-    "title_ro": "Când pot primi proprietarii de locuințe despăgubiri de până la 100.000 de lei. Obligația prevăzută de lege",
-    "lead_ro": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței …",
-    "content_ro": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței și suma asigurată diferă în funcție de tipul construcției, iar valoarea despăgubirilor depinde de prejudiciul constatat."
-  },
-  {
-    "group_id": "group_02e93f9072",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Poți monta aerul condiționat pe fațada blocului? Când ai nevoie de acorduri și ce obligații ai față de vecini",
-        "link": "https://www.digi24.ro/magazin/stil-de-viata/casa-si-gradina/poti-monta-aerul-conditionat-pe-fatada-blocului-cand-ai-nevoie-de-acorduri-si-ce-obligatii-ai-fata-de-vecini-4015113"
-      }
-    ],
-    "published_at": 1793509230,
-    "title_hu": "Poți monta aerul condiționat pe fațada blocului? Când ai nevoie de acorduri și ce obligații ai față de vecini",
-    "lead_hu": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea …",
-    "content_hu": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea este scutită de autorizație de construire.",
-    "title_ro": "Poți monta aerul condiționat pe fațada blocului? Când ai nevoie de acorduri și ce obligații ai față de vecini",
-    "lead_ro": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea …",
-    "content_ro": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea este scutită de autorizație de construire."
-  },
-  {
     "group_id": "group_be832ac2ef",
     "category": "Általános",
     "is_synthesized": false,
@@ -12009,6 +11911,855 @@
     "content_ro": "Un studiu realizat pe mai bine de 7.500 de perechi de gemeni a identificat o legătură între lipsa de organizare de acasă și notele copiilor."
   },
   {
+    "group_id": "group_bee6e8c121",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "1 noiembrie - Ziua radioului național",
+        "link": "https://agerpres.ro/documentare/2026/11/01/1-noiembrie---ziua-radioului-national--1608736"
+      }
+    ],
+    "published_at": 1793491200,
+    "title_hu": "1 noiembrie - Ziua radioului național",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "1 noiembrie - Ziua radioului național",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_fcaf08e676",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "1 noiembrie - Ziua internațională a sindromului Lennox-Gastaut",
+        "link": "https://agerpres.ro/documentare/2026/11/01/1-noiembrie---ziua-internationala-a-sindromului-lennox-gastaut--1608738"
+      }
+    ],
+    "published_at": 1793491200,
+    "title_hu": "1 noiembrie - Ziua internațională a sindromului Lennox-Gastaut",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "1 noiembrie - Ziua internațională a sindromului Lennox-Gastaut",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_5062941da1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "„Supat”, „lasă-mă-să-te-las” și „dramaturgă”. Ce noutăți și capcane aduce noul DOOM",
+        "link": "https://adevarul.ro/stiri-interne/societate/supat-lasa-ma-sa-te-las-si-dramaturga-ce-2567842.html"
+      }
+    ],
+    "published_at": 1793490325,
+    "title_hu": "„Supat”, „lasă-mă-să-te-las” și „dramaturgă”. Ce noutăți și capcane aduce noul DOOM",
+    "lead_hu": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în D…",
+    "content_hu": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în DOOM3.",
+    "title_ro": "„Supat”, „lasă-mă-să-te-las” și „dramaturgă”. Ce noutăți și capcane aduce noul DOOM",
+    "lead_ro": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în D…",
+    "content_ro": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în DOOM3."
+  },
+  {
+    "group_id": "group_ae56b06990",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
+        "link": "https://adevarul.ro/stiri-locale/resita/lacul-trei-ape-golit-controlat-pentru-lucrari-2567217.html"
+      }
+    ],
+    "published_at": 1793488285,
+    "title_hu": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
+    "lead_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
+    "content_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită.",
+    "title_ro": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
+    "lead_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
+    "content_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită."
+  },
+  {
+    "group_id": "group_1c794b5544",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Leneveala chivulistă, în noaptea de Ognissanti",
+        "link": "https://www.gsp.ro/opinii/opinie-george-nistor-leneveala-chivulista-in-ac-milan-inter-994516.html"
+      }
+    ],
+    "published_at": 1793487640,
+    "title_hu": "Leneveala chivulistă, în noaptea de Ognissanti",
+    "lead_hu": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și s…",
+    "content_hu": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și să-și piardă mințile. Din Udine, de unde Roma și-a luat punctele, și până în Capitală, unde Gattusso ascute atacuri pentru Cagliari, este un ritual al întoarcerii. Și la Milano e la fel. Uneori chiar în fiecare zi. ...",
+    "title_ro": "Leneveala chivulistă, în noaptea de Ognissanti",
+    "lead_ro": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și s…",
+    "content_ro": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și să-și piardă mințile. Din Udine, de unde Roma și-a luat punctele, și până în Capitală, unde Gattusso ascute atacuri pentru Cagliari, este un ritual al întoarcerii. Și la Milano e la fel. Uneori chiar în fiecare zi. ..."
+  },
+  {
+    "group_id": "group_3e1149b19b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cât te costă să nu știi să spui „nu”. Nota de plată a obligațiilor sociale",
+        "link": "https://adevarul.ro/stiri-interne/societate/cat-te-costa-sa-nu-stii-sa-spui-nu-nota-de-2566897.html"
+      }
+    ],
+    "published_at": 1793487445,
+    "title_hu": "Cât te costă să nu știi să spui „nu”. Nota de plată a obligațiilor sociale",
+    "lead_hu": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de …",
+    "content_hu": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de a-i dezamăgi pe ceilalți.",
+    "title_ro": "Cât te costă să nu știi să spui „nu”. Nota de plată a obligațiilor sociale",
+    "lead_ro": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de …",
+    "content_ro": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de a-i dezamăgi pe ceilalți."
+  },
+  {
+    "group_id": "group_4c8c10537d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Penicilina italiană. Rețeta de supă cu pui și legume, ideală pentru sezonul rece",
+        "link": "https://adevarul.ro/stil-de-viata/bucatarie/penicilina-italiana-reteta-de-supa-cu-pui-si-2566893.html"
+      }
+    ],
+    "published_at": 1793486066,
+    "title_hu": "Penicilina italiană. Rețeta de supă cu pui și legume, ideală pentru sezonul rece",
+    "lead_hu": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hid…",
+    "content_hu": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hidratare și oferă proteine, vitamine și minerale.",
+    "title_ro": "Penicilina italiană. Rețeta de supă cu pui și legume, ideală pentru sezonul rece",
+    "lead_ro": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hid…",
+    "content_ro": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hidratare și oferă proteine, vitamine și minerale."
+  },
+  {
+    "group_id": "group_fdd21d6a30",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "„Chivu, ce ai făcut?” » Italienii l-au făcut praf pe român, după Milan - Inter: „Fără identitate!” + A plouat cu note mici",
+        "link": "https://www.gsp.ro/international/campionate/cristi-chivu-ac-milan-inter-serie-a-994491.html"
+      }
+    ],
+    "published_at": 1793484719,
+    "title_hu": "„Chivu, ce ai făcut?” » Italienii l-au făcut praf pe român, după Milan - Inter: „Fără identitate!” + A plouat cu note mici",
+    "lead_hu": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echi…",
+    "content_hu": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echipa antrenorului român. Echipa lui Chivu nu a reușit să recupereze din handicapul cu care a plecat încă din primele 10 minute. AC Milan avea 2-0 în minutul 10, după golurile semnate de Pulisic și Rabiot. ...",
+    "title_ro": "„Chivu, ce ai făcut?” » Italienii l-au făcut praf pe român, după Milan - Inter: „Fără identitate!” + A plouat cu note mici",
+    "lead_ro": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echi…",
+    "content_ro": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echipa antrenorului român. Echipa lui Chivu nu a reușit să recupereze din handicapul cu care a plecat încă din primele 10 minute. AC Milan avea 2-0 în minutul 10, după golurile semnate de Pulisic și Rabiot. ..."
+  },
+  {
+    "group_id": "group_129799623c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "1 noiembrie: 37 de ani de la tragica noapte în care Mihaela Runceanu a fost ucisă în propria casă. Premoniția sumbră a artistei",
+        "link": "https://adevarul.ro/istoria-zilei/1-noiembrie-37-de-ani-de-la-tragica-noapte-in-2567444.html"
+      }
+    ],
+    "published_at": 1793484085,
+    "title_hu": "1 noiembrie: 37 de ani de la tragica noapte în care Mihaela Runceanu a fost ucisă în propria casă. Premoniția sumbră a artistei",
+    "lead_hu": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la f…",
+    "content_hu": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la frescele Capelei Sixtine și apariția Uniunii Europene, iată câteva dintre reperele acestei date.",
+    "title_ro": "1 noiembrie: 37 de ani de la tragica noapte în care Mihaela Runceanu a fost ucisă în propria casă. Premoniția sumbră a artistei",
+    "lead_ro": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la f…",
+    "content_ro": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la frescele Capelei Sixtine și apariția Uniunii Europene, iată câteva dintre reperele acestei date."
+  },
+  {
+    "group_id": "group_dfba5ac622",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Votează AICI „Jucătorul lunii” și „Antrenorul lunii”! » Iată nominalizații pentru octombrie 2026!",
+        "link": "https://www.gsp.ro/gsp-special/ideile-gazetei/jucatorul-si-antrenorul-lunii-octombrie-2026-vot-994497.html"
+      }
+    ],
+    "published_at": 1793484007,
+    "title_hu": "Votează AICI „Jucătorul lunii” și „Antrenorul lunii”! » Iată nominalizații pentru octombrie 2026!",
+    "lead_hu": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost să…",
+    "content_hu": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost săptămâni intense, cu decizii inspirate de pe margine, goluri spectaculoase, rezultate surprinzătoare și jucători care au făcut diferența atunci când echipele lor au avut cea mai mare nevoie. ...",
+    "title_ro": "Votează AICI „Jucătorul lunii” și „Antrenorul lunii”! » Iată nominalizații pentru octombrie 2026!",
+    "lead_ro": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost să…",
+    "content_ro": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost săptămâni intense, cu decizii inspirate de pe margine, goluri spectaculoase, rezultate surprinzătoare și jucători care au făcut diferența atunci când echipele lor au avut cea mai mare nevoie. ..."
+  },
+  {
+    "group_id": "group_64814104e0",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "7-0! Ce s-a întâmplat cu Dennis Man, în ziua în care a fost lăudat de Adrian Ilie",
+        "link": "https://www.gsp.ro/international/campionate/dennis-man-rezerva-psv-willem-ii-olanda-994492.html"
+      }
+    ],
+    "published_at": 1793483775,
+    "title_hu": "7-0! Ce s-a întâmplat cu Dennis Man, în ziua în care a fost lăudat de Adrian Ilie",
+    "lead_hu": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproap…",
+    "content_hu": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproape două luni în care Peter Bosz nu s-a bazat deloc pe el. Românul a primit minute în 3 partide consecutive înaintea jocului de astăzi, dar nu a apărut pe teren și contra lui Willem II. ...",
+    "title_ro": "7-0! Ce s-a întâmplat cu Dennis Man, în ziua în care a fost lăudat de Adrian Ilie",
+    "lead_ro": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproap…",
+    "content_ro": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproape două luni în care Peter Bosz nu s-a bazat deloc pe el. Românul a primit minute în 3 partide consecutive înaintea jocului de astăzi, dar nu a apărut pe teren și contra lui Willem II. ..."
+  },
+  {
+    "group_id": "group_573a47afba",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "eu as pune ceva in genul: Prințul Marco a ieșit la date cu Gabriella, dar s-a gândit numai la Bianca. Declarația care spune totul: „Până la sfârșit”",
+        "link": "https://www.cancan.ro/eu-as-pune-ceva-in-genul-printul-marco-a-iesit-la-date-cu-gabriella-dar-s-a-gandit-numai-la-bianca-declaratia-care-spune-totul-pana-la-sfarsit-21539899"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Prințul Marco a ieșit la date cu Gabriella, dar s-a gândit numai la Bianca. Declarația care spune totul: „Până la sfârșit”",
+        "link": "https://www.cancan.ro/printul-marco-a-iesit-la-date-cu-gabriella-dar-s-a-gandit-numai-la-bianca-declaratia-care-spune-totul-pana-la-sfarsit-21539899"
+      }
+    ],
+    "published_at": 1793483740,
+    "title_hu": "eu as pune ceva in genul: Prințul Marco a ieșit la date cu Gabriella, dar s-a gândit numai la Bianca. Declarația care spune totul: „Până la sfârșit”",
+    "lead_hu": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de d…",
+    "content_hu": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de dragoste chiar în fața ispitei. Aflați la un templu budist, Marco și Gabriella și-au pus câte o dorință. […]",
+    "title_ro": "eu as pune ceva in genul: Prințul Marco a ieșit la date cu Gabriella, dar s-a gândit numai la Bianca. Declarația care spune totul: „Până la sfârșit”",
+    "lead_ro": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de d…",
+    "content_ro": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de dragoste chiar în fața ispitei. Aflați la un templu budist, Marco și Gabriella și-au pus câte o dorință. […]"
+  },
+  {
+    "group_id": "group_953043f153",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Hanca și Zima s-au pus de acord după 1-1 cu CFR: „Clar peste ei”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/petrolul-cfr-cluj-sergiu-hanca-lukas-zima-994487.html"
+      }
+    ],
+    "published_at": 1793482885,
+    "title_hu": "Hanca și Zima s-au pus de acord după 1-1 cu CFR: „Clar peste ei”",
+    "lead_hu": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la…",
+    "content_hu": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la jocul prestat. Petrolul a avut mai mult mingea, în 71% din timp, și mai multe ocazii astăzi, 26 față de 12 în dreptul CFR-ului, dar nu a reușit să obțină ceea ce ar fi fost prima victorie acasă în această lună. ...",
+    "title_ro": "Hanca și Zima s-au pus de acord după 1-1 cu CFR: „Clar peste ei”",
+    "lead_ro": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la…",
+    "content_ro": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la jocul prestat. Petrolul a avut mai mult mingea, în 71% din timp, și mai multe ocazii astăzi, 26 față de 12 în dreptul CFR-ului, dar nu a reușit să obțină ceea ce ar fi fost prima victorie acasă în această lună. ..."
+  },
+  {
+    "group_id": "group_ecb05a6496",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "El este tânărul care a murit după ce a fost prins sub un mal de pământ în Călărași! Denis avea doar 25 de ani",
+        "link": "https://www.cancan.ro/el-este-tanarul-care-a-murit-dupa-ce-a-fost-prins-sub-un-mal-de-pamant-in-calarasi-denis-avea-doar-25-de-ani-21539916"
+      }
+    ],
+    "published_at": 1793482653,
+    "title_hu": "El este tânărul care a murit după ce a fost prins sub un mal de pământ în Călărași! Denis avea doar 25 de ani",
+    "lead_hu": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, …",
+    "content_hu": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, însă misiunea a fost dificilă din cauza pericolului unei noi prăbușiri. În cele din urmă, tânărul a fost găsit […]",
+    "title_ro": "El este tânărul care a murit după ce a fost prins sub un mal de pământ în Călărași! Denis avea doar 25 de ani",
+    "lead_ro": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, …",
+    "content_ro": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, însă misiunea a fost dificilă din cauza pericolului unei noi prăbușiri. În cele din urmă, tânărul a fost găsit […]"
+  },
+  {
+    "group_id": "group_a5eb60f315",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Vladislav Blănuță a făcut show în Polonia",
+        "link": "https://www.gsp.ro/international/campionate/vladislav-blanuta-dubla-lechia-gdansk-skierniewice-994485.html"
+      }
+    ],
+    "published_at": 1793482323,
+    "title_hu": "Vladislav Blănuță a făcut show în Polonia",
+    "lead_hu": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev,…",
+    "content_hu": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev, perioadă care a fost un adevărat coșmar, Vladislav Blănuță pare că se regăsește în al doilea eșalon polonez la echipa care este pe primul loc și atacă promovarea. ...",
+    "title_ro": "Vladislav Blănuță a făcut show în Polonia",
+    "lead_ro": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev,…",
+    "content_ro": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev, perioadă care a fost un adevărat coșmar, Vladislav Blănuță pare că se regăsește în al doilea eșalon polonez la echipa care este pe primul loc și atacă promovarea. ..."
+  },
+  {
+    "group_id": "group_2219866ffc",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Pune presiune pe Floyd Mayweather: „Tu ai cerut să luptăm, e ultimul avertisment!”",
+        "link": "https://www.gsp.ro/sporturi/box/floyd-mayweather-ryan-garcia-box-994477.html"
+      }
+    ],
+    "published_at": 1793481680,
+    "title_hu": "Pune presiune pe Floyd Mayweather: „Tu ai cerut să luptăm, e ultimul avertisment!”",
+    "lead_hu": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta c…",
+    "content_hu": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta către un alt adversar dacă veteranul neînvins nu va semna la timp contractul pentru confruntare. ...",
+    "title_ro": "Pune presiune pe Floyd Mayweather: „Tu ai cerut să luptăm, e ultimul avertisment!”",
+    "lead_ro": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta c…",
+    "content_ro": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta către un alt adversar dacă veteranul neînvins nu va semna la timp contractul pentru confruntare. ..."
+  },
+  {
+    "group_id": "group_0dfdc77123",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "„Iranul nu va deveni niciodată Coreea de Nord”. Mesajul tinerilor din Generația Z, în ciuda represiunii regimului",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/iranul-nu-va-deveni-niciodata-coreea-de-nord-mesajul-tinerilor-din-generatia-z-in-ciuda-represiunii-regimului-4016805"
+      }
+    ],
+    "published_at": 1793481250,
+    "title_hu": "„Iranul nu va deveni niciodată Coreea de Nord”. Mesajul tinerilor din Generația Z, în ciuda represiunii regimului",
+    "lead_hu": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta …",
+    "content_hu": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta izolarea și controlul total al regimului, chiar dacă drumul către libertate ar putea fi lung și costisitor.",
+    "title_ro": "„Iranul nu va deveni niciodată Coreea de Nord”. Mesajul tinerilor din Generația Z, în ciuda represiunii regimului",
+    "lead_ro": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta …",
+    "content_ro": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta izolarea și controlul total al regimului, chiar dacă drumul către libertate ar putea fi lung și costisitor."
+  },
+  {
+    "group_id": "group_1639c898dd",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "UPDATE Franța, zguduită de un nou val de proteste / Peste 500 de persoane reținute, magazine jefuite și un polițist incendiat cu un cocktail Molotov / Apel la noi acţiuni marţea şi joia viitoare",
+        "link": "https://www.g4media.ro/proteste-fara-incidente-in-franta-apel-la-noi-actiuni-martea-si-joia-viitoare.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Proteste în Franța: Aproape 800 de arestări sâmbătă, 'niciun incident major' în cursul serii",
+        "link": "https://agerpres.ro/social-extern/2026/11/01/proteste-in-franta-aproape-800-de-arestari-sambata-niciun-incident-major-in-cursul-serii--1608855"
+      }
+    ],
+    "published_at": 1793480568,
+    "title_hu": "UPDATE Franța, zguduită de un nou val de proteste / Peste 500 de persoane reținute, magazine jefuite și un polițist incendiat cu un cocktail Molotov / Apel la noi acţiuni marţea şi joia viitoare",
+    "lead_hu": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţă…",
+    "content_hu": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţării, a anunţat sâmbătă Ministerul francez de Interne citat de agenția de știri AFP, informație preluată de Agerpres. UPDATE Ota 11.01 Franța a […] © G4Media.ro.",
+    "title_ro": "UPDATE Franța, zguduită de un nou val de proteste / Peste 500 de persoane reținute, magazine jefuite și un polițist incendiat cu un cocktail Molotov / Apel la noi acţiuni marţea şi joia viitoare",
+    "lead_ro": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţă…",
+    "content_ro": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţării, a anunţat sâmbătă Ministerul francez de Interne citat de agenția de știri AFP, informație preluată de Agerpres. UPDATE Ota 11.01 Franța a […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_1703c5b777",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Alegerile din Israel au produs un parlament fără majoritate, iar opțiunile în vederea formării unui guvern sunt limitate",
+        "link": "https://www.g4media.ro/alegerile-din-israel-au-produs-un-parlament-fara-majoritate-iar-optiunile-in-vederea-formarii-unui-guvern-sunt-limitate.html"
+      }
+    ],
+    "published_at": 1793480489,
+    "title_hu": "Alegerile din Israel au produs un parlament fără majoritate, iar opțiunile în vederea formării unui guvern sunt limitate",
+    "lead_hu": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin N…",
+    "content_hu": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin Netanyahu, care a rămas cu 53 de deputați din 120, formată din opoziția sionistă, cu 48 de deputați, și cele două liste ale arabilor israelieni cu un număr record […] © G4Media.ro.",
+    "title_ro": "Alegerile din Israel au produs un parlament fără majoritate, iar opțiunile în vederea formării unui guvern sunt limitate",
+    "lead_ro": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin N…",
+    "content_ro": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin Netanyahu, care a rămas cu 53 de deputați din 120, formată din opoziția sionistă, cu 48 de deputați, și cele două liste ale arabilor israelieni cu un număr record […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_bea121924c",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Oana Lis, apariție neașteptată de Halloween: „Am ieșit cu Vio în oraș”",
+        "link": "https://www.cancan.ro/oana-lis-aparitie-neasteptata-de-halloween-am-iesit-cu-vio-in-oras-21539891"
+      }
+    ],
+    "published_at": 1793480439,
+    "title_hu": "Oana Lis, apariție neașteptată de Halloween: „Am ieșit cu Vio în oraș”",
+    "lead_hu": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de…",
+    "content_hu": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de Halloween și a reușit să își amuze copios urmăritorii din mediul online. Blondina a marcat sărbătoarea într-un mod inedit, iar alegerea sa a avut […]",
+    "title_ro": "Oana Lis, apariție neașteptată de Halloween: „Am ieșit cu Vio în oraș”",
+    "lead_ro": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de…",
+    "content_ro": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de Halloween și a reușit să își amuze copios urmăritorii din mediul online. Blondina a marcat sărbătoarea într-un mod inedit, iar alegerea sa a avut […]"
+  },
+  {
+    "group_id": "group_cd53438f6c",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Au jefuit fotbalistul în timpul El Clasico! Pagubă de 350.000 de euro",
+        "link": "https://www.gsp.ro/international/campionate/real-madrid-eder-militao-jefuit-994480.html"
+      }
+    ],
+    "published_at": 1793480165,
+    "title_hu": "Au jefuit fotbalistul în timpul El Clasico! Pagubă de 350.000 de euro",
+    "lead_hu": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central …",
+    "content_hu": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central Eder Militao a reintrat în circuit în această lună. Duminica trecută, brazilianul a fost rezervă neutilizată la meciul dintre Barcelona și Real Madrid. ...",
+    "title_ro": "Au jefuit fotbalistul în timpul El Clasico! Pagubă de 350.000 de euro",
+    "lead_ro": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central …",
+    "content_ro": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central Eder Militao a reintrat în circuit în această lună. Duminica trecută, brazilianul a fost rezervă neutilizată la meciul dintre Barcelona și Real Madrid. ..."
+  },
+  {
+    "group_id": "group_e739729810",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Rivalii LeBron James și Steph Curry fac spectacol în NBA și se încăpățânează să lupte cu noua generație",
+        "link": "https://www.gsp.ro/sporturi/baschet/rivalii-lebron-james-si-steph-curry-spectacol-nba-994482.html"
+      }
+    ],
+    "published_at": 1793479892,
+    "title_hu": "Rivalii LeBron James și Steph Curry fac spectacol în NBA și se încăpățânează să lupte cu noua generație",
+    "lead_hu": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet ș…",
+    "content_hu": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet și contribuie cu brio la succesul echipelor la care joacă. ...",
+    "title_ro": "Rivalii LeBron James și Steph Curry fac spectacol în NBA și se încăpățânează să lupte cu noua generație",
+    "lead_ro": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet ș…",
+    "content_ro": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet și contribuie cu brio la succesul echipelor la care joacă. ..."
+  },
+  {
+    "group_id": "group_7314506b08",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/pastila-banala-care-in-doza-mica-ar-putea-reduce-riscul-de-dementa-cu-70-la-anumite-persoane-avertismentul-cercetatorilor-4009625"
+      }
+    ],
+    "published_at": 1793479601,
+    "title_hu": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
+    "lead_hu": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
+    "content_hu": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
+    "title_ro": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
+    "lead_ro": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
+    "content_ro": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor"
+  },
+  {
+    "group_id": "group_810c9c4a6c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona / Cer renunţarea la un proiect de lege privind chiriile",
+        "link": "https://www.g4media.ro/mii-de-manifestanti-pentru-dreptul-la-locuire-au-revenit-sambata-intr-una-dintre-pietele-principale-din-lisabona-cer-renuntarea-la-un-proiect-de-lege-privind-chiriile.html"
+      }
+    ],
+    "published_at": 1793479451,
+    "title_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona / Cer renunţarea la un proiect de lege privind chiriile",
+    "lead_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei p…",
+    "content_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei pentru a renunţa la un proiect de lege privind chiriile despre care susţin că ar agrava criza accesibilităţii locuinţelor din ţară, transmite agenția de știri Reuters, citată de Agerpres. Potrivit […] © G4Media.ro.",
+    "title_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona / Cer renunţarea la un proiect de lege privind chiriile",
+    "lead_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei p…",
+    "content_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei pentru a renunţa la un proiect de lege privind chiriile despre care susţin că ar agrava criza accesibilităţii locuinţelor din ţară, transmite agenția de știri Reuters, citată de Agerpres. Potrivit […] © G4Media.ro."
+  },
+  {
+    "group_id": "group_8c01a6ea83",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Au început Jocurile Olimpice de Tineret, primul eveniment olimpic organizat în Africa. România participă cu 16 sportivi",
+        "link": "https://www.mediafax.ro/sport/au-inceput-jocurile-olimpice-de-tineret-primul-eveniment-olimpic-organizat-in-africa-romania-participa-cu-16-sportivi-23835256"
+      }
+    ],
+    "published_at": 1793479276,
+    "title_hu": "Au început Jocurile Olimpice de Tineret, primul eveniment olimpic organizat în Africa. România participă cu 16 sportivi",
+    "lead_hu": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 1…",
+    "content_hu": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 14 și 17 ani, participă la competiție, România fiind reprezentată de o delegație de 16 sportivi.",
+    "title_ro": "Au început Jocurile Olimpice de Tineret, primul eveniment olimpic organizat în Africa. România participă cu 16 sportivi",
+    "lead_ro": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 1…",
+    "content_ro": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 14 și 17 ani, participă la competiție, România fiind reprezentată de o delegație de 16 sportivi."
+  },
+  {
+    "group_id": "group_977dbe72f8",
+    "fingerprint": "c63fda48be8dab5c8187da606bd8e60f",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Când vor fi reluate negocierile pentru legea salarizării. Ce spune ministrul Florin Manole despre majorarea salariilor demnitarilor",
+        "link": "https://adevarul.ro/politica/cand-vor-fi-reluate-negocierile-pentru-legea-2568004.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Florin Manole, espre majorarea salariilor demnitarilor: Pentru a aduce echitate în sistem, va trebui să avem creşteri peste tot",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/florin-manole-espre-majorarea-salariilor-demnitarilor-pentru-a-aduce-echitate-in-sistem-va-trebui-sa-avem-cresteri-peste-tot-4016793"
+      }
+    ],
+    "published_at": 1793478808,
+    "title_hu": "Florin Manole szerint jövő év elején folytatódhatnak a bértörvény tárgyalásai",
+    "lead_hu": "A közszférabeli bérekre vonatkozó új szabályozás egyeztetései a következő év elején indulhatnak újra, miután összegyűjtötték a szükséges adatokat. Florin Manole munkaügyi miniszter a tisztségviselői fizetések emelését nem tekinti elsődleges feladatnak.",
+    "content_hu": "• **A tárgyalások várható időpontja** a következő év eleje: Florin Manole munkaügyi miniszter szombaton, az Antena 3 műsorában arról beszélt, hogy a bértörvény ügyében akkor folytatódhat az egyeztetés, ha rendelkezésre állnak a közintézmények bérezésére vonatkozó adatok.\n\n• **A hiányzó információk** a költségvetési előirányzatok felett rendelkező intézményektől származó fizetési adatok. A miniszter szerint ezek összegyűjtésére az előző évben és az idei évben sem került sor teljes körűen, ezért a szabályozás előkészítéséhez előbb rendezni kell az adatállományt.\n\n• **A bérrendszer átalakítása** Manole értelmezésében a fizetési táblák felülvizsgálatát és az egyenlőtlenségek mérséklését jelentené. Ez több területen béremelést tehet szükségessé, ugyanakkor kivételt képezhetnek azok a munkakörök, amelyekben a korábbi növelések már túlzott mértékűek voltak.\n\n• **A tisztségviselők fizetésének emelése** nem szerepel a miniszter közvetlen prioritásai között. Közlése szerint előbb a nyugdíjak január 1-jére tervezett emelésével kapcsolatos eredményekre összpontosít, és csak ezt követően lenne indokolt a közjogi méltóságok jövedelméről mérlegelni.\n\n• **A 3000 lejnél magasabb nyugdíjak adóztatása** kapcsán Manole azt mondta, nem folytatott egyeztetést az adó eltörléséről. Indoklásában a kormány költségvetési hiánycéllal kapcsolatos vállalásaira, valamint az Európai Bizottsággal fennálló viszonyra hivatkozott.",
+    "title_ro": "Florin Manole: negocierile pentru legea salarizării ar putea fi reluate la începutul anului viitor",
+    "lead_ro": "Discuțiile privind noua reglementare a salariilor din sectorul public ar putea fi reluate la începutul anului viitor, după strângerea datelor necesare. Ministrul Muncii, Florin Manole, a afirmat că majorarea veniturilor demnitarilor nu este o prioritate imediată.",
+    "content_ro": "• **Reluarea negocierilor** este prevăzută, potrivit ministrului Florin Manole, la începutul anului viitor. El a făcut această declarație sâmbătă, la Antena 3, precizând că discuțiile despre legea salarizării depind de obținerea informațiilor privind veniturile din instituțiile publice.\n\n• **Datele care trebuie centralizate** privesc nivelul salariilor din instituțiile care gestionează credite bugetare. Manole a explicat că informațiile necesare nu au fost colectate complet nici în anul precedent, nici în cel în curs, iar pregătirea noii reglementări presupune completarea acestei baze de date.\n\n• **Revizuirea grilelor de salarizare** ar urmări, în viziunea ministrului, reducerea diferențelor considerate inechitabile. Procesul ar putea aduce creșteri în mai multe segmente ale sistemului, cu excepția posturilor pentru care majorările anterioare au fost deja excesive.\n\n• **Veniturile demnitarilor** nu se află în centrul preocupărilor imediate ale lui Manole. Ministrul a spus că, înaintea unei eventuale decizii privind salariile acestora, se concentrează asupra rezultatelor legate de majorarea pensiilor de la 1 ianuarie.\n\n• **Impozitarea pensiilor care depășesc 3.000 de lei** nu a făcut obiectul unor discuții privind eliminarea taxei, a mai declarat ministrul. El a invocat angajamentele guvernamentale privind ținta de deficit bugetar și relația cu Comisia Europeană."
+  },
+  {
+    "group_id": "group_18a8b8185f",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Roma, dezlănțuită » Patru goluri într-o repriză",
+        "link": "https://www.gsp.ro/international/campionate/as-roma-serie-a-udinese-994454.html"
+      }
+    ],
+    "published_at": 1793478549,
+    "title_hu": "Roma, dezlănțuită » Patru goluri într-o repriză",
+    "lead_hu": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capito…",
+    "content_hu": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capitolinii s-au apropiat la două puncte de liderii Inter și Lazio, care nu și-au disputat încă meciurile din această etapă. Romanii au marcat patru sau mai multe goluri în trei dintre ultimele patru partide. ...",
+    "title_ro": "Roma, dezlănțuită » Patru goluri într-o repriză",
+    "lead_ro": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capito…",
+    "content_ro": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capitolinii s-au apropiat la două puncte de liderii Inter și Lazio, care nu și-au disputat încă meciurile din această etapă. Romanii au marcat patru sau mai multe goluri în trei dintre ultimele patru partide. ..."
+  },
+  {
+    "group_id": "group_89a8c9ab84",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Bianca Iotu și Narcis Bujor, sărut pasional în drum spre club. Concurenta de la Insula Iubirii nu se mai ascunde de camere",
+        "link": "https://www.cancan.ro/bianca-iotu-si-narcis-bujor-sarut-pasional-in-drum-spre-club-concurenta-de-la-insula-iubirii-nu-se-mai-ascunde-de-camere-21539890"
+      }
+    ],
+    "published_at": 1793478537,
+    "title_hu": "Bianca Iotu și Narcis Bujor, sărut pasional în drum spre club. Concurenta de la Insula Iubirii nu se mai ascunde de camere",
+    "lead_hu": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de…",
+    "content_hu": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de la Insula Iubirii nu s-a mai ascuns de camere sau de ceilalți din vilă și s-a sărutat din nou, pasional, […]",
+    "title_ro": "Bianca Iotu și Narcis Bujor, sărut pasional în drum spre club. Concurenta de la Insula Iubirii nu se mai ascunde de camere",
+    "lead_ro": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de…",
+    "content_ro": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de la Insula Iubirii nu s-a mai ascuns de camere sau de ceilalți din vilă și s-a sărutat din nou, pasional, […]"
+  },
+  {
+    "group_id": "group_12106613c3",
+    "fingerprint": "cf45ebca5f56a4a516b0d9d895ba877e",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Secretarul de stat american a discutat cu omologul său rus despre o întâlnire Putin-Trump la următorul summit APEC",
+        "link": "https://agerpres.ro/politic-extern/2026/10/31/secretarul-de-stat-american-a-discutat-cu-omologul-sau-rus-despre-o-intalnire-putin-trump-la-urmator--1608772"
+      },
+      {
+        "source": "G4Media",
+        "title": "Secretarul de stat american Marco Rubio a discutat cu omologul său rus despre o întâlnire Putin-Trump la următorul summit APEC",
+        "link": "https://www.g4media.ro/secretarul-de-stat-american-marco-rubio-a-discutat-cu-omologul-sau-rus-despre-o-intalnire-putin-trump-la-urmatorul-summit-apec.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Donald Trump și Vladimir Putin s-ar putea întâlni. Ce au discutat Marco Rubio și Serghei Lavrov la G20",
+        "link": "https://www.digi24.ro/stiri/externe/donald-trump-si-vladimir-putin-s-ar-putea-intalni-in-china-ce-au-discutat-marco-rubio-si-serghei-lavrov-la-g20-4016755"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Secretarul de stat american a discutat cu omologul său rus despre o întâlnire Putin-Trump în China",
+        "link": "https://hotnews.ro/secretarul-de-stat-american-a-discutat-cu-omologul-sau-rus-despre-o-intalnire-putin-trump-in-china-2391674"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Donald Trump și Vladimir Putin s-ar putea întâlni în China. Ce au discutat miniștrii lor de externe la reuniunea G20",
+        "link": "https://stirileprotv.ro/stiri/international/donald-trump-si-vladimir-putin-s-ar-putea-intalni-in-china-ce-au-discutat-ministrii-lor-de-externe-la-reuniunea-g20.html"
+      }
+    ],
+    "published_at": 1793478267,
+    "title_hu": "Rubio és Lavrov az APEC-en lehetséges Trump–Putyin-egyeztetésről beszélt",
+    "lead_hu": "Marco Rubio amerikai külügyminiszter szerint Szergej Lavrovval röviden felvetették, hogy Donald Trump és Vlagyimir Putyin az novemberi APEC-csúcson találkozhat vagy véleményt cserélhet. Hivatalos kétoldalú tárgyalás nem volt, a vezetői egyeztetést pedig nem jelentették be végleges programként.",
+    "content_hu": "• **Rubio és Lavrov** az atlantai G20-találkozóhoz kapcsolódó sajtótájékoztatón beszélt arról, hogy az amerikai és az orosz elnök az APEC-csúcs idején kapcsolatba léphet egymással. Rubio szombaton ismertette, hogy a lehetőség csak röviden került szóba; ez nem jelenti a találkozó megszervezését vagy jóváhagyását.\n\n• **Az APEC-csúcsot november 18–19-én tartják a kínai Sencsenben.** A felvetés Donald Trump és Vlagyimir Putyin esetleges párbeszédére vonatkozott, de egyik külügyminiszter sem közölt véglegesített elnöki programot.\n\n• **A külügyminiszterek nem folytattak hivatalos kétoldalú tárgyalást.** Rubio rövid szóváltásként jellemezte a kapcsolatfelvételt. Lavrov pénteki sajtótájékoztatóján szintén rövid, ugyanakkor kellemes hangulatú beszélgetésről számolt be; elmondása szerint a kétoldalú kapcsolatok egyes kérdéseit és a nemzetközi szervezetekben való együttműködést érintették.\n\n• **Lavrov G20-részvétele feszültséget okozott a találkozón.** Oroszország a csoport tagja, az orosz külügyminiszter jelenléte azonban vitát váltott ki a résztvevők között. A péntekre tervezett közös csoportkép elmaradt, mert az európai delegációk nem kívántak Lavrov mellett szerepelni.",
+    "title_ro": "Rubio și Lavrov au discutat despre o posibilă întrevedere Trump–Putin la summitul APEC",
+    "lead_ro": "Secretarul de stat american Marco Rubio a declarat că el și ministrul rus Serghei Lavrov au abordat pe scurt posibilitatea unui dialog între Donald Trump și Vladimir Putin la summitul APEC din noiembrie. Cei doi oficiali nu au avut o întrevedere bilaterală formală, iar o întâlnire între președinți nu a fost confirmată ca program stabilit.",
+    "content_ro": "• **Marco Rubio și Serghei Lavrov** au discutat despre posibilul contact dintre președinții american și rus în contextul summitului APEC, în marja reuniunii G20 de la Atlanta. Rubio a relatat sâmbătă că ideea a fost menționată succint, fără ca aceasta să însemne că o întâlnire a fost organizată sau aprobată.\n\n• **Summitul APEC este programat pentru 18 și 19 noiembrie, la Shenzhen, în China.** Posibila discuție îi vizează pe Donald Trump și Vladimir Putin, însă niciunul dintre miniștrii de externe nu a anunțat că întâlnirea liderilor figurează într-un program confirmat.\n\n• **Cei doi miniștri nu au purtat o întrevedere bilaterală oficială.** Rubio a descris schimbul drept unul scurt. La conferința de presă de vineri, Lavrov a spus că discuția a fost plăcută, dar de durată redusă, și că au fost abordate chestiuni ale relației bilaterale, precum și colaborarea în organizații multilaterale.\n\n• **Participarea lui Lavrov la reuniunea G20 a generat tensiuni.** Rusia face parte din grup, dar prezența ministrului rus a provocat nemulțumiri în rândul participanților. Fotografia de grup prevăzută pentru vineri nu a mai fost realizată, după ce reprezentanții europeni au refuzat să apară alături de el."
+  },
+  {
+    "group_id": "group_6992560dbf",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Schimb de replici dure între oficialii UE și Serghei Lavrov la G20. „Ar trebui să-i spună lui Putin că Rusia nu va câștiga războiul”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/schimb-de-replici-dure-intre-oficialii-ue-si-serghei-lavrov-la-g20-ar-trebui-sa-i-spuna-lui-putin-ca-rusia-nu-va-castiga-razboiul-4016783"
+      }
+    ],
+    "published_at": 1793478119,
+    "title_hu": "Schimb de replici dure între oficialii UE și Serghei Lavrov la G20. „Ar trebui să-i spună lui Putin că Rusia nu va câștiga războiul”",
+    "lead_hu": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlant…",
+    "content_hu": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlanta. La rândul său, ministrul britanic Ed Miliband i-a transmis că ar trebui să-i spună lui Vladimir Putin că Rusia nu va câștiga conflictul, anunță Euronews.",
+    "title_ro": "Schimb de replici dure între oficialii UE și Serghei Lavrov la G20. „Ar trebui să-i spună lui Putin că Rusia nu va câștiga războiul”",
+    "lead_ro": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlant…",
+    "content_ro": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlanta. La rândul său, ministrul britanic Ed Miliband i-a transmis că ar trebui să-i spună lui Vladimir Putin că Rusia nu va câștiga conflictul, anunță Euronews."
+  },
+  {
+    "group_id": "group_38127707d3",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Filipe Coelho a avut un mesaj pentru fanii Universității Craiova: „Cred că este momentul potrivit”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/filipe-coelho-fani-universitatea-craiova-fc-botosani-994447.html"
+      }
+    ],
+    "published_at": 1793477734,
+    "title_hu": "Filipe Coelho a avut un mesaj pentru fanii Universității Craiova: „Cred că este momentul potrivit”",
+    "lead_hu": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adver…",
+    "content_hu": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adversarul pe care oltenii îl primesc pe „Ion Oblemenco”, Filipe Coelho a ținut să le mulțumească suporterilor. David Matei a vorbit și el, de asemenea. ...",
+    "title_ro": "Filipe Coelho a avut un mesaj pentru fanii Universității Craiova: „Cred că este momentul potrivit”",
+    "lead_ro": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adver…",
+    "content_ro": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adversarul pe care oltenii îl primesc pe „Ion Oblemenco”, Filipe Coelho a ținut să le mulțumească suporterilor. David Matei a vorbit și el, de asemenea. ..."
+  },
+  {
+    "group_id": "group_8853fabbac",
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Horoscop 2 noiembrie 2026, cu Neti Sandu. O să vină niște bani pentru o zodie",
+        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-2-noiembrie-2026-cu-neti-sandu-o-sa-vina-niste-bani-pentru-o-zodie.html"
+      }
+    ],
+    "published_at": 1793562119,
+    "title_hu": "Horoscop 2 noiembrie 2026, cu Neti Sandu. O să vină niște bani pentru o zodie",
+    "lead_hu": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar.",
+    "content_hu": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar.",
+    "title_ro": "Horoscop 2 noiembrie 2026, cu Neti Sandu. O să vină niște bani pentru o zodie",
+    "lead_ro": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar.",
+    "content_ro": "Horoscop 2 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. Rezolvări azi. Se deblochează niște trasee care țin de parcursul profesional și de cel financiar."
+  },
+  {
+    "group_id": "group_0958829042",
+    "fingerprint": "4c4b0b8b25a5e6faf6d967aa638ec060",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Castelul Bran, transformat într-un tărâm al groazei de Halloween. Mii de turiști au petrecut printre fantome și monștri",
+        "link": "https://stirileprotv.ro/divers/castelul-bran-transformat-intr-un-taram-al-groazei-de-halloween-mii-de-turisti-au-petrecut-printre-fantome-si-monstri.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Cât a ajuns să coste un mic în stațiunea Bran! Prețul care îi ia prin surprindere pe turiști",
+        "link": "https://www.cancan.ro/cat-a-ajuns-sa-coste-un-mic-in-statiunea-bran-pretul-care-ii-ia-prin-surprindere-pe-turisti-21540267"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Peste 5.000 de turiști au petrecut Halloweenul la Castelul Bran. Cât a costat biletul",
+        "link": "https://stirileprotv.ro/divers/peste-5-000-de-turisti-au-petrecut-halloweenul-la-castelul-bran-cat-a-costat-biletul.html"
+      }
+    ],
+    "published_at": 1793555585,
+    "title_hu": "Több mint ötezer vendég fordult meg Halloweenkor a törcsvári kastélyban",
+    "lead_hu": "A Halloween alkalmából több mint ötezer látogatót fogadott a törcsvári kastély, ahol tematikus látványvilággal, színészekkel és esti bulival várták a közönséget. A rendezvény mellett a bran-i ételárak és a helyi gyerekek édességgyűjtő körútja is a hétvége része volt.",
+    "content_hu": "• **A szombati forgalom meghaladta az ötezer főt:** a kastélyban 4000 látogatót regisztráltak, további 1300-an pedig olyan belépési csomagot választottak, amely tárlatvezetést és bulit is tartalmazott. A csomagok ára 700 és 3000 lej között mozgott, a programban DJ-s rendezvény is szerepelt.\n\n• **Húsz helyiséget alakítottak át Halloween-tematikájúvá,** a látogatói útvonalon pedig több mint harminc színész vett részt a műsorban. A kastélyban és udvarán jelmezes vendégek, sötét díszletek és esti programok teremtettek alkalomhoz illő hangulatot.\n\n• **A közönség jelentős része külföldről érkezett.** A szervezők az Egyesült Államokat, az Egyesült Királyságot, Spanyolországot és Németországot nevezték meg a fontosabb küldő országok között; Latin-Amerikából, a Közel-Keletről és Ausztráliából is jöttek turisták. Néhány amerikai vendég már két hónappal korábban megvette a jegyét.\n\n• **A Halloween-napi kastélybelépő 300 lejbe került.** Lucian Popa, a Survivor korábbi szereplője két felnőtt belépését 600 lejért említette; ő családjával érkezett. A bran-i ételstandoknál egy miccs 15 lejbe, a kolbászos szendvicsek 45–50 lejbe kerültek, a feltéttől függően.\n\n• **A környékbeli gyerekek is tartották a Halloween szokását:** jelmezben, szüleik kíséretében jártak házról házra, és édességet gyűjtöttek. Ez a program a kastély esti rendezvényeitől elkülönülten, a helyi lakónegyedekben zajlott.",
+    "title_ro": "Peste cinci mii de vizitatori au ajuns la Castelul Bran de Halloween",
+    "lead_ro": "Castelul Bran a primit peste cinci mii de vizitatori în weekendul de Halloween, într-un program cu decoruri tematice, actori și petreceri de seară. În stațiunea Bran, turiștii au remarcat și costurile mâncării, iar copiii din zonă au mers costumați după dulciuri.",
+    "content_ro": "• **Sâmbătă, numărul vizitatorilor a depășit cinci mii:** 4.000 de persoane au intrat la castel, iar alte 1.300 au cumpărat o ofertă care includea tur ghidat și petrecere. Pachetele au costat între 700 și 3.000 de lei, iar programul de seară a cuprins și un eveniment cu DJ.\n\n• **Douăzeci de încăperi au primit o amenajare specifică Halloweenului,** iar pe traseul de vizitare au participat peste 30 de actori. Decorurile întunecate, costumele oaspeților și activitățile de seară au completat programul pregătit la castel.\n\n• **O mare parte dintre vizitatori au venit din afara României.** Organizatorii au indicat Statele Unite, Marea Britanie, Spania și Germania printre principalele țări de proveniență; au sosit turiști și din America Latină, Orientul Mijlociu și Australia. Unii călători americani își cumpăraseră biletele cu două luni înainte.\n\n• **Intrarea la castel în ziua de Halloween a costat 300 de lei.** Lucian Popa, fost participant la Survivor, a menționat online un cost de 600 de lei pentru două persoane; el a venit împreună cu familia. La standurile din Bran, un mic a costat 15 lei, iar sandvișurile cu cârnați au fost 45 sau 50 de lei, în funcție de ingredientele alese.\n\n• **Și copiii din localitate au participat la obiceiurile de Halloween:** costumați și însoțiți de părinți, au trecut pe la casele din vecinătate pentru a primi dulciuri. Activitatea a avut loc în comunitate, separat de petrecerile organizate la castel."
+  },
+  {
+    "group_id": "group_54694c5969",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Accident grav în județul Prahova. Un șofer de 74 de ani a pierdut controlul volanului și a ajuns într-un stâlp de electricitate",
+        "link": "https://stirileprotv.ro/stiri/actualitate/accident-grav-in-judetul-prahova-un-sofer-de-74-de-ani-a-pierdut-controlul-volanului-si-a-ajuns-intr-un-stalp-de-electricitate.html"
+      }
+    ],
+    "published_at": 1793524502,
+    "title_hu": "Accident grav în județul Prahova. Un șofer de 74 de ani a pierdut controlul volanului și a ajuns într-un stâlp de electricitate",
+    "lead_hu": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova.",
+    "content_hu": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova.",
+    "title_ro": "Accident grav în județul Prahova. Un șofer de 74 de ani a pierdut controlul volanului și a ajuns într-un stâlp de electricitate",
+    "lead_ro": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova.",
+    "content_ro": "Un accident rutier s-a produs duminică, 1 noiembrie 2026, pe Drumul Național 1, în afara localității Băicoi, județul Prahova."
+  },
+  {
+    "group_id": "group_7c3e209908",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Misterul Sfintei Agnes, inteligența artificială și furtul de opere de artă: cum a găsit poliția italiană un tablou furat acum 20 de ani",
+        "link": "https://www.digi24.ro/magazin/timp-liber/cultura/misterul-sfintei-agnes-cum-a-gasit-politia-italiana-ajutata-de-inteligenta-artificiala-un-tablou-furat-in-urma-cu-20-de-ani-4012695"
+      }
+    ],
+    "published_at": 1793509250,
+    "title_hu": "Misterul Sfintei Agnes, inteligența artificială și furtul de opere de artă: cum a găsit poliția italiană un tablou furat acum 20 de ani",
+    "lead_hu": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai b…",
+    "content_hu": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai bine ascunse opere de artă, scrie BBC care prezintă cazul unui tablou furat în urmă cu două deceni și găsit apoi întâmplător într-un târg de antichități din Parma.",
+    "title_ro": "Misterul Sfintei Agnes, inteligența artificială și furtul de opere de artă: cum a găsit poliția italiană un tablou furat acum 20 de ani",
+    "lead_ro": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai b…",
+    "content_ro": "Furtul de opere de artă este o problemă globală, iar forțele de poliție se străduiesc să țină pasul cu aceasta. Acum apelează la programe de inteligență artificială care depistează chiar și cele mai bine ascunse opere de artă, scrie BBC care prezintă cazul unui tablou furat în urmă cu două deceni și găsit apoi întâmplător într-un târg de antichități din Parma."
+  },
+  {
+    "group_id": "group_281e2968b6",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Utilizatorii serviciilor de inteligență artificială consideră că pe ei îi face mai deștepți, iar pe ceilalți mai proști (studiu)",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/utilizatorii-serviciilor-de-inteligenta-artificiala-considera-ca-ii-face-mai-destepti-iar-pe-ceilalti-mai-prosti-sondaj-4014053"
+      }
+    ],
+    "published_at": 1793509247,
+    "title_hu": "Utilizatorii serviciilor de inteligență artificială consideră că pe ei îi face mai deștepți, iar pe ceilalți mai proști (studiu)",
+    "lead_hu": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „flu…",
+    "content_hu": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „fluenți” din punct de vedere mintal, arată un studiu citat de The Times.",
+    "title_ro": "Utilizatorii serviciilor de inteligență artificială consideră că pe ei îi face mai deștepți, iar pe ceilalți mai proști (studiu)",
+    "lead_ro": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „flu…",
+    "content_ro": "Utilizatorii chatboților de inteligență artificială sunt mai obiectivi atunci când evaluează modul în care tehnologia îi afectează pe ceilalți, în timp ce cred că aceasta îi face pe ei înșiși mai „fluenți” din punct de vedere mintal, arată un studiu citat de The Times."
+  },
+  {
+    "group_id": "group_5486312d95",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Când pot primi proprietarii de locuințe despăgubiri de până la 100.000 de lei. Obligația prevăzută de lege",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/cand-pot-primi-proprietarii-de-locuinte-despagubiri-de-pana-la-100-000-de-lei-obligatia-prevazuta-de-lege-4015477"
+      }
+    ],
+    "published_at": 1793509247,
+    "title_hu": "Când pot primi proprietarii de locuințe despăgubiri de până la 100.000 de lei. Obligația prevăzută de lege",
+    "lead_hu": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței …",
+    "content_hu": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței și suma asigurată diferă în funcție de tipul construcției, iar valoarea despăgubirilor depinde de prejudiciul constatat.",
+    "title_ro": "Când pot primi proprietarii de locuințe despăgubiri de până la 100.000 de lei. Obligația prevăzută de lege",
+    "lead_ro": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței …",
+    "content_ro": "Asigurarea obligatorie a locuinței (PAD) oferă proprietarilor protecție financiară pentru pagubele provocate de cutremure, alunecări de teren și inundații produse ca fenomene naturale. Costul poliței și suma asigurată diferă în funcție de tipul construcției, iar valoarea despăgubirilor depinde de prejudiciul constatat."
+  },
+  {
+    "group_id": "group_02e93f9072",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Poți monta aerul condiționat pe fațada blocului? Când ai nevoie de acorduri și ce obligații ai față de vecini",
+        "link": "https://www.digi24.ro/magazin/stil-de-viata/casa-si-gradina/poti-monta-aerul-conditionat-pe-fatada-blocului-cand-ai-nevoie-de-acorduri-si-ce-obligatii-ai-fata-de-vecini-4015113"
+      }
+    ],
+    "published_at": 1793509230,
+    "title_hu": "Poți monta aerul condiționat pe fațada blocului? Când ai nevoie de acorduri și ce obligații ai față de vecini",
+    "lead_hu": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea …",
+    "content_hu": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea este scutită de autorizație de construire.",
+    "title_ro": "Poți monta aerul condiționat pe fațada blocului? Când ai nevoie de acorduri și ce obligații ai față de vecini",
+    "lead_ro": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea …",
+    "content_ro": "Un aparat de aer condiționat poate fi montat pe fațada blocului, cu respectarea regimului clădirii, a regulilor privind proprietatea comună și a drepturilor vecinilor. În anumite condiții, instalarea este scutită de autorizație de construire."
+  },
+  {
     "group_id": "group_fc610d6888",
     "category": "Általános",
     "is_synthesized": false,
@@ -12070,48 +12821,6 @@
     "title_ro": "Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni",
     "lead_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.",
     "content_ro": "Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții."
-  },
-  {
-    "group_id": "group_bee6e8c121",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "1 noiembrie - Ziua radioului național",
-        "link": "https://agerpres.ro/documentare/2026/11/01/1-noiembrie---ziua-radioului-national--1608736"
-      }
-    ],
-    "published_at": 1793491200,
-    "title_hu": "1 noiembrie - Ziua radioului național",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "1 noiembrie - Ziua radioului național",
-    "lead_ro": "",
-    "content_ro": ""
-  },
-  {
-    "group_id": "group_fcaf08e676",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "1 noiembrie - Ziua internațională a sindromului Lennox-Gastaut",
-        "link": "https://agerpres.ro/documentare/2026/11/01/1-noiembrie---ziua-internationala-a-sindromului-lennox-gastaut--1608738"
-      }
-    ],
-    "published_at": 1793491200,
-    "title_hu": "1 noiembrie - Ziua internațională a sindromului Lennox-Gastaut",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "1 noiembrie - Ziua internațională a sindromului Lennox-Gastaut",
-    "lead_ro": "",
-    "content_ro": ""
   },
   {
     "group_id": "group_102531184e",
@@ -12791,429 +13500,25 @@
     "content_ro": ""
   },
   {
-    "group_id": "group_5062941da1",
+    "group_id": "group_285abe4dcc",
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
     "sources_count": 1,
     "sources": [
-      {
-        "source": "Adevărul",
-        "title": "„Supat”, „lasă-mă-să-te-las” și „dramaturgă”. Ce noutăți și capcane aduce noul DOOM",
-        "link": "https://adevarul.ro/stiri-interne/societate/supat-lasa-ma-sa-te-las-si-dramaturga-ce-2567842.html"
-      }
-    ],
-    "published_at": 1793490325,
-    "title_hu": "„Supat”, „lasă-mă-să-te-las” și „dramaturgă”. Ce noutăți și capcane aduce noul DOOM",
-    "lead_hu": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în D…",
-    "content_hu": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în DOOM3.",
-    "title_ro": "„Supat”, „lasă-mă-să-te-las” și „dramaturgă”. Ce noutăți și capcane aduce noul DOOM",
-    "lead_ro": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în D…",
-    "content_ro": "Cum se scrie corect „lasă-mă-să-te-las”? Este „supat” un cuvânt adevărat? Și de ce apare în dicționar „dramaturgă”, alături de „dramaturg”? Sunt câteva dintre întrebările la care găsim răspunsuri în DOOM3."
-  },
-  {
-    "group_id": "group_ae56b06990",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
-        "link": "https://adevarul.ro/stiri-locale/resita/lacul-trei-ape-golit-controlat-pentru-lucrari-2567217.html"
-      }
-    ],
-    "published_at": 1793488285,
-    "title_hu": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
-    "lead_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
-    "content_hu": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită.",
-    "title_ro": "Lacul Trei Ape, golit controlat pentru lucrări hidrotehnice. Noua înfățișare a stârnit controverse: „Câți ani va dura reumplerea lui?”",
-    "lead_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descop…",
-    "content_ro": "Lacul Trei Ape din Munții Semenic a fost golit controlat până la cota minimă în această toamnă, pentru lucrări de reabilitare a echipamentelor hidromecanice ale barajului. Cei care îl vizitează descoperă o priveliște neobișnuită."
-  },
-  {
-    "group_id": "group_1c794b5544",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Leneveala chivulistă, în noaptea de Ognissanti",
-        "link": "https://www.gsp.ro/opinii/opinie-george-nistor-leneveala-chivulista-in-ac-milan-inter-994516.html"
-      }
-    ],
-    "published_at": 1793487640,
-    "title_hu": "Leneveala chivulistă, în noaptea de Ognissanti",
-    "lead_hu": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și s…",
-    "content_hu": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și să-și piardă mințile. Din Udine, de unde Roma și-a luat punctele, și până în Capitală, unde Gattusso ascute atacuri pentru Cagliari, este un ritual al întoarcerii. Și la Milano e la fel. Uneori chiar în fiecare zi. ...",
-    "title_ro": "Leneveala chivulistă, în noaptea de Ognissanti",
-    "lead_ro": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și s…",
-    "content_ro": "În folclorul italian, în noaptea de Ognissanti, morții se întorc acasă. Rudele pregătesc masa și aprind lumini, dar nu răscolesc fotografiile vechi, de teamă să nu se întoarcă prea mult în trecut și să-și piardă mințile. Din Udine, de unde Roma și-a luat punctele, și până în Capitală, unde Gattusso ascute atacuri pentru Cagliari, este un ritual al întoarcerii. Și la Milano e la fel. Uneori chiar în fiecare zi. ..."
-  },
-  {
-    "group_id": "group_3e1149b19b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Cât te costă să nu știi să spui „nu”. Nota de plată a obligațiilor sociale",
-        "link": "https://adevarul.ro/stiri-interne/societate/cat-te-costa-sa-nu-stii-sa-spui-nu-nota-de-2566897.html"
-      }
-    ],
-    "published_at": 1793487445,
-    "title_hu": "Cât te costă să nu știi să spui „nu”. Nota de plată a obligațiilor sociale",
-    "lead_hu": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de …",
-    "content_hu": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de a-i dezamăgi pe ceilalți.",
-    "title_ro": "Cât te costă să nu știi să spui „nu”. Nota de plată a obligațiilor sociale",
-    "lead_ro": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de …",
-    "content_ro": "Nunți, botezuri, aniversări, ieșiri cu prietenii și vacanțe de grup. Presiunea de a participa la evenimente poate afecta serios bugetul personal, mai ales atunci când refuzul este asociat cu teama de a-i dezamăgi pe ceilalți."
-  },
-  {
-    "group_id": "group_4c8c10537d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Penicilina italiană. Rețeta de supă cu pui și legume, ideală pentru sezonul rece",
-        "link": "https://adevarul.ro/stil-de-viata/bucatarie/penicilina-italiana-reteta-de-supa-cu-pui-si-2566893.html"
-      }
-    ],
-    "published_at": 1793486066,
-    "title_hu": "Penicilina italiană. Rețeta de supă cu pui și legume, ideală pentru sezonul rece",
-    "lead_hu": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hid…",
-    "content_hu": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hidratare și oferă proteine, vitamine și minerale.",
-    "title_ro": "Penicilina italiană. Rețeta de supă cu pui și legume, ideală pentru sezonul rece",
-    "lead_ro": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hid…",
-    "content_ro": "Penicilina italiană, supa cu pui, legume și paste mici, este un preparat reconfortant, potrivit pentru sezonul rece. Bogată în ingrediente hrănitoare și ușor de adaptat, aceasta poate contribui la hidratare și oferă proteine, vitamine și minerale."
-  },
-  {
-    "group_id": "group_fdd21d6a30",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Chivu, ce ai făcut?” » Italienii l-au făcut praf pe român, după Milan - Inter: „Fără identitate!” + A plouat cu note mici",
-        "link": "https://www.gsp.ro/international/campionate/cristi-chivu-ac-milan-inter-serie-a-994491.html"
-      }
-    ],
-    "published_at": 1793484719,
-    "title_hu": "„Chivu, ce ai făcut?” » Italienii l-au făcut praf pe român, după Milan - Inter: „Fără identitate!” + A plouat cu note mici",
-    "lead_hu": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echi…",
-    "content_hu": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echipa antrenorului român. Echipa lui Chivu nu a reușit să recupereze din handicapul cu care a plecat încă din primele 10 minute. AC Milan avea 2-0 în minutul 10, după golurile semnate de Pulisic și Rabiot. ...",
-    "title_ro": "„Chivu, ce ai făcut?” » Italienii l-au făcut praf pe român, după Milan - Inter: „Fără identitate!” + A plouat cu note mici",
-    "lead_ro": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echi…",
-    "content_ro": "Inter Milano, echipa pregătită de Cristi Chivu, a fost învinsă de marea rivală AC Milan, scor 1-3, în runda cu numărul 10 din Serie A, iar jurnaliștii italieni au evaluat modul în care s-a mișcat echipa antrenorului român. Echipa lui Chivu nu a reușit să recupereze din handicapul cu care a plecat încă din primele 10 minute. AC Milan avea 2-0 în minutul 10, după golurile semnate de Pulisic și Rabiot. ..."
-  },
-  {
-    "group_id": "group_129799623c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "1 noiembrie: 37 de ani de la tragica noapte în care Mihaela Runceanu a fost ucisă în propria casă. Premoniția sumbră a artistei",
-        "link": "https://adevarul.ro/istoria-zilei/1-noiembrie-37-de-ani-de-la-tragica-noapte-in-2567444.html"
-      }
-    ],
-    "published_at": 1793484085,
-    "title_hu": "1 noiembrie: 37 de ani de la tragica noapte în care Mihaela Runceanu a fost ucisă în propria casă. Premoniția sumbră a artistei",
-    "lead_hu": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la f…",
-    "content_hu": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la frescele Capelei Sixtine și apariția Uniunii Europene, iată câteva dintre reperele acestei date.",
-    "title_ro": "1 noiembrie: 37 de ani de la tragica noapte în care Mihaela Runceanu a fost ucisă în propria casă. Premoniția sumbră a artistei",
-    "lead_ro": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la f…",
-    "content_ro": "Istoria zilei de 1 noiembrie reunește momente importante pentru România și evenimente cu ecou mondial. De la intrarea lui Mihai Viteazul în Gyulafehérvár și prima emisiune a radioului public până la frescele Capelei Sixtine și apariția Uniunii Europene, iată câteva dintre reperele acestei date."
-  },
-  {
-    "group_id": "group_dfba5ac622",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Votează AICI „Jucătorul lunii” și „Antrenorul lunii”! » Iată nominalizații pentru octombrie 2026!",
-        "link": "https://www.gsp.ro/gsp-special/ideile-gazetei/jucatorul-si-antrenorul-lunii-octombrie-2026-vot-994497.html"
-      }
-    ],
-    "published_at": 1793484007,
-    "title_hu": "Votează AICI „Jucătorul lunii” și „Antrenorul lunii”! » Iată nominalizații pentru octombrie 2026!",
-    "lead_hu": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost să…",
-    "content_hu": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost săptămâni intense, cu decizii inspirate de pe margine, goluri spectaculoase, rezultate surprinzătoare și jucători care au făcut diferența atunci când echipele lor au avut cea mai mare nevoie. ...",
-    "title_ro": "Votează AICI „Jucătorul lunii” și „Antrenorul lunii”! » Iată nominalizații pentru octombrie 2026!",
-    "lead_ro": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost să…",
-    "content_ro": "Octombrie a fost o lună de foc pentru fotbalul românesc! Meciuri pe bandă rulantă în Superliga, dueluri spectaculoase în Cupa României și confruntări europene în grupa de Conference League. Au fost săptămâni intense, cu decizii inspirate de pe margine, goluri spectaculoase, rezultate surprinzătoare și jucători care au făcut diferența atunci când echipele lor au avut cea mai mare nevoie. ..."
-  },
-  {
-    "group_id": "group_64814104e0",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "7-0! Ce s-a întâmplat cu Dennis Man, în ziua în care a fost lăudat de Adrian Ilie",
-        "link": "https://www.gsp.ro/international/campionate/dennis-man-rezerva-psv-willem-ii-olanda-994492.html"
-      }
-    ],
-    "published_at": 1793483775,
-    "title_hu": "7-0! Ce s-a întâmplat cu Dennis Man, în ziua în care a fost lăudat de Adrian Ilie",
-    "lead_hu": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproap…",
-    "content_hu": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproape două luni în care Peter Bosz nu s-a bazat deloc pe el. Românul a primit minute în 3 partide consecutive înaintea jocului de astăzi, dar nu a apărut pe teren și contra lui Willem II. ...",
-    "title_ro": "7-0! Ce s-a întâmplat cu Dennis Man, în ziua în care a fost lăudat de Adrian Ilie",
-    "lead_ro": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproap…",
-    "content_ro": "Dennis Man (28 de ani) nu a fost utilizat astăzi, în răsunătoarea victorie obținută de PSV în fața lui Willem II, scor 7-0. În această lună, Dennis Man a fost reintegrat în rotația echipei după aproape două luni în care Peter Bosz nu s-a bazat deloc pe el. Românul a primit minute în 3 partide consecutive înaintea jocului de astăzi, dar nu a apărut pe teren și contra lui Willem II. ..."
-  },
-  {
-    "group_id": "group_573a47afba",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "eu as pune ceva in genul: Prințul Marco a ieșit la date cu Gabriella, dar s-a gândit numai la Bianca. Declarația care spune totul: „Până la sfârșit”",
-        "link": "https://www.cancan.ro/eu-as-pune-ceva-in-genul-printul-marco-a-iesit-la-date-cu-gabriella-dar-s-a-gandit-numai-la-bianca-declaratia-care-spune-totul-pana-la-sfarsit-21539899"
-      }
-    ],
-    "published_at": 1793483740,
-    "title_hu": "eu as pune ceva in genul: Prințul Marco a ieșit la date cu Gabriella, dar s-a gândit numai la Bianca. Declarația care spune totul: „Până la sfârșit”",
-    "lead_hu": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de d…",
-    "content_hu": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de dragoste chiar în fața ispitei. Aflați la un templu budist, Marco și Gabriella și-au pus câte o dorință. […]",
-    "title_ro": "eu as pune ceva in genul: Prințul Marco a ieșit la date cu Gabriella, dar s-a gândit numai la Bianca. Declarația care spune totul: „Până la sfârșit”",
-    "lead_ro": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de d…",
-    "content_ro": "Prințul Marco a ieșit la un nou date cu ispita Gabriella. Acesta pare că își duce testul la capăt. Totuși, el nu uită să se gândească la soția sa, Bianca Ghiurcă. Concurentul a făcut o declarație de dragoste chiar în fața ispitei. Aflați la un templu budist, Marco și Gabriella și-au pus câte o dorință. […]"
-  },
-  {
-    "group_id": "group_953043f153",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Hanca și Zima s-au pus de acord după 1-1 cu CFR: „Clar peste ei”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/petrolul-cfr-cluj-sergiu-hanca-lukas-zima-994487.html"
-      }
-    ],
-    "published_at": 1793482885,
-    "title_hu": "Hanca și Zima s-au pus de acord după 1-1 cu CFR: „Clar peste ei”",
-    "lead_hu": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la…",
-    "content_hu": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la jocul prestat. Petrolul a avut mai mult mingea, în 71% din timp, și mai multe ocazii astăzi, 26 față de 12 în dreptul CFR-ului, dar nu a reușit să obțină ceea ce ar fi fost prima victorie acasă în această lună. ...",
-    "title_ro": "Hanca și Zima s-au pus de acord după 1-1 cu CFR: „Clar peste ei”",
-    "lead_ro": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la…",
-    "content_ro": "Sergiu Hanca (34 de ani) și Lukas Zima (32), doi dintre oamenii importanți ai Petrolului, au comentat similar remiza cu CFR Kolozsvár, 1-1. Ei consideră că ar fi meritat să câștige astăzi, raportat la jocul prestat. Petrolul a avut mai mult mingea, în 71% din timp, și mai multe ocazii astăzi, 26 față de 12 în dreptul CFR-ului, dar nu a reușit să obțină ceea ce ar fi fost prima victorie acasă în această lună. ..."
-  },
-  {
-    "group_id": "group_ecb05a6496",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "El este tânărul care a murit după ce a fost prins sub un mal de pământ în Călărași! Denis avea doar 25 de ani",
-        "link": "https://www.cancan.ro/el-este-tanarul-care-a-murit-dupa-ce-a-fost-prins-sub-un-mal-de-pamant-in-calarasi-denis-avea-doar-25-de-ani-21539916"
-      }
-    ],
-    "published_at": 1793482653,
-    "title_hu": "El este tânărul care a murit după ce a fost prins sub un mal de pământ în Călărași! Denis avea doar 25 de ani",
-    "lead_hu": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, …",
-    "content_hu": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, însă misiunea a fost dificilă din cauza pericolului unei noi prăbușiri. În cele din urmă, tânărul a fost găsit […]",
-    "title_ro": "El este tânărul care a murit după ce a fost prins sub un mal de pământ în Călărași! Denis avea doar 25 de ani",
-    "lead_ro": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, …",
-    "content_ro": "Sfârșit tragic pentru un tânăr de doar 25 de ani. Acesta a murit după ce a fost surprins de prăbușirea unui mal de pământ în cartierul Obor din Călărași. Echipele de salvare au intervenit de urgență, însă misiunea a fost dificilă din cauza pericolului unei noi prăbușiri. În cele din urmă, tânărul a fost găsit […]"
-  },
-  {
-    "group_id": "group_a5eb60f315",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Vladislav Blănuță a făcut show în Polonia",
-        "link": "https://www.gsp.ro/international/campionate/vladislav-blanuta-dubla-lechia-gdansk-skierniewice-994485.html"
-      }
-    ],
-    "published_at": 1793482323,
-    "title_hu": "Vladislav Blănuță a făcut show în Polonia",
-    "lead_hu": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev,…",
-    "content_hu": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev, perioadă care a fost un adevărat coșmar, Vladislav Blănuță pare că se regăsește în al doilea eșalon polonez la echipa care este pe primul loc și atacă promovarea. ...",
-    "title_ro": "Vladislav Blănuță a făcut show în Polonia",
-    "lead_ro": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev,…",
-    "content_ro": "Vladislav Blănuță, atacantul român al celor de la Lechia Gdansk, a marcat prima „dublă” pentru echipa sa în victoria împotriva celor de la Unia Skierniewice, scor 3-2. După plecarea de la Dinamo Kiev, perioadă care a fost un adevărat coșmar, Vladislav Blănuță pare că se regăsește în al doilea eșalon polonez la echipa care este pe primul loc și atacă promovarea. ..."
-  },
-  {
-    "group_id": "group_2219866ffc",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Pune presiune pe Floyd Mayweather: „Tu ai cerut să luptăm, e ultimul avertisment!”",
-        "link": "https://www.gsp.ro/sporturi/box/floyd-mayweather-ryan-garcia-box-994477.html"
-      }
-    ],
-    "published_at": 1793481680,
-    "title_hu": "Pune presiune pe Floyd Mayweather: „Tu ai cerut să luptăm, e ultimul avertisment!”",
-    "lead_hu": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta c…",
-    "content_hu": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta către un alt adversar dacă veteranul neînvins nu va semna la timp contractul pentru confruntare. ...",
-    "title_ro": "Pune presiune pe Floyd Mayweather: „Tu ai cerut să luptăm, e ultimul avertisment!”",
-    "lead_ro": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta c…",
-    "content_ro": "Ryan Garcia i-a lansat o provocare lui Floyd Mayweather Jr. privind organizarea unui meci pentru titlul World Boxing Council (WBC) la categoria semimijlocie. Campionul a subliniat că se va reorienta către un alt adversar dacă veteranul neînvins nu va semna la timp contractul pentru confruntare. ..."
-  },
-  {
-    "group_id": "group_0dfdc77123",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "„Iranul nu va deveni niciodată Coreea de Nord”. Mesajul tinerilor din Generația Z, în ciuda represiunii regimului",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/iranul-nu-va-deveni-niciodata-coreea-de-nord-mesajul-tinerilor-din-generatia-z-in-ciuda-represiunii-regimului-4016805"
-      }
-    ],
-    "published_at": 1793481250,
-    "title_hu": "„Iranul nu va deveni niciodată Coreea de Nord”. Mesajul tinerilor din Generația Z, în ciuda represiunii regimului",
-    "lead_hu": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta …",
-    "content_hu": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta izolarea și controlul total al regimului, chiar dacă drumul către libertate ar putea fi lung și costisitor.",
-    "title_ro": "„Iranul nu va deveni niciodată Coreea de Nord”. Mesajul tinerilor din Generația Z, în ciuda represiunii regimului",
-    "lead_ro": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta …",
-    "content_ro": "Represiunea, execuțiile și restricțiile nu au stins dorința de schimbare a tinerilor iranieni. Șapte reprezentanți ai Generației Z au declarat pentru „Independent Persian” că societatea nu va accepta izolarea și controlul total al regimului, chiar dacă drumul către libertate ar putea fi lung și costisitor."
-  },
-  {
-    "group_id": "group_1639c898dd",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "UPDATE Franța, zguduită de un nou val de proteste / Peste 500 de persoane reținute, magazine jefuite și un polițist incendiat cu un cocktail Molotov / Apel la noi acţiuni marţea şi joia viitoare",
-        "link": "https://www.g4media.ro/proteste-fara-incidente-in-franta-apel-la-noi-actiuni-martea-si-joia-viitoare.html"
-      },
       {
         "source": "Agerpres (HU)",
-        "title": "Proteste în Franța: Aproape 800 de arestări sâmbătă, 'niciun incident major' în cursul serii",
-        "link": "https://agerpres.ro/social-extern/2026/11/01/proteste-in-franta-aproape-800-de-arestari-sambata-niciun-incident-major-in-cursul-serii--1608855"
+        "title": "Israel: Rezultatul alegerilor nu e pus sub semnul întrebării de suspiciunile de fraudă, susține președintele comisiei electorale",
+        "link": "https://agerpres.ro/politic-extern/2026/11/01/israel-rezultatul-alegerilor-nu-e-pus-sub-semnul-intrebarii-de-suspiciunile-de-frauda-sustine-presed--1608894"
       }
     ],
-    "published_at": 1793480568,
-    "title_hu": "UPDATE Franța, zguduită de un nou val de proteste / Peste 500 de persoane reținute, magazine jefuite și un polițist incendiat cu un cocktail Molotov / Apel la noi acţiuni marţea şi joia viitoare",
-    "lead_hu": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţă…",
-    "content_hu": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţării, a anunţat sâmbătă Ministerul francez de Interne citat de agenția de știri AFP, informație preluată de Agerpres. UPDATE Ota 11.01 Franța a […] © G4Media.ro.",
-    "title_ro": "UPDATE Franța, zguduită de un nou val de proteste / Peste 500 de persoane reținute, magazine jefuite și un polițist incendiat cu un cocktail Molotov / Apel la noi acţiuni marţea şi joia viitoare",
-    "lead_ro": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţă…",
-    "content_ro": "„Actul 3” al tulburărilor sociale din Franţa a mobilizat 15.000 de protestatari în cadrul a 65 de acţiuni distincte, până la ora 13:00 GMT, situaţia rămânând „în general calmă” pe întreg teritoriul ţării, a anunţat sâmbătă Ministerul francez de Interne citat de agenția de știri AFP, informație preluată de Agerpres. UPDATE Ota 11.01 Franța a […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_1703c5b777",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Alegerile din Israel au produs un parlament fără majoritate, iar opțiunile în vederea formării unui guvern sunt limitate",
-        "link": "https://www.g4media.ro/alegerile-din-israel-au-produs-un-parlament-fara-majoritate-iar-optiunile-in-vederea-formarii-unui-guvern-sunt-limitate.html"
-      }
-    ],
-    "published_at": 1793480489,
-    "title_hu": "Alegerile din Israel au produs un parlament fără majoritate, iar opțiunile în vederea formării unui guvern sunt limitate",
-    "lead_hu": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin N…",
-    "content_hu": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin Netanyahu, care a rămas cu 53 de deputați din 120, formată din opoziția sionistă, cu 48 de deputați, și cele două liste ale arabilor israelieni cu un număr record […] © G4Media.ro.",
-    "title_ro": "Alegerile din Israel au produs un parlament fără majoritate, iar opțiunile în vederea formării unui guvern sunt limitate",
-    "lead_ro": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin N…",
-    "content_ro": "Scrutinul parlamentar de marți a avut ca rezultat un Knesset în care există o majoritate declarată împotriva actualului guvern de dreapta/extrema dreaptă/ultra-ortodocși condus de premierul Benjamin Netanyahu, care a rămas cu 53 de deputați din 120, formată din opoziția sionistă, cu 48 de deputați, și cele două liste ale arabilor israelieni cu un număr record […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_bea121924c",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Oana Lis, apariție neașteptată de Halloween: „Am ieșit cu Vio în oraș”",
-        "link": "https://www.cancan.ro/oana-lis-aparitie-neasteptata-de-halloween-am-iesit-cu-vio-in-oras-21539891"
-      }
-    ],
-    "published_at": 1793480439,
-    "title_hu": "Oana Lis, apariție neașteptată de Halloween: „Am ieșit cu Vio în oraș”",
-    "lead_hu": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de…",
-    "content_hu": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de Halloween și a reușit să își amuze copios urmăritorii din mediul online. Blondina a marcat sărbătoarea într-un mod inedit, iar alegerea sa a avut […]",
-    "title_ro": "Oana Lis, apariție neașteptată de Halloween: „Am ieșit cu Vio în oraș”",
-    "lead_ro": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de…",
-    "content_ro": "Halloweenul este ocazia perfectă pentru costume înfricoșătoare, apariții spectaculoase și, de ce nu, câteva glume și ironii subtile. Mereu dornică de petreceri, Oana Lis a intrat și ea în atmosfera de Halloween și a reușit să își amuze copios urmăritorii din mediul online. Blondina a marcat sărbătoarea într-un mod inedit, iar alegerea sa a avut […]"
-  },
-  {
-    "group_id": "group_cd53438f6c",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Au jefuit fotbalistul în timpul El Clasico! Pagubă de 350.000 de euro",
-        "link": "https://www.gsp.ro/international/campionate/real-madrid-eder-militao-jefuit-994480.html"
-      }
-    ],
-    "published_at": 1793480165,
-    "title_hu": "Au jefuit fotbalistul în timpul El Clasico! Pagubă de 350.000 de euro",
-    "lead_hu": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central …",
-    "content_hu": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central Eder Militao a reintrat în circuit în această lună. Duminica trecută, brazilianul a fost rezervă neutilizată la meciul dintre Barcelona și Real Madrid. ...",
-    "title_ro": "Au jefuit fotbalistul în timpul El Clasico! Pagubă de 350.000 de euro",
-    "lead_ro": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central …",
-    "content_ro": "Eder Militao (28 de ani), rezervă în Barcelona - Real Madrid 1-2, a fost jefuit în timpul clasicului Spaniei. Departe de teren vreme de jumătate de an din cauza problemelor medicale, fundașul central Eder Militao a reintrat în circuit în această lună. Duminica trecută, brazilianul a fost rezervă neutilizată la meciul dintre Barcelona și Real Madrid. ..."
-  },
-  {
-    "group_id": "group_e739729810",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Rivalii LeBron James și Steph Curry fac spectacol în NBA și se încăpățânează să lupte cu noua generație",
-        "link": "https://www.gsp.ro/sporturi/baschet/rivalii-lebron-james-si-steph-curry-spectacol-nba-994482.html"
-      }
-    ],
-    "published_at": 1793479892,
-    "title_hu": "Rivalii LeBron James și Steph Curry fac spectacol în NBA și se încăpățânează să lupte cu noua generație",
-    "lead_hu": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet ș…",
-    "content_hu": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet și contribuie cu brio la succesul echipelor la care joacă. ...",
-    "title_ro": "Rivalii LeBron James și Steph Curry fac spectacol în NBA și se încăpățânează să lupte cu noua generație",
-    "lead_ro": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet ș…",
-    "content_ro": "LeBron James (41 de ani) și Steph Curry (38 de ani), baschetbaliști a căror rivalitate a reprezentat farmecul deceniului precedent în NBA, continuă să fie relevanți în liga nord-americană de baschet și contribuie cu brio la succesul echipelor la care joacă. ..."
+    "published_at": 1793491200,
+    "title_hu": "Israel: Rezultatul alegerilor nu e pus sub semnul întrebării de suspiciunile de fraudă, susține președintele comisiei electorale",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Israel: Rezultatul alegerilor nu e pus sub semnul întrebării de suspiciunile de fraudă, susține președintele comisiei electorale",
+    "lead_ro": "",
+    "content_ro": ""
   },
   {
     "group_id": "group_4f24beff84",
@@ -13235,244 +13540,5 @@
     "title_ro": "Gattuso: „Eu trăiesc din emoții, altfel aș fi ieșit să plimb câinele”",
     "lead_ro": "Gennaro Gattuso, antrenorul celor de la Lazio, revelația din acest sezon de Serie A, a vorbit la o conferință de presă despre meciul cu Cagliari, dar și despre momentul de dezamăgire trăit ca selecțio…",
     "content_ro": "Gennaro Gattuso, antrenorul celor de la Lazio, revelația din acest sezon de Serie A, a vorbit la o conferință de presă despre meciul cu Cagliari, dar și despre momentul de dezamăgire trăit ca selecționer al Italiei. ..."
-  },
-  {
-    "group_id": "group_7314506b08",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/pastila-banala-care-in-doza-mica-ar-putea-reduce-riscul-de-dementa-cu-70-la-anumite-persoane-avertismentul-cercetatorilor-4009625"
-      }
-    ],
-    "published_at": 1793479601,
-    "title_hu": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
-    "lead_hu": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
-    "content_hu": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
-    "title_ro": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
-    "lead_ro": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor",
-    "content_ro": "Pastila banală care, în doză mică, ar putea reduce riscul de demență cu 70% la anumite persoane. Avertismentul cercetătorilor"
-  },
-  {
-    "group_id": "group_810c9c4a6c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona / Cer renunţarea la un proiect de lege privind chiriile",
-        "link": "https://www.g4media.ro/mii-de-manifestanti-pentru-dreptul-la-locuire-au-revenit-sambata-intr-una-dintre-pietele-principale-din-lisabona-cer-renuntarea-la-un-proiect-de-lege-privind-chiriile.html"
-      }
-    ],
-    "published_at": 1793479451,
-    "title_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona / Cer renunţarea la un proiect de lege privind chiriile",
-    "lead_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei p…",
-    "content_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei pentru a renunţa la un proiect de lege privind chiriile despre care susţin că ar agrava criza accesibilităţii locuinţelor din ţară, transmite agenția de știri Reuters, citată de Agerpres. Potrivit […] © G4Media.ro.",
-    "title_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona / Cer renunţarea la un proiect de lege privind chiriile",
-    "lead_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei p…",
-    "content_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona, intensificând presiunea asupra guvernului minoritar de centru-dreapta al Portugaliei pentru a renunţa la un proiect de lege privind chiriile despre care susţin că ar agrava criza accesibilităţii locuinţelor din ţară, transmite agenția de știri Reuters, citată de Agerpres. Potrivit […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_8c01a6ea83",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Au început Jocurile Olimpice de Tineret, primul eveniment olimpic organizat în Africa. România participă cu 16 sportivi",
-        "link": "https://www.mediafax.ro/sport/au-inceput-jocurile-olimpice-de-tineret-primul-eveniment-olimpic-organizat-in-africa-romania-participa-cu-16-sportivi-23835256"
-      }
-    ],
-    "published_at": 1793479276,
-    "title_hu": "Au început Jocurile Olimpice de Tineret, primul eveniment olimpic organizat în Africa. România participă cu 16 sportivi",
-    "lead_hu": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 1…",
-    "content_hu": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 14 și 17 ani, participă la competiție, România fiind reprezentată de o delegație de 16 sportivi.",
-    "title_ro": "Au început Jocurile Olimpice de Tineret, primul eveniment olimpic organizat în Africa. România participă cu 16 sportivi",
-    "lead_ro": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 1…",
-    "content_ro": "Jocurile Olimpice de Tineret au început sâmbătă în Senegal, fiind primul eveniment olimpic organizat pe continentul african. Aproximativ 2.700 de sportivi din întreaga lume, cu vârste cuprinse între 14 și 17 ani, participă la competiție, România fiind reprezentată de o delegație de 16 sportivi."
-  },
-  {
-    "group_id": "group_977dbe72f8",
-    "fingerprint": "c63fda48be8dab5c8187da606bd8e60f",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Când vor fi reluate negocierile pentru legea salarizării. Ce spune ministrul Florin Manole despre majorarea salariilor demnitarilor",
-        "link": "https://adevarul.ro/politica/cand-vor-fi-reluate-negocierile-pentru-legea-2568004.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Florin Manole, espre majorarea salariilor demnitarilor: Pentru a aduce echitate în sistem, va trebui să avem creşteri peste tot",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/florin-manole-espre-majorarea-salariilor-demnitarilor-pentru-a-aduce-echitate-in-sistem-va-trebui-sa-avem-cresteri-peste-tot-4016793"
-      }
-    ],
-    "published_at": 1793478808,
-    "title_hu": "Florin Manole szerint jövő év elején folytatódhatnak a bértörvény tárgyalásai",
-    "lead_hu": "A közszférabeli bérekre vonatkozó új szabályozás egyeztetései a következő év elején indulhatnak újra, miután összegyűjtötték a szükséges adatokat. Florin Manole munkaügyi miniszter a tisztségviselői fizetések emelését nem tekinti elsődleges feladatnak.",
-    "content_hu": "• **A tárgyalások várható időpontja** a következő év eleje: Florin Manole munkaügyi miniszter szombaton, az Antena 3 műsorában arról beszélt, hogy a bértörvény ügyében akkor folytatódhat az egyeztetés, ha rendelkezésre állnak a közintézmények bérezésére vonatkozó adatok.\n\n• **A hiányzó információk** a költségvetési előirányzatok felett rendelkező intézményektől származó fizetési adatok. A miniszter szerint ezek összegyűjtésére az előző évben és az idei évben sem került sor teljes körűen, ezért a szabályozás előkészítéséhez előbb rendezni kell az adatállományt.\n\n• **A bérrendszer átalakítása** Manole értelmezésében a fizetési táblák felülvizsgálatát és az egyenlőtlenségek mérséklését jelentené. Ez több területen béremelést tehet szükségessé, ugyanakkor kivételt képezhetnek azok a munkakörök, amelyekben a korábbi növelések már túlzott mértékűek voltak.\n\n• **A tisztségviselők fizetésének emelése** nem szerepel a miniszter közvetlen prioritásai között. Közlése szerint előbb a nyugdíjak január 1-jére tervezett emelésével kapcsolatos eredményekre összpontosít, és csak ezt követően lenne indokolt a közjogi méltóságok jövedelméről mérlegelni.\n\n• **A 3000 lejnél magasabb nyugdíjak adóztatása** kapcsán Manole azt mondta, nem folytatott egyeztetést az adó eltörléséről. Indoklásában a kormány költségvetési hiánycéllal kapcsolatos vállalásaira, valamint az Európai Bizottsággal fennálló viszonyra hivatkozott.",
-    "title_ro": "Florin Manole: negocierile pentru legea salarizării ar putea fi reluate la începutul anului viitor",
-    "lead_ro": "Discuțiile privind noua reglementare a salariilor din sectorul public ar putea fi reluate la începutul anului viitor, după strângerea datelor necesare. Ministrul Muncii, Florin Manole, a afirmat că majorarea veniturilor demnitarilor nu este o prioritate imediată.",
-    "content_ro": "• **Reluarea negocierilor** este prevăzută, potrivit ministrului Florin Manole, la începutul anului viitor. El a făcut această declarație sâmbătă, la Antena 3, precizând că discuțiile despre legea salarizării depind de obținerea informațiilor privind veniturile din instituțiile publice.\n\n• **Datele care trebuie centralizate** privesc nivelul salariilor din instituțiile care gestionează credite bugetare. Manole a explicat că informațiile necesare nu au fost colectate complet nici în anul precedent, nici în cel în curs, iar pregătirea noii reglementări presupune completarea acestei baze de date.\n\n• **Revizuirea grilelor de salarizare** ar urmări, în viziunea ministrului, reducerea diferențelor considerate inechitabile. Procesul ar putea aduce creșteri în mai multe segmente ale sistemului, cu excepția posturilor pentru care majorările anterioare au fost deja excesive.\n\n• **Veniturile demnitarilor** nu se află în centrul preocupărilor imediate ale lui Manole. Ministrul a spus că, înaintea unei eventuale decizii privind salariile acestora, se concentrează asupra rezultatelor legate de majorarea pensiilor de la 1 ianuarie.\n\n• **Impozitarea pensiilor care depășesc 3.000 de lei** nu a făcut obiectul unor discuții privind eliminarea taxei, a mai declarat ministrul. El a invocat angajamentele guvernamentale privind ținta de deficit bugetar și relația cu Comisia Europeană."
-  },
-  {
-    "group_id": "group_18a8b8185f",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Roma, dezlănțuită » Patru goluri într-o repriză",
-        "link": "https://www.gsp.ro/international/campionate/as-roma-serie-a-udinese-994454.html"
-      }
-    ],
-    "published_at": 1793478549,
-    "title_hu": "Roma, dezlănțuită » Patru goluri într-o repriză",
-    "lead_hu": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capito…",
-    "content_hu": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capitolinii s-au apropiat la două puncte de liderii Inter și Lazio, care nu și-au disputat încă meciurile din această etapă. Romanii au marcat patru sau mai multe goluri în trei dintre ultimele patru partide. ...",
-    "title_ro": "Roma, dezlănțuită » Patru goluri într-o repriză",
-    "lead_ro": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capito…",
-    "content_ro": "Roma a obținut o victorie categorică, scor 5-2, în deplasare cu Udinese. „Giallorossii” au rezolvat partida încă din start, conducând cu patru goluri până în minutul 37. În urma acestui succes, capitolinii s-au apropiat la două puncte de liderii Inter și Lazio, care nu și-au disputat încă meciurile din această etapă. Romanii au marcat patru sau mai multe goluri în trei dintre ultimele patru partide. ..."
-  },
-  {
-    "group_id": "group_89a8c9ab84",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Bianca Iotu și Narcis Bujor, sărut pasional în drum spre club. Concurenta de la Insula Iubirii nu se mai ascunde de camere",
-        "link": "https://www.cancan.ro/bianca-iotu-si-narcis-bujor-sarut-pasional-in-drum-spre-club-concurenta-de-la-insula-iubirii-nu-se-mai-ascunde-de-camere-21539890"
-      }
-    ],
-    "published_at": 1793478537,
-    "title_hu": "Bianca Iotu și Narcis Bujor, sărut pasional în drum spre club. Concurenta de la Insula Iubirii nu se mai ascunde de camere",
-    "lead_hu": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de…",
-    "content_hu": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de la Insula Iubirii nu s-a mai ascuns de camere sau de ceilalți din vilă și s-a sărutat din nou, pasional, […]",
-    "title_ro": "Bianca Iotu și Narcis Bujor, sărut pasional în drum spre club. Concurenta de la Insula Iubirii nu se mai ascunde de camere",
-    "lead_ro": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de…",
-    "content_ro": "În edițiile trecute, Bianca Iotu și Narcis Bujor au spart gheața și s-au iubit, repetând scenariul de anul trecut, în baie. Cei doi au preferat să fie discreți, însă nu s-au mai abținut! Concurenta de la Insula Iubirii nu s-a mai ascuns de camere sau de ceilalți din vilă și s-a sărutat din nou, pasional, […]"
-  },
-  {
-    "group_id": "group_12106613c3",
-    "fingerprint": "cf45ebca5f56a4a516b0d9d895ba877e",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Secretarul de stat american a discutat cu omologul său rus despre o întâlnire Putin-Trump la următorul summit APEC",
-        "link": "https://agerpres.ro/politic-extern/2026/10/31/secretarul-de-stat-american-a-discutat-cu-omologul-sau-rus-despre-o-intalnire-putin-trump-la-urmator--1608772"
-      },
-      {
-        "source": "G4Media",
-        "title": "Secretarul de stat american Marco Rubio a discutat cu omologul său rus despre o întâlnire Putin-Trump la următorul summit APEC",
-        "link": "https://www.g4media.ro/secretarul-de-stat-american-marco-rubio-a-discutat-cu-omologul-sau-rus-despre-o-intalnire-putin-trump-la-urmatorul-summit-apec.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Donald Trump și Vladimir Putin s-ar putea întâlni. Ce au discutat Marco Rubio și Serghei Lavrov la G20",
-        "link": "https://www.digi24.ro/stiri/externe/donald-trump-si-vladimir-putin-s-ar-putea-intalni-in-china-ce-au-discutat-marco-rubio-si-serghei-lavrov-la-g20-4016755"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Secretarul de stat american a discutat cu omologul său rus despre o întâlnire Putin-Trump în China",
-        "link": "https://hotnews.ro/secretarul-de-stat-american-a-discutat-cu-omologul-sau-rus-despre-o-intalnire-putin-trump-in-china-2391674"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Donald Trump și Vladimir Putin s-ar putea întâlni în China. Ce au discutat miniștrii lor de externe la reuniunea G20",
-        "link": "https://stirileprotv.ro/stiri/international/donald-trump-si-vladimir-putin-s-ar-putea-intalni-in-china-ce-au-discutat-ministrii-lor-de-externe-la-reuniunea-g20.html"
-      }
-    ],
-    "published_at": 1793478267,
-    "title_hu": "Rubio és Lavrov az APEC-en lehetséges Trump–Putyin-egyeztetésről beszélt",
-    "lead_hu": "Marco Rubio amerikai külügyminiszter szerint Szergej Lavrovval röviden felvetették, hogy Donald Trump és Vlagyimir Putyin az novemberi APEC-csúcson találkozhat vagy véleményt cserélhet. Hivatalos kétoldalú tárgyalás nem volt, a vezetői egyeztetést pedig nem jelentették be végleges programként.",
-    "content_hu": "• **Rubio és Lavrov** az atlantai G20-találkozóhoz kapcsolódó sajtótájékoztatón beszélt arról, hogy az amerikai és az orosz elnök az APEC-csúcs idején kapcsolatba léphet egymással. Rubio szombaton ismertette, hogy a lehetőség csak röviden került szóba; ez nem jelenti a találkozó megszervezését vagy jóváhagyását.\n\n• **Az APEC-csúcsot november 18–19-én tartják a kínai Sencsenben.** A felvetés Donald Trump és Vlagyimir Putyin esetleges párbeszédére vonatkozott, de egyik külügyminiszter sem közölt véglegesített elnöki programot.\n\n• **A külügyminiszterek nem folytattak hivatalos kétoldalú tárgyalást.** Rubio rövid szóváltásként jellemezte a kapcsolatfelvételt. Lavrov pénteki sajtótájékoztatóján szintén rövid, ugyanakkor kellemes hangulatú beszélgetésről számolt be; elmondása szerint a kétoldalú kapcsolatok egyes kérdéseit és a nemzetközi szervezetekben való együttműködést érintették.\n\n• **Lavrov G20-részvétele feszültséget okozott a találkozón.** Oroszország a csoport tagja, az orosz külügyminiszter jelenléte azonban vitát váltott ki a résztvevők között. A péntekre tervezett közös csoportkép elmaradt, mert az európai delegációk nem kívántak Lavrov mellett szerepelni.",
-    "title_ro": "Rubio și Lavrov au discutat despre o posibilă întrevedere Trump–Putin la summitul APEC",
-    "lead_ro": "Secretarul de stat american Marco Rubio a declarat că el și ministrul rus Serghei Lavrov au abordat pe scurt posibilitatea unui dialog între Donald Trump și Vladimir Putin la summitul APEC din noiembrie. Cei doi oficiali nu au avut o întrevedere bilaterală formală, iar o întâlnire între președinți nu a fost confirmată ca program stabilit.",
-    "content_ro": "• **Marco Rubio și Serghei Lavrov** au discutat despre posibilul contact dintre președinții american și rus în contextul summitului APEC, în marja reuniunii G20 de la Atlanta. Rubio a relatat sâmbătă că ideea a fost menționată succint, fără ca aceasta să însemne că o întâlnire a fost organizată sau aprobată.\n\n• **Summitul APEC este programat pentru 18 și 19 noiembrie, la Shenzhen, în China.** Posibila discuție îi vizează pe Donald Trump și Vladimir Putin, însă niciunul dintre miniștrii de externe nu a anunțat că întâlnirea liderilor figurează într-un program confirmat.\n\n• **Cei doi miniștri nu au purtat o întrevedere bilaterală oficială.** Rubio a descris schimbul drept unul scurt. La conferința de presă de vineri, Lavrov a spus că discuția a fost plăcută, dar de durată redusă, și că au fost abordate chestiuni ale relației bilaterale, precum și colaborarea în organizații multilaterale.\n\n• **Participarea lui Lavrov la reuniunea G20 a generat tensiuni.** Rusia face parte din grup, dar prezența ministrului rus a provocat nemulțumiri în rândul participanților. Fotografia de grup prevăzută pentru vineri nu a mai fost realizată, după ce reprezentanții europeni au refuzat să apară alături de el."
-  },
-  {
-    "group_id": "group_6992560dbf",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Schimb de replici dure între oficialii UE și Serghei Lavrov la G20. „Ar trebui să-i spună lui Putin că Rusia nu va câștiga războiul”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/schimb-de-replici-dure-intre-oficialii-ue-si-serghei-lavrov-la-g20-ar-trebui-sa-i-spuna-lui-putin-ca-rusia-nu-va-castiga-razboiul-4016783"
-      }
-    ],
-    "published_at": 1793478119,
-    "title_hu": "Schimb de replici dure între oficialii UE și Serghei Lavrov la G20. „Ar trebui să-i spună lui Putin că Rusia nu va câștiga războiul”",
-    "lead_hu": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlant…",
-    "content_hu": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlanta. La rândul său, ministrul britanic Ed Miliband i-a transmis că ar trebui să-i spună lui Vladimir Putin că Rusia nu va câștiga conflictul, anunță Euronews.",
-    "title_ro": "Schimb de replici dure între oficialii UE și Serghei Lavrov la G20. „Ar trebui să-i spună lui Putin că Rusia nu va câștiga războiul”",
-    "lead_ro": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlant…",
-    "content_ro": "Șefa diplomației europene, Kaja Kallas, l-a acuzat pe ministrul rus de Externe, Serghei Lavrov, că a prezentat „o mulțime de minciuni” despre războiul din Ucraina, în timpul reuniunii G20 de la Atlanta. La rândul său, ministrul britanic Ed Miliband i-a transmis că ar trebui să-i spună lui Vladimir Putin că Rusia nu va câștiga conflictul, anunță Euronews."
-  },
-  {
-    "group_id": "group_38127707d3",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Filipe Coelho a avut un mesaj pentru fanii Universității Craiova: „Cred că este momentul potrivit”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/filipe-coelho-fani-universitatea-craiova-fc-botosani-994447.html"
-      }
-    ],
-    "published_at": 1793477734,
-    "title_hu": "Filipe Coelho a avut un mesaj pentru fanii Universității Craiova: „Cred că este momentul potrivit”",
-    "lead_hu": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adver…",
-    "content_hu": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adversarul pe care oltenii îl primesc pe „Ion Oblemenco”, Filipe Coelho a ținut să le mulțumească suporterilor. David Matei a vorbit și el, de asemenea. ...",
-    "title_ro": "Filipe Coelho a avut un mesaj pentru fanii Universității Craiova: „Cred că este momentul potrivit”",
-    "lead_ro": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adver…",
-    "content_ro": "Filipe Coelho, antrenorul celor de la Universitatea Craiova, a prefațat duelul formație din Bănie cu FC Botoșani, meci programat duminică, 1 noiembrie, de la ora 17:30. Înainte de a vorbi despre adversarul pe care oltenii îl primesc pe „Ion Oblemenco”, Filipe Coelho a ținut să le mulțumească suporterilor. David Matei a vorbit și el, de asemenea. ..."
-  },
-  {
-    "group_id": "group_2711db8613",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ministrul Florin Manole spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/ministrul-florin-manole-spune-ca-nu-a-avut-nicio-discutie-pentru-eliminarea-impozitarii-pensiilor-peste-3-000-de-lei-4016773"
-      }
-    ],
-    "published_at": 1793477172,
-    "title_hu": "Ministrul Florin Manole spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei",
-    "lead_hu": "Ministrul Muncii, Florin Manole, spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei. El a adăugat că este membru într-un guvern care reprezintă România şi are…",
-    "content_hu": "Ministrul Muncii, Florin Manole, spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei. El a adăugat că este membru într-un guvern care reprezintă România şi are nişte angajamente luate privind ţinta de deficit. În plus, spune ministrul, „nu vrea să facă viaţa mai grea” niciunui alt coleg.",
-    "title_ro": "Ministrul Florin Manole spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei",
-    "lead_ro": "Ministrul Muncii, Florin Manole, spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei. El a adăugat că este membru într-un guvern care reprezintă România şi are…",
-    "content_ro": "Ministrul Muncii, Florin Manole, spune că nu a avut nicio discuţie pentru eliminarea impozitării pensiilor peste 3.000 de lei. El a adăugat că este membru într-un guvern care reprezintă România şi are nişte angajamente luate privind ţinta de deficit. În plus, spune ministrul, „nu vrea să facă viaţa mai grea” niciunui alt coleg."
   }
 ]
