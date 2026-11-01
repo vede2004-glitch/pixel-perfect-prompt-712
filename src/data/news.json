@@ -1,5 +1,68 @@
 [
   {
+    "group_id": "group_da8569bda3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Mii de portughezi au ieșit în stradă din cauza chiriilor. Guvernul este presat să renunțe la un proiect de lege",
+        "link": "https://stirileprotv.ro/stiri/international/mii-de-portughezi-au-iesit-in-strada-din-cauza-chiriilor-guvernul-este-presat-sa-renunte-la-un-proiect-de-lege.html"
+      }
+    ],
+    "published_at": 1793510755,
+    "title_hu": "Mii de portughezi au ieșit în stradă din cauza chiriilor. Guvernul este presat să renunțe la un proiect de lege",
+    "lead_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona....",
+    "content_hu": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona.",
+    "title_ro": "Mii de portughezi au ieșit în stradă din cauza chiriilor. Guvernul este presat să renunțe la un proiect de lege",
+    "lead_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona....",
+    "content_ro": "Mii de manifestanţi pentru dreptul la locuire au revenit sâmbătă într-una dintre pieţele principale din Lisabona."
+  },
+  {
+    "group_id": "group_fd9b9f13b2",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Orașul din România care a ajuns de pe locul 2 la prețurile mici la cea mai mare scumpire a coșului alimentar",
+        "link": "https://hotnews.ro/orasul-din-romania-care-a-ajuns-de-pe-locul-2-la-preturile-mici-la-cea-mai-mare-scumpire-a-cosului-alimentar-2388594"
+      }
+    ],
+    "published_at": 1793510730,
+    "title_hu": "Orașul din România care a ajuns de pe locul 2 la prețurile mici la cea mai mare scumpire a coșului alimentar",
+    "lead_hu": "Un locuitor din Târgoviște plătea pentru un coș de zece alimente de bază 79,3 lei, în august 2022. Mai puțin dădeau doar cei din Târgu Jiu. Patru ani mai târziu, același coș costă în Târgoviște 122,8 ...",
+    "content_hu": "Un locuitor din Târgoviște plătea pentru un coș de zece alimente de bază 79,3 lei, în august 2022. Mai puțin dădeau doar cei din Târgu Jiu. Patru ani mai târziu, același coș costă în Târgoviște 122,8 lei. Este o creștere de 55%, cea mai mare raportat la cele 41 de municipii reședință de județ pentru …",
+    "title_ro": "Orașul din România care a ajuns de pe locul 2 la prețurile mici la cea mai mare scumpire a coșului alimentar",
+    "lead_ro": "Un locuitor din Târgoviște plătea pentru un coș de zece alimente de bază 79,3 lei, în august 2022. Mai puțin dădeau doar cei din Târgu Jiu. Patru ani mai târziu, același coș costă în Târgoviște 122,8 ...",
+    "content_ro": "Un locuitor din Târgoviște plătea pentru un coș de zece alimente de bază 79,3 lei, în august 2022. Mai puțin dădeau doar cei din Târgu Jiu. Patru ani mai târziu, același coș costă în Târgoviște 122,8 lei. Este o creștere de 55%, cea mai mare raportat la cele 41 de municipii reședință de județ pentru …"
+  },
+  {
+    "group_id": "group_1940c4cec4",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Alertă climatică în Bolivia. Președintele declară stare de urgență din cauza fenomenului „Super El Niño”. Cât de grave sunt efectele asupra populației",
+        "link": "https://stirileprotv.ro/stiri/international/alerta-climatica-in-bolivia-presedintele-declara-stare-de-urgenta-din-cauza-fenomenului-super-el-nino-cat-de-grave-sunt-efectele-asupra-populatiei.html"
+      }
+    ],
+    "published_at": 1793510678,
+    "title_hu": "Alertă climatică în Bolivia. Președintele declară stare de urgență din cauza fenomenului „Super El Niño”. Cât de grave sunt efectele asupra populației",
+    "lead_hu": "Preşedintele bolivian, Rodrigo Paz, a anunţat sâmbătă că a decretat starea de urgenţă în Bolivia pentru a face faţă secetei şi inundaţiilor provocate de „Super El Niño”....",
+    "content_hu": "Preşedintele bolivian, Rodrigo Paz, a anunţat sâmbătă că a decretat starea de urgenţă în Bolivia pentru a face faţă secetei şi inundaţiilor provocate de „Super El Niño”.",
+    "title_ro": "Alertă climatică în Bolivia. Președintele declară stare de urgență din cauza fenomenului „Super El Niño”. Cât de grave sunt efectele asupra populației",
+    "lead_ro": "Preşedintele bolivian, Rodrigo Paz, a anunţat sâmbătă că a decretat starea de urgenţă în Bolivia pentru a face faţă secetei şi inundaţiilor provocate de „Super El Niño”....",
+    "content_ro": "Preşedintele bolivian, Rodrigo Paz, a anunţat sâmbătă că a decretat starea de urgenţă în Bolivia pentru a face faţă secetei şi inundaţiilor provocate de „Super El Niño”."
+  },
+  {
     "group_id": "group_ada6adb59c",
     "category": "Általános",
     "is_synthesized": false,
@@ -401,7 +464,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Digi24",
@@ -432,6 +495,11 @@
         "source": "Digi24",
         "title": "Pe modelul vecinilor francezi, zeci de mii de tineri sunt așteptați sâmbătă la proteste în toată Germania",
         "link": "https://www.digi24.ro/stiri/externe/ue/pe-modelul-vecinilor-francezi-zeci-de-mii-de-tineri-sunt-asteptati-sambata-la-proteste-in-toata-germania-4015853"
+      },
+      {
+        "source": "G4Media",
+        "title": "Magazine jefuite, cocktailuri Molotov și confruntări cu poliția în urma manifestațiilor din Germania",
+        "link": "https://www.g4media.ro/magazine-jefuite-cocktailuri-molotov-si-confruntari-cu-politia-in-urma-manifestatiilor-din-germania.html"
       }
     ],
     "published_at": 1793487749,
@@ -12025,48 +12093,6 @@
     "title_ro": "Futura: Arta născută pe stradă nu se limitează la scrierea unui nume",
     "lead_ro": "Futura (aka Lenny Mc Gurr), artistul care a orientat graffiti spre abstracție, a pictat vagoane de metrou, dar și live în concertele The Clash din Europa. La începutul anilor 1980, a fost expus în Gal…",
     "content_ro": "Futura (aka Lenny Mc Gurr), artistul care a orientat graffiti spre abstracție, a pictat vagoane de metrou, dar și live în concertele The Clash din Europa. La începutul anilor 1980, a fost expus în Galerie Yvon Lambert din Paris și la Groninger Museum din Țările de Jos, iar ulterior a făcut parte din mari expoziții …"
-  },
-  {
-    "group_id": "group_a3ef47b70e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Sibiul propune ”autonomia” Transilvaniei în privința promovării turistice / ”Eforturile României în privința promovării internaționale nu sunt consistente și coerente” / Suntem depășiți de țări precum Bulgaria, Croația, Ungaria și Albania",
-        "link": "https://www.g4media.ro/sibiul-propune-autonomia-transilvaniei-in-privinta-promovarii-turistice-eforturile-romaniei-in-privinta-promovarii-internationale-nu-sunt-consistente-si-coerente.html"
-      }
-    ],
-    "published_at": 1793424503,
-    "title_hu": "Nagyszebenl propune ”autonomia” Transilvaniei în privința promovării turistice / ”Eforturile României în privința promovării internaționale nu sunt consistente și coerente” / Suntem depășiți de țări precum Bulgaria, Croația, Ungaria și Albania",
-    "lead_hu": "Președintele Consiliului Director al Asociației Județene de Turism Nagyszeben (AJTS), Alin Chipăilă, propune o colaborare nouă între județe: un OMD Transilvania, nemulțumit fiind de felul în care Bucu…",
-    "content_hu": "Președintele Consiliului Director al Asociației Județene de Turism Nagyszeben (AJTS), Alin Chipăilă, propune o colaborare nouă între județe: un OMD Transilvania, nemulțumit fiind de felul în care Bucureștiul a înțeles să facă promovarea turistică a țării, relatează Turnul Sfatului. Chipăilă a criticat felul în care Ministerul Turismului promovează România și a amintit că Nagyszebenl este […] © G4Media.ro.",
-    "title_ro": "Sibiul propune ”autonomia” Transilvaniei în privința promovării turistice / ”Eforturile României în privința promovării internaționale nu sunt consistente și coerente” / Suntem depășiți de țări precum Bulgaria, Croația, Ungaria și Albania",
-    "lead_ro": "Președintele Consiliului Director al Asociației Județene de Turism Nagyszeben (AJTS), Alin Chipăilă, propune o colaborare nouă între județe: un OMD Transilvania, nemulțumit fiind de felul în care Bucu…",
-    "content_ro": "Președintele Consiliului Director al Asociației Județene de Turism Nagyszeben (AJTS), Alin Chipăilă, propune o colaborare nouă între județe: un OMD Transilvania, nemulțumit fiind de felul în care Bucureștiul a înțeles să facă promovarea turistică a țării, relatează Turnul Sfatului. Chipăilă a criticat felul în care Ministerul Turismului promovează România și a amintit că Nagyszebenl este […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_31cd65e086",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Digistoria - cele mai importante evenimente petrecute pe 31 octombrie",
-        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-31-octombrie-2-4016043"
-      }
-    ],
-    "published_at": 1793424330,
-    "title_hu": "Digistoria - cele mai importante evenimente petrecute pe 31 octombrie",
-    "lead_hu": "Cele mai importante evenimente petrecute pe 31 octombrie.",
-    "content_hu": "Cele mai importante evenimente petrecute pe 31 octombrie.",
-    "title_ro": "Digistoria - cele mai importante evenimente petrecute pe 31 octombrie",
-    "lead_ro": "Cele mai importante evenimente petrecute pe 31 octombrie.",
-    "content_ro": "Cele mai importante evenimente petrecute pe 31 octombrie."
   },
   {
     "group_id": "group_5486312d95",
