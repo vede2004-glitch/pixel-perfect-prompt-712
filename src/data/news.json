@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_3f108fe89d",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Gabi Bădălău, apariție neașteptată alături de fiul cel mic, în plin scandal cu Claudia Pătrășcanu! Unde au mers împreună",
+        "link": "https://www.cancan.ro/gabi-badalau-aparitie-neasteptata-alaturi-de-fiul-cel-mic-in-plin-scandal-cu-claudia-patrascanu-unde-au-mers-impreuna-21540205"
+      }
+    ],
+    "published_at": 1793546298,
+    "title_hu": "Gabi Bădălău, apariție neașteptată alături de fiul cel mic, în plin scandal cu Claudia Pătrășcanu! Unde au mers împreună",
+    "lead_hu": "Gabi Bădălău este un tată devotat. Acesta locuiește la București, iar fiul său cel mic este alături de el de aproximativ două luni. Deși se gândește constant și la băiatul său mai mare, care este acum...",
+    "content_hu": "Gabi Bădălău este un tată devotat. Acesta locuiește la București, iar fiul său cel mic este alături de el de aproximativ două luni. Deși se gândește constant și la băiatul său mai mare, care este acum la Constanța cu fosta soție, afaceristul încearcă să își aline dorul prin activități care mai de care mai interesante. […]",
+    "title_ro": "Gabi Bădălău, apariție neașteptată alături de fiul cel mic, în plin scandal cu Claudia Pătrășcanu! Unde au mers împreună",
+    "lead_ro": "Gabi Bădălău este un tată devotat. Acesta locuiește la București, iar fiul său cel mic este alături de el de aproximativ două luni. Deși se gândește constant și la băiatul său mai mare, care este acum...",
+    "content_ro": "Gabi Bădălău este un tată devotat. Acesta locuiește la București, iar fiul său cel mic este alături de el de aproximativ două luni. Deși se gândește constant și la băiatul său mai mare, care este acum la Constanța cu fosta soție, afaceristul încearcă să își aline dorul prin activități care mai de care mai interesante. […]"
+  },
+  {
+    "group_id": "group_4aa42baf0d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Polițiștii din Vâlcea au tras focuri de armă ca să imobilizeze un bărbat care și-a bătut soția și fiul",
+        "link": "https://www.mediafax.ro/social/politistii-din-valcea-au-tras-focuri-de-arma-ca-sa-imobilizeze-un-barbat-care-si-a-batut-sotia-si-fiul-23835401"
+      }
+    ],
+    "published_at": 1793546231,
+    "title_hu": "Polițiștii din Vâlcea au tras focuri de armă ca să imobilizeze un bărbat care și-a bătut soția și fiul",
+    "lead_hu": "Un bărbat de 42 de ani din județul Vâlcea a fost arestat preventiv după ce și-ar fi agresat soția și fiul. Ca să îl imobilizeze, polițiștii au tras trei focuri de armă în plan vertical....",
+    "content_hu": "Un bărbat de 42 de ani din județul Vâlcea a fost arestat preventiv după ce și-ar fi agresat soția și fiul. Ca să îl imobilizeze, polițiștii au tras trei focuri de armă în plan vertical.",
+    "title_ro": "Polițiștii din Vâlcea au tras focuri de armă ca să imobilizeze un bărbat care și-a bătut soția și fiul",
+    "lead_ro": "Un bărbat de 42 de ani din județul Vâlcea a fost arestat preventiv după ce și-ar fi agresat soția și fiul. Ca să îl imobilizeze, polițiștii au tras trei focuri de armă în plan vertical....",
+    "content_ro": "Un bărbat de 42 de ani din județul Vâlcea a fost arestat preventiv după ce și-ar fi agresat soția și fiul. Ca să îl imobilizeze, polițiștii au tras trei focuri de armă în plan vertical."
+  },
+  {
     "group_id": "group_c3fb1c2779",
     "category": "Általános",
     "is_synthesized": false,
@@ -236,12 +278,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Ce s-ar întâmpla dacă Zelenski l-ar suna direct pe Putin, pe linia scurtă. Consilierul Kremlinului a dat un răspuns direct",
         "link": "https://stirileprotv.ro/stiri/international/ce-s-ar-intampla-daca-zelenski-l-ar-suna-direct-pe-putin-pe-linia-scurta-consilierul-kremlinului-a-dat-un-raspuns-direct.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Consilierul lui Putin spune că președintele rus i-ar răspunde lui Zelenski la telefon: „Nu a refuzat niciodată convorbirile”",
+        "link": "https://hotnews.ro/consilierul-lui-putin-spune-ca-presedintele-rus-i-ar-raspunde-lui-zelenski-la-telefon-nu-a-refuzat-niciodata-convorbirile-2391964"
       }
     ],
     "published_at": 1793544944,
@@ -664,7 +711,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Adevărul",
@@ -675,6 +722,11 @@
         "source": "Digi24",
         "title": "Debitul Dunării la intrarea în ţară va crește până la 1.800 mc/s săptămâna viitoare, dar rămâne mai scăzut decât în mod normal",
         "link": "https://www.digi24.ro/stiri/actualitate/debitul-dunarii-la-intrarea-in-tara-va-creste-pana-la-1-800-mc-s-saptamana-viitoare-dar-ramane-mai-scazut-decat-in-mod-normal-4017241"
+      },
+      {
+        "source": "G4Media",
+        "title": "Crește debitul Dunării la intrarea în ţară / Va fi de până la 1.800 mc/s pe parcursul săptămânii viitoare / Debitele medii zilnice pe râuri vor fi în creştere",
+        "link": "https://www.g4media.ro/creste-debitul-dunarii-la-intrarea-in-tara-va-fi-de-pana-la-1-800-mc-s-pe-parcursul-saptamanii-viitoare-debitele-medii-zilnice-pe-rauri-vor-fi-in-crestere.html"
       }
     ],
     "published_at": 1793543342,
@@ -12321,27 +12373,6 @@
     "content_ro": "Tadej Pogacar (28 de ani), cel mai bun ciclist în activitate și unul din cei mai buni cicliști din istorie, a vorbit, într-un interviu, despre căzătura din Turul Spaniei și a dezvăluit că accidentarea sa a fost mult mai gravă decât credea, dând detalii și despre depresia prin care a trecut imediat după accident. Tadej Pogacar a izbutit în acest an să își adjudece Turul Franței pentru a 5-a oară, intrând în istorie alături de nume uriașe ale ciclismului. ..."
   },
   {
-    "group_id": "group_e02d4aba46",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Marea Britanie ia în calcul scuze oficiale pentru comerțul cu sclavi, dar refuză să plătească despăgubiri. Anunțul premierului britanic",
-        "link": "https://www.digi24.ro/stiri/externe/ue/marea-britanie-ia-in-calcul-scuze-oficiale-pentru-comertul-cu-sclavi-dar-refuza-sa-plateasca-despagubiri-anuntul-premierului-britanic-4016513"
-      }
-    ],
-    "published_at": 1793459987,
-    "title_hu": "Marea Britanie ia în calcul scuze oficiale pentru comerțul cu sclavi, dar refuză să plătească despăgubiri. Anunțul premierului britanic",
-    "lead_hu": "Marea Britanie ar putea lua în calcul prezentarea unor scuze oficiale pentru implicarea sa în comerțul transatlantic cu sclavi, însă nu va acorda despăgubiri financiare, a transmis premierul Andy Burn…",
-    "content_hu": "Marea Britanie ar putea lua în calcul prezentarea unor scuze oficiale pentru implicarea sa în comerțul transatlantic cu sclavi, însă nu va acorda despăgubiri financiare, a transmis premierul Andy Burnham. Subiectul se va afla pe agenda summitului Commonwealth, unde statele din Caraibe vor cere măsuri de reparare a nedreptăților istorice, potrivit Reuters.",
-    "title_ro": "Marea Britanie ia în calcul scuze oficiale pentru comerțul cu sclavi, dar refuză să plătească despăgubiri. Anunțul premierului britanic",
-    "lead_ro": "Marea Britanie ar putea lua în calcul prezentarea unor scuze oficiale pentru implicarea sa în comerțul transatlantic cu sclavi, însă nu va acorda despăgubiri financiare, a transmis premierul Andy Burn…",
-    "content_ro": "Marea Britanie ar putea lua în calcul prezentarea unor scuze oficiale pentru implicarea sa în comerțul transatlantic cu sclavi, însă nu va acorda despăgubiri financiare, a transmis premierul Andy Burnham. Subiectul se va afla pe agenda summitului Commonwealth, unde statele din Caraibe vor cere măsuri de reparare a nedreptăților istorice, potrivit Reuters."
-  },
-  {
     "group_id": "group_54694c5969",
     "category": "Általános",
     "is_synthesized": false,
@@ -12789,12 +12820,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "CNAIR: Traficul pe lotul 3 al Autostrăzii A0 Nord va fi deschis numai după îndeplinirea condițiilor de siguranță",
         "link": "https://agerpres.ro/economic/2026/11/01/cnair-traficul-pe-lotul-3-al-autostrazii-a0-nord-va-fi-deschis-numai-dupa-indeplinirea-conditiilor-d--1608844"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Când va fi deschisă circulația pe lotul 3 al A0 Nord. Anunțul CNAIR despre tronsonul Afumați-Pantelimon",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cand-va-fi-deschisa-circulatia-pe-lotul-3-al-a0-nord-anuntul-cnair-despre-tronsonul-afumati-pantelimon.html"
       }
     ],
     "published_at": 1793491200,
