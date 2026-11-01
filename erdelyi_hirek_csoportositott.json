@@ -276,22 +276,6 @@
     ]
   },
   {
-    "group_id": "group_21ef63a630",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "Romániában nőttek a leggyorsabban az adóbevételek az EU-ban, de még így is sereghajtó az ország",
-        "link": "https://transtelex.ro/penzcsinalok/2026/10/31/romania-adobevetelek-novekedes-eu-sereghajto",
-        "summary": "A bevételek 10,5 százalékos bővülése ugyan csaknem a duplája az uniós átlagnak, a befolyt összeg még így is mindössze a GDP 29,3 százalékát teszi ki.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793431432
-      }
-    ]
-  },
-  {
     "group_id": "group_06694e22ce",
     "category": "Politika",
     "articles_count": 2,
@@ -313,56 +297,6 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793443128
-      }
-    ]
-  },
-  {
-    "group_id": "group_7c76488a6b",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "Medic: „Am avut paciente injectate cu silicon de construcții” / ”Dacă nu mergi într-o clinică specializată, poți să ajungi la rezultate dezastruoase, inclusiv mutilări”",
-        "link": "https://www.g4media.ro/medic-am-avut-paciente-injectate-cu-silicon-de-constructii-daca-nu-mergi-intr-o-clinica-specializata-poti-sa-ajungi-la-rezultate-dezastruoase-inclusiv-mutilari.html",
-        "summary": "Fenomenul procedurilor estetice realizate de persoane fără drept de practică sau cu substanțe neomologate, inclusiv din zona construcțiilor ia amploare în România, relatează Digi24. După ce poliția a confiscat cantități mari de toxină botulinică contrafăcută și după noi anchete penale, medicii specialiști avertizează asupra pericolului la care se expun persoanele care aleg clinici neautorizate sau […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793431643
-      }
-    ]
-  },
-  {
-    "group_id": "group_2af53c9508",
-    "category": "Politika",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "SONDAJ Avangarde. Scade distanța între primele două locuri. Cine nu mai face pragul electoral",
-        "link": "https://hotnews.ro/sondaj-avangarde-scade-distanta-intre-primele-doua-locuri-cine-nu-mai-face-pragul-electoral-2391229",
-        "summary": "Un nou sondaj publicat sâmbătă arată că AUR se menține pe primul loc în opțiunile de vot pentru alegerile parlamentare, însă distanța față de PSD se miscșorează. Potrivit cercetării, dacă duminica viitoare ar avea loc alegeri parlamentare, AUR s-ar clasa pe primul loc cu 35%, PSD ar ocupa locul secund cu 26%, PNL ar fi …",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793431484
-      },
-      {
-        "source": "Mediafax",
-        "title": "SONDAJ Avangarde: PSD recuperează teren în fața AUR după intrarea la guvernare. PNL pierde, USR crește / Două partide rămân sub pragul electoral",
-        "link": "https://www.mediafax.ro/politic/sondaj-avangarde-psd-recupereaza-teren-in-fata-aur-dupa-intrarea-la-guvernare-pnl-pierde-usr-creste-doua-partide-raman-sub-pragul-electoral-23835065",
-        "summary": "AUR rămâne pe primul loc în intențiile de vot pentru alegerile parlamentare, dar avantajul față de PSD se reduce, potrivit unui sondaj Avangarde publicat sâmbătă. Social-democrații câștigă trei puncte procentuale față de septembrie, după intrarea la guvernare, în timp ce AUR și PNL înregistrează scăderi ușoare. Cercetarea arată și că aproape opt din zece români consideră că țara se îndreaptă într-o direcție greșită, iar jumătate dintre respondenți dezaprobă decizia PNL de a susține învestirea Guvernului Niculescu.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793434689
-      },
-      {
-        "source": "Adevărul",
-        "title": "AUR conduce în intențiile de vot, însă PSD reduce distanța. Cum arată noul clasament al partidelor SONDAJ",
-        "link": "https://adevarul.ro/politica/aur-conduce-in-intentiile-de-vot-insa-psd-reduce-2567907.html",
-        "summary": "AUR se menține pe primul loc în intențiile de vot pentru alegerile parlamentare, însă distanța față de PSD se reduce, în timp ce USR înregistrează o creștere. Un sondaj Avangarde indică și două formațiuni care nu ar trece pragul electoral.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793436594
       }
     ]
   },
@@ -1082,6 +1016,31 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793434727
+      }
+    ]
+  },
+  {
+    "group_id": "group_2af53c9508",
+    "category": "Politika",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "SONDAJ Avangarde: PSD recuperează teren în fața AUR după intrarea la guvernare. PNL pierde, USR crește / Două partide rămân sub pragul electoral",
+        "link": "https://www.mediafax.ro/politic/sondaj-avangarde-psd-recupereaza-teren-in-fata-aur-dupa-intrarea-la-guvernare-pnl-pierde-usr-creste-doua-partide-raman-sub-pragul-electoral-23835065",
+        "summary": "AUR rămâne pe primul loc în intențiile de vot pentru alegerile parlamentare, dar avantajul față de PSD se reduce, potrivit unui sondaj Avangarde publicat sâmbătă. Social-democrații câștigă trei puncte procentuale față de septembrie, după intrarea la guvernare, în timp ce AUR și PNL înregistrează scăderi ușoare. Cercetarea arată și că aproape opt din zece români consideră că țara se îndreaptă într-o direcție greșită, iar jumătate dintre respondenți dezaprobă decizia PNL de a susține învestirea Guvernului Niculescu.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793434689
+      },
+      {
+        "source": "Adevărul",
+        "title": "AUR conduce în intențiile de vot, însă PSD reduce distanța. Cum arată noul clasament al partidelor SONDAJ",
+        "link": "https://adevarul.ro/politica/aur-conduce-in-intentiile-de-vot-insa-psd-reduce-2567907.html",
+        "summary": "AUR se menține pe primul loc în intențiile de vot pentru alegerile parlamentare, însă distanța față de PSD se reduce, în timp ce USR înregistrează o creștere. Un sondaj Avangarde indică și două formațiuni care nu ar trece pragul electoral.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793436594
       }
     ]
   },
@@ -10072,7 +10031,7 @@
   {
     "group_id": "group_b2e29c48eb",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Digi24",
@@ -10082,6 +10041,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793517309
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Noapte cu cinci seisme: Patru cutremure în Vrancea și unul în Marea Neagră",
+        "link": "https://hotnews.ro/noapte-cu-cinci-seisme-patru-cutremure-in-vrancea-si-unul-in-marea-neagra-2391773",
+        "summary": "Activitatea tectonică intensă a început imediat după miezul nopții în județele Vrancea și Buzău, unde cel mai puternic seism a înregistrat o magnitudine de 3,6 pe scara Richter. Un prim cutremur a avut loc la 0:46, la o adâncime de 69,9 km, și a avut o magnitudine de 3,0. A fost urmat, la mai puțin …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793518130
       }
     ]
   },
@@ -10162,6 +10130,54 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793517224
+      }
+    ]
+  },
+  {
+    "group_id": "group_fcaf08e676",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "1 noiembrie - Ziua internațională a sindromului Lennox-Gastaut",
+        "link": "https://agerpres.ro/documentare/2026/11/01/1-noiembrie---ziua-internationala-a-sindromului-lennox-gastaut--1608738",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793491200
+      }
+    ]
+  },
+  {
+    "group_id": "group_6e252b66ff",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Diana Shnaider a obținut, la Tokyo, primul titlu WTA din acest an: „Sunt foarte fericită”",
+        "link": "https://www.gsp.ro/sporturi/tenis/diana-shnaider-campioana-tokyo-994569.html",
+        "summary": "Diana Shnaider (22 de ani, 13 WTA) a obținut, la Tokyo, primul titlu din acest an și de săptămâna viitoare va urca pe locul 11 mondial. În finala turneului din capitala Japoniei, rusoaica a învins-o pe Leylah Fernandez (24 de ani, 23 WTA) cu 6-4, 5-7, 6-2, după două ore și 21 de minute. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793517709
+      }
+    ]
+  },
+  {
+    "group_id": "group_52075288ad",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "Trafic blocat pe DN1, în zona localității Posada, după producerea a două accidente rutiere",
+        "link": "https://www.g4media.ro/trafic-blocat-pe-dn1-in-zona-localitatii-posada-dupa-producerea-a-doua-accidente-rutiere.html",
+        "summary": "Două accidente rutiere s-au produs duminică dimineaţă pe DN 1, la Băicoi şi la Posada, traficul în zona Posada fiind blocat complet, scrie Agerpres. Potrivit datelor comunicate de Inspectoratul pentru Situaţii de Urgenţă (ISU) Prahova, în accidentul de la Posada au fost implicate două autoturisme şi cei 4 ocupanţi ai acestora, dintre care unul este […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793517906
       }
     ]
   }
