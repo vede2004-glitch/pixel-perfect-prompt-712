@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_9983f2714e",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "El este primul jucător care pleacă de la Barcelona în iarnă",
+        "link": "https://www.gsp.ro/international/campionate/barcelona-alejandro-balde-la-liga-994696.html"
+      }
+    ],
+    "published_at": 1793546803,
+    "title_hu": "El este primul jucător care pleacă de la Barcelona în iarnă",
+    "lead_hu": "Barcelona plănuiește să se despartă de fundașul stânga Alejandro Balde (23 de ani) în fereastra de transferuri din iarnă. Asta pentru a obține o sumă cu ajutorul căreia să își întărească lotul. Conduc...",
+    "content_hu": "Barcelona plănuiește să se despartă de fundașul stânga Alejandro Balde (23 de ani) în fereastra de transferuri din iarnă. Asta pentru a obține o sumă cu ajutorul căreia să își întărească lotul. Conducerea Barcelonei plănuiește să își întărească lotul în perioada de transferuri din iarnă. ...",
+    "title_ro": "El este primul jucător care pleacă de la Barcelona în iarnă",
+    "lead_ro": "Barcelona plănuiește să se despartă de fundașul stânga Alejandro Balde (23 de ani) în fereastra de transferuri din iarnă. Asta pentru a obține o sumă cu ajutorul căreia să își întărească lotul. Conduc...",
+    "content_ro": "Barcelona plănuiește să se despartă de fundașul stânga Alejandro Balde (23 de ani) în fereastra de transferuri din iarnă. Asta pentru a obține o sumă cu ajutorul căreia să își întărească lotul. Conducerea Barcelonei plănuiește să își întărească lotul în perioada de transferuri din iarnă. ..."
+  },
+  {
+    "group_id": "group_9e7014b1dc",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Criză în administrația locală: O primărie din trei nu își poate plăti salariile din venituri proprii",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/criza-in-administratia-locala-o-primarie-din-trei-nu-isi-poate-plati-salariile-din-venituri-proprii-4017273"
+      }
+    ],
+    "published_at": 1793546739,
+    "title_hu": "Criză în administrația locală: O primărie din trei nu își poate plăti salariile din venituri proprii",
+    "lead_hu": "Administrația locală din România se confruntă cu probleme financiare și demografice. O primărie din trei nu a reușit să își acopere în 2025 cheltuielile salariale din venituri proprii, iar aproximativ...",
+    "content_hu": "Administrația locală din România se confruntă cu probleme financiare și demografice. O primărie din trei nu a reușit să își acopere în 2025 cheltuielile salariale din venituri proprii, iar aproximativ 80% dintre localități au pierdut populație în ultimul deceniu. Un studiu privind reforma administrativă, citat de Digi24, arată că sute de orașe și comune nu mai îndeplinesc criteriile demografice corespunzătoare rangului lor.",
+    "title_ro": "Criză în administrația locală: O primărie din trei nu își poate plăti salariile din venituri proprii",
+    "lead_ro": "Administrația locală din România se confruntă cu probleme financiare și demografice. O primărie din trei nu a reușit să își acopere în 2025 cheltuielile salariale din venituri proprii, iar aproximativ...",
+    "content_ro": "Administrația locală din România se confruntă cu probleme financiare și demografice. O primărie din trei nu a reușit să își acopere în 2025 cheltuielile salariale din venituri proprii, iar aproximativ 80% dintre localități au pierdut populație în ultimul deceniu. Un studiu privind reforma administrativă, citat de Digi24, arată că sute de orașe și comune nu mai îndeplinesc criteriile demografice corespunzătoare rangului lor."
+  },
+  {
     "group_id": "group_3f108fe89d",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -1086,12 +1128,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "Guvernul Germaniei amenință cu „pedepse aspre” după violențele de la protestul din Frankfurt, despre care spune că a fost deturnat. „Sunt șocat”",
         "link": "https://hotnews.ro/guvernul-germaniei-ameninta-cu-pedepse-aspre-dupa-violentele-de-la-protestul-din-frankfurt-despre-care-spune-ca-a-fost-deturnat-sunt-socat-2391918"
+      },
+      {
+        "source": "Digi24",
+        "title": "Proteste violente în Germania: peste 100 de polițiști răniți, jafuri și revolte la Frankfurt. Miniștrii amenință cu sancțiuni dure",
+        "link": "https://www.digi24.ro/stiri/externe/proteste-violente-in-germania-peste-100-de-politisti-raniti-jafuri-si-revolte-la-frankfurt-ministrii-ameninta-cu-sanctiuni-dure-4017249"
       }
     ],
     "published_at": 1793542168,
@@ -4432,7 +4479,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Mediafax",
@@ -4463,6 +4510,11 @@
         "source": "Ebihoreanul (Nagyvárad/Bihar)",
         "title": "Mai mult decât Dracula! Cum va fi promovată România la BBC, într-o campanie a Ministerului Economiei cu Charlie Ottley (VIDEO)",
         "link": "https://www.ebihoreanul.ro/stiri/mai-mult-decat-dracula-cum-va-fi-promovata-romania-la-bbc-intr-o-campanie-cu-charlie-ottley-video-206262.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "România lansează o campanie de promovare turistică pe BBC în colaborare cu Charlie Ottley. VIDEO",
+        "link": "https://stirileprotv.ro/stiri/travel/romania-lanseaza-o-campanie-de-promovare-turistica-pe-bbc-in-colaborare-cu-charlie-ottley-video.html"
       }
     ],
     "published_at": 1793528625,
@@ -12350,27 +12402,6 @@
     "title_ro": "Mourinho, fără barbă, dar plin de ironie: „Trei meciuri în șapte zile este un cadou pe care ni-l oferă”",
     "lead_ro": "Jose Mourinho, antrenorul celor de la Real Madrid, a susținut conferința de presă premergătoare partidei din La Liga cu Racing Santander, meci din etapa #11 din La Liga. Pe lângă faptul că Mourinho a …",
     "content_ro": "Jose Mourinho, antrenorul celor de la Real Madrid, a susținut conferința de presă premergătoare partidei din La Liga cu Racing Santander, meci din etapa #11 din La Liga. Pe lângă faptul că Mourinho a apărut bărbierit după victoria din El Clasico, negând că ar fi fost vorba despre o superstiție, a vorbit despre duelul cu Racing, despre programul încărcat al grupării blanco, dar și despre Vinicius Junior, tot mai contestat, și cea mai nouă cu Kylian Mbappe care a pierdut ..."
-  },
-  {
-    "group_id": "group_71f467da3d",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Tadej Pogacar, dezvăluiri la două luni după accidentarea din Turul Spaniei: „Am fost în depresie, alte două vertebre au fost fracturate”",
-        "link": "https://www.gsp.ro/sporturi/ciclism/tadej-pogacar-dezvaluiri-la-doua-luni-dupa-accidentare-994360.html"
-      }
-    ],
-    "published_at": 1793460552,
-    "title_hu": "Tadej Pogacar, dezvăluiri la două luni după accidentarea din Turul Spaniei: „Am fost în depresie, alte două vertebre au fost fracturate”",
-    "lead_hu": "Tadej Pogacar (28 de ani), cel mai bun ciclist în activitate și unul din cei mai buni cicliști din istorie, a vorbit, într-un interviu, despre căzătura din Turul Spaniei și a dezvăluit că accidentarea…",
-    "content_hu": "Tadej Pogacar (28 de ani), cel mai bun ciclist în activitate și unul din cei mai buni cicliști din istorie, a vorbit, într-un interviu, despre căzătura din Turul Spaniei și a dezvăluit că accidentarea sa a fost mult mai gravă decât credea, dând detalii și despre depresia prin care a trecut imediat după accident. Tadej Pogacar a izbutit în acest an să își adjudece Turul Franței pentru a 5-a oară, intrând în istorie alături de nume uriașe ale ciclismului. ...",
-    "title_ro": "Tadej Pogacar, dezvăluiri la două luni după accidentarea din Turul Spaniei: „Am fost în depresie, alte două vertebre au fost fracturate”",
-    "lead_ro": "Tadej Pogacar (28 de ani), cel mai bun ciclist în activitate și unul din cei mai buni cicliști din istorie, a vorbit, într-un interviu, despre căzătura din Turul Spaniei și a dezvăluit că accidentarea…",
-    "content_ro": "Tadej Pogacar (28 de ani), cel mai bun ciclist în activitate și unul din cei mai buni cicliști din istorie, a vorbit, într-un interviu, despre căzătura din Turul Spaniei și a dezvăluit că accidentarea sa a fost mult mai gravă decât credea, dând detalii și despre depresia prin care a trecut imediat după accident. Tadej Pogacar a izbutit în acest an să își adjudece Turul Franței pentru a 5-a oară, intrând în istorie alături de nume uriașe ale ciclismului. ..."
   },
   {
     "group_id": "group_54694c5969",
