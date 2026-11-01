@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_de277675c7",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Fost lider PNL, despre „îndiguirea” AUR: „Acolo unde e posibil, trebuie lăsat deschis drumul la guvernare pentru aceste partide”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/fost-lider-pnl-despre-aur-acolo-unde-e-posibil-trebuie-lasat-deschis-drumul-la-guvernare-pentru-aceste-partide-4015995"
+      }
+    ],
+    "published_at": 1793538796,
+    "title_hu": "Fost lider PNL, despre „îndiguirea” AUR: „Acolo unde e posibil, trebuie lăsat deschis drumul la guvernare pentru aceste partide”",
+    "lead_hu": "Valeriu Stoica, fost președinte PNL, consideră că în cazul unui partid precum AUR, „acolo unde este posibil, trebuie să fie lăsat să se deschidă drumul la guvernare pentru aceste partide, ca să vadă a...",
+    "content_hu": "Valeriu Stoica, fost președinte PNL, consideră că în cazul unui partid precum AUR, „acolo unde este posibil, trebuie să fie lăsat să se deschidă drumul la guvernare pentru aceste partide, ca să vadă alegătorii lor ce pot să facă”. El spune, în cadrul interviului „În Fața Ta” difuzat duminică de la ora 14:00, că „politica de îndiguire a extremismului” în Europa „pleacă de la o traumă istorică lăsată de nazism în perioada interbelică” și astfel argumentează că „oare în momentul în care aceste partide devin partenere de guvernare, vor mai putea ele să facă ceea ce a făcut partidul nazist în Germania sau partidul fascist în Italia, în perioada interbetică?”.",
+    "title_ro": "Fost lider PNL, despre „îndiguirea” AUR: „Acolo unde e posibil, trebuie lăsat deschis drumul la guvernare pentru aceste partide”",
+    "lead_ro": "Valeriu Stoica, fost președinte PNL, consideră că în cazul unui partid precum AUR, „acolo unde este posibil, trebuie să fie lăsat să se deschidă drumul la guvernare pentru aceste partide, ca să vadă a...",
+    "content_ro": "Valeriu Stoica, fost președinte PNL, consideră că în cazul unui partid precum AUR, „acolo unde este posibil, trebuie să fie lăsat să se deschidă drumul la guvernare pentru aceste partide, ca să vadă alegătorii lor ce pot să facă”. El spune, în cadrul interviului „În Fața Ta” difuzat duminică de la ora 14:00, că „politica de îndiguire a extremismului” în Europa „pleacă de la o traumă istorică lăsată de nazism în perioada interbelică” și astfel argumentează că „oare în momentul în care aceste partide devin partenere de guvernare, vor mai putea ele să facă ceea ce a făcut partidul nazist în Germania sau partidul fascist în Italia, în perioada interbetică?”."
+  },
+  {
     "group_id": "group_ca6432d03d",
     "category": "Általános",
     "is_synthesized": false,
@@ -3342,12 +3363,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Valeriu Stoica: Guvernul Luca Niculescu este unul atipic - o coaliție între PSD și Nicușor Dan, care are rădăcini mai vechi",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/valeriu-stoica-guvernul-luca-niculescu-este-unul-atipic-o-coalitie-intre-psd-si-nicusor-dan-una-care-are-radacini-mai-vechi-4015691"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Fost lider PNL: „Guvernul Luca Niculescu este o coaliție atipică între PSD și Nicușor Dan”",
+        "link": "https://hotnews.ro/fost-lider-pnl-guvernul-luca-niculescu-este-o-coalitie-atipica-intre-psd-si-nicusor-dan-2391878"
       }
     ],
     "published_at": 1793526881,
@@ -5421,7 +5447,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 18,
+    "sources_count": 19,
     "sources": [
       {
         "source": "Digi24",
@@ -5512,6 +5538,11 @@
         "source": "Mediafax",
         "title": "Trei copii în vârstă de 11, 12 și 13 ani, dispăruți în Sălaj. Poliția cere ajutorul populației",
         "link": "https://www.mediafax.ro/stirile-zilei/trei-copii-in-varsta-de-11-12-si-13-ani-disparuti-in-salaj-politia-cere-ajutorul-populatiei-23834417"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Toți cei trei copii dispăruți din Sălaj au fost găsiți. Al treilea minor, identificat în județul Cluj",
+        "link": "https://www.mediafax.ro/social/toti-cei-trei-copii-disparuti-din-salaj-au-fost-gasiti-al-treilea-minor-identificat-in-judetul-cluj-23835374"
       }
     ],
     "published_at": 1793518140,
@@ -8729,6 +8760,27 @@
     "title_ro": "Scene incredibile în Alexandria. Un poliţist plimbă bebeluşul de o lună abandonat în cărucior, în timp ce părinţii se ceartă pe stradă",
     "lead_ro": "Un copil de numai o lună a rămas în cărucior, în frig și burniță, în timp ce părinții lui făceau scandal pe o stradă din Alexandria. În cele din urmă, a ajuns neînsoţit de niciunul dintre ei la spital…",
     "content_ro": "Un copil de numai o lună a rămas în cărucior, în frig și burniță, în timp ce părinții lui făceau scandal pe o stradă din Alexandria. În cele din urmă, a ajuns neînsoţit de niciunul dintre ei la spital, ambii fiind luaţi de poliţişti şi duşi la psihiatrie."
+  },
+  {
+    "group_id": "group_861d0c5405",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "11.000 de lei pe lună, suma necesară pentru o familie cu doi copii ca să trăiască decent în România. Ce spune ministrul Muncii",
+        "link": "https://www.mediafax.ro/social/11-000-de-lei-pe-luna-suma-necesara-pentru-o-familie-cu-doi-copii-ca-sa-traiasca-decent-in-romania-ce-spune-ministrul-muncii-23835245"
+      }
+    ],
+    "published_at": 1793474345,
+    "title_hu": "11.000 de lei pe lună, suma necesară pentru o familie cu doi copii ca să trăiască decent în România. Ce spune ministrul Muncii",
+    "lead_hu": "O familie din România formată din doi adulți și doi copii are nevoie de circa 11.000 de lei lunar pentru un trai decent, potrivit estimărilor menționate de ministrul Muncii, Florin Manole. Oficialul a...",
+    "content_hu": "O familie din România formată din doi adulți și doi copii are nevoie de circa 11.000 de lei lunar pentru un trai decent, potrivit estimărilor menționate de ministrul Muncii, Florin Manole. Oficialul a atras atenția că puține familii reușesc să obțină împreună două salarii care să atingă acest nivel.",
+    "title_ro": "11.000 de lei pe lună, suma necesară pentru o familie cu doi copii ca să trăiască decent în România. Ce spune ministrul Muncii",
+    "lead_ro": "O familie din România formată din doi adulți și doi copii are nevoie de circa 11.000 de lei lunar pentru un trai decent, potrivit estimărilor menționate de ministrul Muncii, Florin Manole. Oficialul a...",
+    "content_ro": "O familie din România formată din doi adulți și doi copii are nevoie de circa 11.000 de lei lunar pentru un trai decent, potrivit estimărilor menționate de ministrul Muncii, Florin Manole. Oficialul a atras atenția că puține familii reușesc să obțină împreună două salarii care să atingă acest nivel."
   },
   {
     "group_id": "group_09621aa419",
@@ -12511,27 +12563,6 @@
     "title_ro": "Aglomerație la cimitirul din Oradea, înainte de Luminație. Ce le recomandă pompierii celor care merg la morminte (FOTO)",
     "lead_ro": "Traficul din zona Cimitirului Municipal Rulikowski din Nagyvárad a fost aglomerat sâmbătă, la prânz, iar polițiștii au dirijat circulația în sensul giratoriu de la intrarea principală. În contextul Lu…",
     "content_ro": "Traficul din zona Cimitirului Municipal Rulikowski din Nagyvárad a fost aglomerat sâmbătă, la prânz, iar polițiștii au dirijat circulația în sensul giratoriu de la intrarea principală. În contextul Luminației, când mulți oameni merg la morminte și aprind lumânări în memoria celor dragi, pompierii bihoreni atrag atenția asupra riscului de incendiu."
-  },
-  {
-    "group_id": "group_b2b51c832a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "O femeie a născut într-un autobuz din Italia. A fost ajutată de pasageri și șoferiță. „Mi-am pus fularul la dispoziție”",
-        "link": "https://stirileprotv.ro/stiri/international/o-femeie-a-nascut-intr-un-autobuz-din-italia-a-fost-ajutata-de-pasageri-si-soferita-mi-am-pus-fularul-la-dispozitie.html"
-      }
-    ],
-    "published_at": 1793452186,
-    "title_hu": "O femeie a născut într-un autobuz din Italia. A fost ajutată de pasageri și șoferiță. „Mi-am pus fularul la dispoziție”",
-    "lead_hu": "Un băiețel s-a născut vineri dimineață, într-un autobuz din Bologna, după ce mama sa a intrat în travaliu în timpul călătoriei. Două pasagere și șoferița autobuzului au intervenit pentru a o ajuta pe …",
-    "content_hu": "Un băiețel s-a născut vineri dimineață, într-un autobuz din Bologna, după ce mama sa a intrat în travaliu în timpul călătoriei. Două pasagere și șoferița autobuzului au intervenit pentru a o ajuta pe tânără până la sosirea echipajului medical.",
-    "title_ro": "O femeie a născut într-un autobuz din Italia. A fost ajutată de pasageri și șoferiță. „Mi-am pus fularul la dispoziție”",
-    "lead_ro": "Un băiețel s-a născut vineri dimineață, într-un autobuz din Bologna, după ce mama sa a intrat în travaliu în timpul călătoriei. Două pasagere și șoferița autobuzului au intervenit pentru a o ajuta pe …",
-    "content_ro": "Un băiețel s-a născut vineri dimineață, într-un autobuz din Bologna, după ce mama sa a intrat în travaliu în timpul călătoriei. Două pasagere și șoferița autobuzului au intervenit pentru a o ajuta pe tânără până la sosirea echipajului medical."
   },
   {
     "group_id": "group_9f1d394806",
