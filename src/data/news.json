@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_46e240c4df",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Crimă în Bihor: Un adolescent de 15 ani, arestat după ce ar fi ucis un bărbat de 36 de ani",
+        "link": "https://www.ebihoreanul.ro/stiri/crima-in-bihor-un-adolescent-de-15-ani-arestat-dupa-ce-ar-fi-ucis-un-barbat-de-36-de-ani-206260.html"
+      }
+    ],
+    "published_at": 1793528400,
+    "title_hu": "Crimă în Bihor: Un adolescent de 15 ani, arestat după ce ar fi ucis un bărbat de 36 de ani",
+    "lead_hu": "Un adolescent de 15 ani a fost arestat preventiv sâmbătă, după ce ar fi ucis un bărbat de 36 de ani în Lăzăreni. Din primele informații, băiatul i-ar fi cerut socoteală victimei pentru că se luase în ...",
+    "content_hu": "Un adolescent de 15 ani a fost arestat preventiv sâmbătă, după ce ar fi ucis un bărbat de 36 de ani în Lăzăreni. Din primele informații, băiatul i-ar fi cerut socoteală victimei pentru că se luase în trecut de fratele său mai mic, apoi ar fi doborât-o cu pumnii și ar fi sufocat-o cu piciorul pe gât.",
+    "title_ro": "Crimă în Bihor: Un adolescent de 15 ani, arestat după ce ar fi ucis un bărbat de 36 de ani",
+    "lead_ro": "Un adolescent de 15 ani a fost arestat preventiv sâmbătă, după ce ar fi ucis un bărbat de 36 de ani în Lăzăreni. Din primele informații, băiatul i-ar fi cerut socoteală victimei pentru că se luase în ...",
+    "content_ro": "Un adolescent de 15 ani a fost arestat preventiv sâmbătă, după ce ar fi ucis un bărbat de 36 de ani în Lăzăreni. Din primele informații, băiatul i-ar fi cerut socoteală victimei pentru că se luase în trecut de fratele său mai mic, apoi ar fi doborât-o cu pumnii și ar fi sufocat-o cu piciorul pe gât."
+  },
+  {
     "group_id": "group_992792f69c",
     "category": "Általános",
     "is_synthesized": false,
@@ -88,12 +109,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Maszol",
         "title": "Tanítják a pedagógusokat a veszélyes tárgyak iskolai jelenlétének felismerésére",
         "link": "https://maszol.ro/belfold/Tanitjak-a-pedagogusokat-a-veszelyes-targyak-iskolai-jelenletenek-felismeresere"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MAI: Peste 100 de reprezentanți ai profesorilor - instruiți cum să fie atenți și să semnaleze portul de obiecte periculoase",
+        "link": "https://agerpres.ro/social/2026/11/01/mai-peste-100-de-reprezentanti-ai-profesorilor---instruiti-cum-sa-fie-atenti-si-sa-semnaleze-portul---1608814"
       }
     ],
     "published_at": 1793527560,
@@ -151,12 +177,17 @@
     "category": "Bulvár",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Scandal în familie, la Constanța. Un bărbat de 35 de ani și-a lovit tatăl",
         "link": "https://www.mediafax.ro/social/scandal-in-familie-la-constanta-un-barbat-de-35-de-ani-si-a-lovit-tatal-23835334"
+      },
+      {
+        "source": "Digi24",
+        "title": "Intervenție cu scandal în Constanța: un polițist a fost lovit de un bărbat. Acesta este cercetat pentru ultraj",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/interventie-cu-scandal-in-constanta-un-politist-a-fost-lovit-de-un-barbat-acesta-este-cercetat-pentru-ultraj-4017067"
       }
     ],
     "published_at": 1793527224,
@@ -237,7 +268,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -258,6 +289,11 @@
         "source": "G4Media",
         "title": "Accesul la medicamente şi la tratamente inovatoare nu trebuie să fie blocat de dispute politice, afirmă ministrul Sănătății",
         "link": "https://www.g4media.ro/accesul-la-medicamente-si-la-tratamente-inovatoare-nu-trebuie-sa-fie-blocat-de-dispute-politice-afirma-ministrul-sanatatii.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Ministrul Sănătății: Accesul la medicamente și la tratamente inovatoare nu trebuie să fie blocat de dispute politice",
+        "link": "https://agerpres.ro/sanatate/2026/11/01/ministrul-sanatatii-accesul-la-medicamente-si-la-tratamente-inovatoare-nu-trebuie-sa-fie-blocat-de-d--1608821"
       }
     ],
     "published_at": 1793526970,
@@ -486,7 +522,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Maszol",
@@ -517,6 +553,11 @@
         "source": "Adevărul",
         "title": "Vreme închisă și ploioasă, ninsori la munte şi intensificări ale vântului până miercuri. Județele care intră în Cod Portocaliu",
         "link": "https://adevarul.ro/stiri-interne/meteo/vreme-inchisa-si-ploioasa-ninsori-la-munte-si-2568051.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Cod portocaliu de precipitații abundente în vestul Carpaților Meridionali și în zona submontană a Olteniei, până luni dimineața",
+        "link": "https://agerpres.ro/social/2026/11/01/cod-portocaliu-de-precipitatii-abundente-in-vestul-carpatilor-meridionali-si-in-zona-submontana-a-ol--1608811"
       }
     ],
     "published_at": 1793526211,
@@ -1324,7 +1365,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Mediafax",
@@ -1340,6 +1381,11 @@
         "source": "Adevărul",
         "title": "România, promovată la BBC World News cu sprijinul lui Charlie Ottley. Trei spoturi în noiembrie",
         "link": "https://adevarul.ro/economie/romania-promovata-la-bbc-world-news-cu-sprijinul-2568062.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MEDAT: Trei spoturi de promovare a României vor fi difuzate pe BBC World News, în luna noiembrie",
+        "link": "https://agerpres.ro/economic/2026/11/01/medat-trei-spoturi-de-promovare-a-romaniei-vor-fi-difuzate-pe-bbc-world-news-in-luna-noiembrie--1608812"
       }
     ],
     "published_at": 1793523218,
@@ -1771,7 +1817,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 12,
+    "sources_count": 14,
     "sources": [
       {
         "source": "Digi24",
@@ -1832,6 +1878,16 @@
         "source": "Adevărul",
         "title": "Criză la Curtea Constituțională din Polonia. Susținătorii fostului partid de la guvernare acuză o „lovitură de stat”",
         "link": "https://adevarul.ro/stiri-externe/europa/criza-la-curtea-constitutionala-din-polonia-2567874.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Criză politică în Polonia/Președintele Nawrocki a avut consultări cu lideri politici în legătură cu disputa privind Tribunalul Constituțional",
+        "link": "https://agerpres.ro/politic-extern/2026/11/01/criza-politica-in-polonia-presedintele-nawrocki-a-avut-consultari-cu-lideri-politici-in-legatura-cu---1608824"
+      },
+      {
+        "source": "G4Media",
+        "title": "Preşedintele Nawrocki a avut consultări cu lideri politici în legătură cu disputa privind Tribunalul Constituţional, pe fondul crizei politice din Polonia",
+        "link": "https://www.g4media.ro/presedintele-nawrocki-a-avut-consultari-cu-lideri-politici-in-legatura-cu-disputa-privind-tribunalul-constitutional-pe-fondul-crizei-politice-din-polonia.html"
       }
     ],
     "published_at": 1793521547,
@@ -2520,7 +2576,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 14,
+    "sources_count": 15,
     "sources": [
       {
         "source": "Adevărul",
@@ -2591,6 +2647,11 @@
         "source": "GSP - Gazeta Sporturilor",
         "title": "Adversarul lui Cristi Chivu a luat decizia chiar înaintea derby-ului cu Inter: „Sunt îndrăgostit de club”",
         "link": "https://www.gsp.ro/international/campionate/christian-pulisic-prelunguire-contract-decizia-inaintea-derby-inter-indragostit-de-milan-994046.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: AC Milan a câștigat cu 3-1 derby-ul cu Inter în Serie A",
+        "link": "https://agerpres.ro/sport-extern/2026/11/01/fotbal-ac-milan-a-castigat-cu-3-1-derby-ul-cu-inter-in-serie-a--1608819"
       }
     ],
     "published_at": 1793519307,
@@ -4805,12 +4866,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "INTERVIU. Liderul USR, Dominic Fritz: „Cu Ilie Bolojan construim o alternativă politică pentru 2028”. Ce spune despre posibilitate de a pierde puterea în partid",
         "link": "https://hotnews.ro/interviu-liderul-usr-dominic-fritz-cu-ilie-bolojan-construim-o-alternativa-politica-pentru-2028-ce-spune-despre-posibilitate-de-a-pierde-puterea-in-partid-2391687"
+      },
+      {
+        "source": "Adevărul",
+        "title": "USR anunță planul pentru alegerile din 2028: „O guvernare fără PSD și AUR”. Fritz lasă deschisă ușa unei alianțe cu PNL",
+        "link": "https://adevarul.ro/politica/usr-anunta-planul-pentru-alegerile-din-2028-o-2568070.html"
       }
     ],
     "published_at": 1793509219,
@@ -5593,12 +5659,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Transtelex",
         "title": "Irán legfelsőbb vezetője arra utasította a katonai vezetőket, hogy földrajzi korlátozások nélküli lépéssel reagáljanak a támadásokra",
         "link": "https://transtelex.ro/kulfold/2026/10/31/iran-egyesult-allamok-tamadas-valasz-hatekony-azonnali-foldrajzi-korlatozasok-nelkul"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trump ar putea lansa o operațiune militară de amploare împotriva Iranului dacă republicanii pierd alegerile. Liderul suprem iranian cere un răspuns „maxim“",
+        "link": "https://adevarul.ro/stiri-externe/sua/trump-ar-putea-lansa-o-operatiune-militara-de-2568071.html"
       }
     ],
     "published_at": 1793479583,
@@ -7537,12 +7608,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Bayern - Borussia Dortmund, Der Klassiker în etapa #8 din Bundesliga » Start de partidă",
         "link": "https://www.gsp.ro/international/campionate/live-bayern-borussia-dortmund-der-klassiker-bundesliga-994243.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Bayern Munchen - Dortmund 2-2, în Der Klassiker din Bundesliga",
+        "link": "https://agerpres.ro/sport-extern/2026/11/01/fotbal-bayern-munchen---dortmund-2-2-in-der-klassiker-din-bundesliga--1608825"
       }
     ],
     "published_at": 1793467928,
@@ -9420,12 +9496,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Dezastru pentru Manchester United pe terenul lui Chelsea » Goodbye, Carrick?",
         "link": "https://www.gsp.ro/international/campionate/live-chelsea-manchester-united-etapa-9-premier-league-994219.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Chelsea - Manchester United 2-0, în etapa a 9-a din Premier League",
+        "link": "https://agerpres.ro/sport-extern/2026/11/01/fotbal-chelsea---manchester-united-2-0-in-etapa-a-9-a-din-premier-league--1608820"
       }
     ],
     "published_at": 1793457027,
@@ -12422,27 +12503,6 @@
     "content_ro": "Un croat a fost prins în Seiersberg la volanul unui Bugatti furat. Între timp, a ieșit la iveală un detaliu surprinzător: mașina îi aparține chiar șefului mărcii de lux."
   },
   {
-    "group_id": "group_fb70d0f70a",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Cele mai ciudate voturi de la Balonul de Aur 2026: Grecia l-a pus pe Kvaratskhelia primul, iar Mbappe și Yamal nu au prins Top 10",
-        "link": "https://www.g4media.ro/cele-mai-ciudate-voturi-de-la-balonul-de-aur-2026-grecia-l-a-pus-pe-kvaratskhelia-primul-iar-mbappe-si-yamal-nu-au-prins-top-10.html"
-      }
-    ],
-    "published_at": 1793441825,
-    "title_hu": "Cele mai ciudate voturi de la Balonul de Aur 2026: Grecia l-a pus pe Kvaratskhelia primul, iar Mbappe și Yamal nu au prins Top 10",
-    "lead_hu": "Harry Kane a câștigat Balonul de Aur 2026, atacantul englez având un avans de 28 de voturi față de Kylian Mbappe. Au fost jurnaliști care au avut alegeri cel puțin ciudate la ediția din acest an. Grec…",
-    "content_hu": "Harry Kane a câștigat Balonul de Aur 2026, atacantul englez având un avans de 28 de voturi față de Kylian Mbappe. Au fost jurnaliști care au avut alegeri cel puțin ciudate la ediția din acest an. Grecia nu a fost prezentă la Campionatul Mondial, iar jurnalistul care a votat pentru această țară nu i-a inclus […] © G4Media.ro.",
-    "title_ro": "Cele mai ciudate voturi de la Balonul de Aur 2026: Grecia l-a pus pe Kvaratskhelia primul, iar Mbappe și Yamal nu au prins Top 10",
-    "lead_ro": "Harry Kane a câștigat Balonul de Aur 2026, atacantul englez având un avans de 28 de voturi față de Kylian Mbappe. Au fost jurnaliști care au avut alegeri cel puțin ciudate la ediția din acest an. Grec…",
-    "content_ro": "Harry Kane a câștigat Balonul de Aur 2026, atacantul englez având un avans de 28 de voturi față de Kylian Mbappe. Au fost jurnaliști care au avut alegeri cel puțin ciudate la ediția din acest an. Grecia nu a fost prezentă la Campionatul Mondial, iar jurnalistul care a votat pentru această țară nu i-a inclus […] © G4Media.ro."
-  },
-  {
     "group_id": "group_9f1d394806",
     "fingerprint": "a54371b777585e2f3fdce321948bc08a",
     "category": "Politika",
@@ -12879,6 +12939,48 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "FRAGMENT DE ISTORIE: A fost deschis Rainbow Bridge, peste râul Niagara (1 noiembrie 1941)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_eb43648942",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Prognoză INHGA: Debitul maxim al Dunării, sub mediile multianuale în lunile noiembrie, decembrie și ianuarie",
+        "link": "https://agerpres.ro/social/2026/11/01/prognoza-inhga-debitul-maxim-al-dunarii-sub-mediile-multianuale-in-lunile-noiembrie-decembrie-si-ian--1608826"
+      }
+    ],
+    "published_at": 1793491200,
+    "title_hu": "Prognoză INHGA: Debitul maxim al Dunării, sub mediile multianuale în lunile noiembrie, decembrie și ianuarie",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Prognoză INHGA: Debitul maxim al Dunării, sub mediile multianuale în lunile noiembrie, decembrie și ianuarie",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_ac3d046974",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "BTA/90 de cercetători și 35 de proiecte în cadrul celei de-a 35-a expediții antarctice bulgare",
+        "link": "https://agerpres.ro/stiinta/2026/11/01/bta-90-de-cercetatori-si-35-de-proiecte-in-cadrul-celei-de-a-35-a-expeditii-antarctice-bulgare--1608822"
+      }
+    ],
+    "published_at": 1793491200,
+    "title_hu": "BTA/90 de cercetători și 35 de proiecte în cadrul celei de-a 35-a expediții antarctice bulgare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "BTA/90 de cercetători și 35 de proiecte în cadrul celei de-a 35-a expediții antarctice bulgare",
     "lead_ro": "",
     "content_ro": ""
   },
