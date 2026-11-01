@@ -115,7 +115,7 @@
   {
     "group_id": "group_a02844e85d",
     "category": "Politika",
-    "articles_count": 6,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Digi24",
@@ -125,15 +125,6 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793457744
-      },
-      {
-        "source": "Mediafax",
-        "title": "Criza din Polonia explicată. Cum s-a ajuns la haosul de la Varșovia și ce urmează",
-        "link": "https://www.mediafax.ro/externe/criza-din-polonia-explicata-cum-s-a-ajuns-la-haosul-de-la-varsovia-si-ce-urmeaza-23835105",
-        "summary": "Polonia traversează una dintre cele mai grave crize constituționale din ultimii ani, după ce o dispută pentru controlul Tribunalului Constituțional s-a transformat într-o confruntare între președintele Karol Nawrocki și guvernul premierului Donald Tusk.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793440552
       },
       {
         "source": "ProTV Stiri",
@@ -372,47 +363,6 @@
     ]
   },
   {
-    "group_id": "group_e316fd3c11",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Bővült az ENSZ-főtitkári posztra jelöltek száma",
-        "link": "https://maszol.ro/kulfold/Bovult-az-ENSZ-fotitkari-posztra-jeloltek-szama",
-        "summary": "Törökország pénteken hivatalosan is jelölte Feridun Sinirlioglut, az Európai Biztonsági és Együttműködési Szervezet (EBESZ) főtitkárát az ENSZ főtitkári posztjára – közölte a török külügyminisztérium.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793440320
-      },
-      {
-        "source": "Transtelex",
-        "title": "Újabb jelöltet neveztek ENSZ-főtitkárnak, nem Orbán Viktor az",
-        "link": "https://transtelex.ro/kulfold/2026/10/31/ujabb-jeloltet-neveztek-az-ensz-fotitkarnak",
-        "summary": "Törökország az EBESZ főtitkárát, Feridun Sinirlioğlu-t jelölte hivatalosan is a világszervezet élére. Orbán esetleges jelölését ellenezte a héten a vétőjoggal rendelkező Franciaország külügyminisztere.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793442431
-      }
-    ]
-  },
-  {
-    "group_id": "group_61f098e4e3",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "A köztisztviselők már rég rászabadították az AI-t az aktákra, az állam csak most próbál észbe kapni",
-        "link": "https://transtelex.ro/kozelet/2026/10/31/koztisztviselok-ai-hasznalat-szabalyozas",
-        "summary": "Miközben Romániában sem egységes szabályozás, sem biztonságos állami szerverrendszer nem létezik a mesterséges intelligencia hivatali használatára, a köztisztviselők csendben a maguk szakállára vetik be a ChatGPT-t és a Claude-ot a napi munkában.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793440587
-      }
-    ]
-  },
-  {
     "group_id": "group_337afbc603",
     "category": "Bulvár",
     "articles_count": 1,
@@ -441,22 +391,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793440988
-      }
-    ]
-  },
-  {
-    "group_id": "group_b10c235316",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Costuri mai mari pentru producători în SGR: tariful pentru ambalajele metalice s-a dublat în 2026",
-        "link": "https://adevarul.ro/economie/costuri-mai-mari-pentru-producatori-in-sgr-2567922.html",
-        "summary": "Tarifele de administrare achitate de producătorii de băuturi au crescut în 2026 cu 103% pentru ambalajele metalice și cu 40% pentru plasticul transparent, potrivit unei analize Adevărul Financiar. Aceste costuri sunt distincte de garanția de 50 de bani restituită consumatorilor.",
-        "category": "Gazdaság",
-        "is_b2b_only": false,
-        "published_at": 1793440592
       }
     ]
   },
@@ -2268,6 +2202,22 @@
     ]
   },
   {
+    "group_id": "group_e316fd3c11",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Transtelex",
+        "title": "Újabb jelöltet neveztek ENSZ-főtitkárnak, nem Orbán Viktor az",
+        "link": "https://transtelex.ro/kulfold/2026/10/31/ujabb-jeloltet-neveztek-az-ensz-fotitkarnak",
+        "summary": "Törökország az EBESZ főtitkárát, Feridun Sinirlioğlu-t jelölte hivatalosan is a világszervezet élére. Orbán esetleges jelölését ellenezte a héten a vétőjoggal rendelkező Franciaország külügyminisztere.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793442431
+      }
+    ]
+  },
+  {
     "group_id": "group_677b31265d",
     "category": "Sport",
     "articles_count": 2,
@@ -3399,7 +3349,7 @@
   {
     "group_id": "group_9f1d394806",
     "category": "Politika",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Digi24",
@@ -3418,6 +3368,15 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793461500
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Scandal la pariuri în jurul victoriei lui Harry Kane » Au precizat Top 5 înaintea oficializării câștigătorului",
+        "link": "https://www.gsp.ro/international/campionate/scandal-pariuri-balonul-de-aur-2026-harry-kane-994598.html",
+        "summary": "Harry Kane a primit Balonul de Aur 2026, lunea trecută, la Londra. El i-a învins în ancheta France Football pe Kylian Mbappe și pe Lamine Yamal. La nicio săptămână de la decernarea „Balonului de Aur”, o serie e pariuri suspecte fac vâlvă. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793526541
       }
     ]
   },
@@ -7761,7 +7720,7 @@
   {
     "group_id": "group_7b37bc40c2",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Digi24",
@@ -7816,6 +7775,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793517240
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cetățenii bulgari votează în turul al doilea al alegerilor prezidențiale. Tensiunile din Marea Neagră, în centrul scrutinului",
+        "link": "https://stirileprotv.ro/stiri/international/cetatenii-bulgari-voteaza-in-turul-al-doilea-al-alegerilor-prezidentiale-tensiunile-din-marea-neagra-in-centrul-scrutinului.html",
+        "summary": "Cetățenii bulgari au început să voteze duminică în cel de-al doilea tur al alegerilor prezidențiale, o cursă extrem de strânsă între doi candidați cu viziuni diferite asupra războiului din Ucraina și a relațiilor cu Rusia.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793526817
       }
     ]
   },
@@ -8854,7 +8822,7 @@
   {
     "group_id": "group_b2e29c48eb",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Digi24",
@@ -8909,6 +8877,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793491200
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Cinci cutremure în România, în doar câteva ore! Cât de sigur e județul Satu Mare",
+        "link": "https://www.presasm.ro/cinci-cutremure-in-romania-in-doar-cateva-ore-cat-de-sigur-e-judetul-satu-mare/54080",
+        "summary": "Activitate seismică intensă în România, în noaptea de sâmbătă spre duminică și în dimineața zilei de 1 noiembrie 2026. Nu mai puțin de cinci cutremure au fost înregistrate în zona seismică Vrancea–Buzău, într-un interval de aproximativ opt ore și jumătate. Cel…",
+        "category": "Erdély",
+        "is_b2b_only": false,
+        "published_at": 1793526360
       }
     ]
   },
@@ -10525,7 +10502,7 @@
   {
     "group_id": "group_cacafcdfe2",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -10535,6 +10512,47 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793526154
+      },
+      {
+        "source": "Digi24",
+        "title": "Noi medicamente ar putea intra pe lista celor compensate. Rogobete: „Accesul la tratamente nu trebuie blocat de dispute politice”",
+        "link": "https://www.digi24.ro/stiri/actualitate/noi-medicamente-ar-putea-intra-pe-lista-celor-compensate-rogobete-accesul-la-tratamente-nu-trebuie-blocat-de-dispute-politice-4017049",
+        "summary": "Ministrul Sănătății, Alexandru Rogobete, a anunțat că își propune ca noi medicamente să fie introduse pe lista celor compensate până la sfârșitul acestui an, pentru a facilita accesul pacienților la tratamente. Oficialul a solicitat organizarea unei întâlniri cu reprezentanții instituțiilor responsabile și ai producătorilor de medicamente, pentru accelerarea procedurilor administrative necesare actualizării listei.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793526970
+      }
+    ]
+  },
+  {
+    "group_id": "group_5e4764f32a",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Ce a făcut Alina Pușcău după ultima sesiune de chimioterapie: ”A fost incredibil de greu”",
+        "link": "https://www.cancan.ro/ce-a-facut-alina-puscau-dupa-ultima-sesiune-de-chimioterapie-a-fost-incredibil-de-greu-21540013",
+        "summary": "A trecut aproximativ un an de când Alina Pușcău a fost diagnosticată cu o formă de cancer mamar. După ce am a urmat un tratament extrem de agresiv împotriva celor 11 tumori depistate în organism, fotmodelul se bucură astăzi de rezultatele absolut miraculoase ale medicinei. Deși s-a vindecat de cancer, Alina Pușcău continuă chimioterapia. Lupta […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793526526
+      }
+    ]
+  },
+  {
+    "group_id": "group_851ee212d3",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Valeriu Stoica: Guvernul Luca Niculescu este unul atipic - o coaliție între PSD și Nicușor Dan, care are rădăcini mai vechi",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/valeriu-stoica-guvernul-luca-niculescu-este-unul-atipic-o-coalitie-intre-psd-si-nicusor-dan-una-care-are-radacini-mai-vechi-4015691",
+        "summary": "Valeriu Stoica a declarat, la emisiunea „În fața ta” de la Digi24, că guvernul condus de Luca Niculescu este unul atipic, fiind o coaliție între PSD și Nicușor Dan, una care nu a apărut din neant, ci are rădăcini mai vechi. Fostul președinte PNL crede că acest executiv va rezista până în 2028, „dacă nu cumva Luca Niculescu își va da demisia la un moment dat”. Valeriu Stoica a subliniat faptul că președintele Dan a făcut tot posibilul să evite o guvernare PSD-AUR, pentru că o alianță între aceste două partide „ar însemna o invitație permanentă la o suspendare a președintelui”.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793526881
       }
     ]
   }
