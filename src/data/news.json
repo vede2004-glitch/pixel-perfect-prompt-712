@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_1ffc48b67d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Magyarországon utaztak a legtöbbet vonattal az EU-ban",
+        "link": "https://www.mediatica.ro/rovatok/magyar-hirado/magyarorszagon-utaztak-a-legtobbet-vonattal-az-eu-ban"
+      }
+    ],
+    "published_at": 1793645375,
+    "title_hu": "Magyarországon utaztak a legtöbbet vonattal az EU-ban",
+    "lead_hu": "A vasúton megtett utaskilométerek tekintetében Magyarország Franciaország és Ausztria előtt végzett az élen,...",
+    "content_hu": "A vasúton megtett utaskilométerek tekintetében Magyarország Franciaország és Ausztria előtt végzett az élen,",
+    "title_ro": "Magyarországon utaztak a legtöbbet vonattal az EU-ban",
+    "lead_ro": "A vasúton megtett utaskilométerek tekintetében Magyarország Franciaország és Ausztria előtt végzett az élen,...",
+    "content_ro": "A vasúton megtett utaskilométerek tekintetében Magyarország Franciaország és Ausztria előtt végzett az élen,"
+  },
+  {
     "group_id": "group_73b240e427",
     "category": "Általános",
     "is_synthesized": false,
@@ -508,12 +529,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Putin a ordonat centrelor de date private să aloce 10% din capacitate pentru a susține infrastructura IT a Rusiei",
         "link": "https://www.mediafax.ro/stirile-zilei/putin-a-ordonat-centrelor-de-date-private-sa-aloce-10-din-capacitate-pentru-a-sustine-infrastructura-it-a-rusiei-23836129"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vladimir Putin a semnat un nou decret privind infrastructura informatică din Rusia. Ce obligații vor avea centrele de date",
+        "link": "https://stirileprotv.ro/stiri/international/vladimir-putin-a-semnat-un-nou-decret-privind-infrastructura-informatica-din-rusia-ce-obligatii-vor-avea-centrele-de-date.html"
       }
     ],
     "published_at": 1793642408,
@@ -1249,7 +1275,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Mediafax",
@@ -1275,6 +1301,11 @@
         "source": "Agerpres (HU)",
         "title": "SRI - memorandum cu SUA pentru schimb de informații în domeniul securității aviației civile",
         "link": "https://agerpres.ro/social/2026/11/02/sri---memorandum-cu-sua-pentru-schimb-de-informatii-in-domeniul-securitatii-aviatiei-civile--1609285"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "SRI, memorandum cu SUA. Instituția din domeniul aviației cu care va face schimb de informații",
+        "link": "https://hotnews.ro/sri-memorandum-cu-sua-institutia-din-domeniul-aviatiei-cu-care-va-face-schimb-de-informatii-2392941"
       }
     ],
     "published_at": 1793640833,
@@ -1949,7 +1980,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Digi24",
@@ -1965,6 +1996,11 @@
         "source": "ProTV Stiri",
         "title": "Sindicatele cer salariul minim brut de 5.000 lei. Cu cât promite PSD că va mări pensiile | GRAFIC",
         "link": "https://stirileprotv.ro/stiri/social/sindicatele-cer-salariul-minim-brut-de-5-000-lei-cu-cat-promite-psd-ca-va-mari-pensiile-grafic.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Sindicatele i-au cerut premierului Luca Niculescu ca salariul minim să crească la 5.000 de lei: „Nu este o nebunie din capul liderilor de sindicat”",
+        "link": "https://adevarul.ro/economie/sindicatele-i-au-cerut-premierului-luca-niculescu-2568426.html"
       }
     ],
     "published_at": 1793639579,
@@ -2977,7 +3013,7 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Digi24",
@@ -2988,6 +3024,11 @@
         "source": "HotNews.ro",
         "title": "VIDEO Reacția lui Alfred Simonis la valul de critici după petrecerea de botez a copilului său",
         "link": "https://hotnews.ro/video-reactia-lui-alfred-simonis-dupa-criticile-privind-luxul-afisat-de-lideri-ai-psd-la-botezul-copilului-sau-2392897"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alfred Simonis îi ironizează pe cei care au criticat petrecerea de botez: „Au stat la pândă, prin boscheți, să comenteze”",
+        "link": "https://adevarul.ro/politica/alfred-simonis-ii-ironizeaza-pe-cei-care-au-2568435.html"
       }
     ],
     "published_at": 1793636773,
