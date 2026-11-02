@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_da1d69feeb",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "CSM Oradea joacă marți pe terenul liderului din Mykonos. Meci important pentru primul loc în FIBA Europe Cup",
+        "link": "https://www.ebihoreanul.ro/stiri/csm-oradea-joaca-marti-pe-terenul-liderului-din-mykonos-meci-important-pentru-primul-loc-in-fiba-europe-cup-206298.html"
+      }
+    ],
+    "published_at": 1793646060,
+    "title_hu": "CSM Oradea joacă marți pe terenul liderului din Mykonos. Meci important pentru primul loc în FIBA Europe Cup",
+    "lead_hu": "CSM CSU Raiffeisen Oradea are în față unul dintre cele mai dificile meciuri din actuala campanie europeană. Marți seara, de la ora 19:00, baschetbaliștii bihoreni joacă în deplasare cu Mykonos Betsson...",
+    "content_hu": "CSM CSU Raiffeisen Oradea are în față unul dintre cele mai dificile meciuri din actuala campanie europeană. Marți seara, de la ora 19:00, baschetbaliștii bihoreni joacă în deplasare cu Mykonos Betsson BC, liderul neînvins al Grupei H din FIBA Europe Cup, într-o partidă în care o victorie le-ar putea aduce orădenilor primul loc în clasament.",
+    "title_ro": "CSM Oradea joacă marți pe terenul liderului din Mykonos. Meci important pentru primul loc în FIBA Europe Cup",
+    "lead_ro": "CSM CSU Raiffeisen Oradea are în față unul dintre cele mai dificile meciuri din actuala campanie europeană. Marți seara, de la ora 19:00, baschetbaliștii bihoreni joacă în deplasare cu Mykonos Betsson...",
+    "content_ro": "CSM CSU Raiffeisen Oradea are în față unul dintre cele mai dificile meciuri din actuala campanie europeană. Marți seara, de la ora 19:00, baschetbaliștii bihoreni joacă în deplasare cu Mykonos Betsson BC, liderul neînvins al Grupei H din FIBA Europe Cup, într-o partidă în care o victorie le-ar putea aduce orădenilor primul loc în clasament."
+  },
+  {
+    "group_id": "group_4de7018777",
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Újraindul a roncsautóprogram: keddtől ismét lehet regisztrálni",
+        "link": "https://www.mediatica.ro/hirek/gazdasag/ujraindul-a-roncsautoprogram-kedden-ismet-lehet-regisztralni"
+      }
+    ],
+    "published_at": 1793645934,
+    "title_hu": "Újraindul a roncsautóprogram: keddtől ismét lehet regisztrálni",
+    "lead_hu": "A támogatás összege a jármű típusától függően 10 ezer és 18.500 lej között van....",
+    "content_hu": "A támogatás összege a jármű típusától függően 10 ezer és 18.500 lej között van.",
+    "title_ro": "Újraindul a roncsautóprogram: keddtől ismét lehet regisztrálni",
+    "lead_ro": "A támogatás összege a jármű típusától függően 10 ezer és 18.500 lej között van....",
+    "content_ro": "A támogatás összege a jármű típusától függően 10 ezer és 18.500 lej között van."
+  },
+  {
     "group_id": "group_7a4bfabcb7",
     "category": "Általános",
     "is_synthesized": false,
@@ -1474,7 +1516,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "Mediafax",
@@ -1505,6 +1547,11 @@
         "source": "HotNews.ro",
         "title": "SRI, memorandum cu SUA. Instituția din domeniul aviației cu care va face schimb de informații",
         "link": "https://hotnews.ro/sri-memorandum-cu-sua-institutia-din-domeniul-aviatiei-cu-care-va-face-schimb-de-informatii-2392941"
+      },
+      {
+        "source": "G4Media",
+        "title": "Memorandum între Serviciul Român de Informații și Transportation Security Administration SUA",
+        "link": "https://www.g4media.ro/memorandum-intre-serviciul-roman-de-informatii-si-transportation-security-administration-sua.html"
       }
     ],
     "published_at": 1793640833,
@@ -3983,7 +4030,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "G4Media",
@@ -3999,6 +4046,11 @@
         "source": "Mediafax",
         "title": "Italia reduce aproape 7.000 de posturi în școli, pe fondul scăderii natalității / Sindicatele și profesorii se revoltă",
         "link": "https://www.mediafax.ro/externe/italia-reduce-aproape-7-000-de-posturi-in-scoli-pe-fondul-scaderii-natalitatii-sindicatele-si-profesorii-se-revolta-23836045"
+      },
+      {
+        "source": "Digi24",
+        "title": "Guvernul italian taie mii de posturi din şcoli. Decizia a declanșat proteste din partea sindicatelor",
+        "link": "https://www.digi24.ro/stiri/externe/guvernul-italian-taie-mii-de-posturi-din-scoli-decizia-a-declansat-proteste-din-partea-sindicatelor-4018941"
       }
     ],
     "published_at": 1793634940,
@@ -18639,27 +18691,6 @@
     "content_ro": "Mai mulți lideri PSD au petrecut sâmbătă seară, la Temesvár, la botezul fiului lui Alfred Simonis, președintele Consiliului Județean Timiș, cu Sorin Grindeanu în rol de naș și Al Bano printre artiștii invitați să cânte. Imaginile de la eveniment, cu ținute de gală, blănuri și accesorii scumpe, au stârnit un val de reacții online și critici din partea unor politicieni PNL și USR, care le-au reproșat social-democraților luxul afișat într-o perioadă de austeritate."
   },
   {
-    "group_id": "group_52632f4687",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "INNA, tot mai rar pe micul ecran! De ce a ales artista să renunțe la aparițiile TV frecvente",
-        "link": "https://www.cancan.ro/inna-tot-mai-rar-pe-micul-ecran-de-ce-a-ales-artista-sa-renunte-la-aparitiile-tv-frecvente-21539947"
-      }
-    ],
-    "published_at": 1793559655,
-    "title_hu": "INNA, tot mai rar pe micul ecran! De ce a ales artista să renunțe la aparițiile TV frecvente",
-    "lead_hu": "Este o fire nonconformistă, adoră distracția și nu se ferește să iasă din tipare, însă există o sărbătoare pe care INNA nu a bifat-o niciodată! De ce nu a intrat îndrăgita artistă în spiritul Hallowee…",
-    "content_hu": "Este o fire nonconformistă, adoră distracția și nu se ferește să iasă din tipare, însă există o sărbătoare pe care INNA nu a bifat-o niciodată! De ce nu a intrat îndrăgita artistă în spiritul Halloween-ului și ce se ascunde în spatele acestei alegeri? CANCAN.RO are declarații în exclusivitate. INNA este una dintre artistele care au […]",
-    "title_ro": "INNA, tot mai rar pe micul ecran! De ce a ales artista să renunțe la aparițiile TV frecvente",
-    "lead_ro": "Este o fire nonconformistă, adoră distracția și nu se ferește să iasă din tipare, însă există o sărbătoare pe care INNA nu a bifat-o niciodată! De ce nu a intrat îndrăgita artistă în spiritul Hallowee…",
-    "content_ro": "Este o fire nonconformistă, adoră distracția și nu se ferește să iasă din tipare, însă există o sărbătoare pe care INNA nu a bifat-o niciodată! De ce nu a intrat îndrăgita artistă în spiritul Halloween-ului și ce se ascunde în spatele acestei alegeri? CANCAN.RO are declarații în exclusivitate. INNA este una dintre artistele care au […]"
-  },
-  {
     "group_id": "group_e006ac95c6",
     "fingerprint": "c77340045f3460fd1c470c842f2b2105",
     "category": "Általános",
@@ -19698,7 +19729,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Agerpres (HU)",
@@ -19714,6 +19745,11 @@
         "source": "ProTV Stiri",
         "title": "Statul român va oferi recompense în bani celor care găsesc vulnerabilități în sistemele informatice ale autorităților",
         "link": "https://stirileprotv.ro/stiri/actualitate/statul-roman-va-oferi-recompense-in-bani-celor-care-gasesc-vulnerabilitati-in-sistemele-informatice-ale-autoritatilor.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Statul român îi va plăti pe cei care vor descoperi breșe de securitate în sistemele informatice ale instituțiilor publice",
+        "link": "https://www.digi24.ro/stiri/statul-roman-ii-va-plati-pe-cei-care-vor-descoperi-brese-de-securitate-in-sistemele-informatice-ale-institutiilor-publice-4018949"
       }
     ],
     "published_at": 1793577600,
