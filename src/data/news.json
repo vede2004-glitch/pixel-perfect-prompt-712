@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_8b668bd77e",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Mesajul transmis de Cristina Șișcanu, cu o zi înainte să împlinească 42 de ani: ”Anul acesta este diferit”",
+        "link": "https://www.cancan.ro/mesajul-transmis-de-cristina-siscanu-cu-o-zi-inainte-sa-implineasca-42-de-ani-anul-acesta-este-diferit-21540824"
+      }
+    ],
+    "published_at": 1793643641,
+    "title_hu": "Mesajul transmis de Cristina Șișcanu, cu o zi înainte să împlinească 42 de ani: ”Anul acesta este diferit”",
+    "lead_hu": "Cristina Șișcanu împlinește 42 de ani și a decis să își sărbătorească ziua de naștere diferit față de anii trecuți. Dacă obișnuia să plece într-un oraș frumos din Europa sau să meargă la un restaurant...",
+    "content_hu": "Cristina Șișcanu împlinește 42 de ani și a decis să își sărbătorească ziua de naștere diferit față de anii trecuți. Dacă obișnuia să plece într-un oraș frumos din Europa sau să meargă la un restaurant deosebit, de această dată, vedeta nu a pregătit nimic special. De-a lungul timpului, Cristina Șișcanu a demonstrat că este o […]",
+    "title_ro": "Mesajul transmis de Cristina Șișcanu, cu o zi înainte să împlinească 42 de ani: ”Anul acesta este diferit”",
+    "lead_ro": "Cristina Șișcanu împlinește 42 de ani și a decis să își sărbătorească ziua de naștere diferit față de anii trecuți. Dacă obișnuia să plece într-un oraș frumos din Europa sau să meargă la un restaurant...",
+    "content_ro": "Cristina Șișcanu împlinește 42 de ani și a decis să își sărbătorească ziua de naștere diferit față de anii trecuți. Dacă obișnuia să plece într-un oraș frumos din Europa sau să meargă la un restaurant deosebit, de această dată, vedeta nu a pregătit nimic special. De-a lungul timpului, Cristina Șișcanu a demonstrat că este o […]"
+  },
+  {
     "group_id": "group_3aec8ce0bd",
     "category": "Politika",
     "is_synthesized": false,
@@ -849,7 +870,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Mediafax",
@@ -865,6 +886,11 @@
         "source": "HotNews.ro",
         "title": "Martha Stewart prezintă scuze pentru costumul său de Halloween. În ce s-a deghizat",
         "link": "https://hotnews.ro/martha-stewart-prezinta-scuze-pentru-costumul-sau-de-halloween-in-ce-s-a-deghizat-2392896"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Martha Stewart își cere scuze după ce s-a deghizat de Halloween într-o persoană fără adăpost",
+        "link": "https://agerpres.ro/zigzag/2026/11/02/martha-stewart-isi-cere-scuze-dupa-ce-s-a-deghizat-de-halloween-intr-o-persoana-fara-adapost--1609270"
       }
     ],
     "published_at": 1793640888,
@@ -945,7 +971,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Mediafax",
@@ -966,6 +992,11 @@
         "source": "ProTV Stiri",
         "title": "SRI a încheiat un memorandum pentru schimb de informații cu o structură a Departamentului de Securitate Națională al SUA",
         "link": "https://stirileprotv.ro/stiri/international/sri-a-incheiat-un-memorandum-pentru-schimb-de-informatii-cu-o-structura-a-departamentului-de-securitate-nationala-al-sua.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SRI - memorandum cu SUA pentru schimb de informații în domeniul securității aviației civile",
+        "link": "https://agerpres.ro/social/2026/11/02/sri---memorandum-cu-sua-pentru-schimb-de-informatii-in-domeniul-securitatii-aviatiei-civile--1609285"
       }
     ],
     "published_at": 1793640833,
@@ -1004,7 +1035,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "Digi24",
@@ -1020,6 +1051,11 @@
         "source": "Digi24",
         "title": "30 de mașini au fost avariate și peste 40 de copaci au fost doborâți în urma ploilor şi a vântului puternic în București și Ilfov",
         "link": "https://www.digi24.ro/stiri/actualitate/30-de-masini-au-fost-avariate-si-peste-40-de-copaci-au-fost-doborati-in-urma-ploilor-si-a-vantului-puternic-in-bucuresti-si-ilfov-4018871"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "ISUBIF: 43 de copaci căzuți în București în urma furtunii; 30 de autoturisme, avariate",
+        "link": "https://agerpres.ro/social/2026/11/02/isubif-43-de-copaci-cazuti-in-bucuresti-in-urma-furtunii-30-de-autoturisme-avariate--1609275"
       }
     ],
     "published_at": 1793640804,
@@ -1607,12 +1643,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Un judecător a anulat procedura judiciară împotriva unor foşti oficiali FBI care au fost acuzați că au mințit în cazul Hunter Biden",
         "link": "https://www.digi24.ro/stiri/externe/sua/un-judecator-a-anulat-procedura-judiciara-impotriva-unor-fosti-oficiali-fbi-care-au-fost-acuzati-ca-au-mintit-in-cazul-hunter-biden-4018847"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SUA/Un judecător a anulat procedura judiciară împotriva unor foști oficiali FBI în cazul Hunter Biden",
+        "link": "https://agerpres.ro/politic-extern/2026/11/02/sua-un-judecator-a-anulat-procedura-judiciara-impotriva-unor-fosti-oficiali-fbi-in-cazul-hunter-bide--1609265"
       }
     ],
     "published_at": 1793639609,
@@ -2705,7 +2746,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -2716,6 +2757,11 @@
         "source": "Mediafax",
         "title": "Bicarbonatul și mașina de spălat. Cum își spală italienii hainele și ce greșeală poate comprimite efectul",
         "link": "https://www.mediafax.ro/life-inedit/bicarbonatul-si-masina-de-spalat-cum-isi-spala-italienii-hainele-si-ce-greseala-poate-comprimite-efectul-23836061"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Bicarbonatul și mașina de spălat. Cum își spală italienii hainele și ce greșeală poate compromite efectul",
+        "link": "https://www.mediafax.ro/life-inedit/bicarbonatul-si-masina-de-spalat-cum-isi-spala-italienii-hainele-si-ce-greseala-poate-compromite-efectul-23836061"
       }
     ],
     "published_at": 1793636374,
@@ -15868,12 +15914,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Maszol",
         "title": "Parkoló kamionnak csapódott egy személygépkocsi, a sofőr szörnyethalt",
         "link": "https://maszol.ro/belfold/Parkolo-kamionnak-csapodott-egy-szemelygepkocsi-a-sofor-szornyethalt"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Frontálisan ütközött egy kamionnal, meghalt a 28 éves sofőr",
+        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/frontalisan-utkozott-egy-kamionnal-meghalt-a-28-eves-sofor"
       }
     ],
     "published_at": 1793597400,
@@ -18212,27 +18263,6 @@
     "content_ro": "Un bărbat a murit duminică seară, după ce a fost lovit de o mașină pe șoseaua Borșului din Nagyvárad, în zona magazinului Lidl. Martorii spun că pietonul ar fi traversat pe culoarea roșie a semaforului și ar fi fost lovit de o mașină marca Toyota."
   },
   {
-    "group_id": "group_1c03271642",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Senatorul democrat Chris Murphy, spitalizat după ce a suferit un atac cerebral / A atacat recent planul lui Trump de a escalada răboiul din Iran",
-        "link": "https://www.g4media.ro/senatorul-democrat-chris-murphy-spitalizat-dupa-ce-a-suferit-un-atac-cerebral-a-atacat-recent-planul-lui-trump-de-a-escalada-raboiul-din-iran.html"
-      }
-    ],
-    "published_at": 1793557427,
-    "title_hu": "Senatorul democrat Chris Murphy, spitalizat după ce a suferit un atac cerebral / A atacat recent planul lui Trump de a escalada răboiul din Iran",
-    "lead_hu": "Senatorul democrat Chris Murphy, în vârstă de 53 de ani, a fost spitalizat după ce a suferit un atac cerebral, a declarat duminică şefa sa de personal, relatează Agerpres, care citează Reuters. Murphy…",
-    "content_hu": "Senatorul democrat Chris Murphy, în vârstă de 53 de ani, a fost spitalizat după ce a suferit un atac cerebral, a declarat duminică şefa sa de personal, relatează Agerpres, care citează Reuters. Murphy a început să simtă o amorţeală în braţ în timp ce asista la un meci de hochei al fiului său sâmbătă după-amiază, […] © G4Media.ro.",
-    "title_ro": "Senatorul democrat Chris Murphy, spitalizat după ce a suferit un atac cerebral / A atacat recent planul lui Trump de a escalada răboiul din Iran",
-    "lead_ro": "Senatorul democrat Chris Murphy, în vârstă de 53 de ani, a fost spitalizat după ce a suferit un atac cerebral, a declarat duminică şefa sa de personal, relatează Agerpres, care citează Reuters. Murphy…",
-    "content_ro": "Senatorul democrat Chris Murphy, în vârstă de 53 de ani, a fost spitalizat după ce a suferit un atac cerebral, a declarat duminică şefa sa de personal, relatează Agerpres, care citează Reuters. Murphy a început să simtă o amorţeală în braţ în timp ce asista la un meci de hochei al fiului său sâmbătă după-amiază, […] © G4Media.ro."
-  },
-  {
     "group_id": "group_e006ac95c6",
     "fingerprint": "c77340045f3460fd1c470c842f2b2105",
     "category": "Általános",
@@ -19006,6 +19036,305 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Ministrul Mediului, în contextul avertizărilor de ploi: Recomandăm autorităților locale vigilență sporită",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_7edbfd2b01",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Hunedoara: Patru persoane rănite într-un grav accident de circulație, la Petroșani",
+        "link": "https://agerpres.ro/social/2026/11/02/hunedoara-patru-persoane-ranite-intr-un-grav-accident-de-circulatie-la-petrosani--1609292"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Hunedoara: Patru persoane rănite într-un grav accident de circulație, la Petroșani",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Hunedoara: Patru persoane rănite într-un grav accident de circulație, la Petroșani",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_2703896487",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "JOT 2026: Robert Istrate s-a calificat pe tabloul principal la simplu masculin în turneul de tenis de masă",
+        "link": "https://agerpres.ro/sport-extern/2026/11/02/jot-2026-robert-istrate-s-a-calificat-pe-tabloul-principal-la-simplu-masculin-in-turneul-de-tenis-de--1609291"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "JOT 2026: Robert Istrate s-a calificat pe tabloul principal la simplu masculin în turneul de tenis de masă",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "JOT 2026: Robert Istrate s-a calificat pe tabloul principal la simplu masculin în turneul de tenis de masă",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_185438ef24",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Vrancea: Două femei, rănite într-un accident rutier pe DN 2; unul dintre autoturismele implicate a luat foc",
+        "link": "https://agerpres.ro/social/2026/11/02/vrancea-doua-femei-ranite-intr-un-accident-rutier-pe-dn-2-unul-dintre-autoturismele-implicate-a-luat--1609288"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Vrancea: Două femei, rănite într-un accident rutier pe DN 2; unul dintre autoturismele implicate a luat foc",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Vrancea: Două femei, rănite într-un accident rutier pe DN 2; unul dintre autoturismele implicate a luat foc",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_a7075c9b35",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: 'PSG, cea mai bună echipă din Liga Campionilor', spune antrenorul lui Villarreal",
+        "link": "https://agerpres.ro/sport-extern/2026/11/02/fotbal-psg-cea-mai-buna-echipa-din-liga-campionilor-spune-antrenorul-lui-villarreal--1609290"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Fotbal: 'PSG, cea mai bună echipă din Liga Campionilor', spune antrenorul lui Villarreal",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: 'PSG, cea mai bună echipă din Liga Campionilor', spune antrenorul lui Villarreal",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_50a99011eb",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Zverev, numărul 1 mondial, încearcă o emoție 'diferită' de cea de la câștigarea primului titlu de Mare Șlem",
+        "link": "https://agerpres.ro/sport-extern/2026/11/02/tenis-zverev-numarul-1-mondial-incearca-o-emotie-diferita-de-cea-de-la-castigarea-primului-titlu-de---1609286"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Tenis: Zverev, numărul 1 mondial, încearcă o emoție 'diferită' de cea de la câștigarea primului titlu de Mare Șlem",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Zverev, numărul 1 mondial, încearcă o emoție 'diferită' de cea de la câștigarea primului titlu de Mare Șlem",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_a1fae47015",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Marea Britanie: Guvernul confirmă o înăsprire a condițiilor pentru rezidență permanentă",
+        "link": "https://agerpres.ro/politic-extern/2026/11/02/marea-britanie-guvernul-confirma-o-inasprire-a-conditiilor-pentru-rezidenta-permanenta--1609284"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Marea Britanie: Guvernul confirmă o înăsprire a condițiilor pentru rezidență permanentă",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Marea Britanie: Guvernul confirmă o înăsprire a condițiilor pentru rezidență permanentă",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_16ecd0cfdd",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Cântărețul Boy George, primit la Ierusalim de președintele Israelului",
+        "link": "https://agerpres.ro/zigzag/2026/11/02/cantaretul-boy-george-primit-la-ierusalim-de-presedintele-israelului--1609282"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Cântărețul Boy George, primit la Ierusalim de președintele Israelului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Cântărețul Boy George, primit la Ierusalim de președintele Israelului",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_cabdf3ab10",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Farul Constanța a câștigat la Voluntari, în Superligă",
+        "link": "https://agerpres.ro/sport/2026/11/02/fotbal-farul-constanta-a-castigat-la-voluntari-in-superliga--1609283"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Fotbal: Farul Constanța a câștigat la Voluntari, în Superligă",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Farul Constanța a câștigat la Voluntari, în Superligă",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_1156fac19d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Operațiunea JUPITER, în Ilfov: Peste 1,3 tone de petarde și artificii, ridicate de polițiști",
+        "link": "https://agerpres.ro/justitie/2026/11/02/operatiunea-jupiter-in-ilfov-peste-1-3-tone-de-petarde-si-artificii-ridicate-de-politisti--1609289"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Operațiunea JUPITER, în Ilfov: Peste 1,3 tone de petarde și artificii, ridicate de polițiști",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Operațiunea JUPITER, în Ilfov: Peste 1,3 tone de petarde și artificii, ridicate de polițiști",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_93738ebbeb",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Astronauta franceză Sophie Adenot ''visează'' să ajungă pe Lună",
+        "link": "https://agerpres.ro/stiinta/2026/11/02/astronauta-franceza-sophie-adenot-viseaza-sa-ajunga-pe-luna--1609280"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Astronauta franceză Sophie Adenot ''visează'' să ajungă pe Lună",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Astronauta franceză Sophie Adenot ''visează'' să ajungă pe Lună",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_95b981b26a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Franța: Elevii și studenții cheamă la o 'zi neagră' marți și o mobilizare masivă odată cu greva generală joi",
+        "link": "https://agerpres.ro/social-extern/2026/11/02/franta-elevii-si-studentii-cheama-la-o-zi-neagra-marti-si-o-mobilizare-masiva-odata-cu-greva-general--1609276"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Franța: Elevii și studenții cheamă la o 'zi neagră' marți și o mobilizare masivă odată cu greva generală joi",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Franța: Elevii și studenții cheamă la o 'zi neagră' marți și o mobilizare masivă odată cu greva generală joi",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_dc48219467",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Messi, Ronaldo, Yamal, Cucurella, Raya, Pedri și Rodri, printre nominalizații la 'echipa ideală mondială'",
+        "link": "https://agerpres.ro/sport-extern/2026/11/02/fotbal-messi-ronaldo-yamal-cucurella-raya-pedri-si-rodri-printre-nominalizatii-la-echipa-ideala-mond--1609273"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Fotbal: Messi, Ronaldo, Yamal, Cucurella, Raya, Pedri și Rodri, printre nominalizații la 'echipa ideală mondială'",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Messi, Ronaldo, Yamal, Cucurella, Raya, Pedri și Rodri, printre nominalizații la 'echipa ideală mondială'",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_56438943fb",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Senat: DNSC va iniția programe de identificare a vulnerabilităților în sistemele informatice ale autorităților publice, cu acordarea de recompense",
+        "link": "https://agerpres.ro/viata-parlamentara/2026/11/02/senat-dnsc-va-initia-programe-de-identificare-a-vulnerabilitatilor-in-sistemele-informatice-ale-auto--1609277"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Statul român va oferi recompense în bani celor care găsesc vulnerabilități în sistemele informatice ale autorităților",
+        "link": "https://stirileprotv.ro/stiri/ilikeit/statul-roman-va-oferi-recompense-in-bani-celor-care-gasesc-vulnerabilitati-in-sistemele-informatice-ale-autoritatilor.html"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Senat: DNSC va iniția programe de identificare a vulnerabilităților în sistemele informatice ale autorităților publice, cu acordarea de recompense",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Senat: DNSC va iniția programe de identificare a vulnerabilităților în sistemele informatice ale autorităților publice, cu acordarea de recompense",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_20909651d1",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Israel: Blocul anti-Netanyahu se întrunește marți, pentru prima oară după alegeri",
+        "link": "https://agerpres.ro/politic-extern/2026/11/02/israel-blocul-anti-netanyahu-se-intruneste-marti-pentru-prima-oara-dupa-alegeri--1609268"
+      }
+    ],
+    "published_at": 1793577600,
+    "title_hu": "Israel: Blocul anti-Netanyahu se întrunește marți, pentru prima oară după alegeri",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Israel: Blocul anti-Netanyahu se întrunește marți, pentru prima oară după alegeri",
     "lead_ro": "",
     "content_ro": ""
   },
