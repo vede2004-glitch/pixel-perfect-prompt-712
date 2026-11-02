@@ -136,49 +136,6 @@
     ]
   },
   {
-    "group_id": "group_ff4a270681",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Primele temperaturi negative ale sezonului în București? Prognozele indică minus 1 grad. Când vine frigul",
-        "link": "https://www.mediafax.ro/stirile-zilei/primele-temperaturi-negative-ale-sezonului-in-bucuresti-prognozele-indica-minus-1-grad-cand-vine-frigul-23835262",
-        "summary": "Bucureștiul ar putea înregistra primele temperaturi sub zero grade Celsius din acest sezon în jurul datei de 8 noiembrie, potrivit mai multor prognoze meteorologice. După un început de noiembrie ploios, vremea se va răci considerabil, iar temperaturile nocturne vor coborî spre pragul înghețului. Unele modele indică minime de până la minus 1 grad Celsius în Capitală și în zona Otopeni.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793507606
-      },
-      {
-        "source": "Mediafax",
-        "title": "Vreme rea în România! Cod portocaliu de ploi și ninsori la munte. Rafale de vânt de până la 80 km/h",
-        "link": "https://www.mediafax.ro/meteo/vreme-rea-in-romania-cod-portocaliu-de-ploi-si-ninsori-la-munte-rafale-de-vant-de-pana-la-80-km-h-23835318",
-        "summary": "Administrația Națională de Meteorologie a emis o informare meteorologică și mai multe avertizări Cod galben și Cod portocaliu de ploi abundente, ninsori și vânt puternic, valabile în perioada 1-4 noiembrie. Cele mai importante cantități de precipitații sunt așteptate în Oltenia și în vestul Carpaților Meridionali, unde pot ajunge la 70 l/mp.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793521376
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Patru zile de avertizări de ploi însemnate, frig și ninsori. Care sunt cele mai afectate zone ale țării | HARTĂ",
-        "link": "https://stirileprotv.ro/stiri/vremea/patru-zile-de-avertizari-de-ploi-insemnate-frig-si-ninsori-care-sunt-cele-mai-afectate-zone-ale-tarii-harta.html",
-        "summary": "România intră sub un val de vreme rea începând de duminică, 1 noiembrie. Meteorologii au emis avertizări de ploi însemnate cantitativ, intensificări ale vântului și ninsori la altitudini mari, valabile până miercuri, 4 noiembrie, la ora 20:00.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793522568
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ziua de 1 noiembrie în care în România s-au înregistrat temperaturi de peste 30 de grade Celsius",
-        "link": "https://hotnews.ro/ziua-de-1-noiembrie-in-care-in-romania-s-au-inregistrat-temperaturi-de-peste-30-de-grade-celsius-2391549",
-        "summary": "În prima zi de noiembrie din 2026, cele mai ridicate temperaturi din țară vor atinge 16-17 grade Celsius, conform prognozei ANM. În urmă cu exact un secol, un val de căldură fără precedent aducea însă temperaturi tropicale în zone din Muntenia și Moldova. Prognoza ANM pentru 1 noiembrie 2026 arată minime între 2 și 12 …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793527900
-      }
-    ]
-  },
-  {
     "group_id": "group_985c7108ae",
     "category": "Bulvár",
     "articles_count": 1,
@@ -3204,6 +3161,40 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793521711
+      }
+    ]
+  },
+  {
+    "group_id": "group_ff4a270681",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Vreme rea în România! Cod portocaliu de ploi și ninsori la munte. Rafale de vânt de până la 80 km/h",
+        "link": "https://www.mediafax.ro/meteo/vreme-rea-in-romania-cod-portocaliu-de-ploi-si-ninsori-la-munte-rafale-de-vant-de-pana-la-80-km-h-23835318",
+        "summary": "Administrația Națională de Meteorologie a emis o informare meteorologică și mai multe avertizări Cod galben și Cod portocaliu de ploi abundente, ninsori și vânt puternic, valabile în perioada 1-4 noiembrie. Cele mai importante cantități de precipitații sunt așteptate în Oltenia și în vestul Carpaților Meridionali, unde pot ajunge la 70 l/mp.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793521376
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Patru zile de avertizări de ploi însemnate, frig și ninsori. Care sunt cele mai afectate zone ale țării | HARTĂ",
+        "link": "https://stirileprotv.ro/stiri/vremea/patru-zile-de-avertizari-de-ploi-insemnate-frig-si-ninsori-care-sunt-cele-mai-afectate-zone-ale-tarii-harta.html",
+        "summary": "România intră sub un val de vreme rea începând de duminică, 1 noiembrie. Meteorologii au emis avertizări de ploi însemnate cantitativ, intensificări ale vântului și ninsori la altitudini mari, valabile până miercuri, 4 noiembrie, la ora 20:00.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793522568
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ziua de 1 noiembrie în care în România s-au înregistrat temperaturi de peste 30 de grade Celsius",
+        "link": "https://hotnews.ro/ziua-de-1-noiembrie-in-care-in-romania-s-au-inregistrat-temperaturi-de-peste-30-de-grade-celsius-2391549",
+        "summary": "În prima zi de noiembrie din 2026, cele mai ridicate temperaturi din țară vor atinge 16-17 grade Celsius, conform prognozei ANM. În urmă cu exact un secol, un val de căldură fără precedent aducea însă temperaturi tropicale în zone din Muntenia și Moldova. Prognoza ANM pentru 1 noiembrie 2026 arată minime între 2 și 12 …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793527900
       }
     ]
   },
@@ -10548,6 +10539,38 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793593165
+      }
+    ]
+  },
+  {
+    "group_id": "group_28573e0ec7",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "E ok să comparăm rata dobânzii bancare sau a titlurilor de stat cu inflația?",
+        "link": "https://hotnews.ro/e-ok-sa-comparam-rata-dobanzii-bancare-sau-a-titlurilor-de-stat-cu-inflatia-2392148",
+        "summary": "Doi cititori ne-au pus întrebarea din titlu și au venit cu argumentele lor: În concluzie, mai spun cititorii noștri, compararea superficială de către persoanele fizice a dobânzilor oferite pentru economisire cu rata inflației, indicator macroeconomic, poate fi foarte neinspirată pentru acestea. Răspunsul nostru: Comparația dobândă–inflație este totuși, utilă, chiar dacă folosirea ei ca unic criteriu …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793593971
+      }
+    ]
+  },
+  {
+    "group_id": "group_0d49d59db1",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Provocarea zilei de luni, 2 noiembrie. La câte întrebări de cultură generală poți răspunde corect?",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/provocarea-zilei-de-luni-2-noiembrie-la-cate-2568178.html",
+        "summary": "Cititorii „Adevărul” au la dispoziție, pe telefon și pe computer, una dintre rubricile cunoscute ale ediției tipărite: „Jocurile zilei”. AICI puteți găsi zilnic provocări care vă testează atenția, cunoștințele generale și spiritul de observație, dar vă mențin creierul în formă.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793594044
       }
     ]
   }
