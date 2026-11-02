@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_d627caad5e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Oferta lui Zelenski pentru Trump ca Ucraina să nu mai lovească rafinăriile rusești: „O altă opțiune”",
+        "link": "https://hotnews.ro/oferta-lui-zelenski-pentru-trump-ca-ucraina-sa-nu-mai-loveasca-rafinariile-rusesti-o-alta-optiune-2392161"
+      }
+    ],
+    "published_at": 1793596824,
+    "title_hu": "Oferta lui Zelenski pentru Trump ca Ucraina să nu mai lovească rafinăriile rusești: „O altă opțiune”",
+    "lead_hu": "Volodimir Zelenski a declarat că țara sa va înceta să mai atace rafinăriile rusești, așa cum solicită președintele american Donald Trump, dacă Washingtonul va furniza Kievului rachete interceptoare Pa...",
+    "content_hu": "Volodimir Zelenski a declarat că țara sa va înceta să mai atace rafinăriile rusești, așa cum solicită președintele american Donald Trump, dacă Washingtonul va furniza Kievului rachete interceptoare Patriot, transmite AFP. Confruntat cu o inflație alimentată în mare parte de creșterea vertiginoasă a prețurilor la energie provocată de conflictele din Iran și dintre Rusia și …",
+    "title_ro": "Oferta lui Zelenski pentru Trump ca Ucraina să nu mai lovească rafinăriile rusești: „O altă opțiune”",
+    "lead_ro": "Volodimir Zelenski a declarat că țara sa va înceta să mai atace rafinăriile rusești, așa cum solicită președintele american Donald Trump, dacă Washingtonul va furniza Kievului rachete interceptoare Pa...",
+    "content_ro": "Volodimir Zelenski a declarat că țara sa va înceta să mai atace rafinăriile rusești, așa cum solicită președintele american Donald Trump, dacă Washingtonul va furniza Kievului rachete interceptoare Patriot, transmite AFP. Confruntat cu o inflație alimentată în mare parte de creșterea vertiginoasă a prețurilor la energie provocată de conflictele din Iran și dintre Rusia și …"
+  },
+  {
     "group_id": "group_97f2ef52c8",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -1662,7 +1683,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "G4Media",
@@ -1678,6 +1699,11 @@
         "source": "Agerpres (HU)",
         "title": "Bolojan: Nu se pune problema schimbării mele de la conducerea PNL",
         "link": "https://agerpres.ro/politic/2026/11/01/bolojan-nu-se-pune-problema-schimbarii-mele-de-la-conducerea-pnl--1608890"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Bolojan, despre schimbarea de direcție a PNL: „Cei care nu sunt de acord, nu au decât să plece”",
+        "link": "https://stirileprotv.ro/stiri/politic/bolojan-despre-schimbarea-de-directie-a-pnl-cei-care-nu-sunt-de-acord-nu-au-decat-sa-plece.html"
       }
     ],
     "published_at": 1793566046,
@@ -1877,12 +1903,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Bolojan: Dacă Guvernul Niculescu va avea derapaje în administrarea țării, PNL le va taxa",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/bolojan-daca-guvernul-niculescu-va-avea-derapaje-in-administrarea-tarii-pnl-le-va-taxa-4017551"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Avertismentul lui Ilie Bolojan pentru Luca Niculescu. Ce va face PNL dacă noul Guvern va „deraia” de la țintele bugetare",
+        "link": "https://stirileprotv.ro/stiri/politic/avertismentul-lui-ilie-bolojan-pentru-luca-niculescu-ce-va-face-pnl-daca-guvernul-va-deraia-de-la-tintele-bugetare.html"
       }
     ],
     "published_at": 1793563800,
@@ -13005,6 +13036,27 @@
     "title_ro": "Mii de nord-coreeni, folosiți ca „sclavi” într-o fabrică de drone din Rusia. Regimul de la Phenian le confiscă până la 90% din salarii",
     "lead_ro": "Până la 12.000 de muncitori nord-coreeni ar putea fi victime ale muncii forțate și traficului de persoane la o fabrică de drone militare din Rusia, potrivit unui raport realizat de două organizații am...",
     "content_ro": "Până la 12.000 de muncitori nord-coreeni ar putea fi victime ale muncii forțate și traficului de persoane la o fabrică de drone militare din Rusia, potrivit unui raport realizat de două organizații americane. Angajații sunt trimiși în Rusia în baza unor înțelegeri între Moscova și Phenian, iar regimul lui Kim Jong Un ar reține până la 90% din salariile acestora. Dronele produse în fabrica respectivă sunt utilizate de armata rusă în războiul împotriva Ucrainei, relatează Deutsche Welle."
+  },
+  {
+    "group_id": "group_7650e64231",
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Câți bani ar urma să aducă taxele pe coletele mici aplicate Shein şi Temu la bugetul UE",
+        "link": "https://www.digi24.ro/stiri/externe/ue/cati-bani-ar-urma-sa-aduca-taxele-pe-coletele-mici-aplicate-shein-si-temu-la-bugetul-ue-4015429"
+      }
+    ],
+    "published_at": 1793595610,
+    "title_hu": "Câți bani ar urma să aducă taxele pe coletele mici aplicate Shein şi Temu la bugetul UE",
+    "lead_hu": "Taxele impuse de Uniunea Europeană coletelor mici care intră în blocul comunitar, şi care vizează în primul rând platformele chineze precum Shein şi Temu, ar putea aduce şase miliarde de euro pe an la...",
+    "content_hu": "Taxele impuse de Uniunea Europeană coletelor mici care intră în blocul comunitar, şi care vizează în primul rând platformele chineze precum Shein şi Temu, ar putea aduce şase miliarde de euro pe an la bugetul UE, în perioada 2028-2034, potrivit unui document intern al Comisiei Europene consultat vineri de Reuters.",
+    "title_ro": "Câți bani ar urma să aducă taxele pe coletele mici aplicate Shein şi Temu la bugetul UE",
+    "lead_ro": "Taxele impuse de Uniunea Europeană coletelor mici care intră în blocul comunitar, şi care vizează în primul rând platformele chineze precum Shein şi Temu, ar putea aduce şase miliarde de euro pe an la...",
+    "content_ro": "Taxele impuse de Uniunea Europeană coletelor mici care intră în blocul comunitar, şi care vizează în primul rând platformele chineze precum Shein şi Temu, ar putea aduce şase miliarde de euro pe an la bugetul UE, în perioada 2028-2034, potrivit unui document intern al Comisiei Europene consultat vineri de Reuters."
   },
   {
     "group_id": "group_835f109d44",
