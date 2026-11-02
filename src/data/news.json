@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_0d2182e6b2",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Un polițist de 25 de ani, găsit împușcat în propria mașină, în Dolj. Tânărul este în stare gravă",
+        "link": "https://adevarul.ro/stiri-locale/craiova/un-politist-de-25-de-ani-gasit-impuscat-in-2568207.html"
+      }
+    ],
+    "published_at": 1793603839,
+    "title_hu": "Un polițist de 25 de ani, găsit împușcat în propria mașină, în Dolj. Tânărul este în stare gravă",
+    "lead_hu": "Un agent de poliție în vârstă de 25 de ani, din cadrul Inspectoratului de Poliție Județean Dolj, a ajuns în stare gravă la spital, după ce s-ar fi împușcat cu arma din dotare în cap, în mașina persona...",
+    "content_hu": "Un agent de poliție în vârstă de 25 de ani, din cadrul Inspectoratului de Poliție Județean Dolj, a ajuns în stare gravă la spital, după ce s-ar fi împușcat cu arma din dotare în cap, în mașina personală.",
+    "title_ro": "Un polițist de 25 de ani, găsit împușcat în propria mașină, în Dolj. Tânărul este în stare gravă",
+    "lead_ro": "Un agent de poliție în vârstă de 25 de ani, din cadrul Inspectoratului de Poliție Județean Dolj, a ajuns în stare gravă la spital, după ce s-ar fi împușcat cu arma din dotare în cap, în mașina persona...",
+    "content_ro": "Un agent de poliție în vârstă de 25 de ani, din cadrul Inspectoratului de Poliție Județean Dolj, a ajuns în stare gravă la spital, după ce s-ar fi împușcat cu arma din dotare în cap, în mașina personală."
+  },
+  {
+    "group_id": "group_beddfaf1b3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Atleta care a strălucit la Brașov, în 2022, a câștigat din nou Maratonul de la New York",
+        "link": "https://adevarul.ro/sport/atleta-care-a-stralucit-la-brasov-in-2022-a-2568208.html"
+      }
+    ],
+    "published_at": 1793603691,
+    "title_hu": "Atleta care a strălucit la Brașov, în 2022, a câștigat din nou Maratonul de la New York",
+    "lead_hu": "Sportiva kenyană Sheila Chepkirui s-a impus pentru a doua oară în prestigiosul maraton de la New York. Aceasta a câștigat în 2022 cursa de 10 kilometri de la Brașov Running Festival....",
+    "content_hu": "Sportiva kenyană Sheila Chepkirui s-a impus pentru a doua oară în prestigiosul maraton de la New York. Aceasta a câștigat în 2022 cursa de 10 kilometri de la Brașov Running Festival.",
+    "title_ro": "Atleta care a strălucit la Brașov, în 2022, a câștigat din nou Maratonul de la New York",
+    "lead_ro": "Sportiva kenyană Sheila Chepkirui s-a impus pentru a doua oară în prestigiosul maraton de la New York. Aceasta a câștigat în 2022 cursa de 10 kilometri de la Brașov Running Festival....",
+    "content_ro": "Sportiva kenyană Sheila Chepkirui s-a impus pentru a doua oară în prestigiosul maraton de la New York. Aceasta a câștigat în 2022 cursa de 10 kilometri de la Brașov Running Festival."
+  },
+  {
     "group_id": "group_f45a64a9d6",
     "category": "Sport",
     "is_synthesized": false,
@@ -543,7 +585,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 22,
+    "sources_count": 23,
     "sources": [
       {
         "source": "Digi24",
@@ -654,6 +696,11 @@
         "source": "ProTV Stiri",
         "title": "Cine este Iliana Iotova, prima femeie din istoria Bulgariei care preia funcția de președinte. Ce rol a avut alături de Rumen Radev",
         "link": "https://stirileprotv.ro/stiri/international/cine-este-iliana-iotova-prima-femeie-din-istoria-bulgariei-care-preia-functia-de-presedinte-ce-rol-a-avut-alaturi-de-rumen-radev.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alegeri în Bulgaria: Andrei Ghiurov și-a recunoscut înfrângerea înainte de încheierea numărării voturilor",
+        "link": "https://adevarul.ro/stiri-externe/europa/alegeri-in-bulgaria-andrei-ghiurov-si-a-2568209.html"
       }
     ],
     "published_at": 1793601864,
@@ -2484,7 +2531,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -2495,6 +2542,11 @@
         "source": "Mediafax",
         "title": "Experimentul NASA de simulare a unei misiuni pe Marte s-a încheiat. Patru oameni au petrecut 378 de zile în izolare",
         "link": "https://www.mediafax.ro/externe/experimentul-nasa-de-simulare-a-unei-misiuni-pe-marte-s-a-incheiat-patru-oameni-au-petrecut-378-de-zile-in-izolare-23835517"
+      },
+      {
+        "source": "G4Media",
+        "title": "Experimentul NASA de simulare a unei misiuni pe Marte s-a încheiat / Patru voluntari au ieșit din izolare după 378 de zile de izolare",
+        "link": "https://www.g4media.ro/experimentul-nasa-de-simulare-a-unei-misiuni-pe-marte-s-a-incheiat-patru-voluntari-au-iesit-din-izolare-dupa-378-de-zile-de-izolare.html"
       }
     ],
     "published_at": 1793595195,
@@ -13285,48 +13337,6 @@
     "title_ro": "Trasee montane din Prahova, închise sau restricționate iarna",
     "lead_ro": "În sezonul rece, accesul este limitat pe mai multe rute din munții Bucegi, Baiului și Ciucaș, unele fiind închise integral, iar altele doar pe anumite porțiuni. Restricții sezoniere de circulație sunt valabile și pe sectoare ale Transalpinei și Transfăgărășanului.",
     "content_ro": "• **În Munții Bucegi**, mai multe trasee sunt închise pe durata iernii. Printre rutele afectate se află cele din zona Vf. cu Dor către Lacurile Vânturiș, traseul dintre Cabana Babele și Vârful Omu, precum și potecile din Bușteni care trec prin văile Jepilor și duc spre cabanele Piatra Arsă, Caraiman sau Babele.\n\n• **Accesul către unele cabane este restricționat doar pe anumite segmente.** Măsura se aplică porțiunii dintre Poiana Stânei și Cabana Piatra Arsă, celei dintre Poiana Costilei și Cabana Omu, precum și traseului dintre Pichetul Roșu și Cabana Mălăiești.\n\n• **În Munții Baiului**, restricțiile includ ruta din Bușteni, peste culmile Zamora și Orjogoaia, spre Trăisteni. Este vizat și traseul care pornește din Posada, traversează Valea Florei și mai multe vârfuri, apoi ajunge la Culmea Zamora.\n\n• **În Munții Ciucaș**, accesul este limitat pe trasee din zona Cheilor Văii Stânei și a culmii Gropșoarele–Zăganu. Sunt incluse și rutele dintre Cabana Ciucaș și Vârful Ciucaș, respectiv cele care duc spre Pasul Bratocea.\n\n• **Condițiile meteo pot afecta și traficul rutier:** pe porțiunile închise sezonier ale Transalpinei și Transfăgărășanului circulația este restricționată. Turiștii și șoferii ar trebui să verifice starea drumurilor și avertizările înainte de plecare, să urmeze semnalizarea și să nu intre pe traseele montane închise."
-  },
-  {
-    "group_id": "group_6e252b66ff",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Diana Shnaider a obținut, la Tokyo, primul titlu WTA din acest an: „Sunt foarte fericită”",
-        "link": "https://www.gsp.ro/sporturi/tenis/diana-shnaider-campioana-tokyo-994569.html"
-      }
-    ],
-    "published_at": 1793517709,
-    "title_hu": "Diana Shnaider a obținut, la Tokyo, primul titlu WTA din acest an: „Sunt foarte fericită”",
-    "lead_hu": "Diana Shnaider (22 de ani, 13 WTA) a obținut, la Tokyo, primul titlu din acest an și de săptămâna viitoare va urca pe locul 11 mondial. În finala turneului din capitala Japoniei, rusoaica a învins-o p…",
-    "content_hu": "Diana Shnaider (22 de ani, 13 WTA) a obținut, la Tokyo, primul titlu din acest an și de săptămâna viitoare va urca pe locul 11 mondial. În finala turneului din capitala Japoniei, rusoaica a învins-o pe Leylah Fernandez (24 de ani, 23 WTA) cu 6-4, 5-7, 6-2, după două ore și 21 de minute. ...",
-    "title_ro": "Diana Shnaider a obținut, la Tokyo, primul titlu WTA din acest an: „Sunt foarte fericită”",
-    "lead_ro": "Diana Shnaider (22 de ani, 13 WTA) a obținut, la Tokyo, primul titlu din acest an și de săptămâna viitoare va urca pe locul 11 mondial. În finala turneului din capitala Japoniei, rusoaica a învins-o p…",
-    "content_ro": "Diana Shnaider (22 de ani, 13 WTA) a obținut, la Tokyo, primul titlu din acest an și de săptămâna viitoare va urca pe locul 11 mondial. În finala turneului din capitala Japoniei, rusoaica a învins-o pe Leylah Fernandez (24 de ani, 23 WTA) cu 6-4, 5-7, 6-2, după două ore și 21 de minute. ..."
-  },
-  {
-    "group_id": "group_4a2e6c2224",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Convorbire Trump-Netanyahu după amenințarea cu noi bombardamente în Iran. Ce ținte are în vedere SUA",
-        "link": "https://stirileprotv.ro/stiri/international/convorbire-trump-netanyahu-dupa-amenintarea-cu-noi-bombardamente-in-iran-ce-tinte-are-in-vedere-sua.html"
-      }
-    ],
-    "published_at": 1793517518,
-    "title_hu": "Convorbire Trump-Netanyahu după amenințarea cu noi bombardamente în Iran. Ce ținte are în vedere SUA",
-    "lead_hu": "Preşedintele SUA, Donald Trump, a discutat telefonic sâmbătă dimineaţă cu liderul israelian Benjamin Netanyahu, potrivit unor persoane familiarizate cu această convorbire.",
-    "content_hu": "Preşedintele SUA, Donald Trump, a discutat telefonic sâmbătă dimineaţă cu liderul israelian Benjamin Netanyahu, potrivit unor persoane familiarizate cu această convorbire.",
-    "title_ro": "Convorbire Trump-Netanyahu după amenințarea cu noi bombardamente în Iran. Ce ținte are în vedere SUA",
-    "lead_ro": "Preşedintele SUA, Donald Trump, a discutat telefonic sâmbătă dimineaţă cu liderul israelian Benjamin Netanyahu, potrivit unor persoane familiarizate cu această convorbire.",
-    "content_ro": "Preşedintele SUA, Donald Trump, a discutat telefonic sâmbătă dimineaţă cu liderul israelian Benjamin Netanyahu, potrivit unor persoane familiarizate cu această convorbire."
   },
   {
     "group_id": "group_d4b383556e",
