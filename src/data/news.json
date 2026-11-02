@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_cf0c6e50ca",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Tânăr din Aleșd, trimis în judecată pentru ultraj. L-a lovit cu piciorul pe agentul care îl ducea la sediul Poliției",
+        "link": "https://www.ebihoreanul.ro/stiri/tanar-din-alesd-trimis-in-judecata-pentru-ultraj-l-a-lovit-cu-piciorul-pe-agentul-care-il-ducea-la-sediul-politiei-206285.html"
+      }
+    ],
+    "published_at": 1793624400,
+    "title_hu": "Tânăr din Aleșd, trimis în judecată pentru ultraj. L-a lovit cu piciorul pe agentul care îl ducea la sediul Poliției",
+    "lead_hu": "Un tânăr de 26 de ani din Aleșd a fost trimis în judecată pentru ultraj, după ce a lovit cu piciorul un polițist care îl însoțea spre sediul Poliției din oraș. Incidentul s-a petrecut la sfârșitul lun...",
+    "content_hu": "Un tânăr de 26 de ani din Aleșd a fost trimis în judecată pentru ultraj, după ce a lovit cu piciorul un polițist care îl însoțea spre sediul Poliției din oraș. Incidentul s-a petrecut la sfârșitul lunii august, în urma unei intervenții la care fuseseră solicitați oamenii legii.",
+    "title_ro": "Tânăr din Aleșd, trimis în judecată pentru ultraj. L-a lovit cu piciorul pe agentul care îl ducea la sediul Poliției",
+    "lead_ro": "Un tânăr de 26 de ani din Aleșd a fost trimis în judecată pentru ultraj, după ce a lovit cu piciorul un polițist care îl însoțea spre sediul Poliției din oraș. Incidentul s-a petrecut la sfârșitul lun...",
+    "content_ro": "Un tânăr de 26 de ani din Aleșd a fost trimis în judecată pentru ultraj, după ce a lovit cu piciorul un polițist care îl însoțea spre sediul Poliției din oraș. Incidentul s-a petrecut la sfârșitul lunii august, în urma unei intervenții la care fuseseră solicitați oamenii legii."
+  },
+  {
+    "group_id": "group_88832bbcff",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Comenzile online din afara UE, taxate suplimentar de la 1 noiembrie. „Vom vedea taxa în coșul de cumpărături”",
+        "link": "https://stirileprotv.ro/stiri/ibani/comenzile-online-din-afara-ue-taxate-suplimentar-de-la-1-noiembrie-vom-vedea-taxa-in-cosul-de-cumparaturi.html"
+      }
+    ],
+    "published_at": 1793624329,
+    "title_hu": "Comenzile online din afara UE, taxate suplimentar de la 1 noiembrie. „Vom vedea taxa în coșul de cumpărături”",
+    "lead_hu": "Prețul afișat pentru produsele cumpărate online din afara Uniunii Europene va crește de la 1 noiembrie, când intră în vigore noua taxă europeană de procesare a coletelor....",
+    "content_hu": "Prețul afișat pentru produsele cumpărate online din afara Uniunii Europene va crește de la 1 noiembrie, când intră în vigore noua taxă europeană de procesare a coletelor.",
+    "title_ro": "Comenzile online din afara UE, taxate suplimentar de la 1 noiembrie. „Vom vedea taxa în coșul de cumpărături”",
+    "lead_ro": "Prețul afișat pentru produsele cumpărate online din afara Uniunii Europene va crește de la 1 noiembrie, când intră în vigore noua taxă europeană de procesare a coletelor....",
+    "content_ro": "Prețul afișat pentru produsele cumpărate online din afara Uniunii Europene va crește de la 1 noiembrie, când intră în vigore noua taxă europeană de procesare a coletelor."
+  },
+  {
     "group_id": "group_b99eaee9af",
     "category": "Általános",
     "is_synthesized": false,
@@ -5021,7 +5063,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "G4Media",
@@ -5032,6 +5074,11 @@
         "source": "Mediafax",
         "title": "Alexandru Rogobete îi îndeamnă pe pacienți să publice fotografii cu mâncarea din spitale: „Vreau să văd realitatea”",
         "link": "https://www.mediafax.ro/politic/alexandru-rogobete-ii-indeamna-pe-pacienti-sa-publice-fotografii-cu-mancarea-din-spitale-vreau-sa-vad-realitatea-23835698"
+      },
+      {
+        "source": "Pontmaros",
+        "title": "Fotókat kér a kórházi ételekről a román egészségügyi miniszter: „Nem akarok kozmetikázott jelentéseket”",
+        "link": "https://www.pontmaros.ro/fotokat-ker-a-korhazi-etelekrol-a-roman-egeszsegugyi-miniszter-nem-akarok-kozmetikazott-jelenteseket/"
       }
     ],
     "published_at": 1793612834,
@@ -16237,48 +16284,6 @@
     "title_ro": "USR își pregătește alianța reformistă pentru 2028 și avertizează asupra dobânzilor de 12 miliarde de euro",
     "lead_ro": "Dominic Fritz a indicat drept obiectiv pentru 2028 formarea unei guvernări fără PSD și AUR, printr-o colaborare extinsă cu PNL și alte forțe reformiste. În opoziție, USR spune că va continua promovarea reformelor susținute de foștii săi miniștri și își va extinde activitatea în țară.",
     "content_ro": "• **Alegerea conducerii, la 1 noiembrie:** Biroul Național prezentat după congresul de la Timișoara are un mandat de trei ani. Două treimi dintre membri sunt nou-aleși, iar cei șapte vicepreședinți provin din regiuni diferite; grupul condus de Radu Miruță a obținut cele mai multe funcții în scrutinul intern.\n\n• **Ținta pentru 2028 și relația cu PNL:** Fritz urmărește o colaborare reformistă de centru-dreapta care să permită o guvernare fără PSD și AUR. În următorii doi ani, USR vrea să extindă cooperarea la nivel național; grupurile parlamentare USR și PNL au semnat deja un protocol pentru inițiative și interpelări comune, iar parteneriatele locale vor fi analizate separat.\n\n• **Rolul în opoziție:** Formațiunea intenționează să susțină în continuare reformele promovate de miniștrii săi și să monitorizeze acțiunile guvernului PSD privind instituțiile statului. Fritz afirmă că executivul poate încerca să-și sporească influența instituțională fără să-și asume o majoritate parlamentară.\n\n• **Bilanț și extindere:** Fritz a menționat salvarea șantierului naval din Mangalia, repornirea unor fabrici și consolidarea protecției pădurilor. Miruță a anunțat că partidul vrea să ajungă și în zone afectate de șomaj, migrație și corupție, dincolo de marile orașe. USR urmărește să extindă la 16 ministere activitatea desfășurată în patru; procentele de 14% și 30% reprezintă evaluarea lui Miruță.\n\n• **Sondaje și costuri economice:** Cercetările publice indicau 8–10%, însă Fritz le-a contestat credibilitatea și a invocat măsurători interne care ar arăta creșterea USR. El a numit rezultatul electoral de 12% un reper și a avertizat că dobânzile costă 12 miliarde de euro, asociind suma cu riscurile derapajului iliberal.\n\n• **Conducerea partidului:** Miruță a declarat că nu există intenția de a-l înlocui pe Fritz înaintea următoarelor alegeri interne. Liderul USR a susținut că încercările de a diminua rolul partidului în guvernare confirmă impactul pe care acesta l-a avut."
-  },
-  {
-    "group_id": "group_5f91160cfc",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Laurențiu Reghecampf, impresionat de jucătorul rivalei din Superliga",
-        "link": "https://www.gsp.ro/fotbal/liga-1/laurentiu-reghecampf-u-cluj-fcsb-alex-chipciu-994671.html"
-      }
-    ],
-    "published_at": 1793537960,
-    "title_hu": "Laurențiu Reghecampf, impresionat de jucătorul rivalei din Superliga",
-    "lead_hu": "Laurențiu Reghecampf, antrenorul de la FCSB, l-a lăudat pe Alexandru Chipciu, căpitanul lui U Kolozsvár, înainte de confruntarea de luni seară, de pe Kolozsvár Arena. U Kolozsvár - FCSB are loc pe 2 n…",
-    "content_hu": "Laurențiu Reghecampf, antrenorul de la FCSB, l-a lăudat pe Alexandru Chipciu, căpitanul lui U Kolozsvár, înainte de confruntarea de luni seară, de pe Kolozsvár Arena. U Kolozsvár - FCSB are loc pe 2 noiembrie, de la ora 20:30. Meciul va fi liveTEXT pe GSP.ro și la TV pe Prima Sport 1 și Digi Sport 1 Reghecampf se va întâlni pe Kolozsvár Arena cu unul dintre cei mai importanți jucători din primul lui mandat la FCSB, 2012-2014. ...",
-    "title_ro": "Laurențiu Reghecampf, impresionat de jucătorul rivalei din Superliga",
-    "lead_ro": "Laurențiu Reghecampf, antrenorul de la FCSB, l-a lăudat pe Alexandru Chipciu, căpitanul lui U Kolozsvár, înainte de confruntarea de luni seară, de pe Kolozsvár Arena. U Kolozsvár - FCSB are loc pe 2 n…",
-    "content_ro": "Laurențiu Reghecampf, antrenorul de la FCSB, l-a lăudat pe Alexandru Chipciu, căpitanul lui U Kolozsvár, înainte de confruntarea de luni seară, de pe Kolozsvár Arena. U Kolozsvár - FCSB are loc pe 2 noiembrie, de la ora 20:30. Meciul va fi liveTEXT pe GSP.ro și la TV pe Prima Sport 1 și Digi Sport 1 Reghecampf se va întâlni pe Kolozsvár Arena cu unul dintre cei mai importanți jucători din primul lui mandat la FCSB, 2012-2014. ..."
-  },
-  {
-    "group_id": "group_c628e5d127",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Cât costă un bilet de intrare în Castelul Bran. Lucian Popa, fostul Războinic de la Survivor, a crezut că nu aude bine",
-        "link": "https://www.cancan.ro/cat-costa-un-bilet-de-intrare-in-castelul-bran-lucian-popa-fostul-razboinic-de-la-survivor-a-crezut-ca-nu-aude-bine-21540054"
-      }
-    ],
-    "published_at": 1793537883,
-    "title_hu": "Cât costă un bilet de intrare în Castelul Bran. Lucian Popa, fostul Războinic de la Survivor, a crezut că nu aude bine",
-    "lead_hu": "Lucian Popa, fostul concurent de la Survivor, a fost la un pas să cadă din picioare când a aflat cât costă să viziteze Castelul Bran de Halloween. Postarea „Războinicul” s-a viralizat pe social media.…",
-    "content_hu": "Lucian Popa, fostul concurent de la Survivor, a fost la un pas să cadă din picioare când a aflat cât costă să viziteze Castelul Bran de Halloween. Postarea „Războinicul” s-a viralizat pe social media. Se pare că nu doar atmosfera a fost de groază, ci și prețul biletelor de intrare. Cu ocazia zilei de Halloween, […]",
-    "title_ro": "Cât costă un bilet de intrare în Castelul Bran. Lucian Popa, fostul Războinic de la Survivor, a crezut că nu aude bine",
-    "lead_ro": "Lucian Popa, fostul concurent de la Survivor, a fost la un pas să cadă din picioare când a aflat cât costă să viziteze Castelul Bran de Halloween. Postarea „Războinicul” s-a viralizat pe social media.…",
-    "content_ro": "Lucian Popa, fostul concurent de la Survivor, a fost la un pas să cadă din picioare când a aflat cât costă să viziteze Castelul Bran de Halloween. Postarea „Războinicul” s-a viralizat pe social media. Se pare că nu doar atmosfera a fost de groază, ci și prețul biletelor de intrare. Cu ocazia zilei de Halloween, […]"
   },
   {
     "group_id": "group_901a6d6f24",
