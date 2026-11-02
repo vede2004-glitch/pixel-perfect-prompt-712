@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_b8827c2ee6",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Alegerile din Franța: Centriştii se confruntă cu o dilemă electorală. „Mult mai grav decât orice diferențe ar exista între noi”",
+        "link": "https://hotnews.ro/alegerile-din-franta-centristii-se-confrunta-cu-o-dilema-electorala-mult-mai-grav-decat-orice-diferente-ar-exista-intre-noi-2393005"
+      }
+    ],
+    "published_at": 1793656510,
+    "title_hu": "Alegerile din Franța: Centriştii se confruntă cu o dilemă electorală. „Mult mai grav decât orice diferențe ar exista între noi”",
+    "lead_hu": "Centrul politic din Franța este divizat cu privire la desemnarea unui candidat comun care să o înfrunte pe Marine Le Pen, reprezentanta extremei drepte, în cadrul viitoarelor alegeri prezidențiale. Fo...",
+    "content_hu": "Centrul politic din Franța este divizat cu privire la desemnarea unui candidat comun care să o înfrunte pe Marine Le Pen, reprezentanta extremei drepte, în cadrul viitoarelor alegeri prezidențiale. Fostul prim-ministru Gabriel Attal pledează pentru organizarea unor alegeri primare la care să participe mai multe formațiuni politice. „Avem nevoie de această alianță”, a declarat el …",
+    "title_ro": "Alegerile din Franța: Centriştii se confruntă cu o dilemă electorală. „Mult mai grav decât orice diferențe ar exista între noi”",
+    "lead_ro": "Centrul politic din Franța este divizat cu privire la desemnarea unui candidat comun care să o înfrunte pe Marine Le Pen, reprezentanta extremei drepte, în cadrul viitoarelor alegeri prezidențiale. Fo...",
+    "content_ro": "Centrul politic din Franța este divizat cu privire la desemnarea unui candidat comun care să o înfrunte pe Marine Le Pen, reprezentanta extremei drepte, în cadrul viitoarelor alegeri prezidențiale. Fostul prim-ministru Gabriel Attal pledează pentru organizarea unor alegeri primare la care să participe mai multe formațiuni politice. „Avem nevoie de această alianță”, a declarat el …"
+  },
+  {
+    "group_id": "group_1501d3c350",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Magnatul Adam Robinson și soția lui au murit în tragedia aviatică din Florida. Cei doi erau la bord împreună cu prietenii lor",
+        "link": "https://www.cancan.ro/magnatul-adam-robinson-si-sotia-lui-au-murit-in-tragedia-aviatica-din-florida-cei-doi-erau-la-bord-impreuna-cu-prietenii-lor-21540943"
+      }
+    ],
+    "published_at": 1793656486,
+    "title_hu": "Magnatul Adam Robinson și soția lui au murit în tragedia aviatică din Florida. Cei doi erau la bord împreună cu prietenii lor",
+    "lead_hu": "Nouă persoane și-au pierdut viața în urma prăbușirii unui avion privat în Florida, iar printre victime se numără o familie din Texas, doi prieteni apropiați ai acesteia, bona copiilor și cei doi piloț...",
+    "content_hu": "Nouă persoane și-au pierdut viața în urma prăbușirii unui avion privat în Florida, iar printre victime se numără o familie din Texas, doi prieteni apropiați ai acesteia, bona copiilor și cei doi piloți ai aeronavei. Tragedia s-a produs duminică, 1 noiembrie, în apropiere de West Palm Beach, în timp ce avionul se îndrepta spre Bahamas. […]",
+    "title_ro": "Magnatul Adam Robinson și soția lui au murit în tragedia aviatică din Florida. Cei doi erau la bord împreună cu prietenii lor",
+    "lead_ro": "Nouă persoane și-au pierdut viața în urma prăbușirii unui avion privat în Florida, iar printre victime se numără o familie din Texas, doi prieteni apropiați ai acesteia, bona copiilor și cei doi piloț...",
+    "content_ro": "Nouă persoane și-au pierdut viața în urma prăbușirii unui avion privat în Florida, iar printre victime se numără o familie din Texas, doi prieteni apropiați ai acesteia, bona copiilor și cei doi piloți ai aeronavei. Tragedia s-a produs duminică, 1 noiembrie, în apropiere de West Palm Beach, în timp ce avionul se îndrepta spre Bahamas. […]"
+  },
+  {
     "group_id": "group_c4bc821640",
     "category": "Sport",
     "is_synthesized": false,
@@ -424,7 +466,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "G4Media",
@@ -435,6 +477,11 @@
         "source": "Agerpres (HU)",
         "title": "Cancelarul Merz este de acord ca viitorul președinte al Germaniei să fie o femeie",
         "link": "https://agerpres.ro/politic-extern/2026/11/02/cancelarul-merz-este-de-acord-ca-viitorul-presedinte-al-germaniei-sa-fie-o-femeie--1609304"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Merz susține că viitorul președinte al Germaniei ar trebui să fie o femeie. „Decizia mea este definitivă”",
+        "link": "https://adevarul.ro/stiri-externe/europa/merz-sustine-ca-viitorul-presedinte-al-germaniei-2568460.html"
       }
     ],
     "published_at": 1793653155,
