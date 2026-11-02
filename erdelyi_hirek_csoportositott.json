@@ -353,7 +353,7 @@
   {
     "group_id": "group_b2e29c48eb",
     "category": "Általános",
-    "articles_count": 7,
+    "articles_count": 6,
     "articles": [
       {
         "source": "Digi24",
@@ -363,15 +363,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793519290
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Noapte cu cinci seisme: Patru cutremure în Vrancea și unul în Marea Neagră",
-        "link": "https://hotnews.ro/noapte-cu-cinci-seisme-patru-cutremure-in-vrancea-si-unul-in-marea-neagra-2391773",
-        "summary": "Activitatea tectonică intensă a început imediat după miezul nopții în județele Vrancea și Buzău, unde cel mai puternic seism a înregistrat o magnitudine de 3,6 pe scara Richter. Un prim cutremur a avut loc la 0:46, la o adâncime de 69,9 km, și a avut o magnitudine de 3,0. A fost urmat, la mai puțin …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793518130
       },
       {
         "source": "ProTV Stiri",
@@ -417,31 +408,6 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1793529539
-      }
-    ]
-  },
-  {
-    "group_id": "group_52075288ad",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "Trafic blocat pe DN1, în zona localității Posada, după producerea a două accidente rutiere",
-        "link": "https://www.g4media.ro/trafic-blocat-pe-dn1-in-zona-localitatii-posada-dupa-producerea-a-doua-accidente-rutiere.html",
-        "summary": "Două accidente rutiere s-au produs duminică dimineaţă pe DN 1, la Băicoi şi la Posada, traficul în zona Posada fiind blocat complet, scrie Agerpres. Potrivit datelor comunicate de Inspectoratul pentru Situaţii de Urgenţă (ISU) Prahova, în accidentul de la Posada au fost implicate două autoturisme şi cei 4 ocupanţi ai acestora, dintre care unul este […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793517906
-      },
-      {
-        "source": "Adevărul",
-        "title": "DN1, blocat complet la Posada după un accident cu trei victime. Două șoferițe, implicate în coliziune",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/dn1-blocat-complet-la-posada-dupa-un-accident-cu-2568042.html",
-        "summary": "Două accidente rutiere s-au produs duminică dimineață pe DN 1, la Băicoi și la Posada, traficul în zona Posada fiind blocat complet.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793522043
       }
     ]
   },
@@ -1880,6 +1846,22 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793522438
+      }
+    ]
+  },
+  {
+    "group_id": "group_52075288ad",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "DN1, blocat complet la Posada după un accident cu trei victime. Două șoferițe, implicate în coliziune",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/dn1-blocat-complet-la-posada-dupa-un-accident-cu-2568042.html",
+        "summary": "Două accidente rutiere s-au produs duminică dimineață pe DN 1, la Băicoi și la Posada, traficul în zona Posada fiind blocat complet.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793522043
       }
     ]
   },
@@ -10072,10 +10054,10 @@
         "source": "Digi24",
         "title": "Incendiu puternic la un salon de evenimente din sectorul 4 al Capitalei: există risc de propagare a focului",
         "link": "https://www.digi24.ro/stiri/actualitate/incendiu-puternic-la-un-salon-de-evenimente-din-sectorul-4-al-capitalei-exista-risc-de-propagare-a-focului-4017673",
-        "summary": "Pompierii intervin, luni dimineaţa, pentru stingerea unui incendiu produs la un salon de evenimente, pe Calea Piscului din sectorul 4 al Capitalei.",
+        "summary": "Pompierii intervin, luni dimineaţa, pentru stingerea unui incendiu produs la un salon de evenimente, pe Calea Piscului din Sectorul 4 al Capitalei. Complexul este compus din 8 corpuri de clădiri și anexe, dintre care 5 sunt afectate, potrivit pompierilor. Nu au fost identificate victime.",
         "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1793604146
+        "published_at": 1793604398
       },
       {
         "source": "HotNews.ro",
@@ -11044,6 +11026,54 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793603691
+      }
+    ]
+  },
+  {
+    "group_id": "group_f70d0a86a8",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Sebastian Vettel, mesaj pentru Kimi Antonelli, după ce i-a bătut marele record: „Tu să nu faci asta”",
+        "link": "https://www.gsp.ro/sporturi/formula-1/formula-1-sebastian-vettel-mesaj-kimi-antonelli-titlu-994918.html",
+        "summary": "Sebastian Vettel (39 de ani), cel căruia Kimi Antonelli i-a „suflat” duminică seara onoarea de cel mai tânăr campion mondial din istoria F1, i-a transmis un mesaj italianului și-a trecut numele în analele sporturilor cu motor. La doar 20 de ani și 68 de zile, Kimi Antonelli este campion mondial în Formula 1, spulberând concurența în acest an. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793604119
+      }
+    ]
+  },
+  {
+    "group_id": "group_c1d1065cbf",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "AfD își schimbă strategia față de Uniunea Europeană. Formațiunea care conduce sondajele în Germania renunță la ideea ieșirii din UE?",
+        "link": "https://www.mediafax.ro/externe/afd-isi-schimba-strategia-fata-de-uniunea-europeana-formatiunea-care-conduce-sondajele-in-germania-renunta-la-ideea-iesirii-din-ue-23835610",
+        "summary": "Alternativa pentru Germania, partidul de extremă dreapta care conduce în prezent sondajele electorale la nivel național, își reconsideră strategia privind viitorul Germaniei în Uniunea Europeană.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793604495
+      }
+    ]
+  },
+  {
+    "group_id": "group_c785707e64",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Alegeri pe muchie de cuțit în SUA. Aproape jumătate din numărul total de votanți se declară independenți",
+        "link": "https://www.mediafax.ro/social/alegeri-pe-muchie-de-cutit-in-sua-aproape-jumatate-din-numarul-total-de-votanti-se-declara-independenti-23835600",
+        "summary": "Alegerile de la jumătatea mandatului în SUA sunt pe muchie de cuțit, așa cum o arată sondajele și opiniile experților. Rezultatele ar putea fi influențate de votanții care se declară independenți. Ei au ajuns la un număr record de aproape 120 de milioane. Alegerile vor avea loc pe 3 noiembrie.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793604088
       }
     ]
   }
