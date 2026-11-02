@@ -1,21 +1,5 @@
 [
   {
-    "group_id": "group_a6eed2fd91",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Regele „Marelui Circ” la doar 20 de ani! Kimi Antonelli este cel mai tânăr campion din istoria Formulei 1!",
-        "link": "https://www.gsp.ro/sporturi/formula-1/marele-premiu-mexic-kimi-antonelli-aproape-de-titlu-994585.html",
-        "summary": "Kimi Antonelli (Mercedes) este campion mondial în Formula 1, cel mai tânăr campion din istoria competiției, la doar 20 de ani și 68 de zile! Italianul și-a adjudecat matematic titlul după rezultatul de astăzi, locul 3 în Marele Premiu al Mexicului, cursă câștigată de Max Verstappen. Ceea ce era doar o chestiune de timp s-a desăvârșit astăzi: Kimi Antonelli a devenit campion mondial, cel mai tânăr din istoria „Marelui Circ”. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793571878
-      }
-    ]
-  },
-  {
     "group_id": "group_24814c2989",
     "category": "Politika",
     "articles_count": 1,
@@ -121,31 +105,6 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1793608401
-      }
-    ]
-  },
-  {
-    "group_id": "group_3ef392fb14",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "VIDEO | Tragedie aviatică în SUA. Nouă morți după ce un avion privat s-a prăbușit și a explodat în Florida. Ultimele cuvinte ale pilotului: „Ne vom izbi de pământ”",
-        "link": "https://www.mediafax.ro/externe/video-tragedie-aviatica-in-sua-noua-morti-dupa-ce-un-avion-privat-s-a-prabusit-si-a-explodat-in-florida-ultimele-cuvinte-ale-pilotului-ne-vom-izbi-de-pamant-23835501",
-        "summary": "Nouă persoane au murit duminică, 1 noiembrie, după ce un avion privat de tip Learjet 60 s-a prăbușit într-o zonă rezidențială din comitatul Palm Beach, statul american Florida, și a explodat la impactul cu solul. Aeronava se îndrepta spre Bahamas, iar cu doar câteva momente înainte de tragedie pilotul a transmis un apel disperat de urgență, anunțând că avionul pierde altitudine într-un ritm extrem de rapid, relatează CNN. Aproximativ 600 de persoane au nevoie de adăpost în urma distrugerilor provocate la sol.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793571844
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Înregistrarea audio a ultimei discuții a pilotului avionului prăbușit în Palm Beach și turnul de control. „Nu mai avem timp”",
-        "link": "https://hotnews.ro/inregistrarea-audio-a-ultimei-discutii-a-pilotului-avionului-prabusit-in-palm-beach-si-turnul-de-control-nu-mai-avem-timp-2392290",
-        "summary": "Un avion privat s-a prăbușit duminică într-un cartier din statul american Florida, iar toți nouă oameni aflați la bord au murit, potrivit autorităților americane. Cu puțin înainte ca avionul să intre în picaj, piloții au raportat turbulențe și depuneri de gheață, potrivit BBC. Accidentul a avut loc în apropiere de Cresthaven, la aproximativ 14 kilometri …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793608602
       }
     ]
   },
@@ -4026,6 +3985,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793610745
+      }
+    ]
+  },
+  {
+    "group_id": "group_3ef392fb14",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Înregistrarea audio a ultimei discuții a pilotului avionului prăbușit în Palm Beach și turnul de control. „Nu mai avem timp”",
+        "link": "https://hotnews.ro/inregistrarea-audio-a-ultimei-discutii-a-pilotului-avionului-prabusit-in-palm-beach-si-turnul-de-control-nu-mai-avem-timp-2392290",
+        "summary": "Un avion privat s-a prăbușit duminică într-un cartier din statul american Florida, iar toți nouă oameni aflați la bord au murit, potrivit autorităților americane. Cu puțin înainte ca avionul să intre în picaj, piloții au raportat turbulențe și depuneri de gheață, potrivit BBC. Accidentul a avut loc în apropiere de Cresthaven, la aproximativ 14 kilometri …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793608602
       }
     ]
   },
