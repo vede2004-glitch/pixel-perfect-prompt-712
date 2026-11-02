@@ -88,12 +88,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Adevărul",
         "title": "Atacuri masive cu drone asupra porturilor ucrainene de la Dunăre. Avioane F-16, ridicate de la sol în România",
         "link": "https://adevarul.ro/stiri-interne/evenimente/atacuri-masive-cu-drone-asupra-porturilor-2568188.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Atacuri masive cu drone asupra porturilor ucrainene de la Dunăre. MApN a transmis că nu au fost raportate pătrunderi în România",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/atacuri-masive-cu-drone-asupra-porturilor-ucrainene-de-la-dunare-mapn-a-transmis-ca-nu-au-fost-raportate-patrunderi-in-romania-4017689"
       }
     ],
     "published_at": 1793599320,
@@ -279,7 +284,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Digi24",
@@ -300,6 +305,11 @@
         "source": "Mediafax",
         "title": "Un salon de evenimente din Capitală a luat foc. Pompierii intervin cu 12 autospeciale de stingere. Pericol de extindere",
         "link": "https://www.mediafax.ro/social/un-salon-de-evenimente-din-capitala-a-luat-foc-pompierii-intervin-cu-12-autospeciale-de-stingere-pericol-de-extindere-23835541"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Incendiu puternic la mai multe saloane de evenimente din București. Pompierii intervin cu 12 autospeciale",
+        "link": "https://adevarul.ro/stiri-locale/bucuresti/incendiu-puternic-la-mai-multe-saloane-de-2568190.html"
       }
     ],
     "published_at": 1793598733,
@@ -338,7 +348,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 17,
+    "sources_count": 18,
     "sources": [
       {
         "source": "Digi24",
@@ -424,6 +434,11 @@
         "source": "Mediafax",
         "title": "Nouă președintă a Bulgariei, Iliana Iotova, felicitată de Ursula von der Leyen și Diana Șoșoacă după victoria din alegeri",
         "link": "https://www.mediafax.ro/externe/noua-presedinta-a-bulgariei-iliana-iotova-felicitata-de-ursula-von-der-leyen-si-diana-sosoaca-dupa-victoria-din-alegeri-23835542"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nouă președintă a Bulgariei, Iliana Iotova, felicitată de Ursula von der Leyen după victoria din alegeri",
+        "link": "https://www.mediafax.ro/externe/noua-presedinta-a-bulgariei-iliana-iotova-felicitata-de-ursula-von-der-leyen-dupa-victoria-din-alegeri-23835542"
       }
     ],
     "published_at": 1793598583,
@@ -676,7 +691,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Mediafax",
@@ -697,6 +712,11 @@
         "source": "G4Media",
         "title": "VIDEO: Kimi Antonelli, cel mai tânăr campion mondial din istoria Formulei 1",
         "link": "https://www.g4media.ro/video-kimi-antonelli-cel-mai-tanar-campion-mondial-din-istoria-formulei-1.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "VIDEO: Imaginea zilei în sport – Kimi Antonelli, purtat pe brațe de Verstappen și Hamilton",
+        "link": "https://www.g4media.ro/video-imaginea-zilei-in-sport-kimi-antonelli-purtat-pe-brate-de-verstappen-si-hamilton.html"
       }
     ],
     "published_at": 1793597620,
@@ -3738,12 +3758,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Pierderi record pentru armata rusă în octombrie, potrivit Kievului. Ucraina susține că Moscova nu mai poate înlocui trupele",
         "link": "https://www.digi24.ro/stiri/externe/ue/pierderi-record-pentru-armata-rusa-in-octombrie-potrivit-kievului-ucraina-sustine-ca-moscova-nu-mai-poate-inlocui-trupele-4017413"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Rusia a înregistrat în octombrie cele mai mari pierderi de la începutul invaziei pe scară largă în Ucraina, susține Kievul",
+        "link": "https://adevarul.ro/stiri-externe/rusia/rusia-a-inregistrat-in-octombrie-cele-mai-mari-2568192.html"
       }
     ],
     "published_at": 1793557757,
@@ -13136,90 +13161,6 @@
     "title_ro": "Harry Kane, duș rece după „Balon” » „Am fost foarte neglijenți”",
     "lead_ro": "Bayern a dat cu piciorul unei victorii în Der Klassiker, 2-2 cu Borussia Dortmund, irosind numeroase ocazii, între care nu mai puțin de 3 bare. Drumul de la sublim la ridicol este uneori foarte scurt …",
     "content_ro": "Bayern a dat cu piciorul unei victorii în Der Klassiker, 2-2 cu Borussia Dortmund, irosind numeroase ocazii, între care nu mai puțin de 3 bare. Drumul de la sublim la ridicol este uneori foarte scurt în fotbal. Înaintea Der Klassiker, cu Borussia Dortmund, Harry Kane le-a prezentat suporterilor „Balonul de Aur” primit luni, la Londra, pentru realizările sezonului trecut, între care 73 de goluri în 65 de partide. ..."
-  },
-  {
-    "group_id": "group_874251f891",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Costumele cu care un cuplu a făcut senzație la o petrecere de Halloween în Capitală: „Machiajele ni le-am făcut singuri”",
-        "link": "https://stirileprotv.ro/divers/costumele-cu-care-un-cuplu-a-facut-senzatie-la-o-petrecere-de-halloween-in-capitala-machiajele-ni-le-am-facut-singuri-acasa.html"
-      }
-    ],
-    "published_at": 1793513976,
-    "title_hu": "Costumele cu care un cuplu a făcut senzație la o petrecere de Halloween în Capitală: „Machiajele ni le-am făcut singuri”",
-    "lead_hu": "Bucureștenii de toate vârstele s-au întrecut în costume spectaculoase, sâmbătă noapte, la o petrecere de Halloween.",
-    "content_hu": "Bucureștenii de toate vârstele s-au întrecut în costume spectaculoase, sâmbătă noapte, la o petrecere de Halloween.",
-    "title_ro": "Costumele cu care un cuplu a făcut senzație la o petrecere de Halloween în Capitală: „Machiajele ni le-am făcut singuri”",
-    "lead_ro": "Bucureștenii de toate vârstele s-au întrecut în costume spectaculoase, sâmbătă noapte, la o petrecere de Halloween.",
-    "content_ro": "Bucureștenii de toate vârstele s-au întrecut în costume spectaculoase, sâmbătă noapte, la o petrecere de Halloween."
-  },
-  {
-    "group_id": "group_7a84278440",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "O femeie însărcinată a fost ucisă, iar alte 6 persoane au fost rănite într-un atac armat asupra unui magazin din California",
-        "link": "https://www.g4media.ro/o-femeie-insarcinata-a-fost-ucisa-iar-alte-6-persoane-au-fost-ranite-intr-un-atac-armat-asupra-unui-magazin-din-california.html"
-      }
-    ],
-    "published_at": 1793513974,
-    "title_hu": "O femeie însărcinată a fost ucisă, iar alte 6 persoane au fost rănite într-un atac armat asupra unui magazin din California",
-    "lead_hu": "O persoană a fost ucisă, iar alte șase au fost rănite în urma unui schimb de focuri care a avut loc vineri seară într-un magazin „Spirit Halloween”, situat într-un centru comercial din Fairfield, Cali…",
-    "content_hu": "O persoană a fost ucisă, iar alte șase au fost rănite în urma unui schimb de focuri care a avut loc vineri seară într-un magazin „Spirit Halloween”, situat într-un centru comercial din Fairfield, California, a anunțat poliția, scrie CNN. Poliția din Fairfield a identificat victima decedată ca fiind Constance Hages, în vârstă de 31 de […] © G4Media.ro.",
-    "title_ro": "O femeie însărcinată a fost ucisă, iar alte 6 persoane au fost rănite într-un atac armat asupra unui magazin din California",
-    "lead_ro": "O persoană a fost ucisă, iar alte șase au fost rănite în urma unui schimb de focuri care a avut loc vineri seară într-un magazin „Spirit Halloween”, situat într-un centru comercial din Fairfield, Cali…",
-    "content_ro": "O persoană a fost ucisă, iar alte șase au fost rănite în urma unui schimb de focuri care a avut loc vineri seară într-un magazin „Spirit Halloween”, situat într-un centru comercial din Fairfield, California, a anunțat poliția, scrie CNN. Poliția din Fairfield a identificat victima decedată ca fiind Constance Hages, în vârstă de 31 de […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_187555a759",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "BANC | Bulă și bărbatul care este îmbrăcat mereu cu aceleași haine",
-        "link": "https://www.cancan.ro/banc-bula-si-barbatul-care-este-imbracat-mereu-cu-aceleasi-haine-21539926"
-      }
-    ],
-    "published_at": 1793513947,
-    "title_hu": "BANC | Bulă și bărbatul care este îmbrăcat mereu cu aceleași haine",
-    "lead_hu": "Este duminică și ne bucurăm de ultima zi de weekend. CANCAN.RO a pregătit mai multe bancuri care vă vor aduce zâmbetul pe buze și vă vor schimba starea în bine. – Frate, de câte ori te întâlnesc, porț…",
-    "content_hu": "Este duminică și ne bucurăm de ultima zi de weekend. CANCAN.RO a pregătit mai multe bancuri care vă vor aduce zâmbetul pe buze și vă vor schimba starea în bine. – Frate, de câte ori te întâlnesc, porți aceleași haine. Tu nu te schimbi niciodată? – Domnule Bulă, suflați în fiolă! Alte glume amuzante După […]",
-    "title_ro": "BANC | Bulă și bărbatul care este îmbrăcat mereu cu aceleași haine",
-    "lead_ro": "Este duminică și ne bucurăm de ultima zi de weekend. CANCAN.RO a pregătit mai multe bancuri care vă vor aduce zâmbetul pe buze și vă vor schimba starea în bine. – Frate, de câte ori te întâlnesc, porț…",
-    "content_ro": "Este duminică și ne bucurăm de ultima zi de weekend. CANCAN.RO a pregătit mai multe bancuri care vă vor aduce zâmbetul pe buze și vă vor schimba starea în bine. – Frate, de câte ori te întâlnesc, porți aceleași haine. Tu nu te schimbi niciodată? – Domnule Bulă, suflați în fiolă! Alte glume amuzante După […]"
-  },
-  {
-    "group_id": "group_d7035403c1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Elevii cer să fie implicați în deciziile din școli. Patru din cinci spun că adulții nu îi ascultă suficient",
-        "link": "https://stirileprotv.ro/stiri/actualitate/elevii-cer-sa-fie-implicati-in-deciziile-din-scoli-patru-din-cinci-spun-ca-adultii-nu-ii-asculta-suficient.html"
-      }
-    ],
-    "published_at": 1793513895,
-    "title_hu": "Elevii cer să fie implicați în deciziile din școli. Patru din cinci spun că adulții nu îi ascultă suficient",
-    "lead_hu": "Elevii au dreptul să fie ascultați, însă rar reușesc să schimbe ceva în școală - este concluzia unei cercetări făcute în România și Republica Moldova.",
-    "content_hu": "Elevii au dreptul să fie ascultați, însă rar reușesc să schimbe ceva în școală - este concluzia unei cercetări făcute în România și Republica Moldova.",
-    "title_ro": "Elevii cer să fie implicați în deciziile din școli. Patru din cinci spun că adulții nu îi ascultă suficient",
-    "lead_ro": "Elevii au dreptul să fie ascultați, însă rar reușesc să schimbe ceva în școală - este concluzia unei cercetări făcute în România și Republica Moldova.",
-    "content_ro": "Elevii au dreptul să fie ascultați, însă rar reușesc să schimbe ceva în școală - este concluzia unei cercetări făcute în România și Republica Moldova."
   },
   {
     "group_id": "group_12c4e0a1b0",
