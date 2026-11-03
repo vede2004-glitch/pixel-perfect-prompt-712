@@ -1,5 +1,89 @@
 [
   {
+    "group_id": "group_1235fbf85b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Új országos vezetőséget választott a Mentsétek meg Romániát Szövetség",
+        "link": "https://www.mediatica.ro/hirek/politika/uj-orszagos-vezetoseget-valasztott-a-mentsetek-meg-romaniat-szovetseg"
+      }
+    ],
+    "published_at": 1793683807,
+    "title_hu": "Új országos vezetőséget választott a Mentsétek meg Romániát Szövetség",
+    "lead_hu": "Elfogadták a 'Tesszük a dolgunkat. Álljuk a szavunkat' című határozatot is....",
+    "content_hu": "Elfogadták a 'Tesszük a dolgunkat. Álljuk a szavunkat' című határozatot is.",
+    "title_ro": "Új országos vezetőséget választott a Mentsétek meg Romániát Szövetség",
+    "lead_ro": "Elfogadták a 'Tesszük a dolgunkat. Álljuk a szavunkat' című határozatot is....",
+    "content_ro": "Elfogadták a 'Tesszük a dolgunkat. Álljuk a szavunkat' című határozatot is."
+  },
+  {
+    "group_id": "group_de084ef558",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Lezárták a magashegyi turistautakat Prahova megyében, a Transzalpina egy szakasza is járhatatlan",
+        "link": "https://www.mediatica.ro/hirek/aktualis/lezartak-a-magashegyi-turistautakat-prahova-megyeben-a-transzalpina-egy-szakasza-is-jarhatatlan"
+      }
+    ],
+    "published_at": 1793683685,
+    "title_hu": "Lezárták a magashegyi turistautakat Prahova megyében, a Transzalpina egy szakasza is járhatatlan",
+    "lead_hu": "Az Omu-csúcson a hóréteg vastagsága meghaladhatja az 50 centimétert....",
+    "content_hu": "Az Omu-csúcson a hóréteg vastagsága meghaladhatja az 50 centimétert.",
+    "title_ro": "Lezárták a magashegyi turistautakat Prahova megyében, a Transzalpina egy szakasza is járhatatlan",
+    "lead_ro": "Az Omu-csúcson a hóréteg vastagsága meghaladhatja az 50 centimétert....",
+    "content_ro": "Az Omu-csúcson a hóréteg vastagsága meghaladhatja az 50 centimétert."
+  },
+  {
+    "group_id": "group_f2e7b06a53",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Digistoria – cele mai importante evenimente petrecute pe 3 noiembrie",
+        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-3-noiembrie-2-4019151"
+      }
+    ],
+    "published_at": 1793683625,
+    "title_hu": "Digistoria – cele mai importante evenimente petrecute pe 3 noiembrie",
+    "lead_hu": "Grecia organizează un referendum, iar 98% dintre votanți cer restaurarea monarhiei și revenirea regelui George al II-lea, ginerele Reginei Maria a României....",
+    "content_hu": "Grecia organizează un referendum, iar 98% dintre votanți cer restaurarea monarhiei și revenirea regelui George al II-lea, ginerele Reginei Maria a României.",
+    "title_ro": "Digistoria – cele mai importante evenimente petrecute pe 3 noiembrie",
+    "lead_ro": "Grecia organizează un referendum, iar 98% dintre votanți cer restaurarea monarhiei și revenirea regelui George al II-lea, ginerele Reginei Maria a României....",
+    "content_ro": "Grecia organizează un referendum, iar 98% dintre votanți cer restaurarea monarhiei și revenirea regelui George al II-lea, ginerele Reginei Maria a României."
+  },
+  {
+    "group_id": "group_215f200b4f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Békét, több munkahelyet és kisebb társadalmi egyenlőtlenségeket várnak az EU-tól a fiatalok",
+        "link": "https://www.mediatica.ro/hirek/kulfold/beket-tobb-munkahelyet-es-kisebb-tarsadalmi-egyenlotlensegeket-varnak-az-eu-tol-a-fiatalok"
+      }
+    ],
+    "published_at": 1793683536,
+    "title_hu": "Békét, több munkahelyet és kisebb társadalmi egyenlőtlenségeket várnak az EU-tól a fiatalok",
+    "lead_hu": "Az Európai Bizottság legfrissebb Eurobarométer-felmérésének eredményei....",
+    "content_hu": "Az Európai Bizottság legfrissebb Eurobarométer-felmérésének eredményei.",
+    "title_ro": "Békét, több munkahelyet és kisebb társadalmi egyenlőtlenségeket várnak az EU-tól a fiatalok",
+    "lead_ro": "Az Európai Bizottság legfrissebb Eurobarométer-felmérésének eredményei....",
+    "content_ro": "Az Európai Bizottság legfrissebb Eurobarométer-felmérésének eredményei."
+  },
+  {
     "group_id": "group_0091510e8e",
     "category": "Általános",
     "is_synthesized": false,
@@ -268,12 +352,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Adevărul",
         "title": "Călin Georgescu are termen la Judecătoria Sectorului 1 în dosarul cu acuzații de propagandă legionară și promovarea unor persoane condamnate pentru crime de război",
         "link": "https://adevarul.ro/stiri-interne/evenimente/calin-georgescu-are-termen-la-judecatoria-2568463.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Călin Georgescu ajunge în fața judecătorilor în dosarul de propagandă legionară. Lista acuzațiilor",
+        "link": "https://stirileprotv.ro/justitie/calin-georgescu-ajunge-in-fata-judecatorilor-in-dosarul-de-propaganda-legionara-ce-acuzatii-i-se-mai-aduc.html"
       }
     ],
     "published_at": 1793681202,
@@ -443,7 +532,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 4,
+    "sources_count": 5,
     "sources": [
       {
         "source": "Mediafax",
@@ -464,6 +553,11 @@
         "source": "Adevărul",
         "title": "Curtea Supremă a SUA a respins solicitarea lui Donald Trump de a opri numărarea voturilor contestate în California",
         "link": "https://adevarul.ro/stiri-externe/sua/curtea-suprema-a-sua-a-respins-solicitarea-lui-2568462.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Lovitură pentru Trump în California. Curtea Supremă refuză să intervină în procesul electoral și să excludă voturi",
+        "link": "https://stirileprotv.ro/stiri/international/lovitura-pentru-trump-in-california-curtea-suprema-refuza-sa-intervina-in-procesul-electoral-si-sa-excluda-voturi.html"
       }
     ],
     "published_at": 1793679733,
@@ -19374,121 +19468,6 @@
     "content_ro": "Vasárnap 53 szavazókörben megismételték a voksolást."
   },
   {
-    "group_id": "group_9540033614",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Parkoló kamionnak csapódott egy személygépkocsi, a sofőr szörnyethalt",
-        "link": "https://maszol.ro/belfold/Parkolo-kamionnak-csapodott-egy-szemelygepkocsi-a-sofor-szornyethalt"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Frontálisan ütközött egy kamionnal, meghalt a 28 éves sofőr",
-        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/frontalisan-utkozott-egy-kamionnal-meghalt-a-28-eves-sofor"
-      }
-    ],
-    "published_at": 1793597400,
-    "title_hu": "Parkoló kamionnak csapódott egy személygépkocsi, a sofőr szörnyethalt",
-    "lead_hu": "Halálos közúti baleset történt a vasárnapról hétfőre virradó éjszaka a Beszterce-Naszód megyei Besenyőn (Viișoara).",
-    "content_hu": "Halálos közúti baleset történt a vasárnapról hétfőre virradó éjszaka a Beszterce-Naszód megyei Besenyőn (Viișoara).",
-    "title_ro": "Parkoló kamionnak csapódott egy személygépkocsi, a sofőr szörnyethalt",
-    "lead_ro": "Halálos közúti baleset történt a vasárnapról hétfőre virradó éjszaka a Beszterce-Naszód megyei Besenyőn (Viișoara).",
-    "content_ro": "Halálos közúti baleset történt a vasárnapról hétfőre virradó éjszaka a Beszterce-Naszód megyei Besenyőn (Viișoara)."
-  },
-  {
-    "group_id": "group_95060a51b6",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Digistoria – cele mai importante evenimente petrecute pe 2 noiembrie",
-        "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-2-noiembrie-2-4017665"
-      }
-    ],
-    "published_at": 1793597308,
-    "title_hu": "Digistoria – cele mai importante evenimente petrecute pe 2 noiembrie",
-    "lead_hu": "Lewis Hamilton câștigă primul său titlu de campion F1 după o cursă de infarct în Brazilia. Era abia pe locul 6 în ultimul tur al cursei finale din sezonul 2008.",
-    "content_hu": "Lewis Hamilton câștigă primul său titlu de campion F1 după o cursă de infarct în Brazilia. Era abia pe locul 6 în ultimul tur al cursei finale din sezonul 2008.",
-    "title_ro": "Digistoria – cele mai importante evenimente petrecute pe 2 noiembrie",
-    "lead_ro": "Lewis Hamilton câștigă primul său titlu de campion F1 după o cursă de infarct în Brazilia. Era abia pe locul 6 în ultimul tur al cursei finale din sezonul 2008.",
-    "content_ro": "Lewis Hamilton câștigă primul său titlu de campion F1 după o cursă de infarct în Brazilia. Era abia pe locul 6 în ultimul tur al cursei finale din sezonul 2008."
-  },
-  {
-    "group_id": "group_efd471a4e1",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "O scenă memorabilă din „American Gangster” la PSD",
-        "link": "https://hotnews.ro/o-scena-memorabila-din-american-gangster-la-psd-2392018"
-      }
-    ],
-    "published_at": 1793597186,
-    "title_hu": "O scenă memorabilă din „American Gangster” la PSD",
-    "lead_hu": "În punctul fierbinte al filmului „American Gangster”, din 2007, cu Denzel Washington, personajul principal apare la un eveniment de gală îmbrăcat cu o haină de șinșilă, simbol al luxului și extravagan…",
-    "content_hu": "În punctul fierbinte al filmului „American Gangster”, din 2007, cu Denzel Washington, personajul principal apare la un eveniment de gală îmbrăcat cu o haină de șinșilă, simbol al luxului și extravaganței. A încălcat o regulă de aur care avea să îi aducă prăbușirea. Am retrăit scena când am văzut imaginile de la petrecerea PSD de …",
-    "title_ro": "O scenă memorabilă din „American Gangster” la PSD",
-    "lead_ro": "În punctul fierbinte al filmului „American Gangster”, din 2007, cu Denzel Washington, personajul principal apare la un eveniment de gală îmbrăcat cu o haină de șinșilă, simbol al luxului și extravagan…",
-    "content_ro": "În punctul fierbinte al filmului „American Gangster”, din 2007, cu Denzel Washington, personajul principal apare la un eveniment de gală îmbrăcat cu o haină de șinșilă, simbol al luxului și extravaganței. A încălcat o regulă de aur care avea să îi aducă prăbușirea. Am retrăit scena când am văzut imaginile de la petrecerea PSD de …"
-  },
-  {
-    "group_id": "group_c994764f9f",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Accidente în Mehedinți și Cluj. Șase persoane au nevoie de îngrijiri medicale, iar traficul este restricționat pe două drumuri naționale",
-        "link": "https://www.mediafax.ro/social/accidente-in-mehedinti-si-cluj-sase-persoane-au-nevoie-de-ingrijiri-medicale-iar-traficul-este-restrictionat-pe-doua-drumuri-nationale-23835531"
-      }
-    ],
-    "published_at": 1793597130,
-    "title_hu": "Accidente în Mehedinți și Kolozsvár. Șase persoane au nevoie de îngrijiri medicale, iar traficul este restricționat pe două drumuri naționale",
-    "lead_hu": "Traficul rutier se desfășoară cu dificultate luni dimineață pe două drumuri naționale din România, în urma unor accidente în care au fost implicate cinci ansambluri rutiere și autoturisme. Șase persoa…",
-    "content_hu": "Traficul rutier se desfășoară cu dificultate luni dimineață pe două drumuri naționale din România, în urma unor accidente în care au fost implicate cinci ansambluri rutiere și autoturisme. Șase persoane au fost rănite, dintre care două grav, potrivit Centrului INFOTRAFIC din Inspectoratul General al Poliției Române.",
-    "title_ro": "Accidente în Mehedinți și Cluj. Șase persoane au nevoie de îngrijiri medicale, iar traficul este restricționat pe două drumuri naționale",
-    "lead_ro": "Traficul rutier se desfășoară cu dificultate luni dimineață pe două drumuri naționale din România, în urma unor accidente în care au fost implicate cinci ansambluri rutiere și autoturisme. Șase persoa…",
-    "content_ro": "Traficul rutier se desfășoară cu dificultate luni dimineață pe două drumuri naționale din România, în urma unor accidente în care au fost implicate cinci ansambluri rutiere și autoturisme. Șase persoane au fost rănite, dintre care două grav, potrivit Centrului INFOTRAFIC din Inspectoratul General al Poliției Române."
-  },
-  {
-    "group_id": "group_cabe2e1ef9",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Posibilă incursiune de drone în județul Tulcea. Locuitorii au auzit avioanele armatei la joasă înălțime. Autoritățile au emis un mesaj RO-Alert",
-        "link": "https://www.mediafax.ro/social/posibila-incursiune-de-drone-in-judetul-tulcea-locuitorii-au-auzit-avioanele-armatei-la-joasa-inaltime-autoritatile-au-emis-un-mesaj-ro-alert-23835522"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Posibilă incursiune de drone în județul Tulcea. Locuitorii au auzit și văzut avioanele armatei la joasă înălțime. S-a emis un mesaj RO-Alert",
-        "link": "https://www.mediafax.ro/social/posibila-incursiune-de-drone-in-judetul-tulcea-locuitorii-au-auzit-si-vazut-avioanele-armatei-la-joasa-inaltime-s-a-emis-un-mesaj-ro-alert-23835522"
-      }
-    ],
-    "published_at": 1793597048,
-    "title_hu": "Posibilă incursiune de drone în județul Tulcea. Locuitorii au auzit avioanele armatei la joasă înălțime. Autoritățile au emis un mesaj RO-Alert",
-    "lead_hu": "ISU Tulcea a emis un mesaj RO-Alert în noaptea de duminică spre luni, în legătură cu o posibilă incursiune de drone. Locuitorii au raportat la 112 sunete emise de avioanele de vânătoare ale armatei, c…",
-    "content_hu": "ISU Tulcea a emis un mesaj RO-Alert în noaptea de duminică spre luni, în legătură cu o posibilă incursiune de drone. Locuitorii au raportat la 112 sunete emise de avioanele de vânătoare ale armatei, care ar fi zburat la joasă înălțime.",
-    "title_ro": "Posibilă incursiune de drone în județul Tulcea. Locuitorii au auzit avioanele armatei la joasă înălțime. Autoritățile au emis un mesaj RO-Alert",
-    "lead_ro": "ISU Tulcea a emis un mesaj RO-Alert în noaptea de duminică spre luni, în legătură cu o posibilă incursiune de drone. Locuitorii au raportat la 112 sunete emise de avioanele de vânătoare ale armatei, c…",
-    "content_ro": "ISU Tulcea a emis un mesaj RO-Alert în noaptea de duminică spre luni, în legătură cu o posibilă incursiune de drone. Locuitorii au raportat la 112 sunete emise de avioanele de vânătoare ale armatei, care ar fi zburat la joasă înălțime."
-  },
-  {
     "group_id": "group_1a3f3230a1",
     "category": "Általános",
     "is_synthesized": false,
@@ -19911,26 +19890,5 @@
     "title_ro": "Universitatea din România care le pune studenților la dispoziție instrumente de inteligență artificială",
     "lead_ro": "Universitatea Titu Maiorescu pune la dispoziția studenților și profesorilor Facultății de Drept platforma JURIDICE.AI, un instrument de inteligență artificială dedicat domeniului juridic.",
     "content_ro": "Universitatea Titu Maiorescu pune la dispoziția studenților și profesorilor Facultății de Drept platforma JURIDICE.AI, un instrument de inteligență artificială dedicat domeniului juridic."
-  },
-  {
-    "group_id": "group_12c4e0a1b0",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Armistițiul din zona orașului Oleșkî, încheiat după cinci zile. Lubineț anunță continuarea eforturilor umanitare",
-        "link": "https://www.mediafax.ro/externe/armistitiul-din-zona-orasului-oleski-incheiat-dupa-cinci-zile-lubinet-anunta-continuarea-eforturilor-umanitare-23835524"
-      }
-    ],
-    "published_at": 1793596983,
-    "title_hu": "Armistițiul din zona orașului Oleșkî, încheiat după cinci zile. Lubineț anunță continuarea eforturilor umanitare",
-    "lead_hu": "După cinci zile de armistițiu, operațiunea umanitară din orașul Oleșkî s-a încheiat, iar civilii care au dorit să plece au primit ajutor pentru a părăsi zona.",
-    "content_hu": "După cinci zile de armistițiu, operațiunea umanitară din orașul Oleșkî s-a încheiat, iar civilii care au dorit să plece au primit ajutor pentru a părăsi zona.",
-    "title_ro": "Armistițiul din zona orașului Oleșkî, încheiat după cinci zile. Lubineț anunță continuarea eforturilor umanitare",
-    "lead_ro": "După cinci zile de armistițiu, operațiunea umanitară din orașul Oleșkî s-a încheiat, iar civilii care au dorit să plece au primit ajutor pentru a părăsi zona.",
-    "content_ro": "După cinci zile de armistițiu, operațiunea umanitară din orașul Oleșkî s-a încheiat, iar civilii care au dorit să plece au primit ajutor pentru a părăsi zona."
   }
 ]
