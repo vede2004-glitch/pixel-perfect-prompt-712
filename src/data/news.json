@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_c3ece8b922",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Șumudică a vorbit despre plecarea de la CFR Cluj",
+        "link": "https://hotnews.ro/sumudica-a-vorbit-despre-plecarea-de-la-cfr-cluj-2393995"
+      }
+    ],
+    "published_at": 1793742644,
+    "title_hu": "Șumudică a vorbit despre plecarea de la CFR Cluj",
+    "lead_hu": "Marius Șumudică (55 de ani), tehnicianul celor de la CFR Cluj, a vorbit despre posibila plecare din Superliga. Antrenorul ar fi dorit de Gaziantep, formație pe care a mai condus-o în două rânduri (201...",
+    "content_hu": "Marius Șumudică (55 de ani), tehnicianul celor de la CFR Cluj, a vorbit despre posibila plecare din Superliga. Antrenorul ar fi dorit de Gaziantep, formație pe care a mai condus-o în două rânduri (2019-2021 și 2023-2024). Întrebat despre interes, acesta a dezvăluit care ar fi singurul motiv pentru care ar alege să plece de la …",
+    "title_ro": "Șumudică a vorbit despre plecarea de la CFR Cluj",
+    "lead_ro": "Marius Șumudică (55 de ani), tehnicianul celor de la CFR Cluj, a vorbit despre posibila plecare din Superliga. Antrenorul ar fi dorit de Gaziantep, formație pe care a mai condus-o în două rânduri (201...",
+    "content_ro": "Marius Șumudică (55 de ani), tehnicianul celor de la CFR Cluj, a vorbit despre posibila plecare din Superliga. Antrenorul ar fi dorit de Gaziantep, formație pe care a mai condus-o în două rânduri (2019-2021 și 2023-2024). Întrebat despre interes, acesta a dezvăluit care ar fi singurul motiv pentru care ar alege să plece de la …"
+  },
+  {
+    "group_id": "group_142eb64aea",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Inter, cu ochii pe un jucător român",
+        "link": "https://www.gsp.ro/international/campionate/inter-dennis-seimen-stuttgart-995617.html"
+      }
+    ],
+    "published_at": 1793742390,
+    "title_hu": "Inter, cu ochii pe un jucător român",
+    "lead_hu": "Inter, formația condusă de pe bancă de Cristi Chivu, este în căutare de portar, după ce în sezonul acesta Josep Martinez nu a dat randamentul scontat, iar lui Ivan Provedel nu i s-au acordat prea mult...",
+    "content_hu": "Inter, formația condusă de pe bancă de Cristi Chivu, este în căutare de portar, după ce în sezonul acesta Josep Martinez nu a dat randamentul scontat, iar lui Ivan Provedel nu i s-au acordat prea multe șanse. Dennis Seimen (20 de ani), portarul germano-român al celor de la Stuttgart, ar fi ținta nerazzurrilor pentru perioada de mercato de iarnă. ...",
+    "title_ro": "Inter, cu ochii pe un jucător român",
+    "lead_ro": "Inter, formația condusă de pe bancă de Cristi Chivu, este în căutare de portar, după ce în sezonul acesta Josep Martinez nu a dat randamentul scontat, iar lui Ivan Provedel nu i s-au acordat prea mult...",
+    "content_ro": "Inter, formația condusă de pe bancă de Cristi Chivu, este în căutare de portar, după ce în sezonul acesta Josep Martinez nu a dat randamentul scontat, iar lui Ivan Provedel nu i s-au acordat prea multe șanse. Dennis Seimen (20 de ani), portarul germano-român al celor de la Stuttgart, ar fi ținta nerazzurrilor pentru perioada de mercato de iarnă. ..."
+  },
+  {
     "group_id": "group_eedbe96402",
     "category": "Általános",
     "is_synthesized": false,
@@ -2608,7 +2650,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -2634,6 +2676,11 @@
         "source": "Mediafax",
         "title": "Ambasadorul României la Washington, despre alegerile din SUA: Democrații ar putea prelua Camera Reprezentanților. România urmărește deciziile privind Marea Neagră",
         "link": "https://www.mediafax.ro/politic/ambasadorul-romaniei-la-washington-despre-alegerile-din-sua-democratii-ar-putea-prelua-camera-reprezentantilor-romania-urmareste-deciziile-privind-marea-neagra-23837045"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ambasadorul României în SUA prevede o victorie a democraților: Vom vedea anchete împotriva lui Trump",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/ambasadorul-romaniei-in-sua-prevede-o-victorie-a-2568739.html"
       }
     ],
     "published_at": 1793731233,
