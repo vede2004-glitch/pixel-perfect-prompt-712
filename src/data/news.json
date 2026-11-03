@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_194961fdcf",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Alegeri SUA: Prima rundă de vot de importanță globală care se derulează în epoca Inteligenței Artificiale. Cum s-au pregătit Open AI, Anthropic și Google",
+        "link": "https://hotnews.ro/alegeri-sua-prima-runda-de-vot-de-importanta-globala-care-se-deruleaza-in-epoca-inteligentei-artificiale-cum-s-au-pregatit-open-ai-anthropic-si-google-2394017"
+      }
+    ],
+    "published_at": 1793744556,
+    "title_hu": "Alegeri SUA: Prima rundă de vot de importanță globală care se derulează în epoca Inteligenței Artificiale. Cum s-au pregătit Open AI, Anthropic și Google",
+    "lead_hu": "Întors recent dintr-o vizită în China, editorialistul american Thomas L. Friedman a mărturisit că, pentru prima oară, a văzut un afiș pe aeroportul din Beijing. Pe el scria că posesorii de drone trebu...",
+    "content_hu": "Întors recent dintr-o vizită în China, editorialistul american Thomas L. Friedman a mărturisit că, pentru prima oară, a văzut un afiș pe aeroportul din Beijing. Pe el scria că posesorii de drone trebuie să le prezinte la control. Mi-am dat seama, a spus el, că și chinezii se tem de ce ne temem și noi: …",
+    "title_ro": "Alegeri SUA: Prima rundă de vot de importanță globală care se derulează în epoca Inteligenței Artificiale. Cum s-au pregătit Open AI, Anthropic și Google",
+    "lead_ro": "Întors recent dintr-o vizită în China, editorialistul american Thomas L. Friedman a mărturisit că, pentru prima oară, a văzut un afiș pe aeroportul din Beijing. Pe el scria că posesorii de drone trebu...",
+    "content_ro": "Întors recent dintr-o vizită în China, editorialistul american Thomas L. Friedman a mărturisit că, pentru prima oară, a văzut un afiș pe aeroportul din Beijing. Pe el scria că posesorii de drone trebuie să le prezinte la control. Mi-am dat seama, a spus el, că și chinezii se tem de ce ne temem și noi: …"
+  },
+  {
     "group_id": "group_9f6f34680e",
     "category": "Általános",
     "is_synthesized": false,
@@ -459,12 +480,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "„FBI-ul să salveze SUA”. Sute de scrisori de amenințare, cu drojdie sau faină în ele, trimise oficialilor americani",
         "link": "https://hotnews.ro/fbi-ul-sa-salveze-sua-sute-de-scrisori-de-amenintare-cu-drojdie-sau-faina-in-ele-trimise-oficialilor-americani-2393973"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SUA: Un bărbat din Oklahoma City, inculpat pentru trimiterea a sute de scrisori de amenințare înainte de alegeri",
+        "link": "https://agerpres.ro/politic-extern/2026/11/03/sua-un-barbat-din-oklahoma-city-inculpat-pentru-trimiterea-a-sute-de-scrisori-de-amenintare-inainte---1609732"
       }
     ],
     "published_at": 1793740942,
@@ -1193,12 +1219,17 @@
     "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Alegeri în SUA: Cum au votat la peste 400 km de Pământ",
         "link": "https://www.mediafax.ro/externe/alegeri-in-sua-cum-au-votat-la-peste-400-km-de-pamant-23837029"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Alegeri SUA: Astronauții americani au votat în spațiu",
+        "link": "https://agerpres.ro/politic-extern/2026/11/03/alegeri-sua-astronautii-americani-au-votat-in-spatiu--1609728"
       }
     ],
     "published_at": 1793738677,
@@ -10279,7 +10310,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 7,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -10310,6 +10341,11 @@
         "source": "Mediafax",
         "title": "eMAG aduce 1,8 milioane de oferte de Black Friday, între cuprinse între 15% și 70%, și chiar 98%. Pachetele oferite pentru ziua cu cele mai multe reduceri din an",
         "link": "https://www.mediafax.ro/economic/emag-aduce-18-milioane-de-oferte-de-black-friday-intre-cuprinse-intre-15-si-70-si-chiar-98-pachetele-oferite-pentru-ziua-cu-cele-mai-multe-reduceri-din-an-23835704"
+      },
+      {
+        "source": "Adevărul",
+        "title": "O nouă campanie de Black Friday începe pe 4 noiembrie. Reduceri de până la 60% la anumite produse",
+        "link": "https://adevarul.ro/economie/o-noua-campanie-de-black-friday-incepe-pe-4-2568672.html"
       }
     ],
     "published_at": 1793709653,
@@ -22303,6 +22339,69 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Volum dedicat parteneriatului dintre România și Republica Moldova, lansat la Chișinău",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_9644e037bc",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Janice Tjen a debutat cu dreptul la Chennai (WTA)",
+        "link": "https://agerpres.ro/sport-extern/2026/11/03/tenis-janice-tjen-a-debutat-cu-dreptul-la-chennai-wta--1609730"
+      }
+    ],
+    "published_at": 1793664000,
+    "title_hu": "Tenis: Janice Tjen a debutat cu dreptul la Chennai (WTA)",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis: Janice Tjen a debutat cu dreptul la Chennai (WTA)",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_c56e145b7d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bolojan: Declarația liderei AfD e inacceptabilă; retorica xenofobă și extremistă nu are legătură cu adevăratul patriotism",
+        "link": "https://agerpres.ro/politic/2026/11/03/bolojan-declaratia-liderei-afd-e-inacceptabila-retorica-xenofoba-si-extremista-nu-are-legatura-cu-ad--1609729"
+      }
+    ],
+    "published_at": 1793664000,
+    "title_hu": "Bolojan: Declarația liderei AfD e inacceptabilă; retorica xenofobă și extremistă nu are legătură cu adevăratul patriotism",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Bolojan: Declarația liderei AfD e inacceptabilă; retorica xenofobă și extremistă nu are legătură cu adevăratul patriotism",
+    "lead_ro": "",
+    "content_ro": ""
+  },
+  {
+    "group_id": "group_07401b459a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Accident feroviar în Spania: Ministrul Transporturilor și-a anunțat demisia",
+        "link": "https://agerpres.ro/politic-extern/2026/11/03/video-accident-feroviar-in-spania-ministrul-transporturilor-si-a-anuntat-demisia--1609727"
+      }
+    ],
+    "published_at": 1793664000,
+    "title_hu": "VIDEO Accident feroviar în Spania: Ministrul Transporturilor și-a anunțat demisia",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "VIDEO Accident feroviar în Spania: Ministrul Transporturilor și-a anunțat demisia",
     "lead_ro": "",
     "content_ro": ""
   }
