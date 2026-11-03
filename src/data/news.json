@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_47bf8ec64e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "București, oraș cu bulină roșie. De ce durează atât de mult consolidarea blocurilor cu risc seismic din Capitală. Doi experți explică piedicile",
+        "link": "https://hotnews.ro/bucuresti-oras-cu-bulina-rosie-de-ce-dureaza-atat-de-mult-consolidarea-blocurilor-cu-risc-seismic-din-capitala-doi-experti-explica-piedicile-2392391"
+      }
+    ],
+    "published_at": 1793681864,
+    "title_hu": "București, oraș cu bulină roșie. De ce durează atât de mult consolidarea blocurilor cu risc seismic din Capitală. Doi experți explică piedicile",
+    "lead_hu": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar c...",
+    "content_hu": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar cele care au fost expertizate. Căci cifra reală este mult mai mare. În prezent, un imobil cu probleme este introdus în …",
+    "title_ro": "București, oraș cu bulină roșie. De ce durează atât de mult consolidarea blocurilor cu risc seismic din Capitală. Doi experți explică piedicile",
+    "lead_ro": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar c...",
+    "content_ro": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar cele care au fost expertizate. Căci cifra reală este mult mai mare. În prezent, un imobil cu probleme este introdus în …"
+  },
+  {
+    "group_id": "group_716ba34c71",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Cu cine a sărbătorit Claudiu Petrila victoria Rapidului din Superligă. O răsfață în restaurante scumpe!",
+        "link": "https://www.cancan.ro/cu-cine-a-sarbatorit-claudiu-petrila-victoria-rapidului-din-superliga-o-rasfata-in-restaurante-scumpe-21540640"
+      }
+    ],
+    "published_at": 1793681434,
+    "title_hu": "Cu cine a sărbătorit Claudiu Petrila victoria Rapidului din Superligă. O răsfață în restaurante scumpe!",
+    "lead_hu": "„Oficially forever. The most beautiful yes”, scria Claudiu Petrila pe Instagram, după ce a cerut-o de soție pe Ana Nisioiu, iubita și logodnica decarului de la Rapid. Absolut romantic și de bun-simț, ...",
+    "content_hu": "„Oficially forever. The most beautiful yes”, scria Claudiu Petrila pe Instagram, după ce a cerut-o de soție pe Ana Nisioiu, iubita și logodnica decarului de la Rapid. Absolut romantic și de bun-simț, fără cine știe ce destinații ostentative. La fel și cea mai recentă ieșire a lor în oraș, după ultima victorie a Rapidului, contra […]",
+    "title_ro": "Cu cine a sărbătorit Claudiu Petrila victoria Rapidului din Superligă. O răsfață în restaurante scumpe!",
+    "lead_ro": "„Oficially forever. The most beautiful yes”, scria Claudiu Petrila pe Instagram, după ce a cerut-o de soție pe Ana Nisioiu, iubita și logodnica decarului de la Rapid. Absolut romantic și de bun-simț, ...",
+    "content_ro": "„Oficially forever. The most beautiful yes”, scria Claudiu Petrila pe Instagram, după ce a cerut-o de soție pe Ana Nisioiu, iubita și logodnica decarului de la Rapid. Absolut romantic și de bun-simț, fără cine știe ce destinații ostentative. La fel și cea mai recentă ieșire a lor în oraș, după ultima victorie a Rapidului, contra […]"
+  },
+  {
     "group_id": "group_d021ae9452",
     "category": "Politika",
     "is_synthesized": false,
@@ -193,12 +235,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Cod roșu de ploi în județul Constanța. Acumulări de 80 l/mp în unele zone",
         "link": "https://www.mediafax.ro/meteo/cod-rosu-de-ploi-in-judetul-constanta-acumulari-de-80-l-mp-in-unele-zone-23836320"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cod roșu de ploi în județul Constanța / Acumulări de 80 l/mp în unele zone",
+        "link": "https://www.g4media.ro/cod-rosu-de-ploi-in-judetul-constanta-acumulari-de-80-l-mp-in-unele-zone.html"
       }
     ],
     "published_at": 1793679755,
@@ -18822,7 +18869,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -18833,6 +18880,11 @@
         "source": "ProTV Stiri",
         "title": "Accident mortal pe DN 17, în Bistrița-Năsăud. Un șofer de 43 de ani a murit după ce a intrat cu mașina sub remorca unui TIR parcat",
         "link": "https://stirileprotv.ro/stiri/actualitate/accident-mortal-pe-dn-17-in-bistrita-nasaud-un-sofer-de-43-de-ani-a-murit-dupa-ce-a-intrat-cu-masina-sub-remorca-unui-tir-parcat.html"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Halálra gázolta a kamion a kereket cserélő román sofőrt az M43-as autópályán",
+        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/halalra-gazolta-a-kamion-a-kereket-cserelo-roman-sofort-az-m43-as-autopalyan"
       }
     ],
     "published_at": 1793598887,
@@ -19420,69 +19472,6 @@
     "title_ro": "Vladimir Putin „și-a dorit foarte mult” ca Melania Trump să fie cea care să medieze încetarea focului la Oleșkî",
     "lead_ro": "Președintele rus Vladimir Putin „și-a dorit foarte mult” ca prima doamnă a SUA, Melania Trump, să medieze încetarea focului în orașul Oleșkî, ocupat de ruși, din regiunea Herson, a declarat Marc Beckm…",
     "content_ro": "Președintele rus Vladimir Putin „și-a dorit foarte mult” ca prima doamnă a SUA, Melania Trump, să medieze încetarea focului în orașul Oleșkî, ocupat de ruși, din regiunea Herson, a declarat Marc Beckman, consilierul ei principal, pentru Kyiv Independent."
-  },
-  {
-    "group_id": "group_a192262b8d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Alegerile de la jumătatea mandatului din 2026, o provocare fără precedent pentru sondaje: roboți, AI și respondenți falși",
-        "link": "https://adevarul.ro/stiri-externe/sua/alegerile-de-la-jumatatea-mandatului-din-2026-o-2568026.html"
-      }
-    ],
-    "published_at": 1793595325,
-    "title_hu": "Alegerile de la jumătatea mandatului din 2026, o provocare fără precedent pentru sondaje: roboți, AI și respondenți falși",
-    "lead_hu": "Sondajele sunt din nou în vizor, iar unii se grăbesc să le declare sfârșitul. Potrivit lui Michael Dimock, președintele Pew Research Center, problema nu este că ele au devenit mai slabe, ci că mai mul…",
-    "content_hu": "Sondajele sunt din nou în vizor, iar unii se grăbesc să le declare sfârșitul. Potrivit lui Michael Dimock, președintele Pew Research Center, problema nu este că ele au devenit mai slabe, ci că mai mulți factori creează provocări fără precedent.",
-    "title_ro": "Alegerile de la jumătatea mandatului din 2026, o provocare fără precedent pentru sondaje: roboți, AI și respondenți falși",
-    "lead_ro": "Sondajele sunt din nou în vizor, iar unii se grăbesc să le declare sfârșitul. Potrivit lui Michael Dimock, președintele Pew Research Center, problema nu este că ele au devenit mai slabe, ci că mai mul…",
-    "content_ro": "Sondajele sunt din nou în vizor, iar unii se grăbesc să le declare sfârșitul. Potrivit lui Michael Dimock, președintele Pew Research Center, problema nu este că ele au devenit mai slabe, ci că mai mulți factori creează provocări fără precedent."
-  },
-  {
-    "group_id": "group_88decc4fea",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Europa: Eroziunea coastelor ar putea provoca pierderi de 800 de miliarde de euro anual până în 2100",
-        "link": "https://www.g4media.ro/europa-eroziunea-coastelor-ar-putea-provoca-pierderi-de-800-de-miliarde-de-euro-anual-pana-in-2100.html"
-      }
-    ],
-    "published_at": 1793595285,
-    "title_hu": "Europa: Eroziunea coastelor ar putea provoca pierderi de 800 de miliarde de euro anual până în 2100",
-    "lead_hu": "Europa ar putea ajunge să piardă până la 800 de miliarde de euro anual din cauza eroziunii costiere, până la sfârșitul secolului, dacă nu sunt luate măsuri eficiente. Un raport al Consiliului Europei …",
-    "content_hu": "Europa ar putea ajunge să piardă până la 800 de miliarde de euro anual din cauza eroziunii costiere, până la sfârșitul secolului, dacă nu sunt luate măsuri eficiente. Un raport al Consiliului Europei recomandă pregătirea relocării unor locuințe, afaceri și infrastructuri în zona mai sigure, transmite Mediafax. Potrivit Euronews, pierderile economice provocate de eroziunea coastelor […] © G4Media.ro.",
-    "title_ro": "Europa: Eroziunea coastelor ar putea provoca pierderi de 800 de miliarde de euro anual până în 2100",
-    "lead_ro": "Europa ar putea ajunge să piardă până la 800 de miliarde de euro anual din cauza eroziunii costiere, până la sfârșitul secolului, dacă nu sunt luate măsuri eficiente. Un raport al Consiliului Europei …",
-    "content_ro": "Europa ar putea ajunge să piardă până la 800 de miliarde de euro anual din cauza eroziunii costiere, până la sfârșitul secolului, dacă nu sunt luate măsuri eficiente. Un raport al Consiliului Europei recomandă pregătirea relocării unor locuințe, afaceri și infrastructuri în zona mai sigure, transmite Mediafax. Potrivit Euronews, pierderile economice provocate de eroziunea coastelor […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_258c55df52",
-    "category": "Gazdaság",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "INVESTIGAȚIE Unde a ajuns milionul de euro din dosarul lui Călin Georgescu: ruta banilor duce la o bancă letonă, închisă de Banca Centrală Europeană. Șefii ei sunt judecați acum pentru spălare de bani",
-        "link": "https://hotnews.ro/investigatie-unde-a-ajuns-milionul-de-euro-din-dosarul-lui-calin-georgescu-ruta-banilor-duce-la-o-banca-letona-inchisa-de-banca-centrala-europeana-sefii-ei-sunt-judecati-acum-pentru-spalare-de-bani-2392121"
-      }
-    ],
-    "published_at": 1793595182,
-    "title_hu": "INVESTIGAȚIE Unde a ajuns milionul de euro din dosarul lui Călin Georgescu: ruta banilor duce la o bancă letonă, închisă de Banca Centrală Europeană. Șefii ei sunt judecați acum pentru spălare de bani",
-    "lead_hu": "Omul de afaceri buzoian Răzvan Leu a plătit un milion de euro, pentru accesarea unui credit internațional, promis de Călin Georgescu și Ionel Rusen, susține Leu. Banii au intrat în decembrie 2021, înt…",
-    "content_hu": "Omul de afaceri buzoian Răzvan Leu a plătit un milion de euro, pentru accesarea unui credit internațional, promis de Călin Georgescu și Ionel Rusen, susține Leu. Banii au intrat în decembrie 2021, într-un cont din Zurich al cărui beneficiar real era bancherul elvețian Thomas Schätti. Din același cont au plecat apoi, afirmă procurorii DIICOT, peste …",
-    "title_ro": "INVESTIGAȚIE Unde a ajuns milionul de euro din dosarul lui Călin Georgescu: ruta banilor duce la o bancă letonă, închisă de Banca Centrală Europeană. Șefii ei sunt judecați acum pentru spălare de bani",
-    "lead_ro": "Omul de afaceri buzoian Răzvan Leu a plătit un milion de euro, pentru accesarea unui credit internațional, promis de Călin Georgescu și Ionel Rusen, susține Leu. Banii au intrat în decembrie 2021, înt…",
-    "content_ro": "Omul de afaceri buzoian Răzvan Leu a plătit un milion de euro, pentru accesarea unui credit internațional, promis de Călin Georgescu și Ionel Rusen, susține Leu. Banii au intrat în decembrie 2021, într-un cont din Zurich al cărui beneficiar real era bancherul elvețian Thomas Schätti. Din același cont au plecat apoi, afirmă procurorii DIICOT, peste …"
   },
   {
     "group_id": "group_c24a8cb3a3",
