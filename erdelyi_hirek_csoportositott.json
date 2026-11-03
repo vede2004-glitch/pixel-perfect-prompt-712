@@ -229,40 +229,6 @@
     ]
   },
   {
-    "group_id": "group_ff4a270681",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Vremea luni, 2 noiembrie. Ploi abundente în sudul țării și temperaturi scăzute în toată România. La munte sunt așteptate ninsori",
-        "link": "https://adevarul.ro/stiri-interne/meteo/vremea-luni-2-noiembrie-ploi-abundente-in-sudul-2568179.html",
-        "summary": "Vremea se răcește luni, 2 noiembrie, când ploile vor cuprinde mai ales sudul și sud-estul țării, unde sunt estimate cantități însemnate de precipitații. În Dobrogea, acumulările pot depăși 60 l/mp, iar la munte sunt așteptate lapoviță și ninsoare.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793594553
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 2 noiembrie. Ploi în toată țara, dar mai abundente în sud și în sud-est. Maximele zilei",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-2-noiembrie-ploi-in-toata-tara-dar-mai-abundente-in-sud-si-in-sud-est-maximele-zilei.html",
-        "summary": "Luni se răcește, iar ploile apar în multe zone și vor fi mai abundente în sud și în sud-est. Vântul rămâne insistent în regiunile sudice și la munte, iar pe creste ninge sau cade lapoviță.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793601764
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Vreme rece în noiembrie. Unde și până când mai plouă",
-        "link": "https://hotnews.ro/vreme-rece-in-noiembrie-unde-si-pana-cand-mai-ploua-2392945",
-        "summary": "Luna noiembrie debutează cu o vreme închisă și rece, temperaturile urmând să scadă sub valorile specifice acestei perioade. În ceea ce privește precipitațiile, în următoarele zile va continua să plouă temporar și cu intensitate variabilă în mai multe regiuni, însă din date de 10 noiembrie ploile vor cuprinde toată țara. Administraţia Naţională de Meteorologie (ANM) …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793646584
-      }
-    ]
-  },
-  {
     "group_id": "group_bc7998e680",
     "category": "Bulvár",
     "articles_count": 1,
@@ -2176,6 +2142,31 @@
         "category": "Kultúra",
         "is_b2b_only": false,
         "published_at": 1793601676
+      }
+    ]
+  },
+  {
+    "group_id": "group_ff4a270681",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 2 noiembrie. Ploi în toată țara, dar mai abundente în sud și în sud-est. Maximele zilei",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-2-noiembrie-ploi-in-toata-tara-dar-mai-abundente-in-sud-si-in-sud-est-maximele-zilei.html",
+        "summary": "Luni se răcește, iar ploile apar în multe zone și vor fi mai abundente în sud și în sud-est. Vântul rămâne insistent în regiunile sudice și la munte, iar pe creste ninge sau cade lapoviță.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793601764
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Vreme rece în noiembrie. Unde și până când mai plouă",
+        "link": "https://hotnews.ro/vreme-rece-in-noiembrie-unde-si-pana-cand-mai-ploua-2392945",
+        "summary": "Luna noiembrie debutează cu o vreme închisă și rece, temperaturile urmând să scadă sub valorile specifice acestei perioade. În ceea ce privește precipitațiile, în următoarele zile va continua să plouă temporar și cu intensitate variabilă în mai multe regiuni, însă din date de 10 noiembrie ploile vor cuprinde toată țara. Administraţia Naţională de Meteorologie (ANM) …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793646584
       }
     ]
   },
