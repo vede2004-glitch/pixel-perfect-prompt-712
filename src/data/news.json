@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_d10db43276",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un elicopter s-a prăbușit la Miami: o persoană a murit, iar alte două au fost rănite",
+        "link": "https://www.mediafax.ro/externe/un-elicopter-s-a-prabusit-la-miami-o-persoana-a-murit-iar-alte-doua-au-fost-ranite-23837737"
+      }
+    ],
+    "published_at": 1793822162,
+    "title_hu": "Un elicopter s-a prăbușit la Miami: o persoană a murit, iar alte două au fost rănite",
+    "lead_hu": "Un elicopter s-a prăbușit la Miami. O persoană a decedat, iar alte două au fost rănite. Elicopterul transporta trei persoane și s-a prăbușit în apele golfului Biscayne, la est de aeroportul Miami Exec...",
+    "content_hu": "Un elicopter s-a prăbușit la Miami. O persoană a decedat, iar alte două au fost rănite. Elicopterul transporta trei persoane și s-a prăbușit în apele golfului Biscayne, la est de aeroportul Miami Executive.",
+    "title_ro": "Un elicopter s-a prăbușit la Miami: o persoană a murit, iar alte două au fost rănite",
+    "lead_ro": "Un elicopter s-a prăbușit la Miami. O persoană a decedat, iar alte două au fost rănite. Elicopterul transporta trei persoane și s-a prăbușit în apele golfului Biscayne, la est de aeroportul Miami Exec...",
+    "content_ro": "Un elicopter s-a prăbușit la Miami. O persoană a decedat, iar alte două au fost rănite. Elicopterul transporta trei persoane și s-a prăbușit în apele golfului Biscayne, la est de aeroportul Miami Executive."
+  },
+  {
+    "group_id": "group_1738a33c51",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Alertă de călătorie pentru români. MAE recomandă evitarea zonelor în care vor avea loc proteste în Franța",
+        "link": "https://www.mediafax.ro/stirile-zilei/alerta-de-calatorie-pentru-romani-mae-recomanda-evitarea-zonelor-in-care-vor-avea-loc-proteste-in-franta-23837732"
+      }
+    ],
+    "published_at": 1793821722,
+    "title_hu": "Alertă de călătorie pentru români. MAE recomandă evitarea zonelor în care vor avea loc proteste în Franța",
+    "lead_hu": "Ministerul Afacerilor Externe a emis miercuri o avertizare de călătorie, în contextul în care joi vor avea loc noi proteste în Franța. MAE recomandă românilor să evite zonele în care vor avea loc demo...",
+    "content_hu": "Ministerul Afacerilor Externe a emis miercuri o avertizare de călătorie, în contextul în care joi vor avea loc noi proteste în Franța. MAE recomandă românilor să evite zonele în care vor avea loc demonstrații.",
+    "title_ro": "Alertă de călătorie pentru români. MAE recomandă evitarea zonelor în care vor avea loc proteste în Franța",
+    "lead_ro": "Ministerul Afacerilor Externe a emis miercuri o avertizare de călătorie, în contextul în care joi vor avea loc noi proteste în Franța. MAE recomandă românilor să evite zonele în care vor avea loc demo...",
+    "content_ro": "Ministerul Afacerilor Externe a emis miercuri o avertizare de călătorie, în contextul în care joi vor avea loc noi proteste în Franța. MAE recomandă românilor să evite zonele în care vor avea loc demonstrații."
+  },
+  {
     "group_id": "group_4e770437a5",
     "category": "Általános",
     "is_synthesized": false,
@@ -429,12 +471,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Luca Niculescu a numit noi secretari de stat în șapte ministere",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-a-numit-noi-secretari-de-stat-in-sapte-ministere-4022205"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Premierul Luca Niculescu a numit nouă secretari de stat în șapte ministere. Cinci revin în funcții",
+        "link": "https://adevarul.ro/politica/premierul-luca-niculescu-a-numit-noua-secretari-de-2569047.html"
       }
     ],
     "published_at": 1793818628,
@@ -537,12 +584,17 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "Fostul atacant din Superliga, răpus la 38 de ani » Primise în martie un diagnostic crunt",
         "link": "https://www.gsp.ro/fotbal/liga-1/otelul-galati-vadim-cricimari-deces-superliga-995956.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Doliu în lumea fotbalului! Vadim Crîcimari a murit la doar 38 de ani",
+        "link": "https://www.cancan.ro/doliu-in-lumea-fotbalului-vadim-cricimari-a-murit-la-doar-38-de-ani-21542180"
       }
     ],
     "published_at": 1793818489,
@@ -1660,7 +1712,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 9,
+    "sources_count": 10,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -1706,6 +1758,11 @@
         "source": "Digi24",
         "title": "Aproape 500 de milioane de dolari pentru republicani. Elon Musk devine cel mai mare donator individual din istoria alegerilor americane",
         "link": "https://www.digi24.ro/stiri/externe/sua/aproape-500-de-milioane-de-dolari-pentru-republicani-elon-musk-devine-cel-mai-mare-donator-individual-din-istoria-alegerilor-americane-4019909"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Bilanțul lui Musk după alegerile din SUA: peste 458 de milioane de dolari cheltuiți, 44 de înfrângeri și 18 victorii",
+        "link": "https://www.mediafax.ro/externe/bilantul-lui-musk-dupa-alegerile-din-sua-peste-458-de-milioane-de-dolari-cheltuiti-44-de-infrangeri-si-18-victorii-23837698"
       }
     ],
     "published_at": 1793816296,
@@ -3396,7 +3453,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -3422,6 +3479,11 @@
         "source": "Adevărul",
         "title": "Anthony Scaramucci: Trump va fi „zdrobit“ la alegerile intermediare și știe asta. Preconizează și un „război civil“ printre republicani",
         "link": "https://adevarul.ro/stiri-externe/sua/anthony-scaramucci-trump-va-fi-zdrobit-la-2568575.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trump caută vinovații după eșecul electoral al republicanilor. Șeful Pentagonului ar putea plăti prețul",
+        "link": "https://adevarul.ro/stiri-externe/sua/trump-cauta-vinovatii-dupa-esecul-electoral-al-2569050.html"
       }
     ],
     "published_at": 1793810775,
@@ -21406,70 +21468,6 @@
     "title_ro": "Groenlanda a ratificat acordul cu SUA. Opoziția este nemulțumită de prevederile tratatului",
     "lead_ro": "Parlamentul Groenlandei a ratificat marţi acordul de securitate încheiat în acest an cu preşedintele american Donald Trump, deşi unii membri ai opoziţiei au pus la îndoială valoarea economică a acordu…",
     "content_ro": "Parlamentul Groenlandei a ratificat marţi acordul de securitate încheiat în acest an cu preşedintele american Donald Trump, deşi unii membri ai opoziţiei au pus la îndoială valoarea economică a acordului, transmite Reuters, preluată de Agerpres. Statele Unite, Danemarca şi Groenlanda au semnat în septembrie un acord, menit să pună capăt tensiunilor în urma ameninţărilor repetate …"
-  },
-  {
-    "group_id": "group_8b7cb22e02",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Alexandru Nazare, vizită la Tulcea: 170 de ani de cooperare europeană pe Dunăre și discuții despre activitatea ANAF",
-        "link": "https://www.mediafax.ro/politic/alexandru-nazare-vizita-la-tulcea-170-de-ani-de-cooperare-europeana-pe-dunare-si-discutii-despre-activitatea-anaf-23837022"
-      }
-    ],
-    "published_at": 1793735798,
-    "title_hu": "Alexandru Nazare, vizită la Tulcea: 170 de ani de cooperare europeană pe Dunăre și discuții despre activitatea ANAF",
-    "lead_hu": "Administrația fiscală din Tulcea a rambursat companiilor 14 milioane de lei reprezentând TVA și este la zi cu plățile efectuate în termenele procedurale, a anunțat marți ministrul Finanțelor, Alexandr…",
-    "content_hu": "Administrația fiscală din Tulcea a rambursat companiilor 14 milioane de lei reprezentând TVA și este la zi cu plățile efectuate în termenele procedurale, a anunțat marți ministrul Finanțelor, Alexandru Nazare.",
-    "title_ro": "Alexandru Nazare, vizită la Tulcea: 170 de ani de cooperare europeană pe Dunăre și discuții despre activitatea ANAF",
-    "lead_ro": "Administrația fiscală din Tulcea a rambursat companiilor 14 milioane de lei reprezentând TVA și este la zi cu plățile efectuate în termenele procedurale, a anunțat marți ministrul Finanțelor, Alexandr…",
-    "content_ro": "Administrația fiscală din Tulcea a rambursat companiilor 14 milioane de lei reprezentând TVA și este la zi cu plățile efectuate în termenele procedurale, a anunțat marți ministrul Finanțelor, Alexandru Nazare."
-  },
-  {
-    "group_id": "group_21199f0d18",
-    "fingerprint": "f4ed64fa5e22d2ad3e7d8504a234579f",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ministrul Energiei şi ambasadorul SUA în România au discutat despre Unităţile 3 şi 4 de la Cernavodă şi proiectul SMR de la Doiceşti",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-energiei-si-ambasadorul-sua-in-romania-au-discutat-despre-unitatile-3-si-4-de-la-cernavoda-si-proiectul-smr-de-la-doicesti-4020379"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Proiectele nucleare de la Cernavodă și Doicești, discutate de ministrul Energiei cu ambasadorul SUA în România",
-        "link": "https://www.mediafax.ro/economic/proiectele-nucleare-de-la-cernavoda-si-doicesti-discutate-de-ministrul-energiei-cu-ambasadorul-sua-in-romania-23837000"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ambasadorul SUA s-a întâlnit cu noul ministru al Energiei pentru a discuta despre proiectele nucleare americane în România",
-        "link": "https://stirileprotv.ro/stiri/financiar/ambasadorul-sua-s-a-intalnit-cu-noul-ministru-al-energiei-pentru-a-discuta-despre-proiectele-nucleare-americane-in-romania.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Proiectele nucleare de la Cernavodă și Doicești, discutate de ministrul Energiei cu ambasadorul SUA / ”România urmărește accelerarea proiectelor nucleare”",
-        "link": "https://www.g4media.ro/proiectele-nucleare-de-la-cernavoda-si-doicesti-discutate-de-ministrul-energiei-cu-ambasadorul-sua-romania-urmareste-accelerarea-proiectelor-nucleare.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Ministrul Energiei și ambasadorul SUA în România au discutat despre Unitățile 3 și 4 de la Cernavodă și proiectul SMR de la Doicești",
-        "link": "https://agerpres.ro/economic/2026/11/03/ministrul-energiei-si-ambasadorul-sua-in-romania-au-discutat-despre-unitatile-3-si-4-de-la-cernavoda--1609700"
-      }
-    ],
-    "published_at": 1793735548,
-    "title_hu": "Román–amerikai tárgyalások az atomenergia-fejlesztésekről",
-    "lead_hu": "Dumitru Chisăliță román energiaügyi miniszter 2026. november 3-án Darryl Nirenberg amerikai nagykövettel egyeztetett. A megbeszélésen a cernavodai atomerőmű bővítése, a doicești SMR-terv, a Vertical Gas Corridor, valamint a kétoldalú stratégiai partnerség energetikai vonatkozásai kerültek előtérbe.",
-    "content_hu": "• **2026. november 3-án** Dumitru Chisăliță energiaügyi miniszter Darryl Nirenberg amerikai nagykövettel tekintette át a román–amerikai energetikai együttműködés lehetséges irányait. A találkozón konkrét beruházások és a tágabb regionális energiaellátás kérdései egyaránt napirenden voltak.\n\n• **A cernavodai 3. és 4. blokk** építésének előmozdítása a megbeszélés egyik fő témája volt. Chisăliță gyakorlati megoldások keresését szorgalmazta a nukleáris fejlesztések gyorsítására, továbbá a projektekben érintett vállalatok közötti egyeztetések és az amerikai partnerekkel fenntartott együttműködés folytatását tartotta fontosnak.\n\n• **A doicești SMR-projekt** kapcsán a kis moduláris reaktorok technológiai fejlesztéséről tárgyaltak. Emellett szóba került a Vertical Gas Corridor megerősítése, amely a gázbeszerzési lehetőségek szélesítésével és a regionális energiaellátás biztonságával függ össze.\n\n• **Amerikai beruházások és szakmai kapcsolatok** terén a romániai energetikai befektetések bővítése, ezen belül a biomassza fejlesztése is felmerült. A felek képzési programok és oktatási cserelehetőségek kialakításáról is egyeztettek, különös tekintettel a fejlett nukleáris technológiákra.\n\n• **A Románia és az Egyesült Államok közötti stratégiai partnerség** elmélyítését konkrét energetikai projektekhez kötötték. A felek értékelése szerint az ilyen fejlesztések Románia és a térség energiaellátását, valamint gazdasági fejlődését is támogathatják.",
-    "title_ro": "Discuții româno-americane despre proiectele din domeniul energiei nucleare",
-    "lead_ro": "La 3 noiembrie 2026, ministrul român al Energiei, Dumitru Chisăliță, s-a întâlnit cu ambasadorul american Darryl Nirenberg. Discuțiile au inclus extinderea centralei de la Cernavodă, proiectul SMR de la Doicești, Coridorul Vertical de Gaze și dimensiunea energetică a parteneriatului strategic bilateral.",
-    "content_ro": "• **La 3 noiembrie 2026**, ministrul Energiei, Dumitru Chisăliță, a discutat cu ambasadorul SUA, Darryl Nirenberg, despre direcțiile cooperării energetice dintre cele două țări. Agenda a cuprins atât proiecte de investiții, cât și aspecte legate de aprovizionarea regională cu energie.\n\n• **Unitățile 3 și 4 de la Cernavodă** au reprezentat unul dintre subiectele centrale. Chisăliță a susținut identificarea unor măsuri aplicabile pentru accelerarea proiectelor nucleare și continuarea dialogului între companiile implicate, precum și a colaborării cu partenerii americani.\n\n• **Proiectul SMR de la Doicești** a fost discutat în legătură cu dezvoltarea tehnologiei reactoarelor modulare mici. Participanții au abordat și consolidarea Coridorului Vertical de Gaze, asociată cu diversificarea opțiunilor de aprovizionare și securitatea energetică a regiunii.\n\n• **Investițiile americane și cooperarea profesională** au fost alte teme ale întrevederii. A fost menționată posibilitatea unor noi investiții în sectorul energetic românesc, inclusiv în biomasă, precum și dezvoltarea formării profesionale și a schimburilor educaționale în domeniul tehnologiilor nucleare avansate.\n\n• **Parteneriatul Strategic dintre România și SUA** a fost reafirmat în legătură cu dezvoltarea unor proiecte energetice concrete. Potrivit prezentării întâlnirii, aceste inițiative pot sprijini securitatea energetică și evoluția economică atât în România, cât și în regiune."
   },
   {
     "group_id": "group_edde550b1b",
