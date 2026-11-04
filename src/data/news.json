@@ -1,5 +1,52 @@
 [
   {
+    "group_id": "group_9ae4b04763",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Bajnokok Ligája: Gulácsi hat gólt kapott a címvédőtől, Madridban nyert a Bayern",
+        "link": "https://maszol.ro/sport/Bajnokok-Ligaja-Gulacsi-hat-golt-kapott-a-cimvedotol-a-Bayern-Madridban-nyert"
+      }
+    ],
+    "published_at": 1793769164,
+    "title_hu": "Bajnokok Ligája: Gulácsi hat gólt kapott a címvédőtől, Madridban nyert a Bayern",
+    "lead_hu": "A Gulácsi Pétert foglalkoztató Villarreal hazai pályán 6-0-ra kikapott a címvédő Paris Saint-Germaintől kedden, a labdarúgó Bajnokok Ligája alapszakaszának negyedik fordulójában....",
+    "content_hu": "A Gulácsi Pétert foglalkoztató Villarreal hazai pályán 6-0-ra kikapott a címvédő Paris Saint-Germaintől kedden, a labdarúgó Bajnokok Ligája alapszakaszának negyedik fordulójában.",
+    "title_ro": "Bajnokok Ligája: Gulácsi hat gólt kapott a címvédőtől, Madridban nyert a Bayern",
+    "lead_ro": "A Gulácsi Pétert foglalkoztató Villarreal hazai pályán 6-0-ra kikapott a címvédő Paris Saint-Germaintől kedden, a labdarúgó Bajnokok Ligája alapszakaszának negyedik fordulójában....",
+    "content_ro": "A Gulácsi Pétert foglalkoztató Villarreal hazai pályán 6-0-ra kikapott a címvédő Paris Saint-Germaintől kedden, a labdarúgó Bajnokok Ligája alapszakaszának negyedik fordulójában."
+  },
+  {
+    "group_id": "group_74592b7a80",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Un remorcher s-a scufundat în Marea Neagră, aproape de Neptun. Se intervine pentru salvarea marinarilor",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/un-remorcher-s-a-scufundat-in-marea-neagra-2568757.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Șapte marinari, salvați după scufundarea unui remorcher în Marea Neagră. Ar fi intrat în coliziune cu nava pe care o remorca",
+        "link": "https://stirileprotv.ro/stiri/actualitate/un-remorcher-s-a-scufundat-in-apropiere-de-neptun-dupa-ce-legaturile-de-remorcare-s-au-rupt.html"
+      }
+    ],
+    "published_at": 1793768990,
+    "title_hu": "Un remorcher s-a scufundat în Marea Neagră, aproape de Neptun. Se intervine pentru salvarea marinarilor",
+    "lead_hu": "Structurile Ministerului de Interne intervin, miercuri, pentru salvarea a şapte marinari, cetăţeni turci, după scufundarea unui remorcher în Marea Neagră. Acesta ar fi intrat în coliziune cu nava pe c...",
+    "content_hu": "Structurile Ministerului de Interne intervin, miercuri, pentru salvarea a şapte marinari, cetăţeni turci, după scufundarea unui remorcher în Marea Neagră. Acesta ar fi intrat în coliziune cu nava pe care o remorca, după ce legăturile s-au rupt.",
+    "title_ro": "Un remorcher s-a scufundat în Marea Neagră, aproape de Neptun. Se intervine pentru salvarea marinarilor",
+    "lead_ro": "Structurile Ministerului de Interne intervin, miercuri, pentru salvarea a şapte marinari, cetăţeni turci, după scufundarea unui remorcher în Marea Neagră. Acesta ar fi intrat în coliziune cu nava pe c...",
+    "content_ro": "Structurile Ministerului de Interne intervin, miercuri, pentru salvarea a şapte marinari, cetăţeni turci, după scufundarea unui remorcher în Marea Neagră. Acesta ar fi intrat în coliziune cu nava pe care o remorca, după ce legăturile s-au rupt."
+  },
+  {
     "group_id": "group_080574b9d8",
     "category": "Általános",
     "is_synthesized": false,
@@ -111,7 +158,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "Mediafax",
@@ -162,6 +209,11 @@
         "source": "Mediafax",
         "title": "Alegeri SUA 2026. Democrații defilează. CNN: Democrații câștigă controlul Camerei Reprezentanților și al Senatului",
         "link": "https://www.mediafax.ro/stirile-zilei/alegeri-sua-2026-democratii-defileaza-cnn-democratii-castiga-controlul-camerei-reprezentantilor-si-al-senatului-23836554"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Trump, prima reacție după ce democrații preluat puterea la Washington. Ce acuză președintele republican al SUA",
+        "link": "https://stirileprotv.ro/stiri/international/trump-prima-reactie-dupa-ce-democratii-preluat-puterea-la-washington.html"
       }
     ],
     "published_at": 1793768202,
@@ -1016,7 +1068,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -1027,6 +1079,11 @@
         "source": "Mediafax",
         "title": "Democratul Chris Pappas devine primul senator gay declarat din istoria Americii. Republicanii lui Trump pierd o cursă importantă",
         "link": "https://www.mediafax.ro/stirile-zilei/democratul-chris-pappas-devine-primul-senator-gay-declarat-din-istoria-americii-republicanii-lui-trump-pierd-o-cursa-importanta-23837120"
+      },
+      {
+        "source": "G4Media",
+        "title": "O premieră în istoria Senatului american / Democratul Chris Pappas devine primul senator gay declarat din istoria Americii",
+        "link": "https://www.g4media.ro/o-premiera-in-istoria-senatului-american-democratul-chris-pappas-devine-primul-senator-gay-declarat-din-istoria-americii.html"
       }
     ],
     "published_at": 1793757063,
@@ -21274,69 +21331,6 @@
     "title_ro": "Licitație de aproape 2 milioane de lei pentru iluminatul festiv din București / Vor fi aproape 800 de echipamente electrice de tip perdea",
     "lead_ro": "Compania Municipală Iluminat Public București a lansat în SEAP o licitație în valoare de 1.996.600 de lei pentru achiziția unor decorațiuni destinate iluminatului festiv din această iarnă, relatează A…",
     "content_ro": "Compania Municipală Iluminat Public București a lansat în SEAP o licitație în valoare de 1.996.600 de lei pentru achiziția unor decorațiuni destinate iluminatului festiv din această iarnă, relatează Agenția de presă Rador, care citează Radio București. Contractul prevede cumpărarea a 745 de echipamente electrice de tip perdea, cu LED-uri pentru exterior, interconectabile și prevăzute cu […] © G4Media.ro."
-  },
-  {
-    "group_id": "group_4770e748fe",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "BANC | „Bulă, cum îl cheamă pe neamțul ăla mic care îmi tot ascunde lucrurile?”",
-        "link": "https://www.cancan.ro/banc-bula-cum-il-cheama-pe-neamtul-ala-mic-care-imi-tot-ascunde-lucrurile-2-21540972"
-      }
-    ],
-    "published_at": 1793682939,
-    "title_hu": "BANC | „Bulă, cum îl cheamă pe neamțul ăla mic care îmi tot ascunde lucrurile?”",
-    "lead_hu": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Bunicul îl în…",
-    "content_hu": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Bunicul îl întreabă pe nepoțelul lui: – Bulă, cum îl cheamă pe neamțul ăla mic care îmi tot ascunde […]",
-    "title_ro": "BANC | „Bulă, cum îl cheamă pe neamțul ăla mic care îmi tot ascunde lucrurile?”",
-    "lead_ro": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Bunicul îl în…",
-    "content_ro": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Bunicul îl întreabă pe nepoțelul lui: – Bulă, cum îl cheamă pe neamțul ăla mic care îmi tot ascunde […]"
-  },
-  {
-    "group_id": "group_a0be4391df",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Alertă în Timiș. O familie cu doi copii, căutați în pădurile din Timiș după ce au plecat cu ATV-ul și nu s-au mai întors",
-        "link": "https://stirileprotv.ro/stiri/actualitate/alerta-in-timis-o-familie-cu-doi-copii-cautati-in-padurile-din-timis-dupa-ce-au-plecat-cu-atv-ul-si-nu-s-au-mai-intors.html"
-      }
-    ],
-    "published_at": 1793682802,
-    "title_hu": "Alertă în Timiș. O familie cu doi copii, căutați în pădurile din Timiș după ce au plecat cu ATV-ul și nu s-au mai întors",
-    "lead_hu": "Doi soţi şi cei doi copii ai lor sunt căutaţi, luni seară, de pompieri, poliţişti, pădurari şi localnici, după ce au plecat cu ATV-urile prin pădure, în zona localităţii Poeni, judeţul Timiş, şi nu s-…",
-    "content_hu": "Doi soţi şi cei doi copii ai lor sunt căutaţi, luni seară, de pompieri, poliţişti, pădurari şi localnici, după ce au plecat cu ATV-urile prin pădure, în zona localităţii Poeni, judeţul Timiş, şi nu s-au mai întors.",
-    "title_ro": "Alertă în Timiș. O familie cu doi copii, căutați în pădurile din Timiș după ce au plecat cu ATV-ul și nu s-au mai întors",
-    "lead_ro": "Doi soţi şi cei doi copii ai lor sunt căutaţi, luni seară, de pompieri, poliţişti, pădurari şi localnici, după ce au plecat cu ATV-urile prin pădure, în zona localităţii Poeni, judeţul Timiş, şi nu s-…",
-    "content_ro": "Doi soţi şi cei doi copii ai lor sunt căutaţi, luni seară, de pompieri, poliţişti, pădurari şi localnici, după ce au plecat cu ATV-urile prin pădure, în zona localităţii Poeni, judeţul Timiş, şi nu s-au mai întors."
-  },
-  {
-    "group_id": "group_c86954d90a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Sistem inovator de vaccinare a peștilor. Ace microscopice din mătase ar putea reduce riscurile",
-        "link": "https://www.g4media.ro/sistem-inovator-de-vaccinare-a-pestilor-ace-microscopice-din-matase-ar-putea-reduce-riscurile.html"
-      }
-    ],
-    "published_at": 1793682731,
-    "title_hu": "Sistem inovator de vaccinare a peștilor. Ace microscopice din mătase ar putea reduce riscurile",
-    "lead_hu": "Cercetătorii de la Institutul de Tehnologie de la Massachusetts (MIT) și Departamentul pentru Agricultură al Statelor Unite ale Americii (USDA) au dezvoltat un sistem inovator de vaccinare a peștilor …",
-    "content_hu": "Cercetătorii de la Institutul de Tehnologie de la Massachusetts (MIT) și Departamentul pentru Agricultură al Statelor Unite ale Americii (USDA) au dezvoltat un sistem inovator de vaccinare a peștilor de crescătorie, bazat pe ace microscopice realizate din mătase comestibilă, transmite Mediafax. Tehnologia ar putea reduce stresul asupra animalelor, riscurile pentru lucrători și costurile asociate vaccinării […] © G4Media.ro.",
-    "title_ro": "Sistem inovator de vaccinare a peștilor. Ace microscopice din mătase ar putea reduce riscurile",
-    "lead_ro": "Cercetătorii de la Institutul de Tehnologie de la Massachusetts (MIT) și Departamentul pentru Agricultură al Statelor Unite ale Americii (USDA) au dezvoltat un sistem inovator de vaccinare a peștilor …",
-    "content_ro": "Cercetătorii de la Institutul de Tehnologie de la Massachusetts (MIT) și Departamentul pentru Agricultură al Statelor Unite ale Americii (USDA) au dezvoltat un sistem inovator de vaccinare a peștilor de crescătorie, bazat pe ace microscopice realizate din mătase comestibilă, transmite Mediafax. Tehnologia ar putea reduce stresul asupra animalelor, riscurile pentru lucrători și costurile asociate vaccinării […] © G4Media.ro."
   },
   {
     "group_id": "group_1939101f0d",
