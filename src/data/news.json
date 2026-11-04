@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_f7dbc1e405",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "„Ai Aflat! cu Ionuț Cristache” începe joi, 5 noiembrie, de la ora 15.00, live pe Gândul. Invitat: Andrei Marga",
+        "link": "https://www.cancan.ro/ai-aflat-cu-ionut-cristache-incepe-joi-5-noiembrie-de-la-ora-15-00-live-pe-gandul-invitat-andrei-marga-21542101"
+      }
+    ],
+    "published_at": 1793814093,
+    "title_hu": "„Ai Aflat! cu Ionuț Cristache” începe joi, 5 noiembrie, de la ora 15.00, live pe Gândul. Invitat: Andrei Marga",
+    "lead_hu": "Invitatul emisiunii este Andrei Marga. Emisiunea poate fi urmărită pe Facebook și YouTube Gândul....",
+    "content_hu": "Invitatul emisiunii este Andrei Marga. Emisiunea poate fi urmărită pe Facebook și YouTube Gândul.",
+    "title_ro": "„Ai Aflat! cu Ionuț Cristache” începe joi, 5 noiembrie, de la ora 15.00, live pe Gândul. Invitat: Andrei Marga",
+    "lead_ro": "Invitatul emisiunii este Andrei Marga. Emisiunea poate fi urmărită pe Facebook și YouTube Gândul....",
+    "content_ro": "Invitatul emisiunii este Andrei Marga. Emisiunea poate fi urmărită pe Facebook și YouTube Gândul."
+  },
+  {
+    "group_id": "group_92e370cb30",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Românii renunță la mașinile noi din cauza costurilor tot mai mari. Motocicletele și autoturismele second-hand, tot mai căutate",
+        "link": "https://stirileprotv.ro/stiri/actualitate/romanii-renunta-la-masinile-noi-din-cauza-costurilor-tot-mai-mari-motocicletele-si-autoturismele-second-hand-tot-mai-cautate.html"
+      }
+    ],
+    "published_at": 1793813783,
+    "title_hu": "Românii renunță la mașinile noi din cauza costurilor tot mai mari. Motocicletele și autoturismele second-hand, tot mai căutate",
+    "lead_hu": "Prețurile ridicate pentru combustibil și costurile de întreținere i-au speriat pe mulți dintre cei care au vrut să-și cumpere o mașină....",
+    "content_hu": "Prețurile ridicate pentru combustibil și costurile de întreținere i-au speriat pe mulți dintre cei care au vrut să-și cumpere o mașină.",
+    "title_ro": "Românii renunță la mașinile noi din cauza costurilor tot mai mari. Motocicletele și autoturismele second-hand, tot mai căutate",
+    "lead_ro": "Prețurile ridicate pentru combustibil și costurile de întreținere i-au speriat pe mulți dintre cei care au vrut să-și cumpere o mașină....",
+    "content_ro": "Prețurile ridicate pentru combustibil și costurile de întreținere i-au speriat pe mulți dintre cei care au vrut să-și cumpere o mașină."
+  },
+  {
     "group_id": "group_2c8f55c7a6",
     "category": "Általános",
     "is_synthesized": false,
@@ -103,6 +145,27 @@
     "title_ro": "Impozit dublu pe tot apartamentul pentru un balcon închis fără autorizație. Ce prevede noul Cod al Urbanismului",
     "lead_ro": "Primăriile au început să stabilească valoarea taxelor și impozitelor pentru anul viitor....",
     "content_ro": "Primăriile au început să stabilească valoarea taxelor și impozitelor pentru anul viitor."
+  },
+  {
+    "group_id": "group_edde550b1b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Încă două loturi din Autostrada A0, deschise circulației. Șoferii pot circula pe 13 kilometri noi în nordul Capitalei",
+        "link": "https://stirileprotv.ro/stiri/actualitate/inca-doua-loturi-din-autostrada-a0-deschise-circulatiei-soferii-pot-circula-pe-13-kilometri-noi-in-nordul-capitalei.html"
+      }
+    ],
+    "published_at": 1793813380,
+    "title_hu": "Încă două loturi din Autostrada A0, deschise circulației. Șoferii pot circula pe 13 kilometri noi în nordul Capitalei",
+    "lead_hu": "Șoferii pot circula din 4 noiembrie pe încă 13 kilometri din Autostrada A0, în jurul Capitalei....",
+    "content_hu": "Șoferii pot circula din 4 noiembrie pe încă 13 kilometri din Autostrada A0, în jurul Capitalei.",
+    "title_ro": "Încă două loturi din Autostrada A0, deschise circulației. Șoferii pot circula pe 13 kilometri noi în nordul Capitalei",
+    "lead_ro": "Șoferii pot circula din 4 noiembrie pe încă 13 kilometri din Autostrada A0, în jurul Capitalei....",
+    "content_ro": "Șoferii pot circula din 4 noiembrie pe încă 13 kilometri din Autostrada A0, în jurul Capitalei."
   },
   {
     "group_id": "group_2740cc17c2",
@@ -7391,7 +7454,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 13,
+    "sources_count": 14,
     "sources": [
       {
         "source": "Adevărul",
@@ -7457,6 +7520,11 @@
         "source": "Agerpres (HU)",
         "title": "Fotbal: Decesul lui Jesus de Miguel este 'o adevărată tragedie', a afirmat Gianni Infantino",
         "link": "https://agerpres.ro/sport-extern/2026/11/03/fotbal-decesul-lui-jesus-de-miguel-este-o-adevarata-tragedie-a-afirmat-gianni-infantino--1609667"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Prima reacție a portarului care l-a accidentat mortal pe Jesus de Miguel: „Cele mai grele zile din viața mea”",
+        "link": "https://www.gsp.ro/international/campionate/jesus-owono-reactie-deces-jesus-de-miguel-995934.html"
       }
     ],
     "published_at": 1793795921,
@@ -9638,7 +9706,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 11,
+    "sources_count": 12,
     "sources": [
       {
         "source": "G4Media",
@@ -9694,6 +9762,11 @@
         "source": "Digi24",
         "title": "Ce arată sondajele în ajunul alegerilor din Statele Unite. Trump riscă să piardă puterea legislativă",
         "link": "https://www.digi24.ro/stiri/externe/ce-arata-sondajele-in-ajunul-alegerilor-din-statele-unite-trump-risca-sa-piarda-puterea-legislativa-4018625"
+      },
+      {
+        "source": "Maszol",
+        "title": "Amerika félidőben üzent Trumpnak",
+        "link": "https://maszol.ro/kulfold/Amerika-felidoben-uzent-Trumpnak"
       }
     ],
     "published_at": 1793791135,
@@ -21499,132 +21572,6 @@
     "title_ro": "Cristina Petre vrea să-și refacă viața după divorțul de Andrei Rotaru. Dezvăluiri despre o nouă relație",
     "lead_ro": "Cristina Petre și Andrei Rotaru au ales să meargă pe drumuri separate în urmă cu câteva luni. Fosta concurentă de la Insula Iubirii a lăsat toate grijile și a plecat în vacanță în Marea Britanie. Ea a…",
     "content_ro": "Cristina Petre și Andrei Rotaru au ales să meargă pe drumuri separate în urmă cu câteva luni. Fosta concurentă de la Insula Iubirii a lăsat toate grijile și a plecat în vacanță în Marea Britanie. Ea a abordat un subiect care este pe buzele tuturor: este sau nu pregătită pentru o nouă relație? Cristina Petre […]"
-  },
-  {
-    "group_id": "group_59afb506cf",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Brancardier, gaterist sau electrician. România va putea aduce străini pentru mai multe meserii",
-        "link": "https://stirileprotv.ro/stiri/social/site-ul-prin-care-se-aduc-muncitori-straini-in-romania-blocat-mii-de-oameni-afectati-firmele-nu-mai-pot-angaja.html"
-      }
-    ],
-    "published_at": 1793727811,
-    "title_hu": "Brancardier, gaterist sau electrician. România va putea aduce străini pentru mai multe meserii",
-    "lead_hu": "Pe lista meseriilor pentru care angajatorii vor putea antama muncitori străini în România ar putea apărea noi profesii, precum brancardier, electrician sau maistru mecanic.",
-    "content_hu": "Pe lista meseriilor pentru care angajatorii vor putea antama muncitori străini în România ar putea apărea noi profesii, precum brancardier, electrician sau maistru mecanic.",
-    "title_ro": "Brancardier, gaterist sau electrician. România va putea aduce străini pentru mai multe meserii",
-    "lead_ro": "Pe lista meseriilor pentru care angajatorii vor putea antama muncitori străini în România ar putea apărea noi profesii, precum brancardier, electrician sau maistru mecanic.",
-    "content_ro": "Pe lista meseriilor pentru care angajatorii vor putea antama muncitori străini în România ar putea apărea noi profesii, precum brancardier, electrician sau maistru mecanic."
-  },
-  {
-    "group_id": "group_2035020b56",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "România și Turcia, schimburi comerciale de aproape 13 miliarde de dolari în 2025. Luca Niculescu: „Ne propunem să creștem investițiile”",
-        "link": "https://adevarul.ro/politica/romania-si-turcia-schimburi-comerciale-de-aproape-2568698.html"
-      }
-    ],
-    "published_at": 1793727648,
-    "title_hu": "România și Turcia, schimburi comerciale de aproape 13 miliarde de dolari în 2025. Luca Niculescu: „Ne propunem să creștem investițiile”",
-    "lead_hu": "Relațiile economice dintre România și Turcia au continuat să se dezvolte, schimburile comerciale dintre cele două state ajungând la aproape 13 miliarde de dolari în 2025.",
-    "content_hu": "Relațiile economice dintre România și Turcia au continuat să se dezvolte, schimburile comerciale dintre cele două state ajungând la aproape 13 miliarde de dolari în 2025.",
-    "title_ro": "România și Turcia, schimburi comerciale de aproape 13 miliarde de dolari în 2025. Luca Niculescu: „Ne propunem să creștem investițiile”",
-    "lead_ro": "Relațiile economice dintre România și Turcia au continuat să se dezvolte, schimburile comerciale dintre cele două state ajungând la aproape 13 miliarde de dolari în 2025.",
-    "content_ro": "Relațiile economice dintre România și Turcia au continuat să se dezvolte, schimburile comerciale dintre cele două state ajungând la aproape 13 miliarde de dolari în 2025."
-  },
-  {
-    "group_id": "group_dc2c09503f",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Decretul italian privind limitarea numărului de elevi străini, în vizorul UE. Ce spune comisarul european Roxana Mînzatu",
-        "link": "https://hotnews.ro/decretul-guvernului-italian-privind-limitarea-numarului-de-elevi-straini-in-vizorul-ue-ce-spune-comisarul-european-roxana-minzatu-2393865"
-      }
-    ],
-    "published_at": 1793727605,
-    "title_hu": "Decretul italian privind limitarea numărului de elevi străini, în vizorul UE. Ce spune comisarul european Roxana Mînzatu",
-    "lead_hu": "Comisia Europeană a declarat că monitorizează decretul prin care guvernul italian a stabilit o limită de 30% a procentului de elevi de origine străină cu dificultăţi serioase de învăţare a limbii ital…",
-    "content_hu": "Comisia Europeană a declarat că monitorizează decretul prin care guvernul italian a stabilit o limită de 30% a procentului de elevi de origine străină cu dificultăţi serioase de învăţare a limbii italiene în sălile de clasă, transmite marţi agenția italiană de presă ANSA, citată de Agerpres. „Tratatele UE interzic orice formă de discriminare bazată pe …",
-    "title_ro": "Decretul italian privind limitarea numărului de elevi străini, în vizorul UE. Ce spune comisarul european Roxana Mînzatu",
-    "lead_ro": "Comisia Europeană a declarat că monitorizează decretul prin care guvernul italian a stabilit o limită de 30% a procentului de elevi de origine străină cu dificultăţi serioase de învăţare a limbii ital…",
-    "content_ro": "Comisia Europeană a declarat că monitorizează decretul prin care guvernul italian a stabilit o limită de 30% a procentului de elevi de origine străină cu dificultăţi serioase de învăţare a limbii italiene în sălile de clasă, transmite marţi agenția italiană de presă ANSA, citată de Agerpres. „Tratatele UE interzic orice formă de discriminare bazată pe …"
-  },
-  {
-    "group_id": "group_1c76c17f9f",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Horoscop 4 noiembrie 2026. O zodie primește un mesaj neașteptat. Cine trebuie să fie atent la chestiunile financiare și profesionale",
-        "link": "https://www.mediafax.ro/life-inedit/horoscop-4-noiembrie-2026-o-zodie-primeste-un-mesaj-neasteptat-cine-trebuie-sa-fie-atent-la-chestiunile-financiare-si-profesionale-23836945"
-      }
-    ],
-    "published_at": 1793727536,
-    "title_hu": "Horoscop 4 noiembrie 2026. O zodie primește un mesaj neașteptat. Cine trebuie să fie atent la chestiunile financiare și profesionale",
-    "lead_hu": "Horoscop 4 noiembrie. Berbecii se bucură de realizări profesionale și financiare, în timp ce Racii sunt pregătiți pentru schimbări importante în viața lor. Scorpionii ar putea descoperi noi oportunită…",
-    "content_hu": "Horoscop 4 noiembrie. Berbecii se bucură de realizări profesionale și financiare, în timp ce Racii sunt pregătiți pentru schimbări importante în viața lor. Scorpionii ar putea descoperi noi oportunități în carieră, iar Peștii ar putea primi un mesaj neașteptat.",
-    "title_ro": "Horoscop 4 noiembrie 2026. O zodie primește un mesaj neașteptat. Cine trebuie să fie atent la chestiunile financiare și profesionale",
-    "lead_ro": "Horoscop 4 noiembrie. Berbecii se bucură de realizări profesionale și financiare, în timp ce Racii sunt pregătiți pentru schimbări importante în viața lor. Scorpionii ar putea descoperi noi oportunită…",
-    "content_ro": "Horoscop 4 noiembrie. Berbecii se bucură de realizări profesionale și financiare, în timp ce Racii sunt pregătiți pentru schimbări importante în viața lor. Scorpionii ar putea descoperi noi oportunități în carieră, iar Peștii ar putea primi un mesaj neașteptat."
-  },
-  {
-    "group_id": "group_7cd1dd5039",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea urâtă îi sperie pe șoferi, care se înghesuie să-și echipeze mașinile cu anvelope de iarnă. Cât s-au scumpit serviciile",
-        "link": "https://stirileprotv.ro/stiri/social/vremea-urata-ii-sperie-pe-soferi-care-se-inghesuie-sa-si-echipeze-masinile-cu-anvelope-de-iarna.html"
-      }
-    ],
-    "published_at": 1793727459,
-    "title_hu": "Vremea urâtă îi sperie pe șoferi, care se înghesuie să-și echipeze mașinile cu anvelope de iarnă. Cât s-au scumpit serviciile",
-    "lead_hu": "Toamna neprietenoasă din aceste zile i-a speriat pe șoferi, care au luat cu asaltat service-urile auto. Toți vor să își echipeze mașinile cu anvelope pentru sezonul rece.",
-    "content_hu": "Toamna neprietenoasă din aceste zile i-a speriat pe șoferi, care au luat cu asaltat service-urile auto. Toți vor să își echipeze mașinile cu anvelope pentru sezonul rece.",
-    "title_ro": "Vremea urâtă îi sperie pe șoferi, care se înghesuie să-și echipeze mașinile cu anvelope de iarnă. Cât s-au scumpit serviciile",
-    "lead_ro": "Toamna neprietenoasă din aceste zile i-a speriat pe șoferi, care au luat cu asaltat service-urile auto. Toți vor să își echipeze mașinile cu anvelope pentru sezonul rece.",
-    "content_ro": "Toamna neprietenoasă din aceste zile i-a speriat pe șoferi, care au luat cu asaltat service-urile auto. Toți vor să își echipeze mașinile cu anvelope pentru sezonul rece."
-  },
-  {
-    "group_id": "group_91da654af7",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Topul celor mai sigure orașe pentru vacanțe în 2027. Surpriza de pe primul loc și destinațiile europene recomandate",
-        "link": "https://www.mediafax.ro/turism/topul-celor-mai-sigure-orase-pentru-vacante-in-2027-surpriza-de-pe-primul-loc-si-destinatiile-europene-recomandate-23836941"
-      }
-    ],
-    "published_at": 1793727439,
-    "title_hu": "Topul celor mai sigure orașe pentru vacanțe în 2027. Surpriza de pe primul loc și destinațiile europene recomandate",
-    "lead_hu": "Europa are nouă reprezentante în clasamentul celor mai sigure 15 orașe din lume pentru călătoriile din 2027, potrivit unui studiu realizat de o companie de asigurări de călătorie.",
-    "content_hu": "Europa are nouă reprezentante în clasamentul celor mai sigure 15 orașe din lume pentru călătoriile din 2027, potrivit unui studiu realizat de o companie de asigurări de călătorie.",
-    "title_ro": "Topul celor mai sigure orașe pentru vacanțe în 2027. Surpriza de pe primul loc și destinațiile europene recomandate",
-    "lead_ro": "Europa are nouă reprezentante în clasamentul celor mai sigure 15 orașe din lume pentru călătoriile din 2027, potrivit unui studiu realizat de o companie de asigurări de călătorie.",
-    "content_ro": "Europa are nouă reprezentante în clasamentul celor mai sigure 15 orașe din lume pentru călătoriile din 2027, potrivit unui studiu realizat de o companie de asigurări de călătorie."
   },
   {
     "group_id": "group_d0bc4dce6d",
