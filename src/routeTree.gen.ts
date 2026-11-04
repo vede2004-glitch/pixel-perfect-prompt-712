@@ -11,7 +11,6 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
-import { Route as BekuldesRouteImport } from './routes/bekuldes'
 import { Route as ForrasokRouteImport } from './routes/forrasok'
 import { Route as LoginRouteImport } from './routes/login'
 import { Route as OsszesRouteImport } from './routes/osszes'
@@ -32,11 +31,6 @@ const IndexRoute = IndexRouteImport.update({
 } as any)
 const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
   id: '/_authenticated',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const BekuldesRoute = BekuldesRouteImport.update({
-  id: '/bekuldes',
-  path: '/bekuldes',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ForrasokRoute = ForrasokRouteImport.update({
@@ -103,7 +97,6 @@ const ApiPublicNewsRoute = ApiPublicNewsRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/login': typeof LoginRoute
   '/osszes': typeof OsszesRoute
@@ -119,7 +112,6 @@ export interface FileRoutesByFullPath {
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
-  '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/login': typeof LoginRoute
   '/osszes': typeof OsszesRoute
@@ -137,7 +129,6 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
-  '/bekuldes': typeof BekuldesRoute
   '/forrasok': typeof ForrasokRoute
   '/login': typeof LoginRoute
   '/osszes': typeof OsszesRoute
@@ -155,7 +146,6 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
-    | '/bekuldes'
     | '/forrasok'
     | '/login'
     | '/osszes'
@@ -171,7 +161,6 @@ export interface FileRouteTypes {
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
-    | '/bekuldes'
     | '/forrasok'
     | '/login'
     | '/osszes'
@@ -188,7 +177,6 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/_authenticated'
-    | '/bekuldes'
     | '/forrasok'
     | '/login'
     | '/osszes'
@@ -206,7 +194,6 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
-  BekuldesRoute: typeof BekuldesRoute
   ForrasokRoute: typeof ForrasokRoute
   LoginRoute: typeof LoginRoute
   OsszesRoute: typeof OsszesRoute
@@ -233,13 +220,6 @@ declare module '@tanstack/react-router' {
       path: ''
       fullPath: '/'
       preLoaderRoute: typeof AuthenticatedRouteRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/bekuldes': {
-      id: '/bekuldes'
-      path: '/bekuldes'
-      fullPath: '/bekuldes'
-      preLoaderRoute: typeof BekuldesRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/forrasok': {
@@ -345,7 +325,6 @@ const AuthenticatedRouteRouteWithChildren =
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
-  BekuldesRoute: BekuldesRoute,
   ForrasokRoute: ForrasokRoute,
   LoginRoute: LoginRoute,
   OsszesRoute: OsszesRoute,

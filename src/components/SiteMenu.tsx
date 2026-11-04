@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import { HeartHandshake, Info, Library, Menu, MessageSquareWarning, Moon, Newspaper, Send, Sun } from "lucide-react";
+import { HeartHandshake, Info, Library, Menu, MessageSquareWarning, Moon, Newspaper, Sun } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 import { LANGS, setLang, useLang } from "@/lib/lang";
