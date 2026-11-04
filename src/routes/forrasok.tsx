@@ -17,10 +17,10 @@ function parseFeeds(py: string): [string, string][] {
   const seen = new Set<string>();
   const out: [string, string][] = [];
   for (const m of block.matchAll(/"([^"]+)"\s*:\s*"(https?:\/\/[^"]+)"/g)) {
-    const host = new URL(m[2]).hostname.replace(/^www\./, "");
+    const host = new URL(m[2]!).hostname.replace(/^www\./, "");
     if (seen.has(host)) continue;
     seen.add(host);
-    out.push([m[1].replace(/\s*\((HU|RO)\)$/, ""), host]);
+    out.push([m[1]!.replace(/\s*\((HU|RO)\)$/, ""), host]);
   }
   return out;
 }
