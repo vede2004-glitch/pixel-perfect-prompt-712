@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_be43c5f112",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Motivul pentru care Donald Trump a fost zdrobit de alegătorii americani este neașteptat de simplu",
+        "link": "https://hotnews.ro/motivul-pentru-care-donald-trump-a-fost-zdrobit-de-alegatorii-americani-este-neasteptat-de-simplu-2394320"
+      }
+    ],
+    "published_at": 1793768268,
+    "title_hu": "Motivul pentru care Donald Trump a fost zdrobit de alegătorii americani este neașteptat de simplu",
+    "lead_hu": "Donald Trump a sfidat alegătorii și a crezut totuși că va câștiga. Învăluit în bula sa, în care și relatările Fox News îl enervează, președintele a uitat că tabăra MAGA nu este țara. E greu de spus ce...",
+    "content_hu": "Donald Trump a sfidat alegătorii și a crezut totuși că va câștiga. Învăluit în bula sa, în care și relatările Fox News îl enervează, președintele a uitat că tabăra MAGA nu este țara. E greu de spus ce a crezut cu adevărat Donald Trump când a început în octombrie un lung șir de mitinguri electorale …",
+    "title_ro": "Motivul pentru care Donald Trump a fost zdrobit de alegătorii americani este neașteptat de simplu",
+    "lead_ro": "Donald Trump a sfidat alegătorii și a crezut totuși că va câștiga. Învăluit în bula sa, în care și relatările Fox News îl enervează, președintele a uitat că tabăra MAGA nu este țara. E greu de spus ce...",
+    "content_ro": "Donald Trump a sfidat alegătorii și a crezut totuși că va câștiga. Învăluit în bula sa, în care și relatările Fox News îl enervează, președintele a uitat că tabăra MAGA nu este țara. E greu de spus ce a crezut cu adevărat Donald Trump când a început în octombrie un lung șir de mitinguri electorale …"
+  },
+  {
     "group_id": "group_a85b19e931",
     "category": "Általános",
     "is_synthesized": false,
@@ -19,6 +40,27 @@
     "title_ro": "Un pastor care a pus pe primul loc în campanie „civilitatea” a câștigat într-un stat unde democrații n-au mai avut senator de dinainte de al Doilea Război Mondial",
     "lead_ro": "Pastorul Adam Hamilton a învins în cursa pentru senatul SUA derulată în Kansas, stat unde în 1932 fusese ales ultimul democrat ca senator. Acum 94 de ani. Într-o noapte a surprizelor care s-au derulat...",
     "content_ro": "Pastorul Adam Hamilton a învins în cursa pentru senatul SUA derulată în Kansas, stat unde în 1932 fusese ales ultimul democrat ca senator. Acum 94 de ani. Într-o noapte a surprizelor care s-au derulat cu o vitează și la o magnitudine care i-a surprins chiar și pe democrații învingători, unul dintre șocurile politice a venit …"
+  },
+  {
+    "group_id": "group_3ffc4063a4",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Familia Vijelie, descindere în magazinele de mobilă. Vali a ieșit la shopping cu soția, fiica lor și „ginerele”",
+        "link": "https://www.cancan.ro/familia-vijelie-descindere-in-magazinele-de-mobila-vali-a-iesit-la-shopping-cu-sotia-fiica-lor-si-ginerele-21541044"
+      }
+    ],
+    "published_at": 1793767813,
+    "title_hu": "Familia Vijelie, descindere în magazinele de mobilă. Vali a ieșit la shopping cu soția, fiica lor și „ginerele”",
+    "lead_hu": "Celebrul artist Vali Vijelie, pe numele său real Valentin Rusu, 56 de ani, a anunțat recent că urmează să devină bunic. Nici vorbă de vreo apăsare, de vreo grijă că l-au prins din urmă bătrânețile și ...",
+    "content_hu": "Celebrul artist Vali Vijelie, pe numele său real Valentin Rusu, 56 de ani, a anunțat recent că urmează să devină bunic. Nici vorbă de vreo apăsare, de vreo grijă că l-au prins din urmă bătrânețile și că în curând va sălta nepoții pe genunchi și le va cânta ceva de leagăn. Nici pomeneală! CANCAN.RO l-a […]",
+    "title_ro": "Familia Vijelie, descindere în magazinele de mobilă. Vali a ieșit la shopping cu soția, fiica lor și „ginerele”",
+    "lead_ro": "Celebrul artist Vali Vijelie, pe numele său real Valentin Rusu, 56 de ani, a anunțat recent că urmează să devină bunic. Nici vorbă de vreo apăsare, de vreo grijă că l-au prins din urmă bătrânețile și ...",
+    "content_ro": "Celebrul artist Vali Vijelie, pe numele său real Valentin Rusu, 56 de ani, a anunțat recent că urmează să devină bunic. Nici vorbă de vreo apăsare, de vreo grijă că l-au prins din urmă bătrânețile și că în curând va sălta nepoții pe genunchi și le va cânta ceva de leagăn. Nici pomeneală! CANCAN.RO l-a […]"
   },
   {
     "group_id": "group_65ec6827e6",
@@ -352,7 +394,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 7,
+    "sources_count": 9,
     "sources": [
       {
         "source": "Mediafax",
@@ -388,6 +430,16 @@
         "source": "Adevărul",
         "title": "Bloomberg: Democrații preiau Camera Reprezentanților și se apropie de controlul Senatului",
         "link": "https://adevarul.ro/stiri-externe/sua/bloomberg-democratii-preiau-camera-2568754.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Victorie istorică în alegeri. Democrații vor prelua controlul atât asupra Camerei Reprezentanților, cât și asupra Senatului",
+        "link": "https://www.mediafax.ro/politic/victorie-istorica-in-alegeri-democratii-vor-prelua-controlul-atat-asupra-camerei-reprezentantilor-cat-si-asupra-senatului-23837168"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Midterms 2026. Rezultatele alegerilor din SUA. Democrații câștigă Senatul, punând capăt dominației republicanilor lui Trump",
+        "link": "https://stirileprotv.ro/stiri/international/midterms-2026-rezultatele-alegerilor-din-sua-democratii-castiga-senatul-punand-capat-dominatiei-republicanilor-lui-trump.html"
       }
     ],
     "published_at": 1793764316,
@@ -14285,7 +14337,7 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Adevărul",
@@ -14296,6 +14348,11 @@
         "source": "ProTV Stiri",
         "title": "Midterms 2026. Rezultatele alegerilor din SUA. Trump afirmă că republicanii ar fi „câştigat detaşat” dacă ar fi fost el pe buletinele de vot",
         "link": "https://stirileprotv.ro/stiri/international/midterms-2026-rezultatele-alegerilor-din-sua-trump-afirma-ca-republicanii-ar-fi-castigat-detasat-daca-ar-fi-fost-el-pe-buletinele-de-vot.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trump se distanțează de rezultatele din alegerile de la jumătatea mandatului. Ce spune despre o colaborare cu democrații",
+        "link": "https://www.digi24.ro/stiri/externe/sua/trump-se-distanteaza-de-rezultatele-din-alegerile-de-la-jumatatea-mandatului-ce-spune-despre-o-colaborare-cu-democratii-4020767"
       }
     ],
     "published_at": 1793703726,
@@ -15155,7 +15212,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -15166,6 +15223,11 @@
         "source": "Digi24",
         "title": "83% dintre antreprenorii români cred că euro va crește în următoarele 12 luni. Cum s-au schimbat așteptările față de anul trecut",
         "link": "https://www.digi24.ro/stiri/economie/83-dintre-antreprenorii-romani-cred-ca-euro-va-creste-in-urmatoarele-12-luni-cum-s-au-schimbat-asteptarile-fata-de-anul-trecut-4019589"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Fiecare euro produs de firmele străine în România costă aproape cât în Vest",
+        "link": "https://hotnews.ro/fiecare-euro-produs-de-firmele-straine-in-romania-costa-aproape-cat-in-vest-2394304"
       }
     ],
     "published_at": 1793701156,
@@ -21106,48 +21168,6 @@
     "title_ro": "Ce afaceri de familie sunt în spatele negociatorilor de pace americani și ruși privind războiul din Ucraina",
     "lead_ro": "Publicația Kyiv Post a urmărit rețelele de afaceri de familie din jurul negociatorilor de pace de la Washington și Moscova. Legăturile se întind de la un om de afaceri cu legături la Kremlin, care a c…",
     "content_ro": "Publicația Kyiv Post a urmărit rețelele de afaceri de familie din jurul negociatorilor de pace de la Washington și Moscova. Legăturile se întind de la un om de afaceri cu legături la Kremlin, care a contribuit la finanțarea nunții lui Trump Jr., până la o afacere cu criptomonede a familiei Trump. Senatorii americani afirmă că acea afacere a vândut token-uri unui cumpărător legat de un instrument rus de eludare a sancțiunilor, însă nu se știe încă cui aparține acel portofel."
-  },
-  {
-    "group_id": "group_47bf8ec64e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "București, oraș cu bulină roșie. De ce durează atât de mult consolidarea blocurilor cu risc seismic din Capitală. Doi experți explică piedicile",
-        "link": "https://hotnews.ro/bucuresti-oras-cu-bulina-rosie-de-ce-dureaza-atat-de-mult-consolidarea-blocurilor-cu-risc-seismic-din-capitala-doi-experti-explica-piedicile-2392391"
-      }
-    ],
-    "published_at": 1793681864,
-    "title_hu": "București, oraș cu bulină roșie. De ce durează atât de mult consolidarea blocurilor cu risc seismic din Capitală. Doi experți explică piedicile",
-    "lead_hu": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar c…",
-    "content_hu": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar cele care au fost expertizate. Căci cifra reală este mult mai mare. În prezent, un imobil cu probleme este introdus în …",
-    "title_ro": "București, oraș cu bulină roșie. De ce durează atât de mult consolidarea blocurilor cu risc seismic din Capitală. Doi experți explică piedicile",
-    "lead_ro": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar c…",
-    "content_ro": "În ultimii 32 de ani, 37 de clădiri cu risc seismic au fost consolidate în București, prin programele derulate de autorități. Orașul are însă peste 2.300 de clădiri cu probleme. Și acestea sunt doar cele care au fost expertizate. Căci cifra reală este mult mai mare. În prezent, un imobil cu probleme este introdus în …"
-  },
-  {
-    "group_id": "group_e0f7c33c5c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Halálra gázolta a kamion a kereket cserélő román sofőrt az M43-as autópályán",
-        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/halalra-gazolta-a-kamion-a-kereket-cserelo-roman-sofort-az-m43-as-autopalyan"
-      }
-    ],
-    "published_at": 1793681722,
-    "title_hu": "Halálra gázolta a kamion a kereket cserélő román sofőrt az M43-as autópályán",
-    "lead_hu": "A középkorú sofőr olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.",
-    "content_hu": "A középkorú sofőr olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.",
-    "title_ro": "Halálra gázolta a kamion a kereket cserélő román sofőrt az M43-as autópályán",
-    "lead_ro": "A középkorú sofőr olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette.",
-    "content_ro": "A középkorú sofőr olyan súlyos sérüléseket szenvedett, hogy a helyszínen életét vesztette."
   },
   {
     "group_id": "group_e53f8bd7be",
