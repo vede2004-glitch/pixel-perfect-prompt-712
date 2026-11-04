@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_c280cab564",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "UEFA Champions League: Como, victorie istorică la Lens. Arsenal și Manchester City, învingătoare",
+        "link": "https://www.mediafax.ro/sport/uefa-champions-league-como-victorie-istorica-la-lens-arsenal-si-manchester-city-invingatoare-23837789"
+      }
+    ],
+    "published_at": 1793830097,
+    "title_hu": "UEFA Champions League: Como, victorie istorică la Lens. Arsenal și Manchester City, învingătoare",
+    "lead_hu": "Formația italiană Como a reușit cea mai categorică victorie a serii de miercuri din Liga Campionilor, impunându-se cu un incredibil 9-1 pe terenul francezilor de la Lens, rezultat care egalează record...",
+    "content_hu": "Formația italiană Como a reușit cea mai categorică victorie a serii de miercuri din Liga Campionilor, impunându-se cu un incredibil 9-1 pe terenul francezilor de la Lens, rezultat care egalează recordul diferenței de scor din istoria competiției. Arsenal și Manchester City obțin victorii cu emoții.",
+    "title_ro": "UEFA Champions League: Como, victorie istorică la Lens. Arsenal și Manchester City, învingătoare",
+    "lead_ro": "Formația italiană Como a reușit cea mai categorică victorie a serii de miercuri din Liga Campionilor, impunându-se cu un incredibil 9-1 pe terenul francezilor de la Lens, rezultat care egalează record...",
+    "content_ro": "Formația italiană Como a reușit cea mai categorică victorie a serii de miercuri din Liga Campionilor, impunându-se cu un incredibil 9-1 pe terenul francezilor de la Lens, rezultat care egalează recordul diferenței de scor din istoria competiției. Arsenal și Manchester City obțin victorii cu emoții."
+  },
+  {
     "group_id": "group_e86800c3ce",
     "category": "Általános",
     "is_synthesized": false,
@@ -677,7 +698,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 11,
+    "sources_count": 12,
     "sources": [
       {
         "source": "Maszol",
@@ -733,6 +754,11 @@
         "source": "Agerpres (HU)",
         "title": "Premierul Luca Niculescu: Va exista o indexare a pensiilor, cel mai probabil de la 1 ianuarie",
         "link": "https://agerpres.ro/politic/2026/11/03/premierul-luca-niculescu-va-exista-o-indexare-a-pensiilor-cel-mai-probabil-de-la-1-ianuarie--1609706"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cu cât propune Ministerul Muncii indexarea pensiilor. Florin Manole: „Sigur că nu sunt suficienţi bani”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/cu-cat-propune-ministerul-muncii-indexarea-pensiilor-florin-manole-sigur-ca-nu-sunt-suficienti-bani-4022423"
       }
     ],
     "published_at": 1793826265,
@@ -21125,27 +21151,6 @@
     "content_ro": "O nouă campanie de Black Friday începe miercuri, 4 noiembrie, cu reduceri de până la 60% la o selecție de produse. Promoțiile se desfășoară în paralel cu ofertele anunțate de alți retaileri pentru luna noiembrie."
   },
   {
-    "group_id": "group_9f6f34680e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Apa și canalizarea devin un lux în Ilfov: locuitorii vor plăti cu 77% mai mult decât bucureștenii",
-        "link": "https://adevarul.ro/economie/apa-si-canalizarea-devin-un-lux-in-ilfov-2568647.html"
-      }
-    ],
-    "published_at": 1793744125,
-    "title_hu": "Apa și canalizarea devin un lux în Ilfov: locuitorii vor plăti cu 77% mai mult decât bucureștenii",
-    "lead_hu": "Locuitorii din localitățile deservite de Apă-Canal Ilfov vor plăti mai mult pentru apă și canalizare începând cu 10 noiembrie 2026. Operatorul regional a anunțat noi tarife, care duc costul cumulat al…",
-    "content_hu": "Locuitorii din localitățile deservite de Apă-Canal Ilfov vor plăti mai mult pentru apă și canalizare începând cu 10 noiembrie 2026. Operatorul regional a anunțat noi tarife, care duc costul cumulat al serviciilor la 19,48 lei pentru un metru cub, fără TVA.",
-    "title_ro": "Apa și canalizarea devin un lux în Ilfov: locuitorii vor plăti cu 77% mai mult decât bucureștenii",
-    "lead_ro": "Locuitorii din localitățile deservite de Apă-Canal Ilfov vor plăti mai mult pentru apă și canalizare începând cu 10 noiembrie 2026. Operatorul regional a anunțat noi tarife, care duc costul cumulat al…",
-    "content_ro": "Locuitorii din localitățile deservite de Apă-Canal Ilfov vor plăti mai mult pentru apă și canalizare începând cu 10 noiembrie 2026. Operatorul regional a anunțat noi tarife, care duc costul cumulat al serviciilor la 19,48 lei pentru un metru cub, fără TVA."
-  },
-  {
     "group_id": "group_b30a27974e",
     "fingerprint": "c8773a9265cd960aa142b6017ccb1fc7",
     "category": "Politika",
@@ -23287,26 +23292,5 @@
     "title_ro": "Alegeri SUA: Bruce Springsteen stârnește reacții intense după o intervenție de ultimă oră",
     "lead_ro": "Starul american a lansat un mesaj de sprijin pentru democratul Abdul El-Sayed, candidat în Michigan. Legenda rockului s-a confruntat cu critici din partea unor utilizatori ai rețelelor sociale după ce…",
     "content_ro": "Starul american a lansat un mesaj de sprijin pentru democratul Abdul El-Sayed, candidat în Michigan. Legenda rockului s-a confruntat cu critici din partea unor utilizatori ai rețelelor sociale după ce l-a susținut pe candidatul democrat la Senat, Abdul El-Sayed, ceea ce i-a determinat pe fanii furioși să-l acuze pe „The Boss” că a depășit o …"
-  },
-  {
-    "group_id": "group_9653b5c7ca",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Trump pregătește un audit al cheltuielilor electorale ale republicanilor după alegerile de la jumătatea mandatului",
-        "link": "https://adevarul.ro/stiri-externe/sua/trump-pregateste-un-audit-al-cheltuielilor-2568744.html"
-      }
-    ],
-    "published_at": 1793743830,
-    "title_hu": "Trump pregătește un audit al cheltuielilor electorale ale republicanilor după alegerile de la jumătatea mandatului",
-    "lead_hu": "Președintele american ar fi cerut o verificare detaliată a modului în care au fost cheltuite fondurile uriașe ale organizației MAGA Inc. și ale Comitetului Național Republican.",
-    "content_hu": "Președintele american ar fi cerut o verificare detaliată a modului în care au fost cheltuite fondurile uriașe ale organizației MAGA Inc. și ale Comitetului Național Republican.",
-    "title_ro": "Trump pregătește un audit al cheltuielilor electorale ale republicanilor după alegerile de la jumătatea mandatului",
-    "lead_ro": "Președintele american ar fi cerut o verificare detaliată a modului în care au fost cheltuite fondurile uriașe ale organizației MAGA Inc. și ale Comitetului Național Republican.",
-    "content_ro": "Președintele american ar fi cerut o verificare detaliată a modului în care au fost cheltuite fondurile uriașe ale organizației MAGA Inc. și ale Comitetului Național Republican."
   }
 ]
