@@ -19,3 +19,4 @@
 - Serve newsroom data through an authenticated server function using a pure TypeScript counterpart of the Python filter, with live commit-addressed central news plus memory/archive and bundled fallbacks; Workers cannot execute Python. Keep both implementations and filtering tests aligned.
 - Attach the Supabase session bearer through Start function middleware so protected newsroom loaders and refreshes authenticate without credentials in payloads.
 - Validate newsroom payloads through the shared Studio contract and source list extracted from the Python engine; selection IDs travel to the un-nested preparation route so the dashboard cannot swallow that page.
+- Select lead-story imagery through shared topic/category pools of generated images and CDN gallery pointers, using a stable article-ID hash and canonical text so refreshes and language switches keep the same image.
