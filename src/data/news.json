@@ -1,5 +1,26 @@
 [
   {
+    "group_id": "group_b1487ffc34",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Kia a luat zgura pe care Rafael Nadal a făcut istorie și a transformat-o într-o mașină",
+        "link": "https://www.gsp.ro/sporturi/noutati-auto/kia-ev4-gt-rafael-nadal-zgura-concept-995990.html"
+      }
+    ],
+    "published_at": 1793824121,
+    "title_hu": "Kia a luat zgura pe care Rafael Nadal a făcut istorie și a transformat-o într-o mașină",
+    "lead_hu": "Un model spectaculos, creat dintr-un amestec de zgură de pe terenurile de tenis și lut utilizat în designul auto, celebrează cariera legendarului Rafael Nadal și parteneriatul de peste 20 de ani cu Ki...",
+    "content_hu": "Un model spectaculos, creat dintr-un amestec de zgură de pe terenurile de tenis și lut utilizat în designul auto, celebrează cariera legendarului Rafael Nadal și parteneriatul de peste 20 de ani cu Kia. Kia a găsit o modalitate inedită de a celebra una dintre cele mai impresionante cariere din istoria tenisului. ...",
+    "title_ro": "Kia a luat zgura pe care Rafael Nadal a făcut istorie și a transformat-o într-o mașină",
+    "lead_ro": "Un model spectaculos, creat dintr-un amestec de zgură de pe terenurile de tenis și lut utilizat în designul auto, celebrează cariera legendarului Rafael Nadal și parteneriatul de peste 20 de ani cu Ki...",
+    "content_ro": "Un model spectaculos, creat dintr-un amestec de zgură de pe terenurile de tenis și lut utilizat în designul auto, celebrează cariera legendarului Rafael Nadal și parteneriatul de peste 20 de ani cu Kia. Kia a găsit o modalitate inedită de a celebra una dintre cele mai impresionante cariere din istoria tenisului. ..."
+  },
+  {
     "group_id": "group_8130f57d30",
     "category": "Általános",
     "is_synthesized": false,
@@ -326,7 +347,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -377,6 +398,11 @@
         "source": "Digi24",
         "title": "Aproape 500 de milioane de dolari pentru republicani. Elon Musk devine cel mai mare donator individual din istoria alegerilor americane",
         "link": "https://www.digi24.ro/stiri/externe/sua/aproape-500-de-milioane-de-dolari-pentru-republicani-elon-musk-devine-cel-mai-mare-donator-individual-din-istoria-alegerilor-americane-4019909"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Musk az űrlézereivel viccelődött a republikánusok választási veresége után",
+        "link": "https://www.mediatica.ro/hirek/kulfold/musk-az-urlezereivel-viccelodott-a-republikanusok-valasztasi-veresege-utan"
       }
     ],
     "published_at": 1793821780,
@@ -7976,7 +8002,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 21,
+    "sources_count": 22,
     "sources": [
       {
         "source": "Mediafax",
@@ -8082,6 +8108,11 @@
         "source": "Kolozsvári Rádió (HU)",
         "title": "Trump politikai kudarcai a republikánusok vereségéhez vezettek",
         "link": "https://www.kolozsvariradio.ro/2026/11/04/trump-politikai-kudarcai-a-republikanusok-veresegehez-vezettek/"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "A demokraták átvették az irányítást az amerikai Kongresszus mindkét háza felett",
+        "link": "https://www.mediatica.ro/hirek/kulfold/a-demokratak-atvettek-az-iranyitast-az-amerikai-kongresszus-mindket-haza-felett"
       }
     ],
     "published_at": 1793800090,
@@ -9490,7 +9521,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -9501,6 +9532,11 @@
         "source": "G4Media",
         "title": "Partidul Democrat câștigă majoritatea în Congresul Statelor Unite cu un contingent important de noi aleși stângiști, pro-islamiști și anti-Israel",
         "link": "https://www.g4media.ro/partidul-democrat-castiga-majoritatea-in-congresul-statelor-unite-cu-un-contingent-important-de-noi-alesi-stangisti-pro-islamisti-si-anti-israel.html"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Történelmi létszámú szocialista csoport az amerikai képviselőházban",
+        "link": "https://www.mediatica.ro/hirek/kulfold/tortenelmi-letszamu-szocialista-csoport-az-amerikai-kepviselohazban"
       }
     ],
     "published_at": 1793796570,
@@ -12264,7 +12300,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
@@ -12275,6 +12311,11 @@
         "source": "Adevărul",
         "title": "Cenușa unui copil de 13 ani, ucis în bombardamentul atomic de la Hiroshima, a fost restituită familiei după 81 de ani. Mărturisirile făcute de sora băiatului",
         "link": "https://adevarul.ro/stiri-externe/in-lume/cenusa-unui-copil-de-13-ani-ucis-in-2568877.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Rămășițele unui băiat ucis în bombardamentul atomic de la Hiroshima, restituite familiei după 81 de ani",
+        "link": "https://stirileprotv.ro/stiri/international/ramasitele-unui-baiat-ucis-in-bombardamentul-atomic-de-la-hiroshima-restituite-familiei-dupa-81-de-ani.html"
       }
     ],
     "published_at": 1793790132,
@@ -21194,81 +21235,6 @@
     "content_ro": "Chiar dacă trece printr-o formă excelentă în campionat, Danny Armstrong, 29 de ani, cel mai bun om al lui Dinamo în actuala stagiune, nu a fost convocat în premieră la echipa națională a Scoției, în ciuda faptului că s-a vehiculat acest lucru, inclusiv în presa din Regatul Unit. Scoțianul este jucătorul cu cele mai multe contribuții ofensive din campionat, șase goluri și zece pase decisive în primele 14 etape. ..."
   },
   {
-    "group_id": "group_dc5cddd5d9",
-    "category": "Gazdaság",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Consilier la DGASPC Sector 2, prins în flagrant în timp ce lua șpagă pentru o locuință socială. Cum ar fi păcălit o femeie",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/consilier-la-dgaspc-sector-2-prins-in-flagrant-in-2568731.html"
-      }
-    ],
-    "published_at": 1793738050,
-    "title_hu": "Consilier la DGASPC Sector 2, prins în flagrant în timp ce lua șpagă pentru o locuință socială. Cum ar fi păcălit o femeie",
-    "lead_hu": "Un bărbat din București a fost prins în flagrant de polițiști în timp ce primea 2000 de lei de la o femeie căreia i-ar fi promis că o poate ajuta să obțină o locuință socială, în schimbul unei sume de…",
-    "content_hu": "Un bărbat din București a fost prins în flagrant de polițiști în timp ce primea 2000 de lei de la o femeie căreia i-ar fi promis că o poate ajuta să obțină o locuință socială, în schimbul unei sume de bani.",
-    "title_ro": "Consilier la DGASPC Sector 2, prins în flagrant în timp ce lua șpagă pentru o locuință socială. Cum ar fi păcălit o femeie",
-    "lead_ro": "Un bărbat din București a fost prins în flagrant de polițiști în timp ce primea 2000 de lei de la o femeie căreia i-ar fi promis că o poate ajuta să obțină o locuință socială, în schimbul unei sume de…",
-    "content_ro": "Un bărbat din București a fost prins în flagrant de polițiști în timp ce primea 2000 de lei de la o femeie căreia i-ar fi promis că o poate ajuta să obțină o locuință socială, în schimbul unei sume de bani."
-  },
-  {
-    "group_id": "group_c67bb24cd5",
-    "fingerprint": "58127fc804711ac3fcad9ed8696b126d",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Seară cu două victorii importante în Liga Campionilor. Galatasaray a învins Stuttgart, iar Sporting s-a impus în fața lui Șahtior",
-        "link": "https://www.mediafax.ro/sport/seara-cu-doua-victorii-importante-in-liga-campionilor-galatasaray-a-invins-stuttgart-iar-sporting-s-a-impus-in-fata-lui-sahtior-23837026"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "A Sporting és a Galatasaray is győzelemmel kezdte a BL-estét",
-        "link": "https://www.mediatica.ro/hirek/sport/a-sporting-es-a-galatasaray-is-gyozelemmel-kezdte-a-bl-estet"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Victorii pentru Galatasaray și Sporting Lisabona, în Liga Campionilor",
-        "link": "https://agerpres.ro/sport-extern/2026/11/03/fotbal-victorii-pentru-galatasaray-si-sporting-lisabona-in-liga-campionilor--1609715"
-      }
-    ],
-    "published_at": 1793737899,
-    "title_hu": "Batrakov duplázott, a Galatasaray és a Sporting is nyert",
-    "lead_hu": "A Bajnokok Ligája keddi játéknapján a Galatasaray 2–0-ra győzte le a Stuttgartot, a Sporting pedig 1–0-ra verte a Sahtar Donecket. Az isztambuliak már az első negyedórában két gólt szereztek, a portugál csapat londoni mérkőzésén Doumbia találata döntött.",
-    "content_hu": "• **Galatasaray–Stuttgart:** Alexey Batrakov a 12. percben egy kapusról kipattanó labdát juttatott a hálóba, majd három perccel később Davinson Sánchez átadásából, közelről ismét eredményes volt. A török együttes így gyorsan kétgólos előnybe került.\n\n• **Stuttgart-lehetőségek és csere:** Jamie Leweling már a 8. percben a kapufát találta el. Atakan Karazor sérülése miatt a németeknek a 18. percben változtatniuk kellett: Yanik Spalt állt be. Chris Führich a szünet előtt, a 42. percben is veszélyeztetett, de lövése elkerülte a kaput.\n\n• **A második félidőben** Uğurcan Çakır több stuttgarti próbálkozást is hárított, köztük Bilal El Khannouss, Deniz Undav és Führich kísérletét. A 75. percben Undav a keresztlécet találta el, a kipattanóból Führich betalált, ám a videóellenőrzés les miatt érvénytelenítette a gólt.\n\n• **A hajrában** Çakır Dženan Pejčinović és Tiago Tomás lövésénél is megakadályozta a szépítést. A túloldalon Victor Osimhen a hosszabbításban hagyott ki egy lehetőséget; a Galatasaray végül megőrizte a 2–0-s eredményt.\n\n• **Sporting–Sahtar:** A londoni Stamford Bridge-en rendezett találkozó első félideje gól nélkül zárult; a Sahtarnál Pedro Henrique is próbálkozott. A szünet után Issa Doumbia az 59. percben megszerezte a portugálok győztes gólját, miközben Alisson Santana lövése a kapufán csattant.",
-    "title_ro": "Batrakov a reușit o dublă, iar Galatasaray și Sporting au câștigat",
-    "lead_ro": "În meciurile de marți din Liga Campionilor, Galatasaray a învins Stuttgart cu 2–0, iar Sporting s-a impus cu 1–0 în fața lui Șahtior Donețk. Formația din Istanbul a înscris de două ori în primul sfert de oră, în timp ce partida portughezilor, disputată la Londra, a fost decisă de golul lui Doumbia.",
-    "content_ro": "• **Galatasaray–Stuttgart:** Alexey Batrakov a deschis scorul în minutul 12, reluând mingea respinsă de portar, iar trei minute mai târziu a înscris din nou, din apropiere, după pasa lui Davinson Sánchez. Echipa turcă a ajuns astfel rapid la un avantaj de două goluri.\n\n• **Ocazii și schimbare la Stuttgart:** Jamie Leweling a trimis mingea în bară încă din minutul 8. Accidentarea lui Atakan Karazor a impus o modificare în minutul 18, când Yanik Spalt i-a luat locul. Înainte de pauză, Chris Führich a șutat pe lângă poartă, în minutul 42.\n\n• **După reluare,** Uğurcan Çakır a oprit mai multe încercări ale germanilor, inclusiv șuturile lui Bilal El Khannouss, Deniz Undav și Führich. În minutul 75, Undav a lovit bara transversală, iar Führich a marcat după faza continuată; arbitrul a anulat reușita în urma verificării video, pentru ofsaid.\n\n• **În finalul partidei,** Çakır a respins și șuturile lui Dženan Pejčinović și Tiago Tomás. La cealaltă poartă, Victor Osimhen a ratat o ocazie în prelungiri, iar Galatasaray a păstrat avantajul de 2–0 până la fluierul final.\n\n• **Sporting–Șahtior:** Meciul de pe Stamford Bridge, la Londra, a avut o primă repriză fără goluri; Pedro Henrique a încercat să înscrie pentru formația ucraineană. După pauză, Issa Doumbia a marcat în minutul 59 golul victoriei portughezilor, iar șutul lui Alisson Santana a lovit bara."
-  },
-  {
-    "group_id": "group_4e84628531",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Schimbare! Debutează în Formula 1 mai repede decât se aștepta",
-        "link": "https://www.gsp.ro/sporturi/formula-1/rafael-camara-debut-formula-1-marele-premiu-al-braziliei-995581.html"
-      }
-    ],
-    "published_at": 1793737892,
-    "title_hu": "Schimbare! Debutează în Formula 1 mai repede decât se aștepta",
-    "lead_hu": "Presa din Brazilia a transmis că Rafael Camara, liderul clasamentului din Formula 2, va pilota pentru Haas în următoarele două curse de Formula 1, la Sao Paulo și Las Vegas. Potrivit acestora, anunțul…",
-    "content_hu": "Presa din Brazilia a transmis că Rafael Camara, liderul clasamentului din Formula 2, va pilota pentru Haas în următoarele două curse de Formula 1, la Sao Paulo și Las Vegas. Potrivit acestora, anunțul oficial al echipei Haas privind numirea lui Rafael va fi făcut în cursul zilei de mâine. Camara va urca la volanul monopostului lăsat liber de Esteban Ocon, pilot care a fost înlocuit la Marele Premiu din Mexic de Ryo Hirakawa. ...",
-    "title_ro": "Schimbare! Debutează în Formula 1 mai repede decât se aștepta",
-    "lead_ro": "Presa din Brazilia a transmis că Rafael Camara, liderul clasamentului din Formula 2, va pilota pentru Haas în următoarele două curse de Formula 1, la Sao Paulo și Las Vegas. Potrivit acestora, anunțul…",
-    "content_ro": "Presa din Brazilia a transmis că Rafael Camara, liderul clasamentului din Formula 2, va pilota pentru Haas în următoarele două curse de Formula 1, la Sao Paulo și Las Vegas. Potrivit acestora, anunțul oficial al echipei Haas privind numirea lui Rafael va fi făcut în cursul zilei de mâine. Camara va urca la volanul monopostului lăsat liber de Esteban Ocon, pilot care a fost înlocuit la Marele Premiu din Mexic de Ryo Hirakawa. ..."
-  },
-  {
     "group_id": "group_edde550b1b",
     "category": "Általános",
     "is_synthesized": false,
@@ -23098,12 +23064,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Agerpres (HU)",
         "title": "SUA impun sancțiuni împotriva unor companii și indivizi din India și Turcia pentru legături cu Iranul",
         "link": "https://agerpres.ro/politic-extern/2026/11/04/sua-impun-sanctiuni-impotriva-unor-companii-si-indivizi-din-india-si-turcia-pentru-legaturi-cu-iranu--1610153"
+      },
+      {
+        "source": "Digi24",
+        "title": "Statele Unite au impus sancţiuni împotriva Indiei şi Turciei. Nou avertisment pentru cei care ajută Iranul",
+        "link": "https://www.digi24.ro/stiri/externe/statele-unite-au-impus-sanctiuni-impotriva-indiei-si-turciei-nou-avertisment-pentru-cei-care-ajuta-iranul-4022283"
       }
     ],
     "published_at": 1793750400,
