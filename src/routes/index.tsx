@@ -1,16 +1,4 @@
-import heroBorder from "@/assets/stirix-border-crossing.jpg";
-import heroBulvar from "@/assets/stirix-bulvar.jpg";
-import heroGazdasag from "@/assets/stirix-gazdasag.jpg";
-import heroHarghita from "@/assets/stirix-harghita.jpg";
-import heroHospital from "@/assets/stirix-hospital.jpg";
-import heroKultura from "@/assets/stirix-kultura.jpg";
-import heroSport from "@/assets/stirix-sport.jpg";
-import heroEu from "@/assets/stirix-eu.jpg";
-import heroRoParliament from "@/assets/stirix-ro-parliament.jpg";
-import heroHuParliament from "@/assets/stirix-hu-parliament.jpg";
-import heroJustice from "@/assets/stirix-justice.jpg";
-import heroEducation from "@/assets/stirix-education.jpg";
-import heroCluj from "@/assets/stirix-cluj.jpg";
+import { heroPhoto } from "@/lib/hero-photos";
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { createFileRoute, Link } from "@tanstack/react-router";
@@ -37,26 +25,6 @@ export const Route = createFileRoute("/")({
 });
 
 const categories = [ALL, ...CATEGORIES];
-const HERO_PHOTOS: Record<string, string> = {
-  "Politika": heroBorder,
-  "Erdély": heroHarghita,
-  "Sport": heroSport,
-  "Kultúra": heroKultura,
-  "Gazdaság": heroGazdasag,
-  "Bulvár": heroBulvar,
-};
-// Topic keywords (HU + RO) win over the category photo; first match wins.
-const TOPIC_PHOTOS: Array<[RegExp, string]> = [
-  [/\b(EU|európai unió|európai bizottság|brüsszel|uniós|uniunea europeană|comisia europeană|bruxelles|ue)\b/i, heroEu],
-  [/(román (kormány|parlament|szenátus|miniszter|elnök)|romániai (kormány|parlament)|bukarest|bolojan|nicușor|guvernul|parlamentul|senatul|camera deputa|bucurești)/i, heroRoParliament],
-  [/(országgyűlés|budapest|orbán|magyar kormány|magyarországi (kormány|parlament)|guvernul ungar|budapesta)/i, heroHuParliament],
-  [/(bíróság|ítélet|ügyész|rendőr|dna|instanț|procuror|poliți|tribunal)/i, heroJustice],
-  [/(iskola|oktatás|érettségi|egyetem|școal|educați|universit|bacalaureat)/i, heroEducation],
-  [/(kórház|egészség|orvos|beteg|spital|sănătat|medic|pacient)/i, heroHospital],
-  [/(kolozsvár|cluj)/i, heroCluj],
-];
-const heroPhoto = (category: string, text: string) =>
-  TOPIC_PHOTOS.find(([re]) => re.test(text))?.[1] ?? HERO_PHOTOS[category] ?? heroCluj;
 const categoryRo: Record<string, string> = {
   [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
   "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
@@ -113,7 +81,7 @@ function Index() {
       <main id="top" className="mx-auto max-w-7xl px-4 py-6 sm:py-8">
         {lead && <section aria-label={ro ? "Știri principale" : "Kiemelt hírek"} className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]">
           <Link to="/hir/$id" params={{ id: lead.group_id }} className="group relative col-span-12 flex flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
-            <img src={heroPhoto(lead.category, `${t(lead).title} ${t(lead).lead ?? ""}`)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90" />
+            <img src={heroPhoto(lead.category, `${lead.title} ${lead.lead ?? ""}`, lead.group_id)} alt="" aria-hidden className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90" />
             <div className="absolute inset-0 bg-gradient-to-t from-background via-background/75 to-background/25" />
             <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
             <div className="relative p-5 sm:p-8">
