@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_c9cea24abb",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cum i-a numit Filipe Coelho pe albanezi, înainte de Craiova - Egnatia: „Nu am niciun dubiu!”",
+        "link": "https://www.gsp.ro/international/conference-league/filipe-coelho-conferinta-universitatea-craiova-egnatia-995952.html"
+      }
+    ],
+    "published_at": 1793817106,
+    "title_hu": "Cum i-a numit Filipe Coelho pe albanezi, înainte de Craiova - Egnatia: „Nu am niciun dubiu!”",
+    "lead_hu": "Filipe Coelho (46 de ani), antrenorul Universității Craiova, a prefațat confruntarea cu Egnatia, programată joi, 5 noiembrie, de la ora 22:00, pe stadionul „Ion Oblemenco”, în etapa a 3-a a grupei uni...",
+    "content_hu": "Filipe Coelho (46 de ani), antrenorul Universității Craiova, a prefațat confruntarea cu Egnatia, programată joi, 5 noiembrie, de la ora 22:00, pe stadionul „Ion Oblemenco”, în etapa a 3-a a grupei unice din Conference League. Tehnicianul portughez a avut numai cuvinte de laudă la adresa adversarilor din Albania. ...",
+    "title_ro": "Cum i-a numit Filipe Coelho pe albanezi, înainte de Craiova - Egnatia: „Nu am niciun dubiu!”",
+    "lead_ro": "Filipe Coelho (46 de ani), antrenorul Universității Craiova, a prefațat confruntarea cu Egnatia, programată joi, 5 noiembrie, de la ora 22:00, pe stadionul „Ion Oblemenco”, în etapa a 3-a a grupei uni...",
+    "content_ro": "Filipe Coelho (46 de ani), antrenorul Universității Craiova, a prefațat confruntarea cu Egnatia, programată joi, 5 noiembrie, de la ora 22:00, pe stadionul „Ion Oblemenco”, în etapa a 3-a a grupei unice din Conference League. Tehnicianul portughez a avut numai cuvinte de laudă la adresa adversarilor din Albania. ..."
+  },
+  {
+    "group_id": "group_9660ff1248",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Grindeanu a intrat deja în conflict cu un ministru tehnocrat. Suspiciuni de „bolojenism” SURSE",
+        "link": "https://adevarul.ro/politica/grindeanu-a-intrat-deja-in-conflict-cu-un-ministru-2569006.html"
+      }
+    ],
+    "published_at": 1793817082,
+    "title_hu": "Grindeanu a intrat deja în conflict cu un ministru tehnocrat. Suspiciuni de „bolojenism” SURSE",
+    "lead_hu": "Liderul PSD Sorin Grindeanu este într-un conflict mocnit cu unul dintre miniștrii esențiali din Guvernul Niculescu, susțin surse politice pentru „Adevărul”. Disputa din interiorul guvernului ar putea ...",
+    "content_hu": "Liderul PSD Sorin Grindeanu este într-un conflict mocnit cu unul dintre miniștrii esențiali din Guvernul Niculescu, susțin surse politice pentru „Adevărul”. Disputa din interiorul guvernului ar putea provoca o nouă criză politică, la mai puțin de o lună de la instalarea Cabinetului Niculescu.",
+    "title_ro": "Grindeanu a intrat deja în conflict cu un ministru tehnocrat. Suspiciuni de „bolojenism” SURSE",
+    "lead_ro": "Liderul PSD Sorin Grindeanu este într-un conflict mocnit cu unul dintre miniștrii esențiali din Guvernul Niculescu, susțin surse politice pentru „Adevărul”. Disputa din interiorul guvernului ar putea ...",
+    "content_ro": "Liderul PSD Sorin Grindeanu este într-un conflict mocnit cu unul dintre miniștrii esențiali din Guvernul Niculescu, susțin surse politice pentru „Adevărul”. Disputa din interiorul guvernului ar putea provoca o nouă criză politică, la mai puțin de o lună de la instalarea Cabinetului Niculescu."
+  },
+  {
     "group_id": "group_9ac474533a",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -109,12 +151,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "ProTV Stiri",
         "title": "Analizează AFP: Palma dată lui Trump, văzută din Europa",
         "link": "https://stirileprotv.ro/stiri/international/analizeaza-afp-palma-data-lui-trump-vazuta-din-europa.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "După înfrângerea republicanilor, UE și NATO așteaptă decizii cruciale ale administrației Trump",
+        "link": "https://www.digi24.ro/stiri/externe/dupa-infrangerea-republicanilor-ue-si-nato-asteapta-decizii-cruciale-ale-administratiei-trump-4022157"
       }
     ],
     "published_at": 1793816348,
@@ -781,7 +828,7 @@
     "category": "Sport",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -797,6 +844,11 @@
         "source": "ProTV Stiri",
         "title": "Gimnasta Ana Maria Bărbosu, medaliată cu bronz la JO 2024, suspendată 2 ani pentru încălcarea regulilor antidoping",
         "link": "https://stirileprotv.ro/stiri/sport/gimnasta-ana-maria-barbosu-medaliata-cu-bronz-la-jo-2024-suspendata-2-ani-pentru-incalcarea-regulilor-antidoping.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "TAS a anunțat decizia în cazul gimnastei Ana Maria Bărbosu: 2 ani de suspendare pentru încălcarea regulilor antidoping",
+        "link": "https://www.digi24.ro/stiri/sport/alte-sporturi/tas-a-anuntat-decizia-in-cazul-gimnastei-ana-maria-barbosu-2-ani-de-suspendare-pentru-incalcarea-regulilor-antidoping-4022183"
       }
     ],
     "published_at": 1793814487,
@@ -1616,7 +1668,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
         "source": "G4Media",
@@ -1632,6 +1684,11 @@
         "source": "Adevărul",
         "title": "Verdictul CSM pentru judecătorul din documentarul Recorder: a încălcat secretul deliberării. Laurențiu Beșu atacă decizia la ÎCCJ",
         "link": "https://adevarul.ro/stiri-interne/evenimente/verdictul-csm-pentru-judecatorul-din-documentarul-2569029.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "CSM respinge acţiunea disciplinară a Inspecţiei Judiciare împotriva fostului judecător Laurenţiu Beşu",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/csm-respinge-actiunea-disciplinara-a-inspectiei-judiciare-impotriva-fostului-judecator-laurentiu-besu-4022167"
       }
     ],
     "published_at": 1793812699,
@@ -21407,48 +21464,6 @@
     "title_ro": "O mai ții minte pe Erika Eleniak, actrița din Baywatch?! Ireal din ce câștigă bani la 57 de ani",
     "lead_ro": "Erika Eleniak, actrița din „Baywatch”, s-a reorientat și a găsit o modalitate de a face bani. Aceasta face furori pe platforma OnlyFans, iar în doar trei luni a reușit să adune o sumă fabuloasă. Celeb…",
     "content_ro": "Erika Eleniak, actrița din „Baywatch”, s-a reorientat și a găsit o modalitate de a face bani. Aceasta face furori pe platforma OnlyFans, iar în doar trei luni a reușit să adune o sumă fabuloasă. Celebra actriță, în vârstă de 57 de ani își căștigă existența și din online. În luna august, ea și-a deschis un […]"
-  },
-  {
-    "group_id": "group_2b2aa268de",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Adrian Năstase avertizează că autoritățile îi fac un serviciu lui Călin Georgescu: „Începe să devină un erou”",
-        "link": "https://adevarul.ro/politica/adrian-nastase-avertizeaza-ca-autoritatile-ii-fac-2568705.html"
-      }
-    ],
-    "published_at": 1793730746,
-    "title_hu": "Adrian Năstase avertizează că autoritățile îi fac un serviciu lui Călin Georgescu: „Începe să devină un erou”",
-    "lead_hu": "Fostul premier Adrian Năstase a criticat modul în care instituțiile statului gestionează cazul lui Călin Georgescu, susținând că acțiunile și lipsa de reacție a autorităților riscă să producă efectul …",
-    "content_hu": "Fostul premier Adrian Năstase a criticat modul în care instituțiile statului gestionează cazul lui Călin Georgescu, susținând că acțiunile și lipsa de reacție a autorităților riscă să producă efectul contrar celui urmărit.",
-    "title_ro": "Adrian Năstase avertizează că autoritățile îi fac un serviciu lui Călin Georgescu: „Începe să devină un erou”",
-    "lead_ro": "Fostul premier Adrian Năstase a criticat modul în care instituțiile statului gestionează cazul lui Călin Georgescu, susținând că acțiunile și lipsa de reacție a autorităților riscă să producă efectul …",
-    "content_ro": "Fostul premier Adrian Năstase a criticat modul în care instituțiile statului gestionează cazul lui Călin Georgescu, susținând că acțiunile și lipsa de reacție a autorităților riscă să producă efectul contrar celui urmărit."
-  },
-  {
-    "group_id": "group_281403206a",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Supercomputerul a făcut calculele în Superliga: surprize mari la titlu, FCSB are mai multe șanse să joace în play-out",
-        "link": "https://www.gsp.ro/fotbal/liga-1/supercomputerul-calcule-lupta-la-titlu-superliga-995545.html"
-      }
-    ],
-    "published_at": 1793730736,
-    "title_hu": "Supercomputerul a făcut calculele în Superliga: surprize mari la titlu, FCSB are mai multe șanse să joace în play-out",
-    "lead_hu": "Supercomputerul statisticienilor celor de la Football Meets Data a făcut un nou rând de simulări după runda #14 din Superliga și a calculat șansele la titlu, la top 3, dar și la retrogradare. Statisti…",
-    "content_hu": "Supercomputerul statisticienilor celor de la Football Meets Data a făcut un nou rând de simulări după runda #14 din Superliga și a calculat șansele la titlu, la top 3, dar și la retrogradare. Statisticienii au postat rezultatele pe rețelele de socializare. ...",
-    "title_ro": "Supercomputerul a făcut calculele în Superliga: surprize mari la titlu, FCSB are mai multe șanse să joace în play-out",
-    "lead_ro": "Supercomputerul statisticienilor celor de la Football Meets Data a făcut un nou rând de simulări după runda #14 din Superliga și a calculat șansele la titlu, la top 3, dar și la retrogradare. Statisti…",
-    "content_ro": "Supercomputerul statisticienilor celor de la Football Meets Data a făcut un nou rând de simulări după runda #14 din Superliga și a calculat șansele la titlu, la top 3, dar și la retrogradare. Statisticienii au postat rezultatele pe rețelele de socializare. ..."
   },
   {
     "group_id": "group_87ae85af8c",
