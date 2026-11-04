@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import { HeartHandshake, Info, Library, Menu, MessageSquareWarning, Moon, Newspaper, Send, Sun } from "lucide-react";
+import { HeartHandshake, Info, Library, Menu, MessageSquareWarning, Moon, Newspaper, Sun } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 import { LANGS, setLang, useLang } from "@/lib/lang";
@@ -9,7 +9,6 @@ const items = [
   { to: "/", hu: "Főoldal", ro: "Pagina principală", icon: Newspaper },
   { to: "/osszes", hu: "Minden hír (archívum)", ro: "Toate știrile (arhivă)", icon: Library },
   { to: "/tamogatas", hu: "Támogatás", ro: "Susține-ne", icon: HeartHandshake },
-  { to: "/bekuldes", hu: "Hír beküldése", ro: "Trimite o știre", icon: Send },
   { to: "/visszajelzes", hu: "Visszajelzés & Hibabejelentés", ro: "Feedback & Erori", icon: MessageSquareWarning },
   { to: "/forrasok", hu: "Forrásaink & Átláthatóság", ro: "Surse & Transparență", icon: Library },
   { to: "/rolunk", hu: "Rólunk", ro: "Despre noi", icon: Info },

@@ -106,6 +106,27 @@ export type Database = {
         }
         Relationships: []
       }
+      profiles: {
+        Row: {
+          created_at: string | null
+          email: string | null
+          id: string
+          language: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          email?: string | null
+          id: string
+          language?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          email?: string | null
+          id?: string
+          language?: string | null
+        }
+        Relationships: []
+      }
       radio_profile_sources: {
         Row: {
           created_at: string
@@ -153,6 +174,7 @@ export type Database = {
           frequency: string | null
           id: string
           intro_text: string | null
+          language: string | null
           local_count: number | null
           name: string
           national_count: number | null
@@ -168,6 +190,7 @@ export type Database = {
           frequency?: string | null
           id?: string
           intro_text?: string | null
+          language?: string | null
           local_count?: number | null
           name: string
           national_count?: number | null
@@ -183,6 +206,7 @@ export type Database = {
           frequency?: string | null
           id?: string
           intro_text?: string | null
+          language?: string | null
           local_count?: number | null
           name?: string
           national_count?: number | null
@@ -201,6 +225,7 @@ export type Database = {
           id: string
           is_active: boolean | null
           is_global: boolean
+          language: string | null
           name: string
           url: string
           user_id: string | null
@@ -212,6 +237,7 @@ export type Database = {
           id?: string
           is_active?: boolean | null
           is_global?: boolean
+          language?: string | null
           name: string
           url: string
           user_id?: string | null
@@ -223,6 +249,7 @@ export type Database = {
           id?: string
           is_active?: boolean | null
           is_global?: boolean
+          language?: string | null
           name?: string
           url?: string
           user_id?: string | null
