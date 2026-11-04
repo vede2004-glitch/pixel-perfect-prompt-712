@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { news, history, archive, ensureHistory } from "@/lib/news";
 import { domainLang, originFor } from "@/lib/domains";
 
-const STATIC_PAGES = ["/", "/osszes", "/tamogatas", "/bekuldes", "/visszajelzes", "/forrasok", "/rolunk"];
+const STATIC_PAGES = ["/", "/osszes", "/tamogatas", "/visszajelzes", "/forrasok", "/rolunk"];
 
 const esc = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");

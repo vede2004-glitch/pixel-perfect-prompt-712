@@ -2,19 +2,28 @@ import { createFileRoute } from "@tanstack/react-router";
 import { ExternalLink, GitMerge, Link2, Rss, Sparkles } from "lucide-react";
 import { PageShell, glass, meta } from "@/components/PageShell";
 import { useLang } from "@/lib/lang";
+import scraperSource from "../../weboldalparolas.py?raw";
 
 export const Route = createFileRoute("/forrasok")({
   head: () => meta("Forrásaink & Átláthatóság – Stirix.ro", "A Stirix.ro által figyelt magyar és román hírforrások, és hogyan készülnek az AI-összesített hírek."),
   component: Sources,
 });
 
-const SOURCES: [string, string, string][] = [
-  ["Maszol", "https://maszol.ro", "HU"], ["Transtelex", "https://transtelex.ro", "HU"], ["Krónika", "https://kronikaonline.ro", "HU"],
-  ["Hargita Népe", "https://hargitanepe.ro", "HU"], ["Szatmári Friss", "https://szatmarifriss.ro", "HU"], ["Manna", "https://manna.ro", "HU"],
-  ["Kolozsvári Rádió", "https://radiocluj.ro", "HU"], ["Romkat", "https://romkat.ro", "HU"], ["MTI", "https://mti.hu", "HU"],
-  ["Digi24", "https://digi24.ro", "RO"], ["Agerpres", "https://agerpres.ro", "RO"], ["GSP", "https://gsp.ro", "RO"],
-  ["HotNews", "https://hotnews.ro", "RO"], ["Mediafax", "https://mediafax.ro", "RO"], ["Libertatea", "https://libertatea.ro", "RO"],
-];
+// Derived from PUBLIC_RSS_FEEDS in weboldalparolas.py, so adding a feed there updates this list.
+const SOURCES = parseFeeds(scraperSource);
+
+function parseFeeds(py: string): [string, string][] {
+  const block = py.match(/PUBLIC_RSS_FEEDS\s*=\s*\{([\s\S]*?)\n\}/)?.[1] ?? "";
+  const seen = new Set<string>();
+  const out: [string, string][] = [];
+  for (const m of block.matchAll(/"([^"]+)"\s*:\s*"(https?:\/\/[^"]+)"/g)) {
+    const host = new URL(m[2]).hostname.replace(/^www\./, "");
+    if (seen.has(host)) continue;
+    seen.add(host);
+    out.push([m[1].replace(/\s*\((HU|RO)\)$/, ""), host]);
+  }
+  return out;
+}
 
 function Sources() {
   const ro = useLang() === "ro";
@@ -30,11 +39,11 @@ function Sources() {
       </div>
       <h2 className="mt-14 font-display text-2xl font-bold">{ro ? "Surse integrate" : "Figyelt források"}</h2>
       <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-        {SOURCES.map(([name, url, l]) => (
-          <a key={name} href={url} target="_blank" rel="noopener noreferrer" className="group flex flex-col items-center gap-3 rounded-xl border border-border bg-card/70 p-5 text-center transition-colors hover:border-primary/50">
+        {SOURCES.map(([name, host]) => (
+          <a key={name} href={`https://${host}`} target="_blank" rel="noopener noreferrer" className="group flex flex-col items-center gap-3 rounded-xl border border-border bg-card/70 p-5 text-center transition-colors hover:border-primary/50">
             <span className="flex size-12 items-center justify-center rounded-full bg-primary/15 font-display text-lg font-bold text-primary">{name.slice(0, 2)}</span>
             <span className="text-sm font-bold group-hover:text-primary">{name}</span>
-            <span className="inline-flex items-center gap-1 text-[10px] font-bold uppercase text-muted-foreground">{l} <ExternalLink className="size-3" /></span>
+            <span className="inline-flex items-center gap-1 text-[10px] font-bold text-muted-foreground">{host} <ExternalLink className="size-3" /></span>
           </a>
         ))}
       </div>
