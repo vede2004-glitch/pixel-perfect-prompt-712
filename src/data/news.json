@@ -1,5 +1,68 @@
 [
   {
+    "group_id": "group_fbae0eb0f0",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Kylian Mbappe a depășit un nume legendar din istoria lui Real Madrid",
+        "link": "https://www.gsp.ro/international/liga-campionilor/kylian-mbappe-real-madrid-liga-campionilor-razvan-marin-995982.html"
+      }
+    ],
+    "published_at": 1793823635,
+    "title_hu": "Kylian Mbappe a depășit un nume legendar din istoria lui Real Madrid",
+    "lead_hu": "Kylian Mbappe (27 de ani), atacantul lui Real Madrid, a marcat în meciul câștigat de „galactici” pe terenul lui AEK Atena, scor 3-2, și l-a depășit pe Sergio Ramos (40), legendarul fundaș central al c...",
+    "content_hu": "Kylian Mbappe (27 de ani), atacantul lui Real Madrid, a marcat în meciul câștigat de „galactici” pe terenul lui AEK Atena, scor 3-2, și l-a depășit pe Sergio Ramos (40), legendarul fundaș central al clubului din capitala Spaniei. Cu Mbappe marcator, Real Madrid s-a impus la Atena abia în prelungiri, după ce a fost condusă de două ori. Mijlocașul Răzvan Marin a fost introdus în ultimele 30 de minute. ...",
+    "title_ro": "Kylian Mbappe a depășit un nume legendar din istoria lui Real Madrid",
+    "lead_ro": "Kylian Mbappe (27 de ani), atacantul lui Real Madrid, a marcat în meciul câștigat de „galactici” pe terenul lui AEK Atena, scor 3-2, și l-a depășit pe Sergio Ramos (40), legendarul fundaș central al c...",
+    "content_ro": "Kylian Mbappe (27 de ani), atacantul lui Real Madrid, a marcat în meciul câștigat de „galactici” pe terenul lui AEK Atena, scor 3-2, și l-a depășit pe Sergio Ramos (40), legendarul fundaș central al clubului din capitala Spaniei. Cu Mbappe marcator, Real Madrid s-a impus la Atena abia în prelungiri, după ce a fost condusă de două ori. Mijlocașul Răzvan Marin a fost introdus în ultimele 30 de minute. ..."
+  },
+  {
+    "group_id": "group_8b4acbabd3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "O companie aeriană din Emiratele Arabe Unite introduce patru zboruri săptămânale către București",
+        "link": "https://adevarul.ro/economie/o-companie-aeriana-din-emiratele-arabe-unite-2569061.html"
+      }
+    ],
+    "published_at": 1793823621,
+    "title_hu": "O companie aeriană din Emiratele Arabe Unite introduce patru zboruri săptămânale către București",
+    "lead_hu": "Compania aeriană Etihad Airways, din Emiratele Arabe Unite, anunță că va introduce, începând din decembrie 2026, patru zboruri săptămânale către București....",
+    "content_hu": "Compania aeriană Etihad Airways, din Emiratele Arabe Unite, anunță că va introduce, începând din decembrie 2026, patru zboruri săptămânale către București.",
+    "title_ro": "O companie aeriană din Emiratele Arabe Unite introduce patru zboruri săptămânale către București",
+    "lead_ro": "Compania aeriană Etihad Airways, din Emiratele Arabe Unite, anunță că va introduce, începând din decembrie 2026, patru zboruri săptămânale către București....",
+    "content_ro": "Compania aeriană Etihad Airways, din Emiratele Arabe Unite, anunță că va introduce, începând din decembrie 2026, patru zboruri săptămânale către București."
+  },
+  {
+    "group_id": "group_b857f99ce7",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Pericol pe Autostrada A1, după ce o cisternă cu acid sulfuric s-a răsturnat. Trafic deviat între Sebeș și Sibiu",
+        "link": "https://www.mediafax.ro/social/pericol-pe-autostrada-a1-dupa-ce-o-cisterna-cu-acid-sulfuric-s-a-rasturnat-trafic-deviat-intre-sebes-si-sibiu-23837746"
+      }
+    ],
+    "published_at": 1793823327,
+    "title_hu": "Pericol pe Autostrada A1, după ce o cisternă cu acid sulfuric s-a răsturnat. Trafic deviat între Sebeș și Sibiu",
+    "lead_hu": "Un accident rutier în care a fost implicată o autocisternă încărcată cu acid sulfuric s-a produs pe Autostrada A1, în zona localității Cunța, județul Alba....",
+    "content_hu": "Un accident rutier în care a fost implicată o autocisternă încărcată cu acid sulfuric s-a produs pe Autostrada A1, în zona localității Cunța, județul Alba.",
+    "title_ro": "Pericol pe Autostrada A1, după ce o cisternă cu acid sulfuric s-a răsturnat. Trafic deviat între Sebeș și Sibiu",
+    "lead_ro": "Un accident rutier în care a fost implicată o autocisternă încărcată cu acid sulfuric s-a produs pe Autostrada A1, în zona localității Cunța, județul Alba....",
+    "content_ro": "Un accident rutier în care a fost implicată o autocisternă încărcată cu acid sulfuric s-a produs pe Autostrada A1, în zona localității Cunța, județul Alba."
+  },
+  {
     "group_id": "group_358be4199d",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -4315,12 +4378,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Mediafax",
         "title": "Părinții care se întorc mai devreme la serviciu ar putea primi până la 8.500 de lei lunar. Ce prevede un nou proiect de lege",
         "link": "https://www.mediafax.ro/social/parintii-care-se-intorc-mai-devreme-la-serviciu-ar-putea-primi-pana-la-8-500-de-lei-lunar-ce-prevede-un-nou-proiect-de-lege-23837614"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Părinții care se întorc mai devreme la serviciu ar putea primi salariul și indemnizația integrală. Ce prevede proiectul depus de PNL și USR",
+        "link": "https://adevarul.ro/politica/parintii-care-se-intorc-mai-devreme-la-serviciu-ar-2569056.html"
       }
     ],
     "published_at": 1793809395,
@@ -21241,111 +21309,6 @@
     "title_ro": "Norvegia își consolidează sistemul de supraveghere a frontierelor. Cum va detecta dronele lângă granița cu Rusia",
     "lead_ro": "Ministrul norvegian al Apărării, Tore O. Sandvik, a transmis că forțele armate ale țării e implementează un sistem de supraveghere aeriană în orașul Kirkenes, lângă granița cu Rusia, pentru a detecta …",
     "content_ro": "Ministrul norvegian al Apărării, Tore O. Sandvik, a transmis că forțele armate ale țării e implementează un sistem de supraveghere aeriană în orașul Kirkenes, lângă granița cu Rusia, pentru a detecta dronele care se abat de la cursul lor, într-un stadiu incipient."
-  },
-  {
-    "group_id": "group_b9c3b24d0d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Kimi Antonelli minden idők legfiatalabb Forma–1-es világbajnoka lett",
-        "link": "https://www.mediatica.ro/hirek/sport/kimi-antonelli-minden-idok-legfiatalabb-forma-1-es-vilagbajnoka-lett"
-      }
-    ],
-    "published_at": 1793737367,
-    "title_hu": "Kimi Antonelli minden idők legfiatalabb Forma–1-es világbajnoka lett",
-    "lead_hu": "A Mercedes olasz versenyzője 20 évesen és 68 naposan nyert.",
-    "content_hu": "A Mercedes olasz versenyzője 20 évesen és 68 naposan nyert.",
-    "title_ro": "Kimi Antonelli minden idők legfiatalabb Forma–1-es világbajnoka lett",
-    "lead_ro": "A Mercedes olasz versenyzője 20 évesen és 68 naposan nyert.",
-    "content_ro": "A Mercedes olasz versenyzője 20 évesen és 68 naposan nyert."
-  },
-  {
-    "group_id": "group_b744a0af36",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Sebastian Răducanu, românul de 21 de ani care și-a ucis rivalul, și-a aflat pedeapsa. Câți ani va sta în spatele gratiilor",
-        "link": "https://www.cancan.ro/sebastian-raducanu-romanul-de-21-de-ani-care-si-a-ucis-rivalul-si-a-aflat-pedeapsa-cati-ani-va-sta-in-spatele-gratiilor-21541484"
-      }
-    ],
-    "published_at": 1793737366,
-    "title_hu": "Sebastian Răducanu, românul de 21 de ani care și-a ucis rivalul, și-a aflat pedeapsa. Câți ani va sta în spatele gratiilor",
-    "lead_hu": "Sebastian Răducanu, un tânăr român în vârstă de 21 de ani, a primit cea mai dură pedeapsă în Suedia, după ce a fost găsit vinovat de uciderea unui bărbat de 34 de ani. Crima, pusă la cale în detaliu, …",
-    "content_hu": "Sebastian Răducanu, un tânăr român în vârstă de 21 de ani, a primit cea mai dură pedeapsă în Suedia, după ce a fost găsit vinovat de uciderea unui bărbat de 34 de ani. Crima, pusă la cale în detaliu, a avut loc în apropierea unui loc de joacă din Göteborg, în fața mai multor copii. […]",
-    "title_ro": "Sebastian Răducanu, românul de 21 de ani care și-a ucis rivalul, și-a aflat pedeapsa. Câți ani va sta în spatele gratiilor",
-    "lead_ro": "Sebastian Răducanu, un tânăr român în vârstă de 21 de ani, a primit cea mai dură pedeapsă în Suedia, după ce a fost găsit vinovat de uciderea unui bărbat de 34 de ani. Crima, pusă la cale în detaliu, …",
-    "content_ro": "Sebastian Răducanu, un tânăr român în vârstă de 21 de ani, a primit cea mai dură pedeapsă în Suedia, după ce a fost găsit vinovat de uciderea unui bărbat de 34 de ani. Crima, pusă la cale în detaliu, a avut loc în apropierea unui loc de joacă din Göteborg, în fața mai multor copii. […]"
-  },
-  {
-    "group_id": "group_298bb1475c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Luca Niculescu: Nu aș avea emoții prea mari privind aprovizionarea cu energie şi cu gaz în această iarnă",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-nu-as-avea-emotii-prea-mari-privind-aprovizionarea-cu-energie-si-cu-gaz-in-aceasta-iarna-4020469"
-      }
-    ],
-    "published_at": 1793737339,
-    "title_hu": "Luca Niculescu: Nu aș avea emoții prea mari privind aprovizionarea cu energie şi cu gaz în această iarnă",
-    "lead_hu": "Premierul Luca Niculescu a declarat marți seară, la TVR, că rezervele de gaz ale României pentru această iarnă sunt de aproape 90% din capacitatea de stocare. „În ceea ce priveşte securitatea aprovizi…",
-    "content_hu": "Premierul Luca Niculescu a declarat marți seară, la TVR, că rezervele de gaz ale României pentru această iarnă sunt de aproape 90% din capacitatea de stocare. „În ceea ce priveşte securitatea aprovizionării cu energie şi cu gaz în această iarnă, nu aş avea emoţii prea mari”, afirmă premierul.",
-    "title_ro": "Luca Niculescu: Nu aș avea emoții prea mari privind aprovizionarea cu energie şi cu gaz în această iarnă",
-    "lead_ro": "Premierul Luca Niculescu a declarat marți seară, la TVR, că rezervele de gaz ale României pentru această iarnă sunt de aproape 90% din capacitatea de stocare. „În ceea ce priveşte securitatea aprovizi…",
-    "content_ro": "Premierul Luca Niculescu a declarat marți seară, la TVR, că rezervele de gaz ale României pentru această iarnă sunt de aproape 90% din capacitatea de stocare. „În ceea ce priveşte securitatea aprovizionării cu energie şi cu gaz în această iarnă, nu aş avea emoţii prea mari”, afirmă premierul."
-  },
-  {
-    "group_id": "group_13324e8944",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Kiütéses idegenbeli győzelmet aratott a marosvásárhelyi kosárlabdacsapat",
-        "link": "https://www.mediatica.ro/hirek/sport/kiuteses-idegenbeli-gyozelmet-aratott-a-marosvasarhelyi-kosarlabdacsapat"
-      }
-    ],
-    "published_at": 1793737244,
-    "title_hu": "Kiütéses idegenbeli győzelmet aratott a marosvásárhelyi kosárlabdacsapat",
-    "lead_hu": "A városi sportklub 110-81-re győzött szombat este Ploiesti-en.",
-    "content_hu": "A városi sportklub 110-81-re győzött szombat este Ploiesti-en.",
-    "title_ro": "Kiütéses idegenbeli győzelmet aratott a marosvásárhelyi kosárlabdacsapat",
-    "lead_ro": "A városi sportklub 110-81-re győzött szombat este Ploiesti-en.",
-    "content_ro": "A városi sportklub 110-81-re győzött szombat este Ploiesti-en."
-  },
-  {
-    "group_id": "group_280733c28c",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Walter Zenga, mesaj emoționant pentru Raluca la 6 ani de la divorț. Nimeni nu se aștepta la asta!",
-        "link": "https://www.cancan.ro/walter-zenga-mesaj-emotionant-pentru-raluca-la-6-ani-de-la-divort-nimeni-nu-se-astepta-la-asta-21541527"
-      }
-    ],
-    "published_at": 1793737189,
-    "title_hu": "Walter Zenga, mesaj emoționant pentru Raluca la 6 ani de la divorț. Nimeni nu se aștepta la asta!",
-    "lead_hu": "Relația dintre Walter și Raluca Zenga continuă să fie una bazată pe respect și recunoștință, chiar dacă povestea lor de iubire a ajuns la final. Cei doi au reușit să păstreze o legătură frumoasă după …",
-    "content_hu": "Relația dintre Walter și Raluca Zenga continuă să fie una bazată pe respect și recunoștință, chiar dacă povestea lor de iubire a ajuns la final. Cei doi au reușit să păstreze o legătură frumoasă după divorț, lăsând în urmă eventualele neînțelegeri și alegând să prețuiască momentele importante pe care le-au trăit împreună. Recent, cu prilejul […]",
-    "title_ro": "Walter Zenga, mesaj emoționant pentru Raluca la 6 ani de la divorț. Nimeni nu se aștepta la asta!",
-    "lead_ro": "Relația dintre Walter și Raluca Zenga continuă să fie una bazată pe respect și recunoștință, chiar dacă povestea lor de iubire a ajuns la final. Cei doi au reușit să păstreze o legătură frumoasă după …",
-    "content_ro": "Relația dintre Walter și Raluca Zenga continuă să fie una bazată pe respect și recunoștință, chiar dacă povestea lor de iubire a ajuns la final. Cei doi au reușit să păstreze o legătură frumoasă după divorț, lăsând în urmă eventualele neînțelegeri și alegând să prețuiască momentele importante pe care le-au trăit împreună. Recent, cu prilejul […]"
   },
   {
     "group_id": "group_edde550b1b",
