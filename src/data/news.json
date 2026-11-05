@@ -1,5 +1,47 @@
 [
   {
+    "group_id": "group_7a6c9a4842",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Pontmaros",
+        "title": "Ludason készülnek a télre: 70 kilométernyi utat tisztítanak majd, három csapat lesz készenlétben",
+        "link": "https://www.pontmaros.ro/ludason-keszulnek-a-telre-70-kilometernyi-utat-tisztitanak-majd-harom-csapat-lesz-keszenletben/"
+      }
+    ],
+    "published_at": 1793862000,
+    "title_hu": "Ludason készülnek a télre: 70 kilométernyi utat tisztítanak majd, három csapat lesz készenlétben",
+    "lead_hu": "Ludas önkormányzata jóváhagyta a 2026–2027-es téli időszak hóeltakarítási és síkosságmentesítési tervét. A helyi tanács október 27-i ülésén elfogadott program meghatározza, hogyan szervezik meg az uta...",
+    "content_hu": "Ludas önkormányzata jóváhagyta a 2026–2027-es téli időszak hóeltakarítási és síkosságmentesítési tervét. A helyi tanács október 27-i ülésén elfogadott program meghatározza, hogyan szervezik meg az utak, …",
+    "title_ro": "Ludason készülnek a télre: 70 kilométernyi utat tisztítanak majd, három csapat lesz készenlétben",
+    "lead_ro": "Ludas önkormányzata jóváhagyta a 2026–2027-es téli időszak hóeltakarítási és síkosságmentesítési tervét. A helyi tanács október 27-i ülésén elfogadott program meghatározza, hogyan szervezik meg az uta...",
+    "content_ro": "Ludas önkormányzata jóváhagyta a 2026–2027-es téli időszak hóeltakarítási és síkosságmentesítési tervét. A helyi tanács október 27-i ülésén elfogadott program meghatározza, hogyan szervezik meg az utak, …"
+  },
+  {
+    "group_id": "group_d42fc8d29c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Plantele exotice care își dezvăluie frumusețea publicului în această săptămână, la Grădina Botanică din Cluj: „Se pot crește și în casă”",
+        "link": "https://stirileprotv.ro/divers/plantele-exotice-care-isi-dezvaluie-frumusetea-publicului-in-aceasta-saptamana-la-gradina-botanica-din-cluj.html"
+      }
+    ],
+    "published_at": 1793861926,
+    "title_hu": "Plantele exotice care își dezvăluie frumusețea publicului în această săptămână, la Grădina Botanică din Cluj: „Se pot crește și în casă”",
+    "lead_hu": "Serele cu orhidee și ferigi de la Grădina Botanică din Cluj-Napoca, de obicei închise publicului, primesc vizitatori în această săptămână....",
+    "content_hu": "Serele cu orhidee și ferigi de la Grădina Botanică din Cluj-Napoca, de obicei închise publicului, primesc vizitatori în această săptămână.",
+    "title_ro": "Plantele exotice care își dezvăluie frumusețea publicului în această săptămână, la Grădina Botanică din Cluj: „Se pot crește și în casă”",
+    "lead_ro": "Serele cu orhidee și ferigi de la Grădina Botanică din Cluj-Napoca, de obicei închise publicului, primesc vizitatori în această săptămână....",
+    "content_ro": "Serele cu orhidee și ferigi de la Grădina Botanică din Cluj-Napoca, de obicei închise publicului, primesc vizitatori în această săptămână."
+  },
+  {
     "group_id": "group_abeb796ed8",
     "category": "Általános",
     "is_synthesized": false,
@@ -256,12 +298,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Adevărul",
         "title": "Sute de percheziții în toată România. Anchetatorii vizează infracțiuni grave, inclusiv asupra minorilor",
         "link": "https://adevarul.ro/stiri-interne/evenimente/sute-de-perchezitii-in-toata-romania-anchetatorii-2569088.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Continuă operațiunea de amploare în România. Aproape 400 de percheziții pentru „o gamă largă de infracțiuni” . GALERIE FOTO",
+        "link": "https://stirileprotv.ro/stiri/actualitate/operatiunea-jupiter-6-397-de-perchezitii-in-toata-tara-prejudiciul-estimat-depaseste-33-de-milioane-de-lei.html"
       }
     ],
     "published_at": 1793860444,
@@ -340,12 +387,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
         "title": "Șofer de microbuz atacat și jefuit în Bihor. Hoții au furat colete cu droguri în valoare de 900.000 de euro",
         "link": "https://www.digi24.ro/stiri/actualitate/sofer-de-microbuz-atacat-si-jefuit-in-bihor-hotii-au-furat-colete-cu-droguri-in-valoare-de-900-000-de-euro-4022509"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Jaf neobișnuit, ca-n filme, în județul vecin. Au atacat șoferul de microbuz și au fugit cu coletele. Erau pline cu droguri",
+        "link": "https://www.presasm.ro/foto-jaf-neobisnuit-ca-n-filme-in-judetul-vecin-au-atacat-soferul-de-microbuz-si-au-fugit-cu/54126"
       }
     ],
     "published_at": 1793859974,
@@ -20345,77 +20397,6 @@
     "content_ro": "Locuitorii cartierelor Tokai și Tineretului din Nagyvárad nu scapă de mirosurile degajate de stația de asfalt a firmei Global Industrial, aflată lângă magazinul Metro, despre care Bihorel scria încă de anul trecut că le face oamenilor viața amară. Așa cum vă amintiți probabil, firma nu-i una oarecare, ci o „prietenă” a Primăriei, pentru care execută lucrări de zeci de milioane de lei..."
   },
   {
-    "group_id": "group_60888490a7",
-    "fingerprint": "c5f5c0c08e69b898c2b3c17d307ee7da",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "HELLENiQ ENERGY urmează să prezinte planuri majore de investiții în energie regenerabilă în România",
-        "link": "https://www.mediafax.ro/economic/helleniq-energy-urmeaza-sa-prezinte-planuri-majore-de-investitii-in-energie-regenerabila-in-romania-23836808"
-      },
-      {
-        "source": "G4Media",
-        "title": "HELLENiQ ENERGY urmează să prezinte planuri majore de investiții în energie regenerabilă în România",
-        "link": "https://www.g4media.ro/helleniq-energy-urmeaza-sa-prezinte-planuri-majore-de-investitii-in-energie-regenerabila-in-romania.html"
-      }
-    ],
-    "published_at": 1793775652,
-    "title_hu": "A HELLENiQ ENERGY új romániai megújulóenergia-beruházási terveket ismertet",
-    "lead_hu": "A délkelet-európai energetikai csoport jelentős új romániai megújulóenergia-kezdeményezés bejelentésére készül. A vállalat helyi projektportfóliója már meghaladja a 900 megawattot.",
-    "content_hu": "• **A HELLENiQ ENERGY új beruházási kezdeményezést készít elő Romániában**, amely a megújuló energiaforrások fejlesztését célozza. A társaság terveit egy bukaresti, magas szintű rendezvényen ismerteti; a bejelentés pontos időpontját és a beruházás értékét a közölt információk nem részletezik.\n\n• **A bukaresti eseményen a gazdasági és energetikai szektor szereplői is részt vesznek.** A szervezők kormányzati képviselőket, vállalatvezetőket, pénzügyi intézményeket, ágazati érintetteket és stratégiai partnereket várnak, hogy a romániai energetikai beruházásokról és az átállás lehetőségeiről egyeztessenek.\n\n• **A vállalat romániai megújulóenergia-portfóliója meghaladja a 900 MW-ot.** Az összesítés a fejlesztés alatt álló, épülő és már működő projekteket egyaránt magában foglalja. A cég ezt a piacot a Görögországon kívüli legjelentősebb működési területei közé sorolja.\n\n• **A romániai tevékenységet a HELLENiQ Renewables Romania leányvállalat koordinálja.** A csoport közlése szerint az országban többféle megújulóenergia-projektből álló portfóliót alakított ki, és ennek bővítésére hosszabb távú fejlesztési alapot teremtett.\n\n• **A HELLENiQ ENERGY nyolc országban van jelen**, és Romániát kiemelt nemzetközi piacának tekinti. A társaság a helyi befektetéseket az energiabiztonság erősítésével és a tisztább energiaforrásokra való átállással kapcsolja össze, de az új kezdeményezés műszaki részleteit még nem közölte.",
-    "title_ro": "HELLENiQ ENERGY pregătește noi investiții în energie regenerabilă în România",
-    "lead_ro": "Grupul energetic HELLENiQ ENERGY urmează să prezinte o nouă inițiativă majoră pentru piața românească a energiilor regenerabile. Portofoliul său local de proiecte depășește deja 900 MW.",
-    "content_ro": "• **HELLENiQ ENERGY pregătește o nouă inițiativă de investiții în România**, axată pe energia regenerabilă. Planurile urmează să fie prezentate la un eveniment organizat la București, însă informațiile publicate nu precizează nici data anunțului, nici valoarea investiției avute în vedere.\n\n• **La reuniunea din București sunt așteptați reprezentanți ai administrației și ai sectorului energetic.** Participarea este prevăzută pentru lideri de afaceri, instituții financiare, actori din domeniu și parteneri strategici, iar discuțiile vor aborda investițiile energetice și tranziția din România.\n\n• **Portofoliul de energie regenerabilă al companiei în România depășește 900 MW.** Cifra include proiecte aflate în dezvoltare, în construcție sau deja operaționale. HELLENiQ ENERGY consideră România una dintre cele mai importante piețe ale sale din afara Greciei.\n\n• **Activitatea locală este desfășurată prin filiala HELLENiQ Renewables Romania.** Potrivit companiei, aceasta a creat un portofoliu diversificat de proiecte regenerabile și o bază pentru dezvoltarea pe termen lung. Nu au fost oferite detalii despre capacitatea sau calendarul noii inițiative.\n\n• **HELLENiQ ENERGY operează în opt țări** și descrie România drept o piață internațională prioritară. Grupul leagă investițiile locale de consolidarea securității energetice și de trecerea către surse mai curate, fără să prezinte deocamdată detaliile tehnice ale planurilor care urmează să fie anunțate."
-  },
-  {
-    "group_id": "group_6a28f945a9",
-    "fingerprint": "d8378ce6b281b77f72e43ed25f1fe35a",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Barack Obama, după victoria preconizată a democraților în alegeri: Poporul american a transmis un mesaj clar",
-        "link": "https://www.digi24.ro/stiri/externe/sua/barack-obama-dupa-victoria-preconizata-a-democratilor-in-alegeri-poporul-american-a-transmis-un-mesaj-clar-4020889"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Barack Obama, mesaj după victoria democraților: „Să facem schimbări și să prevenim noi pagube”",
-        "link": "https://adevarul.ro/stiri-externe/sua/barack-obama-mesaj-dupa-victoria-democratilor-2568777.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Barack Obama, primul mesaj după victoria democraților în SUA: Trebuie să punem bazele pentru viitor",
-        "link": "https://www.mediafax.ro/externe/barack-obama-primul-mesaj-dupa-victoria-democratilor-in-sua-trebuie-sa-punem-bazele-pentru-viitor-23837222"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Barack Obama, după victoria democraților la alegerile din SUA: „Poporul american a transmis un mesaj clar”",
-        "link": "https://stirileprotv.ro/stiri/international/barack-obama-dupa-victoria-democratilor-la-alegerile-din-sua-poporul-american-a-transmis-un-mesaj-clar.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/ Obama salută victoria democraților, considerând-o un 'mesaj clar' adresat lui Trump",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-obama-saluta-victoria-democratilor-considerand-o-un-mesaj-clar-adresat-lui-trump--1609856"
-      }
-    ],
-    "published_at": 1793775529,
-    "title_hu": "Obama a két kongresszusi kamara elvesztését jelző előrejelzések után együttműködésre szólított fel",
-    "lead_hu": "Az amerikai televíziók előrejelzései szerint a republikánusok elveszítették irányításukat a képviselőház és a szenátus felett. Barack Obama volt elnök a keddi félidős választás után úgy értékelte: a választók kevésbé megosztó politizálást és gyakorlati válaszokat várnak.",
-    "content_hu": "• **A választási előrejelzések** már nem csupán a republikánusok várható visszaszorulását jelezték: az amerikai televíziók becslései szerint a párt elveszítette többségét a képviselőházban és a szenátusban is. Ezek továbbra is előrejelzések, nem végleges hivatalos eredmények.\n\n• **Barack Obama** volt elnök az X-en reagált a fejleményekre. Azt az értelmezést fogalmazta meg, hogy a választók olyan politikai irányt támogatnak, amely a társadalmi megosztottság növelése helyett az összefogást keresi, és a vezetőktől a mindennapi kihívásokra alkalmazható megoldásokat vár.\n\n• **A következő két év** kapcsán Obama arra figyelmeztetett, hogy a jelenlegi kormányzatnak még van lehetősége cselekedni. Szerinte a döntéshozóknak a rendelkezésükre álló hatásköröket kell felhasználniuk a változtatásokra, a további károk mérséklésére és a későbbi időszak előkészítésére.\n\n• **A demokraták jelöltjei** Obama szerint hozzájárultak a párt várható sikeréhez: az ország különböző térségeiben, köztük korábban kevésbé esélyesnek tartott helyeken is indultak. A jelöltek eltérő háttérrel és politikai nézetekkel rendelkeztek, de közös elemként a közszolgálatot és a helyi választók képviseletét emelte ki.\n\n• **A választás lebonyolításában** mindkét párt több ezer választási dolgozója és önkéntese vett részt. Obama elismerte munkájukat, és arra is kitért, hogy közreműködésük segítette a szavazás zökkenőmentes lebonyolítását. A demokrata táborban népszerű volt elnököt Donald Trump utódja többször bírálta.",
-    "title_ro": "Obama cere cooperare după proiecțiile privind pierderea ambelor camere ale Congresului de către republicani",
-    "lead_ro": "Proiecțiile televiziunilor americane indică faptul că republicanii au pierdut controlul atât asupra Camerei Reprezentanților, cât și asupra Senatului. După alegerile de marți, fostul președinte Barack Obama a spus că alegătorii preferă o politică mai puțin conflictuală și soluții aplicabile problemelor curente.",
-    "content_ro": "• **Proiecțiile electorale** au indicat nu doar o posibilă diminuare a influenței republicane, ci pierderea majorității partidului în ambele camere ale Congresului. Estimările posturilor americane nu reprezintă însă rezultate oficiale definitive.\n\n• **Barack Obama** a comentat evoluțiile într-un mesaj publicat pe X. În opinia sa, votul arată că alegătorii preferă o abordare politică orientată spre cooperare, nu spre accentuarea diviziunilor, și așteaptă de la lideri răspunsuri utile la problemele cu care se confruntă.\n\n• **Următorii doi ani** oferă, potrivit fostului președinte, administrației actuale timp pentru a acționa. Obama a îndemnat decidenții să folosească atribuțiile pe care le au pentru a produce schimbări, a limita alte efecte negative și a pregăti perioada următoare.\n\n• **Candidații democrați** au avut un rol în rezultatul preconizat, a apreciat Obama. Ei au intrat în cursă în regiuni diverse ale țării, inclusiv în circumscripții considerate anterior greu de câștigat; deși aveau experiențe și poziții politice diferite, fostul președinte a remarcat interesul lor pentru serviciul public și pentru reprezentarea comunităților locale.\n\n• **Desfășurarea alegerilor** a implicat mii de angajați electorali și voluntari din ambele partide. Obama le-a mulțumit, menționând că participarea lor a contribuit la buna organizare a scrutinului. Fostul președinte rămâne popular în rândul democraților și a fost criticat în repetate rânduri de Donald Trump, succesorul său."
-  },
-  {
     "group_id": "group_866e5108c2",
     "category": "Általános",
     "is_synthesized": false,
@@ -20594,12 +20575,17 @@
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 2,
     "sources": [
       {
         "source": "HotNews.ro",
         "title": "Noi trageri LOTO joi 5 noiembrie 2026. Report cumulat la Noroc de peste 1,79 milioane de lei",
         "link": "https://hotnews.ro/rezultatele-loto-6-din-49-din-5-noiembrie-2026-2395370"
+      },
+      {
+        "source": "Digi24",
+        "title": "Rezultate LOTO - Joi, 5 noiembrie 2026. La 6/49 sunt în joc peste 2,86 milioane de lei. Report atractiv și la Joker",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-joi-5-noiembrie-2026-la-6-49-sunt-in-joc-peste-286-milioane-de-lei-report-atractiv-si-la-joker-4022099"
       }
     ],
     "published_at": 1793854651,
