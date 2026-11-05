@@ -48,104 +48,6 @@
     ]
   },
   {
-    "group_id": "group_cf0feabe1f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Coreea de Nord promite să riposteze mai puternic la ostilitatea SUA (presa oficială)",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/coreea-de-nord-promite-sa-riposteze-mai-puternic-la-ostilitatea-sua-presa-oficiala--1609736",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_8a6f3579a4",
-    "category": "Sport",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: PSG a câștigat cu 6-0 în Liga Campionilor, victorii cu 3-0 pentru FC Barcelona și Inter Milano",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-psg-a-castigat-cu-6-0-in-liga-campionilor-victorii-cu-3-0-pentru-fc-barcelona-si-inter-milano--1609735",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "A PSG hat góllal ütötte ki a Villarrealt, az Inter és a Bayern is idegenben nyert",
-        "link": "https://www.mediatica.ro/hirek/sport/a-psg-hat-gollal-utotte-ki-a-villarrealt-az-inter-es-a-bayern-is-idegenben-nyert",
-        "summary": "A Barcelona is könnyedén intézte el az Aston Villát.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793777721
-      }
-    ]
-  },
-  {
-    "group_id": "group_e53f8bd7be",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA: Vedetele s-au implicat în susținerea candidaților, ori au îndemnat la vot",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-vedetele-s-au-implicat-in-sustinerea-candidatilor-ori-au-indemnat-la-vot--1609734",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_495db306df",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA: S-au închis primele birouri de vot",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-s-au-inchis-primele-birouri-de-vot--1609738",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_337cb991d6",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "VIDEO Alegeri SUA: În Alaska, senatorul republican în cursă denunță o 'înșelătorie electorală' a democraților",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/video-alegeri-sua-in-alaska-senatorul-republican-in-cursa-denunta-o-inselatorie-electorala-a-democra--1609737",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Scandal în Alaska: Un senator republican în funcție denunță „frauda electorală” a democraților. Spune că „stratagema cu candidatul-momeală” funcționează",
-        "link": "https://hotnews.ro/alegeri-sua-in-alaska-senatorul-republican-dan-sullivan-denunta-o-frauda-electorala-a-democratilor-2394121",
-        "summary": "Cu câteva ore înainte de încheierea alegerilor de la jumătatea mandatului din SUA, senatorul republican din Alaska, Dan Sullivan, a denunțat marți „frauda electorală” a democraților, acuzați că au încurajat un candidat cu același nume ca al său să candideze pentru a-i sustrage voturi, scrie AFP. „Asistăm la cel mai mare scandal de fraudă electorală …",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793751159
-      }
-    ]
-  },
-  {
     "group_id": "group_ff69fecd92",
     "category": "Általános",
     "articles_count": 4,
@@ -201,6 +103,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793750725
+      }
+    ]
+  },
+  {
+    "group_id": "group_337cb991d6",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Scandal în Alaska: Un senator republican în funcție denunță „frauda electorală” a democraților. Spune că „stratagema cu candidatul-momeală” funcționează",
+        "link": "https://hotnews.ro/alegeri-sua-in-alaska-senatorul-republican-dan-sullivan-denunta-o-frauda-electorala-a-democratilor-2394121",
+        "summary": "Cu câteva ore înainte de încheierea alegerilor de la jumătatea mandatului din SUA, senatorul republican din Alaska, Dan Sullivan, a denunțat marți „frauda electorală” a democraților, acuzați că au încurajat un candidat cu același nume ca al său să candideze pentru a-i sustrage voturi, scrie AFP. „Asistăm la cel mai mare scandal de fraudă electorală …",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1793751159
       }
     ]
   },
@@ -925,7 +843,7 @@
   {
     "group_id": "group_2df9c1b6d1",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "Mediafax",
@@ -935,15 +853,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793763274
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Justiția din Brazilia interzice companiei Meta să utilizeze conținuturi jurnalistice pentru antrenarea AI",
-        "link": "https://agerpres.ro/social-extern/2026/11/04/justitia-din-brazilia-interzice-companiei-meta-sa-utilizeze-continuturi-jurnalistice-pentru-antrenar--1610112",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -1418,113 +1327,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793766937
-      }
-    ]
-  },
-  {
-    "group_id": "group_4b1fa80ad4",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Nicușor Dan îi primește la Cotroceni pe lidera opoziției din Belarus și pe subsecretarul SUA pentru Politica de Apărare",
-        "link": "https://agerpres.ro/politic/2026/11/04/nicusor-dan-ii-primeste-la-cotroceni-pe-lidera-opozitiei-din-belarus-si-pe-subsecretarul-sua-pentru---1609539",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_fac5f8fed2",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Congresul Românității Balcanice, la Parlament; lideri ai organizațiilor românești istorice din 5 țări, prezenți la eveniment",
-        "link": "https://agerpres.ro/cultura-media/2026/11/04/congresul-romanitatii-balcanice-la-parlament-lideri-ai-organizatiilor-romanesti-istorice-din-5-tari---1609745",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_be905b626e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "EFEMERIDE ASTRONOMICE - 4 noiembrie",
-        "link": "https://agerpres.ro/documentare/2026/11/04/efemeride-astronomice---4-noiembrie--1609740",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_35de71074f",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sindicaliștii din INS protestează miercuri față de refuzul autorităților de a plăti salariaților drepturile câștigate în instanță",
-        "link": "https://agerpres.ro/social/2026/11/04/sindicalistii-din-ins-protesteaza-miercuri-fata-de-refuzul-autoritatilor-de-a-plati-salariatilor-dre--1609559",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Angajații din INS protestează miercuri la Ministerul Finanțelor. Care sunt revendicările sindicaliștilor",
-        "link": "https://www.digi24.ro/stiri/economie/angajatii-din-ins-protesteaza-miercuri-la-ministerul-finantelor-care-sunt-revendicarile-sindicalistilor-4020991",
-        "summary": "Angajații Institutului Național de Statistică (INS) protestează miercuri, începând cu ora 10:00, în fața Ministerului Finanțelor. Sindicaliștii cer plata drepturilor salariale restante, câștigate în instanță, și eliminarea inechităților salariale.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793782438
-      },
-      {
-        "source": "G4Media",
-        "title": "VIDEO Sindicaliștii de la Institutul Național de Statistică protestează și cer banii câștigați definitiv în instanță",
-        "link": "https://www.g4media.ro/video-sindicalistii-de-la-institutul-national-de-statistica-protesteaza-si-cer-banii-castigati-definitiv-in-instanta.html",
-        "summary": "Câteva zeci de angajați ai Institutului Național de Statistică protestează miercuri în fața Ministerului Finanțelor, nemulțumiți că statul nu le plătește drepturile salariale câștigate definitiv în instanță, potrivit unui comunicat. Este vorba despre restanțe aferente anilor 2025 și 2026, a căror plată a fost amânată de Guvern, pe fondul măsurilor de reducere a cheltuielilor bugetare. […] © G4Media.ro.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793781325
-      },
-      {
-        "source": "Digi24",
-        "title": "Până la 200 de angajați ai INS protestează în fața Ministerului Finanțelor. Tranșele restante ajung la 15.000 de lei",
-        "link": "https://www.digi24.ro/stiri/economie/pana-la-200-de-angajati-ai-ins-protesteaza-in-fata-ministerului-finantelor-transele-restante-ajung-la-15-000-de-lei-4020991",
-        "summary": "Între 150 și 200 de angajați ai Institutului Național de Statistică (INS) protestează miercuri în fața Ministerului Finanțelor, cerând plata drepturilor obținute prin hotărâri judecătorești definitive. Sindicaliștii reclamă și lipsa unui răspuns la solicitările transmise autorităților încă din luna mai.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793790670
-      }
-    ]
-  },
-  {
-    "group_id": "group_6f90265b3a",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Conferință despre rolul educației în construirea viitorului, miercuri, la BNR",
-        "link": "https://agerpres.ro/economic/2026/11/04/conferinta-despre-rolul-educatiei-in-construirea-viitorului-miercuri-la-bnr--1609742",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -2411,7 +2213,7 @@
   {
     "group_id": "group_7e86cdf347",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Adevărul",
@@ -2448,15 +2250,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793780351
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Trump afirmă că războiul din Iran a meritat, deși acesta a contribuit la înfrângerea suferită de republicani",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-trump-afirma-ca-razboiul-din-iran-a-meritat-desi-acesta-a-contribuit-la-infrangerea-sufe--1610142",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "HotNews.ro",
@@ -2636,7 +2429,7 @@
   {
     "group_id": "group_ef5cbd28ae",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "Mediafax",
@@ -2646,15 +2439,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793771632
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "ECA: Propunerea pentru bugetul UE 2028-2034 ratează mai multe oportunități de îmbunătățire",
-        "link": "https://agerpres.ro/economic-extern/2026/11/04/eca-propunerea-pentru-bugetul-ue-2028-2034-rateaza-mai-multe-oportunitati-de-imbunatatire--1610120",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -2960,7 +2744,7 @@
   {
     "group_id": "group_8d3bdb9a56",
     "category": "Általános",
-    "articles_count": 14,
+    "articles_count": 13,
     "articles": [
       {
         "source": "Mediafax",
@@ -3060,15 +2844,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793816745
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Ministrul Neculăescu a discutat, la MAE, cu Elbridge Colby: România își intensifică contribuția pentru o NATO 3.0",
-        "link": "https://agerpres.ro/politic/2026/11/04/ministrul-neculaescu-a-discutat-la-mae-cu-elbridge-colby-romania-isi-intensifica-contributia-pentru---1610124",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "Mediafax",
@@ -3464,7 +3239,7 @@
   {
     "group_id": "group_152d9c3cec",
     "category": "Általános",
-    "articles_count": 11,
+    "articles_count": 10,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -3528,15 +3303,6 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793788637
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/ Siegfried Mureșan: România trebuie să consolideze parteneriatul cu SUA pentru prezent și viitor",
-        "link": "https://agerpres.ro/politic/2026/11/04/alegeri-sua-siegfried-muresan-romania-trebuie-sa-consolideze-parteneriatul-cu-sua-pentru-prezent-si---1609910",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "ProTV Stiri",
@@ -3861,7 +3627,7 @@
   {
     "group_id": "group_6a28f945a9",
     "category": "Politika",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Digi24",
@@ -3898,15 +3664,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793775529
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/ Obama salută victoria democraților, considerând-o un 'mesaj clar' adresat lui Trump",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-obama-saluta-victoria-democratilor-considerand-o-un-mesaj-clar-adresat-lui-trump--1609856",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -3945,7 +3702,7 @@
   {
     "group_id": "group_ed2ed2d979",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Mediafax",
@@ -3964,15 +3721,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793783273
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Dolj: Doi copaci au căzut peste șapte autoturisme pe o stradă din Craiova, din cauza vântului puternic",
-        "link": "https://agerpres.ro/social/2026/11/04/dolj-doi-copaci-au-cazut-peste-sapte-autoturisme-pe-o-strada-din-craiova-din-cauza-vantului-puternic--1609830",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "ProTV Stiri",
@@ -4337,7 +4085,7 @@
   {
     "group_id": "group_52c34b93c6",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -4347,22 +4095,13 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793776343
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "INS: Înmatriculările de autoturisme noi au scăzut cu 26,4% în trimestrul III din 2026",
-        "link": "https://agerpres.ro/economic/2026/11/04/ins-inmatricularile-de-autoturisme-noi-au-scazut-cu-26-4-in-trimestrul-iii-din-2026--1609805",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
   {
     "group_id": "group_f8f0746ceb",
     "category": "Általános",
-    "articles_count": 9,
+    "articles_count": 8,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -4399,15 +4138,6 @@
         "category": "Gazdaság",
         "is_b2b_only": false,
         "published_at": 1793782883
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "AlegeriSUA/'Laserele mele spațiale nu au funcționat', ironizează Elon Musk",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegerisua-laserele-mele-spatiale-nu-au-functionat-ironizeaza-elon-musk--1609807",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "ProTV Stiri",
@@ -4752,6 +4482,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793777644
+      }
+    ]
+  },
+  {
+    "group_id": "group_8a6f3579a4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediatica.ro",
+        "title": "A PSG hat góllal ütötte ki a Villarrealt, az Inter és a Bayern is idegenben nyert",
+        "link": "https://www.mediatica.ro/hirek/sport/a-psg-hat-gollal-utotte-ki-a-villarrealt-az-inter-es-a-bayern-is-idegenben-nyert",
+        "summary": "A Barcelona is könnyedén intézte el az Aston Villát.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793777721
       }
     ]
   },
@@ -5603,7 +5349,7 @@
   {
     "group_id": "group_21d7730b94",
     "category": "Általános",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Digi24",
@@ -5622,15 +5368,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793781435
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/ China se declară pregătită să 'lucreze în continuare' cu Statele Unite",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-china-se-declara-pregatita-sa-lucreze-in-continuare-cu-statele-unite--1609842",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "HotNews.ro",
@@ -5777,6 +5514,40 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793780436
+      }
+    ]
+  },
+  {
+    "group_id": "group_35de71074f",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Angajații din INS protestează miercuri la Ministerul Finanțelor. Care sunt revendicările sindicaliștilor",
+        "link": "https://www.digi24.ro/stiri/economie/angajatii-din-ins-protesteaza-miercuri-la-ministerul-finantelor-care-sunt-revendicarile-sindicalistilor-4020991",
+        "summary": "Angajații Institutului Național de Statistică (INS) protestează miercuri, începând cu ora 10:00, în fața Ministerului Finanțelor. Sindicaliștii cer plata drepturilor salariale restante, câștigate în instanță, și eliminarea inechităților salariale.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793782438
+      },
+      {
+        "source": "G4Media",
+        "title": "VIDEO Sindicaliștii de la Institutul Național de Statistică protestează și cer banii câștigați definitiv în instanță",
+        "link": "https://www.g4media.ro/video-sindicalistii-de-la-institutul-national-de-statistica-protesteaza-si-cer-banii-castigati-definitiv-in-instanta.html",
+        "summary": "Câteva zeci de angajați ai Institutului Național de Statistică protestează miercuri în fața Ministerului Finanțelor, nemulțumiți că statul nu le plătește drepturile salariale câștigate definitiv în instanță, potrivit unui comunicat. Este vorba despre restanțe aferente anilor 2025 și 2026, a căror plată a fost amânată de Guvern, pe fondul măsurilor de reducere a cheltuielilor bugetare. […] © G4Media.ro.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793781325
+      },
+      {
+        "source": "Digi24",
+        "title": "Până la 200 de angajați ai INS protestează în fața Ministerului Finanțelor. Tranșele restante ajung la 15.000 de lei",
+        "link": "https://www.digi24.ro/stiri/economie/pana-la-200-de-angajati-ai-ins-protesteaza-in-fata-ministerului-finantelor-transele-restante-ajung-la-15-000-de-lei-4020991",
+        "summary": "Între 150 și 200 de angajați ai Institutului Național de Statistică (INS) protestează miercuri în fața Ministerului Finanțelor, cerând plata drepturilor obținute prin hotărâri judecătorești definitive. Sindicaliștii reclamă și lipsa unui răspuns la solicitările transmise autorităților încă din luna mai.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793790670
       }
     ]
   },
@@ -6104,7 +5875,7 @@
   {
     "group_id": "group_302991eeb1",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "Digi24",
@@ -6114,15 +5885,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793781180
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Coreea de Nord construiește o navă cu capacități de luptă nemaivăzute, susține Kim Jong Un",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/coreea-de-nord-construieste-o-nava-cu-capacitati-de-lupta-nemaivazute-sustine-kim-jong-un--1609815",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -6706,7 +6468,7 @@
   {
     "group_id": "group_6bf89c0b78",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -6725,15 +6487,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793783111
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "INHGA: Cod galben de inundații pe râuri din cinci județe, până joi la prânz",
-        "link": "https://agerpres.ro/social/2026/11/04/inhga-cod-galben-de-inundatii-pe-rauri-din-cinci-judete-pana-joi-la-pranz--1609843",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -6968,7 +6721,7 @@
   {
     "group_id": "group_a77465be40",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -6978,15 +6731,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793782764
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Postul Nașterii Domnului începe săptămâna viitoare; 14 zile cu dezlegare la pește, potrivit calendarului ortodox",
-        "link": "https://agerpres.ro/culte/2026/11/04/postul-nasterii-domnului-incepe-saptamana-viitoare-14-zile-cu-dezlegare-la-peste-potrivit-calendarul--1610051",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -7114,248 +6858,6 @@
     ]
   },
   {
-    "group_id": "group_cfc85564db",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Arad: Pensionarii cer sume de trei ori mai mari la CARP pentru a face față facturilor",
-        "link": "https://agerpres.ro/social/2026/11/04/arad-pensionarii-cer-sume-de-trei-ori-mai-mari-la-carp-pentru-a-face-fata-facturilor--1609850",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Pensionarii împrumută sume de aproape trei ori mai mari decât în ultimii cinci ani. Pe ce cheltuie banii",
-        "link": "https://www.digi24.ro/stiri/economie/pensionarii-imprumuta-sume-de-aproape-trei-ori-mai-mari-decat-in-ultimii-cinci-ani-pe-ce-cheltuie-banii-4021425",
-        "summary": "Pensionarii împrumută sume de aproape trei ori mai mari de la Casa Județeană de Ajutor Reciproc (CARP) Arad decât media ultimilor cinci ani, pe fondul facturilor în creștere la energie și al costurilor tot mai mari ale tratamentelor.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793789924
-      }
-    ]
-  },
-  {
-    "group_id": "group_65177981d1",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Liderul minorității democrate din Cameră declară că SUA au votat împotriva 'extremismului și corupției'",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-liderul-minoritatii-democrate-din-camera-declara-ca-sua-au-votat-impotriva-extremismului--1609855",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_fe00aee4eb",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bob: Mihai Păcioianu, candidat pentru Comisia Sportivilor din cadrul IBSF",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/bob-mihai-pacioianu-candidat-pentru-comisia-sportivilor-din-cadrul-ibsf--1609851",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_2404f8017c",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Administrația SUA a rămas aceeași, notează oficiali germani și francezi",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-administratia-sua-a-ramas-aceeasi-noteaza-oficiali-germani-si-francezi--1609853",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_e947543807",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "PERSONALITATEA ZILEI: Femeia de afaceri Ruth Handler, inventatoarea păpușii Barbie (4 noiembrie)",
-        "link": "https://agerpres.ro/documentare/2026/11/04/personalitatea-zilei-femeia-de-afaceri-ruth-handler-inventatoarea-papusii-barbie-4-noiembrie--1609739",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_4b538a3246",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bistrița-Năsăud: Adolescentă de 16 ani, rănită în urma unui accident de motocicletă, în Beclean",
-        "link": "https://agerpres.ro/social/2026/11/04/bistrita-nasaud-adolescenta-de-16-ani-ranita-in-urma-unui-accident-de-motocicleta-in-beclean--1609854",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_d541b8fa1a",
-    "category": "Sport",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "'Fotbalul este făcut din greșeli', a spus Simeone după înfrângerea lui Atletico în Liga Campionilor",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbalul-este-facut-din-greseli-a-spus-simeone-dupa-infrangerea-lui-atletico-in-liga-campionilor--1609847",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "G4Media",
-        "title": "Diego Simeone: „Fotbalul e făcut din greșeli”",
-        "link": "https://www.g4media.ro/diego-simeone-fotbalul-e-facut-din-greseli.html",
-        "summary": "Atletico Madrid a pierdut, scor 0-2, meciul jucat pe propriul teren cu Bayern Munchen în Champions League. La finalul partidei, Diego Simeone a spus că „fotbalul e făcut din greșeli” atunci când a discutat despre înfrângerea echipei sale. Atletico a cedat puncte importante pe „Metropolitano” din Madrid în Liga Campionilor, iar Diego Simeone a scos […] © G4Media.ro.",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793788832
-      }
-    ]
-  },
-  {
-    "group_id": "group_65bcdc13e0",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Federația Asociațiilor Bolnavilor de Cancer solicită integrarea și finanțarea serviciilor de navigare a pacienților în traseele oncologice",
-        "link": "https://agerpres.ro/sanatate/2026/11/04/federatia-asociatiilor-bolnavilor-de-cancer-solicita-integrarea-si-finantarea-serviciilor-de-navigar--1609846",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_7c4721ef1e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Barbu: Am ajuns la 1,4 milioane de hectare reabilitate prin programul de refacere a infrastructurii de irigații",
-        "link": "https://agerpres.ro/economic/2026/11/04/barbu-am-ajuns-la-1-4-milioane-de-hectare-reabilitate-prin-programul-de-refacere-a-infrastructurii-d--1609845",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_1380f6e03e",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Senat/ AUR a depus moțiunea simplă pe Finanțe",
-        "link": "https://agerpres.ro/politic/2026/11/04/senat-aur-a-depus-motiunea-simpla-pe-finante--1609824",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_2dd376242f",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Alegătorii latino-americani care l-au susținut pe Trump în 2024 au votat acum pentru democrați",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-alegatorii-latino-americani-care-l-au-sustinut-pe-trump-in-2024-au-votat-acum-pentru-dem--1609836",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_018f0c7e49",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "O directoare de la Electrica a refuzat un trafic de influență în energie: Ați venit din Constanța să îmi cereți o ilegalitate?(rechizitoriu)",
-        "link": "https://agerpres.ro/justitie/2026/11/04/o-directoare-de-la-electrica-a-refuzat-un-trafic-de-influenta-in-energie-ati-venit-din-constanta-sa---1609816",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_88ac13fd45",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Democratul Xavier Becerra: 'Ce noapte minunată să fii fiul unor imigranți în Uniune'",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-democratul-xavier-becerra-ce-noapte-minunata-sa-fii-fiul-unor-imigranti-in-uniune--1609814",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_7d91c7dd0a",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "FBAR avertizează că au apărut în online reclame false și tentative de fraudă care-i folosesc neautorizat numele și imaginea",
-        "link": "https://agerpres.ro/economic/2026/11/04/fbar-avertizeaza-ca-au-aparut-in-online-reclame-false-si-tentative-de-frauda-care-i-folosesc-neautor--1609840",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
     "group_id": "group_351e3a64a2",
     "category": "Erdély",
     "articles_count": 1,
@@ -7463,7 +6965,7 @@
   {
     "group_id": "group_0e64536ea0",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Mediafax",
@@ -7500,15 +7002,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793785845
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Zelenski a decorat-o pe Melania Trump pentru rolul său în armistițiul umanitar de la Oleșki",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/zelenski-a-decorat-o-pe-melania-trump-pentru-rolul-sau-in-armistitiul-umanitar-de-la-oleski--1609862",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "Adevărul",
@@ -8035,7 +7528,7 @@
   {
     "group_id": "group_fa9041343f",
     "category": "Általános",
-    "articles_count": 6,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Digi24",
@@ -8081,15 +7574,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793797604
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Ucraina trebuie să accelereze reformele pentru a-și atinge obiectivul de aderare la UE, afirmă Bruxellesul",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/ucraina-trebuie-sa-accelereze-reformele-pentru-a-si-atinge-obiectivul-de-aderare-la-ue-afirma-bruxel--1609973",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -8324,7 +7808,7 @@
   {
     "group_id": "group_d31788c3ab",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -8334,22 +7818,13 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793787134
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Premierul spaniol Sanchez consideră înfrângerea republicanilor americani un semnal împotriva extremei drepte",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-premierul-spaniol-sanchez-considera-infrangerea-republicanilor-americani-un-semnal-impot--1609928",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
   {
     "group_id": "group_932859140f",
     "category": "Általános",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Adevărul",
@@ -8377,15 +7852,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793789084
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "INSCOP: Peste jumătate din tinerii români nu știu de prezența militară franceză; ambasadorul Warnery: Încrederea e importantă",
-        "link": "https://agerpres.ro/politic/2026/11/04/inscop-peste-jumatate-din-tinerii-romani-nu-stiu-de-prezenta-militara-franceza-ambasadorul-warnery-i--1609962",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "Mediafax",
@@ -8834,54 +8300,6 @@
     ]
   },
   {
-    "group_id": "group_9de5c95761",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Trump dezminte speculațiile despre noi atacuri împotriva Iranului",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-trump-dezminte-speculatiile-despre-noi-atacuri-impotriva-iranului--1609878",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_ed3320891d",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Climă/sănătate: OMS propune șase măsuri pentru salvarea a circa 1,6 milioane de vieți în fiecare an",
-        "link": "https://agerpres.ro/planeta/2026/11/04/clima-sanatate-oms-propune-sase-masuri-pentru-salvarea-a-circa-1-6-milioane-de-vieti-in-fiecare-an--1609869",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_7ee483f354",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "O instanță federală americană blochează expulzarea afganilor din SUA",
-        "link": "https://agerpres.ro/social-extern/2026/11/04/o-instanta-federala-americana-blocheaza-expulzarea-afganilor-din-sua--1609863",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
     "group_id": "group_6c9e35e39e",
     "category": "Sport",
     "articles_count": 1,
@@ -8916,7 +8334,7 @@
   {
     "group_id": "group_6ea4b38daf",
     "category": "Politika",
-    "articles_count": 8,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Digi24",
@@ -8964,15 +8382,6 @@
         "published_at": 1793796945
       },
       {
-        "source": "Agerpres (HU)",
-        "title": "Alin Tișe: Îmi asum candidatura la funcția de președinte al PNL, la viitorul Congres",
-        "link": "https://agerpres.ro/politic/2026/11/04/alin-tise-imi-asum-candidatura-la-functia-de-presedinte-al-pnl-la-viitorul-congres--1610000",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
         "source": "G4Media",
         "title": "Mircea Abrudean, după ce Tișe a anunțat că va candida la șefia PNL: Momentan nu știu să fie anunțat vreun Congres",
         "link": "https://www.g4media.ro/mircea-abrudean-dupa-ce-tise-a-anuntat-ca-va-candida-la-sefia-pnl-momentan-nu-stiu-sa-fie-anuntat-vreun-congres.html",
@@ -8989,6 +8398,22 @@
         "category": "Erdély",
         "is_b2b_only": false,
         "published_at": 1793801580
+      }
+    ]
+  },
+  {
+    "group_id": "group_d541b8fa1a",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "Diego Simeone: „Fotbalul e făcut din greșeli”",
+        "link": "https://www.g4media.ro/diego-simeone-fotbalul-e-facut-din-greseli.html",
+        "summary": "Atletico Madrid a pierdut, scor 0-2, meciul jucat pe propriul teren cu Bayern Munchen în Champions League. La finalul partidei, Diego Simeone a spus că „fotbalul e făcut din greșeli” atunci când a discutat despre înfrângerea echipei sale. Atletico a cedat puncte importante pe „Metropolitano” din Madrid în Liga Campionilor, iar Diego Simeone a scos […] © G4Media.ro.",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793788832
       }
     ]
   },
@@ -9459,6 +8884,22 @@
         "category": "Erdély",
         "is_b2b_only": false,
         "published_at": 1793789640
+      }
+    ]
+  },
+  {
+    "group_id": "group_cfc85564db",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Pensionarii împrumută sume de aproape trei ori mai mari decât în ultimii cinci ani. Pe ce cheltuie banii",
+        "link": "https://www.digi24.ro/stiri/economie/pensionarii-imprumuta-sume-de-aproape-trei-ori-mai-mari-decat-in-ultimii-cinci-ani-pe-ce-cheltuie-banii-4021425",
+        "summary": "Pensionarii împrumută sume de aproape trei ori mai mari de la Casa Județeană de Ajutor Reciproc (CARP) Arad decât media ultimilor cinci ani, pe fondul facturilor în creștere la energie și al costurilor tot mai mari ale tratamentelor.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793789924
       }
     ]
   },
@@ -10230,7 +9671,7 @@
   {
     "group_id": "group_f74b4cab6d",
     "category": "Sport",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -10240,15 +9681,6 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793792294
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Infantino ar putea fi obligat să dea explicații despre legăturile sale cu Donald Trump",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-infantino-ar-putea-fi-obligat-sa-dea-explicatii-despre-legaturile-sale-cu-donald-trump--1609924",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -10360,7 +9792,7 @@
   {
     "group_id": "group_cf04396e92",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Adevărul",
@@ -10370,15 +9802,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793792693
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Dan Air își mută toate operațiunile pe Aerportul Internațional 'Henri Coandă' București",
-        "link": "https://agerpres.ro/economic/2026/11/04/dan-air-isi-muta-toate-operatiunile-pe-aerportul-international-henri-coanda-bucuresti--1609945",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "HotNews.ro",
@@ -10524,7 +9947,7 @@
   {
     "group_id": "group_fd0a564ab6",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "Mediafax",
@@ -10534,15 +9957,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793793085
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Extinderea UE, Ucraina și prețuri accesibile la energie, pe agenda summitului V4 din Slovacia",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/extinderea-ue-ucraina-si-preturi-accesibile-la-energie-pe-agenda-summitului-v4-din-slovacia--1610131",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -10841,7 +10255,7 @@
   {
     "group_id": "group_79fe3633e5",
     "category": "Sport",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -10860,15 +10274,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793799956
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Rodri, accidentat la coapsa dreaptă, va rata meciul cu Atletico Madrid, a anunțat FC Barcelona",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-rodri-accidentat-la-coapsa-dreapta-va-rata-meciul-cu-atletico-madrid-a-anuntat-fc-barcelona--1609997",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -11480,297 +10885,10 @@
     ]
   },
   {
-    "group_id": "group_59b9cf041a",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Muntenegru ar putea semna tratatul de aderare la UE în iunie 2027, afirmă Comisia Europeană într-un raport",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/muntenegru-ar-putea-semna-tratatul-de-aderare-la-ue-in-iunie-2027-afirma-comisia-europeana-intr-un-r--1609966",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Muntenegru ar putea încheia negocierile de aderare la UE până la finalul anului",
-        "link": "https://stirileprotv.ro/muntenegru-ar-putea-incheia-negocierile-de-aderare-la-ue-pana-la-finalul-anului.html",
-        "summary": "Muntenegru ar putea încheia negocierile de aderare la Uniunea Europeană până la sfârșitul acestui an și ar putea semna tratatul de aderare în iunie 2027.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793797940
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Muntenegru ar putea încheia negocierile de aderare la UE până la finalul anului",
-        "link": "https://stirileprotv.ro/stiri/international/muntenegru-ar-putea-incheia-negocierile-de-aderare-la-ue-pana-la-finalul-anului.html",
-        "summary": "Muntenegru ar putea încheia negocierile de aderare la Uniunea Europeană până la sfârșitul acestui an și ar putea semna tratatul de aderare în iunie 2027.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793797940
-      },
-      {
-        "source": "Digi24",
-        "title": "CE: Muntenegru poate adera la Uniunea Europeană în 2028. Când ar putea încheia negocierile Republica Moldova și Ucraina",
-        "link": "https://www.digi24.ro/stiri/externe/ue/ce-muntenegru-poate-adera-la-uniunea-europeana-in-2028-cand-ar-putea-incheia-negocierile-republica-moldova-si-ucraina-4022081",
-        "summary": "Uniunea Europeană estimează miercuri că Muntenegru se află „pe drumul bun” către o aderare în 2028 şi îndeamnă puternic Ucraina să accelereze reformele necesare aderării . Comisia Europeană salută în raportul anual privind extinderea uniunii, în care prezintă bilanţul negocierilor purtate de către toate ţările candidate la aderarea la UE, progresele realizate de Republica Moldova, Ucraina, Albania şi Muntenegru.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793813298
-      }
-    ]
-  },
-  {
-    "group_id": "group_6500de8861",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Eurostat: Prețul mediu al energiei electrice pentru consumatorii non-casnici din UE a continuat tendința descendentă în 2026",
-        "link": "https://agerpres.ro/economic-extern/2026/11/04/eurostat-pretul-mediu-al-energiei-electrice-pentru-consumatorii-non-casnici-din-ue-a-continuat-tendi--1609963",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_9a1c721f00",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alexandru Rogobete anunță măsuri pentru diagnosticarea și tratarea bolilor rare",
-        "link": "https://agerpres.ro/sanatate/2026/11/04/alexandru-rogobete-anunta-masuri-pentru-diagnosticarea-si-tratarea-bolilor-rare--1609961",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_88e7cfcbee",
-    "category": "Kultúra",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "BIBLIOTECA AZI/Bihor: Managerul Bibliotecii Județene propune comasarea fondurilor de carte ale primăriilor comunale cu cele școlare",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/11/04/biblioteca-azi-bihor-managerul-bibliotecii-judetene-propune-comasarea-fondurilor-de-carte-ale-primar--1609947",
-        "summary": "",
-        "category": "Kultúra",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_80c3a96994",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bihor: Peste 400 de specialiști, la conferința EU GREEN de asistență socială organizată la Universitatea Oradea",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/11/04/bihor-peste-400-de-specialisti-la-conferinta-eu-green-de-asistenta-sociala-organizata-la-universitat--1609944",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_4f8df561b2",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Isărescu: Societățile trebuie să învețe să anticipeze schimbarea, iar instituțiile să își consolideze reziliența",
-        "link": "https://agerpres.ro/economic/2026/11/04/isarescu-societatile-trebuie-sa-invete-sa-anticipeze-schimbarea-iar-institutiile-sa-isi-consolideze---1609941",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_b47a213f51",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Anglia/ Medicii de familie vor folosi analize de sânge pentru depistarea precoce a cancerului, o premieră",
-        "link": "https://agerpres.ro/social-extern/2026/11/04/anglia-medicii-de-familie-vor-folosi-analize-de-sange-pentru-depistarea-precoce-a-cancerului-o-premi--1609943",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Mediafax",
-        "title": "Teste de sânge care pot depista mai multe tipuri de cancer simultan, introduse în 200 de cabinete medicale din Anglia",
-        "link": "https://www.mediafax.ro/stiinta-sanatate/teste-de-sange-care-pot-depista-mai-multe-tipuri-de-cancer-simultan-introduse-in-200-de-cabinete-medicale-din-anglia-23837492",
-        "summary": "Teste de sânge concepute pentru depistarea simultană a mai multor tipuri de cancer vor fi introduse în aproximativ 200 de cabinete de medicină de familie din Anglia, în cadrul unui program-pilot al Serviciului Național de Sănătate britanic (NHS).",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793797180
-      }
-    ]
-  },
-  {
-    "group_id": "group_bfe0957b55",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Premierul Republicii Moldova: Unirea nu poate fi redusă la un simplu plan B",
-        "link": "https://agerpres.ro/romania-in-lume/2026/11/04/premierul-republicii-moldova-unirea-nu-poate-fi-redusa-la-un-simplu-plan-b--1609940",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Adevărul",
-        "title": "Premierul de la Chișinău, despre Unirea Republicii Moldova cu România: „Nu poate fi retrogradată la un plan B”",
-        "link": "https://adevarul.ro/stiri-externe/republica-moldova/premierul-de-la-chisinau-despre-unirea-republicii-2568995.html",
-        "summary": "Premierul Republicii Moldova, Vasile Tofan, a declarat că Unirea cu România este considerată uneori un „plan B” pentru Republica Moldova, însă deciziile privind viitorul țării „nu pot fi retrogradate la un plan B”.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793805307
-      }
-    ]
-  },
-  {
-    "group_id": "group_58efaa14ea",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Ungaria: Detalii despre zeci de mii de informatori din perioada comunistă au devenit disponibile online",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/ungaria-detalii-despre-zeci-de-mii-de-informatori-din-perioada-comunista-au-devenit-disponibile-onli--1609946",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Ungaria a făcut publice dosarele informatorilor din perioada comunistă. Unde pot fi consultate documentele",
-        "link": "https://www.digi24.ro/stiri/externe/ungaria-face-publice-dosarele-informatorilor-din-perioada-comunista-unde-pot-fi-consultate-documentele-4021921",
-        "summary": "Miercuri, Ungaria a publicat zeci de mii de dosare ale poliției secrete din perioada comunistă într-o bază de date publică online, oferind o perspectivă asupra vastei rețele de informatori folosite pentru a spiona cetățenii pe parcursul deceniilor de regim monopartid. Reuters comentează că demersul este o încercare tardivă de a gestiona trecutul recent.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793816563
-      }
-    ]
-  },
-  {
-    "group_id": "group_1ca77c7e86",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Ministrul apărării Pistorius reafirmă angajamentul Germaniei față de Lituania",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/ministrul-apararii-pistorius-reafirma-angajamentul-germaniei-fata-de-lituania--1609932",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_e1b2bbe4f9",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Argeș: Centrul Universitar Pitești găzduiește Congresul Internațional al SIAR - CAR2026, în perioada 5-7 noiembrie",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/11/04/arges-centrul-universitar-pitesti-gazduieste-congresul-international-al-siar---car2026-in-perioada-5--1609929",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_08d6b65d15",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Eurostat: Prețul mediu al gazelor pentru consumatorii non-casnici din UE a scăzut în ritm anual cu 6,7% în primul semestru",
-        "link": "https://agerpres.ro/economic-extern/2026/11/04/eurostat-pretul-mediu-al-gazelor-pentru-consumatorii-non-casnici-din-ue-a-scazut-in-ritm-anual-cu-6---1609922",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_15348781a2",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Papa Leon al XIV-lea speră ca vizita sa în America Latină să 'consolideze credința și să reînnoiască speranța'",
-        "link": "https://agerpres.ro/social-extern/2026/11/04/papa-leon-al-xiv-lea-spera-ca-vizita-sa-in-america-latina-sa-consolideze-credinta-si-sa-reinnoiasca---1609927",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_762ba880dc",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "#Ucraina: Oficialități de rang înalt din serviciile de informații și poliție, vizate de o anchetă anticorupție",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/ucraina-oficialitati-de-rang-inalt-din-serviciile-de-informatii-si-politie-vizate-de-o-ancheta-antic--1609917",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
     "group_id": "group_99d7a5e290",
     "category": "Sport",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Bogdan Andone (FC Argeș) - Nu intenționez să demisionez în aceste momente grele și cer unitate pentru echipă",
-        "link": "https://agerpres.ro/sport/2026/11/04/fotbal-bogdan-andone-fc-arges---nu-intentionez-sa-demisionez-in-aceste-momente-grele-si-cer-unitate---1609925",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
       {
         "source": "GSP - Gazeta Sporturilor",
         "title": "După 10 meciuri fără înfrângere, Bogdan Andone vine cu un anunț clar: „Nu plec! Când era bine, am refuzat FCSB și Cipru în vară. Nu renunț la greu”",
@@ -11906,7 +11024,7 @@
   {
     "group_id": "group_d4b595e144",
     "category": "Sport",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -11925,15 +11043,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793797772
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Real Madrid propune numirea lui Rafael Nadal în consiliul său de administrație",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-real-madrid-propune-numirea-lui-rafael-nadal-in-consiliul-sau-de-administratie--1610004",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "ProTV Stiri",
@@ -12001,7 +11110,7 @@
   {
     "group_id": "group_88c9d6fb18",
     "category": "Általános",
-    "articles_count": 8,
+    "articles_count": 7,
     "articles": [
       {
         "source": "Adevărul",
@@ -12038,15 +11147,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793800194
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Patru angajați și două firme, printre care și Distrigaz, trimiși în judecată în dosarul Exploziei din Rahova",
-        "link": "https://agerpres.ro/justitie/2026/11/04/patru-angajati-si-doua-firme-printre-care-si-distrigaz-trimisi-in-judecata-in-dosarul-exploziei-din---1609985",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "Digi24",
@@ -12406,6 +11506,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793797332
+      }
+    ]
+  },
+  {
+    "group_id": "group_b47a213f51",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Teste de sânge care pot depista mai multe tipuri de cancer simultan, introduse în 200 de cabinete medicale din Anglia",
+        "link": "https://www.mediafax.ro/stiinta-sanatate/teste-de-sange-care-pot-depista-mai-multe-tipuri-de-cancer-simultan-introduse-in-200-de-cabinete-medicale-din-anglia-23837492",
+        "summary": "Teste de sânge concepute pentru depistarea simultană a mai multor tipuri de cancer vor fi introduse în aproximativ 200 de cabinete de medicină de familie din Anglia, în cadrul unui program-pilot al Serviciului Național de Sănătate britanic (NHS).",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793797180
       }
     ]
   },
@@ -12844,6 +11960,40 @@
     ]
   },
   {
+    "group_id": "group_59b9cf041a",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Muntenegru ar putea încheia negocierile de aderare la UE până la finalul anului",
+        "link": "https://stirileprotv.ro/muntenegru-ar-putea-incheia-negocierile-de-aderare-la-ue-pana-la-finalul-anului.html",
+        "summary": "Muntenegru ar putea încheia negocierile de aderare la Uniunea Europeană până la sfârșitul acestui an și ar putea semna tratatul de aderare în iunie 2027.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793797940
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Muntenegru ar putea încheia negocierile de aderare la UE până la finalul anului",
+        "link": "https://stirileprotv.ro/stiri/international/muntenegru-ar-putea-incheia-negocierile-de-aderare-la-ue-pana-la-finalul-anului.html",
+        "summary": "Muntenegru ar putea încheia negocierile de aderare la Uniunea Europeană până la sfârșitul acestui an și ar putea semna tratatul de aderare în iunie 2027.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793797940
+      },
+      {
+        "source": "Digi24",
+        "title": "CE: Muntenegru poate adera la Uniunea Europeană în 2028. Când ar putea încheia negocierile Republica Moldova și Ucraina",
+        "link": "https://www.digi24.ro/stiri/externe/ue/ce-muntenegru-poate-adera-la-uniunea-europeana-in-2028-cand-ar-putea-incheia-negocierile-republica-moldova-si-ucraina-4022081",
+        "summary": "Uniunea Europeană estimează miercuri că Muntenegru se află „pe drumul bun” către o aderare în 2028 şi îndeamnă puternic Ucraina să accelereze reformele necesare aderării . Comisia Europeană salută în raportul anual privind extinderea uniunii, în care prezintă bilanţul negocierilor purtate de către toate ţările candidate la aderarea la UE, progresele realizate de Republica Moldova, Ucraina, Albania şi Muntenegru.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793813298
+      }
+    ]
+  },
+  {
     "group_id": "group_372d11f684",
     "category": "Általános",
     "articles_count": 1,
@@ -13145,239 +12295,6 @@
         "category": "Erdély",
         "is_b2b_only": false,
         "published_at": 1793800260
-      }
-    ]
-  },
-  {
-    "group_id": "group_dfc357d86e",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Letonia: Andris Kulbergs, desemnat prim-ministru de președintele țării după victoria partidului său în alegeri",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/letonia-andris-kulbergs-desemnat-prim-ministru-de-presedintele-tarii-dupa-victoria-partidului-sau-in--1610009",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_d2f7385e2f",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Percheziții în patru județe și în Austria, la persoane bănuite de furt din patrimoniul arheologic și comercializare de artefacte",
-        "link": "https://agerpres.ro/justitie/2026/11/04/perchezitii-in-patru-judete-si-in-austria-la-persoane-banuite-de-furt-din-patrimoniul-arheologic-si---1610008",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Percheziții în 4 județe din țară și în Austria într-un dosar privind furtul de artefacte. Sute de obiecte au fost descoperite",
-        "link": "https://www.digi24.ro/stiri/perchezitii-in-4-judete-din-tara-si-in-austria-intr-un-dosar-privind-furtul-de-artefacte-sute-de-obiecte-au-fost-descoperite-4021797",
-        "summary": "Un număr de 21 de percheziţii privind fapte de furt din patrimoniul arheologic şi tăinuire au fost efectuate în judeţele Hunedoara, Alba, Prahova şi Timiş, iar alte două în Austria, la persoane care ar fi constituit o grupare de criminalitate organizată în scopul obţinerii de importante beneficii materiale din comercializarea de artefacte.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793803260
-      }
-    ]
-  },
-  {
-    "group_id": "group_30e1438b43",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Israel: Unul din liderii opoziției spune că Netanyahu a devenit 'toxic' pentru ambele partide americane",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/israel-unul-din-liderii-opozitiei-spune-ca-netanyahu-a-devenit-toxic-pentru-ambele-partide-americane--1610006",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_466bb5022d",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Congresul Românității Balcanice/ Mircea Roșca (PNL): Reuniunea demonstrează că românitatea nu este o temă periferică",
-        "link": "https://agerpres.ro/cultura-media/2026/11/04/congresul-romanitatii-balcanice-mircea-rosca-pnl-reuniunea-demonstreaza-ca-romanitatea-nu-este-o-tem--1610001",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_44168c8760",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Vaslui: Program de screening pentru depistarea cancerului mamar, derulat în opt comune din județ",
-        "link": "https://agerpres.ro/sanatate/2026/11/04/vaslui-program-de-screening-pentru-depistarea-cancerului-mamar-derulat-in-opt-comune-din-judet--1610005",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_c1e414a00a",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Românii au comandat cu aproape 30% mai multe produse în weekend-ul de Halloween din acest an (analiză)",
-        "link": "https://agerpres.ro/economic/2026/11/04/romanii-au-comandat-cu-aproape-30-mai-multe-produse-in-weekend-ul-de-halloween-din-acest-an-analiza--1609996",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_6f96afca93",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Iranul sărbătorește 47 de ani de la ocuparea ambasadei americane cu amenințări și ironii la adresa lui Trump",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/iranul-sarbatoreste-47-de-ani-de-la-ocuparea-ambasadei-americane-cu-amenintari-si-ironii-la-adresa-l--1609998",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_d6abef30eb",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sibiu: Moaștele sfinților Nectarie și Luca al Crimeei, aduse la capela Spitalului Municipal",
-        "link": "https://agerpres.ro/culte/2026/11/04/sibiu-moastele-sfintilor-nectarie-si-luca-al-crimeei-aduse-la-capela-spitalului-municipal--1609989",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_db4dc3d447",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Grindeanu: Infrastructura mare din România are nevoie de sprijin și nu de blocaje artificiale",
-        "link": "https://agerpres.ro/politic/2026/11/04/grindeanu-infrastructura-mare-din-romania-are-nevoie-de-sprijin-si-nu-de-blocaje-artificiale--1609986",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_d7e5600cff",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sector 5: Redeschiderea sălilor de curs de la Liceul 'Bolintineanu' - amânată, la recomandarea Inspectoratului de Stat în Construcții",
-        "link": "https://agerpres.ro/administratie/2026/11/04/sector-5-redeschiderea-salilor-de-curs-de-la-liceul-bolintineanu---amanata-la-recomandarea-inspector--1609999",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_43367133cc",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "S-a deschis circulația pe alți 13 km din Autostrada de Centură a Bucureștiului, între Afumați și Glina",
-        "link": "https://agerpres.ro/economic/2026/11/04/s-a-deschis-circulatia-pe-alti-13-km-din-autostrada-de-centura-a-bucurestiului-intre-afumati-si-glin--1609981",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_8762d0325d",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Muncitorii români au la dispoziție 196 locuri de muncă vacante prin Eures România, în această perioadă",
-        "link": "https://agerpres.ro/economic/2026/11/04/muncitorii-romani-au-la-dispozitie-196-locuri-de-munca-vacante-prin-eures-romania-in-aceasta-perioad--1609984",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_6d4ef7c12c",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "REPORTAJ/Tulcea: Aniversarea Comisiei Europene a Dunării nu a fost întreruptă de mesajele RO-ALERT",
-        "link": "https://agerpres.ro/administratie/2026/11/04/reportaj-tulcea-aniversarea-comisiei-europene-a-dunarii-nu-a-fost-intrerupta-de-mesajele-ro-alert--1609967",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_49b168762c",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "ANOFM: Angajatorii au la dispoziție aproape 30.000 de locuri de muncă, la nivel național",
-        "link": "https://agerpres.ro/economic/2026/11/04/anofm-angajatorii-au-la-dispozitie-aproape-30-000-de-locuri-de-munca-la-nivel-national--1609965",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -13864,7 +12781,7 @@
   {
     "group_id": "group_63ac9d1ac4",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -13874,15 +12791,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793802321
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sibiu: Cinci tone de plumb și 200 de kilograme de aluminiu confiscate de Garda de Mediu; amenzi de 255.000 de lei",
-        "link": "https://agerpres.ro/justitie/2026/11/04/sibiu-cinci-tone-de-plumb-si-200-de-kilograme-de-aluminiu-confiscate-de-garda-de-mediu-amenzi-de-255--1610048",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "Mediafax",
@@ -13987,7 +12895,7 @@
   {
     "group_id": "group_c9f276eca2",
     "category": "Sport",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -13997,15 +12905,6 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793802872
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Tenis: Alexander Zverev, numărul 1 mondial, învins de Lorenzo Musetti în turul 2 la Paris (ATP)",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/tenis-alexander-zverev-numarul-1-mondial-invins-de-lorenzo-musetti-in-turul-2-la-paris-atp--1610057",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -14042,9 +12941,25 @@
     ]
   },
   {
+    "group_id": "group_d2f7385e2f",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Percheziții în 4 județe din țară și în Austria într-un dosar privind furtul de artefacte. Sute de obiecte au fost descoperite",
+        "link": "https://www.digi24.ro/stiri/perchezitii-in-4-judete-din-tara-si-in-austria-intr-un-dosar-privind-furtul-de-artefacte-sute-de-obiecte-au-fost-descoperite-4021797",
+        "summary": "Un număr de 21 de percheziţii privind fapte de furt din patrimoniul arheologic şi tăinuire au fost efectuate în judeţele Hunedoara, Alba, Prahova şi Timiş, iar alte două în Austria, la persoane care ar fi constituit o grupare de criminalitate organizată în scopul obţinerii de importante beneficii materiale din comercializarea de artefacte.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793803260
+      }
+    ]
+  },
+  {
     "group_id": "group_88299dc70e",
     "category": "Általános",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "G4Media",
@@ -14081,15 +12996,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793817020
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "CSM: Secția pentru judecători a respins acțiunea disciplinară exercitată împotriva fostului judecător Laurențiu Beșu",
-        "link": "https://agerpres.ro/justitie/2026/11/04/csm-sectia-pentru-judecatori-a-respins-actiunea-disciplinara-exercitata-impotriva-fostului-judecator--1610104",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -14176,7 +13082,7 @@
   {
     "group_id": "group_496f3e0145",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Digi24",
@@ -14204,15 +13110,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793804859
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Trump este încă președinte, reamintește Casa Albă",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/trump-este-inca-presedinte-reaminteste-casa-alba--1610130",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -14301,7 +13198,7 @@
   {
     "group_id": "group_6aee90acdf",
     "category": "Általános",
-    "articles_count": 7,
+    "articles_count": 6,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -14349,15 +13246,6 @@
         "published_at": 1793804917
       },
       {
-        "source": "Agerpres (HU)",
-        "title": "Iași: Fiul fostului ministru Tudorel Toader și-a pierdut funcția de lector la Universitatea '' Al. I. Cuza''",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/11/04/iasi-fiul-fostului-ministru-tudorel-toader-si-a-pierdut-functia-de-lector-la-universitatea-al-i-cuza--1610050",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
         "source": "HotNews.ro",
         "title": "Fiul fostului ministru Tudorel Toader, acuzat de viol și agresiune sexuală, și-a pierdut funcția de lector la Universitatea „Al. I. Cuza”",
         "link": "https://hotnews.ro/fiul-fostului-ministru-tudorel-toader-acuzat-de-viol-si-agresiune-sexuala-si-a-pierdut-functia-de-lector-la-universitatea-al-i-cuza-2395134",
@@ -14371,7 +13259,7 @@
   {
     "group_id": "group_ebdde40807",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -14381,15 +13269,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793803861
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Premierul britanic afirmă că rezultatul scrutinului reprezintă un apel la lupta împotriva creșterii costului vieții",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-premierul-britanic-afirma-ca-rezultatul-scrutinului-reprezinta-un-apel-la-lupta-impotriv--1610034",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -14677,6 +13556,22 @@
     ]
   },
   {
+    "group_id": "group_bfe0957b55",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Premierul de la Chișinău, despre Unirea Republicii Moldova cu România: „Nu poate fi retrogradată la un plan B”",
+        "link": "https://adevarul.ro/stiri-externe/republica-moldova/premierul-de-la-chisinau-despre-unirea-republicii-2568995.html",
+        "summary": "Premierul Republicii Moldova, Vasile Tofan, a declarat că Unirea cu România este considerată uneori un „plan B” pentru Republica Moldova, însă deciziile privind viitorul țării „nu pot fi retrogradate la un plan B”.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793805307
+      }
+    ]
+  },
+  {
     "group_id": "group_6484727abe",
     "category": "Általános",
     "articles_count": 1,
@@ -14800,7 +13695,7 @@
   {
     "group_id": "group_0e484cbd43",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -14810,15 +13705,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793804860
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Radu Marinescu: Avocații din oficiu își vor primi banii datorați pentru munca lor",
-        "link": "https://agerpres.ro/justitie/2026/11/04/radu-marinescu-avocatii-din-oficiu-isi-vor-primi-banii-datorati-pentru-munca-lor--1610064",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -14971,257 +13857,6 @@
     ]
   },
   {
-    "group_id": "group_5918490ec2",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Costreie - întâlnire cu sindicatele: Vom susține cauza unui profesor bine plătit, ca să fie bine motivat",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/11/04/costreie---intalnire-cu-sindicatele-vom-sustine-cauza-unui-profesor-bine-platit-ca-sa-fie-bine-motiv--1610061",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Costreie, după întâlnirea cu sindicatele din educație: Vom susţine cauza unui profesor bine plătit, ca să fie bine motivat",
-        "link": "https://www.digi24.ro/stiri/actualitate/educatie/costreie-dupa-intalnirea-cu-sindicatele-din-educatie-vom-sustine-cauza-unui-profesor-bine-platit-ca-sa-fie-bine-motivat-4021985",
-        "summary": "Ministrul Educaţiei, Sorin Costreie, a avut în această săptămână o primă întâlnire cu sindicatele din domeniu, unul dintre subiectele abordate fiind salarizarea cadrelor didactice.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793808819
-      }
-    ]
-  },
-  {
-    "group_id": "group_adcedc81b8",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri în SUA: Berlinul speră la noi inițiative pentru a rezolva conflictele",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-in-sua-berlinul-spera-la-noi-initiative-pentru-a-rezolva-conflictele--1610071",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_b922ff3a80",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA/Ministrul de externe francez afirmă că victoria democraților reprezintă o 'veste excelentă pentru democrația americană'",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-ministrul-de-externe-francez-afirma-ca-victoria-democratilor-reprezinta-o-veste-excelent--1610069",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Adevărul",
-        "title": "Franța salută victoria democraților în alegerile din SUA: „Poporul îşi scrie propria istorie şi nimeni n-o poate face în locul său”",
-        "link": "https://adevarul.ro/stiri-externe/europa/franta-saluta-victoria-democratilor-in-alegerile-2569004.html",
-        "summary": "Ministrul francez de Externe, Jean-Noël Barrot, a salutat victoria de miercuri, 4 noiembrie, a democraţilor în alegerile de la jumătate de mandat în SUA, spunând că rezultatele „nu sunt nici contestabile şi nici contestate”.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793808443
-      }
-    ]
-  },
-  {
-    "group_id": "group_d230ff8cf4",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA: Averea lui Elon Musk nu a folosit la nimic (analiză AFP)",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-averea-lui-elon-musk-nu-a-folosit-la-nimic-analiza-afp--1610066",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Averea lui Elon Musk nu a folosit la nimic în alegeri (analiză AFP)",
-        "link": "https://www.digi24.ro/stiri/externe/sua/averea-lui-elon-musk-nu-a-folosit-la-nimic-in-alegeri-analiza-afp-4021905",
-        "summary": "Înfrângerea lui Donald Trump şi a republicanilor în alegerile de la jumătatea mandatului este şi cea a lui Elon Musk şi a finanţărilor masive a campaniei lor menite să influenţeze votanţii, relatează AFP într-o analiză.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793806481
-      }
-    ]
-  },
-  {
-    "group_id": "group_4fb0145090",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Mureș: Lungmetrajul 'Cazul Samca' deschide a 34-a ediție a Festivalului Internațional de Film de Scurtmetraj Alter-Native",
-        "link": "https://agerpres.ro/cultura-media/2026/11/04/mures-lungmetrajul-cazul-samca-deschide-a-34-a-editie-a-festivalului-international-de-film-de-scurtm--1610058",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_60d3e7cb72",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Continental a revenit pe profit în trimestrul trei din 2026",
-        "link": "https://agerpres.ro/economic-extern/2026/11/04/continental-a-revenit-pe-profit-in-trimestrul-trei-din-2026--1610055",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_94e03b6eb2",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Ministerul Culturii primește 43,4 milioane de lei în plus, în urma rectificării bugetare",
-        "link": "https://agerpres.ro/cultura-media/2026/11/04/ministerul-culturii-primeste-43-4-milioane-de-lei-in-plus-in-urma-rectificarii-bugetare--1610068",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_4defb2feb9",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Rugby: Alin Petrache - Sper ca furia românească să fie bine canalizată și să învingem Tonga",
-        "link": "https://agerpres.ro/sport/2026/11/04/rugby-alin-petrache---sper-ca-furia-romaneasca-sa-fie-bine-canalizata-si-sa-invingem-tonga--1610052",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_40081ff2e1",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Regizorul italian Tinto Brass a murit la vârsta de 93 de ani",
-        "link": "https://agerpres.ro/zigzag/2026/11/04/regizorul-italian-tinto-brass-a-murit-la-varsta-de-93-de-ani--1610047",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_640f7e0ea4",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Romancierul Yannick Haenel, recompensat cu premiul Femina pe 2026",
-        "link": "https://agerpres.ro/cultura/2026/11/04/romancierul-yannick-haenel-recompensat-cu-premiul-femina-pe-2026--1610053",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_dba4ba2440",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "BTA/Șefa Reprezentanței Comisiei Europene în Bulgaria: Strategia Dunării poate ajuta oamenii să rămână și să dezvolte regiunea",
-        "link": "https://agerpres.ro/economic-extern/2026/11/04/bta-sefa-reprezentantei-comisiei-europene-in-bulgaria-strategia-dunarii-poate-ajuta-oamenii-sa-raman--1610045",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_578d1f6a71",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "POLIJOBS 2026: Peste 100 de companii, la târgul de cariere de la Politehnica București",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/11/04/polijobs-2026-peste-100-de-companii-la-targul-de-cariere-de-la-politehnica-bucuresti--1610046",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_2ece93abc1",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Vicepreședintele CCIB: Regiunea Dunării are nevoie de mai multă cooperare economică, dincolo de declarații și angajamente",
-        "link": "https://agerpres.ro/economic/2026/11/04/vicepresedintele-ccib-regiunea-dunarii-are-nevoie-de-mai-multa-cooperare-economica-dincolo-de-declar--1610033",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_8e9b3c9410",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Romanul 'Eu sunt labirint' de Alea Zar, lansat pe 11 noiembrie, la Librăria Humanitas Lipscani",
-        "link": "https://agerpres.ro/cultura-media/2026/11/04/romanul-eu-sunt-labirint-de-alea-zar-lansat-pe-11-noiembrie-la-libraria-humanitas-lipscani--1610032",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
     "group_id": "group_0ffc01ab81",
     "category": "Sport",
     "articles_count": 1,
@@ -15266,6 +13901,22 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1793806235
+      }
+    ]
+  },
+  {
+    "group_id": "group_d230ff8cf4",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Averea lui Elon Musk nu a folosit la nimic în alegeri (analiză AFP)",
+        "link": "https://www.digi24.ro/stiri/externe/sua/averea-lui-elon-musk-nu-a-folosit-la-nimic-in-alegeri-analiza-afp-4021905",
+        "summary": "Înfrângerea lui Donald Trump şi a republicanilor în alegerile de la jumătatea mandatului este şi cea a lui Elon Musk şi a finanţărilor masive a campaniei lor menite să influenţeze votanţii, relatează AFP într-o analiză.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793806481
       }
     ]
   },
@@ -15505,9 +14156,25 @@
     ]
   },
   {
+    "group_id": "group_58efaa14ea",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Ungaria a făcut publice dosarele informatorilor din perioada comunistă. Unde pot fi consultate documentele",
+        "link": "https://www.digi24.ro/stiri/externe/ungaria-face-publice-dosarele-informatorilor-din-perioada-comunista-unde-pot-fi-consultate-documentele-4021921",
+        "summary": "Miercuri, Ungaria a publicat zeci de mii de dosare ale poliției secrete din perioada comunistă într-o bază de date publică online, oferind o perspectivă asupra vastei rețele de informatori folosite pentru a spiona cetățenii pe parcursul deceniilor de regim monopartid. Reuters comentează că demersul este o încercare tardivă de a gestiona trecutul recent.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793816563
+      }
+    ]
+  },
+  {
     "group_id": "group_ba26d7b488",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "G4Media",
@@ -15526,15 +14193,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793812604
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Organizațiile profesionale din psihiatrie cer autorităților măsuri urgente pentru prevenirea crizei de medicamente",
-        "link": "https://agerpres.ro/sanatate/2026/11/04/organizatiile-profesionale-din-psihiatrie-cer-autoritatilor-masuri-urgente-pentru-prevenirea-crizei---1610108",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -15794,6 +14452,22 @@
     ]
   },
   {
+    "group_id": "group_5918490ec2",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Costreie, după întâlnirea cu sindicatele din educație: Vom susţine cauza unui profesor bine plătit, ca să fie bine motivat",
+        "link": "https://www.digi24.ro/stiri/actualitate/educatie/costreie-dupa-intalnirea-cu-sindicatele-din-educatie-vom-sustine-cauza-unui-profesor-bine-platit-ca-sa-fie-bine-motivat-4021985",
+        "summary": "Ministrul Educaţiei, Sorin Costreie, a avut în această săptămână o primă întâlnire cu sindicatele din domeniu, unul dintre subiectele abordate fiind salarizarea cadrelor didactice.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793808819
+      }
+    ]
+  },
+  {
     "group_id": "group_483ca7c991",
     "category": "Általános",
     "articles_count": 2,
@@ -15847,6 +14521,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793808899
+      }
+    ]
+  },
+  {
+    "group_id": "group_b922ff3a80",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Franța salută victoria democraților în alegerile din SUA: „Poporul îşi scrie propria istorie şi nimeni n-o poate face în locul său”",
+        "link": "https://adevarul.ro/stiri-externe/europa/franta-saluta-victoria-democratilor-in-alegerile-2569004.html",
+        "summary": "Ministrul francez de Externe, Jean-Noël Barrot, a salutat victoria de miercuri, 4 noiembrie, a democraţilor în alegerile de la jumătate de mandat în SUA, spunând că rezultatele „nu sunt nici contestabile şi nici contestate”.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793808443
       }
     ]
   },
@@ -15933,7 +14623,7 @@
   {
     "group_id": "group_a313080f60",
     "category": "Általános",
-    "articles_count": 5,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Mediafax",
@@ -15970,15 +14660,6 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793825153
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Proiect PNL: Părinții care revin la muncă să primească un stimulent egal cu indemnizația pentru creșterea copilului",
-        "link": "https://agerpres.ro/viata-parlamentara/2026/11/04/proiect-pnl-parintii-care-revin-la-munca-sa-primeasca-un-stimulent-egal-cu-indemnizatia-pentru-crest--1610166",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -16427,7 +15108,7 @@
   {
     "group_id": "group_0a631ee3fd",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 3,
     "articles": [
       {
         "source": "G4Media",
@@ -16455,15 +15136,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793813712
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Premierul - întâlnire cu reprezentanții investitorilor străini: Principalul obiectiv al Executivului este relansarea economiei",
-        "link": "https://agerpres.ro/politic/2026/11/04/premierul---intalnire-cu-reprezentantii-investitorilor-straini-principalul-obiectiv-al-executivului---1610114",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -16826,7 +15498,7 @@
   {
     "group_id": "group_ec0505b87c",
     "category": "Sport",
-    "articles_count": 7,
+    "articles_count": 6,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -16863,15 +15535,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793817222
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Gimnastică artistică: Ana Maria Bărbosu, suspendată doi ani de TAS pentru încălcarea regulamentului antidoping",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/gimnastica-artistica-ana-maria-barbosu-suspendata-doi-ani-de-tas-pentru-incalcarea-regulamentului-an--1610141",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "Mediafax",
@@ -17056,7 +15719,7 @@
   {
     "group_id": "group_b3be5e9c99",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 3,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -17084,15 +15747,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793815885
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "DNA: Un șef și un inspector din Administrația Bazinală de Apă Olt - arestați preventiv pentru luare de mită",
-        "link": "https://agerpres.ro/justitie/2026/11/04/dna-un-sef-si-un-inspector-din-administratia-bazinala-de-apa-olt---arestati-preventiv-pentru-luare-d--1610125",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -17220,7 +15874,7 @@
   {
     "group_id": "group_1a5f690ab7",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "Digi24",
@@ -17230,22 +15884,13 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793816221
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "SUA: Liderul democraților din Senat susține că războiul din Iran 'trebuie să se încheie'",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/sua-liderul-democratilor-din-senat-sustine-ca-razboiul-din-iran-trebuie-sa-se-incheie--1610132",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
   {
     "group_id": "group_5ebb7eafbb",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "G4Media",
@@ -17264,15 +15909,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793817837
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sibiu: Șapte polițiști, reținuți într-un dosar de corupție privind obținerea permiselor de conducere și a actelor de identitate",
-        "link": "https://agerpres.ro/justitie/2026/11/04/sibiu-sapte-politisti-retinuti-intr-un-dosar-de-coruptie-privind-obtinerea-permiselor-de-conducere-s--1610149",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -17352,7 +15988,7 @@
   {
     "group_id": "group_72c19a78b6",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Digi24",
@@ -17362,15 +15998,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793816963
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Nazare: Progresele în reducerea deficitului oferă României argumente mai solide în negocierile europene",
-        "link": "https://agerpres.ro/economic/2026/11/04/nazare-progresele-in-reducerea-deficitului-ofera-romaniei-argumente-mai-solide-in-negocierile-europe--1610133",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "ProTV Stiri",
@@ -17428,159 +16055,6 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793817082
-      }
-    ]
-  },
-  {
-    "group_id": "group_2d808f7c25",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "MApN: Radu Oprea - discuții cu Elbridge Colby despre evoluțiile de securitate din regiunea Mării Negre",
-        "link": "https://agerpres.ro/politic/2026/11/04/mapn-radu-oprea---discutii-cu-elbridge-colby-despre-evolutiile-de-securitate-din-regiunea-marii-negr--1610134",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_1dadf134e3",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Carlos Alvarez Pereira: Oamenii au capacitatea de a învăța și de a adapta modelele de dezvoltare la planeta pe care trăiesc",
-        "link": "https://agerpres.ro/economic/2026/11/04/carlos-alvarez-pereira-oamenii-au-capacitatea-de-a-invata-si-de-a-adapta-modelele-de-dezvoltare-la-p--1610129",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_2e05c7224e",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Cariera lui Neymar la naționala Braziliei a fost una de succes, a spus Cafu",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-cariera-lui-neymar-la-nationala-braziliei-a-fost-una-de-succes-a-spus-cafu--1610122",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_6bc792673b",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Tenis: Djokovic, eliminat în turul 2 la turneul ATP Masters 1000 de la Paris, ratează Turneul Campionilor 2026",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/tenis-djokovic-eliminat-in-turul-2-la-turneul-atp-masters-1000-de-la-paris-rateaza-turneul-campionil--1610119",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Novak Djokovic, învins la turneul de la Paris după ce a condus cu 1-0 la seturi. „Sunt dezamăgit” » A ieșit din cursa pentru ATP Finals",
-        "link": "https://www.gsp.ro/sporturi/tenis/novak-djokovic-invins-la-paris-dupa-ce-a-condus-cu-1-0-la-seturi-995963.html",
-        "summary": "Novak Djokovic (39 de ani, 11 ATP) a fost învins miercuri în turul al doilea la Paris de australianul Rinky Hijikata (25 de ani, 83 ATP), venit din calificări, cu 2-6, 6-3, 6-3, și a încheiat acest sezon, sârbul ieșind din cursa pentru Turneul Campionilor. Novak Djokovic și-a încheiat sezonul 2026 după o înfrângere în fața australianului Rinky Hijikata în turul al doilea al turneului ATP 1.000 de la Paris. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793819953
-      }
-    ]
-  },
-  {
-    "group_id": "group_5b31656a00",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Rogobete - întâlnire cu ambasadorul Marii Britanii: România are nevoie de investiții și parteneriate solide",
-        "link": "https://agerpres.ro/sanatate/2026/11/04/rogobete---intalnire-cu-ambasadorul-marii-britanii-romania-are-nevoie-de-investitii-si-parteneriate---1610121",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_0e4deef5bb",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sibiu: Fostă campioană mondială la arte marțiale predă religia și îi antrenează pe copiii din comuna Ațel",
-        "link": "https://agerpres.ro/educatie-stiinta/2026/11/04/sibiu-fosta-campioana-mondiala-la-arte-martiale-preda-religia-si-ii-antreneaza-pe-copiii-din-comuna---1610116",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_1b49a4a628",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bursa de Valori București a revenit pe creștere în ședința de tranzacționare de miercuri",
-        "link": "https://agerpres.ro/economic/2026/11/04/bursa-de-valori-bucuresti-a-revenit-pe-crestere-in-sedinta-de-tranzactionare-de-miercuri--1610117",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_74c541673f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "România caută investitori în regiunea Golfului pentru dezvoltarea infrastructurii turistice",
-        "link": "https://agerpres.ro/economic/2026/11/04/romania-cauta-investitori-in-regiunea-golfului-pentru-dezvoltarea-infrastructurii-turistice--1610118",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_16aaa49947",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Zelenski a sosit în Spania pentru întâlniri cu Sanchez și alți lideri în marja summitului ibero-american",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/zelenski-a-sosit-in-spania-pentru-intalniri-cu-sanchez-si-alti-lideri-in-marja-summitului-ibero-amer--1610110",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -17788,95 +16262,6 @@
     ]
   },
   {
-    "group_id": "group_717edf9c1f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Constantin Saragea este noul secretar general al Ministerului Energiei",
-        "link": "https://agerpres.ro/economic/2026/11/04/constantin-saragea-este-noul-secretar-general-al-ministerului-energiei--1610144",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_fe9be45a4f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Consolidarea fiscală se află în topul priorităților ca element central pentru competitivitatea României (mediul de afaceri)",
-        "link": "https://agerpres.ro/economic/2026/11/04/consolidarea-fiscala-se-afla-in-topul-prioritatilor-ca-element-central-pentru-competitivitatea-roman--1610138",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_3084e6c380",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Filipe Coelho (U Craiova) - Mă aștept la un joc echilibrat cu Egnatia",
-        "link": "https://agerpres.ro/sport/2026/11/04/fotbal-filipe-coelho-u-craiova---ma-astept-la-un-joc-echilibrat-cu-egnatia--1610140",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_092232dce0",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA: Merz se declară sceptic că Trump își va schimba modul de a guverna după alegeri",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-merz-se-declara-sceptic-ca-trump-isi-va-schimba-modul-de-a-guverna-dupa-alegeri--1610137",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Merz nu crede că Trump îşi va schimba modul de a guverna după alegeri: „De ce ar face asta acum?”",
-        "link": "https://www.digi24.ro/stiri/externe/merz-nu-crede-ca-trump-isi-va-schimba-modul-de-a-guverna-dupa-alegeri-de-ce-ar-face-asta-acum-4022249",
-        "summary": "Cancelarul german Friedrich Merz s-a declarat miercuri sceptic că preşedintele american Donald Trump îşi va schimba modul de a guverna după alegerile de la mijlocul mandatului din SUA, relatează AFP, potrivit Agerpres.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793821814
-      }
-    ]
-  },
-  {
-    "group_id": "group_0e6b7c486d",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Caraș-Severin: Bărbat reținut într-un dosar de fraude informatice și înșelăciune cu un card bancar",
-        "link": "https://agerpres.ro/justitie/2026/11/04/caras-severin-barbat-retinut-intr-un-dosar-de-fraude-informatice-si-inselaciune-cu-un-card-bancar--1610136",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
     "group_id": "group_689c6b41cf",
     "category": "Sport",
     "articles_count": 1,
@@ -17982,34 +16367,18 @@
     ]
   },
   {
-    "group_id": "group_0a7ea3e980",
+    "group_id": "group_6bc792673b",
     "category": "Sport",
     "articles_count": 1,
     "articles": [
       {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Tudor Băluță (U Craiova) - Eu nu mă gândesc la Egnatia ca la un outsider",
-        "link": "https://agerpres.ro/sport/2026/11/04/fotbal-tudor-baluta-u-craiova---eu-nu-ma-gandesc-la-egnatia-ca-la-un-outsider--1610147",
-        "summary": "",
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Novak Djokovic, învins la turneul de la Paris după ce a condus cu 1-0 la seturi. „Sunt dezamăgit” » A ieșit din cursa pentru ATP Finals",
+        "link": "https://www.gsp.ro/sporturi/tenis/novak-djokovic-invins-la-paris-dupa-ce-a-condus-cu-1-0-la-seturi-995963.html",
+        "summary": "Novak Djokovic (39 de ani, 11 ATP) a fost învins miercuri în turul al doilea la Paris de australianul Rinky Hijikata (25 de ani, 83 ATP), venit din calificări, cu 2-6, 6-3, 6-3, și a încheiat acest sezon, sârbul ieșind din cursa pentru Turneul Campionilor. Novak Djokovic și-a încheiat sezonul 2026 după o înfrângere în fața australianului Rinky Hijikata în turul al doilea al turneului ATP 1.000 de la Paris. ...",
         "category": "Sport",
         "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_4d094d8f03",
-    "category": "Gazdaság",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Noi secretari de stat la Transporturi, Muncă, Interne, Dezvoltare, Energie, Economie și Proiecte Europene",
-        "link": "https://agerpres.ro/politic/2026/11/04/noi-secretari-de-stat-la-transporturi-munca-interne-dezvoltare-energie-economie-si-proiecte-europene--1610146",
-        "summary": "",
-        "category": "Gazdaság",
-        "is_b2b_only": false,
-        "published_at": 1793750400
+        "published_at": 1793819953
       }
     ]
   },
@@ -18206,9 +16575,25 @@
     ]
   },
   {
+    "group_id": "group_092232dce0",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Merz nu crede că Trump îşi va schimba modul de a guverna după alegeri: „De ce ar face asta acum?”",
+        "link": "https://www.digi24.ro/stiri/externe/merz-nu-crede-ca-trump-isi-va-schimba-modul-de-a-guverna-dupa-alegeri-de-ce-ar-face-asta-acum-4022249",
+        "summary": "Cancelarul german Friedrich Merz s-a declarat miercuri sceptic că preşedintele american Donald Trump îşi va schimba modul de a guverna după alegerile de la mijlocul mandatului din SUA, relatează AFP, potrivit Agerpres.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793821814
+      }
+    ]
+  },
+  {
     "group_id": "group_4e770437a5",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Digi24",
@@ -18218,15 +16603,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793821681
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alegeri SUA: Trump afirmă că Partidul Democrat va fi 'distrus' dacă ar lansa o procedură de destituire împotriva sa",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/alegeri-sua-trump-afirma-ca-partidul-democrat-va-fi-distrus-daca-ar-lansa-o-procedura-de-destituire---1610151",
-        "summary": "",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       },
       {
         "source": "Mediafax",
@@ -18290,98 +16666,9 @@
     ]
   },
   {
-    "group_id": "group_6b982d63c3",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Real Madrid a câștigat dramatic la Atena, 3-2 cu AEK, în Liga Campionilor; Liverpool, învinsă de Fenerbahce",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-real-madrid-a-castigat-dramatic-la-atena-3-2-cu-aek-in-liga-campionilor-liverpool-invinsa-de---1610156",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_790d357eaf",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "SUA impun sancțiuni împotriva unor companii și indivizi din India și Turcia pentru legături cu Iranul",
-        "link": "https://agerpres.ro/politic-extern/2026/11/04/sua-impun-sanctiuni-impotriva-unor-companii-si-indivizi-din-india-si-turcia-pentru-legaturi-cu-iranu--1610153",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Statele Unite au impus sancţiuni împotriva Indiei şi Turciei. Nou avertisment pentru cei care ajută Iranul",
-        "link": "https://www.digi24.ro/stiri/externe/statele-unite-au-impus-sanctiuni-impotriva-indiei-si-turciei-nou-avertisment-pentru-cei-care-ajuta-iranul-4022283",
-        "summary": "Departamentul Trezoreriei SUA a impus miercuri noi sancţiuni împotriva unor companii şi indivizi din India şi Turcia pentru legăturile lor cu Iranul, avertizând că va continua să ia măsuri împotriva oricui sprijină regimul de la Teheran, relatează Reuters, potrivit Agerpres.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793824504
-      }
-    ]
-  },
-  {
-    "group_id": "group_1ffdcb412f",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sector 2: Proiect privind grădini, activități educaționale și promovarea economiei circulare",
-        "link": "https://agerpres.ro/administratie/2026/11/04/sector-2-proiect-privind-gradini-activitati-educationale-si-promovarea-economiei-circulare--1610152",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_793a2399cc",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Remiză între Rennes și Olympiakos Pireu (0-0), în Europa League",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-remiza-intre-rennes-si-olympiakos-pireu-0-0-in-europa-league--1610150",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_d877b8290c",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "OMS trage un semnal de alarmă în legătură cu lipsa activității fizice în rândul adolescenților",
-        "link": "https://agerpres.ro/social-extern/2026/11/04/oms-trage-un-semnal-de-alarma-in-legatura-cu-lipsa-activitatii-fizice-in-randul-adolescentilor--1610148",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
     "group_id": "group_d997670f8e",
     "category": "Sport",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -18391,15 +16678,6 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793822507
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Farul Constanța, eliminată la loviturile de departajare din Youth League",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/fotbal-farul-constanta-eliminata-la-loviturile-de-departajare-din-youth-league--1610170",
-        "summary": "",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -18600,6 +16878,22 @@
     ]
   },
   {
+    "group_id": "group_790d357eaf",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Statele Unite au impus sancţiuni împotriva Indiei şi Turciei. Nou avertisment pentru cei care ajută Iranul",
+        "link": "https://www.digi24.ro/stiri/externe/statele-unite-au-impus-sanctiuni-impotriva-indiei-si-turciei-nou-avertisment-pentru-cei-care-ajuta-iranul-4022283",
+        "summary": "Departamentul Trezoreriei SUA a impus miercuri noi sancţiuni împotriva unor companii şi indivizi din India şi Turcia pentru legăturile lor cu Iranul, avertizând că va continua să ia măsuri împotriva oricui sprijină regimul de la Teheran, relatează Reuters, potrivit Agerpres.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793824504
+      }
+    ]
+  },
+  {
     "group_id": "group_b68cbf2592",
     "category": "Általános",
     "articles_count": 1,
@@ -18698,7 +16992,7 @@
   {
     "group_id": "group_057f5850cd",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 1,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -18708,129 +17002,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793824938
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Pe Marte există vulcani latenți și o poartă deschisă către viață (studiu)",
-        "link": "https://agerpres.ro/stiinta/2026/11/04/pe-marte-exista-vulcani-latenti-si-o-poarta-deschisa-catre-viata-studiu--1610159",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_696473b691",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Baschet masculin: CS Dinamo București a pierdut in extremis în Polonia, în FIBA Europe Cup",
-        "link": "https://agerpres.ro/sport-extern/2026/11/04/baschet-masculin-cs-dinamo-bucuresti-a-pierdut-in-extremis-in-polonia-in-fiba-europe-cup--1610169",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_ceb47566fa",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Sector 6: Primăria intenționează să le ofere șoferilor o alternativă la bulevardul Iuliu Maniu",
-        "link": "https://agerpres.ro/administratie/2026/11/04/sector-6-primaria-intentioneaza-sa-le-ofere-soferilor-o-alternativa-la-bulevardul-iuliu-maniu--1610168",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Primăria Sectorului 6 vrea să construiască o nouă ieșire spre autostrada A1",
-        "link": "https://www.digi24.ro/stiri/actualitate/primaria-sectorului-6-vrea-sa-construiasca-o-noua-iesire-spre-autostrada-a1-4022349",
-        "summary": "Primăria Sectorului 6 intenţionează să reducă aglomeraţia din vestul Sectorului 6 şi să le ofere şoferilor o alternativă la bulevardul Iuliu Maniu. Potrivit primarului Paul Moldovan, în prezent problema este că şoferii care vin de pe strada Preciziei şi vor să ajungă pe Autostrada A1 sunt nevoiţi să întoarcă pe Bd. Iuliu Maniu.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793828224
-      }
-    ]
-  },
-  {
-    "group_id": "group_d881f8375d",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alba: Circulația deviată de pe A1 prin nodul rutier Sebeș, în urma răsturnării cisternei încărcată cu acid sulfuric",
-        "link": "https://agerpres.ro/social/2026/11/04/alba-circulatia-deviata-de-pe-a1-prin-nodul-rutier-sebes-in-urma-rasturnarii-cisternei-incarcata-cu---1610167",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_91eda3d3e2",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Baschet masculin: SCM Universitatea Craiova a obținut a doua sa victorie în FIBA Europe Cup",
-        "link": "https://agerpres.ro/sport/2026/11/04/baschet-masculin-scm-universitatea-craiova-a-obtinut-a-doua-sa-victorie-in-fiba-europe-cup--1610165",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_d5a3fee72a",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "SANITAS - discuții cu ministrul Sănătății; a solicitat măsuri concrete - drepturi salariale recuperate și venituri majorate în 2027",
-        "link": "https://agerpres.ro/sanatate/2026/11/04/sanitas---discutii-cu-ministrul-sanatatii-a-solicitat-masuri-concrete---drepturi-salariale-recuperat--1610163",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      },
-      {
-        "source": "Digi24",
-        "title": "Reprezentanții Sanitas s-au întâlnit cu Rogobete. Ce drepturi salariale recuperate şi venituri majorate în 2027 pentru angajații din să",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/reprezentantii-sanitas-s-au-intalnit-cu-rogobete-ce-drepturi-salariale-recuperate-si-venituri-majorate-in-2027-pentru-angajatii-din-sa-4022313",
-        "summary": "Reprezentanţii Federaţiei Sanitas s-au întâlnit miercuri cu ministrul Sănătăţii, Alexandru Rogobete, şi cu echipa tehnică a acestuia. Ei au discutat despre perspectivele salariale pentru anul 2027, necesitatea unei noi legi a salarizării, precum şi despre eliminarea restricţiilor care afectează personalul şi activitatea unităţilor sanitare.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793825947
-      }
-    ]
-  },
-  {
-    "group_id": "group_f3f07facc1",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alba: Cisternă încărcată cu acid sulfuric, implicată într-un accident pe A1; șoferul a rămas încarcerat",
-        "link": "https://agerpres.ro/social/2026/11/04/alba-cisterna-incarcata-cu-acid-sulfuric-implicata-intr-un-accident-pe-a1-soferul-a-ramas-incarcerat--1610157",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -18911,6 +17082,22 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793825938
+      }
+    ]
+  },
+  {
+    "group_id": "group_d5a3fee72a",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Reprezentanții Sanitas s-au întâlnit cu Rogobete. Ce drepturi salariale recuperate şi venituri majorate în 2027 pentru angajații din să",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/reprezentantii-sanitas-s-au-intalnit-cu-rogobete-ce-drepturi-salariale-recuperate-si-venituri-majorate-in-2027-pentru-angajatii-din-sa-4022313",
+        "summary": "Reprezentanţii Federaţiei Sanitas s-au întâlnit miercuri cu ministrul Sănătăţii, Alexandru Rogobete, şi cu echipa tehnică a acestuia. Ei au discutat despre perspectivele salariale pentru anul 2027, necesitatea unei noi legi a salarizării, precum şi despre eliminarea restricţiilor care afectează personalul şi activitatea unităţilor sanitare.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793825947
       }
     ]
   },
@@ -19123,6 +17310,22 @@
     ]
   },
   {
+    "group_id": "group_ceb47566fa",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Primăria Sectorului 6 vrea să construiască o nouă ieșire spre autostrada A1",
+        "link": "https://www.digi24.ro/stiri/actualitate/primaria-sectorului-6-vrea-sa-construiasca-o-noua-iesire-spre-autostrada-a1-4022349",
+        "summary": "Primăria Sectorului 6 intenţionează să reducă aglomeraţia din vestul Sectorului 6 şi să le ofere şoferilor o alternativă la bulevardul Iuliu Maniu. Potrivit primarului Paul Moldovan, în prezent problema este că şoferii care vin de pe strada Preciziei şi vor să ajungă pe Autostrada A1 sunt nevoiţi să întoarcă pe Bd. Iuliu Maniu.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793828224
+      }
+    ]
+  },
+  {
     "group_id": "group_1806f7e131",
     "category": "Sport",
     "articles_count": 1,
@@ -19199,70 +17402,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793829313
-      }
-    ]
-  },
-  {
-    "group_id": "group_4e3d0cd244",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Baschet feminin: Universitatea Cluj, surclasată de Umana Reyer Venezia, în EuroCup",
-        "link": "https://agerpres.ro/sport/2026/11/04/baschet-feminin-universitatea-cluj-surclasata-de-umana-reyer-venezia-in-eurocup--1610174",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_18a0e3fcb7",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Volei masculin: CS Dinamo a câștigat fără emoții la Baia Mare, în Divizia A1",
-        "link": "https://agerpres.ro/sport/2026/11/04/volei-masculin-cs-dinamo-a-castigat-fara-emotii-la-baia-mare-in-divizia-a1--1610173",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_3c8fd551c6",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Alba: Urși observați în Aiud și Cugir; au fost emise mesaje RO-ALERT",
-        "link": "https://agerpres.ro/social/2026/11/04/alba-ursi-observati-in-aiud-si-cugir-au-fost-emise-mesaje-ro-alert--1610171",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
-      }
-    ]
-  },
-  {
-    "group_id": "group_7bc2972e1a",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Baschet masculin: Victorie spectaculoasă pentru CSO Voluntari în ENBL",
-        "link": "https://agerpres.ro/sport/2026/11/04/baschet-masculin-victorie-spectaculoasa-pentru-cso-voluntari-in-enbl--1610172",
-        "summary": "",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793750400
       }
     ]
   },
@@ -19416,6 +17555,22 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1793836008
+      }
+    ]
+  },
+  {
+    "group_id": "group_361aa699aa",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Scor record pentru Como în Liga Campionilor, 9-1 cu Lens, în deplasare",
+        "link": "https://agerpres.ro/sport-extern/2026/11/05/fotbal-scor-record-pentru-como-in-liga-campionilor-9-1-cu-lens-in-deplasare--1610175",
+        "summary": "",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793836800
       }
     ]
   }
