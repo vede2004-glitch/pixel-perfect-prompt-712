@@ -56,6 +56,7 @@ MEMORY_FILE = "erdelyi_hirek_memoria.json"
 GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
 ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
+MANUAL_TOP_FILE = "manual_top.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
@@ -228,6 +229,40 @@ def fetch_single_feed(item_and_cutoff):
     except Exception as e:
         print(f"⚠️ Hiba a(z) {source_name} feed beolvasásakor: {e}")
     return extracted
+
+def calculate_importance_score(item):
+    """
+    Intelligens pontozás: KIZÁRÓLAG az összevont / többforrásos hírekre érvényes!
+    Ha a hír mögött csak 1 forrás van, 0 pontot kap, így a normál időrendi sorrendben marad.
+    """
+    sources_count = item.get("sources_count", 1)
+    
+    if sources_count <= 1:
+        return 0.0
+
+    score = 0.0
+    
+    # 1. Összevont források száma szerinti bónusz
+    score += sources_count * 10.0
+
+    # 2. Sürgős / Breaking kulcsszavak az összevont hírekben (HU és RO)
+    text = f"{item.get('title_hu', '')} {item.get('lead_hu', '')} {item.get('title_ro', '')}".lower()
+    breaking_keywords = ["rendkívüli", "bejelentés", "friss", "döntés", "kormány", "háború", "incendiu", "accident", "guvern", "urgenta"]
+    for kw in breaking_keywords:
+        if kw in text:
+            score += 5.0
+
+    # 3. Frissességi bónusz az összevont híreknek
+    pub_time = item.get("published_at", 0)
+    age_hours = (time.time() - pub_time) / 3600.0
+    if age_hours < 3:
+        score += 15.0
+    elif age_hours < 6:
+        score += 8.0
+    elif age_hours < 12:
+        score += 3.0
+
+    return score
 
 # ==============================================================================
 # 3. CSOPORTOSÍTÁS, ARCHÍVUM MENTÉS ÉS NEWS.JSON BŐVÍTÉS
@@ -406,13 +441,37 @@ def run_pipeline():
         if "sources" in item and isinstance(item["sources"], list):
             item["sources_count"] = len(item["sources"])
 
-    valid_news_list.sort(key=lambda x: x.get("published_at", 0), reverse=True)
+    # INTELLIGENS SÚLYOZÁS ALAPJÁN TÖRTÉNŐ RENDSZEREZÉS
+    for item in valid_news_list:
+        item["importance_score"] = calculate_importance_score(item)
+
+    # Elődlegesen az okos fontossági pontszám, másodlagosan a frissesség számít
+    valid_news_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
+
+    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE
+    manual_top_data = load_json_file(MANUAL_TOP_FILE)
+    forced_group_id = None
+    if isinstance(manual_top_data, dict):
+        forced_group_id = manual_top_data.get("group_id")
+
+    final_sorted_list = []
+    forced_item = None
+
+    for item in valid_news_list:
+        if forced_group_id and item.get("group_id") == forced_group_id:
+            forced_item = item
+        else:
+            final_sorted_list.append(item)
+
+    if forced_item:
+        final_sorted_list.insert(0, forced_item)
+        print(f"👑 Kézi kiemelés aktiválva a(z) {forced_group_id} azonosítójú hírhez!")
 
     # Forrás szerinti kiegyensúlyozás
     balanced_list = []
     skipped_items = []
 
-    for item in valid_news_list:
+    for item in final_sorted_list:
         item_source = item.get("sources", [{}])[0].get("source")
         if (
             len(balanced_list) >= 2 
@@ -426,7 +485,7 @@ def run_pipeline():
     final_list = balanced_list + skipped_items
 
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ 24 órás hírfrissítés kész! Bővítve és megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
+    print(f"⚡ 24 órás hírfrissítés kész! Bővítve, súlyozva és megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
