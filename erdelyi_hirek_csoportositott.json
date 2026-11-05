@@ -98,19 +98,42 @@
     ]
   },
   {
-    "group_id": "group_138dc0bcec",
-    "category": "Politika",
-    "articles_count": 22,
+    "group_id": "group_00b19ed89b",
+    "category": "Általános",
+    "articles_count": 1,
     "articles": [
       {
-        "source": "Mediafax",
-        "title": "Alegeri în SUA. Se conturează o înfrângere severă pentru Trump. Democrații obțin victorii majore, iar NYT le estimează șanse de peste 95% să preia controlul ambelor camere ale Congresului",
-        "link": "https://www.mediafax.ro/stirile-zilei/alegeri-in-sua-se-contureaza-o-infrangere-severa-pentru-trump-democratii-obtin-victorii-majore-iar-nyt-le-estimeaza-sanse-de-peste-95-sa-preia-controlul-ambelor-camere-ale-congresului-23837136",
-        "summary": "Alegerile de la jumătatea mandatului prezidențial din Statele Unite ar putea produce o schimbare majoră a raportului de putere de la Washington. Partidul Democrat a obținut primele victorii importante, inclusiv în state câștigate de Donald Trump la alegerile prezidențiale din 2024, iar modelul electoral al The New York Times estimează că democrații au șanse de peste 95% să preia controlul atât asupra Senatului, cât și asupra Camerei Reprezentanților.",
-        "category": "Politika",
+        "source": "Adevărul",
+        "title": "Nicolae Ceaușescu: „Așa cum Drobeta nu este romană, nici Napoca nu este romană”. Cum au fost rebotezate orașe și sate cu nume antice",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/nicolae-ceausescu-asa-cum-drobeta-nu-este-2568092.html",
+        "summary": "Cluj-Napoca și Drobeta-Turnu Severin și-au recuperat simbolic denumirile antice ale așezărilor în anii ’70, în urma unor decizii luate de regimul comunist, dar nu au fost singurele localități din România care au primit nume inspirate din trecutul dacic și roman.",
+        "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1793761091
-      },
+        "published_at": 1793761285
+      }
+    ]
+  },
+  {
+    "group_id": "group_9b8ec74400",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Atmosferă „provocatoare” la Casa Albă, spune un oficial: „Alegătorii lui Trump vin doar când el e pe buletin”",
+        "link": "https://hotnews.ro/atmosfera-provocatoare-la-casa-alba-spune-un-oficial-alegatorii-lui-trump-vin-doar-cand-el-e-pe-buletin-2394233",
+        "summary": "În cadrul mitingurilor dinaintea alegerilor de la jumătatea mandatului, președintele i-a încurajat frecvent pe alegători să „se prefacă” că el se află pe buletinul de vot. Un oficial al Casei Albe a declarat pentru CBS News că atmosfera din Casa Albă este „provocatoare” după ce rezultatele parțiale sugerează un avantaj al democraților în alegerile parlamentare …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793762086
+      }
+    ]
+  },
+  {
+    "group_id": "group_138dc0bcec",
+    "category": "Politika",
+    "articles_count": 21,
+    "articles": [
       {
         "source": "Mediafax",
         "title": "Alegeri SUA 2026. Trump riscă să piardă controlul întregului Congres. Democrații câștigă teren inclusiv în state republicane / NYT estimează șanse de peste 95% pentru o victorie democrată în ambele camere",
@@ -299,38 +322,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793824200
-      }
-    ]
-  },
-  {
-    "group_id": "group_00b19ed89b",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Nicolae Ceaușescu: „Așa cum Drobeta nu este romană, nici Napoca nu este romană”. Cum au fost rebotezate orașe și sate cu nume antice",
-        "link": "https://adevarul.ro/stil-de-viata/magazin/nicolae-ceausescu-asa-cum-drobeta-nu-este-2568092.html",
-        "summary": "Cluj-Napoca și Drobeta-Turnu Severin și-au recuperat simbolic denumirile antice ale așezărilor în anii ’70, în urma unor decizii luate de regimul comunist, dar nu au fost singurele localități din România care au primit nume inspirate din trecutul dacic și roman.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793761285
-      }
-    ]
-  },
-  {
-    "group_id": "group_9b8ec74400",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "Atmosferă „provocatoare” la Casa Albă, spune un oficial: „Alegătorii lui Trump vin doar când el e pe buletin”",
-        "link": "https://hotnews.ro/atmosfera-provocatoare-la-casa-alba-spune-un-oficial-alegatorii-lui-trump-vin-doar-cand-el-e-pe-buletin-2394233",
-        "summary": "În cadrul mitingurilor dinaintea alegerilor de la jumătatea mandatului, președintele i-a încurajat frecvent pe alegători să „se prefacă” că el se află pe buletinul de vot. Un oficial al Casei Albe a declarat pentru CBS News că atmosfera din Casa Albă este „provocatoare” după ce rezultatele parțiale sugerează un avantaj al democraților în alegerile parlamentare …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793762086
       }
     ]
   },
