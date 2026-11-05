@@ -1023,7 +1023,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 13,
+    "sources_count": 14,
     "sources": [
       {
         "source": "G4Media",
@@ -1089,6 +1089,11 @@
         "source": "Mediafax",
         "title": "Bomb threat on board a plane flying from Milan to Bucharest; 182 passengers evacuated",
         "link": "https://www.mediafax.ro/english/bomb-threat-on-board-a-plane-flying-from-milan-to-bucharest-182-passengers-evacuated-23838127"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Noi amenințări cu bombă. Piloții unui zbor KLM spre Tel Aviv au cerut control pirotehnic",
+        "link": "https://www.mediafax.ro/social/noi-amenintari-cu-bomba-pilotii-unui-zbor-klm-spre-tel-aviv-au-cerut-control-pirotehnic-23838425"
       }
     ],
     "published_at": 1793880922,
@@ -1098,7 +1103,7 @@
     "title_ro": "Amenințarea cu bombă la zborul Wizz Air de la Milano nu s-a confirmat",
     "lead_ro": "Zborul WMT3064, pe ruta Milano–București, a aterizat în siguranță pe aeroportul Henri Coandă, după ce echipajul a informat turnul de control despre o amenințare cu bombă. Pirotehniștii Serviciului Român de Informații nu au găsit obiecte suspecte sau explozibili, iar traficul aerian a continuat conform programului.",
     "content_ro": "• **Zborul WMT3064** venea de la Milano și a ajuns la aeroportul Henri Coandă în jurul orei 11:08. Echipajul a anunțat turnul de control despre amenințare când aeronava se apropia de destinație, astfel că traseul nu a fost modificat.\n\n• **Verificările nu au confirmat alerta:** specialiștii pirotehniști ai Serviciului Român de Informații au inspectat avionul, fără să găsească explozibili, elemente pirotehnice ori alte obiecte suspecte.\n\n• **Pasagerii au fost conduși în terminal:** la bord se aflau 182 de pasageri și șapte membri ai echipajului. Aeroportul a activat celula de criză, iar aeronavele au continuat să decoleze și să aterizeze în siguranță, potrivit planurilor de zbor.\n\n• **Alte curse europene au fost vizate de alerte:** un Airbus A320 Aer Lingus care zbura de la Dublin la Roma a fost redirecționat spre baza militară Évreux din Franța. La bord se aflau 151 de pasageri și șase membri ai echipajului; aeronava a aterizat în siguranță, escortată de avioane de luptă franceze.\n\n• **Au fost raportate și alte măsuri de securitate:** un zbor Wizz Air Milano–Varșovia a fost deviat la Viena, iar cursa Finnair Helsinki–Roma a aterizat la ora programată, însoțită de avioane de luptă italiene. La Praga au fost verificate patru aeronave sosite din Marea Britanie, Grecia și Irlanda; controalele nu au identificat un pericol.",
-    "importance_score": 133.0
+    "importance_score": 143.0
   },
   {
     "group_id": "group_a9071cc850",
@@ -3089,6 +3094,50 @@
     "importance_score": 53.0
   },
   {
+    "group_id": "group_e2575b429c",
+    "fingerprint": "330209e33192802a5d0d97f1eb3f9f5d",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Avertizare DNSC: Nou scenariu de fraudă ce folosește identitatea Netflix. Utilizatorii sunt păcăliți să își introducă datele cardurilor bancare",
+        "link": "https://www.mediafax.ro/social/avertizare-dnsc-nou-scenariu-de-frauda-ce-foloseste-identitatea-netflix-utilizatorii-sunt-pacaliti-sa-isi-introduca-datele-cardurilor-bancare-23838057"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "DNSC atrage atenția asupra unui nou scenariu de fraudă în care se folosește identitatea Netflix",
+        "link": "https://agerpres.ro/economic/2026/11/05/dnsc-atrage-atentia-asupra-unui-nou-scenariu-de-frauda-in-care-se-foloseste-identitatea-netflix--1610314"
+      },
+      {
+        "source": "Maszol",
+        "title": "Figyelem: hamis Netflix-üzenetek terjednek! – Online csalásra figyelmeztet a kiberbiztonság",
+        "link": "https://maszol.ro/belfold/Figyelem-hamis-Netflix-uzenetek-terjednek-Online-csalasra-figyelmeztet-a-kiberbiztonsag"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O nouă înșelătorie în numele Netflix, semnalată în România. Utilizatorii sunt păcăliți cu mesaje despre suspendarea contului",
+        "link": "https://stirileprotv.ro/stiri/actualitate/o-noua-inselatorie-in-numele-netflix-semnalata-in-romania-utilizatorii-sunt-pacaliti-cu-mesaje-despre-suspendarea-contului.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Avertizare DNSC. Nouă metodă de fraudă ce foloseşte identitatea Netflix",
+        "link": "https://hotnews.ro/avertizare-dnsc-noua-metoda-de-frauda-ce-foloseste-identitatea-netflix-2396075"
+      }
+    ],
+    "published_at": 1793893112,
+    "title_hu": "Netflix nevével visszaélő csalásra figyelmeztet a DNSC",
+    "lead_hu": "A romániai felhasználók olyan üzeneteket kaphatnak, amelyek sikertelen Netflix-előfizetési díjra hivatkozva próbálják megszerezni bankkártyaadataikat. A DNSC a védekezés mellett azt is ismertette, hol jelezhetők a gyanús esetek, és hol találhatók a felismert csaló oldalakra vonatkozó információk.",
+    "content_hu": "• **A DNSC csütörtöki riasztása** egy Romániában jelentett online csalási módszerről szól. Az elkövetők a Netflix szolgáltató nevével élnek vissza, és olyan értesítéseket küldenek, amelyek látszólag az előfizetési díj sikertelen levonásáról tájékoztatnak.\n\n• **A fiók felfüggesztésének kilátásba helyezése** arra szolgál, hogy a címzett gyorsan fizessen, és ne ellenőrizze kellőképpen az üzenetet. A benne található hivatkozás egy Netflix-oldalt utánzó webhelyre vezet, amely bankkártyaadatokat kér; a megszerzett információkat csalárd tranzakciókra használhatják.\n\n• **A biztonságos eljárás** az, hogy a felhasználó ne kattintson kéretlen üzenetben érkező linkre, hanem saját maga írja be a keresett szolgáltatás webcímét a böngészőbe. Banki vagy kártyaadatokat SMS-ben, illetve ilyen üzenetek hivatkozásain keresztül nem ajánlott megadni, különösen sürgető fizetési felszólítás esetén.\n\n• **Adatmegadás után** a bankot haladéktalanul értesíteni kell, hogy megkísérelhessék a jogosulatlan műveletek megállítását. A DNSC az incidensek bejelentésére a pnrisc.dnsc.ro oldalon elérhető űrlapot, valamint a 1911-es telefonszámot jelölte meg.\n\n• **A csaló webhelyek ellenőrzéséhez** a DNSC blacklist.dnsc.ro portálján találhatók naprakész információk az ellenőrzés során azonosított oldalakról. A szervezet szerint ezeket a böngészőbővítmény automatikusan blokkolhatja, amennyiben a kiegészítő aktív.",
+    "title_ro": "DNSC avertizează asupra unei fraude care folosește numele Netflix",
+    "lead_ro": "Utilizatorii din România pot primi mesaje care invocă o plată eșuată pentru abonamentul Netflix și urmăresc să le obțină datele cardului. DNSC a indicat atât măsurile de precauție, cât și canalele pentru raportarea incidentelor și consultarea informațiilor despre site-urile frauduloase identificate.",
+    "content_ro": "• **Avertizarea DNSC de joi** vizează o metodă de fraudă online semnalată în România. Atacatorii folosesc fără drept numele Netflix și trimit notificări care par să anunțe că plata abonamentului nu a putut fi încasată.\n\n• **Amenințarea suspendării contului** este folosită pentru a determina destinatarul să acționeze repede, fără verificări suficiente. Linkul din mesaj duce la o pagină care copiază aspectul serviciului și solicită datele cardului; informațiile obținute pot fi folosite ulterior pentru tranzacții frauduloase.\n\n• **Pentru a evita capcana**, utilizatorii ar trebui să nu deschidă linkuri din mesaje nesolicitate și să tasteze direct în browser adresa serviciului pe care vor să îl acceseze. DNSC recomandă să nu fie transmise date bancare sau de card prin SMS ori prin pagini accesate din astfel de mesaje, mai ales când se invocă urgența unei plăți.\n\n• **Dacă datele au fost deja furnizate**, banca trebuie contactată imediat pentru a încerca oprirea operațiunilor neautorizate. Incidentele suspecte pot fi raportate DNSC prin formularul de pe pnrisc.dnsc.ro sau telefonic, la numărul 1911.\n\n• **Pentru verificarea site-urilor frauduloase**, DNSC pune la dispoziție portalul blacklist.dnsc.ro, unde sunt publicate informații actualizate despre paginile descoperite în activitatea de monitorizare. Potrivit instituției, extensia de browser poate bloca automat aceste adrese atunci când este activată.",
+    "importance_score": 53.0
+  },
+  {
     "group_id": "group_08f0c15806",
     "fingerprint": "b3ca70dd862f336c605370b4b30415f6",
     "category": "Általános",
@@ -3699,45 +3748,6 @@
     "importance_score": 48.0
   },
   {
-    "group_id": "group_94f0e8d8cf",
-    "fingerprint": "c458982be6b551adac9727af7256e0d7",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Un satelit militar rus ar fi simulat un posibil atac asupra unui satelit occidental. Alte două nave spațiale rusești se apropie de un nou obiectiv",
-        "link": "https://www.mediafax.ro/externe/un-satelit-militar-rus-ar-fi-simulat-un-posibil-atac-asupra-unui-satelit-occidental-alte-doua-nave-spatiale-rusesti-se-apropie-de-un-nou-obiectiv-23837898"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Rusia a repetat un atac asupra unui satelit occidental, spune un analist spațial",
-        "link": "https://adevarul.ro/stiri-externe/rusia/rusia-a-repetat-un-atac-asupra-unui-satelit-2569204.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Rusia ar fi simulat un atac asupra unui satelit, ceea ce semnalează o nouă abordare (expert)",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/rusia-ar-fi-simulat-un-atac-asupra-unui-satelit-ceea-ce-semnaleaza-o-noua-abordare-expert--1610470"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Este cea mai agresivă atitudine pe care am văzut-o”. Rusia ar fi simulat un atac asupra unui satelit occidental",
-        "link": "https://www.digi24.ro/stiri/externe/este-cea-mai-agresiva-atitudine-pe-care-am-vazut-o-rusia-ar-fi-simulat-un-atac-asupra-unui-satelit-occidental-4023545"
-      }
-    ],
-    "published_at": 1793893284,
-    "title_hu": "Orosz műhold közelítette meg az ICEYE eszközét, két másik az X37 felé tart",
-    "lead_hu": "Október második felében a Cosmos 2612 veszélyesen közel került az ICEYE X36 műholdjához. Közben két másik orosz űreszköz az X37 pályájához közelít; az ICEYE szerint az X36 működőképes.",
-    "content_hu": "• **Október második felében** a Cosmos 2612 orosz katonai műhold megközelítette az ICEYE kereskedelmi X36-osát. A finn vállalat radaros felvételeket biztosít kormányoknak és katonai szereplőknek, köztük Ukrajnának.\n\n• **A távolság** a megfigyelések szerint egy kilométer alá csökkent, egyes becslések pedig csak néhány száz méteres vagy még kisebb közelséget jeleztek. Az orosz eszköz később mintegy 400 kilométerre került az X36-tól.\n\n• **Thomas DiNanno amerikai külügyi államtitkár-helyettes** szándékos, veszélyes közelségben végrehajtott manőverekről beszélt, amelyek szerinte űrbeli fegyverhasználati műveletekkel is összefügghetnek. Greg Gillinger, az amerikai Integrity ISR vezető űrelemzője – a cég az amerikai űrerőknek is tart képzéseket – támadás előtti próbához hasonlította a történteket.\n\n• **Két másik orosz műhold** az ICEYE X37 pályája felé tart. A COMSPOC amerikai űrfigyelő cég szerint helyzetük egyre alkalmasabbá válik a műhold megközelítésére.\n\n• **A hat műholdból álló csoportot** Oroszország áprilisban bocsátotta fel; a Slingshot Aerospace nyilvános besorolása szerint a Cosmos 2612 más űreszközök vizsgálatára és karbantartására szolgál. Ann Stevens, az ICEYE amerikai műveleti vezetője megerősítette, hogy az X36 tovább üzemel, a vállalat radaros műholdrendszere pedig ellenálló a lehetséges zavarásokkal szemben.",
-    "title_ro": "Un satelit rus s-a apropiat de ICEYE X36, iar alte două se îndreaptă spre X37",
-    "lead_ro": "În a doua jumătate a lunii octombrie, satelitul Cosmos 2612 a ajuns la mică distanță de X36, operat de ICEYE. Alte două aparate rusești se apropie de traiectoria lui X37, în timp ce compania afirmă că X36 funcționează în continuare.",
-    "content_ro": "• **În a doua jumătate a lunii octombrie**, satelitul militar rus Cosmos 2612 s-a apropiat de X36, un aparat comercial operat de ICEYE. Compania finlandeză furnizează imagini radar unor guverne și structuri militare, inclusiv Ucrainei.\n\n• **Distanța dintre sateliți** a coborât, potrivit observațiilor, sub un kilometru; unele estimări indică doar câteva sute de metri sau chiar mai puțin. Ulterior, Cosmos 2612 s-a îndepărtat la aproximativ 400 de kilometri de X36.\n\n• **Thomas DiNanno, subsecretar de stat american**, a descris manevre intenționate desfășurate la o distanță periculoasă și a spus că acestea pot fi asociate unor operațiuni cu arme în spațiu. Greg Gillinger, analist spațial principal la Integrity ISR, a comparat episodul cu o pregătire pentru atac; compania oferă și instruire forțelor spațiale americane.\n\n• **Alte două aparate rusești** se deplasează către traiectoria satelitului ICEYE X37. Firma americană de supraveghere spațială COMSPOC apreciază că poziția lor devine tot mai favorabilă unei eventuale apropieri.\n\n• **Grupul de șase sateliți** din care face parte Cosmos 2612 a fost lansat de Rusia în aprilie. Slingshot Aerospace indică în clasificarea publică faptul că satelitul este destinat inspectării și întreținerii altor aparate spațiale. Ann Stevens, responsabilă de operațiunile ICEYE în SUA, a confirmat că X36 este funcțional și că rețeaua radar a companiei poate rezista unor perturbări.",
-    "importance_score": 48.0
-  },
-  {
     "group_id": "group_50c5071aea",
     "fingerprint": "8b71b8f46d7bb5fafa917a5cba2b0730",
     "category": "Általános",
@@ -4015,40 +4025,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_4d16db3ecd",
-    "fingerprint": "9344ea7b73e092ad7a25ce4e46d0a9f2",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "NATO a lansat un magazin online de tehnică militară destinat guvernelor. Echipamentele costă până la 25 de milioane de euro",
-        "link": "https://stirileprotv.ro/stiri/international/nato-a-lansat-o-platforma-pentru-achizitia-rapida-a-sistemelor-antidrona-echipamentele-costa-pana-la-25-de-milioane-de-euro.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "NATO a lansat o platformă de tip e-commerce, unde țările membre pot cumpăra sisteme antidronă. Cât costă echipamentele",
-        "link": "https://www.digi24.ro/stiri/externe/nato-a-lansat-o-platforma-de-tip-e-commerce-unde-tarile-membre-pot-cumpara-sisteme-antidrona-cat-costa-echipamentele-4023833"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "NATO a lansat o platformă de tip 'e-commerce' pentru achiziția de capacități antidronă dee către statele membre",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/nato-a-lansat-o-platforma-de-tip-e-commerce-pentru-achizitia-de-capacitati-antidrona-dee-catre-state--1610560"
-      }
-    ],
-    "published_at": 1793904095,
-    "title_hu": "NATO-platform gyorsíthatja a tagállamok drónelhárító beszerzéseit",
-    "lead_hu": "A NATO olyan online beszerzési felületet indított, amelyen a 32 tagország kiválasztott drónelhárító rendszereket vásárolhat vagy bérelhet. A kínálat 16 megoldást tartalmaz; az eszközök ára 1,6 és 25 millió euró között mozog.",
-    "content_hu": "• **A NATO csütörtökön indította el** a tagállamok közös online felületét, amelynek célja, hogy egyszerűbbé tegye a drónok elleni védelmi eszközök beszerzését. A 32 szövetséges ország kormányzati szervei megtekinthetik a rendszereket és az árakat, majd vásárlást vagy bérlést kezdeményezhetnek.\n\n• **A kiválasztás során több mint 80 ajánlatot vizsgáltak meg**, ezekből 16 rendszer került a kínálatba. A megoldásokat öt vállalat biztosítja: a francia Alta Ares, a német Quantum Systems, az amerikai Northrop Grumman és Axon, valamint a brit OSL Technology. A NATO a hatékonyság és a költségek mellett a gyakorlati alkalmazhatóságot is értékelte.\n\n• **Az eszközök ára 1,6–25 millió euró**, és különböző módokon semlegesíthetik a pilóta nélküli repülőeszközöket. Egyes rendszerek zavarják azok jelét, mások elfogó drónokat vagy fegyvereket alkalmaznak. A berendezések repülőterek, határszakaszok és más stratégiai helyszínek védelmét szolgálhatják.\n\n• **A beszerzési folyamat lerövidülhet:** a hagyományos szolgáltató-kiválasztás jellemzően 9–12 hónapot vesz igénybe, míg a platformon szereplő eszközök szállítása akár 3–6 hónap alatt megtörténhet. A tagországok vásárlás előtt rövid időre bérelhetnek rendszereket, hogy ellenőrizzék, megfelelnek-e a nemzeti műveleti igényeknek; a projektre 3,1 millió eurós keretet különítettek el.\n\n• **A kezdeményezés a növekvő európai drónincidensekre reagál.** A balti államok rendszeresen jelentenek területükre történő berepüléseket, Lengyelországban és Romániában pedig szintén előfordultak ilyen esetek. A 2025-ös hágai csúcstalálkozón a NATO-tagok vállalták, hogy öt év alatt legalább 40 milliárd dollárt fordítanak drónelhárító képességeik erősítésére.",
-    "title_ro": "NATO a lansat o platformă pentru achiziția mai rapidă a sistemelor antidronă",
-    "lead_ro": "NATO a creat o platformă online prin care cele 32 de state membre pot cumpăra sau închiria sisteme antidronă selectate. Oferta cuprinde 16 soluții, cu prețuri între 1,6 și 25 de milioane de euro.",
-    "content_ro": "• **Platforma NATO a fost lansată joi** pentru a facilita accesul guvernelor aliate la echipamente de apărare împotriva dronelor. Reprezentanții celor 32 de state pot consulta sistemele și costurile disponibile, apoi pot iniția o achiziție sau o închiriere.\n\n• **Din peste 80 de oferte analizate au fost selectate 16 sisteme**, furnizate de cinci companii: Alta Ares din Franța, Quantum Systems din Germania, Northrop Grumman și Axon din Statele Unite, precum și OSL Technology din Marea Britanie. Evaluarea NATO a urmărit eficiența și costurile echipamentelor, precum și capacitatea lor de a răspunde unor cerințe operaționale.\n\n• **Sistemele costă între 1,6 și 25 de milioane de euro** și folosesc metode diferite pentru a opri dronele. Unele bruiază comunicațiile acestora, iar altele utilizează drone interceptoare sau armament. Echipamentele pot apăra aeroporturi, frontiere și alte obiective considerate strategice.\n\n• **Noua procedură poate reduce timpul de achiziție:** selectarea furnizorilor durează în mod obișnuit între 9 și 12 luni, în timp ce livrarea produselor listate este estimată la 3–6 luni. Statele pot testa unele capabilități prin închiriere pe termen scurt înainte de a decide cumpărarea; pentru proiect a fost prevăzut un buget de 3,1 milioane de euro.\n\n• **Inițiativa vine pe fondul incidentelor cu drone raportate în Europa.** Lituania, Letonia și Estonia se confruntă periodic cu pătrunderi în spațiul lor, iar Polonia și România au raportat, de asemenea, asemenea situații. La summitul NATO de la Haga din 2025, membrii alianței s-au angajat să aloce cel puțin 40 de miliarde de dolari în cinci ani pentru dezvoltarea apărării antidronă.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_979cf5914f",
     "fingerprint": "fd6772278df1b2202e8562bc47d7057e",
     "category": "Általános",
@@ -4080,6 +4056,45 @@
     "title_ro": "Șase persoane au murit într-un incendiu produs în Brooklyn",
     "lead_ro": "Un incendiu izbucnit joi dimineață în cartierul Sunset Park din Brooklyn s-a soldat cu șase morți și mai mulți răniți. Autoritățile investighează în continuare cauza focului.",
     "content_ro": "• **Joi, în jurul orei locale 1:40**, un incendiu a izbucnit într-o clădire de locuințe înșiruite din Sunset Park, Brooklyn, la aproximativ opt kilometri de Manhattan. Pompierii au ajuns în mai puțin de patru minute, iar circa 200 dintre ei au participat la intervenție; stingerea a durat aproximativ trei ore.\n\n• **Șase adulți au murit în urma incendiului:** patru au fost găsiți fără viață la clădire, iar alți doi, transportați la spital cu răni grave, au decedat ulterior. Patru locatari au fost răniți, însă leziunile acestora nu le puneau viața în pericol, potrivit informațiilor publicate.\n\n• **Trei pompieri și doi polițiști au suferit răni ușoare în timpul intervenției.** Identitatea și vârsta victimelor nu au fost făcute publice. Primarul Zohran Mamdani s-a deplasat la locul incendiului și a precizat că toate cele șase persoane decedate erau adulte.\n\n• **Cauza incendiului nu a fost stabilită.** Ancheta serviciului de pompieri era în desfășurare la fața locului. În clădire a fost descoperită o baterie litiu-ion, însă autoritățile nu au confirmat dacă aceasta a avut vreo legătură cu izbucnirea focului; concluziile urmează să fie comunicate după verificări.",
+    "importance_score": 43.0
+  },
+  {
+    "group_id": "group_94f0e8d8cf",
+    "fingerprint": "c458982be6b551adac9727af7256e0d7",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un satelit militar rus ar fi simulat un posibil atac asupra unui satelit occidental. Alte două nave spațiale rusești se apropie de un nou obiectiv",
+        "link": "https://www.mediafax.ro/externe/un-satelit-militar-rus-ar-fi-simulat-un-posibil-atac-asupra-unui-satelit-occidental-alte-doua-nave-spatiale-rusesti-se-apropie-de-un-nou-obiectiv-23837898"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Rusia a repetat un atac asupra unui satelit occidental, spune un analist spațial",
+        "link": "https://adevarul.ro/stiri-externe/rusia/rusia-a-repetat-un-atac-asupra-unui-satelit-2569204.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rusia ar fi simulat un atac asupra unui satelit, ceea ce semnalează o nouă abordare (expert)",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/rusia-ar-fi-simulat-un-atac-asupra-unui-satelit-ceea-ce-semnaleaza-o-noua-abordare-expert--1610470"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Este cea mai agresivă atitudine pe care am văzut-o”. Rusia ar fi simulat un atac asupra unui satelit occidental",
+        "link": "https://www.digi24.ro/stiri/externe/este-cea-mai-agresiva-atitudine-pe-care-am-vazut-o-rusia-ar-fi-simulat-un-atac-asupra-unui-satelit-occidental-4023545"
+      }
+    ],
+    "published_at": 1793893284,
+    "title_hu": "Orosz műhold közelítette meg az ICEYE eszközét, két másik az X37 felé tart",
+    "lead_hu": "Október második felében a Cosmos 2612 veszélyesen közel került az ICEYE X36 műholdjához. Közben két másik orosz űreszköz az X37 pályájához közelít; az ICEYE szerint az X36 működőképes.",
+    "content_hu": "• **Október második felében** a Cosmos 2612 orosz katonai műhold megközelítette az ICEYE kereskedelmi X36-osát. A finn vállalat radaros felvételeket biztosít kormányoknak és katonai szereplőknek, köztük Ukrajnának.\n\n• **A távolság** a megfigyelések szerint egy kilométer alá csökkent, egyes becslések pedig csak néhány száz méteres vagy még kisebb közelséget jeleztek. Az orosz eszköz később mintegy 400 kilométerre került az X36-tól.\n\n• **Thomas DiNanno amerikai külügyi államtitkár-helyettes** szándékos, veszélyes közelségben végrehajtott manőverekről beszélt, amelyek szerinte űrbeli fegyverhasználati műveletekkel is összefügghetnek. Greg Gillinger, az amerikai Integrity ISR vezető űrelemzője – a cég az amerikai űrerőknek is tart képzéseket – támadás előtti próbához hasonlította a történteket.\n\n• **Két másik orosz műhold** az ICEYE X37 pályája felé tart. A COMSPOC amerikai űrfigyelő cég szerint helyzetük egyre alkalmasabbá válik a műhold megközelítésére.\n\n• **A hat műholdból álló csoportot** Oroszország áprilisban bocsátotta fel; a Slingshot Aerospace nyilvános besorolása szerint a Cosmos 2612 más űreszközök vizsgálatára és karbantartására szolgál. Ann Stevens, az ICEYE amerikai műveleti vezetője megerősítette, hogy az X36 tovább üzemel, a vállalat radaros műholdrendszere pedig ellenálló a lehetséges zavarásokkal szemben.",
+    "title_ro": "Un satelit rus s-a apropiat de ICEYE X36, iar alte două se îndreaptă spre X37",
+    "lead_ro": "În a doua jumătate a lunii octombrie, satelitul Cosmos 2612 a ajuns la mică distanță de X36, operat de ICEYE. Alte două aparate rusești se apropie de traiectoria lui X37, în timp ce compania afirmă că X36 funcționează în continuare.",
+    "content_ro": "• **În a doua jumătate a lunii octombrie**, satelitul militar rus Cosmos 2612 s-a apropiat de X36, un aparat comercial operat de ICEYE. Compania finlandeză furnizează imagini radar unor guverne și structuri militare, inclusiv Ucrainei.\n\n• **Distanța dintre sateliți** a coborât, potrivit observațiilor, sub un kilometru; unele estimări indică doar câteva sute de metri sau chiar mai puțin. Ulterior, Cosmos 2612 s-a îndepărtat la aproximativ 400 de kilometri de X36.\n\n• **Thomas DiNanno, subsecretar de stat american**, a descris manevre intenționate desfășurate la o distanță periculoasă și a spus că acestea pot fi asociate unor operațiuni cu arme în spațiu. Greg Gillinger, analist spațial principal la Integrity ISR, a comparat episodul cu o pregătire pentru atac; compania oferă și instruire forțelor spațiale americane.\n\n• **Alte două aparate rusești** se deplasează către traiectoria satelitului ICEYE X37. Firma americană de supraveghere spațială COMSPOC apreciază că poziția lor devine tot mai favorabilă unei eventuale apropieri.\n\n• **Grupul de șase sateliți** din care face parte Cosmos 2612 a fost lansat de Rusia în aprilie. Slingshot Aerospace indică în clasificarea publică faptul că satelitul este destinat inspectării și întreținerii altor aparate spațiale. Ann Stevens, responsabilă de operațiunile ICEYE în SUA, a confirmat că X36 este funcțional și că rețeaua radar a companiei poate rezista unor perturbări.",
     "importance_score": 43.0
   },
   {
@@ -4451,6 +4466,40 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_4d16db3ecd",
+    "fingerprint": "9344ea7b73e092ad7a25ce4e46d0a9f2",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "NATO a lansat un magazin online de tehnică militară destinat guvernelor. Echipamentele costă până la 25 de milioane de euro",
+        "link": "https://stirileprotv.ro/stiri/international/nato-a-lansat-o-platforma-pentru-achizitia-rapida-a-sistemelor-antidrona-echipamentele-costa-pana-la-25-de-milioane-de-euro.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "NATO a lansat o platformă de tip e-commerce, unde țările membre pot cumpăra sisteme antidronă. Cât costă echipamentele",
+        "link": "https://www.digi24.ro/stiri/externe/nato-a-lansat-o-platforma-de-tip-e-commerce-unde-tarile-membre-pot-cumpara-sisteme-antidrona-cat-costa-echipamentele-4023833"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "NATO a lansat o platformă de tip 'e-commerce' pentru achiziția de capacități antidronă dee către statele membre",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/nato-a-lansat-o-platforma-de-tip-e-commerce-pentru-achizitia-de-capacitati-antidrona-dee-catre-state--1610560"
+      }
+    ],
+    "published_at": 1793904095,
+    "title_hu": "NATO-platform gyorsíthatja a tagállamok drónelhárító beszerzéseit",
+    "lead_hu": "A NATO olyan online beszerzési felületet indított, amelyen a 32 tagország kiválasztott drónelhárító rendszereket vásárolhat vagy bérelhet. A kínálat 16 megoldást tartalmaz; az eszközök ára 1,6 és 25 millió euró között mozog.",
+    "content_hu": "• **A NATO csütörtökön indította el** a tagállamok közös online felületét, amelynek célja, hogy egyszerűbbé tegye a drónok elleni védelmi eszközök beszerzését. A 32 szövetséges ország kormányzati szervei megtekinthetik a rendszereket és az árakat, majd vásárlást vagy bérlést kezdeményezhetnek.\n\n• **A kiválasztás során több mint 80 ajánlatot vizsgáltak meg**, ezekből 16 rendszer került a kínálatba. A megoldásokat öt vállalat biztosítja: a francia Alta Ares, a német Quantum Systems, az amerikai Northrop Grumman és Axon, valamint a brit OSL Technology. A NATO a hatékonyság és a költségek mellett a gyakorlati alkalmazhatóságot is értékelte.\n\n• **Az eszközök ára 1,6–25 millió euró**, és különböző módokon semlegesíthetik a pilóta nélküli repülőeszközöket. Egyes rendszerek zavarják azok jelét, mások elfogó drónokat vagy fegyvereket alkalmaznak. A berendezések repülőterek, határszakaszok és más stratégiai helyszínek védelmét szolgálhatják.\n\n• **A beszerzési folyamat lerövidülhet:** a hagyományos szolgáltató-kiválasztás jellemzően 9–12 hónapot vesz igénybe, míg a platformon szereplő eszközök szállítása akár 3–6 hónap alatt megtörténhet. A tagországok vásárlás előtt rövid időre bérelhetnek rendszereket, hogy ellenőrizzék, megfelelnek-e a nemzeti műveleti igényeknek; a projektre 3,1 millió eurós keretet különítettek el.\n\n• **A kezdeményezés a növekvő európai drónincidensekre reagál.** A balti államok rendszeresen jelentenek területükre történő berepüléseket, Lengyelországban és Romániában pedig szintén előfordultak ilyen esetek. A 2025-ös hágai csúcstalálkozón a NATO-tagok vállalták, hogy öt év alatt legalább 40 milliárd dollárt fordítanak drónelhárító képességeik erősítésére.",
+    "title_ro": "NATO a lansat o platformă pentru achiziția mai rapidă a sistemelor antidronă",
+    "lead_ro": "NATO a creat o platformă online prin care cele 32 de state membre pot cumpăra sau închiria sisteme antidronă selectate. Oferta cuprinde 16 soluții, cu prețuri între 1,6 și 25 de milioane de euro.",
+    "content_ro": "• **Platforma NATO a fost lansată joi** pentru a facilita accesul guvernelor aliate la echipamente de apărare împotriva dronelor. Reprezentanții celor 32 de state pot consulta sistemele și costurile disponibile, apoi pot iniția o achiziție sau o închiriere.\n\n• **Din peste 80 de oferte analizate au fost selectate 16 sisteme**, furnizate de cinci companii: Alta Ares din Franța, Quantum Systems din Germania, Northrop Grumman și Axon din Statele Unite, precum și OSL Technology din Marea Britanie. Evaluarea NATO a urmărit eficiența și costurile echipamentelor, precum și capacitatea lor de a răspunde unor cerințe operaționale.\n\n• **Sistemele costă între 1,6 și 25 de milioane de euro** și folosesc metode diferite pentru a opri dronele. Unele bruiază comunicațiile acestora, iar altele utilizează drone interceptoare sau armament. Echipamentele pot apăra aeroporturi, frontiere și alte obiective considerate strategice.\n\n• **Noua procedură poate reduce timpul de achiziție:** selectarea furnizorilor durează în mod obișnuit între 9 și 12 luni, în timp ce livrarea produselor listate este estimată la 3–6 luni. Statele pot testa unele capabilități prin închiriere pe termen scurt înainte de a decide cumpărarea; pentru proiect a fost prevăzut un buget de 3,1 milioane de euro.\n\n• **Inițiativa vine pe fondul incidentelor cu drone raportate în Europa.** Lituania, Letonia și Estonia se confruntă periodic cu pătrunderi în spațiul lor, iar Polonia și România au raportat, de asemenea, asemenea situații. La summitul NATO de la Haga din 2025, membrii alianței s-au angajat să aloce cel puțin 40 de miliarde de dolari în cinci ani pentru dezvoltarea apărării antidronă.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_278d181312",
     "fingerprint": "7d8963d597b140f189e6b951b644786e",
     "category": "Általános",
@@ -4757,40 +4806,6 @@
     "importance_score": 38.0
   },
   {
-    "group_id": "group_fe1b7b4689",
-    "fingerprint": "b1a3b50499368d655f4f026e132cef24",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Premierul Andy Burnham | Putin nu va fi invitat la Summitul G20 organizat de Marea Britanie",
-        "link": "https://www.g4media.ro/premierul-andy-burnham-putin-nu-va-fi-invitat-la-summitul-g20-organizat-de-marea-britanie.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Premierul britanic spune că Putin nu va participa la summitul G20 din Regatul Unit",
-        "link": "https://www.digi24.ro/stiri/externe/premierul-britanic-spune-ca-putin-nu-va-participa-la-summitul-g20-din-regatul-unit-4023587"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Premierul britanic afirmă că Putin nu va participa la summitul G20 din Regatul Unit din cauza sancțiunilor",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/premierul-britanic-afirma-ca-putin-nu-va-participa-la-summitul-g20-din-regatul-unit-din-cauza-sancti--1610499"
-      }
-    ],
-    "published_at": 1793893424,
-    "title_hu": "Burnham szerint Putyin nem vesz részt a brit G20-csúcson",
-    "lead_hu": "Andy Burnham brit miniszterelnök közlése szerint Vlagyimir Putyin nem kap meghívást a következő, Egyesült Királyságban rendezett G20-csúcsra. A beszámolók ugyanakkor azt is jelzik, hogy Oroszország tagsága és a brit szankciók eltérő módon befolyásolják a részvétel kérdését.",
-    "content_hu": "• **Andy Burnham brit miniszterelnök** a The Economistnak adott válaszában azt mondta, hogy Vlagyimir Putyin nem kap meghívást a következő, Egyesült Királyságban tartandó G20-találkozóra. A nyilatkozatról csütörtökön számoltak be; Burnham hivatala nem reagált a sajtó megkeresésére.\n\n• **Oroszország G20-tagsága** miatt a formális kizárás kérdése összetett: a beszámoló szerint Burnham úgy fogalmazott, hogy Putyint nem lehet egyszerűen „visszavonni” a meghívásból, mivel Oroszország a csoport tagja. A részvétel ettől még nem biztosított: a brit szankciók miatt az orosz elnök nem utazna el a csúcstalálkozóra.\n\n• **A brit korlátozó intézkedések** 2022 óta vannak érvényben Putyinnal szemben. Burnham hivatala nem részletezte, pontosan mely szankciók akadályoznák a részvételt, így a közlésekből nem derül ki, hogy a távolmaradás jogi, utazási vagy más gyakorlati korlátozáshoz kötődik-e.\n\n• **A következő brit G20-csúcsot** novemberben rendezik Manchesterben, az ország északnyugati részén. A város Burnham korábbi polgármesteri területén található; a találkozó a csoport éves vezetői összejövetele lesz.\n\n• **Az amerikai meghívás külön eseményhez kapcsolódik:** Marco Rubio szeptemberben arról beszélt, hogy Washingtontól meghívást kapott Putyin a decemberi, Miamiban tartandó G20-ülésre. Rubio szerint az alkalom lehetőséget adhatna neki Donald Trump és más vezetők megkeresésére; ez nem a brit csúcsra szóló meghívás.",
-    "title_ro": "Burnham afirmă că Putin nu va participa la summitul G20 din Regatul Unit",
-    "lead_ro": "Premierul britanic Andy Burnham a declarat că Vladimir Putin nu va fi invitat la următoarea reuniune G20 găzduită de Regatul Unit. Relatările arată însă că statutul Rusiei de membru și sancțiunile britanice au implicații distincte pentru participarea liderului rus.",
-    "content_ro": "• **Premierul britanic Andy Burnham** a răspuns că Vladimir Putin nu va primi o invitație la următorul summit G20 organizat în Regatul Unit, potrivit unei relatări din The Economist. Informația a fost publicată joi, iar biroul lui Burnham nu a răspuns solicitării de comentarii.\n\n• **Statutul Rusiei în G20** complică problema excluderii formale: conform relatării, Burnham a explicat că Putin nu poate fi pur și simplu scos de pe lista invitaților, deoarece Rusia face parte din grup. Totuși, prezența sa nu este așteptată, întrucât sancțiunile britanice ar împiedica participarea.\n\n• **Restricțiile impuse de Regatul Unit** împotriva lui Putin sunt în vigoare din 2022. Biroul premierului nu a precizat care măsuri ar bloca deplasarea sau participarea președintelui rus; informațiile publicate nu lămuresc dacă obstacolul este juridic, legat de călătorie ori de alte aspecte practice.\n\n• **Următorul summit G20 din Regatul Unit** este programat pentru luna noiembrie, la Manchester, în nord-vestul Angliei. Orașul se află în regiunea în care Burnham a fost primar, iar reuniunea va fi întâlnirea anuală a liderilor grupului.\n\n• **Invitația menționată de oficialii americani privește o reuniune diferită:** Marco Rubio a declarat în septembrie că Washingtonul l-a invitat pe Putin la întâlnirea G20 din decembrie, programată la Miami. Potrivit lui Rubio, reuniunea i-ar permite liderului rus să discute cu Donald Trump și cu alți conducători; invitația nu se referă la summitul britanic.",
-    "importance_score": 38.0
-  },
-  {
     "group_id": "group_18a7d73031",
     "fingerprint": "e88ab668c2c559cb358b1f4573cb2de3",
     "category": "Általános",
@@ -4857,6 +4872,33 @@
     "lead_ro": "După victoria democraților la alegerile de la jumătatea mandatului din SUA, mai mulți lideri europeni de extremă dreaptă și-au reevaluat apropierea politică de Donald Trump. Criticile s-au concentrat în principal asupra efectelor războiului cu Iranul, fără ca președintele american să fie învinuit direct de majoritatea acestora.",
     "content_ro": "• **După succesul electoral al democraților**, politicieni europeni de extremă dreaptă au început miercuri să transmită că se distanțează de Trump. Schimbarea vine după ce unii dintre ei își subliniaseră afinitățile ideologice în urma victoriei sale din 2024; câțiva au mers la Washington și au beneficiat de sprijinul lui Elon Musk. Reacțiile recente au vizat mai ales efectele conflictului, nu responsabilitatea directă a președintelui.\n\n• **Jordan Bardella**, liderul Adunării Naționale din Franța, a apreciat că al doilea mandat al lui Trump este mai puțin izolaționist decât cel din 2017–2021. În opinia sa, intervenția SUA în legătură cu Iranul ar putea afecta grav economiile din întreaga lume. Majoritatea sondajelor indică faptul că Bardella ar putea ajunge să formeze următorul guvern francez.\n\n• **Alice Weidel**, copreședinta partidului Alternativa pentru Germania, a pus înfrângerea republicanilor și pe seama războiului cu Iranul. Ea a susținut că renunțarea la promisiunea unei politici externe neintervenționiste a putut dăuna partidului la alegeri; declarațiile au fost făcute pentru T-Online.\n\n• **Matteo Salvini**, liderul Ligii și membru al coaliției guvernamentale din Italia, a asociat rezultatul electoral cu războaiele, tensiunile internaționale și scumpirea vieții. Trump a admis că războiul cu Iranul a contribuit la pierderile partidului său, însă a continuat să-și apere decizia.",
     "importance_score": 38.0
+  },
+  {
+    "group_id": "group_17d427e945",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Scrisoarea trimisă de Alina Apostol din închisoare. Tânăra, închisă de 9 ani în China, își striga durerea: ”Părinții mei și-au vândut apartamentul ca să mă salveze”",
+        "link": "https://www.cancan.ro/scrisoarea-trimisa-de-alina-apostol-din-inchisoare-tanara-inchisa-de-9-ani-in-china-isi-striga-durerea-parintii-mei-si-au-vandut-apartamentul-ca-sa-ma-salveze-21542714"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Scrisoarea trimisă de Alina Apostol din penitenciar. Tânăra, închisă de 9 ani în China, își striga durerea: ”Părinții mei și-au vândut apartamentul ca să mă salveze”",
+        "link": "https://www.cancan.ro/scrisoarea-trimisa-de-alina-apostol-din-penitenciar-tanara-inchisa-de-9-ani-in-china-isi-striga-durerea-parintii-mei-si-au-vandut-apartamentul-ca-sa-ma-salveze-21542714"
+      }
+    ],
+    "published_at": 1793914620,
+    "title_hu": "Scrisoarea trimisă de Alina Apostol din închisoare. Tânăra, închisă de 9 ani în China, își striga durerea: ”Părinții mei și-au vândut apartamentul ca să mă salveze”",
+    "lead_hu": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani ...",
+    "content_hu": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani din pedeapsa de 13 ani pe care a primit-o în anul 2017. În ediția de joi, 5 noiembrie, […]",
+    "title_ro": "Scrisoarea trimisă de Alina Apostol din închisoare. Tânăra, închisă de 9 ani în China, își striga durerea: ”Părinții mei și-au vândut apartamentul ca să mă salveze”",
+    "lead_ro": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani ...",
+    "content_ro": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani din pedeapsa de 13 ani pe care a primit-o în anul 2017. În ediția de joi, 5 noiembrie, […]",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_bfd76a6aa4",
@@ -5338,35 +5380,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_f0f253438b",
-    "fingerprint": "7dc4a4a6cd7b200e7ae4034baa7842bd",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Zelenski cere ajutor urgent pentru sistemul energetic al Ucrainei, devastat de atacurile rusești. Apel către Spania și America Latină",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/zelenski-cere-ajutor-urgent-pentru-sistemul-energetic-al-ucrainei-devastat-de-atacurile-rusesti-apel-catre-spania-si-america-latina-4023835"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Zelenski cere ajutorul Spaniei și țărilor din America Latină pentru 'reconstrucția sistemului energetic' al Ucrainei",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/zelenski-cere-ajutorul-spaniei-si-tarilor-din-america-latina-pentru-reconstructia-sistemului-energet--1610559"
-      }
-    ],
-    "published_at": 1793903952,
-    "title_hu": "Zelenszkij spanyol és latin-amerikai segítséget kért az ukrán energetika helyreállításához",
-    "lead_hu": "Volodimir Zelenszkij Madridban arra kérte Spanyolországot és a latin-amerikai országokat, hogy gyorsítsák fel az ukrán energiahálózat javításához szükséges eszközök szállítását. Az orosz támadásokban megrongálódott rendszer helyreállításához többek között transzformátorokra, kábelekre és generátorokra van szükség.",
-    "content_hu": "• **A madridi találkozón** Volodimir Zelenszkij Ukrajna energetikai infrastruktúrájának újjáépítéséhez kért támogatást Spanyolországtól és a latin-amerikai államoktól. A megbeszélésre a 30. iberoamerikai csúcstalálkozó idején került sor; az ukrán elnök szerint az orosz támadások súlyos károkat okoztak az energiarendszerben.\n\n• **A közelgő tél miatt** Kijev sürgős eszközszállításokat tart szükségesnek. Zelenszkij transzformátorokat, elektromos vezetékeket, korszerű elektronikai berendezéseket, valamint dízel- és gázhajtású generátorokat sorolt fel a kért felszerelések között.\n\n• **A lehetséges beszállítók között** Brazíliát, Mexikót, Argentínát és Kolumbiát említette a transzformátorok, Chilét pedig az elektromos kábelek kapcsán. Spanyolországtól elektromos berendezéseket, kábeleket és generátorokat várna. Hangsúlyozta, hogy az eszközöknek illeszkedniük kell az ukrán hálózathoz, és mielőbb meg kell érkezniük.\n\n• **Zelenszkij a vállalatokkal való kapcsolatfelvétel elősegítését is kérte** a jelen lévő vezetőktől, hogy felgyorsulhassanak a beszerzések és a szállítások. A találkozón Pedro Sánchez spanyol miniszterelnök, Bernardo Arévalo guatemalai és Nasry Asfura hondurasi elnök, António Guterres ENSZ-főtitkár, valamint António Costa, az Európai Tanács elnöke is részt vett.",
-    "title_ro": "Zelenski a cerut sprijin spaniol și latino-american pentru refacerea energiei Ucrainei",
-    "lead_ro": "Volodimir Zelenski a solicitat la Madrid Spaniei și statelor din America Latină să grăbească livrările de echipamente necesare reparării rețelei energetice ucrainene. Sistemul a fost grav afectat de atacurile rusești, iar Kievul are nevoie de transformatoare, cabluri și generatoare înaintea iernii.",
-    "content_ro": "• **La întâlnirea de la Madrid**, Volodimir Zelenski a cerut ajutor pentru refacerea infrastructurii energetice a Ucrainei, adresându-se Spaniei și statelor latino-americane. Discuția a avut loc în marja celui de-al 30-lea summit ibero-american. Potrivit liderului ucrainean, atacurile rusești au provocat daune importante sistemului energetic al țării.\n\n• **Înaintea iernii**, Kievul consideră urgente livrările de echipamente pentru repararea și susținerea rețelei. Zelenski a enumerat transformatoare, cabluri electrice, aparatură electronică modernă și generatoare alimentate cu motorină sau gaz.\n\n• **Printre posibilele surse de aprovizionare**, președintele ucrainean a indicat Brazilia, Mexic, Argentina și Columbia pentru transformatoare, iar Chile pentru cabluri electrice. Din Spania ar putea veni echipamente electrice, cabluri și generatoare. El a precizat că materialele trebuie să fie compatibile cu rețeaua Ucrainei și să ajungă cât mai repede.\n\n• **Zelenski a cerut și facilitarea contactelor cu producătorii**, astfel încât achizițiile și transporturile să poată avansa mai rapid. La reuniune au participat premierul spaniol Pedro Sánchez, președintele Guatemalei Bernardo Arévalo, președintele Hondurasului Nasry Asfura, secretarul general al ONU António Guterres și președintele Consiliului European António Costa.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_85d7b9121e",
     "category": "Politika",
     "is_synthesized": false,
@@ -5539,30 +5552,37 @@
     "importance_score": 33.0
   },
   {
-    "group_id": "group_fd1d3f3f1a",
-    "category": "Erdély",
-    "is_synthesized": false,
+    "group_id": "group_fe1b7b4689",
+    "fingerprint": "b1a3b50499368d655f4f026e132cef24",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
-        "source": "PresaSM (Szatmár)",
-        "title": "Accident teribil în Satu Mare. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
-        "link": "https://www.presasm.ro/accident-teribil-in-satu-mare-trei-victime-una-in-stop-cardiorespirator-medicii-incearca-sa-o/54143"
+        "source": "G4Media",
+        "title": "Premierul Andy Burnham | Putin nu va fi invitat la Summitul G20 organizat de Marea Britanie",
+        "link": "https://www.g4media.ro/premierul-andy-burnham-putin-nu-va-fi-invitat-la-summitul-g20-organizat-de-marea-britanie.html"
       },
       {
-        "source": "PresaSM (Szatmár)",
-        "title": "FOTO. Accident teribil în Satu Mare. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
-        "link": "https://www.presasm.ro/foto-accident-teribil-in-satu-mare-trei-victime-una-in-stop-cardiorespirator-medicii-incearca-sa-o/54143"
+        "source": "Digi24",
+        "title": "Premierul britanic spune că Putin nu va participa la summitul G20 din Regatul Unit",
+        "link": "https://www.digi24.ro/stiri/externe/premierul-britanic-spune-ca-putin-nu-va-participa-la-summitul-g20-din-regatul-unit-4023587"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Premierul britanic afirmă că Putin nu va participa la summitul G20 din Regatul Unit din cauza sancțiunilor",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/premierul-britanic-afirma-ca-putin-nu-va-participa-la-summitul-g20-din-regatul-unit-din-cauza-sancti--1610499"
       }
     ],
-    "published_at": 1793893320,
-    "title_hu": "Accident teribil în Szatmárnémeti. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
-    "lead_hu": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimen…",
-    "content_hu": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimentul rutier, una dintre acestea fiind găsită în stop cardiorespir…",
-    "title_ro": "Accident teribil în Satu Mare. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
-    "lead_ro": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimen…",
-    "content_ro": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimentul rutier, una dintre acestea fiind găsită în stop cardiorespir…",
+    "published_at": 1793893424,
+    "title_hu": "Burnham szerint Putyin nem vesz részt a brit G20-csúcson",
+    "lead_hu": "Andy Burnham brit miniszterelnök közlése szerint Vlagyimir Putyin nem kap meghívást a következő, Egyesült Királyságban rendezett G20-csúcsra. A beszámolók ugyanakkor azt is jelzik, hogy Oroszország tagsága és a brit szankciók eltérő módon befolyásolják a részvétel kérdését.",
+    "content_hu": "• **Andy Burnham brit miniszterelnök** a The Economistnak adott válaszában azt mondta, hogy Vlagyimir Putyin nem kap meghívást a következő, Egyesült Királyságban tartandó G20-találkozóra. A nyilatkozatról csütörtökön számoltak be; Burnham hivatala nem reagált a sajtó megkeresésére.\n\n• **Oroszország G20-tagsága** miatt a formális kizárás kérdése összetett: a beszámoló szerint Burnham úgy fogalmazott, hogy Putyint nem lehet egyszerűen „visszavonni” a meghívásból, mivel Oroszország a csoport tagja. A részvétel ettől még nem biztosított: a brit szankciók miatt az orosz elnök nem utazna el a csúcstalálkozóra.\n\n• **A brit korlátozó intézkedések** 2022 óta vannak érvényben Putyinnal szemben. Burnham hivatala nem részletezte, pontosan mely szankciók akadályoznák a részvételt, így a közlésekből nem derül ki, hogy a távolmaradás jogi, utazási vagy más gyakorlati korlátozáshoz kötődik-e.\n\n• **A következő brit G20-csúcsot** novemberben rendezik Manchesterben, az ország északnyugati részén. A város Burnham korábbi polgármesteri területén található; a találkozó a csoport éves vezetői összejövetele lesz.\n\n• **Az amerikai meghívás külön eseményhez kapcsolódik:** Marco Rubio szeptemberben arról beszélt, hogy Washingtontól meghívást kapott Putyin a decemberi, Miamiban tartandó G20-ülésre. Rubio szerint az alkalom lehetőséget adhatna neki Donald Trump és más vezetők megkeresésére; ez nem a brit csúcsra szóló meghívás.",
+    "title_ro": "Burnham afirmă că Putin nu va participa la summitul G20 din Regatul Unit",
+    "lead_ro": "Premierul britanic Andy Burnham a declarat că Vladimir Putin nu va fi invitat la următoarea reuniune G20 găzduită de Regatul Unit. Relatările arată însă că statutul Rusiei de membru și sancțiunile britanice au implicații distincte pentru participarea liderului rus.",
+    "content_ro": "• **Premierul britanic Andy Burnham** a răspuns că Vladimir Putin nu va primi o invitație la următorul summit G20 organizat în Regatul Unit, potrivit unei relatări din The Economist. Informația a fost publicată joi, iar biroul lui Burnham nu a răspuns solicitării de comentarii.\n\n• **Statutul Rusiei în G20** complică problema excluderii formale: conform relatării, Burnham a explicat că Putin nu poate fi pur și simplu scos de pe lista invitaților, deoarece Rusia face parte din grup. Totuși, prezența sa nu este așteptată, întrucât sancțiunile britanice ar împiedica participarea.\n\n• **Restricțiile impuse de Regatul Unit** împotriva lui Putin sunt în vigoare din 2022. Biroul premierului nu a precizat care măsuri ar bloca deplasarea sau participarea președintelui rus; informațiile publicate nu lămuresc dacă obstacolul este juridic, legat de călătorie ori de alte aspecte practice.\n\n• **Următorul summit G20 din Regatul Unit** este programat pentru luna noiembrie, la Manchester, în nord-vestul Angliei. Orașul se află în regiunea în care Burnham a fost primar, iar reuniunea va fi întâlnirea anuală a liderilor grupului.\n\n• **Invitația menționată de oficialii americani privește o reuniune diferită:** Marco Rubio a declarat în septembrie că Washingtonul l-a invitat pe Putin la întâlnirea G20 din decembrie, programată la Miami. Potrivit lui Rubio, reuniunea i-ar permite liderului rus să discute cu Donald Trump și cu alți conducători; invitația nu se referă la summitul britanic.",
     "importance_score": 33.0
   },
   {
@@ -6326,36 +6346,33 @@
     "importance_score": 30.0
   },
   {
-    "group_id": "group_994f646103",
+    "group_id": "group_f0f253438b",
+    "fingerprint": "7dc4a4a6cd7b200e7ae4034baa7842bd",
     "category": "Általános",
-    "is_synthesized": false,
+    "is_synthesized": true,
+    "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 2,
     "sources": [
       {
-        "source": "Mediafax",
-        "title": "Coreea de Nord anunță testarea unui nou sistem de rachete antiaeriene",
-        "link": "https://www.mediafax.ro/externe/coreea-de-nord-anunta-testarea-unui-nou-sistem-de-rachete-antiaeriene-23837785"
-      },
-      {
         "source": "Digi24",
-        "title": "Exercițiu militar în Coreea de Nord: Phenianul a testat rachete de croazieră cu încărcătură tip cluster",
-        "link": "https://www.digi24.ro/stiri/externe/coreea-de-nord/exercitiu-militar-in-coreea-de-nord-phenianul-a-testat-rachete-de-croaziera-cu-incarcatura-tip-cluster-4022491"
+        "title": "Zelenski cere ajutor urgent pentru sistemul energetic al Ucrainei, devastat de atacurile rusești. Apel către Spania și America Latină",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/zelenski-cere-ajutor-urgent-pentru-sistemul-energetic-al-ucrainei-devastat-de-atacurile-rusesti-apel-catre-spania-si-america-latina-4023835"
       },
       {
-        "source": "Adevărul",
-        "title": "Coreea de Nord a simulat un atac asupra unui aeroport și a testat noi rachete. Demonstrație de forță a lui Kim Jong-un",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/coreea-de-nord-a-simulat-un-atac-asupra-unui-2569114.html"
+        "source": "Agerpres (HU)",
+        "title": "Zelenski cere ajutorul Spaniei și țărilor din America Latină pentru 'reconstrucția sistemului energetic' al Ucrainei",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/zelenski-cere-ajutorul-spaniei-si-tarilor-din-america-latina-pentru-reconstructia-sistemului-energet--1610559"
       }
     ],
-    "published_at": 1793828620,
-    "title_hu": "Coreea de Nord anunță testarea unui nou sistem de rachete antiaeriene",
-    "lead_hu": "Coreea de Nord a testat miercuri un nou sistem avansat de rachete antiaeriene, a anunțat agenția oficială de presă KCNA, într-o perioadă marcată de intensificarea activităților militare și a testelor ...",
-    "content_hu": "Coreea de Nord a testat miercuri un nou sistem avansat de rachete antiaeriene, a anunțat agenția oficială de presă KCNA, într-o perioadă marcată de intensificarea activităților militare și a testelor de armament ale Phenianului.",
-    "title_ro": "Coreea de Nord anunță testarea unui nou sistem de rachete antiaeriene",
-    "lead_ro": "Coreea de Nord a testat miercuri un nou sistem avansat de rachete antiaeriene, a anunțat agenția oficială de presă KCNA, într-o perioadă marcată de intensificarea activităților militare și a testelor ...",
-    "content_ro": "Coreea de Nord a testat miercuri un nou sistem avansat de rachete antiaeriene, a anunțat agenția oficială de presă KCNA, într-o perioadă marcată de intensificarea activităților militare și a testelor de armament ale Phenianului.",
-    "importance_score": 30.0
+    "published_at": 1793903952,
+    "title_hu": "Zelenszkij spanyol és latin-amerikai segítséget kért az ukrán energetika helyreállításához",
+    "lead_hu": "Volodimir Zelenszkij Madridban arra kérte Spanyolországot és a latin-amerikai országokat, hogy gyorsítsák fel az ukrán energiahálózat javításához szükséges eszközök szállítását. Az orosz támadásokban megrongálódott rendszer helyreállításához többek között transzformátorokra, kábelekre és generátorokra van szükség.",
+    "content_hu": "• **A madridi találkozón** Volodimir Zelenszkij Ukrajna energetikai infrastruktúrájának újjáépítéséhez kért támogatást Spanyolországtól és a latin-amerikai államoktól. A megbeszélésre a 30. iberoamerikai csúcstalálkozó idején került sor; az ukrán elnök szerint az orosz támadások súlyos károkat okoztak az energiarendszerben.\n\n• **A közelgő tél miatt** Kijev sürgős eszközszállításokat tart szükségesnek. Zelenszkij transzformátorokat, elektromos vezetékeket, korszerű elektronikai berendezéseket, valamint dízel- és gázhajtású generátorokat sorolt fel a kért felszerelések között.\n\n• **A lehetséges beszállítók között** Brazíliát, Mexikót, Argentínát és Kolumbiát említette a transzformátorok, Chilét pedig az elektromos kábelek kapcsán. Spanyolországtól elektromos berendezéseket, kábeleket és generátorokat várna. Hangsúlyozta, hogy az eszközöknek illeszkedniük kell az ukrán hálózathoz, és mielőbb meg kell érkezniük.\n\n• **Zelenszkij a vállalatokkal való kapcsolatfelvétel elősegítését is kérte** a jelen lévő vezetőktől, hogy felgyorsulhassanak a beszerzések és a szállítások. A találkozón Pedro Sánchez spanyol miniszterelnök, Bernardo Arévalo guatemalai és Nasry Asfura hondurasi elnök, António Guterres ENSZ-főtitkár, valamint António Costa, az Európai Tanács elnöke is részt vett.",
+    "title_ro": "Zelenski a cerut sprijin spaniol și latino-american pentru refacerea energiei Ucrainei",
+    "lead_ro": "Volodimir Zelenski a solicitat la Madrid Spaniei și statelor din America Latină să grăbească livrările de echipamente necesare reparării rețelei energetice ucrainene. Sistemul a fost grav afectat de atacurile rusești, iar Kievul are nevoie de transformatoare, cabluri și generatoare înaintea iernii.",
+    "content_ro": "• **La întâlnirea de la Madrid**, Volodimir Zelenski a cerut ajutor pentru refacerea infrastructurii energetice a Ucrainei, adresându-se Spaniei și statelor latino-americane. Discuția a avut loc în marja celui de-al 30-lea summit ibero-american. Potrivit liderului ucrainean, atacurile rusești au provocat daune importante sistemului energetic al țării.\n\n• **Înaintea iernii**, Kievul consideră urgente livrările de echipamente pentru repararea și susținerea rețelei. Zelenski a enumerat transformatoare, cabluri electrice, aparatură electronică modernă și generatoare alimentate cu motorină sau gaz.\n\n• **Printre posibilele surse de aprovizionare**, președintele ucrainean a indicat Brazilia, Mexic, Argentina și Columbia pentru transformatoare, iar Chile pentru cabluri electrice. Din Spania ar putea veni echipamente electrice, cabluri și generatoare. El a precizat că materialele trebuie să fie compatibile cu rețeaua Ucrainei și să ajungă cât mai repede.\n\n• **Zelenski a cerut și facilitarea contactelor cu producătorii**, astfel încât achizițiile și transporturile să poată avansa mai rapid. La reuniune au participat premierul spaniol Pedro Sánchez, președintele Guatemalei Bernardo Arévalo, președintele Hondurasului Nasry Asfura, secretarul general al ONU António Guterres și președintele Consiliului European António Costa.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_d42a174573",
@@ -6753,6 +6770,33 @@
     "title_ro": "Daria Silișteanu a câștigat trei medalii la Jocurile Olimpice de Tineret de la Dakar",
     "lead_ro": "Înotătoarea română, în vârstă de 17 ani, a obținut aurul la 50 m spate, stabilind un nou record național. Ea a încheiat competiția de la Dakar cu două medalii de aur și una de argint.",
     "content_ro": "• **La 5 noiembrie, la Dakar**, Daria Silișteanu s-a impus în finala probei de 50 m spate. Sportiva de 17 ani a înregistrat 27,93 de secunde, timp care a devenit atât record național, cât și cea mai bună performanță personală.\n\n• **Noul record** a îmbunătățit cu o sutime de secundă vechea performanță românească, stabilită tot de Silișteanu la Europenele de juniori de la München din acest an, cu 27,94 de secunde. Recordul mondial de juniori al probei este de 27,49 de secunde.\n\n• **În finală**, românca a terminat înaintea sud-coreencei Kim Seungwon, cronometrată în 28,21 de secunde, și a argentiniencei Cecilia Deleke, care a înotat în 28,83. Silișteanu intrase în ultimul act cu al treilea timp din calificări și le depășise pe cele două rivale și la 100 m spate.\n\n• **Bilanțul sportivei la competiția din Senegal** cuprinde trei medalii: aur la 50 m și 100 m spate, respectiv argint la 100 m fluture. Potrivit relatării, ea a urcat pe podium după fiecare dintre cele șase curse disputate.\n\n• **Silișteanu este legitimată la CSM Constanța** și provine din Fălticeni. La momentul publicării, cele trei distincții ale sale reprezentau singurele medalii ale delegației României, formată din 16 sportivi; după revenire, înotătoarea urma să participe la campionatele naționale în bazin scurt.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_fd1d3f3f1a",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Accident teribil în Satu Mare. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
+        "link": "https://www.presasm.ro/accident-teribil-in-satu-mare-trei-victime-una-in-stop-cardiorespirator-medicii-incearca-sa-o/54143"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Accident teribil în Satu Mare. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
+        "link": "https://www.presasm.ro/foto-accident-teribil-in-satu-mare-trei-victime-una-in-stop-cardiorespirator-medicii-incearca-sa-o/54143"
+      }
+    ],
+    "published_at": 1793893320,
+    "title_hu": "Accident teribil în Szatmárnémeti. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
+    "lead_hu": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimen…",
+    "content_hu": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimentul rutier, una dintre acestea fiind găsită în stop cardiorespir…",
+    "title_ro": "Accident teribil în Satu Mare. Trei victime, una în stop cardiorespirator. Medicii încearcă să o resusciteze",
+    "lead_ro": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimen…",
+    "content_ro": "Un grav accident rutier s-a produs astăzi, 5 noiembrie 2026, în jurul orei 16:31, în localitatea Marna, județul Szatmárnémeti. Potrivit primelor informații, trei persoane au fost implicate în evenimentul rutier, una dintre acestea fiind găsită în stop cardiorespir…",
     "importance_score": 28.0
   },
   {
@@ -8062,55 +8106,6 @@
     "lead_ro": "Actrița americană Scarlett Johansson a dezvăluit că rolul pe care îl interpretează în viitorul film „The Batman Part II”, cu Robert Pattinson în rolul principal, s-a dovedit a fi o provocare neaștepta…",
     "content_ro": "Actrița americană Scarlett Johansson a dezvăluit că rolul pe care îl interpretează în viitorul film „The Batman Part II”, cu Robert Pattinson în rolul principal, s-a dovedit a fi o provocare neașteptată, care a scos-o din zona de confort.",
     "importance_score": 20.0
-  },
-  {
-    "group_id": "group_1738a33c51",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "MAE a emis o atenționare de călătorie pentru românii care vor să meargă în Franța",
-        "link": "https://www.digi24.ro/stiri/externe/mae-a-emis-o-atentionare-de-calatorie-pentru-romanii-care-vor-sa-mearga-in-franta-2-4022373"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Franța, afectată de o grevă națională. Avertismentul MAE pentru românii care călătoresc în zonă",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/franta-afectata-de-o-greva-nationala-2569086.html"
-      }
-    ],
-    "published_at": 1793828363,
-    "title_hu": "MAE a emis o atenționare de călătorie pentru românii care vor să meargă în Franța",
-    "lead_hu": "Ministerul Afacerilor Externe (MAE) informează cetăţenii români care se află, tranzitează sau intenţionează să călătorească în Republica Franceză asupra faptului că joi este anunţată o grevă interprof...",
-    "content_hu": "Ministerul Afacerilor Externe (MAE) informează cetăţenii români care se află, tranzitează sau intenţionează să călătorească în Republica Franceză asupra faptului că joi este anunţată o grevă interprofesională naţională însoţită de manifestaţii pe întreg teritoriul ţării.",
-    "title_ro": "MAE a emis o atenționare de călătorie pentru românii care vor să meargă în Franța",
-    "lead_ro": "Ministerul Afacerilor Externe (MAE) informează cetăţenii români care se află, tranzitează sau intenţionează să călătorească în Republica Franceză asupra faptului că joi este anunţată o grevă interprof...",
-    "content_ro": "Ministerul Afacerilor Externe (MAE) informează cetăţenii români care se află, tranzitează sau intenţionează să călătorească în Republica Franceză asupra faptului că joi este anunţată o grevă interprofesională naţională însoţită de manifestaţii pe întreg teritoriul ţării.",
-    "importance_score": 20.0
-  },
-  {
-    "group_id": "group_17d427e945",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Scrisoarea trimisă de Alina Apostol din închisoare. Tânăra, închisă de 9 ani în China, își striga durerea: ”Părinții mei și-au vândut apartamentul ca să mă salveze”",
-        "link": "https://www.cancan.ro/scrisoarea-trimisa-de-alina-apostol-din-inchisoare-tanara-inchisa-de-9-ani-in-china-isi-striga-durerea-parintii-mei-si-au-vandut-apartamentul-ca-sa-ma-salveze-21542714"
-      }
-    ],
-    "published_at": 1793914620,
-    "title_hu": "Scrisoarea trimisă de Alina Apostol din închisoare. Tânăra, închisă de 9 ani în China, își striga durerea: ”Părinții mei și-au vândut apartamentul ca să mă salveze”",
-    "lead_hu": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani ...",
-    "content_hu": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani din pedeapsa de 13 ani pe care a primit-o în anul 2017. În ediția de joi, 5 noiembrie, […]",
-    "title_ro": "Scrisoarea trimisă de Alina Apostol din închisoare. Tânăra, închisă de 9 ani în China, își striga durerea: ”Părinții mei și-au vândut apartamentul ca să mă salveze”",
-    "lead_ro": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani ...",
-    "content_ro": "Alina Apostol a făcut eforturi uriașe pentru a face rost de timbre ca să trimită o scrisoare în România. Tânăra de 30 de ani se află în spatele gratiilor, într-o închisoare din China. Au trecut 9 ani din pedeapsa de 13 ani pe care a primit-o în anul 2017. În ediția de joi, 5 noiembrie, […]",
-    "importance_score": 0.0
   },
   {
     "group_id": "group_0c8aec4862",
@@ -21665,28 +21660,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_1806f7e131",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Explicațiile lui Andoni Iraola după răsturnarea de scor de la Istanbul: „Până astăzi am stat bine la acest capitol”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/andoni-iraola-fenerbahce-liverpool-996010.html"
-      }
-    ],
-    "published_at": 1793828569,
-    "title_hu": "Explicațiile lui Andoni Iraola după răsturnarea de scor de la Istanbul: „Până astăzi am stat bine la acest capitol”",
-    "lead_hu": "Andoni Iraola, antrenorul celor de la Liverpool, a reacționat după ce „cormoranii” au cedat pe terenul celor de la Fenerbahce, scor 3-2, în meciul din etapa #4 din faza ligii Champions League. În ciud…",
-    "content_hu": "Andoni Iraola, antrenorul celor de la Liverpool, a reacționat după ce „cormoranii” au cedat pe terenul celor de la Fenerbahce, scor 3-2, în meciul din etapa #4 din faza ligii Champions League. În ciuda faptului că gruparea britanică a condus de două ori, Liverpool a pierdut primul meci din acest sezon de Liga Campionilor. La final, Andoni Iraola a fost foarte supărat deoarece golurile marcate de turci au venit din faze fixe. ...",
-    "title_ro": "Explicațiile lui Andoni Iraola după răsturnarea de scor de la Istanbul: „Până astăzi am stat bine la acest capitol”",
-    "lead_ro": "Andoni Iraola, antrenorul celor de la Liverpool, a reacționat după ce „cormoranii” au cedat pe terenul celor de la Fenerbahce, scor 3-2, în meciul din etapa #4 din faza ligii Champions League. În ciud…",
-    "content_ro": "Andoni Iraola, antrenorul celor de la Liverpool, a reacționat după ce „cormoranii” au cedat pe terenul celor de la Fenerbahce, scor 3-2, în meciul din etapa #4 din faza ligii Champions League. În ciuda faptului că gruparea britanică a condus de două ori, Liverpool a pierdut primul meci din acest sezon de Liga Campionilor. La final, Andoni Iraola a fost foarte supărat deoarece golurile marcate de turci au venit din faze fixe. ...",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_923f04fcf7",
     "fingerprint": "98ba07ee95a8a712da0044deb2dd640b",
     "category": "Általános",
@@ -21734,50 +21707,6 @@
     "lead_ro": "Alan Jones a murit la 80 de ani, pe 5 noiembrie, după o scurtă perioadă de boală. Pilotul australian a câștigat titlul mondial de Formula 1 în 1980 și a obținut 12 victorii în Marele Premiu de-a lungul carierei.",
     "content_ro": "• **Alan Jones a murit pe 5 noiembrie, la vârsta de 80 de ani.** Anunțul a fost făcut în numele soției sale, Amanda Butler-Davis, iar comunicarea familiei a precizat că decesul a survenit după o boală de scurtă durată.\n\n• **În sezonul 1980**, australianul a câștigat cursele din Argentina, Franța, Marea Britanie, Canada și Statele Unite. Aceste rezultate i-au adus titlul mondial; Jones a devenit astfel al doilea pilot australian campion, după Jack Brabham.\n\n• **Bilanțul său în Formula 1 a cuprins 12 victorii în Grand Prix.** Născut la Melbourne, pe 2 noiembrie 1946, Jones a debutat în campionat în 1975, la volanul unui monopost Hesketh. Prima sa victorie a venit în Austria, în 1977, când concura pentru Shadow.\n\n• **Jones s-a alăturat echipei Williams în 1978**, unde a obținut cele mai importante rezultate ale carierei. La finalul sezonului 1981 s-a retras inițial din Formula 1, apoi a revenit pentru câteva participări. Ultima sa cursă a avut loc în 1986.\n\n• **După încheierea activității competiționale, a rămas în lumea automobilismului.** A comentat la televiziune transmisiunile australiene de Formula 1. Potrivit familiei, activitatea sa a influențat numeroși oameni și a avut un rol important în motorsport.",
     "importance_score": 60.0
-  },
-  {
-    "group_id": "group_e2575b429c",
-    "fingerprint": "330209e33192802a5d0d97f1eb3f9f5d",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Avertizare DNSC: Nou scenariu de fraudă ce folosește identitatea Netflix. Utilizatorii sunt păcăliți să își introducă datele cardurilor bancare",
-        "link": "https://www.mediafax.ro/social/avertizare-dnsc-nou-scenariu-de-frauda-ce-foloseste-identitatea-netflix-utilizatorii-sunt-pacaliti-sa-isi-introduca-datele-cardurilor-bancare-23838057"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "DNSC atrage atenția asupra unui nou scenariu de fraudă în care se folosește identitatea Netflix",
-        "link": "https://agerpres.ro/economic/2026/11/05/dnsc-atrage-atentia-asupra-unui-nou-scenariu-de-frauda-in-care-se-foloseste-identitatea-netflix--1610314"
-      },
-      {
-        "source": "Maszol",
-        "title": "Figyelem: hamis Netflix-üzenetek terjednek! – Online csalásra figyelmeztet a kiberbiztonság",
-        "link": "https://maszol.ro/belfold/Figyelem-hamis-Netflix-uzenetek-terjednek-Online-csalasra-figyelmeztet-a-kiberbiztonsag"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "O nouă înșelătorie în numele Netflix, semnalată în România. Utilizatorii sunt păcăliți cu mesaje despre suspendarea contului",
-        "link": "https://stirileprotv.ro/stiri/actualitate/o-noua-inselatorie-in-numele-netflix-semnalata-in-romania-utilizatorii-sunt-pacaliti-cu-mesaje-despre-suspendarea-contului.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Avertizare DNSC. Nouă metodă de fraudă ce foloseşte identitatea Netflix",
-        "link": "https://hotnews.ro/avertizare-dnsc-noua-metoda-de-frauda-ce-foloseste-identitatea-netflix-2396075"
-      }
-    ],
-    "published_at": 1793893112,
-    "title_hu": "Netflix nevével visszaélő csalásra figyelmeztet a DNSC",
-    "lead_hu": "A romániai felhasználók olyan üzeneteket kaphatnak, amelyek sikertelen Netflix-előfizetési díjra hivatkozva próbálják megszerezni bankkártyaadataikat. A DNSC a védekezés mellett azt is ismertette, hol jelezhetők a gyanús esetek, és hol találhatók a felismert csaló oldalakra vonatkozó információk.",
-    "content_hu": "• **A DNSC csütörtöki riasztása** egy Romániában jelentett online csalási módszerről szól. Az elkövetők a Netflix szolgáltató nevével élnek vissza, és olyan értesítéseket küldenek, amelyek látszólag az előfizetési díj sikertelen levonásáról tájékoztatnak.\n\n• **A fiók felfüggesztésének kilátásba helyezése** arra szolgál, hogy a címzett gyorsan fizessen, és ne ellenőrizze kellőképpen az üzenetet. A benne található hivatkozás egy Netflix-oldalt utánzó webhelyre vezet, amely bankkártyaadatokat kér; a megszerzett információkat csalárd tranzakciókra használhatják.\n\n• **A biztonságos eljárás** az, hogy a felhasználó ne kattintson kéretlen üzenetben érkező linkre, hanem saját maga írja be a keresett szolgáltatás webcímét a böngészőbe. Banki vagy kártyaadatokat SMS-ben, illetve ilyen üzenetek hivatkozásain keresztül nem ajánlott megadni, különösen sürgető fizetési felszólítás esetén.\n\n• **Adatmegadás után** a bankot haladéktalanul értesíteni kell, hogy megkísérelhessék a jogosulatlan műveletek megállítását. A DNSC az incidensek bejelentésére a pnrisc.dnsc.ro oldalon elérhető űrlapot, valamint a 1911-es telefonszámot jelölte meg.\n\n• **A csaló webhelyek ellenőrzéséhez** a DNSC blacklist.dnsc.ro portálján találhatók naprakész információk az ellenőrzés során azonosított oldalakról. A szervezet szerint ezeket a böngészőbővítmény automatikusan blokkolhatja, amennyiben a kiegészítő aktív.",
-    "title_ro": "DNSC avertizează asupra unei fraude care folosește numele Netflix",
-    "lead_ro": "Utilizatorii din România pot primi mesaje care invocă o plată eșuată pentru abonamentul Netflix și urmăresc să le obțină datele cardului. DNSC a indicat atât măsurile de precauție, cât și canalele pentru raportarea incidentelor și consultarea informațiilor despre site-urile frauduloase identificate.",
-    "content_ro": "• **Avertizarea DNSC de joi** vizează o metodă de fraudă online semnalată în România. Atacatorii folosesc fără drept numele Netflix și trimit notificări care par să anunțe că plata abonamentului nu a putut fi încasată.\n\n• **Amenințarea suspendării contului** este folosită pentru a determina destinatarul să acționeze repede, fără verificări suficiente. Linkul din mesaj duce la o pagină care copiază aspectul serviciului și solicită datele cardului; informațiile obținute pot fi folosite ulterior pentru tranzacții frauduloase.\n\n• **Pentru a evita capcana**, utilizatorii ar trebui să nu deschidă linkuri din mesaje nesolicitate și să tasteze direct în browser adresa serviciului pe care vor să îl acceseze. DNSC recomandă să nu fie transmise date bancare sau de card prin SMS ori prin pagini accesate din astfel de mesaje, mai ales când se invocă urgența unei plăți.\n\n• **Dacă datele au fost deja furnizate**, banca trebuie contactată imediat pentru a încerca oprirea operațiunilor neautorizate. Incidentele suspecte pot fi raportate DNSC prin formularul de pe pnrisc.dnsc.ro sau telefonic, la numărul 1911.\n\n• **Pentru verificarea site-urilor frauduloase**, DNSC pune la dispoziție portalul blacklist.dnsc.ro, unde sunt publicate informații actualizate despre paginile descoperite în activitatea de monitorizare. Potrivit instituției, extensia de browser poate bloca automat aceste adrese atunci când este activată.",
-    "importance_score": 58.0
   },
   {
     "group_id": "group_fc1f936115",
