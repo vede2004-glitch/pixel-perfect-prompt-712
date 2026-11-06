@@ -6,7 +6,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 40,
+    "sources_count": 41,
     "sources": [
       {
         "source": "Digi24",
@@ -207,6 +207,11 @@
         "source": "Maszol",
         "title": "Fenyegetett légiközlekedés: felelősöket keres Európa",
         "link": "https://maszol.ro/belfold/Fenyegetett-legikozlekedes-felelosoket-keres-Europa"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cel puțin 18 zboruri, perturbate în Europa din cauza alertelor cu bombă",
+        "link": "https://stirileprotv.ro/cel-putin-18-zboruri-perturbate-in-europa-din-cauza-alertelor-cu-bomba.html"
       }
     ],
     "published_at": 1793973002,
@@ -216,7 +221,7 @@
     "title_ro": "Alerte cu bombă în Europa: noi zboruri vizate, anchetele continuă",
     "lead_ro": "La 5 noiembrie, mai multe zboruri europene au fost verificate sau deviate după amenințări, iar estimările privind numărul aeronavelor vizate au variat între 25 și 28. A doua zi, o cursă TAROM de la Praga la București a primit o alertă, în timp ce autoritățile au continuat cercetările privind originea mesajelor și țintele aeriene detectate în apropierea județului Tulcea.",
     "content_ro": "• **Alertele din 5 noiembrie:** Pentru numărul zborurilor vizate în acea zi au fost publicate estimări de 18, 25 și 28; în primele trei zile ale săptămânii au fost afectate cel puțin 23 de curse. Aeronavele au fost verificate în aeroporturi din zece țări, fără să fie găsiți explozibili. Autoritățile nu au confirmat o legătură între cazuri.\n\n• **Aer Lingus și ancheta din Franța:** Cursa Dublin–Roma a fost direcționată către baza militară de la Évreux. Procurorii francezi verifică dacă pilotul a refuzat inițial aterizarea la baza militară; două avioane de vânătoare au escortat aeronava. Pilotul a fost convocat pentru o audiere voluntară, iar pasagerii au coborât în siguranță.\n\n• **București, 5 noiembrie:** Avionul Wizz Air sosit din Milano, cu 182 de pasageri și șapte membri ai echipajului, a aterizat la Otopeni; cursa Air Serbia din Belgrad a ajuns la 15:20. Verificările ambelor aeronave nu au confirmat amenințările. Ulterior au fost semnalate alte alerte, inclusiv pentru o cursă KLM spre Tel Aviv, cu escală la București; presa română a relatat despre cinci amenințări în total.\n\n• **TAROM, 6 noiembrie:** Cursa RO226 de la Praga la București, cu 102 pasageri și șase membri ai echipajului, a aterizat în siguranță la 12:19. SRI a descris alerta drept nespecifică, iar verificările nu au identificat explozibili. Serviciul a precizat că autorii sunt căutați în cadrul unor investigații desfășurate de autorități din mai multe țări; afirmațiile apărute public nu dovedesc originea amenințărilor.\n\n• **Alte alerte:** La Praga au fost verificate patru zboruri la sosire și cinci la plecare, fără dispozitive explozive; o cursă Wizz Air Praga–Roma a fost deviată la Veneția. În județul Tulcea, RO-Alertul nocturn a fost activ între 00:19 și 00:41, iar cel de dimineață, emis după detectarea unei ținte la est de Sulina, între 08:56 și 09:27. Nu au fost raportate încălcări ale spațiului aerian românesc.",
-    "importance_score": 415.0
+    "importance_score": 425.0
   },
   {
     "group_id": "group_f1c3006e07",
@@ -4554,6 +4559,33 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_63bff23301",
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Fostă Miss Thailanda, arestată după ce ar fi luat 30 de milioane de dolari din banii destinați victimelor inundațiilor",
+        "link": "https://www.mediafax.ro/stirile-zilei/fosta-miss-thailanda-arestata-dupa-ce-ar-fi-luat-30-de-milioane-de-dolari-din-banii-destinati-victimelor-inundatiilor-23838849"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Fostă Miss Thailanda, arestată într-un dosar privind deturnarea a 30 de milioane de dolari pentru sinistrați",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/fosta-miss-thailanda-arestata-intr-un-dosar-2569539.html"
+      }
+    ],
+    "published_at": 1793976389,
+    "title_hu": "Fostă Miss Thailanda, arestată după ce ar fi luat 30 de milioane de dolari din banii destinați victimelor inundațiilor",
+    "lead_hu": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, de…",
+    "content_hu": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, destinați victimelor inundațiilor.",
+    "title_ro": "Fostă Miss Thailanda, arestată după ce ar fi luat 30 de milioane de dolari din banii destinați victimelor inundațiilor",
+    "lead_ro": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, de…",
+    "content_ro": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, destinați victimelor inundațiilor.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_261cabe553",
     "category": "Általános",
     "is_synthesized": false,
@@ -4694,6 +4726,33 @@
     "title_ro": "Spectacol de folclor de Ziua Națională, la Oradea",
     "lead_ro": "Evenimentul „România ne unește” este programat pentru 30 noiembrie 2026, la Casa de Cultură a Sindicatelor din Oradea. Pe scenă vor evolua interpreți și ansambluri asociate mai multor regiuni ale țării.",
     "content_ro": "• **Pe 30 noiembrie, de la ora 19:00**, Casa de Cultură a Sindicatelor din Oradea va găzdui spectacolul „România ne unește”, organizat cu prilejul Zilei Naționale. Programul reunește muzică populară și momente coregrafice într-o manifestare dedicată tradițiilor românești.\n\n• **Repertoriul regional** va cuprinde cântece ardelenești interpretate de Veta Biriș și Dinu Iancu Sălăjanu, precum și momente maramureșene susținute de Florentina și Petre Giurgi. Andreea Voica și Deian Galetin vor reprezenta zona Banatului, iar Emilia Dorobanțu va interpreta piese din Oltenia.\n\n• **Specificul folcloric bihorean** va fi prezentat de Antonela Ferche Buțiu. În program sunt incluse și apariții ale Grupului Lioara, Ansamblului Folcloric „Bihorul”, Ansamblului Folcloric „Floarea Barcăului” și Ansamblului „Vetre Bihorene”, cu momente de dans și tradiții locale.\n\n• **Acompaniamentul muzical** va fi asigurat de Orchestra Rapsodia Bihoreană, condusă de Liviu Buțiu. Iuliana Tudor va prezenta spectacolul, care aduce laolaltă artiști și grupuri folclorice din mai multe zone, într-un program construit în jurul diversității culturale regionale.\n\n• **Biletele costă 40 de lei** și se pot cumpăra numai de la casieria Casei de Cultură a Sindicatelor din Oradea. Pentru informații privind accesul, organizatorii au indicat numărul de telefon 0259 468 46.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_82e1bc04ff",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
+        "link": "https://www.gsp.ro/sporturi/altele/luis-lauret-vicecampion-mondial-la-haltere-la-categoria-110-kg-stilul-smuls-si-locul-4-la-total-996588.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "România urcă pe podium la Mondialele de haltere. Luis Lauret câștigă argintul și își depășește recordul de la Europene",
+        "link": "https://www.mediafax.ro/sport/romania-urca-pe-podium-la-mondialele-de-haltere-luis-lauret-castiga-argintul-si-isi-depaseste-recordul-de-la-europene-23838909"
+      }
+    ],
+    "published_at": 1793974099,
+    "title_hu": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
+    "lead_hu": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației trico…",
+    "content_hu": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației tricolore la această ediție. Halterofilii români și-a încheiat evoluția la Campionatele Mondiale de la Ningo (27 octombrie – 8 noiembrie) odată cu participarea lui Luis Lauret la categoria 110 kg. ...",
+    "title_ro": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
+    "lead_ro": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației trico…",
+    "content_ro": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației tricolore la această ediție. Halterofilii români și-a încheiat evoluția la Campionatele Mondiale de la Ningo (27 octombrie – 8 noiembrie) odată cu participarea lui Luis Lauret la categoria 110 kg. ...",
     "importance_score": 35.0
   },
   {
@@ -5005,35 +5064,6 @@
     "title_ro": "Riscurile digitale pentru alegeri, discutate la București",
     "lead_ro": "Președintele Nicușor Dan a vorbit vineri despre efectele mediului digital asupra democrației, în cadrul unei reuniuni organizate la Palatul Parlamentului din București. Dezbaterea Curții Constituționale a României a avut ca temă relația dintre societatea informațională și democrația constituțională.",
     "content_ro": "• **Reuniunea de vineri de la București** a fost organizată de Curtea Constituțională a României în cadrul programului de trei ani al președinției Asociației Curților Constituționale Francofone. Evenimentul a avut loc la Palatul Parlamentului, începând cu ora 15:00, iar tema dezbaterii a fost societatea informațională și democrația constituțională.\n\n• **Președintele Nicușor Dan** a afirmat că evaluarea caracterului democratic al alegerilor nu ar trebui limitată la verificarea numărării voturilor. În opinia sa, trebuie analizate și desfășurarea campaniei electorale, precum și condițiile în care alegătorii își formează opiniile în mod liber și pe baza informațiilor disponibile.\n\n• **Printre vulnerabilitățile digitale menționate** s-au numărat influențarea prin algoritmi, publicitatea politică direcționată, campaniile neautentice de influență și materialele false create cu ajutorul inteligenței artificiale. Dan a prezentat aceste fenomene drept riscuri care pot afecta societățile democratice.\n\n• **Potrivit avertismentului președintelui**, distribuirea algoritmică a conținutului poate face ca opiniile legitime ale cetățenilor să fie mai puțin vizibile și poate afecta exercitarea dreptului la informare. Participanții au abordat implicațiile sociale și constituționale ale rolului tot mai important al informației și tehnologiei.\n\n• **La reuniunea internațională** au fost reprezentate, alături de România, jurisdicții constituționale din Benin, Gabon, Albania, Belgia, Cambodgia, Mauritania, Franța și Senegal. La întâlnirea de lucru au participat și reprezentanți ai curților constituționale din Austria și Republica Moldova. Curtea română deține președinția asociației în perioada 2025–2028.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_83330e1f6d",
-    "fingerprint": "cac3dd65d1e369e513f38d805880cea2",
-    "category": "Erdély",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Un bărbat de 50 de ani a murit pe șantierul Autostrăzii Transilvania, în Bihor. ITM face verificări",
-        "link": "https://www.ebihoreanul.ro/stiri/un-barbat-de-50-de-ani-a-murit-pe-santierul-autostrazii-transilvania-in-bihor-itm-face-verificari-206395.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Un bărbat de 50 de ani a murit pe șantierul Autostrăzii Transilvania, în Bihor / I s-ar fi făcut rău / ITM face verificări",
-        "link": "https://www.g4media.ro/un-barbat-de-50-de-ani-a-murit-pe-santierul-autostrazii-transilvania-in-bihor-i-s-ar-fi-facut-rau-itm-face-verificari.html"
-      }
-    ],
-    "published_at": 1793969808,
-    "title_hu": "Meghalt egy munkás az erdélyi autópálya Bihar megyei építkezésén",
-    "lead_hu": "Pénteken életét vesztette egy 50 éves férfi a Transilvania autópálya Chiribiș térségében zajló építkezésén. A helyszínre érkező mentők újraélesztési kísérlete nem járt sikerrel; a munkavédelmi felügyelőség vizsgálja a haláleset körülményeit.",
-    "content_hu": "• **Pénteken, Chiribiș közelében** meghalt egy 50 éves férfi a Transilvania autópálya építési területén. A férfi a munkálatokon dolgozott; a haláleset helyszíne az építkezés Chiribiș felőli bejáratának közelében volt.\n\n• **A rosszullét után** a munkatársai hívtak segítséget a 112-es segélyhívón. A Bihar megyei mentőszolgálathoz 12 óra 11 perckor érkezett a riasztás, amelynek nyomán orvossal felszerelt egységet küldtek a helyszínre a margittai alegységtől.\n\n• **A mentők kiérkezésekor** a férfi szív- és légzésleállás állapotában volt. Az egészségügyi személyzet megkezdte az újraélesztést, de az életmentő beavatkozás nem vezetett eredményre.\n\n• **A Bihar megyei munkafelügyelőség** munkatársat küldött az építkezéshez, hogy ellenőrizze a történteket. A hatóság feladata annak feltárása, milyen körülmények között következett be a haláleset; a vizsgálat eredményéről a közölt információk nem számolnak be.\n\n• **Az építkezés szakasza** a beszámoló szerint a Suplacu de Barcău és Chiribiș közötti autópályarészhez tartozhat. A férfi halálának oka egyelőre nem ismert: a rendelkezésre álló adatok csak azt rögzítik, hogy a helyszínen rosszul lett, majd az újraélesztés sikertelen maradt.",
-    "title_ro": "Un muncitor a murit pe șantierul Autostrăzii Transilvania, în Bihor",
-    "lead_ro": "Un bărbat de 50 de ani a murit vineri pe șantierul Autostrăzii Transilvania, în apropiere de Chiribiș. Echipajul medical nu a reușit să-l resusciteze, iar Inspectoratul Teritorial de Muncă Bihor verifică împrejurările decesului.",
-    "content_ro": "• **Vineri, în zona Chiribiș**, un bărbat în vârstă de 50 de ani a murit pe șantierul Autostrăzii Transilvania. Acesta lucra la construcția autostrăzii, iar incidentul s-a produs în apropierea accesului în șantier dinspre localitate.\n\n• **După ce bărbatului i s-a făcut rău**, colegii săi au apelat numărul de urgență 112. Serviciul de Ambulanță Bihor a primit solicitarea la ora 12:11 și a trimis la fața locului un echipaj cu medic de la substația Marghita.\n\n• **La sosirea personalului medical**, bărbatul se afla în stop cardiorespirator. Salvatorii au început manevrele de resuscitare, însă intervenția nu a reușit să-i salveze viața.\n\n• **Inspectoratul Teritorial de Muncă Bihor** a fost informat despre deces și a trimis un inspector pentru verificări. Instituția urmărește să stabilească împrejurările în care s-a produs incidentul; informațiile disponibile nu includ concluziile controlului.\n\n• **Sectorul de autostradă** ar fi, potrivit relatării, porțiunea dintre Suplacu de Barcău și Chiribiș. Cauza exactă a morții nu este precizată: datele publicate menționează starea de rău și intervenția echipajului medical, fără a indica un diagnostic sau alte concluzii.",
     "importance_score": 35.0
   },
   {
@@ -5798,6 +5828,35 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_83330e1f6d",
+    "fingerprint": "cac3dd65d1e369e513f38d805880cea2",
+    "category": "Erdély",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Un bărbat de 50 de ani a murit pe șantierul Autostrăzii Transilvania, în Bihor. ITM face verificări",
+        "link": "https://www.ebihoreanul.ro/stiri/un-barbat-de-50-de-ani-a-murit-pe-santierul-autostrazii-transilvania-in-bihor-itm-face-verificari-206395.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un bărbat de 50 de ani a murit pe șantierul Autostrăzii Transilvania, în Bihor / I s-ar fi făcut rău / ITM face verificări",
+        "link": "https://www.g4media.ro/un-barbat-de-50-de-ani-a-murit-pe-santierul-autostrazii-transilvania-in-bihor-i-s-ar-fi-facut-rau-itm-face-verificari.html"
+      }
+    ],
+    "published_at": 1793969808,
+    "title_hu": "Meghalt egy munkás az erdélyi autópálya Bihar megyei építkezésén",
+    "lead_hu": "Pénteken életét vesztette egy 50 éves férfi a Transilvania autópálya Chiribiș térségében zajló építkezésén. A helyszínre érkező mentők újraélesztési kísérlete nem járt sikerrel; a munkavédelmi felügyelőség vizsgálja a haláleset körülményeit.",
+    "content_hu": "• **Pénteken, Chiribiș közelében** meghalt egy 50 éves férfi a Transilvania autópálya építési területén. A férfi a munkálatokon dolgozott; a haláleset helyszíne az építkezés Chiribiș felőli bejáratának közelében volt.\n\n• **A rosszullét után** a munkatársai hívtak segítséget a 112-es segélyhívón. A Bihar megyei mentőszolgálathoz 12 óra 11 perckor érkezett a riasztás, amelynek nyomán orvossal felszerelt egységet küldtek a helyszínre a margittai alegységtől.\n\n• **A mentők kiérkezésekor** a férfi szív- és légzésleállás állapotában volt. Az egészségügyi személyzet megkezdte az újraélesztést, de az életmentő beavatkozás nem vezetett eredményre.\n\n• **A Bihar megyei munkafelügyelőség** munkatársat küldött az építkezéshez, hogy ellenőrizze a történteket. A hatóság feladata annak feltárása, milyen körülmények között következett be a haláleset; a vizsgálat eredményéről a közölt információk nem számolnak be.\n\n• **Az építkezés szakasza** a beszámoló szerint a Suplacu de Barcău és Chiribiș közötti autópályarészhez tartozhat. A férfi halálának oka egyelőre nem ismert: a rendelkezésre álló adatok csak azt rögzítik, hogy a helyszínen rosszul lett, majd az újraélesztés sikertelen maradt.",
+    "title_ro": "Un muncitor a murit pe șantierul Autostrăzii Transilvania, în Bihor",
+    "lead_ro": "Un bărbat de 50 de ani a murit vineri pe șantierul Autostrăzii Transilvania, în apropiere de Chiribiș. Echipajul medical nu a reușit să-l resusciteze, iar Inspectoratul Teritorial de Muncă Bihor verifică împrejurările decesului.",
+    "content_ro": "• **Vineri, în zona Chiribiș**, un bărbat în vârstă de 50 de ani a murit pe șantierul Autostrăzii Transilvania. Acesta lucra la construcția autostrăzii, iar incidentul s-a produs în apropierea accesului în șantier dinspre localitate.\n\n• **După ce bărbatului i s-a făcut rău**, colegii săi au apelat numărul de urgență 112. Serviciul de Ambulanță Bihor a primit solicitarea la ora 12:11 și a trimis la fața locului un echipaj cu medic de la substația Marghita.\n\n• **La sosirea personalului medical**, bărbatul se afla în stop cardiorespirator. Salvatorii au început manevrele de resuscitare, însă intervenția nu a reușit să-i salveze viața.\n\n• **Inspectoratul Teritorial de Muncă Bihor** a fost informat despre deces și a trimis un inspector pentru verificări. Instituția urmărește să stabilească împrejurările în care s-a produs incidentul; informațiile disponibile nu includ concluziile controlului.\n\n• **Sectorul de autostradă** ar fi, potrivit relatării, porțiunea dintre Suplacu de Barcău și Chiribiș. Cauza exactă a morții nu este precizată: datele publicate menționează starea de rău și intervenția echipajului medical, fără a indica un diagnostic sau alte concluzii.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_db88088df6",
     "fingerprint": "ecdce1961ac4996e81b001d2f4d8df91",
     "category": "Általános",
@@ -6432,33 +6491,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_79e3717cd5",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Republica Moldova vrea să introducă vize pentru ruși și belaruși",
-        "link": "https://www.mediafax.ro/politic/republica-moldova-vrea-sa-introduca-vize-pentru-rusi-si-belarusi-23838646"
-      },
-      {
-        "source": "G4Media",
-        "title": "Republica Moldova vrea să introducă vize pentru ruși și belaruși / Șeful Guvernului de la Chișinău: „Dacă normele UE o impun, eu cred că trebuie să luăm deciziile care ne permit să avansăm în procesul de integrare europeană”",
-        "link": "https://www.g4media.ro/republica-moldova-vrea-sa-introduca-vize-pentru-rusi-si-belarusi-seful-guvernului-de-la-chisinau-daca-normele-ue-o-impun-eu-cred-ca-trebuie-sa-luam-deciziile-care-ne-permit-sa-avansam-in.html"
-      }
-    ],
-    "published_at": 1793958931,
-    "title_hu": "Republica Moldova vrea să introducă vize pentru ruși și belaruși",
-    "lead_hu": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
-    "content_hu": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
-    "title_ro": "Republica Moldova vrea să introducă vize pentru ruși și belaruși",
-    "lead_ro": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
-    "content_ro": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_9d5b587c0f",
     "fingerprint": "c675e57489a743d2b711055da5c14aaf",
     "category": "Általános",
@@ -6687,6 +6719,33 @@
     "lead_ro": "Primăria Brașov a pus în funcțiune un sistem digital care permite căutarea locurilor de veci din cimitirele administrate de municipalitate. Vizitatorii pot primi indicații pe un panou interactiv sau pe telefon, după scanarea unui cod QR.",
     "content_ro": "• **Sistemul digital al Primăriei Brașov** este deja funcțional la Cimitirul Municipal. Utilizatorii caută un mormânt introducând numele persoanei decedate, iar ecranul afișează drumul până la locul respectiv și o imagine a monumentului funerar.\n\n• **Codurile QR** permit transferarea traseului pe telefon, astfel încât vizitatorii să îl poată urmări în timp ce se deplasează prin cimitir. Panoul interactiv se află momentan în clădirea administrației, iar municipalitatea intenționează să instaleze ulterior încă unul în exterior.\n\n• **Baza de date a platformei** reunește informații despre persoanele înhumate și aparținătorii lor. Locurile de veci au fost fotografiate și cartografiate digital, iar datele au fost confruntate cu evidențele administrației și cu inscripțiile de pe monumente. Serviciul poate fi accesat și online.\n\n• **Proiectul de digitalizare cuprinde aproximativ 41.000 de locuri de veci** din Cimitirul Municipal și cimitirul Șprenghi, ambele gestionate de Primăria Brașov. Potrivit cartografului care a realizat sistemul, posibilitatea de a găsi mormintele pe panouri și de a trimite traseul pe telefon reprezintă o premieră în România.\n\n• **Cimitirul Municipal** se află pe strada Dimitrie Anghel, la numărul 19, și ocupă circa 20 de hectare. Acolo sunt aproximativ 45.000 de locuri de veci, iar gradul de ocupare depășește 95%, conform informațiilor publicate. Administrația locală caută variante de extindere sau un teren pentru amenajarea unui nou cimitir.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_79e3717cd5",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Republica Moldova vrea să introducă vize pentru ruși și belaruși",
+        "link": "https://www.mediafax.ro/politic/republica-moldova-vrea-sa-introduca-vize-pentru-rusi-si-belarusi-23838646"
+      },
+      {
+        "source": "G4Media",
+        "title": "Republica Moldova vrea să introducă vize pentru ruși și belaruși / Șeful Guvernului de la Chișinău: „Dacă normele UE o impun, eu cred că trebuie să luăm deciziile care ne permit să avansăm în procesul de integrare europeană”",
+        "link": "https://www.g4media.ro/republica-moldova-vrea-sa-introduca-vize-pentru-rusi-si-belarusi-seful-guvernului-de-la-chisinau-daca-normele-ue-o-impun-eu-cred-ca-trebuie-sa-luam-deciziile-care-ne-permit-sa-avansam-in.html"
+      }
+    ],
+    "published_at": 1793958931,
+    "title_hu": "Republica Moldova vrea să introducă vize pentru ruși și belaruși",
+    "lead_hu": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
+    "content_hu": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
+    "title_ro": "Republica Moldova vrea să introducă vize pentru ruși și belaruși",
+    "lead_ro": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
+    "content_ro": "Republica Moldova face pregătiri pentru a introduce vize pentru ruși și belaruși. Autoritățile confirmă demersurile, dar nu au stabilit data introducerii vizelor.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_871d036970",
@@ -7676,6 +7735,50 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_3df22679ac",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Radu Miruță (USR): Alt fake news cum că eu aș fi blocat proiectul cu drone produse în România. A ajuns un paradox… să fiu certat pentru că am cerut ca astfel de lucruri să fie făcute de noi, și nu cumpărate de la alții",
+        "link": "https://www.g4media.ro/radu-miruta-usr-alt-fake-news-cum-ca-eu-as-fi-blocat-proiectul-cu-drone-produse-in-romania-a-ajuns-un-paradox-sa-fiu-certat-pentru-ca-am-cerut-ca-astfel-de-lucruri-sa-fie-facute-de-noi-si-nu-c.html"
+      }
+    ],
+    "published_at": 1793980649,
+    "title_hu": "Radu Miruță (USR): Alt fake news cum că eu aș fi blocat proiectul cu drone produse în România. A ajuns un paradox… să fiu certat pentru că am cerut ca astfel de lucruri să fie făcute de noi, și nu cumpărate de la alții",
+    "lead_hu": "Fostul ministru al Apărării, Radu Miruță, a denunțat vineri un fake news legat de proiectul dronelor produse în România. „Alt fake news cum că eu aș fi blocat proiectul cu drone produse în România. E ...",
+    "content_hu": "Fostul ministru al Apărării, Radu Miruță, a denunțat vineri un fake news legat de proiectul dronelor produse în România. „Alt fake news cum că eu aș fi blocat proiectul cu drone produse în România. E fals! Ce scrie stiripesurse.ro, pe baza unor „surse” anonime, este neadevărat. Și ar fi totuși serioase niște dovezi când se […] © G4Media.ro.",
+    "title_ro": "Radu Miruță (USR): Alt fake news cum că eu aș fi blocat proiectul cu drone produse în România. A ajuns un paradox… să fiu certat pentru că am cerut ca astfel de lucruri să fie făcute de noi, și nu cumpărate de la alții",
+    "lead_ro": "Fostul ministru al Apărării, Radu Miruță, a denunțat vineri un fake news legat de proiectul dronelor produse în România. „Alt fake news cum că eu aș fi blocat proiectul cu drone produse în România. E ...",
+    "content_ro": "Fostul ministru al Apărării, Radu Miruță, a denunțat vineri un fake news legat de proiectul dronelor produse în România. „Alt fake news cum că eu aș fi blocat proiectul cu drone produse în România. E fals! Ce scrie stiripesurse.ro, pe baza unor „surse” anonime, este neadevărat. Și ar fi totuși serioase niște dovezi când se […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c1a2215ce1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Pierderi de 456 de miliarde de dolari în două zile pentru Tesla și SpaceX. Pariul politic al lui Musk devine un risc bursier",
+        "link": "https://www.digi24.ro/stiri/externe/pierderi-de-456-de-miliarde-de-dolari-in-doua-zile-pentru-tesla-si-spacex-pariul-politic-al-lui-musk-devine-un-risc-bursier-4025377"
+      }
+    ],
+    "published_at": 1793980543,
+    "title_hu": "Pierderi de 456 de miliarde de dolari în două zile pentru Tesla și SpaceX. Pariul politic al lui Musk devine un risc bursier",
+    "lead_hu": "Elon Musk a investit miliarde în succesul politic al Partidului Republican. După înfrângerea acestuia la alegerile intermediare din SUA, companiile sale se confruntă cu o presiune masivă pe bursă. Inv...",
+    "content_hu": "Elon Musk a investit miliarde în succesul politic al Partidului Republican. După înfrângerea acestuia la alegerile intermediare din SUA, companiile sale se confruntă cu o presiune masivă pe bursă. Investitorii se tem că tocmai Washingtonul ar putea pune în pericol planurile sale cele mai ambițioase, scrie focus.de.",
+    "title_ro": "Pierderi de 456 de miliarde de dolari în două zile pentru Tesla și SpaceX. Pariul politic al lui Musk devine un risc bursier",
+    "lead_ro": "Elon Musk a investit miliarde în succesul politic al Partidului Republican. După înfrângerea acestuia la alegerile intermediare din SUA, companiile sale se confruntă cu o presiune masivă pe bursă. Inv...",
+    "content_ro": "Elon Musk a investit miliarde în succesul politic al Partidului Republican. După înfrângerea acestuia la alegerile intermediare din SUA, companiile sale se confruntă cu o presiune masivă pe bursă. Investitorii se tem că tocmai Washingtonul ar putea pune în pericol planurile sale cele mai ambițioase, scrie focus.de.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_9d77b84184",
     "category": "Általános",
     "is_synthesized": false,
@@ -7717,6 +7820,28 @@
     "title_ro": "Trei zodii vor avea parte de noroc pe toate planurile. Urmează zile cu reușite neașteptate",
     "lead_ro": "Vești excelente pentru trei nativi ai zodiacului, care se vor bucura de zile pline de oportunități și întâmplări favorabile. Perioada 6-15 noiembrie vine cu surprize plăcute, șanse neașteptate și cont...",
     "content_ro": "Vești excelente pentru trei nativi ai zodiacului, care se vor bucura de zile pline de oportunități și întâmplări favorabile. Perioada 6-15 noiembrie vine cu surprize plăcute, șanse neașteptate și contexte care le pot aduce reușite importante. Astrele par să le fie alături, însă aceștia nu trebuie să ignore indiciile primite și nici oportunitățile aparent mărunte […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_090650c4db",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un cetățean maghiar a ajuns sclavul unei familii din Băile Tușnad pentru o pretinsă datorie de 1.000 de euro, nestinsă niciodată",
+        "link": "https://www.mediafax.ro/social/un-cetatean-maghiar-a-ajuns-sclavul-unei-familii-din-baile-tusnad-pentru-o-pretinsa-datorie-de-1-000-de-euro-nestinsa-niciodata-23838911"
+      }
+    ],
+    "published_at": 1793980088,
+    "title_hu": "Un cetățean maghiar a ajuns sclavul unei familii din Băile Tușnad pentru o pretinsă datorie de 1.000 de euro, nestinsă niciodată",
+    "lead_hu": "Doi membri ai aceleiași familii, un bărbat de 20 de ani și o femeie de 46 de ani, au fost arestați preventiv pentru 30 de zile, fiind acuzați de trafic de persoane și supunerea la muncă forțată sau ob...",
+    "content_hu": "Doi membri ai aceleiași familii, un bărbat de 20 de ani și o femeie de 46 de ani, au fost arestați preventiv pentru 30 de zile, fiind acuzați de trafic de persoane și supunerea la muncă forțată sau obligatorie, acuzați că au exploatat timp de peste un an un cetățean maghiar, în vârstă de 56 de ani.",
+    "title_ro": "Un cetățean maghiar a ajuns sclavul unei familii din Băile Tușnad pentru o pretinsă datorie de 1.000 de euro, nestinsă niciodată",
+    "lead_ro": "Doi membri ai aceleiași familii, un bărbat de 20 de ani și o femeie de 46 de ani, au fost arestați preventiv pentru 30 de zile, fiind acuzați de trafic de persoane și supunerea la muncă forțată sau ob...",
+    "content_ro": "Doi membri ai aceleiași familii, un bărbat de 20 de ani și o femeie de 46 de ani, au fost arestați preventiv pentru 30 de zile, fiind acuzați de trafic de persoane și supunerea la muncă forțată sau obligatorie, acuzați că au exploatat timp de peste un an un cetățean maghiar, în vârstă de 56 de ani.",
     "importance_score": 0.0
   },
   {
@@ -8512,28 +8637,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_63bff23301",
-    "category": "Gazdaság",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Fostă Miss Thailanda, arestată după ce ar fi luat 30 de milioane de dolari din banii destinați victimelor inundațiilor",
-        "link": "https://www.mediafax.ro/stirile-zilei/fosta-miss-thailanda-arestata-dupa-ce-ar-fi-luat-30-de-milioane-de-dolari-din-banii-destinati-victimelor-inundatiilor-23838849"
-      }
-    ],
-    "published_at": 1793976389,
-    "title_hu": "Fostă Miss Thailanda, arestată după ce ar fi luat 30 de milioane de dolari din banii destinați victimelor inundațiilor",
-    "lead_hu": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, de…",
-    "content_hu": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, destinați victimelor inundațiilor.",
-    "title_ro": "Fostă Miss Thailanda, arestată după ce ar fi luat 30 de milioane de dolari din banii destinați victimelor inundațiilor",
-    "lead_ro": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, de…",
-    "content_ro": "Panadda „Boom” Wongphudee, fostă Miss Thailanda, a fost arestată vineri sub acuzații de spălare de bani și fraudă, după ce ar fi luat 30 de milioane de dolari din banii unei organizații caritabile, destinați victimelor inundațiilor.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_7a5291a561",
     "category": "Politika",
     "is_synthesized": false,
@@ -8883,28 +8986,6 @@
     "title_ro": "UniFEST 2026 începe în București și alte 14 centre universitare. Peste 120 de evenimente gratuite pentru studenți",
     "lead_ro": "Uniunea Studenților din România (UNI) organizează, în perioada 6–16 noiembrie, cea de-a XXV-a ediție a Festivalului UniFEST. Pe parcursul celor 11 zile, studenții din 15 centre universitare vor putea …",
     "content_ro": "Uniunea Studenților din România (UNI) organizează, în perioada 6–16 noiembrie, cea de-a XXV-a ediție a Festivalului UniFEST. Pe parcursul celor 11 zile, studenții din 15 centre universitare vor putea participa gratuit la peste 120 de activități educaționale, culturale, sportive și de divertisment.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_82e1bc04ff",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
-        "link": "https://www.gsp.ro/sporturi/altele/luis-lauret-vicecampion-mondial-la-haltere-la-categoria-110-kg-stilul-smuls-si-locul-4-la-total-996588.html"
-      }
-    ],
-    "published_at": 1793974099,
-    "title_hu": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
-    "lead_hu": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației trico…",
-    "content_hu": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației tricolore la această ediție. Halterofilii români și-a încheiat evoluția la Campionatele Mondiale de la Ningo (27 octombrie – 8 noiembrie) odată cu participarea lui Luis Lauret la categoria 110 kg. ...",
-    "title_ro": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
-    "lead_ro": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației trico…",
-    "content_ro": "Halterofilul român Luis Lauret (29 de ani) a cucerit medalia de argint la stilul smuls, categoria 110 kg, în cadrul Campionatelor Mondiale de la Ningbo (China). Este singura medalie a delegației tricolore la această ediție. Halterofilii români și-a încheiat evoluția la Campionatele Mondiale de la Ningo (27 octombrie – 8 noiembrie) odată cu participarea lui Luis Lauret la categoria 110 kg. ...",
     "importance_score": 0.0
   },
   {
@@ -21008,116 +21089,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_5bf9bc96a0",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Elevi români, premiați de cosmonautul Dumitru Prunariu pentru proiectul unei colonii spațiale destinate a 100.000 de oameni",
-        "link": "https://www.mediafax.ro/life-inedit/elevi-romani-premiati-de-cosmonautul-dumitru-prunariu-pentru-proiectul-unei-colonii-spatiale-destinate-a-100-000-de-oameni-23838251"
-      }
-    ],
-    "published_at": 1793894262,
-    "title_hu": "Elevi români, premiați de cosmonautul Dumitru Prunariu pentru proiectul unei colonii spațiale destinate a 100.000 de oameni",
-    "lead_hu": "Primul cosmonaut român, Dumitru Prunariu, va înmâna sâmbătă, la București, Diplomele de Excelență „Dumitru Prunariu” echipei EXELIXIS, care a obținut locul al II-lea la competiția internațională Gerar…",
-    "content_hu": "Primul cosmonaut român, Dumitru Prunariu, va înmâna sâmbătă, la București, Diplomele de Excelență „Dumitru Prunariu” echipei EXELIXIS, care a obținut locul al II-lea la competiția internațională Gerard K. O'Neill Space Settlement Contest 2026, organizată de National Space Society. Elevii români au proiectat o colonie spațială pentru 100.000 de oameni.",
-    "title_ro": "Elevi români, premiați de cosmonautul Dumitru Prunariu pentru proiectul unei colonii spațiale destinate a 100.000 de oameni",
-    "lead_ro": "Primul cosmonaut român, Dumitru Prunariu, va înmâna sâmbătă, la București, Diplomele de Excelență „Dumitru Prunariu” echipei EXELIXIS, care a obținut locul al II-lea la competiția internațională Gerar…",
-    "content_ro": "Primul cosmonaut român, Dumitru Prunariu, va înmâna sâmbătă, la București, Diplomele de Excelență „Dumitru Prunariu” echipei EXELIXIS, care a obținut locul al II-lea la competiția internațională Gerard K. O'Neill Space Settlement Contest 2026, organizată de National Space Society. Elevii români au proiectat o colonie spațială pentru 100.000 de oameni.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_901cd6493f",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Presshub: Curtea de Apel București condusă de Liana Arsenie a omorât practic dosarul DNA care-l viza pe Primarului din Chiajna Mircea Minea, a cărui familie a făcut afaceri cu Lia Savonea",
-        "link": "https://www.g4media.ro/presshub-curtea-de-apel-bucuresti-condusa-de-liana-arsenie-a-omorat-practic-dosarul-dna-care-l-viza-pe-primarului-din-chiajna-mircea-minea-a-carui-familie-a-facut-afaceri-cu-lia-savonea.html"
-      }
-    ],
-    "published_at": 1793894220,
-    "title_hu": "Presshub: Curtea de Apel București condusă de Liana Arsenie a omorât practic dosarul DNA care-l viza pe Primarului din Chiajna Mircea Minea, a cărui familie a făcut afaceri cu Lia Savonea",
-    "lead_hu": "Curtea de Apel București a admis, în majoritate, contestația primarului din Chiajna, Mircea Minea, și a dispus anularea actelor de urmărire penală efectuate de DNA începând cu 25 iulie 2017, precum și…",
-    "content_hu": "Curtea de Apel București a admis, în majoritate, contestația primarului din Chiajna, Mircea Minea, și a dispus anularea actelor de urmărire penală efectuate de DNA începând cu 25 iulie 2017, precum și restituirea dosarului la procurori, transmite Presshub. Decizia a fost pronunțată pe 6 octombrie 2026, în dosarul în care edilul este acuzat că ar […] © G4Media.ro.",
-    "title_ro": "Presshub: Curtea de Apel București condusă de Liana Arsenie a omorât practic dosarul DNA care-l viza pe Primarului din Chiajna Mircea Minea, a cărui familie a făcut afaceri cu Lia Savonea",
-    "lead_ro": "Curtea de Apel București a admis, în majoritate, contestația primarului din Chiajna, Mircea Minea, și a dispus anularea actelor de urmărire penală efectuate de DNA începând cu 25 iulie 2017, precum și…",
-    "content_ro": "Curtea de Apel București a admis, în majoritate, contestația primarului din Chiajna, Mircea Minea, și a dispus anularea actelor de urmărire penală efectuate de DNA începând cu 25 iulie 2017, precum și restituirea dosarului la procurori, transmite Presshub. Decizia a fost pronunțată pe 6 octombrie 2026, în dosarul în care edilul este acuzat că ar […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c26e3a75d7",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Scene șocante în parcarea unui mall din Ploiești: un exhibiționist și hoț, reținut după ce s-a dezbrăcat în fața unor angajate",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/scene-socante-in-parcarea-unui-mall-din-ploiesti-2569282.html"
-      }
-    ],
-    "published_at": 1793894176,
-    "title_hu": "Scene șocante în parcarea unui mall din Ploiești: un exhibiționist și hoț, reținut după ce s-a dezbrăcat în fața unor angajate",
-    "lead_hu": "Un bărbat în vârstă de 27 de ani, prins furând într-un centru comercial din municipiul Ploieşti, s-a dezbrăcat în parcarea mall-ului, dându-şi jos pantalonii. El este anchetat pentru furturi din trei …",
-    "content_hu": "Un bărbat în vârstă de 27 de ani, prins furând într-un centru comercial din municipiul Ploieşti, s-a dezbrăcat în parcarea mall-ului, dându-şi jos pantalonii. El este anchetat pentru furturi din trei magazine şi ultraj contra bunelor moravuri, joi fiind reţinut.",
-    "title_ro": "Scene șocante în parcarea unui mall din Ploiești: un exhibiționist și hoț, reținut după ce s-a dezbrăcat în fața unor angajate",
-    "lead_ro": "Un bărbat în vârstă de 27 de ani, prins furând într-un centru comercial din municipiul Ploieşti, s-a dezbrăcat în parcarea mall-ului, dându-şi jos pantalonii. El este anchetat pentru furturi din trei …",
-    "content_ro": "Un bărbat în vârstă de 27 de ani, prins furând într-un centru comercial din municipiul Ploieşti, s-a dezbrăcat în parcarea mall-ului, dându-şi jos pantalonii. El este anchetat pentru furturi din trei magazine şi ultraj contra bunelor moravuri, joi fiind reţinut.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_197393ca37",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Controverse după introducerea cuvântului „feeling” în DOOM: „Limba româna va deveni romgleză, mai abitir decât franțuzismul lui furculision”",
-        "link": "https://adevarul.ro/stiri-interne/societate/controverse-dupa-introducerea-cuvantului-feeling-2569283.html"
-      }
-    ],
-    "published_at": 1793894111,
-    "title_hu": "Controverse după introducerea cuvântului „feeling” în DOOM: „Limba româna va deveni romgleză, mai abitir decât franțuzismul lui furculision”",
-    "lead_hu": "Introducerea cuvântului „feeling” în Dicționarul ortografic, ortoepic și morfologic al limbii române (DOOM) a stârnit numeroase reacții pe rețelele de socializare.",
-    "content_hu": "Introducerea cuvântului „feeling” în Dicționarul ortografic, ortoepic și morfologic al limbii române (DOOM) a stârnit numeroase reacții pe rețelele de socializare.",
-    "title_ro": "Controverse după introducerea cuvântului „feeling” în DOOM: „Limba româna va deveni romgleză, mai abitir decât franțuzismul lui furculision”",
-    "lead_ro": "Introducerea cuvântului „feeling” în Dicționarul ortografic, ortoepic și morfologic al limbii române (DOOM) a stârnit numeroase reacții pe rețelele de socializare.",
-    "content_ro": "Introducerea cuvântului „feeling” în Dicționarul ortografic, ortoepic și morfologic al limbii române (DOOM) a stârnit numeroase reacții pe rețelele de socializare.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b38e71b263",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Instanța anticorupție din Ucraina dispune deschiderea unei anchete împotriva unuia dintre aliații lui Zelenski",
-        "link": "https://hotnews.ro/instanta-anticoruptie-din-ucraina-dispune-deschiderea-unei-anchete-impotriva-unuia-dintre-aliatii-lui-zelenski-2396122"
-      }
-    ],
-    "published_at": 1793894009,
-    "title_hu": "Instanța anticorupție din Ucraina dispune deschiderea unei anchete împotriva unuia dintre aliații lui Zelenski",
-    "lead_hu": "Înalta Curte Anticorupție a Ucrainei i-a ordonat procurorului general interimar Anton Kovalskîi să deschidă un dosar privind presupusa implicare în fapte de corupție a lui David Arahamia, liderul grup…",
-    "content_hu": "Înalta Curte Anticorupție a Ucrainei i-a ordonat procurorului general interimar Anton Kovalskîi să deschidă un dosar privind presupusa implicare în fapte de corupție a lui David Arahamia, liderul grupului parlamentar al partidului prezidențial, Slujitorul Poporului, potrivit The Kyiv Independent. Decizia vine în urma unei plângeri depuse în octombrie de Centrul de Acțiune Anticorupție (AntAC), o …",
-    "title_ro": "Instanța anticorupție din Ucraina dispune deschiderea unei anchete împotriva unuia dintre aliații lui Zelenski",
-    "lead_ro": "Înalta Curte Anticorupție a Ucrainei i-a ordonat procurorului general interimar Anton Kovalskîi să deschidă un dosar privind presupusa implicare în fapte de corupție a lui David Arahamia, liderul grup…",
-    "content_ro": "Înalta Curte Anticorupție a Ucrainei i-a ordonat procurorului general interimar Anton Kovalskîi să deschidă un dosar privind presupusa implicare în fapte de corupție a lui David Arahamia, liderul grupului parlamentar al partidului prezidențial, Slujitorul Poporului, potrivit The Kyiv Independent. Decizia vine în urma unei plângeri depuse în octombrie de Centrul de Acțiune Anticorupție (AntAC), o …",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_a008fbd743",
     "fingerprint": "f83e2b1a5a24243f492f7670daa93162",
     "category": "Általános",
@@ -21444,6 +21415,33 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Ministrul Natalia Intotero, despre gestionarea lucrărilor la barajul Mihăileni: E o bătaie de joc, voi solicita un audit",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 20.0
+  },
+  {
+    "group_id": "group_340826a4ac",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Niculescu: Societatea informațională și democrația constituțională - o temă care reprezintă una dintre provocările lumii contemporane",
+        "link": "https://agerpres.ro/politic/2026/11/06/niculescu-societatea-informationala-si-democratia-constitutionala---o-tema-care-reprezinta-una-dintr--1610848"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Luca Niculescu: Societatea informațională și democrația constituțională, provocări majore ale lumii contemporane",
+        "link": "https://www.mediafax.ro/politic/luca-niculescu-societatea-informationala-si-democratia-constitutionala-provocari-majore-ale-lumii-contemporane-23838921"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Niculescu: Societatea informațională și democrația constituțională - o temă care reprezintă una dintre provocările lumii contemporane",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Niculescu: Societatea informațională și democrația constituțională - o temă care reprezintă una dintre provocările lumii contemporane",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 20.0
@@ -22533,28 +22531,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Giurgiu: Narcis Coman, fotbalistul anului în România în 1978, nu a uitat calificarea cu FC Argeș din 1967",
-    "lead_ro": "",
-    "content_ro": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_340826a4ac",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Niculescu: Societatea informațională și democrația constituțională - o temă care reprezintă una dintre provocările lumii contemporane",
-        "link": "https://agerpres.ro/politic/2026/11/06/niculescu-societatea-informationala-si-democratia-constitutionala---o-tema-care-reprezinta-una-dintr--1610848"
-      }
-    ],
-    "published_at": 1793923200,
-    "title_hu": "Niculescu: Societatea informațională și democrația constituțională - o temă care reprezintă una dintre provocările lumii contemporane",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Niculescu: Societatea informațională și democrația constituțională - o temă care reprezintă una dintre provocările lumii contemporane",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 0.0
