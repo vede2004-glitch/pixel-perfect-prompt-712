@@ -1,5 +1,209 @@
 [
   {
+    "group_id": "group_c51c333c68",
+    "fingerprint": "1d172cd5e1443cc5fec2960c0bc44936",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 37,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Alte două amenințări cu bombă la bordul unor avioane, la Otopeni. UE activează un mecanism critic pentru securitatea aviației",
+        "link": "https://www.digi24.ro/stiri/externe/alerta-cu-bomba-la-bordul-unui-airbus-a320-pe-ruta-dublin-roma-avionul-a-aterizat-de-urgenta-la-evreux-in-franta-4022797"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alertă cu bombă într-un avion venit de la Milano. A fost activată celula de criză pe Aeroportul Otopeni",
+        "link": "https://www.digi24.ro/stiri/actualitate/alerta-cu-bomba-intr-un-avion-venit-de-la-milano-a-fost-activata-celula-de-criza-pe-aeroportul-otopeni-4022973"
+      },
+      {
+        "source": "G4Media",
+        "title": "Val de alerte false cu bombă la avioane din toată Europa, două zboruri din România afectate. E suspectată o grupare din Rusia / UE activează mecanismul de schimb de informaţii privind securitatea aviaţiei",
+        "link": "https://www.g4media.ro/mai-multe-zboruri-din-europa-vizate-de-amenintari-cu-bomba-pentru-a-doua-oara-in-aceasta-saptamana.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Alertă cu bombă într-un avion Wizz Air. A fost activată celula de criză pe Aeroportul Henri Coandă",
+        "link": "https://www.cancan.ro/alerta-cu-bomba-intr-un-avion-wizz-air-a-fost-activata-celula-de-criza-pe-aeroportul-henri-coanda-21542380"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Egy nap alatt tucatnál is több európai repülőjáraton volt bombafenyegetés, romániai is van köztük",
+        "link": "https://transtelex.ro/kulfold/2026/11/05/repulo-bombafenyegetes"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Val de amenințări cu bombă în Europa: 18 zboruri vizate într-o singură zi. Experții suspectează un „act deliberat”",
+        "link": "https://www.mediafax.ro/externe/val-de-amenintari-cu-bomba-in-europa-18-zboruri-vizate-intr-o-singura-zi-expertii-suspecteaza-un-act-deliberat-23838171"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "INFOGRAFIC 23 de zboruri în 3 zile: cum s-a extins valul de amenințări cu bombă din Europa",
+        "link": "https://hotnews.ro/infografic-23-de-zboruri-in-3-zile-cum-s-a-extins-valul-de-amenintari-cu-bomba-din-europa-2395922"
+      },
+      {
+        "source": "Adevărul",
+        "title": "O nouă alertă cu bombă pe Aeroportul Otopeni. Amenințarea s-a dovedit a fi falsă",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/o-noua-alerta-cu-bomba-pe-aeroportul-otopeni-2569273.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Încă o alertă cu bombă pe Aeroportul Otopeni. Un avion Air Serbia, verificat de echipele de intervenție",
+        "link": "https://www.mediafax.ro/social/inca-o-alerta-cu-bomba-pe-aeroportul-otopeni-un-avion-air-serbia-verificat-de-echipele-de-interventie-23838228"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ordin refuzat de pilotul unei aeronave vizate de valul de alerte cu bombă. Franța a mobilizat avioane de vânătoare, un procuror a intrat pe fir",
+        "link": "https://hotnews.ro/pilotul-unui-avion-deviat-catre-franta-si-vizat-de-o-alerta-cu-bomba-a-refuzat-initial-sa-aterizeze-la-o-baza-militara-avioane-de-vanatoare-mobilizate-o-ancheta-a-fost-deschisa-2396207"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "25 de amenințări cu bombă au dat peste cap zborurile din Europa. Analist: „Există o singură entitate care ar avea interesul”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/25-de-amenintari-cu-bomba-au-dat-peste-cap-zborurile-din-europa-analist-exista-o-singura-entitate-care-ar-avea-interesul.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alertă în Tulcea, după atacuri asupra porturilor ucrainene de la Dunăre: Nu au fost raportate pătrunderi în spațiul aerian al României",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-tulcea-dupa-atacuri-asupra-porturilor-ucrainene-de-la-dunare-nu-au-fost-raportate-patrunderi-in-spatiul-aerian-al-romaniei-4024151"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ţintă aeriană detectată la est de Sulina: două F-16 au fost ridicate, a fost trimis mesaj Ro-Alert",
+        "link": "https://www.digi24.ro/stiri/alerta-in-tulcea-dupa-atacuri-asupra-porturilor-ucrainene-de-la-dunare-nu-au-fost-raportate-patrunderi-in-spatiul-aerian-al-romaniei-4024151"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alertă aeriană în cursul nopții în județul Tulcea, pe fondul atacurilor asupra porturilor ucrainene de la Dunăre",
+        "link": "https://www.mediafax.ro/social/alerta-aeriana-in-cursul-noptii-in-judetul-tulcea-pe-fondul-atacurilor-asupra-porturilor-ucrainene-de-la-dunare-23838500"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cinci amenințări cu bombă în România, în valul de alerte care a vizat peste 25 de zboruri din Europa într-o singură zi: „Ne-a fost frică”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cinci-amenintari-cu-bomba-in-romania-in-valul-de-alerte-care-a-vizat-peste-25-de-zboruri-din-europa-intr-o-singura-zi.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Atacuri rusești asupra porturilor ucrainene de la Dunăre. Populația din Tulcea, alertată în toiul nopții",
+        "link": "https://adevarul.ro/stiri-locale/tulcea/atacuri-rusesti-asupra-porturilor-ucrainene-de-la-2569362.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alarmă cu bombă la o cursă Tarom care vine de la Praga la București. Urmează să aterizeze pe Otopeni, cu 102 pasageri la bord",
+        "link": "https://www.g4media.ro/alarma-cu-bomba-la-o-cursa-tarom-care-vine-de-la-praga-la-bucuresti-urmeaza-sa-aterizeze-pe-otopeni-cu-102-pasageri-la-bord.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Amenințare cu bombă la bordul aeronavei TAROM care a aterizat la prânz la Otopeni, de pe ruta Praga - București",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/noua-alerta-cu-bomba-intr-un-avion-care-se-indreapta-catre-bucuresti-este-vorba-despre-o-aeronava-tarom-cu-102-pasageri-la-bord-4024571"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alertă cu bombă la bordul unui avion TAROM care vine de la Praga. 102 pasageri se află în aeronavă",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/alerta-cu-bomba-la-bordul-unui-avion-tarom-care-2569441.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Újabb bombafenyegetés egy Bukarest felé tartó repülőgépen: 102 utas van a Tarom járatán",
+        "link": "https://maszol.ro/belfold/Ujabb-bombafenyegetes-egy-Bukarest-fele-tarto-repulogepen-102-utas-van-a-Tarom-jaratan"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Alertă cu bombă într-un zbor Tarom Praga-București, cu 102 pasageri la bord",
+        "link": "https://hotnews.ro/alerta-cu-bomba-intr-un-zbor-tarom-praga-bucuresti-cu-102-pasageri-la-bord-2396672"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Alertă cu bombă la bordul unui avion! Cursa Dublin – Roma, deviată de urgență în Franța",
+        "link": "https://www.cancan.ro/alerta-cu-bomba-la-bordul-unui-avion-cursa-dublin-roma-deviata-de-urgenta-in-franta-21542326"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alertă cu bombă la bordul unui avion care zbura de la Milano la București. Celulă de criză pe Otopeni",
+        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-care-zbura-de-la-milano-la-bucuresti-celula-de-criza-pe-otopeni-23838024"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alertă cu bombă la bordul unui avion cu destinația Roma. Aeronava a aterizat de urgență la o bază militară din Franța. Este al optulea incident produs în Europa în câteva zile",
+        "link": "https://adevarul.ro/stiri-externe/europa/alerta-cu-bomba-la-bordul-unui-avion-cu-destinatia-2569143.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Alertă cu bombă la bordul unui avion care asigura legătura Dublin-Roma. Aeronava, deviată către o bază aeriană din Franța",
+        "link": "https://stirileprotv.ro/alerta-cu-bomba-la-bordul-unui-avion-care-asigura-legatura-dublin-roma-aeronava-deviata-catre-o-baza-aeriana-din-franta.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alertă cu bombă la bordul unui avion care zbura de la Dublin la Roma. A fost deviat către Franța",
+        "link": "https://www.mediafax.ro/externe/alerta-cu-bomba-la-bordul-unui-avion-care-zbura-de-la-dublin-la-roma-a-fost-deviat-catre-franta-23837991"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alertă cu bombă la bordul unui avion care zbura de la Dublin la Roma / Aeronava a aterizat în siguranță la o bază militară din Franța",
+        "link": "https://www.g4media.ro/alerta-cu-bomba-la-bordul-unui-avion-care-zbura-de-la-dublin-la-roma-aeronava-a-aterizat-in-siguranta-in-franta.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Alertă cu bombă la bordul unui avion de pasageri care zbura de la Dublin la Roma",
+        "link": "https://hotnews.ro/alerta-cu-bomba-la-bordul-unui-avion-de-pasageri-care-zbura-de-la-dublin-la-roma-2395570"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Amenințări cu bombe au forțat mai multe avioane să efectueze aterizări neplanificate în mai multe țări europene",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/amenintari-cu-bombe-au-fortat-mai-multe-avioane-sa-efectueze-aterizari-neplanificate-in-mai-multe-ta--1610311"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "O amenințare cu bombă obligă un Airbus care zbura de la Dublin spre Roma să aterizeze în Franța",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/o-amenintare-cu-bomba-obliga-un-airbus-care-zbura-de-la-dublin-spre-roma-sa-aterizeze-in-franta--1610302"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Un nou val de amenințări false cu bombă a afectat zeci de zboruri și aeroporturi europene (sinteză)",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/un-nou-val-de-amenintari-false-cu-bomba-a-afectat-zeci-de-zboruri-si-aeroporturi-europene-sinteza--1610387"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Amenințări cu bombă asupra zborurilor: Anchetă în Franța după ce un pilot a refuzat inițial să aterizeze la o bază militară",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/amenintari-cu-bomba-asupra-zborurilor-ancheta-in-franta-dupa-ce-un-pilot-a-refuzat-initial-sa-ateriz--1610465"
+      },
+      {
+        "source": "Digi24",
+        "title": "Noi amenințări privind siguranța traficului aerian din Europa: mai multe zboruri au primit iarăși alerte cu bombă",
+        "link": "https://www.digi24.ro/stiri/externe/ue/noi-amenintari-privind-siguranta-traficului-aerian-din-europa-mai-multe-zboruri-au-primit-iarasi-alerte-cu-bomba-4024685"
+      },
+      {
+        "source": "G4Media",
+        "title": "Noi alerte cu bombă vizează zboruri în Europa: O cursă Wizz Air Praga–Roma, deviată la Veneția / Amenințări raportate și în Franța, Cehia și Danemarca",
+        "link": "https://www.g4media.ro/noi-alerte-cu-bomba-vizeaza-zboruri-din-europa-o-cursa-wizz-air-praga-roma-a-fost-deviata-la-venetia-politia-investigheaza-amenintari-la-aeroporturile-din-praga-si-copenhaga.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Alertă cu bombă pe ruta Praga – București! Ce s-a întâmplat cu cei 102 pasageri după aterizarea la Otopeni",
+        "link": "https://www.cancan.ro/alerta-cu-bomba-pe-ruta-praga-bucuresti-ce-s-a-intamplat-cu-cei-102-pasageri-dupa-aterizarea-la-otopeni-21542950"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Val de amenințări cu bomba împotriva unor zboruri din Europa și vineri. „Cea mai rezonabilă ipoteză”",
+        "link": "https://hotnews.ro/val-de-amenintari-cu-bomba-impotriva-unor-zboruri-din-europa-si-vineri-cea-mai-rezonabila-ipoteza-2396776"
+      },
+      {
+        "source": "Mediafax",
+        "title": "SRI, despre alertele cu bombă de pe Aeroportul Otopeni: Amenințările nu s-au confirmat. Nu au fost descoperite dispozitive explozive",
+        "link": "https://www.mediafax.ro/social/sri-dupa-zborurile-vizate-de-amenintarile-cu-bomba-identitatea-autorilor-si-eventualele-legaturi-dintre-aceste-incidente-fac-obiectul-investigatiilor-23838736"
+      }
+    ],
+    "published_at": 1793961094,
+    "title_hu": "Európai bombafenyegetések: újabb romániai riasztás és vizsgálat Franciaországban",
+    "lead_hu": "November 5-én legalább 18, egyes összesítések szerint 25 európai járatot érintettek bombafenyegetések; három nap alatt legalább 23 gépről érkezett jelzés. Másnap egy Prágából Bukarestbe tartó TAROM-járat is fenyegetést kapott, de a vizsgálat nem talált gyanús tárgyat.",
+    "content_hu": "• **November 5-i európai mérleg:** A beszámolók 18 és 25 közé tették az aznap érintett járatok számát; három nap alatt legalább 23 gépet fenyegettek meg, a hétfőtől számított heti adat pedig legalább 28 volt. Tíz ország repülőterein ellenőriztek gépeket, robbanószert egyik átvizsgált fedélzeten sem találtak.\n\n• **Érintett járatok és a felelősség kérdése:** A Dublin–Róma Aer Lingus-gép Évreux-ban szállt le, a Helsinki–Róma Finnair-járatot olasz vadászgép kísérte, a milánói Wizz Air Varsó helyett Bécsbe repült. Bulgáriában három Ryanair-gépet, Prága felé pedig négy járatot ellenőriztek. Egy olasz nyelvű, névtelen e-mailről is beszámoltak; az esetek összefüggését és elkövetőit nem állapították meg.\n\n• **Romániai riasztások:** November 5-én a milánói Wizz Air 182 utassal és hétfős személyzettel, majd a belgrádi Air Serbia 15:20-kor érkezett Otopenibe; egyik gépen sem igazolódott a fenyegetés. Késő este két újabb jelzésről érkezett hír, ezek között volt a Tel-Aviv felé tartó KLM-járat ellenőrzése is. A romániai esetek számát egyes összesítések ötben adták meg.\n\n• **TAROM, november 6.:** A Prágából Bukarestbe tartó RO226-os járaton 102 utas és hatfős személyzet utazott. A gép biztonságosan, 12:19-kor landolt Otopeniben; a fenyegetést nem specifikusnak minősítették, az előírt ellenőrzés után hamisnak bizonyult, a repülőtéri forgalom pedig a tervek szerint folytatódott.\n\n• **Franciaország és Tulcea:** Rémi Coutin ügyész vizsgálja, hogy az Aer Lingus pilótája késlekedett-e az Évreux-i katonai bázisra szóló utasítás teljesítésével; a gépet két vadászgép kísérte, a 151 utast és a hatfős személyzetet biztonságban leszállították. Tulcea megyében az ukrajnai dunai kikötők elleni támadások után 00:19-kor, majd a Sulinától keletre észlelt cél miatt 08:56-kor adtak ki RO-Alertet; mindkét riasztás véget ért, román légtérsértést nem jelentettek.",
+    "title_ro": "Amenințări cu bombă în Europa: o nouă alertă în România și o anchetă în Franța",
+    "lead_ro": "La 5 noiembrie, amenințările cu bombă au vizat cel puțin 18 zboruri europene, iar unele bilanțuri au indicat 25; în trei zile au fost semnalate cel puțin 23 de aeronave. A doua zi, o cursă TAROM Praga–București a fost vizată de o alertă, care s-a dovedit falsă după verificări.",
+    "content_ro": "• **Bilanțul european din 5 noiembrie:** Relatările au indicat între 18 și 25 de zboruri vizate într-o singură zi; în trei zile au fost semnalate cel puțin 23 de aeronave, iar bilanțul săptămânal, calculat de luni, a ajuns la cel puțin 28. Verificări au avut loc în aeroporturi din zece țări și nu au fost găsite explozibili la bordurile controlate.\n\n• **Curse afectate și autorii alertelor:** Aeronava Aer Lingus Dublin–Roma a aterizat la Évreux, zborul Finnair Helsinki–Roma a fost escortat de un avion de vânătoare italian, iar o cursă Wizz Air Milano–Varșovia a fost redirecționată la Viena. Trei aeronave Ryanair au fost verificate în Bulgaria, iar patru zboruri cu destinația Praga au fost controlate. Unele relatări au menționat un e-mail anonim în italiană; nu a fost confirmată o legătură între incidente și nici identitatea autorilor.\n\n• **Alertele din România:** La 5 noiembrie, cursa Wizz Air din Milano, cu 182 de pasageri și șapte membri ai echipajului, a aterizat la Otopeni, urmată de zborul Air Serbia din Belgrad, la ora 15:20. Nicio amenințare nu s-a confirmat. Spre seară au fost raportate încă două alerte, inclusiv verificarea unei curse KLM spre Tel Aviv. Unele bilanțuri au indicat cinci alerte în România.\n\n• **TAROM, 6 noiembrie:** La bordul zborului RO226 Praga–București se aflau 102 pasageri și șase membri ai echipajului. Aeronava a aterizat în siguranță la Otopeni la ora 12:19. Amenințarea a fost evaluată drept nespecifică și, după verificările procedurale, s-a dovedit falsă; traficul aeroportuar a continuat conform programului.\n\n• **Franța și Tulcea:** Procurorul Rémi Coutin verifică dacă pilotul Aer Lingus a întârziat să urmeze instrucțiunea de a ateriza la baza militară Évreux; două avioane de vânătoare au escortat aeronava, iar cei 151 de pasageri și șase membri ai echipajului au coborât în siguranță. În județul Tulcea, după atacurile asupra porturilor ucrainene de la Dunăre, au fost emise mesaje RO-Alert la 00:19 și, după detectarea unei ținte la est de Sulina, la 08:56. Ambele alerte au încetat, fără pătrunderi raportate în spațiul aerian românesc.",
+    "importance_score": 385.0
+  },
+  {
     "group_id": "group_f1c3006e07",
     "fingerprint": "ba3c6a387e7929e6512685b837b4b708",
     "category": "Általános",
@@ -209,205 +413,6 @@
     "importance_score": 380.0
   },
   {
-    "group_id": "group_c51c333c68",
-    "fingerprint": "1d172cd5e1443cc5fec2960c0bc44936",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 36,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Alte două amenințări cu bombă la bordul unor avioane, la Otopeni. UE activează un mecanism critic pentru securitatea aviației",
-        "link": "https://www.digi24.ro/stiri/externe/alerta-cu-bomba-la-bordul-unui-airbus-a320-pe-ruta-dublin-roma-avionul-a-aterizat-de-urgenta-la-evreux-in-franta-4022797"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alertă cu bombă într-un avion venit de la Milano. A fost activată celula de criză pe Aeroportul Otopeni",
-        "link": "https://www.digi24.ro/stiri/actualitate/alerta-cu-bomba-intr-un-avion-venit-de-la-milano-a-fost-activata-celula-de-criza-pe-aeroportul-otopeni-4022973"
-      },
-      {
-        "source": "G4Media",
-        "title": "Val de alerte false cu bombă la avioane din toată Europa, două zboruri din România afectate. E suspectată o grupare din Rusia / UE activează mecanismul de schimb de informaţii privind securitatea aviaţiei",
-        "link": "https://www.g4media.ro/mai-multe-zboruri-din-europa-vizate-de-amenintari-cu-bomba-pentru-a-doua-oara-in-aceasta-saptamana.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Alertă cu bombă într-un avion Wizz Air. A fost activată celula de criză pe Aeroportul Henri Coandă",
-        "link": "https://www.cancan.ro/alerta-cu-bomba-intr-un-avion-wizz-air-a-fost-activata-celula-de-criza-pe-aeroportul-henri-coanda-21542380"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Egy nap alatt tucatnál is több európai repülőjáraton volt bombafenyegetés, romániai is van köztük",
-        "link": "https://transtelex.ro/kulfold/2026/11/05/repulo-bombafenyegetes"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Val de amenințări cu bombă în Europa: 18 zboruri vizate într-o singură zi. Experții suspectează un „act deliberat”",
-        "link": "https://www.mediafax.ro/externe/val-de-amenintari-cu-bomba-in-europa-18-zboruri-vizate-intr-o-singura-zi-expertii-suspecteaza-un-act-deliberat-23838171"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "INFOGRAFIC 23 de zboruri în 3 zile: cum s-a extins valul de amenințări cu bombă din Europa",
-        "link": "https://hotnews.ro/infografic-23-de-zboruri-in-3-zile-cum-s-a-extins-valul-de-amenintari-cu-bomba-din-europa-2395922"
-      },
-      {
-        "source": "Adevărul",
-        "title": "O nouă alertă cu bombă pe Aeroportul Otopeni. Amenințarea s-a dovedit a fi falsă",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/o-noua-alerta-cu-bomba-pe-aeroportul-otopeni-2569273.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Încă o alertă cu bombă pe Aeroportul Otopeni. Un avion Air Serbia, verificat de echipele de intervenție",
-        "link": "https://www.mediafax.ro/social/inca-o-alerta-cu-bomba-pe-aeroportul-otopeni-un-avion-air-serbia-verificat-de-echipele-de-interventie-23838228"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ordin refuzat de pilotul unei aeronave vizate de valul de alerte cu bombă. Franța a mobilizat avioane de vânătoare, un procuror a intrat pe fir",
-        "link": "https://hotnews.ro/pilotul-unui-avion-deviat-catre-franta-si-vizat-de-o-alerta-cu-bomba-a-refuzat-initial-sa-aterizeze-la-o-baza-militara-avioane-de-vanatoare-mobilizate-o-ancheta-a-fost-deschisa-2396207"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "25 de amenințări cu bombă au dat peste cap zborurile din Europa. Analist: „Există o singură entitate care ar avea interesul”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/25-de-amenintari-cu-bomba-au-dat-peste-cap-zborurile-din-europa-analist-exista-o-singura-entitate-care-ar-avea-interesul.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alertă în Tulcea, după atacuri asupra porturilor ucrainene de la Dunăre: Nu au fost raportate pătrunderi în spațiul aerian al României",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-tulcea-dupa-atacuri-asupra-porturilor-ucrainene-de-la-dunare-nu-au-fost-raportate-patrunderi-in-spatiul-aerian-al-romaniei-4024151"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ţintă aeriană detectată la est de Sulina: două F-16 au fost ridicate, a fost trimis mesaj Ro-Alert",
-        "link": "https://www.digi24.ro/stiri/alerta-in-tulcea-dupa-atacuri-asupra-porturilor-ucrainene-de-la-dunare-nu-au-fost-raportate-patrunderi-in-spatiul-aerian-al-romaniei-4024151"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alertă aeriană în cursul nopții în județul Tulcea, pe fondul atacurilor asupra porturilor ucrainene de la Dunăre",
-        "link": "https://www.mediafax.ro/social/alerta-aeriana-in-cursul-noptii-in-judetul-tulcea-pe-fondul-atacurilor-asupra-porturilor-ucrainene-de-la-dunare-23838500"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cinci amenințări cu bombă în România, în valul de alerte care a vizat peste 25 de zboruri din Europa într-o singură zi: „Ne-a fost frică”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/cinci-amenintari-cu-bomba-in-romania-in-valul-de-alerte-care-a-vizat-peste-25-de-zboruri-din-europa-intr-o-singura-zi.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Atacuri rusești asupra porturilor ucrainene de la Dunăre. Populația din Tulcea, alertată în toiul nopții",
-        "link": "https://adevarul.ro/stiri-locale/tulcea/atacuri-rusesti-asupra-porturilor-ucrainene-de-la-2569362.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Alarmă cu bombă la o cursă Tarom care vine de la Praga la București. Urmează să aterizeze pe Otopeni, cu 102 pasageri la bord",
-        "link": "https://www.g4media.ro/alarma-cu-bomba-la-o-cursa-tarom-care-vine-de-la-praga-la-bucuresti-urmeaza-sa-aterizeze-pe-otopeni-cu-102-pasageri-la-bord.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Amenințare cu bombă la bordul aeronavei TAROM care a aterizat la prânz la Otopeni, de pe ruta Praga - București",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/noua-alerta-cu-bomba-intr-un-avion-care-se-indreapta-catre-bucuresti-este-vorba-despre-o-aeronava-tarom-cu-102-pasageri-la-bord-4024571"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Alertă cu bombă la bordul unui avion TAROM care vine de la Praga. 102 pasageri se află în aeronavă",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/alerta-cu-bomba-la-bordul-unui-avion-tarom-care-2569441.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Újabb bombafenyegetés egy Bukarest felé tartó repülőgépen: 102 utas van a Tarom járatán",
-        "link": "https://maszol.ro/belfold/Ujabb-bombafenyegetes-egy-Bukarest-fele-tarto-repulogepen-102-utas-van-a-Tarom-jaratan"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Alertă cu bombă într-un zbor Tarom Praga-București, cu 102 pasageri la bord",
-        "link": "https://hotnews.ro/alerta-cu-bomba-intr-un-zbor-tarom-praga-bucuresti-cu-102-pasageri-la-bord-2396672"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Alertă cu bombă la bordul unui avion! Cursa Dublin – Roma, deviată de urgență în Franța",
-        "link": "https://www.cancan.ro/alerta-cu-bomba-la-bordul-unui-avion-cursa-dublin-roma-deviata-de-urgenta-in-franta-21542326"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alertă cu bombă la bordul unui avion care zbura de la Milano la București. Celulă de criză pe Otopeni",
-        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-care-zbura-de-la-milano-la-bucuresti-celula-de-criza-pe-otopeni-23838024"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Alertă cu bombă la bordul unui avion cu destinația Roma. Aeronava a aterizat de urgență la o bază militară din Franța. Este al optulea incident produs în Europa în câteva zile",
-        "link": "https://adevarul.ro/stiri-externe/europa/alerta-cu-bomba-la-bordul-unui-avion-cu-destinatia-2569143.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Alertă cu bombă la bordul unui avion care asigura legătura Dublin-Roma. Aeronava, deviată către o bază aeriană din Franța",
-        "link": "https://stirileprotv.ro/alerta-cu-bomba-la-bordul-unui-avion-care-asigura-legatura-dublin-roma-aeronava-deviata-catre-o-baza-aeriana-din-franta.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alertă cu bombă la bordul unui avion care zbura de la Dublin la Roma. A fost deviat către Franța",
-        "link": "https://www.mediafax.ro/externe/alerta-cu-bomba-la-bordul-unui-avion-care-zbura-de-la-dublin-la-roma-a-fost-deviat-catre-franta-23837991"
-      },
-      {
-        "source": "G4Media",
-        "title": "Alertă cu bombă la bordul unui avion care zbura de la Dublin la Roma / Aeronava a aterizat în siguranță la o bază militară din Franța",
-        "link": "https://www.g4media.ro/alerta-cu-bomba-la-bordul-unui-avion-care-zbura-de-la-dublin-la-roma-aeronava-a-aterizat-in-siguranta-in-franta.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Alertă cu bombă la bordul unui avion de pasageri care zbura de la Dublin la Roma",
-        "link": "https://hotnews.ro/alerta-cu-bomba-la-bordul-unui-avion-de-pasageri-care-zbura-de-la-dublin-la-roma-2395570"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Amenințări cu bombe au forțat mai multe avioane să efectueze aterizări neplanificate în mai multe țări europene",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/amenintari-cu-bombe-au-fortat-mai-multe-avioane-sa-efectueze-aterizari-neplanificate-in-mai-multe-ta--1610311"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "O amenințare cu bombă obligă un Airbus care zbura de la Dublin spre Roma să aterizeze în Franța",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/o-amenintare-cu-bomba-obliga-un-airbus-care-zbura-de-la-dublin-spre-roma-sa-aterizeze-in-franta--1610302"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Un nou val de amenințări false cu bombă a afectat zeci de zboruri și aeroporturi europene (sinteză)",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/un-nou-val-de-amenintari-false-cu-bomba-a-afectat-zeci-de-zboruri-si-aeroporturi-europene-sinteza--1610387"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Amenințări cu bombă asupra zborurilor: Anchetă în Franța după ce un pilot a refuzat inițial să aterizeze la o bază militară",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/amenintari-cu-bomba-asupra-zborurilor-ancheta-in-franta-dupa-ce-un-pilot-a-refuzat-initial-sa-ateriz--1610465"
-      },
-      {
-        "source": "Digi24",
-        "title": "Noi amenințări privind siguranța traficului aerian din Europa: mai multe zboruri au primit iarăși alerte cu bombă",
-        "link": "https://www.digi24.ro/stiri/externe/ue/noi-amenintari-privind-siguranta-traficului-aerian-din-europa-mai-multe-zboruri-au-primit-iarasi-alerte-cu-bomba-4024685"
-      },
-      {
-        "source": "G4Media",
-        "title": "Noi alerte cu bombă vizează zboruri în Europa: O cursă Wizz Air Praga–Roma, deviată la Veneția / Amenințări raportate și în Franța, Cehia și Danemarca",
-        "link": "https://www.g4media.ro/noi-alerte-cu-bomba-vizeaza-zboruri-din-europa-o-cursa-wizz-air-praga-roma-a-fost-deviata-la-venetia-politia-investigheaza-amenintari-la-aeroporturile-din-praga-si-copenhaga.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Alertă cu bombă pe ruta Praga – București! Ce s-a întâmplat cu cei 102 pasageri după aterizarea la Otopeni",
-        "link": "https://www.cancan.ro/alerta-cu-bomba-pe-ruta-praga-bucuresti-ce-s-a-intamplat-cu-cei-102-pasageri-dupa-aterizarea-la-otopeni-21542950"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Val de amenințări cu bomba împotriva unor zboruri din Europa și vineri. „Cea mai rezonabilă ipoteză”",
-        "link": "https://hotnews.ro/val-de-amenintari-cu-bomba-impotriva-unor-zboruri-din-europa-si-vineri-cea-mai-rezonabila-ipoteza-2396776"
-      }
-    ],
-    "published_at": 1793961094,
-    "title_hu": "Európai bombafenyegetések: újabb romániai riasztás és vizsgálat Franciaországban",
-    "lead_hu": "November 5-én legalább 18, egyes összesítések szerint 25 európai járatot érintettek bombafenyegetések; három nap alatt legalább 23 gépről érkezett jelzés. Másnap egy Prágából Bukarestbe tartó TAROM-járat is fenyegetést kapott, de a vizsgálat nem talált gyanús tárgyat.",
-    "content_hu": "• **November 5-i európai mérleg:** A beszámolók 18 és 25 közé tették az aznap érintett járatok számát; három nap alatt legalább 23 gépet fenyegettek meg, a hétfőtől számított heti adat pedig legalább 28 volt. Tíz ország repülőterein ellenőriztek gépeket, robbanószert egyik átvizsgált fedélzeten sem találtak.\n\n• **Érintett járatok és a felelősség kérdése:** A Dublin–Róma Aer Lingus-gép Évreux-ban szállt le, a Helsinki–Róma Finnair-járatot olasz vadászgép kísérte, a milánói Wizz Air Varsó helyett Bécsbe repült. Bulgáriában három Ryanair-gépet, Prága felé pedig négy járatot ellenőriztek. Egy olasz nyelvű, névtelen e-mailről is beszámoltak; az esetek összefüggését és elkövetőit nem állapították meg.\n\n• **Romániai riasztások:** November 5-én a milánói Wizz Air 182 utassal és hétfős személyzettel, majd a belgrádi Air Serbia 15:20-kor érkezett Otopenibe; egyik gépen sem igazolódott a fenyegetés. Késő este két újabb jelzésről érkezett hír, ezek között volt a Tel-Aviv felé tartó KLM-járat ellenőrzése is. A romániai esetek számát egyes összesítések ötben adták meg.\n\n• **TAROM, november 6.:** A Prágából Bukarestbe tartó RO226-os járaton 102 utas és hatfős személyzet utazott. A gép biztonságosan, 12:19-kor landolt Otopeniben; a fenyegetést nem specifikusnak minősítették, az előírt ellenőrzés után hamisnak bizonyult, a repülőtéri forgalom pedig a tervek szerint folytatódott.\n\n• **Franciaország és Tulcea:** Rémi Coutin ügyész vizsgálja, hogy az Aer Lingus pilótája késlekedett-e az Évreux-i katonai bázisra szóló utasítás teljesítésével; a gépet két vadászgép kísérte, a 151 utast és a hatfős személyzetet biztonságban leszállították. Tulcea megyében az ukrajnai dunai kikötők elleni támadások után 00:19-kor, majd a Sulinától keletre észlelt cél miatt 08:56-kor adtak ki RO-Alertet; mindkét riasztás véget ért, román légtérsértést nem jelentettek.",
-    "title_ro": "Amenințări cu bombă în Europa: o nouă alertă în România și o anchetă în Franța",
-    "lead_ro": "La 5 noiembrie, amenințările cu bombă au vizat cel puțin 18 zboruri europene, iar unele bilanțuri au indicat 25; în trei zile au fost semnalate cel puțin 23 de aeronave. A doua zi, o cursă TAROM Praga–București a fost vizată de o alertă, care s-a dovedit falsă după verificări.",
-    "content_ro": "• **Bilanțul european din 5 noiembrie:** Relatările au indicat între 18 și 25 de zboruri vizate într-o singură zi; în trei zile au fost semnalate cel puțin 23 de aeronave, iar bilanțul săptămânal, calculat de luni, a ajuns la cel puțin 28. Verificări au avut loc în aeroporturi din zece țări și nu au fost găsite explozibili la bordurile controlate.\n\n• **Curse afectate și autorii alertelor:** Aeronava Aer Lingus Dublin–Roma a aterizat la Évreux, zborul Finnair Helsinki–Roma a fost escortat de un avion de vânătoare italian, iar o cursă Wizz Air Milano–Varșovia a fost redirecționată la Viena. Trei aeronave Ryanair au fost verificate în Bulgaria, iar patru zboruri cu destinația Praga au fost controlate. Unele relatări au menționat un e-mail anonim în italiană; nu a fost confirmată o legătură între incidente și nici identitatea autorilor.\n\n• **Alertele din România:** La 5 noiembrie, cursa Wizz Air din Milano, cu 182 de pasageri și șapte membri ai echipajului, a aterizat la Otopeni, urmată de zborul Air Serbia din Belgrad, la ora 15:20. Nicio amenințare nu s-a confirmat. Spre seară au fost raportate încă două alerte, inclusiv verificarea unei curse KLM spre Tel Aviv. Unele bilanțuri au indicat cinci alerte în România.\n\n• **TAROM, 6 noiembrie:** La bordul zborului RO226 Praga–București se aflau 102 pasageri și șase membri ai echipajului. Aeronava a aterizat în siguranță la Otopeni la ora 12:19. Amenințarea a fost evaluată drept nespecifică și, după verificările procedurale, s-a dovedit falsă; traficul aeroportuar a continuat conform programului.\n\n• **Franța și Tulcea:** Procurorul Rémi Coutin verifică dacă pilotul Aer Lingus a întârziat să urmeze instrucțiunea de a ateriza la baza militară Évreux; două avioane de vânătoare au escortat aeronava, iar cei 151 de pasageri și șase membri ai echipajului au coborât în siguranță. În județul Tulcea, după atacurile asupra porturilor ucrainene de la Dunăre, au fost emise mesaje RO-Alert la 00:19 și, după detectarea unei ținte la est de Sulina, la 08:56. Ambele alerte au încetat, fără pătrunderi raportate în spațiul aerian românesc.",
-    "importance_score": 375.0
-  },
-  {
     "group_id": "group_8d3bdb9a56",
     "fingerprint": "397d965f83667b658e17cb5deca82cc9",
     "category": "Általános",
@@ -587,122 +592,13 @@
     "importance_score": 320.0
   },
   {
-    "group_id": "group_a9071cc850",
-    "fingerprint": "475cbb154f80ca7627adefb4dae836eb",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 18,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Repornirea Unității 1 de la Cernavodă, inițiată după aprobarea Comisiei Naționale pentru Controlul Activităților Nucleare. Cantemir Marian Ciurea-Ercău: Continuăm verificările și pentru Unitatea 2",
-        "link": "https://www.mediafax.ro/economic/repornirea-unitatii-1-de-la-cernavoda-initiata-dupa-aprobarea-comisiei-nationale-pentru-controlul-activitatilor-nucleare-cantemir-marian-ciurea-ercau-continuam-verificarile-si-pentru-unitatea-2-23838292"
-      },
-      {
-        "source": "G4Media",
-        "title": "Reactorul 1 de la Cernavodă se repornește vineri, după trei luni de oprire / Nu e încă cert când va fi repornit și al doilea reactor",
-        "link": "https://www.g4media.ro/reactorul-1-de-la-cernavoda-se-reporneste-vineri-dupa-trei-luni-de-oprire-nu-e-inca-cert-cand-va-fi-repornit-si-al-doilea-reactor.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Reactorul 1 de la Cernavodă revine în funcțiune după trei luni de oprire. Nuclearelectrica anunță „o operaţiune complexă”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/reactorul-1-de-la-cernavoda-revine-in-functiune-dupa-trei-luni-de-oprire-nuclearelectrica-anunta-o-opera-iune-complexa.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Reactorul 1 de la Cernavodă va fi reconectat astăzi la Sistemul Energetic Național, după mai mult de trei luni de oprire",
-        "link": "https://www.digi24.ro/stiri/actualitate/reactorul-1-de-la-cernavoda-va-fi-reconectat-astazi-la-sistemul-energetic-national-dupa-mai-mult-de-trei-luni-de-oprire-4024469"
-      },
-      {
-        "source": "Digi24",
-        "title": "Reactorul 1 de la Cernavodă va fi reconectat vineri la Sistemul Energetic Național, după mai mult de trei luni de oprire",
-        "link": "https://www.digi24.ro/stiri/actualitate/reactorul-1-de-la-cernavoda-va-fi-reconectat-vineri-la-sistemul-energetic-national-dupa-mai-mult-de-trei-luni-de-oprire-4024469"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Unitatea 1 de la Cernavodă ar urma să fie resincronizată vineri la Sistemul Energetic Național",
-        "link": "https://agerpres.ro/economic/2026/11/06/unitatea-1-de-la-cernavoda-ar-urma-sa-fie-resincronizata-vineri-la-sistemul-energetic-national--1610686"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Unitatea 1 a Centralei nucleare de la Cernavodă va fi resincronizată la sistemul energetic național, după trei luni. Când va ajunge la capacitatea maximă de producție",
-        "link": "https://www.mediafax.ro/economic/unitatea-1-a-centralei-nucleare-de-la-cernavoda-va-fi-resincronizata-la-sistemul-energetic-national-dupa-trei-luni-cand-va-ajunge-la-capacitatea-maxima-de-productie-23838655"
-      },
-      {
-        "source": "Digi24",
-        "title": "Care sunt etapele repornirii Reactorului 1 de la Cernavodă și ce condiții sunt necesare pentru Unitatea 2. Anunțul Nuclearelectrica",
-        "link": "https://www.digi24.ro/stiri/economie/energie/care-sunt-etapele-repornirii-reactorului-1-de-la-cernavoda-si-ce-conditii-sunt-necesare-pentru-unitatea-2-anuntul-nuclearelectrica-4022895"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Reactorul 1 de la Cernavodă ar putea livra din nou energie vineri, după mai bine de trei luni de oprire",
-        "link": "https://www.ebihoreanul.ro/stiri/reactorul-1-de-la-cernavod-ar-putea-livra-din-nou-energie-vineri-dup-mai-bine-de-trei-luni-de-oprire-206353.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Reactorul 1 de la Cernavodă, în proceduri pentru repornire. Când ar putea fi reconectat la sistemul energetic",
-        "link": "https://hotnews.ro/reactorul-1-de-la-cernavoda-in-proceduri-pentru-repornire-cand-ar-putea-fi-reconectat-la-sistemul-energetic-2395005"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Cernavodă repornește primul reactor. Transelectrica a anunțat calendarul revenirii în sistem",
-        "link": "https://adevarul.ro/economie/cernavoda-reporneste-primul-reactor-2568965.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Nuclearelectrica a anunțat începerea manevrelor de pornire a Unităţii 1 a CNE Cernavodă",
-        "link": "https://stirileprotv.ro/stiri/actualitate/nuclearelectrica-a-anuntat-inceperea-manevrelor-de-pornire-a-unita-ii-1-a-cne-cernavoda.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Újraindítják az egyik csernavodai atomreaktort",
-        "link": "https://transtelex.ro/kozelet/2026/11/04/ujrainditjak-az-aszaly-miatt-leallitott-csernavodai-atomreaktort"
-      },
-      {
-        "source": "Maszol",
-        "title": "Elkezdik újraindítania a cernavodai erőművet",
-        "link": "https://maszol.ro/belfold/Elkezdik-ujrainditania-a-cernavodai-eromuvet"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING | Unitatea 1 de Centrala Nuclearelectrică Cernavodă va fi repornită / Reactorul va ajunge la putere maximă pe 7 noiembrie",
-        "link": "https://www.g4media.ro/unitatea-1-de-centrala-nuclearelectrica-cernavoda-va-fi-repornita-reactorul-va-ajunge-la-putere-maxima-pe-7-noimebrie.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Nuclearelectrica anunță repornirea Unității 1 de la Cernavodă",
-        "link": "https://www.mediafax.ro/economic/nuclearelectrica-anunta-repornirea-unitatii-1-de-la-cernavoda-23837393"
-      },
-      {
-        "source": "Digi24",
-        "title": "Nuclearelectrica anunţă începerea manevrelor de pornire a Unităţii 1 de la Cernavodă",
-        "link": "https://www.digi24.ro/stiri/economie/energie/nuclearelectrica-anunta-inceperea-manevrelor-de-pornire-a-unitatii-1-de-la-cernavoda-4021737"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Cernavodă repornește după trei luni. Problema veche de 20 de ani care poate opri din nou reactorul",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/cernavoda-reporneste-dupa-trei-luni-problema-2569300.html"
-      }
-    ],
-    "published_at": 1793961577,
-    "title_hu": "Pénteken kapcsolhatják vissza a cernavodai 1-es blokkot",
-    "lead_hu": "A Nuclearelectrica november 6-ra várja a cernavodai 1-es blokk hálózati szinkronizálását, miután november 4-én elindította az újraindítási műveleteket. A 2-es egység indításának időpontja továbbra sem ismert: a Duna vízszintjének tartós emelkedése szükséges, miközben a CNCAN folytatja az ellenőrzéseket.",
-    "content_hu": "• **November 4–7.** A Nuclearelectrica november 4-én kezdte meg a mintegy 700 MW-os 1-es blokk indítását, a hálózatra kapcsolást november 6-ra tervezi. A Transelectrica becslése szerint az egység november 7-én 19 órára érheti el a szokásos termelési szintet; a vállalat műszaki vezetője hétvégére várta a névleges teljesítményt.\n\n• **A leállások és a biztonság.** Az 1-es blokk július 28-án, a 2-es augusztus 13-án állt le a Duna alacsony vízállása miatt. A reaktorokat a leállás idején biztonságos állapotban tartották; a tájékoztatás szerint az intézkedés nem veszélyeztette a lakosságot, a dolgozókat vagy a környezetet.\n\n• **CNCAN-ellenőrzés.** Cantemir Marian Ciurea-Ercău hatósági elnök közlése szerint az 1-es blokknál áttekintették a leállás alatt végzett munkákat, a biztonsági rendszerek állapotát és az üzemeltetési előírások teljesülését. Az ellenőrzések után engedélyezték az indítási lépések megkezdését; a 2-es egység vizsgálatai is folytatódnak.\n\n• **Fokozatos újraindítás.** A hálózati szinkronizálást követően az 1-es blokk nem azonnal működik majd teljes kapacitáson. A hűtést, a fűtőanyagot, a biztonsági berendezéseket, a turbinát és a generátort ellenőrzik, miközben a teljesítményt fokozatosan növelik, az egyes szinteken vizsgálatokkal.\n\n• **Vízállás és energiabiztonság.** A 2-es blokk indításának nincs biztos dátuma: a Duna vízszintjének tartósan olyan magasnak kell lennie, hogy mindkét egység hosszú távon működhessen. Az 1-es blokk hűtése csökkentheti a szívómedence vízszintjét. Mihai Gioară vezérigazgató az 1-es blokk visszatérését az ellátásbiztonság és a rendszer stabilitása szempontjából fontosnak nevezte; a vállalat hatóságokkal és partnerekkel a hasonló helyzetek hatásainak mérséklését célzó megoldásokon is dolgozik.",
-    "title_ro": "Unitatea 1 de la Cernavodă ar putea fi reconectată vineri",
-    "lead_ro": "Nuclearelectrica estimează pentru 6 noiembrie sincronizarea Unității 1 de la Cernavodă cu rețeaua, după începerea procedurilor de repornire pe 4 noiembrie. Data revenirii Unității 2 nu este stabilită: este necesară menținerea unui nivel mai ridicat al Dunării, iar CNCAN continuă verificările.",
-    "content_ro": "• **4–7 noiembrie.** Nuclearelectrica a început pe 4 noiembrie pornirea Unității 1, cu o capacitate de aproximativ 700 MW, și vizează conectarea la rețea pe 6 noiembrie. Estimarea Transelectrica indică atingerea regimului obișnuit de producție pe 7 noiembrie, la ora 19:00; conducerea tehnică a companiei anticipase atingerea puterii nominale în weekend.\n\n• **Oprirea și siguranța.** Unitatea 1 a fost oprită pe 28 iulie, iar Unitatea 2 pe 13 august, din cauza nivelului scăzut al Dunării. Reactoarele au fost păstrate în condiții sigure pe perioada opririi, iar informările disponibile au precizat că situația nu a pus în pericol populația, angajații sau mediul.\n\n• **Verificările CNCAN.** Cantemir Marian Ciurea-Ercău, președintele autorității de reglementare, a declarat că la Unitatea 1 au fost evaluate lucrările efectuate în timpul opririi, starea sistemelor de securitate și respectarea cerințelor tehnice de operare. În urma controalelor au fost autorizate etapele de repornire, iar verificările pentru Unitatea 2 continuă.\n\n• **Creștere treptată a puterii.** Sincronizarea cu rețeaua nu înseamnă funcționarea imediată la capacitate maximă. Sunt inspectate sistemele de răcire, combustibilul, echipamentele de securitate, turbina și generatorul; puterea va fi mărită progresiv, cu teste la fiecare etapă.\n\n• **Nivelul Dunării și securitatea energetică.** Nu există încă o dată sigură pentru pornirea Unității 2: apa trebuie să rămână suficient de sus pentru operarea pe termen lung a ambelor reactoare. Răcirea Unității 1 poate reduce nivelul bazinului de aspirație. Directorul general Mihai Gioară a legat revenirea acesteia de siguranța energetică și stabilitatea sistemului; compania pregătește împreună cu autoritățile și partenerii măsuri pentru reducerea efectelor unor situații similare.",
-    "importance_score": 195.0
-  },
-  {
     "group_id": "group_0407f8121b",
     "fingerprint": "52a2680d31076090829cced460a996e6",
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 17,
+    "sources_count": 18,
     "sources": [
       {
         "source": "Maszol",
@@ -788,6 +684,11 @@
         "source": "Mediafax",
         "title": "Alertă cu bombă la bordul unui avion Milano-București. Pirotehniștii SRI nu au găsit nimic suspect",
         "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-milano-bucuresti-pirotehnistii-sri-nu-au-gasit-nimic-suspect-23838024"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SRI: Amenințare cu bombă la bordul unui avion care a aterizat de la Praga pe Aeroportul Otopeni",
+        "link": "https://agerpres.ro/justitie/2026/11/06/sri-amenintare-cu-bomba-la-bordul-unui-avion-care-a-aterizat-de-la-praga-pe-aeroportul-otopeni--1610719"
       }
     ],
     "published_at": 1793960469,
@@ -797,7 +698,7 @@
     "title_ro": "Nicio bombă la bordul avionului Wizz Air de la București; o nouă cursă TAROM a fost vizată",
     "lead_ro": "Verificările efectuate după amenințarea adresată zborului Wizz Air de la Milano la București nu au identificat obiecte sau materiale suspecte, iar cei 182 de pasageri și cei șapte membri ai echipajului au coborât în siguranță. Vineri, o cursă TAROM venită de la Praga a fost vizată de o altă amenințare; aeronava cu 102 persoane la bord a aterizat, fără să fie necesare măsuri la fața locului.",
     "content_ro": "• **Zborul WMT3064** a sosit joi de la Milano pe aeroportul Henri Coandă din București, aterizând în jurul orei 11:08, potrivit relatărilor. Echipajul a aflat despre amenințare când aeronava se apropia de destinație, astfel că ruta nu a fost modificată. La bord se aflau 182 de pasageri și șapte membri ai echipajului.\n\n• **Verificările de la București** au fost efectuate de specialiștii pirotehniști ai serviciului român de informații. Aceștia nu au descoperit dispozitive explozive sau alte obiecte suspecte, iar amenințarea nu s-a confirmat. Pasagerii și echipajul au fost debarcați, iar centrul de criză al aeroportului a aplicat procedurile prevăzute. Potrivit administratorului, traficul aerian a continuat în siguranță, fără perturbări și conform programului.\n\n• **Wizz Air a precizat** că aeronava a rămas la sol pe durata verificărilor de securitate și că a colaborat cu autoritățile competente. Compania a inclus incidentul într-un val de amenințări care au vizat mai multe companii aeriene europene în zilele precedente. Alte curse au fost redirecționate sau escortate: un avion Aer Lingus de la Dublin spre Roma a aterizat în Franța, cursa Wizz Air Milano–Varșovia a ajuns la Viena, iar un avion Finnair spre Roma a fost însoțit de avioane de vânătoare italiene.\n\n• **Amenințarea de vineri asupra TAROM** a vizat cursa 226M Praga–București. Aeronava, care avea 102 persoane la bord, a aterizat la Otopeni la ora 12:19. SRI a descris alerta drept nespecifică și a anunțat că nu vor fi luate măsuri la fața locului; informațiile ulterioare au indicat că amenințarea a fost falsă.\n\n• **Alte alerte** au vizat o cursă KLM cu destinația Tel Aviv, care făcea escală la București; piloții au solicitat verificări pirotehnice. Inițial au fost relatate și informații neclare despre o altă amenințare care privea TAROM. Autoritățile române au menționat cinci amenințări în țară în ultimele zile, în timp ce peste 25 de zboruri europene au fost vizate într-o singură zi. Acestea încearcă să îi identifice pe cei care au transmis mesajele.",
-    "importance_score": 185.0
+    "importance_score": 195.0
   },
   {
     "group_id": "group_a008fbd743",
@@ -1349,70 +1250,6 @@
     "importance_score": 125.0
   },
   {
-    "group_id": "group_0ad1f95995",
-    "fingerprint": "05d8ac4ecee652b6d0d77b5ff1cb15c4",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Általános sztrájkkal is fenyegetnek a szakszervezetek, ha nem emelik a minimálbért 2027-ben",
-        "link": "https://www.mediatica.ro/hirek/politika/altalanos-sztrajkkal-is-fenyegetnek-a-szakszervezetek-ha-nem-emelik-a-minimalbert-2027-ben"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ministrul Muncii, noi declarații despre posibila majorare a salariului minim: „Suntem într-o zonă în care cifrele vorbesc”",
-        "link": "https://stirileprotv.ro/stiri/social/ministrul-muncii-noi-declaratii-despre-posibila-majorare-a-salariului-minim-suntem-intr-o-zona-in-care-cifrele-vorbesc.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Luca Niculescu, între dorința de a crește salariul minim și deficitul bugetar: „Sunt primul care își dorește”",
-        "link": "https://www.mediafax.ro/politic/luca-niculescu-intre-dorinta-de-a-creste-salariul-minim-si-deficitul-bugetar-sunt-primul-care-isi-doreste-23838371"
-      },
-      {
-        "source": "Adevărul",
-        "title": "„Nu ar trebui să discutăm dacă îl creștem sau nu”. De ce spune un sociolog că salariul minim trebuie majorat în 2027",
-        "link": "https://adevarul.ro/economie/nu-ar-trebui-sa-discutam-daca-il-crestem-sau-nu-2568697.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Óvatosan fogalmazott a kormányfő a minimálbér-emelésről",
-        "link": "https://maszol.ro/belfold/Ovatosan-fogalmazott-a-kormanyfo-a-minimalber-emelesrol"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Când vor afla românii dacă va crește salariul minim în 2027. Ce spune premierul Luca Niculescu",
-        "link": "https://stirileprotv.ro/stiri/financiar/cand-afla-romanii-daca-le-va-creste-salariul-minim-in-2027-ce-spune-premierul-luca-niculescu.html"
-      },
-      {
-        "source": "Kolozsvári Rádió (HU)",
-        "title": "Terítéken a minimálbér emelésének kérdése",
-        "link": "https://www.kolozsvariradio.ro/2026/11/05/minimalber/"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Luca Niculescu: Decizia privind majorarea salariului minim în 2027, după consultările cu sindicatele și patronatele",
-        "link": "https://agerpres.ro/politic/2026/11/05/luca-niculescu-decizia-privind-majorarea-salariului-minim-in-2027-dupa-consultarile-cu-sindicatele-s--1610593"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "675 lejes minimálbér-emelést követelnek a szakszervezetek",
-        "link": "https://www.mediatica.ro/hirek/politika/675-lejes-minimalber-emelest-kovetelnek-a-szakszervezetek"
-      }
-    ],
-    "published_at": 1793944464,
-    "title_hu": "Minimálbér 2027-ben: képlet, bérigények és költségvetési mérlegelés",
-    "lead_hu": "A 2027-es minimálbér összegét még nem határozta meg a kormány: a döntéshez a szakszervezetekkel és a munkáltatókkal folytatott egyeztetés, valamint a végleges költségvetési adatok is szükségesek. A munkavállalói oldal emelést kér, míg a munkaadók a jelenlegi szint megtartását szorgalmazzák.",
-    "content_hu": "• **Jelenlegi összeg és szakszervezeti igények**: A bruttó minimálbér jelenleg 4325 lej, a nettó kereset körülbelül 2700 lej; mintegy 1,7 millióan kapnak minimálbérhez közeli jövedelmet. A BNS 4652 lejes összeget jelölt meg alsó határként, más szakszervezeti nyilatkozatok 5000 lejes igényt említenek. Az emelést a vásárlóerő 13 százalékot meghaladó csökkenésével is indokolják.\n\n• **A törvényi képlet és a munkaügyi tárca álláspontja**: A 2024/283-as törvény éves felülvizsgálatot ír elő, a 2025/35-ös kormányhatározat pedig az előre jelzett inflációt és a munkatermelékenység növekedését kapcsolja a számításhoz. Florin Manole szerint a makrogazdasági mutatók kijelölik az emelés lehetséges tartományát, ezért a döntésnek nem pusztán politikai alkura kell épülnie.\n\n• **Munkaadói javaslatok**: A vállalkozói érdekképviseletek 2027-ben változatlan minimálbért támogatnának, mert szerintük a béremelés növelné a cégek költségeit és veszélyeztethetné a foglalkoztatást. Alternatívaként a munkát terhelő adók csökkentése, illetve egyes járulékok munkáltatóhoz helyezése is felmerült.\n\n• **Egyeztetés és döntési időzítés**: Luca Niculescu a hónap folyamán hívja össze a szakszervezeteket és a munkaadókat a háromoldalú tanácsba. A kormányfő a hónap végére várható tájékoztatást helyezett kilátásba, de konkrét emelést nem ígért: a végleges költségvetési adatok még hiányoznak, és a cégek helyzetét is mérlegelni kell.\n\n• **Költségvetési korlátok és szakszervezeti nyomás**: A hiánycsökkentési vállalások, az államháztartás egyensúlya és a magas energiaárak szűkítik a döntési lehetőségeket; egy befektetésre nem ajánlott hitelbesorolás további megszorításokat hozhatna. A 2026-os emelés csak júliusban lépett életbe a január helyett, ami Ștefan Guga szociológus szerint elmaradt jövedelmet okozott. Grigore Mare utcai tiltakozást, sőt általános sztrájkot is kilátásba helyezett, ha elakadnak a tárgyalások.",
-    "title_ro": "Salariul minim în 2027: formulă, revendicări salariale și limite bugetare",
-    "lead_ro": "Guvernul nu a stabilit încă nivelul salariului minim pentru 2027; decizia depinde de consultările cu sindicatele și patronatele, dar și de datele bugetare definitive. Sindicatele cer o majorare, în timp ce reprezentanții angajatorilor susțin menținerea valorii actuale.",
-    "content_ro": "• **Nivelul actual și cererile sindicatelor**: Salariul minim brut este de 4.325 de lei, iar suma netă ajunge la aproximativ 2.700 de lei; circa 1,7 milioane de persoane au venituri apropiate de acest prag. BNS indică 4.652 de lei drept nivel minim acceptabil, în timp ce alte solicitări sindicale ajung la 5.000 de lei. Printre argumente se numără și diminuarea puterii de cumpărare cu peste 13%.\n\n• **Formula legală și poziția Ministerului Muncii**: Legea nr. 283/2024 prevede actualizarea anuală, iar HG nr. 35/2025 raportează calculul la inflația estimată și la creșterea productivității muncii. Florin Manole afirmă că indicatorii macroeconomici conturează intervalul posibil al majorării, astfel că stabilirea salariului nu ar trebui să se bazeze doar pe negocieri politice.\n\n• **Propunerile patronatelor**: Organizațiile angajatorilor preferă păstrarea salariului actual în 2027, invocând creșterea cheltuielilor firmelor și riscurile pentru locurile de muncă. Ca alternative, au fost discutate reducerea taxelor aplicate muncii și transferarea unor contribuții de la salariați către angajatori.\n\n• **Consultări și calendarul deciziei**: Luca Niculescu urmează să convoace în cursul acestei luni Consiliul Național Tripartit, cu participarea sindicatelor și patronatelor. Premierul așteaptă să poată comunica rezultatul spre sfârșitul lunii, fără să promită o anumită creștere: datele bugetare finale nu sunt încă disponibile, iar situația companiilor trebuie luată în calcul.\n\n• **Constrângeri fiscale și presiune sindicală**: Angajamentele de reducere a deficitului, echilibrul finanțelor publice și costurile ridicate ale energiei limitează opțiunile; o retrogradare la categoria nerecomandată investițiilor ar putea impune măsuri de austeritate mai dure. Majorarea din 2026 s-a aplicat abia din iulie, nu din ianuarie, iar sociologul Ștefan Guga spune că întârzierea a redus veniturile salariaților. Grigore Mare a avertizat că blocarea discuțiilor ar putea duce la proteste de stradă sau chiar la grevă generală.",
-    "importance_score": 108.0
-  },
-  {
     "group_id": "group_66fb7cbdfe",
     "fingerprint": "00da251cb8f3f010df399bade155422b",
     "category": "Általános",
@@ -1538,6 +1375,70 @@
     "title_ro": "Eisenkot a primit 67 de recomandări, iar partidele arabe iau în calcul cooperarea",
     "lead_ro": "Gadi Eisenkot a primit recomandările a 67 de parlamentari, față de 46 pentru Benjamin Netanyahu. Partidul ultraortodox UTJ, aliat cu Netanyahu de trei decenii, nu a susținut niciun candidat, în timp ce formațiunile arabe au semnalat că ar putea sprijini din afara guvernului o schimbare de putere.",
     "content_ro": "• **Alegerile din 27 octombrie:** În Knessetul cu 120 de locuri, Likud a obținut 27 de mandate, iar Netanyahu și aliații săi de dreapta și religioși au ajuns împreună la 53. Blocul opoziției are 48 de locuri, iar partidele arabe au obținut în total 19. Comisia Electorală Centrală a validat rezultatul după examinarea contestațiilor și nu a identificat dovezi care să pună la îndoială corectitudinea scrutinului.\n\n• **Recomandările pentru Eisenkot:** Liderul Yashar a fost susținut de 67 de parlamentari, în timp ce Netanyahu a primit 46 de recomandări. Numărul îl depășește pe cel necesar pentru majoritatea în Knesset, de 61, dar nu garantează votul de încredere pentru un viitor guvern. Isaac Herzog va anunța pe 8 noiembrie persoana desemnată să formeze cabinetul; aceasta va avea 28 de zile, cu posibilitatea unei prelungiri de cel mult 14.\n\n• **Partidele arabe și cooperarea:** Lista Comună, cu 11 mandate, și Ra’am, cu opt, l-au recomandat pe Eisenkot; cele trei facțiuni ale Listei Comune au decis în unanimitate. Formațiunile au indicat că ar putea contribui din afara guvernului la înlăturarea lui Netanyahu. Ahmad Tibi a spus că Lista Comună este pregătită să colaboreze cu partide evreiești, o schimbare față de practica anterioară. O asemenea susținere poate implica riscuri politice și nu înseamnă neapărat oprirea războaielor sau a extinderii coloniilor din Cisiordania.\n\n• **Neutralitatea UTJ:** Partidul United Torah Judaism, care are șapte mandate, nu a recomandat niciun candidat. Deși a fost aliat al lui Netanyahu timp de aproximativ 30 de ani și a participat la primul său cabinet, din 1996, acum liderii săi au cerut facțiunilor să rămână neutre; în 2022, formațiunea îl recomandase pe Netanyahu. Deputatul Isaac Pindrus a cerut reglementarea situației studenților religioși în raport cu serviciul militar.\n\n• **Strategii arabe distincte:** Ra’am este singurul partid arab care a făcut parte dintr-un guvern israelian, în 2021. Considerat mai conciliant decât Lista Comună, ar putea intra ca partener într-un nou guvern anti-Netanyahu, însă un asemenea aranjament ar putea necesita și sprijinul Listei Comune.",
+    "importance_score": 103.0
+  },
+  {
+    "group_id": "group_0ad1f95995",
+    "fingerprint": "05d8ac4ecee652b6d0d77b5ff1cb15c4",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Általános sztrájkkal is fenyegetnek a szakszervezetek, ha nem emelik a minimálbért 2027-ben",
+        "link": "https://www.mediatica.ro/hirek/politika/altalanos-sztrajkkal-is-fenyegetnek-a-szakszervezetek-ha-nem-emelik-a-minimalbert-2027-ben"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ministrul Muncii, noi declarații despre posibila majorare a salariului minim: „Suntem într-o zonă în care cifrele vorbesc”",
+        "link": "https://stirileprotv.ro/stiri/social/ministrul-muncii-noi-declaratii-despre-posibila-majorare-a-salariului-minim-suntem-intr-o-zona-in-care-cifrele-vorbesc.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Luca Niculescu, între dorința de a crește salariul minim și deficitul bugetar: „Sunt primul care își dorește”",
+        "link": "https://www.mediafax.ro/politic/luca-niculescu-intre-dorinta-de-a-creste-salariul-minim-si-deficitul-bugetar-sunt-primul-care-isi-doreste-23838371"
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Nu ar trebui să discutăm dacă îl creștem sau nu”. De ce spune un sociolog că salariul minim trebuie majorat în 2027",
+        "link": "https://adevarul.ro/economie/nu-ar-trebui-sa-discutam-daca-il-crestem-sau-nu-2568697.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Óvatosan fogalmazott a kormányfő a minimálbér-emelésről",
+        "link": "https://maszol.ro/belfold/Ovatosan-fogalmazott-a-kormanyfo-a-minimalber-emelesrol"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Când vor afla românii dacă va crește salariul minim în 2027. Ce spune premierul Luca Niculescu",
+        "link": "https://stirileprotv.ro/stiri/financiar/cand-afla-romanii-daca-le-va-creste-salariul-minim-in-2027-ce-spune-premierul-luca-niculescu.html"
+      },
+      {
+        "source": "Kolozsvári Rádió (HU)",
+        "title": "Terítéken a minimálbér emelésének kérdése",
+        "link": "https://www.kolozsvariradio.ro/2026/11/05/minimalber/"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Luca Niculescu: Decizia privind majorarea salariului minim în 2027, după consultările cu sindicatele și patronatele",
+        "link": "https://agerpres.ro/politic/2026/11/05/luca-niculescu-decizia-privind-majorarea-salariului-minim-in-2027-dupa-consultarile-cu-sindicatele-s--1610593"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "675 lejes minimálbér-emelést követelnek a szakszervezetek",
+        "link": "https://www.mediatica.ro/hirek/politika/675-lejes-minimalber-emelest-kovetelnek-a-szakszervezetek"
+      }
+    ],
+    "published_at": 1793944464,
+    "title_hu": "Minimálbér 2027-ben: képlet, bérigények és költségvetési mérlegelés",
+    "lead_hu": "A 2027-es minimálbér összegét még nem határozta meg a kormány: a döntéshez a szakszervezetekkel és a munkáltatókkal folytatott egyeztetés, valamint a végleges költségvetési adatok is szükségesek. A munkavállalói oldal emelést kér, míg a munkaadók a jelenlegi szint megtartását szorgalmazzák.",
+    "content_hu": "• **Jelenlegi összeg és szakszervezeti igények**: A bruttó minimálbér jelenleg 4325 lej, a nettó kereset körülbelül 2700 lej; mintegy 1,7 millióan kapnak minimálbérhez közeli jövedelmet. A BNS 4652 lejes összeget jelölt meg alsó határként, más szakszervezeti nyilatkozatok 5000 lejes igényt említenek. Az emelést a vásárlóerő 13 százalékot meghaladó csökkenésével is indokolják.\n\n• **A törvényi képlet és a munkaügyi tárca álláspontja**: A 2024/283-as törvény éves felülvizsgálatot ír elő, a 2025/35-ös kormányhatározat pedig az előre jelzett inflációt és a munkatermelékenység növekedését kapcsolja a számításhoz. Florin Manole szerint a makrogazdasági mutatók kijelölik az emelés lehetséges tartományát, ezért a döntésnek nem pusztán politikai alkura kell épülnie.\n\n• **Munkaadói javaslatok**: A vállalkozói érdekképviseletek 2027-ben változatlan minimálbért támogatnának, mert szerintük a béremelés növelné a cégek költségeit és veszélyeztethetné a foglalkoztatást. Alternatívaként a munkát terhelő adók csökkentése, illetve egyes járulékok munkáltatóhoz helyezése is felmerült.\n\n• **Egyeztetés és döntési időzítés**: Luca Niculescu a hónap folyamán hívja össze a szakszervezeteket és a munkaadókat a háromoldalú tanácsba. A kormányfő a hónap végére várható tájékoztatást helyezett kilátásba, de konkrét emelést nem ígért: a végleges költségvetési adatok még hiányoznak, és a cégek helyzetét is mérlegelni kell.\n\n• **Költségvetési korlátok és szakszervezeti nyomás**: A hiánycsökkentési vállalások, az államháztartás egyensúlya és a magas energiaárak szűkítik a döntési lehetőségeket; egy befektetésre nem ajánlott hitelbesorolás további megszorításokat hozhatna. A 2026-os emelés csak júliusban lépett életbe a január helyett, ami Ștefan Guga szociológus szerint elmaradt jövedelmet okozott. Grigore Mare utcai tiltakozást, sőt általános sztrájkot is kilátásba helyezett, ha elakadnak a tárgyalások.",
+    "title_ro": "Salariul minim în 2027: formulă, revendicări salariale și limite bugetare",
+    "lead_ro": "Guvernul nu a stabilit încă nivelul salariului minim pentru 2027; decizia depinde de consultările cu sindicatele și patronatele, dar și de datele bugetare definitive. Sindicatele cer o majorare, în timp ce reprezentanții angajatorilor susțin menținerea valorii actuale.",
+    "content_ro": "• **Nivelul actual și cererile sindicatelor**: Salariul minim brut este de 4.325 de lei, iar suma netă ajunge la aproximativ 2.700 de lei; circa 1,7 milioane de persoane au venituri apropiate de acest prag. BNS indică 4.652 de lei drept nivel minim acceptabil, în timp ce alte solicitări sindicale ajung la 5.000 de lei. Printre argumente se numără și diminuarea puterii de cumpărare cu peste 13%.\n\n• **Formula legală și poziția Ministerului Muncii**: Legea nr. 283/2024 prevede actualizarea anuală, iar HG nr. 35/2025 raportează calculul la inflația estimată și la creșterea productivității muncii. Florin Manole afirmă că indicatorii macroeconomici conturează intervalul posibil al majorării, astfel că stabilirea salariului nu ar trebui să se bazeze doar pe negocieri politice.\n\n• **Propunerile patronatelor**: Organizațiile angajatorilor preferă păstrarea salariului actual în 2027, invocând creșterea cheltuielilor firmelor și riscurile pentru locurile de muncă. Ca alternative, au fost discutate reducerea taxelor aplicate muncii și transferarea unor contribuții de la salariați către angajatori.\n\n• **Consultări și calendarul deciziei**: Luca Niculescu urmează să convoace în cursul acestei luni Consiliul Național Tripartit, cu participarea sindicatelor și patronatelor. Premierul așteaptă să poată comunica rezultatul spre sfârșitul lunii, fără să promită o anumită creștere: datele bugetare finale nu sunt încă disponibile, iar situația companiilor trebuie luată în calcul.\n\n• **Constrângeri fiscale și presiune sindicală**: Angajamentele de reducere a deficitului, echilibrul finanțelor publice și costurile ridicate ale energiei limitează opțiunile; o retrogradare la categoria nerecomandată investițiilor ar putea impune măsuri de austeritate mai dure. Majorarea din 2026 s-a aplicat abia din iulie, nu din ianuarie, iar sociologul Ștefan Guga spune că întârzierea a redus veniturile salariaților. Grigore Mare a avertizat că blocarea discuțiilor ar putea duce la proteste de stradă sau chiar la grevă generală.",
     "importance_score": 103.0
   },
   {
@@ -2601,50 +2502,6 @@
     "importance_score": 65.0
   },
   {
-    "group_id": "group_c0240e50c7",
-    "fingerprint": "fa36310feb6653f7a8686d77ead0c0a0",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„Nu vă asumați încercarea de a-l mulțumi pe dictator”. Un lider lansează un îndemn către europeni în legătură cu Putin",
-        "link": "https://www.mediafax.ro/externe/nu-va-asumati-incercarea-de-a-l-multumi-pe-dictator-un-lider-lanseaza-un-indemn-catre-europeni-in-legatura-cu-putin-23838505"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Estonia avertizează Europa să nu negocieze cu Putin: „Nu încercați să-i faceți pe plac dictatorului”",
-        "link": "https://adevarul.ro/stiri-externe/europa/estonia-avertizeaza-europa-sa-nu-negocieze-cu-2569382.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "„Nu încercați să-l mulțumiți pe dictator”. Premierul Estoniei cere Europei să nu negocieze cu Vladimir Putin",
-        "link": "https://www.digi24.ro/stiri/externe/rusia/nu-incercati-sa-l-multumiti-pe-dictator-premierul-estoniei-cere-europei-sa-nu-negocieze-cu-vladimir-putin-4024311"
-      },
-      {
-        "source": "Digi24",
-        "title": "Președintele Lituaniei avertizează că Putin „se apropie tot mai mult de Articolul 5”: „Rușii se vor preface doar că negociază”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/presedintele-lituaniei-avertizeaza-ca-putin-se-apropie-tot-mai-mult-de-articolul-5-rusii-se-vor-preface-doar-ca-negociaza-4024391"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Președintele Lituaniei avertizează că provocările lui Putin împotriva NATO vor continua: „Se apropie tot mai mult de Articolul 5”",
-        "link": "https://www.mediafax.ro/externe/presedintele-lituaniei-avertizeaza-ca-provocarile-lui-putin-impotriva-nato-vor-continua-se-apropie-tot-mai-mult-de-articolul-5-23838587"
-      }
-    ],
-    "published_at": 1793955163,
-    "title_hu": "Michal ellenzi az európai közvetítést, Nauseda NATO-provokációkra figyelmeztet",
-    "lead_hu": "Kristen Michal észt miniszterelnök szerint Európának nem közvetítőként, hanem Ukrajna támogatásával és az Oroszországra nehezedő nyomás fenntartásával kell fellépnie. Gitanas Nauseda litván elnök eközben a NATO elleni hibrid műveletek folytatódására és az érdemi orosz–ukrán tárgyalások késlekedésére számít.",
-    "content_hu": "• **Kristen Michal álláspontja** szerint az európai országoknak nem kellene közvetlen diplomáciai csatornát nyitniuk Vlagyimir Putyinnal, vagy Moszkva és Kijev között közvetíteniük. Úgy véli, az ilyen szerepvállalás gyengítené az egységes európai fellépést és az Oroszországra gyakorolt nyomást.\n\n• **A szankciók és az utazási korlátozások** Michal szerint az Európa által alkalmazható eszközök közé tartoznak; a büntetőintézkedések következetes fenntartását fontosnak tartja, és az orosz állampolgárok beutazására vonatkozó szabályok szigorítását is szorgalmazta. Elismerte az amerikai békeközvetítési erőfeszítéseket, de szerinte a nyomást elsősorban Moszkvára kell helyezni.\n\n• **Az európai kapcsolatfelvétel vitája** azután élénkült meg, hogy Washington és Moszkva között újabb egyeztetések történtek. Alexander Stubb finn elnök és Jonas Gahr Støre norvég miniszterelnök október végén mintegy 90 percig beszélt telefonon Putyinnal. Michal országa körülbelül 1,3 millió lakosú, és közvetlenül határos Oroszországgal.\n\n• **Gitanas Nauseda figyelmeztetése** szerint Oroszország jelenleg nem készül nagy kiterjedésű hagyományos katonai műveletre, mert erőforrásainak jelentős része Ukrajnában van lekötve. A litván elnök ugyanakkor arra számít, hogy Moszkva tovább próbára teszi a NATO közös reagálási készségét hibrid eszközökkel, például dróntevékenységgel, kibertámadásokkal és gyújtogatásokkal.\n\n• **A háború és a tárgyalások kilátásai** kapcsán Nauseda úgy vélte, Oroszország a téli időszakban városok elleni légicsapásokkal tarthatja fenn a nyomást Ukrajnán, miközben a tárgyalási szándékát nem tartja komolynak. Szerinte Moszkva kezdetben Kijev számára elfogadhatatlan feltételeket szabhat; érdemi egyeztetések esélyét 2027-ben látja nagyobbnak, ha Ukrajna átvészeli a telet.",
-    "title_ro": "Michal respinge medierea europeană, iar Nauseda avertizează asupra provocărilor la adresa NATO",
-    "lead_ro": "Premierul estonian Kristen Michal consideră că Europa ar trebui să susțină Ucraina și să mențină presiunea asupra Rusiei, nu să medieze între Moscova și Kiev. Președintele lituanian Gitanas Nauseda anticipează continuarea acțiunilor hibride împotriva NATO și nu se așteaptă la negocieri ruso-ucrainene serioase în viitorul apropiat.",
-    "content_ro": "• **Poziția lui Kristen Michal** este că statele europene nu ar trebui să deschidă un canal diplomatic direct cu Vladimir Putin și nici să intermedieze între Moscova și Kiev. Premierul estonian consideră că o asemenea implicare ar putea slăbi unitatea europeană și presiunea exercitată asupra Rusiei.\n\n• **Sancțiunile și restricțiile de călătorie** sunt, în opinia lui Michal, instrumente care trebuie păstrate; el a pledat și pentru reguli mai stricte privind accesul cetățenilor ruși. A apreciat eforturile americane de mediere, dar a susținut că presiunea trebuie îndreptată în principal asupra Moscovei.\n\n• **Dezbaterea privind contactele europene cu Kremlinul** s-a intensificat după noi discuții între Washington și Moscova. La sfârșitul lui octombrie, președintele finlandez Alexander Stubb și premierul norvegian Jonas Gahr Støre au avut o convorbire telefonică de aproximativ 90 de minute cu Putin. Estonia are circa 1,3 milioane de locuitori și graniță directă cu Rusia.\n\n• **Avertismentul lui Gitanas Nauseda** a fost că Rusia nu pare pregătită în prezent pentru o operațiune militară convențională de amploare, având resurse importante angajate în Ucraina. Totuși, președintele lituanian estimează că Moscova va continua să testeze reacția comună a NATO prin acțiuni hibride, inclusiv incidente cu drone, atacuri cibernetice și incendieri.\n\n• **Perspectivele războiului și ale negocierilor** sunt, potrivit lui Nauseda, incerte: Rusia ar putea continua iarna atacurile aeriene asupra orașelor ucrainene, iar intențiile sale de negociere nu i se par serioase. El se așteaptă ca Moscova să prezinte condiții inacceptabile pentru Kiev și consideră că șansele unor discuții substanțiale ar putea crește în 2027, dacă Ucraina trece cu bine de iarnă.",
-    "importance_score": 65.0
-  },
-  {
     "group_id": "group_d44b72e8cb",
     "fingerprint": "2459e28197030868f1c011d7f2f71c34",
     "category": "Általános",
@@ -2983,6 +2840,50 @@
     "importance_score": 60.0
   },
   {
+    "group_id": "group_c0240e50c7",
+    "fingerprint": "fa36310feb6653f7a8686d77ead0c0a0",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Nu vă asumați încercarea de a-l mulțumi pe dictator”. Un lider lansează un îndemn către europeni în legătură cu Putin",
+        "link": "https://www.mediafax.ro/externe/nu-va-asumati-incercarea-de-a-l-multumi-pe-dictator-un-lider-lanseaza-un-indemn-catre-europeni-in-legatura-cu-putin-23838505"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Estonia avertizează Europa să nu negocieze cu Putin: „Nu încercați să-i faceți pe plac dictatorului”",
+        "link": "https://adevarul.ro/stiri-externe/europa/estonia-avertizeaza-europa-sa-nu-negocieze-cu-2569382.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Nu încercați să-l mulțumiți pe dictator”. Premierul Estoniei cere Europei să nu negocieze cu Vladimir Putin",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/nu-incercati-sa-l-multumiti-pe-dictator-premierul-estoniei-cere-europei-sa-nu-negocieze-cu-vladimir-putin-4024311"
+      },
+      {
+        "source": "Digi24",
+        "title": "Președintele Lituaniei avertizează că Putin „se apropie tot mai mult de Articolul 5”: „Rușii se vor preface doar că negociază”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/presedintele-lituaniei-avertizeaza-ca-putin-se-apropie-tot-mai-mult-de-articolul-5-rusii-se-vor-preface-doar-ca-negociaza-4024391"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Președintele Lituaniei avertizează că provocările lui Putin împotriva NATO vor continua: „Se apropie tot mai mult de Articolul 5”",
+        "link": "https://www.mediafax.ro/externe/presedintele-lituaniei-avertizeaza-ca-provocarile-lui-putin-impotriva-nato-vor-continua-se-apropie-tot-mai-mult-de-articolul-5-23838587"
+      }
+    ],
+    "published_at": 1793955163,
+    "title_hu": "Michal ellenzi az európai közvetítést, Nauseda NATO-provokációkra figyelmeztet",
+    "lead_hu": "Kristen Michal észt miniszterelnök szerint Európának nem közvetítőként, hanem Ukrajna támogatásával és az Oroszországra nehezedő nyomás fenntartásával kell fellépnie. Gitanas Nauseda litván elnök eközben a NATO elleni hibrid műveletek folytatódására és az érdemi orosz–ukrán tárgyalások késlekedésére számít.",
+    "content_hu": "• **Kristen Michal álláspontja** szerint az európai országoknak nem kellene közvetlen diplomáciai csatornát nyitniuk Vlagyimir Putyinnal, vagy Moszkva és Kijev között közvetíteniük. Úgy véli, az ilyen szerepvállalás gyengítené az egységes európai fellépést és az Oroszországra gyakorolt nyomást.\n\n• **A szankciók és az utazási korlátozások** Michal szerint az Európa által alkalmazható eszközök közé tartoznak; a büntetőintézkedések következetes fenntartását fontosnak tartja, és az orosz állampolgárok beutazására vonatkozó szabályok szigorítását is szorgalmazta. Elismerte az amerikai békeközvetítési erőfeszítéseket, de szerinte a nyomást elsősorban Moszkvára kell helyezni.\n\n• **Az európai kapcsolatfelvétel vitája** azután élénkült meg, hogy Washington és Moszkva között újabb egyeztetések történtek. Alexander Stubb finn elnök és Jonas Gahr Støre norvég miniszterelnök október végén mintegy 90 percig beszélt telefonon Putyinnal. Michal országa körülbelül 1,3 millió lakosú, és közvetlenül határos Oroszországgal.\n\n• **Gitanas Nauseda figyelmeztetése** szerint Oroszország jelenleg nem készül nagy kiterjedésű hagyományos katonai műveletre, mert erőforrásainak jelentős része Ukrajnában van lekötve. A litván elnök ugyanakkor arra számít, hogy Moszkva tovább próbára teszi a NATO közös reagálási készségét hibrid eszközökkel, például dróntevékenységgel, kibertámadásokkal és gyújtogatásokkal.\n\n• **A háború és a tárgyalások kilátásai** kapcsán Nauseda úgy vélte, Oroszország a téli időszakban városok elleni légicsapásokkal tarthatja fenn a nyomást Ukrajnán, miközben a tárgyalási szándékát nem tartja komolynak. Szerinte Moszkva kezdetben Kijev számára elfogadhatatlan feltételeket szabhat; érdemi egyeztetések esélyét 2027-ben látja nagyobbnak, ha Ukrajna átvészeli a telet.",
+    "title_ro": "Michal respinge medierea europeană, iar Nauseda avertizează asupra provocărilor la adresa NATO",
+    "lead_ro": "Premierul estonian Kristen Michal consideră că Europa ar trebui să susțină Ucraina și să mențină presiunea asupra Rusiei, nu să medieze între Moscova și Kiev. Președintele lituanian Gitanas Nauseda anticipează continuarea acțiunilor hibride împotriva NATO și nu se așteaptă la negocieri ruso-ucrainene serioase în viitorul apropiat.",
+    "content_ro": "• **Poziția lui Kristen Michal** este că statele europene nu ar trebui să deschidă un canal diplomatic direct cu Vladimir Putin și nici să intermedieze între Moscova și Kiev. Premierul estonian consideră că o asemenea implicare ar putea slăbi unitatea europeană și presiunea exercitată asupra Rusiei.\n\n• **Sancțiunile și restricțiile de călătorie** sunt, în opinia lui Michal, instrumente care trebuie păstrate; el a pledat și pentru reguli mai stricte privind accesul cetățenilor ruși. A apreciat eforturile americane de mediere, dar a susținut că presiunea trebuie îndreptată în principal asupra Moscovei.\n\n• **Dezbaterea privind contactele europene cu Kremlinul** s-a intensificat după noi discuții între Washington și Moscova. La sfârșitul lui octombrie, președintele finlandez Alexander Stubb și premierul norvegian Jonas Gahr Støre au avut o convorbire telefonică de aproximativ 90 de minute cu Putin. Estonia are circa 1,3 milioane de locuitori și graniță directă cu Rusia.\n\n• **Avertismentul lui Gitanas Nauseda** a fost că Rusia nu pare pregătită în prezent pentru o operațiune militară convențională de amploare, având resurse importante angajate în Ucraina. Totuși, președintele lituanian estimează că Moscova va continua să testeze reacția comună a NATO prin acțiuni hibride, inclusiv incidente cu drone, atacuri cibernetice și incendieri.\n\n• **Perspectivele războiului și ale negocierilor** sunt, potrivit lui Nauseda, incerte: Rusia ar putea continua iarna atacurile aeriene asupra orașelor ucrainene, iar intențiile sale de negociere nu i se par serioase. El se așteaptă ca Moscova să prezinte condiții inacceptabile pentru Kiev și consideră că șansele unor discuții substanțiale ar putea crește în 2027, dacă Ucraina trece cu bine de iarnă.",
+    "importance_score": 58.0
+  },
+  {
     "group_id": "group_5875b0c061",
     "fingerprint": "e291c2476e1cfc3457f0921c6fee02ad",
     "category": "Általános",
@@ -3113,6 +3014,45 @@
     "lead_ro": "Secretarul de stat Marco Rubio a respins informațiile potrivit cărora ar demisiona după înfrângerea republicanilor din 3 noiembrie. În paralel, presa a relatat că Sergio Gor, ambasadorul SUA în India, ar putea fi luat în calcul pentru o funcție de conducere, inclusiv pentru șefia diplomației.",
     "content_ro": "• **Negarea lui Rubio:** Într-un interviu pentru The New York Times, secretarul de stat a afirmat că intenționează să rămână în administrația lui Donald Trump până la încheierea mandatului prezidențial. El nu a putut preciza de unde provin informațiile despre o eventuală plecare și a refuzat să discute despre alegerile din 2028.\n\n• **Relatarea Bloomberg:** Agenția a citat surse anonime potrivit cărora Rubio ar fi luat în calcul demisia după înfrângerea republicanilor și ar fi discutat subiectul cu oficiali de la Casa Albă. Aceștia ar dori ca el să rămână în funcție, însă biroul său și Departamentul de Stat au respins informația. Anterior, The Independent publicase o relatare similară.\n\n• **Sergio Gor, posibil succesor:** The Washington Sun a scris că în cercurile lui Trump a fost menționat ambasadorul SUA în India pentru o funcție importantă, inclusiv cea de secretar de stat. Gor a condus anterior biroul de personal al Casei Albe și este considerat apropiat de președinte; potrivit surselor publicației, ar urmări o promovare. Nici Rubio, nici șefa de cabinet Susie Wiles nu și-au anunțat plecarea.\n\n• **Urmările electorale:** HotNews.ro relatează că, după scrutinul de la 3 noiembrie, democrații au obținut majoritatea în ambele camere ale Congresului. Trump și vicepreședintele JD Vance au legat pierderile republicanilor și de războiul cu Iranul. Situația lui Pete Hegseth, secretarul apărării, este de asemenea incertă, iar un congresmen republican aflat la final de mandat a amenințat cu inițierea unei proceduri de destituire.\n\n• **Alegerile din 2028:** Rubio este menționat printre potențialii candidați republicani la președinție, fără să confirme că va intra în cursă. Anterior, el a spus că l-ar susține pe vicepreședintele JD Vance dacă acesta ar candida.",
     "importance_score": 58.0
+  },
+  {
+    "group_id": "group_286f2a7be2",
+    "fingerprint": "212e7e7c2fea6e2696eb4adf18eff982",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
+        "link": "https://www.g4media.ro/sorana-cirstea-eliminata-de-la-wta-hong-kong-de-ocupanta-locului-136-mondial.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Sorana Cîrstea a pierdut la Hong Kong. Se va retrage campioana?",
+        "link": "https://adevarul.ro/sport/sorana-cirstea-a-pierdut-la-hong-kong-se-va-2569458.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Sorana Cîrstea, eliminată în sferturi la Hong Kong de o rusoaică venită din calificări. Ar putea fi ultimul turneu al româncei",
+        "link": "https://www.mediafax.ro/sport/sorana-cirstea-eliminata-in-sferturi-la-hong-kong-de-o-rusoaica-venita-din-calificari-ar-putea-fi-ultimul-turneu-al-romancei-23838711"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis: Sorana Cîrstea, învinsă în sferturi la Hong Kong (WTA), la poate ultimul turneu al carierei",
+        "link": "https://agerpres.ro/sport-extern/2026/11/06/tenis-sorana-cirstea-invinsa-in-sferturi-la-hong-kong-wta-la-poate-ultimul-turneu-al-carierei--1610747"
+      }
+    ],
+    "published_at": 1793962251,
+    "title_hu": "Sorana Cîrstea kiesett a hongkongi WTA-torna negyeddöntőjében",
+    "lead_hu": "A világranglista 15. helyén álló Sorana Cîrstea két játszmában kikapott a selejtezőből érkező Alexandra Shubladzétól. A román játékos korábban bejelentette, hogy az év végén befejezi pályafutását.",
+    "content_hu": "• **Sorana Cîrstea** a hongkongi WTA 250-es verseny negyeddöntőjében búcsúzott, miután 6:2, 6:3-ra alulmaradt Alexandra Shubladzéval szemben. A mérkőzés 87 percig tartott; az orosz teniszező a selejtezőből jutott a főtáblára.\n\n• **Alexandra Shubladze** a találkozó előtt a világranglista 136. helyén állt, míg Cîrstea a 15. pozíciót foglalta el. A 21 éves Shubladze az első szettben 4:0-s előnyt szerzett, majd 6:2-re nyerte a játszmát.\n\n• **A második játszmában** Shubladze 3:1-re vezetett, Cîrstea azonban kiegyenlített. Az orosz játékos ezt követően ismét előnybe került, és 6:3-mal lezárta a mérkőzést, ezzel bejutott az elődöntőbe.\n\n• **A hongkongi szereplésért** Cîrstea 7025 dollár pénzdíjat és 54 világranglistapontot kap. A WTA 250-es kategóriájú torna összdíjazása 283 347 dollár; a román teniszező negyeddöntős szereplése ezzel ért véget.\n\n• **Cîrstea korábbi bejelentése szerint** az idei év végén visszavonul a profi tenisztől. Emiatt a Shubladze elleni találkozó akár pályafutása utolsó mérkőzése is lehetett, de a források ezt nem erősítik meg tényként.",
+    "title_ro": "Sorana Cîrstea, eliminată în sferturile turneului WTA de la Hong Kong",
+    "lead_ro": "Sorana Cîrstea a pierdut în două seturi în fața Alexandrei Shubladze, jucătoare venită din calificări. Românca anunțase anterior că intenționează să se retragă la finalul acestui an.",
+    "content_ro": "• **Sorana Cîrstea** a fost eliminată în sferturile de finală ale turneului WTA 250 de la Hong Kong, după ce a cedat cu 2-6, 3-6 în fața Alexandrei Shubladze. Partida a durat 87 de minute, iar adversara sa ajunsese pe tabloul principal prin calificări.\n\n• **Alexandra Shubladze** ocupa locul 136 în clasamentul mondial înaintea întâlnirii, în timp ce Cîrstea se afla pe poziția a 15-a. Jucătoarea rusă, în vârstă de 21 de ani, a început primul set cu un avantaj de 4-0 și l-a câștigat cu 6-2.\n\n• **În setul al doilea**, Shubladze a condus cu 3-1, însă Cîrstea a egalat scorul. Rusoaica a preluat apoi din nou controlul și s-a impus cu 6-3, rezultat care i-a asigurat calificarea în semifinale.\n\n• **Pentru parcursul de la Hong Kong**, Cîrstea primește 7.025 de dolari și 54 de puncte WTA. Competiția face parte din categoria WTA 250 și are premii totale de 283.347 de dolari; participarea sportivei române s-a încheiat în sferturi.\n\n• **Cîrstea a anunțat anterior** că va încheia cariera profesionistă la sfârșitul acestui an. În acest context, meciul cu Shubladze ar putea fi ultimul din cariera sa, însă sursele nu confirmă că retragerea a avut deja loc.",
+    "importance_score": 55.0
   },
   {
     "group_id": "group_9949b847f2",
@@ -3715,38 +3655,43 @@
     "importance_score": 48.0
   },
   {
-    "group_id": "group_286f2a7be2",
-    "fingerprint": "212e7e7c2fea6e2696eb4adf18eff982",
-    "category": "Sport",
+    "group_id": "group_f2743fbfe3",
+    "fingerprint": "0c04a14af1ba1b68da27f7a39f57c489",
+    "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 4,
     "sources": [
       {
-        "source": "G4Media",
-        "title": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
-        "link": "https://www.g4media.ro/sorana-cirstea-eliminata-de-la-wta-hong-kong-de-ocupanta-locului-136-mondial.html"
+        "source": "Digi24",
+        "title": "Val de aer polar peste România. Cum va fi vremea în weekend și unde se vor înregistra sub -10°C",
+        "link": "https://www.digi24.ro/meteo/val-de-aer-polar-peste-romania-cum-va-fi-vremea-in-weekend-si-unde-se-vor-inregistra-sub-10-grade-4024195"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Val de frig în România. ANM anunță scăderi drastice de temperatură. Unde vor fi -10 grade",
+        "link": "https://hotnews.ro/val-de-frig-in-romania-anm-anunta-scaderi-drastice-de-temperatura-unde-vor-fi-10-grade-2396492"
       },
       {
         "source": "Adevărul",
-        "title": "Sorana Cîrstea a pierdut la Hong Kong. Se va retrage campioana?",
-        "link": "https://adevarul.ro/sport/sorana-cirstea-a-pierdut-la-hong-kong-se-va-2569458.html"
+        "title": "După ploi vine gerul: vremea se răcește brusc în weekend. Temperaturile coboară sub -10 grade în unele regiuni din țară",
+        "link": "https://adevarul.ro/stiri-interne/meteo/dupa-ploi-vine-gerul-vremea-se-raceste-brusc-in-2569394.html"
       },
       {
-        "source": "Mediafax",
-        "title": "Sorana Cîrstea, eliminată în sferturi la Hong Kong de o rusoaică venită din calificări. Ar putea fi ultimul turneu al româncei",
-        "link": "https://www.mediafax.ro/sport/sorana-cirstea-eliminata-in-sferturi-la-hong-kong-de-o-rusoaica-venita-din-calificari-ar-putea-fi-ultimul-turneu-al-romancei-23838711"
+        "source": "G4Media",
+        "title": "Nopți cu temperaturi sub 0 grade la București / În depresiuni se ajunge la minus 10 grade Celsius / Cum va fi vremea în weekend",
+        "link": "https://www.g4media.ro/nopti-cu-temperaturi-sub-0-grade-la-bucuresti-in-depresiuni-se-ajunge-la-minus-10-grade-celsius-cum-va-fi-vremea-in-weekend.html"
       }
     ],
-    "published_at": 1793962251,
-    "title_hu": "Sorana Cîrstea kiesett a hongkongi WTA-torna negyeddöntőjében",
-    "lead_hu": "A világranglista 15. helyén álló Sorana Cîrstea két játszmában kikapott a selejtezőből érkező Alexandra Shubladzétól. A román játékos korábban bejelentette, hogy az év végén befejezi pályafutását.",
-    "content_hu": "• **Sorana Cîrstea** a hongkongi WTA 250-es verseny negyeddöntőjében búcsúzott, miután 6:2, 6:3-ra alulmaradt Alexandra Shubladzéval szemben. A mérkőzés 87 percig tartott; az orosz teniszező a selejtezőből jutott a főtáblára.\n\n• **Alexandra Shubladze** a találkozó előtt a világranglista 136. helyén állt, míg Cîrstea a 15. pozíciót foglalta el. A 21 éves Shubladze az első szettben 4:0-s előnyt szerzett, majd 6:2-re nyerte a játszmát.\n\n• **A második játszmában** Shubladze 3:1-re vezetett, Cîrstea azonban kiegyenlített. Az orosz játékos ezt követően ismét előnybe került, és 6:3-mal lezárta a mérkőzést, ezzel bejutott az elődöntőbe.\n\n• **A hongkongi szereplésért** Cîrstea 7025 dollár pénzdíjat és 54 világranglistapontot kap. A WTA 250-es kategóriájú torna összdíjazása 283 347 dollár; a román teniszező negyeddöntős szereplése ezzel ért véget.\n\n• **Cîrstea korábbi bejelentése szerint** az idei év végén visszavonul a profi tenisztől. Emiatt a Shubladze elleni találkozó akár pályafutása utolsó mérkőzése is lehetett, de a források ezt nem erősítik meg tényként.",
-    "title_ro": "Sorana Cîrstea, eliminată în sferturile turneului WTA de la Hong Kong",
-    "lead_ro": "Sorana Cîrstea a pierdut în două seturi în fața Alexandrei Shubladze, jucătoare venită din calificări. Românca anunțase anterior că intenționează să se retragă la finalul acestui an.",
-    "content_ro": "• **Sorana Cîrstea** a fost eliminată în sferturile de finală ale turneului WTA 250 de la Hong Kong, după ce a cedat cu 2-6, 3-6 în fața Alexandrei Shubladze. Partida a durat 87 de minute, iar adversara sa ajunsese pe tabloul principal prin calificări.\n\n• **Alexandra Shubladze** ocupa locul 136 în clasamentul mondial înaintea întâlnirii, în timp ce Cîrstea se afla pe poziția a 15-a. Jucătoarea rusă, în vârstă de 21 de ani, a început primul set cu un avantaj de 4-0 și l-a câștigat cu 6-2.\n\n• **În setul al doilea**, Shubladze a condus cu 3-1, însă Cîrstea a egalat scorul. Rusoaica a preluat apoi din nou controlul și s-a impus cu 6-3, rezultat care i-a asigurat calificarea în semifinale.\n\n• **Pentru parcursul de la Hong Kong**, Cîrstea primește 7.025 de dolari și 54 de puncte WTA. Competiția face parte din categoria WTA 250 și are premii totale de 283.347 de dolari; participarea sportivei române s-a încheiat în sferturi.\n\n• **Cîrstea a anunțat anterior** că va încheia cariera profesionistă la sfârșitul acestui an. În acest context, meciul cu Shubladze ar putea fi ultimul din cariera sa, însă sursele nu confirmă că retragerea a avut deja loc.",
-    "importance_score": 45.0
+    "published_at": 1793949610,
+    "title_hu": "Sarkvidéki légtömeg hoz fagyos hétvégét Romániába",
+    "lead_hu": "A hétvégén jelentősen lehűl az idő Romániában: az éjszakai minimumok az ország nagy részén fagypont alá kerülhetnek. Kelet-Erdélyben mínusz 10 foknál alacsonyabb értékek is előfordulhatnak.",
+    "content_hu": "• **A hétvégén érkező hideg légtömeg** országszerte lehűlést hoz, és az idő a megszokottnál hidegebb lesz az évnek ebben az időszakában. A meteorológiai előrejelzés szerint a fagyos éjszakák és reggelek egyre több térségre terjednek ki.\n\n• **Az éjszakai minimumok** általában mínusz 8 és 0 fok között alakulhatnak, vagyis Románia jelentős részén fagypont alatti értékekre kell számítani. A tengerparton és a nyugati dombvidéken enyhébb maradhat az idő, ott körülbelül 2 fokos minimum is előfordulhat.\n\n• **Kelet-Erdélyben** várható a legerősebb lehűlés: a hőmérséklet mínusz 10 fok alá is süllyedhet. Az ANM meteorológusa, Meda Andrei szerint ez a térség számíthat a legalacsonyabb értékekre.\n\n• **Szombattól ismét hidegebb lesz**, miután pénteken sok helyen még magasabb csúcshőmérsékletek várhatók, mint az előző napon. Péntek délután az ország nagy részén 10–13 fokot mérhetnek, Bukarestben 12–13 fok, Moldva északi felén viszont csak 5–10 fok lehet.\n\n• **A hétvégi nappali csúcsértékek** 10 fok fölé csak Dél-Bánságban, valamint Olténia nyugati és déli részén emelkedhetnek. Másutt ennél hűvösebb idő várható; egyes régiókban erősebb szél, helyenként pedig szitálás vagy gyenge eső is kialakulhat.",
+    "title_ro": "Un val de aer polar aduce un weekend rece în România",
+    "lead_ro": "Temperaturile vor scădea accentuat în România în acest weekend, iar minimele ar putea coborî sub pragul înghețului în cea mai mare parte a țării. În estul Transilvaniei sunt posibile valori sub -10 grade Celsius.",
+    "content_ro": "• **Masa de aer polar** va determina o răcire accentuată în weekend, cu temperaturi mai mici decât cele obișnuite pentru această perioadă. Nopțile și diminețile vor deveni tot mai reci, iar înghețul este așteptat în numeroase regiuni.\n\n• **Minimele nocturne** se vor situa, în general, între -8 și 0 grade Celsius, astfel că în cea mai mare parte a țării valorile pot coborî sub pragul înghețului. Pe litoral și în zonele deluroase din vest, vremea va fi mai blândă, cu minime în jur de 2 grade.\n\n• **Estul Transilvaniei** va înregistra cele mai scăzute temperaturi, care ar putea coborî sub -10 grade Celsius. Meteorologul ANM Meda Andrei a indicat această zonă drept cea mai expusă valorilor minime extreme.\n\n• **Răcirea se va accentua de sâmbătă**, după ce vineri, în multe regiuni, temperaturile vor fi mai ridicate decât în ziua precedentă. La amiază sunt prognozate maxime de 10–13 grade în cea mai mare parte a țării, inclusiv 12–13 grade în București; în nordul Moldovei, valorile vor fi de 5–10 grade.\n\n• **Maximele din weekend** vor depăși 10 grade doar în sudul Banatului și în vestul și sudul Olteniei. În restul teritoriului va fi mai rece, iar în unele regiuni vântul se va intensifica; izolat sunt posibile burniță sau ploi slabe.",
+    "importance_score": 48.0
   },
   {
     "group_id": "group_ec039c8846",
@@ -4016,40 +3961,6 @@
     "title_ro": "Ministerul Agriculturii pregătește credite cu dobândă de 1,9% pentru fermieri",
     "lead_ro": "Ministerul Agriculturii din România lucrează la două noi mecanisme de finanțare, cu o dobândă fixă propusă de 1,9% și comisioane bancare acoperite timp de cinci ani. La o conferință de specialitate, ministrul Florin Barbu a abordat și investițiile în procesare, planificarea financiară și infrastructura de irigații.",
     "content_ro": "• **Două instrumente noi de finanțare** sunt în pregătire la Ministerul Agriculturii, a declarat ministrul Florin Barbu. Potrivit acestuia, mecanismele vor fi construite pornind de la experiența programului „Creditul Fermierului”, lansat în 2024, și ar urma să sprijine accesul agricultorilor la împrumuturi.\n\n• **Dobânda fixă propusă este de 1,9%**, iar ministerul ar urma să suporte comisioanele bancare timp de cinci ani. Inițiativa este prezentată drept o modalitate de reducere a costurilor de finanțare care pot afecta activitatea exploatațiilor agricole.\n\n• **Barbu a insistat asupra planificării financiare** la conferința organizată de Clubul Fermierilor Români. El le-a recomandat agricultorilor să apeleze la specialiști pentru pregătirea planurilor de afaceri și să mențină comunicarea cu băncile, pentru ca problemele de rambursare să fie observate din timp.\n\n• **Investițiile în procesare au fost ilustrate printr-un proiect sprijinit prin INVESTALIM.** Ministrul a relatat cazul unei unități de prelucrare a cărnii, unde, potrivit antreprenorului, susținerea publică a redus de la 15 la cinci ani perioada estimată pentru dezvoltarea fabricii. Barbu a pledat și pentru legături mai strânse între producția vegetală și zootehnie.\n\n• **Ministrul a afirmat că lanțul de producție, procesare și comercializare generează 60% din veniturile bugetului de stat**, însă comunicarea citată nu a precizat cum a fost calculată proporția. O altă prioritate anunțată este continuarea lucrărilor la sistemele de irigații, cu scopul de a limita efectele secetei asupra agriculturii.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_405e9d596d",
-    "fingerprint": "a13699a869f5a1692e29aa9ab26601a0",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Statul român a câștigat definitiv procesele cu ONG-ul care a contestat construirea gazoductului Tuzla – Podișor, care aduce gazele din Marea Neagră. Declarația ministrului Energiei",
-        "link": "https://www.mediafax.ro/economic/statul-roman-a-castigat-definitiv-procesele-cu-ong-ul-care-a-contestat-construirea-gazoductului-tuzla-podisor-care-aduce-gazele-din-marea-neagra-declaratia-ministrului-energiei-23838348"
-      },
-      {
-        "source": "Digi24",
-        "title": "Statul român a câștigat definitiv litigiul privind autorizația de construire a gazoductului Tuzla-Podișor. Anunțul Ministerului Energi",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/statul-roman-a-castigat-definitiv-litigiul-privind-autorizatia-de-construire-a-gazoductului-tuzla-podisor-anuntul-ministerului-energi-4024379"
-      },
-      {
-        "source": "Digi24",
-        "title": "Statul român a câștigat definitiv litigiul privind autorizația de construire a gazoductului Tuzla–Podișor. Ce spune ministrul Energiei",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/statul-roman-a-castigat-definitiv-litigiul-privind-autorizatia-de-construire-a-gazoductului-tuzla-podisor-ce-spune-ministrul-energiei-4024379"
-      }
-    ],
-    "published_at": 1793955307,
-    "title_hu": "Véglegessé vált a Tuzla–Podișor vezeték engedélyéről szóló ítélet",
-    "lead_hu": "A román legfelsőbb bíróság 2026. november 4-én elutasította a Bankwatch Románia és a Transgaz fellebbezését a Tuzla–Podișor gázvezeték építési engedélyével kapcsolatos ügyben. Ezzel véglegessé vált a 2025-ös ítélet, amely elévülés miatt nem adott helyt a keresetnek.",
-    "content_hu": "• **2026. november 4-én** a román Legfelsőbb Semmítő- és Ítélőszék végleges határozatot hozott a Tuzla–Podișor gázvezeték építési engedélyéről szóló perben. A testület érdemi alap hiányában elutasította a Bankwatch Románia kolozsvári szervezetének fő fellebbezését, valamint a Transgaz kapcsolódó fellebbezését is.\n\n• **A 2025-ös kolozsvári ítélet** szerint a kereset benyújtására rendelkezésre álló anyagi jogi határidő már lejárt. A legfelsőbb bíróság döntése fenntartotta a Kolozsvári Ítélőtábla május 29-i, 279-es számú határozatát, amely a 139/33/2025-ös ügyben született.\n\n• **A per tárgya** az építési engedély volt; az államot a Transgaz, az Energiaügyi Minisztérium, valamint a Környezetért és Védett Területekért Felelős Országos Ügynökség képviselte alperesként. A bíróság megállapítása szerint a Bankwatch azonos tárgyú előzetes panaszokat nyújtott be több alkalommal, de ez nem változtatott azon, hogy a keresetindítás joga elévült.\n\n• **A mintegy 308 kilométeres vezeték** több mint 500 millió eurós beruházás. Feladata, hogy a Neptun Deep fekete-tengeri mezőből származó földgázt a román országos szállítórendszerbe juttassa. A Transgaz a vezetéket 2025 októberében már befejezte és üzembe helyezte.\n\n• **A Neptun Deep termelése** a tervek szerint legkésőbb 2027 első félévének végén indulhat el. A mintegy 4 milliárd eurós mezőfejlesztésben az OMV Petrom – egyben az operátor – és a Romgaz egyenlő részesedéssel vesz részt.",
-    "title_ro": "Hotărârea privind autorizația conductei Tuzla–Podișor a devenit definitivă",
-    "lead_ro": "La 4 noiembrie 2026, Înalta Curte de Casație și Justiție a respins recursurile Bankwatch România și Transgaz în litigiul referitor la autorizația de construire a conductei Tuzla–Podișor. Decizia menține soluția din 2025, prin care acțiunea a fost respinsă pe motiv de prescripție.",
-    "content_ro": "• **La 4 noiembrie 2026**, Înalta Curte de Casație și Justiție a pronunțat o hotărâre definitivă în procesul privind autorizația de construire a conductei de gaze Tuzla–Podișor. Instanța a respins ca nefondate atât recursul principal al Asociației Bankwatch România – Filiala Cluj, cât și recursul incident al Transgaz.\n\n• **Soluția din 2025** a Curții de Apel Cluj a rămas în vigoare. Prin hotărârea nr. 279 din 29 mai, pronunțată în dosarul 139/33/2025, instanța a constatat că termenul legal pentru introducerea acțiunii expirase.\n\n• **Litigiul a vizat autorizația de construire**, iar în proces statul român a fost reprezentat de Transgaz, Ministerul Energiei și Agenția Națională pentru Mediu și Arii Protejate. Instanța a reținut că Bankwatch depusese în mod repetat plângeri prealabile cu același obiect, însă dreptul material la acțiune era prescris.\n\n• **Conducta are aproximativ 308 kilometri** și reprezintă o investiție de peste 500 de milioane de euro. Aceasta este destinată să transporte gazele din perimetrul Neptun Deep, din Marea Neagră, către Sistemul Național de Transport. Transgaz a finalizat și a pus în funcțiune conducta în octombrie 2025.\n\n• **Producția din Neptun Deep** este prevăzută să înceapă cel târziu la finalul primului semestru din 2027. Dezvoltarea perimetrului, estimată la 4 miliarde de euro, este realizată în cote egale de OMV Petrom, care este și operator, și Romgaz.",
     "importance_score": 45.0
   },
   {
@@ -4745,6 +4656,40 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_405e9d596d",
+    "fingerprint": "a13699a869f5a1692e29aa9ab26601a0",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Statul român a câștigat definitiv procesele cu ONG-ul care a contestat construirea gazoductului Tuzla – Podișor, care aduce gazele din Marea Neagră. Declarația ministrului Energiei",
+        "link": "https://www.mediafax.ro/economic/statul-roman-a-castigat-definitiv-procesele-cu-ong-ul-care-a-contestat-construirea-gazoductului-tuzla-podisor-care-aduce-gazele-din-marea-neagra-declaratia-ministrului-energiei-23838348"
+      },
+      {
+        "source": "Digi24",
+        "title": "Statul român a câștigat definitiv litigiul privind autorizația de construire a gazoductului Tuzla-Podișor. Anunțul Ministerului Energi",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/statul-roman-a-castigat-definitiv-litigiul-privind-autorizatia-de-construire-a-gazoductului-tuzla-podisor-anuntul-ministerului-energi-4024379"
+      },
+      {
+        "source": "Digi24",
+        "title": "Statul român a câștigat definitiv litigiul privind autorizația de construire a gazoductului Tuzla–Podișor. Ce spune ministrul Energiei",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/statul-roman-a-castigat-definitiv-litigiul-privind-autorizatia-de-construire-a-gazoductului-tuzla-podisor-ce-spune-ministrul-energiei-4024379"
+      }
+    ],
+    "published_at": 1793955307,
+    "title_hu": "Véglegessé vált a Tuzla–Podișor vezeték engedélyéről szóló ítélet",
+    "lead_hu": "A román legfelsőbb bíróság 2026. november 4-én elutasította a Bankwatch Románia és a Transgaz fellebbezését a Tuzla–Podișor gázvezeték építési engedélyével kapcsolatos ügyben. Ezzel véglegessé vált a 2025-ös ítélet, amely elévülés miatt nem adott helyt a keresetnek.",
+    "content_hu": "• **2026. november 4-én** a román Legfelsőbb Semmítő- és Ítélőszék végleges határozatot hozott a Tuzla–Podișor gázvezeték építési engedélyéről szóló perben. A testület érdemi alap hiányában elutasította a Bankwatch Románia kolozsvári szervezetének fő fellebbezését, valamint a Transgaz kapcsolódó fellebbezését is.\n\n• **A 2025-ös kolozsvári ítélet** szerint a kereset benyújtására rendelkezésre álló anyagi jogi határidő már lejárt. A legfelsőbb bíróság döntése fenntartotta a Kolozsvári Ítélőtábla május 29-i, 279-es számú határozatát, amely a 139/33/2025-ös ügyben született.\n\n• **A per tárgya** az építési engedély volt; az államot a Transgaz, az Energiaügyi Minisztérium, valamint a Környezetért és Védett Területekért Felelős Országos Ügynökség képviselte alperesként. A bíróság megállapítása szerint a Bankwatch azonos tárgyú előzetes panaszokat nyújtott be több alkalommal, de ez nem változtatott azon, hogy a keresetindítás joga elévült.\n\n• **A mintegy 308 kilométeres vezeték** több mint 500 millió eurós beruházás. Feladata, hogy a Neptun Deep fekete-tengeri mezőből származó földgázt a román országos szállítórendszerbe juttassa. A Transgaz a vezetéket 2025 októberében már befejezte és üzembe helyezte.\n\n• **A Neptun Deep termelése** a tervek szerint legkésőbb 2027 első félévének végén indulhat el. A mintegy 4 milliárd eurós mezőfejlesztésben az OMV Petrom – egyben az operátor – és a Romgaz egyenlő részesedéssel vesz részt.",
+    "title_ro": "Hotărârea privind autorizația conductei Tuzla–Podișor a devenit definitivă",
+    "lead_ro": "La 4 noiembrie 2026, Înalta Curte de Casație și Justiție a respins recursurile Bankwatch România și Transgaz în litigiul referitor la autorizația de construire a conductei Tuzla–Podișor. Decizia menține soluția din 2025, prin care acțiunea a fost respinsă pe motiv de prescripție.",
+    "content_ro": "• **La 4 noiembrie 2026**, Înalta Curte de Casație și Justiție a pronunțat o hotărâre definitivă în procesul privind autorizația de construire a conductei de gaze Tuzla–Podișor. Instanța a respins ca nefondate atât recursul principal al Asociației Bankwatch România – Filiala Cluj, cât și recursul incident al Transgaz.\n\n• **Soluția din 2025** a Curții de Apel Cluj a rămas în vigoare. Prin hotărârea nr. 279 din 29 mai, pronunțată în dosarul 139/33/2025, instanța a constatat că termenul legal pentru introducerea acțiunii expirase.\n\n• **Litigiul a vizat autorizația de construire**, iar în proces statul român a fost reprezentat de Transgaz, Ministerul Energiei și Agenția Națională pentru Mediu și Arii Protejate. Instanța a reținut că Bankwatch depusese în mod repetat plângeri prealabile cu același obiect, însă dreptul material la acțiune era prescris.\n\n• **Conducta are aproximativ 308 kilometri** și reprezintă o investiție de peste 500 de milioane de euro. Aceasta este destinată să transporte gazele din perimetrul Neptun Deep, din Marea Neagră, către Sistemul Național de Transport. Transgaz a finalizat și a pus în funcțiune conducta în octombrie 2025.\n\n• **Producția din Neptun Deep** este prevăzută să înceapă cel târziu la finalul primului semestru din 2027. Dezvoltarea perimetrului, estimată la 4 miliarde de euro, este realizată în cote egale de OMV Petrom, care este și operator, și Romgaz.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_80405d4b9c",
     "fingerprint": "fb70fb54db5ccaa343e467c87f6204fd",
     "category": "Sport",
@@ -4947,40 +4892,6 @@
     "importance_score": 38.0
   },
   {
-    "group_id": "group_f2743fbfe3",
-    "fingerprint": "0c04a14af1ba1b68da27f7a39f57c489",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Val de aer polar peste România. Cum va fi vremea în weekend și unde se vor înregistra sub -10°C",
-        "link": "https://www.digi24.ro/meteo/val-de-aer-polar-peste-romania-cum-va-fi-vremea-in-weekend-si-unde-se-vor-inregistra-sub-10-grade-4024195"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Val de frig în România. ANM anunță scăderi drastice de temperatură. Unde vor fi -10 grade",
-        "link": "https://hotnews.ro/val-de-frig-in-romania-anm-anunta-scaderi-drastice-de-temperatura-unde-vor-fi-10-grade-2396492"
-      },
-      {
-        "source": "Adevărul",
-        "title": "După ploi vine gerul: vremea se răcește brusc în weekend. Temperaturile coboară sub -10 grade în unele regiuni din țară",
-        "link": "https://adevarul.ro/stiri-interne/meteo/dupa-ploi-vine-gerul-vremea-se-raceste-brusc-in-2569394.html"
-      }
-    ],
-    "published_at": 1793949610,
-    "title_hu": "Sarkvidéki légtömeg hoz fagyos hétvégét Romániába",
-    "lead_hu": "A hétvégén jelentősen lehűl az idő Romániában: az éjszakai minimumok az ország nagy részén fagypont alá kerülhetnek. Kelet-Erdélyben mínusz 10 foknál alacsonyabb értékek is előfordulhatnak.",
-    "content_hu": "• **A hétvégén érkező hideg légtömeg** országszerte lehűlést hoz, és az idő a megszokottnál hidegebb lesz az évnek ebben az időszakában. A meteorológiai előrejelzés szerint a fagyos éjszakák és reggelek egyre több térségre terjednek ki.\n\n• **Az éjszakai minimumok** általában mínusz 8 és 0 fok között alakulhatnak, vagyis Románia jelentős részén fagypont alatti értékekre kell számítani. A tengerparton és a nyugati dombvidéken enyhébb maradhat az idő, ott körülbelül 2 fokos minimum is előfordulhat.\n\n• **Kelet-Erdélyben** várható a legerősebb lehűlés: a hőmérséklet mínusz 10 fok alá is süllyedhet. Az ANM meteorológusa, Meda Andrei szerint ez a térség számíthat a legalacsonyabb értékekre.\n\n• **Szombattól ismét hidegebb lesz**, miután pénteken sok helyen még magasabb csúcshőmérsékletek várhatók, mint az előző napon. Péntek délután az ország nagy részén 10–13 fokot mérhetnek, Bukarestben 12–13 fok, Moldva északi felén viszont csak 5–10 fok lehet.\n\n• **A hétvégi nappali csúcsértékek** 10 fok fölé csak Dél-Bánságban, valamint Olténia nyugati és déli részén emelkedhetnek. Másutt ennél hűvösebb idő várható; egyes régiókban erősebb szél, helyenként pedig szitálás vagy gyenge eső is kialakulhat.",
-    "title_ro": "Un val de aer polar aduce un weekend rece în România",
-    "lead_ro": "Temperaturile vor scădea accentuat în România în acest weekend, iar minimele ar putea coborî sub pragul înghețului în cea mai mare parte a țării. În estul Transilvaniei sunt posibile valori sub -10 grade Celsius.",
-    "content_ro": "• **Masa de aer polar** va determina o răcire accentuată în weekend, cu temperaturi mai mici decât cele obișnuite pentru această perioadă. Nopțile și diminețile vor deveni tot mai reci, iar înghețul este așteptat în numeroase regiuni.\n\n• **Minimele nocturne** se vor situa, în general, între -8 și 0 grade Celsius, astfel că în cea mai mare parte a țării valorile pot coborî sub pragul înghețului. Pe litoral și în zonele deluroase din vest, vremea va fi mai blândă, cu minime în jur de 2 grade.\n\n• **Estul Transilvaniei** va înregistra cele mai scăzute temperaturi, care ar putea coborî sub -10 grade Celsius. Meteorologul ANM Meda Andrei a indicat această zonă drept cea mai expusă valorilor minime extreme.\n\n• **Răcirea se va accentua de sâmbătă**, după ce vineri, în multe regiuni, temperaturile vor fi mai ridicate decât în ziua precedentă. La amiază sunt prognozate maxime de 10–13 grade în cea mai mare parte a țării, inclusiv 12–13 grade în București; în nordul Moldovei, valorile vor fi de 5–10 grade.\n\n• **Maximele din weekend** vor depăși 10 grade doar în sudul Banatului și în vestul și sudul Olteniei. În restul teritoriului va fi mai rece, iar în unele regiuni vântul se va intensifica; izolat sunt posibile burniță sau ploi slabe.",
-    "importance_score": 38.0
-  },
-  {
     "group_id": "group_b28d822b77",
     "fingerprint": "9f994bd5d1f0a05a5dbad8cfd51896e6",
     "category": "Általános",
@@ -5049,6 +4960,60 @@
     "importance_score": 38.0
   },
   {
+    "group_id": "group_0ef9ec20e8",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
+        "link": "https://www.mediafax.ro/politic/politico-ursula-von-der-leyen-va-vizita-romania-si-bulgaria-pe-fondul-atacurilor-cu-drone-din-marea-neagra-23838731"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ursula von der Leyen vine în România, pe fondul atacurilor cu drone din Marea Neagră. Va fi primită de Nicușor Dan la Cotroceni",
+        "link": "https://www.mediafax.ro/politic/ursula-von-der-leyen-vine-in-romania-pe-fondul-atacurilor-cu-drone-din-marea-neagra-va-fi-primita-de-nicusor-dan-la-cotroceni-23838731"
+      }
+    ],
+    "published_at": 1793965604,
+    "title_hu": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
+    "lead_hu": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat t...",
+    "content_hu": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat tensiunile de securitate pe flancul estic al NATO.",
+    "title_ro": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
+    "lead_ro": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat t...",
+    "content_ro": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat tensiunile de securitate pe flancul estic al NATO.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_21fc773778",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Debranşarea combinatului siderurgic Liberty de la energia electrică poate genera o criză cu consecințe sociale grave, avertizează președintele CJ Galați",
+        "link": "https://www.g4media.ro/debransarea-combinatului-siderurgic-liberty-de-la-energia-electrica-poate-genera-o-criza-cu-consecinte-sociale-grave-avertizeaza-presedintele-cj-galati.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Galați: Președintele CJ avertizează că debranșarea combinatului Liberty de la energia electrică poate genera o criză socială",
+        "link": "https://agerpres.ro/social/2026/11/06/galati-presedintele-cj-avertizeaza-ca-debransarea-combinatului-liberty-de-la-energia-electrica-poate--1610751"
+      }
+    ],
+    "published_at": 1793962826,
+    "title_hu": "Debranşarea combinatului siderurgic Liberty de la energia electrică poate genera o criză cu consecințe sociale grave, avertizează președintele CJ Galați",
+    "lead_hu": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale...",
+    "content_hu": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale grave, afectând nu doar angajaţii combinatului, ci şi salariaţii firmelor care depind de activitatea acesteia, declaraţia fiind făcută în faţa a aproximativ 100 de siderurgişti nemulţumiţi veniţi la […] © G4Media.ro.",
+    "title_ro": "Debranşarea combinatului siderurgic Liberty de la energia electrică poate genera o criză cu consecințe sociale grave, avertizează președintele CJ Galați",
+    "lead_ro": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale...",
+    "content_ro": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale grave, afectând nu doar angajaţii combinatului, ci şi salariaţii firmelor care depind de activitatea acesteia, declaraţia fiind făcută în faţa a aproximativ 100 de siderurgişti nemulţumiţi veniţi la […] © G4Media.ro.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_f2a45813e5",
     "fingerprint": "7aa0326b39e66427bb2b67380c449eb3",
     "category": "Általános",
@@ -5075,6 +5040,33 @@
     "title_ro": "Rusia preia temporar controlul asupra activelor JTI din țară",
     "lead_ro": "Un decret semnat joi de Vladimir Putin plasează operațiunile Japan Tobacco International din Rusia sub administrare temporară de stat. Măsura vizează patru fabrici, iar compania are aproximativ 4.000 de angajați pe piața rusă.",
     "content_ro": "• **Decretul semnat joi** transferă activele Japan Tobacco International (JTI) din Rusia sub administrare temporară de stat. Gestionarea lor revine holdingului AO Promîșlennîe Aktivî, afiliat statului. Dispoziția privește activitatea rusă a unuia dintre marii producători internaționali de tutun.\n\n• **Măsura acoperă patru unități de producție:** fabricile JTI din Sankt Petersburg, Rostov-pe-Don și regiunile Lipețk și Leningrad. Compania are în jur de 4.000 de salariați în Rusia, unde deține, potrivit informațiilor disponibile, aproximativ 40% din piața țigaretelor.\n\n• **JTI a intrat pe piața rusă în 1999**, iar în 2018 a cumpărat producătorul local Donskoy Tabak. Grupul, cu sediul central la Geneva, a investit 4,6 miliarde de dolari în operațiunile din Rusia de-a lungul a peste două decenii. După invazia rusă în Ucraina din 2022, compania a rămas în țară, însă a oprit investițiile noi în producție și comercializare.\n\n• **Portofoliul vândut în Rusia** include mărci internaționale precum Winston, Camel și Sobranie, dar și produse locale. Potrivit relatării, JTI este primul mare grup global din industria tutunului ale cărui operațiuni rusești au fost trecute în administrare de stat prin această metodă.\n\n• **Decizia survine într-un context de relații tensionate între Moscova și Tokyo:** luna trecută, autoritățile ruse l-au reținut pe jurnalistul Iuki Imai de la Hokkaido Shimbun, sub suspiciunea de spionaj. Moscova a acuzat Japonia că folosește sistematic jurnaliști pentru a obține informații, acuzație respinsă de Tokyo. Cele două țări au și o dispută îndelungată privind Insulele Kurile, iar Japonia s-a alăturat sancțiunilor occidentale impuse Rusiei.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_bb2682ba89",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Poliția investighează noi amenințări la adresa traficului aerian pe aeroportul din Copenhaga. Autoritățile spun că pasagerii nu sunt în pericol",
+        "link": "https://www.mediafax.ro/externe/politia-investigheaza-noi-amenintari-la-adresa-traficului-aerian-pe-aeroportul-din-copenhaga-autoritatile-spun-ca-pasagerii-nu-sunt-in-pericol-23838696"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Poliția daneză anchetează noi amenințări pe aeroportul din Copenhaga",
+        "link": "https://agerpres.ro/politic-extern/2026/11/06/politia-daneza-ancheteaza-noi-amenintari-pe-aeroportul-din-copenhaga--1610715"
+      }
+    ],
+    "published_at": 1793961857,
+    "title_hu": "Poliția investighează noi amenințări la adresa traficului aerian pe aeroportul din Copenhaga. Autoritățile spun că pasagerii nu sunt în pericol",
+    "lead_hu": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ulti…",
+    "content_hu": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ultimele zile.",
+    "title_ro": "Poliția investighează noi amenințări la adresa traficului aerian pe aeroportul din Copenhaga. Autoritățile spun că pasagerii nu sunt în pericol",
+    "lead_ro": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ulti…",
+    "content_ro": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ultimele zile.",
     "importance_score": 35.0
   },
   {
@@ -8031,6 +8023,28 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_c21feb468d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Két tucat járatát állította le egy hazai vasúttársaság",
+        "link": "https://maszol.ro/gazdasag/Ket-tucat-jaratat-allitotta-le-egy-hazai-vasuttarsasag"
+      }
+    ],
+    "published_at": 1793966293,
+    "title_hu": "Két tucat járatát állította le egy hazai vasúttársaság",
+    "lead_hu": "Huszonnégy járatát állította le ideiglenesen a Regio Călători, adta hírül a profit.ro....",
+    "content_hu": "Huszonnégy járatát állította le ideiglenesen a Regio Călători, adta hírül a profit.ro.",
+    "title_ro": "Két tucat járatát állította le egy hazai vasúttársaság",
+    "lead_ro": "Huszonnégy járatát állította le ideiglenesen a Regio Călători, adta hírül a profit.ro....",
+    "content_ro": "Huszonnégy járatát állította le ideiglenesen a Regio Călători, adta hírül a profit.ro.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_5848b3b652",
     "category": "Általános",
     "is_synthesized": false,
@@ -8141,28 +8155,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_0ef9ec20e8",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
-        "link": "https://www.mediafax.ro/politic/politico-ursula-von-der-leyen-va-vizita-romania-si-bulgaria-pe-fondul-atacurilor-cu-drone-din-marea-neagra-23838731"
-      }
-    ],
-    "published_at": 1793965604,
-    "title_hu": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
-    "lead_hu": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat t...",
-    "content_hu": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat tensiunile de securitate pe flancul estic al NATO.",
-    "title_ro": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
-    "lead_ro": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat t...",
-    "content_ro": "Președinta Comisiei Europene, Ursula von der Leyen, urmează să viziteze săptămâna viitoare România și Bulgaria, după o serie de atacuri cu drone asupra unor nave din Marea Neagră, care au amplificat tensiunile de securitate pe flancul estic al NATO.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_39bdcc794f",
     "category": "Általános",
     "is_synthesized": false,
@@ -8248,6 +8240,28 @@
     "title_ro": "SRI îndeamnă pasagerii zborurilor afectate la calm, în contextul alertelor cu bombă din România și Europa: „Înțelegem îngrijorarea”",
     "lead_ro": "Serviciul Român de Informații (SRI) a transmis, prin vocea purtătorului de cuvânt Ovidiu Marincea, că fiecare sesizare privind amenințările cu bombă din ultimele zile este tratată cu seriozitate și că...",
     "content_ro": "Serviciul Român de Informații (SRI) a transmis, prin vocea purtătorului de cuvânt Ovidiu Marincea, că fiecare sesizare privind amenințările cu bombă din ultimele zile este tratată cu seriozitate și că, deși verificările pot produce întârzieri, scopul autorităților este să protejeze pasagerii. Acesta a subliniat că, în prezent, au fost demarate anchete pentru a stabili identitatea autorilor alertelor cu bombă, care până acum s-au dovedit a fi false.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_59caae3f85",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FESTIVISM GRATUIT. Numire cu aplauze politice la Inspectoratul Școlar Satu Mare. CINE și CUM a propus-o pe nou inspectoare adjunctă",
+        "link": "https://www.presasm.ro/festivism-gratuit-numire-cu-aplauze-politice-la-inspectoratul-scolar-satu-mare-cine-si-cum-a-propus/54161"
+      }
+    ],
+    "published_at": 1793965140,
+    "title_hu": "FESTIVISM GRATUIT. Numire cu aplauze politice la Inspectoratul Școlar Satu Mare. CINE și CUM a propus-o pe nou inspectoare adjunctă",
+    "lead_hu": "Numirea unui nou inspector școlar general adjunct la Inspectoratul Școlar Județean Satu Mare a declanșat un adevărat val de felicitări în rândul activului de partid al PSD, dar și al apropiaților pers...",
+    "content_hu": "Numirea unui nou inspector școlar general adjunct la Inspectoratul Școlar Județean Satu Mare a declanșat un adevărat val de felicitări în rândul activului de partid al PSD, dar și al apropiaților persoanei promovate. Mesajele de susținere și entuziasmul public…",
+    "title_ro": "FESTIVISM GRATUIT. Numire cu aplauze politice la Inspectoratul Școlar Satu Mare. CINE și CUM a propus-o pe nou inspectoare adjunctă",
+    "lead_ro": "Numirea unui nou inspector școlar general adjunct la Inspectoratul Școlar Județean Satu Mare a declanșat un adevărat val de felicitări în rândul activului de partid al PSD, dar și al apropiaților pers...",
+    "content_ro": "Numirea unui nou inspector școlar general adjunct la Inspectoratul Școlar Județean Satu Mare a declanșat un adevărat val de felicitări în rândul activului de partid al PSD, dar și al apropiaților persoanei promovate. Mesajele de susținere și entuziasmul public…",
     "importance_score": 0.0
   },
   {
@@ -8999,28 +9013,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_21fc773778",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Debranşarea combinatului siderurgic Liberty de la energia electrică poate genera o criză cu consecințe sociale grave, avertizează președintele CJ Galați",
-        "link": "https://www.g4media.ro/debransarea-combinatului-siderurgic-liberty-de-la-energia-electrica-poate-genera-o-criza-cu-consecinte-sociale-grave-avertizeaza-presedintele-cj-galati.html"
-      }
-    ],
-    "published_at": 1793962826,
-    "title_hu": "Debranşarea combinatului siderurgic Liberty de la energia electrică poate genera o criză cu consecințe sociale grave, avertizează președintele CJ Galați",
-    "lead_hu": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale...",
-    "content_hu": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale grave, afectând nu doar angajaţii combinatului, ci şi salariaţii firmelor care depind de activitatea acesteia, declaraţia fiind făcută în faţa a aproximativ 100 de siderurgişti nemulţumiţi veniţi la […] © G4Media.ro.",
-    "title_ro": "Debranşarea combinatului siderurgic Liberty de la energia electrică poate genera o criză cu consecințe sociale grave, avertizează președintele CJ Galați",
-    "lead_ro": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale...",
-    "content_ro": "Preşedintele Consiliului Judeţean Galaţi, Costel Fotea, a avertizat, vineri, că o eventuală debranşare de la energia electrică a combinatului siderurgic Liberty Galaţi ar putea avea consecinţe sociale grave, afectând nu doar angajaţii combinatului, ci şi salariaţii firmelor care depind de activitatea acesteia, declaraţia fiind făcută în faţa a aproximativ 100 de siderurgişti nemulţumiţi veniţi la […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_eecbfc018b",
     "category": "Sport",
     "is_synthesized": false,
@@ -9260,28 +9252,6 @@
     "title_ro": "Reuters: Rusia a confiscat zeci de hoteluri ucrainene. Reacția unui proprietar",
     "lead_ro": "Rusia a confiscat zeci de hoteluri și stațiuni de pe litoralul Mării Azov, în teritoriile ucrainene ocupate, și a trecut o parte dintre ele în administrarea unor companii rusești.",
     "content_ro": "Rusia a confiscat zeci de hoteluri și stațiuni de pe litoralul Mării Azov, în teritoriile ucrainene ocupate, și a trecut o parte dintre ele în administrarea unor companii rusești.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_bb2682ba89",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Poliția investighează noi amenințări la adresa traficului aerian pe aeroportul din Copenhaga. Autoritățile spun că pasagerii nu sunt în pericol",
-        "link": "https://www.mediafax.ro/externe/politia-investigheaza-noi-amenintari-la-adresa-traficului-aerian-pe-aeroportul-din-copenhaga-autoritatile-spun-ca-pasagerii-nu-sunt-in-pericol-23838696"
-      }
-    ],
-    "published_at": 1793961857,
-    "title_hu": "Poliția investighează noi amenințări la adresa traficului aerian pe aeroportul din Copenhaga. Autoritățile spun că pasagerii nu sunt în pericol",
-    "lead_hu": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ulti…",
-    "content_hu": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ultimele zile.",
-    "title_ro": "Poliția investighează noi amenințări la adresa traficului aerian pe aeroportul din Copenhaga. Autoritățile spun că pasagerii nu sunt în pericol",
-    "lead_ro": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ulti…",
-    "content_ro": "Poliția daneză investighează noi amenințări care vizează traficul aerian de pe aeroportul din Copenhaga, după o serie de alerte cu bombă care au perturbat zborurile din mai multe țări europene în ultimele zile.",
     "importance_score": 0.0
   },
   {
@@ -22199,92 +22169,113 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_af73960d3c",
-    "category": "Erdély",
-    "is_synthesized": false,
+    "group_id": "group_a9071cc850",
+    "fingerprint": "475cbb154f80ca7627adefb4dae836eb",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 18,
     "sources": [
       {
-        "source": "PresaSM (Szatmár)",
-        "title": "FOTO. Sătmărean acuzat de proxenetism, arestat preventiv după percheziții. Ce spun procurorii",
-        "link": "https://www.presasm.ro/foto-satmarean-acuzat-de-proxenetism-arestat-preventiv-dupa-perchezitii-ce-spun-procurorii/54138"
-      }
-    ],
-    "published_at": 1793879820,
-    "title_hu": "FOTO. Sătmărean acuzat de proxenetism, arestat preventiv după percheziții. Ce spun procurorii",
-    "lead_hu": "Un bărbat recidivist din Szatmárnémeti a fost arestat preventiv pentru 30 de zile, fiind cercetat pentru proxenetism în formă continuată. Potrivit procurorilor, în perioada mai – noiembrie 2026, acest…",
-    "content_hu": "Un bărbat recidivist din Szatmárnémeti a fost arestat preventiv pentru 30 de zile, fiind cercetat pentru proxenetism în formă continuată. Potrivit procurorilor, în perioada mai – noiembrie 2026, acesta ar fi închiriat, contra cost, mai multe apartamente dintr-un i…",
-    "title_ro": "FOTO. Sătmărean acuzat de proxenetism, arestat preventiv după percheziții. Ce spun procurorii",
-    "lead_ro": "Un bărbat recidivist din Szatmárnémeti a fost arestat preventiv pentru 30 de zile, fiind cercetat pentru proxenetism în formă continuată. Potrivit procurorilor, în perioada mai – noiembrie 2026, acest…",
-    "content_ro": "Un bărbat recidivist din Szatmárnémeti a fost arestat preventiv pentru 30 de zile, fiind cercetat pentru proxenetism în formă continuată. Potrivit procurorilor, în perioada mai – noiembrie 2026, acesta ar fi închiriat, contra cost, mai multe apartamente dintr-un i…",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_8a0cc3ae1d",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "source": "Mediafax",
+        "title": "Repornirea Unității 1 de la Cernavodă, inițiată după aprobarea Comisiei Naționale pentru Controlul Activităților Nucleare. Cantemir Marian Ciurea-Ercău: Continuăm verificările și pentru Unitatea 2",
+        "link": "https://www.mediafax.ro/economic/repornirea-unitatii-1-de-la-cernavoda-initiata-dupa-aprobarea-comisiei-nationale-pentru-controlul-activitatilor-nucleare-cantemir-marian-ciurea-ercau-continuam-verificarile-si-pentru-unitatea-2-23838292"
+      },
       {
-        "source": "Adevărul",
-        "title": "Prețul gramului de aur a crescut din nou. Cât valorează astăzi, 5 noiembrie 2026",
-        "link": "https://adevarul.ro/economie/pretul-gramului-de-aur-a-crescut-din-nou-cat-2569207.html"
-      }
-    ],
-    "published_at": 1793879646,
-    "title_hu": "Prețul gramului de aur a crescut din nou. Cât valorează astăzi, 5 noiembrie 2026",
-    "lead_hu": "Prețul gramului de aur a continuat să crească joi, 5 noiembrie 2026, ajungând la 631,0131 lei, potrivit cursului afișat de Banca Națională a României (BNR). Aurul s-a scumpit cu 13,6952 lei față de zi…",
-    "content_hu": "Prețul gramului de aur a continuat să crească joi, 5 noiembrie 2026, ajungând la 631,0131 lei, potrivit cursului afișat de Banca Națională a României (BNR). Aurul s-a scumpit cu 13,6952 lei față de ziua precedentă, ceea ce înseamnă o creștere de 2,22%.",
-    "title_ro": "Prețul gramului de aur a crescut din nou. Cât valorează astăzi, 5 noiembrie 2026",
-    "lead_ro": "Prețul gramului de aur a continuat să crească joi, 5 noiembrie 2026, ajungând la 631,0131 lei, potrivit cursului afișat de Banca Națională a României (BNR). Aurul s-a scumpit cu 13,6952 lei față de zi…",
-    "content_ro": "Prețul gramului de aur a continuat să crească joi, 5 noiembrie 2026, ajungând la 631,0131 lei, potrivit cursului afișat de Banca Națională a României (BNR). Aurul s-a scumpit cu 13,6952 lei față de ziua precedentă, ceea ce înseamnă o creștere de 2,22%.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c6cd20cb53",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "source": "G4Media",
+        "title": "Reactorul 1 de la Cernavodă se repornește vineri, după trei luni de oprire / Nu e încă cert când va fi repornit și al doilea reactor",
+        "link": "https://www.g4media.ro/reactorul-1-de-la-cernavoda-se-reporneste-vineri-dupa-trei-luni-de-oprire-nu-e-inca-cert-cand-va-fi-repornit-si-al-doilea-reactor.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Reactorul 1 de la Cernavodă revine în funcțiune după trei luni de oprire. Nuclearelectrica anunță „o operaţiune complexă”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/reactorul-1-de-la-cernavoda-revine-in-functiune-dupa-trei-luni-de-oprire-nuclearelectrica-anunta-o-opera-iune-complexa.html"
+      },
       {
         "source": "Digi24",
-        "title": "Chirie mai ieftină și transport redus pentru tinerii salariați. Ce prevede proiectul propus de USR și ce condiții ar trebui îndeplinite",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/chirie-mai-ieftina-si-transport-redus-pentru-tinerii-salariati-ce-prevede-proiectul-propus-de-usr-si-ce-conditii-ar-trebui-indeplinite-4023235"
-      }
-    ],
-    "published_at": 1793879615,
-    "title_hu": "Chirie mai ieftină și transport redus pentru tinerii salariați. Ce prevede proiectul propus de USR și ce condiții ar trebui îndeplinite",
-    "lead_hu": "USR propune printr-un proiect de lege depus în Parlament un set de măsuri în ajutorul tinerilor care muncesc: ajutor pentru plata chiriei şi transport la jumătate de preţ. Proiectul este semnat de dep…",
-    "content_hu": "USR propune printr-un proiect de lege depus în Parlament un set de măsuri în ajutorul tinerilor care muncesc: ajutor pentru plata chiriei şi transport la jumătate de preţ. Proiectul este semnat de deputaţii USR Alin Stoica şi Diana Stoica, alături de parlamentari de la alte partide.",
-    "title_ro": "Chirie mai ieftină și transport redus pentru tinerii salariați. Ce prevede proiectul propus de USR și ce condiții ar trebui îndeplinite",
-    "lead_ro": "USR propune printr-un proiect de lege depus în Parlament un set de măsuri în ajutorul tinerilor care muncesc: ajutor pentru plata chiriei şi transport la jumătate de preţ. Proiectul este semnat de dep…",
-    "content_ro": "USR propune printr-un proiect de lege depus în Parlament un set de măsuri în ajutorul tinerilor care muncesc: ajutor pentru plata chiriei şi transport la jumătate de preţ. Proiectul este semnat de deputaţii USR Alin Stoica şi Diana Stoica, alături de parlamentari de la alte partide.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_776d584039",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "Reactorul 1 de la Cernavodă va fi reconectat astăzi la Sistemul Energetic Național, după mai mult de trei luni de oprire",
+        "link": "https://www.digi24.ro/stiri/actualitate/reactorul-1-de-la-cernavoda-va-fi-reconectat-astazi-la-sistemul-energetic-national-dupa-mai-mult-de-trei-luni-de-oprire-4024469"
+      },
+      {
+        "source": "Digi24",
+        "title": "Reactorul 1 de la Cernavodă va fi reconectat vineri la Sistemul Energetic Național, după mai mult de trei luni de oprire",
+        "link": "https://www.digi24.ro/stiri/actualitate/reactorul-1-de-la-cernavoda-va-fi-reconectat-vineri-la-sistemul-energetic-national-dupa-mai-mult-de-trei-luni-de-oprire-4024469"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Unitatea 1 de la Cernavodă ar urma să fie resincronizată vineri la Sistemul Energetic Național",
+        "link": "https://agerpres.ro/economic/2026/11/06/unitatea-1-de-la-cernavoda-ar-urma-sa-fie-resincronizata-vineri-la-sistemul-energetic-national--1610686"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Unitatea 1 a Centralei nucleare de la Cernavodă va fi resincronizată la sistemul energetic național, după trei luni. Când va ajunge la capacitatea maximă de producție",
+        "link": "https://www.mediafax.ro/economic/unitatea-1-a-centralei-nucleare-de-la-cernavoda-va-fi-resincronizata-la-sistemul-energetic-national-dupa-trei-luni-cand-va-ajunge-la-capacitatea-maxima-de-productie-23838655"
+      },
+      {
+        "source": "Digi24",
+        "title": "Care sunt etapele repornirii Reactorului 1 de la Cernavodă și ce condiții sunt necesare pentru Unitatea 2. Anunțul Nuclearelectrica",
+        "link": "https://www.digi24.ro/stiri/economie/energie/care-sunt-etapele-repornirii-reactorului-1-de-la-cernavoda-si-ce-conditii-sunt-necesare-pentru-unitatea-2-anuntul-nuclearelectrica-4022895"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Reactorul 1 de la Cernavodă ar putea livra din nou energie vineri, după mai bine de trei luni de oprire",
+        "link": "https://www.ebihoreanul.ro/stiri/reactorul-1-de-la-cernavod-ar-putea-livra-din-nou-energie-vineri-dup-mai-bine-de-trei-luni-de-oprire-206353.html"
+      },
       {
         "source": "HotNews.ro",
-        "title": "Cum se explică succesul fulminant al lui Jon Ossoff, omul care a găsit glonțul de argint împotriva lui Trump și a ajuns în fruntea candidaților democrați cu șanse la Casa Albă",
-        "link": "https://hotnews.ro/cum-se-explica-succesul-fulminant-al-lui-jon-ossoff-omul-care-a-gasit-glontul-de-argint-impotriva-lui-trump-si-a-ajuns-in-fruntea-candidatilor-democrati-cu-sanse-la-casa-alba-2395749"
+        "title": "Reactorul 1 de la Cernavodă, în proceduri pentru repornire. Când ar putea fi reconectat la sistemul energetic",
+        "link": "https://hotnews.ro/reactorul-1-de-la-cernavoda-in-proceduri-pentru-repornire-cand-ar-putea-fi-reconectat-la-sistemul-energetic-2395005"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Cernavodă repornește primul reactor. Transelectrica a anunțat calendarul revenirii în sistem",
+        "link": "https://adevarul.ro/economie/cernavoda-reporneste-primul-reactor-2568965.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Nuclearelectrica a anunțat începerea manevrelor de pornire a Unităţii 1 a CNE Cernavodă",
+        "link": "https://stirileprotv.ro/stiri/actualitate/nuclearelectrica-a-anuntat-inceperea-manevrelor-de-pornire-a-unita-ii-1-a-cne-cernavoda.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Újraindítják az egyik csernavodai atomreaktort",
+        "link": "https://transtelex.ro/kozelet/2026/11/04/ujrainditjak-az-aszaly-miatt-leallitott-csernavodai-atomreaktort"
+      },
+      {
+        "source": "Maszol",
+        "title": "Elkezdik újraindítania a cernavodai erőművet",
+        "link": "https://maszol.ro/belfold/Elkezdik-ujrainditania-a-cernavodai-eromuvet"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING | Unitatea 1 de Centrala Nuclearelectrică Cernavodă va fi repornită / Reactorul va ajunge la putere maximă pe 7 noiembrie",
+        "link": "https://www.g4media.ro/unitatea-1-de-centrala-nuclearelectrica-cernavoda-va-fi-repornita-reactorul-va-ajunge-la-putere-maxima-pe-7-noimebrie.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nuclearelectrica anunță repornirea Unității 1 de la Cernavodă",
+        "link": "https://www.mediafax.ro/economic/nuclearelectrica-anunta-repornirea-unitatii-1-de-la-cernavoda-23837393"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nuclearelectrica anunţă începerea manevrelor de pornire a Unităţii 1 de la Cernavodă",
+        "link": "https://www.digi24.ro/stiri/economie/energie/nuclearelectrica-anunta-inceperea-manevrelor-de-pornire-a-unitatii-1-de-la-cernavoda-4021737"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Cernavodă repornește după trei luni. Problema veche de 20 de ani care poate opri din nou reactorul",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/cernavoda-reporneste-dupa-trei-luni-problema-2569300.html"
       }
     ],
-    "published_at": 1793879513,
-    "title_hu": "Cum se explică succesul fulminant al lui Jon Ossoff, omul care a găsit glonțul de argint împotriva lui Trump și a ajuns în fruntea candidaților democrați cu șanse la Casa Albă",
-    "lead_hu": "Cum a ajuns senatorul american Jon Ossoff o stea în ascensiune în Partidul Democrat, aclamat drept „noul Obama”, după ce cu doar un an în urmă era considerat unul dintre cei mai vulnerabili democrați …",
-    "content_hu": "Cum a ajuns senatorul american Jon Ossoff o stea în ascensiune în Partidul Democrat, aclamat drept „noul Obama”, după ce cu doar un an în urmă era considerat unul dintre cei mai vulnerabili democrați în fața unui eventual asalt al republicanilor la scrutinul din 3 noiembrie? Explicațiile analiștilor pentru succesul lui sunt simple. Acum un …",
-    "title_ro": "Cum se explică succesul fulminant al lui Jon Ossoff, omul care a găsit glonțul de argint împotriva lui Trump și a ajuns în fruntea candidaților democrați cu șanse la Casa Albă",
-    "lead_ro": "Cum a ajuns senatorul american Jon Ossoff o stea în ascensiune în Partidul Democrat, aclamat drept „noul Obama”, după ce cu doar un an în urmă era considerat unul dintre cei mai vulnerabili democrați …",
-    "content_ro": "Cum a ajuns senatorul american Jon Ossoff o stea în ascensiune în Partidul Democrat, aclamat drept „noul Obama”, după ce cu doar un an în urmă era considerat unul dintre cei mai vulnerabili democrați în fața unui eventual asalt al republicanilor la scrutinul din 3 noiembrie? Explicațiile analiștilor pentru succesul lui sunt simple. Acum un …",
-    "importance_score": 0.0
+    "published_at": 1793961577,
+    "title_hu": "Pénteken kapcsolhatják vissza a cernavodai 1-es blokkot",
+    "lead_hu": "A Nuclearelectrica november 6-ra várja a cernavodai 1-es blokk hálózati szinkronizálását, miután november 4-én elindította az újraindítási műveleteket. A 2-es egység indításának időpontja továbbra sem ismert: a Duna vízszintjének tartós emelkedése szükséges, miközben a CNCAN folytatja az ellenőrzéseket.",
+    "content_hu": "• **November 4–7.** A Nuclearelectrica november 4-én kezdte meg a mintegy 700 MW-os 1-es blokk indítását, a hálózatra kapcsolást november 6-ra tervezi. A Transelectrica becslése szerint az egység november 7-én 19 órára érheti el a szokásos termelési szintet; a vállalat műszaki vezetője hétvégére várta a névleges teljesítményt.\n\n• **A leállások és a biztonság.** Az 1-es blokk július 28-án, a 2-es augusztus 13-án állt le a Duna alacsony vízállása miatt. A reaktorokat a leállás idején biztonságos állapotban tartották; a tájékoztatás szerint az intézkedés nem veszélyeztette a lakosságot, a dolgozókat vagy a környezetet.\n\n• **CNCAN-ellenőrzés.** Cantemir Marian Ciurea-Ercău hatósági elnök közlése szerint az 1-es blokknál áttekintették a leállás alatt végzett munkákat, a biztonsági rendszerek állapotát és az üzemeltetési előírások teljesülését. Az ellenőrzések után engedélyezték az indítási lépések megkezdését; a 2-es egység vizsgálatai is folytatódnak.\n\n• **Fokozatos újraindítás.** A hálózati szinkronizálást követően az 1-es blokk nem azonnal működik majd teljes kapacitáson. A hűtést, a fűtőanyagot, a biztonsági berendezéseket, a turbinát és a generátort ellenőrzik, miközben a teljesítményt fokozatosan növelik, az egyes szinteken vizsgálatokkal.\n\n• **Vízállás és energiabiztonság.** A 2-es blokk indításának nincs biztos dátuma: a Duna vízszintjének tartósan olyan magasnak kell lennie, hogy mindkét egység hosszú távon működhessen. Az 1-es blokk hűtése csökkentheti a szívómedence vízszintjét. Mihai Gioară vezérigazgató az 1-es blokk visszatérését az ellátásbiztonság és a rendszer stabilitása szempontjából fontosnak nevezte; a vállalat hatóságokkal és partnerekkel a hasonló helyzetek hatásainak mérséklését célzó megoldásokon is dolgozik.",
+    "title_ro": "Unitatea 1 de la Cernavodă ar putea fi reconectată vineri",
+    "lead_ro": "Nuclearelectrica estimează pentru 6 noiembrie sincronizarea Unității 1 de la Cernavodă cu rețeaua, după începerea procedurilor de repornire pe 4 noiembrie. Data revenirii Unității 2 nu este stabilită: este necesară menținerea unui nivel mai ridicat al Dunării, iar CNCAN continuă verificările.",
+    "content_ro": "• **4–7 noiembrie.** Nuclearelectrica a început pe 4 noiembrie pornirea Unității 1, cu o capacitate de aproximativ 700 MW, și vizează conectarea la rețea pe 6 noiembrie. Estimarea Transelectrica indică atingerea regimului obișnuit de producție pe 7 noiembrie, la ora 19:00; conducerea tehnică a companiei anticipase atingerea puterii nominale în weekend.\n\n• **Oprirea și siguranța.** Unitatea 1 a fost oprită pe 28 iulie, iar Unitatea 2 pe 13 august, din cauza nivelului scăzut al Dunării. Reactoarele au fost păstrate în condiții sigure pe perioada opririi, iar informările disponibile au precizat că situația nu a pus în pericol populația, angajații sau mediul.\n\n• **Verificările CNCAN.** Cantemir Marian Ciurea-Ercău, președintele autorității de reglementare, a declarat că la Unitatea 1 au fost evaluate lucrările efectuate în timpul opririi, starea sistemelor de securitate și respectarea cerințelor tehnice de operare. În urma controalelor au fost autorizate etapele de repornire, iar verificările pentru Unitatea 2 continuă.\n\n• **Creștere treptată a puterii.** Sincronizarea cu rețeaua nu înseamnă funcționarea imediată la capacitate maximă. Sunt inspectate sistemele de răcire, combustibilul, echipamentele de securitate, turbina și generatorul; puterea va fi mărită progresiv, cu teste la fiecare etapă.\n\n• **Nivelul Dunării și securitatea energetică.** Nu există încă o dată sigură pentru pornirea Unității 2: apa trebuie să rămână suficient de sus pentru operarea pe termen lung a ambelor reactoare. Răcirea Unității 1 poate reduce nivelul bazinului de aspirație. Directorul general Mihai Gioară a legat revenirea acesteia de siguranța energetică și stabilitatea sistemului; compania pregătește împreună cu autoritățile și partenerii măsuri pentru reducerea efectelor unor situații similare.",
+    "importance_score": 195.0
   },
   {
     "group_id": "group_84a24d7ff3",
@@ -23093,6 +23084,358 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Două piste suplimentare de control la Galați-Giurgiulești și o bandă separată pentru camioanele fără marfă la Albița-Leușeni",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_5e38619a66",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Chirițoiu: Planurile de restructurare ale CE Oltenia și TAROM trebuie renegociate cu Comisia Europeană; ideal până la sfârșitul anului",
+        "link": "https://agerpres.ro/economic/2026/11/06/chiritoiu-planurile-de-restructurare-ale-ce-oltenia-si-tarom-trebuie-renegociate-cu-comisia-european--1610776"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Chirițoiu: Planurile de restructurare ale CE Oltenia și TAROM trebuie renegociate cu Comisia Europeană; ideal până la sfârșitul anului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Chirițoiu: Planurile de restructurare ale CE Oltenia și TAROM trebuie renegociate cu Comisia Europeană; ideal până la sfârșitul anului",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_5eb66292d2",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Blocaj bugetar în Belgia: Regele a refuzat demisia premierului Bart De Wever",
+        "link": "https://agerpres.ro/politic-extern/2026/11/06/blocaj-bugetar-in-belgia-regele-a-refuzat-demisia-premierului-bart-de-wever--1610775"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Blocaj bugetar în Belgia: Regele a refuzat demisia premierului Bart De Wever",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Blocaj bugetar în Belgia: Regele a refuzat demisia premierului Bart De Wever",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_869d213675",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Japonia/ Cutremur cu magnitudinea 6,1 în largul Tokyo",
+        "link": "https://agerpres.ro/social-extern/2026/11/06/japonia-cutremur-cu-magnitudinea-6-1-in-largul-tokyo--1610770"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Japonia/ Cutremur cu magnitudinea 6,1 în largul Tokyo",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Japonia/ Cutremur cu magnitudinea 6,1 în largul Tokyo",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_534cc0014e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Harghita: Inspectoratul de Jandarmi marchează 35 de ani de activitate- primul drapel de luptă al unității și uniforme istorice, în expoziție",
+        "link": "https://agerpres.ro/social/2026/11/06/harghita-inspectoratul-de-jandarmi-marcheaza-35-de-ani-de-activitate--primul-drapel-de-lupta-al-unit--1610762"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Harghita: Inspectoratul de Jandarmi marchează 35 de ani de activitate- primul drapel de luptă al unității și uniforme istorice, în expoziție",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Harghita: Inspectoratul de Jandarmi marchează 35 de ani de activitate- primul drapel de luptă al unității și uniforme istorice, în expoziție",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b3b53b4e6f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Marincea (SRI): Alertele cu bombă de pe Aeroportul Otopeni nu s-au confirmat; identitatea autorilor - investigată",
+        "link": "https://agerpres.ro/justitie/2026/11/06/marincea-sri-alertele-cu-bomba-de-pe-aeroportul-otopeni-nu-s-au-confirmat-identitatea-autorilor---in--1610753"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Marincea (SRI): Alertele cu bombă de pe Aeroportul Otopeni nu s-au confirmat; identitatea autorilor - investigată",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Marincea (SRI): Alertele cu bombă de pe Aeroportul Otopeni nu s-au confirmat; identitatea autorilor - investigată",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_caeba6ed4f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Erbașu: Cred că lucrările de bază la Pasaj Unirii vor fi finalizate până la sfârșitul anului",
+        "link": "https://agerpres.ro/economic/2026/11/06/erbasu-cred-ca-lucrarile-de-baza-la-pasaj-unirii-vor-fi-finalizate-pana-la-sfarsitul-anului--1610763"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Erbașu: Cred că lucrările de bază la Pasaj Unirii vor fi finalizate până la sfârșitul anului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Erbașu: Cred că lucrările de bază la Pasaj Unirii vor fi finalizate până la sfârșitul anului",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c167f8c887",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Transportatorii solicită prelungirea schemei de restituire a accizei și reducerea cu 30% a tarifelor TollRO și rovinietei",
+        "link": "https://agerpres.ro/economic/2026/11/06/transportatorii-solicita-prelungirea-schemei-de-restituire-a-accizei-si-reducerea-cu-30-a-tarifelor---1610761"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Transportatorii solicită prelungirea schemei de restituire a accizei și reducerea cu 30% a tarifelor TollRO și rovinietei",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Transportatorii solicită prelungirea schemei de restituire a accizei și reducerea cu 30% a tarifelor TollRO și rovinietei",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_1083388663",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Aliații Kievului lucrează la obținerea unei ''păci juste și durabile'' în #Ucraina, afirmă purtătoarea de cuvânt a NATO",
+        "link": "https://agerpres.ro/politic-extern/2026/11/06/aliatii-kievului-lucreaza-la-obtinerea-unei-paci-juste-si-durabile-in-ucraina-afirma-purtatoarea-de---1610744"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Aliații Kievului lucrează la obținerea unei ''păci juste și durabile'' în #Ucraina, afirmă purtătoarea de cuvânt a NATO",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Aliații Kievului lucrează la obținerea unei ''păci juste și durabile'' în #Ucraina, afirmă purtătoarea de cuvânt a NATO",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_00d094d4a0",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Anul 2026 va fi, 'cel mai probabil', al doilea cel mai cald an înregistrat vreodată,după 2024",
+        "link": "https://agerpres.ro/social-extern/2026/11/06/anul-2026-va-fi-cel-mai-probabil-al-doilea-cel-mai-cald-an-inregistrat-vreodata-dupa-2024--1610742"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Anul 2026 va fi, 'cel mai probabil', al doilea cel mai cald an înregistrat vreodată,după 2024",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Anul 2026 va fi, 'cel mai probabil', al doilea cel mai cald an înregistrat vreodată,după 2024",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_894ff8c8f3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Black Friday 2026/Valoarea plăților procesate de PayU România a depășit 600 de milioane de lei, la ora prânzului",
+        "link": "https://agerpres.ro/economic/2026/11/06/black-friday-2026-valoarea-platilor-procesate-de-payu-romania-a-depasit-600-de-milioane-de-lei-la-or--1610760"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Black Friday 2026/Valoarea plăților procesate de PayU România a depășit 600 de milioane de lei, la ora prânzului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Black Friday 2026/Valoarea plăților procesate de PayU România a depășit 600 de milioane de lei, la ora prânzului",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_9a24e4f30b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Eurostat: Germania și România, cel mai semnificativ declin din UE al vânzărilor cu amănuntul, în septembrie",
+        "link": "https://agerpres.ro/economic-extern/2026/11/06/eurostat-germania-si-romania-cel-mai-semnificativ-declin-din-ue-al-vanzarilor-cu-amanuntul-in-septem--1610759"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Eurostat: Germania și România, cel mai semnificativ declin din UE al vânzărilor cu amănuntul, în septembrie",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Eurostat: Germania și România, cel mai semnificativ declin din UE al vânzărilor cu amănuntul, în septembrie",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a0c17a8c0f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Roxana Mînzatu: Capitalul uman e absolut esențial pentru succesul economic",
+        "link": "https://agerpres.ro/economic/2026/11/06/roxana-minzatu-capitalul-uman-e-absolut-esential-pentru-succesul-economic--1610757"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Roxana Mînzatu: Capitalul uman e absolut esențial pentru succesul economic",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Roxana Mînzatu: Capitalul uman e absolut esențial pentru succesul economic",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_43ca5a5f6d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Trump a discutat cu emirul Qatarului, mediator în conflictul din Orientul Mijlociu",
+        "link": "https://agerpres.ro/politic-extern/2026/11/06/trump-a-discutat-cu-emirul-qatarului-mediator-in-conflictul-din-orientul-mijlociu--1610729"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Trump a discutat cu emirul Qatarului, mediator în conflictul din Orientul Mijlociu",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Trump a discutat cu emirul Qatarului, mediator în conflictul din Orientul Mijlociu",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_7e0f2f2259",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "CNAB: La nivelul aeroportului sunt în curs de aplicare măsurile procedurale, după amenințarea cu bombă în aeronava Tarom Praga-București",
+        "link": "https://agerpres.ro/economic/2026/11/06/cnab-la-nivelul-aeroportului-sunt-in-curs-de-aplicare-masurile-procedurale-dupa-amenintarea-cu-bomba--1610724"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "CNAB: La nivelul aeroportului sunt în curs de aplicare măsurile procedurale, după amenințarea cu bombă în aeronava Tarom Praga-București",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "CNAB: La nivelul aeroportului sunt în curs de aplicare măsurile procedurale, după amenințarea cu bombă în aeronava Tarom Praga-București",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_210d541f5c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "'Fantoma de la Operă' revine anul viitor pe scena Operei bucureșene; biletele - puse în vânzare",
+        "link": "https://agerpres.ro/cultura-media/2026/11/06/fantoma-de-la-opera-revine-anul-viitor-pe-scena-operei-bucuresene-biletele---puse-in-vanzare--1610743"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "'Fantoma de la Operă' revine anul viitor pe scena Operei bucureșene; biletele - puse în vânzare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "'Fantoma de la Operă' revine anul viitor pe scena Operei bucureșene; biletele - puse în vânzare",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_298c7adcb3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Olt: Reforma administrativă, între economiile la buget și teama că administrația se va îndepărta de oamenii de la sate",
+        "link": "https://agerpres.ro/social/2026/11/06/olt-reforma-administrativa-intre-economiile-la-buget-si-teama-ca-administratia-se-va-indeparta-de-oa--1610733"
+      }
+    ],
+    "published_at": 1793923200,
+    "title_hu": "Olt: Reforma administrativă, între economiile la buget și teama că administrația se va îndepărta de oamenii de la sate",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Olt: Reforma administrativă, între economiile la buget și teama că administrația se va îndepărta de oamenii de la sate",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 0.0
