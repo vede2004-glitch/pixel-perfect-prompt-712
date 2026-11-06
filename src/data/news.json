@@ -573,7 +573,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 16,
+    "sources_count": 17,
     "sources": [
       {
         "source": "Mediafax",
@@ -654,6 +654,11 @@
         "source": "Agerpres (HU)",
         "title": "Unitatea 1 de la Cernavodă ar urma să fie resincronizată vineri la Sistemul Energetic Național",
         "link": "https://agerpres.ro/economic/2026/11/06/unitatea-1-de-la-cernavoda-ar-urma-sa-fie-resincronizata-vineri-la-sistemul-energetic-national--1610686"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Unitatea 1 a Centralei nucleare de la Cernavodă va fi resincronizată la sistemul energetic național, după trei luni. Când va ajunge la capacitatea maximă de producție",
+        "link": "https://www.mediafax.ro/economic/unitatea-1-a-centralei-nucleare-de-la-cernavoda-va-fi-resincronizata-la-sistemul-energetic-national-dupa-trei-luni-cand-va-ajunge-la-capacitatea-maxima-de-productie-23838655"
       }
     ],
     "published_at": 1793958803,
@@ -663,7 +668,7 @@
     "title_ro": "Unitatea 1 de la Cernavodă ar putea fi reconectată vineri la rețea",
     "lead_ro": "Nuclearelectrica estimează sincronizarea Unității 1 cu sistemul energetic pentru 6 noiembrie, după începerea manevrelor de repornire pe 4 noiembrie. Puterea reactorului va crește treptat, iar pornirea Unității 2 depinde de menținerea unui nivel mai ridicat al Dunării.",
     "content_ro": "• **4–6 noiembrie.** Nuclearelectrica a început pe 4 noiembrie procedurile de pornire a Unității 1, cu o putere de aproximativ 700 MW, și estimează reconectarea la rețea pentru 6 noiembrie. Conform calendarului Transelectrica, reactorul ar putea ajunge la regimul normal pe 7 noiembrie, la ora 19:00; directorul tehnic Emil Macovei a indicat sfârșitul de săptămână pentru atingerea puterii nominale.\n\n• **Opriri și siguranță.** Unitatea 1 a fost oprită pe 28 iulie, iar Unitatea 2 pe 13 august, pe fondul nivelului scăzut al Dunării. Pe perioada opririi, ambele reactoare au fost menținute în condiții sigure; potrivit informațiilor comunicate, situația nu a pus în pericol populația, angajații sau mediul.\n\n• **Verificările CNCAN.** Cantemir Marian Ciurea-Ercău, șeful autorității de reglementare, a precizat că au fost examinate lucrările efectuate în timpul opririi, configurația sistemelor de securitate nucleară și respectarea limitelor tehnice de operare. În urma verificărilor, CNCAN a permis demararea etapelor de repornire.\n\n• **Creșterea graduală a puterii.** Sincronizarea la rețea nu înseamnă producție imediată la capacitate maximă. Sunt verificate combustibilul, sistemele de răcire, echipamentele de securitate, turbina și generatorul, iar puterea este ridicată treptat, cu teste la fiecare etapă.\n\n• **Unitatea 2 și piața energiei.** Nu există încă un termen sigur pentru repornirea celui de-al doilea reactor, tot de aproximativ 700 MW: Dunărea trebuie să rămână la un nivel suficient de ridicat, deoarece răcirea Unității 1 poate coborî apa din bazinul de aspirație. Revenirea acesteia ar putea reduce importurile; miercuri, prețul pentru ziua următoare în România a fost de 324 euro/MWh, față de 313 în Bulgaria și 307 în Ungaria.",
-    "importance_score": 175.0
+    "importance_score": 185.0
   },
   {
     "group_id": "group_9eb1ebbda4",
@@ -2238,55 +2243,6 @@
     "importance_score": 75.0
   },
   {
-    "group_id": "group_03d8528e8f",
-    "fingerprint": "ec745ccb273ad034bd1c09070e5a99c1",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cod galben de vânt în șase județe din România. Rafalele vor ajunge la 60 km/h. Cât este valabilă avertizarea ANM",
-        "link": "https://www.mediafax.ro/meteo/cod-galben-de-vant-in-sase-judete-din-romania-rafalele-vor-ajunge-la-60-km-h-cat-este-valabila-avertizarea-anm-23838555"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cod galben de vânt în șase județe / Rafalele vor ajunge la 60 km/h",
-        "link": "https://www.g4media.ro/cod-galben-de-vant-in-sase-judete-rafalele-vor-ajunge-la-60-km-h.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Cod galben de vânt puternic pentru șase județe din Moldova",
-        "link": "https://www.digi24.ro/meteo/cod-galben-de-vant-puternic-pentru-sase-judete-din-moldova-4024377"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Cod galben de vânt puternic în şase judeţe. Cum e vremea la București",
-        "link": "https://hotnews.ro/cod-galben-de-vant-puternic-in-sase-judete-cum-e-vremea-la-bucuresti-2396567"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cod galben de vânt puternic în șase județe din țară. ANM a trimis o atenționare de vreme rea",
-        "link": "https://stirileprotv.ro/stiri/actualitate/cod-galben-de-vant-puternic-in-sase-judete-din-tara-anm-a-trimis-o-atentionare-de-vreme-rea.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "ANM: Cod galben de vânt în șase județe din zona Moldovei, pe parcursul zilei de vineri",
-        "link": "https://agerpres.ro/economic/2026/11/06/anm-cod-galben-de-vant-in-sase-judete-din-zona-moldovei-pe-parcursul-zilei-de-vineri--1610685"
-      }
-    ],
-    "published_at": 1793950930,
-    "title_hu": "Sárga szélriasztás hat romániai megyében november 6-án",
-    "lead_hu": "Az ANM péntek 10 és 18 óra közötti időszakra adott ki sárga jelzésű figyelmeztetést Románia északkeleti részének több térségére. A széllökések sebessége elérheti az óránkénti 60 kilométert.",
-    "content_hu": "• **November 6-án, pénteken 10 és 18 óra között** sárga szintű szélriasztás lesz érvényben Botoșani, Iași és Vaslui megyében, továbbá Suceava, Neamț és Bacău megye alacsonyabban fekvő területein. A figyelmeztetés kizárólag a megjelölt térségekre vonatkozik.\n\n• **Az előrejelzett szélerősödés** időszakos lesz: az ANM adatai szerint a szél sebessége óránként 50–60 kilométer között alakulhat. A legerősebb széllökések elérhetik a 60 kilométer/órát, elsősorban a riasztásban felsorolt körzetekben.\n\n• **A riasztás a szélre vonatkozik**, a közlés nem jelez más veszélyes időjárási jelenséget. A sárga fokozat arra figyelmeztet, hogy az időjárási körülmények átmenetileg befolyásolhatják a szokásos tevékenységeket; a tájékoztatás konkrét károkról vagy bekövetkezett eseményekről nem számol be.\n\n• **A figyelmeztetés pénteken 18 órakor lejár.** Az ANM által megadott időtartam tehát nyolc óra, és a szél erősödését erre az időszakra várják. A hatóság közleménye a jelzett szélerősséget és az érintett területeket nevezi meg, további riasztásról nem tesz említést.",
-    "title_ro": "Avertizare galbenă de vânt în șase județe, pe 6 noiembrie",
-    "lead_ro": "ANM a emis o atenționare de nivel galben pentru mai multe zone din nord-estul României, valabilă vineri între orele 10:00 și 18:00. Rafalele de vânt pot ajunge la 60 km/h.",
-    "content_ro": "• **Vineri, 6 noiembrie, între orele 10:00 și 18:00**, va fi în vigoare o atenționare galbenă de vânt în județele Botoșani, Iași și Vaslui, precum și în zonele joase din Suceava, Neamț și Bacău. Avertizarea se aplică doar acestor teritorii.\n\n• **Vântul se va intensifica temporar**, iar viteza acestuia este estimată de ANM la 50–60 km/h. Rafalele cele mai puternice ar putea atinge pragul de 60 km/h, în special în regiunile incluse în atenționare.\n\n• **Mesajul meteorologic privește intensificările vântului** și nu menționează alte fenomene periculoase. Nivelul galben indică posibilitatea ca vremea să perturbe temporar activitățile obișnuite; informarea nu semnalează pagube sau incidente deja produse.\n\n• **Atenționarea expiră vineri, la ora 18:00.** Intervalul anunțat de ANM este de opt ore, iar intensificările sunt așteptate pe durata acestuia. Comunicatul precizează viteza posibilă a vântului și zonele vizate, fără să anunțe o altă avertizare.",
-    "importance_score": 75.0
-  },
-  {
     "group_id": "group_4a8d12fc8f",
     "fingerprint": "d10a97e60ae5a6f836360552eed36fe5",
     "category": "Általános",
@@ -2334,50 +2290,6 @@
     "lead_ro": "Davide Tamburella și-a pierdut postul la restaurantul La Costa din Brisbane pe 20 mai 2026, după ce nu a acceptat să prepare o pizza cu șuncă și ananas. Comisia pentru relații de muncă nu a analizat fondul concedierii, deoarece cererea bucătarului a fost depusă după termen; hotărârea a consemnat și alte nemulțumiri de la serviciu.",
     "content_ro": "• **Comanda pentru un eveniment privat** făcea parte dintr-o rezervare de peste 15.000 de dolari australieni. La Costa, localul din Fortitude Valley, a acceptat solicitarea invitaților de a servi pizza cu șuncă și ananas, însă bucătarul Davide Tamburella a refuzat să o pregătească. El a considerat că folosirea fructului contravine legăturii sale culturale cu Italia.\n\n• **Refuzul s-a repetat de trei ori în patru ani**, potrivit informațiilor prezentate comisiei. Tamburella îi ceruse anterior șefului său să se documenteze despre importanța subiectului pentru italieni. Proprietarul, Elliot Ingram, considera că personalul trebuie să răspundă cererilor clienților; în trecut, o pizza de acest tip fusese inclusă și în meniul pentru copii.\n\n• **Discuția cu conducerea a abordat și alte probleme:** hotărârea comisiei menționează plângeri despre felul în care comunica bucătarul, folosirea unui limbaj vulgar și creșterea tensiunilor la locul de muncă. Întâlnirea a avut loc cu aproximativ două săptămâni înainte ca Tamburella să fie concediat.\n\n• **În aprilie 2026, bucătarul s-a accidentat la serviciu:** după ce a lovit o balustradă metalică, două oase din mâna dreaptă i-au fost fracturate. Tamburella a sugerat că incidentul ar fi putut influența încetarea contractului său. Comisia a respins însă cererea ca tardivă, fără să stabilească dacă concedierea a fost justificată, și nu a identificat circumstanțe care să explice depășirea termenului.\n\n• **Queensland produce toate ananasurile cultivate comercial în Australia.** Pe Sunshine Coast se află Big Pineapple, o construcție de 16 metri care a devenit un reper local și este protejată ca obiectiv de patrimoniu. La Costa și-a încetat activitatea în iulie, după încheierea contractului de închiriere. Tamburella a găsit ulterior un post la un alt restaurant italian, unde pizza cu ananas nu figurează în meniu.",
     "importance_score": 73.0
-  },
-  {
-    "group_id": "group_4d16db3ecd",
-    "fingerprint": "5d349f3e5fa290b800b5e9d2aef80600",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "NATO a lansat un magazin online de tehnică militară destinat guvernelor. Echipamentele costă până la 25 de milioane de euro",
-        "link": "https://stirileprotv.ro/stiri/international/nato-a-lansat-o-platforma-pentru-achizitia-rapida-a-sistemelor-antidrona-echipamentele-costa-pana-la-25-de-milioane-de-euro.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "NATO a lansat o platformă de tip e-commerce, unde țările membre pot cumpăra sisteme antidronă. Cât costă echipamentele",
-        "link": "https://www.digi24.ro/stiri/externe/nato-a-lansat-o-platforma-de-tip-e-commerce-unde-tarile-membre-pot-cumpara-sisteme-antidrona-cat-costa-echipamentele-4023833"
-      },
-      {
-        "source": "G4Media",
-        "title": "NATO a lansat o platformă de tip „e-commerce” pentru achiziţia de capacităţi antidronă de către statele membre",
-        "link": "https://www.g4media.ro/nato-a-lansat-o-platforma-de-tip-e-commerce-pentru-achizitia-de-capacitati-antidrona-de-catre-statele-membre.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "NATO lansează o platformă online pentru achiziția de echipamente antidrone. Cât costă sistemele disponibile statelor membre",
-        "link": "https://www.mediafax.ro/externe/nato-lanseaza-o-platforma-online-pentru-achizitia-de-echipamente-antidrone-cat-costa-sistemele-disponibile-statelor-membre-23838634"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "NATO a lansat o platformă de tip 'e-commerce' pentru achiziția de capacități antidronă dee către statele membre",
-        "link": "https://agerpres.ro/politic-extern/2026/11/05/nato-a-lansat-o-platforma-de-tip-e-commerce-pentru-achizitia-de-capacitati-antidrona-dee-catre-state--1610560"
-      }
-    ],
-    "published_at": 1793958176,
-    "title_hu": "NATO online platformmal gyorsítja a drónelhárító eszközök beszerzését",
-    "lead_hu": "A szövetség közös online felületén 32 tagállam kormányzati szervei választhatnak előzetesen értékelt drónelhárító rendszereket. Az új források a bevethető fegyverek körét is pontosítják: a zavaróeszközök és elfogó drónok mellett géppuskák, rakéták és tüzérségi megoldások is szerepelhetnek.",
-    "content_hu": "• **Csütörtökön indult el a NATO platformja**, ahol a 32 tagország kormányzati szervei megtekinthetik az ajánlatokat és az árakat, majd elindíthatják a beszerzést. A közös felület online áruházként működik, és a NATO előzetes kiválasztása révén rövidebbé teheti a beszerzési folyamatot.\n\n• **Több mint 80 ajánlatból 16 szerződés született**, öt vállalattal: a francia Alta Ares, a német Quantum Systems, az amerikai Northrop Grumman és Axon, valamint a brit OSL Technology lett beszállító. A rendszerek több hónapos értékelés után kerültek a tagállamok számára elérhető kínálatba.\n\n• **Az eszközök 1,6–25 millió euróba kerülnek**, és határszakaszok, repülőterek vagy más stratégiai helyszínek védelmére használhatók. A megoldások között rádiójelet zavaró rendszerek, elfogó drónok és hagyományos fegyverek is vannak; utóbbiak között géppuskák, rakéták és tüzérségi eszközök szerepelhetnek.\n\n• **A tagállamok vásárolhatnak vagy hosszú távra lízingelhetnek**, rövid bérléssel pedig még a beszerzési szerződés előtt kipróbálhatják, hogy az adott rendszer megfelel-e a saját műveleti követelményeiknek. A NATO 3,1 millió eurót biztosított az ilyen tesztelésre.\n\n• **A kiválasztás és a szállítás felgyorsulhat:** a beszállítók hagyományos kiválasztása 9–12 hónapot vehet igénybe, a NATO-platformon elérhető eszközök pedig 3–6 hónapon belül megérkezhetnek. A 2025-ös hágai csúcson a tagok öt évre legalább 40 milliárd dolláros drónelhárító vállalást tettek. Románia tengeri megfigyelését közben egy Mihail Kogălniceanu-i bázison állomásozó francia Atlantique 2 is támogatja; a gép tengeri drónokat és aknákat is észlelhet.",
-    "title_ro": "NATO accelerează achizițiile antidronă printr-o platformă online",
-    "lead_ro": "Prin platforma comună a Alianței, autoritățile din cele 32 de state membre pot selecta sisteme antidronă evaluate în prealabil. Noile informații precizează că, pe lângă bruiaj și drone interceptoare, opțiunile pot include mitraliere, rachete și artilerie.",
-    "content_ro": "• **Platforma NATO a fost lansată joi** pentru autoritățile din cele 32 de state membre, care pot consulta ofertele și prețurile și pot începe achiziția. Modelul este asemănător unui magazin online, iar selecția făcută în prealabil de Alianță poate reduce durata procedurilor.\n\n• **Din peste 80 de oferte au rezultat 16 contracte**, încheiate cu cinci companii: Alta Ares din Franța, Quantum Systems din Germania, Northrop Grumman și Axon din SUA, precum și OSL Technology din Marea Britanie. Echipamentele au fost incluse în ofertă după câteva luni de evaluare.\n\n• **Sistemele costă între 1,6 și 25 de milioane de euro** și pot apăra frontiere, aeroporturi sau alte obiective strategice. Soluțiile includ bruiajul semnalelor și drone interceptoare, dar și armament convențional; printre exemple se numără mitralierele, rachetele și artileria.\n\n• **Statele pot cumpăra echipamentele sau le pot lua în leasing pe termen lung.** Închirierea pentru o perioadă scurtă le permite să verifice dacă sistemele corespund cerințelor operaționale naționale înainte de semnarea unui contract de achiziție. NATO a alocat 3,1 milioane de euro pentru astfel de teste.\n\n• **Achiziția și livrarea pot fi mai rapide:** selectarea furnizorilor durează de regulă 9–12 luni, în timp ce echipamentele disponibile prin platformă pot fi livrate în 3–6 luni. La summitul de la Haga din 2025, statele membre și-au asumat alocarea a cel puțin 40 de miliarde de dolari pentru apărarea antidronă în următorii cinci ani. Supravegherea maritimă a României este sprijinită și de o aeronavă franceză Atlantique 2 aflată la baza Mihail Kogălniceanu, capabilă să detecteze drone maritime și mine.",
-    "importance_score": 70.0
   },
   {
     "group_id": "group_36a2f21f99",
@@ -2432,6 +2344,55 @@
     "lead_ro": "Bucureștiul a lansat o licitație internațională pentru 79 de tramvaie, cu o valoare estimată de 1,405 miliarde de lei fără TVA. Noile informații precizează și cum ar urma să fie folosite fondurile obținute anterior pentru achiziția altor vehicule.",
     "content_ro": "• **Scopul investiției** este modernizarea transportului cu tramvaiul și extinderea rețelei pe traseul Prelungirea Ghencea. Primarul Ciprian Ciucu a inclus în plan refacerea șinelor și a depourilor, precum și echilibrarea financiară a STB și o administrare îmbunătățită după procedura de insolvență.\n\n• **Valoarea licitației** este de 1.404.891.774 de lei fără TVA, echivalentul a aproximativ 300 de milioane de euro. Ofertele pentru procedura internațională pot fi depuse până la 10 decembrie 2026.\n\n• **Cerințele tehnice** prevăd vehicule de 36 de metri, capabile să circule autonom, cu podea joasă pe toată lungimea, rampă pentru scaune cu rotile și aer condiționat. Livrarea trebuie făcută în cel mult 28 de luni; contractul are o durată de 30 de luni și include o garanție de minimum 60 de luni. Prețul contează 50% la evaluare, garanția 25%, livrarea rapidă 15%, iar capacitatea furnizorului 10%.\n\n• **Parcul STB** cuprinde 1.679 de vehicule active: 1.197 de autobuze, 215 troleibuze și 267 de tramvaie. Compania deține în total 445 de tramvaie, cu o vechime medie de circa 20 de ani; peste 80% au depășit durata de funcționare prevăzută, iar unele nu circulă din cauza lucrărilor la șine.\n\n• **Achizițiile și finanțările anterioare** includ 100 de tramvaie Astra Arad comandate în 2021 și introduse în circulație între 2022 și 2024. În octombrie, municipalitatea a obținut 87 de milioane de euro nerambursabili pentru 10 tramvaie, 45 de troleibuze și 40 de autobuze electrice; licitația pentru acestea nu a fost încă lansată.",
     "importance_score": 70.0
+  },
+  {
+    "group_id": "group_03d8528e8f",
+    "fingerprint": "ec745ccb273ad034bd1c09070e5a99c1",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cod galben de vânt în șase județe din România. Rafalele vor ajunge la 60 km/h. Cât este valabilă avertizarea ANM",
+        "link": "https://www.mediafax.ro/meteo/cod-galben-de-vant-in-sase-judete-din-romania-rafalele-vor-ajunge-la-60-km-h-cat-este-valabila-avertizarea-anm-23838555"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cod galben de vânt în șase județe / Rafalele vor ajunge la 60 km/h",
+        "link": "https://www.g4media.ro/cod-galben-de-vant-in-sase-judete-rafalele-vor-ajunge-la-60-km-h.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cod galben de vânt puternic pentru șase județe din Moldova",
+        "link": "https://www.digi24.ro/meteo/cod-galben-de-vant-puternic-pentru-sase-judete-din-moldova-4024377"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cod galben de vânt puternic în şase judeţe. Cum e vremea la București",
+        "link": "https://hotnews.ro/cod-galben-de-vant-puternic-in-sase-judete-cum-e-vremea-la-bucuresti-2396567"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cod galben de vânt puternic în șase județe din țară. ANM a trimis o atenționare de vreme rea",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cod-galben-de-vant-puternic-in-sase-judete-din-tara-anm-a-trimis-o-atentionare-de-vreme-rea.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "ANM: Cod galben de vânt în șase județe din zona Moldovei, pe parcursul zilei de vineri",
+        "link": "https://agerpres.ro/economic/2026/11/06/anm-cod-galben-de-vant-in-sase-judete-din-zona-moldovei-pe-parcursul-zilei-de-vineri--1610685"
+      }
+    ],
+    "published_at": 1793950930,
+    "title_hu": "Sárga szélriasztás hat romániai megyében november 6-án",
+    "lead_hu": "Az ANM péntek 10 és 18 óra közötti időszakra adott ki sárga jelzésű figyelmeztetést Románia északkeleti részének több térségére. A széllökések sebessége elérheti az óránkénti 60 kilométert.",
+    "content_hu": "• **November 6-án, pénteken 10 és 18 óra között** sárga szintű szélriasztás lesz érvényben Botoșani, Iași és Vaslui megyében, továbbá Suceava, Neamț és Bacău megye alacsonyabban fekvő területein. A figyelmeztetés kizárólag a megjelölt térségekre vonatkozik.\n\n• **Az előrejelzett szélerősödés** időszakos lesz: az ANM adatai szerint a szél sebessége óránként 50–60 kilométer között alakulhat. A legerősebb széllökések elérhetik a 60 kilométer/órát, elsősorban a riasztásban felsorolt körzetekben.\n\n• **A riasztás a szélre vonatkozik**, a közlés nem jelez más veszélyes időjárási jelenséget. A sárga fokozat arra figyelmeztet, hogy az időjárási körülmények átmenetileg befolyásolhatják a szokásos tevékenységeket; a tájékoztatás konkrét károkról vagy bekövetkezett eseményekről nem számol be.\n\n• **A figyelmeztetés pénteken 18 órakor lejár.** Az ANM által megadott időtartam tehát nyolc óra, és a szél erősödését erre az időszakra várják. A hatóság közleménye a jelzett szélerősséget és az érintett területeket nevezi meg, további riasztásról nem tesz említést.",
+    "title_ro": "Avertizare galbenă de vânt în șase județe, pe 6 noiembrie",
+    "lead_ro": "ANM a emis o atenționare de nivel galben pentru mai multe zone din nord-estul României, valabilă vineri între orele 10:00 și 18:00. Rafalele de vânt pot ajunge la 60 km/h.",
+    "content_ro": "• **Vineri, 6 noiembrie, între orele 10:00 și 18:00**, va fi în vigoare o atenționare galbenă de vânt în județele Botoșani, Iași și Vaslui, precum și în zonele joase din Suceava, Neamț și Bacău. Avertizarea se aplică doar acestor teritorii.\n\n• **Vântul se va intensifica temporar**, iar viteza acestuia este estimată de ANM la 50–60 km/h. Rafalele cele mai puternice ar putea atinge pragul de 60 km/h, în special în regiunile incluse în atenționare.\n\n• **Mesajul meteorologic privește intensificările vântului** și nu menționează alte fenomene periculoase. Nivelul galben indică posibilitatea ca vremea să perturbe temporar activitățile obișnuite; informarea nu semnalează pagube sau incidente deja produse.\n\n• **Atenționarea expiră vineri, la ora 18:00.** Intervalul anunțat de ANM este de opt ore, iar intensificările sunt așteptate pe durata acestuia. Comunicatul precizează viteza posibilă a vântului și zonele vizate, fără să anunțe o altă avertizare.",
+    "importance_score": 68.0
   },
   {
     "group_id": "group_3cd4a7465d",
@@ -3958,6 +3919,38 @@
     "importance_score": 45.0
   },
   {
+    "group_id": "group_ec039c8846",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Europa divizată. Liderii se ceartă pe cine să discute cu Putin, în timp ce negocierile pentru Ucraina se poartă fără UE la masă",
+        "link": "https://www.digi24.ro/stiri/externe/ue/europa-divizata-liderii-se-cearta-pe-cine-sa-discute-cu-putin-in-timp-ce-negocierile-pentru-ucraina-se-poarta-fara-ue-la-masa-4024289"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Kremlinul acuză Europa că nu știe cine ar trebui să o reprezinte la viitoarele negocieri privind securitatea Ucrainei",
+        "link": "https://www.mediafax.ro/externe/kremlinul-acuza-europa-ca-nu-stie-cine-ar-trebui-sa-o-reprezinte-la-viitoarele-negocieri-privind-securitatea-ucrainei-23838653"
+      },
+      {
+        "source": "Digi24",
+        "title": "Kremlinul observă că Europa se chinuie să decidă cine o va reprezenta la discuțiile privind Ucraina: „O lipsă de voință”",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/kremlinul-observa-ca-europa-se-chinuie-sa-decida-cine-o-va-reprezenta-la-discutiile-privind-ucraina-o-lipsa-de-vointa-4024641"
+      }
+    ],
+    "published_at": 1793951665,
+    "title_hu": "Europa divizată. Liderii se ceartă pe cine să discute cu Putin, în timp ce negocierile pentru Ucraina se poartă fără UE la masă",
+    "lead_hu": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, media…",
+    "content_hu": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, mediate de SUA, dintre Rusia și Ucraina, de la Abu Dhabi, vor avea loc fără participarea Europei. Așteptările privind un progres sunt la un nivel minim, dar acest lucru nu a oprit certurile dintre nordul, sudul, estul și vestul UE privind reprezentarea, scrie Rapporteur.",
+    "title_ro": "Europa divizată. Liderii se ceartă pe cine să discute cu Putin, în timp ce negocierile pentru Ucraina se poartă fără UE la masă",
+    "lead_ro": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, media…",
+    "content_ro": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, mediate de SUA, dintre Rusia și Ucraina, de la Abu Dhabi, vor avea loc fără participarea Europei. Așteptările privind un progres sunt la un nivel minim, dar acest lucru nu a oprit certurile dintre nordul, sudul, estul și vestul UE privind reprezentarea, scrie Rapporteur.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_5c6065e2fb",
     "category": "Sport",
     "is_synthesized": false,
@@ -4716,45 +4709,6 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_6251c1bf95",
-    "fingerprint": "5e49c041d2bad74d0c8063895fcfe2e6",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Tentativă de răpire a unui copil de 11 ani, în Caracal. Trei necunoscuți l-au abordat pe stradă unde locuia Gheorghe Dincă",
-        "link": "https://adevarul.ro/stiri-locale/slatina/tentativa-de-rapire-a-unui-copil-de-11-ani-in-2569145.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Părinţii unui copil de 11 ani din Caracal au reclamat o tentativă de răpire: o dubă roșie l-a urmărit pe stradă. Anchetă a Poliției",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/parintii-unui-copil-de-11-ani-din-caracal-au-reclamat-o-tentativa-de-rapire-o-duba-rosie-l-a-urmarit-pe-strada-ancheta-a-politiei-4022939"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Tentativă de răpire a unui copil de 11 ani chiar pe strada crimelor lui Gheorghe Dincă. O dubă roșie l-ar fi urmărit pe minor | VIDEO",
-        "link": "https://stirileprotv.ro/stiri/actualitate/tentativa-de-rapire-a-unui-copil-de-11-ani-chiar-pe-strada-crimelor-lui-gheorghe-dinca-o-duba-rosie-l-ar-fi-urmarit-pe-minor-video.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Posibilă tentativă de răpire a unui copil la Caracal. Totul s-a petrecut pe strada unde locuia Gheorghe Dincă",
-        "link": "https://www.cancan.ro/posibila-tentativa-de-rapire-a-unui-copil-la-caracal-totul-s-a-petrecut-pe-strada-unde-locuia-gheorghe-dinca-21542327"
-      }
-    ],
-    "published_at": 1793875349,
-    "title_hu": "Tizenegy éves fiút próbáltak autóba hívni Caracalban",
-    "lead_hu": "November 1-jén három, járműben utazó ember egy 11 éves fiút szólított meg Caracalban, és azt ajánlotta neki, hogy elviszi Craiovába. A rendőrség büntetőeljárást indított a szabadság jogellenes korlátozásának kísérlete miatt; az eset körülményeit még vizsgálják.",
-    "content_hu": "• **November 1-jén, délután fél három körül** érkezett bejelentés a 112-es segélyhívón egy caracali esetről. A 11 éves fiú a Craiovei utcán tartózkodott, amikor egy autóban ülő három ismeretlen megszólította, és felajánlotta, hogy elviszi Craiovába.\n\n• **A gyermek beszámolója és az édesanyja által közzétett felvétel szerint** egy piros furgon többször is visszafordult a fiú közelében, majd megállt mellette. A járműből kiszálló egyik férfi kinyitotta az ajtót; a fiú ekkor hazafelé menekült. Az anya közlése szerint a furgon később a gyermek után fordult, két férfi pedig kiszállt és keresni kezdte.\n\n• **A rendőrség azonosította a járművet és utasait**, valamint megvizsgálta a környék térfigyelő kameráinak felvételeit. A hatóság tájékoztatása alapján büntetőügy indult a szabadság jogellenes elvonásának kísérlete gyanújával.\n\n• **A nyomozás még folyamatban van.** Az ügyészi irányítás mellett dolgozó nyomozók azt vizsgálják, pontosan mi történt, és milyen jogi intézkedések indokoltak. Az eset a Gheorghe Dincă egykori lakóhelye közelében, Caracal Craiovei utcáján történt; a hatóságok egyelőre nem közöltek további részleteket az érintettekről.",
-    "title_ro": "Un băiat de 11 ani ar fi fost îndemnat să urce într-o mașină, la Caracal",
-    "lead_ro": "La 1 noiembrie, trei persoane aflate într-un vehicul au abordat un băiat de 11 ani pe o stradă din Caracal și i-au propus să îl ducă la Craiova. Poliția a deschis un dosar privind o posibilă tentativă de lipsire ilegală de libertate, iar împrejurările sunt în curs de verificare.",
-    "content_ro": "• **La 1 noiembrie, în jurul orei 14:20**, a fost făcut un apel la 112 despre un incident petrecut pe strada Craiovei din Caracal. Un băiat de 11 ani se afla pe stradă când trei persoane necunoscute, aflate într-un autovehicul, l-au abordat și i-au propus să îl ducă la Craiova.\n\n• **Potrivit imaginilor publicate de mama copilului**, o dubă roșie s-ar fi întors de mai multe ori în apropierea băiatului înainte de a opri. Unul dintre bărbații aflați în vehicul ar fi coborât și ar fi deschis o ușă, iar copilul a fugit spre casă. Mama a mai relatat că duba ar fi mers ulterior în direcția în care fugise băiatul, iar doi dintre ocupanți ar fi coborât pentru a-l căuta.\n\n• **Polițiștii au identificat mașina și persoanele aflate în ea** și au analizat înregistrările camerelor de supraveghere din zonă. În urma verificărilor, a fost deschis un dosar penal pentru o posibilă tentativă de lipsire ilegală de libertate.\n\n• **Cercetările continuă sub coordonarea procurorilor.** Anchetatorii încearcă să stabilească succesiunea exactă a evenimentelor și măsurile legale care se impun. Incidentul a avut loc în apropierea fostei locuințe a lui Gheorghe Dincă; autoritățile nu au oferit, deocamdată, alte detalii despre persoanele implicate.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_5147704916",
     "fingerprint": "29768848adfa82356dab22511fb07485",
     "category": "Általános",
@@ -5290,6 +5244,33 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_57463d8ae6",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Őrizetbe vették az iskolatársukat bántalmazó Kolozs megyei kamaszokat",
+        "link": "https://maszol.ro/belfold/Orizetbe-vettek-az-iskolatarsukat-bantalmazo-Kolozs-megyei-kamaszokat"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Őrizetbe vették a katonai iskolában késelő két kamaszt",
+        "link": "https://transtelex.ro/kozelet/2026/11/06/orizetbe-vettek-a-katonai-iskolaban-keselo-ket-kamaszt"
+      }
+    ],
+    "published_at": 1793953080,
+    "title_hu": "Őrizetbe vették az iskolatársukat bántalmazó Kolozs megyei kamaszokat",
+    "lead_hu": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
+    "content_hu": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
+    "title_ro": "Őrizetbe vették az iskolatársukat bántalmazó Kolozs megyei kamaszokat",
+    "lead_ro": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
+    "content_ro": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_fb73430345",
     "fingerprint": "0c9243b853902dfa397f51d62a9802a9",
     "category": "Általános",
@@ -5403,33 +5384,6 @@
     "title_ro": "Google, Meta și TikTok contestă în instanță legea californiană privind rețelele sociale",
     "lead_ro": "Cele trei companii au deschis acțiuni separate pentru a opri aplicarea unei legi din California care limitează accesul copiilor sub 16 ani la anumite funcții ale platformelor sociale. Ele invocă libertatea de exprimare și drepturile părinților, în timp ce susținătorii măsurii pun accentul pe protecția minorilor.",
     "content_ro": "• **Acțiunile Google, Meta și TikTok** vizează legea californiană Assembly Bill 1709. Companiile au depus dosare distincte la instanțe federale din San Jose, San Francisco și Los Angeles și solicită suspendarea aplicării actului normativ.\n\n• **Legea se referă la utilizatorii sub 16 ani** și ar interzice platformelor anumite instrumente considerate susceptibile să încurajeze utilizarea compulsivă. Printre acestea se numără recomandările personalizate și redarea automată a clipurilor; conturile minorilor care includ asemenea funcții ar trebui eliminate.\n\n• **Companiile contestă măsura pe temei constituțional**, susținând că aceasta încalcă libertatea de exprimare protejată de Primul Amendament al Constituției SUA și afectează prerogativele părinților. În opinia lor, regulile intervin în deciziile platformelor privind selectarea și prezentarea materialelor publicate de utilizatori.\n\n• **Argumentele includ și legislația federală**, care oferă platformelor online protecție semnificativă față de răspunderea pentru conținutul încărcat de utilizatori. Google și TikTok au formulat obiecții asemănătoare celor ale Meta; aceasta deține Facebook și Instagram, iar Google deține YouTube.\n\n• **Guvernatorul Gavin Newsom a promulgat legea pe 10 septembrie**, prezentând siguranța copiilor drept un obiectiv important al reglementării tehnologiei. Electronic Frontier Foundation a avertizat, în schimb, că restricțiile ar putea afecta viața privată și libertatea de exprimare. La momentul relatării, biroul procurorului general al statului nu oferise un răspuns oficial.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_ec039c8846",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Europa divizată. Liderii se ceartă pe cine să discute cu Putin, în timp ce negocierile pentru Ucraina se poartă fără UE la masă",
-        "link": "https://www.digi24.ro/stiri/externe/ue/europa-divizata-liderii-se-cearta-pe-cine-sa-discute-cu-putin-in-timp-ce-negocierile-pentru-ucraina-se-poarta-fara-ue-la-masa-4024289"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Kremlinul acuză Europa că nu știe cine ar trebui să o reprezinte la viitoarele negocieri privind securitatea Ucrainei",
-        "link": "https://www.mediafax.ro/externe/kremlinul-acuza-europa-ca-nu-stie-cine-ar-trebui-sa-o-reprezinte-la-viitoarele-negocieri-privind-securitatea-ucrainei-23838653"
-      }
-    ],
-    "published_at": 1793951665,
-    "title_hu": "Europa divizată. Liderii se ceartă pe cine să discute cu Putin, în timp ce negocierile pentru Ucraina se poartă fără UE la masă",
-    "lead_hu": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, media…",
-    "content_hu": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, mediate de SUA, dintre Rusia și Ucraina, de la Abu Dhabi, vor avea loc fără participarea Europei. Așteptările privind un progres sunt la un nivel minim, dar acest lucru nu a oprit certurile dintre nordul, sudul, estul și vestul UE privind reprezentarea, scrie Rapporteur.",
-    "title_ro": "Europa divizată. Liderii se ceartă pe cine să discute cu Putin, în timp ce negocierile pentru Ucraina se poartă fără UE la masă",
-    "lead_ro": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, media…",
-    "content_ro": "Există puține semne că Vladimir Putin dorește să discute cu Europa despre încheierea războiului său împotriva Ucrainei. Toate informațiile de până acum arată că discuțiile de săptămâna viitoare, mediate de SUA, dintre Rusia și Ucraina, de la Abu Dhabi, vor avea loc fără participarea Europei. Așteptările privind un progres sunt la un nivel minim, dar acest lucru nu a oprit certurile dintre nordul, sudul, estul și vestul UE privind reprezentarea, scrie Rapporteur.",
     "importance_score": 35.0
   },
   {
@@ -6406,6 +6360,33 @@
     "title_ro": "Digistoria - cele mai importante evenimente petrecute pe 6 noiembrie",
     "lead_ro": "Cele mai importante evenimente petrecute pe 6 noiembrie.",
     "content_ro": "Cele mai importante evenimente petrecute pe 6 noiembrie.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_30f743b23c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
+        "link": "https://hotnews.ro/gaz-mai-ieftin-curent-electric-mai-scump-de-ce-facturile-la-energie-spun-povesti-diferite-in-europa-2396440"
+      },
+      {
+        "source": "G4Media",
+        "title": "Gaz mai ieftin, curent mai scump / Paradoxul pieței europene a energiei / România, campioana scumpirilor la energie în UE: +51,9% la electricitate în 2026",
+        "link": "https://www.g4media.ro/gaz-mai-ieftin-curent-mai-scump-paradoxul-pietei-europene-a-energiei-romania-campioana-scumpirilor-la-energie-in-ue-519-la-electricitate-in-2026.html"
+      }
+    ],
+    "published_at": 1793943134,
+    "title_hu": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
+    "lead_hu": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în Ro…",
+    "content_hu": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în România, unde prețurile energiei electrice pentru gospodării au crescut cu 51,9% față de anul precedent, urmată de Irlanda cu o creștere de 19,8% …",
+    "title_ro": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
+    "lead_ro": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în Ro…",
+    "content_ro": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în România, unde prețurile energiei electrice pentru gospodării au crescut cu 51,9% față de anul precedent, urmată de Irlanda cu o creștere de 19,8% …",
     "importance_score": 28.0
   },
   {
@@ -7759,6 +7740,72 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_3fbe89747a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Măcel pe bursele americane și asiatice, Europa a început și ea să simtă panica AI. „S-a frânt coloana vertebrală”",
+        "link": "https://hotnews.ro/macel-pe-bursele-americane-si-asiatice-europa-a-inceput-si-ea-sa-simta-panica-ai-s-a-frant-coloana-vertebrala-2396666"
+      }
+    ],
+    "published_at": 1793961723,
+    "title_hu": "Măcel pe bursele americane și asiatice, Europa a început și ea să simtă panica AI. „S-a frânt coloana vertebrală”",
+    "lead_hu": "Bursele europene s-au înroșit vineri, lovite de valul de scăderi de pe piețele americane și asiatice, cuprinse de o adevărată „panică AI” după ce timp de ani de zile au crescut datorită entuziasmului ...",
+    "content_hu": "Bursele europene s-au înroșit vineri, lovite de valul de scăderi de pe piețele americane și asiatice, cuprinse de o adevărată „panică AI” după ce timp de ani de zile au crescut datorită entuziasmului pentru inteligența artificială, principalul motor al pieței „bull” de după anul 2022. Acțiunile din sectorul tehnologic din SUA și Asia au căzut …",
+    "title_ro": "Măcel pe bursele americane și asiatice, Europa a început și ea să simtă panica AI. „S-a frânt coloana vertebrală”",
+    "lead_ro": "Bursele europene s-au înroșit vineri, lovite de valul de scăderi de pe piețele americane și asiatice, cuprinse de o adevărată „panică AI” după ce timp de ani de zile au crescut datorită entuziasmului ...",
+    "content_ro": "Bursele europene s-au înroșit vineri, lovite de valul de scăderi de pe piețele americane și asiatice, cuprinse de o adevărată „panică AI” după ce timp de ani de zile au crescut datorită entuziasmului pentru inteligența artificială, principalul motor al pieței „bull” de după anul 2022. Acțiunile din sectorul tehnologic din SUA și Asia au căzut …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_88a43b581d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Székelyföldön nyitja meg első romániai üzletét egy multinacionális kiskereskedelmi lánc",
+        "link": "https://maszol.ro/gazdasag/Szekelyfoldon-nyitja-meg-elso-romaniai-uzletet-egy-multinacionalis-kiskereskedelmi-lanc"
+      }
+    ],
+    "published_at": 1793961540,
+    "title_hu": "Székelyföldön nyitja meg első romániai üzletét egy multinacionális kiskereskedelmi lánc",
+    "lead_hu": "November 6-án, Székelyudvarhelyen nyitja meg első romániai üzletét a lengyel kiskereskedelmi lánc, a ShockPrice – írja az economica.net....",
+    "content_hu": "November 6-án, Székelyudvarhelyen nyitja meg első romániai üzletét a lengyel kiskereskedelmi lánc, a ShockPrice – írja az economica.net.",
+    "title_ro": "Székelyföldön nyitja meg első romániai üzletét egy multinacionális kiskereskedelmi lánc",
+    "lead_ro": "November 6-án, Székelyudvarhelyen nyitja meg első romániai üzletét a lengyel kiskereskedelmi lánc, a ShockPrice – írja az economica.net....",
+    "content_ro": "November 6-án, Székelyudvarhelyen nyitja meg első romániai üzletét a lengyel kiskereskedelmi lánc, a ShockPrice – írja az economica.net.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_cf0feaa0c4",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Nu doar IT-iștii au nevoie de AI. Competența care îți poate crește șansele de angajare cu aproape 80%",
+        "link": "https://hotnews.ro/nu-doar-it-istii-au-nevoie-de-ai-competenta-care-iti-poate-creste-sansele-de-angajare-cu-aproape-80-2396727"
+      }
+    ],
+    "published_at": 1793961538,
+    "title_hu": "Nu doar IT-iștii au nevoie de AI. Competența care îți poate crește șansele de angajare cu aproape 80%",
+    "lead_hu": "Persoanele care menționează în profilul LinkedIn competențe de utilizare a inteligenței artificiale (AI) au șanse cu 78% mai mari să fie angajate și cu 11% mai mari să obțină o promovare, comparativ c...",
+    "content_hu": "Persoanele care menționează în profilul LinkedIn competențe de utilizare a inteligenței artificiale (AI) au șanse cu 78% mai mari să fie angajate și cu 11% mai mari să obțină o promovare, comparativ cu cele care nu declară astfel de competențe. Datele publicate de LinkedIn arată că angajatorii caută tot mai frecvent candidați care știu să …",
+    "title_ro": "Nu doar IT-iștii au nevoie de AI. Competența care îți poate crește șansele de angajare cu aproape 80%",
+    "lead_ro": "Persoanele care menționează în profilul LinkedIn competențe de utilizare a inteligenței artificiale (AI) au șanse cu 78% mai mari să fie angajate și cu 11% mai mari să obțină o promovare, comparativ c...",
+    "content_ro": "Persoanele care menționează în profilul LinkedIn competențe de utilizare a inteligenței artificiale (AI) au șanse cu 78% mai mari să fie angajate și cu 11% mai mari să obțină o promovare, comparativ cu cele care nu declară astfel de competențe. Datele publicate de LinkedIn arată că angajatorii caută tot mai frecvent candidați care știu să …",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_3111e6be02",
     "category": "Erdély",
     "is_synthesized": false,
@@ -7778,6 +7825,28 @@
     "title_ro": "Tuktuk-jelenség: már nálunk is otthon",
     "lead_ro": "Nem mindegy, hogy elekt­romos triciklivel, áru­szállító háromkerekűvel vagy négykerekű quaddal közlekedünk – főleg, ha megállít a rendőr: míg az utóbbi időben városon és falun is rengeteg elektromos m...",
     "content_ro": "Nem mindegy, hogy elekt­romos triciklivel, áru­szállító háromkerekűvel vagy négykerekű quaddal közlekedünk – főleg, ha megállít a rendőr: míg az utóbbi időben városon és falun is rengeteg elektromos meghajtású kisjármű jelent meg, ezek egy részénél, a műszaki jellemzőktől függően, jogosítványra, nyilvántartásba vételre és kötelező biztosításra is szükség lehet. Mivel eltérő szabályok vonatkoznak rájuk, érdemes tisztában lenni besorolásukkal.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2933d75340",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Măsuri disperate la Kremlin. Putin ar fi luat motorină de la armată, ca să aprovizioneze Moscova. „Dacă se revoltă, a pus-o”",
+        "link": "https://stirileprotv.ro/stiri/interviurile-stirileprotv/masuri-disperate-la-kremlin-putin-ar-fi-luat-motorina-de-la-armata-ca-sa-aprovizioneze-moscova-daca-se-revolta-a-pus-o.html"
+      }
+    ],
+    "published_at": 1793961381,
+    "title_hu": "Măsuri disperate la Kremlin. Putin ar fi luat motorină de la armată, ca să aprovizioneze Moscova. „Dacă se revoltă, a pus-o”",
+    "lead_hu": "Autoritățile ruse ar fi recurs la rezervele strategice de motorină ale Armatei pentru a aproviziona cu carburanți Moscova și Sankt Petersburg, orașe mari, cu un potențial de revoltă care poate pune în...",
+    "content_hu": "Autoritățile ruse ar fi recurs la rezervele strategice de motorină ale Armatei pentru a aproviziona cu carburanți Moscova și Sankt Petersburg, orașe mari, cu un potențial de revoltă care poate pune în pericol regimul.",
+    "title_ro": "Măsuri disperate la Kremlin. Putin ar fi luat motorină de la armată, ca să aprovizioneze Moscova. „Dacă se revoltă, a pus-o”",
+    "lead_ro": "Autoritățile ruse ar fi recurs la rezervele strategice de motorină ale Armatei pentru a aproviziona cu carburanți Moscova și Sankt Petersburg, orașe mari, cu un potențial de revoltă care poate pune în...",
+    "content_ro": "Autoritățile ruse ar fi recurs la rezervele strategice de motorină ale Armatei pentru a aproviziona cu carburanți Moscova și Sankt Petersburg, orașe mari, cu un potențial de revoltă care poate pune în pericol regimul.",
     "importance_score": 0.0
   },
   {
@@ -7932,6 +8001,50 @@
     "title_ro": "WSJ: Democrații pregătesc un plan pentru eliminarea tarifelor impuse de Trump asupra Canadei",
     "lead_ro": "Democrații din Congresul SUA consideră că tarifele vamale impuse de președintele Donald Trump asupra Canadei reprezintă prima oportunitate de a combate agenda comercială a administrației republicane ș...",
     "content_ro": "Democrații din Congresul SUA consideră că tarifele vamale impuse de președintele Donald Trump asupra Canadei reprezintă prima oportunitate de a combate agenda comercială a administrației republicane și pregătesc o inițiativă legislativă pentru anularea acestora, potrivit principalului reprezentant al partidului în domeniul comerțului din Senat, relatează Wall Street Journal. „Există un sprijin copleșitor pentru abrogarea tarifelor […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_eab04ddcc1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Újraindul Csernavoda 1-es reaktora, másfél millió háztartásnyi áram tér vissza a román hálózatba",
+        "link": "https://transtelex.ro/transtelex/2026/11/06/csernavoda-reaktor-1-es-blokk-ujrainditas"
+      }
+    ],
+    "published_at": 1793961071,
+    "title_hu": "Újraindul Csernavoda 1-es reaktora, másfél millió háztartásnyi áram tér vissza a román hálózatba",
+    "lead_hu": "Románia egyetlen atomerőművének 1-es blokkja az országos áramfogyasztás tizedét képes fedezni....",
+    "content_hu": "Románia egyetlen atomerőművének 1-es blokkja az országos áramfogyasztás tizedét képes fedezni.",
+    "title_ro": "Újraindul Csernavoda 1-es reaktora, másfél millió háztartásnyi áram tér vissza a román hálózatba",
+    "lead_ro": "Románia egyetlen atomerőművének 1-es blokkja az országos áramfogyasztás tizedét képes fedezni....",
+    "content_ro": "Románia egyetlen atomerőművének 1-es blokkja az országos áramfogyasztás tizedét képes fedezni.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_286f2a7be2",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
+        "link": "https://www.g4media.ro/sorana-cirstea-eliminata-de-la-wta-hong-kong-de-ocupanta-locului-136-mondial.html"
+      }
+    ],
+    "published_at": 1793960989,
+    "title_hu": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
+    "lead_hu": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din cali...",
+    "content_hu": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din calificări, rusoaica în vârstă de 21 de ani s-a impus după un meci de o oră și 27 de minute, scor 6-2, 6-3. © G4Media.ro.",
+    "title_ro": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
+    "lead_ro": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din cali...",
+    "content_ro": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din calificări, rusoaica în vârstă de 21 de ani s-a impus după un meci de o oră și 27 de minute, scor 6-2, 6-3. © G4Media.ro.",
     "importance_score": 0.0
   },
   {
@@ -10245,28 +10358,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_57463d8ae6",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Őrizetbe vették az iskolatársukat bántalmazó Kolozs megyei kamaszokat",
-        "link": "https://maszol.ro/belfold/Orizetbe-vettek-az-iskolatarsukat-bantalmazo-Kolozs-megyei-kamaszokat"
-      }
-    ],
-    "published_at": 1793953080,
-    "title_hu": "Őrizetbe vették az iskolatársukat bántalmazó Kolozs megyei kamaszokat",
-    "lead_hu": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
-    "content_hu": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
-    "title_ro": "Őrizetbe vették az iskolatársukat bántalmazó Kolozs megyei kamaszokat",
-    "lead_ro": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
-    "content_ro": "Huszonnégy órás őrizetbe vették azt a két – 14, illetve 15 éves – fiút, akik súlyosan bántalmazták 13 éves iskolatársukat a Kolozs megyei Katona (Cătina) község tanintézményében.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_463790da7b",
     "category": "Általános",
     "is_synthesized": false,
@@ -12530,28 +12621,6 @@
     "title_ro": "Dan Tăpălagă: Câțiva politicieni din România, în frunte cu Sorin Grindeanu și George Simion au toate motivele să aibă emoții legate de investigațiile din Congresul SUA despre presupusa corupție din Administrația Trump",
     "lead_ro": "Dan Tăpălagă avertizează că România ar putea fi implicată într-un scandal de amploare, în urma dezvăluirilor legate de administrația Trump. Jurnalistul susține că investigațiile pregătite de Partidul …",
     "content_ro": "Dan Tăpălagă avertizează că România ar putea fi implicată într-un scandal de amploare, în urma dezvăluirilor legate de administrația Trump. Jurnalistul susține că investigațiile pregătite de Partidul Democrat din SUA ar putea scoate la iveală detalii despre afacerile din sectorul energetic românesc. Acesta subliniază că informațiile ar putea clarifica cine au fost politicienii care au […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_30f743b23c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
-        "link": "https://hotnews.ro/gaz-mai-ieftin-curent-electric-mai-scump-de-ce-facturile-la-energie-spun-povesti-diferite-in-europa-2396440"
-      }
-    ],
-    "published_at": 1793943134,
-    "title_hu": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
-    "lead_hu": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în Ro…",
-    "content_hu": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în România, unde prețurile energiei electrice pentru gospodării au crescut cu 51,9% față de anul precedent, urmată de Irlanda cu o creștere de 19,8% …",
-    "title_ro": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
-    "lead_ro": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în Ro…",
-    "content_ro": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în România, unde prețurile energiei electrice pentru gospodării au crescut cu 51,9% față de anul precedent, urmată de Irlanda cu o creștere de 19,8% …",
     "importance_score": 0.0
   },
   {
@@ -22235,136 +22304,48 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_4399672266",
+    "group_id": "group_4d16db3ecd",
+    "fingerprint": "5d349f3e5fa290b800b5e9d2aef80600",
     "category": "Általános",
-    "is_synthesized": false,
+    "is_synthesized": true,
+    "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 5,
     "sources": [
       {
-        "source": "Mediatica.ro",
-        "title": "Chuck Schumer az Irán elleni háború lezárását sürgeti a republikánusok választási veresége után",
-        "link": "https://www.mediatica.ro/hirek/kulfold/chuck-schumer-az-iran-elleni-haboru-lezarasat-surgeti-a-republikanusok-valasztasi-veresege-utan"
-      }
-    ],
-    "published_at": 1793875377,
-    "title_hu": "Chuck Schumer az Irán elleni háború lezárását sürgeti a republikánusok választási veresége után",
-    "lead_hu": "A washingtoni szenátusi demokraták vezetője szrerint a fegyveres konfliktus hozzájárult a republikánusok választási kudarcához.",
-    "content_hu": "A washingtoni szenátusi demokraták vezetője szrerint a fegyveres konfliktus hozzájárult a republikánusok választási kudarcához.",
-    "title_ro": "Chuck Schumer az Irán elleni háború lezárását sürgeti a republikánusok választási veresége után",
-    "lead_ro": "A washingtoni szenátusi demokraták vezetője szrerint a fegyveres konfliktus hozzájárult a republikánusok választási kudarcához.",
-    "content_ro": "A washingtoni szenátusi demokraták vezetője szrerint a fegyveres konfliktus hozzájárult a republikánusok választási kudarcához.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ccef6ed308",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "source": "ProTV Stiri",
+        "title": "NATO a lansat un magazin online de tehnică militară destinat guvernelor. Echipamentele costă până la 25 de milioane de euro",
+        "link": "https://stirileprotv.ro/stiri/international/nato-a-lansat-o-platforma-pentru-achizitia-rapida-a-sistemelor-antidrona-echipamentele-costa-pana-la-25-de-milioane-de-euro.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "NATO a lansat o platformă de tip e-commerce, unde țările membre pot cumpăra sisteme antidronă. Cât costă echipamentele",
+        "link": "https://www.digi24.ro/stiri/externe/nato-a-lansat-o-platforma-de-tip-e-commerce-unde-tarile-membre-pot-cumpara-sisteme-antidrona-cat-costa-echipamentele-4023833"
+      },
       {
         "source": "G4Media",
-        "title": "Jurnalistul Mirel Curea, de la Evenimentul zilei, a pierdut la CEDO procesul intentat împotriva României, în care cerea să-i fie apărată reputația profesională",
-        "link": "https://www.g4media.ro/jurnalistul-mirel-curea-de-la-evenimentul-zilei-a-pierdut-la-cedo-procesul-intentat-impotriva-romaniei-in-care-cerea-sa-i-fie-aparata-reputatia-profesionala.html"
-      }
-    ],
-    "published_at": 1793875300,
-    "title_hu": "Jurnalistul Mirel Curea, de la Evenimentul zilei, a pierdut la CEDO procesul intentat împotriva României, în care cerea să-i fie apărată reputația profesională",
-    "lead_hu": "Curtea Europeană a Drepturilor Omului a respins ca inadmisibilă o acțiune intentată împotriva României de către jurnalistul Mirel Curea, de la Evenimentul zilei, prin care acesta acuza că i-a fost înc…",
-    "content_hu": "Curtea Europeană a Drepturilor Omului a respins ca inadmisibilă o acțiune intentată împotriva României de către jurnalistul Mirel Curea, de la Evenimentul zilei, prin care acesta acuza că i-a fost încălcat dreptul de a-și apăra reputația profesională în fața unei instanțe. Curtea a stabilit că dreptul jurnnalistului nu a fost încălcat, dar acțiunile judiciare întreprinse […] © G4Media.ro.",
-    "title_ro": "Jurnalistul Mirel Curea, de la Evenimentul zilei, a pierdut la CEDO procesul intentat împotriva României, în care cerea să-i fie apărată reputația profesională",
-    "lead_ro": "Curtea Europeană a Drepturilor Omului a respins ca inadmisibilă o acțiune intentată împotriva României de către jurnalistul Mirel Curea, de la Evenimentul zilei, prin care acesta acuza că i-a fost înc…",
-    "content_ro": "Curtea Europeană a Drepturilor Omului a respins ca inadmisibilă o acțiune intentată împotriva României de către jurnalistul Mirel Curea, de la Evenimentul zilei, prin care acesta acuza că i-a fost încălcat dreptul de a-și apăra reputația profesională în fața unei instanțe. Curtea a stabilit că dreptul jurnnalistului nu a fost încălcat, dar acțiunile judiciare întreprinse […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_58af2d6b8b",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Petre Grigoraș, despre eliminarea controversată: „Sunt sigur că este un roșu absolut nemeritat”",
-        "link": "https://www.gsp.ro/fotbal/liga-2/petre-grigoras-despre-eliminarea-controversata-cetatea-suceava-liga-2-996155.html"
-      }
-    ],
-    "published_at": 1793875267,
-    "title_hu": "Petre Grigoraș, despre eliminarea controversată: „Sunt sigur că este un roșu absolut nemeritat”",
-    "lead_hu": "Petre Grigoraș (61 de ani), antrenorul echipei Cetatea Suceava, a vorbit despre forma foarte bună pe care o traversează formația acestuia în ultimele etape din Liga 2. Tehnicianul a vorbit și despre s…",
-    "content_hu": "Petre Grigoraș (61 de ani), antrenorul echipei Cetatea Suceava, a vorbit despre forma foarte bună pe care o traversează formația acestuia în ultimele etape din Liga 2. Tehnicianul a vorbit și despre scenele incredibile petrecute în timpul meciului dintre Cetatea Suceava - FC Bihor, la finalul căruia a fost eliminat din cauza protestelor la adresa unei decizii controversate de arbitraj. ...",
-    "title_ro": "Petre Grigoraș, despre eliminarea controversată: „Sunt sigur că este un roșu absolut nemeritat”",
-    "lead_ro": "Petre Grigoraș (61 de ani), antrenorul echipei Cetatea Suceava, a vorbit despre forma foarte bună pe care o traversează formația acestuia în ultimele etape din Liga 2. Tehnicianul a vorbit și despre s…",
-    "content_ro": "Petre Grigoraș (61 de ani), antrenorul echipei Cetatea Suceava, a vorbit despre forma foarte bună pe care o traversează formația acestuia în ultimele etape din Liga 2. Tehnicianul a vorbit și despre scenele incredibile petrecute în timpul meciului dintre Cetatea Suceava - FC Bihor, la finalul căruia a fost eliminat din cauza protestelor la adresa unei decizii controversate de arbitraj. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_45aefd7028",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Război, corupție și exces de zel. Cum au profitat democrații de marile greșeli ale lui Trump pentru a prelua Congresul",
-        "link": "https://adevarul.ro/stiri-externe/sua/razboi-coruptie-si-exces-de-zel-cum-au-profitat-2569175.html"
-      }
-    ],
-    "published_at": 1793875244,
-    "title_hu": "Război, corupție și exces de zel. Cum au profitat democrații de marile greșeli ale lui Trump pentru a prelua Congresul",
-    "lead_hu": "Deciziile controversate ale lui Donald Trump și o campanie democrată impecabil coordonată au redesenat harta politică a Americii și au deschis calea spre o majoritate istorică în Congres, arată o a na…",
-    "content_hu": "Deciziile controversate ale lui Donald Trump și o campanie democrată impecabil coordonată au redesenat harta politică a Americii și au deschis calea spre o majoritate istorică în Congres, arată o a naliză a The New York Times.",
-    "title_ro": "Război, corupție și exces de zel. Cum au profitat democrații de marile greșeli ale lui Trump pentru a prelua Congresul",
-    "lead_ro": "Deciziile controversate ale lui Donald Trump și o campanie democrată impecabil coordonată au redesenat harta politică a Americii și au deschis calea spre o majoritate istorică în Congres, arată o a na…",
-    "content_ro": "Deciziile controversate ale lui Donald Trump și o campanie democrată impecabil coordonată au redesenat harta politică a Americii și au deschis calea spre o majoritate istorică în Congres, arată o a naliză a The New York Times.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_bd6ff697cb",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "NATO a lansat o platformă de tip „e-commerce” pentru achiziţia de capacităţi antidronă de către statele membre",
+        "link": "https://www.g4media.ro/nato-a-lansat-o-platforma-de-tip-e-commerce-pentru-achizitia-de-capacitati-antidrona-de-catre-statele-membre.html"
+      },
       {
         "source": "Mediafax",
-        "title": "De Black Friday, Echipăm.ro echipează OAMENII DE TREABĂ: 10 branduri în 10 zile, cu reduceri de până la 30% pentru companii",
-        "link": "https://www.mediafax.ro/comunicate/de-black-friday-echipam-ro-echipeaza-oamenii-de-treaba-10-branduri-in-10-zile-cu-reduceri-de-pana-la-30-pentru-companii-23838056"
-      }
-    ],
-    "published_at": 1793875152,
-    "title_hu": "De Black Friday, Echipăm.ro echipează OAMENII DE TREABĂ: 10 branduri în 10 zile, cu reduceri de până la 30% pentru companii",
-    "lead_hu": "Black Friday la echipamente de protecție: 6 – 15 noiembrie 2026, exclusiv B2B. 5 runde de câte 2 zile: În fiecare rundă intră la reducere produse de la 2 producători. Cele mai mici prețuri din an și t…",
-    "content_hu": "Black Friday la echipamente de protecție: 6 – 15 noiembrie 2026, exclusiv B2B. 5 runde de câte 2 zile: În fiecare rundă intră la reducere produse de la 2 producători. Cele mai mici prețuri din an și transport gratuit pentru comenzile de peste 999 lei + TVA. Echipăm.ro, magazinul online specializat în echipamente de protecție, […]",
-    "title_ro": "De Black Friday, Echipăm.ro echipează OAMENII DE TREABĂ: 10 branduri în 10 zile, cu reduceri de până la 30% pentru companii",
-    "lead_ro": "Black Friday la echipamente de protecție: 6 – 15 noiembrie 2026, exclusiv B2B. 5 runde de câte 2 zile: În fiecare rundă intră la reducere produse de la 2 producători. Cele mai mici prețuri din an și t…",
-    "content_ro": "Black Friday la echipamente de protecție: 6 – 15 noiembrie 2026, exclusiv B2B. 5 runde de câte 2 zile: În fiecare rundă intră la reducere produse de la 2 producători. Cele mai mici prețuri din an și transport gratuit pentru comenzile de peste 999 lei + TVA. Echipăm.ro, magazinul online specializat în echipamente de protecție, […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_11f5cfb66c",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "NATO lansează o platformă online pentru achiziția de echipamente antidrone. Cât costă sistemele disponibile statelor membre",
+        "link": "https://www.mediafax.ro/externe/nato-lanseaza-o-platforma-online-pentru-achizitia-de-echipamente-antidrone-cat-costa-sistemele-disponibile-statelor-membre-23838634"
+      },
       {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "15 arme și aproape 3.700 de proiectile, ridicate după trei zile de percheziții. Polițiștii de la Arme au „periat” Bihorul în Operațiunea Jupiter (FOTO)",
-        "link": "https://www.ebihoreanul.ro/stiri/15-arme-si-aproape-3700-de-proiectile-ridicate-dupa-trei-zile-de-perchezitii-politistii-de-la-arme-au-periat-bihorul-in-operatiunea-jupiter-206364.html"
+        "source": "Agerpres (HU)",
+        "title": "NATO a lansat o platformă de tip 'e-commerce' pentru achiziția de capacități antidronă dee către statele membre",
+        "link": "https://agerpres.ro/politic-extern/2026/11/05/nato-a-lansat-o-platforma-de-tip-e-commerce-pentru-achizitia-de-capacitati-antidrona-dee-catre-state--1610560"
       }
     ],
-    "published_at": 1793875140,
-    "title_hu": "15 arme și aproape 3.700 de proiectile, ridicate după trei zile de percheziții. Polițiștii de la Arme au „periat” Bihorul în Operațiunea Jupiter (FOTO)",
-    "lead_hu": "Poliția Bihor a anunțat joi bilanțul perchezițiilor desfășurate timp de trei zile în județ, în cadrul Operațiunii Jupiter, în anchetele privind armele și muniția cumpărate ilegal de pe internet. În to…",
-    "content_hu": "Poliția Bihor a anunțat joi bilanțul perchezițiilor desfășurate timp de trei zile în județ, în cadrul Operațiunii Jupiter, în anchetele privind armele și muniția cumpărate ilegal de pe internet. În total, polițiștii au ridicat 15 arme neletale și 3.684 de proiectile din plumb, descoperite la locuințele a 14 persoane.",
-    "title_ro": "15 arme și aproape 3.700 de proiectile, ridicate după trei zile de percheziții. Polițiștii de la Arme au „periat” Bihorul în Operațiunea Jupiter (FOTO)",
-    "lead_ro": "Poliția Bihor a anunțat joi bilanțul perchezițiilor desfășurate timp de trei zile în județ, în cadrul Operațiunii Jupiter, în anchetele privind armele și muniția cumpărate ilegal de pe internet. În to…",
-    "content_ro": "Poliția Bihor a anunțat joi bilanțul perchezițiilor desfășurate timp de trei zile în județ, în cadrul Operațiunii Jupiter, în anchetele privind armele și muniția cumpărate ilegal de pe internet. În total, polițiștii au ridicat 15 arme neletale și 3.684 de proiectile din plumb, descoperite la locuințele a 14 persoane.",
-    "importance_score": 0.0
+    "published_at": 1793958176,
+    "title_hu": "NATO online platformmal gyorsítja a drónelhárító eszközök beszerzését",
+    "lead_hu": "A szövetség közös online felületén 32 tagállam kormányzati szervei választhatnak előzetesen értékelt drónelhárító rendszereket. Az új források a bevethető fegyverek körét is pontosítják: a zavaróeszközök és elfogó drónok mellett géppuskák, rakéták és tüzérségi megoldások is szerepelhetnek.",
+    "content_hu": "• **Csütörtökön indult el a NATO platformja**, ahol a 32 tagország kormányzati szervei megtekinthetik az ajánlatokat és az árakat, majd elindíthatják a beszerzést. A közös felület online áruházként működik, és a NATO előzetes kiválasztása révén rövidebbé teheti a beszerzési folyamatot.\n\n• **Több mint 80 ajánlatból 16 szerződés született**, öt vállalattal: a francia Alta Ares, a német Quantum Systems, az amerikai Northrop Grumman és Axon, valamint a brit OSL Technology lett beszállító. A rendszerek több hónapos értékelés után kerültek a tagállamok számára elérhető kínálatba.\n\n• **Az eszközök 1,6–25 millió euróba kerülnek**, és határszakaszok, repülőterek vagy más stratégiai helyszínek védelmére használhatók. A megoldások között rádiójelet zavaró rendszerek, elfogó drónok és hagyományos fegyverek is vannak; utóbbiak között géppuskák, rakéták és tüzérségi eszközök szerepelhetnek.\n\n• **A tagállamok vásárolhatnak vagy hosszú távra lízingelhetnek**, rövid bérléssel pedig még a beszerzési szerződés előtt kipróbálhatják, hogy az adott rendszer megfelel-e a saját műveleti követelményeiknek. A NATO 3,1 millió eurót biztosított az ilyen tesztelésre.\n\n• **A kiválasztás és a szállítás felgyorsulhat:** a beszállítók hagyományos kiválasztása 9–12 hónapot vehet igénybe, a NATO-platformon elérhető eszközök pedig 3–6 hónapon belül megérkezhetnek. A 2025-ös hágai csúcson a tagok öt évre legalább 40 milliárd dolláros drónelhárító vállalást tettek. Románia tengeri megfigyelését közben egy Mihail Kogălniceanu-i bázison állomásozó francia Atlantique 2 is támogatja; a gép tengeri drónokat és aknákat is észlelhet.",
+    "title_ro": "NATO accelerează achizițiile antidronă printr-o platformă online",
+    "lead_ro": "Prin platforma comună a Alianței, autoritățile din cele 32 de state membre pot selecta sisteme antidronă evaluate în prealabil. Noile informații precizează că, pe lângă bruiaj și drone interceptoare, opțiunile pot include mitraliere, rachete și artilerie.",
+    "content_ro": "• **Platforma NATO a fost lansată joi** pentru autoritățile din cele 32 de state membre, care pot consulta ofertele și prețurile și pot începe achiziția. Modelul este asemănător unui magazin online, iar selecția făcută în prealabil de Alianță poate reduce durata procedurilor.\n\n• **Din peste 80 de oferte au rezultat 16 contracte**, încheiate cu cinci companii: Alta Ares din Franța, Quantum Systems din Germania, Northrop Grumman și Axon din SUA, precum și OSL Technology din Marea Britanie. Echipamentele au fost incluse în ofertă după câteva luni de evaluare.\n\n• **Sistemele costă între 1,6 și 25 de milioane de euro** și pot apăra frontiere, aeroporturi sau alte obiective strategice. Soluțiile includ bruiajul semnalelor și drone interceptoare, dar și armament convențional; printre exemple se numără mitralierele, rachetele și artileria.\n\n• **Statele pot cumpăra echipamentele sau le pot lua în leasing pe termen lung.** Închirierea pentru o perioadă scurtă le permite să verifice dacă sistemele corespund cerințelor operaționale naționale înainte de semnarea unui contract de achiziție. NATO a alocat 3,1 milioane de euro pentru astfel de teste.\n\n• **Achiziția și livrarea pot fi mai rapide:** selectarea furnizorilor durează de regulă 9–12 luni, în timp ce echipamentele disponibile prin platformă pot fi livrate în 3–6 luni. La summitul de la Haga din 2025, statele membre și-au asumat alocarea a cel puțin 40 de miliarde de dolari pentru apărarea antidronă în următorii cinci ani. Supravegherea maritimă a României este sprijinită și de o aeronavă franceză Atlantique 2 aflată la baza Mihail Kogălniceanu, capabilă să detecteze drone maritime și mine.",
+    "importance_score": 70.0
   },
   {
     "group_id": "group_d44b72e8cb",
@@ -22721,28 +22702,6 @@
     "lead_ro": "Electromontaj derulează peste 200 de proiecte în România și pe piețe externe, dintre care patru sunt considerate de importanță națională. Compania a lansat o campanie de recrutare în contextul extinderii activității și al unor lucrări planificate în sectorul energetic.",
     "content_ro": "• **Peste 200 de proiecte active** sunt derulate de Electromontaj în România și în afara țării. Potrivit companiei, patru dintre acestea au importanță națională, iar activitatea internațională include piețe precum Cipru, Olanda și Polonia. Extinderea portofoliului este însoțită de ajustarea capacității operaționale și de planuri privind dezvoltarea echipei.\n\n• **Două instalații STATCOM** au fost montate în rețeaua electrică de transport din România, la stațiile Sibiu Sud și Bradu. Electromontaj a prezentat lucrările drept o premieră pentru rețeaua națională și o realizare tehnologică importantă la nivel regional. Totodată, au fost încheiate lucrările de amenajare hidroameliorativă Pietroiu–Ștefan cel Mare, iar centrala fotovoltaică Vifor, cu o putere de 460 MW, a fost conectată la sistemul energetic național.\n\n• **Prima lucrare a companiei în Finlanda** a inclus construirea unei linii electrice aeriene cu dublu circuit, de 400 și 110 kV, pe o lungime de 66 de kilometri. Proiectul face parte dintre lucrările finalizate menționate de companie și adaugă o nouă piață portofoliului său internațional.\n\n• **Printre proiectele următoare** se numără retehnologizarea hidrocentralei Vidraru, transformarea stației Alba Iulia într-o stație complet digitală și construirea liniei electrice de 400 kV Gădălin–Suceava. Lucrările au obiective și cerințe tehnice diferite, iar compania le leagă de nevoia de a-și consolida resursele de execuție.\n\n• **Campania de recrutare** a fost lansată pentru a susține dezvoltarea activității și derularea proiectelor. Materialul companiei nu precizează numărul posturilor sau condițiile de angajare, însă prezintă atragerea și dezvoltarea personalului ca parte a strategiei de extindere.",
     "importance_score": 20.0
-  },
-  {
-    "group_id": "group_286f2a7be2",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
-        "link": "https://www.g4media.ro/sorana-cirstea-eliminata-de-la-wta-hong-kong-de-ocupanta-locului-136-mondial.html"
-      }
-    ],
-    "published_at": 1793960989,
-    "title_hu": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
-    "lead_hu": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din cali...",
-    "content_hu": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din calificări, rusoaica în vârstă de 21 de ani s-a impus după un meci de o oră și 27 de minute, scor 6-2, 6-3. © G4Media.ro.",
-    "title_ro": "Sorana Cîrstea, eliminată de la WTA Hong Kong de ocupanta locului 136 mondial",
-    "lead_ro": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din cali...",
-    "content_ro": "Principală favorită a întrecerii, Sorana Cîrstea a fost eliminată în sferturile turneului WTA de la Hong Kong. Sorana a fost învinsă de rusoaica Alexandra Shubladze, locul 136 mondial. Venită din calificări, rusoaica în vârstă de 21 de ani s-a impus după un meci de o oră și 27 de minute, scor 6-2, 6-3. © G4Media.ro.",
-    "importance_score": 0.0
   },
   {
     "group_id": "group_12aa385ea1",
