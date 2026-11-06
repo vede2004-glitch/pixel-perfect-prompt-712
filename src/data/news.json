@@ -394,7 +394,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 22,
+    "sources_count": 23,
     "sources": [
       {
         "source": "Digi24",
@@ -505,6 +505,11 @@
         "source": "Agerpres (HU)",
         "title": "Amenințări cu bombă asupra zborurilor: Anchetă în Franța după ce un pilot a refuzat inițial să aterizeze la o bază militară",
         "link": "https://agerpres.ro/politic-extern/2026/11/05/amenintari-cu-bomba-asupra-zborurilor-ancheta-in-franta-dupa-ce-un-pilot-a-refuzat-initial-sa-ateriz--1610465"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alertă în Tulcea, după atacuri asupra porturilor ucrainene de la Dunăre: Nu au fost raportate pătrunderi în spațiul aerian al României",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-tulcea-dupa-atacuri-asupra-porturilor-ucrainene-de-la-dunare-nu-au-fost-raportate-patrunderi-in-spatiul-aerian-al-romaniei-4024151"
       }
     ],
     "published_at": 1793915922,
@@ -514,7 +519,7 @@
     "title_ro": "Alerte cu bombă în Europa: noi sesizări la Otopeni și o anchetă privind devierea din Franța",
     "lead_ro": "Pe 5 noiembrie, mai multe zboruri europene au fost verificate sau redirecționate în urma unor amenințări cu bombă, iar bilanțurile au indicat între 18 și 25 de aeronave vizate. La Otopeni au fost anunțate noi alerte târziu în cursul serii, iar în Franța se investighează dacă pilotul Aer Lingus a refuzat inițial să aterizeze la o bază militară.",
     "content_ro": "• **Bilanțurile din 5 noiembrie:** Relatările au indicat cifre diferite: unele au menționat 18 zboruri vizate, altele 25, iar o estimare pentru trei zile a numărat cel puțin 23 de aeronave. Pentru intervalul început luni, un bilanț săptămânal a indicat minimum 28 de zboruri afectate. Alertele au vizat mai multe companii aeriene și aeroporturi europene.\n\n• **Zborul Aer Lingus Dublin–Roma:** Aeronava A320 a aterizat la baza aeriană Évreux, în Franța, având la bord 151 de pasageri și șase membri ai echipajului. Două avioane de vânătoare franceze au escortat-o. Procurorii verifică dacă pilotul a cerut inițial să aterizeze pe un aeroport civil, nu la baza militară; acesta ar putea fi audiat voluntar.\n\n• **Zborurile spre București:** Wizz Air WMT3064, venit de la Milano, a aterizat la 11:08 cu 182 de pasageri și șapte membri ai echipajului. Pasagerii, bagajele și aeronava au fost controlați, fără să fie găsite indicii privind explozibili. Air Serbia ASL 102, sosit de la Belgrad la 15:20, a fost de asemenea verificat, iar amenințarea nu s-a confirmat.\n\n• **Noi alerte la Otopeni, seara:** Serviciul Român de Informații a anunțat alte două amenințări. Una viza un zbor KLM spre Tel Aviv, pentru care urma să fie verificată aeronava, împreună cu pasagerii și bagajele. Evaluarea preliminară a SRI indica faptul că alerta ar putea fi falsă, însă piloții au solicitat control pirotehnic.\n\n• **Măsuri în alte țări:** Au fost controlate trei zboruri Ryanair cu destinația Sofia și patru aeronave care urmau să ajungă la Praga. Un Wizz Air Milano–Varșovia a fost deviat la Viena, iar un avion Finnair Helsinki–Roma a fost escortat de un aparat italian; la Roma, traficul a fost suspendat timp de 30 de minute. Verificările aeronavelor menționate nu au identificat explozibili, iar legătura dintre alerte și identitatea autorilor nu au fost confirmate.",
-    "importance_score": 223.0
+    "importance_score": 233.0
   },
   {
     "group_id": "group_2a1f359baf",
@@ -4392,6 +4397,38 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_2dddaa947a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Prăbușire pe Wall Street: giganții tehnologici pierd 2.000 de miliarde de dolari, cât patru PIB-uri ale României. Nvidia și Tesla, în cădere",
+        "link": "https://www.mediafax.ro/economic/prabusire-pe-wall-street-gigantii-tehnologici-pierd-2-000-de-miliarde-de-dolari-cat-patru-pib-uri-ale-romaniei-nvidia-si-tesla-in-cadere-23838432"
+      },
+      {
+        "source": "G4Media",
+        "title": "Wall Street prăbușit după alegerile din SUA: Giganții tehnologici pierd 3.200 de miliarde de dolari, cât 7 PIB-uri ale României / Trump dă vina pe democrați / Au fost afectate și bursele din Coreea de Sud și Japonia / Temeri că nu se va mai investi în AI",
+        "link": "https://www.g4media.ro/wall-street-prabusit-dupa-alegerile-din-sua-gigantii-tehnologici-pierd-3-200-de-miliarde-de-dolari-cat-7-pib-uri-ale-romaniei-trump-da-vina-pe-democrati-au-fost-afectate-si-bursele-din-coreea-de.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Wall Street și piețele din Asia, prăbușite după alegerile din SUA: Giganții tehnologici pierd 3.200 de miliarde de dolari, cât 7 PIB-uri ale României / Trump dă vina pe democrați / Temeri că nu se va mai investi în AI",
+        "link": "https://www.g4media.ro/wall-street-si-pietele-din-asia-prabusite-dupa-alegerile-din-sua-gigantii-tehnologici-pierd-3-200-de-miliarde-de-dolari-cat-7-pib-uri-ale-romaniei-trump-da-vina-pe-democrati-temeri-ca-nu-se-va.html"
+      }
+    ],
+    "published_at": 1793915481,
+    "title_hu": "Prăbușire pe Wall Street: giganții tehnologici pierd 2.000 de miliarde de dolari, cât patru PIB-uri ale României. Nvidia și Tesla, în cădere",
+    "lead_hu": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.…",
+    "content_hu": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.000 de miliarde de dolari din valoarea bursieră, o sumă echivalentă cu peste patru ori produsul intern brut anual al României. Investitorii se tem că victoria democraților în alegerile pentru Congresul american ar putea aduce restricții asupra industriei inteligenței artificiale, sectorul care a alimentat creșterea spectaculoasă a burselor în ultimii ani.",
+    "title_ro": "Prăbușire pe Wall Street: giganții tehnologici pierd 2.000 de miliarde de dolari, cât patru PIB-uri ale României. Nvidia și Tesla, în cădere",
+    "lead_ro": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.…",
+    "content_ro": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.000 de miliarde de dolari din valoarea bursieră, o sumă echivalentă cu peste patru ori produsul intern brut anual al României. Investitorii se tem că victoria democraților în alegerile pentru Congresul american ar putea aduce restricții asupra industriei inteligenței artificiale, sectorul care a alimentat creșterea spectaculoasă a burselor în ultimii ani.",
+    "importance_score": 33.0
+  },
+  {
     "group_id": "group_de7df60eaf",
     "fingerprint": "4a35037858a4ddc86ac9453b168d8c71",
     "category": "Politika",
@@ -5962,33 +5999,6 @@
     "importance_score": 23.0
   },
   {
-    "group_id": "group_2dddaa947a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Prăbușire pe Wall Street: giganții tehnologici pierd 2.000 de miliarde de dolari, cât patru PIB-uri ale României. Nvidia și Tesla, în cădere",
-        "link": "https://www.mediafax.ro/economic/prabusire-pe-wall-street-gigantii-tehnologici-pierd-2-000-de-miliarde-de-dolari-cat-patru-pib-uri-ale-romaniei-nvidia-si-tesla-in-cadere-23838432"
-      },
-      {
-        "source": "G4Media",
-        "title": "Wall Street prăbușit după alegerile din SUA: Giganții tehnologici pierd 3.200 de miliarde de dolari, cât 7 PIB-uri ale României / Trump dă vina pe democrați / Au fost afectate și bursele din Coreea de Sud și Japonia / Temeri că nu se va mai investi în AI",
-        "link": "https://www.g4media.ro/wall-street-prabusit-dupa-alegerile-din-sua-gigantii-tehnologici-pierd-3-200-de-miliarde-de-dolari-cat-7-pib-uri-ale-romaniei-trump-da-vina-pe-democrati-au-fost-afectate-si-bursele-din-coreea-de.html"
-      }
-    ],
-    "published_at": 1793915481,
-    "title_hu": "Prăbușire pe Wall Street: giganții tehnologici pierd 2.000 de miliarde de dolari, cât patru PIB-uri ale României. Nvidia și Tesla, în cădere",
-    "lead_hu": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.…",
-    "content_hu": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.000 de miliarde de dolari din valoarea bursieră, o sumă echivalentă cu peste patru ori produsul intern brut anual al României. Investitorii se tem că victoria democraților în alegerile pentru Congresul american ar putea aduce restricții asupra industriei inteligenței artificiale, sectorul care a alimentat creșterea spectaculoasă a burselor în ultimii ani.",
-    "title_ro": "Prăbușire pe Wall Street: giganții tehnologici pierd 2.000 de miliarde de dolari, cât patru PIB-uri ale României. Nvidia și Tesla, în cădere",
-    "lead_ro": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.…",
-    "content_ro": "Panică pe Wall Street, unde acțiunile marilor companii tehnologice au înregistrat joi una dintre cele mai severe prăbușiri din ultimii ani. Companiile din sectorul tehnologic au pierdut aproximativ 2.000 de miliarde de dolari din valoarea bursieră, o sumă echivalentă cu peste patru ori produsul intern brut anual al României. Investitorii se tem că victoria democraților în alegerile pentru Congresul american ar putea aduce restricții asupra industriei inteligenței artificiale, sectorul care a alimentat creșterea spectaculoasă a burselor în ultimii ani.",
-    "importance_score": 23.0
-  },
-  {
     "group_id": "group_17d427e945",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -6096,6 +6106,33 @@
     "title_ro": "30 de minute am fost TOP! România n-a mai avut ce să facă la reluare pe terenul colosului Franța în preliminariile Euro",
     "lead_ro": "România a pierdut previzibil pe arena „Aix Country” în fața Franței, scor 34-27, în primul etapă din preliminariile Campionatului European 2028. Dacă 30 de minute am jucat un handbal bun, aproape de c…",
     "content_ro": "România a pierdut previzibil pe arena „Aix Country” în fața Franței, scor 34-27, în primul etapă din preliminariile Campionatului European 2028. Dacă 30 de minute am jucat un handbal bun, aproape de cel al francezilor, repriza a doua a arătat realitatea. La pauză, între cele două echipe era o diferență de doar două goluri. La final a fost de 7! Cele două formații fac parte din grupa a 6 preliminară alături de Polonia și Letonia. ...",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_eb74540352",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„A venit ca un trăsnet pe cerul senin”. Președintele Israelului, surprins de decizia lui Trump privind ajutorul militar",
+        "link": "https://www.mediafax.ro/externe/a-venit-ca-un-trasnet-pe-cerul-senin-presedintele-israelului-surprins-de-decizia-lui-trump-privind-ajutorul-militar-23838396"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Șoc în Israel după ce Trump a anunțat că oprește ajutorul de 3,8 miliarde de dolari pe an. „Ca un fulger din senin”",
+        "link": "https://stirileprotv.ro/stiri/international/soc-in-israel-dupa-ce-trump-a-anuntat-ca-opreste-ajutorul-de-3-8-miliarde-de-dolari-pe-an-ca-un-fulger-din-senin.html"
+      }
+    ],
+    "published_at": 1793910988,
+    "title_hu": "„A venit ca un trăsnet pe cerul senin”. Președintele Israelului, surprins de decizia lui Trump privind ajutorul militar",
+    "lead_hu": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în …",
+    "content_hu": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în condițiile în care acordul dintre cele două țări era valabil până în 2028.",
+    "title_ro": "„A venit ca un trăsnet pe cerul senin”. Președintele Israelului, surprins de decizia lui Trump privind ajutorul militar",
+    "lead_ro": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în …",
+    "content_ro": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în condițiile în care acordul dintre cele două țări era valabil până în 2028.",
     "importance_score": 23.0
   },
   {
@@ -7629,6 +7666,116 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_8cc177d328",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Albanezul stabilit în România i-a recomandat Craiovei un jucător de la Egnatia: „Foarte bun, interesant”",
+        "link": "https://www.gsp.ro/international/conference-league/elis-bakaj-universitatea-craiova-egnatia-alessandro-albanese-996426.html"
+      }
+    ],
+    "published_at": 1793943330,
+    "title_hu": "Albanezul stabilit în România i-a recomandat Craiovei un jucător de la Egnatia: „Foarte bun, interesant”",
+    "lead_hu": "Fostul internațional albanez Elis Bakaj (39 de ani), ex-Dinamo, acum impresar, s-a stabilit în România după retragere și a asistat seara trecută la meciul de Conference League dintre Universitatea Cra...",
+    "content_hu": "Fostul internațional albanez Elis Bakaj (39 de ani), ex-Dinamo, acum impresar, s-a stabilit în România după retragere și a asistat seara trecută la meciul de Conference League dintre Universitatea Craiova și formația albaneză Egnatia, scor 2-0. La final, le-a recomandat oltenilor un jucător din tabăra adversă. ...",
+    "title_ro": "Albanezul stabilit în România i-a recomandat Craiovei un jucător de la Egnatia: „Foarte bun, interesant”",
+    "lead_ro": "Fostul internațional albanez Elis Bakaj (39 de ani), ex-Dinamo, acum impresar, s-a stabilit în România după retragere și a asistat seara trecută la meciul de Conference League dintre Universitatea Cra...",
+    "content_ro": "Fostul internațional albanez Elis Bakaj (39 de ani), ex-Dinamo, acum impresar, s-a stabilit în România după retragere și a asistat seara trecută la meciul de Conference League dintre Universitatea Craiova și formația albaneză Egnatia, scor 2-0. La final, le-a recomandat oltenilor un jucător din tabăra adversă. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_75e974b348",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Dan Tăpălagă: Câțiva politicieni din România, în frunte cu Sorin Grindeanu și George Simion au toate motivele să aibă emoții legate de investigațiile din Congresul SUA despre presupusa corupție din Administrația Trump",
+        "link": "https://www.g4media.ro/dan-tapalaga-cativa-politicieni-din-romania-in-frunte-cu-sorin-grindeanu-si-george-simion-au-toate-motivele-sa-aiba-emotii-legate-de-investigatiile-din-congresul-sua-despre-presupusa-coruptie-din-ad.html"
+      }
+    ],
+    "published_at": 1793943242,
+    "title_hu": "Dan Tăpălagă: Câțiva politicieni din România, în frunte cu Sorin Grindeanu și George Simion au toate motivele să aibă emoții legate de investigațiile din Congresul SUA despre presupusa corupție din Administrația Trump",
+    "lead_hu": "Dan Tăpălagă avertizează că România ar putea fi implicată într-un scandal de amploare, în urma dezvăluirilor legate de administrația Trump. Jurnalistul susține că investigațiile pregătite de Partidul ...",
+    "content_hu": "Dan Tăpălagă avertizează că România ar putea fi implicată într-un scandal de amploare, în urma dezvăluirilor legate de administrația Trump. Jurnalistul susține că investigațiile pregătite de Partidul Democrat din SUA ar putea scoate la iveală detalii despre afacerile din sectorul energetic românesc. Acesta subliniază că informațiile ar putea clarifica cine au fost politicienii care au […] © G4Media.ro.",
+    "title_ro": "Dan Tăpălagă: Câțiva politicieni din România, în frunte cu Sorin Grindeanu și George Simion au toate motivele să aibă emoții legate de investigațiile din Congresul SUA despre presupusa corupție din Administrația Trump",
+    "lead_ro": "Dan Tăpălagă avertizează că România ar putea fi implicată într-un scandal de amploare, în urma dezvăluirilor legate de administrația Trump. Jurnalistul susține că investigațiile pregătite de Partidul ...",
+    "content_ro": "Dan Tăpălagă avertizează că România ar putea fi implicată într-un scandal de amploare, în urma dezvăluirilor legate de administrația Trump. Jurnalistul susține că investigațiile pregătite de Partidul Democrat din SUA ar putea scoate la iveală detalii despre afacerile din sectorul energetic românesc. Acesta subliniază că informațiile ar putea clarifica cine au fost politicienii care au […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_30f743b23c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
+        "link": "https://hotnews.ro/gaz-mai-ieftin-curent-electric-mai-scump-de-ce-facturile-la-energie-spun-povesti-diferite-in-europa-2396440"
+      }
+    ],
+    "published_at": 1793943134,
+    "title_hu": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
+    "lead_hu": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în Ro...",
+    "content_hu": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în România, unde prețurile energiei electrice pentru gospodării au crescut cu 51,9% față de anul precedent, urmată de Irlanda cu o creștere de 19,8% …",
+    "title_ro": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
+    "lead_ro": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în Ro...",
+    "content_ro": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în România, unde prețurile energiei electrice pentru gospodării au crescut cu 51,9% față de anul precedent, urmată de Irlanda cu o creștere de 19,8% …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f9aa52a43c",
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Bank Friday, ziua cu cele mai bune oferte bancare din an | Banca Transilvania lansează peste 40 de oferte speciale",
+        "link": "https://adevarul.ro/economie/bank-friday-ziua-cu-cele-mai-bune-oferte-bancare-2569328.html"
+      }
+    ],
+    "published_at": 1793943025,
+    "title_hu": "Bank Friday, ziua cu cele mai bune oferte bancare din an | Banca Transilvania lansează peste 40 de oferte speciale",
+    "lead_hu": "Banca Transilvania a lansat în această dimineață noua ediție ”Shopping Bank Friday”, campania prin care bankingul se întâlnește cu shoppingul și aduce beneficii concrete clienților....",
+    "content_hu": "Banca Transilvania a lansat în această dimineață noua ediție ”Shopping Bank Friday”, campania prin care bankingul se întâlnește cu shoppingul și aduce beneficii concrete clienților.",
+    "title_ro": "Bank Friday, ziua cu cele mai bune oferte bancare din an | Banca Transilvania lansează peste 40 de oferte speciale",
+    "lead_ro": "Banca Transilvania a lansat în această dimineață noua ediție ”Shopping Bank Friday”, campania prin care bankingul se întâlnește cu shoppingul și aduce beneficii concrete clienților....",
+    "content_ro": "Banca Transilvania a lansat în această dimineață noua ediție ”Shopping Bank Friday”, campania prin care bankingul se întâlnește cu shoppingul și aduce beneficii concrete clienților.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ef0905cbd2",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "„De la 1 ianuarie dispare impozitul minim pe cifra de afaceri”. Ce plan pregătește Guvernul pentru relansarea economiei",
+        "link": "https://stirileprotv.ro/stiri/politic/de-la-1-ianuarie-dispare-impozitul-minim-pe-cifra-de-afaceri-ce-plan-pregateste-guvernul-pentru-relansarea-economiei.html"
+      }
+    ],
+    "published_at": 1793942921,
+    "title_hu": "„De la 1 ianuarie dispare impozitul minim pe cifra de afaceri”. Ce plan pregătește Guvernul pentru relansarea economiei",
+    "lead_hu": "Premierul Luca Niculescu se arată ”optimist” că anul viitor România va înregistra o creştere economică....",
+    "content_hu": "Premierul Luca Niculescu se arată ”optimist” că anul viitor România va înregistra o creştere economică.",
+    "title_ro": "„De la 1 ianuarie dispare impozitul minim pe cifra de afaceri”. Ce plan pregătește Guvernul pentru relansarea economiei",
+    "lead_ro": "Premierul Luca Niculescu se arată ”optimist” că anul viitor România va înregistra o creştere economică....",
+    "content_ro": "Premierul Luca Niculescu se arată ”optimist” că anul viitor România va înregistra o creştere economică.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_f5da3e3192",
     "category": "Általános",
     "is_synthesized": false,
@@ -9056,28 +9203,6 @@
     "title_ro": "Ministrul de Externe de la Kiev: „Ucraina este angajată să aibă cele mai înalte standarde pentru a proteja minorităţile naționale”",
     "lead_ro": "Ucraina este angajată să aibă „cele mai înalte” standarde pentru a proteja minorităţile naţionale, inclusiv minoritatea română, a declarat joi, la Bucureşti, ministrul de Externe al Ucrainei, Andrii S…",
     "content_ro": "Ucraina este angajată să aibă „cele mai înalte” standarde pentru a proteja minorităţile naţionale, inclusiv minoritatea română, a declarat joi, la Bucureşti, ministrul de Externe al Ucrainei, Andrii Sîbiga, într-o conferinţă de presă comună cu şeful diplomaţiei române, Dan Neculăescu, şi secretarul general al Iniţiativei Central Europene, Franco Dal Mas.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_eb74540352",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„A venit ca un trăsnet pe cerul senin”. Președintele Israelului, surprins de decizia lui Trump privind ajutorul militar",
-        "link": "https://www.mediafax.ro/externe/a-venit-ca-un-trasnet-pe-cerul-senin-presedintele-israelului-surprins-de-decizia-lui-trump-privind-ajutorul-militar-23838396"
-      }
-    ],
-    "published_at": 1793910988,
-    "title_hu": "„A venit ca un trăsnet pe cerul senin”. Președintele Israelului, surprins de decizia lui Trump privind ajutorul militar",
-    "lead_hu": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în …",
-    "content_hu": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în condițiile în care acordul dintre cele două țări era valabil până în 2028.",
-    "title_ro": "„A venit ca un trăsnet pe cerul senin”. Președintele Israelului, surprins de decizia lui Trump privind ajutorul militar",
-    "lead_ro": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în …",
-    "content_ro": "Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în condițiile în care acordul dintre cele două țări era valabil până în 2028.",
     "importance_score": 0.0
   },
   {
@@ -21621,116 +21746,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_fe27a3b460",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Mesajul ministrului Muncii cu privire la orele suplimentare neplătite. Ce trebuie să facă angajații",
-        "link": "https://stirileprotv.ro/stiri/actualitate/mesajul-ministrului-muncii-despre-orele-suplimentare-neplatite-ce-trebuie-sa-faca-angajatii.html"
-      }
-    ],
-    "published_at": 1793856919,
-    "title_hu": "Mesajul ministrului Muncii cu privire la orele suplimentare neplătite. Ce trebuie să facă angajații",
-    "lead_hu": "Ministrul Muncii, Florin Manole, le transmite angajaţilor care sunt forţaţi să presteze ore suplimentare neplătite să nu accepte situaţia şi să se adreseze Inspectoratelor Teritoriale de Muncă.",
-    "content_hu": "Ministrul Muncii, Florin Manole, le transmite angajaţilor care sunt forţaţi să presteze ore suplimentare neplătite să nu accepte situaţia şi să se adreseze Inspectoratelor Teritoriale de Muncă.",
-    "title_ro": "Mesajul ministrului Muncii cu privire la orele suplimentare neplătite. Ce trebuie să facă angajații",
-    "lead_ro": "Ministrul Muncii, Florin Manole, le transmite angajaţilor care sunt forţaţi să presteze ore suplimentare neplătite să nu accepte situaţia şi să se adreseze Inspectoratelor Teritoriale de Muncă.",
-    "content_ro": "Ministrul Muncii, Florin Manole, le transmite angajaţilor care sunt forţaţi să presteze ore suplimentare neplătite să nu accepte situaţia şi să se adreseze Inspectoratelor Teritoriale de Muncă.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_170558af9a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Ministrul Muncii anunță o reorganizare a instituției. Florin Manole: „Nu vreau să dau pe nimeni afară și nu o să fac asta”",
-        "link": "https://adevarul.ro/politica/ministrul-muncii-anunta-o-reorganizare-a-2569084.html"
-      }
-    ],
-    "published_at": 1793856909,
-    "title_hu": "Ministrul Muncii anunță o reorganizare a instituției. Florin Manole: „Nu vreau să dau pe nimeni afară și nu o să fac asta”",
-    "lead_hu": "Ministrul Muncii, Florin Manole, a anunțat că intenționează să reorganizeze instituția pe care o conduce, după revenirea în funcție, la o distanță de cinci luni.",
-    "content_hu": "Ministrul Muncii, Florin Manole, a anunțat că intenționează să reorganizeze instituția pe care o conduce, după revenirea în funcție, la o distanță de cinci luni.",
-    "title_ro": "Ministrul Muncii anunță o reorganizare a instituției. Florin Manole: „Nu vreau să dau pe nimeni afară și nu o să fac asta”",
-    "lead_ro": "Ministrul Muncii, Florin Manole, a anunțat că intenționează să reorganizeze instituția pe care o conduce, după revenirea în funcție, la o distanță de cinci luni.",
-    "content_ro": "Ministrul Muncii, Florin Manole, a anunțat că intenționează să reorganizeze instituția pe care o conduce, după revenirea în funcție, la o distanță de cinci luni.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ab22c12003",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Bucureștiul se pregătește de sărbători. Când se aprind cele șase milioane de luminițe și cât timp vor străluci în Capitală",
-        "link": "https://stirileprotv.ro/divers/bucurestiul-se-pregateste-de-sarbatori-cand-se-aprind-cele-sase-milioane-de-luminite-si-cat-timp-vor-straluci-in-capitala.html"
-      }
-    ],
-    "published_at": 1793856885,
-    "title_hu": "Bucureștiul se pregătește de sărbători. Când se aprind cele șase milioane de luminițe și cât timp vor străluci în Capitală",
-    "lead_hu": "Capitala se pregătește pentru sărbătorile de iarnă. Șase milioane de luminițe vor împodobi marile bulevarde. Vor fi aprinse în seara de 27 noiembrie, odată cu deschiderea Târgului de Crăciun din Piața…",
-    "content_hu": "Capitala se pregătește pentru sărbătorile de iarnă. Șase milioane de luminițe vor împodobi marile bulevarde. Vor fi aprinse în seara de 27 noiembrie, odată cu deschiderea Târgului de Crăciun din Piața Constituției.",
-    "title_ro": "Bucureștiul se pregătește de sărbători. Când se aprind cele șase milioane de luminițe și cât timp vor străluci în Capitală",
-    "lead_ro": "Capitala se pregătește pentru sărbătorile de iarnă. Șase milioane de luminițe vor împodobi marile bulevarde. Vor fi aprinse în seara de 27 noiembrie, odată cu deschiderea Târgului de Crăciun din Piața…",
-    "content_ro": "Capitala se pregătește pentru sărbătorile de iarnă. Șase milioane de luminițe vor împodobi marile bulevarde. Vor fi aprinse în seara de 27 noiembrie, odată cu deschiderea Târgului de Crăciun din Piața Constituției.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d543eeeb15",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Felborult egy kénsavat szállító tartálykocsi az A1-es autópályán",
-        "link": "https://maszol.ro/belfold/Felborult-egy-kensavat-szallito-tartalykocsi-az-A1-es-autopalyan"
-      }
-    ],
-    "published_at": 1793856660,
-    "title_hu": "Felborult egy kénsavat szállító tartálykocsi az A1-es autópályán",
-    "lead_hu": "Egy kénsavat szállító tartálykocsi a szalagkorlátnak ütközött, majd a menetirány szerinti jobb oldalon felborult.",
-    "content_hu": "Egy kénsavat szállító tartálykocsi a szalagkorlátnak ütközött, majd a menetirány szerinti jobb oldalon felborult.",
-    "title_ro": "Felborult egy kénsavat szállító tartálykocsi az A1-es autópályán",
-    "lead_ro": "Egy kénsavat szállító tartálykocsi a szalagkorlátnak ütközött, majd a menetirány szerinti jobb oldalon felborult.",
-    "content_ro": "Egy kénsavat szállító tartálykocsi a szalagkorlátnak ütközött, majd a menetirány szerinti jobb oldalon felborult.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_8ff5f3accf",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Numele rostit de Thierry Henry după Lens - Como 1-9: „Cu adevărat special”",
-        "link": "https://www.gsp.ro/international/liga-campionilor/thierry-henry-lens-como-liga-campionilor-996067.html"
-      }
-    ],
-    "published_at": 1793856649,
-    "title_hu": "Numele rostit de Thierry Henry după Lens - Como 1-9: „Cu adevărat special”",
-    "lead_hu": "Fostul mare atacant francez Thierry Henry (49 de ani) a analizat victoria răsunătoare obținută de Como în etapa 4 a Ligii Campionilor, 9-1 împotriva lui Lens. Miercuri seara, Como, locul 4 în Serie A …",
-    "content_hu": "Fostul mare atacant francez Thierry Henry (49 de ani) a analizat victoria răsunătoare obținută de Como în etapa 4 a Ligii Campionilor, 9-1 împotriva lui Lens. Miercuri seara, Como, locul 4 în Serie A atât în precedentul cât și în actualul sezon, a reușit cea mai mare victorie din istoria modernă a Ligii Campionilor, din 1992 încoace. ...",
-    "title_ro": "Numele rostit de Thierry Henry după Lens - Como 1-9: „Cu adevărat special”",
-    "lead_ro": "Fostul mare atacant francez Thierry Henry (49 de ani) a analizat victoria răsunătoare obținută de Como în etapa 4 a Ligii Campionilor, 9-1 împotriva lui Lens. Miercuri seara, Como, locul 4 în Serie A …",
-    "content_ro": "Fostul mare atacant francez Thierry Henry (49 de ani) a analizat victoria răsunătoare obținută de Como în etapa 4 a Ligii Campionilor, 9-1 împotriva lui Lens. Miercuri seara, Como, locul 4 în Serie A atât în precedentul cât și în actualul sezon, a reușit cea mai mare victorie din istoria modernă a Ligii Campionilor, din 1992 încoace. ...",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_a9071cc850",
     "fingerprint": "e4d9c1da2e9701e923ede72cf7d9a663",
     "category": "Általános",
@@ -21954,7 +21969,7 @@
     "title_ro": "Tabloul lui Pissarro jefuit de naziști trebuie restituit urmașilor lui Salomon Flavian",
     "lead_ro": "Un tribunal din Paris a decis ca urmașii colecționarului franco-român Salomon Flavian să primească înapoi o pictură de Camille Pissarro din 1902. Lucrarea fusese vândută la Londra în 2024 pentru 1,2 milioane de lire sterline.",
     "content_ro": "• **Decizia instanței din Paris** prevede restituirea către urmașii lui Salomon Flavian a tabloului pictat de Camille Pissarro în 1902, care înfățișează portul Dieppe. Judecătorii au anulat transferurile succesive ale operei de după confiscare, inclusiv tranzacția încheiată la Londra în 2024.\n\n• **Salomon Flavian a cumpărat pictura în 1935.** Bancherul și colecționarul franco-român și-a pierdut această lucrare și alte opere în 1941, în timpul ocupației naziste, când bunurile au fost confiscate.\n\n• **După război, Flavian a încercat să-și recupereze colecția:** la consulatul francez din București a depus o listă cu 35 de opere dispărute. Tabloul lui Pissarro nu s-a aflat printre lucrările restituite între 1946 și 1950. În 2023, urmașii au găsit o fotografie a picturii și au cerut noi verificări.\n\n• **La licitația Sotheby’s din Londra**, organizată la 25 iunie 2024, tabloul a fost adjudecat pentru 1,2 milioane de lire sterline, echivalentul de atunci a aproximativ 1,4 milioane de euro. Instanța a dispus restituirea sa indiferent de identitatea deținătorului actual sau de locul în care se află.\n\n• **Sotheby’s trebuie să comunice în două luni** urmașilor identitatea completă a cumpărătorului. Pentru fiecare zi de întârziere, casa de licitații riscă o penalitate de 1.000 de euro.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_dcd28c2cda",
