@@ -2,7 +2,7 @@
   {
     "group_id": "group_d62bc39a6a",
     "category": "Általános",
-    "articles_count": 2,
+    "articles_count": 3,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -21,6 +21,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793939572
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Black Friday 2026: Cum verifici dacă reducerile sunt reale și ce drepturi ai dacă te răzgândești. Recomandările ANPC",
+        "link": "https://www.ebihoreanul.ro/stiri/black-friday-2026-cum-verifici-daca-reducerile-sunt-reale-si-ce-drepturi-ai-daca-te-razgandesti-recomandarile-anpc-206387.html",
+        "summary": "Black Friday 2026 aduce, vineri, 6 noiembrie, una dintre cele mai mari campanii de reduceri ale anului, iar marii retaileri anunță numeroase produse la prețuri promoționale. Autoritatea Națională pentru Protecția Consumatorilor (ANPC) îi avertizează însă pe cumpărători să verifice dacă reducerile sunt reale și să nu se lase influențați de mesajele care îi îndeamnă să cumpere în grabă.",
+        "category": "Erdély",
+        "is_b2b_only": false,
+        "published_at": 1793942520
       }
     ]
   },
@@ -103,63 +112,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793878201
-      }
-    ]
-  },
-  {
-    "group_id": "group_8c0adae877",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Kitalálta a miniszter, miért nem állnak munkába vidéken – Nincs kire hagyják a gyereket",
-        "link": "https://maszol.ro/belfold/Kitalalta-a-miniszter-miert-nem-allnak-munkaba-videken-Nincs-kire-hagyjak-a-gyereket",
-        "summary": "Florin Manole szerint a vidéki alacsony foglalkoztatottság egyik fő oka az állami alapszolgáltatások hiánya.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793855880
-      }
-    ]
-  },
-  {
-    "group_id": "group_c280cab564",
-    "category": "Sport",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "Scor record pentru Como în Champions League: 9 – 1 cu Lens / Manchester City și Arsenal câștigă în deplasare / Porto bate Napoli",
-        "link": "https://www.g4media.ro/scor-record-pentru-como-in-champions-league-9-1-cu-lens-manchester-city-si-arsenal-castiga-in-deplasare-porto-bate-napoli.html",
-        "summary": "Formația italiană Como a reușit cea mai categorică victorie a serii de miercuri din Liga Campionilor, impunându-se cu un incredibil 9-1 pe terenul francezilor de la Lens, rezultat care egalează recordul diferenței de scor din istoria competiției. Arsenal și Manchester City obțin victorii cu emoții, anunță Mediafax. Como a dominat categoric partida din Franța, iar […] © G4Media.ro.",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793856198
-      },
-      {
-        "source": "G4Media",
-        "title": "VIDEO: Umilință istorică în Champions League: Lens pierde cu 1-9 contra lui Como",
-        "link": "https://www.g4media.ro/video-umilinta-istorica-in-champions-league-lens-pierde-cu-1-9-contra-lui-como.html",
-        "summary": "Lens a intrat în istoria Champions League, dar a făcut-o în sens negativ: a pierdut cu 9-1 meciul jucat acasă contra celor de la Como. Gruparea italiană evolua în Serie D în 2019. Trupa antrenată de Cesc Fabregas este prima echipă care reușește să înscrie nouă goluri în deplasare într-un meci din Liga Campionilor. Grecul […] © G4Media.ro.",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793858904
-      }
-    ]
-  },
-  {
-    "group_id": "group_3cefc001fd",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce a făcut Donald Trump la scurt timp după înfrângerea categorică în alegerile pentru Congres",
-        "link": "https://stirileprotv.ro/stiri/international/ce-a-facut-donald-trump-la-scurt-timp-dupa-infrangerea-categorica-in-alegerile-pentru-congres.html",
-        "summary": "”Imaginaţi-vă lustre peste tot”, a spus miercuri, în loc să analizeze umilirea planetară la care a fost supus de către alegători, un Donald Trump care s-a refugiat în Sala sa de Bal.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793855948
       }
     ]
   },
@@ -945,6 +897,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793862087
+      }
+    ]
+  },
+  {
+    "group_id": "group_c280cab564",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "VIDEO: Umilință istorică în Champions League: Lens pierde cu 1-9 contra lui Como",
+        "link": "https://www.g4media.ro/video-umilinta-istorica-in-champions-league-lens-pierde-cu-1-9-contra-lui-como.html",
+        "summary": "Lens a intrat în istoria Champions League, dar a făcut-o în sens negativ: a pierdut cu 9-1 meciul jucat acasă contra celor de la Como. Gruparea italiană evolua în Serie D în 2019. Trupa antrenată de Cesc Fabregas este prima echipă care reușește să înscrie nouă goluri în deplasare într-un meci din Liga Campionilor. Grecul […] © G4Media.ro.",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1793858904
       }
     ]
   },
@@ -2229,7 +2197,7 @@
   {
     "group_id": "group_c5c6a3a1ea",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -2239,6 +2207,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793862337
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ce riscuri amenință economia SUA după victoria democraților în Congres. Schimbările care ar putea apărea peste Ocean",
+        "link": "https://stirileprotv.ro/stiri/international/ce-riscuri-ameninta-economia-sua-dupa-victoria-democratilor-in-congres-schimbarile-care-ar-putea-aparea-peste-ocean.html",
+        "summary": "Victoria categorică a democraţilor în alegerile pentru Congresul SUA ar putea schimba politica comercială, priorităţile bugetare şi reglementările privind inteligenţa artificială, însă impactul asupra economiei americane ar urma să fie limitat.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793942136
       }
     ]
   },
@@ -6770,7 +6747,7 @@
   {
     "group_id": "group_1f4108464c",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -6798,6 +6775,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793899761
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Black Friday 2026 la eMAG a început. Ce produse au cele mai mari reduceri. Topul celor mai bune oferte",
+        "link": "https://stirileprotv.ro/stiri/black-friday/black-friday-2026-la-emag-a-inceput.html",
+        "summary": "Black Friday 2026 a început la eMAG, unul dintre cei mai mari retaileri online din România. Campania aduce reduceri la o gamă variată de produse, de la telefoane, televizoare și electrocasnice până la articole pentru casă, haine și accesorii.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793942280
       }
     ]
   },
@@ -10601,7 +10587,7 @@
         "summary": "",
         "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1793942159
+        "published_at": 1793942605
       }
     ]
   },
@@ -16452,7 +16438,7 @@
         "summary": "Secretarul de Stat Marco Rubio ia în considerare demisia din administrația Trump după înfrângerea zdrobitoare suferită de republicani în alegerile de la jumătatea mandatului de marți, a relatat joi Bloomberg, citând surse anonime care au afirmat că totuși Casa Albă dorește ca acesta să rămână în funcție.",
         "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1793914508
+        "published_at": 1793942366
       },
       {
         "source": "Adevărul",
@@ -17661,6 +17647,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793941800
+      }
+    ]
+  },
+  {
+    "group_id": "group_fdb5b26eb6",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Ceață densă în mai multe județe din țară. Vizibilitate redusă la până 50 de metri",
+        "link": "https://stirileprotv.ro/stiri/actualitate/ceata-densa-in-mai-multe-judete-din-tara-vizibilitate-redusa-la-pana-50-de-metri.html",
+        "summary": "Centrul Infotrafic anunţă că, vineri dimineaţă, se circulă în condiţii de ceaţă în mai multe judeţe, dar nu sunt semnalate accidente care să impună oprirea circulaţiei pe autostrăzi sau pe drumurile naţionale.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793942268
       }
     ]
   }
