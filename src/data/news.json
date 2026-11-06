@@ -239,120 +239,6 @@
     "importance_score": 455.0
   },
   {
-    "group_id": "group_0407f8121b",
-    "fingerprint": "c7948d7507b647649c59b0f56dc1a103",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 19,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Alertă cu bombă la bordul unui avion Praga-București",
-        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-praga-bucuresti-23838658"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Încă o amenințare cu bombă într-un avion Tarom. Urma să aterizeze la București",
-        "link": "https://stirileprotv.ro/stiri/actualitate/amenintare-cu-bomba-intr-un-avion-tarom-de-pe-ruta-praga-bucuresti-urma-sa-aterizeze-la-bucuresti.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Nouă alertă cu bombă: O cursă TAROM pe ruta Praga-București, vizată",
-        "link": "https://www.mediafax.ro/social/noua-alerta-cu-bomba-o-cursa-tarom-pe-ruta-praga-bucuresti-vizata-23838658"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "SRI: Amenințare cu bombă la bordul unui avion care a aterizat de la Praga pe Aeroportul Otopeni",
-        "link": "https://agerpres.ro/justitie/2026/11/06/sri-amenintare-cu-bomba-la-bordul-unui-avion-care-a-aterizat-de-la-praga-pe-aeroportul-otopeni--1610719"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Val de alerte cu bombă pe zboruri din toată Europa. „E o formă de război hibrid dusă de cineva împotriva acestor state”",
-        "link": "https://stirileprotv.ro/stiri/actualitate/val-de-alerte-cu-bomba-pe-zboruri-din-toata-europa-vinovatul-nenumit-dar-evident-tehnici-de-hartuire-din-razboiul-hibrid.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Noi amenințări cu bombă. Piloții unui zbor KLM spre Tel Aviv au cerut control pirotehnic",
-        "link": "https://www.mediafax.ro/social/noi-amenintari-cu-bomba-pilotii-unui-zbor-klm-spre-tel-aviv-au-cerut-control-pirotehnic-23838425"
-      },
-      {
-        "source": "Maszol",
-        "title": "FRISSÍTVE: Bombafenyegetés Bukarestbe tartó repülőgépeken – Több európai járat miatt riadóztattak",
-        "link": "https://maszol.ro/belfold/Bombafenyegetes-a-Wizz-Air-Bukarestben-landolt-jaratan"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alerta cu bombă din avionul de pe ruta Milano-Otopeni nu a fost confirmată. Mărturia unui pasager",
-        "link": "https://www.digi24.ro/stiri/actualitate/alerta-cu-bomba-din-avionul-de-pe-ruta-milano-otopeni-nu-a-fost-confirmata-marturia-unui-pasager-4022973"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Bomb threat on board a plane flying from Milan to Bucharest; 182 passengers evacuated",
-        "link": "https://www.mediafax.ro/english/bomb-threat-on-board-a-plane-flying-from-milan-to-bucharest-182-passengers-evacuated-23838127"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce a transmis Wizz Air după amenințarea cu bombă la bordul unui avion care urma să aterizeze pe Aeroportul Otopeni",
-        "link": "https://stirileprotv.ro/stiri/actualitate/ce-a-transmis-wizz-air-dupa-amenintarea-cu-bomba-la-bordul-unui-avion-care-urma-sa-aterizeze-pe-aeroportul-otopeni.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "BRAKING | Cursa WizzAir Milano-București vizată de o amenințare cu bombă / Aeronava a aterizat în siguranță și pasagerii au fost evacuați",
-        "link": "https://www.g4media.ro/braking-cursa-wizzair-milano-bucuresti-vizata-de-o-amenintare-cu-bomba-aeronava-a-aterizat-in-siguranta-si-pasagerii-au-fost-evacuati.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Amenințare cu bombă la un avion Wizz sosit de la Milano. Celulă de criză la Aeroportul Henri Coandă",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/amenintare-cu-bomba-la-un-avion-wizz-sosit-de-la-2569162.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Amenințare cu bombă la bordul unui avion Wizz Air, pe Aeroportul Otopeni. 182 de pasageri, debarcați",
-        "link": "https://stirileprotv.ro/stiri/actualitate/amenintare-cu-bomba-la-bordul-unui-avion-wizz-air-sosit-de-la-milano-pe-aeroportul-henri-coanda-182-de-pasageri-debarcati.html"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Alertă cu bombă într-un avion Wizz Air venit de la Milano la București. Pirotehniștii SRI verifică aeronava",
-        "link": "https://www.ebihoreanul.ro/stiri/alerta-cu-bomba-intr-un-avion-wizz-air-venit-de-la-milano-la-bucuresti-pirotehnistii-sri-verifica-aeronava-206365.html"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Alertă cu bombă într-un avion Wizz Air care a aterizat la București. Pirotehniștii SRI verifică aeronava",
-        "link": "https://www.ebihoreanul.ro/stiri/alerta-cu-bomba-intr-un-avion-wizz-air-care-a-aterizat-la-bucuresti-pirotehnistii-sri-verifica-aeronava-206365.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Alertă cu bombă într-un avion WizzAir care venea de la Milano la București",
-        "link": "https://hotnews.ro/alerta-cu-bomba-intr-un-avion-wizzair-care-venea-de-la-milano-la-bucuresti-2395665"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Val de alerte cu bombă peste Europa. Patru avioane au aterizat la Praga, alte zboruri au fost deviate pe mai multe aeroporturi",
-        "link": "https://stirileprotv.ro/stiri/international/val-de-alerte-cu-bomba-peste-europa-patru-avioane-au-aterizat-la-praga-alte-zboruri-au-fost-deviate.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Precizările CNAB despre avionul Wizz Air aterizat pe Aeroportul Otopeni în urma unei alerte cu bombă",
-        "link": "https://stirileprotv.ro/stiri/actualitate/precizarile-cnab-despre-avionul-wizz-air-aterizat-pe-aeroportul-otopeni-in-urma-unei-alerte-cu-bomba.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alertă cu bombă la bordul unui avion Milano-București. Pirotehniștii SRI nu au găsit nimic suspect",
-        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-milano-bucuresti-pirotehnistii-sri-nu-au-gasit-nimic-suspect-23838024"
-      }
-    ],
-    "published_at": 1793985902,
-    "title_hu": "Alaptalannak minősítették a TAROM-gépet érő fenyegetést, újabb európai járatokat érintettek riasztások",
-    "lead_hu": "A Prágából Bukarestbe tartó TAROM-járat fenyegetését a vizsgálatok után hamisnak minősítették; a gép fedélzetén 102 ember utazott. Pénteken több európai országban is katonai kíséretet vagy járatmódosítást váltottak ki hasonló bejelentések, de a feltételezett orosz kapcsolatot továbbra sem támasztja alá bizonyíték.",
-    "content_hu": "• **Pénteki TAROM-riasztás:** A 226M-es, Prágából Otopenibe tartó járat 12:19-kor, a menetrendhez képest négy perccel korábban landolt, 102 emberrel a fedélzetén. A SRI nem konkrét fenyegetésként kezelte a jelzést, ezért a helyszínen nem rendelt el külön intézkedést; a repülőtéri eljárások és ellenőrzések után a riasztás alaptalannak bizonyult.\n\n• **Magyar légtér és bukaresti intézkedések:** A személyzet Magyarország felett kapott értesítést, és katonai repülők kísérték a TAROM-gépet Bukarestig. A fenyegetés e-mailben érkezett a prágai repülőtérre, és a légitársaság szerint nem csak a 226M-es járatot nevezte meg. Otopenin megerősítették a biztonsági intézkedéseket, miközben a többi járat forgalma zavartalan maradt.\n\n• **Több országra kiterjedő riasztások:** Pénteken Franciaországban négy gép miatt szálltak fel katonai repülők, Magyarországon is légi kíséretet adtak kereskedelmi járatoknak, Bulgáriában pedig két gép landolt Szófiában fenyegetések után. Olaszországban eltérítettek egy Prágából Rómába tartó járatot. Európa-szerte ez volt a második egymást követő nap, és azon a héten már a harmadik alkalom, hogy több országban riasztást rendeltek el.\n\n• **Romániai előzmények:** A csütörtöki bejelentések közül öt Romániát érintett. A Milánóból Bukarestbe érkező Wizz Air-gép átvizsgálásakor nem találtak gyanús tárgyat vagy anyagot; egy korábbi esetben a Tel-Avivba tartó KLM-járatnál az utasokat, a poggyászokat és a repülőgépet is ellenőrizték.\n\n• **A fenyegetések eredete nem tisztázott:** Egyes üzeneteket egy orosz nacionalista mozgalommal kapcsolatba hozott csoport nevében küldhettek, ám ezt egyelőre nem igazolja bizonyíték. A hatóságok az üzenetek forrását és az esetleges összefüggéseket vizsgálják; a bejelentések nagy száma felveti az összehangolt zavarkeltés lehetőségét.",
-    "title_ro": "Amenințarea asupra cursei TAROM a fost infirmată; noi alerte au afectat zboruri europene",
-    "lead_ro": "Amenințarea semnalată pentru cursa TAROM Praga–București s-a dovedit falsă după verificări; la bord se aflau 102 persoane. Vineri, sesizări similare au dus la escortarea unor aeronave și la modificarea unei curse în mai multe țări europene, fără ca ipoteza unei legături cu o grupare rusă să fie confirmată.",
-    "content_ro": "• **Alerta de vineri asupra cursei TAROM:** Aeronava 226M, care zbura de la Praga spre Otopeni, a aterizat la 12:19, cu patru minute înaintea orei programate și cu 102 persoane la bord. SRI a apreciat că sesizarea nu indica o amenințare concretă și nu a dispus intervenții la fața locului; după procedurile și verificările aeroportuare, alerta a fost infirmată.\n\n• **Escorta în spațiul aerian ungar:** Echipajul a fost informat despre amenințare în timp ce traversa Ungaria, iar aeronava a fost însoțită de avioane militare până spre București. Mesajul fusese trimis prin e-mail aeroportului din Praga și, potrivit TAROM, nu viza numai zborul 226M. La Otopeni s-au aplicat măsuri speciale de securitate, însă celelalte curse au continuat fără perturbări.\n\n• **Sesizări în mai multe țări:** Vineri, în Franța au fost vizate patru aeronave, iar avioane militare au escortat curse comerciale și în Ungaria. În Bulgaria, două avioane au aterizat la Sofia după amenințări; în Italia, o cursă Praga–Roma a fost deviată. A fost a doua zi consecutivă cu alerte în Europa și a treia zi din acea săptămână în care autoritățile mai multor state au intrat în alertă.\n\n• **Cazuri anterioare din România:** Cinci dintre amenințările raportate joi au vizat zboruri românești. La aeronava Wizz Air sosită de la Milano nu s-au găsit obiecte sau materiale suspecte. Într-un caz anterior, cursa KLM spre Tel Aviv, care a făcut escală la București, a fost supusă unor verificări ce au inclus pasagerii, bagajele de cală și avionul.\n\n• **Originea mesajelor este încă necunoscută:** Unele alerte ar fi fost semnate în numele unui grup asociat unei mișcări naționaliste ruse, însă această pistă nu este susținută de dovezi. Autoritățile încearcă să identifice expeditorii și să stabilească dacă incidentele au legătură între ele; numărul mare de sesizări a ridicat și posibilitatea unei acțiuni coordonate de perturbare.",
-    "importance_score": 203.0
-  },
-  {
     "group_id": "group_2a1f359baf",
     "fingerprint": "2c6beaee779267f2e7f4cfa7c794a3b0",
     "category": "Sport",
@@ -464,6 +350,120 @@
     "title_ro": "Bernardo Silva ar putea prelua banderola de căpitan a Portugaliei după retragerea lui Ronaldo",
     "lead_ro": "Cristiano Ronaldo a anunțat pe 5 noiembrie că își încheie cariera la naționala Portugaliei. Jorge Jesus a spus că numărul selecțiilor va stabili cine primește banderola, ceea ce îl plasează pe Bernardo Silva, liderul dintre jucătorii activi, în postura de favorit.",
     "content_ro": "• **Anunțul din 5 noiembrie** Ronaldo, în vârstă de 41 de ani, a încheiat după 23 de ani parcursul său la naționala Portugaliei. A adunat 234 de apariții și 146 de goluri, cifre care reprezintă recorduri în fotbalul internațional masculin.\n\n• **Criteriul pentru alegerea căpitanului** Pe 6 noiembrie, Jorge Jesus a explicat că banderola va reveni jucătorului cu cele mai multe selecții, nu celui desemnat printr-o opțiune personală a antrenorului. Tehnicianul a lucrat anterior la nivel de club cu toți cei cinci candidați menționați.\n\n• **Bernardo Silva conduce clasamentul** Dintre fotbaliștii activi, el are cele mai multe prezențe la națională: 115. Bruno Fernandes a jucat de 97 de ori, Rúben Dias de 84, João Cancelo de 77, iar Rúben Neves de 73, astfel că Silva este favorit să devină căpitan.\n\n• **Lotul și programul din noiembrie** Federația a anunțat o convocare de 28 de jucători pentru partidele cu Danemarca și Țara Galilor. Portugalia, care a câștigat toate cele patru meciuri din grupă și s-a calificat deja în sferturi, primește Danemarca la Braga pe 14 noiembrie, apoi joacă în deplasare cu Țara Galilor, pe 17 noiembrie.\n\n• **Disputa dinaintea retragerii** Tensiunile au crescut după partida cu Norvegia de la Oslo, din 27 septembrie, când Ronaldo a rămas rezervă, deși se încălzise. El a părăsit cantonamentul pe 30 septembrie, înaintea întâlnirii cu Danemarca din 1 octombrie, iar federația i-a aplicat o suspendare retroactivă de 30 de zile și o amendă de 255 de euro, deja ispășite. Jesus a afirmat că îl lua în calcul pe atacant, care continua să joace și să înscrie la club, și că nu știa dinainte de hotărârea acestuia; selecționerul nu se consideră responsabil pentru retragere.",
+    "importance_score": 198.0
+  },
+  {
+    "group_id": "group_0407f8121b",
+    "fingerprint": "c7948d7507b647649c59b0f56dc1a103",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 19,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Alertă cu bombă la bordul unui avion Praga-București",
+        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-praga-bucuresti-23838658"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Încă o amenințare cu bombă într-un avion Tarom. Urma să aterizeze la București",
+        "link": "https://stirileprotv.ro/stiri/actualitate/amenintare-cu-bomba-intr-un-avion-tarom-de-pe-ruta-praga-bucuresti-urma-sa-aterizeze-la-bucuresti.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nouă alertă cu bombă: O cursă TAROM pe ruta Praga-București, vizată",
+        "link": "https://www.mediafax.ro/social/noua-alerta-cu-bomba-o-cursa-tarom-pe-ruta-praga-bucuresti-vizata-23838658"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SRI: Amenințare cu bombă la bordul unui avion care a aterizat de la Praga pe Aeroportul Otopeni",
+        "link": "https://agerpres.ro/justitie/2026/11/06/sri-amenintare-cu-bomba-la-bordul-unui-avion-care-a-aterizat-de-la-praga-pe-aeroportul-otopeni--1610719"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Val de alerte cu bombă pe zboruri din toată Europa. „E o formă de război hibrid dusă de cineva împotriva acestor state”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/val-de-alerte-cu-bomba-pe-zboruri-din-toata-europa-vinovatul-nenumit-dar-evident-tehnici-de-hartuire-din-razboiul-hibrid.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Noi amenințări cu bombă. Piloții unui zbor KLM spre Tel Aviv au cerut control pirotehnic",
+        "link": "https://www.mediafax.ro/social/noi-amenintari-cu-bomba-pilotii-unui-zbor-klm-spre-tel-aviv-au-cerut-control-pirotehnic-23838425"
+      },
+      {
+        "source": "Maszol",
+        "title": "FRISSÍTVE: Bombafenyegetés Bukarestbe tartó repülőgépeken – Több európai járat miatt riadóztattak",
+        "link": "https://maszol.ro/belfold/Bombafenyegetes-a-Wizz-Air-Bukarestben-landolt-jaratan"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alerta cu bombă din avionul de pe ruta Milano-Otopeni nu a fost confirmată. Mărturia unui pasager",
+        "link": "https://www.digi24.ro/stiri/actualitate/alerta-cu-bomba-din-avionul-de-pe-ruta-milano-otopeni-nu-a-fost-confirmata-marturia-unui-pasager-4022973"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Bomb threat on board a plane flying from Milan to Bucharest; 182 passengers evacuated",
+        "link": "https://www.mediafax.ro/english/bomb-threat-on-board-a-plane-flying-from-milan-to-bucharest-182-passengers-evacuated-23838127"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ce a transmis Wizz Air după amenințarea cu bombă la bordul unui avion care urma să aterizeze pe Aeroportul Otopeni",
+        "link": "https://stirileprotv.ro/stiri/actualitate/ce-a-transmis-wizz-air-dupa-amenintarea-cu-bomba-la-bordul-unui-avion-care-urma-sa-aterizeze-pe-aeroportul-otopeni.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "BRAKING | Cursa WizzAir Milano-București vizată de o amenințare cu bombă / Aeronava a aterizat în siguranță și pasagerii au fost evacuați",
+        "link": "https://www.g4media.ro/braking-cursa-wizzair-milano-bucuresti-vizata-de-o-amenintare-cu-bomba-aeronava-a-aterizat-in-siguranta-si-pasagerii-au-fost-evacuati.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Amenințare cu bombă la un avion Wizz sosit de la Milano. Celulă de criză la Aeroportul Henri Coandă",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/amenintare-cu-bomba-la-un-avion-wizz-sosit-de-la-2569162.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Amenințare cu bombă la bordul unui avion Wizz Air, pe Aeroportul Otopeni. 182 de pasageri, debarcați",
+        "link": "https://stirileprotv.ro/stiri/actualitate/amenintare-cu-bomba-la-bordul-unui-avion-wizz-air-sosit-de-la-milano-pe-aeroportul-henri-coanda-182-de-pasageri-debarcati.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Alertă cu bombă într-un avion Wizz Air venit de la Milano la București. Pirotehniștii SRI verifică aeronava",
+        "link": "https://www.ebihoreanul.ro/stiri/alerta-cu-bomba-intr-un-avion-wizz-air-venit-de-la-milano-la-bucuresti-pirotehnistii-sri-verifica-aeronava-206365.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Alertă cu bombă într-un avion Wizz Air care a aterizat la București. Pirotehniștii SRI verifică aeronava",
+        "link": "https://www.ebihoreanul.ro/stiri/alerta-cu-bomba-intr-un-avion-wizz-air-care-a-aterizat-la-bucuresti-pirotehnistii-sri-verifica-aeronava-206365.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Alertă cu bombă într-un avion WizzAir care venea de la Milano la București",
+        "link": "https://hotnews.ro/alerta-cu-bomba-intr-un-avion-wizzair-care-venea-de-la-milano-la-bucuresti-2395665"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Val de alerte cu bombă peste Europa. Patru avioane au aterizat la Praga, alte zboruri au fost deviate pe mai multe aeroporturi",
+        "link": "https://stirileprotv.ro/stiri/international/val-de-alerte-cu-bomba-peste-europa-patru-avioane-au-aterizat-la-praga-alte-zboruri-au-fost-deviate.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Precizările CNAB despre avionul Wizz Air aterizat pe Aeroportul Otopeni în urma unei alerte cu bombă",
+        "link": "https://stirileprotv.ro/stiri/actualitate/precizarile-cnab-despre-avionul-wizz-air-aterizat-pe-aeroportul-otopeni-in-urma-unei-alerte-cu-bomba.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alertă cu bombă la bordul unui avion Milano-București. Pirotehniștii SRI nu au găsit nimic suspect",
+        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-milano-bucuresti-pirotehnistii-sri-nu-au-gasit-nimic-suspect-23838024"
+      }
+    ],
+    "published_at": 1793985902,
+    "title_hu": "Alaptalannak minősítették a TAROM-gépet érő fenyegetést, újabb európai járatokat érintettek riasztások",
+    "lead_hu": "A Prágából Bukarestbe tartó TAROM-járat fenyegetését a vizsgálatok után hamisnak minősítették; a gép fedélzetén 102 ember utazott. Pénteken több európai országban is katonai kíséretet vagy járatmódosítást váltottak ki hasonló bejelentések, de a feltételezett orosz kapcsolatot továbbra sem támasztja alá bizonyíték.",
+    "content_hu": "• **Pénteki TAROM-riasztás:** A 226M-es, Prágából Otopenibe tartó járat 12:19-kor, a menetrendhez képest négy perccel korábban landolt, 102 emberrel a fedélzetén. A SRI nem konkrét fenyegetésként kezelte a jelzést, ezért a helyszínen nem rendelt el külön intézkedést; a repülőtéri eljárások és ellenőrzések után a riasztás alaptalannak bizonyult.\n\n• **Magyar légtér és bukaresti intézkedések:** A személyzet Magyarország felett kapott értesítést, és katonai repülők kísérték a TAROM-gépet Bukarestig. A fenyegetés e-mailben érkezett a prágai repülőtérre, és a légitársaság szerint nem csak a 226M-es járatot nevezte meg. Otopenin megerősítették a biztonsági intézkedéseket, miközben a többi járat forgalma zavartalan maradt.\n\n• **Több országra kiterjedő riasztások:** Pénteken Franciaországban négy gép miatt szálltak fel katonai repülők, Magyarországon is légi kíséretet adtak kereskedelmi járatoknak, Bulgáriában pedig két gép landolt Szófiában fenyegetések után. Olaszországban eltérítettek egy Prágából Rómába tartó járatot. Európa-szerte ez volt a második egymást követő nap, és azon a héten már a harmadik alkalom, hogy több országban riasztást rendeltek el.\n\n• **Romániai előzmények:** A csütörtöki bejelentések közül öt Romániát érintett. A Milánóból Bukarestbe érkező Wizz Air-gép átvizsgálásakor nem találtak gyanús tárgyat vagy anyagot; egy korábbi esetben a Tel-Avivba tartó KLM-járatnál az utasokat, a poggyászokat és a repülőgépet is ellenőrizték.\n\n• **A fenyegetések eredete nem tisztázott:** Egyes üzeneteket egy orosz nacionalista mozgalommal kapcsolatba hozott csoport nevében küldhettek, ám ezt egyelőre nem igazolja bizonyíték. A hatóságok az üzenetek forrását és az esetleges összefüggéseket vizsgálják; a bejelentések nagy száma felveti az összehangolt zavarkeltés lehetőségét.",
+    "title_ro": "Amenințarea asupra cursei TAROM a fost infirmată; noi alerte au afectat zboruri europene",
+    "lead_ro": "Amenințarea semnalată pentru cursa TAROM Praga–București s-a dovedit falsă după verificări; la bord se aflau 102 persoane. Vineri, sesizări similare au dus la escortarea unor aeronave și la modificarea unei curse în mai multe țări europene, fără ca ipoteza unei legături cu o grupare rusă să fie confirmată.",
+    "content_ro": "• **Alerta de vineri asupra cursei TAROM:** Aeronava 226M, care zbura de la Praga spre Otopeni, a aterizat la 12:19, cu patru minute înaintea orei programate și cu 102 persoane la bord. SRI a apreciat că sesizarea nu indica o amenințare concretă și nu a dispus intervenții la fața locului; după procedurile și verificările aeroportuare, alerta a fost infirmată.\n\n• **Escorta în spațiul aerian ungar:** Echipajul a fost informat despre amenințare în timp ce traversa Ungaria, iar aeronava a fost însoțită de avioane militare până spre București. Mesajul fusese trimis prin e-mail aeroportului din Praga și, potrivit TAROM, nu viza numai zborul 226M. La Otopeni s-au aplicat măsuri speciale de securitate, însă celelalte curse au continuat fără perturbări.\n\n• **Sesizări în mai multe țări:** Vineri, în Franța au fost vizate patru aeronave, iar avioane militare au escortat curse comerciale și în Ungaria. În Bulgaria, două avioane au aterizat la Sofia după amenințări; în Italia, o cursă Praga–Roma a fost deviată. A fost a doua zi consecutivă cu alerte în Europa și a treia zi din acea săptămână în care autoritățile mai multor state au intrat în alertă.\n\n• **Cazuri anterioare din România:** Cinci dintre amenințările raportate joi au vizat zboruri românești. La aeronava Wizz Air sosită de la Milano nu s-au găsit obiecte sau materiale suspecte. Într-un caz anterior, cursa KLM spre Tel Aviv, care a făcut escală la București, a fost supusă unor verificări ce au inclus pasagerii, bagajele de cală și avionul.\n\n• **Originea mesajelor este încă necunoscută:** Unele alerte ar fi fost semnate în numele unui grup asociat unei mișcări naționaliste ruse, însă această pistă nu este susținută de dovezi. Autoritățile încearcă să identifice expeditorii și să stabilească dacă incidentele au legătură între ele; numărul mare de sesizări a ridicat și posibilitatea unei acțiuni coordonate de perturbare.",
     "importance_score": 198.0
   },
   {
@@ -922,65 +922,6 @@
     "importance_score": 118.0
   },
   {
-    "group_id": "group_51a4b48131",
-    "fingerprint": "64999823e9da1199022c3c6bb52138a5",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Vizită surpriză. Liberalii Ilie Bolojan și Ciprian Ciucu l-au vizitat la Buzău pe primarul social-democrat Constantin Toma",
-        "link": "https://www.mediafax.ro/politic/vizita-surpriza-liberalii-ilie-bolojan-si-ciprian-ciucu-l-au-vizitat-la-buzau-pe-primarul-social-democrat-constantin-toma-23838762"
-      },
-      {
-        "source": "G4Media",
-        "title": "Primarul Buzăului, întâlnire cu Ilie Bolojan și Ciprian Ciucu: „Schimb de experiență între un fost și doi actuali primari”",
-        "link": "https://www.g4media.ro/primarul-buzaului-intalnire-cu-ilie-bolojan-si-ciprian-ciucu-schimb-de-experienta-intre-un-fost-si-doi-actuali-primari.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Primarul PSD al Buzăului, fotografie alături de Ilie Bolojan și Ciprian Ciucu. Mesajul transmis de Constantin Toma",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/primarul-psd-al-buzaului-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-mesajul-transmis-de-constantin-toma-4025577"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Constantin Toma, fotografie alături de Ilie Bolojan și Ciprian Ciucu. Mesajul primarului PSD după întâlnirea cu liderii PNL",
-        "link": "https://stirileprotv.ro/stiri/politic/constantin-toma-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-mesajul-primarului-psd-dupa-intalnirea-cu-liderii-pnl.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "„Bolojenistul” PSD s-a întâlnit cu liderul PNL la primăria din Buzău. „Mulțumesc pentru vizită!”",
-        "link": "https://hotnews.ro/bolojenistul-psd-s-a-intalnit-cu-liderul-pnl-la-primaria-din-buzau-multumesc-pentru-vizita-2397234"
-      },
-      {
-        "source": "Adevărul",
-        "title": "„Bolojenistul” Constantin Toma, vizitat la Primărie de fostul premier şi primarul Capitalei, aflați în „schimb de experiență”",
-        "link": "https://adevarul.ro/politica/bolojenistul-constantin-toma-vizitat-la-2569585.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Primarul PSD al Buzăului, fotografie alături de Ilie Bolojan și Ciprian Ciucu. Ce spune fostul premier despre întâlnire",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/primarul-psd-al-buzaului-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-ce-spune-fostul-premier-despre-intalnire-4025577"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Bolojan glumește după întâlnirea cu primarul Buzăului, Constantin Toma. „Să nu apară altceva”",
-        "link": "https://hotnews.ro/bolojan-glumeste-dupa-intalnirea-cu-primarul-buzaului-constantin-toma-sa-nu-apara-altceva-2397287"
-      }
-    ],
-    "published_at": 1793996921,
-    "title_hu": "Bolojan tisztázta: nem politikai egyeztetés volt a buzăui találkozó",
-    "lead_hu": "Ilie Bolojan és Ciprian Ciucu pénteken felkereste Constantin Tomát a buzăui városházán, ahol a polgármesterrel kávéztak. Bolojan később a PNL helyi rendezvényén hangsúlyozta, hogy a találkozónak nem volt politikai célja; a kapcsolatuk egy korábbi városfejlesztési kezdeményezéshez nyúlik vissza.",
-    "content_hu": "• **A pénteki látogatás** során Constantin Toma, Buzău PSD-s polgármestere fényképet tett közzé Ilie Bolojanról és Ciprian Ciucuról. A városházán folytatott beszélgetést tapasztalatcseréként mutatta be, amely a városvezetésről és a közösségek ügyeiről szólt.\n\n• **Bolojan magyarázata szerint** Toma hívta meg őt egy kávéra, amikor péntek délben a hivatalba látogatott. A volt miniszterelnök a későbbi PNL-es egyeztetésen azt mondta, hogy a találkozó nem jelentett politikai közeledést; este Ciucuval együtt a liberálisok megyei székházában is részt vett egy megbeszélésen.\n\n• **A kapcsolatuk előzménye** a „Nagy Buzău” terv volt, amely a város és Țintești község egyesítését célozta. Toma korábban arra kérte Bolojant, támogassa a kezdeményezést, mivel Nagyváradon is próbálkozott hasonló területi bővítéssel. Az ottani, Băile Felixet érintő népszavazás 1600 szavazattal maradt el az érvényességi küszöbtől.\n\n• **Bolojan akkori fellépése** ellenére Gabriel Avramescu, a PNL Buzău akkori vezetője ellenezte a látogatását. Bolojan most azt az elvet hangsúlyozta, hogy a pártállástól függetlenül támogatni kell az érdemi helyi projekteket, és csak a káros javaslatokkal szemben indokolt fellépni.\n\n• **A PSD-vel fennálló konfliktus** közben továbbra is meghatározza Toma politikai helyzetét. Júniusban lemondott a párt városi elnöki és megyei első alelnöki tisztségéről, de tag maradt; 2028-ban nem PSD-s jelöltként indulna, elsőként a független szereplést mérlegeli. Grindeanu korábban Bolojanhoz kötődő politikusként jellemezte.",
-    "title_ro": "Bolojan spune că vizita la primarul din Buzău nu a avut miză politică",
-    "lead_ro": "Ilie Bolojan și Ciprian Ciucu l-au vizitat vineri pe Constantin Toma la Primăria Buzău, unde au stat la o cafea. Ulterior, Bolojan a precizat că întâlnirea nu a reprezentat un demers politic și a explicat că legătura cu edilul PSD datează de la un proiect local mai vechi.",
-    "content_ro": "• **Vizita de vineri** a fost prezentată de Constantin Toma, primarul PSD al municipiului Buzău, printr-o fotografie alături de Ilie Bolojan și Ciprian Ciucu. Edilul a descris întâlnirea drept un prilej de schimb de experiență despre administrație și problemele comunităților.\n\n• **Potrivit explicației lui Bolojan**, Toma l-a invitat la o cafea, iar fostul premier a trecut pe la primărie în jurul prânzului. În fața liberalilor buzoieni, acesta a insistat că întâlnirea nu a avut conotații politice. Seara, Bolojan și Ciucu au participat și la o reuniune la sediul PNL din județ.\n\n• **Relația dintre cei doi** s-a conturat în jurul proiectului „Buzăul Mare”, care prevedea unirea municipiului cu comuna Țintești. Toma i-a cerut atunci sprijinul lui Bolojan, care avusese o experiență asemănătoare la Oradea. Referendumul de acolo, legat de stațiunea Băile Felix, a ratat pragul necesar cu 1.600 de voturi.\n\n• **Bolojan a relatat** că Gabriel Avramescu, care conducea atunci filiala PNL Buzău, îl sfătuise să nu vină în zonă. El a susținut însă că proiectele locale valoroase trebuie sprijinite indiferent de partidul inițiatorului, iar opoziția ar trebui rezervată propunerilor nocive.\n\n• **Disputa lui Toma cu PSD** rămâne un factor important în situația sa politică. În iunie, el a renunțat la funcțiile de președinte al organizației municipale și prim-vicepreședinte al filialei județene, însă a rămas membru. Pentru alegerile din 2028 nu ia în calcul o candidatură din partea PSD, iar varianta independentă este prima opțiune menționată. Sorin Grindeanu îl asociase anterior cu Bolojan.",
-    "importance_score": 95.0
-  },
-  {
     "group_id": "group_0ad1f95995",
     "fingerprint": "dab14b3f0d5b26b2a7a6e279a36a84c6",
     "category": "Általános",
@@ -1045,6 +986,70 @@
     "importance_score": 95.0
   },
   {
+    "group_id": "group_0ef9ec20e8",
+    "fingerprint": "6d55773f28ed48b4b6c64ad96bdf5493",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
+        "link": "https://www.mediafax.ro/politic/politico-ursula-von-der-leyen-va-vizita-romania-si-bulgaria-pe-fondul-atacurilor-cu-drone-din-marea-neagra-23838731"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ursula von der Leyen vine în România, pe fondul atacurilor cu drone din Marea Neagră. Va fi primită de Nicușor Dan la Cotroceni",
+        "link": "https://www.mediafax.ro/politic/ursula-von-der-leyen-vine-in-romania-pe-fondul-atacurilor-cu-drone-din-marea-neagra-va-fi-primita-de-nicusor-dan-la-cotroceni-23838731"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ursula von der Leyen vine luni la București. Va avea întâlniri cu președintele Nicușor Dan și premierul Luca Niculescu / Președinta Comisiei Europene face un turneu în regiunea Mării Negre",
+        "link": "https://www.g4media.ro/ursula-von-der-leyen-vine-luni-la-bucuresti-va-avea-intalniri-cu-presedintele-nicusor-dan-si-premierul-luca-niculescu-presedinta-comisiei-europene-face-un-turneu-in-regiunea-marii-negre.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ursula von der Leyen vine în România. Președinta Comisiei Europene se va întâlni cu Nicușor Dan și Luca Niculescu",
+        "link": "https://www.digi24.ro/stiri/externe/ue/ursula-von-der-leyen-vine-in-romania-presedinta-comisiei-europene-se-va-intalni-cu-nicusor-dan-si-luca-niculescu-4024979"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ursula von der Leyen vine luni în România, după atacurile cu drone asupra navelor din Marea Neagră",
+        "link": "https://stirileprotv.ro/ursula-von-der-leyen-vine-luni-in-romania-dupa-atacurile-cu-drone-asupra-navelor-din-marea-neagra.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ursula von der Leyen vine luni în România. Se întâlnește cu Nicușor Dan și Luca Niculescu",
+        "link": "https://hotnews.ro/ursula-von-der-leyen-vine-luni-in-romania-se-intalneste-cu-nicusor-dan-si-luca-niculescu-2396879"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ursula von der Leyen vine luni în România, după atacurile cu drone asupra navelor din Marea Neagră",
+        "link": "https://stirileprotv.ro/stiri/international/ursula-von-der-leyen-vine-luni-in-romania-dupa-atacurile-cu-drone-asupra-navelor-din-marea-neagra.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Ursula von der Leyen hétfőn Romániába látogat",
+        "link": "https://maszol.ro/belfold/Ursula-von-der-Leyen-hetfon-Romaniaba-latogat"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ursula von der Leyen face o oprire la Cotroceni în vizita sa în regiunea Mării Negre. Șefa CE se întâlnește luni cu Nicușor Dan",
+        "link": "https://adevarul.ro/politica/ursula-von-der-leyen-face-o-oprire-la-cotroceni-in-2569489.html"
+      }
+    ],
+    "published_at": 1793968920,
+    "title_hu": "Von der Leyen november 9-én Bukarestbe látogat",
+    "lead_hu": "Az Európai Bizottság elnöke a Fekete-tenger térségét érintő útja során Romániában Nicușor Dan államfővel és Luca Niculescu miniszterelnökkel találkozik. A program Bulgáriában, Törökországban és Írországban folytatódik.",
+    "content_hu": "• **November 9-én, hétfőn** Ursula von der Leyen Bukarestbe érkezik a Fekete-tenger térségében tett látogatás részeként. Az Európai Bizottság elnökének programjában megbeszélés szerepel Nicușor Dan román államfővel és Luca Niculescu miniszterelnökkel.\n\n• **A Cotroceni-palotában 15:30-kor** fogadja a bizottsági elnököt Nicușor Dan – derül ki a román elnöki hivatal által közzétett napirendből. A látogatás romániai állomása tehát a fővárosban zajlik.\n\n• **November 10-én, kedden** von der Leyen a bulgáriai Várnába utazik, ahol Rumen Radev miniszterelnökkel találkozik, és felkeresi a Nikola Vaptsarov Haditengerészeti Akadémiát. A következő napon Antalyában részt vesz az ENSZ COP31 klímakonferenciáján.\n\n• **November 12–13-án** az Európai Bizottság vezetője Dublinban lesz: csütörtökön az Európai Politikai Közösség ülésén, pénteken pedig az Európai Tanács informális találkozóján vesz részt. Az út tervei a Fekete-tenger fokozott biztonsági figyelme mellett kerültek nyilvánosságra.\n\n• **A térség tengeri biztonsága** az utazás bejelentését övező háttér egyik eleme. Októberben kilenc kereskedelmi hajót ért találat Románia és Bulgária partjai közelében; a beszámolók szerint mintegy 34 tengerész meghalt vagy eltűnt. A NATO eközben növelte a Fekete-tenger feletti megfigyelő tevékenységet.",
+    "title_ro": "Von der Leyen vizitează Bucureștiul pe 9 noiembrie",
+    "lead_ro": "Președinta Comisiei Europene se va întâlni la București cu președintele Nicușor Dan și cu premierul Luca Niculescu, în cadrul unei deplasări în regiunea Mării Negre. Programul continuă în Bulgaria, Turcia și Irlanda.",
+    "content_ro": "• **Luni, 9 noiembrie**, Ursula von der Leyen ajunge la București în cadrul unei vizite în regiunea Mării Negre. Pe agenda președintei Comisiei Europene sunt prevăzute întrevederi cu președintele României, Nicușor Dan, și cu prim-ministrul Luca Niculescu.\n\n• **Întrevederea de la Palatul Cotroceni este programată la ora 15:30**, potrivit programului publicat de Administrația Prezidențială. Astfel, etapa din România a deplasării se desfășoară în capitală.\n\n• **Marți, 10 noiembrie**, von der Leyen se va deplasa la Varna, în Bulgaria. Acolo va avea o întâlnire cu premierul Rumen Radev și va vizita Academia Navală „Nikola Vaptsarov”. Miercuri, la Antalya, în Turcia, va participa la conferința ONU privind schimbările climatice COP31.\n\n• **În 12 și 13 noiembrie**, șefa Comisiei Europene va fi la Dublin. Joi este programată participarea sa la reuniunea Comunității Politice Europene, iar vineri la întâlnirea informală a Consiliului European. Aceste etape urmează vizitei din zona Mării Negre.\n\n• **Securitatea maritimă din regiune** constituie un element de context al deplasării. În octombrie, nouă nave comerciale au fost lovite în apropierea coastelor României și Bulgariei, iar aproximativ 34 de marinari au fost declarați morți sau dispăruți. În aceeași perioadă, NATO și-a intensificat misiunile de supraveghere deasupra Mării Negre.",
+    "importance_score": 93.0
+  },
+  {
     "group_id": "group_66fb7cbdfe",
     "fingerprint": "f27e978a842e16fc73182ea866d2b7c2",
     "category": "Általános",
@@ -1107,6 +1112,65 @@
     "lead_ro": "La 5 noiembrie 2026, ministrul Dezvoltării, Marcel-Alexandru Stoica, a semnat Ordinul nr. 1389, care explică aplicarea Legii nr. 169/2026. Închiderea ulterioară a unui balcon într-un bloc construit legal nu justifică, de una singură, dublarea impozitului pentru întregul apartament, iar termenul de prescripție pentru sancțiuni este de trei ani de la încheierea lucrărilor.",
     "content_ro": "• **La 5 noiembrie 2026**, Marcel-Alexandru Stoica a semnat Ordinul nr. 1389, cu instrucțiuni pentru aplicarea articolului 301 din Legea nr. 169/2026. Legea a intrat în vigoare în august, iar ordinul tratează situația balcoanelor închise fără autorizație, posibilitatea legalizării ulterioare și regulile de impozitare și sancționare.\n\n• **Închiderea unui balcon nu atrage automat dublarea impozitului** dacă blocul a fost construit legal. Instrucțiunile separă clădirile ridicate integral fără autorizație de intervențiile efectuate ulterior asupra unui imobil legal; o asemenea modificare punctuală nu schimbă statutul construcției inițiale.\n\n• **Majorarea cu 100% a impozitului pentru întregul apartament nu are temei în acest caz**, potrivit ordinului. Exemplul folosit compară o locuință de 70–80 de metri pătrați cu un balcon de 3–4 metri pătrați, pentru a evidenția caracterul disproporționat al dublării taxei; direcțiile locale nu pot aplica majorarea doar pentru existența balconului închis.\n\n• **Răspunderea contravențională se prescrie în trei ani**, termenul fiind calculat de la finalizarea lucrărilor fără autorizație. Prin urmare, conform precizărilor publicate despre ordin, pentru balcoanele închise cu mai mult de trei ani în urmă nu mai pot fi aplicate amenzi contravenționale.\n\n• **Legalizarea ulterioară poate fi cerută fără un termen-limită**, iar proprietarii nu sunt obligați să demareze imediat procedura. Ministrul a mai precizat că instrucțiunile nu impun automat taxe multiplicate sau cheltuieli obligatorii de ordinul miilor de lei pentru intrarea în legalitate.",
     "importance_score": 90.0
+  },
+  {
+    "group_id": "group_51a4b48131",
+    "fingerprint": "64999823e9da1199022c3c6bb52138a5",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Vizită surpriză. Liberalii Ilie Bolojan și Ciprian Ciucu l-au vizitat la Buzău pe primarul social-democrat Constantin Toma",
+        "link": "https://www.mediafax.ro/politic/vizita-surpriza-liberalii-ilie-bolojan-si-ciprian-ciucu-l-au-vizitat-la-buzau-pe-primarul-social-democrat-constantin-toma-23838762"
+      },
+      {
+        "source": "G4Media",
+        "title": "Primarul Buzăului, întâlnire cu Ilie Bolojan și Ciprian Ciucu: „Schimb de experiență între un fost și doi actuali primari”",
+        "link": "https://www.g4media.ro/primarul-buzaului-intalnire-cu-ilie-bolojan-si-ciprian-ciucu-schimb-de-experienta-intre-un-fost-si-doi-actuali-primari.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Primarul PSD al Buzăului, fotografie alături de Ilie Bolojan și Ciprian Ciucu. Mesajul transmis de Constantin Toma",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/primarul-psd-al-buzaului-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-mesajul-transmis-de-constantin-toma-4025577"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Constantin Toma, fotografie alături de Ilie Bolojan și Ciprian Ciucu. Mesajul primarului PSD după întâlnirea cu liderii PNL",
+        "link": "https://stirileprotv.ro/stiri/politic/constantin-toma-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-mesajul-primarului-psd-dupa-intalnirea-cu-liderii-pnl.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "„Bolojenistul” PSD s-a întâlnit cu liderul PNL la primăria din Buzău. „Mulțumesc pentru vizită!”",
+        "link": "https://hotnews.ro/bolojenistul-psd-s-a-intalnit-cu-liderul-pnl-la-primaria-din-buzau-multumesc-pentru-vizita-2397234"
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Bolojenistul” Constantin Toma, vizitat la Primărie de fostul premier şi primarul Capitalei, aflați în „schimb de experiență”",
+        "link": "https://adevarul.ro/politica/bolojenistul-constantin-toma-vizitat-la-2569585.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Primarul PSD al Buzăului, fotografie alături de Ilie Bolojan și Ciprian Ciucu. Ce spune fostul premier despre întâlnire",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/primarul-psd-al-buzaului-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-ce-spune-fostul-premier-despre-intalnire-4025577"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Bolojan glumește după întâlnirea cu primarul Buzăului, Constantin Toma. „Să nu apară altceva”",
+        "link": "https://hotnews.ro/bolojan-glumeste-dupa-intalnirea-cu-primarul-buzaului-constantin-toma-sa-nu-apara-altceva-2397287"
+      }
+    ],
+    "published_at": 1793996921,
+    "title_hu": "Bolojan tisztázta: nem politikai egyeztetés volt a buzăui találkozó",
+    "lead_hu": "Ilie Bolojan és Ciprian Ciucu pénteken felkereste Constantin Tomát a buzăui városházán, ahol a polgármesterrel kávéztak. Bolojan később a PNL helyi rendezvényén hangsúlyozta, hogy a találkozónak nem volt politikai célja; a kapcsolatuk egy korábbi városfejlesztési kezdeményezéshez nyúlik vissza.",
+    "content_hu": "• **A pénteki látogatás** során Constantin Toma, Buzău PSD-s polgármestere fényképet tett közzé Ilie Bolojanról és Ciprian Ciucuról. A városházán folytatott beszélgetést tapasztalatcseréként mutatta be, amely a városvezetésről és a közösségek ügyeiről szólt.\n\n• **Bolojan magyarázata szerint** Toma hívta meg őt egy kávéra, amikor péntek délben a hivatalba látogatott. A volt miniszterelnök a későbbi PNL-es egyeztetésen azt mondta, hogy a találkozó nem jelentett politikai közeledést; este Ciucuval együtt a liberálisok megyei székházában is részt vett egy megbeszélésen.\n\n• **A kapcsolatuk előzménye** a „Nagy Buzău” terv volt, amely a város és Țintești község egyesítését célozta. Toma korábban arra kérte Bolojant, támogassa a kezdeményezést, mivel Nagyváradon is próbálkozott hasonló területi bővítéssel. Az ottani, Băile Felixet érintő népszavazás 1600 szavazattal maradt el az érvényességi küszöbtől.\n\n• **Bolojan akkori fellépése** ellenére Gabriel Avramescu, a PNL Buzău akkori vezetője ellenezte a látogatását. Bolojan most azt az elvet hangsúlyozta, hogy a pártállástól függetlenül támogatni kell az érdemi helyi projekteket, és csak a káros javaslatokkal szemben indokolt fellépni.\n\n• **A PSD-vel fennálló konfliktus** közben továbbra is meghatározza Toma politikai helyzetét. Júniusban lemondott a párt városi elnöki és megyei első alelnöki tisztségéről, de tag maradt; 2028-ban nem PSD-s jelöltként indulna, elsőként a független szereplést mérlegeli. Grindeanu korábban Bolojanhoz kötődő politikusként jellemezte.",
+    "title_ro": "Bolojan spune că vizita la primarul din Buzău nu a avut miză politică",
+    "lead_ro": "Ilie Bolojan și Ciprian Ciucu l-au vizitat vineri pe Constantin Toma la Primăria Buzău, unde au stat la o cafea. Ulterior, Bolojan a precizat că întâlnirea nu a reprezentat un demers politic și a explicat că legătura cu edilul PSD datează de la un proiect local mai vechi.",
+    "content_ro": "• **Vizita de vineri** a fost prezentată de Constantin Toma, primarul PSD al municipiului Buzău, printr-o fotografie alături de Ilie Bolojan și Ciprian Ciucu. Edilul a descris întâlnirea drept un prilej de schimb de experiență despre administrație și problemele comunităților.\n\n• **Potrivit explicației lui Bolojan**, Toma l-a invitat la o cafea, iar fostul premier a trecut pe la primărie în jurul prânzului. În fața liberalilor buzoieni, acesta a insistat că întâlnirea nu a avut conotații politice. Seara, Bolojan și Ciucu au participat și la o reuniune la sediul PNL din județ.\n\n• **Relația dintre cei doi** s-a conturat în jurul proiectului „Buzăul Mare”, care prevedea unirea municipiului cu comuna Țintești. Toma i-a cerut atunci sprijinul lui Bolojan, care avusese o experiență asemănătoare la Oradea. Referendumul de acolo, legat de stațiunea Băile Felix, a ratat pragul necesar cu 1.600 de voturi.\n\n• **Bolojan a relatat** că Gabriel Avramescu, care conducea atunci filiala PNL Buzău, îl sfătuise să nu vină în zonă. El a susținut însă că proiectele locale valoroase trebuie sprijinite indiferent de partidul inițiatorului, iar opoziția ar trebui rezervată propunerilor nocive.\n\n• **Disputa lui Toma cu PSD** rămâne un factor important în situația sa politică. În iunie, el a renunțat la funcțiile de președinte al organizației municipale și prim-vicepreședinte al filialei județene, însă a rămas membru. Pentru alegerile din 2028 nu ia în calcul o candidatură din partea PSD, iar varianta independentă este prima opțiune menționată. Sorin Grindeanu îl asociase anterior cu Bolojan.",
+    "importance_score": 88.0
   },
   {
     "group_id": "group_1f4108464c",
@@ -5157,35 +5221,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_9f7ab43516",
-    "fingerprint": "6888962b31c2d1514db1277f193bd394",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "UTA – Petrolul 0-1. Mario Ioniță a decis meciul de la Arad și a pus capăt invincibilității gazdelor pe teren propriu",
-        "link": "https://www.mediafax.ro/sport/uta-petrolul-0-1-mario-ionita-a-decis-meciul-de-la-arad-si-a-pus-capat-invincibilitatii-gazdelor-pe-teren-propriu-23838975"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Petrolul Ploiești a câștigat la Arad, 1-0 cu UTA",
-        "link": "https://agerpres.ro/sport/2026/11/06/fotbal-petrolul-ploiesti-a-castigat-la-arad-1-0-cu-uta--1610953"
-      }
-    ],
-    "published_at": 1793986256,
-    "title_hu": "A Petrolul 1–0-ra nyert az UTA otthonában",
-    "lead_hu": "A Petrolul Ploiești idegenben győzte le az UTA Aradot a román élvonal 15. fordulójának nyitómérkőzésén. Mario Ioniță találata megszakította az aradiak hazai veretlenségi sorozatát.",
-    "content_hu": "• **A pénteki, aradi mérkőzésen** a Petrolul Ploiești 1–0-ra győzött az UTA ellen; a szünetben még gól nélküli döntetlen állt az eredményjelzőn. A találkozót a Superliga 15. fordulójának első meccseként rendezték meg a Francisc Neuman Arénában.\n\n• **Mario Ioniță a 70. perc táján** szerezte a győztes gólt, miután Tiberio Căpușă előkészítette a támadást. A hazaiak több lehetőséget is kidolgoztak, Marius Coman próbálkozása veszélyt jelentett, Omar El Sawy pedig a kapu előteréből a kapufát találta el.\n\n• **Az UTA a bekapott gól után** fokozta a támadásokat és cserékkel is igyekezett változtatni, de nem tudta kiegyenlíteni az állást. A Petrolul kapuja előtt Mark Țuțu lövése szintén a kapufán csattant, a vendégvédelem pedig megőrizte előnyét a lefújásig.\n\n• **A vereséggel véget ért az aradiak hazai veretlensége** a bajnokságban. Az UTA legutóbb 2026. március 1-jén kapott ki saját közönsége előtt; az azóta lejátszott 11 hazai találkozón hét győzelmet és négy döntetlent jegyzett.\n\n• **A tabellán a Petrolul 27 ponttal a negyedik helyre lépett**, míg az UTA 18 ponttal a tizedik pozícióban maradt. Ricardo Sousa vendégedzőt a 88. percben, reklamálás után két sárga lapot követően kiállították.",
-    "title_ro": "Petrolul a învins UTA cu 1-0 la Arad",
-    "lead_ro": "Petrolul Ploiești a câștigat în deplasare partida cu UTA Arad, disputată în deschiderea etapei a 15-a din Superligă. Golul lui Mario Ioniță a pus capăt seriei de invincibilitate a arădenilor pe teren propriu.",
-    "content_ro": "• **Meciul de vineri, disputat la Arad**, s-a încheiat cu victoria Petrolului, scor 1-0, după o primă repriză fără goluri. Partida de pe Arena Francisc Neuman a deschis etapa a 15-a a campionatului intern.\n\n• **Mario Ioniță a înscris în jurul minutului 70**, după o acțiune pregătită de Tiberio Căpușă. UTA a avut ocazii de gol, iar Marius Coman a pus presiune pe defensiva oaspeților; Omar El Sawy a trimis mingea în bară din apropierea porții.\n\n• **După ce a primit golul**, formația arădeană a atacat mai mult și a făcut schimbări pentru a încerca egalarea, însă nu a reușit să înscrie. Petrolul a avut, la rândul său, o minge trimisă în bară de Mark Țuțu, iar apărarea ploieștenilor a menținut avantajul până la final.\n\n• **Înfrângerea a întrerupt seria fără eșec a UTA-ei pe teren propriu** în campionat. Echipa arădeană pierduse ultima dată acasă la 1 martie 2026; în cele 11 partide disputate ulterior pe propriul stadion obținuse șapte victorii și patru remize.\n\n• **Petrolul a ajuns la 27 de puncte și a urcat pe locul al patrulea**, în timp ce UTA a rămas cu 18 puncte, pe poziția a zecea. Ricardo Sousa, antrenorul oaspeților, a fost eliminat în minutul 88, după ce a primit două cartonașe galbene pentru proteste.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_f6fd6c8c2d",
     "fingerprint": "38aeb1dc701ecba041c9bb72350c51dc",
     "category": "Erdély",
@@ -5299,7 +5334,7 @@
     "title_ro": "Turcan critică candidatura lui Tișe și disputele din conducerea PNL",
     "lead_ro": "Raluca Turcan a afirmat că Alin Tișe și alți liberali nu s-au implicat în explicarea publică a măsurilor dificile, iar acțiunile lor actuale ar slăbi conducerea PNL. Deputata a comentat și situația președinției partidului, precum și atitudinea președintelui Nicușor Dan.",
     "content_ro": "• **Criticile Ralucăi Turcan** au venit după ce Alin Tișe și-a anunțat candidatura la președinția Partidului Național Liberal. Deputata PNL a susținut că Tișe și alți colegi, pe care nu i-a numit, nu s-au implicat anterior în explicarea măsurilor dificile sau în identificarea unor soluții, în timp ce intervențiile lor de acum ar afecta partidul.\n\n• **Ilie Bolojan rămâne președintele PNL**, potrivit declarației lui Turcan, iar partidul nu a decis organizarea unui nou congres. Deputata a amintit că un congres convocat anterior pentru consolidarea echipei de conducere a fost anulat de instanță, la solicitarea unor membri care nu susțineau direcția partidului. La reuniune participaseră aproximativ 1.800 de delegați.\n\n• **Nicușor Dan a fost criticat de Turcan** pentru că, în opinia ei, nu a transmis niciun semnal când PSD și AUR au înlăturat guvernul condus de Bolojan. Ea a reproșat totodată președintelui că s-ar fi implicat în sprijinirea guvernului Niculescu, fără să manifeste o susținere comparabilă în cazul lui Mureșan.\n\n• **Interpretarea lui Turcan asupra competiției interne** este că disputele nu urmăresc neapărat îmbunătățirea deciziilor partidului, ci ar putea slăbi conducerea actuală a PNL. Declarațiile au fost făcute într-un interviu pentru Cotidianul. Fragmentul furnizat se întrerupe înainte de încheierea pasajului în care deputata vorbește despre intervenția președintelui.",
-    "importance_score": 28.0
+    "importance_score": 25.0
   },
   {
     "group_id": "group_9d5b587c0f",
@@ -5385,6 +5420,35 @@
     "lead_ro": "Donald Trump a semnat un act prin care Biroul Oval primește statut de monument istoric. Decizia prevede elaborarea unui plan de conservare, în contextul modificărilor ample aduse decorului încăperii în timpul mandatului său.",
     "content_ro": "• **Actul semnat de Trump** urmărește păstrarea Biroului Oval ca spațiu cu valoare istorică. Potrivit Casei Albe, secretarul de Interne va pregăti și va aplica planul de administrare în colaborare cu instituțiile federale relevante.\n\n• **Planul de conservare** trebuie să acorde prioritate protejării încăperilor. Înaintea unor intervenții majore sau a eliminării unor componente, acestea vor fi documentate și analizate, iar opțiunile alternative vor trebui evaluate; eventualele schimbări trebuie să țină seama de importanța națională a spațiilor.\n\n• **Comitetul pentru Conservarea Casei Albe** și alte organisme consultative urmează să participe la proces. Măsurile vizează păstrarea Biroului Oval și, conform relatărilor, includ și încăperea alăturată în care se întrunește Cabinetul.\n\n• **După revenirea sa la Casa Albă, în ianuarie 2025**, Trump a schimbat decorul Biroului Oval în mai multe etape. Ornamente aurii au fost adăugate pe pereți, uși și în jurul șemineului, iar în încăpere au apărut oglinzi, obiecte decorative și reprezentări ale vulturului american.\n\n• **Mobilierul decorativ și portretele** au fost, de asemenea, reorganizate: noile elemente includ rame aurite și figurine, alături de imagini ale unor foști președinți, între care George Washington, Abraham Lincoln și Thomas Jefferson. Informații apărute în presă indică folosirea foiței de aur de 24 de carate; Trump ar fi suportat costurile, însă suma totală nu a fost făcută publică.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_9f7ab43516",
+    "fingerprint": "6888962b31c2d1514db1277f193bd394",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "UTA – Petrolul 0-1. Mario Ioniță a decis meciul de la Arad și a pus capăt invincibilității gazdelor pe teren propriu",
+        "link": "https://www.mediafax.ro/sport/uta-petrolul-0-1-mario-ionita-a-decis-meciul-de-la-arad-si-a-pus-capat-invincibilitatii-gazdelor-pe-teren-propriu-23838975"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Petrolul Ploiești a câștigat la Arad, 1-0 cu UTA",
+        "link": "https://agerpres.ro/sport/2026/11/06/fotbal-petrolul-ploiesti-a-castigat-la-arad-1-0-cu-uta--1610953"
+      }
+    ],
+    "published_at": 1793986256,
+    "title_hu": "A Petrolul 1–0-ra nyert az UTA otthonában",
+    "lead_hu": "A Petrolul Ploiești idegenben győzte le az UTA Aradot a román élvonal 15. fordulójának nyitómérkőzésén. Mario Ioniță találata megszakította az aradiak hazai veretlenségi sorozatát.",
+    "content_hu": "• **A pénteki, aradi mérkőzésen** a Petrolul Ploiești 1–0-ra győzött az UTA ellen; a szünetben még gól nélküli döntetlen állt az eredményjelzőn. A találkozót a Superliga 15. fordulójának első meccseként rendezték meg a Francisc Neuman Arénában.\n\n• **Mario Ioniță a 70. perc táján** szerezte a győztes gólt, miután Tiberio Căpușă előkészítette a támadást. A hazaiak több lehetőséget is kidolgoztak, Marius Coman próbálkozása veszélyt jelentett, Omar El Sawy pedig a kapu előteréből a kapufát találta el.\n\n• **Az UTA a bekapott gól után** fokozta a támadásokat és cserékkel is igyekezett változtatni, de nem tudta kiegyenlíteni az állást. A Petrolul kapuja előtt Mark Țuțu lövése szintén a kapufán csattant, a vendégvédelem pedig megőrizte előnyét a lefújásig.\n\n• **A vereséggel véget ért az aradiak hazai veretlensége** a bajnokságban. Az UTA legutóbb 2026. március 1-jén kapott ki saját közönsége előtt; az azóta lejátszott 11 hazai találkozón hét győzelmet és négy döntetlent jegyzett.\n\n• **A tabellán a Petrolul 27 ponttal a negyedik helyre lépett**, míg az UTA 18 ponttal a tizedik pozícióban maradt. Ricardo Sousa vendégedzőt a 88. percben, reklamálás után két sárga lapot követően kiállították.",
+    "title_ro": "Petrolul a învins UTA cu 1-0 la Arad",
+    "lead_ro": "Petrolul Ploiești a câștigat în deplasare partida cu UTA Arad, disputată în deschiderea etapei a 15-a din Superligă. Golul lui Mario Ioniță a pus capăt seriei de invincibilitate a arădenilor pe teren propriu.",
+    "content_ro": "• **Meciul de vineri, disputat la Arad**, s-a încheiat cu victoria Petrolului, scor 1-0, după o primă repriză fără goluri. Partida de pe Arena Francisc Neuman a deschis etapa a 15-a a campionatului intern.\n\n• **Mario Ioniță a înscris în jurul minutului 70**, după o acțiune pregătită de Tiberio Căpușă. UTA a avut ocazii de gol, iar Marius Coman a pus presiune pe defensiva oaspeților; Omar El Sawy a trimis mingea în bară din apropierea porții.\n\n• **După ce a primit golul**, formația arădeană a atacat mai mult și a făcut schimbări pentru a încerca egalarea, însă nu a reușit să înscrie. Petrolul a avut, la rândul său, o minge trimisă în bară de Mark Țuțu, iar apărarea ploieștenilor a menținut avantajul până la final.\n\n• **Înfrângerea a întrerupt seria fără eșec a UTA-ei pe teren propriu** în campionat. Echipa arădeană pierduse ultima dată acasă la 1 martie 2026; în cele 11 partide disputate ulterior pe propriul stadion obținuse șapte victorii și patru remize.\n\n• **Petrolul a ajuns la 27 de puncte și a urcat pe locul al patrulea**, în timp ce UTA a rămas cu 18 puncte, pe poziția a zecea. Ricardo Sousa, antrenorul oaspeților, a fost eliminat în minutul 88, după ce a primit două cartonașe galbene pentru proteste.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_6076ed7158",
@@ -6567,7 +6631,7 @@
     "title_ro": "Nithya Raman a câștigat alegerile pentru primăria Los Angelesului",
     "lead_ro": "Nithya Raman a învins-o într-o competiție strânsă pe Karen Bass, primarul în funcție al Los Angelesului. Consiliera municipală în vârstă de 45 de ani a obținut 52% din voturi și urmează să conducă orașul.",
     "content_ro": "• **Victoria lui Nithya Raman** în cursa pentru primăria Los Angelesului a venit după o competiție strânsă: politiciana de 45 de ani a primit 52% din voturi și a devansat-o pe Karen Bass. Bass, în vârstă de 73 de ani, conduce orașul din 2022.\n\n• **Raman este asociată cu Democrații Socialiști din America (DSA)**, o organizație de stânga din interiorul Partidului Democrat. Odată cu alegerea sa, Los Angeles va avea un primar identificat cu social-democrația, potrivit relatării.\n\n• **Intrarea sa în politică datează din 2020**, când a obținut un loc în consiliul municipal. Raman, născută în India și formată ca urbanistă, a câștigat atunci în fața unui consilier aflat în funcție; articolul notează că un asemenea schimb nu se mai produsese de 17 ani în Los Angeles.\n\n• **Sprijinul din consiliul municipal a fost limitat:** relatarea arată că Raman nu a primit susținerea mai multor colegi, inclusiv a altor membri DSA din consiliu. Campania sa a beneficiat însă de sprijinul lui Bernie Sanders, iar ea a devenit primul candidat susținut de DSA ales într-o funcție publică în Los Angeles.\n\n• **Rezultatul a atras comparații cu ascensiunea lui Zohran Mamdani** în politica din New York. Articolul precizează însă că profilul local al lui Raman și raporturile sale, uneori tensionate, cu filiala DSA din Los Angeles sunt diferite de situația lui Mamdani.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_bb4bdfd042",
@@ -7281,6 +7345,28 @@
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_cebd476c25",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Bursele americane își revin. Acțiunile companiilor de inteligență artificială cresc din nou",
+        "link": "https://www.mediafax.ro/financiar/bursele-americane-isi-revin-actiunile-companiilor-de-inteligenta-artificiala-cresc-din-nou-23839070"
+      }
+    ],
+    "published_at": 1794007256,
+    "title_hu": "Bursele americane își revin. Acțiunile companiilor de inteligență artificială cresc din nou",
+    "lead_hu": "Acțiunile marilor companii de inteligență artificială au revenit pe creștere vineri, după două zile de pierderi puternice. Nvidia și alte companii de tehnologie au recuperat o parte din pierderile înr...",
+    "content_hu": "Acțiunile marilor companii de inteligență artificială au revenit pe creștere vineri, după două zile de pierderi puternice. Nvidia și alte companii de tehnologie au recuperat o parte din pierderile înregistrate în această săptămână.",
+    "title_ro": "Bursele americane își revin. Acțiunile companiilor de inteligență artificială cresc din nou",
+    "lead_ro": "Acțiunile marilor companii de inteligență artificială au revenit pe creștere vineri, după două zile de pierderi puternice. Nvidia și alte companii de tehnologie au recuperat o parte din pierderile înr...",
+    "content_ro": "Acțiunile marilor companii de inteligență artificială au revenit pe creștere vineri, după două zile de pierderi puternice. Nvidia și alte companii de tehnologie au recuperat o parte din pierderile înregistrate în această săptămână.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_70ff67bd04",
@@ -20173,70 +20259,6 @@
     "lead_ro": "Prețurile locuințelor cumpărate prin credit ipotecar diferă considerabil în România, în funcție de regiune. În București-Ilfov și Transilvania, cumpărătorii plătesc în medie peste 121.000 de euro pent…",
     "content_ro": "Prețurile locuințelor cumpărate prin credit ipotecar diferă considerabil în România, în funcție de regiune. În București-Ilfov și Transilvania, cumpărătorii plătesc în medie peste 121.000 de euro pentru o proprietate, în timp ce în Muntenia prețul mediu este de puțin peste 90.000 de euro.",
     "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0ef9ec20e8",
-    "fingerprint": "6d55773f28ed48b4b6c64ad96bdf5493",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Politico: Ursula von der Leyen va vizita România și Bulgaria, pe fondul atacurilor cu drone din Marea Neagră",
-        "link": "https://www.mediafax.ro/politic/politico-ursula-von-der-leyen-va-vizita-romania-si-bulgaria-pe-fondul-atacurilor-cu-drone-din-marea-neagra-23838731"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ursula von der Leyen vine în România, pe fondul atacurilor cu drone din Marea Neagră. Va fi primită de Nicușor Dan la Cotroceni",
-        "link": "https://www.mediafax.ro/politic/ursula-von-der-leyen-vine-in-romania-pe-fondul-atacurilor-cu-drone-din-marea-neagra-va-fi-primita-de-nicusor-dan-la-cotroceni-23838731"
-      },
-      {
-        "source": "G4Media",
-        "title": "Ursula von der Leyen vine luni la București. Va avea întâlniri cu președintele Nicușor Dan și premierul Luca Niculescu / Președinta Comisiei Europene face un turneu în regiunea Mării Negre",
-        "link": "https://www.g4media.ro/ursula-von-der-leyen-vine-luni-la-bucuresti-va-avea-intalniri-cu-presedintele-nicusor-dan-si-premierul-luca-niculescu-presedinta-comisiei-europene-face-un-turneu-in-regiunea-marii-negre.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ursula von der Leyen vine în România. Președinta Comisiei Europene se va întâlni cu Nicușor Dan și Luca Niculescu",
-        "link": "https://www.digi24.ro/stiri/externe/ue/ursula-von-der-leyen-vine-in-romania-presedinta-comisiei-europene-se-va-intalni-cu-nicusor-dan-si-luca-niculescu-4024979"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ursula von der Leyen vine luni în România, după atacurile cu drone asupra navelor din Marea Neagră",
-        "link": "https://stirileprotv.ro/ursula-von-der-leyen-vine-luni-in-romania-dupa-atacurile-cu-drone-asupra-navelor-din-marea-neagra.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ursula von der Leyen vine luni în România. Se întâlnește cu Nicușor Dan și Luca Niculescu",
-        "link": "https://hotnews.ro/ursula-von-der-leyen-vine-luni-in-romania-se-intalneste-cu-nicusor-dan-si-luca-niculescu-2396879"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ursula von der Leyen vine luni în România, după atacurile cu drone asupra navelor din Marea Neagră",
-        "link": "https://stirileprotv.ro/stiri/international/ursula-von-der-leyen-vine-luni-in-romania-dupa-atacurile-cu-drone-asupra-navelor-din-marea-neagra.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Ursula von der Leyen hétfőn Romániába látogat",
-        "link": "https://maszol.ro/belfold/Ursula-von-der-Leyen-hetfon-Romaniaba-latogat"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Ursula von der Leyen face o oprire la Cotroceni în vizita sa în regiunea Mării Negre. Șefa CE se întâlnește luni cu Nicușor Dan",
-        "link": "https://adevarul.ro/politica/ursula-von-der-leyen-face-o-oprire-la-cotroceni-in-2569489.html"
-      }
-    ],
-    "published_at": 1793968920,
-    "title_hu": "Von der Leyen november 9-én Bukarestbe látogat",
-    "lead_hu": "Az Európai Bizottság elnöke a Fekete-tenger térségét érintő útja során Romániában Nicușor Dan államfővel és Luca Niculescu miniszterelnökkel találkozik. A program Bulgáriában, Törökországban és Írországban folytatódik.",
-    "content_hu": "• **November 9-én, hétfőn** Ursula von der Leyen Bukarestbe érkezik a Fekete-tenger térségében tett látogatás részeként. Az Európai Bizottság elnökének programjában megbeszélés szerepel Nicușor Dan román államfővel és Luca Niculescu miniszterelnökkel.\n\n• **A Cotroceni-palotában 15:30-kor** fogadja a bizottsági elnököt Nicușor Dan – derül ki a román elnöki hivatal által közzétett napirendből. A látogatás romániai állomása tehát a fővárosban zajlik.\n\n• **November 10-én, kedden** von der Leyen a bulgáriai Várnába utazik, ahol Rumen Radev miniszterelnökkel találkozik, és felkeresi a Nikola Vaptsarov Haditengerészeti Akadémiát. A következő napon Antalyában részt vesz az ENSZ COP31 klímakonferenciáján.\n\n• **November 12–13-án** az Európai Bizottság vezetője Dublinban lesz: csütörtökön az Európai Politikai Közösség ülésén, pénteken pedig az Európai Tanács informális találkozóján vesz részt. Az út tervei a Fekete-tenger fokozott biztonsági figyelme mellett kerültek nyilvánosságra.\n\n• **A térség tengeri biztonsága** az utazás bejelentését övező háttér egyik eleme. Októberben kilenc kereskedelmi hajót ért találat Románia és Bulgária partjai közelében; a beszámolók szerint mintegy 34 tengerész meghalt vagy eltűnt. A NATO eközben növelte a Fekete-tenger feletti megfigyelő tevékenységet.",
-    "title_ro": "Von der Leyen vizitează Bucureștiul pe 9 noiembrie",
-    "lead_ro": "Președinta Comisiei Europene se va întâlni la București cu președintele Nicușor Dan și cu premierul Luca Niculescu, în cadrul unei deplasări în regiunea Mării Negre. Programul continuă în Bulgaria, Turcia și Irlanda.",
-    "content_ro": "• **Luni, 9 noiembrie**, Ursula von der Leyen ajunge la București în cadrul unei vizite în regiunea Mării Negre. Pe agenda președintei Comisiei Europene sunt prevăzute întrevederi cu președintele României, Nicușor Dan, și cu prim-ministrul Luca Niculescu.\n\n• **Întrevederea de la Palatul Cotroceni este programată la ora 15:30**, potrivit programului publicat de Administrația Prezidențială. Astfel, etapa din România a deplasării se desfășoară în capitală.\n\n• **Marți, 10 noiembrie**, von der Leyen se va deplasa la Varna, în Bulgaria. Acolo va avea o întâlnire cu premierul Rumen Radev și va vizita Academia Navală „Nikola Vaptsarov”. Miercuri, la Antalya, în Turcia, va participa la conferința ONU privind schimbările climatice COP31.\n\n• **În 12 și 13 noiembrie**, șefa Comisiei Europene va fi la Dublin. Joi este programată participarea sa la reuniunea Comunității Politice Europene, iar vineri la întâlnirea informală a Consiliului European. Aceste etape urmează vizitei din zona Mării Negre.\n\n• **Securitatea maritimă din regiune** constituie un element de context al deplasării. În octombrie, nouă nave comerciale au fost lovite în apropierea coastelor României și Bulgariei, iar aproximativ 34 de marinari au fost declarați morți sau dispăruți. În aceeași perioadă, NATO și-a intensificat misiunile de supraveghere deasupra Mării Negre.",
-    "importance_score": 93.0
   },
   {
     "group_id": "group_733e8edafe",
