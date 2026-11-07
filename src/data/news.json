@@ -711,7 +711,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 12,
+    "sources_count": 13,
     "sources": [
       {
         "source": "Transtelex",
@@ -772,6 +772,11 @@
         "source": "Maszol",
         "title": "A cernavodai atomerőműbe látogat a miniszterelnök, miután újraindították az egyik reaktort",
         "link": "https://maszol.ro/belfold/A-cernavodai-atomeromube-latogatott-a-miniszterelnok-miutan-ujrainditottak-az-egyik-reaktort"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Premierul și ministrul Energiei - vizită la Centrala Nuclearoelectrică Cernavodă",
+        "link": "https://agerpres.ro/politic/2026/11/07/premierul-si-ministrul-energiei---vizita-la-centrala-nuclearoelectrica-cernavoda--1611002"
       }
     ],
     "published_at": 1794036626,
@@ -781,7 +786,7 @@
     "title_ro": "Unitatea 1 de la Cernavodă își reia treptat producția",
     "lead_ro": "Pe 6 noiembrie, după o oprire de peste trei luni, reactorul 1 de la centrala din Cernavodă a început din nou să livreze energie în rețeaua României. Puterea unității, de aproximativ 700 MW, crește etapizat, în timp ce repornirea reactorului 2 depinde în continuare de o creștere susținută a nivelului Dunării.",
     "content_ro": "• **Producția de electricitate a fost reluată pe 6 noiembrie:** datele Transelectrica arătau că reactorul 1 furniza 42 MW la ora 16:27, în condițiile unei producții naționale de 5.651 MW. La 18:21, contribuția nucleară ajunsese la 191 MW, iar producția totală a României era de 6.252 MW.\n\n• **Reactorul revine gradual la puterea normală:** în dimineața de 7 noiembrie, centrala livra 272 MW, iar atingerea regimului obișnuit, de circa 700 MW, era estimată pentru seara aceleiași zile, în jurul orei 19:00. La capacitate maximă, unitatea ar putea acoperi aproximativ 8–11% din consumul instantaneu al țării, echivalentul alimentării a circa 1,5–2 milioane de gospodării.\n\n• **Reluarea funcționării a fost precedată de verificări de siguranță:** specialiștii CNCAN au confirmat îndeplinirea cerințelor necesare ieșirii din starea de oprire garantată. Nuclearelectrica a precizat că procedurile nu au pus în pericol securitatea nucleară, angajații sau populația.\n\n• **Debitul redus al Dunării a provocat oprirea din timpul verii:** reactorul 1 a fost deconectat la 28 iulie, iar reactorul 2 la 13 august. La Baziaș, pe 4 noiembrie, debitul era de aproximativ 1.700 de metri cubi pe secundă, față de media multianuală din noiembrie, de 4.700. Repornirea celei de-a doua unități va fi luată în calcul numai dacă nivelul apei crește și se menține.\n\n• **Operatorul caută soluții pentru a limita efectele unor episoade similare:** directorul general Mihai Gioară a anunțat că Nuclearelectrica și autoritățile lucrează la măsuri pe termen scurt și lung pentru a îmbunătăți disponibilitatea echipamentelor. Premierul Luca Niculescu și ministrul Energiei, Dumitru Chisăliță, au vizitat centrala pe 7 noiembrie și au discutat despre exploatare și investiții strategice. Cele două unități, fiecare cu o capacitate de 700 MW, asigură împreună în mod normal circa 20% din producția de electricitate a României.",
-    "importance_score": 135.0
+    "importance_score": 145.0
   },
   {
     "group_id": "group_8449c601e1",
@@ -986,65 +991,6 @@
     "importance_score": 98.0
   },
   {
-    "group_id": "group_28b1ac46d6",
-    "fingerprint": "db9d2ef6d6e86ed87fc20a5574a804a4",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Cum a ajuns drapelul României să fie folosit la cărat gunoi într-o comună din Suceava. Mesajul primarului",
-        "link": "https://www.digi24.ro/stiri/cum-a-ajuns-drapelul-romaniei-sa-fie-folosit-la-carat-gunoi-intr-o-comuna-din-suceava-mesajul-primarului-4024397"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Drapelul României, folosit pe post de sac de gunoi în curtea unei primării din Suceava. Reacția primarului AUR",
-        "link": "https://stirileprotv.ro/divers/drapelul-romaniei-folosit-pe-post-de-sac-de-gunoi-in-curtea-unei-primarii-din-suceava-reactia-primarului-aur.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "A román trikolórba gyűjtötték a szemetet – Felháborodást váltott ki az incidens",
-        "link": "https://maszol.ro/belfold/A-roman-trikolorba-gyujtottek-a-szemetet-Felhaborodast-valtott-ki-az-incidens"
-      },
-      {
-        "source": "Digi24",
-        "title": "Poliția s-a autosesizat în cazul steagului folosit pentru a căra gunoiul. Cei din comuna condusă de un primar AUR riscă amenzi uriașe",
-        "link": "https://www.digi24.ro/stiri/actualitate/politia-s-a-autosesizat-in-cazul-steagului-folosit-pentru-a-cara-gunoiul-cei-din-comuna-condusa-de-un-primar-aur-risca-amenzi-uriase-4024493"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Drapelul României, folosit pe post de sac de gunoi. Poliția verifică imaginile. Ce riscă cei implicați",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/drapelul-romaniei-folosit-pe-post-de-sac-de-2569498.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce amendă riscă cei 4 localnici care au folosit drapelul României pe post de sac de gunoi în curtea unei primării din Suceava",
-        "link": "https://stirileprotv.ro/stiri/actualitate/ce-amenda-risca-cei-4-localnici-care-au-folosit-drapelul-romaniei-pe-post-de-sac-de-gunoi-in-curtea-unei-primarii-din-suceava.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Scandal. Lucrătorii unei primării din Suceava au cărat gunoi cu drapelul românesc",
-        "link": "https://www.mediafax.ro/social/scandal-lucratorii-unei-primarii-din-suceava-au-carat-gunoi-cu-drapelul-romanesc-23838578"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Lucrătorii unei primării din Suceava au cărat gunoi cu drapelul românesc. Ce spune primarul AUR",
-        "link": "https://www.mediafax.ro/social/lucratorii-unei-primarii-din-suceava-au-carat-gunoi-cu-drapelul-romanesc-ce-spune-primarul-aur-23838578"
-      }
-    ],
-    "published_at": 1794031842,
-    "title_hu": "Hatméteres román zászlóval szállítottak növényi hulladékot Bosanciban",
-    "lead_hu": "A Suceava megyei Bosanci községházájának udvarán négy, szociális támogatásban részesülő ember egy hatméteres román zászlóval vitt növényi maradványokat. A rendőrség vizsgálja az esetet; a jogszabályok alapján 10–20 ezer lejes bírság is kiszabható.",
-    "content_hu": "• **A bosanci községháza udvarán** készült, közösségi oldalakon terjedő fénykép négy embert mutat, akik egy román zászlóval gyűjtötték és szállították el a növényi hulladékot. A felvétel bírálatokat váltott ki.\n\n• **A takarításban részt vevők** szociális támogatásban részesültek, és közösségi munkát végeztek. A beszámolók szerint a hatméteres lobogót azért használták, hogy gyorsabban végezzenek, noha munkaeszközök is rendelkezésükre álltak.\n\n• **Neculai Miron polgármester**, az AUR politikusa bocsánatot kért az eset miatt. Elmondása szerint a december 1-jei ünnepség előkészületekor a régi zászlókat lecserélték; a használaton kívüli darabokat textilgyűjtőbe tették, ahonnan az egyik lobogót később elvitték. A cseréről a község alpolgármestere intézkedett.\n\n• **A rendőrség hivatalból vizsgálódik** a felvételek megjelenése óta. Azt ellenőrzik, történt-e jogsértés az 1994. évi 75. törvény 20. cikke alapján, figyelembe véve a szabályozást módosító 2024. évi 12. törvényt is.\n\n• **A kiszabható bírság 10–20 ezer lej** lehet. Ionuț Epureanu, a Suceava megyei rendőrség szóvivője megerősítette az ellenőrzést; annak lezárásáról vagy esetleges szankcióról egyelőre nem ismertettek eredményt.",
-    "title_ro": "Resturi vegetale transportate cu un drapel de șase metri în comuna Bosanci",
-    "lead_ro": "În curtea Primăriei Bosanci, județul Suceava, patru persoane care beneficiază de ajutor social au folosit un drapel al României, lung de șase metri, pentru a transporta resturi vegetale. Poliția verifică împrejurările, iar legislația prevede amenzi între 10.000 și 20.000 de lei.",
-    "content_ro": "• **În curtea Primăriei Bosanci** a fost fotografiat un grup de patru persoane care adunau și transportau resturi vegetale cu ajutorul unui drapel românesc. Imaginea distribuită pe rețelele sociale a atras numeroase critici.\n\n• **Persoanele implicate** beneficiază de ajutor social și prestau muncă în folosul comunității. Relatările presei arată că au folosit steagul de șase metri pentru a încheia mai repede curățenia, deși aveau la dispoziție și unelte.\n\n• **Primarul Neculai Miron**, membru AUR, și-a cerut scuze pentru incident. Potrivit explicației sale, drapelele vechi au fost schimbate în pregătirea manifestărilor de 1 Decembrie și duse la un punct de colectare a textilelor; unul dintre ele ar fi fost luat ulterior de acolo. Înlocuirea drapelelor fusese dispusă de viceprimarul localității.\n\n• **Poliția a început verificări din oficiu** după apariția imaginilor. Autoritățile analizează dacă a fost încălcat articolul 20 din Legea 75/1994, în forma modificată prin Legea 12/2024.\n\n• **Sancțiunea posibilă este de 10.000–20.000 de lei.** Ionuț Epureanu, purtătorul de cuvânt al Poliției Județene Suceava, a confirmat efectuarea verificărilor. Până acum nu au fost anunțate concluziile anchetei sau aplicarea unei amenzi.",
-    "importance_score": 95.0
-  },
-  {
     "group_id": "group_0ef9ec20e8",
     "fingerprint": "6d55773f28ed48b4b6c64ad96bdf5493",
     "category": "Általános",
@@ -1171,6 +1117,65 @@
     "lead_ro": "La 5 noiembrie 2026, ministrul Dezvoltării, Marcel-Alexandru Stoica, a semnat Ordinul nr. 1389, care explică aplicarea Legii nr. 169/2026. Închiderea ulterioară a unui balcon într-un bloc construit legal nu justifică, de una singură, dublarea impozitului pentru întregul apartament, iar termenul de prescripție pentru sancțiuni este de trei ani de la încheierea lucrărilor.",
     "content_ro": "• **La 5 noiembrie 2026**, Marcel-Alexandru Stoica a semnat Ordinul nr. 1389, cu instrucțiuni pentru aplicarea articolului 301 din Legea nr. 169/2026. Legea a intrat în vigoare în august, iar ordinul tratează situația balcoanelor închise fără autorizație, posibilitatea legalizării ulterioare și regulile de impozitare și sancționare.\n\n• **Închiderea unui balcon nu atrage automat dublarea impozitului** dacă blocul a fost construit legal. Instrucțiunile separă clădirile ridicate integral fără autorizație de intervențiile efectuate ulterior asupra unui imobil legal; o asemenea modificare punctuală nu schimbă statutul construcției inițiale.\n\n• **Majorarea cu 100% a impozitului pentru întregul apartament nu are temei în acest caz**, potrivit ordinului. Exemplul folosit compară o locuință de 70–80 de metri pătrați cu un balcon de 3–4 metri pătrați, pentru a evidenția caracterul disproporționat al dublării taxei; direcțiile locale nu pot aplica majorarea doar pentru existența balconului închis.\n\n• **Răspunderea contravențională se prescrie în trei ani**, termenul fiind calculat de la finalizarea lucrărilor fără autorizație. Prin urmare, conform precizărilor publicate despre ordin, pentru balcoanele închise cu mai mult de trei ani în urmă nu mai pot fi aplicate amenzi contravenționale.\n\n• **Legalizarea ulterioară poate fi cerută fără un termen-limită**, iar proprietarii nu sunt obligați să demareze imediat procedura. Ministrul a mai precizat că instrucțiunile nu impun automat taxe multiplicate sau cheltuieli obligatorii de ordinul miilor de lei pentru intrarea în legalitate.",
     "importance_score": 90.0
+  },
+  {
+    "group_id": "group_28b1ac46d6",
+    "fingerprint": "db9d2ef6d6e86ed87fc20a5574a804a4",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Cum a ajuns drapelul României să fie folosit la cărat gunoi într-o comună din Suceava. Mesajul primarului",
+        "link": "https://www.digi24.ro/stiri/cum-a-ajuns-drapelul-romaniei-sa-fie-folosit-la-carat-gunoi-intr-o-comuna-din-suceava-mesajul-primarului-4024397"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Drapelul României, folosit pe post de sac de gunoi în curtea unei primării din Suceava. Reacția primarului AUR",
+        "link": "https://stirileprotv.ro/divers/drapelul-romaniei-folosit-pe-post-de-sac-de-gunoi-in-curtea-unei-primarii-din-suceava-reactia-primarului-aur.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "A román trikolórba gyűjtötték a szemetet – Felháborodást váltott ki az incidens",
+        "link": "https://maszol.ro/belfold/A-roman-trikolorba-gyujtottek-a-szemetet-Felhaborodast-valtott-ki-az-incidens"
+      },
+      {
+        "source": "Digi24",
+        "title": "Poliția s-a autosesizat în cazul steagului folosit pentru a căra gunoiul. Cei din comuna condusă de un primar AUR riscă amenzi uriașe",
+        "link": "https://www.digi24.ro/stiri/actualitate/politia-s-a-autosesizat-in-cazul-steagului-folosit-pentru-a-cara-gunoiul-cei-din-comuna-condusa-de-un-primar-aur-risca-amenzi-uriase-4024493"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Drapelul României, folosit pe post de sac de gunoi. Poliția verifică imaginile. Ce riscă cei implicați",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/drapelul-romaniei-folosit-pe-post-de-sac-de-2569498.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ce amendă riscă cei 4 localnici care au folosit drapelul României pe post de sac de gunoi în curtea unei primării din Suceava",
+        "link": "https://stirileprotv.ro/stiri/actualitate/ce-amenda-risca-cei-4-localnici-care-au-folosit-drapelul-romaniei-pe-post-de-sac-de-gunoi-in-curtea-unei-primarii-din-suceava.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Scandal. Lucrătorii unei primării din Suceava au cărat gunoi cu drapelul românesc",
+        "link": "https://www.mediafax.ro/social/scandal-lucratorii-unei-primarii-din-suceava-au-carat-gunoi-cu-drapelul-romanesc-23838578"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Lucrătorii unei primării din Suceava au cărat gunoi cu drapelul românesc. Ce spune primarul AUR",
+        "link": "https://www.mediafax.ro/social/lucratorii-unei-primarii-din-suceava-au-carat-gunoi-cu-drapelul-romanesc-ce-spune-primarul-aur-23838578"
+      }
+    ],
+    "published_at": 1794031842,
+    "title_hu": "Hatméteres román zászlóval szállítottak növényi hulladékot Bosanciban",
+    "lead_hu": "A Suceava megyei Bosanci községházájának udvarán négy, szociális támogatásban részesülő ember egy hatméteres román zászlóval vitt növényi maradványokat. A rendőrség vizsgálja az esetet; a jogszabályok alapján 10–20 ezer lejes bírság is kiszabható.",
+    "content_hu": "• **A bosanci községháza udvarán** készült, közösségi oldalakon terjedő fénykép négy embert mutat, akik egy román zászlóval gyűjtötték és szállították el a növényi hulladékot. A felvétel bírálatokat váltott ki.\n\n• **A takarításban részt vevők** szociális támogatásban részesültek, és közösségi munkát végeztek. A beszámolók szerint a hatméteres lobogót azért használták, hogy gyorsabban végezzenek, noha munkaeszközök is rendelkezésükre álltak.\n\n• **Neculai Miron polgármester**, az AUR politikusa bocsánatot kért az eset miatt. Elmondása szerint a december 1-jei ünnepség előkészületekor a régi zászlókat lecserélték; a használaton kívüli darabokat textilgyűjtőbe tették, ahonnan az egyik lobogót később elvitték. A cseréről a község alpolgármestere intézkedett.\n\n• **A rendőrség hivatalból vizsgálódik** a felvételek megjelenése óta. Azt ellenőrzik, történt-e jogsértés az 1994. évi 75. törvény 20. cikke alapján, figyelembe véve a szabályozást módosító 2024. évi 12. törvényt is.\n\n• **A kiszabható bírság 10–20 ezer lej** lehet. Ionuț Epureanu, a Suceava megyei rendőrség szóvivője megerősítette az ellenőrzést; annak lezárásáról vagy esetleges szankcióról egyelőre nem ismertettek eredményt.",
+    "title_ro": "Resturi vegetale transportate cu un drapel de șase metri în comuna Bosanci",
+    "lead_ro": "În curtea Primăriei Bosanci, județul Suceava, patru persoane care beneficiază de ajutor social au folosit un drapel al României, lung de șase metri, pentru a transporta resturi vegetale. Poliția verifică împrejurările, iar legislația prevede amenzi între 10.000 și 20.000 de lei.",
+    "content_ro": "• **În curtea Primăriei Bosanci** a fost fotografiat un grup de patru persoane care adunau și transportau resturi vegetale cu ajutorul unui drapel românesc. Imaginea distribuită pe rețelele sociale a atras numeroase critici.\n\n• **Persoanele implicate** beneficiază de ajutor social și prestau muncă în folosul comunității. Relatările presei arată că au folosit steagul de șase metri pentru a încheia mai repede curățenia, deși aveau la dispoziție și unelte.\n\n• **Primarul Neculai Miron**, membru AUR, și-a cerut scuze pentru incident. Potrivit explicației sale, drapelele vechi au fost schimbate în pregătirea manifestărilor de 1 Decembrie și duse la un punct de colectare a textilelor; unul dintre ele ar fi fost luat ulterior de acolo. Înlocuirea drapelelor fusese dispusă de viceprimarul localității.\n\n• **Poliția a început verificări din oficiu** după apariția imaginilor. Autoritățile analizează dacă a fost încălcat articolul 20 din Legea 75/1994, în forma modificată prin Legea 12/2024.\n\n• **Sancțiunea posibilă este de 10.000–20.000 de lei.** Ionuț Epureanu, purtătorul de cuvânt al Poliției Județene Suceava, a confirmat efectuarea verificărilor. Până acum nu au fost anunțate concluziile anchetei sau aplicarea unei amenzi.",
+    "importance_score": 88.0
   },
   {
     "group_id": "group_5ad4ffddd5",
@@ -1551,50 +1556,6 @@
     "importance_score": 70.0
   },
   {
-    "group_id": "group_fa186f351a",
-    "fingerprint": "2079c670039c6a407ae5b91f7f6939bf",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Trei milioane de oameni nu își pot retrage banii din banca la care a fost acționar",
-        "link": "https://www.mediafax.ro/externe/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-trei-milioane-de-oameni-nu-isi-pot-retrage-banii-din-banca-la-care-a-fost-actionar-23839096"
-      },
-      {
-        "source": "G4Media",
-        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Jumătate din populația țării nu își poate retrage banii din banca la care a fost acționar",
-        "link": "https://www.g4media.ro/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-jumatate-din-populatia-tarii-nu-isi-poate-retrage-banii-din-banca-la-care-a-fost-actionar.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Președintele din Paraguay, destituit și arestat la domiciliu după ce 3.000.000 de oameni nu își pot retrage banii din conturi",
-        "link": "https://hotnews.ro/presedintele-din-paraguay-destituit-si-arestat-la-domiciliu-dupa-ce-3-000-000-de-oameni-nu-isi-pot-retrage-banii-din-conturi-2397408"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Țara care și-a arestat președintele după ce banca cu care avea legături și unde avea bani jumătate din populație s-a prăbușit",
-        "link": "https://stirileprotv.ro/stiri/international/tara-care-si-a-arestat-presedintele-dupa-ce-banca-cu-care-avea-legaturi-si-unde-avea-bani-jumatate-din-populatie-s-a-prabusit.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Paraguayul are un nou preşedinte, iar predecesorul său a fost arestat după patru zile de criză bancară. „Daţi-ne banii”",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/paraguayul-are-un-nou-presedinte-iar-predecesorul-sau-a-fost-arestat-dupa-patru-zile-de-criza-bancara-dati-ne-banii-4025927"
-      }
-    ],
-    "published_at": 1794039199,
-    "title_hu": "Pedro Alliana Paraguay új elnöke, Santiago Peñát házi őrizetbe helyezték",
-    "lead_hu": "A paraguayi szenátus nem fogadta el Santiago Peña lemondását, hanem lezárta az eltávolítási eljárást, és Pedro Allianát iktatta be államfőnek. Az Ueno Bank összeomlása miatt hárommillió ügyfél pénze vált hozzáférhetetlenné; Peñát és a jegybank korábbi vezetőjét is hatósági intézkedés érte.",
-    "content_hu": "• **Pénteken Pedro Alliana lépett hivatalba:** a szenátus az előző nap lemondását bejelentő Santiago Peña helyett a Colorado Párthoz tartozó alelnököt iktatta be. Az eltávolításról a kormánypárt több tagja is a saját párttársuk ellen szavazott.\n\n• **Peñát házi őrizetbe helyezték:** a volt elnöknek szombat reggel kellett volna megjelennie az ügyészségen. Lemondását egy videóüzenetben jelentette be, és bocsánatot kért a kialakult helyzetért; a tisztség elvesztésével az élethosszig járó szenátori helyét és mentességét is elveszítette.\n\n• **Az Ueno Bank csődje mintegy hárommillió ügyfelet érintett:** a 2021-ben alapított, gyorsan növekvő pénzintézet ügyfélköre a felnőtt lakosság körülbelül 60 százalékát tette ki. A bank közpénzeket és nyugdíjrendszeri forrásokat is kezelt; a jegybank átvette az irányítását és leállította a műveleteket, a kifizetések megkezdése ellenére sokan nem fértek hozzá teljes megtakarításukhoz.\n\n• **Peña és több tisztviselő ellen is felmerültek vádak:** a volt elnök 2025-ig birtokolt részesedést az Uenót ellenőrző Grupo Vázquezben. Bírálói összeférhetetlenséget, a bankfelügyelet befolyásolását, a nyugdíjforrások nem megfelelő kezelését és az ügy eltussolásában való részvételt rótták fel neki; Peña tagadta, hogy törvényt sértett volna.\n\n• **Carlos Carvallo ellen elfogatóparancsot adtak ki:** a jegybank korábbi elnöke, aki 2023-ig vezette az intézményt, lemondott tisztségéről. Peña belügyminisztere, kabinetfőnöke és két tanácsadója szintén távozott; a betétesek Asunciónban és más városokban is tüntettek a pénzükért.",
-    "title_ro": "Pedro Alliana este noul președinte al Paraguayului; Santiago Peña a fost plasat în arest la domiciliu",
-    "lead_ro": "Senatul paraguayan nu a acceptat demisia lui Santiago Peña, ci a încheiat procedura de destituire și l-a învestit pe Pedro Alliana în funcția de președinte. Prăbușirea Ueno Bank a blocat accesul a circa trei milioane de clienți la bani, iar autoritățile au luat măsuri și împotriva fostului șef al băncii centrale.",
-    "content_ro": "• **Vineri, Pedro Alliana a preluat funcția de președinte:** Senatul l-a învestit pe vicepreședintele din partidul Colorado, după ce Peña își anunțase demisia cu o zi înainte. Procedura de destituire a fost susținută inclusiv de membri ai partidului din care făcea parte președintele înlăturat.\n\n• **Santiago Peña a fost plasat în arest la domiciliu:** fostul șef al statului urma să se prezinte sâmbătă dimineața la procuratură. El și-a anunțat plecarea într-un mesaj video și și-a cerut scuze pentru situația creată; pierderea funcției i-a luat și dreptul la un loc permanent în Senat, precum și imunitatea asociată acestuia.\n\n• **Falimentul Ueno Bank a afectat aproximativ trei milioane de clienți:** instituția, înființată în 2021 și extinsă rapid, deservea circa 60% din populația adultă. Banca administra și fonduri publice, respectiv bani ai sistemului de pensii. Banca centrală a preluat controlul și a suspendat operațiunile; deși au început plățile către deponenți, mulți nu își puteau accesa integral economiile.\n\n• **Acuzațiile la adresa lui Peña au vizat legăturile sale cu banca:** el a deținut până în 2025 acțiuni în Grupo Vázquez, compania care controla Ueno. Criticii i-au imputat conflicte de interese, influențarea supravegherii bancare, gestionarea necorespunzătoare a fondurilor de pensii și implicarea într-o posibilă mușamalizare; Peña a negat încălcarea legii.\n\n• **Carlos Carvallo este vizat de un mandat de arestare:** fostul președinte al băncii centrale, care a condus instituția până în 2023, și-a dat demisia. Au plecat și ministrul de interne, șeful de cabinet al președinției și doi consilieri ai lui Peña. Deponenții au protestat în Asunción și în alte orașe, cerând acces la bani.",
-    "importance_score": 65.0
-  },
-  {
     "group_id": "group_6e5aafe4b1",
     "fingerprint": "5842efcd54eae7b11cda05d85ef185fe",
     "category": "Általános",
@@ -1636,6 +1597,50 @@
     "title_ro": "Ilse Aigner ar putea deveni prima femeie președinte a Germaniei",
     "lead_ro": "Politiciana CSU Ilse Aigner este luată în calcul pentru a-i succeda lui Frank-Walter Steinmeier. Conducerea CDU ar urma să-i confirme candidatura luni, iar aprobarea acesteia ar face foarte probabilă alegerea sa din 30 ianuarie.",
     "content_ro": "• **Ilse Aigner**, în vârstă de 61 de ani, conduce parlamentul landului Bavaria și este membră CSU. Potrivit unor surse apropiate CDU, ea ar putea deveni prima femeie care ocupă funcția de președinte federal; confirmarea candidaturii este așteptată la reuniunea de luni a conducerii partidului.\n\n• **Pe 30 ianuarie**, aproximativ 1.260 de membri ai corpului electoral vor desemna șeful statului. Acesta îi cuprinde pe parlamentarii din Bundestag și Bundesrat, precum și reprezentanți ai societății civile; validarea candidaturii lui Aigner ar face ca victoria ei să fie foarte probabilă.\n\n• **Frank-Walter Steinmeier** deține funcția prezidențială din 2017 și urmează să aibă un succesor. Deși rolul este în principal ceremonial, partidele de guvernare caută de regulă să susțină o persoană comună, capabilă să treacă dincolo de rivalitățile politice și să reprezinte reperele etice ale țării.\n\n• **Friedrich Merz** a spus luni că ar prefera o candidată laică, de centru, fără să indice un nume. Social-democrații, partenerii CDU/CSU în coaliția de guvernare, și-au exprimat în repetate rânduri susținerea pentru Aigner în ultimele săptămâni.\n\n• **Notorietatea lui Aigner** se sprijină atât pe activitatea sa în Bavaria, cât și pe experiența la nivel federal: în guvernul Angelei Merkel a fost ministră a agriculturii. Aparițiile sale la Oktoberfest în port tradițional bavarez au făcut-o recognoscibilă în land, iar aprecierea de care se bucură depășește electoratul CSU.",
+    "importance_score": 65.0
+  },
+  {
+    "group_id": "group_cc49b7c236",
+    "fingerprint": "1fa0463a3b3448dc17bfc5868b9cbbeb",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Atacurile Rusiei au provocat noi pene de curent în Ucraina. Șapte regiuni sunt afectate, iar situația este critică în zona Kievului",
+        "link": "https://www.mediafax.ro/externe/atacurile-rusiei-au-provocat-noi-pene-de-curent-in-ucraina-sapte-regiuni-sunt-afectate-iar-situatia-este-critica-in-zona-kievului-23838640"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Rusia a lansat un val de rachete balistice asupra Kievului. Două persoane au fost rănite, iar locuințe și o grădiniță, avariate",
+        "link": "https://stirileprotv.ro/stiri/international/rusia-a-lansat-un-val-de-rachete-balistice-asupra-kievului-doua-persoane-au-fost-ranite-iar-locuinte-si-o-gradinita-avariate.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Valuri de rachete balistice rusești au lovit Kievul: Podul de Nord a fost avariat, iar 5 persoane au fost rănite, printre care un copil",
+        "link": "https://www.digi24.ro/stiri/externe/valuri-de-rachete-balistice-rusesti-au-lovit-kievul-podul-de-nord-a-fost-avariat-iar-5-persoane-au-fost-ranite-printre-care-un-copil-4025857"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Atac cu rachete balistice asupra Kievului, la câteva ore după avertismentul lui Zelenski. Primarul Klitschko: „Situația e extrem de dificilă”",
+        "link": "https://hotnews.ro/atac-cu-rachete-balistice-asupra-kievului-la-cateva-ore-dupa-avertismentul-lui-zelenski-primarul-klitschko-situatia-e-extrem-de-dificila-2397421"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rusia lovește cu rachete infrastructura energetică și un pod din Kiev",
+        "link": "https://agerpres.ro/politic-extern/2026/11/07/rusia-loveste-cu-rachete-infrastructura-energetica-si-un-pod-din-kiev--1611031"
+      }
+    ],
+    "published_at": 1794034543,
+    "title_hu": "Rakétahullámok érték Kijevet, megsérült a főváros északi hídja",
+    "lead_hu": "November 6-ról 7-re virradó éjjel több rakétatámadás érte Kijevet, ahol későbbi jelentések szerint öt városi lakos és egy környékbeli ember sérült meg. A csapások az energiaellátást is súlyosan érintették, a Pivnicsnij hidat pedig lezárták.",
+    "content_hu": "• **November 6-ról 7-re virradó éjjel** több hullámban támadták rakétákkal Kijevet. Az első sorozatban legalább hat ballisztikus eszköz indult a főváros felé nem sokkal este 11 óra előtt; éjfél körül újra légiriadó volt, majd hajnali egy óra után újabb robbanásokról érkeztek hírek.\n\n• **A sérültek száma a későbbi jelentések szerint emelkedett:** Kijevben legalább öten sebesültek meg, köztük egy 14 éves lány, a környező régióban pedig egy további áldozatról számoltak be. Két embert kórházba szállítottak. A korábbi közlések még két sérültről szóltak.\n\n• **A Pivnicsnij, vagyis Északi híd megrongálódott**, ezért mindkét irányban leállították rajta a forgalmat. A Szolomjanszkij kerületben egy ötemeletes lakóházat rakétadarabok találtak el, egy másik épület ablakait a lökéshullám törte be; óvoda is károsodott, és tűz ütött ki egy nem lakóépületben.\n\n• **Az energiaellátásban hét régióban keletkeztek zavarok:** Vinnyica, Dnyipropetrovszk, Zsitomir, Zaporizzsja, Kijev, Harkiv és Csernyihiv térségében. Artem Nekrasov energiaügyi miniszterhelyettes szerint a főváros környékén a legsúlyosabb a helyzet, ezért továbbra is korlátozni kell az áramfogyasztást.\n\n• **Kijevben az áramkimaradások a fűtést és a vízellátást is nehezítik.** A javítóbrigádok az energetikai infrastruktúrában keletkezett károk helyreállításán dolgoznak, miközben Vitalij Klicsko arra kérte a lakosokat, hogy maradjanak az óvóhelyeken. Volodimir Zelenszkij a támadás előtt az energetikai létesítmények, a Dnyeper hídjai és a polgári infrastruktúra elleni újabb csapások veszélyére figyelmeztetett, és Patriot-elfogórakéták gyorsabb szállítását sürgette.",
+    "title_ro": "Valuri de rachete au lovit Kievul, iar podul de nord a fost avariat",
+    "lead_ro": "În noaptea de 6 spre 7 noiembrie, Kievul a fost vizat de mai multe atacuri cu rachete; bilanțurile ulterioare indică cinci răniți în oraș și încă unul în regiunea din jur. Alimentarea cu energie a fost afectată, iar podul Pivnichnyi a fost închis circulației.",
+    "content_ro": "• **În noaptea de 6 spre 7 noiembrie**, Kievul a fost atacat cu rachete în mai multe reprize. Cu puțin înainte de ora 23:00, autoritățile au semnalat cel puțin șase rachete balistice îndreptate spre capitală. O nouă alertă a fost emisă în apropierea miezului nopții, iar după ora 01:00 au fost raportate alte explozii.\n\n• **Bilanțul victimelor a crescut în relatările ulterioare:** cel puțin cinci persoane au fost rănite în Kiev, inclusiv o fată de 14 ani, iar o altă victimă a fost raportată în regiunea învecinată. Două persoane au ajuns la spital. Primele informații anunțaseră două persoane rănite în capitală.\n\n• **Podul Pivnichnyi, cunoscut și ca Podul de Nord, a fost avariat**, iar circulația a fost oprită pe ambele sensuri. În cartierul Solomianski, fragmente de rachetă au lovit o clădire rezidențială cu cinci etaje, iar suflul exploziei a spart geamurile unui imobil apropiat. Au fost avariate și o grădiniță și o clădire nerezidențială, unde a izbucnit un incendiu.\n\n• **Probleme de alimentare cu energie au fost semnalate în șapte regiuni:** Vinnița, Dnipropetrovsk, Jitomir, Zaporojie, Kiev, Harkiv și Cernihiv. Artem Nekrasov, adjunct al ministrului Energiei, a spus că situația este cea mai dificilă în zona capitalei, unde restricțiile de consum electric rămân în vigoare.\n\n• **În Kiev, întreruperile de curent afectează și încălzirea, precum și furnizarea apei.** Echipele tehnice lucrează la remedierea avariilor din rețeaua energetică, iar primarul Vitali Kliciko le-a cerut locuitorilor să rămână în adăposturi. Înaintea atacurilor, Volodimir Zelenski avertizase asupra unor posibile lovituri asupra instalațiilor energetice, podurilor peste Nipru și infrastructurii civile și ceruse livrarea mai rapidă a interceptoarelor pentru sistemele Patriot.",
     "importance_score": 65.0
   },
   {
@@ -1864,45 +1869,6 @@
     "importance_score": 58.0
   },
   {
-    "group_id": "group_cc49b7c236",
-    "fingerprint": "1fa0463a3b3448dc17bfc5868b9cbbeb",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Atacurile Rusiei au provocat noi pene de curent în Ucraina. Șapte regiuni sunt afectate, iar situația este critică în zona Kievului",
-        "link": "https://www.mediafax.ro/externe/atacurile-rusiei-au-provocat-noi-pene-de-curent-in-ucraina-sapte-regiuni-sunt-afectate-iar-situatia-este-critica-in-zona-kievului-23838640"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Rusia a lansat un val de rachete balistice asupra Kievului. Două persoane au fost rănite, iar locuințe și o grădiniță, avariate",
-        "link": "https://stirileprotv.ro/stiri/international/rusia-a-lansat-un-val-de-rachete-balistice-asupra-kievului-doua-persoane-au-fost-ranite-iar-locuinte-si-o-gradinita-avariate.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Valuri de rachete balistice rusești au lovit Kievul: Podul de Nord a fost avariat, iar 5 persoane au fost rănite, printre care un copil",
-        "link": "https://www.digi24.ro/stiri/externe/valuri-de-rachete-balistice-rusesti-au-lovit-kievul-podul-de-nord-a-fost-avariat-iar-5-persoane-au-fost-ranite-printre-care-un-copil-4025857"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Atac cu rachete balistice asupra Kievului, la câteva ore după avertismentul lui Zelenski. Primarul Klitschko: „Situația e extrem de dificilă”",
-        "link": "https://hotnews.ro/atac-cu-rachete-balistice-asupra-kievului-la-cateva-ore-dupa-avertismentul-lui-zelenski-primarul-klitschko-situatia-e-extrem-de-dificila-2397421"
-      }
-    ],
-    "published_at": 1794034543,
-    "title_hu": "Rakétahullámok érték Kijevet, megsérült a főváros északi hídja",
-    "lead_hu": "November 6-ról 7-re virradó éjjel több rakétatámadás érte Kijevet, ahol későbbi jelentések szerint öt városi lakos és egy környékbeli ember sérült meg. A csapások az energiaellátást is súlyosan érintették, a Pivnicsnij hidat pedig lezárták.",
-    "content_hu": "• **November 6-ról 7-re virradó éjjel** több hullámban támadták rakétákkal Kijevet. Az első sorozatban legalább hat ballisztikus eszköz indult a főváros felé nem sokkal este 11 óra előtt; éjfél körül újra légiriadó volt, majd hajnali egy óra után újabb robbanásokról érkeztek hírek.\n\n• **A sérültek száma a későbbi jelentések szerint emelkedett:** Kijevben legalább öten sebesültek meg, köztük egy 14 éves lány, a környező régióban pedig egy további áldozatról számoltak be. Két embert kórházba szállítottak. A korábbi közlések még két sérültről szóltak.\n\n• **A Pivnicsnij, vagyis Északi híd megrongálódott**, ezért mindkét irányban leállították rajta a forgalmat. A Szolomjanszkij kerületben egy ötemeletes lakóházat rakétadarabok találtak el, egy másik épület ablakait a lökéshullám törte be; óvoda is károsodott, és tűz ütött ki egy nem lakóépületben.\n\n• **Az energiaellátásban hét régióban keletkeztek zavarok:** Vinnyica, Dnyipropetrovszk, Zsitomir, Zaporizzsja, Kijev, Harkiv és Csernyihiv térségében. Artem Nekrasov energiaügyi miniszterhelyettes szerint a főváros környékén a legsúlyosabb a helyzet, ezért továbbra is korlátozni kell az áramfogyasztást.\n\n• **Kijevben az áramkimaradások a fűtést és a vízellátást is nehezítik.** A javítóbrigádok az energetikai infrastruktúrában keletkezett károk helyreállításán dolgoznak, miközben Vitalij Klicsko arra kérte a lakosokat, hogy maradjanak az óvóhelyeken. Volodimir Zelenszkij a támadás előtt az energetikai létesítmények, a Dnyeper hídjai és a polgári infrastruktúra elleni újabb csapások veszélyére figyelmeztetett, és Patriot-elfogórakéták gyorsabb szállítását sürgette.",
-    "title_ro": "Valuri de rachete au lovit Kievul, iar podul de nord a fost avariat",
-    "lead_ro": "În noaptea de 6 spre 7 noiembrie, Kievul a fost vizat de mai multe atacuri cu rachete; bilanțurile ulterioare indică cinci răniți în oraș și încă unul în regiunea din jur. Alimentarea cu energie a fost afectată, iar podul Pivnichnyi a fost închis circulației.",
-    "content_ro": "• **În noaptea de 6 spre 7 noiembrie**, Kievul a fost atacat cu rachete în mai multe reprize. Cu puțin înainte de ora 23:00, autoritățile au semnalat cel puțin șase rachete balistice îndreptate spre capitală. O nouă alertă a fost emisă în apropierea miezului nopții, iar după ora 01:00 au fost raportate alte explozii.\n\n• **Bilanțul victimelor a crescut în relatările ulterioare:** cel puțin cinci persoane au fost rănite în Kiev, inclusiv o fată de 14 ani, iar o altă victimă a fost raportată în regiunea învecinată. Două persoane au ajuns la spital. Primele informații anunțaseră două persoane rănite în capitală.\n\n• **Podul Pivnichnyi, cunoscut și ca Podul de Nord, a fost avariat**, iar circulația a fost oprită pe ambele sensuri. În cartierul Solomianski, fragmente de rachetă au lovit o clădire rezidențială cu cinci etaje, iar suflul exploziei a spart geamurile unui imobil apropiat. Au fost avariate și o grădiniță și o clădire nerezidențială, unde a izbucnit un incendiu.\n\n• **Probleme de alimentare cu energie au fost semnalate în șapte regiuni:** Vinnița, Dnipropetrovsk, Jitomir, Zaporojie, Kiev, Harkiv și Cernihiv. Artem Nekrasov, adjunct al ministrului Energiei, a spus că situația este cea mai dificilă în zona capitalei, unde restricțiile de consum electric rămân în vigoare.\n\n• **În Kiev, întreruperile de curent afectează și încălzirea, precum și furnizarea apei.** Echipele tehnice lucrează la remedierea avariilor din rețeaua energetică, iar primarul Vitali Kliciko le-a cerut locuitorilor să rămână în adăposturi. Înaintea atacurilor, Volodimir Zelenski avertizase asupra unor posibile lovituri asupra instalațiilor energetice, podurilor peste Nipru și infrastructurii civile și ceruse livrarea mai rapidă a interceptoarelor pentru sistemele Patriot.",
-    "importance_score": 55.0
-  },
-  {
     "group_id": "group_d4be551dc4",
     "fingerprint": "7df3620528420a599d35e06c0fedec55",
     "category": "Politika",
@@ -2069,50 +2035,6 @@
     "importance_score": 53.0
   },
   {
-    "group_id": "group_733e8edafe",
-    "fingerprint": "cfb7bfbe7379e9cf31627bef82b0e8d3",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Spania și Țările de Jos se luptă pentru conducerea BCE. Cine sunt cei doi candidați la succesiunea Christinei Lagarde",
-        "link": "https://www.mediafax.ro/externe/spania-si-tarile-de-jos-se-lupta-pentru-conducerea-bce-cine-sunt-cei-doi-candidati-la-succesiunea-christinei-lagarde-23838943"
-      },
-      {
-        "source": "G4Media",
-        "title": "Spania și Țările de Jos se luptă pentru președinția Băncii Centrale Europene / Pablo Hernández de Cos și Klaas Knot, în cursa pentru președinție după plecarea Christinei Lagarde",
-        "link": "https://www.g4media.ro/spania-si-tarile-de-jos-se-lupta-pentru-presedintia-bancii-centrale-europene-pablo-hernandez-de-cos-si-klaas-knot-in-cursa-pentru-presedintie-dupa-plecarea-christinei-lagarde.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Doi candidați pentru șefia Băncii Centrale Europene, după demisia lui Christine Lagarde",
-        "link": "https://hotnews.ro/doi-candidati-pentru-sefia-bancii-centrale-europene-dupa-demisia-lui-christine-lagarde-2397216"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Spania şi Olanda se confruntă pentru conducerea BCE, după plecarea Christinei Lagarde",
-        "link": "https://stirileprotv.ro/stiri/international/spania-si-olanda-se-confrunta-pentru-conducerea-bce-dupa-plecarea-christinei-lagarde.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Spania şi Olanda se confruntă pentru conducerea BCE, după plecarea Christinei Lagarde",
-        "link": "https://www.digi24.ro/stiri/externe/spania-si-olanda-se-confrunta-pentru-conducerea-bce-dupa-plecarea-christinei-lagarde-4025765"
-      }
-    ],
-    "published_at": 1793999740,
-    "title_hu": "Két jelölt verseng az EKB elnöki posztjáért, a vezetői helyekről is alkudoznak",
-    "lead_hu": "Spanyolország Pablo Hernández de Cost, Hollandia Klaas Knot jelölte Christine Lagarde utódjának. A pályázatokat pénteken, közép-európai idő szerint 17 óráig nyújtották be; az elnökválasztás a négy nagy tagállam szélesebb egyeztetéseibe illeszkedik.",
-    "content_hu": "• **A jelöltek és a határidő** Pablo Hernández de Cos, a Nemzetközi Fizetések Bankjának vezetője és a spanyol jegybank korábbi elnöke, valamint Klaas Knot, a holland jegybank volt elnöke pályázik Christine Lagarde utódjának. Pénteken 17 óráig, közép-európai idő szerint más jelölés nem érkezett.\n\n• **A november 9-i egyeztetés** Az Eurogroup pénzügyminiszterei a brüsszeli találkozón áttekintik a két pályázatot. A zárt ülésen a jelöltek nem vesznek részt, de hazájuk miniszterei támogathatják őket; a tisztség Lagarde 2027. február 7-én lejáró mandátuma után válik betölthetővé.\n\n• **Az EKB feladata és vezetése** A hatfős igazgatóság irányítja az intézmény munkáját, és gazdasági, valamint pénzügyi elemzésekre támaszkodva készíti elő a döntéseket. Az EKB az euróövezeti kamatokról határoz, és középtávon 2 százalékos inflációt céloz.\n\n• **Isabel Schnabel távozása** A német igazgatósági tag 2027. január 3-án hagyja el az EKB-t, egy évvel a tervezett időpont előtt. Január 4-től az IMF pénzügyi tanácsadójaként és a Monetáris és Tőkepiaci Főosztály igazgatójaként dolgozik; 55 éves, megüresedő helyére november 27-ig lehet jelöltet állítani.\n\n• **Philip Lane posztja és az alku** Az ír vezető közgazdász nyolcéves megbízatása 2027. május 31-én ér véget, Franciaország pedig érdeklődik a tisztség iránt. Németország, Franciaország, Spanyolország és Hollandia az EKB vezető testületében betöltött helyekről is egyeztet; a dublini informális uniós csúcson továbbléphetnek a tárgyalások.",
-    "title_ro": "Doi candidați pentru președinția BCE, în timp ce continuă negocierile pentru posturile de conducere",
-    "lead_ro": "Spania l-a nominalizat pe Pablo Hernández de Cos, iar Olanda pe Klaas Knot pentru a-i succeda Christinei Lagarde. Dosarele au fost depuse până vineri, la ora 17:00, ora Europei Centrale, iar alegerea se înscrie într-o negociere mai amplă între patru state privind conducerea BCE.",
-    "content_ro": "• **Candidații și termenul-limită** Pablo Hernández de Cos, directorul Băncii Reglementelor Internaționale și fost guvernator al băncii centrale spaniole, concurează cu Klaas Knot, fostul președinte al băncii centrale olandeze. Până vineri, la ora 17:00, ora Europei Centrale, nu a fost înregistrată o altă nominalizare.\n\n• **Reuniunea din 9 noiembrie** Miniștrii de Finanțe din zona euro vor analiza candidaturile la întâlnirea Eurogrupului de la Bruxelles. Candidații nu participă la discuția cu ușile închise, însă miniștrii din țările care i-au propus îi pot susține. Mandatul Christinei Lagarde se încheie la 7 februarie 2027.\n\n• **Rolul BCE** Comitetul executiv are șase membri și coordonează activitatea instituției, inclusiv pregătirea analizelor economice și financiare folosite la decizii. BCE stabilește dobânzile pentru zona euro și urmărește o inflație de 2% pe termen mediu.\n\n• **Plecarea Isabellei Schnabel** Reprezentanta Germaniei va părăsi BCE la 3 ianuarie 2027, cu un an înainte de termenul planificat. Din 4 ianuarie va lucra la FMI ca șefă a Departamentului pentru Piețe Monetare și de Capital și consilieră financiară. Schnabel are 55 de ani, iar candidaturile pentru locul eliberat pot fi depuse până la 27 noiembrie.\n\n• **Postul lui Philip Lane și negocierile** Mandatul de opt ani al economistului-șef irlandez se încheie la 31 mai 2027, iar Franța este interesată de funcție. Germania, Franța, Spania și Olanda discută și despre repartizarea locurilor de conducere; negocierile ar putea avansa la reuniunea informală a liderilor UE de la Dublin.",
-    "importance_score": 53.0
-  },
-  {
     "group_id": "group_0b2369a690",
     "fingerprint": "36d2edf5656c77a1ec52ca9f617d2c61",
     "category": "Általános",
@@ -2212,6 +2134,50 @@
     "title_ro": "Minel Prina poate fi eliberat condiționat în urma unei decizii definitive",
     "lead_ro": "Tribunalul Ilfov a admis contestația lui Minel Prina, fost primar al Slatinei, permițându-i să părăsească în regim condiționat penitenciarul Jilava. Acesta execută o pedeapsă de patru ani și șase luni, stabilită în dosarul de corupție al lui Darius Vâlcov.",
     "content_ro": "• **Hotărârea definitivă pronunțată vineri de Tribunalul Ilfov** a schimbat soluția de respingere dată în octombrie de Judecătoria Sectorului 4 București. Instanța a reanalizat cererea lui Prina și a aprobat eliberarea sa condiționată.\n\n• **Decizia contestată** a fost emisă la 7 octombrie 2026, în dosarul penal 32079/4/2026, sub numărul 3054. Tribunalul Ilfov a anulat această soluție înainte de a se pronunța asupra cererii în fond.\n\n• **Temeiul juridic indicat de instanță** cuprinde articolul 587 din Codul de procedură penală și articolul 59 din Codul Penal din 1969. Măsura privește mandatul în baza căruia Prina era deținut la Penitenciarul București Jilava.\n\n• **Pedeapsa lui Prina este de patru ani și șase luni de închisoare**, aplicată pentru trafic de influență și complicitate la spălare de bani. Dosarul este legat de ancheta de corupție a lui Darius Vâlcov, fost primar al Slatinei și fost ministru al Finanțelor, cunoscută și ca „Dosarul Tablourilor”.\n\n• **Sentința de condamnare a fost pronunțată la 17 septembrie 2024**, iar mandatul de executare a fost emis la 9 octombrie în același an. Documentele indică numărul 1117 pentru sentință și 2999 pentru mandat; Prina se află în detenție de la sfârșitul anului 2023.",
+    "importance_score": 50.0
+  },
+  {
+    "group_id": "group_733e8edafe",
+    "fingerprint": "cfb7bfbe7379e9cf31627bef82b0e8d3",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Spania și Țările de Jos se luptă pentru conducerea BCE. Cine sunt cei doi candidați la succesiunea Christinei Lagarde",
+        "link": "https://www.mediafax.ro/externe/spania-si-tarile-de-jos-se-lupta-pentru-conducerea-bce-cine-sunt-cei-doi-candidati-la-succesiunea-christinei-lagarde-23838943"
+      },
+      {
+        "source": "G4Media",
+        "title": "Spania și Țările de Jos se luptă pentru președinția Băncii Centrale Europene / Pablo Hernández de Cos și Klaas Knot, în cursa pentru președinție după plecarea Christinei Lagarde",
+        "link": "https://www.g4media.ro/spania-si-tarile-de-jos-se-lupta-pentru-presedintia-bancii-centrale-europene-pablo-hernandez-de-cos-si-klaas-knot-in-cursa-pentru-presedintie-dupa-plecarea-christinei-lagarde.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Doi candidați pentru șefia Băncii Centrale Europene, după demisia lui Christine Lagarde",
+        "link": "https://hotnews.ro/doi-candidati-pentru-sefia-bancii-centrale-europene-dupa-demisia-lui-christine-lagarde-2397216"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Spania şi Olanda se confruntă pentru conducerea BCE, după plecarea Christinei Lagarde",
+        "link": "https://stirileprotv.ro/stiri/international/spania-si-olanda-se-confrunta-pentru-conducerea-bce-dupa-plecarea-christinei-lagarde.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Spania şi Olanda se confruntă pentru conducerea BCE, după plecarea Christinei Lagarde",
+        "link": "https://www.digi24.ro/stiri/externe/spania-si-olanda-se-confrunta-pentru-conducerea-bce-dupa-plecarea-christinei-lagarde-4025765"
+      }
+    ],
+    "published_at": 1793999740,
+    "title_hu": "Két jelölt verseng az EKB elnöki posztjáért, a vezetői helyekről is alkudoznak",
+    "lead_hu": "Spanyolország Pablo Hernández de Cost, Hollandia Klaas Knot jelölte Christine Lagarde utódjának. A pályázatokat pénteken, közép-európai idő szerint 17 óráig nyújtották be; az elnökválasztás a négy nagy tagállam szélesebb egyeztetéseibe illeszkedik.",
+    "content_hu": "• **A jelöltek és a határidő** Pablo Hernández de Cos, a Nemzetközi Fizetések Bankjának vezetője és a spanyol jegybank korábbi elnöke, valamint Klaas Knot, a holland jegybank volt elnöke pályázik Christine Lagarde utódjának. Pénteken 17 óráig, közép-európai idő szerint más jelölés nem érkezett.\n\n• **A november 9-i egyeztetés** Az Eurogroup pénzügyminiszterei a brüsszeli találkozón áttekintik a két pályázatot. A zárt ülésen a jelöltek nem vesznek részt, de hazájuk miniszterei támogathatják őket; a tisztség Lagarde 2027. február 7-én lejáró mandátuma után válik betölthetővé.\n\n• **Az EKB feladata és vezetése** A hatfős igazgatóság irányítja az intézmény munkáját, és gazdasági, valamint pénzügyi elemzésekre támaszkodva készíti elő a döntéseket. Az EKB az euróövezeti kamatokról határoz, és középtávon 2 százalékos inflációt céloz.\n\n• **Isabel Schnabel távozása** A német igazgatósági tag 2027. január 3-án hagyja el az EKB-t, egy évvel a tervezett időpont előtt. Január 4-től az IMF pénzügyi tanácsadójaként és a Monetáris és Tőkepiaci Főosztály igazgatójaként dolgozik; 55 éves, megüresedő helyére november 27-ig lehet jelöltet állítani.\n\n• **Philip Lane posztja és az alku** Az ír vezető közgazdász nyolcéves megbízatása 2027. május 31-én ér véget, Franciaország pedig érdeklődik a tisztség iránt. Németország, Franciaország, Spanyolország és Hollandia az EKB vezető testületében betöltött helyekről is egyeztet; a dublini informális uniós csúcson továbbléphetnek a tárgyalások.",
+    "title_ro": "Doi candidați pentru președinția BCE, în timp ce continuă negocierile pentru posturile de conducere",
+    "lead_ro": "Spania l-a nominalizat pe Pablo Hernández de Cos, iar Olanda pe Klaas Knot pentru a-i succeda Christinei Lagarde. Dosarele au fost depuse până vineri, la ora 17:00, ora Europei Centrale, iar alegerea se înscrie într-o negociere mai amplă între patru state privind conducerea BCE.",
+    "content_ro": "• **Candidații și termenul-limită** Pablo Hernández de Cos, directorul Băncii Reglementelor Internaționale și fost guvernator al băncii centrale spaniole, concurează cu Klaas Knot, fostul președinte al băncii centrale olandeze. Până vineri, la ora 17:00, ora Europei Centrale, nu a fost înregistrată o altă nominalizare.\n\n• **Reuniunea din 9 noiembrie** Miniștrii de Finanțe din zona euro vor analiza candidaturile la întâlnirea Eurogrupului de la Bruxelles. Candidații nu participă la discuția cu ușile închise, însă miniștrii din țările care i-au propus îi pot susține. Mandatul Christinei Lagarde se încheie la 7 februarie 2027.\n\n• **Rolul BCE** Comitetul executiv are șase membri și coordonează activitatea instituției, inclusiv pregătirea analizelor economice și financiare folosite la decizii. BCE stabilește dobânzile pentru zona euro și urmărește o inflație de 2% pe termen mediu.\n\n• **Plecarea Isabellei Schnabel** Reprezentanta Germaniei va părăsi BCE la 3 ianuarie 2027, cu un an înainte de termenul planificat. Din 4 ianuarie va lucra la FMI ca șefă a Departamentului pentru Piețe Monetare și de Capital și consilieră financiară. Schnabel are 55 de ani, iar candidaturile pentru locul eliberat pot fi depuse până la 27 noiembrie.\n\n• **Postul lui Philip Lane și negocierile** Mandatul de opt ani al economistului-șef irlandez se încheie la 31 mai 2027, iar Franța este interesată de funcție. Germania, Franța, Spania și Olanda discută și despre repartizarea locurilor de conducere; negocierile ar putea avansa la reuniunea informală a liderilor UE de la Dublin.",
     "importance_score": 50.0
   },
   {
@@ -2608,6 +2574,33 @@
     "lead_ro": "Un avion de mici dimensiuni s-a prăbușit vineri după-amiază pe autostrada A2, la nord-est de Magdeburg, iar cele două persoane aflate la bord au murit. Primele verificări indică faptul că niciun vehicul de pe autostradă nu a fost implicat în accident.",
     "content_ro": "• **Vineri după-amiază, la nord-est de Magdeburg**, aeronava de mici dimensiuni a căzut pe autostrada A2. Un reprezentant al poliției a confirmat moartea celor două persoane care se aflau la bord.\n\n• **Accidentul s-a produs între orașul Burg și zona de servicii Krähenberge.** Potrivit constatărilor preliminare, traficul rutier nu a fost implicat, iar informațiile disponibile nu indică o coliziune cu vreun vehicul care circula pe autostradă.\n\n• **Avionul a luat foc după impact.** Imaginile de la fața locului au surprins pompieri intervenind asupra resturilor unei aeronave vopsite în roșu și alb. Epava se afla la aproximativ un kilometru de zona de servicii.\n\n• **La intervenție au participat echipe din mai multe localități apropiate.** Au fost mobilizate pompieri, ambulanțe, specialiști pentru sprijin psihosocial și conducătorul serviciului de pompieri al districtului. Circulația pe sensul către Hanovra a fost oprită pentru desfășurarea operațiunilor.\n\n• **A2 reprezintă o legătură importantă de transport între estul și vestul Germaniei.** Autostrada conectează regiunea metropolitană Berlin cu landul Renania de Nord-Westfalia, din vestul țării. Nu au fost comunicate informații despre durata restricțiilor de trafic.",
     "importance_score": 43.0
+  },
+  {
+    "group_id": "group_131de0eeba",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "PSD anunță rezultatele miniștrilor din ultima săptămână la guvernare. Noi loturi din A0 și relansarea Programul Rabla, pe listă",
+        "link": "https://www.mediafax.ro/stirile-zilei/psd-anunta-rezultatele-ministrilor-din-ultima-saptamana-la-guvernare-noi-loturi-din-a0-si-relansarea-programul-rabla-pe-lista-23839167"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "PSD prezintă bilanțul miniștrilor în ultima săptămână: ”Rezultate concrete pentru România!”. Toate erau programate de mult",
+        "link": "https://stirileprotv.ro/stiri/politic/psd-prezinta-bilantul-ministrilor-in-ultima-saptamana-rezultate-concrete-pentru-romania-toate-erau-programate-de-mult.html"
+      }
+    ],
+    "published_at": 1794040361,
+    "title_hu": "PSD anunță rezultatele miniștrilor din ultima săptămână la guvernare. Noi loturi din A0 și relansarea Programul Rabla, pe listă",
+    "lead_hu": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
+    "content_hu": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
+    "title_ro": "PSD anunță rezultatele miniștrilor din ultima săptămână la guvernare. Noi loturi din A0 și relansarea Programul Rabla, pe listă",
+    "lead_ro": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
+    "content_ro": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_9edeed73ce",
@@ -3460,35 +3453,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_e04936b00d",
-    "fingerprint": "6caed1b7422c573fe434f3f7a6d8379d",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Építési engedélyt kapott a Drakula Park Erdélyben – 56 millió eurós beruházás indul Csíkszeredában, a Csíki Sör alapítójának részvételével",
-        "link": "https://www.pontmaros.ro/epitesi-engedelyt-kapott-a-drakula-park-erdelyben-56-millio-euros-beruhazas-indul-csikszeredaban-a-csiki-sor-alapitojanak-reszvetelevel/"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Építési engedélyt kapott a Csíkszereda mellett létesülő, 56 millió eurós Drakula Park",
-        "link": "https://www.mediatica.ro/hirek/aktualis/epitesi-engedelyt-kapott-a-csikszereda-mellett-letesulo-56-millio-euros-drakula-park"
-      }
-    ],
-    "published_at": 1794032094,
-    "title_hu": "Építési engedélyt kapott a 56 millió eurós csíkszeredai élménypark",
-    "lead_hu": "Engedélyezték a Drakula Park Transylvania megépítését a Csíkszereda melletti Zsögödfürdőn. A mintegy 30 hektáros, több ütemben tervezett magánberuházás első szakaszára 56 millió eurót szánnak.",
-    "content_hu": "• **Zsögödfürdőn kapott engedélyt** a Drakula Park Transylvania elnevezésű élménypark. A fejlesztést Csíkszereda közelében, hozzávetőleg 30 hektáron tervezik megvalósítani; a kivitelezés több szakaszban zajlana.\n\n• **Az első ütem becsült költsége 56 millió euró.** A projekt kezdeményezője Lénárd András, a Csíki Sör és a Csíki Csipsz alapítója. A beruházás magánforrásból valósulna meg, a közölt összeg az első fejlesztési szakaszra vonatkozik.\n\n• **A tervezett park Erdély történelmére és legendáira épít.** A koncepcióban tematikus kastélyok, román, székely és szász falurészek, valamint az oszmán korszakot megidéző elemek is szerepelnek. A tervek vidámparki attrakciókat, köztük hullámvasutakat és körhintákat, továbbá interaktív programokat is említenek.\n\n• **A fejlesztéshez nemzetközi szakemberek is kapcsolódnak.** A tervezésben az olasz Zamperla vállalat képviselőinek részvételéről számoltak be. A beruházók éves szinten mintegy 600 ezer látogatóval kalkulálnak, ez azonban előrejelzés, nem garantált adat.\n\n• **Az első szakaszban 200–260 idénymunkahely jöhet létre** a közölt becslés szerint. Korodi Attila polgármester arról beszélt, hogy a város a közlekedési kapcsolatok és az infrastruktúra fejlesztésével készülne a beruházásra.",
-    "title_ro": "Parcul tematic de 56 de milioane de euro de lângă Miercurea-Ciuc a primit autorizație",
-    "lead_ro": "Proiectul Dracula Park Transylvania a primit autorizația de construire pentru amplasamentul din zona Băilor Jigodin, în apropiere de Miercurea-Ciuc. Investiția privată, planificată pe aproximativ 30 de hectare și în mai multe etape, are un buget estimat de 56 de milioane de euro pentru prima fază.",
-    "content_ro": "• **Autorizația vizează amplasamentul din zona Băilor Jigodin.** Parcul tematic Dracula Park Transylvania urmează să fie amenajat lângă Miercurea-Ciuc, pe o suprafață de aproximativ 30 de hectare. Dezvoltarea este prevăzută să se desfășoare în mai multe etape.\n\n• **Prima fază este evaluată la 56 de milioane de euro.** Inițiatorul proiectului este omul de afaceri Lénárd András, fondator al producătorilor Csíki Sör și Csíki Csipsz. Investiția este privată, iar suma anunțată se referă la etapa inițială.\n\n• **Conceptul propus combină istoria și legendele Transilvaniei.** Planurile includ castele tematice, zone inspirate de comunitățile românești, secuiești și săsești, precum și decoruri care evocă perioada otomană. Sunt prevăzute atracții de parc de distracții, între care montagne russe și carusele, alături de activități interactive.\n\n• **La proiectare ar urma să contribuie și specialiști internaționali.** A fost menționată participarea unor reprezentanți ai companiei italiene Zamperla. Dezvoltatorii estimează că parcul ar putea primi circa 600.000 de vizitatori anual; cifra este o prognoză, nu un rezultat garantat.\n\n• **Prima etapă ar putea genera 200–260 de locuri de muncă sezoniere**, potrivit estimării făcute publice. Primarul Korodi Attila a declarat că administrația locală intenționează să pregătească investiția prin îmbunătățirea legăturilor de transport și a infrastructurii.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_c0d6ecb182",
     "fingerprint": "4af49d2544d65d9058d83f668b9e1f4a",
     "category": "Általános",
@@ -4230,6 +4194,35 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_e04936b00d",
+    "fingerprint": "6caed1b7422c573fe434f3f7a6d8379d",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Pontmaros",
+        "title": "Építési engedélyt kapott a Drakula Park Erdélyben – 56 millió eurós beruházás indul Csíkszeredában, a Csíki Sör alapítójának részvételével",
+        "link": "https://www.pontmaros.ro/epitesi-engedelyt-kapott-a-drakula-park-erdelyben-56-millio-euros-beruhazas-indul-csikszeredaban-a-csiki-sor-alapitojanak-reszvetelevel/"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Építési engedélyt kapott a Csíkszereda mellett létesülő, 56 millió eurós Drakula Park",
+        "link": "https://www.mediatica.ro/hirek/aktualis/epitesi-engedelyt-kapott-a-csikszereda-mellett-letesulo-56-millio-euros-drakula-park"
+      }
+    ],
+    "published_at": 1794032094,
+    "title_hu": "Építési engedélyt kapott a 56 millió eurós csíkszeredai élménypark",
+    "lead_hu": "Engedélyezték a Drakula Park Transylvania megépítését a Csíkszereda melletti Zsögödfürdőn. A mintegy 30 hektáros, több ütemben tervezett magánberuházás első szakaszára 56 millió eurót szánnak.",
+    "content_hu": "• **Zsögödfürdőn kapott engedélyt** a Drakula Park Transylvania elnevezésű élménypark. A fejlesztést Csíkszereda közelében, hozzávetőleg 30 hektáron tervezik megvalósítani; a kivitelezés több szakaszban zajlana.\n\n• **Az első ütem becsült költsége 56 millió euró.** A projekt kezdeményezője Lénárd András, a Csíki Sör és a Csíki Csipsz alapítója. A beruházás magánforrásból valósulna meg, a közölt összeg az első fejlesztési szakaszra vonatkozik.\n\n• **A tervezett park Erdély történelmére és legendáira épít.** A koncepcióban tematikus kastélyok, román, székely és szász falurészek, valamint az oszmán korszakot megidéző elemek is szerepelnek. A tervek vidámparki attrakciókat, köztük hullámvasutakat és körhintákat, továbbá interaktív programokat is említenek.\n\n• **A fejlesztéshez nemzetközi szakemberek is kapcsolódnak.** A tervezésben az olasz Zamperla vállalat képviselőinek részvételéről számoltak be. A beruházók éves szinten mintegy 600 ezer látogatóval kalkulálnak, ez azonban előrejelzés, nem garantált adat.\n\n• **Az első szakaszban 200–260 idénymunkahely jöhet létre** a közölt becslés szerint. Korodi Attila polgármester arról beszélt, hogy a város a közlekedési kapcsolatok és az infrastruktúra fejlesztésével készülne a beruházásra.",
+    "title_ro": "Parcul tematic de 56 de milioane de euro de lângă Miercurea-Ciuc a primit autorizație",
+    "lead_ro": "Proiectul Dracula Park Transylvania a primit autorizația de construire pentru amplasamentul din zona Băilor Jigodin, în apropiere de Miercurea-Ciuc. Investiția privată, planificată pe aproximativ 30 de hectare și în mai multe etape, are un buget estimat de 56 de milioane de euro pentru prima fază.",
+    "content_ro": "• **Autorizația vizează amplasamentul din zona Băilor Jigodin.** Parcul tematic Dracula Park Transylvania urmează să fie amenajat lângă Miercurea-Ciuc, pe o suprafață de aproximativ 30 de hectare. Dezvoltarea este prevăzută să se desfășoare în mai multe etape.\n\n• **Prima fază este evaluată la 56 de milioane de euro.** Inițiatorul proiectului este omul de afaceri Lénárd András, fondator al producătorilor Csíki Sör și Csíki Csipsz. Investiția este privată, iar suma anunțată se referă la etapa inițială.\n\n• **Conceptul propus combină istoria și legendele Transilvaniei.** Planurile includ castele tematice, zone inspirate de comunitățile românești, secuiești și săsești, precum și decoruri care evocă perioada otomană. Sunt prevăzute atracții de parc de distracții, între care montagne russe și carusele, alături de activități interactive.\n\n• **La proiectare ar urma să contribuie și specialiști internaționali.** A fost menționată participarea unor reprezentanți ai companiei italiene Zamperla. Dezvoltatorii estimează că parcul ar putea primi circa 600.000 de vizitatori anual; cifra este o prognoză, nu un rezultat garantat.\n\n• **Prima etapă ar putea genera 200–260 de locuri de muncă sezoniere**, potrivit estimării făcute publice. Primarul Korodi Attila a declarat că administrația locală intenționează să pregătească investiția prin îmbunătățirea legăturilor de transport și a infrastructurii.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_f49535141f",
     "category": "Általános",
     "is_synthesized": false,
@@ -4399,6 +4392,33 @@
     "title_ro": "Dorin Toma: România a început târziu demersurile pentru o prezență americană permanentă",
     "lead_ro": "Generalul în rezervă Dorin Toma afirmă că România trebuie să concureze cu alte state NATO pentru resurse militare americane. Avansul Poloniei, lipsa unui poligon adecvat și costurile suplimentare pot îngreuna stabilirea unei prezențe americane mai consistente și de durată.",
     "content_ro": "• **România a demarat târziu proiectul**, potrivit lui Dorin Toma, fost comandant al unei structuri NATO. Polonia a început inițiativa în 2020 și a accelerat-o după 2022, urmărind să găzduiască permanent o brigadă americană terestră, cu 4.000–5.000 de militari.\n\n• **O eventuală suplimentare a efectivelor americane** trebuie analizată și prin prisma capabilităților, nu doar a numărului de militari. Toma a explicat că un contingent de 4.000–5.000 de persoane ar putea reprezenta o brigadă blindată sau una aeropurtată, iar tipul unității ar influența cerințele de găzduire și operare.\n\n• **România nu dispune în prezent de un poligon** unde să poată fi instruită o brigadă întreagă. În consecință, militarii americani ar trebui să se deplaseze în Germania sau Polonia pentru exerciții, o limitare practică pentru desfășurarea lor pe teritoriul românesc.\n\n• **Costul anual al unei brigăzi poate depăși un miliard de dolari**, incluzând personalul și funcționarea unității. Amplasarea în afara Statelor Unite adaugă cheltuieli, iar România ar putea contribui prin acoperirea unor utilități sau prin facilități legate de achiziția de combustibil, hrană, apă și electricitate.\n\n• **În privința efectului alegerilor americane, Toma a recomandat prudență:** în opinia sa, orientarea strategică a Washingtonului privind NATO, securitatea europeană și sprijinul pentru Ucraina nu se va modifica radical. Congresul ar putea însă influența anumite decizii, iar securitatea României depinde și de capacitatea proprie, nu numai de aliați.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_4bb4ba39ab",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Dâmbovița: Explozie neurmată de incendiu într-un bloc din Târgoviște; o femeie rănită și locatari evacuați",
+        "link": "https://agerpres.ro/social/2026/11/07/dambovita-explozie-neurmata-de-incendiu-intr-un-bloc-din-targoviste-o-femeie-ranita-si-locatari-evac--1611018"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Explozie într-un bloc din Târgoviște: o femeie a ajuns la spital. Două persoane au fost evacuate de pompieri din imobil, iar alte șase s-au autoevacuat",
+        "link": "https://adevarul.ro/stiri-locale/targoviste/explozie-intr-un-bloc-din-targoviste-o-femeie-a-2569648.html"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Dâmbovița: Explozie neurmată de incendiu într-un bloc din Târgoviște; o femeie rănită și locatari evacuați",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Dâmbovița: Explozie neurmată de incendiu într-un bloc din Târgoviște; o femeie rănită și locatari evacuați",
+    "lead_ro": "",
+    "content_ro": "",
     "importance_score": 28.0
   },
   {
@@ -6006,6 +6026,138 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_fbe15a1705",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cum funcționează, de fapt, banii pentru pensie",
+        "link": "https://adevarul.ro/adevarul-juridic/cum-functioneaza-de-fapt-banii-pentru-pensie-2569401.html"
+      }
+    ],
+    "published_at": 1794042774,
+    "title_hu": "Cum funcționează, de fapt, banii pentru pensie",
+    "lead_hu": "După zeci de ani de muncă, ce primește un salariat în schimbul contribuțiilor pentru pensie?...",
+    "content_hu": "După zeci de ani de muncă, ce primește un salariat în schimbul contribuțiilor pentru pensie?",
+    "title_ro": "Cum funcționează, de fapt, banii pentru pensie",
+    "lead_ro": "După zeci de ani de muncă, ce primește un salariat în schimbul contribuțiilor pentru pensie?...",
+    "content_ro": "După zeci de ani de muncă, ce primește un salariat în schimbul contribuțiilor pentru pensie?",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_104632d31d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Au tăiat 200 kg de cetină de brad și s-au ales cu o amendă de 4.000 de lei. Practica este des întâlnită în perioada sărbătorilor de iarnă",
+        "link": "https://www.mediafax.ro/stirile-zilei/au-taiat-200-kg-de-cetina-de-brad-si-s-au-ales-cu-o-amenda-de-4-000-de-lei-practica-este-des-intalnita-in-perioada-sarbatorilor-de-iarna-23839190"
+      }
+    ],
+    "published_at": 1794042613,
+    "title_hu": "Au tăiat 200 kg de cetină de brad și s-au ales cu o amendă de 4.000 de lei. Practica este des întâlnită în perioada sărbătorilor de iarnă",
+    "lead_hu": "Două persoane au primit o amendă de 4.000 de lei după ce au tăiat 200 de kilograme de cetină de brad. Autoritățile precizează că, în perioada sărbătorilor de iarnă, astfel de situații sunt tot mai des...",
+    "content_hu": "Două persoane au primit o amendă de 4.000 de lei după ce au tăiat 200 de kilograme de cetină de brad. Autoritățile precizează că, în perioada sărbătorilor de iarnă, astfel de situații sunt tot mai des întâlnite.",
+    "title_ro": "Au tăiat 200 kg de cetină de brad și s-au ales cu o amendă de 4.000 de lei. Practica este des întâlnită în perioada sărbătorilor de iarnă",
+    "lead_ro": "Două persoane au primit o amendă de 4.000 de lei după ce au tăiat 200 de kilograme de cetină de brad. Autoritățile precizează că, în perioada sărbătorilor de iarnă, astfel de situații sunt tot mai des...",
+    "content_ro": "Două persoane au primit o amendă de 4.000 de lei după ce au tăiat 200 de kilograme de cetină de brad. Autoritățile precizează că, în perioada sărbătorilor de iarnă, astfel de situații sunt tot mai des întâlnite.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_3e744e745f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Suplimentele cu creatină ar putea îmbunătăți memoria și concentrarea? Ce spun oamenii de știință despre beneficiile pentru creier",
+        "link": "https://www.g4media.ro/suplimentele-cu-creatina-ar-putea-imbunatati-memoria-si-concentrarea-ce-spun-oamenii-de-stiinta-despre-beneficiile-pentru-creier.html"
+      }
+    ],
+    "published_at": 1794042607,
+    "title_hu": "Suplimentele cu creatină ar putea îmbunătăți memoria și concentrarea? Ce spun oamenii de știință despre beneficiile pentru creier",
+    "lead_hu": "Creatina este unul dintre cele mai studiate suplimente alimentare pentru dezvoltarea masei musculare și îmbunătățirea performanței fizice. În ultima perioadă, însă, tot mai multe persoane susțin, în s...",
+    "content_hu": "Creatina este unul dintre cele mai studiate suplimente alimentare pentru dezvoltarea masei musculare și îmbunătățirea performanței fizice. În ultima perioadă, însă, tot mai multe persoane susțin, în special pe rețelele sociale, că aceasta ar putea avea beneficii și asupra creierului, de la o memorie mai bună până la creșterea capacității de concentrare. Specialiștii spun că […] © G4Media.ro.",
+    "title_ro": "Suplimentele cu creatină ar putea îmbunătăți memoria și concentrarea? Ce spun oamenii de știință despre beneficiile pentru creier",
+    "lead_ro": "Creatina este unul dintre cele mai studiate suplimente alimentare pentru dezvoltarea masei musculare și îmbunătățirea performanței fizice. În ultima perioadă, însă, tot mai multe persoane susțin, în s...",
+    "content_ro": "Creatina este unul dintre cele mai studiate suplimente alimentare pentru dezvoltarea masei musculare și îmbunătățirea performanței fizice. În ultima perioadă, însă, tot mai multe persoane susțin, în special pe rețelele sociale, că aceasta ar putea avea beneficii și asupra creierului, de la o memorie mai bună până la creșterea capacității de concentrare. Specialiștii spun că […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_7b8b501c68",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Referendum în Rășinari pentru interzicerea exploatărilor miniere. Localnicii decid soarta unui proiect de peste 100 de milioane de euro",
+        "link": "https://adevarul.ro/stiri-locale/sibiu/referendum-in-rasinari-pentru-interzicerea-2569644.html"
+      }
+    ],
+    "published_at": 1794042564,
+    "title_hu": "Referendum în Rășinari pentru interzicerea exploatărilor miniere. Localnicii decid soarta unui proiect de peste 100 de milioane de euro",
+    "lead_hu": "Locuitorii comunei Rășinari, din județul Sibiu, sunt chemați duminică, 8 noiembrie, la urne, pentru a decide dacă sunt de acord cu exploatările miniere pe raza localității....",
+    "content_hu": "Locuitorii comunei Rășinari, din județul Sibiu, sunt chemați duminică, 8 noiembrie, la urne, pentru a decide dacă sunt de acord cu exploatările miniere pe raza localității.",
+    "title_ro": "Referendum în Rășinari pentru interzicerea exploatărilor miniere. Localnicii decid soarta unui proiect de peste 100 de milioane de euro",
+    "lead_ro": "Locuitorii comunei Rășinari, din județul Sibiu, sunt chemați duminică, 8 noiembrie, la urne, pentru a decide dacă sunt de acord cu exploatările miniere pe raza localității....",
+    "content_ro": "Locuitorii comunei Rășinari, din județul Sibiu, sunt chemați duminică, 8 noiembrie, la urne, pentru a decide dacă sunt de acord cu exploatările miniere pe raza localității.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_78c5cd8c93",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "I-au prelungit contractul fotbalistului diagnosticat cu cancer",
+        "link": "https://www.gsp.ro/international/campionate/i-au-prelungit-contractul-fotbalistului-diagnosticat-cu-cancer-996818.html"
+      }
+    ],
+    "published_at": 1794042550,
+    "title_hu": "I-au prelungit contractul fotbalistului diagnosticat cu cancer",
+    "lead_hu": "Clubul canadian de fotbal Vancouver Whitecaps a extins înțelegerea cu Belal Halbouni, jucător diagnosticat cu cancer al sistemului limfatic. Fundașul în vârstă de 26 de ani va lipsi o perioadă mai lun...",
+    "content_hu": "Clubul canadian de fotbal Vancouver Whitecaps a extins înțelegerea cu Belal Halbouni, jucător diagnosticat cu cancer al sistemului limfatic. Fundașul în vârstă de 26 de ani va lipsi o perioadă mai lungă de pe teren. Echipa din MLS a semnat o nouă înțelegere cu Halbouni, valabilă până la sfârșitul sezonului 2027-2028. „Belal și familia sa beneficiază de întregul sprijin al tuturor celor din club. ...",
+    "title_ro": "I-au prelungit contractul fotbalistului diagnosticat cu cancer",
+    "lead_ro": "Clubul canadian de fotbal Vancouver Whitecaps a extins înțelegerea cu Belal Halbouni, jucător diagnosticat cu cancer al sistemului limfatic. Fundașul în vârstă de 26 de ani va lipsi o perioadă mai lun...",
+    "content_ro": "Clubul canadian de fotbal Vancouver Whitecaps a extins înțelegerea cu Belal Halbouni, jucător diagnosticat cu cancer al sistemului limfatic. Fundașul în vârstă de 26 de ani va lipsi o perioadă mai lungă de pe teren. Echipa din MLS a semnat o nouă înțelegere cu Halbouni, valabilă până la sfârșitul sezonului 2027-2028. „Belal și familia sa beneficiază de întregul sprijin al tuturor celor din club. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_0fa3949b45",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Vacanță gratuită. Finlanda plătește 16 persoane singure care vor să-și găsească perechea la o cină",
+        "link": "https://www.mediafax.ro/life-inedit/vacanta-gratuita-finlanda-plateste-16-persoane-singure-care-vor-sa-si-gaseasca-perechea-la-o-cina-23839189"
+      }
+    ],
+    "published_at": 1794042495,
+    "title_hu": "Vacanță gratuită. Finlanda plătește 16 persoane singure care vor să-și găsească perechea la o cină",
+    "lead_hu": "Oficiul național de turism din Finlanda caută 16 persoane singure din toată lumea pentru o excursie gratuită de patru zile la Helsinki sau Tampere, în februarie 2027. Punctul culminant este o cină pe ...",
+    "content_hu": "Oficiul național de turism din Finlanda caută 16 persoane singure din toată lumea pentru o excursie gratuită de patru zile la Helsinki sau Tampere, în februarie 2027. Punctul culminant este o cină pe nevăzute cu localnici singuri.",
+    "title_ro": "Vacanță gratuită. Finlanda plătește 16 persoane singure care vor să-și găsească perechea la o cină",
+    "lead_ro": "Oficiul național de turism din Finlanda caută 16 persoane singure din toată lumea pentru o excursie gratuită de patru zile la Helsinki sau Tampere, în februarie 2027. Punctul culminant este o cină pe ...",
+    "content_ro": "Oficiul național de turism din Finlanda caută 16 persoane singure din toată lumea pentru o excursie gratuită de patru zile la Helsinki sau Tampere, în februarie 2027. Punctul culminant este o cină pe nevăzute cu localnici singuri.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_5135df0bda",
     "category": "Erdély",
     "is_synthesized": false,
@@ -6556,28 +6708,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_131de0eeba",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "PSD anunță rezultatele miniștrilor din ultima săptămână la guvernare. Noi loturi din A0 și relansarea Programul Rabla, pe listă",
-        "link": "https://www.mediafax.ro/stirile-zilei/psd-anunta-rezultatele-ministrilor-din-ultima-saptamana-la-guvernare-noi-loturi-din-a0-si-relansarea-programul-rabla-pe-lista-23839167"
-      }
-    ],
-    "published_at": 1794040361,
-    "title_hu": "PSD anunță rezultatele miniștrilor din ultima săptămână la guvernare. Noi loturi din A0 și relansarea Programul Rabla, pe listă",
-    "lead_hu": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
-    "content_hu": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
-    "title_ro": "PSD anunță rezultatele miniștrilor din ultima săptămână la guvernare. Noi loturi din A0 și relansarea Programul Rabla, pe listă",
-    "lead_ro": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
-    "content_ro": "Partidul Social Democrat a anunțat sâmbătă bilanțul miniștrilor PSD în ultima săptămână la guvernare. Deschiderea a două loturi noi din A0 și relansarea Programului Rabla se numără printre rezultate.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_af53e0593c",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -6927,28 +7057,6 @@
     "title_ro": "Cât de ușor mai e astăzi să te filmezi ca să apari pe internet. Sfaturile unui expert",
     "lead_ro": "Cine zice că e ușor să te filmezi ca să apari pe internet, se înșeală.",
     "content_ro": "Cine zice că e ușor să te filmezi ca să apari pe internet, se înșeală.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2e96f9690d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Incendiu la un apartament din Mehedinți: 12 persoane și mai multe animale au fost evacuate după ce un balcon a luat foc în Vânju Mare",
-        "link": "https://www.mediafax.ro/stirile-zilei/incendiu-la-un-apartament-din-mehedinti-12-persoane-si-mai-multe-animale-au-fost-evacuate-dupa-ce-un-balcon-a-luat-foc-in-vanju-mare-23839155"
-      }
-    ],
-    "published_at": 1794038979,
-    "title_hu": "Incendiu la un apartament din Mehedinți: 12 persoane și mai multe animale au fost evacuate după ce un balcon a luat foc în Vânju Mare",
-    "lead_hu": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate…",
-    "content_hu": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate de pompieri.",
-    "title_ro": "Incendiu la un apartament din Mehedinți: 12 persoane și mai multe animale au fost evacuate după ce un balcon a luat foc în Vânju Mare",
-    "lead_ro": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate…",
-    "content_ro": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate de pompieri.",
     "importance_score": 0.0
   },
   {
@@ -15554,6 +15662,28 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_e29a8f81df",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Maia Sandu, despre posibilitatea unirii României cu Republica Moldova: „Nu avem destulă susținere populară pentru această soluție”",
+        "link": "https://www.digi24.ro/stiri/maia-sandu-despre-posibilitatea-unirii-romaniei-cu-republica-moldova-nu-avem-destula-sustinere-populara-pentru-aceasta-solutie-4024987"
+      }
+    ],
+    "published_at": 1793968459,
+    "title_hu": "Maia Sandu, despre posibilitatea unirii României cu Republica Moldova: „Nu avem destulă susținere populară pentru această soluție”",
+    "lead_hu": "Maia Sandu a clarificat, într-un interviu acordat unei publicații maghiare, declarația legată de susținerea referendumului pentru unirea Republicii Moldova cu România. „Până în acest moment, nu avem d...",
+    "content_hu": "Maia Sandu a clarificat, într-un interviu acordat unei publicații maghiare, declarația legată de susținerea referendumului pentru unirea Republicii Moldova cu România. „Până în acest moment, nu avem destulă susținere populară pentru această soluție”, a spus președinta țării vecine, subliniind că principalul obiectiv este integrarea Republicii Moldova în Uniunea Europeană.",
+    "title_ro": "Maia Sandu, despre posibilitatea unirii României cu Republica Moldova: „Nu avem destulă susținere populară pentru această soluție”",
+    "lead_ro": "Maia Sandu a clarificat, într-un interviu acordat unei publicații maghiare, declarația legată de susținerea referendumului pentru unirea Republicii Moldova cu România. „Până în acest moment, nu avem d...",
+    "content_ro": "Maia Sandu a clarificat, într-un interviu acordat unei publicații maghiare, declarația legată de susținerea referendumului pentru unirea Republicii Moldova cu România. „Până în acest moment, nu avem destulă susținere populară pentru această soluție”, a spus președinta țării vecine, subliniind că principalul obiectiv este integrarea Republicii Moldova în Uniunea Europeană.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_c04830891f",
     "category": "Sport",
     "is_synthesized": false,
@@ -19206,70 +19336,53 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_ec55c9c2fc",
+    "group_id": "group_fa186f351a",
+    "fingerprint": "2079c670039c6a407ae5b91f7f6939bf",
     "category": "Általános",
-    "is_synthesized": false,
+    "is_synthesized": true,
+    "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 6,
     "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Trei milioane de oameni nu își pot retrage banii din banca la care a fost acționar",
+        "link": "https://www.mediafax.ro/externe/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-trei-milioane-de-oameni-nu-isi-pot-retrage-banii-din-banca-la-care-a-fost-actionar-23839096"
+      },
       {
         "source": "G4Media",
-        "title": "Contractul cu Sig Sauer de armament individual pentru MAI, MApN și serviciile secrete s-ar putea semna în curând, anunță ministrul Apărării, Radu Oprea / România negociază pentru o achiziție comună prin SAFE cu Ucraina și/sau Republica Moldova/ Valoarea contractului – peste 800 de milioane de euro",
-        "link": "https://www.g4media.ro/contractul-de-armament-individual-pentru-mai-mapn-si-serviciile-secrete-s-ar-putea-semna-in-curand-cu-sig-sauer-anunta-ministrul-apararii-radu-oprea-romania-negociaza-pentru-o-achizitie-com.html"
-      }
-    ],
-    "published_at": 1793956438,
-    "title_hu": "Contractul cu Sig Sauer de armament individual pentru MAI, MApN și serviciile secrete s-ar putea semna în curând, anunță ministrul Apărării, Radu Oprea / România negociază pentru o achiziție comună prin SAFE cu Ucraina și/sau Republica Moldova/ Valoarea contractului – peste 800 de milioane de euro",
-    "lead_hu": "România ar putea semna în curând contractul de achiziție de armament individual de peste 800 de milioane de euro, negociat cu americanii de la Sig Sauer. Finanțarea ar urma să se facă tot prin SAFE, d…",
-    "content_hu": "România ar putea semna în curând contractul de achiziție de armament individual de peste 800 de milioane de euro, negociat cu americanii de la Sig Sauer. Finanțarea ar urma să se facă tot prin SAFE, dar va fi una în comun cu Ucraina și/sau Republica Moldova, spun surse G4Media. Ministrul Apărării, Radu Oprea, a anunțat […] © G4Media.ro.",
-    "title_ro": "Contractul cu Sig Sauer de armament individual pentru MAI, MApN și serviciile secrete s-ar putea semna în curând, anunță ministrul Apărării, Radu Oprea / România negociază pentru o achiziție comună prin SAFE cu Ucraina și/sau Republica Moldova/ Valoarea contractului – peste 800 de milioane de euro",
-    "lead_ro": "România ar putea semna în curând contractul de achiziție de armament individual de peste 800 de milioane de euro, negociat cu americanii de la Sig Sauer. Finanțarea ar urma să se facă tot prin SAFE, d…",
-    "content_ro": "România ar putea semna în curând contractul de achiziție de armament individual de peste 800 de milioane de euro, negociat cu americanii de la Sig Sauer. Finanțarea ar urma să se facă tot prin SAFE, dar va fi una în comun cu Ucraina și/sau Republica Moldova, spun surse G4Media. Ministrul Apărării, Radu Oprea, a anunțat […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_039b1809c1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Jumătate din populația țării nu își poate retrage banii din banca la care a fost acționar",
+        "link": "https://www.g4media.ro/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-jumatate-din-populatia-tarii-nu-isi-poate-retrage-banii-din-banca-la-care-a-fost-actionar.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Președintele din Paraguay, destituit și arestat la domiciliu după ce 3.000.000 de oameni nu își pot retrage banii din conturi",
+        "link": "https://hotnews.ro/presedintele-din-paraguay-destituit-si-arestat-la-domiciliu-dupa-ce-3-000-000-de-oameni-nu-isi-pot-retrage-banii-din-conturi-2397408"
+      },
       {
         "source": "ProTV Stiri",
-        "title": "Percheziţii în Bistriţa-Năsăud într-un dosar privind decontarea fictivă a unor servicii turistice pentru angajaţii CFR",
-        "link": "https://stirileprotv.ro/perchezitii-in-bistrita-nasaud-intr-un-dosar-privind-decontarea-fictiva-a-unor-servicii-turistice-pentru-angajatii-cfr.html"
-      }
-    ],
-    "published_at": 1793956392,
-    "title_hu": "Percheziţii în Bistriţa-Năsăud într-un dosar privind decontarea fictivă a unor servicii turistice pentru angajaţii CFR",
-    "lead_hu": "Poliţiştii din Bistriţa-Năsăud au făcut două percheziţii domiciliare într-un dosar privind decontarea fictivă a unor servicii turistice pentru angajaţii CFR.",
-    "content_hu": "Poliţiştii din Bistriţa-Năsăud au făcut două percheziţii domiciliare într-un dosar privind decontarea fictivă a unor servicii turistice pentru angajaţii CFR.",
-    "title_ro": "Percheziţii în Bistriţa-Năsăud într-un dosar privind decontarea fictivă a unor servicii turistice pentru angajaţii CFR",
-    "lead_ro": "Poliţiştii din Bistriţa-Năsăud au făcut două percheziţii domiciliare într-un dosar privind decontarea fictivă a unor servicii turistice pentru angajaţii CFR.",
-    "content_ro": "Poliţiştii din Bistriţa-Năsăud au făcut două percheziţii domiciliare într-un dosar privind decontarea fictivă a unor servicii turistice pentru angajaţii CFR.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e1d889029c",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "Țara care și-a arestat președintele după ce banca cu care avea legături și unde avea bani jumătate din populație s-a prăbușit",
+        "link": "https://stirileprotv.ro/stiri/international/tara-care-si-a-arestat-presedintele-dupa-ce-banca-cu-care-avea-legaturi-si-unde-avea-bani-jumatate-din-populatie-s-a-prabusit.html"
+      },
       {
-        "source": "Pontmaros",
-        "title": "27 köbméter fát loptak az erdőből – 9 helyen csaptak le a rendőrök Maros megyében",
-        "link": "https://www.pontmaros.ro/27-kobmeter-fat-loptak-az-erdobol-9-helyen-csaptak-le-a-rendorok-maros-megyeben/"
+        "source": "Digi24",
+        "title": "Paraguayul are un nou preşedinte, iar predecesorul său a fost arestat după patru zile de criză bancară. „Daţi-ne banii”",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/paraguayul-are-un-nou-presedinte-iar-predecesorul-sau-a-fost-arestat-dupa-patru-zile-de-criza-bancara-dati-ne-banii-4025927"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Paraguayul are un nou președinte, predecesorul său - arestat după patru zile de criză bancară și politică",
+        "link": "https://agerpres.ro/politic-extern/2026/11/07/paraguayul-are-un-nou-presedinte-predecesorul-sau---arestat-dupa-patru-zile-de-criza-bancara-si-poli--1611003"
       }
     ],
-    "published_at": 1793956279,
-    "title_hu": "27 köbméter fát loptak az erdőből – 9 helyen csaptak le a rendőrök Maros megyében",
-    "lead_hu": "A Maros megyei rendőrök kilenc házkutatást tartottak november 6-án, pénteken Székelykál és Csejd településeken, egy erdészeti bűncselekmények miatt indított nyomozás keretében. Az ügyben nyolc, 20 …",
-    "content_hu": "A Maros megyei rendőrök kilenc házkutatást tartottak november 6-án, pénteken Székelykál és Csejd településeken, egy erdészeti bűncselekmények miatt indított nyomozás keretében. Az ügyben nyolc, 20 …",
-    "title_ro": "27 köbméter fát loptak az erdőből – 9 helyen csaptak le a rendőrök Maros megyében",
-    "lead_ro": "A Maros megyei rendőrök kilenc házkutatást tartottak november 6-án, pénteken Székelykál és Csejd településeken, egy erdészeti bűncselekmények miatt indított nyomozás keretében. Az ügyben nyolc, 20 …",
-    "content_ro": "A Maros megyei rendőrök kilenc házkutatást tartottak november 6-án, pénteken Székelykál és Csejd településeken, egy erdészeti bűncselekmények miatt indított nyomozás keretében. Az ügyben nyolc, 20 …",
-    "importance_score": 0.0
+    "published_at": 1794039199,
+    "title_hu": "Pedro Alliana Paraguay új elnöke, Santiago Peñát házi őrizetbe helyezték",
+    "lead_hu": "A paraguayi szenátus nem fogadta el Santiago Peña lemondását, hanem lezárta az eltávolítási eljárást, és Pedro Allianát iktatta be államfőnek. Az Ueno Bank összeomlása miatt hárommillió ügyfél pénze vált hozzáférhetetlenné; Peñát és a jegybank korábbi vezetőjét is hatósági intézkedés érte.",
+    "content_hu": "• **Pénteken Pedro Alliana lépett hivatalba:** a szenátus az előző nap lemondását bejelentő Santiago Peña helyett a Colorado Párthoz tartozó alelnököt iktatta be. Az eltávolításról a kormánypárt több tagja is a saját párttársuk ellen szavazott.\n\n• **Peñát házi őrizetbe helyezték:** a volt elnöknek szombat reggel kellett volna megjelennie az ügyészségen. Lemondását egy videóüzenetben jelentette be, és bocsánatot kért a kialakult helyzetért; a tisztség elvesztésével az élethosszig járó szenátori helyét és mentességét is elveszítette.\n\n• **Az Ueno Bank csődje mintegy hárommillió ügyfelet érintett:** a 2021-ben alapított, gyorsan növekvő pénzintézet ügyfélköre a felnőtt lakosság körülbelül 60 százalékát tette ki. A bank közpénzeket és nyugdíjrendszeri forrásokat is kezelt; a jegybank átvette az irányítását és leállította a műveleteket, a kifizetések megkezdése ellenére sokan nem fértek hozzá teljes megtakarításukhoz.\n\n• **Peña és több tisztviselő ellen is felmerültek vádak:** a volt elnök 2025-ig birtokolt részesedést az Uenót ellenőrző Grupo Vázquezben. Bírálói összeférhetetlenséget, a bankfelügyelet befolyásolását, a nyugdíjforrások nem megfelelő kezelését és az ügy eltussolásában való részvételt rótták fel neki; Peña tagadta, hogy törvényt sértett volna.\n\n• **Carlos Carvallo ellen elfogatóparancsot adtak ki:** a jegybank korábbi elnöke, aki 2023-ig vezette az intézményt, lemondott tisztségéről. Peña belügyminisztere, kabinetfőnöke és két tanácsadója szintén távozott; a betétesek Asunciónban és más városokban is tüntettek a pénzükért.",
+    "title_ro": "Pedro Alliana este noul președinte al Paraguayului; Santiago Peña a fost plasat în arest la domiciliu",
+    "lead_ro": "Senatul paraguayan nu a acceptat demisia lui Santiago Peña, ci a încheiat procedura de destituire și l-a învestit pe Pedro Alliana în funcția de președinte. Prăbușirea Ueno Bank a blocat accesul a circa trei milioane de clienți la bani, iar autoritățile au luat măsuri și împotriva fostului șef al băncii centrale.",
+    "content_ro": "• **Vineri, Pedro Alliana a preluat funcția de președinte:** Senatul l-a învestit pe vicepreședintele din partidul Colorado, după ce Peña își anunțase demisia cu o zi înainte. Procedura de destituire a fost susținută inclusiv de membri ai partidului din care făcea parte președintele înlăturat.\n\n• **Santiago Peña a fost plasat în arest la domiciliu:** fostul șef al statului urma să se prezinte sâmbătă dimineața la procuratură. El și-a anunțat plecarea într-un mesaj video și și-a cerut scuze pentru situația creată; pierderea funcției i-a luat și dreptul la un loc permanent în Senat, precum și imunitatea asociată acestuia.\n\n• **Falimentul Ueno Bank a afectat aproximativ trei milioane de clienți:** instituția, înființată în 2021 și extinsă rapid, deservea circa 60% din populația adultă. Banca administra și fonduri publice, respectiv bani ai sistemului de pensii. Banca centrală a preluat controlul și a suspendat operațiunile; deși au început plățile către deponenți, mulți nu își puteau accesa integral economiile.\n\n• **Acuzațiile la adresa lui Peña au vizat legăturile sale cu banca:** el a deținut până în 2025 acțiuni în Grupo Vázquez, compania care controla Ueno. Criticii i-au imputat conflicte de interese, influențarea supravegherii bancare, gestionarea necorespunzătoare a fondurilor de pensii și implicarea într-o posibilă mușamalizare; Peña a negat încălcarea legii.\n\n• **Carlos Carvallo este vizat de un mandat de arestare:** fostul președinte al băncii centrale, care a condus instituția până în 2023, și-a dat demisia. Au plecat și ministrul de interne, șeful de cabinet al președinției și doi consilieri ai lui Peña. Deponenții au protestat în Asunción și în alte orașe, cerând acces la bani.",
+    "importance_score": 75.0
   },
   {
     "group_id": "group_9f9b2cbe6c",
@@ -19319,6 +19432,33 @@
     "lead_ro": "Românul în vârstă de 42 de ani a fost găsit pe 4 noiembrie într-o locuință din provincia Arezzo, după ce ar fi căutat bunuri și apoi s-ar fi culcat. Pe 5 noiembrie, instanța din Arezzo a decis să rămână în arest, iar următoarea înfățișare este programată pentru 25 noiembrie.",
     "content_ro": "• **În noaptea de 3 spre 4 noiembrie**, un român de 42 de ani a pătruns într-o locuință din Pratovecchio Stia, provincia Arezzo. Proprietarii nu stăteau permanent acolo și erau plecați în momentul incidentului; potrivit suspiciunilor, bărbatul a deteriorat intrarea.\n\n• **În interiorul casei**, acesta a răscolit încăperile și a strâns câteva obiecte cu valoare redusă. În loc să plece, s-a întins pe unul dintre paturi și a adormit. Autoritățile au intervenit în urma suspiciunilor de efracție și furt.\n\n• **Un vecin a alertat autoritățile**, iar carabinierii au ajuns dimineața la locuință și l-au găsit pe bărbat dormind. L-au trezit și l-au reținut. El a invocat oboseala și frigul și a spus că băuse alcool; relatările indică faptul că ar fi consumat o sticlă de vin.\n\n• **La audierea din 5 noiembrie**, desfășurată la Tribunalul din Arezzo, bărbatul a declarat că venise cu trenul din Roma pentru a găsi de lucru ca zidar. În procedură au fost implicați judecătorul Michele Nisticò și procurorul Bernardo Albergotti. Românul avea antecedente pentru fapte similare.\n\n• **Instanța a decis menținerea arestului** cel puțin până la 25 noiembrie, când dosarul urmează să fie judecat printr-o procedură simplificată. Pe lângă pătrunderea în locuință și luarea obiectelor, autoritățile au analizat dacă bărbatul urmărea să fure sau căuta doar un loc unde să se adăpostească.",
     "importance_score": 60.0
+  },
+  {
+    "group_id": "group_2e96f9690d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Incendiu la un apartament din Mehedinți: 12 persoane și mai multe animale au fost evacuate după ce un balcon a luat foc în Vânju Mare",
+        "link": "https://www.mediafax.ro/stirile-zilei/incendiu-la-un-apartament-din-mehedinti-12-persoane-si-mai-multe-animale-au-fost-evacuate-dupa-ce-un-balcon-a-luat-foc-in-vanju-mare-23839155"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mehedinți: Incendiu într-un bloc din Vânju Mare; au fost evacuate 12 persoane și opt animale",
+        "link": "https://agerpres.ro/social/2026/11/07/mehedinti-incendiu-intr-un-bloc-din-vanju-mare-au-fost-evacuate-12-persoane-si-opt-animale--1611005"
+      }
+    ],
+    "published_at": 1794038979,
+    "title_hu": "Incendiu la un apartament din Mehedinți: 12 persoane și mai multe animale au fost evacuate după ce un balcon a luat foc în Vânju Mare",
+    "lead_hu": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate…",
+    "content_hu": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate de pompieri.",
+    "title_ro": "Incendiu la un apartament din Mehedinți: 12 persoane și mai multe animale au fost evacuate după ce un balcon a luat foc în Vânju Mare",
+    "lead_ro": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate…",
+    "content_ro": "Un incendiu a izbucnit vineri noaptea pe balconul unui apartament din orașul Vânju Mare, județul Mehedinți. Au ars aproximativ 20 mp din acoperiș, iar 12 persoane și mai multe animale au fost evacuate de pompieri.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_92c2d7dc45",
@@ -19381,7 +19521,7 @@
     "title_ro": "Suedia reia controalele la frontierele terestre pentru șase luni",
     "lead_ro": "Autoritățile suedeze vor efectua controale la frontierele terestre între 12 noiembrie 2026 și 11 mai 2027. Ministerul român de Externe îi îndeamnă pe cei care călătoresc în Suedia să consulte informațiile oficiale și să folosească datele de contact consulare, dacă au nevoie de sprijin.",
     "content_ro": "• **În perioada 12 noiembrie 2026 – 11 mai 2027**, autoritățile suedeze vor verifica trecerile de la frontierele terestre. Ministerul român de Externe a transmis informația persoanelor care se află în Suedia, merg acolo sau tranzitează țara.\n\n• **Cei care planifică o călătorie** sunt îndemnați să verifice înainte de plecare comunicările publicate de guvernul și poliția suedeză. Aceste instituții oferă detalii despre controale și despre regulile relevante pentru deplasări.\n\n• **Pentru solicitări consulare**, cetățenii români pot apela misiunea diplomatică la 0046-(0)8-20.56.74, 0046-(0)8-20.99.27 sau 0046-(0)8-411.31.81. Apelurile sunt preluate permanent de centrul care oferă asistență românilor aflați în străinătate.\n\n• **În situații urgente și periculoase**, inclusiv accidente cu persoane rănite, decese ori calamități, este disponibil numărul de urgență al Ambasadei României: 0046 722 511 453. MAE recomandă consultarea informațiilor publicate de ambasada de la Stockholm și menționează și aplicația de călătorie „Călătorește informat”, disponibilă pentru Android și iOS.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_a89988f33d",
@@ -19689,6 +19829,248 @@
     "title_ro": "Boomul manichiurii făcute acasă. Ce probleme pot ascunde prețurile mici",
     "lead_ro": "Cursurile de câteva luni și promovarea pe rețelele sociale le permit tot mai multor persoane să intre în domeniul serviciilor de înfrumusețare, uneori chiar de acasă și la prețuri sub cele practicate …",
     "content_ro": "Cursurile de câteva luni și promovarea pe rețelele sociale le permit tot mai multor persoane să intre în domeniul serviciilor de înfrumusețare, uneori chiar de acasă și la prețuri sub cele practicate în saloane. Pentru cliente, oferta pare avantajoasă, însă manichiura ieftină poate ascunde riscuri.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_7cea563caa",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "INTERVIU/Regizorul Radu Jude: 'Jurnalul unei cameriste' e un film care s-a născut diferit de alte proiecte",
+        "link": "https://agerpres.ro/cultura-media/2026/11/07/interviu-regizorul-radu-jude-jurnalul-unei-cameriste-e-un-film-care-s-a-nascut-diferit-de-alte-proie--1611032"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "INTERVIU/Regizorul Radu Jude: 'Jurnalul unei cameriste' e un film care s-a născut diferit de alte proiecte",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "INTERVIU/Regizorul Radu Jude: 'Jurnalul unei cameriste' e un film care s-a născut diferit de alte proiecte",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_bc6a616eb5",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "PERSONALITATEA ZILEI: Cantautorul și scriitorul Leonard Cohen",
+        "link": "https://agerpres.ro/documentare/2026/11/07/personalitatea-zilei-cantautorul-si-scriitorul-leonard-cohen--1610998"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "PERSONALITATEA ZILEI: Cantautorul și scriitorul Leonard Cohen",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "PERSONALITATEA ZILEI: Cantautorul și scriitorul Leonard Cohen",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_518af7db1d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Iași: Aproximativ 30 de câini au murit într-un incendiu izbucnit la un adăpost de animale din Grajduri",
+        "link": "https://agerpres.ro/social/2026/11/07/iasi-aproximativ-30-de-caini-au-murit-intr-un-incendiu-izbucnit-la-un-adapost-de-animale-din-grajdur--1611026"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Iași: Aproximativ 30 de câini au murit într-un incendiu izbucnit la un adăpost de animale din Grajduri",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Iași: Aproximativ 30 de câini au murit într-un incendiu izbucnit la un adăpost de animale din Grajduri",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c14ceaad97",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Budăi: În ultima săptămână, miniștrii PSD au demonstrat că se poate guverna cu rezultate concrete pentru oameni",
+        "link": "https://agerpres.ro/politic/2026/11/07/budai-in-ultima-saptamana-ministrii-psd-au-demonstrat-ca-se-poate-guverna-cu-rezultate-concrete-pent--1611021"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Budăi: În ultima săptămână, miniștrii PSD au demonstrat că se poate guverna cu rezultate concrete pentru oameni",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Budăi: În ultima săptămână, miniștrii PSD au demonstrat că se poate guverna cu rezultate concrete pentru oameni",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f8ae188ca2",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Tenis - ATP: Alcaraz, în semifinale la Paris după ce a salvat două mingi de meci în fața lui Fritz",
+        "link": "https://agerpres.ro/sport-extern/2026/11/07/tenis---atp-alcaraz-in-semifinale-la-paris-dupa-ce-a-salvat-doua-mingi-de-meci-in-fata-lui-fritz--1611020"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Tenis - ATP: Alcaraz, în semifinale la Paris după ce a salvat două mingi de meci în fața lui Fritz",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Tenis - ATP: Alcaraz, în semifinale la Paris după ce a salvat două mingi de meci în fața lui Fritz",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_9f639a8606",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Siegfried Mureșan: Cei care vor să țină România pe loc vor încerca să divizeze PNL și USR",
+        "link": "https://agerpres.ro/politic/2026/11/07/siegfried-muresan-cei-care-vor-sa-tina-romania-pe-loc-vor-incerca-sa-divizeze-pnl-si-usr--1611019"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Siegfried Mureșan: Cei care vor să țină România pe loc vor încerca să divizeze PNL și USR",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Siegfried Mureșan: Cei care vor să țină România pe loc vor încerca să divizeze PNL și USR",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ccf078c97a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Operațiunea 'Jupiter' - ziua a șasea: 17 acțiuni operative și 71 de percheziții domiciliare",
+        "link": "https://agerpres.ro/justitie/2026/11/07/operatiunea-jupiter---ziua-a-sasea-17-actiuni-operative-si-71-de-perchezitii-domiciliare--1611016"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Operațiunea 'Jupiter' - ziua a șasea: 17 acțiuni operative și 71 de percheziții domiciliare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Operațiunea 'Jupiter' - ziua a șasea: 17 acțiuni operative și 71 de percheziții domiciliare",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ade8ae1cca",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "ONRC: Aproape 101.000 de persoane fizice și juridice, înmatriculate în primele nouă luni din 2026",
+        "link": "https://agerpres.ro/economic/2026/11/07/onrc-aproape-101-000-de-persoane-fizice-si-juridice-inmatriculate-in-primele-noua-luni-din-2026--1611010"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "ONRC: Aproape 101.000 de persoane fizice și juridice, înmatriculate în primele nouă luni din 2026",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "ONRC: Aproape 101.000 de persoane fizice și juridice, înmatriculate în primele nouă luni din 2026",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c50ebbd1e4",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO INTERVIU/Ramona Miletic, viceprimar Simmering (Viena): Sunt departe de România, dar România este și aici, cu mine",
+        "link": "https://agerpres.ro/social/2026/11/07/video-interviu-ramona-miletic-viceprimar-simmering-viena-sunt-departe-de-romania-dar-romania-este-si--1611008"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "VIDEO INTERVIU/Ramona Miletic, viceprimar Simmering (Viena): Sunt departe de România, dar România este și aici, cu mine",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "VIDEO INTERVIU/Ramona Miletic, viceprimar Simmering (Viena): Sunt departe de România, dar România este și aici, cu mine",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_4534c7ee76",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Neacșu - întâlnire cu reprezentanți ai structurilor MAI: Suntem în serviciul oamenilor; această responsabilitate trebuie să se regăsească în fiecare i...",
+        "link": "https://agerpres.ro/politic/2026/11/07/neacsu---intalnire-cu-reprezentanti-ai-structurilor-mai-suntem-in-serviciul-oamenilor-aceasta-respon--1611006"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Neacșu - întâlnire cu reprezentanți ai structurilor MAI: Suntem în serviciul oamenilor; această responsabilitate trebuie să se regăsească în fiecare i...",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Neacșu - întâlnire cu reprezentanți ai structurilor MAI: Suntem în serviciul oamenilor; această responsabilitate trebuie să se regăsească în fiecare i...",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_1e9593ea23",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rezultatele parțiale ale alegerilor din Noua Zeelandă indică o victorie la limită a coaliției guvernamentale de dreapta",
+        "link": "https://agerpres.ro/politic-extern/2026/11/07/rezultatele-partiale-ale-alegerilor-din-noua-zeelanda-indica-o-victorie-la-limita-a-coalitiei-guvern--1611004"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Rezultatele parțiale ale alegerilor din Noua Zeelandă indică o victorie la limită a coaliției guvernamentale de dreapta",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Rezultatele parțiale ale alegerilor din Noua Zeelandă indică o victorie la limită a coaliției guvernamentale de dreapta",
+    "lead_ro": "",
+    "content_ro": "",
     "importance_score": 0.0
   },
   {
