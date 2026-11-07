@@ -6,7 +6,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 45,
+    "sources_count": 46,
     "sources": [
       {
         "source": "Digi24",
@@ -232,6 +232,11 @@
         "source": "Agerpres (HU)",
         "title": "Amenințări cu bombă asupra zborurilor: Anchetă în Franța după ce un pilot a refuzat inițial să aterizeze la o bază militară",
         "link": "https://agerpres.ro/politic-extern/2026/11/05/amenintari-cu-bomba-asupra-zborurilor-ancheta-in-franta-dupa-ce-un-pilot-a-refuzat-initial-sa-ateriz--1610465"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Când un e-mail pune Europa în alertă",
+        "link": "https://adevarul.ro/blogurile-adevarul/cand-un-e-mail-pune-europa-in-alerta-2569624.html"
       }
     ],
     "published_at": 1794032572,
@@ -241,7 +246,7 @@
     "title_ro": "Noi amenințări cu bombă în Europa: vizat și zborul TAROM de la Praga",
     "lead_ro": "Pe 5 și 6 noiembrie, mai multe zboruri europene au primit amenințări cu bombă, însă nu au fost găsite dispozitive explozive. Aeronava TAROM de la Praga a aterizat în siguranță la București, iar autoritățile române cercetează originea alertelor; în județul Tulcea au fost emise separat avertizări legate de atacurile asupra Ucrainei.",
     "content_ro": "• **Amenințările din 5 noiembrie:** Bilanțurile publicate au fost diferite: o relatare a menționat cel puțin 18 zboruri vizate, iar alta cel puțin 34 în cursul săptămânii. Alertele au afectat, între altele, Bulgaria, Cehia, Franța, Italia, Ungaria, Cipru, România, Regatul Unit și Portugalia; verificările nu au descoperit explozibili.\n\n• **Cursele spre București:** Pe 5 noiembrie au fost verificate aeronava Wizz Air sosită de la Milano, cu 182 de pasageri, precum și zborurile Air Serbia Belgrad–București și TAROM Oradea–București. A fost vizat și un avion KLM care urma să ajungă la Tel Aviv după o oprire în capitala României. Controalele aeronavelor, ale pasagerilor și ale bagajelor sunt măsuri preventive și pot provoca întârzieri.\n\n• **6 noiembrie, TAROM RO226:** Aeronava venită de la Praga, cu 102 de pasageri și șase membri ai echipajului, a aterizat la Otopeni la ora 12:19. SRI a descris sesizarea ca nespecifică și apoi falsă; la verificări nu au fost găsite dispozitive explozive, iar traficul aerian a continuat în siguranță.\n\n• **Reacții și anchete europene:** La Praga au fost vizate patru curse la sosire și cinci la plecare, iar deasupra Franței au fost semnalate patru aeronave. Dintre cele 26.709 de zboruri europene programate vineri, cele afectate reprezentau, potrivit unei relatări, 0,0674%. Ungaria a ridicat de trei ori avioane de vânătoare pentru escortarea unor curse civile. Legătura dintre alerte și identitatea autorilor nu sunt stabilite; autorități din mai multe țări investighează.\n\n• **Județul Tulcea, 5–6 noiembrie:** După atacurile rusești asupra porturilor ucrainene de la Dunăre, mesajul RO-Alert a fost transmis la 00:19, iar alerta s-a încheiat la 00:41; nu au fost raportate încălcări ale spațiului aerian românesc. Dimineața, după detectarea unei ținte la est de Sulina, îndreptându-se spre Vâlcove, Ucraina, două avioane F–16 au decolat de la Borcea. Alerta emisă la 08:56 a fost ridicată la 09:27.",
-    "importance_score": 465.0
+    "importance_score": 475.0
   },
   {
     "group_id": "group_a008fbd743",
@@ -695,6 +700,85 @@
     "importance_score": 180.0
   },
   {
+    "group_id": "group_eab04ddcc1",
+    "fingerprint": "05a73e8385387fd901a8ac74e2f4f343",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 12,
+    "sources": [
+      {
+        "source": "Transtelex",
+        "title": "Újraindul Csernavoda 1-es reaktora, másfél millió háztartásnyi áram tér vissza a román hálózatba",
+        "link": "https://transtelex.ro/transtelex/2026/11/06/csernavoda-reaktor-1-es-blokk-ujrainditas"
+      },
+      {
+        "source": "Mediafax",
+        "title": "România are din nou energie nucleară. Reactorul 1 de la Cernavodă a livrat în sistem primii peste 40 MW după trei luni de pauză",
+        "link": "https://www.mediafax.ro/economic/romania-are-din-nou-energie-nucleara-reactorul-1-de-la-cernavoda-a-livrat-in-sistem-primii-peste-40-mw-dupa-trei-luni-de-pauza-23838855"
+      },
+      {
+        "source": "Mediafax",
+        "title": "România produce din nou energie nucleară, după trei luni de pauză. Reactorul 1 de la Cernavodă a început să livreze primii megawați în sistemul național",
+        "link": "https://www.mediafax.ro/economic/romania-produce-din-nou-energie-nucleara-dupa-trei-luni-de-pauza-reactorul-1-de-la-cernavoda-a-inceput-sa-livreze-primii-megawati-in-sistemul-national-23838655"
+      },
+      {
+        "source": "G4Media",
+        "title": "Reactorul 1 de la Cernavodă a fost repornit și a livrat primii megawați în rețea / Unitatea 2 rămâne oprită",
+        "link": "https://www.g4media.ro/reactorul-1-de-la-cernavoda-a-fost-repornit-si-a-livrat-primii-megawati-in-retea-unitatea-2-ramane-oprita.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Visszakapcsolták a cernavodai erőművet az országos hálózatra",
+        "link": "https://maszol.ro/belfold/Visszakapcsoltak-a-cernavodai-eromuvet-az-orszagos-halozatra"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Centrala de la Cernavodă a fost repornită. Câtă energie trimite în sistemul național",
+        "link": "https://hotnews.ro/centrala-de-la-cernavoda-a-fost-repornita-cata-energie-trimite-in-sistemul-national-2397226"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Luca Niculescu și ministrul Energiei, în vizită la Centrala Nuclearoelectrică de la Cernavodă. Unitatea 1 a fost repornită",
+        "link": "https://stirileprotv.ro/stiri/politic/luca-niculescu-si-ministrul-energiei-in-vizita-la-centrala-nuclearoelectrica-de-la-cernavoda-unitatea-1-a-fost-repornita.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Premierul Luca Niculescu și ministrul Energiei vor vizita Centrala Nuclearoelectrică de la Cernavodă la o zi după repornirea Unității 1",
+        "link": "https://www.mediafax.ro/stirile-zilei/premierul-luca-niculescu-si-ministrul-energiei-vor-vizita-centrala-nuclearoelectrica-de-la-cernavoda-la-o-zi-dupa-repornirea-unitatii-1-23839118"
+      },
+      {
+        "source": "Digi24",
+        "title": "Premierul şi ministrul Energiei merg în vizită la Centrala Nucleară de la Cernavodă",
+        "link": "https://www.digi24.ro/stiri/economie/energie/premierul-si-ministrul-energiei-merg-in-vizita-la-centrala-nucleara-de-la-cernavoda-4025859"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Négy hónap után újraindult a cernavodai atomerőmű első reaktora",
+        "link": "https://www.mediatica.ro/hirek/aktualis/negy-honap-utan-ujraindult-a-cernavodai-atomeromu-elso-reaktora"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Premierul și ministrul Energiei merg la Centrala Nucleară de la Cernavodă, după repornirea Unității 1. Ce producție asigură reactorul",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/premierul-si-ministrul-energiei-merg-la-centrala-2569623.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "A cernavodai atomerőműbe látogatott a miniszterelnök, miután újraindították az egyik reaktort",
+        "link": "https://maszol.ro/belfold/A-cernavodai-atomeromube-latogatott-a-miniszterelnok-miutan-ujrainditottak-az-egyik-reaktort"
+      }
+    ],
+    "published_at": 1794033716,
+    "title_hu": "Újra termel a cernavodai atomerőmű 1-es blokkja",
+    "lead_hu": "November 6-án, több mint három hónapos szünet után ismét áramot táplált a román hálózatba a cernavodai atomerőmű 1-es blokkja. A termelést fokozatosan növelik; november 7-én reggel már 272 megawattot adott, a 2-es egység újraindítása azonban továbbra is a Duna vízhozamától függ.",
+    "content_hu": "• **November 6-án visszakapcsolták az 1-es blokkot:** a Transelectrica adatai szerint 16:27-kor 42 megawattot termelt, ami az akkori 5651 megawattos országos termelés 0,74 százaléka volt. 18:21-re a teljesítménye 191 megawattra emelkedett, miközben a román áramtermelés 6252 megawattot ért el.\n\n• **November 7-én reggel tovább nőtt a termelés:** 6:30-kor a cernavodai erőmű 272 megawattot biztosított, az országos termelés 5,53 százalékát. A mintegy 700 megawatt névleges teljesítményű blokkot a tervek szerint fokozatosan állítják vissza, és aznap estére érheti el a normál üzemet.\n\n• **Az indítás biztonsági ellenőrzések után kezdődött:** a CNCAN szakemberei megfelelőnek ítélték a garantált leállási állapot feloldásához szükséges feltételeket. A Nuclearelectrica szerint az újraindítási műveletek nem veszélyeztették a nukleáris biztonságot, a dolgozókat vagy a lakosságot.\n\n• **A leállást a Duna alacsony vízhozama okozta:** az 1-es blokkot július 28-án, a 2-est augusztus 13-án kapcsolták le, mert nem állt rendelkezésre elegendő hűtővíz. Baziașnál november 4-én másodpercenként körülbelül 1700 köbméter volt a vízhozam, szemben az adott hónap 4700 köbméteres sokéves átlagával.\n\n• **A 2-es blokk indítása tartós vízszint-emelkedéstől függ**, mondta Mihai Gioară, a Nuclearelectrica vezetője. A kormányfő, Luca Niculescu és Dumitru Chisăliță energiaügyi miniszter november 7-én felkeresi az erőművet. A kiesés pénzügyi hatásairól nincs hivatalos összesítés; a hiányzó termelést importtal is pótolták. A két blokk normál körülmények között a román áramtermelés mintegy ötödét adja.",
+    "title_ro": "Unitatea 1 de la Cernavodă a reluat producția de electricitate",
+    "lead_ro": "Pe 6 noiembrie, după o întrerupere de peste trei luni, Unitatea 1 a centralei de la Cernavodă a început să livreze din nou energie în rețeaua României. Producția este majorată treptat; în dimineața de 7 noiembrie ajunsese la 272 MW, în timp ce repornirea Unității 2 depinde în continuare de debitul Dunării.",
+    "content_ro": "• **Unitatea 1 a fost reconectată pe 6 noiembrie:** datele Transelectrica arată că la ora 16:27 reactorul producea 42 MW, adică 0,74% din producția națională de 5.651 MW. La 18:21, puterea sa ajunsese la 191 MW, iar producția totală a țării era de 6.252 MW.\n\n• **Producția a crescut și în dimineața următoare:** la ora 6:30, centrala de la Cernavodă livra 272 MW, echivalentul a 5,53% din totalul național. Unitatea, cu o putere nominală de aproximativ 700 MW, este readusă treptat la funcționarea obișnuită, estimată să fie atinsă în cursul zilei de 7 noiembrie.\n\n• **Repornirea a fost precedată de verificări de siguranță:** specialiștii CNCAN au stabilit că sunt îndeplinite condițiile pentru încheierea stării de oprire garantată și demararea procedurilor. Nuclearelectrica a precizat că operațiunile nu au afectat securitatea nucleară, personalul sau populația.\n\n• **Debitul redus al Dunării a dus la oprirea reactoarelor:** Unitatea 1 a fost oprită la 28 iulie, iar Unitatea 2 la 13 august, din cauza lipsei apei necesare răcirii. La Baziaș, pe 4 noiembrie, debitul era de circa 1.700 de metri cubi pe secundă, față de media multianuală din noiembrie, de aproximativ 4.700.\n\n• **Reluarea funcționării Unității 2 necesită o creștere susținută a nivelului Dunării**, potrivit lui Mihai Gioară, directorul Nuclearelectrica. Premierul Luca Niculescu și ministrul Energiei, Dumitru Chisăliță, au programată o vizită la centrală pe 7 noiembrie. Nu există o evaluare oficială a pierderilor provocate de oprire; deficitul a fost acoperit și prin importuri. În condiții normale, cele două reactoare furnizează aproximativ o cincime din electricitatea României.",
+    "importance_score": 135.0
+  },
+  {
     "group_id": "group_47215663bf",
     "fingerprint": "9d9e810dc8cfc2bc0b5adbb0be6775bb",
     "category": "Sport",
@@ -777,80 +861,6 @@
     "lead_ro": "Universitatea Craiova a învins-o pe Egnatia cu 2-0 și a ajuns la șapte puncte după primele trei etape, ocupând poziția a opta. Football Meets Data estimează la 98,7% șansele echipei de a termina între primele 24, în timp ce probabilitatea unei clasări în top 8 este de 18,2%.",
     "content_ro": "• **Pe 5 noiembrie, pe stadionul Ion Oblemenco**, Craiova a câștigat cu 2-0 în fața campioanei Albaniei, Egnatia. În primele trei runde, formația română remizase 1-1 cu Getafe și o învinsese cu 3-1 pe Inter d’Escaldes; albanezii obținuseră anterior egaluri cu Midtjylland și Aarhus.\n\n• **Alexandru Cicâldău a marcat în minutul 26**, după ce arbitrii au consultat sistemul video și au anulat semnalizarea inițială de ofsaid. Șase minute mai târziu, Nicușor Bancu a înscris de la distanță și a majorat avantajul. Craiova a mai avut ocazii, iar Egnatia a încercat să răspundă prin contraatacurile lui Albanese și Louklli.\n\n• **Modelul Football Meets Data** proiectează pentru Craiova 9,9 puncte în total, echivalentul a încă două până la patru puncte în cele trei partide rămase. Șansele de calificare directă în optimi sunt de 18,2%, iar cele de a intra în primele 24 ajung la 98,7%; față de estimările anterioare etapei, valorile au crescut cu 7, respectiv 15 puncte procentuale. Locul 14 este cel mai probabil, iar Borac Banja Luka și Nordsjaelland sunt indicate pentru pozițiile 19–20. Barajul este programat pe 18 și 25 februarie.\n\n• **Brighton ocupă locul cinci, tot cu șapte puncte**, după ce Malick Yalcouyé a înscris în minutul 64 în victoria cu Getafe. În etapa precedentă, englezii remizaseră fără goluri cu Jablonec. FC Copenhaga, aflată și ea la șapte puncte, a câștigat, iar Kairat a obținut un punct. Craiova va juca în deplasare cu Brighton și Kairat, apoi o va primi pe FC Copenhaga.",
     "importance_score": 130.0
-  },
-  {
-    "group_id": "group_eab04ddcc1",
-    "fingerprint": "05a73e8385387fd901a8ac74e2f4f343",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Újraindul Csernavoda 1-es reaktora, másfél millió háztartásnyi áram tér vissza a román hálózatba",
-        "link": "https://transtelex.ro/transtelex/2026/11/06/csernavoda-reaktor-1-es-blokk-ujrainditas"
-      },
-      {
-        "source": "Mediafax",
-        "title": "România are din nou energie nucleară. Reactorul 1 de la Cernavodă a livrat în sistem primii peste 40 MW după trei luni de pauză",
-        "link": "https://www.mediafax.ro/economic/romania-are-din-nou-energie-nucleara-reactorul-1-de-la-cernavoda-a-livrat-in-sistem-primii-peste-40-mw-dupa-trei-luni-de-pauza-23838855"
-      },
-      {
-        "source": "Mediafax",
-        "title": "România produce din nou energie nucleară, după trei luni de pauză. Reactorul 1 de la Cernavodă a început să livreze primii megawați în sistemul național",
-        "link": "https://www.mediafax.ro/economic/romania-produce-din-nou-energie-nucleara-dupa-trei-luni-de-pauza-reactorul-1-de-la-cernavoda-a-inceput-sa-livreze-primii-megawati-in-sistemul-national-23838655"
-      },
-      {
-        "source": "G4Media",
-        "title": "Reactorul 1 de la Cernavodă a fost repornit și a livrat primii megawați în rețea / Unitatea 2 rămâne oprită",
-        "link": "https://www.g4media.ro/reactorul-1-de-la-cernavoda-a-fost-repornit-si-a-livrat-primii-megawati-in-retea-unitatea-2-ramane-oprita.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Visszakapcsolták a cernavodai erőművet az országos hálózatra",
-        "link": "https://maszol.ro/belfold/Visszakapcsoltak-a-cernavodai-eromuvet-az-orszagos-halozatra"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Centrala de la Cernavodă a fost repornită. Câtă energie trimite în sistemul național",
-        "link": "https://hotnews.ro/centrala-de-la-cernavoda-a-fost-repornita-cata-energie-trimite-in-sistemul-national-2397226"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Luca Niculescu și ministrul Energiei, în vizită la Centrala Nuclearoelectrică de la Cernavodă. Unitatea 1 a fost repornită",
-        "link": "https://stirileprotv.ro/stiri/politic/luca-niculescu-si-ministrul-energiei-in-vizita-la-centrala-nuclearoelectrica-de-la-cernavoda-unitatea-1-a-fost-repornita.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Premierul Luca Niculescu și ministrul Energiei vor vizita Centrala Nuclearoelectrică de la Cernavodă la o zi după repornirea Unității 1",
-        "link": "https://www.mediafax.ro/stirile-zilei/premierul-luca-niculescu-si-ministrul-energiei-vor-vizita-centrala-nuclearoelectrica-de-la-cernavoda-la-o-zi-dupa-repornirea-unitatii-1-23839118"
-      },
-      {
-        "source": "Digi24",
-        "title": "Premierul şi ministrul Energiei merg în vizită la Centrala Nucleară de la Cernavodă",
-        "link": "https://www.digi24.ro/stiri/economie/energie/premierul-si-ministrul-energiei-merg-in-vizita-la-centrala-nucleara-de-la-cernavoda-4025859"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Négy hónap után újraindult a cernavodai atomerőmű első reaktora",
-        "link": "https://www.mediatica.ro/hirek/aktualis/negy-honap-utan-ujraindult-a-cernavodai-atomeromu-elso-reaktora"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Premierul și ministrul Energiei merg la Centrala Nucleară de la Cernavodă, după repornirea Unității 1. Ce producție asigură reactorul",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/premierul-si-ministrul-energiei-merg-la-centrala-2569623.html"
-      }
-    ],
-    "published_at": 1794033716,
-    "title_hu": "Újra termel a cernavodai atomerőmű 1-es blokkja",
-    "lead_hu": "November 6-án, több mint három hónapos szünet után ismét áramot táplált a román hálózatba a cernavodai atomerőmű 1-es blokkja. A termelést fokozatosan növelik; november 7-én reggel már 272 megawattot adott, a 2-es egység újraindítása azonban továbbra is a Duna vízhozamától függ.",
-    "content_hu": "• **November 6-án visszakapcsolták az 1-es blokkot:** a Transelectrica adatai szerint 16:27-kor 42 megawattot termelt, ami az akkori 5651 megawattos országos termelés 0,74 százaléka volt. 18:21-re a teljesítménye 191 megawattra emelkedett, miközben a román áramtermelés 6252 megawattot ért el.\n\n• **November 7-én reggel tovább nőtt a termelés:** 6:30-kor a cernavodai erőmű 272 megawattot biztosított, az országos termelés 5,53 százalékát. A mintegy 700 megawatt névleges teljesítményű blokkot a tervek szerint fokozatosan állítják vissza, és aznap estére érheti el a normál üzemet.\n\n• **Az indítás biztonsági ellenőrzések után kezdődött:** a CNCAN szakemberei megfelelőnek ítélték a garantált leállási állapot feloldásához szükséges feltételeket. A Nuclearelectrica szerint az újraindítási műveletek nem veszélyeztették a nukleáris biztonságot, a dolgozókat vagy a lakosságot.\n\n• **A leállást a Duna alacsony vízhozama okozta:** az 1-es blokkot július 28-án, a 2-est augusztus 13-án kapcsolták le, mert nem állt rendelkezésre elegendő hűtővíz. Baziașnál november 4-én másodpercenként körülbelül 1700 köbméter volt a vízhozam, szemben az adott hónap 4700 köbméteres sokéves átlagával.\n\n• **A 2-es blokk indítása tartós vízszint-emelkedéstől függ**, mondta Mihai Gioară, a Nuclearelectrica vezetője. A kormányfő, Luca Niculescu és Dumitru Chisăliță energiaügyi miniszter november 7-én felkeresi az erőművet. A kiesés pénzügyi hatásairól nincs hivatalos összesítés; a hiányzó termelést importtal is pótolták. A két blokk normál körülmények között a román áramtermelés mintegy ötödét adja.",
-    "title_ro": "Unitatea 1 de la Cernavodă a reluat producția de electricitate",
-    "lead_ro": "Pe 6 noiembrie, după o întrerupere de peste trei luni, Unitatea 1 a centralei de la Cernavodă a început să livreze din nou energie în rețeaua României. Producția este majorată treptat; în dimineața de 7 noiembrie ajunsese la 272 MW, în timp ce repornirea Unității 2 depinde în continuare de debitul Dunării.",
-    "content_ro": "• **Unitatea 1 a fost reconectată pe 6 noiembrie:** datele Transelectrica arată că la ora 16:27 reactorul producea 42 MW, adică 0,74% din producția națională de 5.651 MW. La 18:21, puterea sa ajunsese la 191 MW, iar producția totală a țării era de 6.252 MW.\n\n• **Producția a crescut și în dimineața următoare:** la ora 6:30, centrala de la Cernavodă livra 272 MW, echivalentul a 5,53% din totalul național. Unitatea, cu o putere nominală de aproximativ 700 MW, este readusă treptat la funcționarea obișnuită, estimată să fie atinsă în cursul zilei de 7 noiembrie.\n\n• **Repornirea a fost precedată de verificări de siguranță:** specialiștii CNCAN au stabilit că sunt îndeplinite condițiile pentru încheierea stării de oprire garantată și demararea procedurilor. Nuclearelectrica a precizat că operațiunile nu au afectat securitatea nucleară, personalul sau populația.\n\n• **Debitul redus al Dunării a dus la oprirea reactoarelor:** Unitatea 1 a fost oprită la 28 iulie, iar Unitatea 2 la 13 august, din cauza lipsei apei necesare răcirii. La Baziaș, pe 4 noiembrie, debitul era de circa 1.700 de metri cubi pe secundă, față de media multianuală din noiembrie, de aproximativ 4.700.\n\n• **Reluarea funcționării Unității 2 necesită o creștere susținută a nivelului Dunării**, potrivit lui Mihai Gioară, directorul Nuclearelectrica. Premierul Luca Niculescu și ministrul Energiei, Dumitru Chisăliță, au programată o vizită la centrală pe 7 noiembrie. Nu există o evaluare oficială a pierderilor provocate de oprire; deficitul a fost acoperit și prin importuri. În condiții normale, cele două reactoare furnizează aproximativ o cincime din electricitatea României.",
-    "importance_score": 125.0
   },
   {
     "group_id": "group_8449c601e1",
@@ -2329,6 +2339,40 @@
     "importance_score": 53.0
   },
   {
+    "group_id": "group_45cb8c3a3a",
+    "fingerprint": "e262bb29e4d067dc1f86c67ee82e7540",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Minel Prina, fost primar al Slatinei condamnat în dosarul de corupţie al lui Darius Vâlcov, va fi eliberat condiţionat",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/minel-prina-fost-primar-al-slatinei-condamnat-in-dosarul-de-coruptie-al-lui-darius-valcov-va-fi-eliberat-conditionat-4025447"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Fostul primar al Slatinei, Minel Prina, condamnat în dosarul lui Darius Vâlcov, a fost eliberat condiționat. Decizia este definitivă",
+        "link": "https://www.mediafax.ro/politic/fostul-primar-al-slatinei-minel-prina-condamnat-in-dosarul-lui-darius-valcov-a-fost-eliberat-conditionat-decizia-este-definitiva-23838948"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Minel Prina, fostul primar al Slatinei, a fost eliberat condiționat din penitenciarul Jilava. Decizia Tribunalului Ilfov este definitivă",
+        "link": "https://stirileprotv.ro/stiri/actualitate/minel-prina-fostul-primar-al-slatinei-a-fost-eliberat-conditionat-din-penitenciarul-jilava-decizia-tribunalului-ilfov-este-definitiva.html"
+      }
+    ],
+    "published_at": 1794032285,
+    "title_hu": "Jogerős döntéssel szabadulhat feltételesen Minel Prina",
+    "lead_hu": "Az Ilfovi Törvényszék helyt adott Minel Prina fellebbezésének, így a volt slatinai polgármester feltételesen elhagyhatja a Jilava börtönt. A négy és fél éves büntetést Darius Vâlcov korrupciós ügyében szabták ki rá.",
+    "content_hu": "• **Az Ilfovi Törvényszék pénteki, jogerős határozata** megváltoztatta a bukaresti 4. kerületi bíróság októberi elutasító döntését, és helyt adott Prina feltételes szabadlábra helyezési kérelmének. A törvényszék az ügyet újból érdemben megvizsgálta, és elrendelte a feltételes szabadon bocsátását.\n\n• **A korábbi végzés adatai** szerint az elsőfokú határozat 2026. október 7-én született a 32079/4/2026. számú büntetőügyben; az elutasító döntés száma 3054 volt. Az Ilfovi Törvényszék ezt a végzést helyezte hatályon kívül.\n\n• **A szabadlábra helyezés jogalapjaként** a bíróság a román büntetőeljárási törvény 587. cikkét, valamint az 1969-es büntető törvénykönyv 59. cikkét jelölte meg. A rendelkezés a Jilava börtönben fogva tartott Prina büntetés-végrehajtási mandátumára vonatkozik.\n\n• **Prina büntetése négy év és hat hónap**, amelyet befolyással üzérkedésért és pénzmosásban való bűnrészességért szabtak ki. Az ügy Darius Vâlcov, Slatina volt polgármesterének és korábbi pénzügyminiszterének korrupciós eljárásához kapcsolódik, amelyet „Festmények ügyeként” is emlegetnek.\n\n• **Az alapítéletet 2024. szeptember 17-én hozták meg**, a büntetés végrehajtására szóló mandátumot pedig 2024. október 9-én állították ki. A dokumentumok az alapítélet 1117-es, a végrehajtási mandátum 2999-es számát is feltüntetik; Prina 2023 vége óta volt fogva tartásban.",
+    "title_ro": "Minel Prina poate fi eliberat condiționat în urma unei decizii definitive",
+    "lead_ro": "Tribunalul Ilfov a admis contestația lui Minel Prina, fost primar al Slatinei, permițându-i să părăsească în regim condiționat penitenciarul Jilava. Acesta execută o pedeapsă de patru ani și șase luni, stabilită în dosarul de corupție al lui Darius Vâlcov.",
+    "content_ro": "• **Hotărârea definitivă pronunțată vineri de Tribunalul Ilfov** a schimbat soluția de respingere dată în octombrie de Judecătoria Sectorului 4 București. Instanța a reanalizat cererea lui Prina și a aprobat eliberarea sa condiționată.\n\n• **Decizia contestată** a fost emisă la 7 octombrie 2026, în dosarul penal 32079/4/2026, sub numărul 3054. Tribunalul Ilfov a anulat această soluție înainte de a se pronunța asupra cererii în fond.\n\n• **Temeiul juridic indicat de instanță** cuprinde articolul 587 din Codul de procedură penală și articolul 59 din Codul Penal din 1969. Măsura privește mandatul în baza căruia Prina era deținut la Penitenciarul București Jilava.\n\n• **Pedeapsa lui Prina este de patru ani și șase luni de închisoare**, aplicată pentru trafic de influență și complicitate la spălare de bani. Dosarul este legat de ancheta de corupție a lui Darius Vâlcov, fost primar al Slatinei și fost ministru al Finanțelor, cunoscută și ca „Dosarul Tablourilor”.\n\n• **Sentința de condamnare a fost pronunțată la 17 septembrie 2024**, iar mandatul de executare a fost emis la 9 octombrie în același an. Documentele indică numărul 1117 pentru sentință și 2999 pentru mandat; Prina se află în detenție de la sfârșitul anului 2023.",
+    "importance_score": 50.0
+  },
+  {
     "group_id": "group_7cfbc4a82d",
     "fingerprint": "9d0dc7fb84ef5d823e21f78b5a404558",
     "category": "Általános",
@@ -2370,40 +2414,6 @@
     "title_ro": "Amenințare cu bombă într-un tren care mergea spre Brașov",
     "lead_ro": "Un bărbat de 62 de ani a amenințat, la 6 noiembrie 2026, că va arunca în aer un tren spre Brașov; potrivit relatărilor din presă, el ar fi spus și că are o bombă. Polițiștii l-au identificat înainte ca trenul să ajungă în gară, l-au amendat cu 4.000 de lei și au solicitat o evaluare medicală.",
     "content_ro": "• **La 6 noiembrie 2026**, un bărbat de 62 de ani din județul Bistrița-Năsăud a amenințat, printr-un apel la 112, că va arunca în aer un tren de călători care se îndrepta spre Brașov. Apelul a fost făcut în timp ce garnitura traversa județul Prahova. Unele relatări din presă menționează că bărbatul ar fi susținut că are o bombă.\n\n• **Polițiștii i-au stabilit identitatea înainte de sosirea trenului la Brașov.** Echipele Poliției Transporturi și ale Inspectoratului de Poliție Județean au verificat pasagerii în gară și l-au găsit pe bărbat. Presa l-a identificat ca fiind din municipiul Bistrița.\n\n• **În urma controlului nu au fost găsite obiecte sau dispozitive periculoase.** Bărbatul a recunoscut că a apelat numărul de urgență, iar verificarea telefonului mobil folosit a susținut declarația acestuia. Relatările nu indică descoperirea vreunui dispozitiv exploziv în tren.\n\n• **Bărbatul a primit o amendă de 4.000 de lei** pentru folosirea abuzivă a numărului 112, în temeiul O.U.G. nr. 34/2008. Sancțiunea a fost aplicată după verificările desfășurate de polițiști.\n\n• **A fost inițiată procedura pentru evaluarea medicală de specialitate**, iar personalul medical urmează să decidă dacă este necesară internarea. Poliția a atras atenția că alertele neadevărate pot mobiliza fără motiv echipajele de urgență și pot întârzia intervenția în cazuri reale.",
-    "importance_score": 53.0
-  },
-  {
-    "group_id": "group_45cb8c3a3a",
-    "fingerprint": "e262bb29e4d067dc1f86c67ee82e7540",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Minel Prina, fost primar al Slatinei condamnat în dosarul de corupţie al lui Darius Vâlcov, va fi eliberat condiţionat",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/minel-prina-fost-primar-al-slatinei-condamnat-in-dosarul-de-coruptie-al-lui-darius-valcov-va-fi-eliberat-conditionat-4025447"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Fostul primar al Slatinei, Minel Prina, condamnat în dosarul lui Darius Vâlcov, a fost eliberat condiționat. Decizia este definitivă",
-        "link": "https://www.mediafax.ro/politic/fostul-primar-al-slatinei-minel-prina-condamnat-in-dosarul-lui-darius-valcov-a-fost-eliberat-conditionat-decizia-este-definitiva-23838948"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Minel Prina, fostul primar al Slatinei, a fost eliberat condiționat din penitenciarul Jilava. Decizia Tribunalului Ilfov este definitivă",
-        "link": "https://stirileprotv.ro/stiri/actualitate/minel-prina-fostul-primar-al-slatinei-a-fost-eliberat-conditionat-din-penitenciarul-jilava-decizia-tribunalului-ilfov-este-definitiva.html"
-      }
-    ],
-    "published_at": 1794032285,
-    "title_hu": "Jogerős döntéssel szabadulhat feltételesen Minel Prina",
-    "lead_hu": "Az Ilfovi Törvényszék helyt adott Minel Prina fellebbezésének, így a volt slatinai polgármester feltételesen elhagyhatja a Jilava börtönt. A négy és fél éves büntetést Darius Vâlcov korrupciós ügyében szabták ki rá.",
-    "content_hu": "• **Az Ilfovi Törvényszék pénteki, jogerős határozata** megváltoztatta a bukaresti 4. kerületi bíróság októberi elutasító döntését, és helyt adott Prina feltételes szabadlábra helyezési kérelmének. A törvényszék az ügyet újból érdemben megvizsgálta, és elrendelte a feltételes szabadon bocsátását.\n\n• **A korábbi végzés adatai** szerint az elsőfokú határozat 2026. október 7-én született a 32079/4/2026. számú büntetőügyben; az elutasító döntés száma 3054 volt. Az Ilfovi Törvényszék ezt a végzést helyezte hatályon kívül.\n\n• **A szabadlábra helyezés jogalapjaként** a bíróság a román büntetőeljárási törvény 587. cikkét, valamint az 1969-es büntető törvénykönyv 59. cikkét jelölte meg. A rendelkezés a Jilava börtönben fogva tartott Prina büntetés-végrehajtási mandátumára vonatkozik.\n\n• **Prina büntetése négy év és hat hónap**, amelyet befolyással üzérkedésért és pénzmosásban való bűnrészességért szabtak ki. Az ügy Darius Vâlcov, Slatina volt polgármesterének és korábbi pénzügyminiszterének korrupciós eljárásához kapcsolódik, amelyet „Festmények ügyeként” is emlegetnek.\n\n• **Az alapítéletet 2024. szeptember 17-én hozták meg**, a büntetés végrehajtására szóló mandátumot pedig 2024. október 9-én állították ki. A dokumentumok az alapítélet 1117-es, a végrehajtási mandátum 2999-es számát is feltüntetik; Prina 2023 vége óta volt fogva tartásban.",
-    "title_ro": "Minel Prina poate fi eliberat condiționat în urma unei decizii definitive",
-    "lead_ro": "Tribunalul Ilfov a admis contestația lui Minel Prina, fost primar al Slatinei, permițându-i să părăsească în regim condiționat penitenciarul Jilava. Acesta execută o pedeapsă de patru ani și șase luni, stabilită în dosarul de corupție al lui Darius Vâlcov.",
-    "content_ro": "• **Hotărârea definitivă pronunțată vineri de Tribunalul Ilfov** a schimbat soluția de respingere dată în octombrie de Judecătoria Sectorului 4 București. Instanța a reanalizat cererea lui Prina și a aprobat eliberarea sa condiționată.\n\n• **Decizia contestată** a fost emisă la 7 octombrie 2026, în dosarul penal 32079/4/2026, sub numărul 3054. Tribunalul Ilfov a anulat această soluție înainte de a se pronunța asupra cererii în fond.\n\n• **Temeiul juridic indicat de instanță** cuprinde articolul 587 din Codul de procedură penală și articolul 59 din Codul Penal din 1969. Măsura privește mandatul în baza căruia Prina era deținut la Penitenciarul București Jilava.\n\n• **Pedeapsa lui Prina este de patru ani și șase luni de închisoare**, aplicată pentru trafic de influență și complicitate la spălare de bani. Dosarul este legat de ancheta de corupție a lui Darius Vâlcov, fost primar al Slatinei și fost ministru al Finanțelor, cunoscută și ca „Dosarul Tablourilor”.\n\n• **Sentința de condamnare a fost pronunțată la 17 septembrie 2024**, iar mandatul de executare a fost emis la 9 octombrie în același an. Documentele indică numărul 1117 pentru sentință și 2999 pentru mandat; Prina se află în detenție de la sfârșitul anului 2023.",
     "importance_score": 50.0
   },
   {
@@ -2627,50 +2637,6 @@
     "importance_score": 50.0
   },
   {
-    "group_id": "group_5875b0c061",
-    "fingerprint": "e291c2476e1cfc3457f0921c6fee02ad",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Când sunt așteptate temperaturi mai blânde, după o perioadă de ger. Prognoza meteo pentru următoarele patru săptămâni",
-        "link": "https://stirileprotv.ro/stiri/vremea/cand-sunt-asteptate-temperaturi-mai-blande-dupa-o-perioada-de-ger-prognoza-meteo-pentru-urmatoarele-patru-saptamani.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "De la temperaturi scăzute la o uşoară încălzire. Cum va fi vremea până la începutul lunii decembrie",
-        "link": "https://www.digi24.ro/meteo/de-la-temperaturi-scazute-la-o-usoara-incalzire-cum-va-fi-vremea-pana-la-inceputul-lunii-decembrie-4024219"
-      },
-      {
-        "source": "Maszol",
-        "title": "Fagy, majd enyhülés – Így alakul az időjárás december elejéig",
-        "link": "https://maszol.ro/belfold/Fagy-majd-enyhules-Igy-alakul-az-idojaras-december-elejeig"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cum va fi vremea până la începutul lunii decembrie? ANM a emis prognoza",
-        "link": "https://www.mediafax.ro/meteo/cum-va-fi-vremea-in-urmatoarele-patru-saptamani-anm-a-emis-prognoza-2-23838530"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Una caldă, una rece de la meteorologi. Vremea se schimbă, dar vor fi temperaturi de până la minus 10 grade",
-        "link": "https://hotnews.ro/una-calda-una-rece-de-la-meteorologi-vremea-se-schimba-dar-vor-fi-temperaturi-de-pana-la-minus-10-grade-2395491"
-      }
-    ],
-    "published_at": 1793949000,
-    "title_hu": "Négyhetes időjárási kilátások: fagyos időszak után enyhe melegedés jöhet",
-    "lead_hu": "Az ANM november 9. és december 7. közötti prognózisa az előrejelzést egy hideg időszakot követő periódusra adta ki. Az első héten több térségben kissé hűvösebb lehet az idő az átlagosnál, majd enyhe melegedés körvonalazódik; a csapadék mennyisége többnyire a szokásos tartományban maradhat.",
-    "content_hu": "• **November 9–16.** A Kárpátokon kívüli országrészekben a heti átlaghőmérséklet kissé alacsonyabb lehet az ilyenkor megszokottnál, míg másutt nagyjából a sokéves átlaghoz igazodhat. A csapadék nyugaton, valamint a középső területek egyes részein haladhatja meg valamelyest a jellemző mennyiséget; az ország többi vidékén átlagközeli értékek valószínűek.\n\n• **November 16–23.** Erre a hétre már országos szinten enyhe hőmérsékleti többletet jeleznek, amely a Kárpátokon belüli térségekben lehet kifejezettebb. Nyugaton és északnyugaton valamivel több csapadék hullhat a megszokottnál, míg a többi régióban a mennyiség várhatóan nem tér el számottevően az átlagtól.\n\n• **November 23–30.** A heti középhőmérséklet az ország valamennyi részén a november végi időszakra jellemző szint körül alakulhat. A csapadékra vonatkozó becslés sem mutat lényeges területi eltérést: országosan a megszokott mennyiséghez közeli értékek várhatók.\n\n• **November 30. – december 7.** A Kárpátokon belüli régiókban kissé enyhébb lehet az idő a sokéves normánál, az ország más részein pedig többnyire átlagos hőmérsékletek valószínűek. A csapadék mennyisége a legtöbb térségben a megszokott közelében maradhat. A négyhetes előrejelzés ECMWF-számításokra támaszkodik, összehasonlítási alapja a 2006–2025 közötti időszak átlaga; az új közlés a prognózist egy fagyos időszak utánra helyezi.",
-    "title_ro": "Prognoză pe patru săptămâni: după frig, este posibilă o încălzire ușoară",
-    "lead_ro": "Prognoza ANM pentru intervalul 9 noiembrie–7 decembrie a fost prezentată ca o estimare pentru perioada de după un episod de frig sever. Prima săptămână ar putea aduce temperaturi puțin sub valorile obișnuite în unele regiuni, urmate de o încălzire moderată; precipitațiile sunt estimate, în general, în jurul nivelurilor normale.",
-    "content_ro": "• **9–16 noiembrie.** În zonele din afara arcului carpatic, media temperaturilor ar putea coborî ușor sub nivelul caracteristic perioadei, în timp ce în restul țării valorile ar urma să fie apropiate de cele obișnuite. Precipitațiile pot depăși moderat cantitățile normale în vest și pe alocuri în centru; în celelalte regiuni sunt estimate valori apropiate de medie.\n\n• **16–23 noiembrie.** Pentru această săptămână este prognozată o abatere termică pozitivă ușoară la nivel național, mai evidentă în regiunile din interiorul arcului carpatic. În vest și nord-vest ar putea cădea ceva mai multe precipitații decât de obicei, în timp ce în restul țării cantitățile ar trebui să rămână în apropierea mediilor climatologice.\n\n• **23–30 noiembrie.** Temperaturile medii săptămânale sunt estimate în jurul reperelor obișnuite pentru finalul lunii, indiferent de regiune. Nici în privința precipitațiilor nu este anticipată o abatere importantă: valorile ar urma să se mențină, la scară națională, aproape de cele specifice intervalului.\n\n• **30 noiembrie–7 decembrie.** În zonele intracarpatice, temperaturile ar putea fi ușor mai ridicate decât media multianuală, iar în celelalte regiuni sunt așteptate valori în general normale. Cantitățile de precipitații ar trebui să rămână apropiate de cele obișnuite în cea mai mare parte a țării. Estimarea pe patru săptămâni se bazează pe calcule ECMWF și folosește drept referință media anilor 2006–2025; noua relatare o plasează după un episod de ger.",
-    "importance_score": 50.0
-  },
-  {
     "group_id": "group_0b3d57e470",
     "fingerprint": "42ca86c881457726df71d5786b1bb10b",
     "category": "Általános",
@@ -2739,6 +2705,40 @@
     "title_ro": "Termenii cheie din acordul lui Trump cu Rusia care „cuprinde întreaga Europă” preiau cuvând cu cuvânt discursul Kremlinului",
     "lead_ro": "Secretarul de Stat american Marco Rubio va participa la o reuniune a omologilor săi din G7 la Paris săptămâna viitoare, a anunţat Departamentul de Stat vineri, la doar câteva zile după înfrângerea rep…",
     "content_ro": "Secretarul de Stat american Marco Rubio va participa la o reuniune a omologilor săi din G7 la Paris săptămâna viitoare, a anunţat Departamentul de Stat vineri, la doar câteva zile după înfrângerea republicanilor în alegerile intermediare din SUA.",
+    "importance_score": 45.0
+  },
+  {
+    "group_id": "group_fa186f351a",
+    "fingerprint": "ae91007ca57356bd0165ae96eb8cf48e",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Trei milioane de oameni nu își pot retrage banii din banca la care a fost acționar",
+        "link": "https://www.mediafax.ro/externe/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-trei-milioane-de-oameni-nu-isi-pot-retrage-banii-din-banca-la-care-a-fost-actionar-23839096"
+      },
+      {
+        "source": "G4Media",
+        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Jumătate din populația țării nu își poate retrage banii din banca la care a fost acționar",
+        "link": "https://www.g4media.ro/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-jumatate-din-populatia-tarii-nu-isi-poate-retrage-banii-din-banca-la-care-a-fost-actionar.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Președintele din Paraguay, destituit și arestat la domiciliu după ce 3.000.000 de oameni nu își pot retrage banii din conturi",
+        "link": "https://hotnews.ro/presedintele-din-paraguay-destituit-si-arestat-la-domiciliu-dupa-ce-3-000-000-de-oameni-nu-isi-pot-retrage-banii-din-conturi-2397408"
+      }
+    ],
+    "published_at": 1794028765,
+    "title_hu": "Paraguayban leváltották az elnököt az Ueno Bank összeomlása után",
+    "lead_hu": "A paraguayi parlament pénteken megszavazta Santiago Peña elnök eltávolítását, miután összeomlott az Ueno Bank, amelyben korábban részesedése volt. A bank működésének leállása mintegy hárommillió ügyfelet érintett; Peña ellenérdekűséggel és a felügyelet befolyásolásával kapcsolatos vádakat utasított vissza.",
+    "content_hu": "• **Pénteken a paraguayi parlament megszavazta Santiago Peña elnök leváltását**, és a döntést saját pártjának több képviselője is támogatta. A szavazást követően a hatóságok házi őrizetet rendeltek el vele szemben. Peña előző nap videóüzenetben jelentette be lemondását, a törvényhozás azonban nem fogadta el ezt, hanem folytatta a tisztségéből való eltávolítási eljárást.\n\n• **Az Ueno Bank csődje mintegy hárommillió ügyfél pénzéhez való hozzáférést korlátozta.** A paraguayi jegybank átvette az intézmény irányítását, és leállította a banki műveleteket. Az ügyfelek között a felnőtt lakosság hozzávetőleg 60 százaléka szerepelt; a bank állami pénzeket és nyugdíjrendszeri forrásokat is kezelt. A betéteseknek megkezdődtek a kifizetések, de sokan továbbra sem fértek hozzá teljes megtakarításukhoz és nyugdíjukhoz.\n\n• **A bank összeomlása tiltakozásokat váltott ki Asunciónban és más városokban.** A demonstrálók a pénzük visszafizetését és a felelősök elszámoltatását követelték. A Grupo Vázquez pénzügyi csoporthoz tartozó bank ügyében a parlamenti vádemelést támogatók Peñát összeférhetetlenséggel, a bankfelügyelet munkájába való beavatkozással, valamint a nyugdíjforrások nem megfelelő kezelésével vádolták.\n\n• **Peña 2025-ig részvényes volt a Grupo Vázquezben, amely az Ueno Bankot ellenőrizte.** A képviselők egy része azzal is megvádolta, hogy részt vett a történtek eltitkolásában, amelyben a jegybank szerepét is vizsgálják. Peña tagadta a jogsértést, és alaptalannak nevezte az ellene felhozott állításokat. A leváltással elveszítette azt a lehetőséget is, hogy élethosszig tartó szenátori helyet kapjon, amely mentességet biztosított volna számára.",
+    "title_ro": "Paraguay: președintele a fost înlăturat după prăbușirea Ueno Bank",
+    "lead_ro": "Parlamentul paraguayan a votat vineri înlăturarea președintelui Santiago Peña, după falimentul Ueno Bank, instituție în care acesta deținuse anterior acțiuni. Blocarea operațiunilor băncii a afectat accesul la bani pentru aproximativ trei milioane de clienți, iar Peña a respins acuzațiile privind conflicte de interese și influențarea supravegherii bancare.",
+    "content_ro": "• **Vineri, parlamentarii paraguayeni au aprobat înlăturarea președintelui Santiago Peña**, cu sprijinul unor membri ai propriului său partid. După vot, autoritățile au dispus plasarea lui în arest la domiciliu. Peña anunțase joi, într-un mesaj video, că demisionează, însă legislativul nu a acceptat această variantă și a continuat procedura de destituire.\n\n• **Falimentul Ueno Bank a restricționat accesul la bani pentru aproximativ trei milioane de clienți.** Banca Centrală a Paraguayului a preluat conducerea instituției și a suspendat operațiunile. Clienții reprezentau circa 60% din populația adultă, iar banca administra și fonduri publice, precum și resurse ale sistemului de pensii. Plățile către deponenți au început, dar numeroși clienți nu își puteau accesa încă toate economiile și pensiile.\n\n• **Prăbușirea băncii a provocat manifestații în Asunción și în alte orașe.** Participanții au cerut recuperarea banilor și tragerea la răspundere a celor considerați responsabili. Parlamentarii care au susținut destituirea l-au acuzat pe Peña de conflicte de interese, de amestec în activitatea de supraveghere bancară și de administrarea necorespunzătoare a fondurilor de pensii.\n\n• **Peña a deținut acțiuni în Grupo Vázquez până în 2025; grupul controla Ueno Bank.** Unii dintre susținătorii înlăturării l-au acuzat și de implicare în ascunderea situației, în care este analizat și rolul Băncii Centrale. Peña a negat că ar fi încălcat legea și a respins acuzațiile. Odată cu destituirea, a pierdut și posibilitatea de a ocupa un loc permanent în Senat, poziție care i-ar fi oferit imunitate.",
     "importance_score": 45.0
   },
   {
@@ -3502,35 +3502,6 @@
     "title_ro": "Bărbat reținut în apropierea Casei Albe după ce au fost găsite arme într-un vehicul",
     "lead_ro": "Secret Service a reținut la Washington un venezuelean de 26 de ani, după ce a descoperit mai multe arme într-o mașină raportată ca furată. Potrivit Departamentului pentru Securitate Internă, bărbatul le-ar fi spus agenților că vocile din mintea sa îl îndemnau să îl ucidă pe Donald Trump.",
     "content_ro": "• **Joi, în jurul orei 23:42**, agenți ai Secret Service au verificat o camionetă Ford F-150 parcată pe Constitution Avenue, la Washington. Vehiculul fusese semnalat ca furat, iar bărbatul găsit dormind în interior a fost abordat inițial pentru a se verifica dacă avea nevoie de ajutor.\n\n• **Autoritățile l-au identificat pe bărbat drept Ronny Yordrix Guanipa Chrinos, în vârstă de 26 de ani.** Conform relatărilor, acesta a folosit o aplicație de traducere pe telefon pentru a le comunica agenților că voia să predea armele autorităților. În camionetă au fost găsite o pușcă de tip AR-15, o armă MAC-10, un pistol Glock 43X și muniție.\n\n• **Departamentul pentru Securitate Internă a relatat** că bărbatul le-ar fi spus agenților că vocile pe care le auzea în minte l-au îndrumat să vină la Washington și să îl omoare pe Donald Trump. Afirmația este atribuită autorităților și nu reprezintă o constatare independentă. Intervenția a avut loc în legătură cu suspiciunea de amenințare.\n\n• **În declarațiile făcute anchetatorilor**, bărbatul ar fi spus că Ford-ul aparținea șefului său și că achiziționase armele cu aproximativ o lună înainte. El ar fi locuit în vehicul. Potrivit DHS, a intrat ilegal în Statele Unite în martie 2024, a fost reținut de Poliția de Frontieră și ulterior eliberat.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_fa186f351a",
-    "fingerprint": "ae91007ca57356bd0165ae96eb8cf48e",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Trei milioane de oameni nu își pot retrage banii din banca la care a fost acționar",
-        "link": "https://www.mediafax.ro/externe/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-trei-milioane-de-oameni-nu-isi-pot-retrage-banii-din-banca-la-care-a-fost-actionar-23839096"
-      },
-      {
-        "source": "G4Media",
-        "title": "Președintele Paraguayului, destituit și arestat la domiciliu. Jumătate din populația țării nu își poate retrage banii din banca la care a fost acționar",
-        "link": "https://www.g4media.ro/presedintele-paraguayului-destituit-si-arestat-la-domiciliu-jumatate-din-populatia-tarii-nu-isi-poate-retrage-banii-din-banca-la-care-a-fost-actionar.html"
-      }
-    ],
-    "published_at": 1794028765,
-    "title_hu": "Paraguayban leváltották az elnököt az Ueno Bank összeomlása után",
-    "lead_hu": "A paraguayi parlament pénteken megszavazta Santiago Peña elnök eltávolítását, miután összeomlott az Ueno Bank, amelyben korábban részesedése volt. A bank működésének leállása mintegy hárommillió ügyfelet érintett; Peña ellenérdekűséggel és a felügyelet befolyásolásával kapcsolatos vádakat utasított vissza.",
-    "content_hu": "• **Pénteken a paraguayi parlament megszavazta Santiago Peña elnök leváltását**, és a döntést saját pártjának több képviselője is támogatta. A szavazást követően a hatóságok házi őrizetet rendeltek el vele szemben. Peña előző nap videóüzenetben jelentette be lemondását, a törvényhozás azonban nem fogadta el ezt, hanem folytatta a tisztségéből való eltávolítási eljárást.\n\n• **Az Ueno Bank csődje mintegy hárommillió ügyfél pénzéhez való hozzáférést korlátozta.** A paraguayi jegybank átvette az intézmény irányítását, és leállította a banki műveleteket. Az ügyfelek között a felnőtt lakosság hozzávetőleg 60 százaléka szerepelt; a bank állami pénzeket és nyugdíjrendszeri forrásokat is kezelt. A betéteseknek megkezdődtek a kifizetések, de sokan továbbra sem fértek hozzá teljes megtakarításukhoz és nyugdíjukhoz.\n\n• **A bank összeomlása tiltakozásokat váltott ki Asunciónban és más városokban.** A demonstrálók a pénzük visszafizetését és a felelősök elszámoltatását követelték. A Grupo Vázquez pénzügyi csoporthoz tartozó bank ügyében a parlamenti vádemelést támogatók Peñát összeférhetetlenséggel, a bankfelügyelet munkájába való beavatkozással, valamint a nyugdíjforrások nem megfelelő kezelésével vádolták.\n\n• **Peña 2025-ig részvényes volt a Grupo Vázquezben, amely az Ueno Bankot ellenőrizte.** A képviselők egy része azzal is megvádolta, hogy részt vett a történtek eltitkolásában, amelyben a jegybank szerepét is vizsgálják. Peña tagadta a jogsértést, és alaptalannak nevezte az ellene felhozott állításokat. A leváltással elveszítette azt a lehetőséget is, hogy élethosszig tartó szenátori helyet kapjon, amely mentességet biztosított volna számára.",
-    "title_ro": "Paraguay: președintele a fost înlăturat după prăbușirea Ueno Bank",
-    "lead_ro": "Parlamentul paraguayan a votat vineri înlăturarea președintelui Santiago Peña, după falimentul Ueno Bank, instituție în care acesta deținuse anterior acțiuni. Blocarea operațiunilor băncii a afectat accesul la bani pentru aproximativ trei milioane de clienți, iar Peña a respins acuzațiile privind conflicte de interese și influențarea supravegherii bancare.",
-    "content_ro": "• **Vineri, parlamentarii paraguayeni au aprobat înlăturarea președintelui Santiago Peña**, cu sprijinul unor membri ai propriului său partid. După vot, autoritățile au dispus plasarea lui în arest la domiciliu. Peña anunțase joi, într-un mesaj video, că demisionează, însă legislativul nu a acceptat această variantă și a continuat procedura de destituire.\n\n• **Falimentul Ueno Bank a restricționat accesul la bani pentru aproximativ trei milioane de clienți.** Banca Centrală a Paraguayului a preluat conducerea instituției și a suspendat operațiunile. Clienții reprezentau circa 60% din populația adultă, iar banca administra și fonduri publice, precum și resurse ale sistemului de pensii. Plățile către deponenți au început, dar numeroși clienți nu își puteau accesa încă toate economiile și pensiile.\n\n• **Prăbușirea băncii a provocat manifestații în Asunción și în alte orașe.** Participanții au cerut recuperarea banilor și tragerea la răspundere a celor considerați responsabili. Parlamentarii care au susținut destituirea l-au acuzat pe Peña de conflicte de interese, de amestec în activitatea de supraveghere bancară și de administrarea necorespunzătoare a fondurilor de pensii.\n\n• **Peña a deținut acțiuni în Grupo Vázquez până în 2025; grupul controla Ueno Bank.** Unii dintre susținătorii înlăturării l-au acuzat și de implicare în ascunderea situației, în care este analizat și rolul Băncii Centrale. Peña a negat că ar fi încălcat legea și a respins acuzațiile. Odată cu destituirea, a pierdut și posibilitatea de a ocupa un loc permanent în Senat, poziție care i-ar fi oferit imunitate.",
     "importance_score": 35.0
   },
   {
@@ -6309,6 +6280,160 @@
     "lead_ro": "Înalta Curte de Casație și Justiție a respins definitiv recursul formulat de Asociația Bankwatch România - Filiala Kolozsvár în dosarul privind autorizația de construire a gazoductului Tuzla-Podișor, …",
     "content_ro": "Înalta Curte de Casație și Justiție a respins definitiv recursul formulat de Asociația Bankwatch România - Filiala Kolozsvár în dosarul privind autorizația de construire a gazoductului Tuzla-Podișor, conducta prin care gazele extrase din perimetrul Neptun Deep vor intra în Sistemul Național de Transport. Proiectul, evaluat la peste 500 de milioane de euro, este finalizat și a fost pus în funcțiune de Transgaz.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_2081d456dd",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Trupele europene își testează capacitatea operațională în Polonia, Turcia anunță exerciți naval în Marea Neagră în speranța că va exista pace în Ucraina",
+        "link": "https://adevarul.ro/blogurile-adevarul/trupele-europene-isi-testeaza-capacitatea-2569629.html"
+      }
+    ],
+    "published_at": 1794035674,
+    "title_hu": "Trupele europene își testează capacitatea operațională în Polonia, Turcia anunță exerciți naval în Marea Neagră în speranța că va exista pace în Ucraina",
+    "lead_hu": "Vine luni doamna von den Leyen la București. Interesantă vizită și cu atât mai interesant momentul în care se desfășoară....",
+    "content_hu": "Vine luni doamna von den Leyen la București. Interesantă vizită și cu atât mai interesant momentul în care se desfășoară.",
+    "title_ro": "Trupele europene își testează capacitatea operațională în Polonia, Turcia anunță exerciți naval în Marea Neagră în speranța că va exista pace în Ucraina",
+    "lead_ro": "Vine luni doamna von den Leyen la București. Interesantă vizită și cu atât mai interesant momentul în care se desfășoară....",
+    "content_ro": "Vine luni doamna von den Leyen la București. Interesantă vizită și cu atât mai interesant momentul în care se desfășoară.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_c6a14bcd06",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Mocăniță, întreținut de fosta iubita? Fostul socru i-ar fi făcut salonul din București: ”Stătea cu ea pentru bani”",
+        "link": "https://www.cancan.ro/mocanita-intretinut-de-fosta-iubita-fostul-socru-i-ar-fi-facut-salonul-din-bucuresti-statea-cu-ea-pentru-bani-21543268"
+      }
+    ],
+    "published_at": 1794035671,
+    "title_hu": "Mocăniță, întreținut de fosta iubita? Fostul socru i-ar fi făcut salonul din București: ”Stătea cu ea pentru bani”",
+    "lead_hu": "Participarea lui Mocăniță și a Claudiei Ion la Insula Iubirii scoate la iveală tot mai multe detalii controversate despre trecutul celor doi. Deși au venit împreună în Thailanda, relația lor pare să s...",
+    "content_hu": "Participarea lui Mocăniță și a Claudiei Ion la Insula Iubirii scoate la iveală tot mai multe detalii controversate despre trecutul celor doi. Deși au venit împreună în Thailanda, relația lor pare să se destrame pe zi ce trece, iar apropierile de ispite au dat startul unor dezvăluiri neașteptate. După ce Claudia s-a apropiat de ispita […]",
+    "title_ro": "Mocăniță, întreținut de fosta iubita? Fostul socru i-ar fi făcut salonul din București: ”Stătea cu ea pentru bani”",
+    "lead_ro": "Participarea lui Mocăniță și a Claudiei Ion la Insula Iubirii scoate la iveală tot mai multe detalii controversate despre trecutul celor doi. Deși au venit împreună în Thailanda, relația lor pare să s...",
+    "content_ro": "Participarea lui Mocăniță și a Claudiei Ion la Insula Iubirii scoate la iveală tot mai multe detalii controversate despre trecutul celor doi. Deși au venit împreună în Thailanda, relația lor pare să se destrame pe zi ce trece, iar apropierile de ispite au dat startul unor dezvăluiri neașteptate. După ce Claudia s-a apropiat de ispita […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_6cb53ec859",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "FCSB - Corvinul » Meci tare pe Arena Națională, cu gândul la play-off. Echipele probabile",
+        "link": "https://www.gsp.ro/fotbal/liga-1/live-fcsb-corvinul-superliga-etapa-15-996761.html"
+      }
+    ],
+    "published_at": 1794035581,
+    "title_hu": "FCSB - Corvinul » Meci tare pe Arena Națională, cu gândul la play-off. Echipele probabile",
+    "lead_hu": "FCSB și Corvinul se întâlnesc de la 20:30 într-una dintre cele mai interesante partide ale etapei a 15-a din Superligă, ultima din turul sezonului regulat. Partida va fi liveTEXT pe GSP.ro și în direc...",
+    "content_hu": "FCSB și Corvinul se întâlnesc de la 20:30 într-una dintre cele mai interesante partide ale etapei a 15-a din Superligă, ultima din turul sezonului regulat. Partida va fi liveTEXT pe GSP.ro și în direct pe Prima Sport 1 și Digi Sport 1. ...",
+    "title_ro": "FCSB - Corvinul » Meci tare pe Arena Națională, cu gândul la play-off. Echipele probabile",
+    "lead_ro": "FCSB și Corvinul se întâlnesc de la 20:30 într-una dintre cele mai interesante partide ale etapei a 15-a din Superligă, ultima din turul sezonului regulat. Partida va fi liveTEXT pe GSP.ro și în direc...",
+    "content_ro": "FCSB și Corvinul se întâlnesc de la 20:30 într-una dintre cele mai interesante partide ale etapei a 15-a din Superligă, ultima din turul sezonului regulat. Partida va fi liveTEXT pe GSP.ro și în direct pe Prima Sport 1 și Digi Sport 1. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e6a13e87f0",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Noi detalii în cazul camerelor ascunse în prizele unei cabane din Sibiu, descoperite de o creatoare de conținut: „Nu ne-am gândit nicio secundă”",
+        "link": "https://adevarul.ro/stiri-interne/societate/noi-detalii-in-cazul-camerelor-ascunse-in-prizele-2569622.html"
+      }
+    ],
+    "published_at": 1794035548,
+    "title_hu": "Noi detalii în cazul camerelor ascunse în prizele unei cabane din Sibiu, descoperite de o creatoare de conținut: „Nu ne-am gândit nicio secundă”",
+    "lead_hu": "Felicia Kopan, creatoare de conținut din Sibiu, a revenit cu noi explicații în cazul dispozitivelor de filmare și înregistrare audio pe care le-a descoperit împreună cu soțul său în camera unei cabane...",
+    "content_hu": "Felicia Kopan, creatoare de conținut din Sibiu, a revenit cu noi explicații în cazul dispozitivelor de filmare și înregistrare audio pe care le-a descoperit împreună cu soțul său în camera unei cabane unde erau cazați.",
+    "title_ro": "Noi detalii în cazul camerelor ascunse în prizele unei cabane din Sibiu, descoperite de o creatoare de conținut: „Nu ne-am gândit nicio secundă”",
+    "lead_ro": "Felicia Kopan, creatoare de conținut din Sibiu, a revenit cu noi explicații în cazul dispozitivelor de filmare și înregistrare audio pe care le-a descoperit împreună cu soțul său în camera unei cabane...",
+    "content_ro": "Felicia Kopan, creatoare de conținut din Sibiu, a revenit cu noi explicații în cazul dispozitivelor de filmare și înregistrare audio pe care le-a descoperit împreună cu soțul său în camera unei cabane unde erau cazați.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_972aec7150",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Csikszereda - U Cluj, primul meci al zilei în Superliga » Echipele probabile + cele mai tari cote",
+        "link": "https://www.gsp.ro/fotbal/liga-1/live-csikszereda-u-cluj-etapa-15-superliga-996568.html"
+      }
+    ],
+    "published_at": 1794035465,
+    "title_hu": "Csikszereda - U Cluj, primul meci al zilei în Superliga » Echipele probabile + cele mai tari cote",
+    "lead_hu": "Csikszereda - U Cluj, din etapa a 15-a a Superligii, se joacă astăzi, de la 15:00, pe Stadionul Municipal din Miercurea Ciuc. Meciul este transmis liveTEXT pe GSP.ro și în direct pe Digi Sport 1 și Pr...",
+    "content_hu": "Csikszereda - U Cluj, din etapa a 15-a a Superligii, se joacă astăzi, de la 15:00, pe Stadionul Municipal din Miercurea Ciuc. Meciul este transmis liveTEXT pe GSP.ro și în direct pe Digi Sport 1 și Prima Sport 1. Ciucanii vin după înfrângerea cu Rapid, din deplasare, scor 2-0, și caută al doilea rezultat pozitiv cu Valentin Suciu pe bancă. În urmă cu două runde, roș-negrii au remizat pe teren Oțelului (1-1). ...",
+    "title_ro": "Csikszereda - U Cluj, primul meci al zilei în Superliga » Echipele probabile + cele mai tari cote",
+    "lead_ro": "Csikszereda - U Cluj, din etapa a 15-a a Superligii, se joacă astăzi, de la 15:00, pe Stadionul Municipal din Miercurea Ciuc. Meciul este transmis liveTEXT pe GSP.ro și în direct pe Digi Sport 1 și Pr...",
+    "content_ro": "Csikszereda - U Cluj, din etapa a 15-a a Superligii, se joacă astăzi, de la 15:00, pe Stadionul Municipal din Miercurea Ciuc. Meciul este transmis liveTEXT pe GSP.ro și în direct pe Digi Sport 1 și Prima Sport 1. Ciucanii vin după înfrângerea cu Rapid, din deplasare, scor 2-0, și caută al doilea rezultat pozitiv cu Valentin Suciu pe bancă. În urmă cu două runde, roș-negrii au remizat pe teren Oțelului (1-1). ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_432bd03e19",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Timpul trece”. Amenințări cu bombă la televiziuni din Europa, semnate „Mihail Andropov”",
+        "link": "https://www.mediafax.ro/externe/timpul-trece-amenintari-cu-bomba-la-televiziuni-din-europa-semnate-mihail-andropov-23839144"
+      }
+    ],
+    "published_at": 1794035388,
+    "title_hu": "„Timpul trece”. Amenințări cu bombă la televiziuni din Europa, semnate „Mihail Andropov”",
+    "lead_hu": "Mai multe televiziuni din Europa, între care RTÉ din Irlanda, Sky din Marea Britanie și Nova TV din Bulgaria, au primit amenințări cu bombă care au dus la evacuări și la întreruperea programelor. Nu a...",
+    "content_hu": "Mai multe televiziuni din Europa, între care RTÉ din Irlanda, Sky din Marea Britanie și Nova TV din Bulgaria, au primit amenințări cu bombă care au dus la evacuări și la întreruperea programelor. Nu a fost găsit niciun exploziv.",
+    "title_ro": "„Timpul trece”. Amenințări cu bombă la televiziuni din Europa, semnate „Mihail Andropov”",
+    "lead_ro": "Mai multe televiziuni din Europa, între care RTÉ din Irlanda, Sky din Marea Britanie și Nova TV din Bulgaria, au primit amenințări cu bombă care au dus la evacuări și la întreruperea programelor. Nu a...",
+    "content_ro": "Mai multe televiziuni din Europa, între care RTÉ din Irlanda, Sky din Marea Britanie și Nova TV din Bulgaria, au primit amenințări cu bombă care au dus la evacuări și la întreruperea programelor. Nu a fost găsit niciun exploziv.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e19af97634",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Poate fi atacat de hackeri un frigider inteligent din locuință? Ce spun specialiștii",
+        "link": "https://www.mediafax.ro/social/poate-fi-atacat-de-hackeri-un-frigider-inteligent-din-locuinta-ce-spun-specialistii-23837545"
+      }
+    ],
+    "published_at": 1794035235,
+    "title_hu": "Poate fi atacat de hackeri un frigider inteligent din locuință? Ce spun specialiștii",
+    "lead_hu": "Atacurile cibernetice recente asupra sistemelor frigorifice din supermarketurile europene ridică întrebări privind securitatea aparatelor inteligente din locuințe, inclusiv a unui frigider conectat la...",
+    "content_hu": "Atacurile cibernetice recente asupra sistemelor frigorifice din supermarketurile europene ridică întrebări privind securitatea aparatelor inteligente din locuințe, inclusiv a unui frigider conectat la internet. Hackerii ar putea modifica setările acestora, accesa informații sau utiliza dispozitivele pentru a pătrunde în alte sisteme conectate la aceeași rețea.",
+    "title_ro": "Poate fi atacat de hackeri un frigider inteligent din locuință? Ce spun specialiștii",
+    "lead_ro": "Atacurile cibernetice recente asupra sistemelor frigorifice din supermarketurile europene ridică întrebări privind securitatea aparatelor inteligente din locuințe, inclusiv a unui frigider conectat la...",
+    "content_ro": "Atacurile cibernetice recente asupra sistemelor frigorifice din supermarketurile europene ridică întrebări privind securitatea aparatelor inteligente din locuințe, inclusiv a unui frigider conectat la internet. Hackerii ar putea modifica setările acestora, accesa informații sau utiliza dispozitivele pentru a pătrunde în alte sisteme conectate la aceeași rețea.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_440d16647f",
@@ -17465,6 +17590,28 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_16a19ce80b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un fost ministru suspectat că a câștigat 40 de milioane de dolari pe bursă a fost arestat în scandalul fondurilor de investiții din Turcia",
+        "link": "https://hotnews.ro/un-fost-ministru-suspectat-ca-a-castigat-40-de-milioane-de-dolari-pe-bursa-a-fost-arestat-in-scandalul-fondurilor-de-investitii-din-turcia-2396605"
+      }
+    ],
+    "published_at": 1793956776,
+    "title_hu": "Un fost ministru suspectat că a câștigat 40 de milioane de dolari pe bursă a fost arestat în scandalul fondurilor de investiții din Turcia",
+    "lead_hu": "Autoritățile din Turcia au arestat o fostă ministră și vicepreședintă a partidului de guvernământ al președintelui Recep Tayyip Erdogan, în legătură cu presupusa implicare a acesteia în scandalul de m...",
+    "content_hu": "Autoritățile din Turcia au arestat o fostă ministră și vicepreședintă a partidului de guvernământ al președintelui Recep Tayyip Erdogan, în legătură cu presupusa implicare a acesteia în scandalul de manipulare a prețurilor acțiunilor de pe bursă, care a dus la lichidarea a peste 100 de fonduri de investiții și a provocat un cutremur politic în …",
+    "title_ro": "Un fost ministru suspectat că a câștigat 40 de milioane de dolari pe bursă a fost arestat în scandalul fondurilor de investiții din Turcia",
+    "lead_ro": "Autoritățile din Turcia au arestat o fostă ministră și vicepreședintă a partidului de guvernământ al președintelui Recep Tayyip Erdogan, în legătură cu presupusa implicare a acesteia în scandalul de m...",
+    "content_ro": "Autoritățile din Turcia au arestat o fostă ministră și vicepreședintă a partidului de guvernământ al președintelui Recep Tayyip Erdogan, în legătură cu presupusa implicare a acesteia în scandalul de manipulare a prețurilor acțiunilor de pe bursă, care a dus la lichidarea a peste 100 de fonduri de investiții și a provocat un cutremur politic în …",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_fd9a35a1f6",
     "category": "Általános",
     "is_synthesized": false,
@@ -19486,160 +19633,6 @@
     "title_ro": "Operațiunea JUPITER 6, ziua a cincea: 277 de percheziții. Prejudicii de peste 25 de milioane de lei în zeci de dosare",
     "lead_ro": "În a cincea zi a Operațiunii JUPITER 6, polițiștii și procurorii fac 277 de percheziții în țară și în Capitală. Sunt vizate 29 de persoane, iar prejudiciul din zeci de dosare depășește 25 de milioane …",
     "content_ro": "În a cincea zi a Operațiunii JUPITER 6, polițiștii și procurorii fac 277 de percheziții în țară și în Capitală. Sunt vizate 29 de persoane, iar prejudiciul din zeci de dosare depășește 25 de milioane de lei.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_bd4bc3b3af",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Incidente pe două dintre autostrăzile României. O mașină a luat foc, iar un accident a lăsat o victimă încarcerată pe A2",
-        "link": "https://www.mediafax.ro/social/incidente-pe-doua-dintre-autostrazile-romaniei-o-masina-a-luat-foc-iar-un-accident-a-lasat-o-victima-incarcerata-pe-a2-23838533"
-      }
-    ],
-    "published_at": 1793949405,
-    "title_hu": "Incidente pe două dintre autostrăzile României. O mașină a luat foc, iar un accident a lăsat o victimă încarcerată pe A2",
-    "lead_hu": "Două incidente s-au produs vineri dimineață pe două dintre autostrăzile României. O mașină a luat foc pe A7, iar alte două autovehicule s-au ciocnit pe A2, în urma impactului rezultând o victimă încar…",
-    "content_hu": "Două incidente s-au produs vineri dimineață pe două dintre autostrăzile României. O mașină a luat foc pe A7, iar alte două autovehicule s-au ciocnit pe A2, în urma impactului rezultând o victimă încarcerată.",
-    "title_ro": "Incidente pe două dintre autostrăzile României. O mașină a luat foc, iar un accident a lăsat o victimă încarcerată pe A2",
-    "lead_ro": "Două incidente s-au produs vineri dimineață pe două dintre autostrăzile României. O mașină a luat foc pe A7, iar alte două autovehicule s-au ciocnit pe A2, în urma impactului rezultând o victimă încar…",
-    "content_ro": "Două incidente s-au produs vineri dimineață pe două dintre autostrăzile României. O mașină a luat foc pe A7, iar alte două autovehicule s-au ciocnit pe A2, în urma impactului rezultând o victimă încarcerată.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9bba8f63e1",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Két kiskorú is van a három őrizetbe vett fiatal között – Többször is lophattak fát a nyárádmenti erdőkből",
-        "link": "https://www.pontmaros.ro/ket-kiskoru-is-van-a-harom-orizetbe-vett-fiatal-kozott-tobbszor-is-lophattak-fat-a-nyaradmenti-erdokbol/"
-      }
-    ],
-    "published_at": 1793949300,
-    "title_hu": "Két kiskorú is van a három őrizetbe vett fiatal között – Többször is lophattak fát a nyárádmenti erdőkből",
-    "lead_hu": "Három, 16, 17 és 22 éves, jeddi fiatalembert vettek 24 órás őrizetbe a Maros megyei rendőrök, akiket azzal gyanúsítanak, hogy több alkalommal is fát tulajdonítottak …",
-    "content_hu": "Három, 16, 17 és 22 éves, jeddi fiatalembert vettek 24 órás őrizetbe a Maros megyei rendőrök, akiket azzal gyanúsítanak, hogy több alkalommal is fát tulajdonítottak …",
-    "title_ro": "Két kiskorú is van a három őrizetbe vett fiatal között – Többször is lophattak fát a nyárádmenti erdőkből",
-    "lead_ro": "Három, 16, 17 és 22 éves, jeddi fiatalembert vettek 24 órás őrizetbe a Maros megyei rendőrök, akiket azzal gyanúsítanak, hogy több alkalommal is fát tulajdonítottak …",
-    "content_ro": "Három, 16, 17 és 22 éves, jeddi fiatalembert vettek 24 órás őrizetbe a Maros megyei rendőrök, akiket azzal gyanúsítanak, hogy több alkalommal is fát tulajdonítottak …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6f0f14f40a",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Gabriella încă e îndrăgostită de Marco și la 8 luni după Insula iubirii: ”Ce am trăit cu el a fost intens”",
-        "link": "https://www.cancan.ro/gabriella-inca-e-indragostita-de-marco-si-la-8-luni-dupa-insula-iubirii-ce-am-trait-cu-el-a-fost-intens-21542825"
-      }
-    ],
-    "published_at": 1793949250,
-    "title_hu": "Gabriella încă e îndrăgostită de Marco și la 8 luni după Insula iubirii: ”Ce am trăit cu el a fost intens”",
-    "lead_hu": "Deși Marco s-a întors la soția sa, Bianca, Gabriella pare să păstreze o amintire specială a poveștii pe care au trăit-o în Thailanda. Modul în care vorbește despre el, la luni bune de la încheierea fi…",
-    "content_hu": "Deși Marco s-a întors la soția sa, Bianca, Gabriella pare să păstreze o amintire specială a poveștii pe care au trăit-o în Thailanda. Modul în care vorbește despre el, la luni bune de la încheierea filmărilor, ridică semne de întrebare cu privire la sentimentele pe care le-ar mai avea. Povestea dintre Gabriella și Marco, de […]",
-    "title_ro": "Gabriella încă e îndrăgostită de Marco și la 8 luni după Insula iubirii: ”Ce am trăit cu el a fost intens”",
-    "lead_ro": "Deși Marco s-a întors la soția sa, Bianca, Gabriella pare să păstreze o amintire specială a poveștii pe care au trăit-o în Thailanda. Modul în care vorbește despre el, la luni bune de la încheierea fi…",
-    "content_ro": "Deși Marco s-a întors la soția sa, Bianca, Gabriella pare să păstreze o amintire specială a poveștii pe care au trăit-o în Thailanda. Modul în care vorbește despre el, la luni bune de la încheierea filmărilor, ridică semne de întrebare cu privire la sentimentele pe care le-ar mai avea. Povestea dintre Gabriella și Marco, de […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9de697f18f",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Hat helyszínen tartottak házkutatást Hargita megyében, orvosi dokumentumokat foglaltak le",
-        "link": "https://maszol.ro/belfold/Hat-helyszinen-tartottak-hazkutatast-Hargita-megyeben-orvosi-dokumentumokat-foglaltak-le"
-      }
-    ],
-    "published_at": 1793949240,
-    "title_hu": "Hat helyszínen tartottak házkutatást Hargita megyében, orvosi dokumentumokat foglaltak le",
-    "lead_hu": "A nyomozás hivatalos okiratok hamisítása, valamint jogosulatlan szakma- vagy tevékenységgyakorlás gyanúja miatt zajlik.",
-    "content_hu": "A nyomozás hivatalos okiratok hamisítása, valamint jogosulatlan szakma- vagy tevékenységgyakorlás gyanúja miatt zajlik.",
-    "title_ro": "Hat helyszínen tartottak házkutatást Hargita megyében, orvosi dokumentumokat foglaltak le",
-    "lead_ro": "A nyomozás hivatalos okiratok hamisítása, valamint jogosulatlan szakma- vagy tevékenységgyakorlás gyanúja miatt zajlik.",
-    "content_ro": "A nyomozás hivatalos okiratok hamisítása, valamint jogosulatlan szakma- vagy tevékenységgyakorlás gyanúja miatt zajlik.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_527b52581d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Rendőrségi segítséggel működött a maneleénekes prostitúcióra kényszerítő bandája",
-        "link": "https://maszol.ro/belfold/Rendorsegi-segitseggel-mukodott-a-maneleenekes-prostituciora-kenyszerito-bandaja"
-      }
-    ],
-    "published_at": 1793949235,
-    "title_hu": "Rendőrségi segítséggel működött a maneleénekes prostitúcióra kényszerítő bandája",
-    "lead_hu": "Az elmúlt hat évben a hálózat több mint hárommillió eurót keresett a fiatal nők kizsákmányolásával.",
-    "content_hu": "Az elmúlt hat évben a hálózat több mint hárommillió eurót keresett a fiatal nők kizsákmányolásával.",
-    "title_ro": "Rendőrségi segítséggel működött a maneleénekes prostitúcióra kényszerítő bandája",
-    "lead_ro": "Az elmúlt hat évben a hálózat több mint hárommillió eurót keresett a fiatal nők kizsákmányolásával.",
-    "content_ro": "Az elmúlt hat évben a hálózat több mint hárommillió eurót keresett a fiatal nők kizsákmányolásával.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_202911fd06",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "VIDEO „Da, toată lumea a sărăcit, dar unii mai puțin decât alții” / Cum au reacționat tinerii din online la petrecerea de lux a liderilor PSD",
-        "link": "https://www.g4media.ro/video-da-toata-lumea-a-saracit-dar-unii-mai-putin-decat-altii-cum-au-reactionat-tinerii-din-online-la-petrecerea-de-lux-a-liderilor-psd.html"
-      }
-    ],
-    "published_at": 1793949084,
-    "title_hu": "VIDEO „Da, toată lumea a sărăcit, dar unii mai puțin decât alții” / Cum au reacționat tinerii din online la petrecerea de lux a liderilor PSD",
-    "lead_hu": "Petrecerea organizată la Temesvár cu ocazia botezului copilului lui Alfred Simonis, președintele Consiliului Județean Timiș, a stârnit reacții și ironii în mediul online. Imaginile cu liderii PSD îmbr…",
-    "content_hu": "Petrecerea organizată la Temesvár cu ocazia botezului copilului lui Alfred Simonis, președintele Consiliului Județean Timiș, a stârnit reacții și ironii în mediul online. Imaginile cu liderii PSD îmbrăcați în ținute de gală, accesoriile de lux și invitații celebri, printre care artistul italian Al Bano, au alimentat criticile la adresa politicienilor, într-un moment în care partidul […] © G4Media.ro.",
-    "title_ro": "VIDEO „Da, toată lumea a sărăcit, dar unii mai puțin decât alții” / Cum au reacționat tinerii din online la petrecerea de lux a liderilor PSD",
-    "lead_ro": "Petrecerea organizată la Temesvár cu ocazia botezului copilului lui Alfred Simonis, președintele Consiliului Județean Timiș, a stârnit reacții și ironii în mediul online. Imaginile cu liderii PSD îmbr…",
-    "content_ro": "Petrecerea organizată la Temesvár cu ocazia botezului copilului lui Alfred Simonis, președintele Consiliului Județean Timiș, a stârnit reacții și ironii în mediul online. Imaginile cu liderii PSD îmbrăcați în ținute de gală, accesoriile de lux și invitații celebri, printre care artistul italian Al Bano, au alimentat criticile la adresa politicienilor, într-un moment în care partidul […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a3a687a17c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Prețurile carburanților vineri, 6 noiembrie. Cât costă benzina și motorina în stațiile din marile orașe din România",
-        "link": "https://adevarul.ro/stiri-interne/societate/preturile-carburantilor-vineri-6-noiembrie-cat-2569376.html"
-      }
-    ],
-    "published_at": 1793948963,
-    "title_hu": "Prețurile carburanților vineri, 6 noiembrie. Cât costă benzina și motorina în stațiile din marile orașe din România",
-    "lead_hu": "Șoferii care alimentează mașinile vineri, 6 noiembrie, trebuie să scoată din buzunar, în medie, 9,90 lei pentru un litru de benzină și 10,89 lei pentru unul de motorină. Prețurile diferă însă în funcț…",
-    "content_hu": "Șoferii care alimentează mașinile vineri, 6 noiembrie, trebuie să scoată din buzunar, în medie, 9,90 lei pentru un litru de benzină și 10,89 lei pentru unul de motorină. Prețurile diferă însă în funcție de oraș și de stația de alimentare.",
-    "title_ro": "Prețurile carburanților vineri, 6 noiembrie. Cât costă benzina și motorina în stațiile din marile orașe din România",
-    "lead_ro": "Șoferii care alimentează mașinile vineri, 6 noiembrie, trebuie să scoată din buzunar, în medie, 9,90 lei pentru un litru de benzină și 10,89 lei pentru unul de motorină. Prețurile diferă însă în funcț…",
-    "content_ro": "Șoferii care alimentează mașinile vineri, 6 noiembrie, trebuie să scoată din buzunar, în medie, 9,90 lei pentru un litru de benzină și 10,89 lei pentru unul de motorină. Prețurile diferă însă în funcție de oraș și de stația de alimentare.",
     "importance_score": 0.0
   },
   {
