@@ -91,22 +91,6 @@
     ]
   },
   {
-    "group_id": "group_aab5bd36b4",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Cinci obiceiuri de somn recomandate de experți pentru o viață mai lungă. Cum să îți susții sănătatea pe termen lung",
-        "link": "https://www.mediafax.ro/stirile-zilei/cinci-obiceiuri-de-somn-recomandate-de-experti-pentru-o-viata-mai-lunga-cum-sa-iti-sustii-sanatatea-pe-termen-lung-23839024",
-        "summary": "Modul în care îți gestionezi rutina de somn poate avea un impact direct asupra duratei tale de viață. Experții recomandă cinci obiceiuri prin care îți poți susține sănătatea pe termen lung.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793994508
-      }
-    ]
-  },
-  {
     "group_id": "group_b25b67bfec",
     "category": "Általános",
     "articles_count": 1,
@@ -173,49 +157,6 @@
     ]
   },
   {
-    "group_id": "group_537b4ea12e",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Stephen Miller va deveni noul șef de cabinet al lui Donald Trump la Casa Albă",
-        "link": "https://www.mediafax.ro/externe/stephen-miller-va-deveni-noul-sef-de-cabinet-al-lui-donald-trump-la-casa-alba-23839029",
-        "summary": "Stephen Miller, unul dintre cei mai apropiați consilieri ai președintelui american Donald Trump și unul dintre principalii arhitecți ai politicii restrictive privind imigrația, va deveni noul șef de cabinet al Casei Albe. Anunțul a fost făcut vineri de liderul de la Washington.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793994606
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Schimbarea făcută de Trump la Casa Albă după înfrângerea în alegeri: „E unul dintre cei mai de încredere consilieri”",
-        "link": "https://hotnews.ro/schimbarea-facuta-de-trump-la-casa-alba-dupa-infrangerea-in-alegeri-e-unul-dintre-cei-mai-de-incredere-consilieri-2397273",
-        "summary": "Președintele american Donald Trump a anunțat vineri că îl numește pe consilierul său apropiat Stephen Miller, un reprezentant al dreptei identitare, pentru funcția extrem de strategică de șef de cabinet al Casei Albe. Președintele SUA a precizat pe rețeaua sa de socializare Truth Social că Stephen Miller va prelua luni funcția de la actuala șefă …",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793995675
-      },
-      {
-        "source": "Adevărul",
-        "title": "Trump îl pune pe Stephen Miller la conducerea echipei de la Casa Albă. Cine este omul din spatele politicii antiimigrație a Casei Albe",
-        "link": "https://adevarul.ro/stiri-externe/sua/trump-il-pune-pe-stephen-miller-la-conducerea-2569599.html",
-        "summary": "Donald Trump îl promovează pe Stephen Miller, omul care a contribuit la conturarea politicii sale dure în privința imigrației, în funcția de șef de cabinet al Casei Albe.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793996443
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Cine este Stephen Miller, arhitectul politicii antiimigrație dure a lui Trump promovat șeful de cabinet al Casei Albe",
-        "link": "https://hotnews.ro/cine-este-stephen-miller-2397388",
-        "summary": "Președintele american l-a numit vineri pe Stephen Miller, cel mai controversat consilier al său și arhitectul politicii sale dure privind imigrația, la conducerea activității de la Casa Albă, după ce republicanii au pierdut controlul asupra Congresului SUA în urma alegerilor de la jumătatea mandatului. Președintele SUA a anunțat pe rețeaua sa de socializare Truth Social …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794030950
-      }
-    ]
-  },
-  {
     "group_id": "group_b76b3dbeaf",
     "category": "Bulvár",
     "articles_count": 1,
@@ -244,6 +185,40 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1793995292
+      }
+    ]
+  },
+  {
+    "group_id": "group_537b4ea12e",
+    "category": "Politika",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "HotNews.ro",
+        "title": "Schimbarea făcută de Trump la Casa Albă după înfrângerea în alegeri: „E unul dintre cei mai de încredere consilieri”",
+        "link": "https://hotnews.ro/schimbarea-facuta-de-trump-la-casa-alba-dupa-infrangerea-in-alegeri-e-unul-dintre-cei-mai-de-incredere-consilieri-2397273",
+        "summary": "Președintele american Donald Trump a anunțat vineri că îl numește pe consilierul său apropiat Stephen Miller, un reprezentant al dreptei identitare, pentru funcția extrem de strategică de șef de cabinet al Casei Albe. Președintele SUA a precizat pe rețeaua sa de socializare Truth Social că Stephen Miller va prelua luni funcția de la actuala șefă …",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793995675
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trump îl pune pe Stephen Miller la conducerea echipei de la Casa Albă. Cine este omul din spatele politicii antiimigrație a Casei Albe",
+        "link": "https://adevarul.ro/stiri-externe/sua/trump-il-pune-pe-stephen-miller-la-conducerea-2569599.html",
+        "summary": "Donald Trump îl promovează pe Stephen Miller, omul care a contribuit la conturarea politicii sale dure în privința imigrației, în funcția de șef de cabinet al Casei Albe.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793996443
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cine este Stephen Miller, arhitectul politicii antiimigrație dure a lui Trump promovat șeful de cabinet al Casei Albe",
+        "link": "https://hotnews.ro/cine-este-stephen-miller-2397388",
+        "summary": "Președintele american l-a numit vineri pe Stephen Miller, cel mai controversat consilier al său și arhitectul politicii sale dure privind imigrația, la conducerea activității de la Casa Albă, după ce republicanii au pierdut controlul asupra Congresului SUA în urma alegerilor de la jumătatea mandatului. Președintele SUA a anunțat pe rețeaua sa de socializare Truth Social …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794030950
       }
     ]
   },
@@ -13157,6 +13132,38 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794080376
+      }
+    ]
+  },
+  {
+    "group_id": "group_fd0b01eef7",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Prințul Marco dă „vina” pe producătorii „Insula Iubirii” pentru infidelitatea sa! Ce le-a cerut înainte să o comită cu Gabriella Barbu",
+        "link": "https://www.cancan.ro/printul-marco-da-vina-pe-producatorii-insula-iubirii-pentru-infidelitatea-sa-ce-le-a-cerut-inainte-sa-o-comita-cu-gabriella-barbu-21543653",
+        "summary": "Prințul Marco încearcă să explice cum a ajuns să își înșele soția cu ispita Gabriella Barbu. El spune că le-a cerut producătorilor să instaleze o cameră de filmat în încăperea în care urma să petreacă noaptea și este convins că, dacă solicitarea i-ar fi fost îndeplinită, lucrurile nu ar fi mers atât de departe. După […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1794080571
+      }
+    ]
+  },
+  {
+    "group_id": "group_63e212636c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Gest emoționant al clubului Tenerife după moartea lui Jesús de Miguel. Echipa îi va susține financiar fiica până la majorat",
+        "link": "https://www.mediafax.ro/sport/gest-emotionant-al-clubului-tenerife-dupa-moartea-lui-jesus-de-miguel-echipa-ii-va-sustine-financiar-fiica-pana-la-majorat-23839469",
+        "summary": "Clubul spaniol CD Tenerife a anunțat că îi va oferi sprijin financiar fiicei fostului său atacant Jesús de Miguel până când aceasta va împlini 18 ani. Decizia vine la patru zile după moartea fotbalistului în vârstă de 30 de ani, decedat în urma unui impact violent cu portarul echipei FC Andorra.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794080852
       }
     ]
   }
