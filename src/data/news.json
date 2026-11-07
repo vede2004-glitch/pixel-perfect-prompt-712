@@ -6,7 +6,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 46,
+    "sources_count": 47,
     "sources": [
       {
         "source": "Adevărul",
@@ -237,6 +237,11 @@
         "source": "ProTV Stiri",
         "title": "Ce scrie presa poloneză despre atacul armat din Cracovia. Polițiștii au descoperit un arsenal în mașina atacatorului",
         "link": "https://stirileprotv.ro/stiri/international/ce-scrie-presa-poloneza-despre-atacul-armat-din-cracovia-politistii-au-descoperit-un-arsenal-in-masina-atacatorului.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Atac armat în Cracovia: 6 persoane au murit, iar alte 15 au fost rănite",
+        "link": "https://www.gsp.ro/gsp-special/stiri-extrasport/atac-armat-in-cracovia-bilant-decedati-997070.html"
       }
     ],
     "published_at": 1794081259,
@@ -246,7 +251,7 @@
     "title_ro": "Atacul armat din Cracovia: șase morți, iar motivul este încă investigat",
     "lead_ro": "Atacul din 7 noiembrie, din piața centrală a Cracoviei, s-a soldat cu șase morți și 15 răniți. Autoritățile poloneze spun că singurul autor cunoscut este un cetățean polonez; ancheta privind circumstanțele și eventuala motivație extremistă este în desfășurare.",
     "content_ro": "• **La 7 noiembrie, în jurul orei 15:00**, un bărbat a intrat cu mașina în piața centrală din Cracovia și a tras asupra trecătorilor. Bilanțul final comunicat de autorități este de șase morți – patru femei și doi bărbați – și 15 răniți; numărul deceselor a crescut după ce o persoană rănită a murit ulterior.\n\n• **Suspectul este polonez și reprezintă singurul autor identificat deocamdată.** Potrivit autorităților, purta haine de tip militar și avea o armă; polițiștii l-au împușcat, apoi a fost dus la spital. Unele relatări îl descriu ca având 24 de ani, iar altele 25. Nu avea acte asupra sa, iar ministrul Apărării a negat că ar fi făcut parte vreodată din armata poloneză.\n\n• **Intervenția poliției și a echipajelor de urgență a început rapid.** Ministrul de Interne Marcin Kierwiński a declarat că polițiștii au tras asupra atacatorului la trei minute după apelul de urgență, iar pompierii și ambulanțele au ajuns aproximativ în același interval. Doi polițiști au fost răniți; unul a suferit trei plăgi împușcate, s-a aflat în stare critică și a necesitat o operație.\n\n• **Anchetatorii verifică posibilele motive ale atacului.** Autoritățile examinează informațiile privind o posibilă influență extremistă, însă cauza nu a fost stabilită. Patru dintre cele șase victime au fost identificate, între ele aflându-se și un cetățean străin; identificarea celorlalte două era în curs. Poliția a infirmat că ar căuta un al doilea autor.\n\n• **Implicarea unor cetățeni români nu a fost confirmată.** Ministerul român de Externe menține legătura cu autoritățile poloneze și a precizat că misiunea diplomatică nu a primit cereri de asistență consulară. Primarul Cracoviei a decretat doliu până miercuri, iar Consulatul SUA le-a recomandat cetățenilor americani să evite zona atacului.",
-    "importance_score": 475.0
+    "importance_score": 485.0
   },
   {
     "group_id": "group_c51c333c68",
@@ -597,6 +602,75 @@
     "importance_score": 168.0
   },
   {
+    "group_id": "group_1d7b988b1b",
+    "fingerprint": "f978bd5780d796caf342b0fcf10136ee",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Accident feroviar în gara Dornești, Suceava. Un tren încărcat cu cereale a deraiat și s-a izbit de o garnitură cu motorină",
+        "link": "https://adevarul.ro/stiri-locale/suceava/accident-feroviar-in-gara-dornesti-suceava-un-2569676.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Accident feroviar în Iași. Un tren de marfă pornit singur a intrat în două locomotive, mai multe vagoane au deraiat | FOTO",
+        "link": "https://stirileprotv.ro/stiri/actualitate/accident-feroviar-in-iasi-un-tren-de-marfa-pornit-singur-a-intrat-in-doua-locomotive-mai-multe-vagoane-au-deraiat-foto.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Mai multe vagoane ce transportau cereale au lovit două locomotive în Dornești. Incidentul nu a afectat circulația trenurilor de călători",
+        "link": "https://www.mediafax.ro/stirile-zilei/mai-multe-vagoane-ce-transportau-cereale-au-lovit-doua-locomotive-in-judetul-suceava-incidentul-nu-a-afectat-circulatia-trenurilor-de-calatori-23839258"
+      },
+      {
+        "source": "G4Media",
+        "title": "Tren de marfă plin cu cereale, deraiat la Dornești, județul Suceava",
+        "link": "https://www.g4media.ro/tren-de-marfa-plin-cu-cereale-deraiat-la-dornesti-judetul-suceava.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Elszabadult 11 gabonaszállító tehervagon, két mozdonnyal ütköztek",
+        "link": "https://maszol.ro/belfold/Elszabadult-11-gabonaszallito-tehervagon-ket-mozdonnyal-utkoztek"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Incident pe calea ferată în județul Suceava: 11 vagoane cu cereale scăpate de sub control au lovit două locomotive",
+        "link": "https://hotnews.ro/incident-pe-calea-ferata-in-judetul-suceava-11-vagoane-cu-cereale-scapate-de-sub-control-au-lovit-doua-locomotive-2397626"
+      },
+      {
+        "source": "Transtelex",
+        "title": "11 gabonaszállító vagon szabadult el és ütközött neki két mozdonynak Suceava megyében",
+        "link": "https://transtelex.ro/kozelet/2026/11/07/11-gabonaszallito-vagon-szabadult-el-es-utkozott-neki-ket-mozdonynak-iasiban"
+      },
+      {
+        "source": "Digi24",
+        "title": "Accident feroviar în Suceava. Mai multe vagoane au deraiat, iar unul s-a răsturnat, după ce au lovit două locomotive",
+        "link": "https://www.digi24.ro/stiri/accident-feroviar-in-suceava-mai-multe-vagoane-au-deraiat-iar-unul-s-a-rasturnat-dupa-ce-au-lovit-doua-locomotive-4026115"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "CFR: Șase vagoane au deraiat în stația Dornești, dintre care trei s-au răsturnat",
+        "link": "https://agerpres.ro/social/2026/11/07/cfr-sase-vagoane-au-deraiat-in-statia-dornesti-dintre-care-trei-s-au-rasturnat--1611130"
+      },
+      {
+        "source": "Mediafax",
+        "title": "UPDATE Accident feroviar în România. 11 vagoane încărcate cu cereale au pornit singure, au lovit două locomotive și au deraiat/Circulația feroviară a fost reluată pe două linii în stația Dornești",
+        "link": "https://www.mediafax.ro/stirile-zilei/update-accident-feroviar-in-romania-11-vagoane-incarcate-cu-cereale-au-pornit-singure-au-lovit-doua-locomotive-si-au-deraiat-circulatia-feroviara-a-fost-reluata-pe-doua-linii-in-statia-dornesti-23839258"
+      }
+    ],
+    "published_at": 1794069133,
+    "title_hu": "Tizenkilenc teherkocsi okozott balesetet Dornești állomásán",
+    "lead_hu": "November 7-én Vicșani felől elszabadult teherkocsik ütköztek két mozdonnyal Dornești állomásán. A CFR később 19-re módosította a szerelvény kocsijainak számát; hat kocsi kisiklott, három felborult, egy mozdony pedig szintén kisiklott. Sérülés nem történt, a személyvonatok közlekedése nem állt le.",
+    "content_hu": "• **November 7-én, 12:02-kor** a Suceava megyei Vicșani állomáson, gabona átrakása közben elindult egy Global Grain Logistic-hoz tartozó tehervonatcsoport. A kezdeti tájékoztatás 11 kocsiról szólt, a CFR későbbi helyesbítése szerint azonban az ellenőrizetlenül Dornești felé mozgó szerelvény összesen 19 kocsiból állt.\n\n• **12:15-kor, Dornești negyedik vágányán** a kocsik két, egy másik árufuvarozóhoz tartozó, álló mozdonynak ütköztek. A baleset hatása az állomás 2–6. vágányát érintette.\n\n• **Hat teherkocsi kisiklott, három felborult.** Az érintett kocsik között egy üres, üzemanyag-szállításra használt tartálykocsi is volt, amely a szomszédos vágányon tartózkodott. Az ütközésben az egyik mozdony is kisiklott: egy forgóvázának két tengelye lekerült a sínről, a jármű pedig súlyosan megrongálódott.\n\n• **A helyreállításhoz 120 tonnás vasúti darut küldtek** Galațiból. A berendezést a kocsik visszaemelésére és a vágányok felszabadítására szánták; a CFR közlése szerint a személyszállító vonatok forgalma közben is zavartalan maradt.\n\n• **A baleset okait még vizsgálják.** A körülmények tisztázása az illetékes szervek feladata, az infrastruktúra-kezelő pedig a szükséges beavatkozásokat koordinálja. Személyi sérülést nem jelentettek.",
+    "title_ro": "Nouăsprezece vagoane de marfă au provocat un accident în gara Dornești",
+    "lead_ro": "Pe 7 noiembrie, vagoane scăpate de sub control dinspre Vicșani au lovit două locomotive în gara Dornești. CFR a revizuit ulterior numărul garniturii la 19 de vagoane; șase au deraiat, trei s-au răsturnat, iar una dintre locomotive a ieșit și ea de pe șine. Nu au fost raportate victime, iar trenurile de călători au circulat normal.",
+    "content_ro": "• **Pe 7 noiembrie, la ora 12:02,** un grup de vagoane al operatorului Global Grain Logistic a început să se deplaseze necontrolat din gara Vicșani, în timpul transferului cerealelor. Informația inițială indica 11 vagoane, însă CFR a revenit ulterior asupra datelor și a precizat că garnitura care s-a îndreptat spre Dornești avea în total 19.\n\n• **La ora 12:15, pe linia a patra din gara Dornești,** vagoanele au izbit două locomotive staționate, care aparțineau unui alt operator feroviar de marfă. Incidentul a afectat liniile 2–6 ale stației.\n\n• **Șase vagoane au deraiat, iar trei s-au răsturnat.** Printre vagoanele afectate se afla și o cisternă goală, folosită la transportul combustibilului, poziționată pe o linie alăturată. Una dintre locomotive a deraiat la rândul ei: două osii ale unui boghiu au ieșit de pe șine, iar vehiculul a fost grav avariat.\n\n• **Pentru intervenție a fost trimisă de la Galați o macara feroviară de 120 de tone.** Utilajul urma să ridice vagoanele și să permită eliberarea liniilor. Potrivit CFR, circulația trenurilor de călători nu a fost perturbată.\n\n• **Cauzele accidentului sunt încă în curs de stabilire.** Organismele competente urmează să clarifice împrejurările producerii acestuia, iar administratorul infrastructurii coordonează măsurile necesare. Nu au fost anunțate persoane rănite.",
+    "importance_score": 113.0
+  },
+  {
     "group_id": "group_57756edbd0",
     "fingerprint": "396d2837e7e99ff080f10c8230bd36bd",
     "category": "Általános",
@@ -799,70 +873,6 @@
     "importance_score": 105.0
   },
   {
-    "group_id": "group_1d7b988b1b",
-    "fingerprint": "f978bd5780d796caf342b0fcf10136ee",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Accident feroviar în gara Dornești, Suceava. Un tren încărcat cu cereale a deraiat și s-a izbit de o garnitură cu motorină",
-        "link": "https://adevarul.ro/stiri-locale/suceava/accident-feroviar-in-gara-dornesti-suceava-un-2569676.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Accident feroviar în Iași. Un tren de marfă pornit singur a intrat în două locomotive, mai multe vagoane au deraiat | FOTO",
-        "link": "https://stirileprotv.ro/stiri/actualitate/accident-feroviar-in-iasi-un-tren-de-marfa-pornit-singur-a-intrat-in-doua-locomotive-mai-multe-vagoane-au-deraiat-foto.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Mai multe vagoane ce transportau cereale au lovit două locomotive în Dornești. Incidentul nu a afectat circulația trenurilor de călători",
-        "link": "https://www.mediafax.ro/stirile-zilei/mai-multe-vagoane-ce-transportau-cereale-au-lovit-doua-locomotive-in-judetul-suceava-incidentul-nu-a-afectat-circulatia-trenurilor-de-calatori-23839258"
-      },
-      {
-        "source": "G4Media",
-        "title": "Tren de marfă plin cu cereale, deraiat la Dornești, județul Suceava",
-        "link": "https://www.g4media.ro/tren-de-marfa-plin-cu-cereale-deraiat-la-dornesti-judetul-suceava.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Elszabadult 11 gabonaszállító tehervagon, két mozdonnyal ütköztek",
-        "link": "https://maszol.ro/belfold/Elszabadult-11-gabonaszallito-tehervagon-ket-mozdonnyal-utkoztek"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Incident pe calea ferată în județul Suceava: 11 vagoane cu cereale scăpate de sub control au lovit două locomotive",
-        "link": "https://hotnews.ro/incident-pe-calea-ferata-in-judetul-suceava-11-vagoane-cu-cereale-scapate-de-sub-control-au-lovit-doua-locomotive-2397626"
-      },
-      {
-        "source": "Transtelex",
-        "title": "11 gabonaszállító vagon szabadult el és ütközött neki két mozdonynak Suceava megyében",
-        "link": "https://transtelex.ro/kozelet/2026/11/07/11-gabonaszallito-vagon-szabadult-el-es-utkozott-neki-ket-mozdonynak-iasiban"
-      },
-      {
-        "source": "Digi24",
-        "title": "Accident feroviar în Suceava. Mai multe vagoane au deraiat, iar unul s-a răsturnat, după ce au lovit două locomotive",
-        "link": "https://www.digi24.ro/stiri/accident-feroviar-in-suceava-mai-multe-vagoane-au-deraiat-iar-unul-s-a-rasturnat-dupa-ce-au-lovit-doua-locomotive-4026115"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "CFR: Șase vagoane au deraiat în stația Dornești, dintre care trei s-au răsturnat",
-        "link": "https://agerpres.ro/social/2026/11/07/cfr-sase-vagoane-au-deraiat-in-statia-dornesti-dintre-care-trei-s-au-rasturnat--1611130"
-      }
-    ],
-    "published_at": 1794069133,
-    "title_hu": "Tizenkilenc teherkocsi okozott balesetet Dornești állomásán",
-    "lead_hu": "November 7-én Vicșani felől elszabadult teherkocsik ütköztek két mozdonnyal Dornești állomásán. A CFR később 19-re módosította a szerelvény kocsijainak számát; hat kocsi kisiklott, három felborult, egy mozdony pedig szintén kisiklott. Sérülés nem történt, a személyvonatok közlekedése nem állt le.",
-    "content_hu": "• **November 7-én, 12:02-kor** a Suceava megyei Vicșani állomáson, gabona átrakása közben elindult egy Global Grain Logistic-hoz tartozó tehervonatcsoport. A kezdeti tájékoztatás 11 kocsiról szólt, a CFR későbbi helyesbítése szerint azonban az ellenőrizetlenül Dornești felé mozgó szerelvény összesen 19 kocsiból állt.\n\n• **12:15-kor, Dornești negyedik vágányán** a kocsik két, egy másik árufuvarozóhoz tartozó, álló mozdonynak ütköztek. A baleset hatása az állomás 2–6. vágányát érintette.\n\n• **Hat teherkocsi kisiklott, három felborult.** Az érintett kocsik között egy üres, üzemanyag-szállításra használt tartálykocsi is volt, amely a szomszédos vágányon tartózkodott. Az ütközésben az egyik mozdony is kisiklott: egy forgóvázának két tengelye lekerült a sínről, a jármű pedig súlyosan megrongálódott.\n\n• **A helyreállításhoz 120 tonnás vasúti darut küldtek** Galațiból. A berendezést a kocsik visszaemelésére és a vágányok felszabadítására szánták; a CFR közlése szerint a személyszállító vonatok forgalma közben is zavartalan maradt.\n\n• **A baleset okait még vizsgálják.** A körülmények tisztázása az illetékes szervek feladata, az infrastruktúra-kezelő pedig a szükséges beavatkozásokat koordinálja. Személyi sérülést nem jelentettek.",
-    "title_ro": "Nouăsprezece vagoane de marfă au provocat un accident în gara Dornești",
-    "lead_ro": "Pe 7 noiembrie, vagoane scăpate de sub control dinspre Vicșani au lovit două locomotive în gara Dornești. CFR a revizuit ulterior numărul garniturii la 19 de vagoane; șase au deraiat, trei s-au răsturnat, iar una dintre locomotive a ieșit și ea de pe șine. Nu au fost raportate victime, iar trenurile de călători au circulat normal.",
-    "content_ro": "• **Pe 7 noiembrie, la ora 12:02,** un grup de vagoane al operatorului Global Grain Logistic a început să se deplaseze necontrolat din gara Vicșani, în timpul transferului cerealelor. Informația inițială indica 11 vagoane, însă CFR a revenit ulterior asupra datelor și a precizat că garnitura care s-a îndreptat spre Dornești avea în total 19.\n\n• **La ora 12:15, pe linia a patra din gara Dornești,** vagoanele au izbit două locomotive staționate, care aparțineau unui alt operator feroviar de marfă. Incidentul a afectat liniile 2–6 ale stației.\n\n• **Șase vagoane au deraiat, iar trei s-au răsturnat.** Printre vagoanele afectate se afla și o cisternă goală, folosită la transportul combustibilului, poziționată pe o linie alăturată. Una dintre locomotive a deraiat la rândul ei: două osii ale unui boghiu au ieșit de pe șine, iar vehiculul a fost grav avariat.\n\n• **Pentru intervenție a fost trimisă de la Galați o macara feroviară de 120 de tone.** Utilajul urma să ridice vagoanele și să permită eliberarea liniilor. Potrivit CFR, circulația trenurilor de călători nu a fost perturbată.\n\n• **Cauzele accidentului sunt încă în curs de stabilire.** Organismele competente urmează să clarifice împrejurările producerii acestuia, iar administratorul infrastructurii coordonează măsurile necesare. Nu au fost anunțate persoane rănite.",
-    "importance_score": 103.0
-  },
-  {
     "group_id": "group_765af1e6de",
     "fingerprint": "0317c7662335f8a63ee5ad20ee87716b",
     "category": "Általános",
@@ -978,7 +988,7 @@
     "title_ro": "Vortexul polar slăbește neobișnuit de devreme; efectele asupra vremii din Europa rămân incerte",
     "lead_ro": "Perturbarea vortexului polar de la începutul lunii noiembrie apare mult mai devreme decât de obicei, iar modelele indică o slăbire importantă a circulației vânturilor. Impactul asupra Europei nu este clar: scenariile posibile variază de la temperaturi mai scăzute în nord și vreme mai secetoasă până la frig și ninsori în unele regiuni.",
     "content_ro": "• **Începutul lunii noiembrie** este o perioadă neobișnuit de timpurie pentru o perturbare majoră a vortexului polar; astfel de episoade apar de regulă în ianuarie sau februarie. Potrivit Météo-France, din anii 1950 nu a mai fost observat un fenomen similar înainte de sfârșitul lui noiembrie, iar episodul actual survine cu aproximativ trei săptămâni mai devreme decât cazurile comparabile.\n\n• **Vortexul polar** este un sistem de vânturi puternice care se formează iarna deasupra Arcticii, la altitudini de aproximativ 10–50 de kilometri. Modelele semnalează o slăbire importantă, asociată încălzirii stratosferice; sunt posibile atât schimbarea direcției vânturilor, cât și separarea vortexului în două centre. Unele calcule indică, în anumite zone ale stratosferei, temperaturi cu peste 27 de grade peste media sezonieră.\n\n• **El Niño** din acest an este una dintre explicațiile posibile pentru apariția timpurie a perturbării, fără să fie stabilit drept cauză certă. Met Office arată că slăbirea vortexului poate spori șansa ca aerul rece arctic să coboare spre sud și poate deregla circulația vânturilor de vest, ceea ce ar putea favoriza și condiții mai secetoase.\n\n• **Miile de simulări climatice** analizate au inclus 21 de episoade comparabile, asociate unor perioade cu El Niño puternic. Într-un scenariu pentru decembrie, presiunea atmosferică ar putea fi ridicată în vestul Europei și scăzută în nordul și estul continentului, favorizând pătrunderea aerului rece spre Europa Centrală, de Est și de Sud. Modelele sugerează posibilitatea unor temperaturi sub medie și, în unele zone, a unor ninsori mai abundente.\n\n• **Serviciul meteorologic francez** consideră că efectele asupra vremii din Franța și din restul Europei sunt încă foarte incerte și depind de evoluția perturbării. Un alt scenariu presupune o diferență mai mare de temperatură între nordul și sudul continentului, cu vreme mai rece în nord și mai caldă în sud. Acestea sunt posibilități climatice, nu prognoze meteorologice concrete.",
-    "importance_score": 95.0
+    "importance_score": 88.0
   },
   {
     "group_id": "group_0803435d35",
@@ -1618,89 +1628,6 @@
     "importance_score": 58.0
   },
   {
-    "group_id": "group_f5e29eca8f",
-    "fingerprint": "63d8250d2b399d0c86c91b0b6e2739e1",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Un militar și-a atacat soția cu un cuțit. Ștefan Radu Oprea: „Nicio femeie nu trebuie să trăiască în teamă”",
-        "link": "https://www.mediafax.ro/social/un-militar-si-a-atacat-sotia-cu-un-cutit-stefan-radu-oprea-nicio-femeie-nu-trebuie-sa-traiasca-in-teama-23839303"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Femeie atacată cu un cuțit de soțul militar, la Caracal. Ministrul Apărării cere verificări și cooperare cu anchetatorii",
-        "link": "https://stirileprotv.ro/stiri/politic/femeie-atacata-cu-un-cutit-de-sotul-militar-la-caracal-ministrul-apararii-cere-verificari-si-cooperare-cu-anchetatorii.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Ministrul Apărării cere verificări după ce o femeie a fost atacată cu cuțitul de soțul militar",
-        "link": "https://www.g4media.ro/ministrul-apararii-cere-verificari-dupa-ce-o-femeie-ar-fi-fost-atacata-cu-cutitul-de-sotul-militar.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Un militar și-a atacat soția cu un cuțit. Ștefan Radu Oprea: „Nicio femeie nu trebuie să trăiască în teamă”/Ofițerul este cercetat pentru tentativă de omor",
-        "link": "https://www.mediafax.ro/social/un-militar-si-a-atacat-sotia-cu-un-cutit-stefan-radu-oprea-nicio-femeie-nu-trebuie-sa-traiasca-in-teama-ofiterul-este-cercetat-pentru-tentativa-de-omor-23839303"
-      },
-      {
-        "source": "Transtelex",
-        "title": "A védelmi minisztérium is reagált miután egy katona késsel támadt a feleségére",
-        "link": "https://transtelex.ro/kozelet/2026/11/07/a-vedelmi-miniszterium-kozlemenyben-iteli-el-a-csaladon-beluli-eroszakot-miutan-egy-katona-kessel-tamadt-a-felesegere"
-      }
-    ],
-    "published_at": 1794060789,
-    "title_hu": "Korábbi fenyegetési ügy előzte meg a caracali késes támadást",
-    "lead_hu": "November 6-án Caracalban késsel sebesítette meg feleségét egy aktív szolgálatban álló katona, akit emberölési kísérlet gyanújával vizsgálnak. A nő korábban fenyegetés miatt tett feljelentést, de azt a támadás előtti napokban visszavonta.",
-    "content_hu": "• **November 6-án Caracalban** egy 34 éves nőt késsel támadott meg a férje, a 22. gyalogzászlóalj altisztje. A férfi a helyszínről elmenekült, a rendőrök rövid időn belül azonosították, és a hatóságok őrizetbe vették. A nőt orvosi ellátásban részesítették, állapota stabil.\n\n• **A házaspár válófélben volt:** a nő október 4-én a caracali rendőrségen jelezte, hogy férje megfenyegette, miután megjelent az otthonánál. A bejelentés után ideiglenes távoltartást rendeltek el, és fenyegetés miatt büntetőeljárás indult.\n\n• **A bíróság később két hónapos távoltartást szabott ki,** elektronikus nyomkövető viselését azonban nem írta elő. A támadást megelőző hét elején a nő visszavonta a fenyegetés miatt tett feljelentését; néhány nappal később a férfi az utcán rátámadt.\n\n• **Emberölési kísérlet gyanújával nyomoznak:** az ügyet a Bukaresti Katonai Törvényszék mellett működő katonai ügyészség vizsgálja. A nyomozók az eset körülményei mellett azt is ellenőrzik, voltak-e korábban a fokozott veszélyre utaló jelek.\n\n• **A védelmi minisztérium elítélte az erőszakot,** és közölte, hogy a katona alakulata együttműködik a nyomozókkal, valamint megteszi a jogszabály szerinti adminisztratív lépéseket. Ștefan Radu Oprea a tárcán belüli felelősség vizsgálatát kérte; a családon belüli erőszakra utaló jelzések komolyan vételét és az áldozatok védelmét is sürgette.",
-    "title_ro": "Un ordin de protecție a precedat atacul cu cuțitul din Caracal",
-    "lead_ro": "La 6 noiembrie, la Caracal, un militar aflat în activitate și-a rănit soția cu un cuțit; cazul este cercetat ca tentativă de omor. Femeia depusese anterior o plângere pentru amenințare, retrasă cu câteva zile înainte de atac.",
-    "content_ro": "• **La 6 noiembrie, la Caracal,** o femeie de 34 de ani a fost atacată cu un cuțit de soțul ei, subofițer în Batalionul 22 Infanterie. Bărbatul a plecat de la locul faptei, dar polițiștii l-au identificat în scurt timp, iar acesta se află în custodia autorităților. Femeia a primit îngrijiri medicale și este în stare stabilă.\n\n• **Cei doi soți se aflau în proces de divorț:** pe 4 octombrie, femeia a sesizat poliția din Caracal după ce soțul s-a prezentat la domiciliul ei și a amenințat-o. În urma sesizării, poliția a emis un ordin provizoriu de protecție și a deschis un dosar pentru amenințare.\n\n• **Ulterior, instanța a dispus un ordin de protecție pentru două luni,** fără să impună monitorizarea electronică a bărbatului. La începutul săptămânii în care a avut loc atacul, femeia și-a retras plângerea pentru amenințare; câteva zile mai târziu, soțul a agresat-o pe stradă.\n\n• **Procurorii militari investighează cazul ca tentativă de omor:** ancheta este coordonată de Parchetul Militar de pe lângă Tribunalul Militar București. Pe lângă împrejurările atacului, anchetatorii verifică dacă existaseră anterior indicii privind un risc sporit pentru victimă.\n\n• **Ministerul Apărării a condamnat violența** și a anunțat că unitatea militară a suspectului cooperează cu anchetatorii și va lua măsurile administrative prevăzute de lege. Ștefan Radu Oprea a cerut verificarea responsabilităților din cadrul instituției și a atras atenția asupra importanței semnalelor de avertizare și a protejării victimelor.",
-    "importance_score": 58.0
-  },
-  {
-    "group_id": "group_f887619081",
-    "fingerprint": "3f2bf3e27b2ec48d40c0b30bf90097d5",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Tanczos Barna, despre acuzațiile PSD: Nu există nicio gaură în buget, să nu mai exagereze. Au găsit ce au lăsat în urmă",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/tanczos-barna-despre-acuzatiile-psd-nu-exista-nicio-gaura-in-buget-sa-nu-mai-exagereze-au-gasit-ce-au-lasat-in-urma-4025523"
-      },
-      {
-        "source": "Maszol",
-        "title": "Tánczos Barna a PSD-nek: Ne túlozzanak, ők is hagytak hátra adósságokat",
-        "link": "https://maszol.ro/belfold/Tanczos-Barna-a-PSD-nek-Ne-tulozzanak-ok-is-hagytak-hatra-adossagokat"
-      },
-      {
-        "source": "G4Media",
-        "title": "Tanczos Barna (UDMR): Recomand PSD să nu exagereze. Nu există nicio gaură. Nu au găsit altceva decât ce au lăsat în momentul în care, alături de noi, au votat bugetul actual",
-        "link": "https://www.g4media.ro/tanczos-barna-udmr-recomand-psd-sa-nu-exagere-nu-exista-nicio-gaura-nu-au-gasit-altceva-decat-ce-au-lasat-in-momentul-in-care-alaturi-de-noi-au-votat-bugetul-actual.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Lider UDMR, „recomandare” pentru PSD: „Să nu exagereze, nu există nicio gaură în buget”",
-        "link": "https://hotnews.ro/lider-udmr-recomandare-pentru-psd-sa-nu-exagereze-nu-exista-nicio-gaura-in-buget-2397691"
-      }
-    ],
-    "published_at": 1794060749,
-    "title_hu": "Tánczos Barna szerint nincs költségvetési lyuk a Bolojan-kormány után",
-    "lead_hu": "Tánczos Barna RMDSZ-es szenátor visszautasította a PSD állítását, miszerint az Ilie Bolojan vezette kabinet több mint 30 milliárd lejes tartozást és az EU legnagyobb költségvetési hiányát hagyta volna hátra. Szerinte a vitatott tételek a közigazgatás visszatérő kötelezettségei, az áfa-visszatérítések pedig ellenőrzési és ütemezési nehézségekkel járnak.",
-    "content_hu": "• **Tánczos Barna álláspontja** szerint a kormányváltáskor feltárt tételek nem bizonyítanak rendkívüli költségvetési hiányt. A szenátor a Digi24 „În fața ta” című műsorában arra kérte a PSD-t, hogy ne túlozza el a helyzetet, és ne kezelje különleges teherként az előző kormánytól örökölt kötelezettségeket.\n\n• **Sorin Grindeanu vádja** szerint a Bolojan-kabinet több mint 30 milliárd lejnyi tartozást és az Európai Unió legmagasabb deficitjét hagyta maga után. Tánczos erre azzal válaszolt, hogy a PSD-s kormányok átadásakor is maradtak rendezetlen számlák és kifizetési kötelezettségek.\n\n• **A folyó kiadások** közé sorolta a szenátor a beérkező számlákat és a betegszabadságok után járó összegeket. Ezek kifizetése az adminisztrációban időben eltolódhat, ezért meglétük önmagában nem utal arra, hogy új költségvetési hiány keletkezett.\n\n• **Az áfa-visszatérítések** kapcsán Tánczos arra hívta fel a figyelmet, hogy a kifizetések ütemezése régóta gondot jelent: állítása szerint Romániában nem jellemző, hogy az adóhatóság minden visszatérítést naprakészen rendezzen. Az ANAF-nak egyszerre kell gyorsítania a folyamatot és ellenőriznie a csalásgyanús igényeket, ami nehéz egyensúlyt kíván.\n\n• **A megszavazott költségvetésre** hivatkozva Tánczos azt mondta, a PSD a kormánypártokkal együtt fogadta el a jelenlegi büdzsét, így tisztában volt annak kereteivel és korlátaival. Szerinte a most számon kért tételek már akkor is ismertek voltak.",
-    "title_ro": "Tanczos Barna susține că nu există o gaură bugetară după Guvernul Bolojan",
-    "lead_ro": "Senatorul UDMR Tanczos Barna a respins afirmația PSD potrivit căreia cabinetul condus de Ilie Bolojan ar fi lăsat datorii de peste 30 de miliarde de lei și cel mai mare deficit din UE. El consideră că obligațiile invocate sunt recurente în administrație, iar rambursarea TVA presupune atât verificări, cât și întârzieri de plată.",
-    "content_ro": "• **Poziția lui Tanczos Barna** este că sumele apărute la schimbarea guvernului nu demonstrează existența unui deficit bugetar excepțional. În emisiunea „În fața ta” de la Digi24, senatorul le-a cerut social-democraților să nu amplifice situația și să nu prezinte obligațiile preluate drept o povară ieșită din comun.\n\n• **Acuzația lui Sorin Grindeanu** a fost că Guvernul Bolojan a lăsat datorii de peste 30 de miliarde de lei și cel mai mare deficit din Uniunea Europeană. Tanczos a replicat că și la schimbările de guvern din care au făcut parte social-democrații existau facturi neachitate și sume de plătit.\n\n• **Cheltuielile curente** includ, potrivit senatorului, facturile primite de instituții și drepturile aferente concediilor medicale. Achitarea lor se poate face la momente diferite, astfel că prezența acestor obligații nu dovedește, de una singură, apariția unei găuri bugetare noi.\n\n• **Rambursările de TVA** sunt, în opinia sa, o problemă persistentă: Tanczos a afirmat că plata integrală la zi nu este o practică obișnuită în România. ANAF trebuie să reducă timpul de procesare, dar și să verifice cererile suspectate de fraudă, ceea ce face dificilă concilierea rapidității cu controlul.\n\n• **Bugetul aprobat** a fost invocat de Tanczos în apărarea fostului cabinet: PSD a votat documentul împreună cu celelalte formațiuni, cunoscând limitele și reperele sale. Senatorul susține că obligațiile contestate erau deja previzibile în cadrul bugetar adoptat.",
-    "importance_score": 58.0
-  },
-  {
     "group_id": "group_44709e5584",
     "fingerprint": "b8c78020e8bd74835e5e50d33cb3d55b",
     "category": "Általános",
@@ -1867,6 +1794,89 @@
     "importance_score": 55.0
   },
   {
+    "group_id": "group_f5e29eca8f",
+    "fingerprint": "63d8250d2b399d0c86c91b0b6e2739e1",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un militar și-a atacat soția cu un cuțit. Ștefan Radu Oprea: „Nicio femeie nu trebuie să trăiască în teamă”",
+        "link": "https://www.mediafax.ro/social/un-militar-si-a-atacat-sotia-cu-un-cutit-stefan-radu-oprea-nicio-femeie-nu-trebuie-sa-traiasca-in-teama-23839303"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Femeie atacată cu un cuțit de soțul militar, la Caracal. Ministrul Apărării cere verificări și cooperare cu anchetatorii",
+        "link": "https://stirileprotv.ro/stiri/politic/femeie-atacata-cu-un-cutit-de-sotul-militar-la-caracal-ministrul-apararii-cere-verificari-si-cooperare-cu-anchetatorii.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ministrul Apărării cere verificări după ce o femeie a fost atacată cu cuțitul de soțul militar",
+        "link": "https://www.g4media.ro/ministrul-apararii-cere-verificari-dupa-ce-o-femeie-ar-fi-fost-atacata-cu-cutitul-de-sotul-militar.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Un militar și-a atacat soția cu un cuțit. Ștefan Radu Oprea: „Nicio femeie nu trebuie să trăiască în teamă”/Ofițerul este cercetat pentru tentativă de omor",
+        "link": "https://www.mediafax.ro/social/un-militar-si-a-atacat-sotia-cu-un-cutit-stefan-radu-oprea-nicio-femeie-nu-trebuie-sa-traiasca-in-teama-ofiterul-este-cercetat-pentru-tentativa-de-omor-23839303"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A védelmi minisztérium is reagált miután egy katona késsel támadt a feleségére",
+        "link": "https://transtelex.ro/kozelet/2026/11/07/a-vedelmi-miniszterium-kozlemenyben-iteli-el-a-csaladon-beluli-eroszakot-miutan-egy-katona-kessel-tamadt-a-felesegere"
+      }
+    ],
+    "published_at": 1794060789,
+    "title_hu": "Korábbi fenyegetési ügy előzte meg a caracali késes támadást",
+    "lead_hu": "November 6-án Caracalban késsel sebesítette meg feleségét egy aktív szolgálatban álló katona, akit emberölési kísérlet gyanújával vizsgálnak. A nő korábban fenyegetés miatt tett feljelentést, de azt a támadás előtti napokban visszavonta.",
+    "content_hu": "• **November 6-án Caracalban** egy 34 éves nőt késsel támadott meg a férje, a 22. gyalogzászlóalj altisztje. A férfi a helyszínről elmenekült, a rendőrök rövid időn belül azonosították, és a hatóságok őrizetbe vették. A nőt orvosi ellátásban részesítették, állapota stabil.\n\n• **A házaspár válófélben volt:** a nő október 4-én a caracali rendőrségen jelezte, hogy férje megfenyegette, miután megjelent az otthonánál. A bejelentés után ideiglenes távoltartást rendeltek el, és fenyegetés miatt büntetőeljárás indult.\n\n• **A bíróság később két hónapos távoltartást szabott ki,** elektronikus nyomkövető viselését azonban nem írta elő. A támadást megelőző hét elején a nő visszavonta a fenyegetés miatt tett feljelentését; néhány nappal később a férfi az utcán rátámadt.\n\n• **Emberölési kísérlet gyanújával nyomoznak:** az ügyet a Bukaresti Katonai Törvényszék mellett működő katonai ügyészség vizsgálja. A nyomozók az eset körülményei mellett azt is ellenőrzik, voltak-e korábban a fokozott veszélyre utaló jelek.\n\n• **A védelmi minisztérium elítélte az erőszakot,** és közölte, hogy a katona alakulata együttműködik a nyomozókkal, valamint megteszi a jogszabály szerinti adminisztratív lépéseket. Ștefan Radu Oprea a tárcán belüli felelősség vizsgálatát kérte; a családon belüli erőszakra utaló jelzések komolyan vételét és az áldozatok védelmét is sürgette.",
+    "title_ro": "Un ordin de protecție a precedat atacul cu cuțitul din Caracal",
+    "lead_ro": "La 6 noiembrie, la Caracal, un militar aflat în activitate și-a rănit soția cu un cuțit; cazul este cercetat ca tentativă de omor. Femeia depusese anterior o plângere pentru amenințare, retrasă cu câteva zile înainte de atac.",
+    "content_ro": "• **La 6 noiembrie, la Caracal,** o femeie de 34 de ani a fost atacată cu un cuțit de soțul ei, subofițer în Batalionul 22 Infanterie. Bărbatul a plecat de la locul faptei, dar polițiștii l-au identificat în scurt timp, iar acesta se află în custodia autorităților. Femeia a primit îngrijiri medicale și este în stare stabilă.\n\n• **Cei doi soți se aflau în proces de divorț:** pe 4 octombrie, femeia a sesizat poliția din Caracal după ce soțul s-a prezentat la domiciliul ei și a amenințat-o. În urma sesizării, poliția a emis un ordin provizoriu de protecție și a deschis un dosar pentru amenințare.\n\n• **Ulterior, instanța a dispus un ordin de protecție pentru două luni,** fără să impună monitorizarea electronică a bărbatului. La începutul săptămânii în care a avut loc atacul, femeia și-a retras plângerea pentru amenințare; câteva zile mai târziu, soțul a agresat-o pe stradă.\n\n• **Procurorii militari investighează cazul ca tentativă de omor:** ancheta este coordonată de Parchetul Militar de pe lângă Tribunalul Militar București. Pe lângă împrejurările atacului, anchetatorii verifică dacă existaseră anterior indicii privind un risc sporit pentru victimă.\n\n• **Ministerul Apărării a condamnat violența** și a anunțat că unitatea militară a suspectului cooperează cu anchetatorii și va lua măsurile administrative prevăzute de lege. Ștefan Radu Oprea a cerut verificarea responsabilităților din cadrul instituției și a atras atenția asupra importanței semnalelor de avertizare și a protejării victimelor.",
+    "importance_score": 53.0
+  },
+  {
+    "group_id": "group_f887619081",
+    "fingerprint": "3f2bf3e27b2ec48d40c0b30bf90097d5",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Tanczos Barna, despre acuzațiile PSD: Nu există nicio gaură în buget, să nu mai exagereze. Au găsit ce au lăsat în urmă",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/tanczos-barna-despre-acuzatiile-psd-nu-exista-nicio-gaura-in-buget-sa-nu-mai-exagereze-au-gasit-ce-au-lasat-in-urma-4025523"
+      },
+      {
+        "source": "Maszol",
+        "title": "Tánczos Barna a PSD-nek: Ne túlozzanak, ők is hagytak hátra adósságokat",
+        "link": "https://maszol.ro/belfold/Tanczos-Barna-a-PSD-nek-Ne-tulozzanak-ok-is-hagytak-hatra-adossagokat"
+      },
+      {
+        "source": "G4Media",
+        "title": "Tanczos Barna (UDMR): Recomand PSD să nu exagereze. Nu există nicio gaură. Nu au găsit altceva decât ce au lăsat în momentul în care, alături de noi, au votat bugetul actual",
+        "link": "https://www.g4media.ro/tanczos-barna-udmr-recomand-psd-sa-nu-exagere-nu-exista-nicio-gaura-nu-au-gasit-altceva-decat-ce-au-lasat-in-momentul-in-care-alaturi-de-noi-au-votat-bugetul-actual.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Lider UDMR, „recomandare” pentru PSD: „Să nu exagereze, nu există nicio gaură în buget”",
+        "link": "https://hotnews.ro/lider-udmr-recomandare-pentru-psd-sa-nu-exagereze-nu-exista-nicio-gaura-in-buget-2397691"
+      }
+    ],
+    "published_at": 1794060749,
+    "title_hu": "Tánczos Barna szerint nincs költségvetési lyuk a Bolojan-kormány után",
+    "lead_hu": "Tánczos Barna RMDSZ-es szenátor visszautasította a PSD állítását, miszerint az Ilie Bolojan vezette kabinet több mint 30 milliárd lejes tartozást és az EU legnagyobb költségvetési hiányát hagyta volna hátra. Szerinte a vitatott tételek a közigazgatás visszatérő kötelezettségei, az áfa-visszatérítések pedig ellenőrzési és ütemezési nehézségekkel járnak.",
+    "content_hu": "• **Tánczos Barna álláspontja** szerint a kormányváltáskor feltárt tételek nem bizonyítanak rendkívüli költségvetési hiányt. A szenátor a Digi24 „În fața ta” című műsorában arra kérte a PSD-t, hogy ne túlozza el a helyzetet, és ne kezelje különleges teherként az előző kormánytól örökölt kötelezettségeket.\n\n• **Sorin Grindeanu vádja** szerint a Bolojan-kabinet több mint 30 milliárd lejnyi tartozást és az Európai Unió legmagasabb deficitjét hagyta maga után. Tánczos erre azzal válaszolt, hogy a PSD-s kormányok átadásakor is maradtak rendezetlen számlák és kifizetési kötelezettségek.\n\n• **A folyó kiadások** közé sorolta a szenátor a beérkező számlákat és a betegszabadságok után járó összegeket. Ezek kifizetése az adminisztrációban időben eltolódhat, ezért meglétük önmagában nem utal arra, hogy új költségvetési hiány keletkezett.\n\n• **Az áfa-visszatérítések** kapcsán Tánczos arra hívta fel a figyelmet, hogy a kifizetések ütemezése régóta gondot jelent: állítása szerint Romániában nem jellemző, hogy az adóhatóság minden visszatérítést naprakészen rendezzen. Az ANAF-nak egyszerre kell gyorsítania a folyamatot és ellenőriznie a csalásgyanús igényeket, ami nehéz egyensúlyt kíván.\n\n• **A megszavazott költségvetésre** hivatkozva Tánczos azt mondta, a PSD a kormánypártokkal együtt fogadta el a jelenlegi büdzsét, így tisztában volt annak kereteivel és korlátaival. Szerinte a most számon kért tételek már akkor is ismertek voltak.",
+    "title_ro": "Tanczos Barna susține că nu există o gaură bugetară după Guvernul Bolojan",
+    "lead_ro": "Senatorul UDMR Tanczos Barna a respins afirmația PSD potrivit căreia cabinetul condus de Ilie Bolojan ar fi lăsat datorii de peste 30 de miliarde de lei și cel mai mare deficit din UE. El consideră că obligațiile invocate sunt recurente în administrație, iar rambursarea TVA presupune atât verificări, cât și întârzieri de plată.",
+    "content_ro": "• **Poziția lui Tanczos Barna** este că sumele apărute la schimbarea guvernului nu demonstrează existența unui deficit bugetar excepțional. În emisiunea „În fața ta” de la Digi24, senatorul le-a cerut social-democraților să nu amplifice situația și să nu prezinte obligațiile preluate drept o povară ieșită din comun.\n\n• **Acuzația lui Sorin Grindeanu** a fost că Guvernul Bolojan a lăsat datorii de peste 30 de miliarde de lei și cel mai mare deficit din Uniunea Europeană. Tanczos a replicat că și la schimbările de guvern din care au făcut parte social-democrații existau facturi neachitate și sume de plătit.\n\n• **Cheltuielile curente** includ, potrivit senatorului, facturile primite de instituții și drepturile aferente concediilor medicale. Achitarea lor se poate face la momente diferite, astfel că prezența acestor obligații nu dovedește, de una singură, apariția unei găuri bugetare noi.\n\n• **Rambursările de TVA** sunt, în opinia sa, o problemă persistentă: Tanczos a afirmat că plata integrală la zi nu este o practică obișnuită în România. ANAF trebuie să reducă timpul de procesare, dar și să verifice cererile suspectate de fraudă, ceea ce face dificilă concilierea rapidității cu controlul.\n\n• **Bugetul aprobat** a fost invocat de Tanczos în apărarea fostului cabinet: PSD a votat documentul împreună cu celelalte formațiuni, cunoscând limitele și reperele sale. Senatorul susține că obligațiile contestate erau deja previzibile în cadrul bugetar adoptat.",
+    "importance_score": 53.0
+  },
+  {
     "group_id": "group_6e5aafe4b1",
     "fingerprint": "070e7103fb4d87b9da917a1c4a9428b8",
     "category": "Általános",
@@ -1947,45 +1957,6 @@
     "title_ro": "Atac cu cuțitul la Caracal: procurorii militari cercetează tentativa de omor",
     "lead_ro": "Un militar activ, în vârstă de 44 de ani, și-a atacat soția de 34 de ani, de care era în divorț, în municipiul Caracal. Ancheta este desfășurată de procurori militari, iar victima nu se află în pericol vital. Autoritățile verifică și dacă existau indicii anterioare privind un risc sporit pentru femeie.",
     "content_ro": "• **Vineri seară, în jurul orei 18.20**, un bărbat de 44 de ani și-a rănit cu un cuțit soția, în vârstă de 34 de ani, la intersecția străzilor Mărului și Rahovei din Caracal. Cei doi se aflau în divorț. Bărbatul a plecat de la locul atacului, dar polițiștii l-au găsit și l-au prins la scurt timp.\n\n• **Femeia rănită** primește tratament de specialitate la Spitalul Județean de Urgență din Slatina. Informațiile disponibile arată că leziunile nu îi pun viața în pericol.\n\n• **La 4 octombrie**, femeia a informat Poliția Caracal că soțul o amenințase cu acte violente la domiciliul ei. Polițiștii au dispus o măsură provizorie de protecție și au început cercetările pentru amenințare. La 8 octombrie, instanța a stabilit un ordin de protecție pentru două luni, fără supraveghere electronică; femeia nu a acceptat instalarea unui dispozitiv de monitorizare.\n\n• **La începutul săptămânii dinaintea atacului**, femeia și-a retras reclamația formulată împotriva soțului pentru amenințare. Câteva zile mai târziu, bărbatul a atacat-o pe stradă.\n\n• **Cazul este instrumentat de procurori militari** sub suspiciunea de tentativă de omor. Suspectul, subofițer activ în cadrul Batalionului 22 Infanterie, se află în custodia autorităților. Ancheta urmărește să stabilească împrejurările atacului și dacă, înainte de acesta, au existat semnale care ar fi putut indica agravarea pericolului pentru victimă.",
-    "importance_score": 48.0
-  },
-  {
-    "group_id": "group_0b2369a690",
-    "fingerprint": "795947930b3aa5f2dc742cc4959d3155",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cristela Georgescu denunță apariția publică a deciziei privind prelungirea arestării preventive a lui Călin Georgescu, înainte ca aceasta să fie comunicată de avocați",
-        "link": "https://www.mediafax.ro/stirile-zilei/cristela-georgescu-denunta-aparitia-publica-a-deciziei-privind-prelungirea-arestarii-preventive-a-lui-calin-georgescu-inainte-ca-aceasta-sa-fie-comunicata-de-avocati-23839143"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Cristela Georgescu acuză că presa a primit înaintea avocaților motivarea arestării preventive a soțului său: „O insultă la adresa dreptului de apărare”",
-        "link": "https://adevarul.ro/politica/cristela-georgescu-acuza-ca-presa-a-primit-2569639.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Argumentele care i-au făcut pe judecătorii Curții de Apel să prelungească arestul preventiv față de Călin Georgescu (motivare)",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/argumentele-care-i-au-facut-pe-judecatorii-curtii-de-apel-sa-prelungeasca-arestul-preventiv-fata-de-calin-georgescu-motivare-4025993"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Curtea de Apel explică de ce a prelungit arestarea lui Călin Georgescu. Interceptări: „Să nu care cumva să se afle”",
-        "link": "https://stirileprotv.ro/justitie/curtea-de-apel-explica-de-ce-a-prelungit-arestarea-lui-calin-georgescu-cu-30-de-zile.html"
-      }
-    ],
-    "published_at": 1794061025,
-    "title_hu": "November 27-ig marad előzetesben Călin Georgescu",
-    "lead_hu": "A Bukaresti Ítélőtábla október 28-án további 30 nappal, november 27-ig meghosszabbította Călin Georgescu előzetes letartóztatását. A bírák hitelesnek ítélték az ügyészi bizonyítékokat, és szökési, valamint közrendi kockázatra hivatkoztak; Georgescu tagadja a bűnösségét.",
-    "content_hu": "• **Október 28-i döntés:** A Bukaresti Ítélőtábla helyt adott a DIICOT fellebbezésének, és november 27-ig meghosszabbította Georgescu előzetes letartóztatását. A testület szerint a házi őrizet vagy a hatósági felügyelet nem nyújtana elegendő biztosítékot.\n\n• **Az ügyészi bizonyítékok és a kockázatok:** A bírák úgy látták, hogy az eddig összegyűjtött bizonyítékok alátámasztják a gyanút Georgescuval és Ionel Rusennel szemben. Szerintük fennáll a büntetőeljárás alóli kitérés, az eljárás befolyásolása és a közrend veszélyeztetésének kockázata; a védelem érvei és a büntetlen előélet önmagukban nem indokolják a szabadlábra helyezést.\n\n• **Az üzletember sérelmére elkövetett állítólagos csalás:** Az ügyben Georgescut azzal is gyanúsítják, hogy több mint egymillió euróval károsított meg egy üzletembert. A bíróság szerint az ügyészi bizonyítékok alapján objektív szemlélő számára is felmerülhet a gyanúsítottak érintettsége; ez nem jogerős bűnösségi megállapítás.\n\n• **Feltételezett olaszországi távozás:** A döntés mérlegelte Georgescu és Rusen beszélgetéseit, illetve a házkutatáskor lefoglalt iratokat. A gyanú szerint Georgescu olaszországi lakóhelyet kereshetett, és 2025 májusában Rusentől a feleségével közös politikai menedékkérelem előkészítésében kérhetett segítséget. Georgescu ártatlannak vallotta magát.\n\n• **Cristela Georgescu kifogásai:** Georgescu felesége kifogásolta, hogy a letartóztatás meghosszabbításának indokai a védők hivatalos kézhezvétele előtt megjelentek a sajtóban; a házkutatás idején személyes adatok és fényképek is nyilvánosságra kerültek. A család otthonában feltételezett megfigyelőkamerák jogalapját és engedélyezését is vitatta. Az informatikai állítások további vizsgálatot igényelnek.",
-    "title_ro": "Călin Georgescu rămâne în arest preventiv până la 27 noiembrie",
-    "lead_ro": "Curtea de Apel București a prelungit, la 28 octombrie, arestul preventiv al lui Călin Georgescu cu încă 30 de zile, până la 27 noiembrie. Judecătorii au considerat că probele susțin suspiciunea și au indicat riscuri de sustragere și pentru ordinea publică; Georgescu neagă acuzațiile.",
-    "content_ro": "• **Decizia din 28 octombrie:** Curtea de Apel București a admis contestația DIICOT și a dispus menținerea lui Georgescu în arest preventiv până la 27 noiembrie. Potrivit judecătorilor, arestul la domiciliu sau controlul judiciar nu ar oferi garanții suficiente.\n\n• **Probele și riscurile invocate:** Magistrații au apreciat că materialul strâns de procurori susține suspiciunea privind implicarea lui Georgescu și a lui Ionel Rusen. Ei au indicat riscul ca cei doi să evite urmărirea penală ori să afecteze desfășurarea procesului, precum și un posibil pericol pentru ordinea publică. Argumentele apărării și lipsa antecedentelor penale nu au fost considerate suficiente pentru eliberare.\n\n• **Acuzația privind omul de afaceri:** În dosar, Georgescu este acuzat și că ar fi prejudiciat un om de afaceri cu peste un milion de euro. Instanța a apreciat că probele pot susține suspiciunea implicării celor acuzați; concluzia nu reprezintă o hotărâre definitivă privind vinovăția.\n\n• **Presupusele planuri de plecare în Italia:** Judecătorii au analizat discuțiile dintre Georgescu și Rusen, precum și documente ridicate la percheziție. Suspiciunea este că Georgescu ar fi căutat o locuință în Italia și că, în mai 2025, i-ar fi cerut lui Rusen sprijin pentru pregătirea unei cereri de azil politic pentru el și soția sa. Georgescu s-a declarat nevinovat.\n\n• **Obiecțiile Cristelei Georgescu:** Soția lui Georgescu a reclamat că motivarea deciziei a ajuns în presă înainte ca avocații să primească documentul oficial și că fotografii și date personale au fost publicate în timpul percheziției. Ea a contestat și temeiul și autorizarea camerelor de supraveghere presupuse în locuința familiei. Noile acuzații informatice necesită cercetări suplimentare.",
     "importance_score": 48.0
   },
   {
@@ -2091,40 +2062,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_56491a95c8",
-    "fingerprint": "cf85750dbf6efabdf97a2c2093c02af2",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "MotoGP. Marc Márquez poate deveni campion mondial în Qatar. Etapă controversată din cauza conflictului din Orientul Mijlociu",
-        "link": "https://www.mediafax.ro/sport/motogp-marc-marquez-poate-deveni-campion-mondial-in-qatar-etapa-controversata-din-cauza-conflictului-din-orientul-mijlociu-23839263"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Marc Márquez câștigă Sprintul din Qatar și face un pas important spre al 8-lea titlu mondial MotoGP",
-        "link": "https://www.mediafax.ro/sport/marc-marquez-castiga-sprintul-din-qatar-si-face-un-pas-important-spre-al-8-lea-titlu-mondial-motogp-23839418"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "MotoGP: Marc Marquez a câștigat cursa de sprint din Qatar și s-a apropiat de titlul mondial",
-        "link": "https://agerpres.ro/sport-extern/2026/11/07/motogp-marc-marquez-a-castigat-cursa-de-sprint-din-qatar-si-s-a-apropiat-de-titlul-mondial--1611150"
-      }
-    ],
-    "published_at": 1794071791,
-    "title_hu": "Márquez megnyerte a katari sprintfutamot, vasárnap közelebb kerülhet a MotoGP-címhez",
-    "lead_hu": "Marc Márquez elsőként ért célba a Lusailban rendezett sprinten, így vasárnap már megszerezheti nyolcadik királykategóriás világbajnoki címét. A futamot baleset és vitatott ütközés is megszakította, miközben a katari verseny megrendezése biztonsági aggályokat váltott ki.",
-    "content_hu": "• **Marc Márquez szombati sprintgyőzelme** után a spanyol versenyző már vasárnap bebiztosíthatja nyolcadik MotoGP-világbajnoki címét. Ehhez a főfutamot meg kell nyernie, miközben legfőbb üldözője, Jorge Martín nem szerezhet pontot. Márquez a Ducati motorosaként vezeti a bajnokságot.\n\n• **A sprintet Francesco Bagnaia bukása miatt piros zászlóval félbeszakították** két kör után. Az olasz versenyző Fermín Aldeguerrel ütközött, majd a földre került; eszméleténél volt, amikor hordágyon a pálya egészségügyi központjába vitték. A folytatás előtt a sérült motort eltávolították, a versenyt pedig tíz körre rövidítették. Aldeguer az ütközésért két hosszúkörös büntetést kapott.\n\n• **A negyedik körben Márquez és Marco Bezzecchi összeért**, miután az olasz megpróbálta kihasználni a Ducati versenyzője által hagyott helyet. Bezzecchi elesett és feladta a futamot, Márquez viszont folytatni tudta a versenyzést. A sportfelügyelők megvizsgálták az esetet, de nem büntették meg a spanyolt; az Aprilia vezetése elégedetlenségének adott hangot.\n\n• **A katari nagydíjat november 6–8-ra tették át** az eredetileg tervezett áprilisi időpontról, a közel-keleti konfliktus miatt. A szervezők a katari hatóságokkal, a Lusail pálya képviselőivel és biztonsági szakértőkkel egyeztetve döntöttek a verseny megtartásáról. A pilóták közül többen további garanciákat kértek, köztük evakuálási tervet, biztosítási fedezetet és a szervezői felelősség tisztázását.\n\n• **A Yamaha távol maradt a katari hétvégétől**, a vállalat utazási korlátozásaira hivatkozva. A pilóták aggályai a paddockban is visszatérő témát jelentettek; a forrás szerint a versenyzők mintegy háromnegyede támogatott egy, a szervezőktől további biztonsági biztosítékokat kérő dokumentumot.",
-    "title_ro": "Márquez a câștigat sprintul din Qatar și se poate apropia duminică de titlul MotoGP",
-    "lead_ro": "Marc Márquez a câștigat cursa sprint de la Lusail și poate obține duminică al optulea titlu mondial la clasa regină. Etapa a fost marcată de un accident și de o coliziune contestată, iar desfășurarea Marelui Premiu din Qatar a generat preocupări legate de securitate.",
-    "content_ro": "• **Victoria lui Marc Márquez în sprintul de sâmbătă** îi oferă pilotului spaniol șansa de a-și asigura duminică al optulea titlu MotoGP. Pentru a încheia lupta chiar în Qatar, el trebuie să câștige cursa principală, iar principalul său rival, Jorge Martín, să nu obțină niciun punct. Márquez concurează pentru Ducati și conduce clasamentul mondial.\n\n• **Sprintul a fost întrerupt cu steag roșu după două tururi**, în urma căderii lui Francesco Bagnaia. Italianul a intrat în contact cu Fermín Aldeguer și a ajuns pe asfalt; era conștient când a fost dus cu targa la centrul medical al circuitului. După îndepărtarea motocicletei avariate, cursa a fost reluată pentru zece tururi. Aldeguer a primit o penalizare de două tururi lungi pentru incident.\n\n• **În turul al patrulea, Márquez și Marco Bezzecchi s-au atins**, după ce pilotul italian a încercat să treacă prin spațiul rămas disponibil. Bezzecchi a căzut și a abandonat, în timp ce Márquez a rămas în cursă. Comisarii au analizat contactul și au decis să nu îl sancționeze pe spaniol, hotărâre care a provocat nemulțumirea conducerii Aprilia.\n\n• **Marele Premiu al Qatarului a fost mutat pentru 6–8 noiembrie**, după ce fusese programat inițial în aprilie, din cauza conflictului din Orientul Mijlociu. Organizatorii au hotărât să păstreze etapa în calendar după consultări cu autoritățile qatareze, reprezentanții circuitului Lusail și specialiști în securitate. Mai mulți piloți au cerut garanții suplimentare, între care un plan de evacuare, asigurări și clarificarea răspunderii organizatorilor.\n\n• **Yamaha nu a participat la etapa din Qatar**, invocând restricțiile de călătorie ale companiei. Potrivit relatării, aproximativ trei sferturi dintre piloți au susținut un document prin care solicitau măsuri suplimentare înaintea deplasării. Nemulțumirile au vizat inclusiv faptul că unele garanții oferite de autoritățile locale nu erau asumate direct de conducerea campionatului.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_0b3d57e470",
     "fingerprint": "42ca86c881457726df71d5786b1bb10b",
     "category": "Általános",
@@ -2162,6 +2099,45 @@
     "lead_ro": "Marco Rubio se va întâlni luni și marți, la Paris, cu miniștrii de externe ai G7, în prima sa deplasare în străinătate după alegerile intermediare din SUA. Înfrângerea republicanilor le-ar putea oferi aliaților prilejul să evalueze marja de acțiune externă a administrației Trump.",
     "content_ro": "• **Luni și marți, la Paris**, se reunesc miniștrii de externe ai G7, iar pentru Marco Rubio va fi prima călătorie în afara SUA după alegerile intermediare. Departamentul de Stat a confirmat vineri participarea, fără să publice agenda. Grupul reunește Statele Unite, Franța, Germania, Regatul Unit, Italia, Canada și Japonia.\n\n• **Rezultatul scrutinului american** poate influența și politica externă: democrații ar urma să preia controlul Congresului în ianuarie, ceea ce ar putea restrânge opțiunile lui Donald Trump. Reuniunea de la Paris le permite aliaților să observe orientarea administrației și eventualele modificări de politică.\n\n• **Viitorul politic al lui Rubio** a fost abordat joi într-un interviu pentru The New York Times. Secretarul de stat a respins ideea că ar urma să părăsească în curând guvernul pentru a pregăti o candidatură la prezidențialele din 2028 și a afirmat că planul său inițial era să rămână în echipa lui Trump.\n\n• **Negocierile privind Ucraina** sunt programate marți și miercuri la Abu Dhabi, cu mediere americană și participarea reprezentanților ruși și ucraineni. În contextul unui război care se apropie de cinci ani, Trump a avansat posibilitatea unui acord amplu cu Rusia, cu efecte care s-ar putea extinde la nivel european.\n\n• **Jared Kushner a indicat joi** că urmărește conturarea unui cadru de securitate european mai larg, asociat cu perspectiva unei păci durabile; o asemenea formulare apare de ani de zile și în discursul Kremlinului. Reuniunea urma să aibă loc la Marsilia, dar a fost mutată la Paris în urma protestelor din Franța, cu doar câteva zile înainte de sosirea delegațiilor.",
     "importance_score": 45.0
+  },
+  {
+    "group_id": "group_0b2369a690",
+    "fingerprint": "795947930b3aa5f2dc742cc4959d3155",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cristela Georgescu denunță apariția publică a deciziei privind prelungirea arestării preventive a lui Călin Georgescu, înainte ca aceasta să fie comunicată de avocați",
+        "link": "https://www.mediafax.ro/stirile-zilei/cristela-georgescu-denunta-aparitia-publica-a-deciziei-privind-prelungirea-arestarii-preventive-a-lui-calin-georgescu-inainte-ca-aceasta-sa-fie-comunicata-de-avocati-23839143"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Cristela Georgescu acuză că presa a primit înaintea avocaților motivarea arestării preventive a soțului său: „O insultă la adresa dreptului de apărare”",
+        "link": "https://adevarul.ro/politica/cristela-georgescu-acuza-ca-presa-a-primit-2569639.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Argumentele care i-au făcut pe judecătorii Curții de Apel să prelungească arestul preventiv față de Călin Georgescu (motivare)",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/argumentele-care-i-au-facut-pe-judecatorii-curtii-de-apel-sa-prelungeasca-arestul-preventiv-fata-de-calin-georgescu-motivare-4025993"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Curtea de Apel explică de ce a prelungit arestarea lui Călin Georgescu. Interceptări: „Să nu care cumva să se afle”",
+        "link": "https://stirileprotv.ro/justitie/curtea-de-apel-explica-de-ce-a-prelungit-arestarea-lui-calin-georgescu-cu-30-de-zile.html"
+      }
+    ],
+    "published_at": 1794061025,
+    "title_hu": "November 27-ig marad előzetesben Călin Georgescu",
+    "lead_hu": "A Bukaresti Ítélőtábla október 28-án további 30 nappal, november 27-ig meghosszabbította Călin Georgescu előzetes letartóztatását. A bírák hitelesnek ítélték az ügyészi bizonyítékokat, és szökési, valamint közrendi kockázatra hivatkoztak; Georgescu tagadja a bűnösségét.",
+    "content_hu": "• **Október 28-i döntés:** A Bukaresti Ítélőtábla helyt adott a DIICOT fellebbezésének, és november 27-ig meghosszabbította Georgescu előzetes letartóztatását. A testület szerint a házi őrizet vagy a hatósági felügyelet nem nyújtana elegendő biztosítékot.\n\n• **Az ügyészi bizonyítékok és a kockázatok:** A bírák úgy látták, hogy az eddig összegyűjtött bizonyítékok alátámasztják a gyanút Georgescuval és Ionel Rusennel szemben. Szerintük fennáll a büntetőeljárás alóli kitérés, az eljárás befolyásolása és a közrend veszélyeztetésének kockázata; a védelem érvei és a büntetlen előélet önmagukban nem indokolják a szabadlábra helyezést.\n\n• **Az üzletember sérelmére elkövetett állítólagos csalás:** Az ügyben Georgescut azzal is gyanúsítják, hogy több mint egymillió euróval károsított meg egy üzletembert. A bíróság szerint az ügyészi bizonyítékok alapján objektív szemlélő számára is felmerülhet a gyanúsítottak érintettsége; ez nem jogerős bűnösségi megállapítás.\n\n• **Feltételezett olaszországi távozás:** A döntés mérlegelte Georgescu és Rusen beszélgetéseit, illetve a házkutatáskor lefoglalt iratokat. A gyanú szerint Georgescu olaszországi lakóhelyet kereshetett, és 2025 májusában Rusentől a feleségével közös politikai menedékkérelem előkészítésében kérhetett segítséget. Georgescu ártatlannak vallotta magát.\n\n• **Cristela Georgescu kifogásai:** Georgescu felesége kifogásolta, hogy a letartóztatás meghosszabbításának indokai a védők hivatalos kézhezvétele előtt megjelentek a sajtóban; a házkutatás idején személyes adatok és fényképek is nyilvánosságra kerültek. A család otthonában feltételezett megfigyelőkamerák jogalapját és engedélyezését is vitatta. Az informatikai állítások további vizsgálatot igényelnek.",
+    "title_ro": "Călin Georgescu rămâne în arest preventiv până la 27 noiembrie",
+    "lead_ro": "Curtea de Apel București a prelungit, la 28 octombrie, arestul preventiv al lui Călin Georgescu cu încă 30 de zile, până la 27 noiembrie. Judecătorii au considerat că probele susțin suspiciunea și au indicat riscuri de sustragere și pentru ordinea publică; Georgescu neagă acuzațiile.",
+    "content_ro": "• **Decizia din 28 octombrie:** Curtea de Apel București a admis contestația DIICOT și a dispus menținerea lui Georgescu în arest preventiv până la 27 noiembrie. Potrivit judecătorilor, arestul la domiciliu sau controlul judiciar nu ar oferi garanții suficiente.\n\n• **Probele și riscurile invocate:** Magistrații au apreciat că materialul strâns de procurori susține suspiciunea privind implicarea lui Georgescu și a lui Ionel Rusen. Ei au indicat riscul ca cei doi să evite urmărirea penală ori să afecteze desfășurarea procesului, precum și un posibil pericol pentru ordinea publică. Argumentele apărării și lipsa antecedentelor penale nu au fost considerate suficiente pentru eliberare.\n\n• **Acuzația privind omul de afaceri:** În dosar, Georgescu este acuzat și că ar fi prejudiciat un om de afaceri cu peste un milion de euro. Instanța a apreciat că probele pot susține suspiciunea implicării celor acuzați; concluzia nu reprezintă o hotărâre definitivă privind vinovăția.\n\n• **Presupusele planuri de plecare în Italia:** Judecătorii au analizat discuțiile dintre Georgescu și Rusen, precum și documente ridicate la percheziție. Suspiciunea este că Georgescu ar fi căutat o locuință în Italia și că, în mai 2025, i-ar fi cerut lui Rusen sprijin pentru pregătirea unei cereri de azil politic pentru el și soția sa. Georgescu s-a declarat nevinovat.\n\n• **Obiecțiile Cristelei Georgescu:** Soția lui Georgescu a reclamat că motivarea deciziei a ajuns în presă înainte ca avocații să primească documentul oficial și că fotografii și date personale au fost publicate în timpul percheziției. Ea a contestat și temeiul și autorizarea camerelor de supraveghere presupuse în locuința familiei. Noile acuzații informatice necesită cercetări suplimentare.",
+    "importance_score": 43.0
   },
   {
     "group_id": "group_53484f8635",
@@ -2278,7 +2254,7 @@
     "title_ro": "Doi români, arestați la Roma după dispariția a 40 de valize",
     "lead_ro": "Patruzeci de valize au fost furate din autocarul unui grup de elevi belgieni, în cartierul Tor Bella Monaca din Roma. Semnalul GPS al unor căști AirPods aflate într-un bagaj a contribuit la identificarea mașinii folosite, iar toate bunurile au fost recuperate.",
     "content_ro": "• **În cartierul Tor Bella Monaca din Roma**, au dispărut 40 de valize dintr-un autocar înmatriculat în Olanda. Vehiculul era parcat pe Via Vico Viganò, în fața hotelului unde era cazat grupul de elevi belgieni aflat în excursie.\n\n• **Bagajele conțineau haine, acte și obiecte personale.** Reprezentantul grupului a sesizat autoritățile, iar polițiștii au început verificările. În cadrul anchetei au fost analizate și înregistrările camerelor de supraveghere din zonă.\n\n• **Un dispozitiv AirPods rămas într-una dintre valize a furnizat un indiciu de localizare.** Polițiștii au folosit semnalul GPS al căștilor pentru a găsi autoturismul în care ar fi fost transportate bunurile. Mașina a fost oprită pe Via Wagner, aproape de stația de metrou Santa Maria del Soccorso, de pe linia B.\n\n• **În autoturism se aflau doi bărbați români, de 28 și 48 de ani.** Carabinierii au verificat vehiculul și au găsit toate bagajele luate din autocar. Ulterior, valizele au fost returnate proprietarilor.\n\n• **Cei doi au fost arestați și duși la penitenciarul Regina Coeli din Roma.** Potrivit informațiilor publicate, ambii sunt șomeri și au antecedente penale. Ei au rămas la dispoziția autorităților judiciare.",
-    "importance_score": 43.0
+    "importance_score": 40.0
   },
   {
     "group_id": "group_d4be551dc4",
@@ -2318,6 +2294,40 @@
     "lead_ro": "Primarul general al Bucureștiului, Ciprian Ciucu, a comentat activitatea mai multor formațiuni naționale la o întâlnire cu liberalii din Buzău. Relatarea detaliază criticile sale la adresa AUR și USR, precum și aprecierile despre PNL și majorarea impozitului pe dividende.",
     "content_ro": "• **Ciprian Ciucu, la Buzău**, a evaluat critic mai multe partide naționale în cadrul întâlnirii cu liberalii. El a descris AUR drept o formațiune extremistă, neofascistă și populistă; caracterizarea îi aparține primarului general.\n\n• **Despre USR**, Ciucu a susținut că partidul contestă frecvent decizii și că dezacordurile se manifestă inclusiv între propriii membri. El a precizat că și-a exprimat această opinie și în public, anterior.\n\n• **Conducerea PSD** a fost pusă sub semnul întrebării de Ciucu, care a contestat rolul lui Manda la vârful formațiunii. În opinia sa, partidul pare puternic în Buzău, dar pierde teren la scară națională.\n\n• **PNL și candidatul său** au fost descriși de edil ca având o opțiune electorală clară, cu susținere ridicată în sondaje. Ciucu a asociat partidul cu orientarea europeană și democratică, prezentându-și propria formațiune drept o prezență echilibrată în peisajul politic.\n\n• **Impozitul pe dividende** a apărut într-o relatare despre o discuție cu un om de afaceri. Acesta ar fi criticat majorarea decisă de Bolojan, dar ar fi considerat-o justificată și a apreciat că, fără măsură, țara ar fi putut ajunge la un colaps economic.",
     "importance_score": 40.0
+  },
+  {
+    "group_id": "group_56491a95c8",
+    "fingerprint": "cf85750dbf6efabdf97a2c2093c02af2",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "MotoGP. Marc Márquez poate deveni campion mondial în Qatar. Etapă controversată din cauza conflictului din Orientul Mijlociu",
+        "link": "https://www.mediafax.ro/sport/motogp-marc-marquez-poate-deveni-campion-mondial-in-qatar-etapa-controversata-din-cauza-conflictului-din-orientul-mijlociu-23839263"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Marc Márquez câștigă Sprintul din Qatar și face un pas important spre al 8-lea titlu mondial MotoGP",
+        "link": "https://www.mediafax.ro/sport/marc-marquez-castiga-sprintul-din-qatar-si-face-un-pas-important-spre-al-8-lea-titlu-mondial-motogp-23839418"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "MotoGP: Marc Marquez a câștigat cursa de sprint din Qatar și s-a apropiat de titlul mondial",
+        "link": "https://agerpres.ro/sport-extern/2026/11/07/motogp-marc-marquez-a-castigat-cursa-de-sprint-din-qatar-si-s-a-apropiat-de-titlul-mondial--1611150"
+      }
+    ],
+    "published_at": 1794071791,
+    "title_hu": "Márquez megnyerte a katari sprintfutamot, vasárnap közelebb kerülhet a MotoGP-címhez",
+    "lead_hu": "Marc Márquez elsőként ért célba a Lusailban rendezett sprinten, így vasárnap már megszerezheti nyolcadik királykategóriás világbajnoki címét. A futamot baleset és vitatott ütközés is megszakította, miközben a katari verseny megrendezése biztonsági aggályokat váltott ki.",
+    "content_hu": "• **Marc Márquez szombati sprintgyőzelme** után a spanyol versenyző már vasárnap bebiztosíthatja nyolcadik MotoGP-világbajnoki címét. Ehhez a főfutamot meg kell nyernie, miközben legfőbb üldözője, Jorge Martín nem szerezhet pontot. Márquez a Ducati motorosaként vezeti a bajnokságot.\n\n• **A sprintet Francesco Bagnaia bukása miatt piros zászlóval félbeszakították** két kör után. Az olasz versenyző Fermín Aldeguerrel ütközött, majd a földre került; eszméleténél volt, amikor hordágyon a pálya egészségügyi központjába vitték. A folytatás előtt a sérült motort eltávolították, a versenyt pedig tíz körre rövidítették. Aldeguer az ütközésért két hosszúkörös büntetést kapott.\n\n• **A negyedik körben Márquez és Marco Bezzecchi összeért**, miután az olasz megpróbálta kihasználni a Ducati versenyzője által hagyott helyet. Bezzecchi elesett és feladta a futamot, Márquez viszont folytatni tudta a versenyzést. A sportfelügyelők megvizsgálták az esetet, de nem büntették meg a spanyolt; az Aprilia vezetése elégedetlenségének adott hangot.\n\n• **A katari nagydíjat november 6–8-ra tették át** az eredetileg tervezett áprilisi időpontról, a közel-keleti konfliktus miatt. A szervezők a katari hatóságokkal, a Lusail pálya képviselőivel és biztonsági szakértőkkel egyeztetve döntöttek a verseny megtartásáról. A pilóták közül többen további garanciákat kértek, köztük evakuálási tervet, biztosítási fedezetet és a szervezői felelősség tisztázását.\n\n• **A Yamaha távol maradt a katari hétvégétől**, a vállalat utazási korlátozásaira hivatkozva. A pilóták aggályai a paddockban is visszatérő témát jelentettek; a forrás szerint a versenyzők mintegy háromnegyede támogatott egy, a szervezőktől további biztonsági biztosítékokat kérő dokumentumot.",
+    "title_ro": "Márquez a câștigat sprintul din Qatar și se poate apropia duminică de titlul MotoGP",
+    "lead_ro": "Marc Márquez a câștigat cursa sprint de la Lusail și poate obține duminică al optulea titlu mondial la clasa regină. Etapa a fost marcată de un accident și de o coliziune contestată, iar desfășurarea Marelui Premiu din Qatar a generat preocupări legate de securitate.",
+    "content_ro": "• **Victoria lui Marc Márquez în sprintul de sâmbătă** îi oferă pilotului spaniol șansa de a-și asigura duminică al optulea titlu MotoGP. Pentru a încheia lupta chiar în Qatar, el trebuie să câștige cursa principală, iar principalul său rival, Jorge Martín, să nu obțină niciun punct. Márquez concurează pentru Ducati și conduce clasamentul mondial.\n\n• **Sprintul a fost întrerupt cu steag roșu după două tururi**, în urma căderii lui Francesco Bagnaia. Italianul a intrat în contact cu Fermín Aldeguer și a ajuns pe asfalt; era conștient când a fost dus cu targa la centrul medical al circuitului. După îndepărtarea motocicletei avariate, cursa a fost reluată pentru zece tururi. Aldeguer a primit o penalizare de două tururi lungi pentru incident.\n\n• **În turul al patrulea, Márquez și Marco Bezzecchi s-au atins**, după ce pilotul italian a încercat să treacă prin spațiul rămas disponibil. Bezzecchi a căzut și a abandonat, în timp ce Márquez a rămas în cursă. Comisarii au analizat contactul și au decis să nu îl sancționeze pe spaniol, hotărâre care a provocat nemulțumirea conducerii Aprilia.\n\n• **Marele Premiu al Qatarului a fost mutat pentru 6–8 noiembrie**, după ce fusese programat inițial în aprilie, din cauza conflictului din Orientul Mijlociu. Organizatorii au hotărât să păstreze etapa în calendar după consultări cu autoritățile qatareze, reprezentanții circuitului Lusail și specialiști în securitate. Mai mulți piloți au cerut garanții suplimentare, între care un plan de evacuare, asigurări și clarificarea răspunderii organizatorilor.\n\n• **Yamaha nu a participat la etapa din Qatar**, invocând restricțiile de călătorie ale companiei. Potrivit relatării, aproximativ trei sferturi dintre piloți au susținut un document prin care solicitau măsuri suplimentare înaintea deplasării. Nemulțumirile au vizat inclusiv faptul că unele garanții oferite de autoritățile locale nu erau asumate direct de conducerea campionatului.",
+    "importance_score": 38.0
   },
   {
     "group_id": "group_b40fa056eb",
@@ -2420,6 +2430,67 @@
     "lead_ro": "Deputatul PSD Marius Budăi, fost ministru al Muncii, a prezentat sâmbătă, pe Facebook, bilanțul pe care îl atribuie activității miniștrilor partidului din ultima săptămână. Lista sa cuprinde plăți către firme și fermieri, deschiderea unui tronson de autostradă, fonduri pentru sănătate, reluarea programului Rabla și promovarea României la Londra.",
     "content_ro": "• **Bilanțul publicat sâmbătă de Budăi** a vizat activitatea guvernamentală din săptămâna precedentă. Fostul ministru al Muncii a enumerat măsuri puse de el pe seama miniștrilor PSD și le-a prezentat drept rezultate cu efect asupra populației și economiei.\n\n• **Ministerele Dezvoltării și Agriculturii** au achitat, potrivit datelor menționate de deputat, peste 1,4 miliarde de lei pentru facturi restante ale unor firme românești. Totodată, aproximativ 35.000 de fermieri au primit împreună 165 de milioane de euro.\n\n• **Pe autostrada A0**, circulația a fost deschisă pe încă 13 kilometri, între Afumați și Glina. Budăi a inclus această extindere a infrastructurii rutiere în lista realizărilor săptămânale ale miniștrilor.\n\n• **Pentru sănătate și mediu** au fost deblocate 230 de milioane de lei destinate urgențelor medicale și pacienților aflați în stare critică. În plus, programul Rabla a fost reluat cu un buget de 35 de milioane de lei.\n\n• **Prezența României la World Travel Market, la Londra**, a urmărit promovarea țării, după o pauză de șase ani. Budăi a asociat aceste acțiuni — alături de investiții și plăți — cu schimbarea de direcție pe care susține că PSD a promis-o în guvernare.",
     "importance_score": 38.0
+  },
+  {
+    "group_id": "group_2999bfe8be",
+    "fingerprint": "ad8805d7c99e0509d82b3ce4ee42d889",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Primăria unde consilierii locali au fost declarați persoane fără venituri. Cum au ajuns să facă „muncă în folosul comunității”",
+        "link": "https://adevarul.ro/stiri-locale/iasi/primaria-unde-consilierii-locali-au-fost-declarati-2569627.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Consilieri locali declarați „săraci lipiți”, deși primeau indemnizații. Ce a descoperit Curtea de Conturi într-o primărie din Iași",
+        "link": "https://www.mediafax.ro/politic/consilieri-locali-declarati-saraci-lipiti-desi-primeau-indemnizatii-ce-a-descoperit-curtea-de-conturi-intr-o-primarie-din-iasi-23839200"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ziarul de Iași: O primărie a transformat amenzile unor consilieri locali în muncă în folosul comunității susținând că aceștia n-au venituri și proprietăți",
+        "link": "https://www.g4media.ro/ziarul-de-iasi-o-primarie-a-transformat-amenzile-unor-consilieri-locali-in-munca-in-folosul-comunitatii-sustinand-ca-acestia-n-au-venituri-si-proprietati.html"
+      }
+    ],
+    "published_at": 1794043420,
+    "title_hu": "29 szabálytalanságot talált a számvevőszék a Sirețel-i polgármesteri hivatalnál",
+    "lead_hu": "A román számvevőszék a Iași megyei Sirețel önkormányzatának 2021 és 2025 közötti működését vizsgálva 29 szabálytalanságot rögzített. A jelentés többek között a bírságok közösségi munkára váltását, a behajtás elmaradását és két önkormányzati képviselő jövedelmi helyzetének bíróság elé terjesztett leírását kifogásolta.",
+    "content_hu": "• **A 2021–2025-ös időszak vizsgálata** során a számvevőszék 29 problémás esetet azonosított a Sirețel-i polgármesteri hivatalnál. Az ellenőrök dokumentumok javítását, egyes döntések tisztázását és jogalap nélkül kifizetett összegek visszaszerzését sürgették.\n\n• **Több mint 233 ezer lejnyi bírságot** töröltek a nyilvántartásból, miután közösségi munkára váltották azokat. A jelentés szerint ehhez nem állt rendelkezésre a helyi tanács jóváhagyása és a szükséges dokumentáció; az önkormányzatnak szabályzata sem volt az ilyen munkavégzésre.\n\n• **Két helyi képviselőt** a bíróságnak benyújtott iratokban vagyon és jövedelem nélküli személyként tüntettek fel, noha képviselői tiszteletdíjat kaptak. Bírságuk 8 ezer, illetve 10 ezer lej volt. Az audit szerint az iratok frissítése elmaradt.\n\n• **Ötven ügyben** olyan személyek bírságainak közösségi munkára váltását is kérték, akiknek a jelentés szerint volt jövedelmük vagy vagyonuk. A bíróság valamennyi kérelmet elutasította; az érintett bírságok összege megközelítette a 300 ezer lejt.\n\n• **A végrehajtási gyakorlatban** egyes ítéletek alkalmazása több mint egy évet késett, a munkaórák nyilvántartása hiányos volt, és egy esetben az érintett az ítélet előtt végezte el a munkát. Az ellenőrök szerint a kényszerbehajtás elmaradása bevételkiesést okozott, egyes követelések pedig elévülhettek.",
+    "title_ro": "Curtea de Conturi a identificat 29 de nereguli la Primăria Sirețel",
+    "lead_ro": "Auditul activității Primăriei Sirețel din județul Iași, pentru perioada 2021–2025, a consemnat 29 de nereguli. Raportul a semnalat probleme privind transformarea amenzilor în muncă în folosul comunității, recuperarea datoriilor și informațiile prezentate instanțelor despre veniturile a doi consilieri locali.",
+    "content_ro": "• **Auditul pentru anii 2021–2025** a identificat 29 de situații problematice la Primăria Sirețel. Curtea de Conturi a cerut corectarea unor documente, clarificarea deciziilor administrative și recuperarea unor plăți considerate nelegale.\n\n• **Peste 233.000 de lei din amenzi** au fost scoși din evidențe după transformarea sancțiunilor în ore de muncă în folosul comunității. Potrivit raportului, operațiunile nu aveau aprobarea Consiliului Local și nici documentele justificative necesare, iar primăria nu dispunea de un regulament pentru această activitate.\n\n• **Doi consilieri locali** au fost descriși în documentele trimise instanței ca persoane fără bunuri și venituri, deși primeau indemnizații. Amenzile lor erau de 8.000 și, respectiv, 10.000 de lei. Auditorii au notat că informațiile prezentate nu au fost actualizate.\n\n• **În 50 de dosare**, primăria a solicitat înlocuirea amenzilor cu muncă în folosul comunității pentru persoane care aveau venituri sau bunuri. Instanțele au respins toate cererile, iar valoarea sancțiunilor respective se apropia de 300.000 de lei.\n\n• **Aplicarea hotărârilor și evidența muncii** au prezentat alte deficiențe: unele sentințe au fost puse în practică după întârzieri de peste un an, pontajele erau incomplete, iar într-un caz orele au fost efectuate înaintea pronunțării sentinței. Raportul leagă lipsa executării silite de pierderi pentru bugetul local și de riscul prescrierii unor creanțe.",
+    "importance_score": 38.0
+  },
+  {
+    "group_id": "group_4919429adc",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Elena Rybakina, liderul mondial din tenisul feminin, se retrage de la Turneul Campioanelor, din cauza unei probleme medicale",
+        "link": "https://www.mediafax.ro/sport/elena-rybakina-liderul-mondial-din-tenisul-feminin-se-retrage-de-la-turneul-campioanelor-din-cauza-unei-probleme-medicale-23839475"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Elena Rybakina, lidera mondială, s-a retras de la Turneul Campioanelor! Cine îi va lua locul",
+        "link": "https://www.gsp.ro/sporturi/tenis/elena-rybakina-retragere-turneul-campioanelor-2026-997074.html"
+      }
+    ],
+    "published_at": 1794081758,
+    "title_hu": "Elena Rybakina, liderul mondial din tenisul feminin, se retrage de la Turneul Campioanelor, din cauza unei probleme medicale",
+    "lead_hu": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din...",
+    "content_hu": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din Kazahstan va fi înlocuită de ucraineanca Marta Kostyuk, prima rezervă a competiției.",
+    "title_ro": "Elena Rybakina, liderul mondial din tenisul feminin, se retrage de la Turneul Campioanelor, din cauza unei probleme medicale",
+    "lead_ro": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din...",
+    "content_ro": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din Kazahstan va fi înlocuită de ucraineanca Marta Kostyuk, prima rezervă a competiției.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_8fecb4e29b",
@@ -2770,35 +2841,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_a3a0e3a5e3",
-    "fingerprint": "8d499287741b71e3b4a178e258491654",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Chisăliță: Decizia privind repornirea Unității 2 de la Cernavodă va fi luată luni",
-        "link": "https://agerpres.ro/economic/2026/11/07/chisalita-decizia-privind-repornirea-unitatii-2-de-la-cernavoda-va-fi-luata-luni--1611064"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce condiție trebuie îndeplinită pentru repornirea celui de-al doilea reactor de la Cernavodă. Decizia, așteptată luni",
-        "link": "https://stirileprotv.ro/stiri/actualitate/ce-conditie-trebuie-indeplinita-pentru-repornirea-celui-de-al-doilea-reactor-de-la-cernavoda-decizia-asteptata-luni.html"
-      }
-    ],
-    "published_at": 1794071635,
-    "title_hu": "Hétfőn döntenek a cernavodăi 2-es reaktor újraindításáról",
-    "lead_hu": "A Duna vízállása és több műszaki feltétel alapján hétfőn határoznak a cernavodăi atomerőmű 2-es blokkjának újraindításáról. Az 1-es blokk már működik, de a folyó szintjének további emelkedése szükséges a másik reaktor indításához.",
-    "content_hu": "• **Hétfőn születhet döntés** a cernavodăi atomerőmű 2-es blokkjának újraindításáról. Dumitru Chisăliță energiaügyi miniszter és Romeo Urjan, az erőmű igazgatója szerint a döntéshez a Duna vízhozamának és a helyi vízszint alakulásának értékelése is szükséges.\n\n• **A vízszint jelenleg 2,08 méter**, ami az 1-es blokk működéséhez elegendő. A 2-es egység indítása előtt azonban a Duna szintjének legalább további 10–15 centiméterrel kell emelkednie; a feltétel teljesülését a hidrológiai előrejelzéssel együtt vizsgálják.\n\n• **A két blokk működése kölcsönösen befolyásolhatja a helyi vízviszonyokat.** Az 1-es egység hűtését biztosító három nagy szivattyú csökkentheti a 2-es blokk környezetében mérhető vízszintet, ezért az újraindításról nem kizárólag a Duna állása alapján döntenek.\n\n• **Az 1-es blokkot július 28-án állították le ellenőrzött módon**, mert a folyó alacsony vízállása nem biztosította az üzemi feltételekhez szükséges vizet. A blokk újraindult, jelenleg a teljesítményének mintegy felén működik, és a beszámoló szerint a teljes kapacitás elérését másnapra várták.\n\n• **A román miniszterelnök 200 millió euróra becsülte az időszak veszteségét.** A kormányfő szerint az 1-es blokk az ország energiatermelésének hozzávetőleg 8 százalékát adja; működése mérsékelheti az energiarendszer terhelését és a csúcsidőszaki importigényt.",
-    "title_ro": "Decizia privind repornirea Unității 2 de la Cernavodă este așteptată luni",
-    "lead_ro": "Repornirea Unității 2 de la centrala nucleară Cernavodă depinde de nivelul Dunării și de mai mulți factori tehnici, iar o hotărâre este așteptată luni. Unitatea 1 funcționează din nou, însă pentru pornirea celei de-a doua este necesară o creștere suplimentară a nivelului apei.",
-    "content_ro": "• **O decizie privind repornirea Unității 2 este așteptată luni.** Ministrul Energiei, Dumitru Chisăliță, și directorul centralei, Romeo Urjan, au indicat că evaluarea va ține cont de debitul Dunării și de condițiile locale de funcționare.\n\n• **Nivelul apei măsurat la centrală este de 2,08 metri**, suficient pentru funcționarea Unității 1. Pentru pornirea Unității 2, nivelul Dunării trebuie să crească cu cel puțin încă 10–15 centimetri; analiza va include și prognoza hidrologică.\n\n• **Pompele de răcire ale Unității 1 pot influența situația din zona Unității 2.** Cele trei pompe mari reduc nivelul local al apei, astfel că decizia de repornire trebuie să ia în calcul atât evoluția fluviului, cât și efectul funcționării primului reactor.\n\n• **Unitatea 1 a fost oprită controlat pe 28 iulie**, după scăderea nivelului Dunării, care nu mai asigura apa necesară funcționării în condiții optime. Reactorul a fost repus în funcțiune și operează momentan la aproximativ jumătate din capacitate; atingerea puterii maxime era estimată pentru ziua următoare.\n\n• **Premierul României a estimat pierderile perioadei la 200 de milioane de euro.** Potrivit acestuia, Unitatea 1 furnizează aproximativ 8% din producția energetică a țării, iar revenirea sa în funcțiune poate reduce presiunea asupra sistemului și importurile în intervalele de vârf.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_a75aefd2a4",
     "fingerprint": "39687b51ebb66d4467978512164c64b4",
     "category": "Általános",
@@ -3098,6 +3140,35 @@
     "lead_ro": "Bucureștiul încearcă să susțină prezența militară americană prin investiții în apărare și prin disponibilitatea de a acoperi o parte din costurile staționării. Eficiența propunerii poate fi influențată însă de orientarea Washingtonului către competiția cu China și de revizuirea resurselor alocate Europei.",
     "content_ro": "• **Emil Hurezeanu consideră că România mai poate influența discuțiile** privind menținerea sau întărirea prezenței militare americane pe teritoriul său. Fostul ministru de externe a subliniat că hotărârea finală îi aparține președintelui SUA, dar oferta Bucureștiului ar putea ajunge la factorii de decizie înainte de încheierea evaluării.\n\n• **Angajamentele României acoperă mai multe domenii:** potrivit informațiilor apărute în presă, Bucureștiul ar fi dispus să suporte o parte din cheltuielile de staționare. Mihai Fifor a menționat și creșterea bugetului apărării, dezvoltarea infrastructurii militare, îmbunătățirea apărării antiaeriene și a capacităților anti-drone, precum și extinderea cooperării industriale cu Statele Unite.\n\n• **Schimbarea priorităților americane poate limita efectul ofertei.** Administrația Trump urmărește direcționarea unui volum mai mare de resurse militare către competiția cu China. Reorientarea ar putea reduce capacitățile disponibile pentru Europa, astfel că disponibilitatea României de a contribui financiar nu garantează menținerea nivelului actual al angajamentului american.\n\n• **Elbridge Colby are influență asupra dezbaterii, fără ca poziția sa să fie unanim acceptată.** Oficialul american a contribuit la elaborarea strategiei de apărare din 2018, iar în cartea sa a susținut concentrarea atenției SUA asupra regiunii indo-pacifice și împiedicarea ascensiunii dominante a Chinei. O parte a republicanilor din Congres contestă unele elemente ale acestei direcții.\n\n• **Rolul României și al Poloniei pe flancul estic rămâne central.** După discuțiile din Polonia, Colby a avut întâlniri la București. Hurezeanu a descris cele două state drept aliați NATO importanți, dar vulnerabili. Mihai Fifor a susținut că ambiguitatea guvernului român în relația cu Washingtonul ar fi afectat capacitatea țării de a-și apăra interesele; aceasta este evaluarea sa politică.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_a3a0e3a5e3",
+    "fingerprint": "8d499287741b71e3b4a178e258491654",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Chisăliță: Decizia privind repornirea Unității 2 de la Cernavodă va fi luată luni",
+        "link": "https://agerpres.ro/economic/2026/11/07/chisalita-decizia-privind-repornirea-unitatii-2-de-la-cernavoda-va-fi-luata-luni--1611064"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ce condiție trebuie îndeplinită pentru repornirea celui de-al doilea reactor de la Cernavodă. Decizia, așteptată luni",
+        "link": "https://stirileprotv.ro/stiri/actualitate/ce-conditie-trebuie-indeplinita-pentru-repornirea-celui-de-al-doilea-reactor-de-la-cernavoda-decizia-asteptata-luni.html"
+      }
+    ],
+    "published_at": 1794071635,
+    "title_hu": "Hétfőn döntenek a cernavodăi 2-es reaktor újraindításáról",
+    "lead_hu": "A Duna vízállása és több műszaki feltétel alapján hétfőn határoznak a cernavodăi atomerőmű 2-es blokkjának újraindításáról. Az 1-es blokk már működik, de a folyó szintjének további emelkedése szükséges a másik reaktor indításához.",
+    "content_hu": "• **Hétfőn születhet döntés** a cernavodăi atomerőmű 2-es blokkjának újraindításáról. Dumitru Chisăliță energiaügyi miniszter és Romeo Urjan, az erőmű igazgatója szerint a döntéshez a Duna vízhozamának és a helyi vízszint alakulásának értékelése is szükséges.\n\n• **A vízszint jelenleg 2,08 méter**, ami az 1-es blokk működéséhez elegendő. A 2-es egység indítása előtt azonban a Duna szintjének legalább további 10–15 centiméterrel kell emelkednie; a feltétel teljesülését a hidrológiai előrejelzéssel együtt vizsgálják.\n\n• **A két blokk működése kölcsönösen befolyásolhatja a helyi vízviszonyokat.** Az 1-es egység hűtését biztosító három nagy szivattyú csökkentheti a 2-es blokk környezetében mérhető vízszintet, ezért az újraindításról nem kizárólag a Duna állása alapján döntenek.\n\n• **Az 1-es blokkot július 28-án állították le ellenőrzött módon**, mert a folyó alacsony vízállása nem biztosította az üzemi feltételekhez szükséges vizet. A blokk újraindult, jelenleg a teljesítményének mintegy felén működik, és a beszámoló szerint a teljes kapacitás elérését másnapra várták.\n\n• **A román miniszterelnök 200 millió euróra becsülte az időszak veszteségét.** A kormányfő szerint az 1-es blokk az ország energiatermelésének hozzávetőleg 8 százalékát adja; működése mérsékelheti az energiarendszer terhelését és a csúcsidőszaki importigényt.",
+    "title_ro": "Decizia privind repornirea Unității 2 de la Cernavodă este așteptată luni",
+    "lead_ro": "Repornirea Unității 2 de la centrala nucleară Cernavodă depinde de nivelul Dunării și de mai mulți factori tehnici, iar o hotărâre este așteptată luni. Unitatea 1 funcționează din nou, însă pentru pornirea celei de-a doua este necesară o creștere suplimentară a nivelului apei.",
+    "content_ro": "• **O decizie privind repornirea Unității 2 este așteptată luni.** Ministrul Energiei, Dumitru Chisăliță, și directorul centralei, Romeo Urjan, au indicat că evaluarea va ține cont de debitul Dunării și de condițiile locale de funcționare.\n\n• **Nivelul apei măsurat la centrală este de 2,08 metri**, suficient pentru funcționarea Unității 1. Pentru pornirea Unității 2, nivelul Dunării trebuie să crească cu cel puțin încă 10–15 centimetri; analiza va include și prognoza hidrologică.\n\n• **Pompele de răcire ale Unității 1 pot influența situația din zona Unității 2.** Cele trei pompe mari reduc nivelul local al apei, astfel că decizia de repornire trebuie să ia în calcul atât evoluția fluviului, cât și efectul funcționării primului reactor.\n\n• **Unitatea 1 a fost oprită controlat pe 28 iulie**, după scăderea nivelului Dunării, care nu mai asigura apa necesară funcționării în condiții optime. Reactorul a fost repus în funcțiune și operează momentan la aproximativ jumătate din capacitate; atingerea puterii maxime era estimată pentru ziua următoare.\n\n• **Premierul României a estimat pierderile perioadei la 200 de milioane de euro.** Potrivit acestuia, Unitatea 1 furnizează aproximativ 8% din producția energetică a țării, iar revenirea sa în funcțiune poate reduce presiunea asupra sistemului și importurile în intervalele de vârf.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_e0c5fa3021",
@@ -3410,35 +3481,6 @@
     "title_ro": "Siegfried Mureșan susține cooperarea dintre PNL și USR",
     "lead_ro": "Europarlamentarul liberal Siegfried Mureșan a afirmat că parteneriatul dintre PNL și USR poate contribui la o guvernare mai bună în România. El consideră că ar putea exista încercări de a pune cele două formațiuni în opoziție, deși acestea își păstrează identitățile politice distincte.",
     "content_ro": "• **Siegfried Mureșan** a scris sâmbătă, într-o postare pe Facebook, că în opinia sa ar putea fi încercată dezbinarea Partidului Național Liberal și a Uniunii Salvați România. Potrivit europarlamentarului, membrii celor două formațiuni ar putea fi abordați cu mesaje diferite, menite să îi îndepărteze unii de alții.\n\n• **PNL și USR rămân partide distincte**, fiecare cu propria identitate politică, a subliniat Mureșan. El a precizat că această diferență nu împiedică o colaborare și nu presupune renunțarea vreuneia dintre formațiuni la profilul său.\n\n• **Obiectivul comun indicat de europarlamentar este o guvernare eficientă**, orientată către nevoile populației. În mesajul său, Mureșan a menționat modernizarea țării, reformele, diminuarea risipei și funcționarea unui stat care să răspundă intereselor cetățenilor.\n\n• **Cele două formațiuni intenționează să coopereze** pentru realizarea acestor obiective, potrivit declarației sale. Mureșan consideră că acțiunea coordonată le poate consolida poziția și a afirmat că nu ar trebui să se lase nici intimidate, nici îndepărtate una de cealaltă.\n\n• **Critica lui Mureșan** a vizat persoanele pe care le consideră interesate să frâneze dezvoltarea României. În interpretarea sa, încercările de a slăbi colaborarea dintre PNL și USR ar putea servi acestui scop.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_2999bfe8be",
-    "fingerprint": "ad8805d7c99e0509d82b3ce4ee42d889",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Primăria unde consilierii locali au fost declarați persoane fără venituri. Cum au ajuns să facă „muncă în folosul comunității”",
-        "link": "https://adevarul.ro/stiri-locale/iasi/primaria-unde-consilierii-locali-au-fost-declarati-2569627.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Consilieri locali declarați „săraci lipiți”, deși primeau indemnizații. Ce a descoperit Curtea de Conturi într-o primărie din Iași",
-        "link": "https://www.mediafax.ro/politic/consilieri-locali-declarati-saraci-lipiti-desi-primeau-indemnizatii-ce-a-descoperit-curtea-de-conturi-intr-o-primarie-din-iasi-23839200"
-      }
-    ],
-    "published_at": 1794043420,
-    "title_hu": "29 szabálytalanságot talált a számvevőszék a Sirețel-i polgármesteri hivatalnál",
-    "lead_hu": "A román számvevőszék a Iași megyei Sirețel önkormányzatának 2021 és 2025 közötti működését vizsgálva 29 szabálytalanságot rögzített. A jelentés többek között a bírságok közösségi munkára váltását, a behajtás elmaradását és két önkormányzati képviselő jövedelmi helyzetének bíróság elé terjesztett leírását kifogásolta.",
-    "content_hu": "• **A 2021–2025-ös időszak vizsgálata** során a számvevőszék 29 problémás esetet azonosított a Sirețel-i polgármesteri hivatalnál. Az ellenőrök dokumentumok javítását, egyes döntések tisztázását és jogalap nélkül kifizetett összegek visszaszerzését sürgették.\n\n• **Több mint 233 ezer lejnyi bírságot** töröltek a nyilvántartásból, miután közösségi munkára váltották azokat. A jelentés szerint ehhez nem állt rendelkezésre a helyi tanács jóváhagyása és a szükséges dokumentáció; az önkormányzatnak szabályzata sem volt az ilyen munkavégzésre.\n\n• **Két helyi képviselőt** a bíróságnak benyújtott iratokban vagyon és jövedelem nélküli személyként tüntettek fel, noha képviselői tiszteletdíjat kaptak. Bírságuk 8 ezer, illetve 10 ezer lej volt. Az audit szerint az iratok frissítése elmaradt.\n\n• **Ötven ügyben** olyan személyek bírságainak közösségi munkára váltását is kérték, akiknek a jelentés szerint volt jövedelmük vagy vagyonuk. A bíróság valamennyi kérelmet elutasította; az érintett bírságok összege megközelítette a 300 ezer lejt.\n\n• **A végrehajtási gyakorlatban** egyes ítéletek alkalmazása több mint egy évet késett, a munkaórák nyilvántartása hiányos volt, és egy esetben az érintett az ítélet előtt végezte el a munkát. Az ellenőrök szerint a kényszerbehajtás elmaradása bevételkiesést okozott, egyes követelések pedig elévülhettek.",
-    "title_ro": "Curtea de Conturi a identificat 29 de nereguli la Primăria Sirețel",
-    "lead_ro": "Auditul activității Primăriei Sirețel din județul Iași, pentru perioada 2021–2025, a consemnat 29 de nereguli. Raportul a semnalat probleme privind transformarea amenzilor în muncă în folosul comunității, recuperarea datoriilor și informațiile prezentate instanțelor despre veniturile a doi consilieri locali.",
-    "content_ro": "• **Auditul pentru anii 2021–2025** a identificat 29 de situații problematice la Primăria Sirețel. Curtea de Conturi a cerut corectarea unor documente, clarificarea deciziilor administrative și recuperarea unor plăți considerate nelegale.\n\n• **Peste 233.000 de lei din amenzi** au fost scoși din evidențe după transformarea sancțiunilor în ore de muncă în folosul comunității. Potrivit raportului, operațiunile nu aveau aprobarea Consiliului Local și nici documentele justificative necesare, iar primăria nu dispunea de un regulament pentru această activitate.\n\n• **Doi consilieri locali** au fost descriși în documentele trimise instanței ca persoane fără bunuri și venituri, deși primeau indemnizații. Amenzile lor erau de 8.000 și, respectiv, 10.000 de lei. Auditorii au notat că informațiile prezentate nu au fost actualizate.\n\n• **În 50 de dosare**, primăria a solicitat înlocuirea amenzilor cu muncă în folosul comunității pentru persoane care aveau venituri sau bunuri. Instanțele au respins toate cererile, iar valoarea sancțiunilor respective se apropia de 300.000 de lei.\n\n• **Aplicarea hotărârilor și evidența muncii** au prezentat alte deficiențe: unele sentințe au fost puse în practică după întârzieri de peste un an, pontajele erau incomplete, iar într-un caz orele au fost efectuate înaintea pronunțării sentinței. Raportul leagă lipsa executării silite de pierderi pentru bugetul local și de riscul prescrierii unor creanțe.",
     "importance_score": 28.0
   },
   {
@@ -4078,6 +4120,33 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_b7f23a2d5a",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal - Bundesliga: Manuel Neuer a devenit cel mai vârstnic jucător din istoria lui Bayern",
+        "link": "https://agerpres.ro/sport-extern/2026/11/07/fotbal---bundesliga-manuel-neuer-a-devenit-cel-mai-varstnic-jucator-din-istoria-lui-bayern--1611148"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Bayern a câștigat și rămâne lider în Bundesliga! Manuel Neuer a intrat în istoria clubului, dar a ieșit accidentat",
+        "link": "https://www.gsp.ro/international/campionate/bayern-victorie-manuel-neuer-record-bundesliga-997018.html"
+      }
+    ],
+    "published_at": 1794009600,
+    "title_hu": "Fotbal - Bundesliga: Manuel Neuer a devenit cel mai vârstnic jucător din istoria lui Bayern",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal - Bundesliga: Manuel Neuer a devenit cel mai vârstnic jucător din istoria lui Bayern",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 20.0
+  },
+  {
     "group_id": "group_2a50f68289",
     "category": "Általános",
     "is_synthesized": false,
@@ -4105,6 +4174,55 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_4cce9f287a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Pregătiri pentru o urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
+        "link": "https://www.mediafax.ro/externe/pregatiri-pentru-o-urgenta-nucleara-iranul-distribuie-pastile-cu-iod-irakul-activeaza-planurile-de-interventie-23839054"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Pregătiri pentru urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
+        "link": "https://www.mediafax.ro/externe/pregatiri-pentru-urgenta-nucleara-iranul-distribuie-pastile-cu-iod-irakul-activeaza-planurile-de-interventie-23839054"
+      }
+    ],
+    "published_at": 1794002175,
+    "title_hu": "Pregătiri pentru o urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
+    "lead_hu": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iranie…",
+    "content_hu": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iraniene, în urma amenințărilor lansate de Donald Trump.",
+    "title_ro": "Pregătiri pentru o urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
+    "lead_ro": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iranie…",
+    "content_ro": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iraniene, în urma amenințărilor lansate de Donald Trump.",
+    "importance_score": 20.0
+  },
+  {
+    "group_id": "group_a361fa3de3",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Aexandru Rogobete (PSD), alături de Alin Tișe (PNL) pe șantierul viitorului spital pentru copii din Cluj. Proiectul primește o finanțare de 200 de milioane de euro: „Un moment istoric”",
+        "link": "https://adevarul.ro/stiri-interne/sanatate/aexandru-rogobete-psd-alaturi-de-alin-tise-2569747.html"
+      }
+    ],
+    "published_at": 1794082202,
+    "title_hu": "Aexandru Rogobete (PSD), alături de Alin Tișe (PNL) pe șantierul viitorului spital pentru copii din Cluj. Proiectul primește o finanțare de 200 de milioane de euro: „Un moment istoric”",
+    "lead_hu": "Alexandru Rogobete, ministrul Sănătății (PSD), a mers sâmbătă pe șantierul Spitalului Pediatric Monobloc din Cluj-Napoca, unde a susținut o conferință de presă alături de președintele Consiliului Jude...",
+    "content_hu": "Alexandru Rogobete, ministrul Sănătății (PSD), a mers sâmbătă pe șantierul Spitalului Pediatric Monobloc din Cluj-Napoca, unde a susținut o conferință de presă alături de președintele Consiliului Județean Cluj, Alin Tișe (PNL).",
+    "title_ro": "Aexandru Rogobete (PSD), alături de Alin Tișe (PNL) pe șantierul viitorului spital pentru copii din Cluj. Proiectul primește o finanțare de 200 de milioane de euro: „Un moment istoric”",
+    "lead_ro": "Alexandru Rogobete, ministrul Sănătății (PSD), a mers sâmbătă pe șantierul Spitalului Pediatric Monobloc din Cluj-Napoca, unde a susținut o conferință de presă alături de președintele Consiliului Jude...",
+    "content_ro": "Alexandru Rogobete, ministrul Sănătății (PSD), a mers sâmbătă pe șantierul Spitalului Pediatric Monobloc din Cluj-Napoca, unde a susținut o conferință de presă alături de președintele Consiliului Județean Cluj, Alin Tișe (PNL).",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_7552b1a2a4",
     "category": "Sport",
     "is_synthesized": false,
@@ -4124,28 +4242,6 @@
     "title_ro": "Manchester City, bătută a treia oară la rând în Premier League!",
     "lead_ro": "Manchester City a înregistrat astăzi al treilea eșec consecutiv în Premier League, 1-3 pe terenul lui Nottingham Forest. Preluată în această vară de Enzo Maresca, Manchester City a început senzațional...",
     "content_ro": "Manchester City a înregistrat astăzi al treilea eșec consecutiv în Premier League, 1-3 pe terenul lui Nottingham Forest. Preluată în această vară de Enzo Maresca, Manchester City a început senzațional campionatul, cu 7 victorii în primele 7 runde. Ultimele săptămâni au adus încă o cădere nescontată. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4919429adc",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Elena Rybakina, liderul mondial din tenisul feminin, se retrage de la Turneul Campioanelor, din cauza unei probleme medicale",
-        "link": "https://www.mediafax.ro/sport/elena-rybakina-liderul-mondial-din-tenisul-feminin-se-retrage-de-la-turneul-campioanelor-din-cauza-unei-probleme-medicale-23839475"
-      }
-    ],
-    "published_at": 1794081758,
-    "title_hu": "Elena Rybakina, liderul mondial din tenisul feminin, se retrage de la Turneul Campioanelor, din cauza unei probleme medicale",
-    "lead_hu": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din...",
-    "content_hu": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din Kazahstan va fi înlocuită de ucraineanca Marta Kostyuk, prima rezervă a competiției.",
-    "title_ro": "Elena Rybakina, liderul mondial din tenisul feminin, se retrage de la Turneul Campioanelor, din cauza unei probleme medicale",
-    "lead_ro": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din...",
-    "content_ro": "Elena Rybakina, liderul clasamentului mondial WTA și campioana en-titre, s-a retras de la Turneul Campioanelor 2026, care începe duminică, la Indian Wells, invocând o problemă medicală. Jucătoarea din Kazahstan va fi înlocuită de ucraineanca Marta Kostyuk, prima rezervă a competiției.",
     "importance_score": 0.0
   },
   {
@@ -15105,50 +15201,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_aa007aab66",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Creditorii au aprobat planul de restructurare pentru Liberty Galați și secția Tubular. Care este prețul de pornire al vânzării",
-        "link": "https://www.digi24.ro/stiri/economie/creditorii-au-aprobat-planul-de-restructurare-pentru-liberty-galati-si-sectia-tubular-care-este-pretul-de-pornire-al-vanzarii-4025703"
-      }
-    ],
-    "published_at": 1793996073,
-    "title_hu": "Creditorii au aprobat planul de restructurare pentru Liberty Galați și secția Tubular. Care este prețul de pornire al vânzării",
-    "lead_hu": "Creditorii Liberty Galați și Liberty Tubular Products Galați au aprobat noul plan de restructurare, care prevede vânzarea combinatului siderurgic și a secției Tubular prin negociere directă. Potrivit …",
-    "content_hu": "Creditorii Liberty Galați și Liberty Tubular Products Galați au aprobat noul plan de restructurare, care prevede vânzarea combinatului siderurgic și a secției Tubular prin negociere directă. Potrivit administratorilor concordatari CITR și Euro Insol, planul urmează să fie supus omologării judecătorului-sindic, după care va putea fi lansată procedura de vânzare, cu scopul de a atrage un investitor capabil să repornească producția.",
-    "title_ro": "Creditorii au aprobat planul de restructurare pentru Liberty Galați și secția Tubular. Care este prețul de pornire al vânzării",
-    "lead_ro": "Creditorii Liberty Galați și Liberty Tubular Products Galați au aprobat noul plan de restructurare, care prevede vânzarea combinatului siderurgic și a secției Tubular prin negociere directă. Potrivit …",
-    "content_ro": "Creditorii Liberty Galați și Liberty Tubular Products Galați au aprobat noul plan de restructurare, care prevede vânzarea combinatului siderurgic și a secției Tubular prin negociere directă. Potrivit administratorilor concordatari CITR și Euro Insol, planul urmează să fie supus omologării judecătorului-sindic, după care va putea fi lansată procedura de vânzare, cu scopul de a atrage un investitor capabil să repornească producția.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6794f97c05",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Radu Miruță anunță negocieri oficiale USR-PNL pentru liste comune la alegerile din 2028",
-        "link": "https://www.g4media.ro/radu-miruta-anunta-negocieri-oficiale-usr-pnl-pentru-liste-comune-la-alegerile-din-2028.html"
-      }
-    ],
-    "published_at": 1793995997,
-    "title_hu": "Radu Miruță anunță negocieri oficiale USR-PNL pentru liste comune la alegerile din 2028",
-    "lead_hu": "După ce USR și PNL au trecut în opoziție, odată cu învestirea Cabinetului Niculescu, Radu Miruță, prospăt ales numărul 2 al Uniunii Salvați România, a anunțat vineri, 6 noiembrie, pentru presa locală …",
-    "content_hu": "După ce USR și PNL au trecut în opoziție, odată cu învestirea Cabinetului Niculescu, Radu Miruță, prospăt ales numărul 2 al Uniunii Salvați România, a anunțat vineri, 6 noiembrie, pentru presa locală din Gorj, că cele două formațiuni se pregătesc să se alieze pentru a reveni la guvernare în 2028. Anunțul lui Miruță vine la […] © G4Media.ro.",
-    "title_ro": "Radu Miruță anunță negocieri oficiale USR-PNL pentru liste comune la alegerile din 2028",
-    "lead_ro": "După ce USR și PNL au trecut în opoziție, odată cu învestirea Cabinetului Niculescu, Radu Miruță, prospăt ales numărul 2 al Uniunii Salvați România, a anunțat vineri, 6 noiembrie, pentru presa locală …",
-    "content_ro": "După ce USR și PNL au trecut în opoziție, odată cu învestirea Cabinetului Niculescu, Radu Miruță, prospăt ales numărul 2 al Uniunii Salvați România, a anunțat vineri, 6 noiembrie, pentru presa locală din Gorj, că cele două formațiuni se pregătesc să se alieze pentru a reveni la guvernare în 2028. Anunțul lui Miruță vine la […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_2109a16b67",
     "fingerprint": "5e1b47b4ed8c5710aeee983cb81185df",
     "category": "Általános",
@@ -15220,33 +15272,6 @@
     "lead_ro": "Autoritățile iraniene au distribuit 180.000 de tablete cu iod locuitorilor din Bushehr, în cadrul pregătirilor pentru o posibilă urgență nucleară sau radiologică. Medicamentele sunt disponibile în centrele medicale ale orașului și sunt destinate exclusiv populației locale.",
     "content_ro": "• **Cele 180.000 de tablete cu iod** au fost puse la dispoziția locuitorilor din Bushehr, oraș din sudul Iranului în care se află singura centrală nucleară funcțională a țării. Un reprezentant al unei instituții universitare medicale locale a oferit detalii despre distribuire.\n\n• **Distribuția a început în apropierea centralei**, iar ulterior a fost extinsă la întregul oraș. Comprimatele pot fi obținute din centre medicale din Bushehr; programul se adresează locuitorilor orașului, nu și celor din alte localități.\n\n• **Măsura are rol preventiv** și vizează un eventual incident nuclear sau radiologic. Iodul stabil poate reduce absorbția iodului radioactiv de către tiroidă, în cazul în care acesta ajunge în mediu.\n\n• **Momentul administrării și cantitatea contează:** potrivit informațiilor prezentate, tabletele pot fi folosite într-un interval care începe cu 24 de ore înaintea unei posibile expuneri și se încheie la patru ore după aceasta. Doza diferă în funcție de vârstă, de la o fracțiune de comprimat pentru sugari la o tabletă întreagă pentru persoanele de peste 12 ani.\n\n• **Planul de pregătire a fost lansat înaintea războiului din iunie 2025.** Anunțul privind tabletele a apărut într-o perioadă de tensiuni reînnoite între Iran și Statele Unite. La 1 noiembrie, Donald Trump a vorbit despre posibilitatea unor lovituri americane asupra unor instalații nucleare iraniene.",
     "importance_score": 23.0
-  },
-  {
-    "group_id": "group_4cce9f287a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Pregătiri pentru o urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
-        "link": "https://www.mediafax.ro/externe/pregatiri-pentru-o-urgenta-nucleara-iranul-distribuie-pastile-cu-iod-irakul-activeaza-planurile-de-interventie-23839054"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Pregătiri pentru urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
-        "link": "https://www.mediafax.ro/externe/pregatiri-pentru-urgenta-nucleara-iranul-distribuie-pastile-cu-iod-irakul-activeaza-planurile-de-interventie-23839054"
-      }
-    ],
-    "published_at": 1794002175,
-    "title_hu": "Pregătiri pentru o urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
-    "lead_hu": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iranie…",
-    "content_hu": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iraniene, în urma amenințărilor lansate de Donald Trump.",
-    "title_ro": "Pregătiri pentru o urgență nucleară: Iranul distribuie pastile cu iod, Irakul activează planurile de intervenție",
-    "lead_ro": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iranie…",
-    "content_ro": "Iranul distribuie pastile cu iod, iar Irakul se pregătește pentru un posibil incident nuclear. Cele două țări se tem de consecințele unor posibile atacuri americane asupra obiectivelor nucleare iraniene, în urma amenințărilor lansate de Donald Trump.",
-    "importance_score": 20.0
   },
   {
     "group_id": "group_4a590586b5",
@@ -16630,28 +16655,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "REPORTAJ/Prahova: Au scris istorie cu cazmaua - 2.512 persoane au plantat o pădure de record mondial (GALERIE FOTO)",
-    "lead_ro": "",
-    "content_ro": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b7f23a2d5a",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal - Bundesliga: Manuel Neuer a devenit cel mai vârstnic jucător din istoria lui Bayern",
-        "link": "https://agerpres.ro/sport-extern/2026/11/07/fotbal---bundesliga-manuel-neuer-a-devenit-cel-mai-varstnic-jucator-din-istoria-lui-bayern--1611148"
-      }
-    ],
-    "published_at": 1794009600,
-    "title_hu": "Fotbal - Bundesliga: Manuel Neuer a devenit cel mai vârstnic jucător din istoria lui Bayern",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Fotbal - Bundesliga: Manuel Neuer a devenit cel mai vârstnic jucător din istoria lui Bayern",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 0.0
