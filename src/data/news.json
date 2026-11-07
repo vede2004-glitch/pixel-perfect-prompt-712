@@ -655,6 +655,68 @@
     "importance_score": 115.0
   },
   {
+    "group_id": "group_bc41b7fd82",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Atac armat în centrul istoric al Cracoviei. Sunt raportați morți și răniți, iar autoritățile le-au cerut locuitorilor să se adăpostească",
+        "link": "https://adevarul.ro/stiri-externe/europa/atac-armat-in-centrul-istoric-al-cracoviei-sunt-2569718.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac armat în centrul orașului Cracovia: Cel puțin doi morți și zece răniți. Poliția a declanșat o operațiune de amploare",
+        "link": "https://www.mediafax.ro/externe/atac-armat-in-centrul-orasului-cracovia-cel-putin-doi-morti-si-zece-raniti-politia-a-declansat-o-operatiune-de-amploare-23839372"
+      },
+      {
+        "source": "Digi24",
+        "title": "Atac armat în Cracovia: doi morți și cel puțin 10 răniți. Mesajul lui Donald Tusk",
+        "link": "https://www.digi24.ro/stiri/externe/ue/atac-armat-in-cracovia-doi-morti-si-cel-putin-10-raniti-mesajul-lui-donald-tusk-4026181"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING | Atac armat cu doi morți în Cracovia / Cel puțin 10 răniți / O persoană a tras focuri de armă dintr-o mașină",
+        "link": "https://www.g4media.ro/breaking-atac-armat-cu-doi-morti-in-cracovia-cel-putin-10-raniti-o-persoana-a-tras-focuri-de-arma-dintr-o-masina.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac armat în centrul orașului Cracovia: Cel puțin doi morți și zece răniți. Poliția a declanșat o operațiune de amploare/Mărturia unui român aflat în Cracovia",
+        "link": "https://www.mediafax.ro/externe/atac-armat-in-centrul-orasului-cracovia-cel-putin-doi-morti-si-zece-raniti-politia-a-declansat-o-operatiune-de-amploare-marturia-unui-roman-aflat-in-cracovia-23839372"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Atac armat în apropierea pieţei principale din Cracovia. Doi morţi şi cel puţin 10 răniţi",
+        "link": "https://stirileprotv.ro/stiri/international/atac-armat-in-apropierea-pie-ei-principale-din-cracovia-doi-mor-i-si-cel-pu-in-10-rani-i.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac armat în centrul orașului Cracovia: Cel puțin cinci morți și zece răniți. Poliția a declanșat o operațiune de amploare/Mărturia unui român aflat în Cracovia",
+        "link": "https://www.mediafax.ro/externe/atac-armat-in-centrul-orasului-cracovia-cel-putin-cinci-morti-si-zece-raniti-politia-a-declansat-o-operatiune-de-amploare-marturia-unui-roman-aflat-in-cracovia-23839372"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING | Atac armat cu doi morți în Cracovia / Cel puțin 10 răniți / O persoană a tras focuri de armă dintr-o mașină / Video cu impact emoțional",
+        "link": "https://www.g4media.ro/breaking-atac-armat-cu-doi-morti-in-cracovia-cel-putin-10-raniti-o-persoana-a-tras-focuri-de-arma-dintr-o-masina-video-cu-impact-emotional.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac armat în centrul orașului Cracovia: Cel puțin cinci morți și zece răniți/Atacatorul, împușcat de polițiști/Mărturia unui român aflat în Cracovia",
+        "link": "https://www.mediafax.ro/externe/atac-armat-in-centrul-orasului-cracovia-cel-putin-cinci-morti-si-zece-raniti-atacatorul-impuscat-de-politisti-marturia-unui-roman-aflat-in-cracovia-23839372"
+      }
+    ],
+    "published_at": 1794064387,
+    "title_hu": "Atac armat în centrul istoric al Cracoviei. Sunt raportați morți și răniți, iar autoritățile le-au cerut locuitorilor să se adăpostească",
+    "lead_hu": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP W...",
+    "content_hu": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP World, citând serviciile de urgență poloneze.",
+    "title_ro": "Atac armat în centrul istoric al Cracoviei. Sunt raportați morți și răniți, iar autoritățile le-au cerut locuitorilor să se adăpostească",
+    "lead_ro": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP W...",
+    "content_ro": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP World, citând serviciile de urgență poloneze.",
+    "importance_score": 105.0
+  },
+  {
     "group_id": "group_57756edbd0",
     "fingerprint": "c0c9efb5cee0ef17d9e8ea3410922625",
     "category": "Általános",
@@ -850,58 +912,6 @@
     "lead_ro": "Pe 7 noiembrie, un grup de 11 vagoane cu cereale a pornit necontrolat din stația Vicșani și a ajuns pe o linie din gara Dornești, unde a lovit două locomotive. Mai multe vagoane au deraiat, iar unul s-a răsturnat; nu au existat victime, iar trenurile de călători au circulat fără perturbări.",
     "content_ro": "• **Pe 7 noiembrie, la ora 12:02**, în stația Vicșani din județul Suceava, un grup de 11 vagoane al operatorului Global Grain Logistic a început să se deplaseze în timpul transferului cerealelor. Garnitura a continuat fără control spre Dornești.\n\n• **La ora 12:15, în gara Dornești**, vagoanele au ajuns pe linia a patra și au intrat în două locomotive ale unui alt operator de transport feroviar de marfă. Potrivit relatării ProTV, ambii operatori implicați sunt companii private.\n\n• **Încărcătura ar fi însumat sute de tone de cereale**, conform informațiilor publicate de ProTV. După impact, mai multe vagoane au ieșit de pe șine, iar unul s-a răsturnat; valoarea pagubelor materiale nu a fost precizată.\n\n• **Nu s-au înregistrat persoane rănite**, iar CFR a transmis că circulația trenurilor de călători nu a fost afectată. Administratorul infrastructurii a anunțat că va comunica ulterior ce măsuri au fost luate pentru degajarea liniilor și gestionarea situației.\n\n• **Cauza incidentului nu este încă stabilită.** Organismele competente urmează să clarifice împrejurările producerii acestuia. Personalul Regionalei Căi Ferate Iași supraveghează situația și coordonează acțiunile care țin de atribuțiile administratorului infrastructurii.",
     "importance_score": 95.0
-  },
-  {
-    "group_id": "group_bc41b7fd82",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Atac armat în centrul istoric al Cracoviei. Sunt raportați morți și răniți, iar autoritățile le-au cerut locuitorilor să se adăpostească",
-        "link": "https://adevarul.ro/stiri-externe/europa/atac-armat-in-centrul-istoric-al-cracoviei-sunt-2569718.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac armat în centrul orașului Cracovia: Cel puțin doi morți și zece răniți. Poliția a declanșat o operațiune de amploare",
-        "link": "https://www.mediafax.ro/externe/atac-armat-in-centrul-orasului-cracovia-cel-putin-doi-morti-si-zece-raniti-politia-a-declansat-o-operatiune-de-amploare-23839372"
-      },
-      {
-        "source": "Digi24",
-        "title": "Atac armat în Cracovia: doi morți și cel puțin 10 răniți. Mesajul lui Donald Tusk",
-        "link": "https://www.digi24.ro/stiri/externe/ue/atac-armat-in-cracovia-doi-morti-si-cel-putin-10-raniti-mesajul-lui-donald-tusk-4026181"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING | Atac armat cu doi morți în Cracovia / Cel puțin 10 răniți / O persoană a tras focuri de armă dintr-o mașină",
-        "link": "https://www.g4media.ro/breaking-atac-armat-cu-doi-morti-in-cracovia-cel-putin-10-raniti-o-persoana-a-tras-focuri-de-arma-dintr-o-masina.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac armat în centrul orașului Cracovia: Cel puțin doi morți și zece răniți. Poliția a declanșat o operațiune de amploare/Mărturia unui român aflat în Cracovia",
-        "link": "https://www.mediafax.ro/externe/atac-armat-in-centrul-orasului-cracovia-cel-putin-doi-morti-si-zece-raniti-politia-a-declansat-o-operatiune-de-amploare-marturia-unui-roman-aflat-in-cracovia-23839372"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Atac armat în apropierea pieţei principale din Cracovia. Doi morţi şi cel puţin 10 răniţi",
-        "link": "https://stirileprotv.ro/stiri/international/atac-armat-in-apropierea-pie-ei-principale-din-cracovia-doi-mor-i-si-cel-pu-in-10-rani-i.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac armat în centrul orașului Cracovia: Cel puțin cinci morți și zece răniți. Poliția a declanșat o operațiune de amploare/Mărturia unui român aflat în Cracovia",
-        "link": "https://www.mediafax.ro/externe/atac-armat-in-centrul-orasului-cracovia-cel-putin-cinci-morti-si-zece-raniti-politia-a-declansat-o-operatiune-de-amploare-marturia-unui-roman-aflat-in-cracovia-23839372"
-      }
-    ],
-    "published_at": 1794064387,
-    "title_hu": "Atac armat în centrul istoric al Cracoviei. Sunt raportați morți și răniți, iar autoritățile le-au cerut locuitorilor să se adăpostească",
-    "lead_hu": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP W...",
-    "content_hu": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP World, citând serviciile de urgență poloneze.",
-    "title_ro": "Atac armat în centrul istoric al Cracoviei. Sunt raportați morți și răniți, iar autoritățile le-au cerut locuitorilor să se adăpostească",
-    "lead_ro": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP W...",
-    "content_ro": "Mai multe persoane au fost ucise și rănite în urma unui atac armat produs sâmbătă în centrul istoric al orașului Cracovia, unul dintre cele mai importante centre turistice din Polonia, relatează TVP World, citând serviciile de urgență poloneze.",
-    "importance_score": 85.0
   },
   {
     "group_id": "group_266e281872",
@@ -3150,103 +3160,6 @@
     "importance_score": 33.0
   },
   {
-    "group_id": "group_9f639a8606",
-    "fingerprint": "afb1623deba8444010432b53df931300",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Siegfried Mureșan: Cei care vor să țină România pe loc vor încerca să divizeze PNL și USR",
-        "link": "https://agerpres.ro/politic/2026/11/07/siegfried-muresan-cei-care-vor-sa-tina-romania-pe-loc-vor-incerca-sa-divizeze-pnl-si-usr--1611019"
-      },
-      {
-        "source": "Maszol",
-        "title": "„Együtt erősebbek vagyunk” – a PNL és az USR közös céljairól írt Siegfried Mureșan",
-        "link": "https://maszol.ro/belfold/Egyutt-erosebbek-vagyunk-a-PNL-es-az-USR-kozos-celjairol-irt-Siegfried-Muresan"
-      }
-    ],
-    "published_at": 1794044640,
-    "title_hu": "Siegfried Mureșan a PNL és az USR együttműködését hangsúlyozta",
-    "lead_hu": "Siegfried Mureșan liberális európai parlamenti képviselő szerint a PNL és az USR együttműködése fontos a romániai kormányzás javításához. Úgy vélte, egyes szereplők megpróbálhatják szembeállítani a két pártot, de azok megőrzik különálló politikai identitásukat.",
-    "content_hu": "• **Siegfried Mureșan** szombaton, Facebook-bejegyzésben arról írt, hogy szerinte megpróbálhatják megosztani a Nemzeti Liberális Pártot (PNL) és a Mentsétek meg Romániát Szövetséget (USR). Úgy fogalmazott, hogy a két párt tagjait eltérő állításokkal igyekezhetnek egymás ellen hangolni.\n\n• **A PNL és az USR különálló párt**, saját politikai identitással – hangsúlyozta az európai parlamenti képviselő. Szerinte az együttműködés nem jelenti azt, hogy bármelyik szervezet feladná önálló arculatát vagy beolvadna a másikba.\n\n• **A közös cél Mureșan szerint a megfelelő kormányzás**, amely a romániai lakosság igényeire összpontosít. A képviselő az ország korszerűsítését, a reformokat, a pazarlás mérséklését, valamint olyan állam működését nevezte meg elvárásként, amely a polgárokat szolgálja.\n\n• **A két politikai erő együtt kíván dolgozni** e célok eléréséért – közölte Mureșan. Álláspontja szerint az összehangolt fellépés erősítheti a pártokat, ezért arra biztatta őket, hogy ne hagyják, hogy megfélemlítsék vagy egymástól eltávolítsák őket.\n\n• **Mureșan bírálata** azoknak szólt, akikről úgy véli, hogy Románia fejlődésének akadályozásában érdekeltek. Bejegyzésében azt állította, hogy a PNL és az USR közötti együttműködés elleni fellépés ennek a törekvésnek lehet a része.",
-    "title_ro": "Siegfried Mureșan susține cooperarea dintre PNL și USR",
-    "lead_ro": "Europarlamentarul liberal Siegfried Mureșan a afirmat că parteneriatul dintre PNL și USR poate contribui la o guvernare mai bună în România. El consideră că ar putea exista încercări de a pune cele două formațiuni în opoziție, deși acestea își păstrează identitățile politice distincte.",
-    "content_ro": "• **Siegfried Mureșan** a scris sâmbătă, într-o postare pe Facebook, că în opinia sa ar putea fi încercată dezbinarea Partidului Național Liberal și a Uniunii Salvați România. Potrivit europarlamentarului, membrii celor două formațiuni ar putea fi abordați cu mesaje diferite, menite să îi îndepărteze unii de alții.\n\n• **PNL și USR rămân partide distincte**, fiecare cu propria identitate politică, a subliniat Mureșan. El a precizat că această diferență nu împiedică o colaborare și nu presupune renunțarea vreuneia dintre formațiuni la profilul său.\n\n• **Obiectivul comun indicat de europarlamentar este o guvernare eficientă**, orientată către nevoile populației. În mesajul său, Mureșan a menționat modernizarea țării, reformele, diminuarea risipei și funcționarea unui stat care să răspundă intereselor cetățenilor.\n\n• **Cele două formațiuni intenționează să coopereze** pentru realizarea acestor obiective, potrivit declarației sale. Mureșan consideră că acțiunea coordonată le poate consolida poziția și a afirmat că nu ar trebui să se lase nici intimidate, nici îndepărtate una de cealaltă.\n\n• **Critica lui Mureșan** a vizat persoanele pe care le consideră interesate să frâneze dezvoltarea României. În interpretarea sa, încercările de a slăbi colaborarea dintre PNL și USR ar putea servi acestui scop.",
-    "importance_score": 33.0
-  },
-  {
-    "group_id": "group_82e1bc04ff",
-    "fingerprint": "86a5c2c7c613c1bba687ca626eeba8e5",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "România urcă pe podium la Mondialele de haltere. Luis Lauret câștigă argintul și își depășește recordul de la Europene",
-        "link": "https://www.mediafax.ro/sport/romania-urca-pe-podium-la-mondialele-de-haltere-luis-lauret-castiga-argintul-si-isi-depaseste-recordul-de-la-europene-23838909"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Luis Manuel Lauret Rodriguez a adus singura medalie României la CM de haltere",
-        "link": "https://adevarul.ro/sport/luis-manuel-lauret-rodriguez-a-adus-singura-2569655.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
-        "link": "https://www.gsp.ro/sporturi/altele/luis-lauret-vicecampion-mondial-la-haltere-la-categoria-110-kg-stilul-smuls-si-locul-4-la-total-996588.html"
-      }
-    ],
-    "published_at": 1794043642,
-    "title_hu": "Luis Lauret újabb vb-ezüstöt szerzett szakításban",
-    "lead_hu": "A Romániát képviselő Luis Manuel Lauret Rodríguez 194 kilogrammos szakítással ezüstérmet nyert a ningbói világbajnokság 110 kilogrammos kategóriájában. Összetettben negyedik lett, egy kilogrammal maradt le a dobogóról; a román csapat egyetlen érmét ő szerezte.",
-    "content_hu": "• **November 6-án Luis Manuel Lauret Rodríguez zárta a románok szereplését** a Ningbóban október 27. és november 8. között rendezett világbajnokságon. A kubai születésű, 1997. január 20-án világra jött emelő a bukaresti Olimpia klub tagja, és 2025 óta versenyez román színekben.\n\n• **Szakításban 194 kilogrammal második lett** a 110 kilogrammos súlycsoportban. A 190 kilogrammos nyitást követően sikerült a 194-es emelés, 198 kilogrammal viszont nem járt eredménnyel; az üzbég Akbar Djuraev 198-cal nyert, a tajvani Chen Po-Jen 191 kilogrammal zárt harmadikként.\n\n• **Lökésben 222 kilogrammot teljesített, ami a hetedik helyet jelentette.** Lauret 216 kilogrammról indított, majd a 222-es kísérletet is megcsinálta, 226 kilogrammot azonban nem tudott felemelni. Djuraev 234, az iráni Alireza Nasiri 233, a türkmén Shahzadbek Matyakubov pedig 230 kilogrammal végzett előtte.\n\n• **A 416 kilogrammos összteljesítmény egy kilogrammal maradt el az éremtől.** Djuraev 432, Nasiri 418, Matyakubov 417 kilogrammal előzte meg Lauret. A román sportoló két kilogrammot javított a batumi Európa-bajnokságon elért eredményén, és megismételte a 2025-ös vb-n szerzett szakításbeli ezüstjét.\n\n• **Mihaela Cambei 200 kilogrammal hetedik lett az 53 kilogrammos mezőnyben.** Szakításban 91 kilogrammot emelt, ezzel hatodikként zárt, lökésben 109 kilogramm a 14. helyre volt elég. Románia az éremtáblázaton a 14. helyen végzett, míg Kína 27 medállal, köztük 11 arannyal az élen zárt. A ningbói verseny volt a Los Angeles-i olimpia első kvalifikációs állomása; Lauret eredménye önmagában nem biztosított olimpiai kvótát.",
-    "title_ro": "Luis Lauret a câștigat din nou argintul mondial la stilul smuls",
-    "lead_ro": "Luis Manuel Lauret Rodríguez, reprezentantul României, a obținut argintul la categoria de 110 kilograme, cu 194 kg la stilul smuls, la Mondialele de la Ningbo. Cu 416 kg la total, a ocupat locul patru, la un kilogram de podium, și a adus singura medalie a delegației române.",
-    "content_ro": "• **La 6 noiembrie, Luis Manuel Lauret Rodríguez a încheiat evoluția delegației României** la Mondialele desfășurate la Ningbo între 27 octombrie și 8 noiembrie. Sportivul, născut în Cuba la 20 ianuarie 1997, este legitimat la clubul Olimpia din București și reprezintă România din 2025.\n\n• **La stilul smuls, Lauret a ridicat 194 kg și a obținut locul al doilea** în categoria de 110 kilograme. După ce a reușit 190 kg la prima încercare, a avut succes și la 194 kg, însă tentativa de 198 kg a fost ratată. Uzbekul Akbar Djuraev a câștigat proba cu 198 kg, iar taiwanezul Chen Po-Jen a ocupat locul trei, cu 191 kg.\n\n• **Rezultatul de 222 kg la stilul aruncat i-a adus poziția a șaptea.** Lauret a început cu 216 kg și a trecut apoi de 222 kg, dar nu a reușit să ridice 226 kg. Djuraev a încheiat cu 234 kg, iranianul Alireza Nasiri cu 233 kg, iar turkmenul Shahzadbek Matyakubov cu 230 kg.\n\n• **Totalul de 416 kg l-a plasat pe Lauret la un kilogram de medalii.** Djuraev a acumulat 432 kg, Nasiri 418 kg, iar Matyakubov 417 kg. Românul și-a îmbunătățit cu două kilograme totalul de la Europenele de la Batumi și a egalat performanța din 2025, când a câștigat argintul mondial la smuls.\n\n• **Mihaela Cambei a terminat pe locul șapte la categoria de 53 kg, cu 200 kg la total.** Ea a ridicat 91 kg la smuls, rezultat de locul șase, și 109 kg la aruncat, clasându-se a 14-a. România a fost a 14-a în ierarhia medaliilor, iar China a condus cu 27 de medalii, dintre care 11 de aur. Concursul de la Ningbo a deschis calificările pentru Jocurile Olimpice din 2028, însă rezultatul lui Lauret nu i-a asigurat direct participarea.",
-    "importance_score": 33.0
-  },
-  {
-    "group_id": "group_fdea4fee76",
-    "fingerprint": "12522553e12ba6d96f887e8ff4a82747",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Amenințare tăcută. Rezistența la antibiotice, la fel de mortală ca gripa, tuberculoza și HIV la un loc",
-        "link": "https://www.mediafax.ro/sanatate/amenintare-tacuta-rezistenta-la-antibiotice-la-fel-de-mortala-ca-gripa-tuberculoza-si-hiv-la-un-loc-23839153"
-      },
-      {
-        "source": "G4Media",
-        "title": "Rezistența la antibiotice, la fel de mortală ca gripa, tuberculoza și HIV la un loc / România, cea mai afectată țară din UE",
-        "link": "https://www.g4media.ro/rezistenta-la-antibiotice-la-fel-de-mortala-ca-gripa-tuberculoza-si-hiv-la-un-loc-romania-cea-mai-afectata-tara-din-ue.html"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Románia listavazető az antibiotikum-rezisztencia terén a gyógyszer túlzott és nem megfelelő alkalmazása miatt",
-        "link": "https://transtelex.ro/eletmod/2026/11/07/romania-listavazeto-az-antibiotikum-rezisztencia-teren-a-gyogyszer-tulzott-es-nem-megfelelo-alkalmazas-miatt"
-      }
-    ],
-    "published_at": 1794043578,
-    "title_hu": "Antibiotikum-rezisztencia: új részletek a kezelés korlátairól és a romániai helyzetről",
-    "lead_hu": "Az antimikrobiális rezisztencia az Európai Unióban évente mintegy 35 ezer halálesethez kapcsolódik, a kezelések pedig egyes esetekben több antibiotikummal sem vezetnek eredményre. Az új forrás Fiona Walsh kutató szerepét és a kórházi fertőzésekben gyakori Klebsiella pneumoniae ellenállásának jelentőségét is kiemeli.",
-    "content_hu": "• **Évente mintegy 35 ezer haláleset** kapcsolódik az antimikrobiális rezisztenciához az Európai Unióban az ECDC becslése szerint. Az egészségügyi hatás nagysága az influenza, a tuberkulózis és a HIV/AIDS együttes terhéhez mérhető.\n\n• **A kezelések hatékonysága csökkenhet**, ha a baktériumok ellenállóvá válnak a megszokott gyógyszerekkel szemben. Többféle antibiotikum együttes adása sem minden esetben segít. Fiona Walsh, az írországi Maynooth Egyetem kutatója embereknél, állatoknál és a környezetben vizsgálja a jelenséget.\n\n• **2025 és 2050 között 39 millió közvetlen haláleset** következhet be világszerte az antibiotikum-rezisztencia miatt egy, a The Lancetben megjelent tanulmány becslése szerint. A terjedéshez hozzájárulhat az antibiotikumok túlzott emberi és állatgyógyászati alkalmazása, a hiányos higiénia, valamint a szennyezés; a rezisztens baktériumok és génjeik az emberek, állatok és a környezet között is terjednek.\n\n• **Romániában volt a legmagasabb az EU-s összesített rezisztenciamutató:** 2022–2023-ban a vizsgált baktériumminták közel 70 százaléka ellenállt a fontos antibiotikumoknak. Az antibiotikum-fogyasztás 2023-ban ezer lakosra vetítve napi 26 adag volt, az OECD 16-os átlagával szemben; a mutató egy évtized alatt nem változott.\n\n• **A Klebsiella pneumoniae karbapenem-rezisztenciája 50,3 százalékra nőtt Romániában.** Ez a baktérium gyakori kórokozója a kórházi fertőzéseknek, a karbapenemek pedig a súlyos esetekben alkalmazott, utolsó lehetőségek közé tartozó antibiotikumok. A Frontiers in Microbiology adatai szerint Görögországban és Bulgáriában magasabb az arány; Romániában nagyjából minden hatodik ember szedett már antibiotikumot recept nélkül.",
-    "title_ro": "Rezistența la antibiotice: noi detalii despre limitele tratamentului și situația din România",
-    "lead_ro": "Rezistența antimicrobiană este asociată cu aproximativ 35.000 de decese pe an în Uniunea Europeană, iar în unele cazuri nici administrarea mai multor antibiotice nu este eficientă. Noua sursă oferă detalii despre cercetătoarea Fiona Walsh și despre rezistența bacteriei Klebsiella pneumoniae, întâlnită frecvent în infecțiile spitalicești.",
-    "content_ro": "• **Aproximativ 35.000 de decese anual** sunt asociate rezistenței antimicrobiene în Uniunea Europeană, potrivit estimării ECDC. Povara asupra sănătății este comparabilă cu efectele cumulate ale gripei, tuberculozei și HIV/SIDA.\n\n• **Tratamentele pot să nu mai funcționeze**, atunci când bacteriile nu răspund la medicamentele utilizate în mod obișnuit. Nici combinațiile de mai multe antibiotice nu rezolvă toate cazurile. Fiona Walsh, cercetătoare la Universitatea Maynooth din Irlanda, studiază fenomenul la oameni, animale și în mediu.\n\n• **39 de milioane de decese directe între 2025 și 2050** ar putea fi provocate la nivel mondial de rezistența bacteriilor la antibiotice, conform unei estimări publicate în The Lancet. Răspândirea este favorizată de utilizarea excesivă la oameni și animale, igiena insuficientă și poluare. Bacteriile rezistente și genele asociate circulă între oameni, animale și mediu.\n\n• **România a avut cel mai ridicat indice compozit al rezistenței din UE:** în 2022–2023, aproape 70% dintre izolatele bacteriene analizate nu răspundeau la antibioticele-cheie. În 2023, consumul a fost de 26 de doze zilnice la 1.000 de locuitori, față de media OCDE de 16; nivelul a rămas neschimbat timp de un deceniu.\n\n• **Rezistența Klebsiella pneumoniae la carbapeneme a ajuns la 50,3% în România.** Bacteria este întâlnită frecvent în infecțiile din spitale, iar carbapenemele se numără printre antibioticele folosite ca opțiune de ultimă linie. Datele din Frontiers in Microbiology arată valori mai mari doar în Grecia și Bulgaria; aproximativ unul din șase români a luat antibiotice fără prescripție.",
-    "importance_score": 33.0
-  },
-  {
     "group_id": "group_8daf0825be",
     "fingerprint": "91ae1b9027c1ea2b26d15d48c1be860c",
     "category": "Politika",
@@ -3838,6 +3751,35 @@
     "title_ro": "România, prima țară cu un program dedicat la American Film Market",
     "lead_ro": "American Film Market, organizat la Los Angeles între 10 și 15 noiembrie, va dedica României un program special, o premieră pentru eveniment. Cristian Mungiu va participa pe 14 noiembrie la o masă rotundă despre oportunitățile de filmare și coproducție din România.",
     "content_ro": "• **Între 10 și 15 noiembrie**, American Film Market (AFM) are loc la Los Angeles, iar România va beneficia de un program special. Este prima dată când evenimentul dedică o astfel de inițiativă unei țări. AFM se desfășoară la hotelul Fairmont Century Plaza și este organizat de Independent Film & Television Alliance (IFTA).\n\n• **Creative Romanian Filmmakers (CRFM)** va participa cu o delegație de cineaști, producători și companii din domeniu. Aceștia vor prezenta filme românești recente și vor discuta cu profesioniști internaționali despre filmările realizate în România și despre posibile proiecte de coproducție.\n\n• **Cristian Mungiu, pe 14 noiembrie**, este invitat la masa rotundă „Beyond the New Wave: Romania as Your Next Production Partner”. Alături de regizor vor lua parte Valentin Savu, Alma Bacula, precum și producătorii Iuliana Tarnovetchi, Gabriel Popescu și Ionuț Ionescu.\n\n• **Filmul Fjord**, pentru care Mungiu semnează scenariul și regia, va fi reprezentat în cadrul discuțiilor despre industria românească. Potrivit Mediafax, pelicula a obținut marele premiu la Cannes în acest an. Mungiu a vorbit și despre șansele filmelor românești de a ajunge la publicul internațional dincolo de circuitul festivalurilor.\n\n• **Din 2016**, CRFM promovează producătorii români la piețe și festivaluri internaționale importante, iar AFM face parte din acest parcurs. Mungiu a mai menționat că sistemul de rambursare pentru producțiile cinematografice funcționează din nou și că autoritățile discută posibilitatea finanțării în avans a fluxului de numerar aferent rambursărilor. El a spus că speră la rezultate concrete începând din 2027.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_9f639a8606",
+    "fingerprint": "afb1623deba8444010432b53df931300",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Siegfried Mureșan: Cei care vor să țină România pe loc vor încerca să divizeze PNL și USR",
+        "link": "https://agerpres.ro/politic/2026/11/07/siegfried-muresan-cei-care-vor-sa-tina-romania-pe-loc-vor-incerca-sa-divizeze-pnl-si-usr--1611019"
+      },
+      {
+        "source": "Maszol",
+        "title": "„Együtt erősebbek vagyunk” – a PNL és az USR közös céljairól írt Siegfried Mureșan",
+        "link": "https://maszol.ro/belfold/Egyutt-erosebbek-vagyunk-a-PNL-es-az-USR-kozos-celjairol-irt-Siegfried-Muresan"
+      }
+    ],
+    "published_at": 1794044640,
+    "title_hu": "Siegfried Mureșan a PNL és az USR együttműködését hangsúlyozta",
+    "lead_hu": "Siegfried Mureșan liberális európai parlamenti képviselő szerint a PNL és az USR együttműködése fontos a romániai kormányzás javításához. Úgy vélte, egyes szereplők megpróbálhatják szembeállítani a két pártot, de azok megőrzik különálló politikai identitásukat.",
+    "content_hu": "• **Siegfried Mureșan** szombaton, Facebook-bejegyzésben arról írt, hogy szerinte megpróbálhatják megosztani a Nemzeti Liberális Pártot (PNL) és a Mentsétek meg Romániát Szövetséget (USR). Úgy fogalmazott, hogy a két párt tagjait eltérő állításokkal igyekezhetnek egymás ellen hangolni.\n\n• **A PNL és az USR különálló párt**, saját politikai identitással – hangsúlyozta az európai parlamenti képviselő. Szerinte az együttműködés nem jelenti azt, hogy bármelyik szervezet feladná önálló arculatát vagy beolvadna a másikba.\n\n• **A közös cél Mureșan szerint a megfelelő kormányzás**, amely a romániai lakosság igényeire összpontosít. A képviselő az ország korszerűsítését, a reformokat, a pazarlás mérséklését, valamint olyan állam működését nevezte meg elvárásként, amely a polgárokat szolgálja.\n\n• **A két politikai erő együtt kíván dolgozni** e célok eléréséért – közölte Mureșan. Álláspontja szerint az összehangolt fellépés erősítheti a pártokat, ezért arra biztatta őket, hogy ne hagyják, hogy megfélemlítsék vagy egymástól eltávolítsák őket.\n\n• **Mureșan bírálata** azoknak szólt, akikről úgy véli, hogy Románia fejlődésének akadályozásában érdekeltek. Bejegyzésében azt állította, hogy a PNL és az USR közötti együttműködés elleni fellépés ennek a törekvésnek lehet a része.",
+    "title_ro": "Siegfried Mureșan susține cooperarea dintre PNL și USR",
+    "lead_ro": "Europarlamentarul liberal Siegfried Mureșan a afirmat că parteneriatul dintre PNL și USR poate contribui la o guvernare mai bună în România. El consideră că ar putea exista încercări de a pune cele două formațiuni în opoziție, deși acestea își păstrează identitățile politice distincte.",
+    "content_ro": "• **Siegfried Mureșan** a scris sâmbătă, într-o postare pe Facebook, că în opinia sa ar putea fi încercată dezbinarea Partidului Național Liberal și a Uniunii Salvați România. Potrivit europarlamentarului, membrii celor două formațiuni ar putea fi abordați cu mesaje diferite, menite să îi îndepărteze unii de alții.\n\n• **PNL și USR rămân partide distincte**, fiecare cu propria identitate politică, a subliniat Mureșan. El a precizat că această diferență nu împiedică o colaborare și nu presupune renunțarea vreuneia dintre formațiuni la profilul său.\n\n• **Obiectivul comun indicat de europarlamentar este o guvernare eficientă**, orientată către nevoile populației. În mesajul său, Mureșan a menționat modernizarea țării, reformele, diminuarea risipei și funcționarea unui stat care să răspundă intereselor cetățenilor.\n\n• **Cele două formațiuni intenționează să coopereze** pentru realizarea acestor obiective, potrivit declarației sale. Mureșan consideră că acțiunea coordonată le poate consolida poziția și a afirmat că nu ar trebui să se lase nici intimidate, nici îndepărtate una de cealaltă.\n\n• **Critica lui Mureșan** a vizat persoanele pe care le consideră interesate să frâneze dezvoltarea României. În interpretarea sa, încercările de a slăbi colaborarea dintre PNL și USR ar putea servi acestui scop.",
     "importance_score": 28.0
   },
   {
@@ -4921,33 +4863,26 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_58d8fac065",
-    "fingerprint": "02bf36f825ec647bccaff3e790923cd4",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
+    "group_id": "group_77e7316811",
+    "category": "Sport",
+    "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "HotNews.ro",
-        "title": "Una dintre cele mai mari actrițe din România intervine în scandalul angajării la Teatrul Național București a regizorului Felix Alexa, acuzat de abuz",
-        "link": "https://hotnews.ro/una-dintre-cele-mai-mari-actrite-din-romania-intervine-in-scandalul-angajarii-la-teatrul-national-bucuresti-a-regizorului-felix-alexa-acuzat-de-abuz-2397029"
-      },
-      {
-        "source": "G4Media",
-        "title": "Teatrul Național din București, în mijlocul unui amplu scandal, după angajarea controversatului regizor Felix Alexa, acuzat de abuzuri și hărțuire sexuală / Un regizor îi cere managerului TNB să demisioneze din funcție, după ce Ada Lupu Hausvater a găsit justificări pentru decizia de a-l angaja pe Felix Alexa",
-        "link": "https://www.g4media.ro/teatrul-national-din-bucuresti-in-mijlocul-unui-amplu-scandal-dupa-angajarea-controversatului-regizor-felix-alexa-acuzat-de-abuzuri-si-hartuire-sexuala-un-regizor-ii-cere-managerului-tnb-sa-demis.html"
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Se prezintă la națională după o înfrângere rușinoasă! După-amiază de coșmar pentru internaționalul român",
+        "link": "https://www.gsp.ro/international/stranieri/lisav-eissat-esec-usturator-bristol-city-norwich-996947.html"
       }
     ],
-    "published_at": 1793979743,
-    "title_hu": "Ofelia Popii megszólalt Felix Alexa TNB-s kinevezése ügyében",
-    "lead_hu": "Ofelia Popii színésznő nyilvánosan reagált arra, hogy a bukaresti Nemzeti Színház alkalmazta Felix Alexa rendezőt, akit több nő zaklatással és szexuális agresszióval vádolt egy 2023-as oknyomozó riportban. Popii a tanúvallomások mellett Conrad Mericoffer színész TNB-ből való távozását is említette.",
-    "content_hu": "• **A bukaresti Nemzeti Színház Felix Alexát alkalmazta**, akit több nő zaklatással és szexuális agresszióval vádolt a RISE Project 2023-ban közölt vizsgálatában. Az állítások a rendezővel folytatott szakmai vagy személyes kapcsolatokra vonatkoztak.\n\n• **Ofelia Popii színésznő nyilvánosan reagált az ügyre.** Azt írta, hogy elolvasta a női megszólalók beszámolóit, és mélyen megrázták az abban leírt tapasztalatok. A történtek kapcsán felháborodást és tehetetlenséget is megfogalmazott.\n\n• **Popii szerint a művészi teljesítmény nem igazolhat bántalmazó magatartást.** Álláspontja szerint az igényes színházi munka összeegyeztethető az emberi méltóság tiszteletben tartásával, és nem szükséges hozzá a közreműködők megalázása vagy megfélemlítése.\n\n• **A színésznő a hallgatás következményeire is felhívta a figyelmet.** Úgy vélte, hogy a bántalmazás észlelésekor a közösségnek nem szabad félrenéznie, mert a problémák elhallgatása hozzájárulhat azok elfogadottá válásához.\n\n• **Conrad Mericoffer távozása szintén hatással volt Popiira.** A színésznő megemlítette a TNB-től való lemondását, de a közölt forrásrészlet nem részletezi a döntés körülményeit vagy indokait.",
-    "title_ro": "Ofelia Popii a reacționat la angajarea lui Felix Alexa la TNB",
-    "lead_ro": "Actrița Ofelia Popii a comentat public angajarea regizorului Felix Alexa de către Teatrul Național București, în contextul acuzațiilor formulate de mai multe femei într-o investigație din 2023. Popii a menționat atât mărturiile acestora, cât și plecarea actorului Conrad Mericoffer de la TNB.",
-    "content_ro": "• **Teatrul Național București l-a angajat pe Felix Alexa**, regizor acuzat de mai multe femei de hărțuire și agresiune sexuală într-o investigație publicată de RISE Project în 2023. Relatările se refereau la experiențe din relații profesionale sau personale cu acesta.\n\n• **Actrița Ofelia Popii a luat poziție publică în legătură cu situația.** Ea a spus că a citit mărturiile femeilor și că acestea au afectat-o profund. Reacția sa a inclus atât tristețe, cât și indignare și sentimentul neputinței.\n\n• **Popii a susținut că valoarea artistică nu poate justifica abuzurile.** În opinia sa, exigența în teatru poate coexista cu respectarea demnității celor implicați, fără umilirea sau intimidarea artiștilor și a celorlalți angajați.\n\n• **Actrița a atras atenția asupra efectului tăcerii.** Ea a afirmat că cei care observă situații de abuz au responsabilitatea de a nu le ignora, deoarece lipsa unei reacții poate contribui la normalizarea unor asemenea comportamente.\n\n• **Plecarea lui Conrad Mericoffer de la TNB a afectat-o, de asemenea, pe Popii.** Actrița a făcut referire la demisia actorului, însă fragmentul disponibil nu precizează motivele retragerii și nici detaliile deciziei.",
-    "importance_score": 20.0
+    "published_at": 1794065826,
+    "title_hu": "Se prezintă la națională după o înfrângere rușinoasă! După-amiază de coșmar pentru internaționalul român",
+    "lead_hu": "Bristol City, formația fundașului central român Lisav Eissat (21 de ani), a suferit o înfrângere categorică pe teren propriu, scor 0-5 cu Norwich, în etapa a 15-a din Championship, liga secundă a Angl...",
+    "content_hu": "Bristol City, formația fundașului central român Lisav Eissat (21 de ani), a suferit o înfrângere categorică pe teren propriu, scor 0-5 cu Norwich, în etapa a 15-a din Championship, liga secundă a Angliei. Eșecul a venit chiar în ziua în care Eissat a aflat că a fost convocat de selecționerul Gheorghe Hagi pentru partidele României cu Polonia și Bosnia, din Liga Națiunilor. ...",
+    "title_ro": "Se prezintă la națională după o înfrângere rușinoasă! După-amiază de coșmar pentru internaționalul român",
+    "lead_ro": "Bristol City, formația fundașului central român Lisav Eissat (21 de ani), a suferit o înfrângere categorică pe teren propriu, scor 0-5 cu Norwich, în etapa a 15-a din Championship, liga secundă a Angl...",
+    "content_ro": "Bristol City, formația fundașului central român Lisav Eissat (21 de ani), a suferit o înfrângere categorică pe teren propriu, scor 0-5 cu Norwich, în etapa a 15-a din Championship, liga secundă a Angliei. Eșecul a venit chiar în ziua în care Eissat a aflat că a fost convocat de selecționerul Gheorghe Hagi pentru partidele României cu Polonia și Bosnia, din Liga Națiunilor. ...",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_c89cf654fa",
@@ -5189,6 +5124,28 @@
     "title_ro": "Singurul oraș din SUA care a spus „da” centrelor de date AI. Ce i-a determinat pe locuitori să voteze împotriva curentului",
     "lead_ro": "Alegătorii americani au criticat dur centrele de date în propunerile de pe buletinele de vot din întreaga țară, marți. Cu excepția unui mic oraș din Dakota de Nord. Cetățenii din Harwood, care sunt în...",
     "content_ro": "Alegătorii americani au criticat dur centrele de date în propunerile de pe buletinele de vot din întreaga țară, marți. Cu excepția unui mic oraș din Dakota de Nord. Cetățenii din Harwood, care sunt în număr de aproximativ 940, au respins o măsură care le-ar fi oferit locuitorilor un cuvânt mai important de spus în modul în care sunt construite proiecte mari în oraș, cum ar fi centrele de date pentru inteligență artificială, scrie Business Insider.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_0e686618f7",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "De ziua lui, Robert Veres nu își dorește cadouri, ci libertatea de a se bucura de viață. Apelul la solidaritate al Asociației Werdnig Hoffman",
+        "link": "https://www.presasm.ro/de-ziua-lui-robert-veres-nu-isi-doreste-cadouri-ci-libertatea-de-a-se-bucura-de-viata-apelul-la/54166"
+      }
+    ],
+    "published_at": 1794063780,
+    "title_hu": "De ziua lui, Robert Veres nu își dorește cadouri, ci libertatea de a se bucura de viață. Apelul la solidaritate al Asociației Werdnig Hoffman",
+    "lead_hu": "Robert Veres are nevoie de sprijin pentru a-și putea păstra libertatea de mișcare și pentru a nu rămâne izolat în propria locuință. Asociația Werdnig Hoffman a lansat o campanie de strângere de fondur...",
+    "content_hu": "Robert Veres are nevoie de sprijin pentru a-și putea păstra libertatea de mișcare și pentru a nu rămâne izolat în propria locuință. Asociația Werdnig Hoffman a lansat o campanie de strângere de fonduri pentru achiziționarea unei mașini adaptate, necesară trans…",
+    "title_ro": "De ziua lui, Robert Veres nu își dorește cadouri, ci libertatea de a se bucura de viață. Apelul la solidaritate al Asociației Werdnig Hoffman",
+    "lead_ro": "Robert Veres are nevoie de sprijin pentru a-și putea păstra libertatea de mișcare și pentru a nu rămâne izolat în propria locuință. Asociația Werdnig Hoffman a lansat o campanie de strângere de fondur...",
+    "content_ro": "Robert Veres are nevoie de sprijin pentru a-și putea păstra libertatea de mișcare și pentru a nu rămâne izolat în propria locuință. Asociația Werdnig Hoffman a lansat o campanie de strângere de fonduri pentru achiziționarea unei mașini adaptate, necesară trans…",
     "importance_score": 0.0
   },
   {
@@ -16324,182 +16281,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_a1bb082d10",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Armenia vrea relaţii diplomatice cu Turcia. „Sunt încrezător”",
-        "link": "https://hotnews.ro/armenia-vrea-relatii-diplomatice-cu-turcia-sunt-increzator-2397094"
-      }
-    ],
-    "published_at": 1793979765,
-    "title_hu": "Armenia vrea relaţii diplomatice cu Turcia. „Sunt încrezător”",
-    "lead_hu": "Armenia este încrezătoare că va stabili în curând relaţii diplomatice cu Turcia, a declarat vineri premierul armean Nikol Paşinian, conform EFE și Agerpres. „Armenia şi Turcia nu au stabilit încă rela…",
-    "content_hu": "Armenia este încrezătoare că va stabili în curând relaţii diplomatice cu Turcia, a declarat vineri premierul armean Nikol Paşinian, conform EFE și Agerpres. „Armenia şi Turcia nu au stabilit încă relaţii diplomatice, dar sunt încrezător că o vor face în viitorul apropiat, odată cu recunoaşterea reciprocă a integrităţii teritoriale, suveranităţii şi frontierelor fiecărei ţări”, a …",
-    "title_ro": "Armenia vrea relaţii diplomatice cu Turcia. „Sunt încrezător”",
-    "lead_ro": "Armenia este încrezătoare că va stabili în curând relaţii diplomatice cu Turcia, a declarat vineri premierul armean Nikol Paşinian, conform EFE și Agerpres. „Armenia şi Turcia nu au stabilit încă rela…",
-    "content_ro": "Armenia este încrezătoare că va stabili în curând relaţii diplomatice cu Turcia, a declarat vineri premierul armean Nikol Paşinian, conform EFE și Agerpres. „Armenia şi Turcia nu au stabilit încă relaţii diplomatice, dar sunt încrezător că o vor face în viitorul apropiat, odată cu recunoaşterea reciprocă a integrităţii teritoriale, suveranităţii şi frontierelor fiecărei ţări”, a …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a9a254bd8f",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Cristian Mungiu critică polarizarea societății: „Prea multe povești create doar pentru a ne confirma că avem dreptate”",
-        "link": "https://adevarul.ro/showbiz/film/cristian-mungiu-critica-polarizarea-societatii-2569529.html"
-      }
-    ],
-    "published_at": 1793979751,
-    "title_hu": "Cristian Mungiu critică polarizarea societății: „Prea multe povești create doar pentru a ne confirma că avem dreptate”",
-    "lead_hu": "Regizorul Cristian Mungiu a criticat, într-un interviu pentru The Guardian, publicat vineri, 6 noiembrie, tendința de a împărți societatea în tabere și de a-i eticheta pe cei cu opinii diferite, afirm…",
-    "content_hu": "Regizorul Cristian Mungiu a criticat, într-un interviu pentru The Guardian, publicat vineri, 6 noiembrie, tendința de a împărți societatea în tabere și de a-i eticheta pe cei cu opinii diferite, afirmând că „vedem prea multe povești create doar pentru a ne confirma că avem dreptate”.",
-    "title_ro": "Cristian Mungiu critică polarizarea societății: „Prea multe povești create doar pentru a ne confirma că avem dreptate”",
-    "lead_ro": "Regizorul Cristian Mungiu a criticat, într-un interviu pentru The Guardian, publicat vineri, 6 noiembrie, tendința de a împărți societatea în tabere și de a-i eticheta pe cei cu opinii diferite, afirm…",
-    "content_ro": "Regizorul Cristian Mungiu a criticat, într-un interviu pentru The Guardian, publicat vineri, 6 noiembrie, tendința de a împărți societatea în tabere și de a-i eticheta pe cei cu opinii diferite, afirmând că „vedem prea multe povești create doar pentru a ne confirma că avem dreptate”.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_7d02a00beb",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Planurile militare ale României: Mai mulți soldați americani, fabrică Sig Sauer și investiții în drone. Probleme cu sistemul MEROPS",
-        "link": "https://www.mediafax.ro/social/planurile-militare-ale-romaniei-mai-multi-soldati-americani-fabrica-sig-sauer-si-investitii-in-drone-probleme-cu-sistemul-merops-23838895"
-      }
-    ],
-    "published_at": 1793979727,
-    "title_hu": "Planurile militare ale României: Mai mulți soldați americani, fabrică Sig Sauer și investiții în drone. Probleme cu sistemul MEROPS",
-    "lead_hu": "România a solicitat Statelor Unite consolidarea permanentă a prezenței militare americane la Baza Mihail Kogălniceanu și în alte puncte strategice din țară. În paralel, Ministerul Apărării Naționale (…",
-    "content_hu": "România a solicitat Statelor Unite consolidarea permanentă a prezenței militare americane la Baza Mihail Kogălniceanu și în alte puncte strategice din țară. În paralel, Ministerul Apărării Naționale (MApN) încearcă să deblocheze un proiect comun cu Ucraina pentru producția de drone.",
-    "title_ro": "Planurile militare ale României: Mai mulți soldați americani, fabrică Sig Sauer și investiții în drone. Probleme cu sistemul MEROPS",
-    "lead_ro": "România a solicitat Statelor Unite consolidarea permanentă a prezenței militare americane la Baza Mihail Kogălniceanu și în alte puncte strategice din țară. În paralel, Ministerul Apărării Naționale (…",
-    "content_ro": "România a solicitat Statelor Unite consolidarea permanentă a prezenței militare americane la Baza Mihail Kogălniceanu și în alte puncte strategice din țară. În paralel, Ministerul Apărării Naționale (MApN) încearcă să deblocheze un proiect comun cu Ucraina pentru producția de drone.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_deede93762",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Suspendat cu Valencia, Realul l-a trimis pe Vinicius Junior la 6.000 de kilometri de Madrid",
-        "link": "https://www.gsp.ro/international/campionate/real-madrid-valencia-vinicius-junior-la-liga-996596.html"
-      }
-    ],
-    "published_at": 1793979694,
-    "title_hu": "Suspendat cu Valencia, Realul l-a trimis pe Vinicius Junior la 6.000 de kilometri de Madrid",
-    "lead_hu": "Atacantul lui Real Madrid, Vinicius Junior, nu va evolua în partida de sâmbătă din deplasare cu Valencia, meci în care își ispășește ultima etapă din suspendarea de patru jocuri primită după cartonașu…",
-    "content_hu": "Atacantul lui Real Madrid, Vinicius Junior, nu va evolua în partida de sâmbătă din deplasare cu Valencia, meci în care își ispășește ultima etapă din suspendarea de patru jocuri primită după cartonașul roșu primit în duelul cu Villarreal, 1-0, disputat pe 10 octombrie. În loc să fie la Valencia sau la Madrid, Vinicius își va petrece weekendul la aproape 6.000 de kilometri distanță. ...",
-    "title_ro": "Suspendat cu Valencia, Realul l-a trimis pe Vinicius Junior la 6.000 de kilometri de Madrid",
-    "lead_ro": "Atacantul lui Real Madrid, Vinicius Junior, nu va evolua în partida de sâmbătă din deplasare cu Valencia, meci în care își ispășește ultima etapă din suspendarea de patru jocuri primită după cartonașu…",
-    "content_ro": "Atacantul lui Real Madrid, Vinicius Junior, nu va evolua în partida de sâmbătă din deplasare cu Valencia, meci în care își ispășește ultima etapă din suspendarea de patru jocuri primită după cartonașul roșu primit în duelul cu Villarreal, 1-0, disputat pe 10 octombrie. În loc să fie la Valencia sau la Madrid, Vinicius își va petrece weekendul la aproape 6.000 de kilometri distanță. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_98c1920271",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Gigafabrică IA în România: „Nu suntem defazați”. Anterior, se anunța un proiect bazat pe energia nucleară, problematică",
-        "link": "https://stirileprotv.ro/stiri/financiar/gigafabrica-ia-in-romania-nu-suntem-defazati-anterior-se-anunta-un-proiect-bazat-pe-energia-nucleara-problematica.html"
-      }
-    ],
-    "published_at": 1793979630,
-    "title_hu": "Gigafabrică IA în România: „Nu suntem defazați”. Anterior, se anunța un proiect bazat pe energia nucleară, problematică",
-    "lead_hu": "Ministrul Finanțelor, Alexandru Nazare, a anunțat că, până la sfârșitul anului, România ar putea să demareze proiectul unei gigafabrici de Inteligență Artificială. Anterior, Guvernul vorbea despre un …",
-    "content_hu": "Ministrul Finanțelor, Alexandru Nazare, a anunțat că, până la sfârșitul anului, România ar putea să demareze proiectul unei gigafabrici de Inteligență Artificială. Anterior, Guvernul vorbea despre un proiect bazat pe energie nucleară, problematică acum.",
-    "title_ro": "Gigafabrică IA în România: „Nu suntem defazați”. Anterior, se anunța un proiect bazat pe energia nucleară, problematică",
-    "lead_ro": "Ministrul Finanțelor, Alexandru Nazare, a anunțat că, până la sfârșitul anului, România ar putea să demareze proiectul unei gigafabrici de Inteligență Artificială. Anterior, Guvernul vorbea despre un …",
-    "content_ro": "Ministrul Finanțelor, Alexandru Nazare, a anunțat că, până la sfârșitul anului, România ar putea să demareze proiectul unei gigafabrici de Inteligență Artificială. Anterior, Guvernul vorbea despre un proiect bazat pe energie nucleară, problematică acum.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e32297886b",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Călin Raita a devenit suspect de evaziune fiscală și i-au fost puse proprietăți sub sechestru. „Asta nu e evaziune, astea-s invenții”",
-        "link": "https://www.ebihoreanul.ro/stiri/calin-raita-a-devenit-suspect-de-evaziune-fiscala-si-i-au-fost-puse-proprietati-sub-sechestru-asta-nu-e-evaziune-astea-s-inventii-206398.html"
-      }
-    ],
-    "published_at": 1793979600,
-    "title_hu": "Călin Raita a devenit suspect de evaziune fiscală și i-au fost puse proprietăți sub sechestru. „Asta nu e evaziune, astea-s invenții”",
-    "lead_hu": "Controversatul dezvoltator imobiliar orădean Călin Raita a dobândit oficial calitatea de suspect în dosarul de evaziune fiscală în care este acuzat că ar fi ascuns veniturile obținute din vânzarea uno…",
-    "content_hu": "Controversatul dezvoltator imobiliar orădean Călin Raita a dobândit oficial calitatea de suspect în dosarul de evaziune fiscală în care este acuzat că ar fi ascuns veniturile obținute din vânzarea unor imobile pentru a evita plata impozitului pe profit. Chemat la Poliția Bihor, unde i s-au adus la cunoștință acuzațiile, omul de afaceri nu a dat nicio declarație. În schimb, anchetatorii au pus sechestru pe mai multe proprietăți ale sale, evaluate la aproximativ 2 milioane de lei, pentru recuperarea unui prejudiciu calculat la aproape 1,6 milioane de lei, față de peste 5 milioane de lei cât se estima inițial.",
-    "title_ro": "Călin Raita a devenit suspect de evaziune fiscală și i-au fost puse proprietăți sub sechestru. „Asta nu e evaziune, astea-s invenții”",
-    "lead_ro": "Controversatul dezvoltator imobiliar orădean Călin Raita a dobândit oficial calitatea de suspect în dosarul de evaziune fiscală în care este acuzat că ar fi ascuns veniturile obținute din vânzarea uno…",
-    "content_ro": "Controversatul dezvoltator imobiliar orădean Călin Raita a dobândit oficial calitatea de suspect în dosarul de evaziune fiscală în care este acuzat că ar fi ascuns veniturile obținute din vânzarea unor imobile pentru a evita plata impozitului pe profit. Chemat la Poliția Bihor, unde i s-au adus la cunoștință acuzațiile, omul de afaceri nu a dat nicio declarație. În schimb, anchetatorii au pus sechestru pe mai multe proprietăți ale sale, evaluate la aproximativ 2 milioane de lei, pentru recuperarea unui prejudiciu calculat la aproape 1,6 milioane de lei, față de peste 5 milioane de lei cât se estima inițial.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_61b77a66bb",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Kimi Antonelli, după primele zile în postura ce campion în Formula 1: „Totul mi se pare ireal”",
-        "link": "https://www.gsp.ro/sporturi/formula-1/kimi-antonelli-interviu-brazilia-formula-1-996579.html"
-      }
-    ],
-    "published_at": 1793979539,
-    "title_hu": "Kimi Antonelli, după primele zile în postura ce campion în Formula 1: „Totul mi se pare ireal”",
-    "lead_hu": "Înainte de Marele Premiu din Brazilia, Andrea Kimi Antonelli, proaspătul campion mondial, a oferit un amplu interviu în țara lui Ayrton Senna. Marele Premiu al Braziliei are loc duminică, de la ora 19…",
-    "content_hu": "Înainte de Marele Premiu din Brazilia, Andrea Kimi Antonelli, proaspătul campion mondial, a oferit un amplu interviu în țara lui Ayrton Senna. Marele Premiu al Braziliei are loc duminică, de la ora 19:00, liveTEXT pe GSP.ro și la TV pe Antena3 CNN. ...",
-    "title_ro": "Kimi Antonelli, după primele zile în postura ce campion în Formula 1: „Totul mi se pare ireal”",
-    "lead_ro": "Înainte de Marele Premiu din Brazilia, Andrea Kimi Antonelli, proaspătul campion mondial, a oferit un amplu interviu în țara lui Ayrton Senna. Marele Premiu al Braziliei are loc duminică, de la ora 19…",
-    "content_ro": "Înainte de Marele Premiu din Brazilia, Andrea Kimi Antonelli, proaspătul campion mondial, a oferit un amplu interviu în țara lui Ayrton Senna. Marele Premiu al Braziliei are loc duminică, de la ora 19:00, liveTEXT pe GSP.ro și la TV pe Antena3 CNN. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4788b334f1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Menekülés Romániából, beszervezés Magyarországon: erdélyi magyarok az ügynökaktákban",
-        "link": "https://transtelex.ro/ugynokaktak/2026/11/06/ugynokaktak-erdelyi-magyarok-6-os-karton-selmeczi-gyorgy-bartis-ferenc-agoston-vilmos"
-      }
-    ],
-    "published_at": 1793979509,
-    "title_hu": "Menekülés Romániából, beszervezés Magyarországon: erdélyi magyarok az ügynökaktákban",
-    "lead_hu": "Nincs olyan nagyobb erdélyi város, ami ne szerepelne az ügynökaktákban. A találatok mutatják, hogy a Kádár-korszak állambiztonsága a Romániából érkezőket sem kímélte.",
-    "content_hu": "Nincs olyan nagyobb erdélyi város, ami ne szerepelne az ügynökaktákban. A találatok mutatják, hogy a Kádár-korszak állambiztonsága a Romániából érkezőket sem kímélte.",
-    "title_ro": "Menekülés Romániából, beszervezés Magyarországon: erdélyi magyarok az ügynökaktákban",
-    "lead_ro": "Nincs olyan nagyobb erdélyi város, ami ne szerepelne az ügynökaktákban. A találatok mutatják, hogy a Kádár-korszak állambiztonsága a Romániából érkezőket sem kímélte.",
-    "content_ro": "Nincs olyan nagyobb erdélyi város, ami ne szerepelne az ügynökaktákban. A találatok mutatják, hogy a Kádár-korszak állambiztonsága a Romániából érkezőket sem kímélte.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_794071ce31",
     "fingerprint": "306e08105fee163ff6b1dbaa2b67fe22",
     "category": "Általános",
@@ -16527,6 +16308,74 @@
     "lead_ro": "Autoritățile bulgare au descoperit rămășițe umane la bordul unei nave aflate pentru reparații în portul Varna, după ce aceasta fusese avariată în apropierea litoralului românesc, pe 15 octombrie. Cinci membri ai echipajului au fost salvați, iar șapte sunt dați dispăruți; identificarea rămășițelor urmează să fie făcută prin analize ADN.",
     "content_ro": "• **Descoperirea a fost făcută în timpul lucrărilor la șantierul naval din Varna.** Nava fusese avariată de o dronă în largul României, iar procurorii bulgari au cerut teste ADN pentru identificarea rămășițelor umane găsite la bord.\n\n• **Numărul persoanelor ale căror rămășițe au fost găsite nu este confirmat.** Un reprezentant al autorităților bulgare a apreciat că ar putea fi vorba despre șase oameni, însă starea fragmentelor nu permite stabilirea certă a numărului înaintea verificărilor suplimentare.\n\n• **Incidentul naval s-a produs pe 15 octombrie**, la circa 24 de kilometri sud-est de Sulina, în zona gurilor Dunării. Nava, înregistrată sub pavilionul statului San Marino, este asociată în relatări cu petrolierul Wine Trader, deși comunicatul procurorilor nu i-a menționat numele.\n\n• **Cinci dintre cei 12 membri ai echipajului au fost salvați, iar ceilalți șapte au fost declarați dispăruți.** Nava a ajuns la Varna la începutul lunii noiembrie pentru reparații. Ancheta este desfășurată de autoritățile bulgare, iar în România există o investigație separată.\n\n• **Cazul se adaugă unei serii de atacuri asupra navelor comerciale din Marea Neagră.** Potrivit informațiilor publicate, cel puțin nouă nave au fost lovite de drone în apropierea coastelor României și Bulgariei de la începutul lunii octombrie, iar bilanțul cumulat menționat era de 34 de morți sau dispăruți. Descoperirea a fost anunțată înaintea vizitei Ursulei von der Leyen în regiune, programată pentru 9 și 10 noiembrie.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_82e1bc04ff",
+    "fingerprint": "86a5c2c7c613c1bba687ca626eeba8e5",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "România urcă pe podium la Mondialele de haltere. Luis Lauret câștigă argintul și își depășește recordul de la Europene",
+        "link": "https://www.mediafax.ro/sport/romania-urca-pe-podium-la-mondialele-de-haltere-luis-lauret-castiga-argintul-si-isi-depaseste-recordul-de-la-europene-23838909"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Luis Manuel Lauret Rodriguez a adus singura medalie României la CM de haltere",
+        "link": "https://adevarul.ro/sport/luis-manuel-lauret-rodriguez-a-adus-singura-2569655.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Luis Lauret, vicecampion mondial la haltere la categoria 110 kg, stilul smuls, și locul 4 la total!",
+        "link": "https://www.gsp.ro/sporturi/altele/luis-lauret-vicecampion-mondial-la-haltere-la-categoria-110-kg-stilul-smuls-si-locul-4-la-total-996588.html"
+      }
+    ],
+    "published_at": 1794043642,
+    "title_hu": "Luis Lauret újabb vb-ezüstöt szerzett szakításban",
+    "lead_hu": "A Romániát képviselő Luis Manuel Lauret Rodríguez 194 kilogrammos szakítással ezüstérmet nyert a ningbói világbajnokság 110 kilogrammos kategóriájában. Összetettben negyedik lett, egy kilogrammal maradt le a dobogóról; a román csapat egyetlen érmét ő szerezte.",
+    "content_hu": "• **November 6-án Luis Manuel Lauret Rodríguez zárta a románok szereplését** a Ningbóban október 27. és november 8. között rendezett világbajnokságon. A kubai születésű, 1997. január 20-án világra jött emelő a bukaresti Olimpia klub tagja, és 2025 óta versenyez román színekben.\n\n• **Szakításban 194 kilogrammal második lett** a 110 kilogrammos súlycsoportban. A 190 kilogrammos nyitást követően sikerült a 194-es emelés, 198 kilogrammal viszont nem járt eredménnyel; az üzbég Akbar Djuraev 198-cal nyert, a tajvani Chen Po-Jen 191 kilogrammal zárt harmadikként.\n\n• **Lökésben 222 kilogrammot teljesített, ami a hetedik helyet jelentette.** Lauret 216 kilogrammról indított, majd a 222-es kísérletet is megcsinálta, 226 kilogrammot azonban nem tudott felemelni. Djuraev 234, az iráni Alireza Nasiri 233, a türkmén Shahzadbek Matyakubov pedig 230 kilogrammal végzett előtte.\n\n• **A 416 kilogrammos összteljesítmény egy kilogrammal maradt el az éremtől.** Djuraev 432, Nasiri 418, Matyakubov 417 kilogrammal előzte meg Lauret. A román sportoló két kilogrammot javított a batumi Európa-bajnokságon elért eredményén, és megismételte a 2025-ös vb-n szerzett szakításbeli ezüstjét.\n\n• **Mihaela Cambei 200 kilogrammal hetedik lett az 53 kilogrammos mezőnyben.** Szakításban 91 kilogrammot emelt, ezzel hatodikként zárt, lökésben 109 kilogramm a 14. helyre volt elég. Románia az éremtáblázaton a 14. helyen végzett, míg Kína 27 medállal, köztük 11 arannyal az élen zárt. A ningbói verseny volt a Los Angeles-i olimpia első kvalifikációs állomása; Lauret eredménye önmagában nem biztosított olimpiai kvótát.",
+    "title_ro": "Luis Lauret a câștigat din nou argintul mondial la stilul smuls",
+    "lead_ro": "Luis Manuel Lauret Rodríguez, reprezentantul României, a obținut argintul la categoria de 110 kilograme, cu 194 kg la stilul smuls, la Mondialele de la Ningbo. Cu 416 kg la total, a ocupat locul patru, la un kilogram de podium, și a adus singura medalie a delegației române.",
+    "content_ro": "• **La 6 noiembrie, Luis Manuel Lauret Rodríguez a încheiat evoluția delegației României** la Mondialele desfășurate la Ningbo între 27 octombrie și 8 noiembrie. Sportivul, născut în Cuba la 20 ianuarie 1997, este legitimat la clubul Olimpia din București și reprezintă România din 2025.\n\n• **La stilul smuls, Lauret a ridicat 194 kg și a obținut locul al doilea** în categoria de 110 kilograme. După ce a reușit 190 kg la prima încercare, a avut succes și la 194 kg, însă tentativa de 198 kg a fost ratată. Uzbekul Akbar Djuraev a câștigat proba cu 198 kg, iar taiwanezul Chen Po-Jen a ocupat locul trei, cu 191 kg.\n\n• **Rezultatul de 222 kg la stilul aruncat i-a adus poziția a șaptea.** Lauret a început cu 216 kg și a trecut apoi de 222 kg, dar nu a reușit să ridice 226 kg. Djuraev a încheiat cu 234 kg, iranianul Alireza Nasiri cu 233 kg, iar turkmenul Shahzadbek Matyakubov cu 230 kg.\n\n• **Totalul de 416 kg l-a plasat pe Lauret la un kilogram de medalii.** Djuraev a acumulat 432 kg, Nasiri 418 kg, iar Matyakubov 417 kg. Românul și-a îmbunătățit cu două kilograme totalul de la Europenele de la Batumi și a egalat performanța din 2025, când a câștigat argintul mondial la smuls.\n\n• **Mihaela Cambei a terminat pe locul șapte la categoria de 53 kg, cu 200 kg la total.** Ea a ridicat 91 kg la smuls, rezultat de locul șase, și 109 kg la aruncat, clasându-se a 14-a. România a fost a 14-a în ierarhia medaliilor, iar China a condus cu 27 de medalii, dintre care 11 de aur. Concursul de la Ningbo a deschis calificările pentru Jocurile Olimpice din 2028, însă rezultatul lui Lauret nu i-a asigurat direct participarea.",
+    "importance_score": 33.0
+  },
+  {
+    "group_id": "group_fdea4fee76",
+    "fingerprint": "12522553e12ba6d96f887e8ff4a82747",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Amenințare tăcută. Rezistența la antibiotice, la fel de mortală ca gripa, tuberculoza și HIV la un loc",
+        "link": "https://www.mediafax.ro/sanatate/amenintare-tacuta-rezistenta-la-antibiotice-la-fel-de-mortala-ca-gripa-tuberculoza-si-hiv-la-un-loc-23839153"
+      },
+      {
+        "source": "G4Media",
+        "title": "Rezistența la antibiotice, la fel de mortală ca gripa, tuberculoza și HIV la un loc / România, cea mai afectată țară din UE",
+        "link": "https://www.g4media.ro/rezistenta-la-antibiotice-la-fel-de-mortala-ca-gripa-tuberculoza-si-hiv-la-un-loc-romania-cea-mai-afectata-tara-din-ue.html"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Románia listavazető az antibiotikum-rezisztencia terén a gyógyszer túlzott és nem megfelelő alkalmazása miatt",
+        "link": "https://transtelex.ro/eletmod/2026/11/07/romania-listavazeto-az-antibiotikum-rezisztencia-teren-a-gyogyszer-tulzott-es-nem-megfelelo-alkalmazas-miatt"
+      }
+    ],
+    "published_at": 1794043578,
+    "title_hu": "Antibiotikum-rezisztencia: új részletek a kezelés korlátairól és a romániai helyzetről",
+    "lead_hu": "Az antimikrobiális rezisztencia az Európai Unióban évente mintegy 35 ezer halálesethez kapcsolódik, a kezelések pedig egyes esetekben több antibiotikummal sem vezetnek eredményre. Az új forrás Fiona Walsh kutató szerepét és a kórházi fertőzésekben gyakori Klebsiella pneumoniae ellenállásának jelentőségét is kiemeli.",
+    "content_hu": "• **Évente mintegy 35 ezer haláleset** kapcsolódik az antimikrobiális rezisztenciához az Európai Unióban az ECDC becslése szerint. Az egészségügyi hatás nagysága az influenza, a tuberkulózis és a HIV/AIDS együttes terhéhez mérhető.\n\n• **A kezelések hatékonysága csökkenhet**, ha a baktériumok ellenállóvá válnak a megszokott gyógyszerekkel szemben. Többféle antibiotikum együttes adása sem minden esetben segít. Fiona Walsh, az írországi Maynooth Egyetem kutatója embereknél, állatoknál és a környezetben vizsgálja a jelenséget.\n\n• **2025 és 2050 között 39 millió közvetlen haláleset** következhet be világszerte az antibiotikum-rezisztencia miatt egy, a The Lancetben megjelent tanulmány becslése szerint. A terjedéshez hozzájárulhat az antibiotikumok túlzott emberi és állatgyógyászati alkalmazása, a hiányos higiénia, valamint a szennyezés; a rezisztens baktériumok és génjeik az emberek, állatok és a környezet között is terjednek.\n\n• **Romániában volt a legmagasabb az EU-s összesített rezisztenciamutató:** 2022–2023-ban a vizsgált baktériumminták közel 70 százaléka ellenállt a fontos antibiotikumoknak. Az antibiotikum-fogyasztás 2023-ban ezer lakosra vetítve napi 26 adag volt, az OECD 16-os átlagával szemben; a mutató egy évtized alatt nem változott.\n\n• **A Klebsiella pneumoniae karbapenem-rezisztenciája 50,3 százalékra nőtt Romániában.** Ez a baktérium gyakori kórokozója a kórházi fertőzéseknek, a karbapenemek pedig a súlyos esetekben alkalmazott, utolsó lehetőségek közé tartozó antibiotikumok. A Frontiers in Microbiology adatai szerint Görögországban és Bulgáriában magasabb az arány; Romániában nagyjából minden hatodik ember szedett már antibiotikumot recept nélkül.",
+    "title_ro": "Rezistența la antibiotice: noi detalii despre limitele tratamentului și situația din România",
+    "lead_ro": "Rezistența antimicrobiană este asociată cu aproximativ 35.000 de decese pe an în Uniunea Europeană, iar în unele cazuri nici administrarea mai multor antibiotice nu este eficientă. Noua sursă oferă detalii despre cercetătoarea Fiona Walsh și despre rezistența bacteriei Klebsiella pneumoniae, întâlnită frecvent în infecțiile spitalicești.",
+    "content_ro": "• **Aproximativ 35.000 de decese anual** sunt asociate rezistenței antimicrobiene în Uniunea Europeană, potrivit estimării ECDC. Povara asupra sănătății este comparabilă cu efectele cumulate ale gripei, tuberculozei și HIV/SIDA.\n\n• **Tratamentele pot să nu mai funcționeze**, atunci când bacteriile nu răspund la medicamentele utilizate în mod obișnuit. Nici combinațiile de mai multe antibiotice nu rezolvă toate cazurile. Fiona Walsh, cercetătoare la Universitatea Maynooth din Irlanda, studiază fenomenul la oameni, animale și în mediu.\n\n• **39 de milioane de decese directe între 2025 și 2050** ar putea fi provocate la nivel mondial de rezistența bacteriilor la antibiotice, conform unei estimări publicate în The Lancet. Răspândirea este favorizată de utilizarea excesivă la oameni și animale, igiena insuficientă și poluare. Bacteriile rezistente și genele asociate circulă între oameni, animale și mediu.\n\n• **România a avut cel mai ridicat indice compozit al rezistenței din UE:** în 2022–2023, aproape 70% dintre izolatele bacteriene analizate nu răspundeau la antibioticele-cheie. În 2023, consumul a fost de 26 de doze zilnice la 1.000 de locuitori, față de media OCDE de 16; nivelul a rămas neschimbat timp de un deceniu.\n\n• **Rezistența Klebsiella pneumoniae la carbapeneme a ajuns la 50,3% în România.** Bacteria este întâlnită frecvent în infecțiile din spitale, iar carbapenemele se numără printre antibioticele folosite ca opțiune de ultimă linie. Datele din Frontiers in Microbiology arată valori mai mari doar în Grecia și Bulgaria; aproximativ unul din șase români a luat antibiotice fără prescripție.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_884191eb2b",
