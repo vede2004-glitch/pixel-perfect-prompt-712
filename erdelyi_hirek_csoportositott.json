@@ -264,35 +264,60 @@
     ]
   },
   {
-    "group_id": "group_8cc177d328",
-    "category": "Sport",
+    "group_id": "group_d10a2b900b",
+    "category": "Általános",
     "articles_count": 1,
     "articles": [
       {
+        "source": "Maszol",
+        "title": "Köd nehezíti a közlekedést több erdélyi megyében",
+        "link": "https://maszol.ro/belfold/Kod-neheziti-a-kozlekedest-tobb-erdelyi-megyeben-1",
+        "summary": "Ködképződésre lehet számítani pénteken a reggeli órákban az ország 7 megyéjében.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793943720
+      }
+    ]
+  },
+  {
+    "group_id": "group_d62bc39a6a",
+    "category": "Sport",
+    "articles_count": 3,
+    "articles": [
+      {
         "source": "GSP - Gazeta Sporturilor",
-        "title": "Albanezul stabilit în România i-a recomandat Craiovei un jucător de la Egnatia: „Foarte bun, interesant”",
-        "link": "https://www.gsp.ro/international/conference-league/elis-bakaj-universitatea-craiova-egnatia-alessandro-albanese-996426.html",
-        "summary": "Fostul internațional albanez Elis Bakaj (39 de ani), ex-Dinamo, acum impresar, s-a stabilit în România după retragere și a asistat seara trecută la meciul de Conference League dintre Universitatea Craiova și formația albaneză Egnatia, scor 2-0. La final, le-a recomandat oltenilor un jucător din tabăra adversă. ...",
+        "title": "Fluier final de Black Friday la eMAG! Statistica etapei a 16-a din istorie",
+        "link": "https://www.gsp.ro/comercial/proiect-special/live-black-friday-la-emag-996425.html",
+        "summary": "6 noiembrie 2026 a fost ziua de Black Friday, ziua cu ce cele mai multe și mai spectaculoase reduceri ale anului la eMAG.ro! A fost cea de-a 16-a ediție a evenimentului, iar la bătaie au fost peste 1,8 milioane de produse la cel mai mic preț de peste an! UPDATE 00:00 | Fluier final pentru Black Friday la eMAG! A fost o zi spectaculoasă de Black Friday pe siteul eMAG, acolo unde peste 700. ...",
         "category": "Sport",
         "is_b2b_only": false,
-        "published_at": 1793943330
+        "published_at": 1794002560
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Black Friday eMAG 2026. Câte produse au fost comandate în secunda de aur. Interes mare pentru o categorie specială de produse",
+        "link": "https://hotnews.ro/black-friday-emag-2026-cate-produse-au-fost-comandate-in-secunda-de-aur-interes-mare-pentru-o-categorie-speciala-de-produse-2396534",
+        "summary": "Valoarea comenzilor înregistrată în primele 30 de minute ale evenimentului „Black Friday” 2026 organizat de eMag s-a ridicat la 259 de milioane de lei, cu 14% mai mult decât în anul anterior, scrie Agepres. Potrivit datelor retailerului, transmise, vineri, minutul de aur a fost consemnat în minutul 19 de la start, când au fost comandate …",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1793951258
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Black Friday 2026 la eMAG. Topul produselor care s-au vândut cel rapid. 100 de bucății în 20 secunde",
+        "link": "https://hotnews.ro/black-friday-2026-la-emag-topul-produselor-care-s-au-vandut-cel-rapid-100-de-bucatii-in-20-secunde-2397007",
+        "summary": "Campania Black Friday 2026 la eMAG a adus, până la această oră, cifre și vânzări record. Sute de produse cu reducere de preț s-au vândut în intervale de doar câteva zeci de secunde. În topul produselor cel mai rapid vândute sunt biletele la festivalul Beach, Please! 2027. 100 de bilete la prețul de 10 …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793977080
       }
     ]
   },
   {
     "group_id": "group_c51c333c68",
     "category": "Általános",
-    "articles_count": 22,
+    "articles_count": 21,
     "articles": [
-      {
-        "source": "Digi24",
-        "title": "Alertă în Tulcea, după atacuri asupra porturilor ucrainene de la Dunăre: Nu au fost raportate pătrunderi în spațiul aerian al României",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-tulcea-dupa-atacuri-asupra-porturilor-ucrainene-de-la-dunare-nu-au-fost-raportate-patrunderi-in-spatiul-aerian-al-romaniei-4024151",
-        "summary": "Zona din nordul şi estul judeţului Tulcea a fost din nu vizată de o alertă aeriană, în noaptea de joi spre vineri, dar Ministerul Apărării anunţă că nu au fost raportate pătrunderi în spaţiul aerian naţional.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793943338
-      },
       {
         "source": "Digi24",
         "title": "Ţintă aeriană detectată la est de Sulina: două F-16 au fost ridicate, a fost trimis mesaj Ro-Alert",
@@ -485,172 +510,6 @@
     ]
   },
   {
-    "group_id": "group_75e974b348",
-    "category": "Bulvár",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "G4Media",
-        "title": "Dan Tăpălagă: Câțiva politicieni din România, în frunte cu Sorin Grindeanu și George Simion au toate motivele să aibă emoții legate de investigațiile din Congresul SUA despre presupusa corupție din Administrația Trump",
-        "link": "https://www.g4media.ro/dan-tapalaga-cativa-politicieni-din-romania-in-frunte-cu-sorin-grindeanu-si-george-simion-au-toate-motivele-sa-aiba-emotii-legate-de-investigatiile-din-congresul-sua-despre-presupusa-coruptie-din-ad.html",
-        "summary": "Dan Tăpălagă avertizează că România ar putea fi implicată într-un scandal de amploare, în urma dezvăluirilor legate de administrația Trump. Jurnalistul susține că investigațiile pregătite de Partidul Democrat din SUA ar putea scoate la iveală detalii despre afacerile din sectorul energetic românesc. Acesta subliniază că informațiile ar putea clarifica cine au fost politicienii care au […] © G4Media.ro.",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793943242
-      },
-      {
-        "source": "Adevărul",
-        "title": "Românul care l-a consiliat pe Trump dezvăluie ce sfaturi i-ar da acum: „Să nu uităm că pe vremuri a fost democrat”",
-        "link": "https://adevarul.ro/securitate-si-aparare/romanul-care-l-a-consiliat-pe-trump-dezvaluie-ce-2569320.html",
-        "summary": "Într-o analiză exclusivă, românul Greg Scărlătoiu, fost consilier al liderului de la Casa Albă, dezvăluie culisele adevăratelor cauze ale eșecului republican de la jumătatea mandatului și explică ce mutări strategice mai pot salva moștenirea politică a președintelui.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794015565
-      }
-    ]
-  },
-  {
-    "group_id": "group_30f743b23c",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "Gaz mai ieftin, curent electric mai scump: De ce facturile la energie spun povești diferite în Europa",
-        "link": "https://hotnews.ro/gaz-mai-ieftin-curent-electric-mai-scump-de-ce-facturile-la-energie-spun-povesti-diferite-in-europa-2396440",
-        "summary": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică. Cea mai mare creștere a fost înregistrată în România, unde prețurile energiei electrice pentru gospodării au crescut cu 51,9% față de anul precedent, urmată de Irlanda cu o creștere de 19,8% …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793943134
-      },
-      {
-        "source": "G4Media",
-        "title": "Gaz mai ieftin, curent mai scump / Paradoxul pieței europene a energiei / România, campioana scumpirilor la energie în UE: +51,9% la electricitate în 2026",
-        "link": "https://www.g4media.ro/gaz-mai-ieftin-curent-mai-scump-paradoxul-pietei-europene-a-energiei-romania-campioana-scumpirilor-la-energie-in-ue-519-la-electricitate-in-2026.html",
-        "summary": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică, notează Agenția de presă Rador, care preia o analiză realizată de Energy Press din Grecia. O scădere marginală a prețurilor curentului electric, combinată cu diferențe mari între statele membre, evidențiază cât […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793961557
-      }
-    ]
-  },
-  {
-    "group_id": "group_eb74540352",
-    "category": "Általános",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Șoc în Israel după ce Trump a anunțat că oprește ajutorul de 3,8 miliarde de dolari pe an. „Ca un fulger din senin”",
-        "link": "https://stirileprotv.ro/stiri/international/soc-in-israel-dupa-ce-trump-a-anuntat-ca-opreste-ajutorul-de-3-8-miliarde-de-dolari-pe-an-ca-un-fulger-din-senin.html",
-        "summary": "Preşedintele israelian Isaac Herzog a declarat că a fost „ca un fulger din senin” când preşedintele Donald Trump a anunţat marţi, în ziua alegerilor de la jumătatea mandatului, că va pune capăt ajutorului acordat de SUA Israelului, transmite CNN.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793943153
-      },
-      {
-        "source": "Adevărul",
-        "title": "„Ca un trăsnet din senin”. Președintele Israelului, „îngrijorat” de decizia lui Trump de a opri ajutorul",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/ca-un-trasnet-din-senin-presedintele-2569356.html",
-        "summary": "Președintele Israelului, Isaac Herzog, a declarat că a fost „ca un trăsnet din senin” anunțul făcut marți de președintele american Donald Trump, chiar în ziua alegerilor de la jumătatea mandatului, privind încetarea ajutorului financiar acordat Israelului de Statele Unite.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793943714
-      },
-      {
-        "source": "Digi24",
-        "title": "Reacția președintelui Isaac Herzog la anunțul lui Donald Trump privind sistarea ajutorului petru Israel",
-        "link": "https://www.digi24.ro/stiri/externe/reactia-presedintelui-isaac-herzog-la-anuntul-lui-donald-trump-privind-sistarea-ajutorului-petru-israel-4024209",
-        "summary": "Preşedintele israelian Isaac Herzog a declarat că a fost „ca un fulger din senin” când preşedintele Donald Trump a anunţat marţi, în ziua alegerilor de la jumătatea mandatului, că va pune capăt ajutorului acordat de SUA Israelului, transmite CNN, potrivit News.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793948134
-      }
-    ]
-  },
-  {
-    "group_id": "group_d10a2b900b",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Köd nehezíti a közlekedést több erdélyi megyében",
-        "link": "https://maszol.ro/belfold/Kod-neheziti-a-kozlekedest-tobb-erdelyi-megyeben-1",
-        "summary": "Ködképződésre lehet számítani pénteken a reggeli órákban az ország 7 megyéjében.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793943720
-      }
-    ]
-  },
-  {
-    "group_id": "group_d62bc39a6a",
-    "category": "Sport",
-    "articles_count": 3,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Fluier final de Black Friday la eMAG! Statistica etapei a 16-a din istorie",
-        "link": "https://www.gsp.ro/comercial/proiect-special/live-black-friday-la-emag-996425.html",
-        "summary": "6 noiembrie 2026 a fost ziua de Black Friday, ziua cu ce cele mai multe și mai spectaculoase reduceri ale anului la eMAG.ro! A fost cea de-a 16-a ediție a evenimentului, iar la bătaie au fost peste 1,8 milioane de produse la cel mai mic preț de peste an! UPDATE 00:00 | Fluier final pentru Black Friday la eMAG! A fost o zi spectaculoasă de Black Friday pe siteul eMAG, acolo unde peste 700. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1794002560
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Black Friday eMAG 2026. Câte produse au fost comandate în secunda de aur. Interes mare pentru o categorie specială de produse",
-        "link": "https://hotnews.ro/black-friday-emag-2026-cate-produse-au-fost-comandate-in-secunda-de-aur-interes-mare-pentru-o-categorie-speciala-de-produse-2396534",
-        "summary": "Valoarea comenzilor înregistrată în primele 30 de minute ale evenimentului „Black Friday” 2026 organizat de eMag s-a ridicat la 259 de milioane de lei, cu 14% mai mult decât în anul anterior, scrie Agepres. Potrivit datelor retailerului, transmise, vineri, minutul de aur a fost consemnat în minutul 19 de la start, când au fost comandate …",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1793951258
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Black Friday 2026 la eMAG. Topul produselor care s-au vândut cel rapid. 100 de bucății în 20 secunde",
-        "link": "https://hotnews.ro/black-friday-2026-la-emag-topul-produselor-care-s-au-vandut-cel-rapid-100-de-bucatii-in-20-secunde-2397007",
-        "summary": "Campania Black Friday 2026 la eMAG a adus, până la această oră, cifre și vânzări record. Sute de produse cu reducere de preț s-au vândut în intervale de doar câteva zeci de secunde. În topul produselor cel mai rapid vândute sunt biletele la festivalul Beach, Please! 2027. 100 de bilete la prețul de 10 …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1793977080
-      }
-    ]
-  },
-  {
-    "group_id": "group_f0e4c66e0c",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ionuț Radu și Darius Olaru, câte o stea în Marca » „A prevenit o înfrângere și mai dureroasă”",
-        "link": "https://www.gsp.ro/international/europa-league/ionut-radu-darius-olaru-note-celta-union-996421.html",
-        "summary": "Ionuț Radu a apărat un penalty la scorul de 2-1 pentru Union St. Gilloise, limitând astfel proporțiile eșecului lui Celta Vigo. Radu i-a refuzat lui Besford Zeneli șansa de a realiza un hattrick. Cel mai bun jucător al belgienilor a executat lovitura de la 11 metri spre colțul din stânga portarului român, dar acesta a ghicit, a plonjat și a respins balonul. În schimb, tricolorul n-a avut nicio șansă la primele două reușite ale lui Zeneli. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1793943383
-      }
-    ]
-  },
-  {
-    "group_id": "group_5bcf791ec1",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "Zicea că ea l-a susținut financiar pe Mocăniță, dar ce salariu are Claudia Ion, de fapt. Câți bani câștigă lunar",
-        "link": "https://www.cancan.ro/zicea-ca-ea-l-a-sustinut-financiar-pe-mocanita-dar-ce-salariu-are-claudia-ion-de-fapt-cati-bani-castiga-lunar-21542772",
-        "summary": "Claudia Ion și Ionuț Mocăniță este unul dintre cele mai controversate cupluri de la Insula Iubirii, sezonul X. Cei doi și-au aruncat cuvinte grele, mai ales concurenta care a declarat că l-a susținut financiar pe partenerul ei. Acum a ieșit la iveală ce salariu are, de fapt, iar sumele nu sunt de neglijat. Șatena s-a […]",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1793943466
-      }
-    ]
-  },
-  {
     "group_id": "group_f49535141f",
     "category": "Általános",
     "articles_count": 6,
@@ -708,6 +567,31 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793988580
+      }
+    ]
+  },
+  {
+    "group_id": "group_eb74540352",
+    "category": "Általános",
+    "articles_count": 2,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "„Ca un trăsnet din senin”. Președintele Israelului, „îngrijorat” de decizia lui Trump de a opri ajutorul",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/ca-un-trasnet-din-senin-presedintele-2569356.html",
+        "summary": "Președintele Israelului, Isaac Herzog, a declarat că a fost „ca un trăsnet din senin” anunțul făcut marți de președintele american Donald Trump, chiar în ziua alegerilor de la jumătatea mandatului, privind încetarea ajutorului financiar acordat Israelului de Statele Unite.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793943714
+      },
+      {
+        "source": "Digi24",
+        "title": "Reacția președintelui Isaac Herzog la anunțul lui Donald Trump privind sistarea ajutorului petru Israel",
+        "link": "https://www.digi24.ro/stiri/externe/reactia-presedintelui-isaac-herzog-la-anuntul-lui-donald-trump-privind-sistarea-ajutorului-petru-israel-4024209",
+        "summary": "Preşedintele israelian Isaac Herzog a declarat că a fost „ca un fulger din senin” când preşedintele Donald Trump a anunţat marţi, în ziua alegerilor de la jumătatea mandatului, că va pune capăt ajutorului acordat de SUA Israelului, transmite CNN, potrivit News.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793948134
       }
     ]
   },
@@ -6297,7 +6181,7 @@
   {
     "group_id": "group_c3ee18efe5",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -6334,6 +6218,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1793980832
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Se complică situația pentru DAN AIR. Anunțul ROMATSA, după intrarea în insolvență a companiei aeriene",
+        "link": "https://stirileprotv.ro/stiri/actualitate/se-complica-situatia-pentru-dan-air-anuntul-romatsa-dupa-intrarea-in-insolventa-a-companiei-aeriene.html",
+        "summary": "Se complică situația pentru compania aeriană DAN AIR. ROMATSA a anunțat vineri seară că reziliază contractul cu firma pentru datorii de peste 2 milioane de lei.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794029680
       }
     ]
   },
@@ -6628,6 +6521,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794028297
+      }
+    ]
+  },
+  {
+    "group_id": "group_30f743b23c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "Gaz mai ieftin, curent mai scump / Paradoxul pieței europene a energiei / România, campioana scumpirilor la energie în UE: +51,9% la electricitate în 2026",
+        "link": "https://www.g4media.ro/gaz-mai-ieftin-curent-mai-scump-paradoxul-pietei-europene-a-energiei-romania-campioana-scumpirilor-la-energie-in-ue-519-la-electricitate-in-2026.html",
+        "summary": "Deși prețul gazelor naturale a scăzut semnificativ în prima jumătate a anului 2026, nu același lucru s-a întâmplat și cu prețurile la energia electrică, notează Agenția de presă Rador, care preia o analiză realizată de Energy Press din Grecia. O scădere marginală a prețurilor curentului electric, combinată cu diferențe mari între statele membre, evidențiază cât […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1793961557
       }
     ]
   },
@@ -14788,7 +14697,7 @@
   {
     "group_id": "group_c898ed183f",
     "category": "Bulvár",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Cancan.ro",
@@ -14798,6 +14707,15 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1794000016
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Evenimentele gastronomice din acest weekend și săptămâna viitoare",
+        "link": "https://hotnews.ro/evenimentele-gastronomice-din-acest-weekend-si-saptamana-viitoare-2396568",
+        "summary": "La București încă se mai țin evenimente dedicate toamnei, în timp ce în țară se deschid târgurile de Crăciun. În plus, o degustare de colivă. Săptămâna Gastronomică de la Sibiu continuă până duminică, 8 noiembrie. Este a doua ediție: 32 de restaurante oferă meniuri speciale din două feluri, la un preț fix de 50 de …",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794029864
       }
     ]
   },
@@ -15163,6 +15081,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794012935
+      }
+    ]
+  },
+  {
+    "group_id": "group_75e974b348",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Românul care l-a consiliat pe Trump dezvăluie ce sfaturi i-ar da acum: „Să nu uităm că pe vremuri a fost democrat”",
+        "link": "https://adevarul.ro/securitate-si-aparare/romanul-care-l-a-consiliat-pe-trump-dezvaluie-ce-2569320.html",
+        "summary": "Într-o analiză exclusivă, românul Greg Scărlătoiu, fost consilier al liderului de la Casa Albă, dezvăluie culisele adevăratelor cauze ale eșecului republican de la jumătatea mandatului și explică ce mutări strategice mai pot salva moștenirea politică a președintelui.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794015565
       }
     ]
   },
@@ -15724,7 +15658,7 @@
         "summary": "În urma înfrângerii decisive a republicanilor în alegerile de la jumătatea mandatului, criticile la adresa lui Donald Trump se intensifică. În cadrul emisiunii „Maybrit Illner” de la postul public german ZDF, fostul general american Ben Hodges a lansat acuzații grave la adresa președintelui SUA: Trump este corupt și se află sub influența liderului de la Kremlin, Vladimir Putin.",
         "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1794029293
+        "published_at": 1794029755
       }
     ]
   },
@@ -15741,6 +15675,70 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794029139
+      }
+    ]
+  },
+  {
+    "group_id": "group_e92d81bc7c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Dezbatere aprinsă. Poți trăi în România cu o pensie de 1.400 de euro? „Mai bine în Cambogia!”",
+        "link": "https://www.mediafax.ro/social/dezbatere-aprinsa-poti-trai-in-romania-cu-o-pensie-de-1-400-de-euro-mai-bine-in-cambogia-23839116",
+        "summary": "Un italian vrea să se mute în România cu o pensie de 1.400 de euro și întreabă cum poate trăi. Dilema lui a stârnit o dezbatere intensă pe rețelele sociale.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794029711
+      }
+    ]
+  },
+  {
+    "group_id": "group_a7b664ce5c",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediafax",
+        "title": "Nouă „pereche de ochi” pentru Marea Britanie. Țara a lansat un satelit pentru recunoașterea activității militare la nivel mondial",
+        "link": "https://www.mediafax.ro/stirile-zilei/noua-pereche-de-ochi-pentru-marea-britanie-tara-a-lansat-un-satelit-pentru-recunoasterea-activitatii-militare-la-nivel-mondial-23839112",
+        "summary": "Marea Britanie a lansat un satelit de recunoaștere, descris ca o nouă „pereche de ochi” pe orbită în jurul Pământului. Acesta va monitoriza activitatea militară la nivel mondial.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794029316
+      }
+    ]
+  },
+  {
+    "group_id": "group_c61da5c98c",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Ilie Bolojan, despre noul Guvern: Aţi văzut cumva că reduc TVA-ul? 770 de milioane de euro, pierdute din cauza Legii salarizării",
+        "link": "https://stirileprotv.ro/stiri/politic/ilie-bolojan-despre-noul-guvern-a-i-vazut-cumva-ca-reduc-tva-ul-770-de-milioane-de-euro-pierdute-din-cauza-legii-salarizarii.html",
+        "summary": "Președintele PNL, Ilie Bolojan, a acuzat, vineri, într-o discuție cu liberalii buzoieni, actuala guvernare că a criticat creșterile de taxe făcute de guvernul pe care l-a condus, fără a le anula acum.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1794029525
+      }
+    ]
+  },
+  {
+    "group_id": "group_439e238ed8",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Caz incredibil la Iași: O femeie a ajuns la Urgențe cu alcoolemie de 7 la mie. Medic: „A plecat acasă pe propriile picioare”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/caz-incredibil-la-iasi-o-femeie-a-ajuns-la-urgente-cu-alcoolemie-de-7-la-mie-medic-a-plecat-acasa-pe-propriile-picioare.html",
+        "summary": "Prof. univ. dr. Diana Cimpoeșu, șefa UPU-SMURD Iași, a relatat mai multe cazuri ieșite din comun, printre care cel al unei paciente care a ajuns la Urgențe cu o alcoolemie de 7 la mie.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794029276
       }
     ]
   }
