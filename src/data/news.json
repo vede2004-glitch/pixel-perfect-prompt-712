@@ -414,7 +414,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "Digi24",
@@ -465,6 +465,11 @@
         "source": "Mediafax",
         "title": "Criza politică din Israel, explicată. De ce Netanyahu poate rămâne premier chiar dacă majoritatea parlamentarilor îl susțin pe rivalul său",
         "link": "https://www.mediafax.ro/externe/criza-politica-din-israel-explicata-de-ce-netanyahu-poate-ramane-premier-chiar-daca-majoritatea-parlamentarilor-il-sustin-pe-rivalul-sau-23839347"
+      },
+      {
+        "source": "G4Media",
+        "title": "Gadi Eisenkot are șanse să devină primul prim ministru sefard/oriental al Israelului. Este acesta un atu sau un dezavantaj?",
+        "link": "https://www.g4media.ro/gadi-eisenkot-are-sanse-sa-devina-primul-prim-ministru-sefard-oriental-al-israelului-este-acesta-un-atu-sau-un-dezavantaj.html"
       }
     ],
     "published_at": 1794124025,
@@ -474,65 +479,70 @@
     "title_ro": "Eisenkot primește prima șansă de a forma guvernul și are la dispoziție 28 de zile",
     "lead_ro": "Isaac Herzog l-a desemnat pe Gadi Eisenkot să încerce primul formarea unui guvern israelian: 67 de parlamentari l-au recomandat, în timp ce Benjamin Netanyahu a fost susținut de 46. Eisenkot are 28 de zile pentru negocieri, cu posibilitatea unei prelungiri de încă două săptămâni, însă niciun bloc nu deține singur majoritatea.",
     "content_ro": "• **Alegerile din 27 octombrie** au lăsat Knessetul, format din 120 de membri, fără o majoritate clară. Likud și aliații săi au obținut 53 de mandate, iar blocul de opoziție condus de Eisenkot are 48, insuficient pentru a guverna fără sprijin suplimentar.\n\n• **Recomandările parlamentarilor** s-au împărțit astfel: 67 l-au indicat pe Eisenkot pentru formarea guvernului, 46 l-au susținut pe Netanyahu, iar șapte nu au nominalizat niciun candidat. Partidele arabe, cu 19 locuri, au sprijinit desemnarea lui Eisenkot, dar susținerea nu echivalează cu participarea la o coaliție.\n\n• **Duminică, 8 noiembrie, la ora 17:00**, este programată ceremonia de încredințare a mandatului, la reședința prezidențială din Ierusalim. Eisenkot va avea 28 de zile pentru negocieri, termenul putând fi prelungit cu încă 14. Dacă nu reușește, poate fi desemnat un alt politician; un impas prelungit ar putea duce la alegeri anticipate.\n\n• **Iudaismul Unit al Torei** nu l-a recomandat pe Netanyahu și a lăsat deschisă posibilitatea de a intra într-o coaliție condusă de Eisenkot. Rezervele formațiunii au legătură cu absența unei reglementări care să scutească elevii școlilor religioase de serviciul militar, astfel că sprijinul ei nu este încă sigur.\n\n• **Cariera militară a lui Eisenkot** a început în 1978, când s-a înrolat în Brigada Golani. Ulterior, a comandat forțele israeliene din Cisiordania și Comandamentul de Nord, iar între 2015 și 2019 a fost șeful Statului Major. Născut în 1960 la Tiberias, într-o familie de evrei imigranți din Maroc, ar putea deveni primul premier israelian de origine mizrahi dacă va forma guvernul.",
-    "importance_score": 113.0
+    "importance_score": 123.0
   },
   {
-    "group_id": "group_366dbf919e",
-    "fingerprint": "5a4f555f34e8350797f8fc7d9bcc5ea7",
+    "group_id": "group_7497328dab",
+    "fingerprint": "2f40bbd631820189f690e8d35ceec807",
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "Digi24",
-        "title": "Poziția Europei privind războiul din Ucraina care riscă să o pună în conflict cu SUA: „Este vorba despre reconstrucția imperiului rus”",
-        "link": "https://www.digi24.ro/stiri/externe/pozitia-europei-privind-razboiul-din-ucraina-care-risca-sa-o-puna-in-conflict-cu-sua-este-vorba-despre-reconstructia-imperiului-rus-4026319"
+        "title": "Drone detectate lângă Insula Șerpilor. Aeronave şi elicoptere ale Forţelor Armate Spaniole, mobilizate. Ro-Alert în jud. Tulcea",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/drone-detectate-langa-insula-serpilor-aeronave-si-elicoptere-ale-fortelor-armate-spaniole-mobilizate-ro-alert-pentru-in-jud-tulcea-4026739"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Două ținte aeriene detectate în apropierea Insulei Șerpilor. A fost emis mesaj RO-Alert în Tulcea",
+        "link": "https://stirileprotv.ro/stiri/actualitate/doua-tinte-aeriene-detectate-in-apropierea-insulei-serpilor-a-fost-emis-mesaj-ro-alert-in-tulcea.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Alertă în apropierea Insulei Șerpilor. Două ținte aeriene, detectate de radarele MApN",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/alerta-in-apropierea-insulei-serpilor-doua-tinte-2569845.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Drone detectate lângă Insula Șerpilor. Au fost mobilizate aeronave şi elicoptere ale Forţelor armate spaniole. Mesaj Ro-Alert pentru locuitorii din Tulcea",
+        "link": "https://hotnews.ro/drone-detectate-langa-insula-serpilor-au-fost-mobilizate-aeronave-si-elicoptere-ale-fortelor-armate-spaniole-mesaj-ro-alert-pentru-locuitorii-din-tulcea-2398336"
+      },
+      {
+        "source": "Maszol",
+        "title": "Két drónt észleltek a Kígyó-szigetnél",
+        "link": "https://maszol.ro/belfold/Ket-dront-eszleltek-a-Kigyo-szigetnel"
       },
       {
         "source": "Digi24",
-        "title": "Poziția Europei privind războiul din Ucraina care riscă să o pună în conflict cu SUA: „Este vorba despre reconstrucția imperiului rus”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/pozitia-europei-privind-razboiul-din-ucraina-care-risca-sa-o-puna-in-conflict-cu-sua-este-vorba-despre-reconstructia-imperiului-rus-4026319"
+        "title": "Un nou mesaj Ro-Alert a fost emis pentru locuitorii din Tulcea privind o posibilă incursiune de drone",
+        "link": "https://www.digi24.ro/stiri/un-nou-mesaj-ro-alert-a-fost-emis-pentru-locuitorii-din-tulcea-privind-o-posibila-incursiune-de-drone-4026863"
       },
       {
-        "source": "Mediafax",
-        "title": "Rusia respinge participarea Europei la negocierile de pace pentru Ucraina și amenință trupele străine cu atacuri",
-        "link": "https://www.mediafax.ro/externe/rusia-respinge-participarea-europei-la-negocierile-de-pace-pentru-ucraina-si-ameninta-trupele-straine-cu-atacuri-23839670"
+        "source": "HotNews.ro",
+        "title": "Un nou mesaj Ro-Alert pentru locuitorii din Tulcea privind o posibilă incursiune de drone",
+        "link": "https://hotnews.ro/un-nou-mesaj-ro-alert-pentru-locuitorii-din-tulcea-privind-o-posibila-incursiune-de-drone-2398399"
       },
       {
-        "source": "Digi24",
-        "title": "Rusia spune că împărţirea zonelor de influenţă cu SUA şi China este mai importantă decât pacea în Ucraina. „Nu vrem o Ialta 2”",
-        "link": "https://www.digi24.ro/stiri/externe/rusia-spune-ca-impartirea-zonelor-de-influenta-cu-sua-si-china-este-mai-importanta-decat-pacea-in-ucraina-nu-vrem-o-ialta-2-4026713"
-      },
-      {
-        "source": "G4Media",
-        "title": "Politico: Rusia își consolidează delegația trimisă la Abu Dhabi / Zelenski avertizează că nu cunoaște propunerea integrală de pace și planul lui Trump e periculos pentru securitatea Ucrainei",
-        "link": "https://www.g4media.ro/politico-rusia-isi-consolideaza-delegatia-trimisa-la-abu-dhabi-zelenski-avertizeaza-ca-nu-cunoaste-propunerea-integrala-de-pace-si-planul-lui-trump-e-periculos-pentru-securitatea-ucrainei.html"
+        "source": "ProTV Stiri",
+        "title": "Încă un mesaj RO-Alert pentru nordul judeţului Tulcea, la mai puţin de 2 ore de la unul similar emis pentru estul judeţului",
+        "link": "https://stirileprotv.ro/stiri/actualitate/inca-un-mesaj-ro-alert-pentru-nordul-jude-ului-tulcea-la-mai-pu-in-de-2-ore-de-la-unul-similar-emis-pentru-estul-jude-ului.html"
       },
       {
         "source": "G4Media",
-        "title": "Atac masiv al Rusiei asupra Kievului / Zelenski: Rusia încearcă să ne împingă în beznă. Ucraina nu trebuie lăsată singură",
-        "link": "https://www.g4media.ro/atac-masiv-al-rusiei-asupra-kievului-zelenski-rusia-incearca-sa-ne-impinga-in-bezna-ucraina-nu-trebuie-lasata-singura.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Zelenski, după atacul masiv asupra Kievului: Rusia încearcă să arunce Ucraina în beznă. Apel către SUA pentru sprijin suplimentar",
-        "link": "https://www.mediafax.ro/externe/zelenski-dupa-atacul-masiv-asupra-kievului-rusia-incearca-sa-arunce-ucraina-in-bezna-apel-catre-sua-pentru-sprijin-suplimentar-23839202"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Rusia consideră împărțirea zonelor de influență cu SUA și China mai importantă decât pacea în #Ucraina",
-        "link": "https://agerpres.ro/politic-extern/2026/11/08/rusia-considera-impartirea-zonelor-de-influenta-cu-sua-si-china-mai-importanta-decat-pacea-in-ucrain--1611250"
+        "title": "Mai multe ținte aeriene detectate astăzi în apropiere de Insula Șerpilor și de localitatea Chilia Veche",
+        "link": "https://www.g4media.ro/mai-multe-tinte-aeriene-detectate-astazi-in-apropiere-de-insula-serpilor-si-de-localitatea-chilia-veche.html"
       }
     ],
-    "published_at": 1794143519,
-    "title_hu": "Béke vagy biztonsági alku: eltérő tervek Ukrajnáról",
-    "lead_hu": "Az ukrajnai háború lezárásáról és Európa biztonsági rendjéről eltérő sorrendben tárgyalna Washington és több európai kormány. Egy orosz parlamenti vezető szerint a nagyhatalmak közötti egyeztetés fontosabb lehet az ukrajnai tűzszüneti kísérleteknél.",
-    "content_hu": "• **Az éjszakai orosz támadás** Volodimir Zelenszkij szerint 172 drónnal és 36 ballisztikus rakétával érte Kijevet és további 12 régiót. A fővárosban lakóépületek, egy óvoda és az Északi híd is megrongálódott; az elnök kilenc sebesültről számolt be, a Reuters helyi adatok alapján egy halottról és nyolc sérültről írt.\n\n• **Az energetikai rendszer sérülései** Kijevben az áram-, víz- és fűtésellátást is megzavarták. A fővárosi térségben olyan alállomások rongálódtak meg, amelyek a rivnei és hmelnickiji atomerőműveket kötik össze Kijevvel és az ország középső részeivel; más megyékben szintén értek károk elektromos létesítményeket.\n\n• **Európa tárgyalási sorrendje** szerint Oroszországnak előbb be kell fejeznie az Ukrajna elleni háborút, és csak utána kerülhet napirendre a kontinens biztonsági rendje. Európai tisztviselők a NATO kelet-európai jelenlétét csökkentő orosz követeléseket elfogadhatatlannak tartják; érvelésük szerint a jelenlegi biztonsági keret Oroszország európai támadásainak megelőzését szolgálja, miközben Moszkva meglévő megállapodásokat is megsért.\n\n• **Washington más megközelítést képvisel:** a Trump-kormány az európai biztonsági kérdéseket az ukrajnai béketárgyalásokkal párhuzamosan venné elő. A Fehér Ház szóvivője, Anna Kelly a NATO kollektív védelmi szerepét, az európai szuverenitást és az egyes országok önálló biztonságpolitikai döntéseit emelte ki. Az orosz, ukrán és amerikai képviselők Abu-Dzabiban, a február óta tervezett tárgyalások folytatásaként találkozhatnak.\n\n• **Piotr Tolsztoj**, az orosz parlamenti külügyi bizottság új vezetője vasárnap azt mondta, hogy az Egyesült Államokkal és Kínával folytatott, globális biztonságot és befolyási övezeteket érintő egyeztetés fontosabb lehet az ukrajnai tűzszünetnél. Felvetette Vlagyimir Putyin, Donald Trump és Hszi Csin-ping találkozóját Sencsenben, az APEC november 18–19-i csúcsa idején; Dmitrij Peszkov szerint a felek még egyeztetik a napirendet. Tolsztoj kételkedett a Trump és Volodimir Zelenszkij közötti tárgyalási kezdeményezések eredményességében.",
-    "title_ro": "Pace sau acord de securitate: planuri diferite privind Ucraina",
-    "lead_ro": "Washingtonul și mai multe guverne europene nu sunt de acord asupra ordinii în care ar trebui abordate încheierea războiului din Ucraina și securitatea continentului. Un oficial parlamentar rus consideră că discuțiile dintre marile puteri ar putea conta mai mult decât încercările de obținere a unui armistițiu în Ucraina.",
-    "content_ro": "• **Atacul rusesc din timpul nopții** a vizat Kievul și alte 12 regiuni, potrivit lui Volodimir Zelenski, care a menționat 172 de drone și 36 de rachete balistice. În capitală au fost avariate clădiri de locuințe, o grădiniță și podul de Nord. Președintele a anunțat nouă răniți, iar Reuters, citând date locale, a relatat despre un mort și opt persoane rănite.\n\n• **Avariile infrastructurii energetice** au afectat la Kiev alimentarea cu electricitate, apă și căldură. În zona capitalei au fost lovite stații electrice care leagă centralele nucleare de la Rivne și Hmelnițki de Kiev și de regiunile centrale. Au fost raportate pagube și la instalații electrice din alte regiuni.\n\n• **Poziția mai multor guverne europene** este ca Rusia să oprească mai întâi războiul împotriva Ucrainei, înaintea discuțiilor despre ordinea de securitate a continentului. Oficialii europeni resping cererile Moscovei care ar reduce prezența NATO în estul Europei. Ei susțin că actualul cadru de securitate are rolul de a descuraja atacurile rusești asupra Europei și invocă încălcarea de către Moscova a unor acorduri existente.\n\n• **Administrația Trump propune un calendar diferit**, cu discutarea securității europene în paralel cu negocierile pentru pace în Ucraina. Purtătoarea de cuvânt a Casei Albe, Anna Kelly, a evidențiat rolul NATO în apărarea colectivă, suveranitatea Europei și dreptul fiecărui stat de a-și decide politica de securitate. Reprezentanți ruși, ucraineni și americani ar urma să se întâlnească la Abu Dhabi, reluând discuțiile planificate după ultima rundă din februarie.\n\n• **Piotr Tolstoi**, noul șef al comisiei pentru afaceri internaționale din parlamentul rus, a declarat duminică că dialogul dintre Rusia, SUA și China privind securitatea globală și sferele de influență ar putea fi mai important decât un armistițiu în Ucraina. El a avansat posibilitatea unei întâlniri între Vladimir Putin, Donald Trump și Xi Jinping la Shenzhen, în timpul summitului APEC din 18–19 noiembrie. Dmitri Peskov a spus că statele încă negociază agenda, iar Tolstoi și-a exprimat neîncrederea în demersurile lui Trump de a purta discuții cu Volodimir Zelenski.",
+    "published_at": 1794147600,
+    "title_hu": "Légi célokat észleltek a Kígyó-sziget közelében, spanyol gépek szálltak fel",
+    "lead_hu": "Vasárnap két légi célpontot észlelt a román radarhálózat az ukrán légtérben, a Kígyó-sziget közelében. Spanyol vadászgépek és helikopterek indultak a Mihail Kogălniceanu légibázisról, Tulcea megye keleti részén pedig riasztást adtak ki, amely délután véget ért.",
+    "content_hu": "• **Vasárnapi radarészlelések:** A román védelmi minisztérium közlése szerint az első légi célt a Kígyó-szigettől mintegy 30 kilométerre keletre, az ukrán légtérben észlelték. Később egy másik célpontot is regisztráltak, körülbelül 55 kilométerre nyugatra a szigettől.\n\n• **Spanyol F-18-asok:** Két vadászgép szállt fel a Mihail Kogălniceanu 57. légibázisról, hogy kövesse az első észlelést. A gépek a légtérvédelmi szolgálat részeként voltak készenlétben; a cél később Sulinától keletre eltűnt a radarképről.\n\n• **Második légi cél:** A nyugati irányban észlelt objektum megfigyelésére két spanyol NH-90-es helikoptert indítottak ugyanarról a légibázisról. A hatóságok nem közölték, milyen típusú vagy eredetű légi eszközökről volt szó.\n\n• **RO-Alert és riasztás:** A Tulcea megye keleti részére korlátozott lakossági üzenetet 14:02-kor küldték ki. A légi riasztás 15:26-kor ért véget, a megyei katasztrófavédelem pedig arról számolt be, hogy nem érkezett segélyhívás a 112-es számra.\n\n• **A román intézkedések célja** a légi helyzet megfigyelése és a határ menti lakosság értesítése volt. A radaradatok az ukrán légtérben történt észlelésekre vonatkoztak; a közlemények nem jeleztek román légtérsértést.",
+    "title_ro": "Ținte aeriene detectate lângă Insula Șerpilor; avioane spaniole au decolat",
+    "lead_ro": "Duminică, radarele românești au semnalat două ținte aeriene în spațiul ucrainean, în apropierea Insulei Șerpilor. Avioane de vânătoare și elicoptere spaniole au fost trimise de la baza Mihail Kogălniceanu, iar alerta transmisă în estul județului Tulcea s-a încheiat în cursul după-amiezii.",
+    "content_ro": "• **Detecțiile de duminică:** Ministerul Apărării a transmis că prima țintă a fost înregistrată în spațiul aerian al Ucrainei, la circa 30 de kilometri est de Insula Șerpilor. Ulterior, radarele au semnalat un al doilea obiect zburător, la aproximativ 55 de kilometri vest de insulă.\n\n• **Avioanele F-18 spaniole:** Două aparate au plecat de la Baza Aeriană 57 Mihail Kogălniceanu pentru supravegherea primei situații. Acestea se aflau în serviciul de poliție aeriană, iar ținta inițială nu a mai fost observată pe radar la est de Sulina.\n\n• **A doua țintă aeriană:** Pentru urmărirea obiectului semnalat în partea vestică a insulei au decolat două elicoptere NH-90 ale forțelor spaniole, tot de la baza Mihail Kogălniceanu. Autoritățile nu au precizat natura sau proveniența celor două ținte.\n\n• **Alerta pentru populație:** Mesajul RO-Alert a fost transmis la ora 14:02 și a vizat numai zona estică a județului Tulcea. Potrivit informării ISU Delta Tulcea, alerta aeriană a fost ridicată la 15:26, iar la numărul 112 nu au fost raportate apeluri legate de eveniment.\n\n• **Măsurile autorităților române** au vizat urmărirea situației aeriene și informarea locuitorilor din apropierea frontierei. Datele comunicate privesc observații făcute în spațiul aerian ucrainean și nu menționează o pătrundere în spațiul aerian al României.",
     "importance_score": 105.0
   },
   {
@@ -603,65 +613,6 @@
     "lead_ro": "Pe 7 noiembrie, vagoane încărcate cu cereale s-au deplasat necontrolat și au izbit două locomotive în gara Dornești. Șase vagoane au deraiat, trei s-au răsturnat, iar seara circulația a fost reluată pe două linii; intervenția a continuat și a doua zi.",
     "content_ro": "• **Pe 7 noiembrie, la ora 12:02**, în timpul transferului cerealelor din stația Vicșani, un grup de vagoane al companiei Global Grain Logistic a pornit fără control spre Dornești. Primele date indicau 11 vagoane, însă CFR a revizuit ulterior numărul total al grupului la 19.\n\n• **La ora 12:15, pe linia a patra din Dornești**, vagoanele au izbit două locomotive ale unui alt operator de transport de marfă. Impactul a afectat liniile 2–6; șase vagoane au ieșit de pe șine, iar trei dintre ele s-au răsturnat. Printre vehiculele implicate s-a aflat și o cisternă goală pentru combustibil, staționată pe o linie alăturată.\n\n• **Urmările pentru locomotive și călători** au inclus avarierea gravă a uneia dintre locomotive, după ce două osii ale unui boghiu au deraiat. Nu au fost raportate persoane rănite, iar trenurile de călători și-au păstrat programul de circulație.\n\n• **Intervenția feroviară** a inclus trimiterea din Galați a unei macarale de 120 de tone, folosită pentru ridicarea vagoanelor și degajarea căii. Până la ora 21:15, 16 dintre cele 19 vagoane fuseseră retrase la Vicșani. După eliberarea capătului Y al stației, traficul a fost reluat pe liniile 1 și 7.\n\n• **Cele două linii redeschise au ecartamente diferite:** linia 1 măsoară 1.435 mm, standard folosit în România și în cea mai mare parte a Europei, iar linia 7 are 1.520 mm, dimensiune întâlnită în Ucraina și Republica Moldova. Recuperarea vehiculelor deraiate și curățarea completă a liniilor au continuat pe 8 noiembrie, în timp ce autoritățile cercetează cauzele incidentului.",
     "importance_score": 100.0
-  },
-  {
-    "group_id": "group_7497328dab",
-    "fingerprint": "2f40bbd631820189f690e8d35ceec807",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Drone detectate lângă Insula Șerpilor. Aeronave şi elicoptere ale Forţelor Armate Spaniole, mobilizate. Ro-Alert în jud. Tulcea",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/drone-detectate-langa-insula-serpilor-aeronave-si-elicoptere-ale-fortelor-armate-spaniole-mobilizate-ro-alert-pentru-in-jud-tulcea-4026739"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Două ținte aeriene detectate în apropierea Insulei Șerpilor. A fost emis mesaj RO-Alert în Tulcea",
-        "link": "https://stirileprotv.ro/stiri/actualitate/doua-tinte-aeriene-detectate-in-apropierea-insulei-serpilor-a-fost-emis-mesaj-ro-alert-in-tulcea.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Alertă în apropierea Insulei Șerpilor. Două ținte aeriene, detectate de radarele MApN",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/alerta-in-apropierea-insulei-serpilor-doua-tinte-2569845.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Drone detectate lângă Insula Șerpilor. Au fost mobilizate aeronave şi elicoptere ale Forţelor armate spaniole. Mesaj Ro-Alert pentru locuitorii din Tulcea",
-        "link": "https://hotnews.ro/drone-detectate-langa-insula-serpilor-au-fost-mobilizate-aeronave-si-elicoptere-ale-fortelor-armate-spaniole-mesaj-ro-alert-pentru-locuitorii-din-tulcea-2398336"
-      },
-      {
-        "source": "Maszol",
-        "title": "Két drónt észleltek a Kígyó-szigetnél",
-        "link": "https://maszol.ro/belfold/Ket-dront-eszleltek-a-Kigyo-szigetnel"
-      },
-      {
-        "source": "Digi24",
-        "title": "Un nou mesaj Ro-Alert a fost emis pentru locuitorii din Tulcea privind o posibilă incursiune de drone",
-        "link": "https://www.digi24.ro/stiri/un-nou-mesaj-ro-alert-a-fost-emis-pentru-locuitorii-din-tulcea-privind-o-posibila-incursiune-de-drone-4026863"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Un nou mesaj Ro-Alert pentru locuitorii din Tulcea privind o posibilă incursiune de drone",
-        "link": "https://hotnews.ro/un-nou-mesaj-ro-alert-pentru-locuitorii-din-tulcea-privind-o-posibila-incursiune-de-drone-2398399"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Încă un mesaj RO-Alert pentru nordul judeţului Tulcea, la mai puţin de 2 ore de la unul similar emis pentru estul judeţului",
-        "link": "https://stirileprotv.ro/stiri/actualitate/inca-un-mesaj-ro-alert-pentru-nordul-jude-ului-tulcea-la-mai-pu-in-de-2-ore-de-la-unul-similar-emis-pentru-estul-jude-ului.html"
-      }
-    ],
-    "published_at": 1794147600,
-    "title_hu": "Légi célokat észleltek a Kígyó-sziget közelében, spanyol gépek szálltak fel",
-    "lead_hu": "Vasárnap két légi célpontot észlelt a román radarhálózat az ukrán légtérben, a Kígyó-sziget közelében. Spanyol vadászgépek és helikopterek indultak a Mihail Kogălniceanu légibázisról, Tulcea megye keleti részén pedig riasztást adtak ki, amely délután véget ért.",
-    "content_hu": "• **Vasárnapi radarészlelések:** A román védelmi minisztérium közlése szerint az első légi célt a Kígyó-szigettől mintegy 30 kilométerre keletre, az ukrán légtérben észlelték. Később egy másik célpontot is regisztráltak, körülbelül 55 kilométerre nyugatra a szigettől.\n\n• **Spanyol F-18-asok:** Két vadászgép szállt fel a Mihail Kogălniceanu 57. légibázisról, hogy kövesse az első észlelést. A gépek a légtérvédelmi szolgálat részeként voltak készenlétben; a cél később Sulinától keletre eltűnt a radarképről.\n\n• **Második légi cél:** A nyugati irányban észlelt objektum megfigyelésére két spanyol NH-90-es helikoptert indítottak ugyanarról a légibázisról. A hatóságok nem közölték, milyen típusú vagy eredetű légi eszközökről volt szó.\n\n• **RO-Alert és riasztás:** A Tulcea megye keleti részére korlátozott lakossági üzenetet 14:02-kor küldték ki. A légi riasztás 15:26-kor ért véget, a megyei katasztrófavédelem pedig arról számolt be, hogy nem érkezett segélyhívás a 112-es számra.\n\n• **A román intézkedések célja** a légi helyzet megfigyelése és a határ menti lakosság értesítése volt. A radaradatok az ukrán légtérben történt észlelésekre vonatkoztak; a közlemények nem jeleztek román légtérsértést.",
-    "title_ro": "Ținte aeriene detectate lângă Insula Șerpilor; avioane spaniole au decolat",
-    "lead_ro": "Duminică, radarele românești au semnalat două ținte aeriene în spațiul ucrainean, în apropierea Insulei Șerpilor. Avioane de vânătoare și elicoptere spaniole au fost trimise de la baza Mihail Kogălniceanu, iar alerta transmisă în estul județului Tulcea s-a încheiat în cursul după-amiezii.",
-    "content_ro": "• **Detecțiile de duminică:** Ministerul Apărării a transmis că prima țintă a fost înregistrată în spațiul aerian al Ucrainei, la circa 30 de kilometri est de Insula Șerpilor. Ulterior, radarele au semnalat un al doilea obiect zburător, la aproximativ 55 de kilometri vest de insulă.\n\n• **Avioanele F-18 spaniole:** Două aparate au plecat de la Baza Aeriană 57 Mihail Kogălniceanu pentru supravegherea primei situații. Acestea se aflau în serviciul de poliție aeriană, iar ținta inițială nu a mai fost observată pe radar la est de Sulina.\n\n• **A doua țintă aeriană:** Pentru urmărirea obiectului semnalat în partea vestică a insulei au decolat două elicoptere NH-90 ale forțelor spaniole, tot de la baza Mihail Kogălniceanu. Autoritățile nu au precizat natura sau proveniența celor două ținte.\n\n• **Alerta pentru populație:** Mesajul RO-Alert a fost transmis la ora 14:02 și a vizat numai zona estică a județului Tulcea. Potrivit informării ISU Delta Tulcea, alerta aeriană a fost ridicată la 15:26, iar la numărul 112 nu au fost raportate apeluri legate de eveniment.\n\n• **Măsurile autorităților române** au vizat urmărirea situației aeriene și informarea locuitorilor din apropierea frontierei. Datele comunicate privesc observații făcute în spațiul aerian ucrainean și nu menționează o pătrundere în spațiul aerian al României.",
-    "importance_score": 95.0
   },
   {
     "group_id": "group_266e281872",
@@ -1828,40 +1779,6 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_6585ebc6d3",
-    "fingerprint": "32fa5a1e90076656704952c814395b0d",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Mai multe morminte dintr-un cimitir din Constanța au fost profanate. Ce au descoperit polițiștii",
-        "link": "https://www.digi24.ro/stiri/mai-multe-morminte-dintr-un-cimitir-din-constanta-au-fost-profanate-ce-au-descoperit-politistii-4026715"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Trei morminte, profanate într-un cimitir din Constanța. Ce au găsit rudele decedaților",
-        "link": "https://adevarul.ro/stiri-locale/constanta/trei-morminte-profanate-intr-un-cimitir-din-2569841.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Mai multe morminte dintr-un cimitir din Constanța, profanate de persoane necunoscute",
-        "link": "https://agerpres.ro/social/2026/11/08/mai-multe-morminte-dintr-un-cimitir-din-constanta-profanate-de-persoane-necunoscute--1611245"
-      }
-    ],
-    "published_at": 1794142664,
-    "title_hu": "Három sírboltozatot rongáltak meg a konstancai Palazu Mare temetőben",
-    "lead_hu": "November 7-én három bejelentő jelezte a konstancai rendőrségnek, hogy ismeretlenek megrongáltak három sírhelyet a Palazu Mare temetőben. A vizsgálat szerint két koporsó fedele is megsérült, de egyik sírból sem tűntek el értékek.",
-    "content_hu": "• **November 7-én** három személy értesítette a konstancai rendőrséget arról, hogy a Palazu Mare temetőben három sírhelyet megrongáltak. A rendőrök megkezdték az eset körülményeinek vizsgálatát.\n\n• **Mindhárom sírbolt fedelét eltávolították** az elkövetők, akiknek kilétét egyelőre nem közölték. Két sír esetében a koporsó fedelén is sérüléseket találtak.\n\n• **Lopásra utaló jelet nem találtak:** a hatósági ellenőrzés alapján sem a sírboltokból, sem a koporsókból nem vittek el tárgyakat. A rendelkezésre álló információk szerint az esetekben anyagi javak eltűnését nem állapították meg.\n\n• **Büntetőeljárás indult sírgyalázás gyanúja miatt.** A konstancai rendőrség folytatja a nyomozást, hogy megállapítsa, kik jutottak be a sírhelyekbe, és ki felel a rongálásokért. Az ügyben érintett személyeket eddig nem azonosították.",
-    "title_ro": "Trei morminte au fost profanate în cimitirul Palazu Mare din Constanța",
-    "lead_ro": "La 7 noiembrie, trei persoane au anunțat poliția din Constanța că au fost avariate trei morminte din cimitirul Palazu Mare. Verificările au indicat că două capace de sicriu au fost deteriorate, însă nu au fost constatate furturi.",
-    "content_ro": "• **La 7 noiembrie**, trei persoane au informat poliția din Constanța despre deteriorarea a trei morminte din cimitirul Palazu Mare. Polițiștii au început cercetările pentru a clarifica împrejurările incidentului.\n\n• **Capacele criptelor au fost îndepărtate** în toate cele trei cazuri, iar în două situații au fost observate avarii și la capacele sicrielor. Persoanele care au pătruns în morminte nu au fost identificate până în prezent.\n\n• **Nu au fost constatate bunuri lipsă:** verificările polițiștilor au arătat că din niciuna dintre cripte sau din sicrie nu au fost sustrase obiecte. Informațiile disponibile nu indică, așadar, dispariția unor bunuri în urma faptelor.\n\n• **A fost deschis un dosar penal pentru profanare de cadavre sau morminte.** Poliția continuă ancheta pentru a stabili identitatea celor implicați și a persoanelor responsabile de pătrunderea în cele trei morminte și de producerea avariilor.",
-    "importance_score": 45.0
-  },
-  {
     "group_id": "group_d8c11c1890",
     "fingerprint": "68bafacafc1f02c5400b8a01abb6b253",
     "category": "Általános",
@@ -2203,6 +2120,40 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_6585ebc6d3",
+    "fingerprint": "32fa5a1e90076656704952c814395b0d",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Mai multe morminte dintr-un cimitir din Constanța au fost profanate. Ce au descoperit polițiștii",
+        "link": "https://www.digi24.ro/stiri/mai-multe-morminte-dintr-un-cimitir-din-constanta-au-fost-profanate-ce-au-descoperit-politistii-4026715"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trei morminte, profanate într-un cimitir din Constanța. Ce au găsit rudele decedaților",
+        "link": "https://adevarul.ro/stiri-locale/constanta/trei-morminte-profanate-intr-un-cimitir-din-2569841.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Mai multe morminte dintr-un cimitir din Constanța, profanate de persoane necunoscute",
+        "link": "https://agerpres.ro/social/2026/11/08/mai-multe-morminte-dintr-un-cimitir-din-constanta-profanate-de-persoane-necunoscute--1611245"
+      }
+    ],
+    "published_at": 1794142664,
+    "title_hu": "Három sírboltozatot rongáltak meg a konstancai Palazu Mare temetőben",
+    "lead_hu": "November 7-én három bejelentő jelezte a konstancai rendőrségnek, hogy ismeretlenek megrongáltak három sírhelyet a Palazu Mare temetőben. A vizsgálat szerint két koporsó fedele is megsérült, de egyik sírból sem tűntek el értékek.",
+    "content_hu": "• **November 7-én** három személy értesítette a konstancai rendőrséget arról, hogy a Palazu Mare temetőben három sírhelyet megrongáltak. A rendőrök megkezdték az eset körülményeinek vizsgálatát.\n\n• **Mindhárom sírbolt fedelét eltávolították** az elkövetők, akiknek kilétét egyelőre nem közölték. Két sír esetében a koporsó fedelén is sérüléseket találtak.\n\n• **Lopásra utaló jelet nem találtak:** a hatósági ellenőrzés alapján sem a sírboltokból, sem a koporsókból nem vittek el tárgyakat. A rendelkezésre álló információk szerint az esetekben anyagi javak eltűnését nem állapították meg.\n\n• **Büntetőeljárás indult sírgyalázás gyanúja miatt.** A konstancai rendőrség folytatja a nyomozást, hogy megállapítsa, kik jutottak be a sírhelyekbe, és ki felel a rongálásokért. Az ügyben érintett személyeket eddig nem azonosították.",
+    "title_ro": "Trei morminte au fost profanate în cimitirul Palazu Mare din Constanța",
+    "lead_ro": "La 7 noiembrie, trei persoane au anunțat poliția din Constanța că au fost avariate trei morminte din cimitirul Palazu Mare. Verificările au indicat că două capace de sicriu au fost deteriorate, însă nu au fost constatate furturi.",
+    "content_ro": "• **La 7 noiembrie**, trei persoane au informat poliția din Constanța despre deteriorarea a trei morminte din cimitirul Palazu Mare. Polițiștii au început cercetările pentru a clarifica împrejurările incidentului.\n\n• **Capacele criptelor au fost îndepărtate** în toate cele trei cazuri, iar în două situații au fost observate avarii și la capacele sicrielor. Persoanele care au pătruns în morminte nu au fost identificate până în prezent.\n\n• **Nu au fost constatate bunuri lipsă:** verificările polițiștilor au arătat că din niciuna dintre cripte sau din sicrie nu au fost sustrase obiecte. Informațiile disponibile nu indică, așadar, dispariția unor bunuri în urma faptelor.\n\n• **A fost deschis un dosar penal pentru profanare de cadavre sau morminte.** Poliția continuă ancheta pentru a stabili identitatea celor implicați și a persoanelor responsabile de pătrunderea în cele trei morminte și de producerea avariilor.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_a7eddd67d5",
     "fingerprint": "793f9995c24f75034247df09ea918a92",
     "category": "Általános",
@@ -2472,38 +2423,6 @@
     "title_ro": "Pagube în zona financiară din Riad; cauza avariilor nu este clară",
     "lead_ro": "Duminică au fost semnalate explozii în cartierul financiar al capitalei saudite, unde martori au observat avarii la o clădire Aramco. Nu s-a stabilit dacă acestea au fost provocate de resturile unei rachete interceptate sau de impactul direct al unui proiectil. Houthiții au anunțat, separat, 33 de morți în urma unor lovituri saudite în regiunea Sanaa.",
     "content_ro": "• **Duminică, la Riad**, s-au auzit explozii în apropierea Districtului Financiar Regele Abdullah, iar martori au relatat că un turn Aramco a fost avariat. Coaliția anunțase anterior interceptarea a două rachete balistice care se îndreptau spre capitală; purtătorul său de cuvânt a menționat și distrugerea a două rachete de croazieră.\n\n• **Originea pagubelor nu a fost stabilită:** relatările indică avarii la mai multe etaje, geamuri și o porțiune a fațadei. Nu este clar dacă acestea au fost cauzate de fragmentele unei rachete interceptate sau de lovirea directă a clădirii de către un proiectil. În imagini publicate online, care nu au fost verificate, se vede fum la locul incidentului.\n\n• **Districtul Financiar Regele Abdullah** este considerat un reper urban important al Riadului și este asociat cu schimbările economice și sociale din regat. În zonă se află zgârie-nori, magazine, clădiri rezidențiale și o stație de metrou utilizată intens.\n\n• **Reluarea cursurilor cu prezență fizică** a fost anunțată de Ministerul saudit al Educației sâmbătă seara, după câteva săptămâni de învățământ la distanță. Informațiile despre atac au apărut la câteva ore după acest anunț.\n\n• **Houthiții au afirmat duminică** că 33 de persoane au murit în urma unor lovituri saudite în regiunea Sanaa. Cifra nu a fost confirmată independent în relatările disponibile. Anterior, gruparea acuzase forțele saudite de atacuri asupra civililor vineri și sâmbătă.",
-    "importance_score": 38.0
-  },
-  {
-    "group_id": "group_a5cc426cf1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Dispută între Bogdan Aurescu și Răzvan Nicolescu în chestiunea Neptun Deep / Aurescu susține că zona a fost tranșată între România și Ucraina, Nicolescu îl contrazice dur / ”Când oficiali importanți se trezesc vorbind prostii, cresc riscurile de securitate”",
-        "link": "https://www.g4media.ro/disputa-intre-bogdan-aurescu-si-razvan-nicolescu-in-chestiunea-neptun-deep-aurescu-sustine-ca-zona-a-fost-transata-intre-romania-si-ucraina-nicolescu-il-contrazice-dur-cand-oficiali-impo.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Răzvan Nicolescu, expert și fost ministru al Energiei, îl contrazice pe Bogdan Aurescu: ”Zona Neptun Deep nu a făcut niciodată obiectul vreunei dispute cu un alt stat”",
-        "link": "https://www.g4media.ro/razvan-nicolescu-expert-si-fost-ministru-al-energiei-il-contrazice-pe-bogdan-aurescu-zona-neptun-deep-nu-a-facut-niciodata-obiectul-vreunei-dispute-cu-un-alt-stat.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Răzvan Nicolescu, expert și fost ministru al Energiei, îl contrazice pe Bogdan Aurescu: ”Zona Neptun Deep nu a făcut niciodată obiectul vreunei dispute cu un alt stat” / Aurescu a spus că e urmare a litigiului România – Ucraina de la Haga, dosar pe care el l-a condus",
-        "link": "https://www.g4media.ro/razvan-nicolescu-expert-si-fost-ministru-al-energiei-il-contrazice-pe-bogdan-aurescu-zona-neptun-deep-nu-a-facut-niciodata-obiectul-vreunei-dispute-cu-un-alt-stat-aurescu-a-spus.html"
-      }
-    ],
-    "published_at": 1794131627,
-    "title_hu": "Dispută între Bogdan Aurescu și Răzvan Nicolescu în chestiunea Neptun Deep / Aurescu susține că zona a fost tranșată între România și Ucraina, Nicolescu îl contrazice dur / ”Când oficiali importanți se trezesc vorbind prostii, cresc riscurile de securitate”",
-    "lead_hu": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în d…",
-    "content_hu": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în domeniu, în chestiunea Neptun Deep. Aurescu susține că zona a fost disputată între România și Ucraina, iar Nicolescu îl contrazice dur. ”Când oficiali importanți […] © G4Media.ro.",
-    "title_ro": "Dispută între Bogdan Aurescu și Răzvan Nicolescu în chestiunea Neptun Deep / Aurescu susține că zona a fost tranșată între România și Ucraina, Nicolescu îl contrazice dur / ”Când oficiali importanți se trezesc vorbind prostii, cresc riscurile de securitate”",
-    "lead_ro": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în d…",
-    "content_ro": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în domeniu, în chestiunea Neptun Deep. Aurescu susține că zona a fost disputată între România și Ucraina, iar Nicolescu îl contrazice dur. ”Când oficiali importanți […] © G4Media.ro.",
     "importance_score": 38.0
   },
   {
@@ -2834,6 +2753,38 @@
     "title_ro": "Sorana Cîrstea a vorbit despre epuizare, fără să-și anunțe retragerea",
     "lead_ro": "Jucătoarea română de 36 de ani a transmis, pe 8 noiembrie, că sezonul 2026 a lăsat-o epuizată fizic și psihic. Deși anunțase anterior că intenționează să se retragă la finalul anului, până acum nu a făcut un anunț oficial privind viitorul său.",
     "content_ro": "• **Pe 8 noiembrie, Sorana Cîrstea** le-a mulțumit susținătorilor pentru sprijinul primit în timpul sezonului 2026. În mesajul publicat pe rețelele sociale, ea a spus că, odată cu apropierea finalului de an, se simte foarte obosită atât fizic, cât și psihic. Postarea a venit după încheierea parcursului său competițional din acest sezon.\n\n• **Posibila retragere** era luată în calcul încă de la începutul anului: Cîrstea anunțase că plănuiește să încheie cariera profesionistă la finalul lui 2026. Mesajul recent nu a confirmat însă oficial această decizie, astfel că viitorul ei în tenis rămâne neclar.\n\n• **Turneul WTA 250 de la Hong Kong** a fost ultima competiție a româncei în acest sezon. Vineri, ea a fost eliminată în sferturile de finală de rusoaica Alexandra Shubladze, în vârstă de 21 de ani și aflată pe locul 136 mondial. La două zile după înfrângere, Cîrstea nu anunțase oficial dacă va continua să joace.\n\n• **Rezultatele obținute în 2026** au făcut-o să se mai gândească la planul de retragere. Jucătoarea a urcat până pe locul 15 în clasamentul mondial, iar la US Open a ajuns în a doua săptămână a turneului. Într-un interviu, ea a spus că aceste performanțe au determinat-o să reevalueze posibilitatea continuării carierei; sezonul a fost considerat unul dintre cele mai reușite din parcursul său.",
+    "importance_score": 33.0
+  },
+  {
+    "group_id": "group_a5cc426cf1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Dispută între Bogdan Aurescu și Răzvan Nicolescu în chestiunea Neptun Deep / Aurescu susține că zona a fost tranșată între România și Ucraina, Nicolescu îl contrazice dur / ”Când oficiali importanți se trezesc vorbind prostii, cresc riscurile de securitate”",
+        "link": "https://www.g4media.ro/disputa-intre-bogdan-aurescu-si-razvan-nicolescu-in-chestiunea-neptun-deep-aurescu-sustine-ca-zona-a-fost-transata-intre-romania-si-ucraina-nicolescu-il-contrazice-dur-cand-oficiali-impo.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Răzvan Nicolescu, expert și fost ministru al Energiei, îl contrazice pe Bogdan Aurescu: ”Zona Neptun Deep nu a făcut niciodată obiectul vreunei dispute cu un alt stat”",
+        "link": "https://www.g4media.ro/razvan-nicolescu-expert-si-fost-ministru-al-energiei-il-contrazice-pe-bogdan-aurescu-zona-neptun-deep-nu-a-facut-niciodata-obiectul-vreunei-dispute-cu-un-alt-stat.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Răzvan Nicolescu, expert și fost ministru al Energiei, îl contrazice pe Bogdan Aurescu: ”Zona Neptun Deep nu a făcut niciodată obiectul vreunei dispute cu un alt stat” / Aurescu a spus că e urmare a litigiului România – Ucraina de la Haga, dosar pe care el l-a condus",
+        "link": "https://www.g4media.ro/razvan-nicolescu-expert-si-fost-ministru-al-energiei-il-contrazice-pe-bogdan-aurescu-zona-neptun-deep-nu-a-facut-niciodata-obiectul-vreunei-dispute-cu-un-alt-stat-aurescu-a-spus.html"
+      }
+    ],
+    "published_at": 1794131627,
+    "title_hu": "Dispută între Bogdan Aurescu și Răzvan Nicolescu în chestiunea Neptun Deep / Aurescu susține că zona a fost tranșată între România și Ucraina, Nicolescu îl contrazice dur / ”Când oficiali importanți se trezesc vorbind prostii, cresc riscurile de securitate”",
+    "lead_hu": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în d…",
+    "content_hu": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în domeniu, în chestiunea Neptun Deep. Aurescu susține că zona a fost disputată între România și Ucraina, iar Nicolescu îl contrazice dur. ”Când oficiali importanți […] © G4Media.ro.",
+    "title_ro": "Dispută între Bogdan Aurescu și Răzvan Nicolescu în chestiunea Neptun Deep / Aurescu susține că zona a fost tranșată între România și Ucraina, Nicolescu îl contrazice dur / ”Când oficiali importanți se trezesc vorbind prostii, cresc riscurile de securitate”",
+    "lead_ro": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în d…",
+    "content_ro": "O dispută are loc de câteva zile între Bogdan Aurescu, fost ministru de Externe, în prezent judecător la Curtea Internațională de Justiție, și fostul ministru al Energiei Răzvan Nicolescu, expert în domeniu, în chestiunea Neptun Deep. Aurescu susține că zona a fost disputată între România și Ucraina, iar Nicolescu îl contrazice dur. ”Când oficiali importanți […] © G4Media.ro.",
     "importance_score": 33.0
   },
   {
@@ -3233,6 +3184,38 @@
     "title_ro": "De ce ți se oferă pâine și unt gratis la restaurant? Capcana pentru clienți",
     "lead_ro": "Dacă nu există prânz gratuit, de ce unele restaurante le oferă clienților pâine și uneori unt din partea casei? La prima vedere, pare că primești ceva fără să plătești nimic. În realitate, restaurante…",
     "content_ro": "Dacă nu există prânz gratuit, de ce unele restaurante le oferă clienților pâine și uneori unt din partea casei? La prima vedere, pare că primești ceva fără să plătești nimic. În realitate, restaurantele fac probabil acest lucru pentru că sunt de părere că le aduce beneficii, fie din punct de vedere financiar, fie în ceea […]",
+    "importance_score": 30.0
+  },
+  {
+    "group_id": "group_eb6e6ec845",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
+        "link": "https://www.g4media.ro/financial-times-serviciile-de-informatii-din-sua-avertizeaza-ca-directorul-nvidia-ar-fi-avut-o-relatie-amoroasa-cu-o-presupusa-spioana-a-chinei.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Scandal de spionaj la vârful Nvidia. Șeful companiei, Jensen Huang, ar fi avut o relație amoroasă cu o spioană chineză",
+        "link": "https://stirileprotv.ro/stiri/international/scandal-de-spionaj-la-varful-nvidia-seful-companiei-jensen-huang-ar-fi-avut-o-relatie-amoroasa-cu-o-spioana-chineza.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Șeful Nvidia, suspectat că a avut o relație cu o presupusă spioană chineză. Congresul american cere explicații",
+        "link": "https://adevarul.ro/stiri-externe/sua/seful-nvidia-suspectat-ca-a-avut-o-relatie-cu-o-2569869.html"
+      }
+    ],
+    "published_at": 1794072024,
+    "title_hu": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
+    "lead_hu": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup america…",
+    "content_hu": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup american, transmite Financial Times. Guvernul SUA consideră că directorul executiv al Nvidia, Jensen Huang, a avut o relație amoroasă cu o femeie de origine chineză […] © G4Media.ro.",
+    "title_ro": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
+    "lead_ro": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup america…",
+    "content_ro": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup american, transmite Financial Times. Guvernul SUA consideră că directorul executiv al Nvidia, Jensen Huang, a avut o relație amoroasă cu o femeie de origine chineză […] © G4Media.ro.",
     "importance_score": 30.0
   },
   {
@@ -4121,31 +4104,48 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_eb6e6ec845",
+    "group_id": "group_5a19f56fc2",
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "G4Media",
-        "title": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
-        "link": "https://www.g4media.ro/financial-times-serviciile-de-informatii-din-sua-avertizeaza-ca-directorul-nvidia-ar-fi-avut-o-relatie-amoroasa-cu-o-presupusa-spioana-a-chinei.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Scandal de spionaj la vârful Nvidia. Șeful companiei, Jensen Huang, ar fi avut o relație amoroasă cu o spioană chineză",
-        "link": "https://stirileprotv.ro/stiri/international/scandal-de-spionaj-la-varful-nvidia-seful-companiei-jensen-huang-ar-fi-avut-o-relatie-amoroasa-cu-o-spioana-chineza.html"
+        "source": "Maszol",
+        "title": "Jubileumot ünnepelt az RMPSZ középerdélyi régiója",
+        "link": "https://maszol.ro/belfold/Jubileumot-unnepelt-az-RMPSZ-kozeperdelyi-regioja"
       }
     ],
-    "published_at": 1794072024,
-    "title_hu": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
-    "lead_hu": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup america…",
-    "content_hu": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup american, transmite Financial Times. Guvernul SUA consideră că directorul executiv al Nvidia, Jensen Huang, a avut o relație amoroasă cu o femeie de origine chineză […] © G4Media.ro.",
-    "title_ro": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
-    "lead_ro": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup america…",
-    "content_ro": "Serviciile de informații americane au avertizat că șeful companiei de tehnologie ar fi fost implicat într-o relație cu o directoare recrutată de China pentru a obține informații despre un grup american, transmite Financial Times. Guvernul SUA consideră că directorul executiv al Nvidia, Jensen Huang, a avut o relație amoroasă cu o femeie de origine chineză […] © G4Media.ro.",
-    "importance_score": 20.0
+    "published_at": 1794153180,
+    "title_hu": "Jubileumot ünnepelt az RMPSZ középerdélyi régiója",
+    "lead_hu": "A jubileumi rendezvényen Kolozs, Szilágy, Fehér, Hunyad, Beszterce-Naszód és Szeben megye pedagógusai, valamint közéleti és oktatási intézmények képviselői idézték fel az elmúlt három és fél évtized e...",
+    "content_hu": "A jubileumi rendezvényen Kolozs, Szilágy, Fehér, Hunyad, Beszterce-Naszód és Szeben megye pedagógusai, valamint közéleti és oktatási intézmények képviselői idézték fel az elmúlt három és fél évtized eredményeit, az anyanyelvi oktatásért végzett közös munkát.",
+    "title_ro": "Jubileumot ünnepelt az RMPSZ középerdélyi régiója",
+    "lead_ro": "A jubileumi rendezvényen Kolozs, Szilágy, Fehér, Hunyad, Beszterce-Naszód és Szeben megye pedagógusai, valamint közéleti és oktatási intézmények képviselői idézték fel az elmúlt három és fél évtized e...",
+    "content_ro": "A jubileumi rendezvényen Kolozs, Szilágy, Fehér, Hunyad, Beszterce-Naszód és Szeben megye pedagógusai, valamint közéleti és oktatási intézmények képviselői idézték fel az elmúlt három és fél évtized eredményeit, az anyanyelvi oktatásért végzett közös munkát.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ee5b07e556",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ovidiu Herea l-a taxat pe Daniel Pancu: „Nu e în regulă!” + „El trebuie să facă asta, neapărat, în pauza de iarnă!”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/ovidiu-herea-daniel-pancu-rapid-997300.html"
+      }
+    ],
+    "published_at": 1794153128,
+    "title_hu": "Ovidiu Herea l-a taxat pe Daniel Pancu: „Nu e în regulă!” + „El trebuie să facă asta, neapărat, în pauza de iarnă!”",
+    "lead_hu": "Fost jucător al Rapidului în perioada 2007-2013, un fotbalist creativ, cu calitate, genul care „știe cu varza”, Ovidiu Herea (41 ani) este și el debusolat de ce se întâmplă la giuleșteni Spune că „nu-...",
+    "content_hu": "Fost jucător al Rapidului în perioada 2007-2013, un fotbalist creativ, cu calitate, genul care „știe cu varza”, Ovidiu Herea (41 ani) este și el debusolat de ce se întâmplă la giuleșteni Spune că „nu-mi explic de ce, în ultimii ani, lucrurile se tot repetă și echipa dă semne de slăbiciune în partidele importante, de ce are evoluții oscilante, meciuri cu o repriză bună și alta mai slabă”. ...",
+    "title_ro": "Ovidiu Herea l-a taxat pe Daniel Pancu: „Nu e în regulă!” + „El trebuie să facă asta, neapărat, în pauza de iarnă!”",
+    "lead_ro": "Fost jucător al Rapidului în perioada 2007-2013, un fotbalist creativ, cu calitate, genul care „știe cu varza”, Ovidiu Herea (41 ani) este și el debusolat de ce se întâmplă la giuleșteni Spune că „nu-...",
+    "content_ro": "Fost jucător al Rapidului în perioada 2007-2013, un fotbalist creativ, cu calitate, genul care „știe cu varza”, Ovidiu Herea (41 ani) este și el debusolat de ce se întâmplă la giuleșteni Spune că „nu-mi explic de ce, în ultimii ani, lucrurile se tot repetă și echipa dă semne de slăbiciune în partidele importante, de ce are evoluții oscilante, meciuri cu o repriză bună și alta mai slabă”. ...",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_61915c7229",
@@ -13938,70 +13938,63 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_b20bdd6cf2",
+    "group_id": "group_366dbf919e",
+    "fingerprint": "5a4f555f34e8350797f8fc7d9bcc5ea7",
     "category": "Általános",
-    "is_synthesized": false,
+    "is_synthesized": true,
+    "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 1,
+    "sources_count": 8,
     "sources": [
+      {
+        "source": "Digi24",
+        "title": "Poziția Europei privind războiul din Ucraina care riscă să o pună în conflict cu SUA: „Este vorba despre reconstrucția imperiului rus”",
+        "link": "https://www.digi24.ro/stiri/externe/pozitia-europei-privind-razboiul-din-ucraina-care-risca-sa-o-puna-in-conflict-cu-sua-este-vorba-despre-reconstructia-imperiului-rus-4026319"
+      },
+      {
+        "source": "Digi24",
+        "title": "Poziția Europei privind războiul din Ucraina care riscă să o pună în conflict cu SUA: „Este vorba despre reconstrucția imperiului rus”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/pozitia-europei-privind-razboiul-din-ucraina-care-risca-sa-o-puna-in-conflict-cu-sua-este-vorba-despre-reconstructia-imperiului-rus-4026319"
+      },
       {
         "source": "Mediafax",
-        "title": "Cinci state UE cer Bruxellesului să accelereze un acord energetic cu Marea Britanie. Miza: facturi mai mici la electricitate",
-        "link": "https://www.mediafax.ro/externe/cinci-state-ue-cer-bruxellesului-sa-accelereze-un-acord-energetic-cu-marea-britanie-miza-facturi-mai-mici-la-electricitate-23839382"
-      }
-    ],
-    "published_at": 1794067139,
-    "title_hu": "Cinci state UE cer Bruxellesului să accelereze un acord energetic cu Marea Britanie. Miza: facturi mai mici la electricitate",
-    "lead_hu": "Liderii a cinci state membre ale Uniunii Europene au solicitat Comisiei Europene să accelereze negocierile pentru reintegrarea Marii Britanii în piața internă europeană a energiei electrice.",
-    "content_hu": "Liderii a cinci state membre ale Uniunii Europene au solicitat Comisiei Europene să accelereze negocierile pentru reintegrarea Marii Britanii în piața internă europeană a energiei electrice.",
-    "title_ro": "Cinci state UE cer Bruxellesului să accelereze un acord energetic cu Marea Britanie. Miza: facturi mai mici la electricitate",
-    "lead_ro": "Liderii a cinci state membre ale Uniunii Europene au solicitat Comisiei Europene să accelereze negocierile pentru reintegrarea Marii Britanii în piața internă europeană a energiei electrice.",
-    "content_ro": "Liderii a cinci state membre ale Uniunii Europene au solicitat Comisiei Europene să accelereze negocierile pentru reintegrarea Marii Britanii în piața internă europeană a energiei electrice.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_63f03d0bb7",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "Rusia respinge participarea Europei la negocierile de pace pentru Ucraina și amenință trupele străine cu atacuri",
+        "link": "https://www.mediafax.ro/externe/rusia-respinge-participarea-europei-la-negocierile-de-pace-pentru-ucraina-si-ameninta-trupele-straine-cu-atacuri-23839670"
+      },
       {
-        "source": "Cancan.ro",
-        "title": "Test de perspicacitate | 3 diferențe în maximum 23 de secunde: Le puteți găsi pe toate?",
-        "link": "https://www.cancan.ro/test-de-perspicacitate-3-diferente-in-maximum-23-de-secunde-le-puteti-gasi-pe-toate-21543477"
-      }
-    ],
-    "published_at": 1794067046,
-    "title_hu": "Test de perspicacitate | 3 diferențe în maximum 23 de secunde: Le puteți găsi pe toate?",
-    "lead_hu": "Weekendul este momentul perfect pentru relaxare, însă asta nu înseamnă că trebuie să neglijăm antrenamentul minții! CANCAN.RO ți-a pregătit o nouă provocare de atenție și perspicacitate, care îți va p…",
-    "content_hu": "Weekendul este momentul perfect pentru relaxare, însă asta nu înseamnă că trebuie să neglijăm antrenamentul minții! CANCAN.RO ți-a pregătit o nouă provocare de atenție și perspicacitate, care îți va pune la încercare spiritul de observație. Privește cu atenție cele două imagini și încearcă să identifici toate cele trei diferențe în cel mult 23 de secunde. […]",
-    "title_ro": "Test de perspicacitate | 3 diferențe în maximum 23 de secunde: Le puteți găsi pe toate?",
-    "lead_ro": "Weekendul este momentul perfect pentru relaxare, însă asta nu înseamnă că trebuie să neglijăm antrenamentul minții! CANCAN.RO ți-a pregătit o nouă provocare de atenție și perspicacitate, care îți va p…",
-    "content_ro": "Weekendul este momentul perfect pentru relaxare, însă asta nu înseamnă că trebuie să neglijăm antrenamentul minții! CANCAN.RO ți-a pregătit o nouă provocare de atenție și perspicacitate, care îți va pune la încercare spiritul de observație. Privește cu atenție cele două imagini și încearcă să identifici toate cele trei diferențe în cel mult 23 de secunde. […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_cbf487d76a",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
+        "source": "Digi24",
+        "title": "Rusia spune că împărţirea zonelor de influenţă cu SUA şi China este mai importantă decât pacea în Ucraina. „Nu vrem o Ialta 2”",
+        "link": "https://www.digi24.ro/stiri/externe/rusia-spune-ca-impartirea-zonelor-de-influenta-cu-sua-si-china-este-mai-importanta-decat-pacea-in-ucraina-nu-vrem-o-ialta-2-4026713"
+      },
       {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Deziluzie pentru Daniel Bîrligea la prima titularizare din Serie A",
-        "link": "https://www.gsp.ro/international/campionate/live-cagliari-frosinone-etapa-11-serie-daniel-birligea-996829.html"
+        "source": "G4Media",
+        "title": "Politico: Rusia își consolidează delegația trimisă la Abu Dhabi / Zelenski avertizează că nu cunoaște propunerea integrală de pace și planul lui Trump e periculos pentru securitatea Ucrainei",
+        "link": "https://www.g4media.ro/politico-rusia-isi-consolideaza-delegatia-trimisa-la-abu-dhabi-zelenski-avertizeaza-ca-nu-cunoaste-propunerea-integrala-de-pace-si-planul-lui-trump-e-periculos-pentru-securitatea-ucrainei.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Atac masiv al Rusiei asupra Kievului / Zelenski: Rusia încearcă să ne împingă în beznă. Ucraina nu trebuie lăsată singură",
+        "link": "https://www.g4media.ro/atac-masiv-al-rusiei-asupra-kievului-zelenski-rusia-incearca-sa-ne-impinga-in-bezna-ucraina-nu-trebuie-lasata-singura.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Zelenski, după atacul masiv asupra Kievului: Rusia încearcă să arunce Ucraina în beznă. Apel către SUA pentru sprijin suplimentar",
+        "link": "https://www.mediafax.ro/externe/zelenski-dupa-atacul-masiv-asupra-kievului-rusia-incearca-sa-arunce-ucraina-in-bezna-apel-catre-sua-pentru-sprijin-suplimentar-23839202"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Rusia consideră împărțirea zonelor de influență cu SUA și China mai importantă decât pacea în #Ucraina",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/rusia-considera-impartirea-zonelor-de-influenta-cu-sua-si-china-mai-importanta-decat-pacea-in-ucrain--1611250"
       }
     ],
-    "published_at": 1794066850,
-    "title_hu": "Deziluzie pentru Daniel Bîrligea la prima titularizare din Serie A",
-    "lead_hu": "Daniel Bîrligea (26 de ani) a bifat prima titularizare în Serie A, în eșecul suferit de Frosinone pe terenul lui Cagliari, scor 0-1, în etapa a 11-a a campionatului Italiei. Atacantul român a fost unu…",
-    "content_hu": "Daniel Bîrligea (26 de ani) a bifat prima titularizare în Serie A, în eșecul suferit de Frosinone pe terenul lui Cagliari, scor 0-1, în etapa a 11-a a campionatului Italiei. Atacantul român a fost unul dintre cei mai activi jucători ai oaspeților, însă a irosit mai multe ocazii de gol. ...",
-    "title_ro": "Deziluzie pentru Daniel Bîrligea la prima titularizare din Serie A",
-    "lead_ro": "Daniel Bîrligea (26 de ani) a bifat prima titularizare în Serie A, în eșecul suferit de Frosinone pe terenul lui Cagliari, scor 0-1, în etapa a 11-a a campionatului Italiei. Atacantul român a fost unu…",
-    "content_ro": "Daniel Bîrligea (26 de ani) a bifat prima titularizare în Serie A, în eșecul suferit de Frosinone pe terenul lui Cagliari, scor 0-1, în etapa a 11-a a campionatului Italiei. Atacantul român a fost unul dintre cei mai activi jucători ai oaspeților, însă a irosit mai multe ocazii de gol. ...",
-    "importance_score": 0.0
+    "published_at": 1794143519,
+    "title_hu": "Béke vagy biztonsági alku: eltérő tervek Ukrajnáról",
+    "lead_hu": "Az ukrajnai háború lezárásáról és Európa biztonsági rendjéről eltérő sorrendben tárgyalna Washington és több európai kormány. Egy orosz parlamenti vezető szerint a nagyhatalmak közötti egyeztetés fontosabb lehet az ukrajnai tűzszüneti kísérleteknél.",
+    "content_hu": "• **Az éjszakai orosz támadás** Volodimir Zelenszkij szerint 172 drónnal és 36 ballisztikus rakétával érte Kijevet és további 12 régiót. A fővárosban lakóépületek, egy óvoda és az Északi híd is megrongálódott; az elnök kilenc sebesültről számolt be, a Reuters helyi adatok alapján egy halottról és nyolc sérültről írt.\n\n• **Az energetikai rendszer sérülései** Kijevben az áram-, víz- és fűtésellátást is megzavarták. A fővárosi térségben olyan alállomások rongálódtak meg, amelyek a rivnei és hmelnickiji atomerőműveket kötik össze Kijevvel és az ország középső részeivel; más megyékben szintén értek károk elektromos létesítményeket.\n\n• **Európa tárgyalási sorrendje** szerint Oroszországnak előbb be kell fejeznie az Ukrajna elleni háborút, és csak utána kerülhet napirendre a kontinens biztonsági rendje. Európai tisztviselők a NATO kelet-európai jelenlétét csökkentő orosz követeléseket elfogadhatatlannak tartják; érvelésük szerint a jelenlegi biztonsági keret Oroszország európai támadásainak megelőzését szolgálja, miközben Moszkva meglévő megállapodásokat is megsért.\n\n• **Washington más megközelítést képvisel:** a Trump-kormány az európai biztonsági kérdéseket az ukrajnai béketárgyalásokkal párhuzamosan venné elő. A Fehér Ház szóvivője, Anna Kelly a NATO kollektív védelmi szerepét, az európai szuverenitást és az egyes országok önálló biztonságpolitikai döntéseit emelte ki. Az orosz, ukrán és amerikai képviselők Abu-Dzabiban, a február óta tervezett tárgyalások folytatásaként találkozhatnak.\n\n• **Piotr Tolsztoj**, az orosz parlamenti külügyi bizottság új vezetője vasárnap azt mondta, hogy az Egyesült Államokkal és Kínával folytatott, globális biztonságot és befolyási övezeteket érintő egyeztetés fontosabb lehet az ukrajnai tűzszünetnél. Felvetette Vlagyimir Putyin, Donald Trump és Hszi Csin-ping találkozóját Sencsenben, az APEC november 18–19-i csúcsa idején; Dmitrij Peszkov szerint a felek még egyeztetik a napirendet. Tolsztoj kételkedett a Trump és Volodimir Zelenszkij közötti tárgyalási kezdeményezések eredményességében.",
+    "title_ro": "Pace sau acord de securitate: planuri diferite privind Ucraina",
+    "lead_ro": "Washingtonul și mai multe guverne europene nu sunt de acord asupra ordinii în care ar trebui abordate încheierea războiului din Ucraina și securitatea continentului. Un oficial parlamentar rus consideră că discuțiile dintre marile puteri ar putea conta mai mult decât încercările de obținere a unui armistițiu în Ucraina.",
+    "content_ro": "• **Atacul rusesc din timpul nopții** a vizat Kievul și alte 12 regiuni, potrivit lui Volodimir Zelenski, care a menționat 172 de drone și 36 de rachete balistice. În capitală au fost avariate clădiri de locuințe, o grădiniță și podul de Nord. Președintele a anunțat nouă răniți, iar Reuters, citând date locale, a relatat despre un mort și opt persoane rănite.\n\n• **Avariile infrastructurii energetice** au afectat la Kiev alimentarea cu electricitate, apă și căldură. În zona capitalei au fost lovite stații electrice care leagă centralele nucleare de la Rivne și Hmelnițki de Kiev și de regiunile centrale. Au fost raportate pagube și la instalații electrice din alte regiuni.\n\n• **Poziția mai multor guverne europene** este ca Rusia să oprească mai întâi războiul împotriva Ucrainei, înaintea discuțiilor despre ordinea de securitate a continentului. Oficialii europeni resping cererile Moscovei care ar reduce prezența NATO în estul Europei. Ei susțin că actualul cadru de securitate are rolul de a descuraja atacurile rusești asupra Europei și invocă încălcarea de către Moscova a unor acorduri existente.\n\n• **Administrația Trump propune un calendar diferit**, cu discutarea securității europene în paralel cu negocierile pentru pace în Ucraina. Purtătoarea de cuvânt a Casei Albe, Anna Kelly, a evidențiat rolul NATO în apărarea colectivă, suveranitatea Europei și dreptul fiecărui stat de a-și decide politica de securitate. Reprezentanți ruși, ucraineni și americani ar urma să se întâlnească la Abu Dhabi, reluând discuțiile planificate după ultima rundă din februarie.\n\n• **Piotr Tolstoi**, noul șef al comisiei pentru afaceri internaționale din parlamentul rus, a declarat duminică că dialogul dintre Rusia, SUA și China privind securitatea globală și sferele de influență ar putea fi mai important decât un armistițiu în Ucraina. El a avansat posibilitatea unei întâlniri între Vladimir Putin, Donald Trump și Xi Jinping la Shenzhen, în timpul summitului APEC din 18–19 noiembrie. Dmitri Peskov a spus că statele încă negociază agenda, iar Tolstoi și-a exprimat neîncrederea în demersurile lui Trump de a purta discuții cu Volodimir Zelenski.",
+    "importance_score": 105.0
   },
   {
     "group_id": "group_fceb70e122",
