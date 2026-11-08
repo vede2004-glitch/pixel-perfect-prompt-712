@@ -6,7 +6,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 55,
+    "sources_count": 56,
     "sources": [
       {
         "source": "Adevărul",
@@ -282,6 +282,11 @@
         "source": "ProTV Stiri",
         "title": "Primele informații despre atacatorul din Cracovia care a ucis 6 oameni și a rănit alți 16. Polonia a decretat două zile de doliu",
         "link": "https://stirileprotv.ro/stiri/international/primele-informatii-despre-atacatorul-din-cracovia-care-a-ucis-6-oameni-si-a-ranit-alti-16-polonia-a-decretat-doua-zile-de-doliu.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Tot ce știm despre ce s-a întâmplat în Cracovia. Filmul atacului, moment cu moment",
+        "link": "https://hotnews.ro/tot-ce-stim-despre-ce-s-a-intamplat-in-cracovia-filmul-atacului-moment-cu-moment-2398117"
       }
     ],
     "published_at": 1794119972,
@@ -291,7 +296,7 @@
     "title_ro": "Șase morți și 15 răniți în atacul armat din Cracovia",
     "lead_ro": "Atacul din 7 noiembrie, de la Cracovia, s-a soldat cu șase morți și 15 răniți. Autoritățile îl consideră pe suspectul polonez de 25 de ani singurul autor și continuă să stabilească motivul, inclusiv posibila influență a ideilor de extremă dreaptă.",
     "content_ro": "• **Pe 7 noiembrie, în jurul orei 15:00**, un bărbat a tras dintr-o mașină asupra trecătorilor din Piața Principală a Cracoviei. Bilanțul final a fost de șase morți și 15 răniți; primele relatări indicau mai puține victime și 16 persoane transportate la spital.\n\n• **Printre persoanele ucise** se numără trei femei poloneze și un cetățean britanic; identitatea altor două victime nu fusese stabilită la momentul anunțului. Cinci dintre răniți sunt străini, iar doi polițiști au fost, de asemenea, răniți.\n\n• **Suspectul este un polonez de 25 de ani**, despre care poliția afirmă că a acționat singur. Acesta a fost împușcat și reținut. Purta haine cu aspect militar, iar în mașină au fost găsite mai multe arme și muniție. Unele relatări au indicat un AR-15, în timp ce informații de presă ulterioare au menționat un HK416.\n\n• **Motivul atacului este încă investigat:** ministrul polonez de Interne a spus că primele indicii pot semnala influența ideilor de extremă dreaptă, însă autoritățile nu au confirmat legătura cu o organizație teroristă. În locuința suspectului au fost găsite trei cadavre, despre care se crede că aparțin unor rude apropiate. Mașina îi aparținea tatălui său, autorizat să dețină 11 arme de foc.\n\n• **Polonia a decretat doliu național pentru 8 și 9 noiembrie.** Liderii români au transmis condoleanțe și solidaritate; MAE a precizat că nu sunt confirmați cetățeni români printre victime și nu au fost cerute servicii consulare. Bucureștiul este pregătit să sprijine Polonia, dacă autoritățile solicită acest lucru.",
-    "importance_score": 565.0
+    "importance_score": 575.0
   },
   {
     "group_id": "group_eab04ddcc1",
@@ -3327,6 +3332,50 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_d3133c41f0",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Lionel Messi, o nouă pagină de istorie: primul fotbalist care reușește această performanță",
+        "link": "https://www.gsp.ro/international/campionate/lionel-messi-primul-fotbalist-doua-ghete-de-aur-mls-997201.html"
+      }
+    ],
+    "published_at": 1794123129,
+    "title_hu": "Lionel Messi, o nouă pagină de istorie: primul fotbalist care reușește această performanță",
+    "lead_hu": "Lionel Messi (39 de ani), superstarul lui Inter Miami, a cucerit „Gheata de Aur” din MLS pentru sezonul 2026, după ce a încheiat sezonul regulat 26 de goluri marcate. Prin această performanță, argenti...",
+    "content_hu": "Lionel Messi (39 de ani), superstarul lui Inter Miami, a cucerit „Gheata de Aur” din MLS pentru sezonul 2026, după ce a încheiat sezonul regulat 26 de goluri marcate. Prin această performanță, argentinianul a devenit primul fotbalist din istorie care își adjudecă prestigiosul trofeu de golgheter în doi ani consecutivi, potrivit mlssoccer.com. ...",
+    "title_ro": "Lionel Messi, o nouă pagină de istorie: primul fotbalist care reușește această performanță",
+    "lead_ro": "Lionel Messi (39 de ani), superstarul lui Inter Miami, a cucerit „Gheata de Aur” din MLS pentru sezonul 2026, după ce a încheiat sezonul regulat 26 de goluri marcate. Prin această performanță, argenti...",
+    "content_ro": "Lionel Messi (39 de ani), superstarul lui Inter Miami, a cucerit „Gheata de Aur” din MLS pentru sezonul 2026, după ce a încheiat sezonul regulat 26 de goluri marcate. Prin această performanță, argentinianul a devenit primul fotbalist din istorie care își adjudecă prestigiosul trofeu de golgheter în doi ani consecutivi, potrivit mlssoccer.com. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_15899c21c1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Patru persoane, puse sub acuzare în Franța pentru furturi din muzee. Ancheta vizează bunuri culturale de peste 4,6 milioane de euro",
+        "link": "https://www.mediafax.ro/externe/patru-persoane-puse-sub-acuzare-in-franta-pentru-furturi-din-muzee-ancheta-vizeaza-bunuri-culturale-de-peste-46-milioane-de-euro-23839614"
+      }
+    ],
+    "published_at": 1794122986,
+    "title_hu": "Patru persoane, puse sub acuzare în Franța pentru furturi din muzee. Ancheta vizează bunuri culturale de peste 4,6 milioane de euro",
+    "lead_hu": "Patru persoane au fost puse sub acuzare în Franța în cadrul unei anchete privind două furturi comise în luna iulie la Muzeul Lalique, din departamentul Bas-Rhin, și la centrul arheologic din Montans, ...",
+    "content_hu": "Patru persoane au fost puse sub acuzare în Franța în cadrul unei anchete privind două furturi comise în luna iulie la Muzeul Lalique, din departamentul Bas-Rhin, și la centrul arheologic din Montans, departamentul Tarn.",
+    "title_ro": "Patru persoane, puse sub acuzare în Franța pentru furturi din muzee. Ancheta vizează bunuri culturale de peste 4,6 milioane de euro",
+    "lead_ro": "Patru persoane au fost puse sub acuzare în Franța în cadrul unei anchete privind două furturi comise în luna iulie la Muzeul Lalique, din departamentul Bas-Rhin, și la centrul arheologic din Montans, ...",
+    "content_ro": "Patru persoane au fost puse sub acuzare în Franța în cadrul unei anchete privind două furturi comise în luna iulie la Muzeul Lalique, din departamentul Bas-Rhin, și la centrul arheologic din Montans, departamentul Tarn.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_6e2c153f72",
     "category": "Általános",
     "is_synthesized": false,
@@ -3390,28 +3439,6 @@
     "title_ro": "S-a oprit să îl pupe pe Florin Maxim la interviu, apoi a anunțat disponibilitatea de a-l ajuta pe Becali: „Ăsta e talentul meu”",
     "lead_ro": "Agentul de jucători Bogdan Apostu, apropiat al clubului Corvinul Hunedoara, a fost sâmbătă seara pe Arena Națională, acolo unde nou-promovata lui Florin Maxim a produs surpriza și s-a impus cu 1-0 în ...",
     "content_ro": "Agentul de jucători Bogdan Apostu, apropiat al clubului Corvinul Hunedoara, a fost sâmbătă seara pe Arena Națională, acolo unde nou-promovata lui Florin Maxim a produs surpriza și s-a impus cu 1-0 în fața celor de la FCSB, în ultima etapă din turul sezonului regulat. După meci, Apostu a analizat succesul mare de la București. Apoi, Florin Maxim a venit și el la zona mixtă, pentru a trage concluziile unei partide în care echipa lui și-a pus trei puncte în cont. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_3782e4302d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Până la 450.000 de oameni ar fi murit luptând de partea Rusiei în Ucraina, potrivit unor date obținute de hackeri",
-        "link": "https://adevarul.ro/stiri-externe/rusia/pana-la-450000-de-oameni-ar-fi-murit-luptand-de-2569763.html"
-      }
-    ],
-    "published_at": 1794122679,
-    "title_hu": "Până la 450.000 de oameni ar fi murit luptând de partea Rusiei în Ucraina, potrivit unor date obținute de hackeri",
-    "lead_hu": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri...",
-    "content_hu": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri care au revendicat un atac cibernetic asupra Serviciului Federal de Statistică al Rusiei (Rosstat).",
-    "title_ro": "Până la 450.000 de oameni ar fi murit luptând de partea Rusiei în Ucraina, potrivit unor date obținute de hackeri",
-    "lead_ro": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri...",
-    "content_ro": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri care au revendicat un atac cibernetic asupra Serviciului Federal de Statistică al Rusiei (Rosstat).",
     "importance_score": 0.0
   },
   {
@@ -14283,138 +14310,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_d574fa3d73",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Digitális platformon készítik elő Románia 2027-es állami költségvetését",
-        "link": "https://www.mediatica.ro/hirek/politika/digitalis-platformon-keszitik-elo-romania-2027-es-allami-koltsegveteset"
-      }
-    ],
-    "published_at": 1794036935,
-    "title_hu": "Digitális platformon készítik elő Románia 2027-es állami költségvetését",
-    "lead_hu": "A folyamat első alkalommal az uniós helyreállítási alapból fejlesztett e-Buget digitális platformon is zajlik.",
-    "content_hu": "A folyamat első alkalommal az uniós helyreállítási alapból fejlesztett e-Buget digitális platformon is zajlik.",
-    "title_ro": "Digitális platformon készítik elő Románia 2027-es állami költségvetését",
-    "lead_ro": "A folyamat első alkalommal az uniós helyreállítási alapból fejlesztett e-Buget digitális platformon is zajlik.",
-    "content_ro": "A folyamat első alkalommal az uniós helyreállítási alapból fejlesztett e-Buget digitális platformon is zajlik.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_83330e1f6d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Tragedie pe șantierul Autostrăzii Transilvania. Un muncitor de 50 de ani a murit, după ce i s-a făcut rău",
-        "link": "https://adevarul.ro/stiri-locale/oradea/tragedie-pe-santierul-autostrazii-transilvania-un-2569630.html"
-      }
-    ],
-    "published_at": 1794036897,
-    "title_hu": "Tragedie pe șantierul Autostrăzii Transilvania. Un muncitor de 50 de ani a murit, după ce i s-a făcut rău",
-    "lead_hu": "Un muncitor în vârstă de 50 de ani a murit vineri, 6 noiembrie, pe șantierul Autostrăzii Transilvania, în zona localității Chiribiș, județul Bihor.",
-    "content_hu": "Un muncitor în vârstă de 50 de ani a murit vineri, 6 noiembrie, pe șantierul Autostrăzii Transilvania, în zona localității Chiribiș, județul Bihor.",
-    "title_ro": "Tragedie pe șantierul Autostrăzii Transilvania. Un muncitor de 50 de ani a murit, după ce i s-a făcut rău",
-    "lead_ro": "Un muncitor în vârstă de 50 de ani a murit vineri, 6 noiembrie, pe șantierul Autostrăzii Transilvania, în zona localității Chiribiș, județul Bihor.",
-    "content_ro": "Un muncitor în vârstă de 50 de ani a murit vineri, 6 noiembrie, pe șantierul Autostrăzii Transilvania, în zona localității Chiribiș, județul Bihor.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6e5aafe4b1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Germania se pregătește să aibă o femeie președinte federal. CDU cedează pentru prima dată cea mai înaltă funcție partidului CSU",
-        "link": "https://www.digi24.ro/stiri/externe/germania-se-pregateste-sa-aiba-o-femeie-presedinte-federal-cdu-cedeaza-pentru-prima-data-cea-mai-inalta-functie-partidului-csu-4025889"
-      }
-    ],
-    "published_at": 1794036839,
-    "title_hu": "Germania se pregătește să aibă o femeie președinte federal. CDU cedează pentru prima dată cea mai înaltă funcție partidului CSU",
-    "lead_hu": "Germania se pregătește să aibă o femeie președinte federal. CDU, sub cancelarul Friedrich Merz, cedează pentru prima dată cea mai înaltă funcție partidului CSU, mai mic. Cu bavareza Ilse Aigner, este …",
-    "content_hu": "Germania se pregătește să aibă o femeie președinte federal. CDU, sub cancelarul Friedrich Merz, cedează pentru prima dată cea mai înaltă funcție partidului CSU, mai mic. Cu bavareza Ilse Aigner, este probabil să se impună un nou stil, comentează rnd.de.",
-    "title_ro": "Germania se pregătește să aibă o femeie președinte federal. CDU cedează pentru prima dată cea mai înaltă funcție partidului CSU",
-    "lead_ro": "Germania se pregătește să aibă o femeie președinte federal. CDU, sub cancelarul Friedrich Merz, cedează pentru prima dată cea mai înaltă funcție partidului CSU, mai mic. Cu bavareza Ilse Aigner, este …",
-    "content_ro": "Germania se pregătește să aibă o femeie președinte federal. CDU, sub cancelarul Friedrich Merz, cedează pentru prima dată cea mai înaltă funcție partidului CSU, mai mic. Cu bavareza Ilse Aigner, este probabil să se impună un nou stil, comentează rnd.de.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c69a84f0d7",
-    "category": "Gazdaság",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Eltörlik a vállalatok árbevételére kivetett minimális adót januártól",
-        "link": "https://www.mediatica.ro/hirek/politika/eltorlik-a-vallalatok-arbevetelere-kivetett-minimalis-adot-januartol"
-      }
-    ],
-    "published_at": 1794036759,
-    "title_hu": "Eltörlik a vállalatok árbevételére kivetett minimális adót januártól",
-    "lead_hu": "Az intézkedés célja a cégek támogatása és a beruházások ösztönzése.",
-    "content_hu": "Az intézkedés célja a cégek támogatása és a beruházások ösztönzése.",
-    "title_ro": "Eltörlik a vállalatok árbevételére kivetett minimális adót januártól",
-    "lead_ro": "Az intézkedés célja a cégek támogatása és a beruházások ösztönzése.",
-    "content_ro": "Az intézkedés célja a cégek támogatása és a beruházások ösztönzése.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_8835a54dd2",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Referendum duminică la Rășinari, o comună de circa 5000 de locuitori din Mărginimea Sibiului / Miza: un proiect de 100 de milioane de euro / O companie românească vrea să deschidă o mină de magneziu",
-        "link": "https://www.g4media.ro/referendum-duminica-la-rasinari-o-comuna-de-circa-5000-de-locuitori-din-marginimea-sibiului-miza-un-proiect-de-100-de-milioane-de-euro-o-companie-romaneasca-vrea-sa-deschida-o-mina-de-magneziu.html"
-      }
-    ],
-    "published_at": 1794036698,
-    "title_hu": "Referendum duminică la Rășinari, o comună de circa 5000 de locuitori din Mărginimea Nagyszebenlui / Miza: un proiect de 100 de milioane de euro / O companie românească vrea să deschidă o mină de magneziu",
-    "lead_hu": "Alegătorii din comuna Rășinari, o localitate de circa 5000 de locuitori din Mărginimea Nagyszebenlui, sunt așteptați, duminică, 8 noiembrie 2026, la urne, pentru a se pronunța prin referendum în legăt…",
-    "content_hu": "Alegătorii din comuna Rășinari, o localitate de circa 5000 de locuitori din Mărginimea Nagyszebenlui, sunt așteptați, duminică, 8 noiembrie 2026, la urne, pentru a se pronunța prin referendum în legătură cu realizarea de exploatări miniere în localitate. Consultarea populară a fost inițiată în legătură cu proiectul de 100 de milioane de euro al companiei românești […] © G4Media.ro.",
-    "title_ro": "Referendum duminică la Rășinari, o comună de circa 5000 de locuitori din Mărginimea Sibiului / Miza: un proiect de 100 de milioane de euro / O companie românească vrea să deschidă o mină de magneziu",
-    "lead_ro": "Alegătorii din comuna Rășinari, o localitate de circa 5000 de locuitori din Mărginimea Nagyszebenlui, sunt așteptați, duminică, 8 noiembrie 2026, la urne, pentru a se pronunța prin referendum în legăt…",
-    "content_ro": "Alegătorii din comuna Rășinari, o localitate de circa 5000 de locuitori din Mărginimea Nagyszebenlui, sunt așteptați, duminică, 8 noiembrie 2026, la urne, pentru a se pronunța prin referendum în legătură cu realizarea de exploatări miniere în localitate. Consultarea populară a fost inițiată în legătură cu proiectul de 100 de milioane de euro al companiei românești […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_0e1934b609",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "De ce pun italienii folie de aluminiu în mașina de spălat vase. Trucul are o explicație chimică",
-        "link": "https://www.mediafax.ro/life-inedit/de-ce-pun-italienii-folie-de-aluminiu-in-masina-de-spalat-vase-trucul-are-o-explicatie-chimica-23839150"
-      }
-    ],
-    "published_at": 1794036685,
-    "title_hu": "De ce pun italienii folie de aluminiu în mașina de spălat vase. Trucul are o explicație chimică",
-    "lead_hu": "O bilă de folie de aluminiu pusă în mașina de spălat vase, lângă tacâmuri, poate ajuta la redarea strălucirii argintului înnegrit. Trucul pare desprins din seria soluțiilor casnice de pe internet, dar…",
-    "content_hu": "O bilă de folie de aluminiu pusă în mașina de spălat vase, lângă tacâmuri, poate ajuta la redarea strălucirii argintului înnegrit. Trucul pare desprins din seria soluțiilor casnice de pe internet, dar are la bază o reacție chimică reală.",
-    "title_ro": "De ce pun italienii folie de aluminiu în mașina de spălat vase. Trucul are o explicație chimică",
-    "lead_ro": "O bilă de folie de aluminiu pusă în mașina de spălat vase, lângă tacâmuri, poate ajuta la redarea strălucirii argintului înnegrit. Trucul pare desprins din seria soluțiilor casnice de pe internet, dar…",
-    "content_ro": "O bilă de folie de aluminiu pusă în mașina de spălat vase, lângă tacâmuri, poate ajuta la redarea strălucirii argintului înnegrit. Trucul pare desprins din seria soluțiilor casnice de pe internet, dar are la bază o reacție chimică reală.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_bb7b18126d",
     "fingerprint": "a67b4cd1f53ddaffedde5f7f006e5fb9",
     "category": "Általános",
@@ -14578,6 +14473,33 @@
     "lead_ro": "Potrivit lui Volodimir Zelenski, Rusia a lansat 172 de drone și 36 de rachete balistice asupra Kievului și a regiunii capitalei. Loviturile au afectat infrastructura energetică și au provocat probleme de alimentare, iar înaintea negocierilor se conturează diferențe între Europa și Statele Unite privind abordarea securității continentului.",
     "content_ro": "• **Atacul din timpul nopții** a implicat, potrivit lui Volodimir Zelenski, 172 de drone și 36 de rachete balistice, acestea din urmă fiind îndreptate spre Kiev și regiunea capitalei. Alte 12 regiuni ale Ucrainei au fost, de asemenea, vizate.\n\n• **Infrastructura energetică** a suferit avarii, iar în Kiev au apărut dificultăți la furnizarea electricității, apei și căldurii. În regiunea capitalei au fost lovite stații care leagă centralele nucleare de la Rivne și Hmelnițki de zonele centrale; au fost raportate pagube și la instalații electrice din alte regiuni.\n\n• **În capitală**, au fost avariate locuințe, Podul de Nord peste Nipru și o grădiniță, afectată parțial. Zelenski a anunțat nouă răniți, între care un copil; Reuters, citând autorități locale, a relatat despre un mort și opt răniți.\n\n• **Poziția europeană** este ca Rusia să încheie mai întâi războiul împotriva Ucrainei, înainte ca revendicările Kremlinului privind securitatea continentului să fie discutate. Oficialii europeni continuă să respingă cererile formulate de Moscova înainte de război, care ar limita prezența NATO în estul Europei.\n\n• **Negocierile viitoare** ar putea accentua diferențele cu administrația Trump, care dorește ca arhitectura de securitate europeană să fie discutată în paralel cu celelalte teme ale tratativelor. Reprezentanți ai Rusiei, Ucrainei și SUA ar urma să se întâlnească la Abu Dhabi săptămâna viitoare, reluând discuțiile pentru prima dată din februarie. Purtătoarea de cuvânt a Casei Albe a susținut respectarea suveranității europene, rolul NATO în apărarea colectivă și dreptul fiecărui stat de a-și stabili propria politică de securitate.",
     "importance_score": 40.0
+  },
+  {
+    "group_id": "group_3782e4302d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Până la 450.000 de oameni ar fi murit luptând de partea Rusiei în Ucraina, potrivit unor date obținute de hackeri",
+        "link": "https://adevarul.ro/stiri-externe/rusia/pana-la-450000-de-oameni-ar-fi-murit-luptand-de-2569763.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O scurgere masivă de date ar putea dezvălui pierderile Rusiei. Hackerii estimează până la 450.000 de morți în război",
+        "link": "https://stirileprotv.ro/stiri/international/o-scurgere-masiva-de-date-ar-putea-dezvalui-pierderile-rusiei-hackerii-estimeaza-pana-la-450-000-de-morti-in-razboi.html"
+      }
+    ],
+    "published_at": 1794122679,
+    "title_hu": "Până la 450.000 de oameni ar fi murit luptând de partea Rusiei în Ucraina, potrivit unor date obținute de hackeri",
+    "lead_hu": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri...",
+    "content_hu": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri care au revendicat un atac cibernetic asupra Serviciului Federal de Statistică al Rusiei (Rosstat).",
+    "title_ro": "Până la 450.000 de oameni ar fi murit luptând de partea Rusiei în Ucraina, potrivit unor date obținute de hackeri",
+    "lead_ro": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri...",
+    "content_ro": "Între 394.000 și 450.000 de persoane implicate în războiul din Ucraina de partea Rusiei ar fi murit de la începutul invaziei pe scară largă, potrivit unor documente obținute de două grupări de hackeri care au revendicat un atac cibernetic asupra Serviciului Federal de Statistică al Rusiei (Rosstat).",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_131de0eeba",
