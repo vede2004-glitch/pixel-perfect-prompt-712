@@ -340,7 +340,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 11,
+    "sources_count": 12,
     "sources": [
       {
         "source": "Digi24",
@@ -396,6 +396,11 @@
         "source": "Mediafax",
         "title": "Criza politică din Israel, explicată. De ce Netanyahu poate rămâne premier chiar dacă majoritatea parlamentarilor îl susțin pe rivalul său",
         "link": "https://www.mediafax.ro/externe/criza-politica-din-israel-explicata-de-ce-netanyahu-poate-ramane-premier-chiar-daca-majoritatea-parlamentarilor-il-sustin-pe-rivalul-sau-23839347"
+      },
+      {
+        "source": "Digi24",
+        "title": "Oficial: Gadi Eisenkot a primit mandatul de a forma următorul guvern israelian. „Trecem printr-una dintre cele mai critice perioade”",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/oficial-gadi-eisenkot-a-primit-mandatul-de-a-forma-urmatorul-guvern-israelian-trecem-printr-una-dintre-cele-mai-critice-perioade-4026905"
       }
     ],
     "published_at": 1794153481,
@@ -405,7 +410,7 @@
     "title_ro": "Eisenkot primește primul mandat pentru formarea guvernului, dar coaliția rămâne incertă",
     "lead_ro": "Președintele Isaac Herzog l-a desemnat pe Gadi Eisenkot să încerce primul formarea unui guvern israelian: 67 de parlamentari l-au recomandat, față de 46 care l-au susținut pe Benjamin Netanyahu. În cele 28 de zile de negocieri, Eisenkot trebuie să găsească parteneri și să ajungă la un acord inclusiv asupra componenței coaliției și a serviciului obligatoriu.",
     "content_ro": "• **Alegerile din 27 octombrie** au adus Likudului 27 de mandate, cele mai multe dintre partide, însă tabăra lui Netanyahu a ajuns la numai 53 de locuri în Knessetul cu 120 de membri. Yashar, partidul condus de Eisenkot, are 21 de mandate, iar blocul său de opoziție numără 48; niciuna dintre tabere nu deține singură majoritatea.\n\n• **Cele 67 de recomandări nu formează automat o coaliție:** tot atâția parlamentari l-au indicat pe Eisenkot pentru formarea guvernului, Netanyahu a primit 46 de susțineri, iar șapte deputați nu au recomandat pe nimeni. Cele două partide arabe, cu 19 mandate împreună, au sprijinit desemnarea lui Eisenkot, însă Avigdor Liberman respinge un cabinet care s-ar baza pe voturile parlamentarilor arabi.\n\n• **Duminică, 8 noiembrie, la ora 17:00** este programată înmânarea mandatului la Reședința Prezidențială din Ierusalim. Eisenkot va avea 28 de zile pentru negocieri, iar Herzog poate adăuga cel mult 14 zile; executivul rezultat trebuie să obțină și votul de încredere al parlamentului.\n\n• **Negocierile cu formațiunile religioase** pot decide dacă se conturează o majoritate. Iudaismul Unit al Torei are șapte mandate și nu l-a recomandat pe Netanyahu; sprijinul celor două partide ultraortodoxe ar putea duce tabăra lui Eisenkot la 61 de voturi. Aceste formațiuni vor să păstreze scutirile de la serviciul militar pentru studenții religioși, în timp ce Eisenkot a promis serviciu militar sau civil obligatoriu pentru toți.\n\n• **Parcursul lui Eisenkot** ar putea face din el primul premier israelian cu origini mizrahi, nord-africane. Născut la Tiberias în 1960 din părinți evrei veniți din Maroc, el a copilărit ulterior la Eilat; s-a înrolat în Brigada Golani în 1978, a condus forțe din Cisiordania și Comandamentul de Nord, iar între 2015 și 2019 a fost șeful Statului Major al armatei israeliene.",
-    "importance_score": 135.0
+    "importance_score": 145.0
   },
   {
     "group_id": "group_f4ca9bb955",
@@ -1547,45 +1552,6 @@
     "importance_score": 55.0
   },
   {
-    "group_id": "group_0c578ceeb4",
-    "fingerprint": "34b725659bfd20a8bfe794aeab08229b",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Atac rusesc asupra infrastructurii energetice din Ucraina. Peste 600.000 de oameni au rămas fără electricitate",
-        "link": "https://stirileprotv.ro/stiri/international/atac-rusesc-asupra-infrastructurii-energetice-din-ucraina-peste-600-000-de-oameni-au-ramas-fara-electricitate.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Atacuri rusești lasă 850.000 de persoane fără curent electric în estul Ucrainei",
-        "link": "https://agerpres.ro/politic-extern/2026/11/08/atacuri-rusesti-lasa-850-000-de-persoane-fara-curent-electric-in-estul-ucrainei--1611218"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Rusia lovește fără oprire infrastructura energetică a Ucrainei. Probleme mari în două regiuni după noile atacuri",
-        "link": "https://hotnews.ro/rusia-loveste-fara-oprirea-infrastructura-energetica-a-ucrainei-probleme-mari-in-doua-regiuni-dupa-noile-atacuri-2398251"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Atacurile Rusiei au lăsat peste 850.000 de persoane fără electricitate în Ucraina. Zelenski anunță amploarea bombardamentelor din ultima săptămână",
-        "link": "https://adevarul.ro/stiri-externe/europa/atacurile-rusiei-au-lasat-peste-850000-de-2569847.html"
-      }
-    ],
-    "published_at": 1794144201,
-    "title_hu": "Több mint 850 ezer fogyasztó maradt áram nélkül az ukrajnai támadások után",
-    "lead_hu": "Az éjszakai orosz csapások Dnyipropetrovszk és Harkiv megye energetikai hálózatát érték, a kiesés több mint 850 ezer fogyasztót érintett. Volodimir Zelenszkij szerint Oroszország az elmúlt héten több mint 115 rakétát, közel 1900 irányított bombát és 3000-nél is több drónt vetett be.",
-    "content_hu": "• **Vasárnap közzétett adatok szerint** az éjszakai támadások Dnyipropetrovszk és Harkiv megyében összesen több mint 850 ezer fogyasztónál okoztak áramszünetet. A DTEK szerint a Dnyipropetrovszk megyei energetikai létesítményekben jelentős károk keletkeztek.\n\n• **Dnyipropetrovszk megyében** 600 ezernél is több fogyasztó maradt villamos energia nélkül. A szolgáltató közlése szerint a helyreállítást nehezíti, hogy az energetikai infrastruktúrát ismételt támadások érik.\n\n• **Harkiv megyében** közel 250 ezer fogyasztónál szünetelt az áramszolgáltatás, miután egy orosz drón eltalált egy kritikus létesítményt. Mikola Baksejev, Zlatopil polgármestere szerint megkezdték a javításokat.\n\n• **Az elmúlt heti támadásokról** Zelenszkij azt közölte, hogy Oroszország 115 rakétát, csaknem 1900 irányított légibombát és több mint 3000 drónt használt ukrajnai célpontok ellen. A szombatra virradó éjjel öt régió energetikai létesítményeit érte támadás; a szombati csapásokban legalább kilencen megsérültek.\n\n• **A diplomáciai egyeztetés** következő fordulóján orosz, ukrán és amerikai tárgyalók kedden Abu-Dzabiban találkozhatnak. Ez a Trump-adminisztráció közvetítésével zajló megbeszélések negyedik köre lehet, a legutóbbi, februári genfi találkozó után; a területi és biztonsági kérdések továbbra sincsenek rendezve.",
-    "title_ro": "Peste 850.000 de consumatori au rămas fără electricitate după atacurile din Ucraina",
-    "lead_ro": "Atacurile nocturne rusești au avariat infrastructura energetică din regiunile Dnipropetrovsk și Harkiv, lăsând fără curent peste 850.000 de consumatori. Volodimir Zelenski a afirmat că, în ultima săptămână, Rusia a folosit peste 115 rachete, aproape 1.900 de bombe ghidate și mai mult de 3.000 de drone.",
-    "content_ro": "• **Potrivit datelor anunțate duminică**, loviturile din timpul nopții au provocat întreruperi de curent pentru peste 850.000 de consumatori din regiunile Dnipropetrovsk și Harkiv. DTEK a informat că instalații energetice importante din Dnipropetrovsk au fost avariate.\n\n• **În regiunea Dnipropetrovsk**, peste 600.000 de consumatori au rămas fără electricitate. Furnizorul a precizat că intervențiile pentru refacerea rețelei sunt îngreunate de atacurile repetate asupra infrastructurii energetice.\n\n• **În regiunea Harkiv**, întreruperile au afectat aproape 250.000 de consumatori după ce o dronă rusească a lovit o instalație critică. Mikola Bakșeiev, primarul orașului Zlatopil, a anunțat că au început lucrările de reparație.\n\n• **Despre atacurile din ultima săptămână**, Zelenski a spus că Rusia a lansat 115 rachete, aproape 1.900 de bombe aeriene ghidate și peste 3.000 de drone asupra unor ținte din Ucraina. În noaptea de vineri spre sâmbătă au fost vizate obiective energetice din cinci regiuni, iar loviturile de sâmbătă au rănit cel puțin nouă persoane.\n\n• **Următoarea rundă de negocieri** ar putea avea loc marți, la Abu Dhabi, cu participarea reprezentanților Rusiei, Ucrainei și Statelor Unite. Ar fi a patra întâlnire mediată de administrația Trump, după reuniunea de la Geneva din februarie; disputele teritoriale și chestiunile de securitate rămân nerezolvate.",
-    "importance_score": 55.0
-  },
-  {
     "group_id": "group_2168e53a50",
     "fingerprint": "3f29e7d4a7adbd0452477d3697f166ad",
     "category": "Általános",
@@ -1662,6 +1628,45 @@
     "lead_ro": "Pe 7 noiembrie, o bombă de aviație neexplodată, estimată la aproximativ 100 de kilograme, a fost ridicată în Cărbunari, comuna Grajduri din județul Iași. Specialiștii au transportat-o în condiții de siguranță, urmând ca distrugerea să aibă loc ulterior.",
     "content_ro": "• **Pe 7 noiembrie, la Cărbunari**, a fost găsită o bombă rămasă din perioada conflictelor armate. Localitatea aparține comunei Grajduri din județul Iași, iar autoritățile au estimat masa dispozitivului la circa 100 de kilograme.\n\n• **Bomba de aviație, cu încărcătură explozivă și realizată prin forjare**, nu detonase. Pirotehniștii au identificat-o, au scos-o din locul în care se afla și au transportat-o în siguranță. Muniția urmează să fie depozitată și distrusă, însă nu au fost precizate data sau locul operațiunii.\n\n• **Echipa de trei specialiști a fost coordonată de locotenentul George Blănaru.** Din grupul ISU Iași au mai făcut parte plutonierul adjutant-șef Dănuț Toporoceanu și plutonierul major Paul Varga.\n\n• **Munițiile vechi pot rămâne periculoase chiar și după trecerea multor ani.** Instituția a atras atenția că intervențiile cer evaluarea riscurilor, pregătire de specialitate și respectarea unor măsuri stricte; o eroare în timpul manipulării poate avea urmări fatale.\n\n• **Obiectele care par a fi muniție nu trebuie atinse sau mutate.** Persoanele care descoperă un astfel de element sunt îndemnate să sune la 112, să se îndepărteze de zona respectivă și să aștepte sosirea echipelor specializate.",
     "importance_score": 50.0
+  },
+  {
+    "group_id": "group_0c578ceeb4",
+    "fingerprint": "34b725659bfd20a8bfe794aeab08229b",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Atac rusesc asupra infrastructurii energetice din Ucraina. Peste 600.000 de oameni au rămas fără electricitate",
+        "link": "https://stirileprotv.ro/stiri/international/atac-rusesc-asupra-infrastructurii-energetice-din-ucraina-peste-600-000-de-oameni-au-ramas-fara-electricitate.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Atacuri rusești lasă 850.000 de persoane fără curent electric în estul Ucrainei",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/atacuri-rusesti-lasa-850-000-de-persoane-fara-curent-electric-in-estul-ucrainei--1611218"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Rusia lovește fără oprire infrastructura energetică a Ucrainei. Probleme mari în două regiuni după noile atacuri",
+        "link": "https://hotnews.ro/rusia-loveste-fara-oprirea-infrastructura-energetica-a-ucrainei-probleme-mari-in-doua-regiuni-dupa-noile-atacuri-2398251"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Atacurile Rusiei au lăsat peste 850.000 de persoane fără electricitate în Ucraina. Zelenski anunță amploarea bombardamentelor din ultima săptămână",
+        "link": "https://adevarul.ro/stiri-externe/europa/atacurile-rusiei-au-lasat-peste-850000-de-2569847.html"
+      }
+    ],
+    "published_at": 1794144201,
+    "title_hu": "Több mint 850 ezer fogyasztó maradt áram nélkül az ukrajnai támadások után",
+    "lead_hu": "Az éjszakai orosz csapások Dnyipropetrovszk és Harkiv megye energetikai hálózatát érték, a kiesés több mint 850 ezer fogyasztót érintett. Volodimir Zelenszkij szerint Oroszország az elmúlt héten több mint 115 rakétát, közel 1900 irányított bombát és 3000-nél is több drónt vetett be.",
+    "content_hu": "• **Vasárnap közzétett adatok szerint** az éjszakai támadások Dnyipropetrovszk és Harkiv megyében összesen több mint 850 ezer fogyasztónál okoztak áramszünetet. A DTEK szerint a Dnyipropetrovszk megyei energetikai létesítményekben jelentős károk keletkeztek.\n\n• **Dnyipropetrovszk megyében** 600 ezernél is több fogyasztó maradt villamos energia nélkül. A szolgáltató közlése szerint a helyreállítást nehezíti, hogy az energetikai infrastruktúrát ismételt támadások érik.\n\n• **Harkiv megyében** közel 250 ezer fogyasztónál szünetelt az áramszolgáltatás, miután egy orosz drón eltalált egy kritikus létesítményt. Mikola Baksejev, Zlatopil polgármestere szerint megkezdték a javításokat.\n\n• **Az elmúlt heti támadásokról** Zelenszkij azt közölte, hogy Oroszország 115 rakétát, csaknem 1900 irányított légibombát és több mint 3000 drónt használt ukrajnai célpontok ellen. A szombatra virradó éjjel öt régió energetikai létesítményeit érte támadás; a szombati csapásokban legalább kilencen megsérültek.\n\n• **A diplomáciai egyeztetés** következő fordulóján orosz, ukrán és amerikai tárgyalók kedden Abu-Dzabiban találkozhatnak. Ez a Trump-adminisztráció közvetítésével zajló megbeszélések negyedik köre lehet, a legutóbbi, februári genfi találkozó után; a területi és biztonsági kérdések továbbra sincsenek rendezve.",
+    "title_ro": "Peste 850.000 de consumatori au rămas fără electricitate după atacurile din Ucraina",
+    "lead_ro": "Atacurile nocturne rusești au avariat infrastructura energetică din regiunile Dnipropetrovsk și Harkiv, lăsând fără curent peste 850.000 de consumatori. Volodimir Zelenski a afirmat că, în ultima săptămână, Rusia a folosit peste 115 rachete, aproape 1.900 de bombe ghidate și mai mult de 3.000 de drone.",
+    "content_ro": "• **Potrivit datelor anunțate duminică**, loviturile din timpul nopții au provocat întreruperi de curent pentru peste 850.000 de consumatori din regiunile Dnipropetrovsk și Harkiv. DTEK a informat că instalații energetice importante din Dnipropetrovsk au fost avariate.\n\n• **În regiunea Dnipropetrovsk**, peste 600.000 de consumatori au rămas fără electricitate. Furnizorul a precizat că intervențiile pentru refacerea rețelei sunt îngreunate de atacurile repetate asupra infrastructurii energetice.\n\n• **În regiunea Harkiv**, întreruperile au afectat aproape 250.000 de consumatori după ce o dronă rusească a lovit o instalație critică. Mikola Bakșeiev, primarul orașului Zlatopil, a anunțat că au început lucrările de reparație.\n\n• **Despre atacurile din ultima săptămână**, Zelenski a spus că Rusia a lansat 115 rachete, aproape 1.900 de bombe aeriene ghidate și peste 3.000 de drone asupra unor ținte din Ucraina. În noaptea de vineri spre sâmbătă au fost vizate obiective energetice din cinci regiuni, iar loviturile de sâmbătă au rănit cel puțin nouă persoane.\n\n• **Următoarea rundă de negocieri** ar putea avea loc marți, la Abu Dhabi, cu participarea reprezentanților Rusiei, Ucrainei și Statelor Unite. Ar fi a patra întâlnire mediată de administrația Trump, după reuniunea de la Geneva din februarie; disputele teritoriale și chestiunile de securitate rămân nerezolvate.",
+    "importance_score": 48.0
   },
   {
     "group_id": "group_1dd196d901",
@@ -2515,40 +2520,6 @@
     "importance_score": 38.0
   },
   {
-    "group_id": "group_db37178e45",
-    "fingerprint": "1eb3910145eaae94e3ce18dc718b835f",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Escaladare semnificativă în Arabia Saudită: Rebelii houthi au atacat și lovit o zonă simbol din Riad",
-        "link": "https://hotnews.ro/escaladare-semnificativa-in-arabia-saudita-rebelii-houthi-au-atacat-si-lovit-o-zona-simbol-din-riad-2398181"
-      },
-      {
-        "source": "Digi24",
-        "title": "Clădiri afectate în Riad după ce Arabia Saudită a transmis că a interceptat două rachete balistice ale rebelilor",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/cladiri-afectate-in-riad-dupa-ce-arabia-saudita-a-transmis-ca-a-interceptat-doua-rachete-balistice-ale-rebelilor-4026619"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac cu rachete și drone asupra capitalei Arabiei Saudite. Un zgârie-nori al gigantului petrolier Aramco, lovit în capitala Riad",
-        "link": "https://www.mediafax.ro/externe/atac-cu-rachete-si-drone-asupra-capitalei-arabiei-saudite-un-zgarie-nori-al-gigantului-petrolier-aramco-lovit-in-capitala-riad-23839687"
-      }
-    ],
-    "published_at": 1794133387,
-    "title_hu": "Károk keletkeztek Rijád pénzügyi negyedében, a becsapódás oka nem tisztázott",
-    "lead_hu": "Vasárnap robbanásokat jelentettek Rijád pénzügyi negyedéből, ahol szemtanúk szerint egy Aramco-épület is megrongálódott. Nem tudni, hogy a károkat egy elfogott rakéta törmeléke vagy közvetlen találat okozta; a húszik eközben 33 halálos áldozatról számoltak be egy szaúdi támadás nyomán.",
-    "content_hu": "• **Vasárnap Rijádban** robbanások hallatszottak a Király Abdullah Pénzügyi Negyed környékén, és szemtanúk sérüléseket észleltek az Aramco egyik tornyán. A koalíció előzőleg két, a főváros felé tartó ballisztikus rakéta elfogását közölte; szóvivője két cirkálórakéta megsemmisítéséről is beszámolt.\n\n• **A károk eredete egyelőre ismeretlen:** a beszámolók szerint több emelet, az ablakok és a homlokzat egy része sérült meg. Nem állapították meg, hogy a rombolást egy elfogott rakéta lehulló darabjai vagy egy közvetlenül becsapódó lövedék okozta-e. A helyszínről közzétett, nem ellenőrzött felvételeken füst látható.\n\n• **A Király Abdullah Pénzügyi Negyed** Rijád egyik jelképes városrésze, amelyet az ország gazdasági és társadalmi átalakulásához kötnek. Felhőkarcolók és üzletek mellett lakóépületek, valamint forgalmas metróállomás is található ott.\n\n• **Az oktatás újraindítása után néhány órával** érkeztek a támadásról szóló hírek: a szaúdi oktatási minisztérium szombat este jelentette be, hogy Rijádban ismét személyesen tartják az órákat, többhetes távoktatás után.\n\n• **A húszik vasárnapi közlése szerint** 33 ember halt meg a Szaúd-Arábia által végrehajtott csapásokban a Szanaa térségében. Ezt a számot a források nem erősítették meg függetlenül. A húszik korábban pénteki és szombati, civileket érintő szaúdi támadásokról is beszéltek.",
-    "title_ro": "Pagube în zona financiară din Riad; cauza avariilor nu este clară",
-    "lead_ro": "Duminică au fost semnalate explozii în cartierul financiar al capitalei saudite, unde martori au observat avarii la o clădire Aramco. Nu s-a stabilit dacă acestea au fost provocate de resturile unei rachete interceptate sau de impactul direct al unui proiectil. Houthiții au anunțat, separat, 33 de morți în urma unor lovituri saudite în regiunea Sanaa.",
-    "content_ro": "• **Duminică, la Riad**, s-au auzit explozii în apropierea Districtului Financiar Regele Abdullah, iar martori au relatat că un turn Aramco a fost avariat. Coaliția anunțase anterior interceptarea a două rachete balistice care se îndreptau spre capitală; purtătorul său de cuvânt a menționat și distrugerea a două rachete de croazieră.\n\n• **Originea pagubelor nu a fost stabilită:** relatările indică avarii la mai multe etaje, geamuri și o porțiune a fațadei. Nu este clar dacă acestea au fost cauzate de fragmentele unei rachete interceptate sau de lovirea directă a clădirii de către un proiectil. În imagini publicate online, care nu au fost verificate, se vede fum la locul incidentului.\n\n• **Districtul Financiar Regele Abdullah** este considerat un reper urban important al Riadului și este asociat cu schimbările economice și sociale din regat. În zonă se află zgârie-nori, magazine, clădiri rezidențiale și o stație de metrou utilizată intens.\n\n• **Reluarea cursurilor cu prezență fizică** a fost anunțată de Ministerul saudit al Educației sâmbătă seara, după câteva săptămâni de învățământ la distanță. Informațiile despre atac au apărut la câteva ore după acest anunț.\n\n• **Houthiții au afirmat duminică** că 33 de persoane au murit în urma unor lovituri saudite în regiunea Sanaa. Cifra nu a fost confirmată independent în relatările disponibile. Anterior, gruparea acuzase forțele saudite de atacuri asupra civililor vineri și sâmbătă.",
-    "importance_score": 38.0
-  },
-  {
     "group_id": "group_38821e4927",
     "category": "Általános",
     "is_synthesized": false,
@@ -2600,6 +2571,33 @@
     "title_ro": "Rusia îl celebrează pe fostul șef al spionajului Stasi. Markus Wolf a fost „omul fără chip” pentru serviciile secrete occidentale",
     "lead_ro": "Rusia a amplasat o placă comemorativă în memoria fostului șef al spionajului est-german, Markus Wolf, ai cărui agenți au contribuit la plecarea din funcție a cancelarului vest-german Willy Brandt, pot…",
     "content_ro": "Rusia a amplasat o placă comemorativă în memoria fostului șef al spionajului est-german, Markus Wolf, ai cărui agenți au contribuit la plecarea din funcție a cancelarului vest-german Willy Brandt, potrivit DPA.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_2c360ad68a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Emblema controversată găsită pe echipamentul atacatorului din Cracovia. A fost purtată și de forțele speciale americane",
+        "link": "https://stirileprotv.ro/stiri/politic/emblema-controversata-gasita-pe-echipamentul-atacatorului-din-cracovia-a-fost-purtata-si-de-fortele-speciale-americane.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Emblema controversată purtată de atacatorul din Cracovia. Ce legătură are cu Statele Unite",
+        "link": "https://adevarul.ro/stiri-externe/europa/emblema-controversata-purtata-de-atacatorul-din-2569872.html"
+      }
+    ],
+    "published_at": 1794152294,
+    "title_hu": "Emblema controversată găsită pe echipamentul atacatorului din Cracovia. A fost purtată și de forțele speciale americane",
+    "lead_hu": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a ră…",
+    "content_hu": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a rănit alte câteva zeci în Cracovia.",
+    "title_ro": "Emblema controversată găsită pe echipamentul atacatorului din Cracovia. A fost purtată și de forțele speciale americane",
+    "lead_ro": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a ră…",
+    "content_ro": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a rănit alte câteva zeci în Cracovia.",
     "importance_score": 35.0
   },
   {
@@ -2831,35 +2829,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_6c8e293ecb",
-    "fingerprint": "d31fa97949cbf86c8939e98b447bfd34",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Alertă aeriană în apropierea României. Două avioane F-18 spaniole au decolat de la Mihail Kogălniceanu, iar populația din Tulcea a primit RO-Alert",
-        "link": "https://www.mediafax.ro/social/alerta-aeriana-in-apropierea-romaniei-doua-avioane-f-18-spaniole-au-decolat-de-la-mihail-kogalniceanu-iar-populatia-din-tulcea-a-primit-ro-alert-23839744"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "S-a emis Ro-Alert în Tulcea! Două avioane F-18 au fost ridicate de la sol",
-        "link": "https://www.cancan.ro/s-a-emis-ro-alert-in-tulcea-doua-avioane-f-18-au-fost-ridicate-de-la-sol-21543839"
-      }
-    ],
-    "published_at": 1794143960,
-    "title_hu": "Légi célt észleltek a román légtér közelében, F–18-asok szálltak fel",
-    "lead_hu": "Az ukrán légtérben, a Kígyó-szigettől mintegy 30 kilométerre keletre azonosítottak egy légi célt. A román hatóságok riasztották a Tulcea megye keleti részén élőket, miközben két spanyol F–18-as vadászgép felszállt a Mihail Kogălniceanu légibázisról.",
-    "content_hu": "• **A légi cél helye** a román védelmi minisztérium közlése szerint az ukrán légtérben volt, hozzávetőleg 30 kilométerre keletre a Kígyó-szigettől. Az észlelés miatt a román légtér közelségére tekintettel intézkedéseket kezdeményeztek.\n\n• **Két spanyol F–18-as** emelkedett a levegőbe a Konstanca megyében működő Mihail Kogălniceanu katonai repülőtérről. A gépek légi rendészeti szolgálatban, készültségi feladatot láttak el; a közlemény nem részletezte a cél típusát vagy további útját.\n\n• **A lakossági riasztás előkészítését** a Nemzeti Katonai Parancsnoki Központ kezdeményezte: értesítette a Katasztrófavédelmi Főfelügyelőséget a szükséges tájékoztatás érdekében. Az intézkedés a Tulcea megye keleti térségét érintette.\n\n• **14:02-kor RO-Alert üzenetet** küldtek a kijelölt területen élőknek. A hatóságok a légi cél észlelésére reagáltak; a rendelkezésre álló információk nem számoltak be arról, hogy a cél belépett volna Románia légterébe, illetve hogy kár vagy sérülés történt volna.",
-    "title_ro": "Țintă aeriană detectată în apropierea spațiului românesc; au decolat avioane F-18",
-    "lead_ro": "O țintă aeriană a fost identificată în spațiul ucrainean, la circa 30 de kilometri est de Insula Șerpilor. Autoritățile române au alertat locuitorii din estul județului Tulcea, iar două aeronave spaniole F-18 au decolat de la baza Mihail Kogălniceanu.",
-    "content_ro": "• **Locul în care a fost detectată ținta** se afla, potrivit Ministerului Apărării Naționale, în spațiul aerian al Ucrainei, la aproximativ 30 de kilometri est de Insula Șerpilor. Apropierea de spațiul românesc a determinat autoritățile să adopte măsuri de monitorizare și informare.\n\n• **Două aeronave spaniole F-18** au fost ridicate de la baza militară Mihail Kogălniceanu, din județul Constanța. Acestea executau misiuni de poliție aeriană și se aflau în serviciul de luptă; comunicarea oficială nu a precizat natura țintei sau traseul ulterior al acesteia.\n\n• **Notificarea pentru alertarea populației** a fost transmisă de Centrul Național Militar de Comandă către Inspectoratul General pentru Situații de Urgență. Măsura a vizat zona estică a județului Tulcea, unde locuitorii urmau să primească informații prin sistemul RO-Alert.\n\n• **La ora 14:02 a fost emis mesajul RO-Alert** pentru populația din zona vizată. Potrivit datelor comunicate, intervenția a urmat identificării țintei aeriene; nu au fost oferite informații despre o pătrundere a acesteia în spațiul aerian românesc și nici despre pagube ori persoane rănite.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_9ab89bb405",
     "fingerprint": "dbc6b08f1912ad675c2d447743931464",
     "category": "Sport",
@@ -2886,6 +2855,40 @@
     "title_ro": "Sorana Cîrstea a vorbit despre epuizare, fără să-și anunțe retragerea",
     "lead_ro": "Jucătoarea română de 36 de ani a transmis, pe 8 noiembrie, că sezonul 2026 a lăsat-o epuizată fizic și psihic. Deși anunțase anterior că intenționează să se retragă la finalul anului, până acum nu a făcut un anunț oficial privind viitorul său.",
     "content_ro": "• **Pe 8 noiembrie, Sorana Cîrstea** le-a mulțumit susținătorilor pentru sprijinul primit în timpul sezonului 2026. În mesajul publicat pe rețelele sociale, ea a spus că, odată cu apropierea finalului de an, se simte foarte obosită atât fizic, cât și psihic. Postarea a venit după încheierea parcursului său competițional din acest sezon.\n\n• **Posibila retragere** era luată în calcul încă de la începutul anului: Cîrstea anunțase că plănuiește să încheie cariera profesionistă la finalul lui 2026. Mesajul recent nu a confirmat însă oficial această decizie, astfel că viitorul ei în tenis rămâne neclar.\n\n• **Turneul WTA 250 de la Hong Kong** a fost ultima competiție a româncei în acest sezon. Vineri, ea a fost eliminată în sferturile de finală de rusoaica Alexandra Shubladze, în vârstă de 21 de ani și aflată pe locul 136 mondial. La două zile după înfrângere, Cîrstea nu anunțase oficial dacă va continua să joace.\n\n• **Rezultatele obținute în 2026** au făcut-o să se mai gândească la planul de retragere. Jucătoarea a urcat până pe locul 15 în clasamentul mondial, iar la US Open a ajuns în a doua săptămână a turneului. Într-un interviu, ea a spus că aceste performanțe au determinat-o să reevalueze posibilitatea continuării carierei; sezonul a fost considerat unul dintre cele mai reușite din parcursul său.",
+    "importance_score": 33.0
+  },
+  {
+    "group_id": "group_db37178e45",
+    "fingerprint": "1eb3910145eaae94e3ce18dc718b835f",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Escaladare semnificativă în Arabia Saudită: Rebelii houthi au atacat și lovit o zonă simbol din Riad",
+        "link": "https://hotnews.ro/escaladare-semnificativa-in-arabia-saudita-rebelii-houthi-au-atacat-si-lovit-o-zona-simbol-din-riad-2398181"
+      },
+      {
+        "source": "Digi24",
+        "title": "Clădiri afectate în Riad după ce Arabia Saudită a transmis că a interceptat două rachete balistice ale rebelilor",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/cladiri-afectate-in-riad-dupa-ce-arabia-saudita-a-transmis-ca-a-interceptat-doua-rachete-balistice-ale-rebelilor-4026619"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac cu rachete și drone asupra capitalei Arabiei Saudite. Un zgârie-nori al gigantului petrolier Aramco, lovit în capitala Riad",
+        "link": "https://www.mediafax.ro/externe/atac-cu-rachete-si-drone-asupra-capitalei-arabiei-saudite-un-zgarie-nori-al-gigantului-petrolier-aramco-lovit-in-capitala-riad-23839687"
+      }
+    ],
+    "published_at": 1794133387,
+    "title_hu": "Károk keletkeztek Rijád pénzügyi negyedében, a becsapódás oka nem tisztázott",
+    "lead_hu": "Vasárnap robbanásokat jelentettek Rijád pénzügyi negyedéből, ahol szemtanúk szerint egy Aramco-épület is megrongálódott. Nem tudni, hogy a károkat egy elfogott rakéta törmeléke vagy közvetlen találat okozta; a húszik eközben 33 halálos áldozatról számoltak be egy szaúdi támadás nyomán.",
+    "content_hu": "• **Vasárnap Rijádban** robbanások hallatszottak a Király Abdullah Pénzügyi Negyed környékén, és szemtanúk sérüléseket észleltek az Aramco egyik tornyán. A koalíció előzőleg két, a főváros felé tartó ballisztikus rakéta elfogását közölte; szóvivője két cirkálórakéta megsemmisítéséről is beszámolt.\n\n• **A károk eredete egyelőre ismeretlen:** a beszámolók szerint több emelet, az ablakok és a homlokzat egy része sérült meg. Nem állapították meg, hogy a rombolást egy elfogott rakéta lehulló darabjai vagy egy közvetlenül becsapódó lövedék okozta-e. A helyszínről közzétett, nem ellenőrzött felvételeken füst látható.\n\n• **A Király Abdullah Pénzügyi Negyed** Rijád egyik jelképes városrésze, amelyet az ország gazdasági és társadalmi átalakulásához kötnek. Felhőkarcolók és üzletek mellett lakóépületek, valamint forgalmas metróállomás is található ott.\n\n• **Az oktatás újraindítása után néhány órával** érkeztek a támadásról szóló hírek: a szaúdi oktatási minisztérium szombat este jelentette be, hogy Rijádban ismét személyesen tartják az órákat, többhetes távoktatás után.\n\n• **A húszik vasárnapi közlése szerint** 33 ember halt meg a Szaúd-Arábia által végrehajtott csapásokban a Szanaa térségében. Ezt a számot a források nem erősítették meg függetlenül. A húszik korábban pénteki és szombati, civileket érintő szaúdi támadásokról is beszéltek.",
+    "title_ro": "Pagube în zona financiară din Riad; cauza avariilor nu este clară",
+    "lead_ro": "Duminică au fost semnalate explozii în cartierul financiar al capitalei saudite, unde martori au observat avarii la o clădire Aramco. Nu s-a stabilit dacă acestea au fost provocate de resturile unei rachete interceptate sau de impactul direct al unui proiectil. Houthiții au anunțat, separat, 33 de morți în urma unor lovituri saudite în regiunea Sanaa.",
+    "content_ro": "• **Duminică, la Riad**, s-au auzit explozii în apropierea Districtului Financiar Regele Abdullah, iar martori au relatat că un turn Aramco a fost avariat. Coaliția anunțase anterior interceptarea a două rachete balistice care se îndreptau spre capitală; purtătorul său de cuvânt a menționat și distrugerea a două rachete de croazieră.\n\n• **Originea pagubelor nu a fost stabilită:** relatările indică avarii la mai multe etaje, geamuri și o porțiune a fațadei. Nu este clar dacă acestea au fost cauzate de fragmentele unei rachete interceptate sau de lovirea directă a clădirii de către un proiectil. În imagini publicate online, care nu au fost verificate, se vede fum la locul incidentului.\n\n• **Districtul Financiar Regele Abdullah** este considerat un reper urban important al Riadului și este asociat cu schimbările economice și sociale din regat. În zonă se află zgârie-nori, magazine, clădiri rezidențiale și o stație de metrou utilizată intens.\n\n• **Reluarea cursurilor cu prezență fizică** a fost anunțată de Ministerul saudit al Educației sâmbătă seara, după câteva săptămâni de învățământ la distanță. Informațiile despre atac au apărut la câteva ore după acest anunț.\n\n• **Houthiții au afirmat duminică** că 33 de persoane au murit în urma unor lovituri saudite în regiunea Sanaa. Cifra nu a fost confirmată independent în relatările disponibile. Anterior, gruparea acuzase forțele saudite de atacuri asupra civililor vineri și sâmbătă.",
     "importance_score": 33.0
   },
   {
@@ -3257,6 +3260,35 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_6c8e293ecb",
+    "fingerprint": "d31fa97949cbf86c8939e98b447bfd34",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Alertă aeriană în apropierea României. Două avioane F-18 spaniole au decolat de la Mihail Kogălniceanu, iar populația din Tulcea a primit RO-Alert",
+        "link": "https://www.mediafax.ro/social/alerta-aeriana-in-apropierea-romaniei-doua-avioane-f-18-spaniole-au-decolat-de-la-mihail-kogalniceanu-iar-populatia-din-tulcea-a-primit-ro-alert-23839744"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "S-a emis Ro-Alert în Tulcea! Două avioane F-18 au fost ridicate de la sol",
+        "link": "https://www.cancan.ro/s-a-emis-ro-alert-in-tulcea-doua-avioane-f-18-au-fost-ridicate-de-la-sol-21543839"
+      }
+    ],
+    "published_at": 1794143960,
+    "title_hu": "Légi célt észleltek a román légtér közelében, F–18-asok szálltak fel",
+    "lead_hu": "Az ukrán légtérben, a Kígyó-szigettől mintegy 30 kilométerre keletre azonosítottak egy légi célt. A román hatóságok riasztották a Tulcea megye keleti részén élőket, miközben két spanyol F–18-as vadászgép felszállt a Mihail Kogălniceanu légibázisról.",
+    "content_hu": "• **A légi cél helye** a román védelmi minisztérium közlése szerint az ukrán légtérben volt, hozzávetőleg 30 kilométerre keletre a Kígyó-szigettől. Az észlelés miatt a román légtér közelségére tekintettel intézkedéseket kezdeményeztek.\n\n• **Két spanyol F–18-as** emelkedett a levegőbe a Konstanca megyében működő Mihail Kogălniceanu katonai repülőtérről. A gépek légi rendészeti szolgálatban, készültségi feladatot láttak el; a közlemény nem részletezte a cél típusát vagy további útját.\n\n• **A lakossági riasztás előkészítését** a Nemzeti Katonai Parancsnoki Központ kezdeményezte: értesítette a Katasztrófavédelmi Főfelügyelőséget a szükséges tájékoztatás érdekében. Az intézkedés a Tulcea megye keleti térségét érintette.\n\n• **14:02-kor RO-Alert üzenetet** küldtek a kijelölt területen élőknek. A hatóságok a légi cél észlelésére reagáltak; a rendelkezésre álló információk nem számoltak be arról, hogy a cél belépett volna Románia légterébe, illetve hogy kár vagy sérülés történt volna.",
+    "title_ro": "Țintă aeriană detectată în apropierea spațiului românesc; au decolat avioane F-18",
+    "lead_ro": "O țintă aeriană a fost identificată în spațiul ucrainean, la circa 30 de kilometri est de Insula Șerpilor. Autoritățile române au alertat locuitorii din estul județului Tulcea, iar două aeronave spaniole F-18 au decolat de la baza Mihail Kogălniceanu.",
+    "content_ro": "• **Locul în care a fost detectată ținta** se afla, potrivit Ministerului Apărării Naționale, în spațiul aerian al Ucrainei, la aproximativ 30 de kilometri est de Insula Șerpilor. Apropierea de spațiul românesc a determinat autoritățile să adopte măsuri de monitorizare și informare.\n\n• **Două aeronave spaniole F-18** au fost ridicate de la baza militară Mihail Kogălniceanu, din județul Constanța. Acestea executau misiuni de poliție aeriană și se aflau în serviciul de luptă; comunicarea oficială nu a precizat natura țintei sau traseul ulterior al acesteia.\n\n• **Notificarea pentru alertarea populației** a fost transmisă de Centrul Național Militar de Comandă către Inspectoratul General pentru Situații de Urgență. Măsura a vizat zona estică a județului Tulcea, unde locuitorii urmau să primească informații prin sistemul RO-Alert.\n\n• **La ora 14:02 a fost emis mesajul RO-Alert** pentru populația din zona vizată. Potrivit datelor comunicate, intervenția a urmat identificării țintei aeriene; nu au fost oferite informații despre o pătrundere a acesteia în spațiul aerian românesc și nici despre pagube ori persoane rănite.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_eb0a932c11",
     "fingerprint": "749a66e53d4ef7ff15b46775be567f35",
     "category": "Általános",
@@ -3487,64 +3519,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_71268b9195",
-    "fingerprint": "bbff29966949ce42fb2e3385d1facb2a",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ce naţionalități au cetăţenii străini răniţi în atacul din Cracovia",
-        "link": "https://www.digi24.ro/stiri/externe/ue/ce-nationalitati-au-cetatenii-straini-raniti-in-atacul-din-cracovia-4026645"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Atac armat în Polonia: Străinii răniți sunt de naționalitate germană, britanică, rusă, portugheză și austriacă",
-        "link": "https://agerpres.ro/politic-extern/2026/11/08/atac-armat-in-polonia-strainii-raniti-sunt-de-nationalitate-germana-britanica-rusa-portugheza-si-aus--1611211"
-      }
-    ],
-    "published_at": 1794133169,
-    "title_hu": "Hat halálos áldozata volt a krakkói lövöldözésnek",
-    "lead_hu": "Hat ember meghalt, tizenöten pedig lőtt sérülésekkel kerültek kórházba a krakkói támadás után. A rendőrség szerint a feltételezett elkövető egyedül cselekedhetett; indítékát és hátterét vizsgálják.",
-    "content_hu": "• **A krakkói támadásban hatan meghaltak**, köztük egy brit állampolgár. További tizenöt embert lőtt sebekkel ápoltak kórházban; állapotuk a beszámoló szerint valamelyest javult, de nem minden sérült került túl az életveszélyen.\n\n• **A sebesültek között öt külföldi és tíz lengyel volt.** A külföldi áldozatok brit, portugál, orosz, német és osztrák állampolgárok; a lengyel sérültek közül ketten rendőrök voltak.\n\n• **A lövöldözés szombaton történt Krakkóban**, a központi tér közelében. A fiatal lengyel támadó autóval érkezett a tér szélére, majd találomra rálőtt az arra járókra, köztük turistákra, taxisokra és lovas kocsik hajtóira. A rendőrök néhány percen belül közbeléptek.\n\n• **A feltételezett elkövető súlyosan megsebesült a rendőri intézkedés során.** Műtéten esett át, vasárnap reggel kritikus állapotban volt. A hatóságok szerint szélsőjobboldali eszmék iránti érdeklődést mutatott; a nyomozók úgy vélik, egyedül hajthatta végre a támadást, miközben indítékát és pszichológiai hátterét is feltárják.\n\n• **A rendőrség a támadó családtagjainak holttestét is megtalálta** az Ostrowiec Świętokrzyski-i lakásukban. A 53 éves apa, az 52 éves anya és a 21 éves lányuk lőtt sebeket szenvedett. A helyszínen hét lőfegyvert foglaltak le.",
-    "title_ro": "Șase persoane au murit în atacul armat din Cracovia",
-    "lead_ro": "Șase persoane au fost ucise, iar alte 15 au ajuns la spital cu răni provocate de gloanțe după atacul din Cracovia. Poliția consideră că suspectul ar fi acționat singur, în timp ce anchetatorii îi cercetează motivația și profilul.",
-    "content_ro": "• **Atacul din Cracovia s-a soldat cu șase morți**, printre care un cetățean britanic. Alte 15 persoane au fost internate cu răni prin împușcare; starea lor s-a îmbunătățit ușor, însă nu toate ieșiseră din zona de pericol, potrivit relatării.\n\n• **Printre răniți s-au numărat cinci cetățeni străini și zece polonezi.** Cei cinci străini aveau cetățenii britanică, portugheză, rusă, germană și austriacă. Doi dintre polonezii răniți erau polițiști.\n\n• **Focurile de armă au fost trase sâmbătă, în apropierea pieței centrale din Cracovia.** Suspectul, un tânăr polonez, a ajuns cu mașina la marginea pieței și a tras la întâmplare asupra persoanelor din zonă, între care turiști, taximetriști și vizitii. Poliția a intervenit după câteva minute.\n\n• **Suspectul a fost grav rănit în intervenția poliției.** După o operație, se afla în stare critică duminică dimineață. Autoritățile au spus că era atras de idei de extremă dreaptă. Anchetatorii cred că ar fi acționat singur și încearcă să stabilească motivul atacului și profilul său psihologic.\n\n• **Poliția a găsit și trupurile membrilor familiei suspectului**, în locuința acestora din Ostrowiec Świętokrzyski. Tatăl, în vârstă de 53 de ani, mama, de 52 de ani, și sora, de 21 de ani, aveau răni provocate de gloanțe. La domiciliu au fost confiscate șapte arme de foc.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_f91b1055bb",
-    "fingerprint": "cefd07c293513e12917f165c27f2c030",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Mesaj cu subînțeles al lui Chipciu pentru Stanciu: „Ai mai pus o șapcă”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/alexandru-chipciu-nicolae-stanciu-u-cluj-dalian-yingbo-997246.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Nicolae Stanciu a câștigat spectaculos titlul în China cu Dalian Yingbo",
-        "link": "https://agerpres.ro/sport-extern/2026/11/08/fotbal-nicolae-stanciu-a-castigat-spectaculos-titlul-in-china-cu-dalian-yingbo--1611222"
-      }
-    ],
-    "published_at": 1794133142,
-    "title_hu": "Nicolae Stanciu bajnok lett Kínában a Dalian Yingbóval",
-    "lead_hu": "A Dalian Yingbo az utolsó fordulóban 3–1-re legyőzte a Tianjin Jinmen Tigert, és a Chengdu Rongcheng vereségével megszerezte a kínai bajnoki címet. Nicolae Stanciu csapata azonos pontszámmal végzett riválisával, de az egymás elleni eredmények alapján az első helyen zárt.",
-    "content_hu": "• **Az utolsó fordulóban** a Dalian Yingbo 3–1-re nyert a Tianjin Jinmen Tiger ellen. A hazai csapat góljait Mingrui Yang, Jintao Liao és Shan Huang szerezte, a vendégektől Xadas büntetőből talált be. Stanciu 87 percet töltött a pályán.\n\n• **A bajnoki cím sorsa** a Chengdu Rongcheng mérkőzésén is eldőlt: a korábbi éllovas 3–2-re kikapott a Shandong Taishantól. A Dalian és a Chengdu egyaránt 52 ponttal fejezte be a szezont, az aranyérmet azonban az egymás elleni meccseken elért jobb eredményei miatt a Dalian kapta.\n\n• **A Dalian hajrája** különösen fontosnak bizonyult: sorozatban öt bajnoki győzelmet aratott, és az utolsó öt fordulóban ledolgozta a korábban összegyűlt 14 pontos hátrányát. A Chengdu ugyanezen időszakban mindössze egy pontot szerzett.\n\n• **Stanciu szezonmérlege** 27 bajnoki mérkőzésen tíz gól és öt gólpassz volt. A mostani elsőséggel pályafutása hetedik bajnoki címét szerezte meg; Kínában ez a második aranyérme, miután 2022-ben a Wuhan Three Townsszal is bajnok lett.\n\n• **Alexandru Chipciu**, a Kolozsvári U kapitánya a közösségi médiában gratulált barátjának, és utalt arra, hogy Stanciu esetleg a klubhoz igazolhat. A sajtóban megjelent információk szerint a középpályás a téli átigazolási időszakban csatlakozhat az U-hoz, de december 31-ig szerződés köti a Dalianhoz, így új csapatában januártól léphetne pályára.",
-    "title_ro": "Nicolae Stanciu a câștigat titlul în China cu Dalian Yingbo",
-    "lead_ro": "Dalian Yingbo a învins-o cu 3-1 pe Tianjin Jinmen Tiger în ultima etapă și a devenit campioană după ce Chengdu Rongcheng a pierdut. Cele două echipe au încheiat sezonul cu câte 52 de puncte, iar rezultatele directe au decis clasamentul.",
-    "content_ro": "• **În ultima etapă**, Dalian Yingbo s-a impus cu 3-1 în fața formației Tianjin Jinmen Tiger. Mingrui Yang, Jintao Liao și Shan Huang au înscris pentru gazde, iar Xadas a marcat pentru oaspeți din penalty. Nicolae Stanciu a jucat 87 de minute.\n\n• **Titlul s-a decis și prin rezultatul lui Chengdu Rongcheng**, echipă învinsă cu 3-2 în deplasare de Shandong Taishan. Dalian și Chengdu au acumulat fiecare 52 de puncte, însă formația lui Stanciu a terminat pe primul loc datorită avantajului din meciurile directe.\n\n• **Seria din finalul sezonului** a fost hotărâtoare pentru Dalian: echipa a obținut cinci victorii consecutive și a recuperat în ultimele cinci runde un deficit de 14 puncte. În același interval, Chengdu a adunat un singur punct.\n\n• **Bilanțul lui Stanciu** în campionat a fost de zece goluri și cinci pase decisive în 27 de partide. Acesta este al șaptelea titlu de campion din cariera sa și al doilea câștigat în China; în 2022, mijlocașul a devenit campion alături de Wuhan Three Towns.\n\n• **Alexandru Chipciu**, căpitanul lui U Cluj și prietenul lui Stanciu, l-a felicitat pe rețelele sociale și a sugerat posibilitatea unei mutări la clubul ardelean. Potrivit informațiilor apărute în presă, transferul ar putea avea loc în această iarnă. Stanciu este însă sub contract cu Dalian până la 31 decembrie, astfel că ar putea juca pentru U Cluj începând din ianuarie.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_c15c021cc5",
     "fingerprint": "15b1b0f9e98fdcf8a95bbb5548cb9ca8",
     "category": "Általános",
@@ -3601,6 +3575,93 @@
     "lead_ro": "Un incendiu izbucnit la 23 octombrie a avariat grav Kehlsteinhaus, clădirea situată deasupra localității Berchtesgaden și asociată perioadei naziste. Conducerea Bavariei susține reconstruirea obiectivului, în timp ce unii istorici propun îndepărtarea ruinelor și redarea terenului naturii.",
     "content_ro": "• **La 23 octombrie**, un incendiu a afectat o mare parte din Kehlsteinhaus, aflat în Alpii germani, deasupra localității Berchtesgaden. Anchetatorii iau în calcul posibilitatea unei incendieri deliberate. Un bărbat de 33 de ani a fost reținut și internat într-o unitate psihiatrică securizată; poliția nu a oferit detalii despre un posibil motiv.\n\n• **Clădirea a fost ridicată în 1938** la inițiativa regimului nazist și folosită de Adolf Hitler pentru întâlniri cu invitați, inclusiv oficiali de rang înalt. După Al Doilea Război Mondial, imobilul a primit statut de monument istoric. Înaintea incendiului, se afla în administrarea Bavariei și funcționa de multă vreme ca restaurant și atracție turistică.\n\n• **Richard J. Evans, istoric la Universitatea Cambridge**, se numără printre cei care preferă înlăturarea ruinelor în locul reconstrucției. El susține curățarea molozului și păstrarea muntelui într-o stare cât mai apropiată de cea naturală. Ca exemplu de abordare a unor locuri legate de nazism, Evans a menționat buncărul din Berlin, umplut cu beton, deasupra căruia a fost amenajat ulterior un loc de joacă.\n\n• **Autoritățile bavareze favorizează refacerea clădirii:** ministrul de Interne, Joachim Herrmann, și ministrul Culturii, Markus Blume, s-au pronunțat pentru reconstruirea obiectivului. Dezbaterea privește acum alegerea dintre restaurarea unui loc cu relevanță istorică și turistică și eliminarea vestigiilor după incendiu. Kehlsteinhaus rămâne astfel atât un monument asociat trecutului nazist, cât și un punct de interes pentru vizitatori.",
     "importance_score": 28.0
+  },
+  {
+    "group_id": "group_71268b9195",
+    "fingerprint": "bbff29966949ce42fb2e3385d1facb2a",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ce naţionalități au cetăţenii străini răniţi în atacul din Cracovia",
+        "link": "https://www.digi24.ro/stiri/externe/ue/ce-nationalitati-au-cetatenii-straini-raniti-in-atacul-din-cracovia-4026645"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Atac armat în Polonia: Străinii răniți sunt de naționalitate germană, britanică, rusă, portugheză și austriacă",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/atac-armat-in-polonia-strainii-raniti-sunt-de-nationalitate-germana-britanica-rusa-portugheza-si-aus--1611211"
+      }
+    ],
+    "published_at": 1794133169,
+    "title_hu": "Hat halálos áldozata volt a krakkói lövöldözésnek",
+    "lead_hu": "Hat ember meghalt, tizenöten pedig lőtt sérülésekkel kerültek kórházba a krakkói támadás után. A rendőrség szerint a feltételezett elkövető egyedül cselekedhetett; indítékát és hátterét vizsgálják.",
+    "content_hu": "• **A krakkói támadásban hatan meghaltak**, köztük egy brit állampolgár. További tizenöt embert lőtt sebekkel ápoltak kórházban; állapotuk a beszámoló szerint valamelyest javult, de nem minden sérült került túl az életveszélyen.\n\n• **A sebesültek között öt külföldi és tíz lengyel volt.** A külföldi áldozatok brit, portugál, orosz, német és osztrák állampolgárok; a lengyel sérültek közül ketten rendőrök voltak.\n\n• **A lövöldözés szombaton történt Krakkóban**, a központi tér közelében. A fiatal lengyel támadó autóval érkezett a tér szélére, majd találomra rálőtt az arra járókra, köztük turistákra, taxisokra és lovas kocsik hajtóira. A rendőrök néhány percen belül közbeléptek.\n\n• **A feltételezett elkövető súlyosan megsebesült a rendőri intézkedés során.** Műtéten esett át, vasárnap reggel kritikus állapotban volt. A hatóságok szerint szélsőjobboldali eszmék iránti érdeklődést mutatott; a nyomozók úgy vélik, egyedül hajthatta végre a támadást, miközben indítékát és pszichológiai hátterét is feltárják.\n\n• **A rendőrség a támadó családtagjainak holttestét is megtalálta** az Ostrowiec Świętokrzyski-i lakásukban. A 53 éves apa, az 52 éves anya és a 21 éves lányuk lőtt sebeket szenvedett. A helyszínen hét lőfegyvert foglaltak le.",
+    "title_ro": "Șase persoane au murit în atacul armat din Cracovia",
+    "lead_ro": "Șase persoane au fost ucise, iar alte 15 au ajuns la spital cu răni provocate de gloanțe după atacul din Cracovia. Poliția consideră că suspectul ar fi acționat singur, în timp ce anchetatorii îi cercetează motivația și profilul.",
+    "content_ro": "• **Atacul din Cracovia s-a soldat cu șase morți**, printre care un cetățean britanic. Alte 15 persoane au fost internate cu răni prin împușcare; starea lor s-a îmbunătățit ușor, însă nu toate ieșiseră din zona de pericol, potrivit relatării.\n\n• **Printre răniți s-au numărat cinci cetățeni străini și zece polonezi.** Cei cinci străini aveau cetățenii britanică, portugheză, rusă, germană și austriacă. Doi dintre polonezii răniți erau polițiști.\n\n• **Focurile de armă au fost trase sâmbătă, în apropierea pieței centrale din Cracovia.** Suspectul, un tânăr polonez, a ajuns cu mașina la marginea pieței și a tras la întâmplare asupra persoanelor din zonă, între care turiști, taximetriști și vizitii. Poliția a intervenit după câteva minute.\n\n• **Suspectul a fost grav rănit în intervenția poliției.** După o operație, se afla în stare critică duminică dimineață. Autoritățile au spus că era atras de idei de extremă dreaptă. Anchetatorii cred că ar fi acționat singur și încearcă să stabilească motivul atacului și profilul său psihologic.\n\n• **Poliția a găsit și trupurile membrilor familiei suspectului**, în locuința acestora din Ostrowiec Świętokrzyski. Tatăl, în vârstă de 53 de ani, mama, de 52 de ani, și sora, de 21 de ani, aveau răni provocate de gloanțe. La domiciliu au fost confiscate șapte arme de foc.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_f91b1055bb",
+    "fingerprint": "cefd07c293513e12917f165c27f2c030",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Mesaj cu subînțeles al lui Chipciu pentru Stanciu: „Ai mai pus o șapcă”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/alexandru-chipciu-nicolae-stanciu-u-cluj-dalian-yingbo-997246.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Nicolae Stanciu a câștigat spectaculos titlul în China cu Dalian Yingbo",
+        "link": "https://agerpres.ro/sport-extern/2026/11/08/fotbal-nicolae-stanciu-a-castigat-spectaculos-titlul-in-china-cu-dalian-yingbo--1611222"
+      }
+    ],
+    "published_at": 1794133142,
+    "title_hu": "Nicolae Stanciu bajnok lett Kínában a Dalian Yingbóval",
+    "lead_hu": "A Dalian Yingbo az utolsó fordulóban 3–1-re legyőzte a Tianjin Jinmen Tigert, és a Chengdu Rongcheng vereségével megszerezte a kínai bajnoki címet. Nicolae Stanciu csapata azonos pontszámmal végzett riválisával, de az egymás elleni eredmények alapján az első helyen zárt.",
+    "content_hu": "• **Az utolsó fordulóban** a Dalian Yingbo 3–1-re nyert a Tianjin Jinmen Tiger ellen. A hazai csapat góljait Mingrui Yang, Jintao Liao és Shan Huang szerezte, a vendégektől Xadas büntetőből talált be. Stanciu 87 percet töltött a pályán.\n\n• **A bajnoki cím sorsa** a Chengdu Rongcheng mérkőzésén is eldőlt: a korábbi éllovas 3–2-re kikapott a Shandong Taishantól. A Dalian és a Chengdu egyaránt 52 ponttal fejezte be a szezont, az aranyérmet azonban az egymás elleni meccseken elért jobb eredményei miatt a Dalian kapta.\n\n• **A Dalian hajrája** különösen fontosnak bizonyult: sorozatban öt bajnoki győzelmet aratott, és az utolsó öt fordulóban ledolgozta a korábban összegyűlt 14 pontos hátrányát. A Chengdu ugyanezen időszakban mindössze egy pontot szerzett.\n\n• **Stanciu szezonmérlege** 27 bajnoki mérkőzésen tíz gól és öt gólpassz volt. A mostani elsőséggel pályafutása hetedik bajnoki címét szerezte meg; Kínában ez a második aranyérme, miután 2022-ben a Wuhan Three Townsszal is bajnok lett.\n\n• **Alexandru Chipciu**, a Kolozsvári U kapitánya a közösségi médiában gratulált barátjának, és utalt arra, hogy Stanciu esetleg a klubhoz igazolhat. A sajtóban megjelent információk szerint a középpályás a téli átigazolási időszakban csatlakozhat az U-hoz, de december 31-ig szerződés köti a Dalianhoz, így új csapatában januártól léphetne pályára.",
+    "title_ro": "Nicolae Stanciu a câștigat titlul în China cu Dalian Yingbo",
+    "lead_ro": "Dalian Yingbo a învins-o cu 3-1 pe Tianjin Jinmen Tiger în ultima etapă și a devenit campioană după ce Chengdu Rongcheng a pierdut. Cele două echipe au încheiat sezonul cu câte 52 de puncte, iar rezultatele directe au decis clasamentul.",
+    "content_ro": "• **În ultima etapă**, Dalian Yingbo s-a impus cu 3-1 în fața formației Tianjin Jinmen Tiger. Mingrui Yang, Jintao Liao și Shan Huang au înscris pentru gazde, iar Xadas a marcat pentru oaspeți din penalty. Nicolae Stanciu a jucat 87 de minute.\n\n• **Titlul s-a decis și prin rezultatul lui Chengdu Rongcheng**, echipă învinsă cu 3-2 în deplasare de Shandong Taishan. Dalian și Chengdu au acumulat fiecare 52 de puncte, însă formația lui Stanciu a terminat pe primul loc datorită avantajului din meciurile directe.\n\n• **Seria din finalul sezonului** a fost hotărâtoare pentru Dalian: echipa a obținut cinci victorii consecutive și a recuperat în ultimele cinci runde un deficit de 14 puncte. În același interval, Chengdu a adunat un singur punct.\n\n• **Bilanțul lui Stanciu** în campionat a fost de zece goluri și cinci pase decisive în 27 de partide. Acesta este al șaptelea titlu de campion din cariera sa și al doilea câștigat în China; în 2022, mijlocașul a devenit campion alături de Wuhan Three Towns.\n\n• **Alexandru Chipciu**, căpitanul lui U Cluj și prietenul lui Stanciu, l-a felicitat pe rețelele sociale și a sugerat posibilitatea unei mutări la clubul ardelean. Potrivit informațiilor apărute în presă, transferul ar putea avea loc în această iarnă. Stanciu este însă sub contract cu Dalian până la 31 decembrie, astfel că ar putea juca pentru U Cluj începând din ianuarie.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_63e212636c",
+    "fingerprint": "fd3b5f3428734c60bb988af7f0df738a",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Gest emoționant al clubului Tenerife după moartea lui Jesús de Miguel. Echipa îi va susține financiar fiica până la majorat",
+        "link": "https://www.mediafax.ro/sport/gest-emotionant-al-clubului-tenerife-dupa-moartea-lui-jesus-de-miguel-echipa-ii-va-sustine-financiar-fiica-pana-la-majorat-23839469"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Clubul Tenerife s-a angajat să o susţină financiar pe fiica lui Jesús de Miguel până când aceasta va împlini 18 ani",
+        "link": "https://stirileprotv.ro/stiri/sport/clubul-tenerife-s-a-angajat-sa-o-sus-ina-financiar-pe-fiica-lui-jesus-de-miguel-pana-cand-aceasta-va-implini-18-ani.html"
+      }
+    ],
+    "published_at": 1794131142,
+    "title_hu": "A Tenerife támogatja Jesús de Miguel családját",
+    "lead_hu": "A Tenerife klub hosszú távú segítséget ígért Jesús de Miguel családjának, különösen a futballista kislányának. A spanyol csatár november 3-án, 30 évesen halt meg, miután előző nap egy mérkőzésen súlyos ütközés érte.",
+    "content_hu": "• **A Tenerife vezetősége** azt vállalta, hogy a család mellett marad, és anyagi, valamint egyéb segítséget nyújt Carla számára legalább nagykorúságáig. A körülbelül egyéves kislány édesapja, Jesús de Miguel a klub játékosa volt.\n\n• **Antonio Manuel Porro Granados vezérigazgató** szerint a támogatás mértéke túlmutat a klub jogszabályi kötelezettségein. A kezdeményezés mögé állt Rayco García többségi tulajdonos is.\n\n• **A Fran Sol által indított adománygyűjtés** a GoFundMe platformon már meghaladta a 100 ezer eurót. A gyűjtés a játékos feleségét és lányát segíti; a támogatók között Álvaro Morata és Álex Baena spanyol válogatott labdarúgó is szerepel.\n\n• **A családnak járó alap-kártérítés** hozzávetőleg 360 ezer euró lehet. De Miguel november 3-án hunyt el, miután a Tenerife és az Andorra november 2-i, 2–2-re végződő találkozójának hosszabbításában összeütközött Jesús Owono kapussal.\n\n• **A mérkőzésen történt ütközés** során Owono térde a csatár mellkasát találta el. De Miguel eszméletét vesztette, a pályán ellátták, majd a mentőautóban sikerült visszaállítani a pulzusát; később szív- és légzésleállás következtében meghalt.",
+    "title_ro": "Tenerife promite sprijin familiei lui Jesús de Miguel",
+    "lead_ro": "Clubul Tenerife a anunțat că va sprijini pe termen lung familia lui Jesús de Miguel, în special pe fiica sa. Atacantul spaniol a murit la 30 de ani, pe 3 noiembrie, după ce fusese grav lovit în timpul unui meci disputat cu o zi înainte.",
+    "content_ro": "• **Conducerea clubului Tenerife** s-a angajat să ofere ajutor familiei și să o sprijine pe Carla cel puțin până la majorat. Fetița, care are aproximativ un an, este fiica lui Jesús de Miguel, fostul jucător al echipei.\n\n• **Directorul general Antonio Manuel Porro Granados** a precizat că ajutorul promis nu se limitează la obligațiile legale ale clubului. Inițiativa este susținută și de Rayco García, acționarul majoritar al Tenerife.\n\n• **Campania de donații lansată de Fran Sol** pentru soția și fiica fotbalistului a strâns peste 100.000 de euro pe GoFundMe. Printre cei care au contribuit se numără și internaționalii spanioli Álvaro Morata și Álex Baena.\n\n• **Despăgubirea de bază estimată pentru familie** este de aproximativ 360.000 de euro. De Miguel a murit pe 3 noiembrie, după ce, în prelungirile partidei Tenerife–Andorra din ziua precedentă, încheiată 2–2, s-a ciocnit cu portarul Jesús Owono.\n\n• **Lovitura din timpul jocului** l-a făcut pe atacant să-și piardă cunoștința, iar echipele medicale i-au acordat îngrijiri pe teren. Pulsul i-a fost restabilit în ambulanță, însă De Miguel a murit ulterior în urma unui stop cardiorespirator; avea 30 de ani.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_34396fc659",
@@ -4005,6 +4066,33 @@
     "importance_score": 23.0
   },
   {
+    "group_id": "group_2179e86c5b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Trei bărbați, executați în Iran, în legătură cu protestele din ianuarie",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/trei-barbati-executati-in-iran-in-legatura-cu-protestele-din-ianuarie--1611200"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Iranul continuă execuțiile pentru protestele din ianuarie. Acuzațiile aduse celor trei bărbaţi omorâți duminică",
+        "link": "https://hotnews.ro/iranul-continua-executiile-pentru-protestele-din-ianuarie-acuzatiile-aduse-celor-trei-barbati-omorati-duminica-2398414"
+      }
+    ],
+    "published_at": 1794096000,
+    "title_hu": "Trei bărbați, executați în Iran, în legătură cu protestele din ianuarie",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Trei bărbați, executați în Iran, în legătură cu protestele din ianuarie",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 20.0
+  },
+  {
     "group_id": "group_0d613ee69d",
     "category": "Általános",
     "is_synthesized": false,
@@ -4138,6 +4226,28 @@
     "title_ro": "Regizorul bihorean Marian Crișan dezvăluie ce a inspirat noul său film. Când se vede „Lumina” în cinema (VIDEO)",
     "lead_ro": "O întâlnire întâmplătoare cu un prieten preot din Salonta, în vara anului 2020, a stat la originea noului film al regizorului bihorean Marian Crișan, „Lumina”. Cineastul a povestit, într-un video publ...",
     "content_ro": "O întâlnire întâmplătoare cu un prieten preot din Salonta, în vara anului 2020, a stat la originea noului film al regizorului bihorean Marian Crișan, „Lumina”. Cineastul a povestit, într-un video publicat pe pagina oficială de Facebook a producției, cum relatarea despre drumul Luminii Sfinte, aduse în România în primul an al pandemiei, i-a inspirat povestea pe care a transformat-o ulterior într-un lungmetraj. Filmul va ajunge în cinematografe pe 27 noiembrie.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_687450c508",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "În pericol, după a șaptea înfrângere la rând în Superligă? Ce spune Florin Pîrvu",
+        "link": "https://www.gsp.ro/fotbal/liga-1/florin-pirvu-sepsi-fc-voluntari-997344.html"
+      }
+    ],
+    "published_at": 1794154532,
+    "title_hu": "În pericol, după a șaptea înfrângere la rând în Superligă? Ce spune Florin Pîrvu",
+    "lead_hu": "Florin Pîrvu (51 de ani), antrenorul lui FC Voluntari, a comentat înfrângerea cu Sepsi OSK, 1-2 în etapa 15 a Superligii. Este al șaptele eșec la rând pentru echipa ilfoveană, iar postul antrenorului ...",
+    "content_hu": "Florin Pîrvu (51 de ani), antrenorul lui FC Voluntari, a comentat înfrângerea cu Sepsi OSK, 1-2 în etapa 15 a Superligii. Este al șaptele eșec la rând pentru echipa ilfoveană, iar postul antrenorului pare să se clatine. FC Voluntari nu reușește să întrerupă seria neagră. Înfrângerea de astăzi, 1-2 contra altei nou-promovate, Sepsi OSK, a fost a șaptea la rând, ceea ce înseamnă că ilfovenii încheie turul cu doar 8 puncte. ...",
+    "title_ro": "În pericol, după a șaptea înfrângere la rând în Superligă? Ce spune Florin Pîrvu",
+    "lead_ro": "Florin Pîrvu (51 de ani), antrenorul lui FC Voluntari, a comentat înfrângerea cu Sepsi OSK, 1-2 în etapa 15 a Superligii. Este al șaptele eșec la rând pentru echipa ilfoveană, iar postul antrenorului ...",
+    "content_ro": "Florin Pîrvu (51 de ani), antrenorul lui FC Voluntari, a comentat înfrângerea cu Sepsi OSK, 1-2 în etapa 15 a Superligii. Este al șaptele eșec la rând pentru echipa ilfoveană, iar postul antrenorului pare să se clatine. FC Voluntari nu reușește să întrerupă seria neagră. Înfrângerea de astăzi, 1-2 contra altei nou-promovate, Sepsi OSK, a fost a șaptea la rând, ceea ce înseamnă că ilfovenii încheie turul cu doar 8 puncte. ...",
     "importance_score": 0.0
   },
   {
@@ -4380,28 +4490,6 @@
     "title_ro": "Un alpinist de 21 de ani este anchetat după ce și-ar fi abandonat partenera de 17 ani pe un munte din Alpi. Fata a fost salvată cu elicopterul",
     "lead_ro": "Un alpinist în vârstă de 21 de ani este cercetat penal după ce ar fi lăsat singură o adolescentă de 17 ani în timpul unei ascensiuni pe muntele Zugspitze, cel mai înalt vârf din Germania.",
     "content_ro": "Un alpinist în vârstă de 21 de ani este cercetat penal după ce ar fi lăsat singură o adolescentă de 17 ani în timpul unei ascensiuni pe muntele Zugspitze, cel mai înalt vârf din Germania.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2c360ad68a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Emblema controversată găsită pe echipamentul atacatorului din Cracovia. A fost purtată și de forțele speciale americane",
-        "link": "https://stirileprotv.ro/stiri/politic/emblema-controversata-gasita-pe-echipamentul-atacatorului-din-cracovia-a-fost-purtata-si-de-fortele-speciale-americane.html"
-      }
-    ],
-    "published_at": 1794152294,
-    "title_hu": "Emblema controversată găsită pe echipamentul atacatorului din Cracovia. A fost purtată și de forțele speciale americane",
-    "lead_hu": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a ră…",
-    "content_hu": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a rănit alte câteva zeci în Cracovia.",
-    "title_ro": "Emblema controversată găsită pe echipamentul atacatorului din Cracovia. A fost purtată și de forțele speciale americane",
-    "lead_ro": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a ră…",
-    "content_ro": "Un schelet cu coarne, care ține o clepsidră într-o mână și o suliță ce străpunge o inimă însângerată în cealaltă. Aceasta este emblema purtată de tânărul de 24 de ani care a ucis șase persoane și a rănit alte câteva zeci în Cracovia.",
     "importance_score": 0.0
   },
   {
@@ -13843,72 +13931,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_d24c9f8dfe",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Un campion NBA cu peste 500 de meciuri în liga nord-americană a anunțat că se retrage din sport: „Îmi pun sănătatea pe primul loc”",
-        "link": "https://www.gsp.ro/sporturi/baschet/kristaps-porzingis-nba-retragere-motive-medicale-996965.html"
-      }
-    ],
-    "published_at": 1794068601,
-    "title_hu": "Un campion NBA cu peste 500 de meciuri în liga nord-americană a anunțat că se retrage din sport: „Îmi pun sănătatea pe primul loc”",
-    "lead_hu": "Kristaps Porzingis (31 de ani), baschetbalist cu peste 500 de meciuri în NBA, și-a anunțat retragerea din acest sport, alegând să își prioritizeze sănătatea. În această vară, jucătorul leton semnase u…",
-    "content_hu": "Kristaps Porzingis (31 de ani), baschetbalist cu peste 500 de meciuri în NBA, și-a anunțat retragerea din acest sport, alegând să își prioritizeze sănătatea. În această vară, jucătorul leton semnase un contract valabil pe două sezoane cu Golden State Warriors, în valoare de 40 de milioane de dolari. Kristaps Porzingis a fost transferat de Golden State Warriors în timpul stagiunii 2025-2026, în schimbul lui Buddy Hield și al lui Jonathan Kuminga. ...",
-    "title_ro": "Un campion NBA cu peste 500 de meciuri în liga nord-americană a anunțat că se retrage din sport: „Îmi pun sănătatea pe primul loc”",
-    "lead_ro": "Kristaps Porzingis (31 de ani), baschetbalist cu peste 500 de meciuri în NBA, și-a anunțat retragerea din acest sport, alegând să își prioritizeze sănătatea. În această vară, jucătorul leton semnase u…",
-    "content_ro": "Kristaps Porzingis (31 de ani), baschetbalist cu peste 500 de meciuri în NBA, și-a anunțat retragerea din acest sport, alegând să își prioritizeze sănătatea. În această vară, jucătorul leton semnase un contract valabil pe două sezoane cu Golden State Warriors, în valoare de 40 de milioane de dolari. Kristaps Porzingis a fost transferat de Golden State Warriors în timpul stagiunii 2025-2026, în schimbul lui Buddy Hield și al lui Jonathan Kuminga. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b40fa056eb",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Controversă după ce fiului şahului a primit, în Germania, un premiu destinat poporului iranian",
-        "link": "https://hotnews.ro/controversa-dupa-ce-fiului-sahului-a-primit-in-germania-un-premiu-destinat-poporului-iranian-2397726"
-      }
-    ],
-    "published_at": 1794068587,
-    "title_hu": "Controversă după ce fiului şahului a primit, în Germania, un premiu destinat poporului iranian",
-    "lead_hu": "Fiul şahului detronat al Iranului, Reza Pahlavi, a primit sâmbătă la Frankfurt, în Germania, un premiu pentru libertate în cadrul unei ceremonii controversate, criticii săi considerându-l nelegitim pe…",
-    "content_hu": "Fiul şahului detronat al Iranului, Reza Pahlavi, a primit sâmbătă la Frankfurt, în Germania, un premiu pentru libertate în cadrul unei ceremonii controversate, criticii săi considerându-l nelegitim pentru a primi această recompensă destinată poporului iranian, transmit agențiile France Presse și Agerpres. Mii de susţinători şi-au demonstrat totuşi sprijinul pentru Reza Pahlavi pe străzile din Frankfurt …",
-    "title_ro": "Controversă după ce fiului şahului a primit, în Germania, un premiu destinat poporului iranian",
-    "lead_ro": "Fiul şahului detronat al Iranului, Reza Pahlavi, a primit sâmbătă la Frankfurt, în Germania, un premiu pentru libertate în cadrul unei ceremonii controversate, criticii săi considerându-l nelegitim pe…",
-    "content_ro": "Fiul şahului detronat al Iranului, Reza Pahlavi, a primit sâmbătă la Frankfurt, în Germania, un premiu pentru libertate în cadrul unei ceremonii controversate, criticii săi considerându-l nelegitim pentru a primi această recompensă destinată poporului iranian, transmit agențiile France Presse și Agerpres. Mii de susţinători şi-au demonstrat totuşi sprijinul pentru Reza Pahlavi pe străzile din Frankfurt …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_344e59fa13",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Surpriză! Decizia luată azi de antrenorul lui Eyupspor în privința lui Horațiu Moldovan",
-        "link": "https://www.gsp.ro/international/stranieri/decizie-eyupspor-horatiu-moldovan-kocaelispor-996961.html"
-      }
-    ],
-    "published_at": 1794068518,
-    "title_hu": "Surpriză! Decizia luată azi de antrenorul lui Eyupspor în privința lui Horațiu Moldovan",
-    "lead_hu": "Horațiu Moldovan (28 de ani), portarul celor de la Eyupspor, a revenit între buturi sâmbătă, la doar trei zile după ce impresarul său a anunțat că internaționalul român va părăsi formația turcă în per…",
-    "content_hu": "Horațiu Moldovan (28 de ani), portarul celor de la Eyupspor, a revenit între buturi sâmbătă, la doar trei zile după ce impresarul său a anunțat că internaționalul român va părăsi formația turcă în perioada de mercato din iarnă. Titularizat de antrenorul Mustafa Dalci, Moldovan nu a reușit să evite înfrângerea echipei sale pe teren propriu, scor 0-2 cu Kocaelispor, în etapa a 11-a din campionatul Turciei. ...",
-    "title_ro": "Surpriză! Decizia luată azi de antrenorul lui Eyupspor în privința lui Horațiu Moldovan",
-    "lead_ro": "Horațiu Moldovan (28 de ani), portarul celor de la Eyupspor, a revenit între buturi sâmbătă, la doar trei zile după ce impresarul său a anunțat că internaționalul român va părăsi formația turcă în per…",
-    "content_ro": "Horațiu Moldovan (28 de ani), portarul celor de la Eyupspor, a revenit între buturi sâmbătă, la doar trei zile după ce impresarul său a anunțat că internaționalul român va părăsi formația turcă în perioada de mercato din iarnă. Titularizat de antrenorul Mustafa Dalci, Moldovan nu a reușit să evite înfrângerea echipei sale pe teren propriu, scor 0-2 cu Kocaelispor, în etapa a 11-a din campionatul Turciei. ...",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_fceb70e122",
     "fingerprint": "7fa36b0950b615e1f31d47ff96642e2f",
     "category": "Általános",
@@ -13936,35 +13958,6 @@
     "lead_ro": "O întrerupere extinsă a electricității, menținută mai multe zile, ar putea afecta alimentarea cu apă, transportul și comunicațiile. Guvernul britanic încurajează pregătirea populației, iar BBC ia în calcul o soluție radio care poate funcționa fără internet.",
     "content_ro": "• **Scenariul „Black Sky”** desemnează o pană de curent de mare amploare și durată, capabilă să afecteze simultan servicii esențiale. Oprirea pompelor electrice ar putea întrerupe distribuția apei, iar activitatea magazinelor, benzinăriilor și bancomatelor ar putea fi, de asemenea, perturbată.\n\n• **Efectele s-ar putea extinde la transport și comunicații:** circulația trenurilor ar putea fi blocată, iar internetul și rețelele mobile ar putea deveni indisponibile. Într-o asemenea situație, oamenii s-ar putea confrunta nu doar cu lipsa iluminatului și a încălzirii, ci și cu dificultăți în accesarea mai multor servicii de zi cu zi.\n\n• **La un summit recent privind pregătirea Marii Britanii pentru crize,** specialiștii au discutat despre capacitatea țării de a rezista cel puțin 72 de ore în astfel de condiții. Prin campania „Be Ready”, guvernul îi îndeamnă pe cetățeni să păstreze acasă apă, alimente și alte bunuri esențiale pentru minimum trei zile.\n\n• **BBC pregătește un studio radio special** pentru situația în care o pană majoră ar afecta internetul, televiziunea și mijloacele obișnuite de comunicare. Planul prevede implicarea a aproximativ 100 de angajați și utilizarea unor sisteme de transmitere care nu depind de conexiunea la internet.\n\n• **Studioul ar urma să aibă provizii pentru cel puțin trei zile:** combustibil, apă și hrană, fără să se bazeze pe aprovizionare din exterior. Emisiunile ar putea include știri și mesaje guvernamentale pregătite dinainte, cu recomandări practice despre consumul apei, păstrarea alimentelor și gestionarea deșeurilor dacă alimentarea cu apă sau canalizarea nu mai funcționează.",
     "importance_score": 28.0
-  },
-  {
-    "group_id": "group_63e212636c",
-    "fingerprint": "fd3b5f3428734c60bb988af7f0df738a",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Gest emoționant al clubului Tenerife după moartea lui Jesús de Miguel. Echipa îi va susține financiar fiica până la majorat",
-        "link": "https://www.mediafax.ro/sport/gest-emotionant-al-clubului-tenerife-dupa-moartea-lui-jesus-de-miguel-echipa-ii-va-sustine-financiar-fiica-pana-la-majorat-23839469"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Clubul Tenerife s-a angajat să o susţină financiar pe fiica lui Jesús de Miguel până când aceasta va împlini 18 ani",
-        "link": "https://stirileprotv.ro/stiri/sport/clubul-tenerife-s-a-angajat-sa-o-sus-ina-financiar-pe-fiica-lui-jesus-de-miguel-pana-cand-aceasta-va-implini-18-ani.html"
-      }
-    ],
-    "published_at": 1794131142,
-    "title_hu": "A Tenerife támogatja Jesús de Miguel családját",
-    "lead_hu": "A Tenerife klub hosszú távú segítséget ígért Jesús de Miguel családjának, különösen a futballista kislányának. A spanyol csatár november 3-án, 30 évesen halt meg, miután előző nap egy mérkőzésen súlyos ütközés érte.",
-    "content_hu": "• **A Tenerife vezetősége** azt vállalta, hogy a család mellett marad, és anyagi, valamint egyéb segítséget nyújt Carla számára legalább nagykorúságáig. A körülbelül egyéves kislány édesapja, Jesús de Miguel a klub játékosa volt.\n\n• **Antonio Manuel Porro Granados vezérigazgató** szerint a támogatás mértéke túlmutat a klub jogszabályi kötelezettségein. A kezdeményezés mögé állt Rayco García többségi tulajdonos is.\n\n• **A Fran Sol által indított adománygyűjtés** a GoFundMe platformon már meghaladta a 100 ezer eurót. A gyűjtés a játékos feleségét és lányát segíti; a támogatók között Álvaro Morata és Álex Baena spanyol válogatott labdarúgó is szerepel.\n\n• **A családnak járó alap-kártérítés** hozzávetőleg 360 ezer euró lehet. De Miguel november 3-án hunyt el, miután a Tenerife és az Andorra november 2-i, 2–2-re végződő találkozójának hosszabbításában összeütközött Jesús Owono kapussal.\n\n• **A mérkőzésen történt ütközés** során Owono térde a csatár mellkasát találta el. De Miguel eszméletét vesztette, a pályán ellátták, majd a mentőautóban sikerült visszaállítani a pulzusát; később szív- és légzésleállás következtében meghalt.",
-    "title_ro": "Tenerife promite sprijin familiei lui Jesús de Miguel",
-    "lead_ro": "Clubul Tenerife a anunțat că va sprijini pe termen lung familia lui Jesús de Miguel, în special pe fiica sa. Atacantul spaniol a murit la 30 de ani, pe 3 noiembrie, după ce fusese grav lovit în timpul unui meci disputat cu o zi înainte.",
-    "content_ro": "• **Conducerea clubului Tenerife** s-a angajat să ofere ajutor familiei și să o sprijine pe Carla cel puțin până la majorat. Fetița, care are aproximativ un an, este fiica lui Jesús de Miguel, fostul jucător al echipei.\n\n• **Directorul general Antonio Manuel Porro Granados** a precizat că ajutorul promis nu se limitează la obligațiile legale ale clubului. Inițiativa este susținută și de Rayco García, acționarul majoritar al Tenerife.\n\n• **Campania de donații lansată de Fran Sol** pentru soția și fiica fotbalistului a strâns peste 100.000 de euro pe GoFundMe. Printre cei care au contribuit se numără și internaționalii spanioli Álvaro Morata și Álex Baena.\n\n• **Despăgubirea de bază estimată pentru familie** este de aproximativ 360.000 de euro. De Miguel a murit pe 3 noiembrie, după ce, în prelungirile partidei Tenerife–Andorra din ziua precedentă, încheiată 2–2, s-a ciocnit cu portarul Jesús Owono.\n\n• **Lovitura din timpul jocului** l-a făcut pe atacant să-și piardă cunoștința, iar echipele medicale i-au acordat îngrijiri pe teren. Pulsul i-a fost restabilit în ambulanță, însă De Miguel a murit ulterior în urma unui stop cardiorespirator; avea 30 de ani.",
-    "importance_score": 23.0
   },
   {
     "group_id": "group_972aec7150",
@@ -14336,28 +14329,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Datoria guvernamentală a crescut, în august 2026, cu 25 miliarde lei, la 61,1% din PIB (minister)",
-    "lead_ro": "",
-    "content_ro": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2179e86c5b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Trei bărbați, executați în Iran, în legătură cu protestele din ianuarie",
-        "link": "https://agerpres.ro/politic-extern/2026/11/08/trei-barbati-executati-in-iran-in-legatura-cu-protestele-din-ianuarie--1611200"
-      }
-    ],
-    "published_at": 1794096000,
-    "title_hu": "Trei bărbați, executați în Iran, în legătură cu protestele din ianuarie",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Trei bărbați, executați în Iran, în legătură cu protestele din ianuarie",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 0.0
