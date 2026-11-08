@@ -6,7 +6,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 56,
+    "sources_count": 57,
     "sources": [
       {
         "source": "Adevărul",
@@ -287,6 +287,11 @@
         "source": "Agerpres (HU)",
         "title": "Atac în Cracovia/MAE: Autoritățile poloneze nu au confirmat existența unor cetățeni români printre victime",
         "link": "https://agerpres.ro/politic/2026/11/07/atac-in-cracovia-mae-autoritatile-poloneze-nu-au-confirmat-existenta-unor-cetateni-romani-printre-vi--1611154"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Polonia își plânge morții atacului armat de la Cracovia; poliția investighează motivele acestuia",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/polonia-isi-plange-mortii-atacului-armat-de-la-cracovia-politia-investigheaza-motivele-acestuia--1611180"
       }
     ],
     "published_at": 1794123350,
@@ -296,7 +301,7 @@
     "title_ro": "Șase morți și 15 răniți în atacul armat din Cracovia",
     "lead_ro": "Atacul armat din Cracovia, din 7 noiembrie, s-a soldat cu șase morți și 15 răniți. Poliția îl consideră suspect unic pe un polonez de 25 de ani, iar anchetatorii continuă să verifice motivația și circumstanțele cazului, inclusiv descoperirea a trei trupuri la locuința acestuia.",
     "content_ro": "• **Pe 7 noiembrie, după ora 15:00,** un bărbat a tras dintr-o mașină în zona Pieței Centrale și pe străzile din apropiere. Gloanțele au avariat un geam al unui tramvai și vitrine, fără ca vreun pasager să fie rănit.\n\n• **Bilanțul anunțat de autorități este de șase morți și 15 răniți.** Printre decedați se numără trei femei poloneze și un cetățean britanic; identitatea altor două persoane nu fusese încă stabilită. Printre răniții străini se află, potrivit unor anunțuri oficiale, o portugheză de 74 de ani și un cetățean rus.\n\n• **Intervenția poliției a început la scurt timp după alertă:** ministrul de Interne a spus că agenții au tras asupra atacatorului la trei minute de la apel, iar ambulanțele și pompierii au sosit în același interval. Au fost mobilizate aproximativ 30 de echipaje, iar suspectul a fost prins în jurul orei 16:00. Doi polițiști au fost răniți.\n\n• **Trei persoane au fost găsite moarte în locuința suspectului.** Autoritățile cred că ar putea fi rude apropiate, iar un reprezentant al poliției a indicat că victimele ar fi părinții și sora acestuia. Presa a relatat că bărbatul avea permis pentru arme de tir sportiv și nu fusese anterior în evidența poliției.\n\n• **Anchetatorii verifică motivația și posibila influență a ideologiei de extremă dreaptă.** Până acum nu au prezentat dovezi privind legături cu o organizație teroristă. Doliul național din Polonia este stabilit pentru 8 și 9 noiembrie, iar cel municipal din Cracovia se prelungește până pe 11 noiembrie. MAE român nu are confirmarea unor victime române sau a unor solicitări de asistență consulară.",
-    "importance_score": 575.0
+    "importance_score": 585.0
   },
   {
     "group_id": "group_eab04ddcc1",
@@ -2141,6 +2146,33 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_2134e8833e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un turist şi-a găsit sfârșitul în timpul unei drumeții în Masivul Retezat, după ce a alunecat pe gheaţă",
+        "link": "https://stirileprotv.ro/stiri/actualitate/un-turist-si-a-gasit-sfarsitul-in-timpul-unei-drumetii-in-masivul-retezat-dupa-ce-a-alunecat-pe-ghea-a.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Hunedoara: Un turist și-a pierdut viața, după ce a alunecat pe gheață în Retezat",
+        "link": "https://agerpres.ro/social/2026/11/08/hunedoara-un-turist-si-a-pierdut-viata-dupa-ce-a-alunecat-pe-gheata-in-retezat--1611187"
+      }
+    ],
+    "published_at": 1794123651,
+    "title_hu": "Un turist şi-a găsit sfârșitul în timpul unei drumeții în Masivul Retezat, după ce a alunecat pe gheaţă",
+    "lead_hu": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
+    "content_hu": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
+    "title_ro": "Un turist şi-a găsit sfârșitul în timpul unei drumeții în Masivul Retezat, după ce a alunecat pe gheaţă",
+    "lead_ro": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
+    "content_ro": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_489d4498a1",
     "category": "Általános",
     "is_synthesized": false,
@@ -3618,33 +3650,92 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_fa07661ea7",
-    "fingerprint": "975df4fbf398ab31fa33edf63983856d",
+    "group_id": "group_3db9748c59",
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
+    "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "ProTV Stiri",
-        "title": "Studiu: Activitatea cerebrală ar putea indica riscul de Alzheimer cu până la 12 ani înaintea apariţiei simptomelor",
-        "link": "https://stirileprotv.ro/stiri/stiinta/studiu-activitatea-cerebrala-ar-putea-indica-riscul-de-alzheimer-cu-pana-la-12-ani-inaintea-apari-iei-simptomelor.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Activitatea cerebrală ar putea indica riscul de Alzheimer cu până la 12 ani înaintea apariţiei simptomelor",
-        "link": "https://hotnews.ro/activitatea-cerebrala-ar-putea-indica-riscul-de-alzheimer-cu-pana-la-12-ani-inaintea-aparitiei-simptomelor-2397502"
+        "source": "G4Media",
+        "title": "Varșovia ia măsuri după atacul din Cracovia: Vor fi instalate bariere de beton pe străzile care duc spre Krakowskie Przedmieście, cea mai cunoscută arteră din capitala Poloniei",
+        "link": "https://www.g4media.ro/varsovia-ia-masuri-dupa-atacul-din-cracovia-vor-fi-instalate-bariere-de-beton-pe-strazile-care-duc-spre-krakowskie-przedmiescie-cea-mai-cunoscuta-artera-din-capitala-poloniei.html"
       }
     ],
-    "published_at": 1794041210,
-    "title_hu": "Agyi kapcsolatok jelezhetik előre az Alzheimer-kór kockázatát",
-    "lead_hu": "Egy, a Science Advances folyóiratban közölt kutatás szerint az agyterületek együttműködésének mintázatai évekkel a tünetek megjelenése előtt összefügghetnek a kognitív hanyatlás és az Alzheimer-kór kockázatával. A Stanford Medicine kutatói funkcionális MRI-felvételeket elemeztek; az eredményeket korai kockázatbecslésre használható jelzések lehetséges alapjaként értelmezik.",
-    "content_hu": "• **A kutatás akár 12 évvel korábbi jelzések lehetőségét veti fel:** az agyi aktivitás bizonyos sajátosságai kapcsolatban állhatnak azzal, hogy később kialakul-e kognitív hanyatlás vagy Alzheimer-kór. A közölt eredmény nem a betegség biztos, tünetek előtti diagnózisát jelenti, hanem a fokozott kockázat korai felismerésének lehetőségét.\n\n• **A tanulmányt a Stanford Medicine kutatói vezették**, és az eredményeket szerdán tették közzé a Science Advances című tudományos folyóiratban. A munka az agyi funkcionális összeköttetéseket vizsgálta: azt, hogy a különböző területek aktivitása miként hangolódik össze, nyugalmi állapotban is.\n\n• **A vizsgálathoz funkcionális MRI-t alkalmaztak.** Ez a módszer az idegi aktivitáshoz társuló véráramlás-változások alapján teszi megfigyelhetővé az agy egyes régióinak működését. A kutatók az így kapott felvételekben keresték azokat a mintázatokat, amelyek összefügghetnek a későbbi kognitív állapottal.\n\n• **Az első összehasonlításban 180, legalább 75 éves, kivételesen jól megőrzött memóriájú résztvevő adatait vetették össze 110 Alzheimer-kórral diagnosztizált betegével.** A „SuperAgers” néven említett idősebb emberek memóriateljesítménye a náluk jóval fiatalabbakéhoz volt mérhető. Az elemzés a kognitív képességek megőrzésével, illetve romlásával társuló agyi kommunikációs mintákat keresett.",
-    "title_ro": "Conexiunile cerebrale ar putea semnala riscul de Alzheimer",
-    "lead_ro": "Un studiu publicat în revista Science Advances indică faptul că tiparele de coordonare dintre regiunile creierului ar putea avea legătură cu riscul de declin cognitiv și Alzheimer cu ani înainte de apariția simptomelor. Cercetătorii de la Stanford Medicine au analizat imagini RMN funcționale, iar rezultatele sugerează o posibilă cale de evaluare timpurie a riscului.",
-    "content_ro": "• **Cercetarea ridică posibilitatea identificării unor indicii cu până la 12 ani înaintea simptomelor:** anumite caracteristici ale activității cerebrale ar putea fi asociate cu apariția ulterioară a declinului cognitiv sau a bolii Alzheimer. Rezultatele nu echivalează cu un diagnostic sigur înainte de manifestările clinice, ci indică potențialul unei evaluări timpurii a riscului.\n\n• **Studiul a fost coordonat de cercetători de la Stanford Medicine** și publicat miercuri în revista științifică Science Advances. Analiza s-a concentrat asupra conectivității funcționale, adică asupra felului în care activitatea diferitelor regiuni cerebrale se sincronizează, inclusiv în perioadele de repaus.\n\n• **Pentru examinarea creierului a fost folosit RMN-ul funcțional.** Tehnica surprinde schimbările fluxului sanguin asociate activității neuronale și permite evaluarea funcționării unor zone cerebrale. Cercetătorii au căutat în aceste date tipare care ar putea fi legate de evoluția ulterioară a capacităților cognitive.\n\n• **Prima etapă a comparat 180 de persoane de cel puțin 75 de ani, cu memorie neobișnuit de bine păstrată, și 110 pacienți diagnosticați cu Alzheimer.** Performanțele de memorie ale grupului numit „SuperAgers” erau comparabile cu cele ale unor persoane mult mai tinere. Analiza a urmărit diferențe ale comunicării dintre regiunile cerebrale asociate cu păstrarea capacităților cognitive sau cu declinul acestora.",
-    "importance_score": 20.0
+    "published_at": 1794127821,
+    "title_hu": "Varșovia ia măsuri după atacul din Cracovia: Vor fi instalate bariere de beton pe străzile care duc spre Krakowskie Przedmieście, cea mai cunoscută arteră din capitala Poloniei",
+    "lead_hu": "Sâmbătă, serviciile municipale din Varșovia au început să amplaseze bariere rutiere din beton pe străzile care duc spre Krakowskie Przedmieście, transmite Rzeczpospolita. Primarul orașului, Rafał Trza...",
+    "content_hu": "Sâmbătă, serviciile municipale din Varșovia au început să amplaseze bariere rutiere din beton pe străzile care duc spre Krakowskie Przedmieście, transmite Rzeczpospolita. Primarul orașului, Rafał Trzaskowski, a luat această decizie în urma recomandărilor poliției, după tragedia din Cracovia. Rafał Trzaskowski a anunțat sâmbătă că, în conformitate cu recomandările poliției, serviciile municipale au început să instaleze […] © G4Media.ro.",
+    "title_ro": "Varșovia ia măsuri după atacul din Cracovia: Vor fi instalate bariere de beton pe străzile care duc spre Krakowskie Przedmieście, cea mai cunoscută arteră din capitala Poloniei",
+    "lead_ro": "Sâmbătă, serviciile municipale din Varșovia au început să amplaseze bariere rutiere din beton pe străzile care duc spre Krakowskie Przedmieście, transmite Rzeczpospolita. Primarul orașului, Rafał Trza...",
+    "content_ro": "Sâmbătă, serviciile municipale din Varșovia au început să amplaseze bariere rutiere din beton pe străzile care duc spre Krakowskie Przedmieście, transmite Rzeczpospolita. Primarul orașului, Rafał Trzaskowski, a luat această decizie în urma recomandărilor poliției, după tragedia din Cracovia. Rafał Trzaskowski a anunțat sâmbătă că, în conformitate cu recomandările poliției, serviciile municipale au început să instaleze […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_8c74e8d8f5",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Doi renumiți chirurgi se aflau la un restaurant în apropierea zonei atacului din Cracovia. Au fost salvatorii poliștilor răniți",
+        "link": "https://www.digi24.ro/stiri/externe/doi-renumiti-chirurgi-se-aflau-la-un-restaurant-in-apropierea-zonei-atacului-din-cracovia-au-fost-salvatorii-polistilor-raniti-4026587"
+      }
+    ],
+    "published_at": 1794127718,
+    "title_hu": "Doi renumiți chirurgi se aflau la un restaurant în apropierea zonei atacului din Cracovia. Au fost salvatorii poliștilor răniți",
+    "lead_hu": "Se pare că cei doi ofițeri de poliție grav răniți care l-au învins pe autorul atacului de la Cracovia de sâmbătă după-amiază au avut și puțin noroc. Doi chirurgi cunoscuți și respectați din Cracovia l...",
+    "content_hu": "Se pare că cei doi ofițeri de poliție grav răniți care l-au învins pe autorul atacului de la Cracovia de sâmbătă după-amiază au avut și puțin noroc. Doi chirurgi cunoscuți și respectați din Cracovia luau masa la un restaurant din apropierea locului unde aceștia au fost împușcați. Unul dintre ei era profesorul Michał Pędziwiatr. După cum a aflat publicația Fakt, acesta l-a operat ulterior și pe ofițerul rănit. Polonia a declarat două zile de doliu național.",
+    "title_ro": "Doi renumiți chirurgi se aflau la un restaurant în apropierea zonei atacului din Cracovia. Au fost salvatorii poliștilor răniți",
+    "lead_ro": "Se pare că cei doi ofițeri de poliție grav răniți care l-au învins pe autorul atacului de la Cracovia de sâmbătă după-amiază au avut și puțin noroc. Doi chirurgi cunoscuți și respectați din Cracovia l...",
+    "content_ro": "Se pare că cei doi ofițeri de poliție grav răniți care l-au învins pe autorul atacului de la Cracovia de sâmbătă după-amiază au avut și puțin noroc. Doi chirurgi cunoscuți și respectați din Cracovia luau masa la un restaurant din apropierea locului unde aceștia au fost împușcați. Unul dintre ei era profesorul Michał Pędziwiatr. După cum a aflat publicația Fakt, acesta l-a operat ulterior și pe ofițerul rănit. Polonia a declarat două zile de doliu național.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_21e90009a7",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Rusia își asumă tot mai multe riscuri, iar termenul „război hibrid“ nu mai descrie amploarea amenințării, spune șeful Statului Major al armatei britanice",
+        "link": "https://adevarul.ro/stiri-externe/europa/rusia-isi-asuma-tot-mai-multe-riscuri-iar-2569780.html"
+      }
+    ],
+    "published_at": 1794127627,
+    "title_hu": "Rusia își asumă tot mai multe riscuri, iar termenul „război hibrid“ nu mai descrie amploarea amenințării, spune șeful Statului Major al armatei britanice",
+    "lead_hu": "Marea Britanie este în urma altor state europene în ceea ce privește înțelegerea amenințării reprezentate de Rusia, iar disponibilitatea Moscovei de a-și asuma riscuri a crescut, susține șeful Statulu...",
+    "content_hu": "Marea Britanie este în urma altor state europene în ceea ce privește înțelegerea amenințării reprezentate de Rusia, iar disponibilitatea Moscovei de a-și asuma riscuri a crescut, susține șeful Statului Major al armatei britanice, Richard Knighton, î",
+    "title_ro": "Rusia își asumă tot mai multe riscuri, iar termenul „război hibrid“ nu mai descrie amploarea amenințării, spune șeful Statului Major al armatei britanice",
+    "lead_ro": "Marea Britanie este în urma altor state europene în ceea ce privește înțelegerea amenințării reprezentate de Rusia, iar disponibilitatea Moscovei de a-și asuma riscuri a crescut, susține șeful Statulu...",
+    "content_ro": "Marea Britanie este în urma altor state europene în ceea ce privește înțelegerea amenințării reprezentate de Rusia, iar disponibilitatea Moscovei de a-și asuma riscuri a crescut, susține șeful Statului Major al armatei britanice, Richard Knighton, î",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_efa58dfee3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cum pot fi transformate deșeurile din plastic într-un material valoros. Cercetătorii au obținut un produs cu proprietăți neașteptate",
+        "link": "https://www.mediafax.ro/life-inedit/cum-pot-fi-transformate-deseurile-din-plastic-intr-un-material-valoros-cercetatorii-au-obtinut-un-produs-cu-proprietati-neasteptate-23838062"
+      }
+    ],
+    "published_at": 1794127509,
+    "title_hu": "Cum pot fi transformate deșeurile din plastic într-un material valoros. Cercetătorii au obținut un produs cu proprietăți neașteptate",
+    "lead_hu": "Pungile și alte ambalaje din plastic, considerate adesea deșeuri greu de valorificat, ar putea deveni materii prime pentru produse mult mai valoroase. Cercetătorii elvețieni au descoperit o metodă pri...",
+    "content_hu": "Pungile și alte ambalaje din plastic, considerate adesea deșeuri greu de valorificat, ar putea deveni materii prime pentru produse mult mai valoroase. Cercetătorii elvețieni au descoperit o metodă prin care pot transforma aceste materiale în ceva cu totul diferit.",
+    "title_ro": "Cum pot fi transformate deșeurile din plastic într-un material valoros. Cercetătorii au obținut un produs cu proprietăți neașteptate",
+    "lead_ro": "Pungile și alte ambalaje din plastic, considerate adesea deșeuri greu de valorificat, ar putea deveni materii prime pentru produse mult mai valoroase. Cercetătorii elvețieni au descoperit o metodă pri...",
+    "content_ro": "Pungile și alte ambalaje din plastic, considerate adesea deșeuri greu de valorificat, ar putea deveni materii prime pentru produse mult mai valoroase. Cercetătorii elvețieni au descoperit o metodă prin care pot transforma aceste materiale în ceva cu totul diferit.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_b7c6d0b161",
@@ -4458,28 +4549,6 @@
     "title_ro": "Marca a pus lupa pe Ionuț Radu » Ce scriu spaniolii, după acordul cu FRF",
     "lead_ro": "Acordul dintre Ionuț Radu și FRF, în urma căruia portarul nu a fost convocat la națională pentru meciurile din noiembrie, a ajuns în Marca. Spaniolii scriu că problema medicală invocată de jucătorul l...",
     "content_ro": "Acordul dintre Ionuț Radu și FRF, în urma căruia portarul nu a fost convocat la națională pentru meciurile din noiembrie, a ajuns în Marca. Spaniolii scriu că problema medicală invocată de jucătorul lui Celta Vigo nu l-a împiedicat pe acesta să joace toate meciurile la echipa de club. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2134e8833e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un turist şi-a găsit sfârșitul în timpul unei drumeții în Masivul Retezat, după ce a alunecat pe gheaţă",
-        "link": "https://stirileprotv.ro/stiri/actualitate/un-turist-si-a-gasit-sfarsitul-in-timpul-unei-drumetii-in-masivul-retezat-dupa-ce-a-alunecat-pe-ghea-a.html"
-      }
-    ],
-    "published_at": 1794123651,
-    "title_hu": "Un turist şi-a găsit sfârșitul în timpul unei drumeții în Masivul Retezat, după ce a alunecat pe gheaţă",
-    "lead_hu": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
-    "content_hu": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
-    "title_ro": "Un turist şi-a găsit sfârșitul în timpul unei drumeții în Masivul Retezat, după ce a alunecat pe gheaţă",
-    "lead_ro": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
-    "content_ro": "Un turist şi-a pierdut viaţa, după ce a alunecat pe o porţiune cu gheaţă din Masivul Retezat.",
     "importance_score": 0.0
   },
   {
@@ -14383,94 +14452,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_00d7ba94fe",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Pentru că cererea de bilete nu se oprește, una dintre cele mai mari trupe ale lumii a mai adăugat câteva concerte în turneul european. Cât costă biletele",
-        "link": "https://hotnews.ro/pentru-ca-cererea-de-bilete-nu-se-opreste-una-dintre-cele-mai-mari-trupe-ale-lumii-a-mai-adaugat-cateva-concerte-in-turneul-european-cat-costa-biletele-2397500"
-      }
-    ],
-    "published_at": 1794041497,
-    "title_hu": "Pentru că cererea de bilete nu se oprește, una dintre cele mai mari trupe ale lumii a mai adăugat câteva concerte în turneul european. Cât costă biletele",
-    "lead_hu": "Trupa irlandeză U2 continuă să adauge noi concerte în turneul său european de anul viitor „The Greatest Show On Earth”. După ce joi, U2 a suplimentat în două rânduri numărul spectacolelor cu opt date …",
-    "content_hu": "Trupa irlandeză U2 continuă să adauge noi concerte în turneul său european de anul viitor „The Greatest Show On Earth”. După ce joi, U2 a suplimentat în două rânduri numărul spectacolelor cu opt date în calendar, vineri, formația a mai adăugat două noi show-uri. Este vorba de un al treilea concert la Stockholm, pe 30 …",
-    "title_ro": "Pentru că cererea de bilete nu se oprește, una dintre cele mai mari trupe ale lumii a mai adăugat câteva concerte în turneul european. Cât costă biletele",
-    "lead_ro": "Trupa irlandeză U2 continuă să adauge noi concerte în turneul său european de anul viitor „The Greatest Show On Earth”. După ce joi, U2 a suplimentat în două rânduri numărul spectacolelor cu opt date …",
-    "content_ro": "Trupa irlandeză U2 continuă să adauge noi concerte în turneul său european de anul viitor „The Greatest Show On Earth”. După ce joi, U2 a suplimentat în două rânduri numărul spectacolelor cu opt date în calendar, vineri, formația a mai adăugat două noi show-uri. Este vorba de un al treilea concert la Stockholm, pe 30 …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_460a990c68",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Lipsit de demnitate și absolut jenant” » Lothar Matthaus l-a desființat pe Cristiano Ronaldo",
-        "link": "https://www.gsp.ro/international/campionate/lothar-matthaus-cristiano-ronaldo-critici-996822.html"
-      }
-    ],
-    "published_at": 1794041464,
-    "title_hu": "„Lipsit de demnitate și absolut jenant” » Lothar Matthaus l-a desființat pe Cristiano Ronaldo",
-    "lead_hu": "Lothar Matthaus (65 de ani), unul dintre cei mai importanți jucători germani din istorie, l-a criticat pe Cristiano Ronaldo pentru modul în care a ales să își încheie cariera la echipa națională de fo…",
-    "content_hu": "Lothar Matthaus (65 de ani), unul dintre cei mai importanți jucători germani din istorie, l-a criticat pe Cristiano Ronaldo pentru modul în care a ales să își încheie cariera la echipa națională de fotbal a Portugaliei. După retragerea lusitanului de la națională, campionul mondial din 1990 a criticat sancțiunea impusă de federația portugheză și a făcut o comparație cu Lionel Messi. ...",
-    "title_ro": "„Lipsit de demnitate și absolut jenant” » Lothar Matthaus l-a desființat pe Cristiano Ronaldo",
-    "lead_ro": "Lothar Matthaus (65 de ani), unul dintre cei mai importanți jucători germani din istorie, l-a criticat pe Cristiano Ronaldo pentru modul în care a ales să își încheie cariera la echipa națională de fo…",
-    "content_ro": "Lothar Matthaus (65 de ani), unul dintre cei mai importanți jucători germani din istorie, l-a criticat pe Cristiano Ronaldo pentru modul în care a ales să își încheie cariera la echipa națională de fotbal a Portugaliei. După retragerea lusitanului de la națională, campionul mondial din 1990 a criticat sancțiunea impusă de federația portugheză și a făcut o comparație cu Lionel Messi. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c36bf1bf6b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "George Clooney are o cerință neașteptată: vrea o bucătăreasă italiancă, de preferat mamă sau bunică",
-        "link": "https://www.mediafax.ro/life-inedit/george-clooney-are-o-cerinta-neasteptata-vrea-o-bucatareasa-italianca-de-preferat-mama-sau-bunica-23839181"
-      }
-    ],
-    "published_at": 1794041380,
-    "title_hu": "George Clooney are o cerință neașteptată: vrea o bucătăreasă italiancă, de preferat mamă sau bunică",
-    "lead_hu": "George Clooney vrea să aducă atmosfera unei trattorii italiene în inima Franței. Actorul pregătește un restaurant într-un sat francez de aproximativ 2.000 de locuitori, iar pentru bucătărie caută o fe…",
-    "content_hu": "George Clooney vrea să aducă atmosfera unei trattorii italiene în inima Franței. Actorul pregătește un restaurant într-un sat francez de aproximativ 2.000 de locuitori, iar pentru bucătărie caută o femeie din Italia, cu experiență în preparatele tradiționale. Deschiderea este programată pentru mai 2027.",
-    "title_ro": "George Clooney are o cerință neașteptată: vrea o bucătăreasă italiancă, de preferat mamă sau bunică",
-    "lead_ro": "George Clooney vrea să aducă atmosfera unei trattorii italiene în inima Franței. Actorul pregătește un restaurant într-un sat francez de aproximativ 2.000 de locuitori, iar pentru bucătărie caută o fe…",
-    "content_ro": "George Clooney vrea să aducă atmosfera unei trattorii italiene în inima Franței. Actorul pregătește un restaurant într-un sat francez de aproximativ 2.000 de locuitori, iar pentru bucătărie caută o femeie din Italia, cu experiență în preparatele tradiționale. Deschiderea este programată pentru mai 2027.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b78fb475f2",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "„O să fie un adevărat infern”: colaboratorii de la Casa Albă privesc cu teamă sfârșitul erei Trump",
-        "link": "https://www.digi24.ro/stiri/externe/o-sa-fie-un-adevarat-infern-colaboratorii-de-la-casa-alba-privesc-cu-teama-sfarsitul-erei-trump-4025795"
-      }
-    ],
-    "published_at": 1794041358,
-    "title_hu": "„O să fie un adevărat infern”: colaboratorii de la Casa Albă privesc cu teamă sfârșitul erei Trump",
-    "lead_hu": "Moralul este la pământ la Casa Albă după înfrângerea republicanilor la alegerile de la jumătatea mandatului, reiese din interviurile realizate de canalul MS NOW cu colaboratori ai administrației Trump…",
-    "content_hu": "Moralul este la pământ la Casa Albă după înfrângerea republicanilor la alegerile de la jumătatea mandatului, reiese din interviurile realizate de canalul MS NOW cu colaboratori ai administrației Trump. Aceștia se tem că luptele interne se vor înmulți în următorii doi ani, într-un context politic haotic. „Unii dau deja telefoane pentru a încerca să părăsească nava”, scrie 7sur7.be.",
-    "title_ro": "„O să fie un adevărat infern”: colaboratorii de la Casa Albă privesc cu teamă sfârșitul erei Trump",
-    "lead_ro": "Moralul este la pământ la Casa Albă după înfrângerea republicanilor la alegerile de la jumătatea mandatului, reiese din interviurile realizate de canalul MS NOW cu colaboratori ai administrației Trump…",
-    "content_ro": "Moralul este la pământ la Casa Albă după înfrângerea republicanilor la alegerile de la jumătatea mandatului, reiese din interviurile realizate de canalul MS NOW cu colaboratori ai administrației Trump. Aceștia se tem că luptele interne se vor înmulți în următorii doi ani, într-un context politic haotic. „Unii dau deja telefoane pentru a încerca să părăsească nava”, scrie 7sur7.be.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_910f133daa",
     "fingerprint": "fbdbbf1cebf942bf3649eea82bf1c08d",
     "category": "Általános",
@@ -14798,6 +14779,72 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "EFEMERIDE ASTRONOMICE - 8 noiembrie",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_7f81fc5e8b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "8 noiembrie - Ziua internațională a radiologiei",
+        "link": "https://agerpres.ro/documentare/2026/11/08/8-noiembrie---ziua-internationala-a-radiologiei--1611103"
+      }
+    ],
+    "published_at": 1794096000,
+    "title_hu": "8 noiembrie - Ziua internațională a radiologiei",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "8 noiembrie - Ziua internațională a radiologiei",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_fa8dde7c29",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Infotrafic: Transporturi agabaritice pe mai multe drumuri din țară",
+        "link": "https://agerpres.ro/social/2026/11/08/infotrafic-transporturi-agabaritice-pe-mai-multe-drumuri-din-tara--1611185"
+      }
+    ],
+    "published_at": 1794096000,
+    "title_hu": "Infotrafic: Transporturi agabaritice pe mai multe drumuri din țară",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Infotrafic: Transporturi agabaritice pe mai multe drumuri din țară",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_1c582d7b1d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Infotrafic: Circulație în condiții de ceață pe mai multe artere rutiere din județele Dolj, Mehedinți și Olt",
+        "link": "https://agerpres.ro/social/2026/11/08/infotrafic-circulatie-in-conditii-de-ceata-pe-mai-multe-artere-rutiere-din-judetele-dolj-mehedinti-s--1611184"
+      }
+    ],
+    "published_at": 1794096000,
+    "title_hu": "Infotrafic: Circulație în condiții de ceață pe mai multe artere rutiere din județele Dolj, Mehedinți și Olt",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Infotrafic: Circulație în condiții de ceață pe mai multe artere rutiere din județele Dolj, Mehedinți și Olt",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 0.0
