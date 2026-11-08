@@ -441,63 +441,6 @@
     ]
   },
   {
-    "group_id": "group_fdfdee494b",
-    "category": "Bulvár",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Cancan.ro",
-        "title": "De ce ți se oferă pâine și unt gratis la restaurant? Capcana pentru clienți",
-        "link": "https://www.cancan.ro/de-ce-ti-se-ofera-paine-si-unt-gratis-la-restaurant-capcana-pentru-clienti-21543627",
-        "summary": "Dacă nu există prânz gratuit, de ce unele restaurante le oferă clienților pâine și uneori unt din partea casei? La prima vedere, pare că primești ceva fără să plătești nimic. În realitate, restaurantele fac probabil acest lucru pentru că sunt de părere că le aduce beneficii, fie din punct de vedere financiar, fie în ceea […]",
-        "category": "Bulvár",
-        "is_b2b_only": false,
-        "published_at": 1794075282
-      }
-    ]
-  },
-  {
-    "group_id": "group_794071ce31",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "Rămăşiţe umane descoperite pe o navă lovită de dronă în apele teritoriale ale României. Anunțul parchetului din Bulgaria",
-        "link": "https://hotnews.ro/ramasite-umane-descoperite-pe-o-nava-lovita-de-drona-in-apele-teritoriale-ale-romaniei-anuntul-parchetului-din-bulgaria-2397878",
-        "summary": "La bordul unei nave lovite de o dronă în urmă cu 15 zile în largul României şi transferate apoi la un şantier naval bulgar pentru reparaţii au fost descoperite rămăşiţe umane, a anunţat sâmbătă parchetul din oraşul bulgar Varna. „În timpul operaţiunilor de degajare, au fost găsite rămăşiţe umane foarte deteriorate”, a declarat parchetul bulgar …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794075362
-      },
-      {
-        "source": "Adevărul",
-        "title": "Rămășițe umane descoperite la bordul petrolierului lovit de o dronă în apropiere de Sulina. Șase marinari ar fi murit",
-        "link": "https://adevarul.ro/stiri-externe/europa/ramasite-umane-descoperite-la-bordul-petrolierului-2569713.html",
-        "summary": "Rămășițe umane au fost descoperite la bordul petrolierului „Wine Trader”, lovit de o dronă în urmă cu aproximativ două săptămâni în largul coastelor României.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794076180
-      }
-    ]
-  },
-  {
-    "group_id": "group_1af87c8c29",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Mediafax",
-        "title": "Carlos Alcaraz îl învinge pe Casper Ruud și se califică în finala Mastersului de la Paris. Spaniolul se va duela cu Ben Shelton pentru trofeu",
-        "link": "https://www.mediafax.ro/sport/carlos-alcaraz-il-invinge-pe-casper-ruud-si-se-califica-in-finala-mastersului-de-la-paris-spaniolul-se-va-duela-cu-ben-shelton-pentru-trofeu-23839441",
-        "summary": "Carlos Alcaraz s-a calificat sâmbătă în finala turneului ATP Masters 1000 de la Paris, după ce l-a învins pe norvegianul Casper Ruud. Spaniolul va juca duminică pentru trofeu împotriva americanului Ben Shelton, care a trecut în semifinale de favoritul publicului, francezul Luca Van Assche.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794075250
-      }
-    ]
-  },
-  {
     "group_id": "group_ce168cc20f",
     "category": "Sport",
     "articles_count": 1,
@@ -628,6 +571,22 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794076206
+      }
+    ]
+  },
+  {
+    "group_id": "group_794071ce31",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Rămășițe umane descoperite la bordul petrolierului lovit de o dronă în apropiere de Sulina. Șase marinari ar fi murit",
+        "link": "https://adevarul.ro/stiri-externe/europa/ramasite-umane-descoperite-la-bordul-petrolierului-2569713.html",
+        "summary": "Rămășițe umane au fost descoperite la bordul petrolierului „Wine Trader”, lovit de o dronă în urmă cu aproximativ două săptămâni în largul coastelor României.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794076180
       }
     ]
   },
@@ -1204,7 +1163,7 @@
   {
     "group_id": "group_d236625042",
     "category": "Általános",
-    "articles_count": 8,
+    "articles_count": 9,
     "articles": [
       {
         "source": "HotNews.ro",
@@ -1277,6 +1236,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794159236
+      },
+      {
+        "source": "Mediafax",
+        "title": "Dana White răspunde ofertei șocante a lui Trump pentru funcția de purtător de cuvânt. Șeful UFC vrea o întâlnire cu președintele SUA",
+        "link": "https://www.mediafax.ro/stirile-zilei/dana-white-raspunde-ofertei-socante-a-lui-trump-pentru-functia-de-purtator-de-cuvant-seful-ufc-vrea-o-intalnire-cu-presedintele-sua-23839865",
+        "summary": "Președintele și directorul general al UFC, Dana White, a anunțat că intenționează să călătorească la Washington pentru a se întâlni cu președintele Donald Trump, după ce i s-a oferit public rolul de secretar de presă al Casei Albe.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794161204
       }
     ]
   },
@@ -10084,7 +10052,7 @@
   {
     "group_id": "group_636e823c13",
     "category": "Általános",
-    "articles_count": 7,
+    "articles_count": 8,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -10148,6 +10116,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794155562
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Egipt: Cel puțin 7 morți și 112 răniți în urma coliziunii a două trenuri (FOTO/VIDEO)",
+        "link": "https://agerpres.ro/social-extern/2026/11/08/egipt-cel-putin-7-morti-si-112-raniti-in-urma-coliziunii-a-doua-trenuri-foto-video--1611287",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794096000
       }
     ]
   },
@@ -10524,7 +10501,7 @@
   {
     "group_id": "group_fe09bb1e8e",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "Digi24",
@@ -10552,6 +10529,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794160041
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Rusia: Placă comemorativă la Moscova pentru fostul șef al spionajului est-german Markus Wolf",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/video-rusia-placa-comemorativa-la-moscova-pentru-fostul-sef-al-spionajului-est-german-markus-wolf--1611283",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794096000
       }
     ]
   },
@@ -10676,7 +10662,7 @@
         "summary": "Naţionala României încheie partidele din grupa de Liga Naţiunilor prin „dubla” programată în luna noiembrie, cu Polonia şi Bosnia-Herțegovina. Pentru aceste două jocuri, selecţionerul Gheorghe Hagi a convocat un lot format din 26 de jucători, 18 dintre aceştia evoluează la cluburi din străinătate şi 8 din campionatul intern, potrivit FRF.",
         "category": "Sport",
         "is_b2b_only": false,
-        "published_at": 1794161265
+        "published_at": 1794161719
       }
     ]
   },
@@ -10826,12 +10812,12 @@
     "articles": [
       {
         "source": "Maszol",
-        "title": "Fűtésitámogatást kérhetnek az alacsony jövedelműek – Közel a kérelmek benyújtásának határideje",
+        "title": "Fűtéstámogatást kérhetnek az alacsony jövedelműek – Közel a kérelmek benyújtásának határideje",
         "link": "https://maszol.ro/belfold/Futesitamogatast-kerhetnek-az-alacsony-jovedelmuek-Kozel-a-kerelmek-benyujtasanak-hatarideje",
         "summary": "Az állam idén energiapótlékot, valamint fűtéstámogatást is biztosít.",
         "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1794153840
+        "published_at": 1794161602
       }
     ]
   },
@@ -10895,7 +10881,7 @@
   {
     "group_id": "group_f75c6cdf21",
     "category": "Sport",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -10905,6 +10891,15 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1794155111
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Genoa, învinsă pe teren propriu de AC Milan în campionatul Italiei",
+        "link": "https://agerpres.ro/sport-extern/2026/11/08/fotbal-genoa-invinsa-pe-teren-propriu-de-ac-milan-in-campionatul-italiei--1611284",
+        "summary": "",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1794096000
       }
     ]
   },
@@ -11425,7 +11420,7 @@
   {
     "group_id": "group_560bafde0b",
     "category": "Általános",
-    "articles_count": 4,
+    "articles_count": 5,
     "articles": [
       {
         "source": "Digi24",
@@ -11462,6 +11457,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794161027
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "SUA: Senatorul Jon Ossoff se impune într-un sondaj intern ca favorit al democraților pentru candidatura la președinție",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/sua-senatorul-jon-ossoff-se-impune-intr-un-sondaj-intern-ca-favorit-al-democratilor-pentru-candidatu--1611286",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794096000
       }
     ]
   },
@@ -11724,7 +11728,7 @@
   {
     "group_id": "group_e7d7b7c2c6",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 3,
     "articles": [
       {
         "source": "Mediafax",
@@ -11734,6 +11738,24 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794160215
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO UPDATE MotoGP: Marco Bezzecchi a câștigat Marele Premiu al Qatarului; Marc Marquez este aproape de titlul mondial",
+        "link": "https://agerpres.ro/sport-extern/2026/11/08/video-update-motogp-marco-bezzecchi-a-castigat-marele-premiu-al-qatarului-marc-marquez-este-aproape---1611285",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794096000
+      },
+      {
+        "source": "G4Media",
+        "title": "Marco Bezzecchi a câștigat Marele Premiu al Qatarului la MotoGP",
+        "link": "https://www.g4media.ro/marco-bezzecchi-a-castigat-marele-premiu-al-qatarului-la-motogp.html",
+        "summary": "Marco Bezzecchi a câștigat Marele Premiu al Qatarului la MotoGP, după o cursă pe care a controlat-o de la început până la sfârșit. Marc Márquez a sosit al doilea și nu a reușit să-și adjudece acum al optulea titlu la clasa-regină, în timp ce Jorge Martin a încheiat pe poziția a șaptea, transmite MEDIAFAX. Lupta […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794161630
       }
     ]
   },
@@ -11766,6 +11788,70 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1794161098
+      }
+    ]
+  },
+  {
+    "group_id": "group_4674f5c9bd",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "A murit medicul Mihnea Ionescu de la Institutul Fundeni; Irinel Popescu: A fost un excepțional chirurg",
+        "link": "https://agerpres.ro/sanatate/2026/11/08/a-murit-medicul-mihnea-ionescu-de-la-institutul-fundeni-irinel-popescu-a-fost-un-exceptional-chirurg--1611288",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794096000
+      }
+    ]
+  },
+  {
+    "group_id": "group_47e92fe361",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Tenis: Carlos Alcaraz a câștigat turneul ATP Masters 1.000 de la Paris",
+        "link": "https://agerpres.ro/sport-extern/2026/11/08/video-tenis-carlos-alcaraz-a-castigat-turneul-atp-masters-1-000-de-la-paris--1611281",
+        "summary": "",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794096000
+      }
+    ]
+  },
+  {
+    "group_id": "group_9bb438e5a8",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "7 goluri în Cambuur - PSV! Cum s-a descurcat Dennis Man",
+        "link": "https://www.gsp.ro/international/stranieri/7-goluri-cambuur-psv-dennis-man-997404.html",
+        "summary": "PSV Eindhoven, formația internaționalului român Dennis Man (28 de ani), s-a impus categoric în deplasare cu Cambuur, scor 5-2, în etapa a 12-a din campionatul Olandei. Fotbalistul român a început partida pe banca de rezerve și a fost introdus abia în minutul 86, în locul lui Esmir Bajraktarevic, bifând astfel doar câteva minute în victoria echipei sale. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1794161396
+      }
+    ]
+  },
+  {
+    "group_id": "group_12348d1f67",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Cum ne adresăm corect unei femei divorțate: „doamnă” sau „domnișoară”? Regula de politețe pe care mulți nu o cunosc",
+        "link": "https://adevarul.ro/stil-de-viata/cultura/cum-ne-adresam-corect-unei-femei-divortate-2566440.html",
+        "summary": "O femeie divorțată trebuie să fie numită „doamnă” sau „domnișoară”? Deși cele două formule de adresare au fost asociate, în mod tradițional, cu starea civilă, regulile de politețe actuale pun accentul mai degrabă pe respectul față de interlocutoare decât pe situația sa personală.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794161425
       }
     ]
   }
