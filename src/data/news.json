@@ -998,7 +998,7 @@
     "title_ro": "O eroare de software a trimis o alertă RO-Alert greșită în Brăila și Galați",
     "lead_ro": "Sâmbătă, 7 noiembrie 2026, în jurul orei 16:00, locuitorii județelor Brăila și Galați au primit o alertă despre deversarea controlată de la barajul Reconstrucția, din județul Neamț. Potrivit inspectoratelor pentru situații de urgență, mesajul a ajuns în zone neafectate din cauza unei erori informatice.",
     "content_ro": "• **La 7 noiembrie 2026, în jurul orei 16:00,** un mesaj a fost transmis locuitorilor din Brăila și Galați prin sistemul de înștiințare și alarmare la inundații de pe râul Siret. Alertarea RO-Alert se referea la o deversare controlată planificată la barajul Reconstrucția, de pe râul Bistrița, în zona Piatra Neamț.\n\n• **Inspectoratul pentru Situații de Urgență Brăila** a precizat că o defecțiune software a făcut ca avertizarea să ajungă și în județe care nu erau vizate. Sistemul funcționează și pe teritoriul județului Brăila, însă transmiterea către locuitorii acestuia s-a produs accidental.\n\n• **ISU Galați** a atribuit primirea mesajului de către populația județului unei probleme informatice a sistemului de alarmare. Instituția a precizat că alerta nu semnala o situație de urgență în Galați și că locuitorii nu trebuiau să ia măsuri suplimentare.\n\n• **Deversarea anunțată urma să aibă loc în județul Neamț:** informarea privea intervenția de la barajul Reconstrucția, situat pe râul Bistrița, nu o operațiune în Brăila sau Galați. Autoritățile din cele două județe au indicat că mesajul transmis din eroare nu reflecta un pericol local de inundații.\n\n• **Locuitorii din lunca Siretului vor fi informați dacă o astfel de operațiune îi poate afecta.** Autoritățile brăilene au anunțat că populația și administrațiile locale din zonele vizate vor primi notificări din timp, astfel încât să se poată pregăti și să adopte măsurile de autoprotecție necesare.",
-    "importance_score": 83.0
+    "importance_score": 80.0
   },
   {
     "group_id": "group_c3ee18efe5",
@@ -1107,6 +1107,50 @@
     "lead_ro": "Volodimir Zelenski a declarat că, în atacul nocturn al Rusiei, a fost folosită și o rachetă KN-23 fabricată în Coreea de Nord, care ar fi lovit o instalație energetică importantă. Potrivit informațiilor ucrainene, au fost lansate 36 de rachete balistice și 172 de drone, iar în cinci regiuni au fost raportate întreruperi de curent.",
     "content_ro": "• **În noaptea de 6 spre 7 noiembrie**, autoritățile ucrainene au raportat lansarea de către Rusia a 36 de rachete balistice și 172 de drone. În regiunile Dnipropetrovsk, Donețk, Kiev, Jitomir și Harkiv au fost semnalate pene de curent, iar rețelele de transport și distribuție au suferit avarii importante. Bilanțul comunicat de Ucraina a indicat nouă răniți, între care un copil.\n\n• **Racheta KN-23:** Zelenski a spus, pe baza verificărilor tehnice preliminare, că o instalație energetică avariată, considerată esențială, ar fi fost lovită cu o rachetă produsă și livrată de Coreea de Nord. Forțele ucrainene au interceptat patru dintre rachetele îndreptate spre Kiev și zona învecinată.\n\n• **Caracteristicile armei:** KN-23 este o rachetă balistică cu rază scurtă de acțiune, estimată la aproximativ 690 de kilometri. Unele evaluări arată că testarea sa inițială ar fi avut loc în mai 2019, iar forma ei amintește de modelul rusesc Iskander-M. Ministerul ucrainean al Apărării a raportat utilizarea acesteia și în atacuri anterioare și o consideră dificil de interceptat.\n\n• **Riscurile pentru iarnă și sprijinul militar:** Ministrul ucrainean de Externe, Andrii Sîbiha, a afirmat că recentele lovituri au vizat infrastructura energetică critică, în timp ce Moscova își intensifică atacurile înaintea sezonului rece. Kievul se teme de noi probleme privind furnizarea de electricitate, căldură și apă. Din octombrie 2024, Coreea de Nord ar fi furnizat Rusiei peste 16.000 de militari și muniție; liderii celor două țări au semnat un tratat de parteneriat strategic în iunie 2024.\n\n• **Negocieri și apărare antiaeriană:** Zelenski a apreciat că atacurile urmăresc să pună presiune asupra pozițiilor Ucrainei și ale partenerilor săi înaintea discuțiilor planificate la Abu Dhabi pentru 10–11 noiembrie. Președintele a cerut livrarea mai rapidă a interceptoarelor Patriot și înăsprirea sancțiunilor. Demersurile diplomatice sunt blocate din februarie, când a izbucnit războiul din Orientul Mijlociu.",
     "importance_score": 73.0
+  },
+  {
+    "group_id": "group_c2fcb6374e",
+    "fingerprint": "14414a1cfcce5dbae437b00dc3b91baf",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Aproape 1,5 milioane de români își sărbătoresc onomastica duminică, de Sfinţii Arhangheli Mihail şi Gavriil",
+        "link": "https://www.g4media.ro/aproape-15-milioane-de-romani-isi-sarbatoresc-onomastica-duminica-de-sfintii-arhangheli-mihail-si-gavriil.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Câți români își sărbătoresc onomastica de Sfinții Arhangheli Mihail și Gavriil",
+        "link": "https://stirileprotv.ro/stiri/social/cati-romani-isi-sarbatoresc-onomastica-de-sfintii-arhangheli-mihail-si-gavriil.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Vara arhanghelilor”, trei zile de sărbătoare în calendarul românilor. Ce semnifică Mihail și Gavril și ce spune știința despre îngeri",
+        "link": "https://adevarul.ro/stil-de-viata/magazin/vara-arhanghelilor-trei-zile-de-sarbatoare-in-2569604.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Aproape 1,5 milioane de români - sărbătoriți de Sfinții Arhangheli Mihail și Gavriil",
+        "link": "https://agerpres.ro/social/2026/11/07/aproape-1-5-milioane-de-romani---sarbatoriti-de-sfintii-arhangheli-mihail-si-gavriil--1611046"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Sfinții Mihail și Gavriil, sărbătoriți pe 8 noiembrie. Aproape 1,5 milioane de români își serbează onomastica. Ce semnificație are sărbătoarea și ce tradiții respectă credincioșii",
+        "link": "https://www.mediafax.ro/social/sfintii-mihail-si-gavriil-sarbatoriti-pe-8-noiembrie-aproape-15-milioane-de-romani-isi-serbeaza-onomastica-ce-semnificatie-are-sarbatoarea-si-ce-traditii-respecta-credinciosii-23839560"
+      }
+    ],
+    "published_at": 1794112225,
+    "title_hu": "Közel 1,47 millió romániai lakos tartja névnapját november 8-án",
+    "lead_hu": "A személynyilvántartás adatai szerint 1 473 923 romániai lakos neve kapcsolódik Szent Mihály és Gábriel arkangyalok ünnepéhez. A november 8-i alkalom egyházi jelentősége mellett a román néphagyományban háromnapos ünnepkörként is él.",
+    "content_hu": "• **November 8.** Az ortodox naptár ezen a napon emlékezik meg Mihályról, Gábrielről és az Istenhez hűséges angyali seregekről. A névnapot 836 706 férfi és 637 217 nő ünnepli, összesen 1 473 923 ember.\n\n• **A férfinevek között** a Mihai a leggyakoribb, 364 878 viselővel; Gabrielből 341 019-et tartanak nyilván. Mihail nevű 60 853, a Mihăiță különféle írásmódjait viselő 29 023, Gavril nevű 15 782, Mihnea nevű pedig 12 095 férfi szerepel az összesítésben.\n\n• **A ritkább férfinevek** között 4 072 Gabi, 5 510 Gavrilă, 574 Mihăilă, 1 196 Mihalache, 1 035 Mișu és 310 Gavriil nevű ember található. A lista kisebb csoportokat is rögzít, például 100 Găbiță, 91 Michi, 62 Mihu, 57 Mihalcea és 49 Mișa nevű férfit.\n\n• **A női névviselők körében** a Mihaela vezet 367 003 fővel, Gabriela nevű 258 945 ember van. A további gyakori alakok között szerepel a Mihaiela (6 405), a Gabi (3 378), a Mihăilă (734) és a Mihăița különböző változatai (530).\n\n• **A néphagyományban** az ünnep nemcsak egynapos: a román szokásvilág háromnapos időszakot kapcsol hozzá. Mihályt a gonosz elleni küzdelem jelképeként tartják számon, Gábriel pedig a bibliai történetekben isteni üzenetek közvetítőjeként jelenik meg; a beszámoló szerint neve négyszer fordul elő a Bibliában, és János, majd Jézus születését is ő hirdette meg.",
+    "title_ro": "Aproape 1,47 milioane de români își serbează onomastica pe 8 noiembrie",
+    "lead_ro": "Datele evidenței persoanelor indică 1.473.923 de locuitori ai României cu prenume asociate sărbătorii Arhanghelilor Mihail și Gavriil. Pe lângă semnificația religioasă a zilei de 8 noiembrie, tradiția populară românească leagă de această sărbătoare un interval de trei zile.",
+    "content_ro": "• **8 noiembrie.** Calendarul ortodox îi sărbătorește atunci pe Mihail, Gavriil și cetele îngerești rămase credincioase lui Dumnezeu. Onomastica este marcată de 836.706 de bărbați și 637.217 femei, în total 1.473.923 de persoane.\n\n• **Prenumele masculine cele mai răspândite** sunt Mihai, purtat de 364.878 de bărbați, și Gabriel, înregistrat pentru 341.019. Evidența mai cuprinde 60.853 de persoane numite Mihail, 29.023 cu variante ale formei Mihăiță, 15.782 cu prenumele Gavril și 12.095 cu Mihnea.\n\n• **Printre prenumele masculine mai puțin întâlnite** se numără Gabi (4.072), Gavrilă (5.510), Mihăilă (574), Mihalache (1.196), Mișu (1.035) și Gavriil (310). În categoriile cu efective mai mici apar, de pildă, 100 de bărbați numiți Găbiță, 91 Michi, 62 Mihu, 57 Mihalcea și 49 Mișa.\n\n• **În rândul femeilor**, Mihaela este cel mai frecvent prenume asociat zilei, cu 367.003 de purtătoare; Gabriela este înregistrat pentru 258.945. Alte forme menționate sunt Mihaiela (6.405), Gabi (3.378), Mihăilă (734) și variantele numelui Mihăița (530).\n\n• **Tradiția populară românească** extinde sărbătoarea la trei zile. Mihail este văzut ca simbol al luptei împotriva răului, iar Gavriil apare în relatările biblice ca mesager al lui Dumnezeu. Potrivit articolului, numele lui este menționat de patru ori în Biblie, iar printre misiunile sale se numără vestirea nașterii lui Ioan Botezătorul și a lui Iisus.",
+    "importance_score": 65.0
   },
   {
     "group_id": "group_794071ce31",
@@ -1396,45 +1440,6 @@
     "lead_ro": "În noaptea de 6 spre 7 noiembrie, Kievul a fost atacat cu rachete balistice în mai multe valuri. Au fost avariate clădiri de locuințe, o grădiniță și Podul de Nord, iar bilanțul ulterior al președintelui Volodimir Zelenski a indicat nouă răniți; alimentarea cu energie a întâmpinat probleme în mai multe zone.",
     "content_ro": "• **În noaptea de 6 spre 7 noiembrie**, mai multe salve au vizat Kievul. Prima avertizare a venit cu puțin înainte de ora 23:00, când cel puțin șase rachete se îndreptau spre capitală; alertele au revenit înainte de miezul nopții, iar după ora 01:00 au fost semnalate noi explozii. Unul dintre relatări a descris atacul nocturn ca implicând zeci de rachete.\n\n• **Pagubele au afectat și infrastructura orașului:** Podul de Nord a fost închis circulației în ambele sensuri, au fost avariate locuințe, o grădiniță a suferit distrugeri parțiale, iar la o clădire nerezidențială a izbucnit un incendiu. Primarul le-a cerut locuitorilor să rămână în adăposturi cât timp echipele de intervenție lucrau la fața locului.\n\n• **Numărul răniților a crescut în relatările succesive:** autoritățile din Kiev au anunțat inițial două persoane rănite, apoi cinci, între care o adolescentă de 14 ani. Două persoane au fost transportate la spital, iar în regiunea din jurul capitalei a fost raportată încă o victimă. Bilanțul ulterior prezentat de Zelenski a ajuns la nouă răniți, inclusiv un copil.\n\n• **Au fost lovite instalații energetice din mai multe regiuni.** Zelenski a spus că atacurile au vizat douăsprezece zone; a fost avariată și o substație care transportă energia de la centralele nucleare de la Rivne și Hmelnițki către Kiev și centrul țării. Alte substații au suferit pagube în regiunile Vinnița, Jitomir, Rivne, Harkov și Dnipro.\n\n• **Alimentarea capitalei și pregătirile diplomatice au rămas în atenție:** serviciile de electricitate, apă și căldură din Kiev au întâmpinat dificultăți, iar reparațiile au început. Negocierile trilaterale Rusia–Ucraina–SUA erau planificate pentru săptămâna următoare, la Abu Dhabi. Zelenski a cerut accelerarea livrărilor de interceptori pentru sistemele Patriot; relatările au mai indicat că, în ultimele săptămâni, podurile din Kiev au devenit tot mai frecvent ținte ale atacurilor rusești.",
     "importance_score": 60.0
-  },
-  {
-    "group_id": "group_c2fcb6374e",
-    "fingerprint": "14414a1cfcce5dbae437b00dc3b91baf",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Aproape 1,5 milioane de români își sărbătoresc onomastica duminică, de Sfinţii Arhangheli Mihail şi Gavriil",
-        "link": "https://www.g4media.ro/aproape-15-milioane-de-romani-isi-sarbatoresc-onomastica-duminica-de-sfintii-arhangheli-mihail-si-gavriil.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Câți români își sărbătoresc onomastica de Sfinții Arhangheli Mihail și Gavriil",
-        "link": "https://stirileprotv.ro/stiri/social/cati-romani-isi-sarbatoresc-onomastica-de-sfintii-arhangheli-mihail-si-gavriil.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "„Vara arhanghelilor”, trei zile de sărbătoare în calendarul românilor. Ce semnifică Mihail și Gavril și ce spune știința despre îngeri",
-        "link": "https://adevarul.ro/stil-de-viata/magazin/vara-arhanghelilor-trei-zile-de-sarbatoare-in-2569604.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Aproape 1,5 milioane de români - sărbătoriți de Sfinții Arhangheli Mihail și Gavriil",
-        "link": "https://agerpres.ro/social/2026/11/07/aproape-1-5-milioane-de-romani---sarbatoriti-de-sfintii-arhangheli-mihail-si-gavriil--1611046"
-      }
-    ],
-    "published_at": 1794112225,
-    "title_hu": "Közel 1,47 millió romániai lakos tartja névnapját november 8-án",
-    "lead_hu": "A személynyilvántartás adatai szerint 1 473 923 romániai lakos neve kapcsolódik Szent Mihály és Gábriel arkangyalok ünnepéhez. A november 8-i alkalom egyházi jelentősége mellett a román néphagyományban háromnapos ünnepkörként is él.",
-    "content_hu": "• **November 8.** Az ortodox naptár ezen a napon emlékezik meg Mihályról, Gábrielről és az Istenhez hűséges angyali seregekről. A névnapot 836 706 férfi és 637 217 nő ünnepli, összesen 1 473 923 ember.\n\n• **A férfinevek között** a Mihai a leggyakoribb, 364 878 viselővel; Gabrielből 341 019-et tartanak nyilván. Mihail nevű 60 853, a Mihăiță különféle írásmódjait viselő 29 023, Gavril nevű 15 782, Mihnea nevű pedig 12 095 férfi szerepel az összesítésben.\n\n• **A ritkább férfinevek** között 4 072 Gabi, 5 510 Gavrilă, 574 Mihăilă, 1 196 Mihalache, 1 035 Mișu és 310 Gavriil nevű ember található. A lista kisebb csoportokat is rögzít, például 100 Găbiță, 91 Michi, 62 Mihu, 57 Mihalcea és 49 Mișa nevű férfit.\n\n• **A női névviselők körében** a Mihaela vezet 367 003 fővel, Gabriela nevű 258 945 ember van. A további gyakori alakok között szerepel a Mihaiela (6 405), a Gabi (3 378), a Mihăilă (734) és a Mihăița különböző változatai (530).\n\n• **A néphagyományban** az ünnep nemcsak egynapos: a román szokásvilág háromnapos időszakot kapcsol hozzá. Mihályt a gonosz elleni küzdelem jelképeként tartják számon, Gábriel pedig a bibliai történetekben isteni üzenetek közvetítőjeként jelenik meg; a beszámoló szerint neve négyszer fordul elő a Bibliában, és János, majd Jézus születését is ő hirdette meg.",
-    "title_ro": "Aproape 1,47 milioane de români își serbează onomastica pe 8 noiembrie",
-    "lead_ro": "Datele evidenței persoanelor indică 1.473.923 de locuitori ai României cu prenume asociate sărbătorii Arhanghelilor Mihail și Gavriil. Pe lângă semnificația religioasă a zilei de 8 noiembrie, tradiția populară românească leagă de această sărbătoare un interval de trei zile.",
-    "content_ro": "• **8 noiembrie.** Calendarul ortodox îi sărbătorește atunci pe Mihail, Gavriil și cetele îngerești rămase credincioase lui Dumnezeu. Onomastica este marcată de 836.706 de bărbați și 637.217 femei, în total 1.473.923 de persoane.\n\n• **Prenumele masculine cele mai răspândite** sunt Mihai, purtat de 364.878 de bărbați, și Gabriel, înregistrat pentru 341.019. Evidența mai cuprinde 60.853 de persoane numite Mihail, 29.023 cu variante ale formei Mihăiță, 15.782 cu prenumele Gavril și 12.095 cu Mihnea.\n\n• **Printre prenumele masculine mai puțin întâlnite** se numără Gabi (4.072), Gavrilă (5.510), Mihăilă (574), Mihalache (1.196), Mișu (1.035) și Gavriil (310). În categoriile cu efective mai mici apar, de pildă, 100 de bărbați numiți Găbiță, 91 Michi, 62 Mihu, 57 Mihalcea și 49 Mișa.\n\n• **În rândul femeilor**, Mihaela este cel mai frecvent prenume asociat zilei, cu 367.003 de purtătoare; Gabriela este înregistrat pentru 258.945. Alte forme menționate sunt Mihaiela (6.405), Gabi (3.378), Mihăilă (734) și variantele numelui Mihăița (530).\n\n• **Tradiția populară românească** extinde sărbătoarea la trei zile. Mihail este văzut ca simbol al luptei împotriva răului, iar Gavriil apare în relatările biblice ca mesager al lui Dumnezeu. Potrivit articolului, numele lui este menționat de patru ori în Biblie, iar printre misiunile sale se numără vestirea nașterii lui Ioan Botezătorul și a lui Iisus.",
-    "importance_score": 55.0
   },
   {
     "group_id": "group_f4ca9bb955",
@@ -2726,31 +2731,36 @@
     "importance_score": 30.0
   },
   {
-    "group_id": "group_dc05b3f2d0",
+    "group_id": "group_bb7b18126d",
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 3,
     "sources": [
       {
         "source": "Mediafax",
-        "title": "Operațiune de salvare în toiul nopții, în Retezat. Un turist a căzut de pe creastă și este căutat cu drone și câini de salvare",
-        "link": "https://www.mediafax.ro/social/operatiune-de-salvare-in-toiul-noptii-in-retezat-un-turist-a-cazut-de-pe-creasta-si-este-cautat-cu-drone-si-caini-de-salvare-23839536"
+        "title": "Obiceiuri și superstiții de Sfinții Mihail și Gavriil 2026. De ce se aprind lumânări pe 8 noiembrie",
+        "link": "https://www.mediafax.ro/stirile-zilei/obiceiuri-si-superstitii-de-sfintii-mihail-si-gavriil-2026-de-ce-se-aprind-lumanari-pe-8-noiembrie-23839175"
       },
       {
-        "source": "G4Media",
-        "title": "Intervenție în noapte a Salvamont: Un turist este căutat în Retezat după ce ar fi alunecat pe gheață și a căzut de pe o creastă montană",
-        "link": "https://www.g4media.ro/interventie-in-noapte-a-salvamont-un-turist-este-cautat-in-retezat-dupa-ce-ar-fi-alunecat-pe-gheata-si-a-cazut-de-pe-o-creasta-montana.html"
+        "source": "Digi24",
+        "title": "Sfinții Mihail și Gavriil sau Gabriel? De ce există două forme ale aceluiași nume și cine își sărbătorește onomastica pe 8 noiembrie",
+        "link": "https://www.digi24.ro/magazin/sfintii-mihail-si-gavriil-sau-gabriel-de-ce-exista-doua-forme-ale-aceluiasi-nume-si-cine-isi-sarbatoreste-onomastica-pe-8-noiembrie-4024707"
+      },
+      {
+        "source": "Digi24",
+        "title": "Sfinții Mihail și Gavriil 2026: Obiceiuri și tradiții pe 8 noiembrie. Ce se împarte de pomană și ce semnificație au lumânările aprinse",
+        "link": "https://www.digi24.ro/magazin/sfintii-mihail-si-gavriil-2026-obiceiuri-si-traditii-pe-8-noiembrie-ce-se-imparte-de-pomana-si-ce-semnificatie-au-lumanarile-aprinse-4024651"
       }
     ],
-    "published_at": 1794104192,
-    "title_hu": "Operațiune de salvare în toiul nopții, în Retezat. Un turist a căzut de pe creastă și este căutat cu drone și câini de salvare",
-    "lead_hu": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dr…",
-    "content_hu": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dronă cu termoviziune și un echipaj canin.",
-    "title_ro": "Operațiune de salvare în toiul nopții, în Retezat. Un turist a căzut de pe creastă și este căutat cu drone și câini de salvare",
-    "lead_ro": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dr…",
-    "content_ro": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dronă cu termoviziune și un echipaj canin.",
-    "importance_score": 28.0
+    "published_at": 1794041684,
+    "title_hu": "Obiceiuri și superstiții de Sfinții Mihail și Gavriil 2026. De ce se aprind lumânări pe 8 noiembrie",
+    "lead_hu": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
+    "content_hu": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
+    "title_ro": "Obiceiuri și superstiții de Sfinții Mihail și Gavriil 2026. De ce se aprind lumânări pe 8 noiembrie",
+    "lead_ro": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
+    "content_ro": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
+    "importance_score": 30.0
   },
   {
     "group_id": "group_89906d02c8",
@@ -3038,6 +3048,33 @@
     "title_ro": "Brest a învins-o pe CSM București la 15 goluri diferență",
     "lead_ro": "CSM București a pierdut cu 40–25 în deplasare, în fața echipei Brest, în etapa a șaptea a Ligii Campionilor la handbal feminin. Diferența de 15 goluri reprezintă cea mai severă înfrângere a clubului bucureștean în competiție.",
     "content_ro": "• **La 7 noiembrie 2026**, Brest s-a impus cu 40–25 pe teren propriu în fața formației CSM București, într-un meci din etapa a șaptea a Ligii Campionilor. Echipa franceză a câștigat la o diferență de 15 goluri, iar rezultatul a devenit cea mai drastică înfrângere a clubului român în această competiție.\n\n• **Bilanțul lui CSM** în grupa A, după această partidă, este de trei victorii și patru înfrângeri. Vicecampioana României își continuă astfel parcursul dificil în faza grupelor, în care rezultatele din acest sezon au fost sub așteptările echipei.\n\n• **Vechiul record negativ** fusese stabilit la 25 ianuarie 2020, când CSM a pierdut cu 33–23 în deplasare la Ferencváros. Diferența de zece goluri din acel meci a fost depășită de înfrângerea suferită în Franța, unde ecartul final a ajuns la 15.\n\n• **Returul este programat pe 15 noiembrie**, la București, în Sala Polivalentă, cu începere de la ora 17:00. CSM va întâlni din nou formația Brest, de această dată pe teren propriu, având ocazia să încerce să obțină un rezultat mai bun decât cel din deplasare.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_5872fbf8c4",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Studiu: Depopularea orașelor și satelor din Europa de Est alimentează radicalizarea politică",
+        "link": "https://www.mediafax.ro/externe/studiu-depopularea-oraselor-si-satelor-din-europa-de-est-alimenteaza-radicalizarea-politica-23838896"
+      },
+      {
+        "source": "G4Media",
+        "title": "Extremismul este alimentat și de depopularea localităților în Europa de Est și abandonul statului, arată un studiu Oxford",
+        "link": "https://www.g4media.ro/extremismul-este-alimentat-si-de-depopularea-localitatilor-in-europa-de-est-si-abandonul-statului-arata-un-studiu-oxford.html"
+      }
+    ],
+    "published_at": 1794075949,
+    "title_hu": "Studiu: Depopularea orașelor și satelor din Europa de Est alimentează radicalizarea politică",
+    "lead_hu": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
+    "content_hu": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
+    "title_ro": "Studiu: Depopularea orașelor și satelor din Europa de Est alimentează radicalizarea politică",
+    "lead_ro": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
+    "content_ro": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
     "importance_score": 23.0
   },
   {
@@ -3468,33 +3505,6 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_bb7b18126d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Obiceiuri și superstiții de Sfinții Mihail și Gavriil 2026. De ce se aprind lumânări pe 8 noiembrie",
-        "link": "https://www.mediafax.ro/stirile-zilei/obiceiuri-si-superstitii-de-sfintii-mihail-si-gavriil-2026-de-ce-se-aprind-lumanari-pe-8-noiembrie-23839175"
-      },
-      {
-        "source": "Digi24",
-        "title": "Sfinții Mihail și Gavriil sau Gabriel? De ce există două forme ale aceluiași nume și cine își sărbătorește onomastica pe 8 noiembrie",
-        "link": "https://www.digi24.ro/magazin/sfintii-mihail-si-gavriil-sau-gabriel-de-ce-exista-doua-forme-ale-aceluiasi-nume-si-cine-isi-sarbatoreste-onomastica-pe-8-noiembrie-4024707"
-      }
-    ],
-    "published_at": 1794041684,
-    "title_hu": "Obiceiuri și superstiții de Sfinții Mihail și Gavriil 2026. De ce se aprind lumânări pe 8 noiembrie",
-    "lead_hu": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
-    "content_hu": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
-    "title_ro": "Obiceiuri și superstiții de Sfinții Mihail și Gavriil 2026. De ce se aprind lumânări pe 8 noiembrie",
-    "lead_ro": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
-    "content_ro": "În fiecare an, pe data de 8 noiembrie, creștinii sărbătoresc Sfinții Mihail și Gavriil. Ce obiceiuri și superstiții sunt cunoscute pentru această sărbătoare și de ce se aprind lumânări.",
-    "importance_score": 20.0
-  },
-  {
     "group_id": "group_fa07661ea7",
     "fingerprint": "975df4fbf398ab31fa33edf63983856d",
     "category": "Általános",
@@ -3638,6 +3648,116 @@
     "lead_ro": "Salma Hayek spune că privește cu optimism etapa de după împlinirea vârstei de 60 de ani și că rămâne implicată în proiecte profesionale. Actrița a devenit recent bunică și lucrează la debutul său ca regizoare de lungmetraj.",
     "content_ro": "• **După ce a împlinit 60 de ani**, Salma Hayek a declarat într-un interviu pentru People că traversează această perioadă cu optimism. În trecut, apropierea de această vârstă îi provoca temeri, însă experiența prezentă nu i se pare apăsătoare.\n\n• **Despre viața personală și activitatea sa**, actrița a spus că încă se ocupă de lucruri care îi fac plăcere. Ea a menționat sprijinul familiei și al prietenilor, starea de sănătate, energia și obiectivele pe care le păstrează.\n\n• **Primul său lungmetraj ca regizoare** este în pregătire, iar Hayek semnează și scenariul. Producția, intitulată Arena, este o aventură romantică de amploare destinată cinematografelor și a fost finanțată independent; în distribuție se află și actorul rus Yura Borisov, nominalizat la Oscar.\n\n• **Planurile pentru alte filme** nu sunt prioritatea imediată a lui Hayek: ea a spus că vrea să se concentreze asupra proiectului aflat în lucru și să îl ducă mai întâi la capăt. Regia reprezintă o nouă direcție profesională pentru actriță, care a descris experiența cu entuziasm.\n\n• **Cu câteva săptămâni înainte de aniversare**, Hayek a devenit bunică pentru prima dată. Fiul său vitreg, François Pinault Jr., și soția acestuia, Lara Cosima Henckel von Donnersmarck, au avut primul copil. Hayek are și o fiică de 19 ani, Valentina, cu soțul său, François-Henri Pinault.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_2836a1b922",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Militarul care și-a înjunghiat soția pe o stradă din Caracal a fost arestat. Calvarul trăit de femeie: „Nu spunea săraca tot”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/militarul-care-si-a-injunghiat-sotia-pe-o-strada-din-caracal-a-fost-arestat-calvarul-trait-de-femeie-nu-spunea-saraca-tot.html"
+      }
+    ],
+    "published_at": 1794117702,
+    "title_hu": "Militarul care și-a înjunghiat soția pe o stradă din Caracal a fost arestat. Calvarul trăit de femeie: „Nu spunea săraca tot”",
+    "lead_hu": "O întreagă comunitate este în stare de șoc în urma unui nou episod de violență extremă. O femeie din Caracal a trecut pe lângă moarte după ce a fost atacată de soțul ei, cu care este în proces de divo...",
+    "content_hu": "O întreagă comunitate este în stare de șoc în urma unui nou episod de violență extremă. O femeie din Caracal a trecut pe lângă moarte după ce a fost atacată de soțul ei, cu care este în proces de divorț.",
+    "title_ro": "Militarul care și-a înjunghiat soția pe o stradă din Caracal a fost arestat. Calvarul trăit de femeie: „Nu spunea săraca tot”",
+    "lead_ro": "O întreagă comunitate este în stare de șoc în urma unui nou episod de violență extremă. O femeie din Caracal a trecut pe lângă moarte după ce a fost atacată de soțul ei, cu care este în proces de divo...",
+    "content_ro": "O întreagă comunitate este în stare de șoc în urma unui nou episod de violență extremă. O femeie din Caracal a trecut pe lângă moarte după ce a fost atacată de soțul ei, cu care este în proces de divorț.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_5a9c1b47fa",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Afecțiunea ginecologică pe care multe femei o pot avea fără să știe. Cum se depistează și în ce cazuri afectează fertilitatea",
+        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/afectiunea-ginecologica-pe-care-multe-femei-o-pot-avea-fara-sa-stie-cum-se-depisteaza-si-in-ce-cazuri-afecteaza-fertilitatea-4025075"
+      }
+    ],
+    "published_at": 1794117630,
+    "title_hu": "Afecțiunea ginecologică pe care multe femei o pot avea fără să știe. Cum se depistează și în ce cazuri afectează fertilitatea",
+    "lead_hu": "Chisturile ovariene pot varia de la formațiuni benigne, care dispar spontan, până la afecțiuni ce necesită tratament specializat. Cum pot influența fertilitatea și când este necesară intervenția medic...",
+    "content_hu": "Chisturile ovariene pot varia de la formațiuni benigne, care dispar spontan, până la afecțiuni ce necesită tratament specializat. Cum pot influența fertilitatea și când este necesară intervenția medicală.",
+    "title_ro": "Afecțiunea ginecologică pe care multe femei o pot avea fără să știe. Cum se depistează și în ce cazuri afectează fertilitatea",
+    "lead_ro": "Chisturile ovariene pot varia de la formațiuni benigne, care dispar spontan, până la afecțiuni ce necesită tratament specializat. Cum pot influența fertilitatea și când este necesară intervenția medic...",
+    "content_ro": "Chisturile ovariene pot varia de la formațiuni benigne, care dispar spontan, până la afecțiuni ce necesită tratament specializat. Cum pot influența fertilitatea și când este necesară intervenția medicală.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_d90522249e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Când începe Târgul de Crăciun din Craiova în 2026. Unde vezi sania zburătoare și ce atracții găsești în cele cinci zone tematice",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/cand-incepe-targul-de-craciun-din-craiova-in-2026-unde-vezi-sania-zburatoare-si-ce-atractii-gasesti-in-cele-cinci-zone-tematice-4024873"
+      }
+    ],
+    "published_at": 1794117628,
+    "title_hu": "Când începe Târgul de Crăciun din Craiova în 2026. Unde vezi sania zburătoare și ce atracții găsești în cele cinci zone tematice",
+    "lead_hu": "Târgul de Crăciun din Craiova se deschide vineri, 13 noiembrie 2026, și va putea fi vizitat până pe 3 ianuarie 2027. Ediția din acest an are ca temă „Tărâmul elfilor” și aduce în centrul orașului un l...",
+    "content_hu": "Târgul de Crăciun din Craiova se deschide vineri, 13 noiembrie 2026, și va putea fi vizitat până pe 3 ianuarie 2027. Ediția din acest an are ca temă „Tărâmul elfilor” și aduce în centrul orașului un labirint cu ateliere de jucării și un brad prin care va circula un trenuleț suspendat.",
+    "title_ro": "Când începe Târgul de Crăciun din Craiova în 2026. Unde vezi sania zburătoare și ce atracții găsești în cele cinci zone tematice",
+    "lead_ro": "Târgul de Crăciun din Craiova se deschide vineri, 13 noiembrie 2026, și va putea fi vizitat până pe 3 ianuarie 2027. Ediția din acest an are ca temă „Tărâmul elfilor” și aduce în centrul orașului un l...",
+    "content_ro": "Târgul de Crăciun din Craiova se deschide vineri, 13 noiembrie 2026, și va putea fi vizitat până pe 3 ianuarie 2027. Ediția din acest an are ca temă „Tărâmul elfilor” și aduce în centrul orașului un labirint cu ateliere de jucării și un brad prin care va circula un trenuleț suspendat.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_0d059c8f0c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "INTERVIU „Ne dezintegrăm în propria noastră țară.” Avertisment al celei mai premiate autoare de cărți de bucate românești",
+        "link": "https://hotnews.ro/interviu-ne-dezintegram-in-propria-noastra-tara-avertisment-al-celei-mai-premiate-autoare-de-carti-de-bucate-romanesti-2397616"
+      }
+    ],
+    "published_at": 1794117618,
+    "title_hu": "INTERVIU „Ne dezintegrăm în propria noastră țară.” Avertisment al celei mai premiate autoare de cărți de bucate românești",
+    "lead_hu": "Românii să le ofere străinilor produse identitare, nu imitații ale celor internaționale. Urdă, în loc de ricotta, fasole bătută, în loc de hummus, mujdei, în loc de aioli, cafea turcească, în loc de e...",
+    "content_hu": "Românii să le ofere străinilor produse identitare, nu imitații ale celor internaționale. Urdă, în loc de ricotta, fasole bătută, în loc de hummus, mujdei, în loc de aioli, cafea turcească, în loc de espresso. „Nu cred că mă duc în Istanbul și găsesc focaccia pe atâtea drumuri pe care le găsesc aici în România. Sau …",
+    "title_ro": "INTERVIU „Ne dezintegrăm în propria noastră țară.” Avertisment al celei mai premiate autoare de cărți de bucate românești",
+    "lead_ro": "Românii să le ofere străinilor produse identitare, nu imitații ale celor internaționale. Urdă, în loc de ricotta, fasole bătută, în loc de hummus, mujdei, în loc de aioli, cafea turcească, în loc de e...",
+    "content_ro": "Românii să le ofere străinilor produse identitare, nu imitații ale celor internaționale. Urdă, în loc de ricotta, fasole bătută, în loc de hummus, mujdei, în loc de aioli, cafea turcească, în loc de espresso. „Nu cred că mă duc în Istanbul și găsesc focaccia pe atâtea drumuri pe care le găsesc aici în România. Sau …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_9835012094",
+    "category": "Kultúra",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Cărți de rețete de încercat: Carpatia, de Irina Georgescu, și rețeta ei de alivenci",
+        "link": "https://hotnews.ro/carti-de-retete-de-incercat-carpatia-de-irina-georgescu-si-reteta-ei-de-alivenci-2397887"
+      }
+    ],
+    "published_at": 1794117600,
+    "title_hu": "Cărți de rețete de încercat: Carpatia, de Irina Georgescu, și rețeta ei de alivenci",
+    "lead_hu": "Carpatia, prima carte a Irinei Georgescu, este o colecție de rețete românești clasice din toată țara. De la salată de vinete coapte la sarmale, de la plăcintă învârtită la pască și de la borș de periș...",
+    "content_hu": "Carpatia, prima carte a Irinei Georgescu, este o colecție de rețete românești clasice din toată țara. De la salată de vinete coapte la sarmale, de la plăcintă învârtită la pască și de la borș de perișoare la scovergi, toate sunt scrise pentru a-și îndeplini și rolul cultural, și pe cel practic. Carpathia (numele în engleză) …",
+    "title_ro": "Cărți de rețete de încercat: Carpatia, de Irina Georgescu, și rețeta ei de alivenci",
+    "lead_ro": "Carpatia, prima carte a Irinei Georgescu, este o colecție de rețete românești clasice din toată țara. De la salată de vinete coapte la sarmale, de la plăcintă învârtită la pască și de la borș de periș...",
+    "content_ro": "Carpatia, prima carte a Irinei Georgescu, este o colecție de rețete românești clasice din toată țara. De la salată de vinete coapte la sarmale, de la plăcintă învârtită la pască și de la borș de perișoare la scovergi, toate sunt scrise pentru a-și îndeplini și rolul cultural, și pe cel practic. Carpathia (numele în engleză) …",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_9f3edb62d2",
@@ -5881,28 +6001,6 @@
     "title_ro": "Voyager 1 a pierdut contactul cu NASA, apoi și-a revenit în mod misterios. Sonda este aproape de recordul de o zi-lumină de Pământ",
     "lead_ro": "Sonda spațială Voyager 1 a NASA, obiectul creat de om care a ajuns la cea mai mare distanță de Pământ, a pierdut contactul cu NASA în timpul a două tentative programate de comunicare. Și-a revenit în …",
     "content_ro": "Sonda spațială Voyager 1 a NASA, obiectul creat de om care a ajuns la cea mai mare distanță de Pământ, a pierdut contactul cu NASA în timpul a două tentative programate de comunicare. Și-a revenit în mod misterios după două zile, în condițiile în care sonda se apropie de distanța record de o zi-lumină de Terra.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5872fbf8c4",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Studiu: Depopularea orașelor și satelor din Europa de Est alimentează radicalizarea politică",
-        "link": "https://www.mediafax.ro/externe/studiu-depopularea-oraselor-si-satelor-din-europa-de-est-alimenteaza-radicalizarea-politica-23838896"
-      }
-    ],
-    "published_at": 1794075949,
-    "title_hu": "Studiu: Depopularea orașelor și satelor din Europa de Est alimentează radicalizarea politică",
-    "lead_hu": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
-    "content_hu": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
-    "title_ro": "Studiu: Depopularea orașelor și satelor din Europa de Est alimentează radicalizarea politică",
-    "lead_ro": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
-    "content_ro": "Depopularea localităților și retragerea sprijinului din partea statului contribuie la radicalizarea politică în Europa de Est, potrivit unei cercetări realizate de Universitatea Oxford.",
     "importance_score": 0.0
   },
   {
@@ -14706,204 +14804,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_133340b009",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "O tânără din Constanța este cercetată după ce ar fi lăsat un bărbat să moară fără să-i acorde primul ajutor",
-        "link": "https://stirileprotv.ro/stiri/actualitate/o-tanara-din-constanta-este-cercetata-dupa-ce-ar-fi-lasat-un-barbat-sa-moara-fara-sa-i-acorde-primul-ajutor.html"
-      }
-    ],
-    "published_at": 1794031348,
-    "title_hu": "O tânără din Constanța este cercetată după ce ar fi lăsat un bărbat să moară fără să-i acorde primul ajutor",
-    "lead_hu": "Caz șocant la Constanța! O femeie de 26 de ani, care practica prostituția, este cercetată pentru că nu ar fi ajutat un bărbat ce avea o urgență medicală în prezența ei.",
-    "content_hu": "Caz șocant la Constanța! O femeie de 26 de ani, care practica prostituția, este cercetată pentru că nu ar fi ajutat un bărbat ce avea o urgență medicală în prezența ei.",
-    "title_ro": "O tânără din Constanța este cercetată după ce ar fi lăsat un bărbat să moară fără să-i acorde primul ajutor",
-    "lead_ro": "Caz șocant la Constanța! O femeie de 26 de ani, care practica prostituția, este cercetată pentru că nu ar fi ajutat un bărbat ce avea o urgență medicală în prezența ei.",
-    "content_ro": "Caz șocant la Constanța! O femeie de 26 de ani, care practica prostituția, este cercetată pentru că nu ar fi ajutat un bărbat ce avea o urgență medicală în prezența ei.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5f7d36c0b1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Meghalt a nő a két kocsi ütközése következtében, hiába próbálták újraéleszteni",
-        "link": "https://www.mediatica.ro/hirek/sotet-ugyek/meghalt-a-no-a-ket-kocsi-utkozese-kovetkezteben-hiaba-probaltak-ujraeleszteni"
-      }
-    ],
-    "published_at": 1794031322,
-    "title_hu": "Meghalt a nő a két kocsi ütközése következtében, hiába próbálták újraéleszteni",
-    "lead_hu": "Négy másik ember is megsérült a Wollowetzen történt balesetben.",
-    "content_hu": "Négy másik ember is megsérült a Wollowetzen történt balesetben.",
-    "title_ro": "Meghalt a nő a két kocsi ütközése következtében, hiába próbálták újraéleszteni",
-    "lead_ro": "Négy másik ember is megsérült a Wollowetzen történt balesetben.",
-    "content_ro": "Négy másik ember is megsérült a Wollowetzen történt balesetben.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_89e0597485",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Armata americană a anunțat o recompensă de 20 de milioane de dolari și „o posibilă relocare”. Ce informații caută",
-        "link": "https://hotnews.ro/armata-americana-a-anuntat-o-recompensa-de-20-de-milioane-de-dolari-si-o-posibila-relocare-ce-informatii-cauta-2397392"
-      }
-    ],
-    "published_at": 1794031260,
-    "title_hu": "Armata americană a anunțat o recompensă de 20 de milioane de dolari și „o posibilă relocare”. Ce informații caută",
-    "lead_hu": "Comandamentul Militar American pentru Orientul Mijlociu (Centcom) a anunțat vineri că oferă o recompensă mare pentru persoanele care pot aduce informații despre un subiect foarte important pentru Admi…",
-    "content_hu": "Comandamentul Militar American pentru Orientul Mijlociu (Centcom) a anunțat vineri că oferă o recompensă mare pentru persoanele care pot aduce informații despre un subiect foarte important pentru Administrația Donald Trump. Astfel, armata americană oferă o recompensă de 20 de milioane de dolari „și o posibilă relocare” oricărei persoane care îi furnizează informații despre programul nuclear …",
-    "title_ro": "Armata americană a anunțat o recompensă de 20 de milioane de dolari și „o posibilă relocare”. Ce informații caută",
-    "lead_ro": "Comandamentul Militar American pentru Orientul Mijlociu (Centcom) a anunțat vineri că oferă o recompensă mare pentru persoanele care pot aduce informații despre un subiect foarte important pentru Admi…",
-    "content_ro": "Comandamentul Militar American pentru Orientul Mijlociu (Centcom) a anunțat vineri că oferă o recompensă mare pentru persoanele care pot aduce informații despre un subiect foarte important pentru Administrația Donald Trump. Astfel, armata americană oferă o recompensă de 20 de milioane de dolari „și o posibilă relocare” oricărei persoane care îi furnizează informații despre programul nuclear …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e21a6d3432",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Gabriel Liiceanu, la Oradea: „Sunt emoționat pentru că sunt în orașul care își datorează aspectul domnului Ilie Bolojan” (FOTO)",
-        "link": "https://www.ebihoreanul.ro/stiri/gabriel-liiceanu-la-oradea-sunt-emotionat-pentru-ca-sunt-in-orasul-care-isi-datoreaza-aspectul-domnului-ilie-bolojan-206412.html"
-      }
-    ],
-    "published_at": 1794031260,
-    "title_hu": "Gabriel Liiceanu, la Nagyvárad: „Sunt emoționat pentru că sunt în orașul care își datorează aspectul domnului Ilie Bolojan” (FOTO)",
-    "lead_hu": "Nagyvárad l-a făcut pe Gabriel Liiceanu să vorbească despre „întruparea unei utopii”. Invitat vineri seară la Biblioteca Județeană „Gheorghe Șincai” Bihor, în cadrul primei ediții Bookfest Nagyvárad, …",
-    "content_hu": "Nagyvárad l-a făcut pe Gabriel Liiceanu să vorbească despre „întruparea unei utopii”. Invitat vineri seară la Biblioteca Județeană „Gheorghe Șincai” Bihor, în cadrul primei ediții Bookfest Nagyvárad, filozoful și scriitorul în vârstă de 84 de ani și-a început conferința despre „Cărțile care ne-au făcut oameni” cu aprecieri pentru oraș și pentru Ilie Bolojan. A urmat o călătorie prin cărți, cu povești, amintiri și trimiteri la politica de astăzi, pornită de la întrebarea ce ar trebui să citească oamenii ca să știe mai bine ce să facă cu propria viață.",
-    "title_ro": "Gabriel Liiceanu, la Oradea: „Sunt emoționat pentru că sunt în orașul care își datorează aspectul domnului Ilie Bolojan” (FOTO)",
-    "lead_ro": "Nagyvárad l-a făcut pe Gabriel Liiceanu să vorbească despre „întruparea unei utopii”. Invitat vineri seară la Biblioteca Județeană „Gheorghe Șincai” Bihor, în cadrul primei ediții Bookfest Nagyvárad, …",
-    "content_ro": "Nagyvárad l-a făcut pe Gabriel Liiceanu să vorbească despre „întruparea unei utopii”. Invitat vineri seară la Biblioteca Județeană „Gheorghe Șincai” Bihor, în cadrul primei ediții Bookfest Nagyvárad, filozoful și scriitorul în vârstă de 84 de ani și-a început conferința despre „Cărțile care ne-au făcut oameni” cu aprecieri pentru oraș și pentru Ilie Bolojan. A urmat o călătorie prin cărți, cu povești, amintiri și trimiteri la politica de astăzi, pornită de la întrebarea ce ar trebui să citească oamenii ca să știe mai bine ce să facă cu propria viață.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6a51a2797a",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Război psihologic. Alertele cu bombă de la Otopeni fac parte dintr-un război psihologic, spun experții citați de presa italiană",
-        "link": "https://www.mediafax.ro/externe/razboi-psihologic-alertele-cu-bomba-de-la-otopeni-fac-parte-dintr-un-razboi-psihologic-spun-expertii-citati-de-presa-italiana-23839129"
-      }
-    ],
-    "published_at": 1794031258,
-    "title_hu": "Război psihologic. Alertele cu bombă de la Otopeni fac parte dintr-un război psihologic, spun experții citați de presa italiană",
-    "lead_hu": "Alertele cu bombă care au perturbat zboruri din toată Europa, inclusiv din România, ar putea face parte dintr-un „război psihologic” menit să semene panică, avertizează oficiali și experți citați de p…",
-    "content_hu": "Alertele cu bombă care au perturbat zboruri din toată Europa, inclusiv din România, ar putea face parte dintr-un „război psihologic” menit să semene panică, avertizează oficiali și experți citați de presa italiană. Niciun exploziv nu a fost găsit la bordul avioanelor.",
-    "title_ro": "Război psihologic. Alertele cu bombă de la Otopeni fac parte dintr-un război psihologic, spun experții citați de presa italiană",
-    "lead_ro": "Alertele cu bombă care au perturbat zboruri din toată Europa, inclusiv din România, ar putea face parte dintr-un „război psihologic” menit să semene panică, avertizează oficiali și experți citați de p…",
-    "content_ro": "Alertele cu bombă care au perturbat zboruri din toată Europa, inclusiv din România, ar putea face parte dintr-un „război psihologic” menit să semene panică, avertizează oficiali și experți citați de presa italiană. Niciun exploziv nu a fost găsit la bordul avioanelor.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_34c846d521",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ce înseamnă cifrele de pe ouă. Diferența dintre codurile 0, 1, 2 și 3 și ce să verifici înainte să le cumperi",
-        "link": "https://www.digi24.ro/magazin/ce-inseamna-cifrele-de-pe-oua-diferenta-dintre-codurile-0-1-2-si-3-si-ce-sa-verifici-inainte-sa-le-cumperi-4024961"
-      }
-    ],
-    "published_at": 1794031254,
-    "title_hu": "Ce înseamnă cifrele de pe ouă. Diferența dintre codurile 0, 1, 2 și 3 și ce să verifici înainte să le cumperi",
-    "lead_hu": "Prima cifră din codul imprimat pe coaja ouălor arată în ce condiții au fost crescute găinile. Este un detaliu pe care cumpărătorii îl pot verifica direct la raft, mai ales când vor să distingă între o…",
-    "content_hu": "Prima cifră din codul imprimat pe coaja ouălor arată în ce condiții au fost crescute găinile. Este un detaliu pe care cumpărătorii îl pot verifica direct la raft, mai ales când vor să distingă între ouăle de la păsări crescute la sol și cele de la găini care au acces în aer liber.",
-    "title_ro": "Ce înseamnă cifrele de pe ouă. Diferența dintre codurile 0, 1, 2 și 3 și ce să verifici înainte să le cumperi",
-    "lead_ro": "Prima cifră din codul imprimat pe coaja ouălor arată în ce condiții au fost crescute găinile. Este un detaliu pe care cumpărătorii îl pot verifica direct la raft, mai ales când vor să distingă între o…",
-    "content_ro": "Prima cifră din codul imprimat pe coaja ouălor arată în ce condiții au fost crescute găinile. Este un detaliu pe care cumpărătorii îl pot verifica direct la raft, mai ales când vor să distingă între ouăle de la păsări crescute la sol și cele de la găini care au acces în aer liber.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_97e6bf531f",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "„Mă simțeam cel mai sănătos din viața mea, dar arătam nasol!” Tudor de la Fly Project, dezvăluiri despre transformarea care i-a îngrijorat pe toți",
-        "link": "https://www.cancan.ro/ma-simteam-cel-mai-sanatos-din-viata-mea-dar-aratam-nasol-tudor-de-la-fly-project-dezvaluiri-despre-transformarea-care-i-a-ingrijorat-pe-toti-21542932"
-      }
-    ],
-    "published_at": 1794031247,
-    "title_hu": "„Mă simțeam cel mai sănătos din viața mea, dar arătam nasol!” Tudor de la Fly Project, dezvăluiri despre transformarea care i-a îngrijorat pe toți",
-    "lead_hu": "Mulți au crezut că suferă de o boală incurabilă! Tudor de la Fly Project a slăbit enorm, iar transformarea sa fizică a avut un impact puternic asupra apropiaților și a celor care îl urmăresc. Deși era…",
-    "content_hu": "Mulți au crezut că suferă de o boală incurabilă! Tudor de la Fly Project a slăbit enorm, iar transformarea sa fizică a avut un impact puternic asupra apropiaților și a celor care îl urmăresc. Deși era conștient că nu arăta bine din punct de vedere fizic, artistul spune că, în interior, se simțea mai bine […]",
-    "title_ro": "„Mă simțeam cel mai sănătos din viața mea, dar arătam nasol!” Tudor de la Fly Project, dezvăluiri despre transformarea care i-a îngrijorat pe toți",
-    "lead_ro": "Mulți au crezut că suferă de o boală incurabilă! Tudor de la Fly Project a slăbit enorm, iar transformarea sa fizică a avut un impact puternic asupra apropiaților și a celor care îl urmăresc. Deși era…",
-    "content_ro": "Mulți au crezut că suferă de o boală incurabilă! Tudor de la Fly Project a slăbit enorm, iar transformarea sa fizică a avut un impact puternic asupra apropiaților și a celor care îl urmăresc. Deși era conștient că nu arăta bine din punct de vedere fizic, artistul spune că, în interior, se simțea mai bine […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_53ded6387e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Obiceiuri de Sfinții Mihail și Gavriil 2026: Poți spăla rufe pe 8 noiembrie? Ce nu se face într-o zi cu cruce roșie, potrivit tradiției",
-        "link": "https://www.digi24.ro/magazin/obiceiuri-de-sfintii-mihail-si-gavriil-2026-poti-spala-rufe-pe-8-noiembrie-ce-nu-se-face-intr-o-zi-cu-cruce-rosie-potrivit-traditiei-4024773"
-      }
-    ],
-    "published_at": 1794031227,
-    "title_hu": "Obiceiuri de Sfinții Mihail și Gavriil 2026: Poți spăla rufe pe 8 noiembrie? Ce nu se face într-o zi cu cruce roșie, potrivit tradiției",
-    "lead_hu": "Sfinții Mihail și Gavriil sunt prăznuiți în fiecare an pe 8 noiembrie. Cunoscută și sub numele de Soborul Sfinților Arhangheli, sărbătoarea se numără printre cele mai importante din calendarul ortodox…",
-    "content_hu": "Sfinții Mihail și Gavriil sunt prăznuiți în fiecare an pe 8 noiembrie. Cunoscută și sub numele de Soborul Sfinților Arhangheli, sărbătoarea se numără printre cele mai importante din calendarul ortodox.",
-    "title_ro": "Obiceiuri de Sfinții Mihail și Gavriil 2026: Poți spăla rufe pe 8 noiembrie? Ce nu se face într-o zi cu cruce roșie, potrivit tradiției",
-    "lead_ro": "Sfinții Mihail și Gavriil sunt prăznuiți în fiecare an pe 8 noiembrie. Cunoscută și sub numele de Soborul Sfinților Arhangheli, sărbătoarea se numără printre cele mai importante din calendarul ortodox…",
-    "content_ro": "Sfinții Mihail și Gavriil sunt prăznuiți în fiecare an pe 8 noiembrie. Cunoscută și sub numele de Soborul Sfinților Arhangheli, sărbătoarea se numără printre cele mai importante din calendarul ortodox.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_75d21709ed",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "De ce par ochii obosiți chiar și după opt ore de somn. Cu ce afecțiuni se poate asocia acest aspect și ce măsuri ajută",
-        "link": "https://www.digi24.ro/stiri/actualitate/sanatate/de-ce-par-ochii-obositi-chiar-si-dupa-opt-ore-de-somn-cu-ce-afectiuni-se-poate-asocia-acest-aspect-si-ce-masuri-ajuta-4024941"
-      }
-    ],
-    "published_at": 1794031226,
-    "title_hu": "De ce par ochii obosiți chiar și după opt ore de somn. Cu ce afecțiuni se poate asocia acest aspect și ce măsuri ajută",
-    "lead_hu": "Cearcănele nu apar întotdeauna din cauza oboselii. Aspectul lor poate fi influențat de moștenirea genetică, de modificările pielii odată cu înaintarea în vârstă sau de acumularea de pigment în zona de…",
-    "content_hu": "Cearcănele nu apar întotdeauna din cauza oboselii. Aspectul lor poate fi influențat de moștenirea genetică, de modificările pielii odată cu înaintarea în vârstă sau de acumularea de pigment în zona de sub ochi.",
-    "title_ro": "De ce par ochii obosiți chiar și după opt ore de somn. Cu ce afecțiuni se poate asocia acest aspect și ce măsuri ajută",
-    "lead_ro": "Cearcănele nu apar întotdeauna din cauza oboselii. Aspectul lor poate fi influențat de moștenirea genetică, de modificările pielii odată cu înaintarea în vârstă sau de acumularea de pigment în zona de…",
-    "content_ro": "Cearcănele nu apar întotdeauna din cauza oboselii. Aspectul lor poate fi influențat de moștenirea genetică, de modificările pielii odată cu înaintarea în vârstă sau de acumularea de pigment în zona de sub ochi.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_0270d3773d",
     "category": "Általános",
     "is_synthesized": false,
@@ -14963,6 +14863,33 @@
     "lead_ro": "Reza Pahlavi a primit la Frankfurt premiul pentru libertate al Fundației Friedrich Naumann, în timp ce mii de susținători s-au adunat în oraș, iar mai multe formațiuni politice au contestat decizia. Noua sursă îl prezintă și ca fiu al fostului conducător al monarhiei iraniene.",
     "content_ro": "• **Locul ceremoniei** a fost Biserica Sfântul Paul din Frankfurt. Fundația Friedrich Naumann, apropiată de FDP, a ales o clădire cu rol important în istoria democratică germană: aici s-a reunit primul parlament ales al țării, în 1848–1849.\n\n• **Originea lui Reza Pahlavi** este menționată și în noua sursă, care îl identifică drept fiul fostului conducător al monarhiei iraniene. În paralel cu ceremonia, aproximativ 18.000 de susținători s-au strâns la Frankfurt; mulți au afișat drapele iraniene din perioada de dinaintea revoluției din 1979.\n\n• **În discursul său**, Pahlavi a cerut ca iranienii să poată exercita efectiv drepturile democratice. El a amintit victimele protestelor antiguvernamentale începute la sfârșitul anului trecut; organizațiile pentru drepturile omului estimează că intervenția forțelor de securitate din ianuarie a provocat moartea a zeci de mii de oameni. Pahlavi s-a adresat și rudelor victimelor prezente la eveniment.\n\n• **Aproximativ 200 de deținuți iranieni** au contestat printr-o scrisoare acordarea distincției, considerându-l pe Pahlavi un simbol al fostului regim autoritar. Mesajul a fost prezentat de Sahar Sanaie, reprezentantă a Societății Germano-Iraniene din landul Hessa.\n\n• **Organizațiile locale ale SPD și Verzilor** au boicotat ceremonia, afirmând că Pahlavi nu reprezintă în mod legitim poporul iranian. Die Linke a criticat folosirea bisericii pentru un eveniment politic, invocând regulile municipale aplicabile spațiului.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_dc05b3f2d0",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Operațiune de salvare în toiul nopții, în Retezat. Un turist a căzut de pe creastă și este căutat cu drone și câini de salvare",
+        "link": "https://www.mediafax.ro/social/operatiune-de-salvare-in-toiul-noptii-in-retezat-un-turist-a-cazut-de-pe-creasta-si-este-cautat-cu-drone-si-caini-de-salvare-23839536"
+      },
+      {
+        "source": "G4Media",
+        "title": "Intervenție în noapte a Salvamont: Un turist este căutat în Retezat după ce ar fi alunecat pe gheață și a căzut de pe o creastă montană",
+        "link": "https://www.g4media.ro/interventie-in-noapte-a-salvamont-un-turist-este-cautat-in-retezat-dupa-ce-ar-fi-alunecat-pe-gheata-si-a-cazut-de-pe-o-creasta-montana.html"
+      }
+    ],
+    "published_at": 1794104192,
+    "title_hu": "Operațiune de salvare în toiul nopții, în Retezat. Un turist a căzut de pe creastă și este căutat cu drone și câini de salvare",
+    "lead_hu": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dr…",
+    "content_hu": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dronă cu termoviziune și un echipaj canin.",
+    "title_ro": "Operațiune de salvare în toiul nopții, în Retezat. Un turist a căzut de pe creastă și este căutat cu drone și câini de salvare",
+    "lead_ro": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dr…",
+    "content_ro": "Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dronă cu termoviziune și un echipaj canin.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_b1267ad018",
