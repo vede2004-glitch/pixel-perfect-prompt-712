@@ -28,4 +28,11 @@ describe("Newsroom engine", () => {
     expect(result.single_source_news[0]?.sources).toEqual([{ source: "Maszol", link: "https://maszol.ro/article" }]);
     expect(result.single_source_news[0]?.title_hu).toBe("Memory");
   });
+  it("keeps the readable topic title and category while retaining the ID only for selection", () => {
+    const result = filterNewsroomNews([{ ...item("group_internal", 1), title_hu: "Olvasható témacím", category: "Sport" }], ["Maszol"], 6, now);
+    expect(result.single_source_news[0]).toMatchObject({ group_id: "group_internal", title_hu: "Olvasható témacím", category: "Sport" });
+  });
+  it("uses a readable default category when the source data has none", () => {
+    expect(filterNewsroomNews([item("one", 1)], ["Maszol"], 6, now).single_source_news[0]?.category).toBe("Általános");
+  });
 });

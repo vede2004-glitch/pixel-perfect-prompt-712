@@ -1,12 +1,14 @@
 import { Link } from "@tanstack/react-router";
-import { HeartHandshake, Info, Library, Menu, MessageSquareWarning, Moon, Newspaper, Sun } from "lucide-react";
+import { Clock3, HeartHandshake, Info, Library, Menu, MessageSquareWarning, Moon, Newspaper, Radio, Sun } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 import { LANGS, setLang, useLang } from "@/lib/lang";
 import { setTheme, useTheme } from "@/lib/theme";
 
 const items = [
-  { to: "/", hu: "Főoldal", ro: "Pagina principală", icon: Newspaper },
+  { to: "/", hu: "Top hírek", ro: "Știri de top", icon: Newspaper },
+  { to: "/friss", hu: "Friss hírek", ro: "Ultimele știri", icon: Clock3 },
+  { to: "/hirfolyam", hu: "Hírfolyam", ro: "Flux de știri", icon: Radio },
   { to: "/osszes", hu: "Minden hír (archívum)", ro: "Toate știrile (arhivă)", icon: Library },
   { to: "/tamogatas", hu: "Támogatás", ro: "Susține-ne", icon: HeartHandshake },
   { to: "/visszajelzes", hu: "Visszajelzés & Hibabejelentés", ro: "Feedback & Erori", icon: MessageSquareWarning },

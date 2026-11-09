@@ -11,7 +11,7 @@ export function studioSearch(input: Record<string, unknown>) {
 const sourceSchema = z.object({ source: z.string(), link: z.string().optional() });
 export const studioNewsSchema = z.object({
   group_id: z.union([z.string(), z.number()]).transform(String),
-  title_hu: z.string(), lead_hu: z.string().default(""), image: z.string().nullable().optional(),
+  title_hu: z.string(), lead_hu: z.string().default(""), category: z.string().default("Általános"), image: z.string().nullable().optional(),
   published_at: z.number().nullable().optional(), sources: z.array(sourceSchema).default([]),
   source: z.string().optional(), sources_count: z.number().optional(), is_synthesized: z.boolean().optional(),
 });

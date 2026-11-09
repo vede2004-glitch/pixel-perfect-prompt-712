@@ -30,7 +30,7 @@ export function filterNewsroomNews(entries: unknown[], selectedSources: string[]
     const multiple = sources.length > 1;
     const news: StudioNews = {
       group_id: String(id), title_hu: text(item['title_hu'] ?? item['title']),
-      lead_hu: text(item['lead_hu'] ?? item['summary']),
+      lead_hu: text(item['lead_hu'] ?? item['summary']), category: text(item['category']) || "Általános",
       image: text(item['image']) || null, published_at: published, sources,
       source: sources[0]?.source, sources_count: sources.length, is_synthesized: item['is_synthesized'] === true,
     };
