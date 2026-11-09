@@ -552,73 +552,78 @@
     "importance_score": 148.0
   },
   {
-    "group_id": "group_f767c70e1e",
-    "fingerprint": "bef3e49bd18dcf6e14295e586d52ccf7",
-    "category": "Általános",
+    "group_id": "group_eb6e6ec845",
+    "fingerprint": "1319f248aa00e463dbbc0dc41f9cf32a",
+    "category": "Bulvár",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 10,
+    "sources_count": 11,
     "sources": [
       {
         "source": "ProTV Stiri",
-        "title": "Autorul atacului din Cracovia, în urma căruia au murit șase oameni, a decedat la spital",
-        "link": "https://stirileprotv.ro/stiri/international/autorul-atacului-din-cracovia-in-urma-caruia-au-murit-sase-oameni-a-decedat-la-spital.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Autorul atacului armat din Cracovia a murit la spital, a anunțat poliția poloneză",
-        "link": "https://www.digi24.ro/stiri/externe/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-a-anuntat-politia-poloneza-4027165"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Autorul atacului armat de la Cracovia a murit la spital (poliția poloneză)",
-        "link": "https://agerpres.ro/politic-extern/2026/11/09/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-politia-poloneza--1611326"
-      },
-      {
-        "source": "Kolozsvári Rádió (HU)",
-        "title": "Krakkói lövöldözés: meghalt az elkövető",
-        "link": "https://www.kolozsvariradio.ro/2026/11/09/krakkoi-lovoldozes-meghalt-az-elkoveto/"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Tânărul care a ucis șase oameni în Cracovia a murit la spital. Însemnele găsite pe hainele atacatorului",
-        "link": "https://hotnews.ro/tanarul-care-a-ucis-sase-oameni-in-cracovia-a-murit-la-spital-insemnele-gasite-pe-hainele-atacatorului-2398703"
+        "title": "Scandal de spionaj la vârful Nvidia. Șeful companiei, Jensen Huang, ar fi avut o relație amoroasă cu o spioană chineză",
+        "link": "https://stirileprotv.ro/stiri/international/scandal-de-spionaj-la-varful-nvidia-seful-companiei-jensen-huang-ar-fi-avut-o-relatie-amoroasa-cu-o-spioana-chineza.html"
       },
       {
         "source": "Adevărul",
-        "title": "Autorul masacrului de la Cracovia a murit la spital",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/autorul-masacrului-de-la-cracovia-a-murit-la-2569941.html"
+        "title": "Șeful Nvidia, suspectat că a avut o relație cu o presupusă spioană chineză. Congresul american cere explicații",
+        "link": "https://adevarul.ro/stiri-externe/sua/seful-nvidia-suspectat-ca-a-avut-o-relatie-cu-o-2569869.html"
       },
       {
         "source": "Mediafax",
-        "title": "Atacatorul care a ucis șase persoane în Cracovia a murit la spital",
-        "link": "https://www.mediafax.ro/externe/atacatorul-care-a-ucis-sase-persoane-in-cracovia-a-murit-la-spital-23840006"
+        "title": "Șeful Nvidia Jensen Huang, unul dintre cei mai bogați oameni ai lumii, recunoaște că și-a înșelat soția. Compania anchetează o presupusă operațiune de spionaj chinez",
+        "link": "https://www.mediafax.ro/externe/seful-nvidia-jensen-huang-unul-dintre-cei-mai-bogati-oameni-ai-lumii-recunoaste-ca-si-a-inselat-sotia-compania-ancheteaza-o-presupusa-operatiune-de-spionaj-chinez-23839925"
       },
       {
-        "source": "Transtelex",
-        "title": "Meghalt a kórházban a krakkói lövöldözés elkövetője",
-        "link": "https://transtelex.ro/kulfold/2026/11/09/meghalt-krakko-lovoldozo-korhaz"
+        "source": "HotNews.ro",
+        "title": "Șeful Nvidia, investigat de gigantul tech dacă a fost ținta spionajului străin, după ce a recunoscut că a avut o aventură",
+        "link": "https://hotnews.ro/nvidia-jensen-huang-ancheta-spioana-chineza-2398664"
       },
       {
         "source": "G4Media",
-        "title": "Bărbatul care a ucis șase persoane în Cracovia a decedat în spital",
-        "link": "https://www.g4media.ro/barbatul-care-a-ucis-sase-persoane-in-cracovia-a-decedat-in-spital.html"
+        "title": "Nvidia deschide o anchetă independentă după ce CEO-ul Jensen Huang a recunoscut ca a avut o relație cu o presupusă spioană chineză",
+        "link": "https://www.g4media.ro/nvidia-deschide-o-ancheta-independenta-dupa-ce-ceo-ul-jensen-huang-a-recunoscut-ca-a-avut-o-relatie-cu-o-presupusa-spioana-chineza.html"
       },
       {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "A murit atacatorul care a ucis șase oameni în Cracovia. Ancheta continuă pentru a stabili dacă a avut complici",
-        "link": "https://www.ebihoreanul.ro/stiri/a-murit-atacatorul-care-a-ucis-sase-oameni-in-cracovia-ancheta-continua-pentru-a-stabili-daca-a-avut-complici-206441.html"
+        "source": "Digi24",
+        "title": "Scandal de spionaj la Nvidia. Anchetă deschisă după dezvăluirile despre relația lui Jensen Huang cu o presupusă spioană chineză",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/scandal-de-spionaj-la-nvidia-ancheta-deschisa-dupa-dezvaluirile-despre-relatia-lui-jensen-huang-cu-o-presupusa-spioana-chineza-4027199"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Anchetă internă privind o presupusă operațiune de spionaj asupra CEO-ului Nvidia, care recunoaște o relație extraconjugală",
+        "link": "https://agerpres.ro/politic-extern/2026/11/09/ancheta-interna-privind-o-presupusa-operatiune-de-spionaj-asupra-ceo-ului-nvidia-care-recunoaste-o-r--1611350"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Reacție de la Beijing în scandalul de spionaj de la Nvidia, care îl anchetează pe șeful companiei Jensen Huang",
+        "link": "https://hotnews.ro/reactie-de-la-beijing-in-scandalul-de-spionaj-de-la-nvidia-care-il-ancheteaza-pe-seful-companiei-jensen-huang-2398745"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nvidia deschide o anchetă după relatări că CEO companiei ar fi fost vizat de spionajul chinez. Trump îl apără, Congresul cere explicații",
+        "link": "https://adevarul.ro/stiri-externe/sua/nvidia-deschide-o-ancheta-dupa-relatari-ca-ceo-2569983.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
+        "link": "https://www.g4media.ro/financial-times-serviciile-de-informatii-din-sua-avertizeaza-ca-directorul-nvidia-ar-fi-avut-o-relatie-amoroasa-cu-o-presupusa-spioana-a-chinei.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Scandal uriaș la Nvidia! Amanta CEO-ului Jensen Huang ar spiona pentru China. Conducerea companiei a început o anchetă",
+        "link": "https://www.cancan.ro/scandal-urias-la-nvidia-amanta-ceo-ului-jensen-huang-ar-spiona-pentru-china-conducerea-companiei-a-inceput-o-ancheta-21544189"
       }
     ],
-    "published_at": 1794218040,
-    "title_hu": "Meghalt a krakkói lövöldözés gyanúsítottja; folytatódik a nyomozás",
-    "lead_hu": "Hétfő hajnalban meghalt a kórházban a krakkói lövöldözés 24 éves gyanúsítottja, Michał Oksiński. A támadásban hatan vesztették életüket; a hatóságok a sérültek állapotáról és a feltételezett indítékokról is közöltek új részleteket.",
-    "content_hu": "• **November 9-én, hétfőn hajnalban** meghalt a 24 éves Michał Oksiński, akit a szombati krakkói lövöldözéssel gyanúsítanak. A kis-lengyelországi rendőrség közlése szerint a férfi 4:30 körül hunyt el; kórházi kezelése alatt legalább három műtéten esett át, állapota végig kritikus volt.\n\n• **A támadásban hat ember halt meg,** a sérültek száma pedig 15 volt a vajda hétfői tájékoztatása szerint. Közülük 14 állapota stabil; egy rendőr továbbra is súlyos állapotban van, de már felébresztették a kómából. A másik megsérült rendőr állapota szintén stabil.\n\n• **A lövöldözés helyszíne Krakkó főtere volt:** a férfi egy autóból nyitott tüzet, és két fiatal rendőr közvetlen tűzharcban állította meg. Az áldozatok között külföldi állampolgárok is voltak. A támadó családtagjainak – apjának, anyjának és húgának – holttestét a Krakkótól mintegy 200 kilométerre fekvő Ostrowiec Świętokrzyskiben találták meg.\n\n• **A fegyverek és a lehetséges indítékok vizsgálata folytatódik.** A családi otthonban és a használt autóban több fegyvert, valamint lőszert találtak; a lengyel sajtó szerint az apa 11 lőfegyvert tartott legálisan. A belügyminiszter korábbi nyilatkozata alapján a nyomozók a szélsőjobboldali nézetek lehetséges szerepét is vizsgálják.\n\n• **Az ügyészségi eljárást a gyanúsított halála sem állítja le:** a nyomozás terrorcselekmény és sorozatgyilkosság gyanújával folyik, többek között a férfi indítékait és esetleges kapcsolatait kutatják. Karol Nawrocki elnök november 8–9-re nemzeti gyászt rendelt el; a főteret vasárnap este ismét megnyitották, hétfőre pedig néma menetet hirdettek az áldozatok emlékére.",
-    "title_ro": "A murit suspectul atacului armat din Cracovia; ancheta continuă",
-    "lead_ro": "Michał Oksiński, suspectul în vârstă de 24 de ani al atacului armat din Cracovia, a murit luni dimineață la spital. Șase persoane au fost ucise, iar autoritățile au oferit noi informații despre starea răniților și direcțiile anchetei.",
-    "content_ro": "• **Luni, 9 noiembrie, în zori,** a murit Michał Oksiński, în vârstă de 24 de ani, suspectat de atacul comis sâmbătă la Cracovia. Poliția din Malopolska a indicat că decesul a survenit în jurul orei 4:30; bărbatul fusese operat de cel puțin trei ori și se afla în stare critică încă de la internare.\n\n• **Atacul s-a soldat cu șase morți,** iar 15 persoane au fost rănite, potrivit informării de luni a voievodului. Paisprezece răniți au o stare stabilă. Un polițist se află în continuare în stare gravă, dar a fost trezit din comă; celălalt polițist rănit este, de asemenea, stabil.\n\n• **Focurile de armă au fost trase dintr-o mașină,** în zona pieței centrale din Cracovia. Doi polițiști tineri l-au oprit pe suspect în urma unui schimb direct de focuri. Trupurile tatălui, mamei și surorii bărbatului au fost găsite în locuința familiei din Ostrowiec Świętokrzyski, la aproximativ 200 de kilometri de Cracovia.\n\n• **Anchetatorii verifică armele și posibilele motivații.** În locuință și în mașină au fost descoperite arme și muniție; potrivit presei poloneze, tatăl suspectului deținea legal 11 arme de foc. Ministrul de interne a afirmat anterior că ancheta ia în calcul și o posibilă influență a ideilor de extremă dreapta.\n\n• **Moartea suspectului nu oprește procedura procurorilor:** investigația vizează suspiciuni de terorism și omoruri în serie, inclusiv motivațiile bărbatului și eventualele sale legături. Președintele Karol Nawrocki a decretat doliu național pentru 8 și 9 noiembrie. Piața a fost redeschisă duminică seara, iar pentru luni a fost anunțat un marș tăcut în memoria victimelor.",
-    "importance_score": 115.0
+    "published_at": 1794215098,
+    "title_hu": "Újabb részletek az Nvidia-vizsgálatról: Peking cáfol, a kongresszus magyarázatot vár",
+    "lead_hu": "Az Nvidia független vizsgálata azt értékeli, célpontja lehetett-e Jensen Huang külföldi hírszerzési műveletnek. Peking alaptalannak nevezte a kínai kémkedésről szóló állításokat, miközben amerikai politikusok és a sajtó további biztonsági kérdéseket vetett fel.",
+    "content_hu": "• **Az igazgatótanács vasárnapi döntése** nyomán független igazgatók és külső jogászok vizsgálják, hogy Jensent Huangot érhette-e külföldi hírszerzési művelet. A testület nem nevezett meg országot vagy konkrét információt, és közölte: jelenleg nincs oka azt feltételezni, hogy az Egyesült Államok nemzetbiztonsága vagy az Nvidia üzleti titkai sérültek. A vizsgálat minden rendelkezésre álló adatot áttekint; Huang támogatja és vállalta az együttműködést.\n\n• **Alice Huang és a Megaspeed** kapcsán amerikai hírszerzési gyanú merült fel, hogy a szingapúri adatközpont-vállalat korábbi vezetője kínai szolgálatoknak dolgozhatott, és információkat juttathatott Pekingbe. Egyes sajtóbeszámolók szerint a cég fejlett Nvidia-chipek Kínába irányításában is szerepet játszhatott; ezek az állítások nem bizonyítottak. Alice Huang Huang Le néven is ismert, és nem rokona a vezérigazgatónak.\n\n• **Huang személyes üzenete** szerint megcsalta feleségét, és ezzel fájdalmat okozott családjának. Felelősséget vállalt, bocsánatot kért, és azt írta, dolgozni fog a munkatársak, a vezető testület és a részvényesek bizalmának visszaszerzésén. A kémkedési felvetéseket nem kommentálta. Az Nvidia közlése szerint Huang megszakítás nélkül vezérigazgató marad, és az ügy nem lassítja a vállalat működését.\n\n• **A politikai reakciók** között Chris Coons demokrata szenátor vizsgálati ígérete, valamint republikánus képviselők zárt meghallgatási kérelme szerepel. Huangot a képviselőház külügyi és hírszerzési bizottságai a jövő héten kérdeznék a cég kémelhárítási intézkedéseiről és Alice Huanggal való kapcsolatáról. Donald Trump tisztességes embernek nevezte a vezérigazgatót, és azt mondta, nem hallott jogsértésről.\n\n• **Peking és Marco Rubio** ügyében új információ is megjelent: Guo Jiakun külügyi szóvivő hétfőn alaptalannak minősítette a kínai kémkedés narratíváját. A The New York Times szerint Marco Rubio külügyminiszter már tavasszal titkos dokumentumban figyelmeztette a washingtoni tisztviselőket a kapcsolat biztonsági kockázataira. Rubio nem kívánta kommentálni az ügyet, és vállalati belső kérdésként hivatkozott rá.",
+    "title_ro": "Noi detalii despre ancheta Nvidia: Beijingul respinge acuzațiile, Congresul cere explicații",
+    "lead_ro": "Ancheta independentă a Nvidia analizează dacă Jensen Huang a fost vizat de o operațiune de informații străine. Beijingul a calificat drept nefondate acuzațiile de spionaj chinez, în timp ce oficiali americani și relatări de presă au ridicat noi întrebări privind securitatea.",
+    "content_ro": "• **Decizia consiliului de administrație, anunțată duminică**, a declanșat o examinare condusă de administratori independenți și sprijinită de avocați externi. Ancheta verifică dacă Jensen Huang a fost ținta unei operațiuni străine, fără ca Nvidia să indice o țară sau informații concrete. Consiliul a transmis că nu are, în acest moment, motive să creadă că securitatea națională ori secretele companiei au fost compromise. Huang susține demersul și s-a angajat să coopereze.\n\n• **Alice Huang și Megaspeed** se află în centrul suspiciunilor relatate de presă. Fosta directoare a firmei de centre de date din Singapore ar fi avut legături cu serviciile chineze și ar fi transmis informații către Beijing, potrivit unor evaluări atribuite serviciilor americane. Unele relatări susțin, de asemenea, că Megaspeed ar fi fost implicată în direcționarea către China a unor cipuri Nvidia avansate, acuzație care nu a fost dovedită. Alice Huang este cunoscută și ca Huang Le și nu este rudă cu directorul Nvidia.\n\n• **Mesajul lui Jensen Huang către angajați** a inclus recunoașterea infidelității și asumarea responsabilității pentru suferința provocată familiei. El și-a cerut iertare și a promis că va munci pentru a recâștiga încrederea angajaților, a consiliului și a acționarilor, fără să abordeze acuzațiile de spionaj. Nvidia a precizat separat că Huang își păstrează funcția de director general fără întrerupere și că situația nu va încetini compania.\n\n• **Reacțiile politice din SUA** includ promisiunea senatorului democrat Chris Coons de a cere o investigație și solicitarea unor parlamentari republicani pentru o audiere cu ușile închise, săptămâna viitoare. Comisiile pentru afaceri externe și informații ale Camerei Reprezentanților ar urma să-l întrebe pe Huang despre măsurile anti-spionaj ale Nvidia și relația cu Alice Huang. Donald Trump l-a descris drept un om onorabil și a spus că nu a auzit că ar fi comis ceva ilegal.\n\n• **Beijingul și Marco Rubio** au fost menționați în noi informații apărute luni. Purtătorul de cuvânt al Ministerului de Externe chinez, Guo Jiakun, a respins acuzațiile privind spionajul chinez, numindu-le nefondate. The New York Times a relatat că Rubio avertizase în primăvară oficiali de la Washington, printr-un document secret, asupra riscurilor de securitate legate de această relație. Rubio nu a comentat fondul acuzațiilor și a descris cazul drept o chestiune internă a companiei.",
+    "importance_score": 125.0
   },
   {
     "group_id": "group_7497328dab",
@@ -1984,89 +1989,6 @@
     "importance_score": 55.0
   },
   {
-    "group_id": "group_c73c9b48e9",
-    "fingerprint": "42b6329432858c381235ff319ba7d4d1",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Cea mai puternică din Italia” » Fabregas, cuvinte mari la adresa lui Chivu și Inter",
-        "link": "https://www.gsp.ro/international/campionate/fabregas-cuvinte-mari-chivu-inter-serie-a-997278.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cum l-au numit italienii pe Cristi Chivu, după Inter - Como: „L-a devorat pe Fabregas!” » Notele românului",
-        "link": "https://www.gsp.ro/international/campionate/italienii-cristi-chivu-inter-como-cesc-fabregas-997463.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Devastatoare” » Cesc Fabregas se înclină în fața lui Chivu: „Putem vorbi despre multe, dar...”",
-        "link": "https://www.gsp.ro/international/campionate/cesc-fabregas-reactie-inter-como-997475.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "„Coșmarul lui Fabregas!”. Italienii l-au ridicat în slăvi pe Chivu după 2-0 cu Como. Notele primite de român",
-        "link": "https://adevarul.ro/sport/cosmarul-lui-fabregas-italienii-l-au-ridicat-2569949.html"
-      }
-    ],
-    "published_at": 1794211006,
-    "title_hu": "Az Inter 2–0-ra verte a Comót, Chivu taktikai fölényét méltatták",
-    "lead_hu": "Az Inter a Serie A 11. fordulójában két első félidős góllal győzte le a Comót. Cesc Fàbregas elismerte a milánóiak fölényét, az olasz sajtó pedig magas osztályzatokkal értékelte Cristian Chivu munkáját.",
-    "content_hu": "• **2026. november 8-án, a Serie A 11. fordulójában** az Inter 2–0-ra nyert a Como ellen a milánói Giuseppe Meazza Stadionban. Cristian Chivu csapata már a szünet előtt kialakította a végeredményt: Francesco Pio Esposito a 12., Marcus Thuram a 19. percben talált be.\n\n• **Az Inter első félidei góljai** labdavesztések után születtek. Cesc Fàbregas, a Como vezetőedzője a mérkőzés után arról beszélt, hogy csapata két olyan labdát adott el, amelyet máskor rendszerint megtart, az ellenfél pedig gyors támadásokkal használta ki a megnyíló területeket. A spanyol edző a milánóiakat összességében jobbnak ítélte.\n\n• **A Como előző eredménye** látványos, 9–1-es Bajnokok Ligája-győzelem volt a Lens ellen, ám ezt a teljesítményt az Interrel szemben nem tudta megismételni. Fàbregas a mérkőzés előtt is az olasz bajnokság legerősebb csapatai közé sorolta az Intert, és hangsúlyozta, hogy együttese még fejlődési szakaszban van.\n\n• **Az olasz sportlapok 7 és 8 közötti osztályzatokat adtak Chivunak.** Értékeléseikben kiemelték az Inter szervezettségét, intenzív letámadását és azt, hogy a csapat irányította a játék tempóját. Több beszámoló szerint a Como kevés komoly helyzetet alakított ki, miközben a hazaiak taktikai terve végig működött.\n\n• **Fàbregas szerint a vereség nem változtatja meg a Como céljait.** A három pont elvesztését a csapat fejlődési folyamatának részeként kezelte, és azt mondta, hogy az Inter jelenleg magasabb szintet képvisel. A Como számára a találkozó tanulsága elsősorban a labdabiztonság és a védekezés javításának szükségessége lehet.",
-    "title_ro": "Inter învinge Como cu 2-0, iar presa apreciază tactica lui Chivu",
-    "lead_ro": "Inter a câștigat cu 2-0 în fața lui Como, în etapa a 11-a din Serie A, după ce a marcat de două ori în prima repriză. Cesc Fàbregas a recunoscut superioritatea milanezilor, iar publicațiile italiene au evaluat favorabil munca lui Cristian Chivu.",
-    "content_ro": "• **La 8 noiembrie 2026, în etapa a 11-a din Serie A,** Inter a învins-o pe Como cu 2-0 pe stadionul Giuseppe Meazza din Milano. Echipa pregătită de Cristian Chivu a stabilit scorul final înainte de pauză: Francesco Pio Esposito a înscris în minutul 12, iar Marcus Thuram, în minutul 19.\n\n• **Golurile marcate de Inter în prima repriză** au venit după mingi pierdute de adversari. Cesc Fàbregas a explicat după meci că formația sa a cedat două baloane pe care, de regulă, reușește să le păstreze, iar Inter a profitat de spațiile apărute pentru a lansa atacuri rapide. Antrenorul spaniol a considerat că milanezii au fost superiori per ansamblu.\n\n• **Como venea după un succes spectaculos**, 9-1 cu Lens în Liga Campionilor, însă nu a reușit să repete acea prestație împotriva lui Inter. Înaintea partidei, Fàbregas descrisese echipa milaneză drept una dintre cele mai puternice din Italia și spusese că formația sa se află încă într-un proces de dezvoltare.\n\n• **Presa sportivă italiană i-a acordat lui Chivu note între 7 și 8.** Comentariile au evidențiat organizarea lui Inter, presiunea exercitată asupra adversarului și controlul ritmului jocului. Potrivit mai multor evaluări, Como a avut puține ocazii importante, în timp ce planul tactic al gazdelor a funcționat pe durata confruntării.\n\n• **Fàbregas a spus că înfrângerea nu schimbă obiectivele echipei sale.** El a prezentat pierderea celor trei puncte ca pe o etapă a progresului formației și a remarcat că Inter se află, în prezent, la un nivel superior. Meciul a scos în evidență pentru Como nevoia de a-și îmbunătăți păstrarea mingii și organizarea defensivă.",
-    "importance_score": 55.0
-  },
-  {
-    "group_id": "group_2bcc321645",
-    "fingerprint": "b72feeac2f6bb39560185ecd0c2999a7",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Răspuns clar de la Paris pentru Moscova: „Europenii vor fi bine reprezentați la Abu Dhabi”",
-        "link": "https://hotnews.ro/raspuns-clar-de-la-paris-pentru-moscova-europenii-vor-fi-bine-reprezentati-la-abu-dhabi-2398283"
-      },
-      {
-        "source": "Digi24",
-        "title": "Europenii se întorc la masa negocierilor privind Ucraina, de la Abu Dhabi: „Vor fi bine reprezentaţi”. Anunțul a fost făcut de Franța",
-        "link": "https://www.digi24.ro/stiri/externe/ue/europenii-se-intorc-la-masa-negocierilor-privind-ucraina-de-la-abu-dhabi-vor-fi-bine-reprezentati-anuntul-a-fost-facut-de-franta-4026815"
-      },
-      {
-        "source": "G4Media",
-        "title": "Ministrul francez de Externe afirmă că europenii vor fi reprezentaţi la negocierile ruso-ucrainene mediate de SUA la Abu Dhabi",
-        "link": "https://www.g4media.ro/ministrul-francez-de-externe-afirma-ca-europenii-vor-fi-reprezentati-la-negocierile-ruso-ucrainene-mediate-de-sua-la-abu-dhabi.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Europa va participa la discuțiile mediate de SUA la Abu Dhabi cu Ucraina. Anunțul ministrului francez de Externe",
-        "link": "https://www.mediafax.ro/stirile-zilei/europa-va-participa-la-discutiile-mediate-de-sua-la-abu-dhabi-cu-ucraina-anuntul-ministrului-francez-de-externe-23839795"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Europenii vor fi 'reprezentați' la negocierile ruso-ucrainene mediate de SUA la Abu Dhabi, afirmă ministrul francez de externe",
-        "link": "https://agerpres.ro/politic-extern/2026/11/08/europenii-vor-fi-reprezentati-la-negocierile-ruso-ucrainene-mediate-de-sua-la-abu-dhabi-afirma-minis--1611258"
-      }
-    ],
-    "published_at": 1794149975,
-    "title_hu": "Franciaország és az európaiak is részt vesznek az Abu-Dzabiban tervezett egyeztetésen",
-    "lead_hu": "Jean-Noël Barrot francia külügyminiszter megerősítette, hogy Franciaország képviselői jelen lesznek a november 10–11-re tervezett abu-dzabi tárgyalásokon, és az európai országok is képviseletet kapnak. Az Egyesült Államok közvetítésével tartandó találkozón a háború lezárásáról és a konfliktus utáni biztonsági kérdésekről tárgyalhatnak; a résztvevők személye egyelőre nem ismert.",
-    "content_hu": "• **November 10–11., Abu-Dzabi**: az Egyesült Államok közreműködésével orosz, ukrán és amerikai tisztviselők ülhetnek tárgyalóasztalhoz. A tervezett egyeztetés nem állam- vagy kormányfői szinten zajlik, a küldöttségek tagjainak nevét pedig még nem tették közzé. A napirenden a háború lezárása, a háború utáni biztonsági megállapodások és a feszültség mérséklése szerepelhet.\n\n• **Jean-Noël Barrot** francia külügyminiszter közölte, hogy Franciaország részt vesz a találkozón, és az európai országok képviselete is biztosított lesz. A francia delegáció összetételét nem ismertette; azt viszont jelezte, hogy Párizs az európai álláspont megjelenítésére törekszik. Barrot szerint a korábbi egyeztetések formátuma változó volt, ezúttal azonban európai résztvevőkkel számolnak.\n\n• **Volodimir Zelenszkij** ukrán elnök korábban az európai szövetségesek bevonását szorgalmazta. Oroszország ezzel szemben azt jelezte, hogy nem tartaná kívánatosnak az európai képviselők jelenlétét a tárgyalóasztalnál.\n\n• **Donald Trump nyilatkozata** a találkozó előtt aggodalmat keltett az Egyesült Államok Oroszországhoz való közeledésével kapcsolatban: az amerikai elnök egy Moszkvával kötendő, jelentős megállapodást említett, amely az ukrajnai háborún túl Európa egészét is érintheti. Steve Witkoff különmegbízott korábban azt mondta, Washington hozza össze az ukrán és az orosz küldöttséget.\n\n• **Maria Zaharova** orosz külügyi szóvivő azzal vádolta a nyugati országokat, hogy nem veszik figyelembe Oroszország biztonsági aggályait. Franciaországot és az Egyesült Királyságot is bírálta egy lehetséges ukrajnai nemzetközi katonai jelenlét támogatása miatt. A 37 országot tömörítő Akarat Koalíció november 9–22. között Nowa Dębában tart gyakorlatot egy lehetséges stabilizációs misszió előkészítésére.",
-    "title_ro": "Franța și europenii vor participa la discuțiile planificate la Abu Dhabi",
-    "lead_ro": "Ministrul francez de externe, Jean-Noël Barrot, a confirmat că Franța va fi reprezentată la reuniunea programată în 10 și 11 noiembrie la Abu Dhabi, iar și alte state europene vor avea participanți. Întâlnirea, mediată de Statele Unite, ar urma să abordeze încheierea războiului și securitatea de după conflict; numele delegaților nu sunt cunoscute deocamdată.",
-    "content_ro": "• **10–11 noiembrie, Abu Dhabi**: oficiali din Rusia, Ucraina și Statele Unite sunt așteptați la discuții facilitate de Washington. Reuniunea este planificată la nivel de oficiali, nu de lideri, iar componența delegațiilor nu a fost făcută publică. Agenda ar putea include oprirea războiului, aranjamentele de securitate pentru perioada de după conflict și reducerea tensiunilor.\n\n• **Jean-Noël Barrot** a anunțat că Franța va lua parte la întâlnire și că statele europene vor avea reprezentare. Ministrul nu a precizat cine va alcătui delegația franceză, dar a indicat că Parisul dorește ca poziția europeană să fie exprimată. El a arătat că la discuțiile anterioare participarea europenilor a variat, în timp ce la reuniunea de la Abu Dhabi aceștia vor fi prezenți.\n\n• **Volodimir Zelenski** a cerut anterior implicarea aliaților europeni în procesul de negociere. Rusia a transmis, în schimb, că nu consideră potrivită prezența reprezentanților europeni la masa discuțiilor.\n\n• **Declarația lui Donald Trump** a alimentat temerile privind o apropiere a Washingtonului de Moscova: președintele american a menționat un acord important cu Rusia, cu posibile implicații pentru întreaga Europă, nu doar pentru războiul din Ucraina. Emisarul Steve Witkoff anunțase că Statele Unite vor reuni delegațiile rusă și ucraineană.\n\n• **Maria Zaharova**, purtătoarea de cuvânt a diplomației ruse, a acuzat statele occidentale că ignoră preocupările de securitate ale Moscovei. Ea a criticat Franța și Regatul Unit în legătură cu posibila desfășurare a unei forțe internaționale în Ucraina. Coaliția Voinței, alcătuită din 37 de state, organizează între 9 și 22 noiembrie exerciții la Nowa Dęba, în pregătirea unei posibile misiuni de stabilizare.",
-    "importance_score": 55.0
-  },
-  {
     "group_id": "group_972aec7150",
     "fingerprint": "266f6061f8233634fbe945825f10afaf",
     "category": "Sport",
@@ -2285,6 +2207,45 @@
     "lead_ro": "Elevii români au câștigat două medalii de aur, două de argint și una de bronz la ediția din 2026, a cincea, a Olimpiadei Internaționale de Astronomie și Astrofizică pentru Juniori. Competiția s-a desfășurat în Thailanda, între 1 și 8 noiembrie, cu 157 de participanți din 25 de țări.",
     "content_ro": "• **A cincea ediție a competiției a avut loc între 1 și 8 noiembrie, la Ubon Ratchathani, în Thailanda.** Ceremonia de închidere s-a desfășurat la universitatea locală, iar rezultatele au fost anunțate pe 8 noiembrie. Au participat 157 de elevi din 25 de țări, dintre care 104 aveau sub 16 ani.\n\n• **Ioan Claudiu Pitic și Șerban Mihai Brîndescu au câștigat medalii de aur.** Pitic este elev la Școala Gimnazială Nr. 39 din București, iar Brîndescu învață la Școala Gimnazială Nr. 16 „Take Ionescu” din Timișoara.\n\n• **Carla Teodora Dobre și Filip Sebastian Nacu au obținut medalii de argint.** Dobre reprezintă Colegiul Național „Mircea cel Bătrân” din Constanța, iar Nacu, Colegiul Național „Petru Rareș” din Piatra-Neamț. Tudor Constantinescu, elev al Liceului Teoretic Internațional de Informatică din București, a câștigat bronzul.\n\n• **Programul a cuprins patru probe:** una teoretică și trei practice. Concurenții au făcut observații cu telescopul în timpul zilei și noaptea, apoi au susținut și o probă de planetariu.\n\n• **Selecția și pregătirea echipei române au fost organizate la Suceava.** Au colaborat Universitatea „Ștefan cel Mare”, Inspectoratul Școlar Județean Suceava și Societatea Științifică CYGNUS, în parteneriat cu Liceul cu Program Sportiv Suceava. Delegația a fost coordonată de Petru Crăciun și Elisabeta Ana Naghi, iar cercetătoarea Cătălina Ana Mirițescu a participat ca observator.",
     "importance_score": 50.0
+  },
+  {
+    "group_id": "group_c73c9b48e9",
+    "fingerprint": "42b6329432858c381235ff319ba7d4d1",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "„Cea mai puternică din Italia” » Fabregas, cuvinte mari la adresa lui Chivu și Inter",
+        "link": "https://www.gsp.ro/international/campionate/fabregas-cuvinte-mari-chivu-inter-serie-a-997278.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cum l-au numit italienii pe Cristi Chivu, după Inter - Como: „L-a devorat pe Fabregas!” » Notele românului",
+        "link": "https://www.gsp.ro/international/campionate/italienii-cristi-chivu-inter-como-cesc-fabregas-997463.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "„Devastatoare” » Cesc Fabregas se înclină în fața lui Chivu: „Putem vorbi despre multe, dar...”",
+        "link": "https://www.gsp.ro/international/campionate/cesc-fabregas-reactie-inter-como-997475.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Coșmarul lui Fabregas!”. Italienii l-au ridicat în slăvi pe Chivu după 2-0 cu Como. Notele primite de român",
+        "link": "https://adevarul.ro/sport/cosmarul-lui-fabregas-italienii-l-au-ridicat-2569949.html"
+      }
+    ],
+    "published_at": 1794211006,
+    "title_hu": "Az Inter 2–0-ra verte a Comót, Chivu taktikai fölényét méltatták",
+    "lead_hu": "Az Inter a Serie A 11. fordulójában két első félidős góllal győzte le a Comót. Cesc Fàbregas elismerte a milánóiak fölényét, az olasz sajtó pedig magas osztályzatokkal értékelte Cristian Chivu munkáját.",
+    "content_hu": "• **2026. november 8-án, a Serie A 11. fordulójában** az Inter 2–0-ra nyert a Como ellen a milánói Giuseppe Meazza Stadionban. Cristian Chivu csapata már a szünet előtt kialakította a végeredményt: Francesco Pio Esposito a 12., Marcus Thuram a 19. percben talált be.\n\n• **Az Inter első félidei góljai** labdavesztések után születtek. Cesc Fàbregas, a Como vezetőedzője a mérkőzés után arról beszélt, hogy csapata két olyan labdát adott el, amelyet máskor rendszerint megtart, az ellenfél pedig gyors támadásokkal használta ki a megnyíló területeket. A spanyol edző a milánóiakat összességében jobbnak ítélte.\n\n• **A Como előző eredménye** látványos, 9–1-es Bajnokok Ligája-győzelem volt a Lens ellen, ám ezt a teljesítményt az Interrel szemben nem tudta megismételni. Fàbregas a mérkőzés előtt is az olasz bajnokság legerősebb csapatai közé sorolta az Intert, és hangsúlyozta, hogy együttese még fejlődési szakaszban van.\n\n• **Az olasz sportlapok 7 és 8 közötti osztályzatokat adtak Chivunak.** Értékeléseikben kiemelték az Inter szervezettségét, intenzív letámadását és azt, hogy a csapat irányította a játék tempóját. Több beszámoló szerint a Como kevés komoly helyzetet alakított ki, miközben a hazaiak taktikai terve végig működött.\n\n• **Fàbregas szerint a vereség nem változtatja meg a Como céljait.** A három pont elvesztését a csapat fejlődési folyamatának részeként kezelte, és azt mondta, hogy az Inter jelenleg magasabb szintet képvisel. A Como számára a találkozó tanulsága elsősorban a labdabiztonság és a védekezés javításának szükségessége lehet.",
+    "title_ro": "Inter învinge Como cu 2-0, iar presa apreciază tactica lui Chivu",
+    "lead_ro": "Inter a câștigat cu 2-0 în fața lui Como, în etapa a 11-a din Serie A, după ce a marcat de două ori în prima repriză. Cesc Fàbregas a recunoscut superioritatea milanezilor, iar publicațiile italiene au evaluat favorabil munca lui Cristian Chivu.",
+    "content_ro": "• **La 8 noiembrie 2026, în etapa a 11-a din Serie A,** Inter a învins-o pe Como cu 2-0 pe stadionul Giuseppe Meazza din Milano. Echipa pregătită de Cristian Chivu a stabilit scorul final înainte de pauză: Francesco Pio Esposito a înscris în minutul 12, iar Marcus Thuram, în minutul 19.\n\n• **Golurile marcate de Inter în prima repriză** au venit după mingi pierdute de adversari. Cesc Fàbregas a explicat după meci că formația sa a cedat două baloane pe care, de regulă, reușește să le păstreze, iar Inter a profitat de spațiile apărute pentru a lansa atacuri rapide. Antrenorul spaniol a considerat că milanezii au fost superiori per ansamblu.\n\n• **Como venea după un succes spectaculos**, 9-1 cu Lens în Liga Campionilor, însă nu a reușit să repete acea prestație împotriva lui Inter. Înaintea partidei, Fàbregas descrisese echipa milaneză drept una dintre cele mai puternice din Italia și spusese că formația sa se află încă într-un proces de dezvoltare.\n\n• **Presa sportivă italiană i-a acordat lui Chivu note între 7 și 8.** Comentariile au evidențiat organizarea lui Inter, presiunea exercitată asupra adversarului și controlul ritmului jocului. Potrivit mai multor evaluări, Como a avut puține ocazii importante, în timp ce planul tactic al gazdelor a funcționat pe durata confruntării.\n\n• **Fàbregas a spus că înfrângerea nu schimbă obiectivele echipei sale.** El a prezentat pierderea celor trei puncte ca pe o etapă a progresului formației și a remarcat că Inter se află, în prezent, la un nivel superior. Meciul a scos în evidență pentru Como nevoia de a-și îmbunătăți păstrarea mingii și organizarea defensivă.",
+    "importance_score": 48.0
   },
   {
     "group_id": "group_1585c343db",
@@ -2905,33 +2866,6 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_6cec05fd40",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Titular în Spania, dar accidentat pentru România » Situația lui Ionuț Radu, explicată de antrenorul lui Celta Vigo",
-        "link": "https://www.gsp.ro/fotbal/nationala/onut-radu-titular-spania-accidentat-romania-antrenor-celta-vigo-997573.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ionuț Radu s-a dat „lovit” la națională, dar a fost integralist pentru Celta Vigo în La Liga",
-        "link": "https://www.gsp.ro/international/campionate/ionut-radu-titular-celta-vigo-dupa-ce-a-refuzat-convocarea-la-nationala-997385.html"
-      }
-    ],
-    "published_at": 1794210919,
-    "title_hu": "Titular în Spania, dar accidentat pentru România » Situația lui Ionuț Radu, explicată de antrenorul lui Celta Vigo",
-    "lead_hu": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul cont…",
-    "content_hu": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul continuă să fie titular la Celta Vigo și a jucat chiar duminică, în remiza „albă” cu Levante, decizia a stârnit controverse. Situația internaționalului român a fost explicată de antrenorul Claudio Giraldez, chiar la finalul meciului de duminică. ...",
-    "title_ro": "Titular în Spania, dar accidentat pentru România » Situația lui Ionuț Radu, explicată de antrenorul lui Celta Vigo",
-    "lead_ro": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul cont…",
-    "content_ro": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul continuă să fie titular la Celta Vigo și a jucat chiar duminică, în remiza „albă” cu Levante, decizia a stârnit controverse. Situația internaționalului român a fost explicată de antrenorul Claudio Giraldez, chiar la finalul meciului de duminică. ...",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_f51c044ad0",
     "fingerprint": "4fc8acec27df507c5596fda35f4127b1",
     "category": "Általános",
@@ -3205,45 +3139,6 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_1dd196d901",
-    "fingerprint": "dee5ed8050f8504ecd897915adfe2aa6",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Avarie la centrala nucleară Zaporojie, aflată sub controlul Rusiei: alimentarea externă cu energie electrică a fost întreruptă",
-        "link": "https://www.mediafax.ro/externe/avarie-la-centrala-nucleara-zaporojie-aflata-sub-controlul-rusiei-alimentarea-externa-cu-energie-electrica-a-fost-intrerupta-23839666"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Centrala nucleară din Zaporojie, fără conexiune electrică externă în urma unui nou atac",
-        "link": "https://stirileprotv.ro/stiri/international/centrala-nucleara-din-zaporojie-fara-conexiune-electrica-externa-in-urma-unui-nou-atac.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Centrala nucleară din Zaporojie, fără conexiune electrică externă în urma unui nou atac",
-        "link": "https://agerpres.ro/politic-extern/2026/11/08/centrala-nucleara-din-zaporojie-fara-conexiune-electrica-externa-in-urma-unui-nou-atac--1611221"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Centrala nucleară de la Zaporojie a rămas fără alimentare electrică externă după un nou atac",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/centrala-nucleara-de-la-zaporojie-a-ramas-fara-2569808.html"
-      }
-    ],
-    "published_at": 1794135146,
-    "title_hu": "Külső áramellátás nélkül maradt a zaporizzsjai atomerőmű",
-    "lead_hu": "A zaporizzsjai atomerőmű külső villamosenergia-kapcsolata megszakadt, miután megrongálódott a Feroszplavna vezeték. Az orosz ellenőrzés alatt álló létesítményt dízelüzemű tartalékgenerátorok látják el árammal; az üzemeltető szerint a sugárzási értékek normálisak.",
-    "content_hu": "• **Vasárnap megszakadt a külső áramellátás** az Ukrajna déli részén fekvő zaporizzsjai atomerőműben. Az orosz ellenőrzés alatt álló létesítmény vezetése arról számolt be, hogy a Feroszplavna nevű vezetéket sérülése miatt lekapcsolták; a leállást az egyik közlemény szerint automatikus védelmi rendszer kezdeményezte.\n\n• **A tartalékgenerátorok vették át az energiaellátást.** Az erőmű dízelüzemű berendezései biztosítják az áramot az üzembiztonsághoz szükséges rendszereknek. A beszámoló szerint ezek működtetik a hat reaktor, valamint a kiégett fűtőelemeket tároló medencék hűtését is.\n\n• **Az üzemeltető a berendezések állapotának folyamatos ellenőrzéséről számolt be.** Közlése szerint a személyzet a tartalék áramforrások működésének fenntartásán dolgozik, és megteszi a szükséges biztonsági intézkedéseket. A jelentés nem közölt adatot arról, mennyi ideig elegendőek a dízelkészletek.\n\n• **A közlemény szerint normálisak a sugárzási értékek** az erőmű területén és a környező megfigyelési zónában. Ez az üzemeltető tájékoztatása; a források nem jeleztek a mérési adatoktól eltérő sugárzási eseményt.\n\n• **A kieső vezeték az erőmű két külső betáplálási útvonalának egyike volt.** A másik, Dnyeprovszka nevű fővezetéket korábban, egy különálló hálózati károsodás után választották le, és az azóta sem állt helyre. Emiatt a mostani meghibásodás idején az erőmű a generátoros tartalékra támaszkodott.",
-    "title_ro": "Centrala nucleară Zaporojie a rămas fără alimentare electrică externă",
-    "lead_ro": "Conexiunea electrică externă a centralei nucleare Zaporojie a fost întreruptă după avarierea liniei Ferosplavna. Instalația aflată sub controlul Rusiei este alimentată de generatoare diesel de rezervă, iar administrația a declarat că nivelurile radiațiilor sunt normale.",
-    "content_ro": "• **Duminică a fost întreruptă alimentarea electrică externă** a centralei nucleare Zaporojie, situată în sudul Ucrainei. Administrația instalației, aflată sub control rusesc, a anunțat că linia Ferosplavna a fost deconectată după ce a suferit avarii; potrivit uneia dintre informări, oprirea a fost declanșată de sistemele automate de protecție.\n\n• **Generatoarele de rezervă au preluat furnizarea energiei.** Echipamentele alimentate cu motorină asigură curentul necesar sistemelor care contribuie la funcționarea în siguranță a centralei. Potrivit relatării, acestea susțin răcirea celor șase reactoare și a bazinelor în care se află combustibil nuclear uzat.\n\n• **Administrația a comunicat că personalul urmărește funcționarea instalațiilor.** Angajații se ocupă de menținerea în stare de operare a generatoarelor și aplică măsurile considerate necesare pentru siguranța centralei. Informările nu precizează cât ar putea dura rezervele de motorină.\n\n• **Valorile radiațiilor au fost descrise drept normale** în incinta centralei și în zona de monitorizare din apropiere. Această evaluare provine din comunicarea administrației; sursele nu au relatat măsurători care să indice un incident radiologic.\n\n• **Linia avariată era una dintre cele două căi externe de alimentare ale centralei.** Cealaltă, linia principală Dnieprovska, fusese deconectată anterior, după o avarie distinctă a rețelei, și nu fusese repusă în funcțiune. Astfel, în momentul întreruperii recente, centrala s-a bazat pe generatoarele diesel de rezervă.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_884f11ef3d",
     "fingerprint": "2ebfadfc3653f213e825ec966026db1f",
     "category": "Általános",
@@ -3275,6 +3170,40 @@
     "title_ro": "Trump spune că propunerea privind rolul de purtător de cuvânt pentru Dana White a fost o glumă",
     "lead_ro": "Donald Trump a afirmat că nu a intenționat serios să îl propună pe Dana White pentru funcția de purtător de cuvânt al Casei Albe. Șeful UFC urmează să îl viziteze luni, însă întâlnirea fusese stabilită din alte motive.",
     "content_ro": "• **Trump a prezentat propunerea drept o glumă:** președintele a negat că ar fi urmărit în mod serios numirea lui Dana White ca purtător de cuvânt al Casei Albe. El a spus că White a primit favorabil ideea, dar a precizat că nu avea în vedere o numire propriu-zisă.\n\n• **În postarea de sâmbătă au apărut și luptători UFC:** Trump a publicat imagini cu sportivi cunoscuți, menționându-i ca posibili colaboratori ai lui White. A sugerat că foști și actuali campioni ar putea face parte din echipa acestuia și a legat propunerea de confruntarea cu adversarii săi politici.\n\n• **Dana White va merge luni la Casa Albă:** Trump a precizat că vizita nu a fost programată în legătură cu ideea privind funcția de purtător de cuvânt, ci pentru alte motive. Informațiile disponibile nu precizează subiectul discuției.\n\n• **White conduce UFC de peste două decenii:** el este un apropiat al lui Trump și a contribuit la mobilizarea susținătorilor acestuia în campania prezidențială din 2024. De asemenea, a fost alături de președinte la mai multe evenimente politice.\n\n• **Șeful UFC a participat și la organizarea unor evenimente sportive la Casa Albă:** White a contribuit la pregătirea unor lupte UFC pe peluza reședinței prezidențiale, prevăzute pentru acest an. Trump a descris însă propunerea sa recentă drept o glumă, nu ca pe o decizie de personal.",
+    "importance_score": 38.0
+  },
+  {
+    "group_id": "group_7ff699d0a4",
+    "fingerprint": "5d0ece76b6b88706eca0e8fd3ce8398b",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Turneul Campioanelor: Coco Gauff a învins-o pe Jessica Pegula într-un duel de aproape trei ore",
+        "link": "https://www.mediafax.ro/sport/turneul-campioanelor-coco-gauff-a-invins-o-pe-jessica-pegula-intr-un-duel-de-aproape-trei-ore-23839956"
+      },
+      {
+        "source": "G4Media",
+        "title": "VIDEO: Coco Gauff, debut cu victorie la Turneul Campioanelor 2026",
+        "link": "https://www.g4media.ro/video-coco-gauff-debut-cu-victorie-la-turneul-campioanelor-2026.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Gauff a câștigat al doilea meci de la Turneu Campioanelor: decisiv fără istoric",
+        "link": "https://www.gsp.ro/sporturi/tenis/coco-gauff-jessica-pegula-turneul-campioanelor-997565.html"
+      }
+    ],
+    "published_at": 1794206321,
+    "title_hu": "Gauff háromszettes mérkőzésen győzte le Pegulát a 2026-os világbajnokságon",
+    "lead_hu": "Coco Gauff győzelemmel kezdte a 2026-os WTA-világbajnokság csoportkörét Indian Wellsben: Jessica Pegulát múlta felül egy 2 óra 39 perces mérkőzésen. Az amerikai párharc három játszmában dőlt el, miután Pegula a második szettben hárította ellenfele mérkőzéslabdáját.",
+    "content_hu": "• **A vasárnapi, Indian Wellsben rendezett csoportmérkőzésen** a 22 éves Coco Gauff három játszmában győzött a 32 éves Jessica Pegula ellen. A találkozó 2 óra 39 percig tartott, és Gauff ezzel megszerezte első sikerét a tornán.\n\n• **Az első szettben Gauff 6–4-re nyert**, majd a második játszmában 1–5-ös hátrányból kapaszkodott vissza. 6–5-nél mérkőzéslabdához jutott, Pegula azonban hárította a lehetőséget, és rövidítésben kiegyenlített.\n\n• **A döntő játszmában Gauff került fölénybe:** rögtön elvette Pegula adogatását, majd 3–0-ra növelte előnyét. Ezt követően is kézben tartotta a mérkőzést, és 6–2-vel lezárta a találkozót.\n\n• **A világranglista negyedik és ötödik helyezettje csapott össze**; Gauff a negyedik, Pegula az ötödik pozícióból érkezett a mérkőzésre. A két játékos a 2026-os cincinnati torna döntőjében is találkozott, akkor szintén Gauff bizonyult jobbnak.\n\n• **Gauff korábbi eredményei között két egyéni Grand Slam-trófea szerepel:** 2023-ban a US Openen, 2025-ben a Roland Garroson nyert. A világbajnokságot 2024-ben már megnyerte. Pegula legjobb eredménye ezen a tornán a 2023-as döntőbe jutás; 2024-ben a US Open fináléjában szerepelt.",
+    "title_ro": "Gauff o învinge pe Pegula în trei seturi la Turneul Campioanelor din 2026",
+    "lead_ro": "Coco Gauff a început cu o victorie faza grupelor Turneului Campioanelor din 2026, disputată la Indian Wells, după ce a trecut de Jessica Pegula într-un meci de două ore și 39 de minute. Duelul american s-a decis în trei seturi, iar Pegula salvase o minge de meci în actul secund.",
+    "content_ro": "• **În partida de duminică de la Indian Wells**, Coco Gauff, în vârstă de 22 de ani, a câștigat în fața lui Jessica Pegula, de 32 de ani, după trei seturi. Meciul a durat două ore și 39 de minute, iar Gauff a obținut astfel primul său succes în grupă.\n\n• **Gauff a adjudecat primul set cu 6-4**, apoi a revenit în actul secund de la 1-5. La scorul de 6-5 a avut o minge de meci, însă Pegula a salvat-o și a egalat situația după un tie-break.\n\n• **Setul decisiv a fost controlat de Gauff:** aceasta a câștigat primul game pe serviciul adversarei și s-a distanțat la 3-0. Pegula nu a mai reușit să întoarcă rezultatul, iar Gauff a încheiat setul cu 6-2.\n\n• **Meciul a opus ocupantele locurilor patru și cinci în clasamentul mondial**, Gauff fiind a patra, iar Pegula a cincea. Cele două s-au întâlnit și în finala turneului de la Cincinnati din 2026, câștigată tot de Gauff.\n\n• **Gauff are în palmares două titluri de Grand Slam la simplu:** a triumfat la US Open în 2023 și la Roland Garros în 2025. Ea a câștigat Turneul Campioanelor în 2024. Pentru Pegula, cea mai bună performanță la această competiție rămâne finala din 2023; americanca a ajuns și în finala US Open din 2024.",
     "importance_score": 38.0
   },
   {
@@ -3397,6 +3326,33 @@
     "title_ro": "Peste 72% din români cred că România merge într-o direcție greșită. Ce arată cel mai recent sondaj INSCOP",
     "lead_ro": "Mai puțin de unul din cinci români consideră că România se îndreaptă într-o direcție bună, în timp ce peste 72% cred că lucrurile merg într-o direcție greșită. Datele apar în cel mai recent Barometru ...",
     "content_ro": "Mai puțin de unul din cinci români consideră că România se îndreaptă într-o direcție bună, în timp ce peste 72% cred că lucrurile merg într-o direcție greșită. Datele apar în cel mai recent Barometru Informat.ro-INSCOP Research, realizat la începutul lunii noiembrie.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_c272849b82",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Premieră în Marea Britanie. Marina Regală va desfășura o flotă de ambarcațiuni autonome pentru a combate interferența Rusiei în apele britanice",
+        "link": "https://www.mediafax.ro/stirile-zilei/premiera-in-marea-britanie-marina-regala-va-desfasura-o-flota-de-ambarcatiuni-autonome-pentru-a-combate-interferenta-rusiei-in-apele-britanice-23840122"
+      },
+      {
+        "source": "G4Media",
+        "title": "Marina Regală britanică va desfășura o flotă de drone navale autonome pentru a combate interferența Rusiei în apele britanice",
+        "link": "https://www.g4media.ro/marina-regala-britanica-va-desfasura-o-flota-de-drone-navale-autonome-pentru-a-combate-interferenta-rusiei-in-apele-britanice.html"
+      }
+    ],
+    "published_at": 1794219192,
+    "title_hu": "Premieră în Marea Britanie. Marina Regală va desfășura o flotă de ambarcațiuni autonome pentru a combate interferența Rusiei în apele britanice",
+    "lead_hu": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice....",
+    "content_hu": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice.",
+    "title_ro": "Premieră în Marea Britanie. Marina Regală va desfășura o flotă de ambarcațiuni autonome pentru a combate interferența Rusiei în apele britanice",
+    "lead_ro": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice....",
+    "content_ro": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice.",
     "importance_score": 35.0
   },
   {
@@ -3769,62 +3725,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_2b7a4fd181",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Schimbări în lotul „tricolorilor”. Comentăm la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
-        "link": "https://www.gsp.ro/gsp-special/media/schimbari-in-lotul-tricolorilor-comentam-la-gsp-live-cu-raul-rusescu-edward-iordanescu-si-alexandru-chipciu-997577.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Schimbări în lotul „tricolorilor”. Am comentat la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
-        "link": "https://www.gsp.ro/gsp-special/media/schimbari-in-lotul-tricolorilor-am-comentat-la-gsp-live-cu-raul-rusescu-edward-iordanescu-si-alexandru-chipciu-997577.html"
-      }
-    ],
-    "published_at": 1794210897,
-    "title_hu": "Schimbări în lotul „tricolorilor”. Comentăm la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
-    "lead_hu": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer…",
-    "content_hu": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer al României, și Alexandru Chipciu, căpitan U Kolozsvár. Discutăm despre rezultatele weekendului în Superliga, lotul convocat de Gheorghe Hagi pentru meciurile naționalei din această lună și „tricolorii” lăsați pe margine.",
-    "title_ro": "Schimbări în lotul „tricolorilor”. Comentăm la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
-    "lead_ro": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer…",
-    "content_ro": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer al României, și Alexandru Chipciu, căpitan U Kolozsvár. Discutăm despre rezultatele weekendului în Superliga, lotul convocat de Gheorghe Hagi pentru meciurile naționalei din această lună și „tricolorii” lăsați pe margine.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_2f72f3b1b9",
-    "fingerprint": "e993c0f62d310b17a85b0365255414f2",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "A védelmi kiadásokról és a dohányadó reformjáról tárgyal Brüsszelben a pénzügyminiszter",
-        "link": "https://maszol.ro/belfold/Kozos-unios-vedelmi-penzekrol-es-a-dohanyado-reformjarol-targyal-Brusszelben-a-penzugyminiszter"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alexandru Nazare participă la ECOFIN: Finanțarea apărării și impozitarea produselor din tutun, pe agenda discuțiilor",
-        "link": "https://www.mediafax.ro/stirile-zilei/alexandru-nazare-participa-la-ecofin-finantarea-apararii-si-impozitarea-produselor-din-tutun-pe-agenda-discutiilor-23840031"
-      }
-    ],
-    "published_at": 1794210892,
-    "title_hu": "Alexandru Nazare uniós pénzügyi egyeztetéseken képviseli Romániát",
-    "lead_hu": "Alexandru Nazare román pénzügyminiszter hétfőn Brüsszelben az ECOFIN-ülésen és az eurócsoport kibővített tanácskozásán vesz részt. A megbeszélések a védelmi kiadásokra, az uniós szabályozás egyszerűsítésére, a dohánytermékek adóztatására és a helyreállítási tervre is kiterjednek.",
-    "content_hu": "• **Hétfőn Brüsszelben** Alexandru Nazare pénzügyminiszter részt vesz az uniós tagállamok gazdasági és pénzügyi vezetőinek ECOFIN-ülésén, majd az eurócsoport kibővített tanácskozásán. A román tárca közlése szerint a megbeszéléseken az ország érdekeinek érvényesítése és az európai döntések alakítása is napirenden lesz.\n\n• **A védelmi kiadások finanszírozása** az eurócsoport kibővített ülésének egyik témája; a résztvevők a közös beszerzések lehetőségéről is egyeztetnek. A tanácskozáson Mark Rutte NATO-főtitkár is jelen lesz. A közös források felhasználása és a finanszírozás feltételei szintén a megbeszélés részét képezik.\n\n• **Az ECOFIN napirendjén** szerepel az uniós szabályok egyszerűsítése és a dohánytermékek adóztatására vonatkozó keretrendszer felülvizsgálata. A miniszterek emellett az uniós gazdaságirányítási szabályok alkalmazásáról és a helyreállítási alap végrehajtásáról is tárgyalnak. Nazare kétoldalú egyeztetést folytat Wopke Hoekstra uniós klímaügyi biztossal.\n\n• **A román költségvetést érintő kérdések** között a helyreállítási terv végrehajtása is hangsúlyos: a pénzügyminiszter jelezte, hogy tárcája hatáskörében támogatja az európai projektekért felelős minisztérium PNRR-ről szóló tárgyalásait. A terv lezárulta után Románia a GDP mintegy 1,5 százalékának megfelelő finanszírozástól eshet el, ami megnehezítheti a 2027-es költségvetés összeállítását.\n\n• **Románia pénzügyi mozgásteréről** folytatott egyeztetéseken a költségvetési hiány mérséklését is felhozza az ország. Nazare szerint a konszolidáció erősítheti Románia hitelességét az európai partnereknél; a kormány emellett kiszámíthatóbb szabályozást, jobb tőkehozzáférést és alacsonyabb adminisztratív terheket tart fontosnak a gazdaság versenyképességéhez.",
-    "title_ro": "Alexandru Nazare reprezintă România la reuniunile europene pentru finanțe",
-    "lead_ro": "Ministrul român al Finanțelor, Alexandru Nazare, participă luni, la Bruxelles, la reuniunea ECOFIN și la discuțiile extinse ale Eurogrupului. Agenda include finanțarea apărării, simplificarea normelor europene, taxarea produselor din tutun și implementarea planului de redresare.",
-    "content_ro": "• Pe agenda ECOFIN se află simplificarea reglementărilor europene și revizuirea cadrului de impozitare a produselor din tutun. Miniștrii vor analiza, de asemenea, aplicarea regulilor de guvernanță economică ale UE și implementarea fondului de redresare. Nazare are programată și o întrevedere bilaterală cu Wopke Hoekstra, comisarul european pentru climă.\n\n• Planul național de redresare și reziliență va fi un alt punct de interes pentru partea română. Nazare a anunțat că Ministerul Finanțelor va sprijini, în limitele atribuțiilor sale, instituția responsabilă de investiții și proiecte europene în discuțiile despre PNRR. După încheierea planului, România ar putea pierde finanțare echivalentă cu aproximativ 1,5% din PIB, ceea ce ar complica alcătuirea bugetului pentru 2027.\n\n• Reducerea deficitului bugetar va fi prezentată de România drept un element care îi poate consolida credibilitatea în relația cu partenerii europeni. În mesajul său, ministrul a asociat competitivitatea economică cu reguli previzibile, un acces mai bun la capital și diminuarea birocrației pentru companii.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_c00c409117",
     "category": "Általános",
     "is_synthesized": false,
@@ -3923,6 +3823,33 @@
     "lead_ro": "La 7 noiembrie, trei persoane au anunțat Secția 2 a Poliției municipiului Constanța despre deteriorarea a trei morminte din cimitirul Palazu Mare. Potrivit verificărilor, în două cazuri au fost avariate și capacele sicrielor, însă nu au dispărut bunuri. Polițiștii au deschis un dosar penal pentru profanare de cadavre sau morminte.",
     "content_ro": "• **La 7 noiembrie**, trei persoane au sesizat Secția 2 a Poliției municipiului Constanța în legătură cu distrugerea unor morminte din cimitirul Palazu Mare. Polițiștii au început cercetările după primirea informației despre cele trei cazuri.\n\n• **Capacele criptelor au fost îndepărtate** în toate cele trei situații. Datele strânse până acum indică faptul că, în două dintre cazuri, a fost afectat și capacul sicriului; identitatea persoanelor implicate nu este încă stabilită.\n\n• **Nu au fost semnalate bunuri lipsă** din niciuna dintre cripte sau sicrie. Verificările polițiștilor nu au indicat dispariția unor obiecte, iar informațiile disponibile nu arată că ar fi fost luate valori din morminte.\n\n• **A fost deschis un dosar penal** pentru profanare de cadavre sau morminte. Ancheta vizează cele trei locuri și urmărește să clarifice modul în care persoane necunoscute au ajuns în interiorul criptelor.\n\n• **Identificarea celor responsabili continuă:** polițiștii desfășoară în continuare cercetări pentru stabilirea persoanelor implicate și a împrejurărilor în care au fost produse avariile. Până în prezent, autoritățile nu au făcut publică identificarea vreunui suspect.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_6cec05fd40",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Titular în Spania, dar accidentat pentru România » Situația lui Ionuț Radu, explicată de antrenorul lui Celta Vigo",
+        "link": "https://www.gsp.ro/fotbal/nationala/onut-radu-titular-spania-accidentat-romania-antrenor-celta-vigo-997573.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ionuț Radu s-a dat „lovit” la națională, dar a fost integralist pentru Celta Vigo în La Liga",
+        "link": "https://www.gsp.ro/international/campionate/ionut-radu-titular-celta-vigo-dupa-ce-a-refuzat-convocarea-la-nationala-997385.html"
+      }
+    ],
+    "published_at": 1794210919,
+    "title_hu": "Titular în Spania, dar accidentat pentru România » Situația lui Ionuț Radu, explicată de antrenorul lui Celta Vigo",
+    "lead_hu": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul cont…",
+    "content_hu": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul continuă să fie titular la Celta Vigo și a jucat chiar duminică, în remiza „albă” cu Levante, decizia a stârnit controverse. Situația internaționalului român a fost explicată de antrenorul Claudio Giraldez, chiar la finalul meciului de duminică. ...",
+    "title_ro": "Titular în Spania, dar accidentat pentru România » Situația lui Ionuț Radu, explicată de antrenorul lui Celta Vigo",
+    "lead_ro": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul cont…",
+    "content_ro": "Ionuț Radu (29 de ani), principala variantă pentru postul de portar al echipei naționale de fotbal a României, nu va fi disponibil pentru acțiunea din această lună. În condițiile în care portarul continuă să fie titular la Celta Vigo și a jucat chiar duminică, în remiza „albă” cu Levante, decizia a stârnit controverse. Situația internaționalului român a fost explicată de antrenorul Claudio Giraldez, chiar la finalul meciului de duminică. ...",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_c6c28e045a",
@@ -4350,6 +4277,62 @@
     "lead_ro": "Dalian Yingbo a învins-o pe Tianjin Tigers cu 3–1 și a devenit campioană după ce Chengdu Rongcheng a pierdut cu 2–3 în fața lui Shandong Taishan. Nicolae Stanciu a fost titular în partida decisivă.",
     "content_ro": "• **În ultima etapă**, Dalian Yingbo a câștigat cu 3–1 în fața formației Tianjin Tigers, în timp ce principala rivală, Chengdu Rongcheng, a fost învinsă cu 3–2 de Shandong Taishan. Rezultatele au stabilit câștigătoarea campionatului în favoarea echipei lui Nicolae Stanciu.\n\n• **Cu cinci runde înainte de final**, Chengdu Rongcheng avea un avans de 14 puncte și părea să aibă titlul la îndemână. În meciurile rămase, echipa a adunat însă un singur punct, iar înaintea ultimei etape conducea Dalian cu trei puncte.\n\n• **Dalian Yingbo** a încheiat sezonul cu cinci victorii consecutive. Cele două formații au terminat la egalitate de puncte, iar rezultatele directe au departajat echipele: Dalian s-a impus acasă cu 2–0 în mai și a câștigat cu 1–0 în deplasare, în octombrie.\n\n• **Meciul cu Tianjin** a început cu golul gazdelor în minutul 5. Oaspeții au egalat din penalty în minutul 50, însă Dalian a revenit în avantaj în minutul 70 și a înscris din nou în prelungiri, la 90+3, fixând scorul final.\n\n• **Nicolae Stanciu** a fost titular și a părăsit terenul în jurul minutului 86. Căpitanul naționalei României a încheiat sezonul cu zece goluri și cinci pase decisive în 27 de meciuri. Titlul din China este al doilea câștigat de el în această competiție, după cel obținut în 2022 cu Wuhan Three Towns.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_2b7a4fd181",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Schimbări în lotul „tricolorilor”. Comentăm la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
+        "link": "https://www.gsp.ro/gsp-special/media/schimbari-in-lotul-tricolorilor-comentam-la-gsp-live-cu-raul-rusescu-edward-iordanescu-si-alexandru-chipciu-997577.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Schimbări în lotul „tricolorilor”. Am comentat la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
+        "link": "https://www.gsp.ro/gsp-special/media/schimbari-in-lotul-tricolorilor-am-comentat-la-gsp-live-cu-raul-rusescu-edward-iordanescu-si-alexandru-chipciu-997577.html"
+      }
+    ],
+    "published_at": 1794210897,
+    "title_hu": "Schimbări în lotul „tricolorilor”. Comentăm la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
+    "lead_hu": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer…",
+    "content_hu": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer al României, și Alexandru Chipciu, căpitan U Kolozsvár. Discutăm despre rezultatele weekendului în Superliga, lotul convocat de Gheorghe Hagi pentru meciurile naționalei din această lună și „tricolorii” lăsați pe margine.",
+    "title_ro": "Schimbări în lotul „tricolorilor”. Comentăm la GSP Live cu Raul Rusescu, Edward Iordănescu și Alexandru Chipciu",
+    "lead_ro": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer…",
+    "content_ro": "Eduard Apostol revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, analist al emisiunii. De asemenea, prin telefon ni se vor alătura Edward Iordănescu, fost selecționer al României, și Alexandru Chipciu, căpitan U Kolozsvár. Discutăm despre rezultatele weekendului în Superliga, lotul convocat de Gheorghe Hagi pentru meciurile naționalei din această lună și „tricolorii” lăsați pe margine.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_2f72f3b1b9",
+    "fingerprint": "e993c0f62d310b17a85b0365255414f2",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "A védelmi kiadásokról és a dohányadó reformjáról tárgyal Brüsszelben a pénzügyminiszter",
+        "link": "https://maszol.ro/belfold/Kozos-unios-vedelmi-penzekrol-es-a-dohanyado-reformjarol-targyal-Brusszelben-a-penzugyminiszter"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alexandru Nazare participă la ECOFIN: Finanțarea apărării și impozitarea produselor din tutun, pe agenda discuțiilor",
+        "link": "https://www.mediafax.ro/stirile-zilei/alexandru-nazare-participa-la-ecofin-finantarea-apararii-si-impozitarea-produselor-din-tutun-pe-agenda-discutiilor-23840031"
+      }
+    ],
+    "published_at": 1794210892,
+    "title_hu": "Alexandru Nazare uniós pénzügyi egyeztetéseken képviseli Romániát",
+    "lead_hu": "Alexandru Nazare román pénzügyminiszter hétfőn Brüsszelben az ECOFIN-ülésen és az eurócsoport kibővített tanácskozásán vesz részt. A megbeszélések a védelmi kiadásokra, az uniós szabályozás egyszerűsítésére, a dohánytermékek adóztatására és a helyreállítási tervre is kiterjednek.",
+    "content_hu": "• **Hétfőn Brüsszelben** Alexandru Nazare pénzügyminiszter részt vesz az uniós tagállamok gazdasági és pénzügyi vezetőinek ECOFIN-ülésén, majd az eurócsoport kibővített tanácskozásán. A román tárca közlése szerint a megbeszéléseken az ország érdekeinek érvényesítése és az európai döntések alakítása is napirenden lesz.\n\n• **A védelmi kiadások finanszírozása** az eurócsoport kibővített ülésének egyik témája; a résztvevők a közös beszerzések lehetőségéről is egyeztetnek. A tanácskozáson Mark Rutte NATO-főtitkár is jelen lesz. A közös források felhasználása és a finanszírozás feltételei szintén a megbeszélés részét képezik.\n\n• **Az ECOFIN napirendjén** szerepel az uniós szabályok egyszerűsítése és a dohánytermékek adóztatására vonatkozó keretrendszer felülvizsgálata. A miniszterek emellett az uniós gazdaságirányítási szabályok alkalmazásáról és a helyreállítási alap végrehajtásáról is tárgyalnak. Nazare kétoldalú egyeztetést folytat Wopke Hoekstra uniós klímaügyi biztossal.\n\n• **A román költségvetést érintő kérdések** között a helyreállítási terv végrehajtása is hangsúlyos: a pénzügyminiszter jelezte, hogy tárcája hatáskörében támogatja az európai projektekért felelős minisztérium PNRR-ről szóló tárgyalásait. A terv lezárulta után Románia a GDP mintegy 1,5 százalékának megfelelő finanszírozástól eshet el, ami megnehezítheti a 2027-es költségvetés összeállítását.\n\n• **Románia pénzügyi mozgásteréről** folytatott egyeztetéseken a költségvetési hiány mérséklését is felhozza az ország. Nazare szerint a konszolidáció erősítheti Románia hitelességét az európai partnereknél; a kormány emellett kiszámíthatóbb szabályozást, jobb tőkehozzáférést és alacsonyabb adminisztratív terheket tart fontosnak a gazdaság versenyképességéhez.",
+    "title_ro": "Alexandru Nazare reprezintă România la reuniunile europene pentru finanțe",
+    "lead_ro": "Ministrul român al Finanțelor, Alexandru Nazare, participă luni, la Bruxelles, la reuniunea ECOFIN și la discuțiile extinse ale Eurogrupului. Agenda include finanțarea apărării, simplificarea normelor europene, taxarea produselor din tutun și implementarea planului de redresare.",
+    "content_ro": "• Pe agenda ECOFIN se află simplificarea reglementărilor europene și revizuirea cadrului de impozitare a produselor din tutun. Miniștrii vor analiza, de asemenea, aplicarea regulilor de guvernanță economică ale UE și implementarea fondului de redresare. Nazare are programată și o întrevedere bilaterală cu Wopke Hoekstra, comisarul european pentru climă.\n\n• Planul național de redresare și reziliență va fi un alt punct de interes pentru partea română. Nazare a anunțat că Ministerul Finanțelor va sprijini, în limitele atribuțiilor sale, instituția responsabilă de investiții și proiecte europene în discuțiile despre PNRR. După încheierea planului, România ar putea pierde finanțare echivalentă cu aproximativ 1,5% din PIB, ceea ce ar complica alcătuirea bugetului pentru 2027.\n\n• Reducerea deficitului bugetar va fi prezentată de România drept un element care îi poate consolida credibilitatea în relația cu partenerii europeni. În mesajul său, ministrul a asociat competitivitatea economică cu reguli previzibile, un acces mai bun la capital și diminuarea birocrației pentru companii.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_3ea74509c1",
@@ -5519,6 +5502,182 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_99df72aab9",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "GSP U21 » Luptătorul Darius Sas a urcat pe podiumul Mondial și European, iar acum atacă Jocurile Olimpice",
+        "link": "https://www.gsp.ro/gsp-special/media/gsp-u21-luptatorul-darius-sas-a-urcat-pe-podiumul-mondial-si-european-iar-acum-ataca-jocurile-olimpice-997602.html"
+      }
+    ],
+    "published_at": 1794221944,
+    "title_hu": "GSP U21 » Luptătorul Darius Sas a urcat pe podiumul Mondial și European, iar acum atacă Jocurile Olimpice",
+    "lead_hu": "GSP U21, proiectul special dedicat sportivilor tineri din România, revine cu o nouă ediție. Darius Sas (19 ani), medaliat cu bronz la Campionatul Mondial și la Campionatul European de lupte libere, es...",
+    "content_hu": "GSP U21, proiectul special dedicat sportivilor tineri din România, revine cu o nouă ediție. Darius Sas (19 ani), medaliat cu bronz la Campionatul Mondial și la Campionatul European de lupte libere, este protagonistul ediției a opta. GSP U21 își propune să aducă în atenția iubitorilor de sport tinerele talente care promit să aducă medalii și să facă performanță pentru România. ...",
+    "title_ro": "GSP U21 » Luptătorul Darius Sas a urcat pe podiumul Mondial și European, iar acum atacă Jocurile Olimpice",
+    "lead_ro": "GSP U21, proiectul special dedicat sportivilor tineri din România, revine cu o nouă ediție. Darius Sas (19 ani), medaliat cu bronz la Campionatul Mondial și la Campionatul European de lupte libere, es...",
+    "content_ro": "GSP U21, proiectul special dedicat sportivilor tineri din România, revine cu o nouă ediție. Darius Sas (19 ani), medaliat cu bronz la Campionatul Mondial și la Campionatul European de lupte libere, este protagonistul ediției a opta. GSP U21 își propune să aducă în atenția iubitorilor de sport tinerele talente care promit să aducă medalii și să facă performanță pentru România. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_020151571f",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Droguri vândute cu până la 800 lei în Oradea. O femeie și un bărbat, arestați după un flagrant al polițiștilor antidrog",
+        "link": "https://www.ebihoreanul.ro/stiri/droguri-vandute-cu-pana-la-800-lei-in-oradea-o-femeie-si-un-barbat-arestati-dupa-un-flagrant-al-politistilor-antidrog-206447.html"
+      }
+    ],
+    "published_at": 1794221760,
+    "title_hu": "Droguri vândute cu până la 800 lei în Oradea. O femeie și un bărbat, arestați după un flagrant al polițiștilor antidrog",
+    "lead_hu": "O femeie de 34 de ani și un bărbat de 35 de ani au fost arestați preventiv, fiind acuzați de trafic de droguri de mare risc în Oradea. Potrivit anchetatorilor, femeia îi furniza drogurile bărbatului, ...",
+    "content_hu": "O femeie de 34 de ani și un bărbat de 35 de ani au fost arestați preventiv, fiind acuzați de trafic de droguri de mare risc în Oradea. Potrivit anchetatorilor, femeia îi furniza drogurile bărbatului, care le vindea cu sume cuprinse între 300 și 800 lei.",
+    "title_ro": "Droguri vândute cu până la 800 lei în Oradea. O femeie și un bărbat, arestați după un flagrant al polițiștilor antidrog",
+    "lead_ro": "O femeie de 34 de ani și un bărbat de 35 de ani au fost arestați preventiv, fiind acuzați de trafic de droguri de mare risc în Oradea. Potrivit anchetatorilor, femeia îi furniza drogurile bărbatului, ...",
+    "content_ro": "O femeie de 34 de ani și un bărbat de 35 de ani au fost arestați preventiv, fiind acuzați de trafic de droguri de mare risc în Oradea. Potrivit anchetatorilor, femeia îi furniza drogurile bărbatului, care le vindea cu sume cuprinse între 300 și 800 lei.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e0188fbed5",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "O nouă dimineață de coșmar în nordul Capitalei. O barieră CFR defectă a blocat traficul pe Șoseaua Petricani",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/o-noua-dimineata-de-cosmar-in-nordul-capitalei-o-2570004.html"
+      }
+    ],
+    "published_at": 1794221713,
+    "title_hu": "O nouă dimineață de coșmar în nordul Capitalei. O barieră CFR defectă a blocat traficul pe Șoseaua Petricani",
+    "lead_hu": "Traficul deja sufocant din nordul Bucureștiului a fost dat peste cap luni dimineață de o barieră CFR defectă pe Șoseaua Petricani. Defecțiunea a provocat cozi kilometrice, iar șoferii au reclamat întâ...",
+    "content_hu": "Traficul deja sufocant din nordul Bucureștiului a fost dat peste cap luni dimineață de o barieră CFR defectă pe Șoseaua Petricani. Defecțiunea a provocat cozi kilometrice, iar șoferii au reclamat întârzieri de câteva ore.",
+    "title_ro": "O nouă dimineață de coșmar în nordul Capitalei. O barieră CFR defectă a blocat traficul pe Șoseaua Petricani",
+    "lead_ro": "Traficul deja sufocant din nordul Bucureștiului a fost dat peste cap luni dimineață de o barieră CFR defectă pe Șoseaua Petricani. Defecțiunea a provocat cozi kilometrice, iar șoferii au reclamat întâ...",
+    "content_ro": "Traficul deja sufocant din nordul Bucureștiului a fost dat peste cap luni dimineață de o barieră CFR defectă pe Șoseaua Petricani. Defecțiunea a provocat cozi kilometrice, iar șoferii au reclamat întârzieri de câteva ore.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_0d6676db9c",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Amenzi de zeci de mii de lei pentru persoanele care au folosit steagul la cărat gunoi într-o comună condusă de un primar AUR",
+        "link": "https://www.digi24.ro/stiri/actualitate/amenzi-de-zeci-de-mii-de-lei-pentru-persoanele-care-au-folosit-steagul-la-carat-gunoi-intr-o-comuna-condusa-de-un-primar-aur-4027621"
+      }
+    ],
+    "published_at": 1794221696,
+    "title_hu": "Amenzi de zeci de mii de lei pentru persoanele care au folosit steagul la cărat gunoi într-o comună condusă de un primar AUR",
+    "lead_hu": "Poliția Română a anunțat sancționarea celor patru persoane care au folosit un steag pentru a cără gunoiul în comuna Bosanci, condusă de un primar de la AUR. Autoritățile au aplicat patru amenzi de cât...",
+    "content_hu": "Poliția Română a anunțat sancționarea celor patru persoane care au folosit un steag pentru a cără gunoiul în comuna Bosanci, condusă de un primar de la AUR. Autoritățile au aplicat patru amenzi de câte 10.000 de lei pentru fiecare dintre persoanele care au făcut gestul reprobabil.",
+    "title_ro": "Amenzi de zeci de mii de lei pentru persoanele care au folosit steagul la cărat gunoi într-o comună condusă de un primar AUR",
+    "lead_ro": "Poliția Română a anunțat sancționarea celor patru persoane care au folosit un steag pentru a cără gunoiul în comuna Bosanci, condusă de un primar de la AUR. Autoritățile au aplicat patru amenzi de cât...",
+    "content_ro": "Poliția Română a anunțat sancționarea celor patru persoane care au folosit un steag pentru a cără gunoiul în comuna Bosanci, condusă de un primar de la AUR. Autoritățile au aplicat patru amenzi de câte 10.000 de lei pentru fiecare dintre persoanele care au făcut gestul reprobabil.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b6ad9d80a5",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Funcție nouă. WhatsApp îți permite acum să inviți la evenimente și prieteni care nu au aplicația",
+        "link": "https://www.mediafax.ro/tehnologie/functie-noua-whatsapp-iti-permite-acum-sa-inviti-la-evenimente-si-prieteni-care-nu-au-aplicatia-23840188"
+      }
+    ],
+    "published_at": 1794221669,
+    "title_hu": "Funcție nouă. WhatsApp îți permite acum să inviți la evenimente și prieteni care nu au aplicația",
+    "lead_hu": "Organizarea de evenimente pe WhatsApp se schimbă: poți invita și persoane fără cont, care confirmă participarea printr-un link. Iată ce aduce actualizarea....",
+    "content_hu": "Organizarea de evenimente pe WhatsApp se schimbă: poți invita și persoane fără cont, care confirmă participarea printr-un link. Iată ce aduce actualizarea.",
+    "title_ro": "Funcție nouă. WhatsApp îți permite acum să inviți la evenimente și prieteni care nu au aplicația",
+    "lead_ro": "Organizarea de evenimente pe WhatsApp se schimbă: poți invita și persoane fără cont, care confirmă participarea printr-un link. Iată ce aduce actualizarea....",
+    "content_ro": "Organizarea de evenimente pe WhatsApp se schimbă: poți invita și persoane fără cont, care confirmă participarea printr-un link. Iată ce aduce actualizarea.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_d92416038f",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Așa tată, așa fiică: show-ul lui Trinity Rodman aprinde rețelele sociale, după ce și-a dus echipa în semifinale",
+        "link": "https://www.gsp.ro/international/campionate/trinity-rodman-fiica-dennis-rodman-spectacol-nwsl-997611.html"
+      }
+    ],
+    "published_at": 1794221635,
+    "title_hu": "Așa tată, așa fiică: show-ul lui Trinity Rodman aprinde rețelele sociale, după ce și-a dus echipa în semifinale",
+    "lead_hu": "Trinity Rodman (24 de ani), fiica legendarei vedete din NBA Dennis Rodman, a reușit o dublă, un assist și celebrări spectaculoase în victoria categorică de Washington Spirit contra celor de la Portlan...",
+    "content_hu": "Trinity Rodman (24 de ani), fiica legendarei vedete din NBA Dennis Rodman, a reușit o dublă, un assist și celebrări spectaculoase în victoria categorică de Washington Spirit contra celor de la Portland Thorns (4-1), declanșând nebunia în startul play-off-ului din NWSL. ...",
+    "title_ro": "Așa tată, așa fiică: show-ul lui Trinity Rodman aprinde rețelele sociale, după ce și-a dus echipa în semifinale",
+    "lead_ro": "Trinity Rodman (24 de ani), fiica legendarei vedete din NBA Dennis Rodman, a reușit o dublă, un assist și celebrări spectaculoase în victoria categorică de Washington Spirit contra celor de la Portlan...",
+    "content_ro": "Trinity Rodman (24 de ani), fiica legendarei vedete din NBA Dennis Rodman, a reușit o dublă, un assist și celebrări spectaculoase în victoria categorică de Washington Spirit contra celor de la Portland Thorns (4-1), declanșând nebunia în startul play-off-ului din NWSL. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_47ba558dee",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Metoda care scade riscul de cancer de col uterin",
+        "link": "https://www.digi24.ro/sanatate-digimatinal/metoda-care-scade-riscul-de-cancer-de-col-uterin-4027543"
+      }
+    ],
+    "published_at": 1794221558,
+    "title_hu": "Metoda care scade riscul de cancer de col uterin",
+    "lead_hu": "Metoda care scade riscul de cancer de col uterin...",
+    "content_hu": "Metoda care scade riscul de cancer de col uterin",
+    "title_ro": "Metoda care scade riscul de cancer de col uterin",
+    "lead_ro": "Metoda care scade riscul de cancer de col uterin...",
+    "content_ro": "Metoda care scade riscul de cancer de col uterin",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_815081627d",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Oana Tomoiagă, în lacrimi la Asia Express. Un localnic a emoționat-o în săptămâna finalei",
+        "link": "https://www.cancan.ro/oana-tomoiaga-in-lacrimi-la-asia-express-un-localnic-a-emotionat-o-in-saptamana-finalei-21544202"
+      }
+    ],
+    "published_at": 1794221484,
+    "title_hu": "Oana Tomoiagă, în lacrimi la Asia Express. Un localnic a emoționat-o în săptămâna finalei",
+    "lead_hu": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei...",
+    "content_hu": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei cazări. Cu toate acestea, un localnic le-a ieșit în cale și au rămas impresionate de bunătatea lui. Cele două s-au emoționat până […]",
+    "title_ro": "Oana Tomoiagă, în lacrimi la Asia Express. Un localnic a emoționat-o în săptămâna finalei",
+    "lead_ro": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei...",
+    "content_ro": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei cazări. Cu toate acestea, un localnic le-a ieșit în cale și au rămas impresionate de bunătatea lui. Cele două s-au emoționat până […]",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_1a2525fd7f",
     "category": "Általános",
     "is_synthesized": false,
@@ -5805,6 +5964,28 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_ae253ea75d",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Chipciu a dat „scorurile corecte” la meciurile României cu Polonia și Bosnia",
+        "link": "https://www.gsp.ro/fotbal/nationala/alexandru-chipciu-gsp-live-romania-polonia-bosnia-997639.html"
+      }
+    ],
+    "published_at": 1794220589,
+    "title_hu": "Chipciu a dat „scorurile corecte” la meciurile României cu Polonia și Bosnia",
+    "lead_hu": "Alexandru Chipciu (37 de ani), căpitanul lui U Cluj, a prefațat meciurile naționalei României cu Polonia și Bosnia, din ultimele două etape ale grupei de Nations League. România - Polonia are loc pe 1...",
+    "content_hu": "Alexandru Chipciu (37 de ani), căpitanul lui U Cluj, a prefațat meciurile naționalei României cu Polonia și Bosnia, din ultimele două etape ale grupei de Nations League. România - Polonia are loc pe 14 noiembrie, de la ora 21:45, liveTEXT pe GSP.ro și la TV pe Antena 1Bosnia - România se va juca pe 17 noiembrie, de la ora 21:45, liveTEXT pe GSP.ro și transmis pe Antena 1 Chipciu crede că România va câștiga acasă cu Polonia și va remiza în Bosnia. ...",
+    "title_ro": "Chipciu a dat „scorurile corecte” la meciurile României cu Polonia și Bosnia",
+    "lead_ro": "Alexandru Chipciu (37 de ani), căpitanul lui U Cluj, a prefațat meciurile naționalei României cu Polonia și Bosnia, din ultimele două etape ale grupei de Nations League. România - Polonia are loc pe 1...",
+    "content_ro": "Alexandru Chipciu (37 de ani), căpitanul lui U Cluj, a prefațat meciurile naționalei României cu Polonia și Bosnia, din ultimele două etape ale grupei de Nations League. România - Polonia are loc pe 14 noiembrie, de la ora 21:45, liveTEXT pe GSP.ro și la TV pe Antena 1Bosnia - România se va juca pe 17 noiembrie, de la ora 21:45, liveTEXT pe GSP.ro și transmis pe Antena 1 Chipciu crede că România va câștiga acasă cu Polonia și va remiza în Bosnia. ...",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_129adabf30",
     "category": "Általános",
     "is_synthesized": false,
@@ -5846,6 +6027,28 @@
     "title_ro": "Petrolul s-a ieftinit cu 16%, dar șoferii plătesc aproape la fel la pompă. De ce nu se vede scăderea în prețuri",
     "lead_ro": "Cotațiile petrolului au scăzut puternic între 30 octombrie și 6 noiembrie, însă reducerile de la benzinării au fost mult mai mici. Silviu Gresoi și Raul Putilean explică rolul stocurilor, taxelor și i...",
     "content_ro": "Cotațiile petrolului au scăzut puternic între 30 octombrie și 6 noiembrie, însă reducerile de la benzinării au fost mult mai mici. Silviu Gresoi și Raul Putilean explică rolul stocurilor, taxelor și incertitudinilor geopolitice în prețul plătit de șoferi.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2cc9f02506",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ciprian Marica, surprins de Rapid: „Nu a fost cum credeam. E cum a zis Mike Tyson”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/rapid-analiza-ciprian-marica-superliga-farul-daniel-pancu-997637.html"
+      }
+    ],
+    "published_at": 1794220496,
+    "title_hu": "Ciprian Marica, surprins de Rapid: „Nu a fost cum credeam. E cum a zis Mike Tyson”",
+    "lead_hu": "Ciprian Marica, unul dintre acționarii Farului, a analizat prestația echipei din Constanța în meciul cu Rapid, 1-1, din etapa a 15-a din Superligă. Fostul internațional a lăudat modul în care trupa lu...",
+    "content_hu": "Ciprian Marica, unul dintre acționarii Farului, a analizat prestația echipei din Constanța în meciul cu Rapid, 1-1, din etapa a 15-a din Superligă. Fostul internațional a lăudat modul în care trupa lui Ioan Ovidiu Sabău a jucat în partida de sâmbătă și a vorbit și despre cum o vede pe Rapid, despre care spune că a început să fie afectată de înfrângerea cu FCSB, 1-4, după 1-0 la pauză. Ce a remarcat Ciprian Marica la Rapid „Sincer, nu a fost cum credeam. ...",
+    "title_ro": "Ciprian Marica, surprins de Rapid: „Nu a fost cum credeam. E cum a zis Mike Tyson”",
+    "lead_ro": "Ciprian Marica, unul dintre acționarii Farului, a analizat prestația echipei din Constanța în meciul cu Rapid, 1-1, din etapa a 15-a din Superligă. Fostul internațional a lăudat modul în care trupa lu...",
+    "content_ro": "Ciprian Marica, unul dintre acționarii Farului, a analizat prestația echipei din Constanța în meciul cu Rapid, 1-1, din etapa a 15-a din Superligă. Fostul internațional a lăudat modul în care trupa lui Ioan Ovidiu Sabău a jucat în partida de sâmbătă și a vorbit și despre cum o vede pe Rapid, despre care spune că a început să fie afectată de înfrângerea cu FCSB, 1-4, după 1-0 la pauză. Ce a remarcat Ciprian Marica la Rapid „Sincer, nu a fost cum credeam. ...",
     "importance_score": 0.0
   },
   {
@@ -6176,28 +6379,6 @@
     "title_ro": "834 orvos, fogorvos és gyógyszerész vizsgázik vasárnap Marosvásárhelyen a rezidensképzésért",
     "lead_ro": "Összesen 834 jelentkező tesz rezidensvizsgát november 15-én, vasárnap a marosvásárhelyi egyetemi központban. Az országos versenyvizsgát a romániai egyetemek hat központjában, egyidejűleg szervezik meg...",
     "content_ro": "Összesen 834 jelentkező tesz rezidensvizsgát november 15-én, vasárnap a marosvásárhelyi egyetemi központban. Az országos versenyvizsgát a romániai egyetemek hat központjában, egyidejűleg szervezik meg, az orvostudomány, …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c272849b82",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Premieră în Marea Britanie. Marina Regală va desfășura o flotă de ambarcațiuni autonome pentru a combate interferența Rusiei în apele britanice",
-        "link": "https://www.mediafax.ro/stirile-zilei/premiera-in-marea-britanie-marina-regala-va-desfasura-o-flota-de-ambarcatiuni-autonome-pentru-a-combate-interferenta-rusiei-in-apele-britanice-23840122"
-      }
-    ],
-    "published_at": 1794219192,
-    "title_hu": "Premieră în Marea Britanie. Marina Regală va desfășura o flotă de ambarcațiuni autonome pentru a combate interferența Rusiei în apele britanice",
-    "lead_hu": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice....",
-    "content_hu": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice.",
-    "title_ro": "Premieră în Marea Britanie. Marina Regală va desfășura o flotă de ambarcațiuni autonome pentru a combate interferența Rusiei în apele britanice",
-    "lead_ro": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice....",
-    "content_ro": "Marina Regală a Marii Britanii va desfășura pentru prima dată o flotă de drone autonome, pentru a ajuta flota de nave să facă față interferenței Rusiei în apele britanice.",
     "importance_score": 0.0
   },
   {
@@ -16937,75 +17118,9 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_4fad52333d",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "The Expendables 11",
-        "link": "https://www.gsp.ro/opinii/editorial-mihai-mironica-the-expendables-11-997256.html"
-      }
-    ],
-    "published_at": 1794135461,
-    "title_hu": "The Expendables 11",
-    "lead_hu": "FCSB s-a gândit să-și celebreze un sezon de excepție cu o paradă a jucătorilor sub formă de supereroi. Doar un an mai târziu, supereroii lui Becali au îmbătrânit cât alții în zece, sunt expirați, ridi…",
-    "content_hu": "FCSB s-a gândit să-și celebreze un sezon de excepție cu o paradă a jucătorilor sub formă de supereroi. Doar un an mai târziu, supereroii lui Becali au îmbătrânit cât alții în zece, sunt expirați, ridicoli, patronul deja a pus pe ei eticheta de Expendables. Becali i-ar vinde pe toți, dar nu-i nimeni interesat. Pe FCSB o bate cine vrea și cine nu vrea. ...",
-    "title_ro": "The Expendables 11",
-    "lead_ro": "FCSB s-a gândit să-și celebreze un sezon de excepție cu o paradă a jucătorilor sub formă de supereroi. Doar un an mai târziu, supereroii lui Becali au îmbătrânit cât alții în zece, sunt expirați, ridi…",
-    "content_ro": "FCSB s-a gândit să-și celebreze un sezon de excepție cu o paradă a jucătorilor sub formă de supereroi. Doar un an mai târziu, supereroii lui Becali au îmbătrânit cât alții în zece, sunt expirați, ridicoli, patronul deja a pus pe ei eticheta de Expendables. Becali i-ar vinde pe toți, dar nu-i nimeni interesat. Pe FCSB o bate cine vrea și cine nu vrea. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a8ddc627ce",
+    "group_id": "group_f767c70e1e",
+    "fingerprint": "bef3e49bd18dcf6e14295e586d52ccf7",
     "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Trei enigme, o iubire imposibilă și o miză mortală. „Turandot” revine pe scena Operei Naționale București",
-        "link": "https://www.mediafax.ro/cultura-media/trei-enigme-o-iubire-imposibila-si-o-miza-mortala-turandot-revine-pe-scena-operei-nationale-bucuresti-23839702"
-      }
-    ],
-    "published_at": 1794135449,
-    "title_hu": "Trei enigme, o iubire imposibilă și o miză mortală. „Turandot” revine pe scena Operei Naționale București",
-    "lead_hu": "Opera Națională București prezintă duminică, 8 noiembrie, de la ora 18:30, spectacolul „Turandot”, de Giacomo Puccini, una dintre cele mai cunoscute creații ale repertoriului liric internațional.",
-    "content_hu": "Opera Națională București prezintă duminică, 8 noiembrie, de la ora 18:30, spectacolul „Turandot”, de Giacomo Puccini, una dintre cele mai cunoscute creații ale repertoriului liric internațional.",
-    "title_ro": "Trei enigme, o iubire imposibilă și o miză mortală. „Turandot” revine pe scena Operei Naționale București",
-    "lead_ro": "Opera Națională București prezintă duminică, 8 noiembrie, de la ora 18:30, spectacolul „Turandot”, de Giacomo Puccini, una dintre cele mai cunoscute creații ale repertoriului liric internațional.",
-    "content_ro": "Opera Națională București prezintă duminică, 8 noiembrie, de la ora 18:30, spectacolul „Turandot”, de Giacomo Puccini, una dintre cele mai cunoscute creații ale repertoriului liric internațional.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_b539af60fd",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Un candidat a încercat să fraudeze examenul de admitere la Poliție. „Instituția are și o altă intrare: cea pe care o folosesc cei care încalcă legea”",
-        "link": "https://adevarul.ro/stiri-locale/ploiesti/un-candidat-a-incercat-sa-fraudeze-examenul-de-2569806.html"
-      }
-    ],
-    "published_at": 1794135213,
-    "title_hu": "Un candidat a încercat să fraudeze examenul de admitere la Poliție. „Instituția are și o altă intrare: cea pe care o folosesc cei care încalcă legea”",
-    "lead_hu": "Un bărbat din Teleorman a fost reținut după ce ar fi încercat să fraudeze examenul de admitere la Școala de Agenți de Poliție „Vasile Lascăr” din Câmpina, folosind un sistem de comunicare la distanță.",
-    "content_hu": "Un bărbat din Teleorman a fost reținut după ce ar fi încercat să fraudeze examenul de admitere la Școala de Agenți de Poliție „Vasile Lascăr” din Câmpina, folosind un sistem de comunicare la distanță.",
-    "title_ro": "Un candidat a încercat să fraudeze examenul de admitere la Poliție. „Instituția are și o altă intrare: cea pe care o folosesc cei care încalcă legea”",
-    "lead_ro": "Un bărbat din Teleorman a fost reținut după ce ar fi încercat să fraudeze examenul de admitere la Școala de Agenți de Poliție „Vasile Lascăr” din Câmpina, folosind un sistem de comunicare la distanță.",
-    "content_ro": "Un bărbat din Teleorman a fost reținut după ce ar fi încercat să fraudeze examenul de admitere la Școala de Agenți de Poliție „Vasile Lascăr” din Câmpina, folosind un sistem de comunicare la distanță.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_eb6e6ec845",
-    "fingerprint": "1319f248aa00e463dbbc0dc41f9cf32a",
-    "category": "Bulvár",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
@@ -17013,62 +17128,62 @@
     "sources": [
       {
         "source": "ProTV Stiri",
-        "title": "Scandal de spionaj la vârful Nvidia. Șeful companiei, Jensen Huang, ar fi avut o relație amoroasă cu o spioană chineză",
-        "link": "https://stirileprotv.ro/stiri/international/scandal-de-spionaj-la-varful-nvidia-seful-companiei-jensen-huang-ar-fi-avut-o-relatie-amoroasa-cu-o-spioana-chineza.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Șeful Nvidia, suspectat că a avut o relație cu o presupusă spioană chineză. Congresul american cere explicații",
-        "link": "https://adevarul.ro/stiri-externe/sua/seful-nvidia-suspectat-ca-a-avut-o-relatie-cu-o-2569869.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Șeful Nvidia Jensen Huang, unul dintre cei mai bogați oameni ai lumii, recunoaște că și-a înșelat soția. Compania anchetează o presupusă operațiune de spionaj chinez",
-        "link": "https://www.mediafax.ro/externe/seful-nvidia-jensen-huang-unul-dintre-cei-mai-bogati-oameni-ai-lumii-recunoaste-ca-si-a-inselat-sotia-compania-ancheteaza-o-presupusa-operatiune-de-spionaj-chinez-23839925"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Șeful Nvidia, investigat de gigantul tech dacă a fost ținta spionajului străin, după ce a recunoscut că a avut o aventură",
-        "link": "https://hotnews.ro/nvidia-jensen-huang-ancheta-spioana-chineza-2398664"
-      },
-      {
-        "source": "G4Media",
-        "title": "Nvidia deschide o anchetă independentă după ce CEO-ul Jensen Huang a recunoscut ca a avut o relație cu o presupusă spioană chineză",
-        "link": "https://www.g4media.ro/nvidia-deschide-o-ancheta-independenta-dupa-ce-ceo-ul-jensen-huang-a-recunoscut-ca-a-avut-o-relatie-cu-o-presupusa-spioana-chineza.html"
+        "title": "Autorul atacului din Cracovia, în urma căruia au murit șase oameni, a decedat la spital",
+        "link": "https://stirileprotv.ro/stiri/international/autorul-atacului-din-cracovia-in-urma-caruia-au-murit-sase-oameni-a-decedat-la-spital.html"
       },
       {
         "source": "Digi24",
-        "title": "Scandal de spionaj la Nvidia. Anchetă deschisă după dezvăluirile despre relația lui Jensen Huang cu o presupusă spioană chineză",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/scandal-de-spionaj-la-nvidia-ancheta-deschisa-dupa-dezvaluirile-despre-relatia-lui-jensen-huang-cu-o-presupusa-spioana-chineza-4027199"
+        "title": "Autorul atacului armat din Cracovia a murit la spital, a anunțat poliția poloneză",
+        "link": "https://www.digi24.ro/stiri/externe/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-a-anuntat-politia-poloneza-4027165"
       },
       {
         "source": "Agerpres (HU)",
-        "title": "Anchetă internă privind o presupusă operațiune de spionaj asupra CEO-ului Nvidia, care recunoaște o relație extraconjugală",
-        "link": "https://agerpres.ro/politic-extern/2026/11/09/ancheta-interna-privind-o-presupusa-operatiune-de-spionaj-asupra-ceo-ului-nvidia-care-recunoaste-o-r--1611350"
+        "title": "Autorul atacului armat de la Cracovia a murit la spital (poliția poloneză)",
+        "link": "https://agerpres.ro/politic-extern/2026/11/09/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-politia-poloneza--1611326"
+      },
+      {
+        "source": "Kolozsvári Rádió (HU)",
+        "title": "Krakkói lövöldözés: meghalt az elkövető",
+        "link": "https://www.kolozsvariradio.ro/2026/11/09/krakkoi-lovoldozes-meghalt-az-elkoveto/"
       },
       {
         "source": "HotNews.ro",
-        "title": "Reacție de la Beijing în scandalul de spionaj de la Nvidia, care îl anchetează pe șeful companiei Jensen Huang",
-        "link": "https://hotnews.ro/reactie-de-la-beijing-in-scandalul-de-spionaj-de-la-nvidia-care-il-ancheteaza-pe-seful-companiei-jensen-huang-2398745"
+        "title": "Tânărul care a ucis șase oameni în Cracovia a murit la spital. Însemnele găsite pe hainele atacatorului",
+        "link": "https://hotnews.ro/tanarul-care-a-ucis-sase-oameni-in-cracovia-a-murit-la-spital-insemnele-gasite-pe-hainele-atacatorului-2398703"
       },
       {
         "source": "Adevărul",
-        "title": "Nvidia deschide o anchetă după relatări că CEO companiei ar fi fost vizat de spionajul chinez. Trump îl apără, Congresul cere explicații",
-        "link": "https://adevarul.ro/stiri-externe/sua/nvidia-deschide-o-ancheta-dupa-relatari-ca-ceo-2569983.html"
+        "title": "Autorul masacrului de la Cracovia a murit la spital",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/autorul-masacrului-de-la-cracovia-a-murit-la-2569941.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atacatorul care a ucis șase persoane în Cracovia a murit la spital",
+        "link": "https://www.mediafax.ro/externe/atacatorul-care-a-ucis-sase-persoane-in-cracovia-a-murit-la-spital-23840006"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Meghalt a kórházban a krakkói lövöldözés elkövetője",
+        "link": "https://transtelex.ro/kulfold/2026/11/09/meghalt-krakko-lovoldozo-korhaz"
       },
       {
         "source": "G4Media",
-        "title": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
-        "link": "https://www.g4media.ro/financial-times-serviciile-de-informatii-din-sua-avertizeaza-ca-directorul-nvidia-ar-fi-avut-o-relatie-amoroasa-cu-o-presupusa-spioana-a-chinei.html"
+        "title": "Bărbatul care a ucis șase persoane în Cracovia a decedat în spital",
+        "link": "https://www.g4media.ro/barbatul-care-a-ucis-sase-persoane-in-cracovia-a-decedat-in-spital.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "A murit atacatorul care a ucis șase oameni în Cracovia. Ancheta continuă pentru a stabili dacă a avut complici",
+        "link": "https://www.ebihoreanul.ro/stiri/a-murit-atacatorul-care-a-ucis-sase-oameni-in-cracovia-ancheta-continua-pentru-a-stabili-daca-a-avut-complici-206441.html"
       }
     ],
-    "published_at": 1794215098,
-    "title_hu": "Újabb részletek az Nvidia-vizsgálatról: Peking cáfol, a kongresszus magyarázatot vár",
-    "lead_hu": "Az Nvidia független vizsgálata azt értékeli, célpontja lehetett-e Jensen Huang külföldi hírszerzési műveletnek. Peking alaptalannak nevezte a kínai kémkedésről szóló állításokat, miközben amerikai politikusok és a sajtó további biztonsági kérdéseket vetett fel.",
-    "content_hu": "• **Az igazgatótanács vasárnapi döntése** nyomán független igazgatók és külső jogászok vizsgálják, hogy Jensent Huangot érhette-e külföldi hírszerzési művelet. A testület nem nevezett meg országot vagy konkrét információt, és közölte: jelenleg nincs oka azt feltételezni, hogy az Egyesült Államok nemzetbiztonsága vagy az Nvidia üzleti titkai sérültek. A vizsgálat minden rendelkezésre álló adatot áttekint; Huang támogatja és vállalta az együttműködést.\n\n• **Alice Huang és a Megaspeed** kapcsán amerikai hírszerzési gyanú merült fel, hogy a szingapúri adatközpont-vállalat korábbi vezetője kínai szolgálatoknak dolgozhatott, és információkat juttathatott Pekingbe. Egyes sajtóbeszámolók szerint a cég fejlett Nvidia-chipek Kínába irányításában is szerepet játszhatott; ezek az állítások nem bizonyítottak. Alice Huang Huang Le néven is ismert, és nem rokona a vezérigazgatónak.\n\n• **Huang személyes üzenete** szerint megcsalta feleségét, és ezzel fájdalmat okozott családjának. Felelősséget vállalt, bocsánatot kért, és azt írta, dolgozni fog a munkatársak, a vezető testület és a részvényesek bizalmának visszaszerzésén. A kémkedési felvetéseket nem kommentálta. Az Nvidia közlése szerint Huang megszakítás nélkül vezérigazgató marad, és az ügy nem lassítja a vállalat működését.\n\n• **A politikai reakciók** között Chris Coons demokrata szenátor vizsgálati ígérete, valamint republikánus képviselők zárt meghallgatási kérelme szerepel. Huangot a képviselőház külügyi és hírszerzési bizottságai a jövő héten kérdeznék a cég kémelhárítási intézkedéseiről és Alice Huanggal való kapcsolatáról. Donald Trump tisztességes embernek nevezte a vezérigazgatót, és azt mondta, nem hallott jogsértésről.\n\n• **Peking és Marco Rubio** ügyében új információ is megjelent: Guo Jiakun külügyi szóvivő hétfőn alaptalannak minősítette a kínai kémkedés narratíváját. A The New York Times szerint Marco Rubio külügyminiszter már tavasszal titkos dokumentumban figyelmeztette a washingtoni tisztviselőket a kapcsolat biztonsági kockázataira. Rubio nem kívánta kommentálni az ügyet, és vállalati belső kérdésként hivatkozott rá.",
-    "title_ro": "Noi detalii despre ancheta Nvidia: Beijingul respinge acuzațiile, Congresul cere explicații",
-    "lead_ro": "Ancheta independentă a Nvidia analizează dacă Jensen Huang a fost vizat de o operațiune de informații străine. Beijingul a calificat drept nefondate acuzațiile de spionaj chinez, în timp ce oficiali americani și relatări de presă au ridicat noi întrebări privind securitatea.",
-    "content_ro": "• **Decizia consiliului de administrație, anunțată duminică**, a declanșat o examinare condusă de administratori independenți și sprijinită de avocați externi. Ancheta verifică dacă Jensen Huang a fost ținta unei operațiuni străine, fără ca Nvidia să indice o țară sau informații concrete. Consiliul a transmis că nu are, în acest moment, motive să creadă că securitatea națională ori secretele companiei au fost compromise. Huang susține demersul și s-a angajat să coopereze.\n\n• **Alice Huang și Megaspeed** se află în centrul suspiciunilor relatate de presă. Fosta directoare a firmei de centre de date din Singapore ar fi avut legături cu serviciile chineze și ar fi transmis informații către Beijing, potrivit unor evaluări atribuite serviciilor americane. Unele relatări susțin, de asemenea, că Megaspeed ar fi fost implicată în direcționarea către China a unor cipuri Nvidia avansate, acuzație care nu a fost dovedită. Alice Huang este cunoscută și ca Huang Le și nu este rudă cu directorul Nvidia.\n\n• **Mesajul lui Jensen Huang către angajați** a inclus recunoașterea infidelității și asumarea responsabilității pentru suferința provocată familiei. El și-a cerut iertare și a promis că va munci pentru a recâștiga încrederea angajaților, a consiliului și a acționarilor, fără să abordeze acuzațiile de spionaj. Nvidia a precizat separat că Huang își păstrează funcția de director general fără întrerupere și că situația nu va încetini compania.\n\n• **Reacțiile politice din SUA** includ promisiunea senatorului democrat Chris Coons de a cere o investigație și solicitarea unor parlamentari republicani pentru o audiere cu ușile închise, săptămâna viitoare. Comisiile pentru afaceri externe și informații ale Camerei Reprezentanților ar urma să-l întrebe pe Huang despre măsurile anti-spionaj ale Nvidia și relația cu Alice Huang. Donald Trump l-a descris drept un om onorabil și a spus că nu a auzit că ar fi comis ceva ilegal.\n\n• **Beijingul și Marco Rubio** au fost menționați în noi informații apărute luni. Purtătorul de cuvânt al Ministerului de Externe chinez, Guo Jiakun, a respins acuzațiile privind spionajul chinez, numindu-le nefondate. The New York Times a relatat că Rubio avertizase în primăvară oficiali de la Washington, printr-un document secret, asupra riscurilor de securitate legate de această relație. Rubio nu a comentat fondul acuzațiilor și a descris cazul drept o chestiune internă a companiei.",
+    "published_at": 1794218040,
+    "title_hu": "Meghalt a krakkói lövöldözés gyanúsítottja; folytatódik a nyomozás",
+    "lead_hu": "Hétfő hajnalban meghalt a kórházban a krakkói lövöldözés 24 éves gyanúsítottja, Michał Oksiński. A támadásban hatan vesztették életüket; a hatóságok a sérültek állapotáról és a feltételezett indítékokról is közöltek új részleteket.",
+    "content_hu": "• **November 9-én, hétfőn hajnalban** meghalt a 24 éves Michał Oksiński, akit a szombati krakkói lövöldözéssel gyanúsítanak. A kis-lengyelországi rendőrség közlése szerint a férfi 4:30 körül hunyt el; kórházi kezelése alatt legalább három műtéten esett át, állapota végig kritikus volt.\n\n• **A támadásban hat ember halt meg,** a sérültek száma pedig 15 volt a vajda hétfői tájékoztatása szerint. Közülük 14 állapota stabil; egy rendőr továbbra is súlyos állapotban van, de már felébresztették a kómából. A másik megsérült rendőr állapota szintén stabil.\n\n• **A lövöldözés helyszíne Krakkó főtere volt:** a férfi egy autóból nyitott tüzet, és két fiatal rendőr közvetlen tűzharcban állította meg. Az áldozatok között külföldi állampolgárok is voltak. A támadó családtagjainak – apjának, anyjának és húgának – holttestét a Krakkótól mintegy 200 kilométerre fekvő Ostrowiec Świętokrzyskiben találták meg.\n\n• **A fegyverek és a lehetséges indítékok vizsgálata folytatódik.** A családi otthonban és a használt autóban több fegyvert, valamint lőszert találtak; a lengyel sajtó szerint az apa 11 lőfegyvert tartott legálisan. A belügyminiszter korábbi nyilatkozata alapján a nyomozók a szélsőjobboldali nézetek lehetséges szerepét is vizsgálják.\n\n• **Az ügyészségi eljárást a gyanúsított halála sem állítja le:** a nyomozás terrorcselekmény és sorozatgyilkosság gyanújával folyik, többek között a férfi indítékait és esetleges kapcsolatait kutatják. Karol Nawrocki elnök november 8–9-re nemzeti gyászt rendelt el; a főteret vasárnap este ismét megnyitották, hétfőre pedig néma menetet hirdettek az áldozatok emlékére.",
+    "title_ro": "A murit suspectul atacului armat din Cracovia; ancheta continuă",
+    "lead_ro": "Michał Oksiński, suspectul în vârstă de 24 de ani al atacului armat din Cracovia, a murit luni dimineață la spital. Șase persoane au fost ucise, iar autoritățile au oferit noi informații despre starea răniților și direcțiile anchetei.",
+    "content_ro": "• **Luni, 9 noiembrie, în zori,** a murit Michał Oksiński, în vârstă de 24 de ani, suspectat de atacul comis sâmbătă la Cracovia. Poliția din Malopolska a indicat că decesul a survenit în jurul orei 4:30; bărbatul fusese operat de cel puțin trei ori și se afla în stare critică încă de la internare.\n\n• **Atacul s-a soldat cu șase morți,** iar 15 persoane au fost rănite, potrivit informării de luni a voievodului. Paisprezece răniți au o stare stabilă. Un polițist se află în continuare în stare gravă, dar a fost trezit din comă; celălalt polițist rănit este, de asemenea, stabil.\n\n• **Focurile de armă au fost trase dintr-o mașină,** în zona pieței centrale din Cracovia. Doi polițiști tineri l-au oprit pe suspect în urma unui schimb direct de focuri. Trupurile tatălui, mamei și surorii bărbatului au fost găsite în locuința familiei din Ostrowiec Świętokrzyski, la aproximativ 200 de kilometri de Cracovia.\n\n• **Anchetatorii verifică armele și posibilele motivații.** În locuință și în mașină au fost descoperite arme și muniție; potrivit presei poloneze, tatăl suspectului deținea legal 11 arme de foc. Ministrul de interne a afirmat anterior că ancheta ia în calcul și o posibilă influență a ideilor de extremă dreapta.\n\n• **Moartea suspectului nu oprește procedura procurorilor:** investigația vizează suspiciuni de terorism și omoruri în serie, inclusiv motivațiile bărbatului și eventualele sale legături. Președintele Karol Nawrocki a decretat doliu național pentru 8 și 9 noiembrie. Piața a fost redeschisă duminică seara, iar pentru luni a fost anunțat un marș tăcut în memoria victimelor.",
     "importance_score": 115.0
   },
   {
@@ -17259,38 +17374,48 @@
     "importance_score": 80.0
   },
   {
-    "group_id": "group_7ff699d0a4",
-    "fingerprint": "5d0ece76b6b88706eca0e8fd3ce8398b",
-    "category": "Sport",
+    "group_id": "group_2bcc321645",
+    "fingerprint": "b72feeac2f6bb39560185ecd0c2999a7",
+    "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 3,
+    "sources_count": 5,
     "sources": [
       {
-        "source": "Mediafax",
-        "title": "Turneul Campioanelor: Coco Gauff a învins-o pe Jessica Pegula într-un duel de aproape trei ore",
-        "link": "https://www.mediafax.ro/sport/turneul-campioanelor-coco-gauff-a-invins-o-pe-jessica-pegula-intr-un-duel-de-aproape-trei-ore-23839956"
+        "source": "HotNews.ro",
+        "title": "Răspuns clar de la Paris pentru Moscova: „Europenii vor fi bine reprezentați la Abu Dhabi”",
+        "link": "https://hotnews.ro/raspuns-clar-de-la-paris-pentru-moscova-europenii-vor-fi-bine-reprezentati-la-abu-dhabi-2398283"
+      },
+      {
+        "source": "Digi24",
+        "title": "Europenii se întorc la masa negocierilor privind Ucraina, de la Abu Dhabi: „Vor fi bine reprezentaţi”. Anunțul a fost făcut de Franța",
+        "link": "https://www.digi24.ro/stiri/externe/ue/europenii-se-intorc-la-masa-negocierilor-privind-ucraina-de-la-abu-dhabi-vor-fi-bine-reprezentati-anuntul-a-fost-facut-de-franta-4026815"
       },
       {
         "source": "G4Media",
-        "title": "VIDEO: Coco Gauff, debut cu victorie la Turneul Campioanelor 2026",
-        "link": "https://www.g4media.ro/video-coco-gauff-debut-cu-victorie-la-turneul-campioanelor-2026.html"
+        "title": "Ministrul francez de Externe afirmă că europenii vor fi reprezentaţi la negocierile ruso-ucrainene mediate de SUA la Abu Dhabi",
+        "link": "https://www.g4media.ro/ministrul-francez-de-externe-afirma-ca-europenii-vor-fi-reprezentati-la-negocierile-ruso-ucrainene-mediate-de-sua-la-abu-dhabi.html"
       },
       {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Gauff a câștigat al doilea meci de la Turneu Campioanelor: decisiv fără istoric",
-        "link": "https://www.gsp.ro/sporturi/tenis/coco-gauff-jessica-pegula-turneul-campioanelor-997565.html"
+        "source": "Mediafax",
+        "title": "Europa va participa la discuțiile mediate de SUA la Abu Dhabi cu Ucraina. Anunțul ministrului francez de Externe",
+        "link": "https://www.mediafax.ro/stirile-zilei/europa-va-participa-la-discutiile-mediate-de-sua-la-abu-dhabi-cu-ucraina-anuntul-ministrului-francez-de-externe-23839795"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Europenii vor fi 'reprezentați' la negocierile ruso-ucrainene mediate de SUA la Abu Dhabi, afirmă ministrul francez de externe",
+        "link": "https://agerpres.ro/politic-extern/2026/11/08/europenii-vor-fi-reprezentati-la-negocierile-ruso-ucrainene-mediate-de-sua-la-abu-dhabi-afirma-minis--1611258"
       }
     ],
-    "published_at": 1794206321,
-    "title_hu": "Gauff háromszettes mérkőzésen győzte le Pegulát a 2026-os világbajnokságon",
-    "lead_hu": "Coco Gauff győzelemmel kezdte a 2026-os WTA-világbajnokság csoportkörét Indian Wellsben: Jessica Pegulát múlta felül egy 2 óra 39 perces mérkőzésen. Az amerikai párharc három játszmában dőlt el, miután Pegula a második szettben hárította ellenfele mérkőzéslabdáját.",
-    "content_hu": "• **A vasárnapi, Indian Wellsben rendezett csoportmérkőzésen** a 22 éves Coco Gauff három játszmában győzött a 32 éves Jessica Pegula ellen. A találkozó 2 óra 39 percig tartott, és Gauff ezzel megszerezte első sikerét a tornán.\n\n• **Az első szettben Gauff 6–4-re nyert**, majd a második játszmában 1–5-ös hátrányból kapaszkodott vissza. 6–5-nél mérkőzéslabdához jutott, Pegula azonban hárította a lehetőséget, és rövidítésben kiegyenlített.\n\n• **A döntő játszmában Gauff került fölénybe:** rögtön elvette Pegula adogatását, majd 3–0-ra növelte előnyét. Ezt követően is kézben tartotta a mérkőzést, és 6–2-vel lezárta a találkozót.\n\n• **A világranglista negyedik és ötödik helyezettje csapott össze**; Gauff a negyedik, Pegula az ötödik pozícióból érkezett a mérkőzésre. A két játékos a 2026-os cincinnati torna döntőjében is találkozott, akkor szintén Gauff bizonyult jobbnak.\n\n• **Gauff korábbi eredményei között két egyéni Grand Slam-trófea szerepel:** 2023-ban a US Openen, 2025-ben a Roland Garroson nyert. A világbajnokságot 2024-ben már megnyerte. Pegula legjobb eredménye ezen a tornán a 2023-as döntőbe jutás; 2024-ben a US Open fináléjában szerepelt.",
-    "title_ro": "Gauff o învinge pe Pegula în trei seturi la Turneul Campioanelor din 2026",
-    "lead_ro": "Coco Gauff a început cu o victorie faza grupelor Turneului Campioanelor din 2026, disputată la Indian Wells, după ce a trecut de Jessica Pegula într-un meci de două ore și 39 de minute. Duelul american s-a decis în trei seturi, iar Pegula salvase o minge de meci în actul secund.",
-    "content_ro": "• **În partida de duminică de la Indian Wells**, Coco Gauff, în vârstă de 22 de ani, a câștigat în fața lui Jessica Pegula, de 32 de ani, după trei seturi. Meciul a durat două ore și 39 de minute, iar Gauff a obținut astfel primul său succes în grupă.\n\n• **Gauff a adjudecat primul set cu 6-4**, apoi a revenit în actul secund de la 1-5. La scorul de 6-5 a avut o minge de meci, însă Pegula a salvat-o și a egalat situația după un tie-break.\n\n• **Setul decisiv a fost controlat de Gauff:** aceasta a câștigat primul game pe serviciul adversarei și s-a distanțat la 3-0. Pegula nu a mai reușit să întoarcă rezultatul, iar Gauff a încheiat setul cu 6-2.\n\n• **Meciul a opus ocupantele locurilor patru și cinci în clasamentul mondial**, Gauff fiind a patra, iar Pegula a cincea. Cele două s-au întâlnit și în finala turneului de la Cincinnati din 2026, câștigată tot de Gauff.\n\n• **Gauff are în palmares două titluri de Grand Slam la simplu:** a triumfat la US Open în 2023 și la Roland Garros în 2025. Ea a câștigat Turneul Campioanelor în 2024. Pentru Pegula, cea mai bună performanță la această competiție rămâne finala din 2023; americanca a ajuns și în finala US Open din 2024.",
-    "importance_score": 38.0
+    "published_at": 1794149975,
+    "title_hu": "Franciaország és az európaiak is részt vesznek az Abu-Dzabiban tervezett egyeztetésen",
+    "lead_hu": "Jean-Noël Barrot francia külügyminiszter megerősítette, hogy Franciaország képviselői jelen lesznek a november 10–11-re tervezett abu-dzabi tárgyalásokon, és az európai országok is képviseletet kapnak. Az Egyesült Államok közvetítésével tartandó találkozón a háború lezárásáról és a konfliktus utáni biztonsági kérdésekről tárgyalhatnak; a résztvevők személye egyelőre nem ismert.",
+    "content_hu": "• **November 10–11., Abu-Dzabi**: az Egyesült Államok közreműködésével orosz, ukrán és amerikai tisztviselők ülhetnek tárgyalóasztalhoz. A tervezett egyeztetés nem állam- vagy kormányfői szinten zajlik, a küldöttségek tagjainak nevét pedig még nem tették közzé. A napirenden a háború lezárása, a háború utáni biztonsági megállapodások és a feszültség mérséklése szerepelhet.\n\n• **Jean-Noël Barrot** francia külügyminiszter közölte, hogy Franciaország részt vesz a találkozón, és az európai országok képviselete is biztosított lesz. A francia delegáció összetételét nem ismertette; azt viszont jelezte, hogy Párizs az európai álláspont megjelenítésére törekszik. Barrot szerint a korábbi egyeztetések formátuma változó volt, ezúttal azonban európai résztvevőkkel számolnak.\n\n• **Volodimir Zelenszkij** ukrán elnök korábban az európai szövetségesek bevonását szorgalmazta. Oroszország ezzel szemben azt jelezte, hogy nem tartaná kívánatosnak az európai képviselők jelenlétét a tárgyalóasztalnál.\n\n• **Donald Trump nyilatkozata** a találkozó előtt aggodalmat keltett az Egyesült Államok Oroszországhoz való közeledésével kapcsolatban: az amerikai elnök egy Moszkvával kötendő, jelentős megállapodást említett, amely az ukrajnai háborún túl Európa egészét is érintheti. Steve Witkoff különmegbízott korábban azt mondta, Washington hozza össze az ukrán és az orosz küldöttséget.\n\n• **Maria Zaharova** orosz külügyi szóvivő azzal vádolta a nyugati országokat, hogy nem veszik figyelembe Oroszország biztonsági aggályait. Franciaországot és az Egyesült Királyságot is bírálta egy lehetséges ukrajnai nemzetközi katonai jelenlét támogatása miatt. A 37 országot tömörítő Akarat Koalíció november 9–22. között Nowa Dębában tart gyakorlatot egy lehetséges stabilizációs misszió előkészítésére.",
+    "title_ro": "Franța și europenii vor participa la discuțiile planificate la Abu Dhabi",
+    "lead_ro": "Ministrul francez de externe, Jean-Noël Barrot, a confirmat că Franța va fi reprezentată la reuniunea programată în 10 și 11 noiembrie la Abu Dhabi, iar și alte state europene vor avea participanți. Întâlnirea, mediată de Statele Unite, ar urma să abordeze încheierea războiului și securitatea de după conflict; numele delegaților nu sunt cunoscute deocamdată.",
+    "content_ro": "• **10–11 noiembrie, Abu Dhabi**: oficiali din Rusia, Ucraina și Statele Unite sunt așteptați la discuții facilitate de Washington. Reuniunea este planificată la nivel de oficiali, nu de lideri, iar componența delegațiilor nu a fost făcută publică. Agenda ar putea include oprirea războiului, aranjamentele de securitate pentru perioada de după conflict și reducerea tensiunilor.\n\n• **Jean-Noël Barrot** a anunțat că Franța va lua parte la întâlnire și că statele europene vor avea reprezentare. Ministrul nu a precizat cine va alcătui delegația franceză, dar a indicat că Parisul dorește ca poziția europeană să fie exprimată. El a arătat că la discuțiile anterioare participarea europenilor a variat, în timp ce la reuniunea de la Abu Dhabi aceștia vor fi prezenți.\n\n• **Volodimir Zelenski** a cerut anterior implicarea aliaților europeni în procesul de negociere. Rusia a transmis, în schimb, că nu consideră potrivită prezența reprezentanților europeni la masa discuțiilor.\n\n• **Declarația lui Donald Trump** a alimentat temerile privind o apropiere a Washingtonului de Moscova: președintele american a menționat un acord important cu Rusia, cu posibile implicații pentru întreaga Europă, nu doar pentru războiul din Ucraina. Emisarul Steve Witkoff anunțase că Statele Unite vor reuni delegațiile rusă și ucraineană.\n\n• **Maria Zaharova**, purtătoarea de cuvânt a diplomației ruse, a acuzat statele occidentale că ignoră preocupările de securitate ale Moscovei. Ea a criticat Franța și Regatul Unit în legătură cu posibila desfășurare a unei forțe internaționale în Ucraina. Coaliția Voinței, alcătuită din 37 de state, organizează între 9 și 22 noiembrie exerciții la Nowa Dęba, în pregătirea unei posibile misiuni de stabilizare.",
+    "importance_score": 55.0
   },
   {
     "group_id": "group_54d01293e4",
