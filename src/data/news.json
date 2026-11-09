@@ -1211,7 +1211,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 9,
+    "sources_count": 10,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -1257,6 +1257,11 @@
         "source": "Digi24",
         "title": "Unitatea 1 de la Cernavodă s-a oprit din nou, la doar câteva zile după reconectarea la sistemul energetic",
         "link": "https://www.digi24.ro/stiri/economie/energie/unitatea-1-de-la-cernavoda-s-a-oprit-din-nou-la-doar-cateva-zile-dupa-reconectarea-la-sistemul-energetic-4028649"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING Ambele reactoare de la Cernavodă s-au oprit neplanificat / Nuclearelectrica anunță schimbarea directorului tehnic",
+        "link": "https://www.g4media.ro/breaking-ambele-reactoare-de-la-cernavoda-s-au-oprit-neplanificat-nuclearelectrica-anunta-schimbarea-directorului-tehnic.html"
       }
     ],
     "published_at": 1794246583,
@@ -1266,7 +1271,71 @@
     "title_ro": "Reactorul 2 de la Cernavodă ar putea fi reconectat marți",
     "lead_ro": "Nuclearelectrica a început luni, 9 noiembrie, la ora 00:42, procedurile de repornire a reactorului 2. Reconectarea la rețea este prevăzută marți, iar atingerea puterii nominale, miercuri; debitul Dunării a crescut, dar rămâne mult sub media lunii noiembrie.",
     "content_ro": "• **Marți, 10 noiembrie,** reactorul 2 de la Cernavodă ar urma să fie reconectat la sistemul energetic, după ce Nuclearelectrica a inițiat procedurile luni, la ora 00:42. Unitatea ar putea ajunge la puterea nominală miercuri, iar din 11 noiembrie centrala ar urma să aibă ambele reactoare în funcțiune.\n\n• **Creșterea nivelului apei** a permis reluarea în siguranță a operațiunilor pentru reactorul 2. Debitul Dunării ar putea urca în perioada următoare spre 1.800 de metri cubi pe secundă, apoi ar putea coborî la circa 1.700; media multianuală din noiembrie este de 4.700 de metri cubi pe secundă.\n\n• **Opririle din vară** au avut loc la date diferite: reactorul 1 a fost scos din funcțiune pe 28 iulie, iar reactorul 2 pe 13 august. Autoritatea de control nuclear a precizat că măsura preventivă nu a produs efecte radiologice asupra populației sau mediului. Pentru susținerea debitului necesar au fost făcute lucrări de dragare pe Dunăre și au fost eliberate cantități suplimentare de apă din acumulările de pe Olt.\n\n• **Unitatea 1** a fost reconectată la rețeaua națională pe 6 noiembrie și producea luni dimineață 520 MW, dintr-o capacitate nominală de 700 MW. În acel moment, centrala furniza peste 3% din producția totală de energie; când funcționează ambele unități, poate acoperi aproximativ o cincime din necesarul României.\n\n• **Cele trei luni de oprire totală** au generat pierderi de un miliard de lei pentru Nuclearelectrica, potrivit premierului Luca Niculescu. Revenirea ambelor reactoare poate diminua importurile și presiunea asupra sistemului energetic, mai ales în intervalele cu consum ridicat.",
-    "importance_score": 105.0
+    "importance_score": 115.0
+  },
+  {
+    "group_id": "group_c34f9918bd",
+    "fingerprint": "55220225ffd0e5e114fa18807c5a3039",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "UPDATE Unitatea 2 a Centralei de la Cernavodă a intrat în secvența de pornire. Intrarea în funcțiune este estimată marți",
+        "link": "https://www.mediafax.ro/economic/unitatea-2-a-centralei-de-la-cernavoda-a-intrat-in-secventa-de-pornire-intrarea-in-functiune-este-estimata-marti-23840010"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Intrarea în funcțiune a Unității 2 a Centralei de la Cernavodă este estimată pentru marți",
+        "link": "https://agerpres.ro/economic/2026/11/09/intrarea-in-functiune-a-unitatii-2-a-centralei-de-la-cernavoda-este-estimata-pentru-marti--1611332"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Unitatea 2 a Centralei Nucleare de la Cernavodă a intrat în secvența de pornire. Reluarea funcționării este estimată pentru marți",
+        "link": "https://adevarul.ro/economie/unitatea-2-a-centralei-nucleare-de-la-cernavoda-a-2569961.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Director Nuclearelectrica: De miercuri, CNE Cernavodă va opera ambele unități nucleare",
+        "link": "https://www.mediafax.ro/economic/director-nuclearelectrica-de-miercuri-cne-cernavoda-va-opera-ambele-unitati-nucleare-23840083"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Centrala de la Cernavodă va opera ambele unități începând de miercuri, permițând reasigurarea a aproximativ 20% din necesarul de energie (Nuclearelect...",
+        "link": "https://agerpres.ro/economic/2026/11/09/centrala-de-la-cernavoda-va-opera-ambele-unitati-incepand-de-miercuri-permitand-reasigurarea-a-aprox--1611390"
+      },
+      {
+        "source": "Kolozsvári Rádió (HU)",
+        "title": "Visszakapcsolták az atomerőművet, de hogyan tovább?",
+        "link": "https://www.kolozsvariradio.ro/2026/11/09/visszakapcsoltak-az-atomeromuvet-de-hogyan-tovabb/"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Șoc în sistemul energetic: Reactorul 1 de la Cernavodă a fost oprit din nou la doar câteva zile de la repornire. Nuclearelectrica: „Directorul Tehnic al CNE va fi înlocuit”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/breaking-news-reactorul-1-de-la-cernavoda-a-fost-2570187.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Reactorul 1 de la Cernavodă s-a stricat „în partea clasică” după doar trei zile de la repornire. Anunțul Nuclearelectrica",
+        "link": "https://stirileprotv.ro/stiri/financiar/reactorul-1-de-la-cernavoda-s-a-stricat-in-partea-clasica-dupa-doar-trei-zile-de-la-repornire-anuntul-nuclearelectrica.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Reactorul 1 de la Cernavodă a fost oprit din nou, la doar trei zile de la repornire. Directorul tehnic va fi înlocuit",
+        "link": "https://hotnews.ro/reactorul-1-de-la-cernavoda-a-fost-oprit-din-nou-la-doar-trei-zile-de-la-repornire-directorul-tehnic-va-fi-inlocuit-2399431"
+      }
+    ],
+    "published_at": 1794231608,
+    "title_hu": "November 11-től ismét mindkét blokk üzemelhet Cernavodán",
+    "lead_hu": "A 2-es blokk újraindítását a Duna vízszintjének emelkedése tette lehetővé, a folyamat november 9-én kezdődött. A hálózati szinkronizálást november 10-re, a névleges teljesítmény elérését másnapra várják; ekkortól mindkét reaktor működhet.",
+    "content_hu": "• **November 9., 00:42** – megkezdődött a Cernavodăi Atomerőmű 2-es blokkjának indítási folyamata. Az energiaügyi minisztérium a blokk üzembe lépését november 10-re jelezte előre.\n\n• **A Duna vízszintje már lehetővé teszi az újraindítást:** a Nuclearelectrica hétfőn kezdte el a szükséges műveleteket, miután a folyó vízhozama elérte a biztonságos működéshez szükséges szintet. A 2-es blokk hálózati szinkronizálása november 10-re várható, névleges teljesítményét pedig november 11-én érheti el.\n\n• **November 11-től mindkét reaktor működhet** – közölte Mihai Gioară, a Nuclearelectrica vezérigazgatója. Becslése szerint a két blokk együtt a romániai energiaigény megközelítőleg 20 százalékát fedezheti.\n\n• **Az újraindítás biztonsági eljárások szerint zajlik:** a 2-es blokk indítását és hálózatra kapcsolását az erőmű előírásai alapján, a nukleáris biztonság szem előtt tartásával végzik. A két reaktor egyenként mintegy 700 megawatt beépített kapacitású.\n\n• **A leállást az alacsony dunai vízhozam előzte meg:** az 1-es blokk július 28-án állt le, az erőmű teljes termelése augusztus 13-án szűnt meg; az 1-es reaktor november 6-án tért vissza a hálózatra. Hétfőn 11:20-kor Románia 5877 megawattot termelt, miközben a fogyasztás 6222 megawatt volt.",
+    "title_ro": "Centrala de la Cernavodă ar putea funcționa din nou cu ambele unități din 11 noiembrie",
+    "lead_ro": "Creșterea nivelului Dunării a permis începerea repornirii Unității 2, la 9 noiembrie. Sincronizarea cu rețeaua este estimată pentru 10 noiembrie, iar atingerea puterii nominale pentru ziua următoare; atunci ar urma să funcționeze ambele reactoare.",
+    "content_ro": "• **9 noiembrie, ora 00:42** – a început succesiunea operațiunilor pentru repornirea Unității 2 de la Cernavodă. Ministerul Energiei a indicat că intrarea în funcțiune este prevăzută pentru 10 noiembrie.\n\n• **Nivelul Dunării permite reluarea operațiunilor:** Nuclearelectrica a început manevrele luni, după ce debitul râului a ajuns la nivelul necesar unei reporniri în siguranță. Sincronizarea Unității 2 cu rețeaua este estimată pentru 10 noiembrie, iar atingerea puterii nominale, pentru 11 noiembrie.\n\n• **Ambele unități ar putea funcționa din 11 noiembrie**, a transmis Mihai Gioară, directorul general al Nuclearelectrica. Potrivit estimării sale, centrala ar putea acoperi aproximativ 20% din necesarul de energie al României.\n\n• **Repornirea se desfășoară în condiții de securitate nucleară:** manevrele pentru pornirea și conectarea Unității 2 la rețea urmează procedurile centralei. Fiecare dintre cele două reactoare are o capacitate instalată de aproximativ 700 MW.\n\n• **Oprirea a fost legată de debitul redus al Dunării:** Unitatea 1 a fost oprită la 28 iulie, iar întreaga centrală a încetat să producă pentru rețea la 13 august. Reactorul 1 a fost reconectat pe 6 noiembrie. Luni, la ora 11:20, România producea 5.877 MW, față de un consum de 6.222 MW.",
+    "importance_score": 98.0
   },
   {
     "group_id": "group_6e42a30a7b",
@@ -1439,65 +1508,6 @@
     "lead_ro": "Donald Trump a declarat la CBS că un acord de pace ar putea fi încheiat curând și a admis că întinderea teritoriului ucrainean s-ar putea modifica după război. Înaintea discuțiilor mediate de SUA, programate la Abu Dhabi pentru 10 și 11 noiembrie, Dmitri Peskov a susținut că situația geografică a Ucrainei diferă deja de cea din 2022; revendicările teritoriale și garanțiile de securitate rămân subiecte de dispută.",
     "content_ro": "• **Așteptările lui Trump** În emisiunea 60 Minutes de la CBS, președintele american a afirmat că un acord pentru oprirea războiului ar putea fi obținut în curând. El a sugerat totodată că limitele teritoriale ale Ucrainei s-ar putea schimba după conflict, fără să indice regiuni sau condiții convenite.\n\n• **Discuțiile din 10 și 11 noiembrie, la Abu Dhabi** sunt planificate ca negocieri ruso-ucrainene cu mediere americană. Steve Witkoff și Jared Kushner ar urma să reprezinte partea SUA; printre temele posibile se numără încetarea focului, reducerea tensiunilor și garanțiile de securitate ulterioare.\n\n• **Reacția lui Dmitri Peskov** a venit luni, înaintea negocierilor. Purtătorul de cuvânt al Kremlinului a afirmat că Ucraina este deja diferită geografic față de situația din 2022 și a invocat schimbările de pe teren. Declarațiile lui Trump deveniseră publice cu o zi înaintea întâlnirii.\n\n• **Revendi­cările teritoriale ale Moscovei** vizează cinci teritorii: Crimeea, anexată în 2014, și regiunile Donețk, Lugansk, Herson și Zaporojie. Rusia cere recunoașterea lor internațională, în special din partea Kievului; pentru cele patru regiuni, Moscova revendică limitele administrative din 1991, deși nu le controlează integral.\n\n• **Obstacolele unei înțelegeri** includ, potrivit lui Trump, ostilitatea dintre Zelenski și Putin. El a spus că are relații bune cu ambii lideri și nu dorește să aleagă o tabără, reluând și afirmația că invazia nu ar fi început dacă ar fi fost președinte. Kievul respinge cedarea teritoriilor și cere încetarea focului înaintea unui acord mai amplu.",
     "importance_score": 90.0
-  },
-  {
-    "group_id": "group_c34f9918bd",
-    "fingerprint": "55220225ffd0e5e114fa18807c5a3039",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "UPDATE Unitatea 2 a Centralei de la Cernavodă a intrat în secvența de pornire. Intrarea în funcțiune este estimată marți",
-        "link": "https://www.mediafax.ro/economic/unitatea-2-a-centralei-de-la-cernavoda-a-intrat-in-secventa-de-pornire-intrarea-in-functiune-este-estimata-marti-23840010"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Intrarea în funcțiune a Unității 2 a Centralei de la Cernavodă este estimată pentru marți",
-        "link": "https://agerpres.ro/economic/2026/11/09/intrarea-in-functiune-a-unitatii-2-a-centralei-de-la-cernavoda-este-estimata-pentru-marti--1611332"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Unitatea 2 a Centralei Nucleare de la Cernavodă a intrat în secvența de pornire. Reluarea funcționării este estimată pentru marți",
-        "link": "https://adevarul.ro/economie/unitatea-2-a-centralei-nucleare-de-la-cernavoda-a-2569961.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Director Nuclearelectrica: De miercuri, CNE Cernavodă va opera ambele unități nucleare",
-        "link": "https://www.mediafax.ro/economic/director-nuclearelectrica-de-miercuri-cne-cernavoda-va-opera-ambele-unitati-nucleare-23840083"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Centrala de la Cernavodă va opera ambele unități începând de miercuri, permițând reasigurarea a aproximativ 20% din necesarul de energie (Nuclearelect...",
-        "link": "https://agerpres.ro/economic/2026/11/09/centrala-de-la-cernavoda-va-opera-ambele-unitati-incepand-de-miercuri-permitand-reasigurarea-a-aprox--1611390"
-      },
-      {
-        "source": "Kolozsvári Rádió (HU)",
-        "title": "Visszakapcsolták az atomerőművet, de hogyan tovább?",
-        "link": "https://www.kolozsvariradio.ro/2026/11/09/visszakapcsoltak-az-atomeromuvet-de-hogyan-tovabb/"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Șoc în sistemul energetic: Reactorul 1 de la Cernavodă a fost oprit din nou la doar câteva zile de la repornire. Nuclearelectrica: „Directorul Tehnic al CNE va fi înlocuit”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/breaking-news-reactorul-1-de-la-cernavoda-a-fost-2570187.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Reactorul 1 de la Cernavodă s-a stricat „în partea clasică” după doar trei zile de la repornire. Anunțul Nuclearelectrica",
-        "link": "https://stirileprotv.ro/stiri/financiar/reactorul-1-de-la-cernavoda-s-a-stricat-in-partea-clasica-dupa-doar-trei-zile-de-la-repornire-anuntul-nuclearelectrica.html"
-      }
-    ],
-    "published_at": 1794231608,
-    "title_hu": "November 11-től ismét mindkét blokk üzemelhet Cernavodán",
-    "lead_hu": "A 2-es blokk újraindítását a Duna vízszintjének emelkedése tette lehetővé, a folyamat november 9-én kezdődött. A hálózati szinkronizálást november 10-re, a névleges teljesítmény elérését másnapra várják; ekkortól mindkét reaktor működhet.",
-    "content_hu": "• **November 9., 00:42** – megkezdődött a Cernavodăi Atomerőmű 2-es blokkjának indítási folyamata. Az energiaügyi minisztérium a blokk üzembe lépését november 10-re jelezte előre.\n\n• **A Duna vízszintje már lehetővé teszi az újraindítást:** a Nuclearelectrica hétfőn kezdte el a szükséges műveleteket, miután a folyó vízhozama elérte a biztonságos működéshez szükséges szintet. A 2-es blokk hálózati szinkronizálása november 10-re várható, névleges teljesítményét pedig november 11-én érheti el.\n\n• **November 11-től mindkét reaktor működhet** – közölte Mihai Gioară, a Nuclearelectrica vezérigazgatója. Becslése szerint a két blokk együtt a romániai energiaigény megközelítőleg 20 százalékát fedezheti.\n\n• **Az újraindítás biztonsági eljárások szerint zajlik:** a 2-es blokk indítását és hálózatra kapcsolását az erőmű előírásai alapján, a nukleáris biztonság szem előtt tartásával végzik. A két reaktor egyenként mintegy 700 megawatt beépített kapacitású.\n\n• **A leállást az alacsony dunai vízhozam előzte meg:** az 1-es blokk július 28-án állt le, az erőmű teljes termelése augusztus 13-án szűnt meg; az 1-es reaktor november 6-án tért vissza a hálózatra. Hétfőn 11:20-kor Románia 5877 megawattot termelt, miközben a fogyasztás 6222 megawatt volt.",
-    "title_ro": "Centrala de la Cernavodă ar putea funcționa din nou cu ambele unități din 11 noiembrie",
-    "lead_ro": "Creșterea nivelului Dunării a permis începerea repornirii Unității 2, la 9 noiembrie. Sincronizarea cu rețeaua este estimată pentru 10 noiembrie, iar atingerea puterii nominale pentru ziua următoare; atunci ar urma să funcționeze ambele reactoare.",
-    "content_ro": "• **9 noiembrie, ora 00:42** – a început succesiunea operațiunilor pentru repornirea Unității 2 de la Cernavodă. Ministerul Energiei a indicat că intrarea în funcțiune este prevăzută pentru 10 noiembrie.\n\n• **Nivelul Dunării permite reluarea operațiunilor:** Nuclearelectrica a început manevrele luni, după ce debitul râului a ajuns la nivelul necesar unei reporniri în siguranță. Sincronizarea Unității 2 cu rețeaua este estimată pentru 10 noiembrie, iar atingerea puterii nominale, pentru 11 noiembrie.\n\n• **Ambele unități ar putea funcționa din 11 noiembrie**, a transmis Mihai Gioară, directorul general al Nuclearelectrica. Potrivit estimării sale, centrala ar putea acoperi aproximativ 20% din necesarul de energie al României.\n\n• **Repornirea se desfășoară în condiții de securitate nucleară:** manevrele pentru pornirea și conectarea Unității 2 la rețea urmează procedurile centralei. Fiecare dintre cele două reactoare are o capacitate instalată de aproximativ 700 MW.\n\n• **Oprirea a fost legată de debitul redus al Dunării:** Unitatea 1 a fost oprită la 28 iulie, iar întreaga centrală a încetat să producă pentru rețea la 13 august. Reactorul 1 a fost reconectat pe 6 noiembrie. Luni, la ora 11:20, România producea 5.877 MW, față de un consum de 6.222 MW.",
-    "importance_score": 88.0
   },
   {
     "group_id": "group_0d6676db9c",
@@ -2421,50 +2431,6 @@
     "importance_score": 58.0
   },
   {
-    "group_id": "group_ca57ebac7c",
-    "fingerprint": "ba89134008fe9de50dcebd819fbd10df",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„Nu voi trebuie să învățați să trăiți cu violența”. Luca Niculescu anunță 57 de măsuri împotriva abuzurilor asupra copiilor",
-        "link": "https://www.mediafax.ro/politic/nu-voi-trebuie-sa-invatati-sa-traiti-cu-violenta-luca-niculescu-anunta-57-de-masuri-impotriva-abuzurilor-asupra-copiilor-23840059"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Luca Niculescu: Peste un milion de copii din România s-au confruntat cu cel puţin o formă de violenţă de-a lungul vieţii",
-        "link": "https://stirileprotv.ro/luca-niculescu-peste-un-milion-de-copii-din-romania-s-au-confruntat-cu-cel-putin-o-forma-de-violenta-de-a-lungul-vietii.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Peste un milion de copii din România au fost victimele violenței. Avertismentul premierului Luca Niculescu",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/peste-un-milion-de-copii-din-romania-au-fost-victimele-violentei-avertismentul-premierului-luca-niculescu-4027461"
-      },
-      {
-        "source": "Digi24",
-        "title": "Studiu. Peste 600.000 de copii din România, supuși violenței doar în ultimul an: „Îmi dădeau câte o palmă peste cap când comentam”",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/studiu-peste-600-000-de-copii-din-romania-supusi-violentei-doar-in-ultimul-an-imi-dadeau-cate-o-palma-peste-cap-cand-comentam-4027937"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "România pregătește un plan cu 57 de măsuri pentru protejarea copiilor. Peste 20.000 de cazuri de abuz au fost raportate anul trecut",
-        "link": "https://stirileprotv.ro/stiri/actualitate/romania-pregateste-un-plan-cu-57-de-masuri-pentru-protejarea-copiilor-peste-20-000-de-cazuri-de-abuz-au-fost-raportate-anul-trecut.html"
-      }
-    ],
-    "published_at": 1794227452,
-    "title_hu": "57 intézkedéssel lépnének fel a gyermekek elleni erőszakkal szemben",
-    "lead_hu": "Luca Niculescu miniszterelnök egy gyermekvédelmi projekt lezárásakor ismertette az 57 tervezett intézkedést. Egy felmérés szerint Romániában több mint egymillió gyermek tapasztalt már erőszakot, a kockázatok pedig többek között a családi körülményekkel és a gyermek életkorával is összefüggnek.",
-    "content_hu": "• **Az 57 intézkedésről szóló projekt lezárásán** Luca Niculescu miniszterelnök a gyermekek elleni erőszak visszaszorítását célzó kezdeményezésről beszélt. A program lengyel partnerekkel, az Európai Bizottsággal és az UNICEF-fel együttműködésben készült; a részletes intézkedési lista a közlésben nem szerepelt.\n\n• **A hivatalos esetek száma meghaladta a húszezret:** a gyermekvédelmi igazgatóságok tavaly ennyi bántalmazási, elhanyagolási és kizsákmányolási ügyet vettek nyilvántartásba. Niculescu szerint sok eset nem jut el a hatóságokig, ezért a regisztrált adatok nem mutatják meg a probléma teljes kiterjedését.\n\n• **A felmérés egymilliónál több érintett gyermeket becsül:** a romániai gyermekek több mint 28 százaléka élete során legalább egyszer szembesült fizikai vagy lelki erőszakkal, elhanyagolással vagy szexuális erőszakkal. Mintegy 600 ezren az adatfelvételt megelőző 12 hónapban éltek át erőszakot.\n\n• **A kockázatok az életkorral és a családi helyzettel is változnak:** a fiúk valamivel gyakrabban érintettek, és az erőszakos esetek gyakoribbá válnak, ahogy a gyermekek idősebbek lesznek. A legtöbb esemény az iskolában, illetve a tágabb közösségben történik; ezek után következik az otthoni környezet.\n\n• **Bizonyos családi nehézségek fokozott veszélyt jelezhetnek:** a mentális egészségi problémákkal, függőségekkel vagy párkapcsolati erőszakkal küzdő háztartásokban nagyobb lehet a gyermekek kitettsége. Niculescu a korai beavatkozást sürgette, és a hatóságok közti információmegosztás, valamint az időben érkező segítség hiányosságaira is rámutatott.",
-    "title_ro": "57 de măsuri propuse pentru combaterea violenței împotriva copiilor",
-    "lead_ro": "Premierul Luca Niculescu a prezentat, la încheierea unui proiect dedicat protecției copiilor, inițiativa care cuprinde 57 de măsuri. Un studiu estimează că peste un milion de copii din România au trecut prin forme de violență, iar riscurile sunt asociate și cu vârsta și mediul familial.",
-    "content_ro": "• **La încheierea proiectului care include 57 de măsuri**, premierul Luca Niculescu a vorbit despre inițiativa de combatere a violenței împotriva copiilor. Programul a fost derulat împreună cu parteneri din Polonia, Comisia Europeană și UNICEF; prezentarea nu a enumerat măsurile în detaliu.\n\n• **Autoritățile au înregistrat peste 20.000 de cazuri:** anul trecut, direcțiile de protecție a copilului au consemnat situații de abuz, neglijare și exploatare. Niculescu a avertizat că o parte dintre incidente nu ajung la instituțiile competente, astfel că evidențele oficiale nu surprind întreaga amploare a fenomenului.\n\n• **Studiul estimează că peste un milion de copii au fost afectați:** mai mult de 28% dintre copiii din România au întâlnit cel puțin o dată în viață violență fizică ori psihologică, neglijare sau violență sexuală. Aproximativ 600.000 au trecut printr-o asemenea experiență în cele 12 luni anterioare cercetării.\n\n• **Expunerea diferă în funcție de vârstă și context:** băieții sunt ușor mai vulnerabili decât fetele, iar frecvența incidentelor crește pe măsură ce copiii înaintează în vârstă. Cele mai multe cazuri se petrec la școală și în comunitate, urmate de cele din familie.\n\n• **Unele probleme din gospodărie sunt asociate cu riscuri mai mari:** dificultățile de sănătate mintală, dependențele și violența în cuplu pot contribui la vulnerabilitatea copiilor. Premierul a susținut intervenția timpurie și a semnalat probleme precum cooperarea insuficientă între instituții și întârzierile în acordarea ajutorului.",
-    "importance_score": 58.0
-  },
-  {
     "group_id": "group_7889a2c6c0",
     "fingerprint": "baccd3a8a9f9d8a7b2852ae2b6b942ce",
     "category": "Általános",
@@ -2580,6 +2546,50 @@
     "lead_ro": "PSD analizează reorganizarea comunelor cu mai puțin de 3.000 de locuitori și a orașelor care au coborât sub 10.000 de locuitori. Potrivit estimării lui Dragoș Benea, reforma ar putea elimina 15.000–18.000 de funcții elective locale începând din 2028 și ar reduce unele cheltuieli de administrare.",
     "content_ro": "• **După reuniunea de luni a PSD**, vicepreședintele Dragoș Benea a prezentat mai multe variante pentru reorganizarea localităților mici. Partidul nu dorește să limiteze schimbarea la fuziuni voluntare și cere ca guvernul să își asume răspunderea în Parlament pentru propunerea sa.\n\n• **Comunele cu mai puțin de 3.000 de locuitori** ar putea fi reunite; Benea a indicat că aproximativ 1.700 de unități administrative se încadrează în această categorie. Pentru calcularea populației ar urma să fie folosite cele mai recente date anuale ale INS privind rezidenții, nu rezultatele recensământului.\n\n• **Orașele care au ajuns sub pragul de 10.000 de locuitori** ar putea fi comasate cu alte localități sau reclasificate drept comune. Benea a afirmat că peste 55% dintre orașe nu mai ating limita prevăzută de lege. Ca exemplu, el a menționat posibilitatea ca Slănic Moldova și Târgu-Ocna să formeze o singură unitate urbană.\n\n• **Cele șase criterii de evaluare** propuse sunt populația și demografia, viabilitatea economică, capacitatea administrativă, conectivitatea, accesibilitatea și serviciile publice locale. PSD ar folosi acești indicatori pentru a aprecia dacă administrațiile locale pot funcționa sustenabil.\n\n• **Efectele estimate ale reformei** ar include, din 2028, dispariția a 15.000–18.000 de funcții de primar, viceprimar și consilier local, precum și diminuarea cheltuielilor de funcționare și întreținere. Benea a recunoscut că schimbarea ar putea avea un cost politic pentru partide, pe care PSD este dispus să și-l asume. Primarii care refuză fuziunea voluntară nu ar fi sancționați, însă locuitorii comunităților respective ar putea suporta consecințele menținerii situației actuale.",
     "importance_score": 55.0
+  },
+  {
+    "group_id": "group_ca57ebac7c",
+    "fingerprint": "ba89134008fe9de50dcebd819fbd10df",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Nu voi trebuie să învățați să trăiți cu violența”. Luca Niculescu anunță 57 de măsuri împotriva abuzurilor asupra copiilor",
+        "link": "https://www.mediafax.ro/politic/nu-voi-trebuie-sa-invatati-sa-traiti-cu-violenta-luca-niculescu-anunta-57-de-masuri-impotriva-abuzurilor-asupra-copiilor-23840059"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Luca Niculescu: Peste un milion de copii din România s-au confruntat cu cel puţin o formă de violenţă de-a lungul vieţii",
+        "link": "https://stirileprotv.ro/luca-niculescu-peste-un-milion-de-copii-din-romania-s-au-confruntat-cu-cel-putin-o-forma-de-violenta-de-a-lungul-vietii.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Peste un milion de copii din România au fost victimele violenței. Avertismentul premierului Luca Niculescu",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/peste-un-milion-de-copii-din-romania-au-fost-victimele-violentei-avertismentul-premierului-luca-niculescu-4027461"
+      },
+      {
+        "source": "Digi24",
+        "title": "Studiu. Peste 600.000 de copii din România, supuși violenței doar în ultimul an: „Îmi dădeau câte o palmă peste cap când comentam”",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/studiu-peste-600-000-de-copii-din-romania-supusi-violentei-doar-in-ultimul-an-imi-dadeau-cate-o-palma-peste-cap-cand-comentam-4027937"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "România pregătește un plan cu 57 de măsuri pentru protejarea copiilor. Peste 20.000 de cazuri de abuz au fost raportate anul trecut",
+        "link": "https://stirileprotv.ro/stiri/actualitate/romania-pregateste-un-plan-cu-57-de-masuri-pentru-protejarea-copiilor-peste-20-000-de-cazuri-de-abuz-au-fost-raportate-anul-trecut.html"
+      }
+    ],
+    "published_at": 1794227452,
+    "title_hu": "57 intézkedéssel lépnének fel a gyermekek elleni erőszakkal szemben",
+    "lead_hu": "Luca Niculescu miniszterelnök egy gyermekvédelmi projekt lezárásakor ismertette az 57 tervezett intézkedést. Egy felmérés szerint Romániában több mint egymillió gyermek tapasztalt már erőszakot, a kockázatok pedig többek között a családi körülményekkel és a gyermek életkorával is összefüggnek.",
+    "content_hu": "• **Az 57 intézkedésről szóló projekt lezárásán** Luca Niculescu miniszterelnök a gyermekek elleni erőszak visszaszorítását célzó kezdeményezésről beszélt. A program lengyel partnerekkel, az Európai Bizottsággal és az UNICEF-fel együttműködésben készült; a részletes intézkedési lista a közlésben nem szerepelt.\n\n• **A hivatalos esetek száma meghaladta a húszezret:** a gyermekvédelmi igazgatóságok tavaly ennyi bántalmazási, elhanyagolási és kizsákmányolási ügyet vettek nyilvántartásba. Niculescu szerint sok eset nem jut el a hatóságokig, ezért a regisztrált adatok nem mutatják meg a probléma teljes kiterjedését.\n\n• **A felmérés egymilliónál több érintett gyermeket becsül:** a romániai gyermekek több mint 28 százaléka élete során legalább egyszer szembesült fizikai vagy lelki erőszakkal, elhanyagolással vagy szexuális erőszakkal. Mintegy 600 ezren az adatfelvételt megelőző 12 hónapban éltek át erőszakot.\n\n• **A kockázatok az életkorral és a családi helyzettel is változnak:** a fiúk valamivel gyakrabban érintettek, és az erőszakos esetek gyakoribbá válnak, ahogy a gyermekek idősebbek lesznek. A legtöbb esemény az iskolában, illetve a tágabb közösségben történik; ezek után következik az otthoni környezet.\n\n• **Bizonyos családi nehézségek fokozott veszélyt jelezhetnek:** a mentális egészségi problémákkal, függőségekkel vagy párkapcsolati erőszakkal küzdő háztartásokban nagyobb lehet a gyermekek kitettsége. Niculescu a korai beavatkozást sürgette, és a hatóságok közti információmegosztás, valamint az időben érkező segítség hiányosságaira is rámutatott.",
+    "title_ro": "57 de măsuri propuse pentru combaterea violenței împotriva copiilor",
+    "lead_ro": "Premierul Luca Niculescu a prezentat, la încheierea unui proiect dedicat protecției copiilor, inițiativa care cuprinde 57 de măsuri. Un studiu estimează că peste un milion de copii din România au trecut prin forme de violență, iar riscurile sunt asociate și cu vârsta și mediul familial.",
+    "content_ro": "• **La încheierea proiectului care include 57 de măsuri**, premierul Luca Niculescu a vorbit despre inițiativa de combatere a violenței împotriva copiilor. Programul a fost derulat împreună cu parteneri din Polonia, Comisia Europeană și UNICEF; prezentarea nu a enumerat măsurile în detaliu.\n\n• **Autoritățile au înregistrat peste 20.000 de cazuri:** anul trecut, direcțiile de protecție a copilului au consemnat situații de abuz, neglijare și exploatare. Niculescu a avertizat că o parte dintre incidente nu ajung la instituțiile competente, astfel că evidențele oficiale nu surprind întreaga amploare a fenomenului.\n\n• **Studiul estimează că peste un milion de copii au fost afectați:** mai mult de 28% dintre copiii din România au întâlnit cel puțin o dată în viață violență fizică ori psihologică, neglijare sau violență sexuală. Aproximativ 600.000 au trecut printr-o asemenea experiență în cele 12 luni anterioare cercetării.\n\n• **Expunerea diferă în funcție de vârstă și context:** băieții sunt ușor mai vulnerabili decât fetele, iar frecvența incidentelor crește pe măsură ce copiii înaintează în vârstă. Cele mai multe cazuri se petrec la școală și în comunitate, urmate de cele din familie.\n\n• **Unele probleme din gospodărie sunt asociate cu riscuri mai mari:** dificultățile de sănătate mintală, dependențele și violența în cuplu pot contribui la vulnerabilitatea copiilor. Premierul a susținut intervenția timpurie și a semnalat probleme precum cooperarea insuficientă între instituții și întârzierile în acordarea ajutorului.",
+    "importance_score": 53.0
   },
   {
     "group_id": "group_d995461ad8",
@@ -4405,6 +4415,33 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_42cc4f371b",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ninge în zona montană Rânca. Drumarii au intervenit cu utilaje și material antiderapant",
+        "link": "https://www.digi24.ro/stiri/actualitate/ninge-in-zona-montana-ranca-drumarii-au-intervenit-cu-utilaje-si-material-antiderapant-4028565"
+      },
+      {
+        "source": "Adevărul",
+        "title": "A venit iarna la munte. Ninge la Rânca, iar drumarii au intervenit cu utilaje de deszăpezire",
+        "link": "https://adevarul.ro/stiri-locale/craiova/a-venit-iarna-la-munte-ninge-la-ranca-iar-2570185.html"
+      }
+    ],
+    "published_at": 1794244352,
+    "title_hu": "Ninge în zona montană Rânca. Drumarii au intervenit cu utilaje și material antiderapant",
+    "lead_hu": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de sig…",
+    "content_hu": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de siguranță. Reprezentanții Direcției Regionale de Drumuri și Poduri Craiova le recomandă șoferilor să nu circule pe drumurile afectate de ninsoare dacă autovehiculele nu sunt echipate corespunzător pentru sezonul rece.",
+    "title_ro": "Ninge în zona montană Rânca. Drumarii au intervenit cu utilaje și material antiderapant",
+    "lead_ro": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de sig…",
+    "content_ro": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de siguranță. Reprezentanții Direcției Regionale de Drumuri și Poduri Craiova le recomandă șoferilor să nu circule pe drumurile afectate de ninsoare dacă autovehiculele nu sunt echipate corespunzător pentru sezonul rece.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_e1e4664b74",
     "fingerprint": "5a99d250c56b5f262a8a8cb17f08b4a7",
     "category": "Általános",
@@ -4489,6 +4526,33 @@
     "title_ro": "Candidați susținuți de PSD și AUR au ocupat funcții administrative la Camera Deputaților",
     "lead_ro": "Deputatul USR Cătălin Drulă a afirmat că persoane susținute de PSD și AUR au fost numite în funcțiile de secretar general și secretar general adjunct al Camerei Deputaților. USR s-a opus numirilor și le-a prezentat drept un nou indiciu al colaborării dintre cele două partide.",
     "content_ro": "• **Votul de luni** a dus la ocuparea celor două funcții administrative de la Camera Deputaților — secretar general și secretar general adjunct — de către candidați susținuți de PSD și AUR. USR a votat împotriva numirilor, iar Cătălin Drulă a spus că decizia reflectă cooperarea politică dintre cele două formațiuni.\n\n• **Nominalizarea Ioanei Bran-Voinea** a fost criticată în mod special de USR. Drulă a arătat că aceasta a ocupat anterior funcția de ministru și a fost deputată PSD, motiv pentru care partidul său nu o consideră o specialistă independentă.\n\n• **Poziția USR** este că funcțiile administrative ar fi trebuit încredințate unor profesioniști fără afiliere politică. Drulă a interpretat numirile ca pe o dovadă a colaborării dintre PSD și AUR în repartizarea pozițiilor parlamentare; aceasta este evaluarea sa politică, distinctă de rezultatul efectiv al votului.\n\n• **Contextul invocat de USR** începe la debutul actualei sesiuni parlamentare, când doi reprezentanți ai USR și PNL au fost înlocuiți în Biroul Permanent al Camerei Deputaților cu membri ai AUR și SOS România, cu sprijinul PSD. Potrivit partidului, reprezentanții PSD, AUR și SOS România dețin astfel nouă dintre cele 13 funcții din acest organism.\n\n• **Biroul Permanent** are atribuții care includ influențarea ordinii de zi a ședințelor plenare, nu doar chestiuni administrative. USR susține că această influență poate fi folosită pentru amânarea sau blocarea unor proiecte incomode pentru majoritate.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_23700f75a4",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
+        "link": "https://www.digi24.ro/stiri/externe/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-care-a-afectat-congelatoarele-din-supermarketuri-4028545"
+      },
+      {
+        "source": "G4Media",
+        "title": "Franța acuză Iranul că se află în spatele atacului cibernetic masiv asupra frigiderelor din supermarketuri",
+        "link": "https://www.g4media.ro/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-masiv-asupra-frigiderelor-din-supermarketuri.html"
+      }
+    ],
+    "published_at": 1794242976,
+    "title_hu": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
+    "lead_hu": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, …",
+    "content_hu": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, Jean-Noël Barrot, a declarat că vor exista consecințe pentru teheran, transmite BBC News. De asemenea, procurorul din Paris a anunțat că a fost deschisă o anchetă împotriva șefului unei unități cibernetice ofensive asociate cu Garda Revoluționară Islamică din Iran.",
+    "title_ro": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
+    "lead_ro": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, …",
+    "content_ro": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, Jean-Noël Barrot, a declarat că vor exista consecințe pentru teheran, transmite BBC News. De asemenea, procurorul din Paris a anunțat că a fost deschisă o anchetă împotriva șefului unei unități cibernetice ofensive asociate cu Garda Revoluționară Islamică din Iran.",
     "importance_score": 35.0
   },
   {
@@ -4777,64 +4841,6 @@
     "title_ro": "Un șofer, agresat la o benzinărie după un conflict rutier pe A1",
     "lead_ro": "Un bărbat de 47 de ani din Craiova a fost atacat la o benzinărie după o neînțelegere în trafic pe autostrada A1. Doi suspecți din județul Olt au fost reținuți, iar polițiștii au deschis un dosar penal.",
     "content_ro": "• **Incidentul a început pe autostrada A1**: potrivit Inspectoratului de Poliție Județean Argeș, un șofer de 47 de ani, din Craiova, circula pe ruta București–Pitești când a apărut un conflict cu ocupanții unui alt autoturism. Confruntarea fizică s-a produs ulterior, în incinta unei stații de alimentare.\n\n• **Doi bărbați l-au abordat pe șofer la benzinărie**: primele date ale anchetei arată că aceștia i-au reproșat o frânare bruscă făcută după o depășire. Apoi l-ar fi lovit cu pumnii. Potrivit poliției, scena a provocat reacții de indignare în rândul celor prezenți și a afectat ordinea publică.\n\n• **Victima a apelat numărul de urgență 112**: după sesizare, polițiștii au identificat în trafic mașina în care se aflau cei bănuiți. Cei doi, în vârstă de 27 și 38 de ani, sunt din județul Olt și au fost duși la audieri.\n\n• **Cercetările vizează agresiunea și tulburarea ordinii publice**: dosarul este instrumentat de polițiștii de investigații criminale din Argeș, sub coordonarea Parchetului de pe lângă Judecătoria Topoloveni. Informațiile comunicate se referă la acuzații aflate în curs de verificare.\n\n• **Suspecții au fost reținuți pentru 24 de ore**: poliția a anunțat că, luni, aceștia urmau să fie prezentați procurorilor, împreună cu o propunere privind o măsură preventivă. Comunicatul nu a precizat ce leziuni a suferit bărbatul agresat.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_8f6884a9ed",
-    "fingerprint": "71ac8cfd17395f3165e0020e5eaee9ae",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "A transportat 20 de kilograme de substanță psihoactivă în două trolere, ascunse printre haine. Bărbat prins la Brăila",
-        "link": "https://www.mediafax.ro/social/a-transportat-20-de-kilograme-de-substanta-psihoactiva-in-doua-trolere-ascunse-printre-haine-barbat-prins-la-braila-23840306"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un tânăr din Brăila a fost cu 20 de kilograme de substanțe psihoactive. Erau ascunse în două trolere",
-        "link": "https://stirileprotv.ro/stiri/actualitate/un-tanar-din-braila-a-fost-cu-20-de-kilograme-de-substante-psihoactive-erau-ascunse-in-doua-trolere.html"
-      }
-    ],
-    "published_at": 1794238277,
-    "title_hu": "Közel 20 kilogramm pszichoaktív anyagot találtak egy Brăila-i férfinál",
-    "lead_hu": "A DIICOT brăilai területi irodája őrizetbe vett egy 28 éves férfit, akit pszichoaktív hatású anyaggal végzett, engedély nélküli műveletekkel gyanúsítanak. A hatóságok szerint a férfit Brăilában, értékesítésre szánt, mintegy 20 kilogramm N-etil-norpentedron birtokában érték tetten.",
-    "content_hu": "• **Vasárnap este, Brăilában** a hatóságok tetten értek egy 28 éves férfit, akinél a nyomozás adatai szerint eladásra szánt pszichoaktív anyag volt. A DIICOT brăilai területi irodája hétfőn, november 9-én elrendelte a férfi őrizetbe vételét; az ügyben engedély nélkül végzett, pszichoaktív hatású termékekhez kapcsolódó tevékenység miatt folyik eljárás.\n\n• **A lefoglalt anyag mennyisége megközelítőleg 20 kilogramm** volt, és a hatóságok azonosítása szerint N-etil-norpentedronról van szó. A kristályos anyagot 21, különböző méretű csomagban találták meg, két bőröndbe rejtve, ruhák és más személyes tárgyak között.\n\n• **A bőröndökben további eszközöket is találtak:** egy nagy pontosságú mérleget, vákuumcsomagoló készüléket, valamint más, bizonyítékként lefoglalt tárgyakat. A közlemény szerint a férfi az anyagot kereskedelmi céllal birtokolta; az ügyben további jogi eljárás következik.\n\n• **Az ügyészség 30 napos előzetes letartóztatást indítványozott.** A kérelmet a Brăilai Törvényszék szabadságjogokkal foglalkozó bírája elé terjesztették, aki a kényszerintézkedésről dönthet.\n\n• **A nyomozásban több rendőri egység is részt vett:** a Brăilai Szervezett Bűnözés Elleni Szolgálat munkáját az iancai rendőrök, valamint a Brăilai Városi Rendőrség közrendvédelmi egysége támogatta.",
-    "title_ro": "Aproape 20 de kilograme de substanță psihoactivă, găsite asupra unui bărbat la Brăila",
-    "lead_ro": "DIICOT – Biroul Teritorial Brăila a reținut un bărbat de 28 de ani, cercetat pentru operațiuni fără drept cu produse susceptibile să aibă efect psihoactiv. Potrivit anchetatorilor, acesta a fost prins în Brăila având asupra sa aproximativ 20 de kilograme de N-ethylnorpentedrone, despre care susțin că erau destinate vânzării.",
-    "content_ro": "• **Duminică seara, în municipiul Brăila,** autoritățile au prins în flagrant un bărbat de 28 de ani, suspectat că deținea substanțe psihoactive pentru comercializare. DIICOT – Biroul Teritorial Brăila a dispus reținerea lui luni, 9 noiembrie, în cadrul unei anchete privind activități fără drept cu produse ce pot avea efect psihoactiv.\n\n• **Cantitatea identificată a fost de aproximativ 20 de kilograme** de N-ethylnorpentedrone, potrivit procurorilor. Substanța, descrisă ca fiind cristalină, era împărțită în 21 de pungi de dimensiuni diferite și ascunsă în două trolere, printre haine și alte obiecte.\n\n• **În bagaje au fost găsite și echipamente suplimentare:** un cântar de precizie ridicată, un aparat de vidat și alte obiecte considerate probe. Anchetatorii afirmă că substanța era deținută în vederea comercializării; cercetările și procedurile judiciare continuă.\n\n• **Procurorii au cerut arestarea preventivă pentru 30 de zile.** Propunerea a fost înaintată judecătorului de drepturi și libertăți din cadrul Tribunalului Brăila, care urmează să se pronunțe asupra măsurii.\n\n• **La acțiune au participat mai multe structuri de poliție.** Procurorii au lucrat împreună cu Serviciul de Combatere a Criminalității Organizate Brăila, beneficiind și de sprijinul polițiștilor din Ianca și al Biroului de Ordine Publică din cadrul Poliției municipiului Brăila.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_f200593971",
-    "fingerprint": "c98759d036bf0fb6c1bcce0c6c941569",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Programul Fulbright: Facilitarea legăturilor dintre americani și români de 80 de ani (Op-ed)",
-        "link": "https://www.g4media.ro/programul-fulbright-facilitarea-legaturilor-dintre-americani-si-romani-de-80-de-ani-op-ed.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Programul Fulbright: Facilitarea legăturilor dintre americani și români de 80 de ani",
-        "link": "https://www.digi24.ro/opinii/agora-digi/programul-fulbright-facilitarea-legaturilor-dintre-americani-si-romani-de-80-de-ani-4028411"
-      }
-    ],
-    "published_at": 1794238101,
-    "title_hu": "A Fulbright-program nyolc évtizede építi az amerikai–román kapcsolatokat",
-    "lead_hu": "A Fulbright-program létrehozásának nyolcvanadik évfordulója alkalmából Darryl Nirenberg, az Egyesült Államok romániai nagykövete a kezdeményezés oktatási és kapcsolatteremtő szerepét mutatta be. Romániában 1960-ban indultak a programhoz kötődő akadémiai cserék, a két ország pedig 1993-ban közös bizottságot hozott létre.",
-    "content_hu": "• **A Fulbright-program nyolcvanéves évfordulója** kapcsán Darryl Nirenberg, az Egyesült Államok bukaresti nagykövete arról írt, hogy a két ország együttműködését nemcsak a diplomácia, a kereskedelem és a védelem, hanem az emberek közötti tartós kapcsolatok is alakítják. A program ezeknek a kapcsolatoknak a kialakulását segíti.\n\n• **Harry S. Truman elnök** nyolcvan évvel ezelőtt írta alá a Fulbright-programot létrehozó jogszabályt. A kezdeményezést J. William Fulbright arkansasi szenátor indította el; célja az volt, hogy a különböző országokból érkezők tanulhassanak egymástól, és ezzel a békésebb nemzetközi együttműködést támogassák.\n\n• **A program finanszírozási elképzelése** a második világháború után fennmaradt amerikai katonai eszközök és készletek külföldi értékesítéséből származó bevételekre épült. Fulbright azt javasolta, hogy ezt a pénzt oktatási csereprogramokra fordítsák, így a háborús készletek eladásából a nemzetközi tanulást segítő forrás válhatott.\n\n• **Romániában 1960-ban kezdődött el a Fulbright-történet.** A hidegháborús feszültségek idején is lehetőség nyílt arra, hogy amerikaiak és románok akadémiai csere keretében találkozzanak és tapasztalatot szerezzenek egymás országáról.\n\n• **1993-ban létrejött a Román–Amerikai Fulbright Bizottság**, amelyet a két kormány közösen finanszíroz és működtet. A közös intézmény a program romániai jelenlétének fontos része, és azt a kétoldalú törekvést tükrözi, hogy mindkét ország számára előnyös legyen a polgárok közötti tudás- és tapasztalatcsere.",
-    "title_ro": "Opt decenii de schimburi și legături prin programul Fulbright",
-    "lead_ro": "Cu ocazia împlinirii a 80 de ani de la înființarea programului Fulbright, ambasadorul SUA în România, Darryl Nirenberg, a prezentat rolul inițiativei în dezvoltarea relațiilor dintre oameni. În România, schimburile academice au început în 1960, iar în 1993 cele două guverne au creat o comisie comună pentru program.",
-    "content_ro": "• **Programul Fulbright împlinește 80 de ani**, iar ambasadorul american la București, Darryl Nirenberg, a evidențiat contribuția sa la relațiile dintre Statele Unite și România. În opinia sa, cooperarea bilaterală se sprijină nu doar pe diplomație, comerț și apărare, ci și pe legăturile construite între cetățenii celor două țări.\n\n• **Președintele Harry S. Truman** a semnat, cu opt decenii în urmă, legea care a creat programul. Inițiativa îi aparținuse senatorului J. William Fulbright, din Arkansas, care urmărea să încurajeze învățarea reciprocă între persoane din țări diferite și să contribuie astfel la relații internaționale mai pașnice.\n\n• **Finanțarea propusă după al Doilea Război Mondial** urma să provină din vânzarea în străinătate a echipamentelor și rezervelor militare americane rămase nefolosite. Fulbright a susținut folosirea acestor venituri pentru schimburi educaționale, transformând o sursă legată de război într-un sprijin pentru cooperarea academică.\n\n• **Schimburile Fulbright din România au început în 1960.** Chiar și în perioada Războiului Rece, participanții americani și români au putut să se întâlnească în cadrul unor programe academice și să cunoască experiența celeilalte țări, în pofida tensiunilor politice ale vremii.\n\n• **Comisia Fulbright România–SUA a fost înființată în 1993.** Cele două guverne o finanțează și o administrează împreună. Structura comună reflectă interesul ambelor state pentru schimburile de cunoștințe și experiență dintre cetățenii lor și pentru beneficiile pe care le poate aduce colaborarea educațională.",
     "importance_score": 35.0
   },
   {
@@ -5204,7 +5210,7 @@
     "title_ro": "Barcelona câștigă la Madrid cu dubla lui Fermín López și urcă pe primul loc",
     "lead_ro": "Barcelona a învins-o cu 2–1 pe Atlético Madrid, pe Metropolitano, în fața a 69.788 de spectatori. Fermín López a marcat ambele goluri ale oaspeților, care au trecut astfel pe prima poziție în campionatul Spaniei.",
     "content_ro": "• **Barcelona s-a impus cu 2–1** pe terenul lui Atlético Madrid, pe stadionul Metropolitano, unde au asistat 69.788 de spectatori. Victoria a urcat formația catalană pe primul loc în campionatul Spaniei, într-un meci în care ambele echipe au creat ocazii.\n\n• **Atlético a deschis scorul în minutul 10.** Julián Álvarez i-a pasat lui Giuliano Simeone, care a înscris de aproape. Gazdele amenințaseră poarta și mai devreme: în minutul 6, Joan García a oprit șutul lui Álvarez, iar Marc Pubill a trimis cu capul în transversală la faza de corner. Giuliano este fiul antrenorului echipei madrilene, Diego Simeone.\n\n• **Barcelona a egalat înainte de pauză.** În minutul 8, șutul lui Pedri a lovit bara transversală, iar Jan Oblak a respins încercarea lui Lamine Yamal. Álvarez a avut la rândul său o oportunitate din careu, însă García a intervenit. În minutul 45, Fermín López a fructificat o minge rămasă în apropierea porții și a restabilit egalitatea.\n\n• **Hansi Flick a schimbat la pauză:** Frenkie de Jong a intrat în locul lui Brian Fariñas, iar Barcelona a preluat treptat controlul jocului. Álvarez a mai avut o încercare în minutul 55, însă șutul său a trecut pe deasupra porții.\n\n• **Al doilea gol al lui Fermín López a stabilit rezultatul.** Reușita mijlocașului spaniol a adus Barcelonei victoria și cele trei puncte la Madrid. Succesul în derby a propulsat echipa oaspete pe prima poziție a clasamentului.",
-    "importance_score": 33.0
+    "importance_score": 30.0
   },
   {
     "group_id": "group_9499093554",
@@ -5273,6 +5279,64 @@
     "lead_ro": "Polițiștii din județul Galați au efectuat, la 8 noiembrie 2026, 25 de percheziții în cadrul operațiunii JUPITER. Ancheta a dus la ridicarea a 35 de autoturisme de lux, evaluate la aproximativ 2,8 milioane de euro, iar prejudiciul estimat depășește trei milioane de euro.",
     "content_ro": "• **La 8 noiembrie 2026, duminică,** polițiștii gălățeni au verificat 25 de locuințe în cadrul operațiunii JUPITER. Acțiunea a urmărit strângerea de probe în dosare penale privind suspiciuni de spălare a banilor.\n\n• **Ancheta este coordonată de un procuror** din cadrul Parchetului de pe lângă Curtea de Apel Galați. Cercetările sunt desfășurate de polițiștii specializați în investigarea criminalității economice din cadrul inspectoratului județean.\n\n• **Pentru intervalul 2022–2026,** anchetatorii suspectează că bani proveniți din activități infracționale au fost utilizați la cumpărarea unor autoturisme de lux. Mașinile ar fi fost înscrise pe numele unor rude sau persoane apropiate, pentru a ascunde originea fondurilor și identitatea beneficiarilor reali.\n\n• **Cele 35 de autoturisme ridicate** au o valoare estimată la circa 2,8 milioane de euro. Măsura permite continuarea cercetărilor și luarea deciziilor legale necesare pe parcursul procedurii.\n\n• **În timpul perchezițiilor,** polițiștii au mai preluat aproximativ 300.000 de lei, o armă neletală, documente și alte obiecte relevante pentru anchetă. Prejudiciul calculat provizoriu trece de trei milioane de euro, iar verificările continuă sub supravegherea procurorului de caz.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_8f6884a9ed",
+    "fingerprint": "71ac8cfd17395f3165e0020e5eaee9ae",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "A transportat 20 de kilograme de substanță psihoactivă în două trolere, ascunse printre haine. Bărbat prins la Brăila",
+        "link": "https://www.mediafax.ro/social/a-transportat-20-de-kilograme-de-substanta-psihoactiva-in-doua-trolere-ascunse-printre-haine-barbat-prins-la-braila-23840306"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un tânăr din Brăila a fost cu 20 de kilograme de substanțe psihoactive. Erau ascunse în două trolere",
+        "link": "https://stirileprotv.ro/stiri/actualitate/un-tanar-din-braila-a-fost-cu-20-de-kilograme-de-substante-psihoactive-erau-ascunse-in-doua-trolere.html"
+      }
+    ],
+    "published_at": 1794238277,
+    "title_hu": "Közel 20 kilogramm pszichoaktív anyagot találtak egy Brăila-i férfinál",
+    "lead_hu": "A DIICOT brăilai területi irodája őrizetbe vett egy 28 éves férfit, akit pszichoaktív hatású anyaggal végzett, engedély nélküli műveletekkel gyanúsítanak. A hatóságok szerint a férfit Brăilában, értékesítésre szánt, mintegy 20 kilogramm N-etil-norpentedron birtokában érték tetten.",
+    "content_hu": "• **Vasárnap este, Brăilában** a hatóságok tetten értek egy 28 éves férfit, akinél a nyomozás adatai szerint eladásra szánt pszichoaktív anyag volt. A DIICOT brăilai területi irodája hétfőn, november 9-én elrendelte a férfi őrizetbe vételét; az ügyben engedély nélkül végzett, pszichoaktív hatású termékekhez kapcsolódó tevékenység miatt folyik eljárás.\n\n• **A lefoglalt anyag mennyisége megközelítőleg 20 kilogramm** volt, és a hatóságok azonosítása szerint N-etil-norpentedronról van szó. A kristályos anyagot 21, különböző méretű csomagban találták meg, két bőröndbe rejtve, ruhák és más személyes tárgyak között.\n\n• **A bőröndökben további eszközöket is találtak:** egy nagy pontosságú mérleget, vákuumcsomagoló készüléket, valamint más, bizonyítékként lefoglalt tárgyakat. A közlemény szerint a férfi az anyagot kereskedelmi céllal birtokolta; az ügyben további jogi eljárás következik.\n\n• **Az ügyészség 30 napos előzetes letartóztatást indítványozott.** A kérelmet a Brăilai Törvényszék szabadságjogokkal foglalkozó bírája elé terjesztették, aki a kényszerintézkedésről dönthet.\n\n• **A nyomozásban több rendőri egység is részt vett:** a Brăilai Szervezett Bűnözés Elleni Szolgálat munkáját az iancai rendőrök, valamint a Brăilai Városi Rendőrség közrendvédelmi egysége támogatta.",
+    "title_ro": "Aproape 20 de kilograme de substanță psihoactivă, găsite asupra unui bărbat la Brăila",
+    "lead_ro": "DIICOT – Biroul Teritorial Brăila a reținut un bărbat de 28 de ani, cercetat pentru operațiuni fără drept cu produse susceptibile să aibă efect psihoactiv. Potrivit anchetatorilor, acesta a fost prins în Brăila având asupra sa aproximativ 20 de kilograme de N-ethylnorpentedrone, despre care susțin că erau destinate vânzării.",
+    "content_ro": "• **Duminică seara, în municipiul Brăila,** autoritățile au prins în flagrant un bărbat de 28 de ani, suspectat că deținea substanțe psihoactive pentru comercializare. DIICOT – Biroul Teritorial Brăila a dispus reținerea lui luni, 9 noiembrie, în cadrul unei anchete privind activități fără drept cu produse ce pot avea efect psihoactiv.\n\n• **Cantitatea identificată a fost de aproximativ 20 de kilograme** de N-ethylnorpentedrone, potrivit procurorilor. Substanța, descrisă ca fiind cristalină, era împărțită în 21 de pungi de dimensiuni diferite și ascunsă în două trolere, printre haine și alte obiecte.\n\n• **În bagaje au fost găsite și echipamente suplimentare:** un cântar de precizie ridicată, un aparat de vidat și alte obiecte considerate probe. Anchetatorii afirmă că substanța era deținută în vederea comercializării; cercetările și procedurile judiciare continuă.\n\n• **Procurorii au cerut arestarea preventivă pentru 30 de zile.** Propunerea a fost înaintată judecătorului de drepturi și libertăți din cadrul Tribunalului Brăila, care urmează să se pronunțe asupra măsurii.\n\n• **La acțiune au participat mai multe structuri de poliție.** Procurorii au lucrat împreună cu Serviciul de Combatere a Criminalității Organizate Brăila, beneficiind și de sprijinul polițiștilor din Ianca și al Biroului de Ordine Publică din cadrul Poliției municipiului Brăila.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_f200593971",
+    "fingerprint": "c98759d036bf0fb6c1bcce0c6c941569",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Programul Fulbright: Facilitarea legăturilor dintre americani și români de 80 de ani (Op-ed)",
+        "link": "https://www.g4media.ro/programul-fulbright-facilitarea-legaturilor-dintre-americani-si-romani-de-80-de-ani-op-ed.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Programul Fulbright: Facilitarea legăturilor dintre americani și români de 80 de ani",
+        "link": "https://www.digi24.ro/opinii/agora-digi/programul-fulbright-facilitarea-legaturilor-dintre-americani-si-romani-de-80-de-ani-4028411"
+      }
+    ],
+    "published_at": 1794238101,
+    "title_hu": "A Fulbright-program nyolc évtizede építi az amerikai–román kapcsolatokat",
+    "lead_hu": "A Fulbright-program létrehozásának nyolcvanadik évfordulója alkalmából Darryl Nirenberg, az Egyesült Államok romániai nagykövete a kezdeményezés oktatási és kapcsolatteremtő szerepét mutatta be. Romániában 1960-ban indultak a programhoz kötődő akadémiai cserék, a két ország pedig 1993-ban közös bizottságot hozott létre.",
+    "content_hu": "• **A Fulbright-program nyolcvanéves évfordulója** kapcsán Darryl Nirenberg, az Egyesült Államok bukaresti nagykövete arról írt, hogy a két ország együttműködését nemcsak a diplomácia, a kereskedelem és a védelem, hanem az emberek közötti tartós kapcsolatok is alakítják. A program ezeknek a kapcsolatoknak a kialakulását segíti.\n\n• **Harry S. Truman elnök** nyolcvan évvel ezelőtt írta alá a Fulbright-programot létrehozó jogszabályt. A kezdeményezést J. William Fulbright arkansasi szenátor indította el; célja az volt, hogy a különböző országokból érkezők tanulhassanak egymástól, és ezzel a békésebb nemzetközi együttműködést támogassák.\n\n• **A program finanszírozási elképzelése** a második világháború után fennmaradt amerikai katonai eszközök és készletek külföldi értékesítéséből származó bevételekre épült. Fulbright azt javasolta, hogy ezt a pénzt oktatási csereprogramokra fordítsák, így a háborús készletek eladásából a nemzetközi tanulást segítő forrás válhatott.\n\n• **Romániában 1960-ban kezdődött el a Fulbright-történet.** A hidegháborús feszültségek idején is lehetőség nyílt arra, hogy amerikaiak és románok akadémiai csere keretében találkozzanak és tapasztalatot szerezzenek egymás országáról.\n\n• **1993-ban létrejött a Román–Amerikai Fulbright Bizottság**, amelyet a két kormány közösen finanszíroz és működtet. A közös intézmény a program romániai jelenlétének fontos része, és azt a kétoldalú törekvést tükrözi, hogy mindkét ország számára előnyös legyen a polgárok közötti tudás- és tapasztalatcsere.",
+    "title_ro": "Opt decenii de schimburi și legături prin programul Fulbright",
+    "lead_ro": "Cu ocazia împlinirii a 80 de ani de la înființarea programului Fulbright, ambasadorul SUA în România, Darryl Nirenberg, a prezentat rolul inițiativei în dezvoltarea relațiilor dintre oameni. În România, schimburile academice au început în 1960, iar în 1993 cele două guverne au creat o comisie comună pentru program.",
+    "content_ro": "• **Programul Fulbright împlinește 80 de ani**, iar ambasadorul american la București, Darryl Nirenberg, a evidențiat contribuția sa la relațiile dintre Statele Unite și România. În opinia sa, cooperarea bilaterală se sprijină nu doar pe diplomație, comerț și apărare, ci și pe legăturile construite între cetățenii celor două țări.\n\n• **Președintele Harry S. Truman** a semnat, cu opt decenii în urmă, legea care a creat programul. Inițiativa îi aparținuse senatorului J. William Fulbright, din Arkansas, care urmărea să încurajeze învățarea reciprocă între persoane din țări diferite și să contribuie astfel la relații internaționale mai pașnice.\n\n• **Finanțarea propusă după al Doilea Război Mondial** urma să provină din vânzarea în străinătate a echipamentelor și rezervelor militare americane rămase nefolosite. Fulbright a susținut folosirea acestor venituri pentru schimburi educaționale, transformând o sursă legată de război într-un sprijin pentru cooperarea academică.\n\n• **Schimburile Fulbright din România au început în 1960.** Chiar și în perioada Războiului Rece, participanții americani și români au putut să se întâlnească în cadrul unor programe academice și să cunoască experiența celeilalte țări, în pofida tensiunilor politice ale vremii.\n\n• **Comisia Fulbright România–SUA a fost înființată în 1993.** Cele două guverne o finanțează și o administrează împreună. Structura comună reflectă interesul ambelor state pentru schimburile de cunoștințe și experiență dintre cetățenii lor și pentru beneficiile pe care le poate aduce colaborarea educațională.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_579974aaac",
@@ -7059,6 +7123,72 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_9943e0629e",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Oradea, „capitală” a cardiologiei intervenționale: specialiști de pe patru continente la un workshop cu operații complexe transmise din 6 centre (FOTO)",
+        "link": "https://www.ebihoreanul.ro/stiri/oradea-capitala-a-cardiologiei-interventionale-specialisti-de-pe-patru-continente-la-un-workshop-cu-operatii-complexe-transmise-din-6-centre-foto-206470.html"
+      }
+    ],
+    "published_at": 1794249060,
+    "title_hu": "Oradea, „capitală” a cardiologiei intervenționale: specialiști de pe patru continente la un workshop cu operații complexe transmise din 6 centre (FOTO)",
+    "lead_hu": "Medici din peste 20 de țări s-au reunit la Oradea pentru un workshop dedicat tratamentului ocluziei coronariane cronice totale, în cadrul căruia intervenții coronariene complexe au fost transmise în d...",
+    "content_hu": "Medici din peste 20 de țări s-au reunit la Oradea pentru un workshop dedicat tratamentului ocluziei coronariane cronice totale, în cadrul căruia intervenții coronariene complexe au fost transmise în direct din șase centre medicale. În premieră pentru România, evenimentul a fost precedat de un curs internațional dedicat complicațiilor cardiovasculare.",
+    "title_ro": "Oradea, „capitală” a cardiologiei intervenționale: specialiști de pe patru continente la un workshop cu operații complexe transmise din 6 centre (FOTO)",
+    "lead_ro": "Medici din peste 20 de țări s-au reunit la Oradea pentru un workshop dedicat tratamentului ocluziei coronariane cronice totale, în cadrul căruia intervenții coronariene complexe au fost transmise în d...",
+    "content_ro": "Medici din peste 20 de țări s-au reunit la Oradea pentru un workshop dedicat tratamentului ocluziei coronariane cronice totale, în cadrul căruia intervenții coronariene complexe au fost transmise în direct din șase centre medicale. În premieră pentru România, evenimentul a fost precedat de un curs internațional dedicat complicațiilor cardiovasculare.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_36e1643185",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Bianca Maria Comănici a fost cerută de soție în Turcia! Fosta concurentă „Puterea Dragostei” a primit un inel superb",
+        "link": "https://www.cancan.ro/bianca-maria-comanici-a-fost-ceruta-de-sotie-in-turcia-fosta-concurenta-puterea-dragostei-a-primit-un-inel-superb-21544569"
+      }
+    ],
+    "published_at": 1794248864,
+    "title_hu": "Bianca Maria Comănici a fost cerută de soție în Turcia! Fosta concurentă „Puterea Dragostei” a primit un inel superb",
+    "lead_hu": "Bianca Comănici trăiește una dintre cele mai frumoase perioade din viața sa. Influencerița și fosta câștigătoare a emisiunii Puterea Dragostei a anunțat că a fost cerută în căsătorie în timpul unei va...",
+    "content_hu": "Bianca Comănici trăiește una dintre cele mai frumoase perioade din viața sa. Influencerița și fosta câștigătoare a emisiunii Puterea Dragostei a anunțat că a fost cerută în căsătorie în timpul unei vacanțe petrecute la Izmir, în Turcia, iar răspunsul său a fost unul plin de emoție și fără nicio urmă de îndoială. Vestea a fost […]",
+    "title_ro": "Bianca Maria Comănici a fost cerută de soție în Turcia! Fosta concurentă „Puterea Dragostei” a primit un inel superb",
+    "lead_ro": "Bianca Comănici trăiește una dintre cele mai frumoase perioade din viața sa. Influencerița și fosta câștigătoare a emisiunii Puterea Dragostei a anunțat că a fost cerută în căsătorie în timpul unei va...",
+    "content_ro": "Bianca Comănici trăiește una dintre cele mai frumoase perioade din viața sa. Influencerița și fosta câștigătoare a emisiunii Puterea Dragostei a anunțat că a fost cerută în căsătorie în timpul unei vacanțe petrecute la Izmir, în Turcia, iar răspunsul său a fost unul plin de emoție și fără nicio urmă de îndoială. Vestea a fost […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_0288de28fe",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Zeljko Kopic, înapoi în Superliga?! Dezvăluire neașteptată: „De asta a plecat din Polonia”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/zeljko-kopic-inapoi-superliga-dinamo-andrei-nicolescu-997833.html"
+      }
+    ],
+    "published_at": 1794248609,
+    "title_hu": "Zeljko Kopic, înapoi în Superliga?! Dezvăluire neașteptată: „De asta a plecat din Polonia”",
+    "lead_hu": "Aventura lui Zeljko Kopic (49 de ani) pe banca celor de la Wieczysta Cracovia s-a încheiat după numai două luni și jumătate. Fostul antrenor al lui Dinamo a fost demis după înfrângerea suferită în dep...",
+    "content_hu": "Aventura lui Zeljko Kopic (49 de ani) pe banca celor de la Wieczysta Cracovia s-a încheiat după numai două luni și jumătate. Fostul antrenor al lui Dinamo a fost demis după înfrângerea suferită în deplasare cu Gornik Zabrze, scor 1-2, în etapa a 14-a din campionatul Poloniei. Nemulțumiți de rezultatele înregistrate sub comanda tehnicianului croat, oficialii clubului au decis să încheie colaborarea cu acesta. ...",
+    "title_ro": "Zeljko Kopic, înapoi în Superliga?! Dezvăluire neașteptată: „De asta a plecat din Polonia”",
+    "lead_ro": "Aventura lui Zeljko Kopic (49 de ani) pe banca celor de la Wieczysta Cracovia s-a încheiat după numai două luni și jumătate. Fostul antrenor al lui Dinamo a fost demis după înfrângerea suferită în dep...",
+    "content_ro": "Aventura lui Zeljko Kopic (49 de ani) pe banca celor de la Wieczysta Cracovia s-a încheiat după numai două luni și jumătate. Fostul antrenor al lui Dinamo a fost demis după înfrângerea suferită în deplasare cu Gornik Zabrze, scor 1-2, în etapa a 14-a din campionatul Poloniei. Nemulțumiți de rezultatele înregistrate sub comanda tehnicianului croat, oficialii clubului au decis să încheie colaborarea cu acesta. ...",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_75521f7247",
     "category": "Általános",
     "is_synthesized": false,
@@ -7851,28 +7981,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_42cc4f371b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ninge în zona montană Rânca. Drumarii au intervenit cu utilaje și material antiderapant",
-        "link": "https://www.digi24.ro/stiri/actualitate/ninge-in-zona-montana-ranca-drumarii-au-intervenit-cu-utilaje-si-material-antiderapant-4028565"
-      }
-    ],
-    "published_at": 1794244352,
-    "title_hu": "Ninge în zona montană Rânca. Drumarii au intervenit cu utilaje și material antiderapant",
-    "lead_hu": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de sig…",
-    "content_hu": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de siguranță. Reprezentanții Direcției Regionale de Drumuri și Poduri Craiova le recomandă șoferilor să nu circule pe drumurile afectate de ninsoare dacă autovehiculele nu sunt echipate corespunzător pentru sezonul rece.",
-    "title_ro": "Ninge în zona montană Rânca. Drumarii au intervenit cu utilaje și material antiderapant",
-    "lead_ro": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de sig…",
-    "content_ro": "Ninge, luni seară, în zona montană Rânca, din județul Gorj, iar drumarii au intervenit cu utilaje dotate cu lamă și au împrăștiat material antiderapant pentru menținerea circulației în condiții de siguranță. Reprezentanții Direcției Regionale de Drumuri și Poduri Craiova le recomandă șoferilor să nu circule pe drumurile afectate de ninsoare dacă autovehiculele nu sunt echipate corespunzător pentru sezonul rece.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_61d4726a45",
     "category": "Általános",
     "is_synthesized": false,
@@ -8071,25 +8179,25 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_23700f75a4",
-    "category": "Általános",
+    "group_id": "group_5e5f856a1f",
+    "category": "Politika",
     "is_synthesized": false,
     "is_b2b_only": false,
     "sources_count": 1,
     "sources": [
       {
         "source": "Digi24",
-        "title": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
-        "link": "https://www.digi24.ro/stiri/externe/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-care-a-afectat-congelatoarele-din-supermarketuri-4028545"
+        "title": "Ilie Bolojan anunță că ușile PNL sunt deschise: pe cine așteaptă liderul liberal să se alăture partidului",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-usile-pnl-sunt-deschise-pe-cine-asteapta-liderul-liberal-sa-se-alature-partidului-4028255"
       }
     ],
-    "published_at": 1794242976,
-    "title_hu": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
-    "lead_hu": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, …",
-    "content_hu": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, Jean-Noël Barrot, a declarat că vor exista consecințe pentru teheran, transmite BBC News. De asemenea, procurorul din Paris a anunțat că a fost deschisă o anchetă împotriva șefului unei unități cibernetice ofensive asociate cu Garda Revoluționară Islamică din Iran.",
-    "title_ro": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
-    "lead_ro": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, …",
-    "content_ro": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, Jean-Noël Barrot, a declarat că vor exista consecințe pentru teheran, transmite BBC News. De asemenea, procurorul din Paris a anunțat că a fost deschisă o anchetă împotriva șefului unei unități cibernetice ofensive asociate cu Garda Revoluționară Islamică din Iran.",
+    "published_at": 1794242878,
+    "title_hu": "Ilie Bolojan anunță că ușile PNL sunt deschise: pe cine așteaptă liderul liberal să se alăture partidului",
+    "lead_hu": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile …",
+    "content_hu": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile preluate în politicile publice susţinute de PNL, uşile partidului sunt deschise.",
+    "title_ro": "Ilie Bolojan anunță că ușile PNL sunt deschise: pe cine așteaptă liderul liberal să se alăture partidului",
+    "lead_ro": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile …",
+    "content_ro": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile preluate în politicile publice susţinute de PNL, uşile partidului sunt deschise.",
     "importance_score": 0.0
   },
   {
@@ -20435,6 +20543,28 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_c00c409117",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Accident în centrul Odoreului. O mamă și fiică au ajuns la spital după o neacordare de prioritate",
+        "link": "https://www.presasm.ro/foto-accident-in-centrul-odoreului-o-mama-si-fiica-au-ajuns-la-spital-dupa-o-neacordare-de/54175"
+      }
+    ],
+    "published_at": 1794163740,
+    "title_hu": "FOTO. Accident în centrul Odoreului. O mamă și fiică au ajuns la spital după o neacordare de prioritate",
+    "lead_hu": "Un accident rutier soldat cu rănirea a două persoane s-a produs duminică, 8 noiembrie 2026, în jurul orei 14:30, pe Drumul Național 19F, în centrul localității Odoreu, județul Satu Mare. Două autoturi...",
+    "content_hu": "Un accident rutier soldat cu rănirea a două persoane s-a produs duminică, 8 noiembrie 2026, în jurul orei 14:30, pe Drumul Național 19F, în centrul localității Odoreu, județul Satu Mare. Două autoturisme au fost implicate într-o coliziune, după ce unul dintre …",
+    "title_ro": "FOTO. Accident în centrul Odoreului. O mamă și fiică au ajuns la spital după o neacordare de prioritate",
+    "lead_ro": "Un accident rutier soldat cu rănirea a două persoane s-a produs duminică, 8 noiembrie 2026, în jurul orei 14:30, pe Drumul Național 19F, în centrul localității Odoreu, județul Satu Mare. Două autoturi...",
+    "content_ro": "Un accident rutier soldat cu rănirea a două persoane s-a produs duminică, 8 noiembrie 2026, în jurul orei 14:30, pe Drumul Național 19F, în centrul localității Odoreu, județul Satu Mare. Două autoturisme au fost implicate într-o coliziune, după ce unul dintre …",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_8e43d661ec",
     "category": "Általános",
     "is_synthesized": false,
@@ -20655,28 +20785,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_ffc9c57852",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„119.000 de femei sunt vizate pentru screening”. Alexandru Rogobete, mulțumit de vizita la Cluj-Napoca",
-        "link": "https://www.mediafax.ro/stirile-zilei/119-000-de-femei-sunt-vizate-pentru-screening-alexandru-rogobete-multumit-de-vizita-la-cluj-napoca-23839871"
-      }
-    ],
-    "published_at": 1794162453,
-    "title_hu": "„119.000 de femei sunt vizate pentru screening”. Alexandru Rogobete, mulțumit de vizita la Kolozsvár",
-    "lead_hu": "Ministrul Sănătății, Alexandru Rogobete, s-a declarat mulțumit de vizita pe care a făcut-o sâmbătă la spitalele din Kolozsvár. La Institutul Oncologic „Prof. Dr. Ion Chiricuță”, 119.000 de femei sunt …",
-    "content_hu": "Ministrul Sănătății, Alexandru Rogobete, s-a declarat mulțumit de vizita pe care a făcut-o sâmbătă la spitalele din Kolozsvár. La Institutul Oncologic „Prof. Dr. Ion Chiricuță”, 119.000 de femei sunt vizate pentru screening, în prevenirea cancerului de sân.",
-    "title_ro": "„119.000 de femei sunt vizate pentru screening”. Alexandru Rogobete, mulțumit de vizita la Cluj-Napoca",
-    "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, s-a declarat mulțumit de vizita pe care a făcut-o sâmbătă la spitalele din Kolozsvár. La Institutul Oncologic „Prof. Dr. Ion Chiricuță”, 119.000 de femei sunt …",
-    "content_ro": "Ministrul Sănătății, Alexandru Rogobete, s-a declarat mulțumit de vizita pe care a făcut-o sâmbătă la spitalele din Kolozsvár. La Institutul Oncologic „Prof. Dr. Ion Chiricuță”, 119.000 de femei sunt vizate pentru screening, în prevenirea cancerului de sân.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_7b1ee9d95a",
     "fingerprint": "c97e26ddc0971a34a222872218ef08b1",
     "category": "Általános",
@@ -20810,28 +20918,6 @@
     "title_ro": "El e câștigătorul Golden Boy 2026!",
     "lead_ro": "Pau Cubarsi (19 ani), fundașul central al Barcelonei, a fost desemnat câștigătorul Golden Boy 2026, premiu acordat anual de publicația italiană Tuttosport celui mai bun fotbalist sub 21 de ani care ev…",
     "content_ro": "Pau Cubarsi (19 ani), fundașul central al Barcelonei, a fost desemnat câștigătorul Golden Boy 2026, premiu acordat anual de publicația italiană Tuttosport celui mai bun fotbalist sub 21 de ani care evoluează în Europa. Anunțul a fost făcut luni, în cadrul unui eveniment organizat la Sassuolo, în Italia. Internaționalul spaniol s-a impus categoric în fața celorlalți candidați și îi succedă în palmares francezului Desire Doue, câștigătorul ediției din 2025. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5e5f856a1f",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ilie Bolojan anunță că ușile PNL sunt deschise: pe cine așteaptă liderul liberal să se alăture partidului",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-ca-usile-pnl-sunt-deschise-pe-cine-asteapta-liderul-liberal-sa-se-alature-partidului-4028255"
-      }
-    ],
-    "published_at": 1794242878,
-    "title_hu": "Ilie Bolojan anunță că ușile PNL sunt deschise: pe cine așteaptă liderul liberal să se alăture partidului",
-    "lead_hu": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile …",
-    "content_hu": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile preluate în politicile publice susţinute de PNL, uşile partidului sunt deschise.",
-    "title_ro": "Ilie Bolojan anunță că ușile PNL sunt deschise: pe cine așteaptă liderul liberal să se alăture partidului",
-    "lead_ro": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile …",
-    "content_ro": "Preşedintele PNL, senatorul Ilie Bolojan a făcut un apel, luni, către toţi oamenii care stăpânesc un domeniu, care au soluţii, să se alăture partidului, el arătând că cei care îşi vor vedea soluţiile preluate în politicile publice susţinute de PNL, uşile partidului sunt deschise.",
     "importance_score": 0.0
   },
   {
