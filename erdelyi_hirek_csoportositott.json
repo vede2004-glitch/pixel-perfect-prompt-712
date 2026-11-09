@@ -2758,7 +2758,7 @@
   {
     "group_id": "group_1d42da89d7",
     "category": "Sport",
-    "articles_count": 5,
+    "articles_count": 6,
     "articles": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -2804,6 +2804,15 @@
         "category": "Sport",
         "is_b2b_only": false,
         "published_at": 1794169569
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, mesaj ferm după victoria Interului: „Nu putem să ne plângem de milă”. Ce spune despre înfrângerea din derby",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-mesaj-ferm-dupa-victoria-interului-nu-putem-sa-ne-plangem-de-mila-ce-spune-despre-infrangerea-din-derby-23839969",
+        "summary": "Cristi Chivu a vorbit despre momentele dificile traversate de Inter Milano după victoria cu 2-0 în fața celor de la Como. Antrenorul român a transmis un mesaj ferm jucătorilor săi și a explicat ce așteaptă de la echipă în continuarea sezonului.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794198627
       }
     ]
   },
@@ -11295,6 +11304,22 @@
         "category": "Gazdaság",
         "is_b2b_only": false,
         "published_at": 1794198183
+      }
+    ]
+  },
+  {
+    "group_id": "group_d5a648ebb4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Magyarázatot várnak a pénzügyminisztertől: honnan a 28 milliárdos eltérés a költségvetési hiány számításában?",
+        "link": "https://www.mediatica.ro/hirek/politika/magyarazatot-varnak-a-penzugyminisztertol-honnan-a-28-milliardos-elteres-a-koltsegvetesi-hiany-szamitasaban",
+        "summary": "Szerdán vitatják meg és bocsátják szavazásra a szenátusban az AUR egyszerű indítványát Alexandru Nazare ellen.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794198904
       }
     ]
   }
