@@ -73,6 +73,8 @@ export function NewsFeed({ view }: { view: FeedView }) {
   const [limit, setLimit] = useState(60);
 
   const feed = useMemo(() => {
+    // The external news store is mutable; its version triggers this memo after live updates.
+    void version;
     // The first browser render uses the exact request snapshot, avoiding a stale-news flash.
     if (!hydrated && liveNews) {
       try {
