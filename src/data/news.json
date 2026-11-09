@@ -984,7 +984,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 11,
+    "sources_count": 12,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -1040,6 +1040,11 @@
         "source": "Maszol",
         "title": "Alig néhány nappal az újraindítás után ismét leállt a csernavodai atomerőmű 1-es reaktora",
         "link": "https://maszol.ro/belfold/Alig-nehany-nappal-az-ujrainditas-utan-ismet-leallt-a-csernavodai-atomeromu-1-es-reaktora"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Unitatea 1 de la Cernavodă a fost deconectată luni seara de la Sistemul Energetic Național din cauza unei defecțiuni",
+        "link": "https://agerpres.ro/economic/2026/11/09/unitatea-1-de-la-cernavoda-a-fost-deconectata-luni-seara-de-la-sistemul-energetic-national-din-cauza--1611658"
       }
     ],
     "published_at": 1794249720,
@@ -1049,7 +1054,7 @@
     "title_ro": "Unitatea 1 de la Cernavodă s-a oprit din nou, iar Unitatea 2 este pregătită pentru repornire",
     "lead_ro": "Reactorul 1, reconectat vineri la rețea, a fost deconectat din nou luni seară din cauza unei defecțiuni apărute în partea nenucleară. Nuclearelectrica afirmă că incidentul nu a afectat securitatea nucleară, personalul sau mediul, iar specialiștii lucrează la repornirea ambelor unități.",
     "content_ro": "• **Deconectarea Unității 1, luni seară**, a avut loc la câteva zile după reconectarea acesteia la Sistemul Energetic Național, pe 6 noiembrie. Potrivit Nuclearelectrica, problema a apărut în partea nenucleară a reactorului, iar oprirea s-a desfășurat conform procedurilor; nu au fost puse în pericol securitatea nucleară, angajații sau mediul.\n\n• **Remedierea defecțiunii** este în curs, iar echipele centralei urmăresc repornirea cât mai rapidă a Unității 1. În paralel, se lucrează și la revenirea Unității 2, pentru care fusese anunțată anterior o pornire marți, 10 noiembrie. Cauza de fond a incidentului urmează să fie explicată într-un raport ulterior.\n\n• **Conducerea tehnică a centralei** va fi schimbată: Nuclearelectrica a anunțat înlocuirea directorului tehnic de la 1 decembrie. Acesta coordonează activitatea legată de disponibilitatea echipamentelor necesare funcționării unităților.\n\n• **Debitul redus al Dunării** a dus la oprirea ambelor reactoare în timpul verii. Pe sectorul de intrare în România, debitul ar putea ajunge în perioada următoare la 1.800 de metri cubi pe secundă, apoi s-ar putea reduce la aproximativ 1.700; media multianuală din noiembrie este de 4.700.\n\n• **Importanța centralelor și costul opririi** sunt semnificative: cele două unități, fiecare cu o putere nominală de 700 MW, pot furniza împreună circa 20% din producția națională de electricitate. Premierul Luca Niculescu a estimat la un miliard de lei pierderile provocate de trei luni de oprire completă. În weekendul anterior, România a exportat temporar peste 2.800 MW, în principal datorită producției eoliene și fotovoltaice.",
-    "importance_score": 125.0
+    "importance_score": 135.0
   },
   {
     "group_id": "group_f767c70e1e",
@@ -2230,6 +2235,84 @@
     "importance_score": 63.0
   },
   {
+    "group_id": "group_32007f37d9",
+    "fingerprint": "aa706d814e0b5e67380e0e53903f08fd",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Scadal în PNL. Alina Gorghiu: Nu mi-e frică de Ilie Bolojan sau de Dan Motreanu. N-o să mă las şantajată, intimidată",
+        "link": "https://stirileprotv.ro/stiri/politic/scadal-in-pnl-alina-gorghiu-nu-mi-e-frica-de-ilie-bolojan-sau-de-dan-motreanu-n-o-sa-ma-las-santajata-intimidata.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Gorghiu, către Bolojan: Când condiţionezi apartenenţa la grupul parlamentar de renunţarea la justiţie, ai depăşit o linie roşie",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/gorghiu-catre-bolojan-cand-conditionezi-apartenenta-la-grupul-parlamentar-de-renuntarea-la-justitie-ai-depasit-o-linie-rosie-4028461"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Alina Gorghiu îl acuză pe Bolojan de „șantaj” după decizia PNL. Liberalii care au dat partidul în judecată riscă excluderea din grupurile parlamentare",
+        "link": "https://www.mediafax.ro/politic/alina-gorghiu-il-acuza-pe-bolojan-de-santaj-dupa-decizia-pnl-liberalii-care-au-dat-partidul-in-judecata-risca-excluderea-din-grupurile-parlamentare-23840514"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Tensiuni în PNL: Bolojan le dă ultimatum contestatarilor și vrea recuperarea datoriilor partidului. Alina Gorghiu acuză „șantaj” (VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/tensiuni-in-pnl-bolojan-le-da-ultimatum-contestatarilor-si-vrea-recuperarea-datoriilor-partidului-alina-gorghiu-acuza-santaj-206472.html"
+      }
+    ],
+    "published_at": 1794250514,
+    "title_hu": "Gorghiu nem hátrál meg a PNL kongresszusa miatt indított perben",
+    "lead_hu": "Alina Gorghiu hétfőn ismét elutasította, hogy visszavonja a PNL kongresszusát megtámadó bírósági beadványát. A politikus Ilie Bolojantól a döntés felülvizsgálatát kérte, és azt is jelezte, hogy sem a pártelnöktől, sem Dan Motreanutól nem tart.",
+    "content_hu": "• **A PNL vezetésének határozata** tíz napot szabott azoknak a párttagoknak, akik jogi úton támadták meg a kongresszust, hogy lezárják a pereiket. Ha ezt nem teszik meg, kizárhatják őket a párt parlamenti frakcióiból; a döntés nem a párttagságuk megszüntetéséről rendelkezett.\n\n• **Alina Gorghiu hétfőn reagált** az intézkedésre, amelyet a párt Nemzeti Politikai Bürójának súlyos döntéseként értékelt. Nyilvánosan arra kérte Ilie Bolojan pártelnököt, hogy vizsgálja meg újra a határozatot, kérje ki szakértők véleményét, és változtasson a jogi eljárást feladni kívánó párttagokra nehezedő nyomáson.\n\n• **Gorghiu a fenyegetések ellenére is fenntartja a keresetét.** Közölte, hogy sem a bírósági beadványát, sem az ahhoz kapcsolódó eljárást nem vonja vissza. Szerinte a jogai védelmének lehetősége nem képezheti alku tárgyát, és a pártvezetés részéről is érkezhet olyan intézkedés, amelyet visszaélésnek tart.\n\n• **A politikus nem tart Bolojantól vagy Dan Motreanutól**, és azt mondta, nem hagyja, hogy megfélemlítsék. A helyzetet olyan választásként írta le, amelyben a saját jogai védelme és a parlamenti frakcióban maradás kerül szembe egymással. Hozzátette: 27 éve a PNL tagja, és korábban a párt elnöke is volt.",
+    "title_ro": "Gorghiu nu renunță la procesul privind congresul PNL",
+    "lead_ro": "Alina Gorghiu a respins din nou, luni, ideea de a-și retrage acțiunea în instanță împotriva congresului PNL. Ea i-a cerut lui Ilie Bolojan să reanalizeze hotărârea conducerii și a afirmat că nu se teme nici de liderul partidului, nici de Dan Motreanu.",
+    "content_ro": "• **Hotărârea conducerii PNL** le-a acordat zece zile membrilor care au contestat congresul în instanță pentru a renunța la procese. În caz contrar, aceștia pot fi excluși din grupurile parlamentare ale formațiunii; măsura comunicată nu prevedea încetarea calității de membru al partidului.\n\n• **Alina Gorghiu a reacționat luni** și a calificat drept gravă decizia adoptată de Biroul Politic Național. Ea i-a solicitat public lui Ilie Bolojan să reexamineze măsura, să ceară opinii de specialitate și să schimbe modul în care sunt tratați membrii cărora li se cere să renunțe la acțiunile judiciare.\n\n• **Gorghiu își menține demersul în justiție**, în pofida presiunilor. Deputata a spus că nu își va retrage nici sesizarea, nici acțiunea aflată pe rol, iar dreptul de a-și apăra interesele nu poate fi negociat. În opinia sa, o măsură abuzivă poate proveni și din partea conducerii propriului partid.\n\n• **Politiciana a afirmat că nu se teme de Bolojan sau de Dan Motreanu** și că nu va ceda intimidărilor. Ea a descris situația ca pe o alegere între apărarea propriilor drepturi și păstrarea locului în grupul parlamentar. Gorghiu a amintit că este membră PNL de 27 de ani și că a condus în trecut partidul.",
+    "importance_score": 60.0
+  },
+  {
+    "group_id": "group_23700f75a4",
+    "fingerprint": "e21f8c6191749ed4d4cbc76565fe1cf2",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
+        "link": "https://www.digi24.ro/stiri/externe/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-care-a-afectat-congelatoarele-din-supermarketuri-4028545"
+      },
+      {
+        "source": "G4Media",
+        "title": "Franța acuză Iranul că se află în spatele atacului cibernetic masiv asupra frigiderelor din supermarketuri",
+        "link": "https://www.g4media.ro/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-masiv-asupra-frigiderelor-din-supermarketuri.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Franța acuză Iranul că se află în spatele atacului cibernetic care a afectat sistemele de refrigerare din supermarketuri: „Vom impune sancțiuni”",
+        "link": "https://www.mediafax.ro/externe/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-care-a-afectat-sistemele-de-refrigerare-din-supermarketuri-vom-impune-sanctiuni-23840507"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Franța acuză Iranul de atacuri asupra frigiderelor din supermarketuri. Ce riscuri ridică incidentul",
+        "link": "https://stirileprotv.ro/stiri/international/franta-acuza-iranul-de-atacuri-asupra-frigiderelor-din-supermarketuri-ce-riscuri-ridica-incidentul.html"
+      }
+    ],
+    "published_at": 1794249522,
+    "title_hu": "Franciaország iráni hátteret tulajdonít a szupermarketek hűtőit érő kibertámadásoknak",
+    "lead_hu": "A francia kormány Iránt tette felelőssé a múlt havi támadásokért, amelyek több száz üzlet hűtő- és fagyasztórendszerét érintették. A párizsi ügyészség nyomozást indított egy, az iráni Forradalmi Gárdához kötött kiberegység vezetőjével szemben.",
+    "content_hu": "• **A francia hatóságok szerint Irán állhat a támadás mögött:** Jean-Noël Barrot külügyminiszter sajtótájékoztatón közölte, hogy az ügynek következményei lesznek, és európai szintű szankciókat helyezett kilátásba a felelősökkel szemben.\n\n• **A múlt hónapban több száz franciaországi szupermarket hűtőberendezése károsodott.** A kibertámadás miatt hűtők és fagyasztók melegedtek fel, ami friss és fagyasztott élelmiszerek romlásához vezetett. A veszteséget több millió euróra becsülik.\n\n• **A párizsi ügyészség külön nyomozást indított** az iráni Iszlám Forradalmi Gárdához kapcsolódó támadó kiberegység vezetője ellen. Az eljárás megindítását az ügyészség jelentette be; a forrás nem közöl részleteket arról, hogy a gyanúsítottat őrizetbe vették-e.\n\n• **Franciaország a történteket az eddigi jelentős kibertámadások közé sorolta.** A hatóságok állami támogatást élvező iráni hackerek szerepét gyanítják, korábbi sajtóértesülések pedig két, az ügyet ismerő forrásra hivatkoztak. A közölt információk nem ismertetik a támadás technikai módszerét.\n\n• **Más európai országok üzleteit is érték hasonló incidensek, de kapcsolatuk nem tisztázott.** Az előző héten hét másik országban is érintettek szupermarketeket, ám a francia támadásokkal való összefüggésről egyelőre nincs megerősített adat.",
+    "title_ro": "Franța atribuie Iranului atacurile cibernetice asupra sistemelor frigorifice din supermarketuri",
+    "lead_ro": "Guvernul francez consideră că Iranul s-ar afla în spatele atacurilor de luna trecută, care au afectat sistemele frigorifice din sute de magazine. Procuratura din Paris a început o anchetă privind conducătorul unei unități cibernetice asociate Gardienilor Revoluției din Iran.",
+    "content_ro": "• **Autoritățile franceze indică Iranul drept posibil responsabil:** ministrul de externe Jean-Noël Barrot a declarat, în cadrul unei conferințe de presă, că vor exista consecințe și a anunțat că Franța va susține sancțiuni la nivel european împotriva celor considerați vinovați.\n\n• **Atacul de luna trecută a afectat frigiderele și congelatoarele din sute de supermarketuri franceze.** Echipamentele s-au încălzit, iar produse proaspete și congelate s-au deteriorat. Valoarea pierderilor este estimată la câteva milioane de euro.\n\n• **Procuratura din Paris a deschis o anchetă separată** împotriva șefului unei unități de operațiuni cibernetice asociate cu Gardienii Revoluției Islamice din Iran. Anunțul privind procedura a fost făcut de procuror; sursa nu precizează dacă persoana vizată a fost reținută.\n\n• **Parisul consideră incidentul unul dintre atacurile cibernetice importante din ultima perioadă.** Autoritățile suspectează implicarea unor hackeri sprijiniți de statul iranian, iar relatări anterioare au citat două surse familiarizate cu cazul. Informațiile publicate nu descriu metoda tehnică folosită.\n\n• **Incidente asemănătoare au fost raportate și în alte state europene, însă legătura nu este confirmată.** În săptămâna precedentă, supermarketuri din alte șapte țări au fost afectate de probleme ale sistemelor frigorifice. Nu există, deocamdată, date care să stabilească dacă acele atacuri au legătură cu cel din Franța.",
+    "importance_score": 60.0
+  },
+  {
     "group_id": "group_c10e087c96",
     "fingerprint": "4a8a368080d538fb3cbe54d98366853e",
     "category": "Politika",
@@ -2655,40 +2738,6 @@
     "importance_score": 53.0
   },
   {
-    "group_id": "group_32007f37d9",
-    "fingerprint": "aa706d814e0b5e67380e0e53903f08fd",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Scadal în PNL. Alina Gorghiu: Nu mi-e frică de Ilie Bolojan sau de Dan Motreanu. N-o să mă las şantajată, intimidată",
-        "link": "https://stirileprotv.ro/stiri/politic/scadal-in-pnl-alina-gorghiu-nu-mi-e-frica-de-ilie-bolojan-sau-de-dan-motreanu-n-o-sa-ma-las-santajata-intimidata.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Gorghiu, către Bolojan: Când condiţionezi apartenenţa la grupul parlamentar de renunţarea la justiţie, ai depăşit o linie roşie",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/gorghiu-catre-bolojan-cand-conditionezi-apartenenta-la-grupul-parlamentar-de-renuntarea-la-justitie-ai-depasit-o-linie-rosie-4028461"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Alina Gorghiu îl acuză pe Bolojan de „șantaj” după decizia PNL. Liberalii care au dat partidul în judecată riscă excluderea din grupurile parlamentare",
-        "link": "https://www.mediafax.ro/politic/alina-gorghiu-il-acuza-pe-bolojan-de-santaj-dupa-decizia-pnl-liberalii-care-au-dat-partidul-in-judecata-risca-excluderea-din-grupurile-parlamentare-23840514"
-      }
-    ],
-    "published_at": 1794250514,
-    "title_hu": "Gorghiu nem hátrál meg a PNL kongresszusa miatt indított perben",
-    "lead_hu": "Alina Gorghiu hétfőn ismét elutasította, hogy visszavonja a PNL kongresszusát megtámadó bírósági beadványát. A politikus Ilie Bolojantól a döntés felülvizsgálatát kérte, és azt is jelezte, hogy sem a pártelnöktől, sem Dan Motreanutól nem tart.",
-    "content_hu": "• **A PNL vezetésének határozata** tíz napot szabott azoknak a párttagoknak, akik jogi úton támadták meg a kongresszust, hogy lezárják a pereiket. Ha ezt nem teszik meg, kizárhatják őket a párt parlamenti frakcióiból; a döntés nem a párttagságuk megszüntetéséről rendelkezett.\n\n• **Alina Gorghiu hétfőn reagált** az intézkedésre, amelyet a párt Nemzeti Politikai Bürójának súlyos döntéseként értékelt. Nyilvánosan arra kérte Ilie Bolojan pártelnököt, hogy vizsgálja meg újra a határozatot, kérje ki szakértők véleményét, és változtasson a jogi eljárást feladni kívánó párttagokra nehezedő nyomáson.\n\n• **Gorghiu a fenyegetések ellenére is fenntartja a keresetét.** Közölte, hogy sem a bírósági beadványát, sem az ahhoz kapcsolódó eljárást nem vonja vissza. Szerinte a jogai védelmének lehetősége nem képezheti alku tárgyát, és a pártvezetés részéről is érkezhet olyan intézkedés, amelyet visszaélésnek tart.\n\n• **A politikus nem tart Bolojantól vagy Dan Motreanutól**, és azt mondta, nem hagyja, hogy megfélemlítsék. A helyzetet olyan választásként írta le, amelyben a saját jogai védelme és a parlamenti frakcióban maradás kerül szembe egymással. Hozzátette: 27 éve a PNL tagja, és korábban a párt elnöke is volt.",
-    "title_ro": "Gorghiu nu renunță la procesul privind congresul PNL",
-    "lead_ro": "Alina Gorghiu a respins din nou, luni, ideea de a-și retrage acțiunea în instanță împotriva congresului PNL. Ea i-a cerut lui Ilie Bolojan să reanalizeze hotărârea conducerii și a afirmat că nu se teme nici de liderul partidului, nici de Dan Motreanu.",
-    "content_ro": "• **Hotărârea conducerii PNL** le-a acordat zece zile membrilor care au contestat congresul în instanță pentru a renunța la procese. În caz contrar, aceștia pot fi excluși din grupurile parlamentare ale formațiunii; măsura comunicată nu prevedea încetarea calității de membru al partidului.\n\n• **Alina Gorghiu a reacționat luni** și a calificat drept gravă decizia adoptată de Biroul Politic Național. Ea i-a solicitat public lui Ilie Bolojan să reexamineze măsura, să ceară opinii de specialitate și să schimbe modul în care sunt tratați membrii cărora li se cere să renunțe la acțiunile judiciare.\n\n• **Gorghiu își menține demersul în justiție**, în pofida presiunilor. Deputata a spus că nu își va retrage nici sesizarea, nici acțiunea aflată pe rol, iar dreptul de a-și apăra interesele nu poate fi negociat. În opinia sa, o măsură abuzivă poate proveni și din partea conducerii propriului partid.\n\n• **Politiciana a afirmat că nu se teme de Bolojan sau de Dan Motreanu** și că nu va ceda intimidărilor. Ea a descris situația ca pe o alegere între apărarea propriilor drepturi și păstrarea locului în grupul parlamentar. Gorghiu a amintit că este membră PNL de 27 de ani și că a condus în trecut partidul.",
-    "importance_score": 50.0
-  },
-  {
     "group_id": "group_eb9a884dc2",
     "fingerprint": "9487db2099d728740175ad4f56a5f255",
     "category": "Általános",
@@ -2720,40 +2769,6 @@
     "title_ro": "Nicușor Dan va vorbi despre provocările recente și prioritățile perioadei următoare",
     "lead_ro": "Președintele României, Nicușor Dan, va susține marți, 10 noiembrie, de la ora 19:00, o conferință de presă la Palatul Cotroceni din București. El a anunțat luni seară că va aborda provocările din ultimele luni și prioritățile pentru perioada următoare; evenimentul va fi transmis în direct.",
     "content_ro": "• **Marți, 10 noiembrie, la ora 19:00**, Nicușor Dan va susține o conferință de presă la Palatul Cotroceni, în București. Administrația Prezidențială a comunicat programul, iar șeful statului a confirmat luni seară întâlnirea cu presa.\n\n• **Provocările recente și prioritățile pentru perioada următoare** se numără printre subiectele indicate de președinte. Astfel, există acum câteva repere generale privind agenda conferinței, însă nu au fost oferite precizări suplimentare despre temele care vor fi detaliate.\n\n• **Conferința va putea fi urmărită în direct.** Transmisiunea va fi disponibilă prin sistemul comun folosit de reprezentanții mass-media și pe pagina oficială de internet a Administrației Prezidențiale.\n\n• **Evenimentul are loc după vizita la București a Ursulei von der Leyen.** La Palatul Cotroceni, președinta Comisiei Europene a discutat despre securitatea regiunii Mării Negre, sprijinul pentru Ucraina și intensificarea colaborării europene în domeniul apărării.\n\n• **Uniunea Europeană alocă 10 milioane de euro pentru operațiuni de căutare și salvare** în contextul incidentelor din zona Mării Negre. Von der Leyen a cerut și accelerarea punerii în funcțiune a centrului regional de securitate strategică.",
-    "importance_score": 50.0
-  },
-  {
-    "group_id": "group_23700f75a4",
-    "fingerprint": "e21f8c6191749ed4d4cbc76565fe1cf2",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Franța acuză oficial Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
-        "link": "https://www.digi24.ro/stiri/externe/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-care-a-afectat-congelatoarele-din-supermarketuri-4028545"
-      },
-      {
-        "source": "G4Media",
-        "title": "Franța acuză Iranul că se află în spatele atacului cibernetic masiv asupra frigiderelor din supermarketuri",
-        "link": "https://www.g4media.ro/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-masiv-asupra-frigiderelor-din-supermarketuri.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Franța acuză Iranul că se află în spatele atacului cibernetic care a afectat sistemele de refrigerare din supermarketuri: „Vom impune sancțiuni”",
-        "link": "https://www.mediafax.ro/externe/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-care-a-afectat-sistemele-de-refrigerare-din-supermarketuri-vom-impune-sanctiuni-23840507"
-      }
-    ],
-    "published_at": 1794249522,
-    "title_hu": "Franciaország iráni hátteret tulajdonít a szupermarketek hűtőit érő kibertámadásoknak",
-    "lead_hu": "A francia kormány Iránt tette felelőssé a múlt havi támadásokért, amelyek több száz üzlet hűtő- és fagyasztórendszerét érintették. A párizsi ügyészség nyomozást indított egy, az iráni Forradalmi Gárdához kötött kiberegység vezetőjével szemben.",
-    "content_hu": "• **A francia hatóságok szerint Irán állhat a támadás mögött:** Jean-Noël Barrot külügyminiszter sajtótájékoztatón közölte, hogy az ügynek következményei lesznek, és európai szintű szankciókat helyezett kilátásba a felelősökkel szemben.\n\n• **A múlt hónapban több száz franciaországi szupermarket hűtőberendezése károsodott.** A kibertámadás miatt hűtők és fagyasztók melegedtek fel, ami friss és fagyasztott élelmiszerek romlásához vezetett. A veszteséget több millió euróra becsülik.\n\n• **A párizsi ügyészség külön nyomozást indított** az iráni Iszlám Forradalmi Gárdához kapcsolódó támadó kiberegység vezetője ellen. Az eljárás megindítását az ügyészség jelentette be; a forrás nem közöl részleteket arról, hogy a gyanúsítottat őrizetbe vették-e.\n\n• **Franciaország a történteket az eddigi jelentős kibertámadások közé sorolta.** A hatóságok állami támogatást élvező iráni hackerek szerepét gyanítják, korábbi sajtóértesülések pedig két, az ügyet ismerő forrásra hivatkoztak. A közölt információk nem ismertetik a támadás technikai módszerét.\n\n• **Más európai országok üzleteit is érték hasonló incidensek, de kapcsolatuk nem tisztázott.** Az előző héten hét másik országban is érintettek szupermarketeket, ám a francia támadásokkal való összefüggésről egyelőre nincs megerősített adat.",
-    "title_ro": "Franța atribuie Iranului atacurile cibernetice asupra sistemelor frigorifice din supermarketuri",
-    "lead_ro": "Guvernul francez consideră că Iranul s-ar afla în spatele atacurilor de luna trecută, care au afectat sistemele frigorifice din sute de magazine. Procuratura din Paris a început o anchetă privind conducătorul unei unități cibernetice asociate Gardienilor Revoluției din Iran.",
-    "content_ro": "• **Autoritățile franceze indică Iranul drept posibil responsabil:** ministrul de externe Jean-Noël Barrot a declarat, în cadrul unei conferințe de presă, că vor exista consecințe și a anunțat că Franța va susține sancțiuni la nivel european împotriva celor considerați vinovați.\n\n• **Atacul de luna trecută a afectat frigiderele și congelatoarele din sute de supermarketuri franceze.** Echipamentele s-au încălzit, iar produse proaspete și congelate s-au deteriorat. Valoarea pierderilor este estimată la câteva milioane de euro.\n\n• **Procuratura din Paris a deschis o anchetă separată** împotriva șefului unei unități de operațiuni cibernetice asociate cu Gardienii Revoluției Islamice din Iran. Anunțul privind procedura a fost făcut de procuror; sursa nu precizează dacă persoana vizată a fost reținută.\n\n• **Parisul consideră incidentul unul dintre atacurile cibernetice importante din ultima perioadă.** Autoritățile suspectează implicarea unor hackeri sprijiniți de statul iranian, iar relatări anterioare au citat două surse familiarizate cu cazul. Informațiile publicate nu descriu metoda tehnică folosită.\n\n• **Incidente asemănătoare au fost raportate și în alte state europene, însă legătura nu este confirmată.** În săptămâna precedentă, supermarketuri din alte șapte țări au fost afectate de probleme ale sistemelor frigorifice. Nu există, deocamdată, date care să stabilească dacă acele atacuri au legătură cu cel din Franța.",
     "importance_score": 50.0
   },
   {
@@ -4712,64 +4727,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_dd355bf6e1",
-    "fingerprint": "f054787d1ef8c9125a04bfb6f68fcd95",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "CNAS publică ghidul pentru pacientele cu cancer ovarian. Ce investigații și tratamente se decontează",
-        "link": "https://www.mediafax.ro/sanatate/cnas-publica-ghidul-pentru-pacientele-cu-cancer-ovarian-ce-investigatii-si-tratamente-se-deconteaza-23840425"
-      },
-      {
-        "source": "Adevărul",
-        "title": "CNAS a publicat ghidul pentru pacientele cu cancer ovarian. Ce investigații și tratamente sunt decontate, inclusiv pentru persoanele neasigurate",
-        "link": "https://adevarul.ro/stiri-interne/sanatate/cnas-a-publicat-ghidul-pentru-pacientele-cu-cancer-2570124.html"
-      }
-    ],
-    "published_at": 1794241686,
-    "title_hu": "A CNAS útmutatót tett közzé a petefészekrák ellátásáról",
-    "lead_hu": "A román Országos Egészségbiztosítási Pénztár tájékoztatója a petefészekrák kivizsgálásának és kezelésének menetét, valamint a közfinanszírozott szolgáltatásokat ismerteti. A dokumentum a korai orvoshoz fordulás jelentőségére is felhívja a figyelmet.",
-    "content_hu": "• **A CNAS útmutatója** összefoglalja, milyen lépéseket tehetnek a petefészekrákkal diagnosztizált nők a kivizsgálás és a kezelés során, továbbá milyen ellátásra jogosultak a közfinanszírozott egészségügyi rendszerben. A tájékoztató a diagnózis megerősítéséhez vagy kizárásához igénybe vehető, finanszírozott vizsgálatokról is információt ad.\n\n• **A lehetséges figyelmeztető jelek** közé tartozhat a tartós puffadás, a hasi vagy kismedencei fájdalom, a korai teltségérzet, illetve a menstruációs ciklus szokatlan változása. Ezek a tünetek más betegségeknél is előfordulhatnak, ezért önmagukban nem jelentenek diagnózist.\n\n• **Szűrővizsgálat jelenleg nincs** a petefészekrák korai felismerésére. Emiatt fontos a tünetek észlelésekor orvosi vizsgálatot kérni. Az onkológiai gyanút jelző, „SO” jelölésű beutaló hozzáférést biztosíthat a szükséges vizsgálatokhoz; a jogszabályi feltételek teljesülése esetén ez biztosítással nem rendelkezők számára is elérhető.\n\n• **A kivizsgálás** nappali kórházi ellátás keretében igénybe vehető, egységesített szolgáltatási csomagokra épülhet. Ezek a diagnózis megállapítását, a betegség kiterjedésének felmérését és a páciens általános állapotának vizsgálatát szolgálják. A CNAS azt javasolja, hogy a diagnosztikai folyamat 28 naptári napon belül záruljon le.\n\n• **A diagnózis megerősítése után** a betegek az Országos Onkológiai Programon keresztül juthatnak daganatellenes kezelésekhez; a törvényi feltételek mellett ez a lehetőség nem biztosított páciensekre is kiterjed. Az útmutató bizonyos petefészekrák-típusok esetén genetikai vizsgálatokat is említ.",
-    "title_ro": "CNAS publică un ghid privind îngrijirea cancerului ovarian",
-    "lead_ro": "Casa Națională de Asigurări de Sănătate a prezentat un ghid despre investigarea și tratarea cancerului ovarian, precum și despre serviciile finanțate în sistemul public. Documentul subliniază importanța evaluării medicale atunci când apar simptome care pot necesita atenție.",
-    "content_ro": "",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_39399b979e",
-    "fingerprint": "babcfbe0066d0bd6e07f5fcf1ffd08b8",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Jandarmeria Română: Pentru manifestaţia din 14 noiembrie am semnalat riscuri concrete. Acuzațiile lui Piperea",
-        "link": "https://www.digi24.ro/stiri/actualitate/jandarmeria-romana-pentru-manifestatia-din-14-noiembrie-am-semnalat-riscuri-concrete-acuzatiile-lui-piperea-4028095"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "„Nu îl mai chemam niciodată” » Marius Șumudică a dat de pământ cu Ionuț Radu: „Total neprofesionist! Trebuia să vină cu bicicleta”",
-        "link": "https://www.gsp.ro/fotbal/nationala/marius-sumudica-a-dat-de-pamant-cu-ionut-radu-romania-convocare-997782.html"
-      }
-    ],
-    "published_at": 1794241664,
-    "title_hu": "Biztonsági kockázatokra hivatkozott a csendőrség a november 14-i tüntetés ügyében",
-    "lead_hu": "A román csendőrség szerint a november 14-re, a bukaresti Parlamenthez tervezett demonstráció idején biztonsági kockázatot jelenthetett a Románia–Lengyelország mérkőzés is. Gheorghe Piperea európai parlamenti képviselő a tüntetés engedélyezésének elmaradása miatt magyarázatot követelt Ciprian Ciucu főpolgármestertől.",
-    "content_hu": "• **A november 14-i demonstráció** kapcsán a román csendőrség azt közölte, hogy hatáskörében jelezte az általa azonosított biztonsági kockázatokat. A tüntetést a Parlament közelében, az Izvor parkban tervezték megtartani, de nem kapott engedélyt.\n\n• **A Románia–Lengyelország labdarúgó-mérkőzés** ugyanarra a napra esett. A csendőrség számításai szerint hozzávetőleg háromezer lengyel szurkoló is tartózkodhatott volna a főváros központjában, a demonstrációval egy időben.\n\n• **A csendőrség feladataként** a lehetséges incidensek megelőzését és az emberek biztonságának védelmét nevezte meg. Közlése szerint támogatja a békés tiltakozáshoz való jog érvényesülését, az engedélyezésről azonban az illetékes hatóságok döntenek.\n\n• **Gheorghe Piperea**, az AUR európai parlamenti képviselője azt kérte Ciprian Ciucu bukaresti főpolgármestertől, hogy ismertesse az elutasítás alapjául szolgáló konkrét indokokat és bizonyítékokat. Piperea szerint tisztázni kell a döntés körülményeit.\n\n• **Piperea vitatta** az önkormányzat által felhozott indokokat, köztük azt az állítást, hogy megváltozott a tiltakozás célja, illetve hogy erőszakra buzdítottak. Jelezte: ha nem kap érdemi választ, jogi eszközökkel kíván fellépni a döntésért felelősök ellen.",
-    "title_ro": "Jandarmeria a semnalat riscuri pentru manifestația programată la 14 noiembrie",
-    "lead_ro": "Jandarmeria Română a indicat posibile probleme de siguranță pentru manifestația planificată la București în ziua meciului România–Polonia. Eurodeputatul Gheorghe Piperea i-a cerut primarului general Ciprian Ciucu să prezinte motivele și probele care au stat la baza neavizării protestului.",
-    "content_ro": "• **Manifestația din 14 noiembrie** era programată în Parcul Izvor, în apropierea Parlamentului, însă nu a primit aviz. Jandarmeria a transmis că, în limitele atribuțiilor sale, a semnalat riscurile pe care le-a identificat în legătură cu organizarea evenimentului.\n\n• **Meciul România–Polonia** urma să aibă loc în aceeași zi. Potrivit estimării Jandarmeriei, aproximativ 3.000 de suporteri polonezi ar fi putut ajunge în centrul Bucureștiului în intervalul în care era prevăzută și manifestația.\n\n• **Rolul Jandarmeriei**, potrivit comunicării sale, este să împiedice producerea incidentelor și să protejeze persoanele. Instituția a afirmat că susține dreptul la protest pașnic, precizând totodată că hotărârea privind avizarea aparține autorităților competente.\n\n• **Gheorghe Piperea**, eurodeputat AUR, i-a solicitat primarului general Ciprian Ciucu să explice public pe ce informații și argumente s-a bazat refuzul. Protestul urma să aibă loc în Parcul Izvor, iar Piperea a cerut clarificări privind decizia administrației municipale.\n\n• **Piperea a contestat** justificările invocate de municipalitate, inclusiv presupusa schimbare a obiectivului manifestației și acuzațiile referitoare la îndemnuri la violență. El a anunțat că ar putea folosi căile legale pentru a-i trage la răspundere pe cei pe care îi consideră responsabili, dacă nu primește explicații convingătoare.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_446a32705f",
     "fingerprint": "f31ac9ea380cb98c14fc0da16feb12da",
     "category": "Politika",
@@ -5259,6 +5216,35 @@
     "lead_ro": "Actrița franceză, în vârstă de 27 de ani, a fost găsită sâmbătă dimineață în Les Pavillons-sous-Bois, lângă o clădire a centrului comunal de acțiune socială. Autoritățile cercetează cum a ajuns într-o zonă inaccesibilă publicului și ce a provocat decesul.",
     "content_ro": "• **Angèle Metzger, actriță franceză în vârstă de 27 de ani**, a fost găsită fără viață sâmbătă dimineață în localitatea Les Pavillons-sous-Bois, din departamentul Seine-Saint-Denis. Locul se afla lângă sediul Centrului comunal de acțiune socială (CCAS), în apropierea unei parcări subterane.\n\n• **Echipajele de urgență** au ajuns la fața locului la scurt timp după alertare, însă încercările de resuscitare nu au avut rezultat. Până în prezent, nu a fost stabilită public o concluzie definitivă privind cauza morții.\n\n• **O posibilă cădere** este una dintre ipotezele luate în calcul. Metzger ar fi putut cădea de pe o scară sau de pe o platformă aflată deasupra parcării, însă informațiile disponibile nu confirmă această variantă.\n\n• **Imaginile camerelor de supraveghere** arată că actrița a trecut de o barieră de acces și a intrat într-un spațiu al clădirii care nu era deschis publicului. Înregistrările nu lămuresc singure ce s-a petrecut ulterior.\n\n• **Poliția din Livry-Gargan** a fost sesizată pentru a reconstitui succesiunea faptelor și a clarifica împrejurările incidentului. Metzger devenise cunoscută unui public mai larg în 2022, după apariția în serialul „Chair Tendre”.",
     "importance_score": 30.0
+  },
+  {
+    "group_id": "group_39399b979e",
+    "fingerprint": "babcfbe0066d0bd6e07f5fcf1ffd08b8",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Jandarmeria Română: Pentru manifestaţia din 14 noiembrie am semnalat riscuri concrete. Acuzațiile lui Piperea",
+        "link": "https://www.digi24.ro/stiri/actualitate/jandarmeria-romana-pentru-manifestatia-din-14-noiembrie-am-semnalat-riscuri-concrete-acuzatiile-lui-piperea-4028095"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "„Nu îl mai chemam niciodată” » Marius Șumudică a dat de pământ cu Ionuț Radu: „Total neprofesionist! Trebuia să vină cu bicicleta”",
+        "link": "https://www.gsp.ro/fotbal/nationala/marius-sumudica-a-dat-de-pamant-cu-ionut-radu-romania-convocare-997782.html"
+      }
+    ],
+    "published_at": 1794241664,
+    "title_hu": "Biztonsági kockázatokra hivatkozott a csendőrség a november 14-i tüntetés ügyében",
+    "lead_hu": "A román csendőrség szerint a november 14-re, a bukaresti Parlamenthez tervezett demonstráció idején biztonsági kockázatot jelenthetett a Románia–Lengyelország mérkőzés is. Gheorghe Piperea európai parlamenti képviselő a tüntetés engedélyezésének elmaradása miatt magyarázatot követelt Ciprian Ciucu főpolgármestertől.",
+    "content_hu": "• **A november 14-i demonstráció** kapcsán a román csendőrség azt közölte, hogy hatáskörében jelezte az általa azonosított biztonsági kockázatokat. A tüntetést a Parlament közelében, az Izvor parkban tervezték megtartani, de nem kapott engedélyt.\n\n• **A Románia–Lengyelország labdarúgó-mérkőzés** ugyanarra a napra esett. A csendőrség számításai szerint hozzávetőleg háromezer lengyel szurkoló is tartózkodhatott volna a főváros központjában, a demonstrációval egy időben.\n\n• **A csendőrség feladataként** a lehetséges incidensek megelőzését és az emberek biztonságának védelmét nevezte meg. Közlése szerint támogatja a békés tiltakozáshoz való jog érvényesülését, az engedélyezésről azonban az illetékes hatóságok döntenek.\n\n• **Gheorghe Piperea**, az AUR európai parlamenti képviselője azt kérte Ciprian Ciucu bukaresti főpolgármestertől, hogy ismertesse az elutasítás alapjául szolgáló konkrét indokokat és bizonyítékokat. Piperea szerint tisztázni kell a döntés körülményeit.\n\n• **Piperea vitatta** az önkormányzat által felhozott indokokat, köztük azt az állítást, hogy megváltozott a tiltakozás célja, illetve hogy erőszakra buzdítottak. Jelezte: ha nem kap érdemi választ, jogi eszközökkel kíván fellépni a döntésért felelősök ellen.",
+    "title_ro": "Jandarmeria a semnalat riscuri pentru manifestația programată la 14 noiembrie",
+    "lead_ro": "Jandarmeria Română a indicat posibile probleme de siguranță pentru manifestația planificată la București în ziua meciului România–Polonia. Eurodeputatul Gheorghe Piperea i-a cerut primarului general Ciprian Ciucu să prezinte motivele și probele care au stat la baza neavizării protestului.",
+    "content_ro": "• **Manifestația din 14 noiembrie** era programată în Parcul Izvor, în apropierea Parlamentului, însă nu a primit aviz. Jandarmeria a transmis că, în limitele atribuțiilor sale, a semnalat riscurile pe care le-a identificat în legătură cu organizarea evenimentului.\n\n• **Meciul România–Polonia** urma să aibă loc în aceeași zi. Potrivit estimării Jandarmeriei, aproximativ 3.000 de suporteri polonezi ar fi putut ajunge în centrul Bucureștiului în intervalul în care era prevăzută și manifestația.\n\n• **Rolul Jandarmeriei**, potrivit comunicării sale, este să împiedice producerea incidentelor și să protejeze persoanele. Instituția a afirmat că susține dreptul la protest pașnic, precizând totodată că hotărârea privind avizarea aparține autorităților competente.\n\n• **Gheorghe Piperea**, eurodeputat AUR, i-a solicitat primarului general Ciprian Ciucu să explice public pe ce informații și argumente s-a bazat refuzul. Protestul urma să aibă loc în Parcul Izvor, iar Piperea a cerut clarificări privind decizia administrației municipale.\n\n• **Piperea a contestat** justificările invocate de municipalitate, inclusiv presupusa schimbare a obiectivului manifestației și acuzațiile referitoare la îndemnuri la violență. El a anunțat că ar putea folosi căile legale pentru a-i trage la răspundere pe cei pe care îi consideră responsabili, dacă nu primește explicații convingătoare.",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_83857a4523",
@@ -6007,35 +5993,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_40bb687291",
-    "fingerprint": "2ef0a13964ad6087b3db902ed1807895",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
-        "link": "https://hotnews.ro/un-lider-pnl-este-convins-de-scorul-din-sondaje-al-polului-dreptei-oamenii-vor-fugi-de-psd-2398734"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Siegfried Mureșan: PSD se teme de o alianță PNL-USR. „Grindeanu știe că partidul va ajunge pe locul al treilea în sondaje”",
-        "link": "https://adevarul.ro/politica/siegfried-muresan-psd-se-teme-de-o-alianta-2570093.html"
-      }
-    ],
-    "published_at": 1794230882,
-    "title_hu": "A PNL 2028-ra közös jobbközép alternatívát építene",
-    "lead_hu": "A PNL vezetése jóváhagyta a „modernizációs pólus” kialakításának megkezdését, első lépésként pedig tárgyalásokat indítana a Forța Dreptei párttal az együttműködésről és az esetleges fúzióról. Siegfried Mureșan szerint az új formáció 30 százalék fölötti támogatottságot érhet el, miközben a PSD-t 20 százalék alá várja.",
-    "content_hu": "• **A PNL vezetésének döntése** nyomán megkezdődik egy jobbközép politikai együttműködés, az úgynevezett modernizációs pólus kialakítása. Ennek első szakaszában tárgyalásokat kezdenek Ludovic Orban pártjával, a Forța Dreptei-jel az esetleges fúzióról.\n\n• **Siegfried Mureșan europarlamenti képviselő** úgy véli, hogy az új politikai tömörülés létrejötte után a választók több mint 30 százalékának támogatását szerezheti meg. Becslése szerint ezzel az AUR-ral hasonló erőviszonyba kerülhet, noha jelenleg a felmérésekben George Simion pártja áll az élen.\n\n• **A PSD várható eredményéről** Mureșan azt mondta párttársainak, hogy a szociáldemokraták 20 százalék alatt, a harmadik helyen szerepelhetnek. A politikus szerint ilyen támogatottság mellett csökkenne a párt vonzereje, és a választók eltávolodnának tőle.\n\n• **A kezdeményezés célja a 2028-as választás**: Ilie Bolojan, a PNL elnöke szerint ellenzékben a párt egy hiteles jelöltekkel és konkrét kormányzati javaslatokkal rendelkező jobbközép alternatíva felépítésére fordítja az időt. A párt közleménye a júniusi, 2026-os kongresszuson kijelölt irány folytatásaként mutatta be a tervet.\n\n• **Mureșan az összefogás mellett érvelt**, felidézve, hogy korábban a jobboldali pártok együttműködését tartotta fontosnak Ion Iliescu, Adrian Năstase és Victor Ponta választási legyőzésében. A jelenlegi elképzelésben a PNL és a Forța Dreptei közötti egyeztetés az elsőként megnevezett lépés.",
-    "title_ro": "PNL vrea să construiască o alternativă de centru-dreapta pentru 2028",
-    "lead_ro": "Conducerea PNL a aprobat demararea formării unui „pol de modernizare”, iar discuțiile cu partidul Forța Dreptei privind o posibilă fuziune ar urma să fie primul pas. Eurodeputatul Siegfried Mureșan estimează că noua alianță ar putea depăși 30% în sondaje și că PSD ar coborî sub pragul de 20%.",
-    "content_ro": "• **Decizia conducerii PNL** deschide procesul de creare a unei alianțe de centru-dreapta, denumită „pol de modernizare”. Prima etapă anunțată constă în negocieri cu Forța Dreptei, formațiunea condusă de fostul premier Ludovic Orban, inclusiv asupra unei posibile fuziuni.\n\n• **Siegfried Mureșan, eurodeputat liberal**, anticipează că noua construcție politică ar putea obține peste 30% din preferințele alegătorilor după înființare. În opinia sa, acest rezultat ar pune-o într-o competiție apropiată de cea cu AUR, partidul care se află în prezent pe primul loc în sondaje.\n\n• **În privința PSD**, Mureșan a estimat că formațiunea ar putea ajunge sub 20% și pe locul al treilea. El a susținut că o asemenea poziție ar diminua capacitatea partidului de a atrage alegători și ar putea determina o parte dintre aceștia să se îndepărteze de PSD.\n\n• **Obiectivul politic este scrutinul din 2028**: președintele PNL, Ilie Bolojan, a afirmat că partidul va folosi perioada petrecută în opoziție pentru a pregăti o alternativă de centru-dreapta, cu candidați credibili și propuneri concrete de guvernare. Comunicatul PNL leagă planul de direcția adoptată la congresul partidului din iunie 2026.\n\n• **Mureșan a invocat cooperarea partidelor de dreapta** ca mijloc de a câștiga alegeri, menționând în acest context confruntările electorale cu Ion Iliescu, Adrian Năstase și Victor Ponta. În planul actual, discuțiile dintre PNL și Forța Dreptei sunt primul pas concret anunțat pentru formarea polului.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_ce988cc48f",
     "fingerprint": "bba8d0cc4aacd5792f9787b2cd4b7f2f",
     "category": "Politika",
@@ -6353,6 +6310,35 @@
     "lead_ro": "Ministrul Justiției, Radu Marinescu, a comentat duminică seara, la B1 TV, acuzațiile privind apropierea PSD de justiție. El a prezentat dialogul dintre instituțiile statului drept o necesitate de funcționare, nu ca pe o apropiere politică de partid.",
     "content_ro": "• **Radu Marinescu, ministrul Justiției,** a fost invitat duminică seara la postul B1 TV, unde a răspuns criticilor potrivit cărora PSD s-ar apropia de sistemul judiciar. El a respins această interpretare și a apreciat că astfel de acuzații nu contribuie la rezolvarea problemelor concrete.\n\n• **În argumentația sa, ministrul a invocat separarea puterilor în stat:** legislativul, executivul și justiția sunt componente esențiale ale arhitecturii instituționale. Marinescu a susținut că magistrații nu trebuie priviți ca persoane care execută solicitările guvernului aflat la conducere.\n\n• **Dialogul între instituții a fost prezentat** de Marinescu drept un mijloc de comunicare și de identificare a unor soluții. În opinia sa, consultarea dintre autorități nu înseamnă apropiere politică, ci reprezintă o modalitate de a menține relații funcționale între ramurile statului.\n\n• **Referitor la presupusa apropiere de PSD,** ministrul a susținut că discuțiile urmăresc o relație echilibrată între puterile statului. La finalul intervenției, el a pledat pentru continuarea dialogului, fără să anunțe o măsură concretă sau un acord nou în această privință.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_40bb687291",
+    "fingerprint": "2ef0a13964ad6087b3db902ed1807895",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
+        "link": "https://hotnews.ro/un-lider-pnl-este-convins-de-scorul-din-sondaje-al-polului-dreptei-oamenii-vor-fugi-de-psd-2398734"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Siegfried Mureșan: PSD se teme de o alianță PNL-USR. „Grindeanu știe că partidul va ajunge pe locul al treilea în sondaje”",
+        "link": "https://adevarul.ro/politica/siegfried-muresan-psd-se-teme-de-o-alianta-2570093.html"
+      }
+    ],
+    "published_at": 1794230882,
+    "title_hu": "A PNL 2028-ra közös jobbközép alternatívát építene",
+    "lead_hu": "A PNL vezetése jóváhagyta a „modernizációs pólus” kialakításának megkezdését, első lépésként pedig tárgyalásokat indítana a Forța Dreptei párttal az együttműködésről és az esetleges fúzióról. Siegfried Mureșan szerint az új formáció 30 százalék fölötti támogatottságot érhet el, miközben a PSD-t 20 százalék alá várja.",
+    "content_hu": "• **A PNL vezetésének döntése** nyomán megkezdődik egy jobbközép politikai együttműködés, az úgynevezett modernizációs pólus kialakítása. Ennek első szakaszában tárgyalásokat kezdenek Ludovic Orban pártjával, a Forța Dreptei-jel az esetleges fúzióról.\n\n• **Siegfried Mureșan europarlamenti képviselő** úgy véli, hogy az új politikai tömörülés létrejötte után a választók több mint 30 százalékának támogatását szerezheti meg. Becslése szerint ezzel az AUR-ral hasonló erőviszonyba kerülhet, noha jelenleg a felmérésekben George Simion pártja áll az élen.\n\n• **A PSD várható eredményéről** Mureșan azt mondta párttársainak, hogy a szociáldemokraták 20 százalék alatt, a harmadik helyen szerepelhetnek. A politikus szerint ilyen támogatottság mellett csökkenne a párt vonzereje, és a választók eltávolodnának tőle.\n\n• **A kezdeményezés célja a 2028-as választás**: Ilie Bolojan, a PNL elnöke szerint ellenzékben a párt egy hiteles jelöltekkel és konkrét kormányzati javaslatokkal rendelkező jobbközép alternatíva felépítésére fordítja az időt. A párt közleménye a júniusi, 2026-os kongresszuson kijelölt irány folytatásaként mutatta be a tervet.\n\n• **Mureșan az összefogás mellett érvelt**, felidézve, hogy korábban a jobboldali pártok együttműködését tartotta fontosnak Ion Iliescu, Adrian Năstase és Victor Ponta választási legyőzésében. A jelenlegi elképzelésben a PNL és a Forța Dreptei közötti egyeztetés az elsőként megnevezett lépés.",
+    "title_ro": "PNL vrea să construiască o alternativă de centru-dreapta pentru 2028",
+    "lead_ro": "Conducerea PNL a aprobat demararea formării unui „pol de modernizare”, iar discuțiile cu partidul Forța Dreptei privind o posibilă fuziune ar urma să fie primul pas. Eurodeputatul Siegfried Mureșan estimează că noua alianță ar putea depăși 30% în sondaje și că PSD ar coborî sub pragul de 20%.",
+    "content_ro": "• **Decizia conducerii PNL** deschide procesul de creare a unei alianțe de centru-dreapta, denumită „pol de modernizare”. Prima etapă anunțată constă în negocieri cu Forța Dreptei, formațiunea condusă de fostul premier Ludovic Orban, inclusiv asupra unei posibile fuziuni.\n\n• **Siegfried Mureșan, eurodeputat liberal**, anticipează că noua construcție politică ar putea obține peste 30% din preferințele alegătorilor după înființare. În opinia sa, acest rezultat ar pune-o într-o competiție apropiată de cea cu AUR, partidul care se află în prezent pe primul loc în sondaje.\n\n• **În privința PSD**, Mureșan a estimat că formațiunea ar putea ajunge sub 20% și pe locul al treilea. El a susținut că o asemenea poziție ar diminua capacitatea partidului de a atrage alegători și ar putea determina o parte dintre aceștia să se îndepărteze de PSD.\n\n• **Obiectivul politic este scrutinul din 2028**: președintele PNL, Ilie Bolojan, a afirmat că partidul va folosi perioada petrecută în opoziție pentru a pregăti o alternativă de centru-dreapta, cu candidați credibili și propuneri concrete de guvernare. Comunicatul PNL leagă planul de direcția adoptată la congresul partidului din iunie 2026.\n\n• **Mureșan a invocat cooperarea partidelor de dreapta** ca mijloc de a câștiga alegeri, menționând în acest context confruntările electorale cu Ion Iliescu, Adrian Năstase și Victor Ponta. În planul actual, discuțiile dintre PNL și Forța Dreptei sunt primul pas concret anunțat pentru formarea polului.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_40c88da92d",
@@ -7103,6 +7089,33 @@
     "importance_score": 23.0
   },
   {
+    "group_id": "group_b0dc7362da",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Alexandru Nazare anunţă noi runde de discuţii la ECOFIN şi Eurogrup la Bruxelles. Miză importantă pentru România",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/alexandru-nazare-anunta-noi-runde-de-discutii-la-ecofin-si-eurogrup-la-bruxelles-miza-importanta-pentru-romania-4027255"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alexandru Nazare, discuție cu Mark Rutte la reuniunea Eurogrup, despre finanțarea militară, Autostrada Moldovei, rolul Băncii pentru Apărare, Securitate și Reziliență în care România participă ca stat fondator",
+        "link": "https://www.g4media.ro/alexandru-nazare-discutie-cu-mark-rutte-la-reuniunea-eurogrup-despre-finantarea-militara-autostrada-moldovei-rolul-bancii-pentru-aparare-securitate-si-rezilienta-in-care-romania-participa-ca-stat.html"
+      }
+    ],
+    "published_at": 1794209676,
+    "title_hu": "Alexandru Nazare anunţă noi runde de discuţii la ECOFIN şi Eurogrup la Bruxelles. Miză importantă pentru România",
+    "lead_hu": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contrib…",
+    "content_hu": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contribuim la deciziile europene cu priorităţi clare şi soluţii bine fundamentate.",
+    "title_ro": "Alexandru Nazare anunţă noi runde de discuţii la ECOFIN şi Eurogrup la Bruxelles. Miză importantă pentru România",
+    "lead_ro": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contrib…",
+    "content_ro": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contribuim la deciziile europene cu priorităţi clare şi soluţii bine fundamentate.",
+    "importance_score": 23.0
+  },
+  {
     "group_id": "group_36e1134d3d",
     "category": "Általános",
     "is_synthesized": false,
@@ -7127,7 +7140,7 @@
     "title_ro": "Documente CNSAS: Canibalism și pericol de moarte în fermele din Cluj din cauza lipsei de hrană",
     "lead_ro": "Rapoartele Securității din 1986, prezentate de Consiliul Național pentru Studierea Arhivelor Securității (CNSAS), dezvăluie situația dificilă din zootehnia județului Kolozsvár în ultimii ani ai regimu…",
     "content_ro": "Rapoartele Securității din 1986, prezentate de Consiliul Național pentru Studierea Arhivelor Securității (CNSAS), dezvăluie situația dificilă din zootehnia județului Kolozsvár în ultimii ani ai regimului comunist. Lipsa furajelor provoca mortalitatea păsărilor, canibalism în fermele avicole și scăderea producției de ouă, în timp ce sute de animale erau în pericol din cauza condițiilor precare de îngrijire.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_5c9ba0e7cb",
@@ -7383,6 +7396,28 @@
     "lead_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular …",
     "content_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular pentru Galatasaray în ambele manșe din semifinala Cupei Campionilor Europeni din 1989. Steaua s-a impus cu scorul de 4-0 în meciul tur, iar returul din Turcia s-a încheiat cu scorul de 1-1. ...",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_05f98878f0",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Acuzații grave după ”Visuri la cheie”! Casa construită de PRO TV, distrusă bucată cu bucată. S-a făcut evacuarea prin ordin de protecție",
+        "link": "https://www.cancan.ro/acuzatii-grave-dupa-visuri-la-cheie-casa-construita-de-pro-tv-distrusa-bucata-cu-bucata-s-a-facut-evacuarea-prin-ordin-de-protectie-21542452"
+      }
+    ],
+    "published_at": 1794252315,
+    "title_hu": "Acuzații grave după ”Visuri la cheie”! Casa construită de PRO TV, distrusă bucată cu bucată. S-a făcut evacuarea prin ordin de protecție",
+    "lead_hu": "Unul dintre cele mai emoționante cazuri difuzate de Pro TV în emisiunea ”Visuri la cheie” trece printr-o nouă dramă. Capul familiei este acuzat că ar fi distrus locuința primită în dar și amenajată sp...",
+    "content_hu": "Unul dintre cele mai emoționante cazuri difuzate de Pro TV în emisiunea ”Visuri la cheie” trece printr-o nouă dramă. Capul familiei este acuzat că ar fi distrus locuința primită în dar și amenajată special pentru nevoile lor. Bărbatul a fost reclamat la 112 chiar de către unul dintre fiii săi, care le-ar fi povestit anchetatorilor […]",
+    "title_ro": "Acuzații grave după ”Visuri la cheie”! Casa construită de PRO TV, distrusă bucată cu bucată. S-a făcut evacuarea prin ordin de protecție",
+    "lead_ro": "Unul dintre cele mai emoționante cazuri difuzate de Pro TV în emisiunea ”Visuri la cheie” trece printr-o nouă dramă. Capul familiei este acuzat că ar fi distrus locuința primită în dar și amenajată sp...",
+    "content_ro": "Unul dintre cele mai emoționante cazuri difuzate de Pro TV în emisiunea ”Visuri la cheie” trece printr-o nouă dramă. Capul familiei este acuzat că ar fi distrus locuința primită în dar și amenajată special pentru nevoile lor. Bărbatul a fost reclamat la 112 chiar de către unul dintre fiii săi, care le-ar fi povestit anchetatorilor […]",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_ef44e30524",
@@ -17373,28 +17408,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_b0dc7362da",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Alexandru Nazare anunţă noi runde de discuţii la ECOFIN şi Eurogrup la Bruxelles. Miză importantă pentru România",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/alexandru-nazare-anunta-noi-runde-de-discutii-la-ecofin-si-eurogrup-la-bruxelles-miza-importanta-pentru-romania-4027255"
-      }
-    ],
-    "published_at": 1794209676,
-    "title_hu": "Alexandru Nazare anunţă noi runde de discuţii la ECOFIN şi Eurogrup la Bruxelles. Miză importantă pentru România",
-    "lead_hu": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contrib…",
-    "content_hu": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contribuim la deciziile europene cu priorităţi clare şi soluţii bine fundamentate.",
-    "title_ro": "Alexandru Nazare anunţă noi runde de discuţii la ECOFIN şi Eurogrup la Bruxelles. Miză importantă pentru România",
-    "lead_ro": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contrib…",
-    "content_ro": "Ministrul Finanţelor, Alexandru Nazare, are luni noi runde de discuţii la ECOFIN şi Eurogrup, la Bruxelles, el afirmând că, pentru România, miza este să ne susţinem interesele strategice şi să contribuim la deciziile europene cu priorităţi clare şi soluţii bine fundamentate.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_7f5dd02c8a",
     "category": "Általános",
     "is_synthesized": false,
@@ -17414,28 +17427,6 @@
     "title_ro": "A 2027-es költségvetéshez igazítanák a rászorulóknak szánt támogatásokat",
     "lead_ro": "A cél, hogy az állam ne vállaljon kifizethetetlen kötelezettségeket.",
     "content_ro": "A cél, hogy az állam ne vállaljon kifizethetetlen kötelezettségeket.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5283085779",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Újabb 40-45 gyógyszer kerülhet fel a támogatott készítmények listájára",
-        "link": "https://www.mediatica.ro/hirek/aktualis/ujabb-40-45-gyogyszer-kerulhet-fel-a-tamogatott-keszitmenyek-listajara"
-      }
-    ],
-    "published_at": 1794209533,
-    "title_hu": "Újabb 40-45 gyógyszer kerülhet fel a támogatott készítmények listájára",
-    "lead_hu": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
-    "content_hu": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
-    "title_ro": "Újabb 40-45 gyógyszer kerülhet fel a támogatott készítmények listájára",
-    "lead_ro": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
-    "content_ro": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
     "importance_score": 0.0
   },
   {
@@ -20761,28 +20752,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_51a2813bcf",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "La finalul turului, Screciu a dat verdictul: „Cel mai incomod adversar pe care l-am avut până acum”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/cfr-cluj-universitatea-craiova-vladimir-screciu-997446.html"
-      }
-    ],
-    "published_at": 1794166081,
-    "title_hu": "La finalul turului, Screciu a dat verdictul: „Cel mai incomod adversar pe care l-am avut până acum”",
-    "lead_hu": "Vladimir Screciu (26 de ani) a fost integralist în remiza albă dintre CFR Kolozsvár și Universitatea Craiova. După meci, a spus despre formația gazdă că a fost „cel mai incomod adversar” pe care l-a a…",
-    "content_hu": "Vladimir Screciu (26 de ani) a fost integralist în remiza albă dintre CFR Kolozsvár și Universitatea Craiova. După meci, a spus despre formația gazdă că a fost „cel mai incomod adversar” pe care l-a avut campioana în turul de campionat. Punctul obținut în Gruia face ca Universitatea Craiova să încheie turul sezonului regulat ca lider al Superligii. Duelul dintre CFR și campioana în exercițiu nu a fost dintre cele mai spectaculoase. ...",
-    "title_ro": "La finalul turului, Screciu a dat verdictul: „Cel mai incomod adversar pe care l-am avut până acum”",
-    "lead_ro": "Vladimir Screciu (26 de ani) a fost integralist în remiza albă dintre CFR Kolozsvár și Universitatea Craiova. După meci, a spus despre formația gazdă că a fost „cel mai incomod adversar” pe care l-a a…",
-    "content_ro": "Vladimir Screciu (26 de ani) a fost integralist în remiza albă dintre CFR Kolozsvár și Universitatea Craiova. După meci, a spus despre formația gazdă că a fost „cel mai incomod adversar” pe care l-a avut campioana în turul de campionat. Punctul obținut în Gruia face ca Universitatea Craiova să încheie turul sezonului regulat ca lider al Superligii. Duelul dintre CFR și campioana în exercițiu nu a fost dintre cele mai spectaculoase. ...",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_1a9e9ef436",
     "fingerprint": "9955a7a9634d54b251caff2e18c52ece",
     "category": "Általános",
@@ -20875,6 +20844,35 @@
     "lead_ro": "98,43% dintre voturile valabil exprimate au fost împotriva oricărei exploatări miniere pe teritoriul comunei, iar scrutinul a îndeplinit condițiile de validare. Referendumul are caracter consultativ, însă primarul a anunțat că va recurge și la instrumente juridice împotriva proiectului de magneziu.",
     "content_ro": "• **Rezultatul final al referendumului** Dintre cei 4.431 de alegători înscriși, 2.244 au votat, prezența fiind de 50,64%. Din cele 2.229 de voturi valabile, 2.194, adică 98,43%, au respins exploatările miniere, iar 35 le-au susținut; alte 15 buletine au fost nule. Au fost depășite atât pragul de participare, cât și cel privind voturile valabile.\n\n• **Proiectul și licența de exploatare** Consultarea a vizat proiectul Mineral Proiect Invest pentru roci cu magneziu din zona Valea Dobra. Compania a anunțat în septembrie că a obținut licența de exploatare pentru investiția Rășinari–Săliște. Planul prevede o carieră de aproximativ șapte hectare, operată timp de 20 de ani, și costuri estimate la 25 de milioane de euro; în zonă au fost menționate resurse de peste 50 de milioane de tone.\n\n• **Planul de procesare** Minereul ar urma să fie transportat la o unitate de prelucrare planificată tot în județul Sibiu. Consiliul Local Săliște a respins însă proiectul asociat fabricii. Susținătorii exploatării au invocat perspectiva creării a peste 100 de locuri de muncă.\n\n• **Poziția administrației locale** Primarul Bucur Bogdan a emis un certificat de urbanism cu răspuns negativ pentru proiectul din Valea Dobra, document ce ține de procedura necesară autorizării construcției. După vot, edilul a declarat că va respecta opțiunea locuitorilor și că va folosi mijloacele juridice disponibile pentru a împiedica realizarea minei.\n\n• **Efectele votului și preocupările localnicilor** Rezultatul este valid, dar consultativ: nu anulează automat licența de exploatare, iar aprobarea de mediu revine autorităților centrale. Oponenții se tem de efecte asupra peisajului, mediului, apei și aerului curate și turismului. Primarul a prezentat traseele de drumeție și tradițiile locale drept resurse de dezvoltare, iar compania a afirmat că ar putea adapta proiectul în funcție de preocupările comunității.",
     "importance_score": 153.0
+  },
+  {
+    "group_id": "group_dd355bf6e1",
+    "fingerprint": "f054787d1ef8c9125a04bfb6f68fcd95",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "CNAS publică ghidul pentru pacientele cu cancer ovarian. Ce investigații și tratamente se decontează",
+        "link": "https://www.mediafax.ro/sanatate/cnas-publica-ghidul-pentru-pacientele-cu-cancer-ovarian-ce-investigatii-si-tratamente-se-deconteaza-23840425"
+      },
+      {
+        "source": "Adevărul",
+        "title": "CNAS a publicat ghidul pentru pacientele cu cancer ovarian. Ce investigații și tratamente sunt decontate, inclusiv pentru persoanele neasigurate",
+        "link": "https://adevarul.ro/stiri-interne/sanatate/cnas-a-publicat-ghidul-pentru-pacientele-cu-cancer-2570124.html"
+      }
+    ],
+    "published_at": 1794241686,
+    "title_hu": "A CNAS útmutatót tett közzé a petefészekrák ellátásáról",
+    "lead_hu": "A román Országos Egészségbiztosítási Pénztár tájékoztatója a petefészekrák kivizsgálásának és kezelésének menetét, valamint a közfinanszírozott szolgáltatásokat ismerteti. A dokumentum a korai orvoshoz fordulás jelentőségére is felhívja a figyelmet.",
+    "content_hu": "• **A CNAS útmutatója** összefoglalja, milyen lépéseket tehetnek a petefészekrákkal diagnosztizált nők a kivizsgálás és a kezelés során, továbbá milyen ellátásra jogosultak a közfinanszírozott egészségügyi rendszerben. A tájékoztató a diagnózis megerősítéséhez vagy kizárásához igénybe vehető, finanszírozott vizsgálatokról is információt ad.\n\n• **A lehetséges figyelmeztető jelek** közé tartozhat a tartós puffadás, a hasi vagy kismedencei fájdalom, a korai teltségérzet, illetve a menstruációs ciklus szokatlan változása. Ezek a tünetek más betegségeknél is előfordulhatnak, ezért önmagukban nem jelentenek diagnózist.\n\n• **Szűrővizsgálat jelenleg nincs** a petefészekrák korai felismerésére. Emiatt fontos a tünetek észlelésekor orvosi vizsgálatot kérni. Az onkológiai gyanút jelző, „SO” jelölésű beutaló hozzáférést biztosíthat a szükséges vizsgálatokhoz; a jogszabályi feltételek teljesülése esetén ez biztosítással nem rendelkezők számára is elérhető.\n\n• **A kivizsgálás** nappali kórházi ellátás keretében igénybe vehető, egységesített szolgáltatási csomagokra épülhet. Ezek a diagnózis megállapítását, a betegség kiterjedésének felmérését és a páciens általános állapotának vizsgálatát szolgálják. A CNAS azt javasolja, hogy a diagnosztikai folyamat 28 naptári napon belül záruljon le.\n\n• **A diagnózis megerősítése után** a betegek az Országos Onkológiai Programon keresztül juthatnak daganatellenes kezelésekhez; a törvényi feltételek mellett ez a lehetőség nem biztosított páciensekre is kiterjed. Az útmutató bizonyos petefészekrák-típusok esetén genetikai vizsgálatokat is említ.",
+    "title_ro": "CNAS publică un ghid privind îngrijirea cancerului ovarian",
+    "lead_ro": "Casa Națională de Asigurări de Sănătate a prezentat un ghid despre investigarea și tratarea cancerului ovarian, precum și despre serviciile finanțate în sistemul public. Documentul subliniază importanța evaluării medicale atunci când apar simptome care pot necesita atenție.",
+    "content_ro": "",
+    "importance_score": 28.0
   },
   {
     "group_id": "group_a2580386ad",
@@ -21020,6 +21018,28 @@
     "title_ro": "Directorul TAROM dă garanții: Cumpărați bilete cu încredere! Avem planuri mari",
     "lead_ro": "Directorul Cristian Anghel a anunțat că TAROM își va continua activitatea, punctând că operațiunea se află într-un moment de restructurare și modernizare, declarând: „îndemn toți pasagerii companiei T…",
     "content_ro": "Directorul Cristian Anghel a anunțat că TAROM își va continua activitatea, punctând că operațiunea se află într-un moment de restructurare și modernizare, declarând: „îndemn toți pasagerii companiei Tarom să cumpere cu încredere bilete”.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_5283085779",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Újabb 40-45 gyógyszer kerülhet fel a támogatott készítmények listájára",
+        "link": "https://www.mediatica.ro/hirek/aktualis/ujabb-40-45-gyogyszer-kerulhet-fel-a-tamogatott-keszitmenyek-listajara"
+      }
+    ],
+    "published_at": 1794209533,
+    "title_hu": "Újabb 40-45 gyógyszer kerülhet fel a támogatott készítmények listájára",
+    "lead_hu": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
+    "content_hu": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
+    "title_ro": "Újabb 40-45 gyógyszer kerülhet fel a támogatott készítmények listájára",
+    "lead_ro": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
+    "content_ro": "Új árképzési és gyógyszerértékelési módszertant is kidolgoznak, hogy felgyorsítsák a korszerű készítmények elérhetővé tételét.",
     "importance_score": 0.0
   },
   {
@@ -22734,6 +22754,270 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Bode: Ca secretar general nu am semnat niciodată un contract care să nu respecte legea; decizia PNL nu se referă la mine",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_cb7653c4f9",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "JOT 2026: Echipa feminină de gimnastică artistică a României, clasată pe locul șase la Dakar",
+        "link": "https://agerpres.ro/sport-extern/2026/11/09/jot-2026-echipa-feminina-de-gimnastica-artistica-a-romaniei-clasata-pe-locul-sase-la-dakar--1611662"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "JOT 2026: Echipa feminină de gimnastică artistică a României, clasată pe locul șase la Dakar",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "JOT 2026: Echipa feminină de gimnastică artistică a României, clasată pe locul șase la Dakar",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_95d314d403",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Ministerul Energiei monitorizează situația de la Cernavodă, după deconectarea Unității 1 de la Sistemul Energetic Național",
+        "link": "https://agerpres.ro/economic/2026/11/09/ministerul-energiei-monitorizeaza-situatia-de-la-cernavoda-dupa-deconectarea-unitatii-1-de-la-sistem--1611661"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Ministerul Energiei monitorizează situația de la Cernavodă, după deconectarea Unității 1 de la Sistemul Energetic Național",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Ministerul Energiei monitorizează situația de la Cernavodă, după deconectarea Unității 1 de la Sistemul Energetic Național",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_31412e10ac",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Șefa diplomației europene nu are ''așteptări mari'' privind contactele dintre Rusia, #Ucraina și SUA",
+        "link": "https://agerpres.ro/politic-extern/2026/11/09/sefa-diplomatiei-europene-nu-are-asteptari-mari-privind-contactele-dintre-rusia-ucraina-si-sua--1611660"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Șefa diplomației europene nu are ''așteptări mari'' privind contactele dintre Rusia, #Ucraina și SUA",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Șefa diplomației europene nu are ''așteptări mari'' privind contactele dintre Rusia, #Ucraina și SUA",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_831688289e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Dezbaterea ''Traducere fără AI'' - între limitele inteligenței artificiale și importanța sensibilității umane în actul scrisului",
+        "link": "https://agerpres.ro/cultura-media/2026/11/09/dezbaterea-traducere-fara-ai---intre-limitele-inteligentei-artificiale-si-importanta-sensibilitatii---1611654"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Dezbaterea ''Traducere fără AI'' - între limitele inteligenței artificiale și importanța sensibilității umane în actul scrisului",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Dezbaterea ''Traducere fără AI'' - între limitele inteligenței artificiale și importanța sensibilității umane în actul scrisului",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a09dd7e418",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Spaniolul Carlos Vicens, noul antrenor al echipei Olympique Lyon",
+        "link": "https://agerpres.ro/sport-extern/2026/11/09/fotbal-spaniolul-carlos-vicens-noul-antrenor-al-echipei-olympique-lyon--1611652"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Fotbal: Spaniolul Carlos Vicens, noul antrenor al echipei Olympique Lyon",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Fotbal: Spaniolul Carlos Vicens, noul antrenor al echipei Olympique Lyon",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_23249c6d10",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Ministrul delegat pentru digitalizare și inteligență artificială Bogdan Dumitru a participat la reuniunea Platformei de Conectivitate",
+        "link": "https://agerpres.ro/economic-extern/2026/11/09/ministrul-delegat-pentru-digitalizare-si-inteligenta-artificiala-bogdan-dumitru-a-participat-la-reun--1611651"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Ministrul delegat pentru digitalizare și inteligență artificială Bogdan Dumitru a participat la reuniunea Platformei de Conectivitate",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Ministrul delegat pentru digitalizare și inteligență artificială Bogdan Dumitru a participat la reuniunea Platformei de Conectivitate",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_3e5898e21e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "NASA a prezentat contracte de 10 miliarde de dolari pentru viitoarea bază selenară",
+        "link": "https://agerpres.ro/stiinta/2026/11/09/nasa-a-prezentat-contracte-de-10-miliarde-de-dolari-pentru-viitoarea-baza-selenara--1611653"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "NASA a prezentat contracte de 10 miliarde de dolari pentru viitoarea bază selenară",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "NASA a prezentat contracte de 10 miliarde de dolari pentru viitoarea bază selenară",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_32f08b2a55",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Meghan renunță la un discurs programat la Bruxelles în urma arestării tatălui ei",
+        "link": "https://agerpres.ro/zigzag/2026/11/09/meghan-renunta-la-un-discurs-programat-la-bruxelles-in-urma-arestarii-tatalui-ei--1611648"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Meghan renunță la un discurs programat la Bruxelles în urma arestării tatălui ei",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Meghan renunță la un discurs programat la Bruxelles în urma arestării tatălui ei",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a0356d0bc5",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Olt: Primăria Slatina va amenaja cu fonduri europene un centru socio-cultural pentru copii cu autism",
+        "link": "https://agerpres.ro/administratie/2026/11/09/olt-primaria-slatina-va-amenaja-cu-fonduri-europene-un-centru-socio-cultural-pentru-copii-cu-autism--1611649"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Olt: Primăria Slatina va amenaja cu fonduri europene un centru socio-cultural pentru copii cu autism",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Olt: Primăria Slatina va amenaja cu fonduri europene un centru socio-cultural pentru copii cu autism",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2f0764bd2c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "O femeie și trei copii și-au pierdut viața într-o alunecare de teren peste corturi din Gaza",
+        "link": "https://agerpres.ro/social-extern/2026/11/09/o-femeie-si-trei-copii-si-au-pierdut-viata-intr-o-alunecare-de-teren-peste-corturi-din-gaza--1611655"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "O femeie și trei copii și-au pierdut viața într-o alunecare de teren peste corturi din Gaza",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "O femeie și trei copii și-au pierdut viața într-o alunecare de teren peste corturi din Gaza",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_06dbac3d5c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Nicușor Dan: Am avut numeroase incidente la Marea Neagră, acțiuni de sabotaj, atacuri cibernetice",
+        "link": "https://agerpres.ro/politic/2026/11/09/nicusor-dan-am-avut-numeroase-incidente-la-marea-neagra-actiuni-de-sabotaj-atacuri-cibernetice--1611647"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Nicușor Dan: Am avut numeroase incidente la Marea Neagră, acțiuni de sabotaj, atacuri cibernetice",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Nicușor Dan: Am avut numeroase incidente la Marea Neagră, acțiuni de sabotaj, atacuri cibernetice",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_af0db1e616",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Premierul a reafirmat, în discuția cu șefa CE, angajamentul Guvernului de a promova proiectul european",
+        "link": "https://agerpres.ro/politic/2026/11/09/premierul-a-reafirmat-in-discutia-cu-sefa-ce-angajamentul-guvernului-de-a-promova-proiectul-european--1611646"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Premierul a reafirmat, în discuția cu șefa CE, angajamentul Guvernului de a promova proiectul european",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Premierul a reafirmat, în discuția cu șefa CE, angajamentul Guvernului de a promova proiectul european",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 0.0
