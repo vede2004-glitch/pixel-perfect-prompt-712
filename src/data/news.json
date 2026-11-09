@@ -6,7 +6,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 67,
+    "sources_count": 68,
     "sources": [
       {
         "source": "Maszol",
@@ -342,6 +342,11 @@
         "source": "Agerpres (HU)",
         "title": "Poliția poloneză a găsit patru arme și 500 de cartușe la autorul atacului de la Cracovia",
         "link": "https://agerpres.ro/social-extern/2026/11/09/politia-poloneza-a-gasit-patru-arme-si-500-de-cartuse-la-autorul-atacului-de-la-cracovia--1611499"
+      },
+      {
+        "source": "Digi24",
+        "title": "Noi detalii despre atacul din Cracovia. Anchetatorii au descoperit un întreg arsenal în posesia autorului",
+        "link": "https://www.digi24.ro/stiri/externe/noi-detalii-despre-atacul-din-cracovia-anchetatorii-au-descoperit-un-intreg-arsenal-in-posesia-autorului-4028089"
       }
     ],
     "published_at": 1794158374,
@@ -351,7 +356,7 @@
     "title_ro": "Atacul din Cracovia, anchetat ca posibil act terorist",
     "lead_ro": "Atacul din Cracovia din 7 noiembrie s-a soldat cu șase morți și, potrivit relatărilor, 15 sau 16 răniți. Parchetul investighează cazul ca posibil act terorist, inclusiv moartea celor trei membri ai familiei suspectului găsiți în locuința acestuia, iar anchetatorii încearcă să stabilească motivația.",
     "content_ro": "• **Pe 7 noiembrie, în jurul orei 15:00**, un bărbat a intrat cu mașina în piața centrală din Cracovia și a tras asupra trecătorilor cu o pușcă de tip AR-15, continuând să tragă în timp ce se deplasa. Gloanțele au spart și un geam al unui tramvai, fără să rănească pasageri. Prima patrulă a intervenit la 23 de secunde după apel, iar schimbul de focuri a început aproximativ trei minute mai târziu.\n\n• **Șase persoane au murit, iar numărul răniților este estimat la 15 sau 16**, în funcție de sursă. Victimele decedate erau patru femei și doi bărbați, printre care un cetățean britanic. Cinci răniți străini au fost identificați ca cetățeni britanici, portughezi, ruși, germani și austrieci. Doisprezece răniți erau în stare critică sau în pericol de moarte.\n\n• **Suspectul polonez, în vârstă de 24–25 de ani, a fost împușcat și arestat.** Polițiștii Jakub Kulik și Artur Morański au fost răniți în intervenție; unul a fost lovit de trei gloanțe și se afla în stare deosebit de gravă. Poliția afirmă că suspectul a acționat singur. Presa l-a identificat drept Michał O., nume care nu a fost confirmat oficial.\n\n• **Trei persoane au fost găsite moarte în locuința suspectului**, în Ostrowiec Świętokrzyski: tatăl său, în vârstă de 53 de ani, mama sa, de 52 de ani, și sora sa, de 21 de ani. Toți aveau răni provocate de gloanțe; anchetatorii cred că decesele ar fi precedat atacul din Cracovia. La domiciliu au fost ridicate șapte arme de foc, iar în total, incluzând mașina, au fost găsite 11 arme.\n\n• **Parchetul a deschis o anchetă pentru posibil terorism**, privind cele șase decese din Cracovia și uciderea celor trei membri ai familiei. Sunt cercetate posibila influență a ideologiilor de extremă dreapta și radicalizarea suspectului, însă nu există informații confirmate despre legături cu o organizație sau despre un ordin extern. Potrivit presei, acesta avea permis pentru tir sportiv. Președintele Karol Nawrocki a decretat doliu național duminică și luni.",
-    "importance_score": 670.0
+    "importance_score": 680.0
   },
   {
     "group_id": "group_0081bd49c4",
@@ -1748,6 +1753,50 @@
     "importance_score": 75.0
   },
   {
+    "group_id": "group_0c578ceeb4",
+    "fingerprint": "e5075dfed873c10477e279c434caee48",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Atacurile Rusiei au lăsat peste 850.000 de persoane fără electricitate în Ucraina. Zelenski anunță amploarea bombardamentelor din ultima săptămână",
+        "link": "https://adevarul.ro/stiri-externe/europa/atacurile-rusiei-au-lasat-peste-850000-de-2569847.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Gigantul petrolier al Rusiei, în flăcări după un atac ucrainean. Rafinăria care alimentează Sankt Petersburg și aeroportul Pulkovo, lovită din nou",
+        "link": "https://adevarul.ro/stiri-externe/rusia/gigantul-petrolier-al-rusiei-in-flacari-dupa-un-2569932.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ucraina a atacat a doua cea mai mare rafinărie de petrol din Rusia. Explozii puternice și incendiu în regiunea Leningrad",
+        "link": "https://stirileprotv.ro/stiri/international/ucraina-a-atacat-a-doua-cea-mai-mare-rafinarie-de-petrol-din-rusia-explozii-puternice-si-incendiu-in-regiunea-leningrad.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ucraina anunţă că a lovit o uzină rusească unde se produce combustibil solid pentru rachete, în apropiere de Sankt Petersburg",
+        "link": "https://www.digi24.ro/stiri/externe/ucraina-anunta-ca-a-lovit-o-uzina-ruseasca-unde-se-produce-combustibil-solid-pentru-rachete-in-apropiere-de-sankt-petersburg-4027967"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ucraina anunţă că a lovit o uzină care producea combustibil solid pentru rachete în apropiere de Sankt Petersburg",
+        "link": "https://www.g4media.ro/ucraina-anunta-ca-a-lovit-o-uzina-care-producea-combustibil-solid-pentru-rachete-in-apropiere-de-sankt-petersburg.html"
+      }
+    ],
+    "published_at": 1794228379,
+    "title_hu": "Ukrán dróntámadás érte a kirisi olajfinomítót",
+    "lead_hu": "November 9-én drónok támadták meg a leningrádi régióban működő Kirisi olajfinomítót, ahol tűz keletkezett. Alekszandr Drozgyenko kormányzó 113 lelőtt drónról számolt be; előzetes elemzői értékelések szerint több feldolgozóegység is találatot kaphatott.",
+    "content_hu": "• **November 9-én** drónok csapódtak be a Kirisi városában található finomító ipari területén. Alekszandr Drozgyenko kormányzó közlése szerint az üzemben tűz ütött ki, amelyet később eloltottak. A támadás során robbanásokról is beszámoltak, a műholdas hőmegfigyelés pedig több forró pontot jelzett.\n\n• **A károk előzetes értékelése** szerint egy elsődleges olajfeldolgozó egység kigyulladt, és további két üzemrész is sérülhetett. Ezeket az értesüléseket OSINT-elemzők közölték; a károk pontos mértékéről és az üzem működésére gyakorolt hatásról nem áll rendelkezésre megerősített adat.\n\n• **A leningrádi régió légvédelme 113 drón lelövését jelentette.** A roncsok egy lakóház egyik lakásába csapódtak, ezért az ott élő családot kiköltöztették. Vsevolozsszkban egy másik drónmaradvány egy lakóépületre zuhant, és a kormányzó beszámolója szerint egy nő életét vesztette.\n\n• **A Kirisi finomító Oroszország második legnagyobb olajfeldolgozó üzeme**, éves kapacitását a beszámolók 20–21 millió tonnára teszik; ez az országos feldolgozás mintegy 7 százaléka. A KINEF néven is ismert létesítmény benzint, dízelt, repülőgép-üzemanyagot és más olajtermékeket állít elő.\n\n• **A finomító az északnyugati térség ellátásában is fontos:** Szentpétervárt is kiszolgálja, és kerozint szállít a Pulkovo repülőtérre. A Surgutneftegaz tulajdonában álló üzemet májusban és szeptemberben is dróntámadás érte; a korábbi csapások átmeneti leállást okoztak.",
+    "title_ro": "Rafinăria Kirishi, lovită de un atac cu drone ucrainene",
+    "lead_ro": "Dronele au atacat pe 9 noiembrie rafinăria Kirishi din regiunea Leningrad, unde a izbucnit un incendiu. Guvernatorul Aleksandr Drozdenko a anunțat doborârea a 113 aparate, iar evaluările preliminare indică posibile avarii la mai multe instalații de procesare.",
+    "content_ro": "• **Pe 9 noiembrie**, dronele au lovit zona industrială a rafinăriei din orașul Kirishi. Guvernatorul Aleksandr Drozdenko a declarat că la complex a izbucnit un incendiu, stins ulterior. Au fost semnalate și explozii, iar monitorizarea satelitară a indicat mai multe puncte fierbinți.\n\n• **Evaluările preliminare ale pagubelor** arată că o instalație de procesare primară a petrolului ar fi luat foc, iar alte două unități ar fi fost avariate. Informațiile au fost prezentate de analiști OSINT; amploarea exactă a distrugerilor și efectul asupra activității rafinăriei nu au fost confirmate.\n\n• **Apărarea antiaeriană din regiunea Leningrad a raportat interceptarea a 113 drone.** Resturile uneia au ajuns într-un apartament, iar familia care locuia acolo a fost evacuată. La Vsevolojsk, alte fragmente au căzut peste un bloc; potrivit guvernatorului, o femeie a murit.\n\n• **Kirishi este a doua rafinărie ca mărime din Rusia**, cu o capacitate anuală estimată în relatări la 20–21 de milioane de tone, echivalentul a aproximativ 7% din procesarea națională. Complexul, cunoscut și ca KINEF, produce benzină, motorină, kerosen pentru aviație și alte produse petroliere.\n\n• **Rafinăria contribuie la aprovizionarea nord-vestului Rusiei:** furnizează produse pentru Sankt Petersburg și kerosen aeroportului Pulkovo. Unitatea aparține companiei Surgutneftegaz și a mai fost vizată de drone în mai și septembrie; atacurile anterioare au dus la oprirea temporară a activității.",
+    "importance_score": 70.0
+  },
+  {
     "group_id": "group_7b4a4c57d8",
     "fingerprint": "136dd68269c013e919c20cffe61788df",
     "category": "Általános",
@@ -2081,45 +2130,6 @@
     "importance_score": 63.0
   },
   {
-    "group_id": "group_0c578ceeb4",
-    "fingerprint": "e5075dfed873c10477e279c434caee48",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Atacurile Rusiei au lăsat peste 850.000 de persoane fără electricitate în Ucraina. Zelenski anunță amploarea bombardamentelor din ultima săptămână",
-        "link": "https://adevarul.ro/stiri-externe/europa/atacurile-rusiei-au-lasat-peste-850000-de-2569847.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Gigantul petrolier al Rusiei, în flăcări după un atac ucrainean. Rafinăria care alimentează Sankt Petersburg și aeroportul Pulkovo, lovită din nou",
-        "link": "https://adevarul.ro/stiri-externe/rusia/gigantul-petrolier-al-rusiei-in-flacari-dupa-un-2569932.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Ucraina a atacat a doua cea mai mare rafinărie de petrol din Rusia. Explozii puternice și incendiu în regiunea Leningrad",
-        "link": "https://stirileprotv.ro/stiri/international/ucraina-a-atacat-a-doua-cea-mai-mare-rafinarie-de-petrol-din-rusia-explozii-puternice-si-incendiu-in-regiunea-leningrad.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ucraina anunţă că a lovit o uzină rusească unde se produce combustibil solid pentru rachete, în apropiere de Sankt Petersburg",
-        "link": "https://www.digi24.ro/stiri/externe/ucraina-anunta-ca-a-lovit-o-uzina-ruseasca-unde-se-produce-combustibil-solid-pentru-rachete-in-apropiere-de-sankt-petersburg-4027967"
-      }
-    ],
-    "published_at": 1794228379,
-    "title_hu": "Ukrán dróntámadás érte a kirisi olajfinomítót",
-    "lead_hu": "November 9-én drónok támadták meg a leningrádi régióban működő Kirisi olajfinomítót, ahol tűz keletkezett. Alekszandr Drozgyenko kormányzó 113 lelőtt drónról számolt be; előzetes elemzői értékelések szerint több feldolgozóegység is találatot kaphatott.",
-    "content_hu": "• **November 9-én** drónok csapódtak be a Kirisi városában található finomító ipari területén. Alekszandr Drozgyenko kormányzó közlése szerint az üzemben tűz ütött ki, amelyet később eloltottak. A támadás során robbanásokról is beszámoltak, a műholdas hőmegfigyelés pedig több forró pontot jelzett.\n\n• **A károk előzetes értékelése** szerint egy elsődleges olajfeldolgozó egység kigyulladt, és további két üzemrész is sérülhetett. Ezeket az értesüléseket OSINT-elemzők közölték; a károk pontos mértékéről és az üzem működésére gyakorolt hatásról nem áll rendelkezésre megerősített adat.\n\n• **A leningrádi régió légvédelme 113 drón lelövését jelentette.** A roncsok egy lakóház egyik lakásába csapódtak, ezért az ott élő családot kiköltöztették. Vsevolozsszkban egy másik drónmaradvány egy lakóépületre zuhant, és a kormányzó beszámolója szerint egy nő életét vesztette.\n\n• **A Kirisi finomító Oroszország második legnagyobb olajfeldolgozó üzeme**, éves kapacitását a beszámolók 20–21 millió tonnára teszik; ez az országos feldolgozás mintegy 7 százaléka. A KINEF néven is ismert létesítmény benzint, dízelt, repülőgép-üzemanyagot és más olajtermékeket állít elő.\n\n• **A finomító az északnyugati térség ellátásában is fontos:** Szentpétervárt is kiszolgálja, és kerozint szállít a Pulkovo repülőtérre. A Surgutneftegaz tulajdonában álló üzemet májusban és szeptemberben is dróntámadás érte; a korábbi csapások átmeneti leállást okoztak.",
-    "title_ro": "Rafinăria Kirishi, lovită de un atac cu drone ucrainene",
-    "lead_ro": "Dronele au atacat pe 9 noiembrie rafinăria Kirishi din regiunea Leningrad, unde a izbucnit un incendiu. Guvernatorul Aleksandr Drozdenko a anunțat doborârea a 113 aparate, iar evaluările preliminare indică posibile avarii la mai multe instalații de procesare.",
-    "content_ro": "• **Pe 9 noiembrie**, dronele au lovit zona industrială a rafinăriei din orașul Kirishi. Guvernatorul Aleksandr Drozdenko a declarat că la complex a izbucnit un incendiu, stins ulterior. Au fost semnalate și explozii, iar monitorizarea satelitară a indicat mai multe puncte fierbinți.\n\n• **Evaluările preliminare ale pagubelor** arată că o instalație de procesare primară a petrolului ar fi luat foc, iar alte două unități ar fi fost avariate. Informațiile au fost prezentate de analiști OSINT; amploarea exactă a distrugerilor și efectul asupra activității rafinăriei nu au fost confirmate.\n\n• **Apărarea antiaeriană din regiunea Leningrad a raportat interceptarea a 113 drone.** Resturile uneia au ajuns într-un apartament, iar familia care locuia acolo a fost evacuată. La Vsevolojsk, alte fragmente au căzut peste un bloc; potrivit guvernatorului, o femeie a murit.\n\n• **Kirishi este a doua rafinărie ca mărime din Rusia**, cu o capacitate anuală estimată în relatări la 20–21 de milioane de tone, echivalentul a aproximativ 7% din procesarea națională. Complexul, cunoscut și ca KINEF, produce benzină, motorină, kerosen pentru aviație și alte produse petroliere.\n\n• **Rafinăria contribuie la aprovizionarea nord-vestului Rusiei:** furnizează produse pentru Sankt Petersburg și kerosen aeroportului Pulkovo. Unitatea aparține companiei Surgutneftegaz și a mai fost vizată de drone în mai și septembrie; atacurile anterioare au dus la oprirea temporară a activității.",
-    "importance_score": 60.0
-  },
-  {
     "group_id": "group_a1518a3db3",
     "fingerprint": "7d7c9d07cc4aee00559abaa72905be70",
     "category": "Politika",
@@ -2340,89 +2350,6 @@
     "importance_score": 58.0
   },
   {
-    "group_id": "group_ce875e4c54",
-    "fingerprint": "8bc1d4aadf5a956e7260188642b1cfee",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Ursula von der Leyen vine luni în România, după atacurile cu drone asupra navelor din Marea Neagră",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/ursula-von-der-leyen-vine-luni-in-romania-dupa-2569913.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Ursula von der Leyen face o vizită în România în plină intensificare a agresiunii hibride a Rusiei",
-        "link": "https://www.g4media.ro/ursula-von-der-leyen-face-o-vizita-in-romania-in-plina-intensificare-a-agresiunii-hibride-a-rusiei.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ursula von der Leyen vine luni la București, pe fondul atacurilor cu drone din Marea Neagră",
-        "link": "https://www.mediafax.ro/politic/ursula-von-der-leyen-vine-luni-la-bucuresti-pe-fondul-atacurilor-cu-drone-din-marea-neagra-23839985"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Ursula von der Leyen vine luni la București: Libertatea de navigație în Marea Neagră trebuie restabilită",
-        "link": "https://www.mediafax.ro/politic/ursula-von-der-leyen-vine-luni-la-bucuresti-libertatea-de-navigatie-in-marea-neagra-trebuie-restabilita-23839985"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Romániába látogat Ursula von der Leyen a Fekete-tenger térségét érintő körútja keretében",
-        "link": "https://transtelex.ro/kozelet/2026/11/08/romaniaba-latogat-ursula-von-der-leyen-a-fekete-tenger-terseget-erinto-korutja-kereteben"
-      }
-    ],
-    "published_at": 1794210650,
-    "title_hu": "Von der Leyen új uniós támogatást jelent be a fekete-tengeri biztonság erősítésére",
-    "lead_hu": "Ursula von der Leyen november 9-én Bukarestben Nicușor Dan román államfővel és Luca Niculescu miniszterelnökkel egyeztet, majd Bulgáriába utazik. A fekete-tengeri hajókat ért dróntámadások miatt az EU a tengeri megfigyelés, a védelmi beruházások és a válságkezelés fejlesztését tervezi, és új támogatást ígér Romániának és Bulgáriának.",
-    "content_hu": "• **November 9., Bukarest** – Nicușor Dan 15 órakor fogadja az Európai Bizottság elnökét. A két vezető 16:30-kor közös sajtónyilatkozatot tesz, von der Leyen pedig 17:15-kor Luca Niculescu miniszterelnökkel találkozik.\n\n• **Új uniós támogatás** – Von der Leyen a romániai és bulgáriai látogatáson további segítséget jelent be a két ország biztonságának és ellenálló képességének javítására. Az egyeztetések tervezett témája a tengeri megfigyelés erősítése, a védelmi beruházások gyorsítása és a válságokra adott válaszok fejlesztése.\n\n• **A fekete-tengeri kockázatok** – Az idei biztonsági incidensek hozzávetőleg fele Romániát, Bulgáriát vagy a Fekete-tenger térségét érintette. A látogatás hátterében a hajók elleni dróntámadások állnak; az előző hónapban legalább hét kereskedelmi hajót ért találat. Von der Leyen az uniós szolidaritás megerősítését és a szabad hajózás helyreállítását, illetve fenntartását hangsúlyozza.\n\n• **Romániai drónriasztás** – Október 31-én két pilóta nélküli eszköz miatt négy F–16-os és egy katonai helikopter bevetésére került sor. Nicușor Dan korábban Elbridge Colby amerikai védelmi tisztviselővel is tárgyalt a fekete-tengeri fenyegetésekről, többek között drónokról, kibertámadásokról és szabotázsról; az amerikai katonai jelenlét növelését szorgalmazta.\n\n• **A körút következő állomásai** – November 10-én von der Leyen Várnában Rumen Radevvel tárgyal, és felkeresi a Nikola Vaptsarov Haditengerészeti Akadémiát. Szerdán az antalyai COP31 klímakonferencián vesz részt, majd Dublinban az Európai Politikai Közösség és az Európai Tanács informális találkozójára utazik; ott Volodimir Zelenszkijjel is egyeztethet.",
-    "title_ro": "Von der Leyen anunță un nou sprijin european pentru securitatea la Marea Neagră",
-    "lead_ro": "Ursula von der Leyen se întâlnește pe 9 noiembrie, la București, cu președintele Nicușor Dan și cu premierul Luca Niculescu, apoi va merge în Bulgaria. În contextul atacurilor cu drone asupra navelor din Marea Neagră, UE are în vedere consolidarea supravegherii maritime, accelerarea investițiilor în apărare și sprijinirea capacității de gestionare a crizelor.",
-    "content_ro": "• **9 noiembrie, București** – Nicușor Dan o primește pe președinta Comisiei Europene la ora 15:00. Cei doi vor susține declarații comune la 16:30, iar la 17:15 von der Leyen se va întâlni cu premierul Luca Niculescu.\n\n• **Un nou sprijin european** – În cursul vizitelor din România și Bulgaria, von der Leyen va prezenta un pachet suplimentar destinat securității și rezilienței celor două state. Discuțiile vizează întărirea supravegherii maritime, accelerarea investițiilor în apărare și îmbunătățirea reacției la situații de criză.\n\n• **Riscurile din zona Mării Negre** – Aproximativ jumătate dintre incidentele de securitate înregistrate în acest an au afectat România, Bulgaria sau regiunea Mării Negre. Vizita are loc după atacurile cu drone asupra navelor; cel puțin șapte vase comerciale au fost lovite luna trecută. Von der Leyen susține solidaritatea europeană și restabilirea, respectiv menținerea libertății de navigație.\n\n• **Incidentul cu drone din România** – Pe 31 octombrie, detectarea a două aparate fără pilot a dus la mobilizarea a patru avioane F–16 și a unui elicopter militar. Nicușor Dan discutase anterior cu oficialul american din domeniul apărării Elbridge Colby despre amenințări precum dronele, atacurile cibernetice și sabotajul, cerând o prezență militară americană mai puternică.\n\n• **Următoarele opriri** – Pe 10 noiembrie, von der Leyen va discuta la Varna cu Rumen Radev și va vizita Academia Navală Nikola Vaptsarov. Miercuri va participa la conferința COP31 de la Antalya, iar apoi va merge la Dublin pentru reuniunile informale ale Comunității Politice Europene și Consiliului European; este prevăzută și o întâlnire cu Volodimir Zelenski.",
-    "importance_score": 58.0
-  },
-  {
-    "group_id": "group_ca57ebac7c",
-    "fingerprint": "ba89134008fe9de50dcebd819fbd10df",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„Nu voi trebuie să învățați să trăiți cu violența”. Luca Niculescu anunță 57 de măsuri împotriva abuzurilor asupra copiilor",
-        "link": "https://www.mediafax.ro/politic/nu-voi-trebuie-sa-invatati-sa-traiti-cu-violenta-luca-niculescu-anunta-57-de-masuri-impotriva-abuzurilor-asupra-copiilor-23840059"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Luca Niculescu: Peste un milion de copii din România s-au confruntat cu cel puţin o formă de violenţă de-a lungul vieţii",
-        "link": "https://stirileprotv.ro/luca-niculescu-peste-un-milion-de-copii-din-romania-s-au-confruntat-cu-cel-putin-o-forma-de-violenta-de-a-lungul-vietii.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Peste un milion de copii din România au fost victimele violenței. Avertismentul premierului Luca Niculescu",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/peste-un-milion-de-copii-din-romania-au-fost-victimele-violentei-avertismentul-premierului-luca-niculescu-4027461"
-      },
-      {
-        "source": "Digi24",
-        "title": "Studiu. Peste 600.000 de copii din România, supuși violenței doar în ultimul an: „Îmi dădeau câte o palmă peste cap când comentam”",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/studiu-peste-600-000-de-copii-din-romania-supusi-violentei-doar-in-ultimul-an-imi-dadeau-cate-o-palma-peste-cap-cand-comentam-4027937"
-      }
-    ],
-    "published_at": 1794227452,
-    "title_hu": "57 intézkedéssel lépnének fel a gyermekek elleni erőszakkal szemben",
-    "lead_hu": "Luca Niculescu miniszterelnök egy gyermekvédelmi projekt lezárásakor ismertette az 57 tervezett intézkedést. Egy felmérés szerint Romániában több mint egymillió gyermek tapasztalt már erőszakot, a kockázatok pedig többek között a családi körülményekkel és a gyermek életkorával is összefüggnek.",
-    "content_hu": "• **Az 57 intézkedésről szóló projekt lezárásán** Luca Niculescu miniszterelnök a gyermekek elleni erőszak visszaszorítását célzó kezdeményezésről beszélt. A program lengyel partnerekkel, az Európai Bizottsággal és az UNICEF-fel együttműködésben készült; a részletes intézkedési lista a közlésben nem szerepelt.\n\n• **A hivatalos esetek száma meghaladta a húszezret:** a gyermekvédelmi igazgatóságok tavaly ennyi bántalmazási, elhanyagolási és kizsákmányolási ügyet vettek nyilvántartásba. Niculescu szerint sok eset nem jut el a hatóságokig, ezért a regisztrált adatok nem mutatják meg a probléma teljes kiterjedését.\n\n• **A felmérés egymilliónál több érintett gyermeket becsül:** a romániai gyermekek több mint 28 százaléka élete során legalább egyszer szembesült fizikai vagy lelki erőszakkal, elhanyagolással vagy szexuális erőszakkal. Mintegy 600 ezren az adatfelvételt megelőző 12 hónapban éltek át erőszakot.\n\n• **A kockázatok az életkorral és a családi helyzettel is változnak:** a fiúk valamivel gyakrabban érintettek, és az erőszakos esetek gyakoribbá válnak, ahogy a gyermekek idősebbek lesznek. A legtöbb esemény az iskolában, illetve a tágabb közösségben történik; ezek után következik az otthoni környezet.\n\n• **Bizonyos családi nehézségek fokozott veszélyt jelezhetnek:** a mentális egészségi problémákkal, függőségekkel vagy párkapcsolati erőszakkal küzdő háztartásokban nagyobb lehet a gyermekek kitettsége. Niculescu a korai beavatkozást sürgette, és a hatóságok közti információmegosztás, valamint az időben érkező segítség hiányosságaira is rámutatott.",
-    "title_ro": "57 de măsuri propuse pentru combaterea violenței împotriva copiilor",
-    "lead_ro": "Premierul Luca Niculescu a prezentat, la încheierea unui proiect dedicat protecției copiilor, inițiativa care cuprinde 57 de măsuri. Un studiu estimează că peste un milion de copii din România au trecut prin forme de violență, iar riscurile sunt asociate și cu vârsta și mediul familial.",
-    "content_ro": "• **La încheierea proiectului care include 57 de măsuri**, premierul Luca Niculescu a vorbit despre inițiativa de combatere a violenței împotriva copiilor. Programul a fost derulat împreună cu parteneri din Polonia, Comisia Europeană și UNICEF; prezentarea nu a enumerat măsurile în detaliu.\n\n• **Autoritățile au înregistrat peste 20.000 de cazuri:** anul trecut, direcțiile de protecție a copilului au consemnat situații de abuz, neglijare și exploatare. Niculescu a avertizat că o parte dintre incidente nu ajung la instituțiile competente, astfel că evidențele oficiale nu surprind întreaga amploare a fenomenului.\n\n• **Studiul estimează că peste un milion de copii au fost afectați:** mai mult de 28% dintre copiii din România au întâlnit cel puțin o dată în viață violență fizică ori psihologică, neglijare sau violență sexuală. Aproximativ 600.000 au trecut printr-o asemenea experiență în cele 12 luni anterioare cercetării.\n\n• **Expunerea diferă în funcție de vârstă și context:** băieții sunt ușor mai vulnerabili decât fetele, iar frecvența incidentelor crește pe măsură ce copiii înaintează în vârstă. Cele mai multe cazuri se petrec la școală și în comunitate, urmate de cele din familie.\n\n• **Unele probleme din gospodărie sunt asociate cu riscuri mai mari:** dificultățile de sănătate mintală, dependențele și violența în cuplu pot contribui la vulnerabilitatea copiilor. Premierul a susținut intervenția timpurie și a semnalat probleme precum cooperarea insuficientă între instituții și întârzierile în acordarea ajutorului.",
-    "importance_score": 55.0
-  },
-  {
     "group_id": "group_6a08d75e2e",
     "fingerprint": "1cc86529184cd03f208dbfb44cf1b872",
     "category": "Általános",
@@ -2584,6 +2511,50 @@
     "importance_score": 55.0
   },
   {
+    "group_id": "group_ce875e4c54",
+    "fingerprint": "8bc1d4aadf5a956e7260188642b1cfee",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Ursula von der Leyen vine luni în România, după atacurile cu drone asupra navelor din Marea Neagră",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/ursula-von-der-leyen-vine-luni-in-romania-dupa-2569913.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Ursula von der Leyen face o vizită în România în plină intensificare a agresiunii hibride a Rusiei",
+        "link": "https://www.g4media.ro/ursula-von-der-leyen-face-o-vizita-in-romania-in-plina-intensificare-a-agresiunii-hibride-a-rusiei.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ursula von der Leyen vine luni la București, pe fondul atacurilor cu drone din Marea Neagră",
+        "link": "https://www.mediafax.ro/politic/ursula-von-der-leyen-vine-luni-la-bucuresti-pe-fondul-atacurilor-cu-drone-din-marea-neagra-23839985"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ursula von der Leyen vine luni la București: Libertatea de navigație în Marea Neagră trebuie restabilită",
+        "link": "https://www.mediafax.ro/politic/ursula-von-der-leyen-vine-luni-la-bucuresti-libertatea-de-navigatie-in-marea-neagra-trebuie-restabilita-23839985"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Romániába látogat Ursula von der Leyen a Fekete-tenger térségét érintő körútja keretében",
+        "link": "https://transtelex.ro/kozelet/2026/11/08/romaniaba-latogat-ursula-von-der-leyen-a-fekete-tenger-terseget-erinto-korutja-kereteben"
+      }
+    ],
+    "published_at": 1794210650,
+    "title_hu": "Von der Leyen új uniós támogatást jelent be a fekete-tengeri biztonság erősítésére",
+    "lead_hu": "Ursula von der Leyen november 9-én Bukarestben Nicușor Dan román államfővel és Luca Niculescu miniszterelnökkel egyeztet, majd Bulgáriába utazik. A fekete-tengeri hajókat ért dróntámadások miatt az EU a tengeri megfigyelés, a védelmi beruházások és a válságkezelés fejlesztését tervezi, és új támogatást ígér Romániának és Bulgáriának.",
+    "content_hu": "• **November 9., Bukarest** – Nicușor Dan 15 órakor fogadja az Európai Bizottság elnökét. A két vezető 16:30-kor közös sajtónyilatkozatot tesz, von der Leyen pedig 17:15-kor Luca Niculescu miniszterelnökkel találkozik.\n\n• **Új uniós támogatás** – Von der Leyen a romániai és bulgáriai látogatáson további segítséget jelent be a két ország biztonságának és ellenálló képességének javítására. Az egyeztetések tervezett témája a tengeri megfigyelés erősítése, a védelmi beruházások gyorsítása és a válságokra adott válaszok fejlesztése.\n\n• **A fekete-tengeri kockázatok** – Az idei biztonsági incidensek hozzávetőleg fele Romániát, Bulgáriát vagy a Fekete-tenger térségét érintette. A látogatás hátterében a hajók elleni dróntámadások állnak; az előző hónapban legalább hét kereskedelmi hajót ért találat. Von der Leyen az uniós szolidaritás megerősítését és a szabad hajózás helyreállítását, illetve fenntartását hangsúlyozza.\n\n• **Romániai drónriasztás** – Október 31-én két pilóta nélküli eszköz miatt négy F–16-os és egy katonai helikopter bevetésére került sor. Nicușor Dan korábban Elbridge Colby amerikai védelmi tisztviselővel is tárgyalt a fekete-tengeri fenyegetésekről, többek között drónokról, kibertámadásokról és szabotázsról; az amerikai katonai jelenlét növelését szorgalmazta.\n\n• **A körút következő állomásai** – November 10-én von der Leyen Várnában Rumen Radevvel tárgyal, és felkeresi a Nikola Vaptsarov Haditengerészeti Akadémiát. Szerdán az antalyai COP31 klímakonferencián vesz részt, majd Dublinban az Európai Politikai Közösség és az Európai Tanács informális találkozójára utazik; ott Volodimir Zelenszkijjel is egyeztethet.",
+    "title_ro": "Von der Leyen anunță un nou sprijin european pentru securitatea la Marea Neagră",
+    "lead_ro": "Ursula von der Leyen se întâlnește pe 9 noiembrie, la București, cu președintele Nicușor Dan și cu premierul Luca Niculescu, apoi va merge în Bulgaria. În contextul atacurilor cu drone asupra navelor din Marea Neagră, UE are în vedere consolidarea supravegherii maritime, accelerarea investițiilor în apărare și sprijinirea capacității de gestionare a crizelor.",
+    "content_ro": "• **9 noiembrie, București** – Nicușor Dan o primește pe președinta Comisiei Europene la ora 15:00. Cei doi vor susține declarații comune la 16:30, iar la 17:15 von der Leyen se va întâlni cu premierul Luca Niculescu.\n\n• **Un nou sprijin european** – În cursul vizitelor din România și Bulgaria, von der Leyen va prezenta un pachet suplimentar destinat securității și rezilienței celor două state. Discuțiile vizează întărirea supravegherii maritime, accelerarea investițiilor în apărare și îmbunătățirea reacției la situații de criză.\n\n• **Riscurile din zona Mării Negre** – Aproximativ jumătate dintre incidentele de securitate înregistrate în acest an au afectat România, Bulgaria sau regiunea Mării Negre. Vizita are loc după atacurile cu drone asupra navelor; cel puțin șapte vase comerciale au fost lovite luna trecută. Von der Leyen susține solidaritatea europeană și restabilirea, respectiv menținerea libertății de navigație.\n\n• **Incidentul cu drone din România** – Pe 31 octombrie, detectarea a două aparate fără pilot a dus la mobilizarea a patru avioane F–16 și a unui elicopter militar. Nicușor Dan discutase anterior cu oficialul american din domeniul apărării Elbridge Colby despre amenințări precum dronele, atacurile cibernetice și sabotajul, cerând o prezență militară americană mai puternică.\n\n• **Următoarele opriri** – Pe 10 noiembrie, von der Leyen va discuta la Varna cu Rumen Radev și va vizita Academia Navală Nikola Vaptsarov. Miercuri va participa la conferința COP31 de la Antalya, iar apoi va merge la Dublin pentru reuniunile informale ale Comunității Politice Europene și Consiliului European; este prevăzută și o întâlnire cu Volodimir Zelenski.",
+    "importance_score": 53.0
+  },
+  {
     "group_id": "group_18a8dd08dd",
     "fingerprint": "238c092cfcf4876fda1995c9716b3820",
     "category": "Politika",
@@ -2696,40 +2667,6 @@
     "title_ro": "FOTO. Accident rarisim în Carei! O mașină a intrat într-un gard și s-a oprit în peretele unei case. Șoferul și proprietara, răniți",
     "lead_ro": "Un accident rutier grav s-a produs astăzi, 9 noiembrie 2026, pe strada Viilor din municipiul Carei, județul Szatmárnémeti. Un autoturism a părăsit partea carosabilă, a lovit un gard și s-a oprit în pe…",
     "content_ro": "Un accident rutier grav s-a produs astăzi, 9 noiembrie 2026, pe strada Viilor din municipiul Carei, județul Szatmárnémeti. Un autoturism a părăsit partea carosabilă, a lovit un gard și s-a oprit în peretele unei locuințe. În urma impactului, șoferul, un bărbat de …",
-    "importance_score": 50.0
-  },
-  {
-    "group_id": "group_8b9b76c031",
-    "fingerprint": "3adf27527b0dd8488f124805e556499a",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Petiție cu peste 1.000 de semnături după angajarea lui Felix Alexa la TNB. Artiștii cer un control al Ministerului Culturii",
-        "link": "https://stirileprotv.ro/stiri/actualitate/petitie-cu-peste-1-000-de-semnaturi-dupa-angajarea-lui-felix-alexa-la-tnb-artistii-cer-un-control-al-ministerului-culturii.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Peste 1.000 de artiști îi cer ministrului Culturii să intervină în cazul angajării lui Felix Alexa. Regizorul acuzat de hărțuire amenință cu procese",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/peste-1000-de-artisti-ii-cer-ministrului-culturii-2570011.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "După ce i s-a cerut să facă un pas înapoi, regizorul Felix Alexa rispotează și amenință că îi dă în judecată pe toți care l-au „defăimat”",
-        "link": "https://hotnews.ro/dupa-ce-i-s-a-cerut-sa-faca-un-pas-inapoi-regizorul-felix-alexa-rispoteaza-si-ameninta-ca-ii-da-in-judecata-pe-toti-care-l-au-defaimat-2398930"
-      }
-    ],
-    "published_at": 1794221408,
-    "title_hu": "Tiltakozás és vizsgálati felhívás Felix Alexa TNB-s alkalmazása miatt",
-    "lead_hu": "Több mint ezren írták alá azt a petíciót, amely a bukaresti Nemzeti Színház Felix Alexa alkalmazásához kapcsolódó döntéseinek és eljárásainak ellenőrzését kéri. A rendező közben jelezte: bírósághoz fordul azok ellen, akikről úgy véli, hogy rontották a hírnevét.",
-    "content_hu": "• **Több mint ezer aláíró** – köztük színészek és rendezők – arra kérte a kulturális minisztert, hogy vizsgáltassa meg Felix Alexa alkalmazásának körülményeit a bukaresti I. L. Caragiale Nemzeti Színházban. A petíció kezdeményezői a munkahelyi zaklatás megelőzésére vonatkozó előírások betartását és az intézmény vezetésének eljárását is ellenőriztetnék.\n\n• **A Kulturális Minisztérium** közlése szerint jelenleg valamennyi alárendelt intézményben áttekintik, hogyan alkalmazzák a nemi alapú és a munkahelyi erkölcsi zaklatás megelőzésére, illetve kezelésére szolgáló intézkedéseket. A minisztérium a közleményben a 970/2023-as kormányhatározatra hivatkozott; Ioana Ciocan hétfőn Ada Hausvarterrel is találkozott.\n\n• **A petíció aláírói** minisztériumi ellenőrzést kértek a színháznál, egyebek mellett a felvételi eljárás, a zaklatás elleni kötelezettségek és a vezetői intézkedések ügyében. A TNB több művésze is csatlakozott a kezdeményezéshez; Conrad Mericoffer pedig tiltakozásul távozott az intézménytől Alexa alkalmazása miatt.\n\n• **Felix Alexa** a vele szemben korábban megfogalmazott zaklatási és szexuális bántalmazási állításokat valótlannak nevezte, és közölte, hogy jogi útra tereli az ügyet azokkal szemben, akiket jó hírneve megsértésével vádol. A rendező Andrei Șerban nyílt levelére reagált, amelyben a TNB tiszteletbeli igazgatója azt javasolta, hogy Alexa az állítások tisztázásáig függessze fel együttműködését a színházzal.\n\n• **A vita középpontjában** így egyszerre áll az alkalmazás szabályosságának és az intézményi felelősségnek a kérdése, valamint az Alexa ellen korábban felhozott állítások kezelése. A rendelkezésre álló beszámolók nem közölnek lezárt vizsgálati eredményt vagy bírósági döntést.",
-    "title_ro": "Contestații și solicitări de verificare după angajarea lui Felix Alexa la TNB",
-    "lead_ro": "Peste o mie de persoane au semnat o petiție prin care cer verificarea angajării lui Felix Alexa la Teatrul Național din București și a modului în care instituția a gestionat situația. Regizorul a anunțat, între timp, că va apela la instanță împotriva celor despre care afirmă că i-au afectat reputația.",
-    "content_ro": "• **Peste 1.000 de semnatari**, între care actori și regizori, i-au cerut ministrului Culturii să dispună verificări privind angajarea lui Felix Alexa la Teatrul Național „I.L. Caragiale” din București. Inițiatorii solicită examinarea procedurii de angajare, a respectării regulilor de prevenire a hărțuirii și a modului în care conducerea teatrului a tratat acuzațiile.\n\n• **Ministerul Culturii** a transmis că analizează, în instituțiile aflate în subordinea sa, aplicarea măsurilor împotriva hărțuirii pe criterii de sex și a hărțuirii morale la locul de muncă. Instituția a menționat Hotărârea de Guvern nr. 970/2023. Ioana Ciocan a avut luni o întâlnire cu Ada Hausvater.\n\n• **Autorii petiției** cer un control la TNB care să vizeze atât recrutarea regizorului, cât și obligațiile legale de prevenire a hărțuirii și reacția managerială. Mai mulți angajați ai teatrului au semnat documentul, iar Conrad Mericoffer a demisionat în semn de protest față de angajarea lui Alexa.\n\n• **Felix Alexa** a respins acuzațiile de hărțuire și agresiune sexuală formulate anterior împotriva sa și a declarat că va recurge la instanță împotriva persoanelor despre care susține că i-au prejudiciat imaginea. Reacția sa a urmat unei scrisori deschise în care Andrei Șerban, director onorific al TNB, i-a recomandat să întrerupă colaborarea cu teatrul până la clarificarea acuzațiilor.\n\n• **Disputa** privește atât legalitatea angajării și răspunderea conducerii, cât și felul în care sunt tratate acuzațiile anterioare la adresa regizorului. Informațiile disponibile nu indică existența unei concluzii oficiale a controlului sau a unei hotărâri judecătorești în acest caz.",
     "importance_score": 50.0
   },
   {
@@ -3016,6 +2953,38 @@
     "importance_score": 48.0
   },
   {
+    "group_id": "group_e2dd84b14e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Explozie la o fabrică de oțel din Turcia. Șase morți, iar salvatorii caută supraviețuitori sub dărâmături",
+        "link": "https://adevarul.ro/stiri-externe/europa/explozie-la-o-fabrica-de-otel-din-turcia-sase-2570087.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Șase persoane au murit iar alte 12 au fost rănite în urma unei explozii la o oțelărie din Turcia",
+        "link": "https://www.mediafax.ro/stirile-zilei/sase-persoane-au-murit-iar-alte-12-au-fost-ranite-in-urma-unei-explozii-la-o-otelarie-din-turcia-23840303"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cel puțin șase morți și 13 răniți după o explozie la o fabrică de oțel din Turcia",
+        "link": "https://www.g4media.ro/cel-putin-sase-morti-si-13-raniti-dupa-o-explozie-la-o-fabrica-de-otel-din-turcia.html"
+      }
+    ],
+    "published_at": 1794230787,
+    "title_hu": "Explozie la o fabrică de oțel din Turcia. Șase morți, iar salvatorii caută supraviețuitori sub dărâmături",
+    "lead_hu": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei....",
+    "content_hu": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei.",
+    "title_ro": "Explozie la o fabrică de oțel din Turcia. Șase morți, iar salvatorii caută supraviețuitori sub dărâmături",
+    "lead_ro": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei....",
+    "content_ro": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_c21e7df625",
     "fingerprint": "febee1e76b47a75ff8390b7cccf75121",
     "category": "Általános",
@@ -3184,6 +3153,38 @@
     "importance_score": 45.0
   },
   {
+    "group_id": "group_25031b83f3",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR cu ”50 de persoane” de sâmbătă: Instigare la violență și amenințări pe rețele, mobilizare cu autocare, pericolul ultrasilor de la meciul România-Polonia din aceeași zi cu protestul",
+        "link": "https://www.g4media.ro/primaria-bucuresti-explica-de-ce-nu-a-avizat-protestul-partidului-extremist-aur-cu-50-de-persoane-de-sambata-instigare-la-violenta-si-amenintari-pe-retele-mobilizare-cu-autocare-p.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR: Grad mare de risc, instigare la violență și amenințări pe rețele, pericolul ultrasilor de la meciul România-Polonia în aceeași zi",
+        "link": "https://www.g4media.ro/primaria-bucuresti-explica-de-ce-nu-a-avizat-protestul-partidului-extremist-aur-grad-mare-de-risc-instigare-la-violenta-si-amenintari-pe-retele-pericolul-ultrasilor-de-la-meciul-romania-polonia-in.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Protestul AUR din 14 noiembrie nu a primit avizul din partea Primăriei Capitalei. Care este motivul",
+        "link": "https://www.mediafax.ro/politic/protestul-aur-din-14-noiembrie-nu-a-primit-avizul-din-partea-primariei-capitalei-care-este-motivul-23840310"
+      }
+    ],
+    "published_at": 1794224862,
+    "title_hu": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR cu ”50 de persoane” de sâmbătă: Instigare la violență și amenințări pe rețele, mobilizare cu autocare, pericolul ultrasilor de la meciul România-Polonia din aceeași zi cu protestul",
+    "lead_hu": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14…",
+    "content_hu": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14 noiembrie. Instigarea la violență și amenințările de pe rețelele de socializare, mobilizarea cu autocare, deci un număr semnificativ mai mare de 50 de persoane, […] © G4Media.ro.",
+    "title_ro": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR cu ”50 de persoane” de sâmbătă: Instigare la violență și amenințări pe rețele, mobilizare cu autocare, pericolul ultrasilor de la meciul România-Polonia din aceeași zi cu protestul",
+    "lead_ro": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14…",
+    "content_ro": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14 noiembrie. Instigarea la violență și amenințările de pe rețelele de socializare, mobilizarea cu autocare, deci un număr semnificativ mai mare de 50 de persoane, […] © G4Media.ro.",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_069b83bb92",
     "fingerprint": "9da3217e7c6a7075f777b638ac0c2de3",
     "category": "Sport",
@@ -3255,6 +3256,40 @@
     "lead_ro": "O angajată de 36 de ani a Poliției Locale din Constanța a tras accidental cu arma în sediul instituției, la încheierea programului, în timp ce o preda. Nu au existat persoane rănite, iar glonțul a ricoșat din podea spre un geam. Autoritățile cercetează incidentul într-un dosar penal.",
     "content_ro": "• **Incidentul s-a produs la sfârșitul programului:** polițista locală, în vârstă de 36 de ani, manipula pistolul de serviciu în clădirea instituției, în zona de acces spre camera armamentului. Femeia avea permisiunea de a purta armă letală în timpul serviciului.\n\n• **Arma s-a declanșat accidental,** iar glonțul a ricoșat din podea în direcția unui geam. Nimeni nu a fost rănit, însă incidentul a provocat pagube materiale minore în sediu.\n\n• **Poliția Municipiului Constanța, prin Secția 4,** a fost sesizată cu privire la un foc de armă tras într-o instituție publică și a făcut verificări la fața locului. La cercetări au participat și polițiști din structura care investighează infracțiunile de mediu.\n\n• **Pistolul și muniția aferentă au fost ridicate** și păstrate pentru examinarea specialiștilor. Expertiza urmează să contribuie la stabilirea modului în care a fost manipulată arma și a împrejurărilor în care s-a produs focul.\n\n• **A fost deschis un dosar penal** pentru folosirea fără drept a armei și distrugere. Anchetatorii încearcă să stabilească exact cum s-a declanșat pistolul în momentul predării.",
     "importance_score": 45.0
+  },
+  {
+    "group_id": "group_8b9b76c031",
+    "fingerprint": "3adf27527b0dd8488f124805e556499a",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Petiție cu peste 1.000 de semnături după angajarea lui Felix Alexa la TNB. Artiștii cer un control al Ministerului Culturii",
+        "link": "https://stirileprotv.ro/stiri/actualitate/petitie-cu-peste-1-000-de-semnaturi-dupa-angajarea-lui-felix-alexa-la-tnb-artistii-cer-un-control-al-ministerului-culturii.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Peste 1.000 de artiști îi cer ministrului Culturii să intervină în cazul angajării lui Felix Alexa. Regizorul acuzat de hărțuire amenință cu procese",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/peste-1000-de-artisti-ii-cer-ministrului-culturii-2570011.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "După ce i s-a cerut să facă un pas înapoi, regizorul Felix Alexa rispotează și amenință că îi dă în judecată pe toți care l-au „defăimat”",
+        "link": "https://hotnews.ro/dupa-ce-i-s-a-cerut-sa-faca-un-pas-inapoi-regizorul-felix-alexa-rispoteaza-si-ameninta-ca-ii-da-in-judecata-pe-toti-care-l-au-defaimat-2398930"
+      }
+    ],
+    "published_at": 1794221408,
+    "title_hu": "Tiltakozás és vizsgálati felhívás Felix Alexa TNB-s alkalmazása miatt",
+    "lead_hu": "Több mint ezren írták alá azt a petíciót, amely a bukaresti Nemzeti Színház Felix Alexa alkalmazásához kapcsolódó döntéseinek és eljárásainak ellenőrzését kéri. A rendező közben jelezte: bírósághoz fordul azok ellen, akikről úgy véli, hogy rontották a hírnevét.",
+    "content_hu": "• **Több mint ezer aláíró** – köztük színészek és rendezők – arra kérte a kulturális minisztert, hogy vizsgáltassa meg Felix Alexa alkalmazásának körülményeit a bukaresti I. L. Caragiale Nemzeti Színházban. A petíció kezdeményezői a munkahelyi zaklatás megelőzésére vonatkozó előírások betartását és az intézmény vezetésének eljárását is ellenőriztetnék.\n\n• **A Kulturális Minisztérium** közlése szerint jelenleg valamennyi alárendelt intézményben áttekintik, hogyan alkalmazzák a nemi alapú és a munkahelyi erkölcsi zaklatás megelőzésére, illetve kezelésére szolgáló intézkedéseket. A minisztérium a közleményben a 970/2023-as kormányhatározatra hivatkozott; Ioana Ciocan hétfőn Ada Hausvarterrel is találkozott.\n\n• **A petíció aláírói** minisztériumi ellenőrzést kértek a színháznál, egyebek mellett a felvételi eljárás, a zaklatás elleni kötelezettségek és a vezetői intézkedések ügyében. A TNB több művésze is csatlakozott a kezdeményezéshez; Conrad Mericoffer pedig tiltakozásul távozott az intézménytől Alexa alkalmazása miatt.\n\n• **Felix Alexa** a vele szemben korábban megfogalmazott zaklatási és szexuális bántalmazási állításokat valótlannak nevezte, és közölte, hogy jogi útra tereli az ügyet azokkal szemben, akiket jó hírneve megsértésével vádol. A rendező Andrei Șerban nyílt levelére reagált, amelyben a TNB tiszteletbeli igazgatója azt javasolta, hogy Alexa az állítások tisztázásáig függessze fel együttműködését a színházzal.\n\n• **A vita középpontjában** így egyszerre áll az alkalmazás szabályosságának és az intézményi felelősségnek a kérdése, valamint az Alexa ellen korábban felhozott állítások kezelése. A rendelkezésre álló beszámolók nem közölnek lezárt vizsgálati eredményt vagy bírósági döntést.",
+    "title_ro": "Contestații și solicitări de verificare după angajarea lui Felix Alexa la TNB",
+    "lead_ro": "Peste o mie de persoane au semnat o petiție prin care cer verificarea angajării lui Felix Alexa la Teatrul Național din București și a modului în care instituția a gestionat situația. Regizorul a anunțat, între timp, că va apela la instanță împotriva celor despre care afirmă că i-au afectat reputația.",
+    "content_ro": "• **Peste 1.000 de semnatari**, între care actori și regizori, i-au cerut ministrului Culturii să dispună verificări privind angajarea lui Felix Alexa la Teatrul Național „I.L. Caragiale” din București. Inițiatorii solicită examinarea procedurii de angajare, a respectării regulilor de prevenire a hărțuirii și a modului în care conducerea teatrului a tratat acuzațiile.\n\n• **Ministerul Culturii** a transmis că analizează, în instituțiile aflate în subordinea sa, aplicarea măsurilor împotriva hărțuirii pe criterii de sex și a hărțuirii morale la locul de muncă. Instituția a menționat Hotărârea de Guvern nr. 970/2023. Ioana Ciocan a avut luni o întâlnire cu Ada Hausvater.\n\n• **Autorii petiției** cer un control la TNB care să vizeze atât recrutarea regizorului, cât și obligațiile legale de prevenire a hărțuirii și reacția managerială. Mai mulți angajați ai teatrului au semnat documentul, iar Conrad Mericoffer a demisionat în semn de protest față de angajarea lui Alexa.\n\n• **Felix Alexa** a respins acuzațiile de hărțuire și agresiune sexuală formulate anterior împotriva sa și a declarat că va recurge la instanță împotriva persoanelor despre care susține că i-au prejudiciat imaginea. Reacția sa a urmat unei scrisori deschise în care Andrei Șerban, director onorific al TNB, i-a recomandat să întrerupă colaborarea cu teatrul până la clarificarea acuzațiilor.\n\n• **Disputa** privește atât legalitatea angajării și răspunderea conducerii, cât și felul în care sunt tratate acuzațiile anterioare la adresa regizorului. Informațiile disponibile nu indică existența unei concluzii oficiale a controlului sau a unei hotărâri judecătorești în acest caz.",
+    "importance_score": 43.0
   },
   {
     "group_id": "group_1585c343db",
@@ -3710,45 +3745,6 @@
     "importance_score": 40.0
   },
   {
-    "group_id": "group_16a00a388d",
-    "fingerprint": "317a0f0ae72107817fc58af966b4cda8",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "SUA a anunțat că vrea să blocheze și toate rutele terestre spre Iran, care a reacționat imediat",
-        "link": "https://hotnews.ro/sua-a-anuntat-ca-vrea-sa-blocheze-si-toate-rutele-terestre-spre-iran-care-a-reactionat-imediat-2398315"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SUA pregătesc blocarea rutelor terestre către Iran. Armata americană vrea să-i limiteze „finanțarea terorismului”",
-        "link": "https://stirileprotv.ro/stiri/international/sua-pregatesc-blocarea-rutelor-terestre-catre-iran-armata-americana-vrea-sa-i-limiteze-finantarea-terorismului.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Cum vrea America să izoleze Iranul: grup de lucru special pentru blocarea rutelor terestre",
-        "link": "https://www.digi24.ro/stiri/externe/cum-vrea-america-sa-izoleze-iranul-grup-de-lucru-special-pentru-blocarea-rutelor-terestre-4026771"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "SUA vor să blocheze rutele terestre spre Iran",
-        "link": "https://agerpres.ro/politic-extern/2026/11/08/sua-vor-sa-blocheze-rutele-terestre-spre-iran--1611254"
-      }
-    ],
-    "published_at": 1794145789,
-    "title_hu": "Washington az Iránba vezető szárazföldi útvonalakat is korlátozná",
-    "lead_hu": "Az Egyesült Államok egy floridai központú munkacsoport létrehozását tervezi az Iránba tartó szárazföldi és Kaszpi-tengeri szállítások ellenőrzésére. A kezdeményezés a már bevezetett gazdasági szankciók és a kikötőket érintő tengeri korlátozások mellett jelenik meg; Teherán szerint az amerikai intézkedések nem döntik össze az iráni gazdaságot.",
-    "content_hu": "• **Az amerikai kezdeményezés** egy új munkacsoport felállításáról szól, amely az Irán felé tartó szárazföldi útvonalakon zajló szállításokat venné célba. A Centcom szerint ezeken fegyverek és tiltott áruk is eljuthatnak az országba; az Egyesült Államok már súlyos gazdasági szankciókat alkalmaz, és az iráni kikötőket is tengeri korlátozás alá vonta.\n\n• **A húszfős, floridai egység** katonai és civil résztvevőkből állna, és kormányzati szervekkel dolgozna együtt. A tervek szerint a fejlett fegyverrendszerek, kettős felhasználású technológiák, szankcionált anyagok és illegális bevételek Irán szárazföldi határain, illetve a Kaszpi-tengeren keresztüli mozgását akadályozná.\n\n• **Brad Cooper, a Centcom vezetője** szombaton az X-en megjelent közleményben a fegyvergyártási kapacitás újjáépítésének, a fegyveres erők utánpótlásának és a terrorizmus finanszírozásának korlátozását jelölte meg célként. A parancsnokság azt közölte, hogy a kikötői intézkedések több mint 25 milliárd dollár értékű iráni kőolaj kivitelét akadályozták meg.\n\n• **Hoszein Mohebi, a Forradalmi Gárda szóvivője** a Fars hírügynökségnek azt mondta, az Egyesült Államok nem tudja elvágni Iránt a szomszédaival összekötő közlekedési útvonalaktól. Álláspontja szerint az új terv meghiúsul, és a különféle formákban alkalmazott gazdasági nyomás sem omlasztja össze az iráni gazdaságot.\n\n• **A konfliktus februárban kezdődött** izraeli és amerikai támadások után. Washington augusztusban az iráni gazdaság további szorítását helyezte kilátásba, válaszul arra, hogy Teherán lezárta a Hormuzi-szorost; a hajók engedély nélküli áthaladással is próbálkoztak a stratégiai vízi úton.",
-    "title_ro": "Washingtonul vrea să limiteze și rutele terestre către Iran",
-    "lead_ro": "Statele Unite intenționează să creeze o echipă cu sediul în Florida pentru a urmări transporturile terestre și cele prin Marea Caspică către Iran. Planul se adaugă sancțiunilor economice și restricțiilor maritime deja aplicate, în timp ce Teheranul afirmă că presiunea americană nu îi va prăbuși economia.",
-    "content_ro": "• **Planul american** prevede formarea unei echipe care să vizeze transporturile de pe rutele terestre către Iran. Potrivit Centcom, pe aceste căi pot ajunge în țară arme și mărfuri ilegale; SUA aplică deja sancțiuni economice severe și au impus restricții maritime porturilor iraniene.\n\n• **Echipa cu 20 de membri, cu baza în Florida,** ar urma să includă personal civil și militar și să colaboreze cu instituții guvernamentale. Misiunea sa ar fi să împiedice transportul sistemelor avansate de armament, al tehnologiilor cu utilizare duală, al materialelor sancționate și al veniturilor ilegale peste frontierele terestre ale Iranului și prin Marea Caspică.\n\n• **Brad Cooper, comandantul Centcom,** a prezentat sâmbătă, într-un comunicat publicat pe X, obiectivele inițiativei: limitarea refacerii capacităților de producție a armamentului, a aprovizionării forțelor iraniene și a finanțării terorismului. Comandamentul a afirmat că măsurile asupra porturilor au împiedicat exporturi iraniene de țiței evaluate la peste 25 de miliarde de dolari.\n\n• **Hossein Mohebi, purtătorul de cuvânt al Gardienilor Revoluției,** a declarat pentru agenția Fars că SUA nu pot întrerupe legăturile de transport dintre Iran și statele vecine. El a susținut că inițiativa nu va reuși și că presiunile economice aplicate prin diverse metode nu vor provoca prăbușirea economiei iraniene.\n\n• **Conflictul a început în februarie,** după atacuri israeliano-americane. În august, Washingtonul a amenințat cu intensificarea presiunilor economice ca reacție la închiderea Strâmtorii Ormuz de către Teheran; navele încercau să traverseze această cale strategică fără autorizarea Iranului.",
-    "importance_score": 40.0
-  },
-  {
     "group_id": "group_8d47913ebe",
     "fingerprint": "b37c331741b243dd53e3ea1f4c5f6253",
     "category": "Általános",
@@ -3919,30 +3915,30 @@
     "importance_score": 38.0
   },
   {
-    "group_id": "group_e2dd84b14e",
+    "group_id": "group_6c693edfac",
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
     "sources_count": 2,
     "sources": [
       {
-        "source": "Adevărul",
-        "title": "Explozie la o fabrică de oțel din Turcia. Șase morți, iar salvatorii caută supraviețuitori sub dărâmături",
-        "link": "https://adevarul.ro/stiri-externe/europa/explozie-la-o-fabrica-de-otel-din-turcia-sase-2570087.html"
+        "source": "Mediafax",
+        "title": "Luca pNiculescu a discutat cu omologul grec despre proiecte energetice și de transport. Ce au convenit cei doi",
+        "link": "https://www.mediafax.ro/politic/luca-pniculescu-a-discutat-cu-omologul-grec-despre-proiecte-energetice-si-de-transport-ce-au-convenit-cei-doi-23840317"
       },
       {
         "source": "Mediafax",
-        "title": "Șase persoane au murit iar alte 12 au fost rănite în urma unei explozii la o oțelărie din Turcia",
-        "link": "https://www.mediafax.ro/stirile-zilei/sase-persoane-au-murit-iar-alte-12-au-fost-ranite-in-urma-unei-explozii-la-o-otelarie-din-turcia-23840303"
+        "title": "Luca Niculescu a discutat cu omologul grec despre proiecte energetice și de transport. Ce au convenit cei doi",
+        "link": "https://www.mediafax.ro/politic/luca-niculescu-a-discutat-cu-omologul-grec-despre-proiecte-energetice-si-de-transport-ce-au-convenit-cei-doi-23840317"
       }
     ],
-    "published_at": 1794230787,
-    "title_hu": "Explozie la o fabrică de oțel din Turcia. Șase morți, iar salvatorii caută supraviețuitori sub dărâmături",
-    "lead_hu": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei....",
-    "content_hu": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei.",
-    "title_ro": "Explozie la o fabrică de oțel din Turcia. Șase morți, iar salvatorii caută supraviețuitori sub dărâmături",
-    "lead_ro": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei....",
-    "content_ro": "Șase persoane au murit în urma unei explozii produse luni, 9 noiembrie, la o fabrică de fier și oțel din districtul Aliaga, provincia Izmir, din vestul Turciei.",
+    "published_at": 1794231612,
+    "title_hu": "Luca pNiculescu a discutat cu omologul grec despre proiecte energetice și de transport. Ce au convenit cei doi",
+    "lead_hu": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre c...",
+    "content_hu": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre colaborarea în domeniul fiscal.",
+    "title_ro": "Luca pNiculescu a discutat cu omologul grec despre proiecte energetice și de transport. Ce au convenit cei doi",
+    "lead_ro": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre c...",
+    "content_ro": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre colaborarea în domeniul fiscal.",
     "importance_score": 35.0
   },
   {
@@ -4261,33 +4257,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_25031b83f3",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR cu ”50 de persoane” de sâmbătă: Instigare la violență și amenințări pe rețele, mobilizare cu autocare, pericolul ultrasilor de la meciul România-Polonia din aceeași zi cu protestul",
-        "link": "https://www.g4media.ro/primaria-bucuresti-explica-de-ce-nu-a-avizat-protestul-partidului-extremist-aur-cu-50-de-persoane-de-sambata-instigare-la-violenta-si-amenintari-pe-retele-mobilizare-cu-autocare-p.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR: Grad mare de risc, instigare la violență și amenințări pe rețele, pericolul ultrasilor de la meciul România-Polonia în aceeași zi",
-        "link": "https://www.g4media.ro/primaria-bucuresti-explica-de-ce-nu-a-avizat-protestul-partidului-extremist-aur-grad-mare-de-risc-instigare-la-violenta-si-amenintari-pe-retele-pericolul-ultrasilor-de-la-meciul-romania-polonia-in.html"
-      }
-    ],
-    "published_at": 1794224862,
-    "title_hu": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR cu ”50 de persoane” de sâmbătă: Instigare la violență și amenințări pe rețele, mobilizare cu autocare, pericolul ultrasilor de la meciul România-Polonia din aceeași zi cu protestul",
-    "lead_hu": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14…",
-    "content_hu": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14 noiembrie. Instigarea la violență și amenințările de pe rețelele de socializare, mobilizarea cu autocare, deci un număr semnificativ mai mare de 50 de persoane, […] © G4Media.ro.",
-    "title_ro": "Primăria București explică de ce nu a avizat protestul partidului extremist AUR cu ”50 de persoane” de sâmbătă: Instigare la violență și amenințări pe rețele, mobilizare cu autocare, pericolul ultrasilor de la meciul România-Polonia din aceeași zi cu protestul",
-    "lead_ro": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14…",
-    "content_ro": "Primăria București explică, într-un răspuns la o postare de luni a europarlamentarului AUR Gheorghe Piperea, de ce nu a avizat protestul de ”50 de persoane” al partidului extremist anunțat sâmbătă, 14 noiembrie. Instigarea la violență și amenințările de pe rețelele de socializare, mobilizarea cu autocare, deci un număr semnificativ mai mare de 50 de persoane, […] © G4Media.ro.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_9377f043fb",
     "fingerprint": "8c67c6b8ae99ae267ed752c1460f4062",
     "category": "Sport",
@@ -4314,6 +4283,33 @@
     "title_ro": "Hagi vrea rezultate în ultimele două meciuri ale României din Liga Națiunilor",
     "lead_ro": "Selecționerul Gheorghe Hagi așteaptă rezultate în ultimele două partide ale României din Liga Națiunilor, una dintre adversare fiind Polonia. După accidentări, lotul disponibil cuprinde 22 de jucători de câmp și trei portari, iar antrenorul spune că are nevoie de timp până în martie pentru a consolida echipa.",
     "content_ro": "• **Ultimele două partide din Liga Națiunilor** reprezintă, în viziunea lui Gheorghe Hagi, o ocazie pentru România de a obține rezultate. Selecționerul se așteaptă la confruntări dificile și a descris Polonia drept o formație tehnică, cu un joc rapid. Pentru meciul cu polonezii este anticipat un stadion plin.\n\n• **Lotul României** a rămas cu 22 de jucători de câmp și trei portari după ce mai mulți fotbaliști au avut probleme medicale. Hagi a precizat că există și o listă de soluții pentru eventuale absențe noi. După situațiile lui Nicușor și Mihăilă, Rareș Ilie a fost chemat la echipă.\n\n• **Perioada de lucru până în martie** ar urma să-i permită selecționerului să construiască treptat o formație competitivă, capabilă să câștige și să joace bine. Hagi a subliniat că fotbalul actual presupune implicare atât în atac, cât și în apărare, iar felul în care o echipă încheie meciurile are o importanță deosebită.\n\n• **Pregătirea morală a jucătorilor** este o responsabilitate pe care Hagi și-o asumă. El consideră că echipa are nevoie de încredere și curaj, iar fotbaliștii trebuie să transforme planul de joc în prestații convingătoare pe teren. Selecționerul speră și la susținerea suporterilor în următoarele confruntări.\n\n• **Urmărirea jucătorilor** a inclus atât meciuri din prima ligă românească, cât și fotbaliști care evoluează în străinătate. Hagi a explicat că, în ultima perioadă, a preferat să vadă mai multe partide de acasă, pentru a se concentra și asupra celor care joacă în afara țării.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_453bdea8d3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "„Fierbe” Dunărea la Galați. Fenomenul spectaculos care apare în diminețile reci",
+        "link": "https://stirileprotv.ro/stiri/actualitate/fierbe-dunarea-la-galati-fenomenul-spectaculos-care-apare-in-diminetile-reci.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Dunărea pare că „fierbe” la Galați. Imaginile surprinse pe fluviu și explicația fenomenului",
+        "link": "https://adevarul.ro/stiri-locale/galati/dunarea-pare-ca-fierbe-la-galati-imaginile-2570103.html"
+      }
+    ],
+    "published_at": 1794223915,
+    "title_hu": "„Fierbe” Dunărea la Galați. Fenomenul spectaculos care apare în diminețile reci",
+    "lead_hu": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
+    "content_hu": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
+    "title_ro": "„Fierbe” Dunărea la Galați. Fenomenul spectaculos care apare în diminețile reci",
+    "lead_ro": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
+    "content_ro": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
     "importance_score": 35.0
   },
   {
@@ -4372,35 +4368,6 @@
     "title_ro": "Autoritățile verifică oferta de date atribuite Direcției Antimafia",
     "lead_ro": "Un utilizator numit „weykofa” susține că vinde pe darkweb o arhivă de peste 220 de megabyți, provenită, potrivit acestuia, din sistemele Direcției Investigative Antimafia. Instituția verifică informația, însă până acum nu a confirmat că datele sale au fost sustrase.",
     "content_ro": "• **Arhiva de peste 220 de megabyți** a fost pusă în vânzare de un utilizator care folosește pseudonimul „weykofa” și afirmă că fișierele provin din bazele de date ale Direcției Investigative Antimafia (DIA). Specialiștii instituției verifică revendicarea, dar existența unei breșe sau a unui furt de date nu este confirmată.\n\n• **Cele aproximativ 300 de fișiere menționate în anunț** ar include, conform informațiilor distribuite pe rețelele sociale, acte de anchetă, statistici interne, date despre personal, documente financiare și corespondență cu Europol și Uniunea Europeană. Vânzătorul susține că materialele privesc peste 20 de grupări criminale.\n\n• **Autenticitatea arhivei nu a putut fi verificată independent:** utilizatorul nu a publicat documente demonstrative, iar o parte dintre materialele descrise ar putea fi deja disponibile public. Plata este solicitată în Bitcoin sau Monero. Un cont de pe X care urmărește piețele ilegale online a semnalat oferta, fără să confirme însă afirmațiile vânzătorului.\n\n• **Legătura dintre anunț și un posibil atac informatic rămâne neclară.** Anchetatorii iau în calcul și o eventuală conexiune cu o viitoare reuniune a polițiilor europene, unde vor fi discutate mai multe tipuri de amenințări recente. Deocamdată, această posibilitate nu este susținută de dovezi confirmate.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_d896b78ece",
-    "fingerprint": "92506464a9e37c6498b3016f6711b151",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Jude (Romgaz): Centrala de la Iernut ar putea intra în operare comercială la jumătatea anului 2027",
-        "link": "https://agerpres.ro/economic/2026/11/09/jude-romgaz-centrala-de-la-iernut-ar-putea-intra-in-operare-comerciala-la-jumatatea-anului-2027--1611414"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Centrala de la Iernut, de 430 MW, ar putea începe producția comercială la jumătatea anului 2027. Anunțul Romgaz",
-        "link": "https://stirileprotv.ro/stiri/actualitate/centrala-de-la-iernut-de-430-mw-ar-putea-incepe-productia-comerciala-la-jumatatea-anului-2027-anuntul-romgaz.html"
-      }
-    ],
-    "published_at": 1794221172,
-    "title_hu": "Romgaz: 2027 közepén indulhat el az Iernut-i erőmű kereskedelmi üzeme",
-    "lead_hu": "Az Iernut-i erőművet a tervek szerint 2027 első negyedévében kapcsolhatják össze a román országos energiarendszerrel, kereskedelmi működése pedig az év közepén kezdődhet meg. A Romgaz vezetője szerint a beruházást hátráltató korábbi szerződéses akadályok megszűntek, és a szükséges szerződések többségét már megkötötték.",
-    "content_hu": "• **Az Iernut-i erőmű várható ütemezése** szerint a létesítményt 2027 első negyedévében szinkronizálhatják a román országos energiarendszerrel. Aristotel Jude, a Romgaz vezérigazgató-helyettese úgy számolt, hogy a kereskedelmi termelés az év közepén kezdődhet el. A közlés egy, a 2026–2027-es tél energetikai kihívásairól rendezett konferencián hangzott el.\n\n• **A beruházás korábbi szerződéses nehézségei** a vállalat tájékoztatása szerint már nem akadályozzák a munkát. A korábbi kivitelezővel fennálló szerződéses kapcsolat lezárása után a Romgaz vette át a fővállalkozói szerepet, és meghatározta a befejezéshez, valamint az erőmű termelésének elindításához szükséges szerződések körét.\n\n• **A szerződések többsége** már létrejött, illetve teljesítése folyamatban van. Jude szerint a munkát egy májusban elfogadott kormányzati memorandum is segítette: ez lehetővé tette, hogy egyes megállapodásokat előzetes közzététel nélküli tárgyalásos eljárással kössenek meg. A vezető ugyanakkor a beszerzési szabályok alkalmazását összetettnek nevezte.\n\n• **A 99/2016-os törvény** a Romgaz vezetője szerint megnehezítheti, hogy állami vállalatok hasonló méretű erőművi beruházást valósítsanak meg. Jude úgy vélte, a jelenlegi szabályozási környezetben a közszektorbeli beruházóknak nehézséget okozhat a fővállalkozó kiválasztása és a projekt megvalósításának megszervezése.\n\n• **A tervezett 2027-es indulás** egyelőre vállalati előrejelzés: a hálózati tesztek előkészítése és a fennmaradó munkálatok előrehaladása szükséges ahhoz, hogy az ütemezés tartható legyen. A bejelentés szerint a hálózati kapcsolódás megelőzné a kereskedelmi üzem kezdetét.",
-    "title_ro": "Romgaz: centrala Iernut ar putea începe operarea comercială la mijlocul lui 2027",
-    "lead_ro": "Centrala de la Iernut ar putea fi conectată la Sistemul Energetic Național în primul trimestru din 2027, iar operarea comercială ar putea începe la jumătatea anului. Potrivit conducerii Romgaz, obstacolele contractuale anterioare au fost depășite, iar majoritatea contractelor necesare sunt deja încheiate.",
-    "content_ro": "• **Calendarul estimat pentru centrala Iernut** prevede sincronizarea cu Sistemul Energetic Național în primul trimestru din 2027. Aristotel Jude, director general adjunct al Romgaz, a indicat că producția destinată operării comerciale ar putea începe la mijlocul aceluiași an. Declarația a fost făcută la o conferință dedicată provocărilor energetice din iarna 2026–2027.\n\n• **Dificultățile contractuale anterioare** nu mai blochează, potrivit companiei, continuarea proiectului. După încheierea relației contractuale cu fostul antreprenor, Romgaz a preluat rolul de antreprenor general și a stabilit ce acorduri sunt necesare pentru finalizarea lucrărilor și pornirea centralei.\n\n• **Cele mai multe contracte necesare** au fost semnate sau sunt în curs de derulare. Jude a menționat că un memorandum aprobat de Guvern în luna mai a sprijinit procesul, permițând atribuirea unor contracte prin negociere fără publicarea prealabilă a unui anunț. Reprezentantul Romgaz a descris aplicarea regulilor de achiziții în acest caz drept dificilă.\n\n• **Legea 99/2016** ar putea, în opinia lui Jude, să îngreuneze realizarea unor centrale de dimensiuni comparabile de către companii de stat. El a susținut că actualul cadru de achiziții complică atât selectarea antreprenorului general, cât și organizarea unui proiect energetic amplu de către un investitor public.\n\n• **Pornirea centralei în 2027** rămâne o estimare a companiei și depinde de desfășurarea etapelor pregătitoare și a testelor necesare conectării la rețea. Conform calendarului prezentat, sincronizarea cu sistemul energetic ar urma să aibă loc înaintea începerii operării comerciale.",
     "importance_score": 35.0
   },
   {
@@ -4834,6 +4801,64 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_5e01e56b4d",
+    "fingerprint": "6343cbad04ac429612472e9d8421a517",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cartea secretă a unui împărat roman, pierdută timp de secole! Cum au supraviețuit „Meditațiile” lui Marcus Aurelius și cine le-a salvat de la uitare (P)",
+        "link": "https://www.mediafax.ro/publicitate/cartea-secreta-a-unui-imparat-roman-pierduta-timp-de-secole-cum-au-supravietuit-meditatiile-lui-marcus-aurelius-si-cine-le-a-salvat-de-la-uitare-p-23840107"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cartea secretă a unui împărat roman, pierdută timp de secole! Cum au supraviețuit „Meditațiile” lui Marcus Aurelius și cine le-a salvat de la uitare (P)",
+        "link": "https://www.g4media.ro/cartea-secreta-a-unui-imparat-roman-pierduta-timp-de-secole-cum-au-supravietuit-meditatiile-lui-marcus-aurelius-si-cine-le-a-salvat-de-la-uitare-p.html"
+      }
+    ],
+    "published_at": 1794221191,
+    "title_hu": "Marcus Aurelius személyes feljegyzéseinek hosszú útja",
+    "lead_hu": "Marcus Aurelius római császár uralkodása idején, 161 és 180 között görög nyelvű feljegyzéseket készített. A később „Elmélkedések” címen ismertté vált mű eredeti kézirata elveszett, a ma olvasható változatok másolási hagyományon keresztül maradtak fenn.",
+    "content_hu": "• **Marcus Aurelius uralkodása (161–180)** háborúkkal, járványokkal és gazdasági nehézségekkel terhelt időszakra esett. A császár latin helyett görögül jegyezte le gondolatait, mert ezt a nyelvet használta filozófiai tanulmányaihoz.\n\n• **A feljegyzések témái** között szerepel a halál, a kötelesség, az önuralom és az emberi lét törékenysége. A szöveg nem hagyományos, olvasóknak szánt értekezésként épül fel: nincs benne bevezető vagy szabályos gondolati rendszer, és a rövid részletek hossza is változó.\n\n• **A mű tizenkét könyvből áll**, és később az „Elmélkedések” címen vált ismertté. Görög megnevezését „Önmagához” értelemben lehet visszaadni, de nem tudni, hogy Marcus Aurelius maga milyen címet adott jegyzeteinek.\n\n• **Carnuntum és a kvádok említése** két szövegrészben is előfordul. Ezek a hivatkozások a Duna menti helyszínhez és a császár hadjárataihoz kapcsolják a feljegyzések legalább egy részét.\n\n• **Az eredeti kézirat nem maradt fenn**, és a császár 180-ban bekövetkezett halála után a jegyzetek sorsa, első másolójuk kiléte, valamint terjedésük korai története sem ismert. A ma hozzáférhető szövegváltozatok későbbi másolásokból származnak, amelyek történetében több részlet tisztázatlan.",
+    "title_ro": "Drumul îndelungat al însemnărilor lui Marcus Aurelius",
+    "lead_ro": "Împăratul roman Marcus Aurelius a redactat însemnări în limba greacă în timpul domniei sale, între anii 161 și 180. Textul cunoscut ulterior drept „Meditații” nu s-a păstrat în manuscrisul original, iar versiunile actuale provin dintr-o tradiție de copiere cu etape insuficient cunoscute.",
+    "content_ro": "• **Domnia lui Marcus Aurelius, între 161 și 180**, s-a desfășurat într-o perioadă cu războaie, epidemii și probleme economice. Împăratul și-a consemnat reflecțiile în greacă, limba folosită de el pentru studiul filosofiei, nu în latină, limba administrației romane.\n\n• **Temele însemnărilor** includ moartea, datoria, stăpânirea de sine și fragilitatea existenței. Textul nu urmează structura unui tratat adresat publicului: nu are introducere și nici o organizare sistematică a ideilor, iar fragmentele sunt de lungimi diferite.\n\n• **Lucrarea cuprinde douăsprezece cărți** și a ajuns să fie cunoscută sub titlul „Meditații”. Denumirea grecească folosită ulterior poate fi redată prin „Către sine însuși”, însă nu se știe cum își numea împăratul propriile însemnări.\n\n• **Carnuntum și teritoriul quazilor** sunt menționate în două secțiuni. Aceste referințe leagă cel puțin o parte a textului de zona Dunării și de campaniile militare ale lui Marcus Aurelius.\n\n• **Manuscrisul original s-a pierdut**, iar împrejurările în care au circulat notele după moartea împăratului, în anul 180, nu sunt cunoscute. Nu se știe cine le-a preluat sau cine a realizat prima copie; versiunile păstrate provin din copii ulterioare, cu mai multe etape încă neclarificate.",
+    "importance_score": 28.0
+  },
+  {
+    "group_id": "group_d896b78ece",
+    "fingerprint": "92506464a9e37c6498b3016f6711b151",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Jude (Romgaz): Centrala de la Iernut ar putea intra în operare comercială la jumătatea anului 2027",
+        "link": "https://agerpres.ro/economic/2026/11/09/jude-romgaz-centrala-de-la-iernut-ar-putea-intra-in-operare-comerciala-la-jumatatea-anului-2027--1611414"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Centrala de la Iernut, de 430 MW, ar putea începe producția comercială la jumătatea anului 2027. Anunțul Romgaz",
+        "link": "https://stirileprotv.ro/stiri/actualitate/centrala-de-la-iernut-de-430-mw-ar-putea-incepe-productia-comerciala-la-jumatatea-anului-2027-anuntul-romgaz.html"
+      }
+    ],
+    "published_at": 1794221172,
+    "title_hu": "Romgaz: 2027 közepén indulhat el az Iernut-i erőmű kereskedelmi üzeme",
+    "lead_hu": "Az Iernut-i erőművet a tervek szerint 2027 első negyedévében kapcsolhatják össze a román országos energiarendszerrel, kereskedelmi működése pedig az év közepén kezdődhet meg. A Romgaz vezetője szerint a beruházást hátráltató korábbi szerződéses akadályok megszűntek, és a szükséges szerződések többségét már megkötötték.",
+    "content_hu": "• **Az Iernut-i erőmű várható ütemezése** szerint a létesítményt 2027 első negyedévében szinkronizálhatják a román országos energiarendszerrel. Aristotel Jude, a Romgaz vezérigazgató-helyettese úgy számolt, hogy a kereskedelmi termelés az év közepén kezdődhet el. A közlés egy, a 2026–2027-es tél energetikai kihívásairól rendezett konferencián hangzott el.\n\n• **A beruházás korábbi szerződéses nehézségei** a vállalat tájékoztatása szerint már nem akadályozzák a munkát. A korábbi kivitelezővel fennálló szerződéses kapcsolat lezárása után a Romgaz vette át a fővállalkozói szerepet, és meghatározta a befejezéshez, valamint az erőmű termelésének elindításához szükséges szerződések körét.\n\n• **A szerződések többsége** már létrejött, illetve teljesítése folyamatban van. Jude szerint a munkát egy májusban elfogadott kormányzati memorandum is segítette: ez lehetővé tette, hogy egyes megállapodásokat előzetes közzététel nélküli tárgyalásos eljárással kössenek meg. A vezető ugyanakkor a beszerzési szabályok alkalmazását összetettnek nevezte.\n\n• **A 99/2016-os törvény** a Romgaz vezetője szerint megnehezítheti, hogy állami vállalatok hasonló méretű erőművi beruházást valósítsanak meg. Jude úgy vélte, a jelenlegi szabályozási környezetben a közszektorbeli beruházóknak nehézséget okozhat a fővállalkozó kiválasztása és a projekt megvalósításának megszervezése.\n\n• **A tervezett 2027-es indulás** egyelőre vállalati előrejelzés: a hálózati tesztek előkészítése és a fennmaradó munkálatok előrehaladása szükséges ahhoz, hogy az ütemezés tartható legyen. A bejelentés szerint a hálózati kapcsolódás megelőzné a kereskedelmi üzem kezdetét.",
+    "title_ro": "Romgaz: centrala Iernut ar putea începe operarea comercială la mijlocul lui 2027",
+    "lead_ro": "Centrala de la Iernut ar putea fi conectată la Sistemul Energetic Național în primul trimestru din 2027, iar operarea comercială ar putea începe la jumătatea anului. Potrivit conducerii Romgaz, obstacolele contractuale anterioare au fost depășite, iar majoritatea contractelor necesare sunt deja încheiate.",
+    "content_ro": "• **Calendarul estimat pentru centrala Iernut** prevede sincronizarea cu Sistemul Energetic Național în primul trimestru din 2027. Aristotel Jude, director general adjunct al Romgaz, a indicat că producția destinată operării comerciale ar putea începe la mijlocul aceluiași an. Declarația a fost făcută la o conferință dedicată provocărilor energetice din iarna 2026–2027.\n\n• **Dificultățile contractuale anterioare** nu mai blochează, potrivit companiei, continuarea proiectului. După încheierea relației contractuale cu fostul antreprenor, Romgaz a preluat rolul de antreprenor general și a stabilit ce acorduri sunt necesare pentru finalizarea lucrărilor și pornirea centralei.\n\n• **Cele mai multe contracte necesare** au fost semnate sau sunt în curs de derulare. Jude a menționat că un memorandum aprobat de Guvern în luna mai a sprijinit procesul, permițând atribuirea unor contracte prin negociere fără publicarea prealabilă a unui anunț. Reprezentantul Romgaz a descris aplicarea regulilor de achiziții în acest caz drept dificilă.\n\n• **Legea 99/2016** ar putea, în opinia lui Jude, să îngreuneze realizarea unor centrale de dimensiuni comparabile de către companii de stat. El a susținut că actualul cadru de achiziții complică atât selectarea antreprenorului general, cât și organizarea unui proiect energetic amplu de către un investitor public.\n\n• **Pornirea centralei în 2027** rămâne o estimare a companiei și depinde de desfășurarea etapelor pregătitoare și a testelor necesare conectării la rețea. Conform calendarului prezentat, sincronizarea cu sistemul energetic ar urma să aibă loc înaintea începerii operării comerciale.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_08c6dc08a4",
     "fingerprint": "9abf356ade9a3f15b9738f05568f33d3",
     "category": "Általános",
@@ -5180,120 +5205,6 @@
     "importance_score": 28.0
   },
   {
-    "group_id": "group_3ea74509c1",
-    "fingerprint": "f780171fb007191f1e67d4b783d8ebab",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Nazare: Reducerea deficitului ne întărește credibilitatea în discuțiile cu partenerii europeni",
-        "link": "https://agerpres.ro/economic/2026/11/09/nazare-reducerea-deficitului-ne-intareste-credibilitatea-in-discutiile-cu-partenerii-europeni--1611343"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "România negociază la Bruxelles finanțarea apărării și noi reguli fiscale. Nazare: Avem nevoie de mai puțină birocrație",
-        "link": "https://stirileprotv.ro/stiri/financiar/romania-negociaza-la-bruxelles-finantarea-apararii-si-noi-reguli-fiscale-nazare-avem-nevoie-de-mai-putina-birocratie.html"
-      }
-    ],
-    "published_at": 1794210709,
-    "title_hu": "Nazare: a deficitcsökkentés erősíti Románia uniós tárgyalási pozícióját",
-    "lead_hu": "Alexandru Nazare pénzügyminiszter hétfőn Brüsszelben vesz részt az ECOFIN és az inkluzív formátumú Eurocsoport ülésén. A megbeszéléseken többek között a védelmi kiadások finanszírozása, a szabályozás egyszerűsítése és a dohánytermékek adóztatásának uniós kerete kerül napirendre.",
-    "content_hu": "• **Alexandru Nazare pénzügyminiszter hétfői brüsszeli programja** az uniós gazdasági és pénzügyi miniszterek tanácskozásához, valamint az Eurocsoport inkluzív üléséhez kapcsolódik. A román tárcavezető szerint országa érdekeinek képviseletéhez világos prioritásokra, megalapozott javaslatokra és európai partnerekkel folytatott egyeztetésekre van szükség.\n\n• **A költségvetési hiány mérséklése** Nazare értékelése szerint javítja Románia hitelességét az uniós partnerekkel folytatott tárgyalásokon. A miniszter ezt a pozíciót olyan gazdaságpolitikai célok támogatására használná, mint a kiszámítható szabályozás, a vállalkozások tőkéhez jutásának javítása és az adminisztratív terhek csökkentése.\n\n• **A pénzügyminiszterek napirendjén** szerepel a védelem finanszírozása, a közös erőforrások hatékonyabb felhasználása, az uniós joganyag egyszerűsítése, valamint a dohánytermékek adóztatására vonatkozó európai keret korszerűsítése. Nazare jelezte, hogy a célok mellett a költségeket és az új szabályok alkalmazási feltételeit is mérlegelni kell.\n\n• **A helyreállítási terv végrehajtása** kapcsán a román pénzügyi tárca a beruházási minisztérium munkáját segíti az uniós egyeztetéseken, a saját hatáskörének megfelelően. Nazare kiemelte, hogy a megvalósult projektek után beérkező források a beruházásokat és a költségvetési egyensúlyt egyaránt érintik.\n\n• **Románia gazdasági érdekeinek képviselete** a minisztériumi közlemény szerint az európai adózási keretről folyó tárgyalásokra, az adminisztratív terhek mérséklésére és a fejlesztésre rendelkezésre álló források célszerű felhasználására is kiterjed. A tárcavezető a felkészülést, a vállalások teljesítését és az uniós párbeszédet nevezte fontosnak.",
-    "title_ro": "Nazare: reducerea deficitului consolidează poziția României în discuțiile europene",
-    "lead_ro": "Ministrul Finanțelor, Alexandru Nazare, participă luni la Bruxelles la reuniunile ECOFIN și Eurogrupului în format inclusiv. Agenda cuprinde finanțarea apărării, simplificarea reglementărilor și actualizarea cadrului european privind taxarea produselor din tutun.",
-    "content_ro": "• **Programul de luni al ministrului Alexandru Nazare la Bruxelles** include reuniunea Consiliului pentru Afaceri Economice și Financiare și întâlnirea Eurogrupului în format inclusiv. Potrivit ministrului, România are nevoie de priorități clare și propuneri bine fundamentate pentru a-și susține interesele în discuțiile cu partenerii europeni.\n\n• **Diminuarea deficitului bugetar** sporește, în evaluarea lui Nazare, credibilitatea României în negocierile cu celelalte state membre. Ministrul dorește ca această poziție să sprijine o economie mai competitivă, inclusiv prin reguli previzibile, acces îmbunătățit la finanțare și reducerea obligațiilor administrative pentru companii.\n\n• **Miniștrii de finanțe ai UE vor aborda** finanțarea apărării, utilizarea resurselor comune, simplificarea legislației și revizuirea cadrului european de impozitare a produselor din tutun. Nazare a indicat că analiza acestor măsuri trebuie să ia în calcul atât obiectivele urmărite, cât și costurile și condițiile practice de aplicare.\n\n• **Implementarea planului național de redresare** face obiectul unor discuții în care Ministerul Finanțelor sprijină instituția responsabilă de investiții, în limitele atribuțiilor sale. Nazare a arătat că sumele primite pentru proiectele finalizate au importanță atât pentru investiții, cât și pentru menținerea echilibrului bugetar.\n\n• **Reprezentarea intereselor economice ale României**, potrivit comunicatului ministerului, vizează negocierile privind fiscalitatea europeană, reducerea poverii administrative și folosirea eficientă a banilor disponibili pentru investiții și dezvoltare. Ministrul a subliniat rolul pregătirii, al rezultatelor concrete și al dialogului cu partenerii europeni.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_40bb687291",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
-        "link": "https://hotnews.ro/un-lider-pnl-este-convins-de-scorul-din-sondaje-al-polului-dreptei-oamenii-vor-fugi-de-psd-2398734"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Siegfried Mureșan: PSD se teme de o alianță PNL-USR. „Grindeanu știe că partidul va ajunge pe locul al treilea în sondaje”",
-        "link": "https://adevarul.ro/politica/siegfried-muresan-psd-se-teme-de-o-alianta-2570093.html"
-      }
-    ],
-    "published_at": 1794210700,
-    "title_hu": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
-    "lead_hu": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR …",
-    "content_hu": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR în sondaje. Liderul PNL admite că partidul lui George Simion este primul în preferințele alegătorilor și spune că pentru a-l învinge …",
-    "title_ro": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
-    "lead_ro": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR …",
-    "content_ro": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR în sondaje. Liderul PNL admite că partidul lui George Simion este primul în preferințele alegătorilor și spune că pentru a-l învinge …",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_f8b7e289b1",
-    "fingerprint": "f962fbbd2d1206da891b554cb54d2842",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
-        "link": "https://www.mediafax.ro/social/cum-au-furat-energie-pentru-masini-electrice-de-peste-158-000-de-lei-30-de-perchezitii-si-47-de-suspecti-23840026"
-      },
-      {
-        "source": "Digi24",
-        "title": "Furt de energie la stațiile de încărcare a mașinilor electrice. Cum ar fi fost fraudată aplicația PPC Blue",
-        "link": "https://www.digi24.ro/stiri/actualitate/justitie/furt-de-energie-la-statiile-de-incarcare-a-masinilor-electrice-cum-ar-fi-fost-fraudata-aplicatia-ppc-blue-4027253"
-      }
-    ],
-    "published_at": 1794210548,
-    "title_hu": "47 embert vizsgálnak a PPC Blue töltőhálózatának feltételezett megkárosítása miatt",
-    "lead_hu": "A romániai ügyészség 47 személyt gyanúsít azzal, hogy hamis adatokkal létrehozott fiókokon keresztül fizetés nélkül töltöttek elektromos autókat a PPC Blue állomásain. Az ügyben hétfőn 30 helyszínen tartottak házkutatást; a becsült kár meghaladja a 158 ezer lejt.",
-    "content_hu": "• **A hétfői akcióban** 30 lakóingatlant kutattak át a román ügyészek és rendőrök. A nyomozás 47 személyt érint, akiket lopás és informatikai adatok meghamisításának gyanújával vizsgálnak; az eljárás a „Jupiter 6” művelet része.\n\n• **2025. június 3. és szeptember 30. között** a gyanúsítottak a hatóságok szerint 1114 felhasználói profilt hoztak létre, illetve használtak szabálytalanul a PPC Blue alkalmazásban. A regisztrációkhoz ideiglenes e-mail-címeket, hamis személyes adatokat és személyi azonosítókat, valamint Románián kívüli pénzügyi szolgáltatók virtuális bankkártyáit vették igénybe.\n\n• **A töltőhálózatban** összesen 1114, elektromos járművekhez kapcsolódó töltési alkalmat azonosítottak, amelyek díját nem rendezték. A nyomozók által becsült kár 158 355,31 lej; az esetek a PPC Blue romániai állomásain történtek.\n\n• **A feltételezett módszer** az alkalmazás egyik működési hibájára épülhetett: az első, alacsony összegű banki jóváhagyással indított töltést rövid időn belül megszakították, majd 24 órán belül új alkalmat kezdtek ugyanazzal a fiókkal. A második töltésnél már nagyobb mennyiségű áramot használhattak fel újabb banki engedélyezés nélkül.\n\n• **A fiókok szerepe** nem merült ki azok létrehozásában: a vizsgálat szerint egyeseket másoknak is átadhattak, akik több jármű töltésére használták őket. A közvetítők állítólag a szolgáltató szokásos díjainál alacsonyabb összegekért kínálták a hozzáférést; a gyanúkat a bíróság még nem állapította meg jogerősen.",
-    "title_ro": "47 de persoane, cercetate pentru folosirea frauduloasă a rețelei PPC Blue",
-    "lead_ro": "Procurorii din România suspectează 47 de persoane că au folosit conturi înregistrate cu date false pentru a încărca vehicule electrice fără să plătească serviciile PPC Blue. Luni au fost efectuate 30 de percheziții, iar prejudiciul estimat depășește 158.000 de lei.",
-    "content_ro": "• **Acțiunea de luni** a inclus 30 de percheziții domiciliare desfășurate de procurori și polițiști. Ancheta îi vizează pe 47 de suspecți, cercetați pentru furt și falsificare de date informatice, și face parte din operațiunea „Jupiter 6”.\n\n• **Între 3 iunie și 30 septembrie 2025**, persoanele vizate ar fi creat și utilizat nelegal 1.114 profiluri în aplicația PPC Blue. Pentru înregistrare ar fi folosit adrese de e-mail temporare, informații personale și coduri numerice personale false, precum și carduri virtuale emise de furnizori financiari din afara României.\n\n• **La stațiile PPC Blue din România** au fost identificate 1.114 sesiuni de încărcare a unor vehicule electrice pentru care serviciile nu ar fi fost achitate. Paguba calculată de anchetatori este de 158.355,31 lei.\n\n• **Mecanismul presupus** ar fi exploatat o problemă a aplicației: după autorizarea unei prime încărcări de valoare redusă, sesiunea era oprită rapid, iar apoi, în decurs de 24 de ore, era pornită o alta cu același cont. În această etapă s-ar fi consumat mai multă energie fără o nouă autorizare bancară.\n\n• **Unele conturi** ar fi fost puse la dispoziția altor persoane, care le-ar fi folosit pentru alimentarea mai multor mașini. Potrivit anchetei, accesul era oferit contra unor sume mai mici decât tarifele operatorului; acuzațiile sunt în curs de verificare și nu reprezintă o constatare definitivă a vinovăției.",
-    "importance_score": 28.0
-  },
-  {
-    "group_id": "group_4ec6083a3d",
-    "fingerprint": "eff3193833843a2f81a4d5702913cfa0",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
-        "link": "https://agerpres.ro/economic-extern/2026/11/09/turbinele-pe-gaze-second-hand-sunt-la-mare-cautare-pentru-a-produce-electricitatea-necesara-centrelo--1611336"
-      },
-      {
-        "source": "Digi24",
-        "title": "Motivul pentru care companiile care dezvoltă AI caută în toată lumea turbine pe gaz second-hand și motoare de avion scoase din uz",
-        "link": "https://www.digi24.ro/stiri/externe/motivul-pentru-care-companiile-care-dezvolta-ai-cauta-in-toata-lumea-turbine-pe-gaz-second-hand-si-motoare-de-avion-scoase-din-uz-4027283"
-      }
-    ],
-    "published_at": 1794210353,
-    "title_hu": "Használt gázturbinákkal próbálják fedezni az MI-adatközpontok energiaigényét",
-    "lead_hu": "Az adatközpontok bővülése felpörgette az áramtermelő berendezések iránti keresletet, miközben az új gázturbinákra éveket kell várni. A cégek ezért használt, felújított vagy repülőgépmotorokra épülő megoldásokat is keresnek.",
-    "content_hu": "• **Az MI-adatközpontok növekvő energiaigénye** világszerte arra készteti a közműcégeket, fejlesztőket és energiatermelő vállalkozásokat, hogy gyorsan elérhető áramtermelő kapacitást találjanak. Az igény akkor is erős, hogy a mesterséges intelligencia üzleti kilátásait övező kételyek és a szektor részvényeinek közelmúltbeli gyengülése bizonytalanságot okoz.\n\n• **Az új gázturbinák hosszú szállítási ideje** miatt egyes szereplők a használt vagy felújított gépek felé fordulnak. A lehetőségek között vannak korábban üzemen kívül helyezett berendezések újbóli használatba vétele, valamint leselejtezett repülőgépek hajtóműveire épülő rendszerek is.\n\n• **Az Egyesült Államokban 2030–2031-re** szólnak a turbinák szállításával kapcsolatos jelenlegi várakozások – mondta Aurora Tenorio, a Wood Mackenzie energetikai tanácsadó elemzője. A hosszú átfutású megrendelések így szűk keresztmetszetet jelentenek az adatközpontokhoz szükséges energia-infrastruktúra kiépítésében.\n\n• **A használt berendezések piaca élénkült**, és az EthosEnergy vezetője, Ana Amicarella szerint a kínált árak is emelkedtek. A másodlagos piac globális részesedéséről ugyanakkor nincs pontos adat; a gázturbinák éves piacának értékét mintegy 25 milliárd dollárra becsülik. A használt gépek iránti érdeklődés azt jelzi, hogy az adatközpontok terjedése más iparágak berendezésellátására is hatással van.",
-    "title_ro": "Turbinele second-hand, căutate pentru alimentarea centrelor de date AI",
-    "lead_ro": "Extinderea centrelor de date crește cererea de echipamente pentru producerea energiei, în timp ce livrarea unor turbine noi poate întârzia până la începutul următorului deceniu. Unele companii caută, în consecință, utilaje la mâna a doua, recondiționate sau bazate pe motoare de avion.",
-    "content_ro": "• **Necesarul tot mai mare de electricitate al centrelor de date AI** determină companiile de utilități, dezvoltatorii și producătorii de energie să caute capacități disponibile într-un termen scurt. Cererea se menține în creștere chiar dacă perspectivele comerciale ale inteligenței artificiale sunt privite cu rezerve, iar acțiunile unor companii din domeniu au scăzut recent.\n\n• **Durata mare de așteptare pentru turbine noi** îi orientează pe unii cumpărători către echipamente utilizate sau recondiționate. Printre variante se numără repunerea în funcțiune a unor instalații scoase din exploatare și folosirea unor sisteme construite pe baza motoarelor de avion retrase din serviciu.\n\n• **În Statele Unite, livrările de turbine sunt programate în prezent pentru 2030–2031**, potrivit Aurorei Tenorio, analistă la firma de consultanță energetică Wood Mackenzie. Întârzierile complică realizarea infrastructurii de producere a energiei necesare noilor centre de date.\n\n• **Piața echipamentelor second-hand s-a intensificat**, iar Ana Amicarella, directoare la EthosEnergy, a semnalat și creșterea prețurilor solicitate. Nu există o evaluare exactă a ponderii acestei piețe în oferta mondială; valoarea anuală a pieței turbinelor este estimată la aproximativ 25 de miliarde de dolari. Interesul pentru utilaje reutilizate reflectă efectele extinderii centrelor de date asupra mai multor sectoare industriale.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_c6c28e045a",
     "fingerprint": "051922fba6853329f06ed3af32cb9588",
     "category": "Általános",
@@ -5553,6 +5464,120 @@
     "lead_ro": "De la începutul lunii septembrie, platforma naturbeobachtung.at a înregistrat peste 200 de observații de tarantule în Austria, aparținând a două specii. Cele mai multe raportări provin din Stiria, iar unele apariții în zone neobișnuite au atras atenția specialiștilor.",
     "content_ro": "• **De la începutul lui septembrie**, pe naturbeobachtung.at au fost consemnate peste 200 de observații de tarantule în Austria. Datele se referă la două specii: tarantula sud-rusă, care poate ajunge la aproximativ patru centimetri, și tarantula cu abdomen negru, cu o lungime de până la 2,5 centimetri.\n\n• **Repartiția pe landuri** o plasează pe Stiria pe primul loc, cu 66 de semnalări. Austria Inferioară a avut 49, iar Burgenland, 43. În Stiria și Carintia a fost raportată numai specia cu abdomen negru; Viena și Austria Inferioară au avut semnalări doar pentru tarantula sud-rusă. În Burgenland au fost observate ambele specii.\n\n• **Toamna**, păianjenii sunt văzuți mai des în timp ce caută locuri pentru iernat. În acest proces pot ajunge în locuințe ori garaje, iar în mediul natural se adăpostesc în galerii din sol și în fisuri dintre pietre.\n\n• **Tulln și valea Gail** se numără printre locurile neobișnuite în care au fost găsite exemplare. Tarantula sud-rusă a fost identificată la Tulln, în Austria Inferioară, deși nu existau raportări din zonele apropiate Tullnerfeld și Korneuburg. La sfârșitul lui august, specia cu abdomen negru a fost văzută lângă Stossau, în valea Gail; aceasta este cea mai vestică apariție cunoscută a sa în Austria. În apropiere de Lackendorf, Burgenland, s-a consemnat cea mai nordică prezență, iar specialiștii consideră posibil ca speciile să se întâlnească în aceeași zonă.\n\n• **Evoluția răspândirii** are repere istorice diferite: tarantula sud-rusă este semnalată lângă lacul Neusiedl și la Viena încă de la începutul secolului al XX-lea, în timp ce prezența speciei cu abdomen negru în Stiria este documentată din anii 1970. Un studiu publicat în 2025 a consemnat revenirea tarantulei în Cehia după o perioadă de declin, fenomen asociat de cercetători cu verile mai calde și mai secetoase. Ambele specii aparțin familiei păianjenilor-lup; pot mușca dacă sunt amenințate, însă astfel de cazuri sunt rare.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_3ea74509c1",
+    "fingerprint": "f780171fb007191f1e67d4b783d8ebab",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Nazare: Reducerea deficitului ne întărește credibilitatea în discuțiile cu partenerii europeni",
+        "link": "https://agerpres.ro/economic/2026/11/09/nazare-reducerea-deficitului-ne-intareste-credibilitatea-in-discutiile-cu-partenerii-europeni--1611343"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "România negociază la Bruxelles finanțarea apărării și noi reguli fiscale. Nazare: Avem nevoie de mai puțină birocrație",
+        "link": "https://stirileprotv.ro/stiri/financiar/romania-negociaza-la-bruxelles-finantarea-apararii-si-noi-reguli-fiscale-nazare-avem-nevoie-de-mai-putina-birocratie.html"
+      }
+    ],
+    "published_at": 1794210709,
+    "title_hu": "Nazare: a deficitcsökkentés erősíti Románia uniós tárgyalási pozícióját",
+    "lead_hu": "Alexandru Nazare pénzügyminiszter hétfőn Brüsszelben vesz részt az ECOFIN és az inkluzív formátumú Eurocsoport ülésén. A megbeszéléseken többek között a védelmi kiadások finanszírozása, a szabályozás egyszerűsítése és a dohánytermékek adóztatásának uniós kerete kerül napirendre.",
+    "content_hu": "• **Alexandru Nazare pénzügyminiszter hétfői brüsszeli programja** az uniós gazdasági és pénzügyi miniszterek tanácskozásához, valamint az Eurocsoport inkluzív üléséhez kapcsolódik. A román tárcavezető szerint országa érdekeinek képviseletéhez világos prioritásokra, megalapozott javaslatokra és európai partnerekkel folytatott egyeztetésekre van szükség.\n\n• **A költségvetési hiány mérséklése** Nazare értékelése szerint javítja Románia hitelességét az uniós partnerekkel folytatott tárgyalásokon. A miniszter ezt a pozíciót olyan gazdaságpolitikai célok támogatására használná, mint a kiszámítható szabályozás, a vállalkozások tőkéhez jutásának javítása és az adminisztratív terhek csökkentése.\n\n• **A pénzügyminiszterek napirendjén** szerepel a védelem finanszírozása, a közös erőforrások hatékonyabb felhasználása, az uniós joganyag egyszerűsítése, valamint a dohánytermékek adóztatására vonatkozó európai keret korszerűsítése. Nazare jelezte, hogy a célok mellett a költségeket és az új szabályok alkalmazási feltételeit is mérlegelni kell.\n\n• **A helyreállítási terv végrehajtása** kapcsán a román pénzügyi tárca a beruházási minisztérium munkáját segíti az uniós egyeztetéseken, a saját hatáskörének megfelelően. Nazare kiemelte, hogy a megvalósult projektek után beérkező források a beruházásokat és a költségvetési egyensúlyt egyaránt érintik.\n\n• **Románia gazdasági érdekeinek képviselete** a minisztériumi közlemény szerint az európai adózási keretről folyó tárgyalásokra, az adminisztratív terhek mérséklésére és a fejlesztésre rendelkezésre álló források célszerű felhasználására is kiterjed. A tárcavezető a felkészülést, a vállalások teljesítését és az uniós párbeszédet nevezte fontosnak.",
+    "title_ro": "Nazare: reducerea deficitului consolidează poziția României în discuțiile europene",
+    "lead_ro": "Ministrul Finanțelor, Alexandru Nazare, participă luni la Bruxelles la reuniunile ECOFIN și Eurogrupului în format inclusiv. Agenda cuprinde finanțarea apărării, simplificarea reglementărilor și actualizarea cadrului european privind taxarea produselor din tutun.",
+    "content_ro": "• **Programul de luni al ministrului Alexandru Nazare la Bruxelles** include reuniunea Consiliului pentru Afaceri Economice și Financiare și întâlnirea Eurogrupului în format inclusiv. Potrivit ministrului, România are nevoie de priorități clare și propuneri bine fundamentate pentru a-și susține interesele în discuțiile cu partenerii europeni.\n\n• **Diminuarea deficitului bugetar** sporește, în evaluarea lui Nazare, credibilitatea României în negocierile cu celelalte state membre. Ministrul dorește ca această poziție să sprijine o economie mai competitivă, inclusiv prin reguli previzibile, acces îmbunătățit la finanțare și reducerea obligațiilor administrative pentru companii.\n\n• **Miniștrii de finanțe ai UE vor aborda** finanțarea apărării, utilizarea resurselor comune, simplificarea legislației și revizuirea cadrului european de impozitare a produselor din tutun. Nazare a indicat că analiza acestor măsuri trebuie să ia în calcul atât obiectivele urmărite, cât și costurile și condițiile practice de aplicare.\n\n• **Implementarea planului național de redresare** face obiectul unor discuții în care Ministerul Finanțelor sprijină instituția responsabilă de investiții, în limitele atribuțiilor sale. Nazare a arătat că sumele primite pentru proiectele finalizate au importanță atât pentru investiții, cât și pentru menținerea echilibrului bugetar.\n\n• **Reprezentarea intereselor economice ale României**, potrivit comunicatului ministerului, vizează negocierile privind fiscalitatea europeană, reducerea poverii administrative și folosirea eficientă a banilor disponibili pentru investiții și dezvoltare. Ministrul a subliniat rolul pregătirii, al rezultatelor concrete și al dialogului cu partenerii europeni.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_40bb687291",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
+        "link": "https://hotnews.ro/un-lider-pnl-este-convins-de-scorul-din-sondaje-al-polului-dreptei-oamenii-vor-fugi-de-psd-2398734"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Siegfried Mureșan: PSD se teme de o alianță PNL-USR. „Grindeanu știe că partidul va ajunge pe locul al treilea în sondaje”",
+        "link": "https://adevarul.ro/politica/siegfried-muresan-psd-se-teme-de-o-alianta-2570093.html"
+      }
+    ],
+    "published_at": 1794210700,
+    "title_hu": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
+    "lead_hu": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR …",
+    "content_hu": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR în sondaje. Liderul PNL admite că partidul lui George Simion este primul în preferințele alegătorilor și spune că pentru a-l învinge …",
+    "title_ro": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
+    "lead_ro": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR …",
+    "content_ro": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR în sondaje. Liderul PNL admite că partidul lui George Simion este primul în preferințele alegătorilor și spune că pentru a-l învinge …",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_f8b7e289b1",
+    "fingerprint": "f962fbbd2d1206da891b554cb54d2842",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
+        "link": "https://www.mediafax.ro/social/cum-au-furat-energie-pentru-masini-electrice-de-peste-158-000-de-lei-30-de-perchezitii-si-47-de-suspecti-23840026"
+      },
+      {
+        "source": "Digi24",
+        "title": "Furt de energie la stațiile de încărcare a mașinilor electrice. Cum ar fi fost fraudată aplicația PPC Blue",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/furt-de-energie-la-statiile-de-incarcare-a-masinilor-electrice-cum-ar-fi-fost-fraudata-aplicatia-ppc-blue-4027253"
+      }
+    ],
+    "published_at": 1794210548,
+    "title_hu": "47 embert vizsgálnak a PPC Blue töltőhálózatának feltételezett megkárosítása miatt",
+    "lead_hu": "A romániai ügyészség 47 személyt gyanúsít azzal, hogy hamis adatokkal létrehozott fiókokon keresztül fizetés nélkül töltöttek elektromos autókat a PPC Blue állomásain. Az ügyben hétfőn 30 helyszínen tartottak házkutatást; a becsült kár meghaladja a 158 ezer lejt.",
+    "content_hu": "• **A hétfői akcióban** 30 lakóingatlant kutattak át a román ügyészek és rendőrök. A nyomozás 47 személyt érint, akiket lopás és informatikai adatok meghamisításának gyanújával vizsgálnak; az eljárás a „Jupiter 6” művelet része.\n\n• **2025. június 3. és szeptember 30. között** a gyanúsítottak a hatóságok szerint 1114 felhasználói profilt hoztak létre, illetve használtak szabálytalanul a PPC Blue alkalmazásban. A regisztrációkhoz ideiglenes e-mail-címeket, hamis személyes adatokat és személyi azonosítókat, valamint Románián kívüli pénzügyi szolgáltatók virtuális bankkártyáit vették igénybe.\n\n• **A töltőhálózatban** összesen 1114, elektromos járművekhez kapcsolódó töltési alkalmat azonosítottak, amelyek díját nem rendezték. A nyomozók által becsült kár 158 355,31 lej; az esetek a PPC Blue romániai állomásain történtek.\n\n• **A feltételezett módszer** az alkalmazás egyik működési hibájára épülhetett: az első, alacsony összegű banki jóváhagyással indított töltést rövid időn belül megszakították, majd 24 órán belül új alkalmat kezdtek ugyanazzal a fiókkal. A második töltésnél már nagyobb mennyiségű áramot használhattak fel újabb banki engedélyezés nélkül.\n\n• **A fiókok szerepe** nem merült ki azok létrehozásában: a vizsgálat szerint egyeseket másoknak is átadhattak, akik több jármű töltésére használták őket. A közvetítők állítólag a szolgáltató szokásos díjainál alacsonyabb összegekért kínálták a hozzáférést; a gyanúkat a bíróság még nem állapította meg jogerősen.",
+    "title_ro": "47 de persoane, cercetate pentru folosirea frauduloasă a rețelei PPC Blue",
+    "lead_ro": "Procurorii din România suspectează 47 de persoane că au folosit conturi înregistrate cu date false pentru a încărca vehicule electrice fără să plătească serviciile PPC Blue. Luni au fost efectuate 30 de percheziții, iar prejudiciul estimat depășește 158.000 de lei.",
+    "content_ro": "• **Acțiunea de luni** a inclus 30 de percheziții domiciliare desfășurate de procurori și polițiști. Ancheta îi vizează pe 47 de suspecți, cercetați pentru furt și falsificare de date informatice, și face parte din operațiunea „Jupiter 6”.\n\n• **Între 3 iunie și 30 septembrie 2025**, persoanele vizate ar fi creat și utilizat nelegal 1.114 profiluri în aplicația PPC Blue. Pentru înregistrare ar fi folosit adrese de e-mail temporare, informații personale și coduri numerice personale false, precum și carduri virtuale emise de furnizori financiari din afara României.\n\n• **La stațiile PPC Blue din România** au fost identificate 1.114 sesiuni de încărcare a unor vehicule electrice pentru care serviciile nu ar fi fost achitate. Paguba calculată de anchetatori este de 158.355,31 lei.\n\n• **Mecanismul presupus** ar fi exploatat o problemă a aplicației: după autorizarea unei prime încărcări de valoare redusă, sesiunea era oprită rapid, iar apoi, în decurs de 24 de ore, era pornită o alta cu același cont. În această etapă s-ar fi consumat mai multă energie fără o nouă autorizare bancară.\n\n• **Unele conturi** ar fi fost puse la dispoziția altor persoane, care le-ar fi folosit pentru alimentarea mai multor mașini. Potrivit anchetei, accesul era oferit contra unor sume mai mici decât tarifele operatorului; acuzațiile sunt în curs de verificare și nu reprezintă o constatare definitivă a vinovăției.",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_4ec6083a3d",
+    "fingerprint": "eff3193833843a2f81a4d5702913cfa0",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
+        "link": "https://agerpres.ro/economic-extern/2026/11/09/turbinele-pe-gaze-second-hand-sunt-la-mare-cautare-pentru-a-produce-electricitatea-necesara-centrelo--1611336"
+      },
+      {
+        "source": "Digi24",
+        "title": "Motivul pentru care companiile care dezvoltă AI caută în toată lumea turbine pe gaz second-hand și motoare de avion scoase din uz",
+        "link": "https://www.digi24.ro/stiri/externe/motivul-pentru-care-companiile-care-dezvolta-ai-cauta-in-toata-lumea-turbine-pe-gaz-second-hand-si-motoare-de-avion-scoase-din-uz-4027283"
+      }
+    ],
+    "published_at": 1794210353,
+    "title_hu": "Használt gázturbinákkal próbálják fedezni az MI-adatközpontok energiaigényét",
+    "lead_hu": "Az adatközpontok bővülése felpörgette az áramtermelő berendezések iránti keresletet, miközben az új gázturbinákra éveket kell várni. A cégek ezért használt, felújított vagy repülőgépmotorokra épülő megoldásokat is keresnek.",
+    "content_hu": "• **Az MI-adatközpontok növekvő energiaigénye** világszerte arra készteti a közműcégeket, fejlesztőket és energiatermelő vállalkozásokat, hogy gyorsan elérhető áramtermelő kapacitást találjanak. Az igény akkor is erős, hogy a mesterséges intelligencia üzleti kilátásait övező kételyek és a szektor részvényeinek közelmúltbeli gyengülése bizonytalanságot okoz.\n\n• **Az új gázturbinák hosszú szállítási ideje** miatt egyes szereplők a használt vagy felújított gépek felé fordulnak. A lehetőségek között vannak korábban üzemen kívül helyezett berendezések újbóli használatba vétele, valamint leselejtezett repülőgépek hajtóműveire épülő rendszerek is.\n\n• **Az Egyesült Államokban 2030–2031-re** szólnak a turbinák szállításával kapcsolatos jelenlegi várakozások – mondta Aurora Tenorio, a Wood Mackenzie energetikai tanácsadó elemzője. A hosszú átfutású megrendelések így szűk keresztmetszetet jelentenek az adatközpontokhoz szükséges energia-infrastruktúra kiépítésében.\n\n• **A használt berendezések piaca élénkült**, és az EthosEnergy vezetője, Ana Amicarella szerint a kínált árak is emelkedtek. A másodlagos piac globális részesedéséről ugyanakkor nincs pontos adat; a gázturbinák éves piacának értékét mintegy 25 milliárd dollárra becsülik. A használt gépek iránti érdeklődés azt jelzi, hogy az adatközpontok terjedése más iparágak berendezésellátására is hatással van.",
+    "title_ro": "Turbinele second-hand, căutate pentru alimentarea centrelor de date AI",
+    "lead_ro": "Extinderea centrelor de date crește cererea de echipamente pentru producerea energiei, în timp ce livrarea unor turbine noi poate întârzia până la începutul următorului deceniu. Unele companii caută, în consecință, utilaje la mâna a doua, recondiționate sau bazate pe motoare de avion.",
+    "content_ro": "• **Necesarul tot mai mare de electricitate al centrelor de date AI** determină companiile de utilități, dezvoltatorii și producătorii de energie să caute capacități disponibile într-un termen scurt. Cererea se menține în creștere chiar dacă perspectivele comerciale ale inteligenței artificiale sunt privite cu rezerve, iar acțiunile unor companii din domeniu au scăzut recent.\n\n• **Durata mare de așteptare pentru turbine noi** îi orientează pe unii cumpărători către echipamente utilizate sau recondiționate. Printre variante se numără repunerea în funcțiune a unor instalații scoase din exploatare și folosirea unor sisteme construite pe baza motoarelor de avion retrase din serviciu.\n\n• **În Statele Unite, livrările de turbine sunt programate în prezent pentru 2030–2031**, potrivit Aurorei Tenorio, analistă la firma de consultanță energetică Wood Mackenzie. Întârzierile complică realizarea infrastructurii de producere a energiei necesare noilor centre de date.\n\n• **Piața echipamentelor second-hand s-a intensificat**, iar Ana Amicarella, directoare la EthosEnergy, a semnalat și creșterea prețurilor solicitate. Nu există o evaluare exactă a ponderii acestei piețe în oferta mondială; valoarea anuală a pieței turbinelor este estimată la aproximativ 25 de miliarde de dolari. Interesul pentru utilaje reutilizate reflectă efectele extinderii centrelor de date asupra mai multor sectoare industriale.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_c7dd1ebbd8",
@@ -6154,6 +6179,94 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_d57c294f61",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Salariile la Real Madrid au atins un nivel istoric » Perez plătește ca șeicii de la PSG",
+        "link": "https://www.gsp.ro/international/campionate/salariile-real-madrid-record-psg-997703.html"
+      }
+    ],
+    "published_at": 1794232080,
+    "title_hu": "Salariile la Real Madrid au atins un nivel istoric » Perez plătește ca șeicii de la PSG",
+    "lead_hu": "Real Madrid le plătește jucătorilor săi cele mai mari salarii salarii din fotbalul european în 2026 - 2027. La același nivel se află PSG, care are însă un nivel mai ridicat al investițiilor. Clubul co...",
+    "content_hu": "Real Madrid le plătește jucătorilor săi cele mai mari salarii salarii din fotbalul european în 2026 - 2027. La același nivel se află PSG, care are însă un nivel mai ridicat al investițiilor. Clubul condus de omul de afaceri spaniol Florentino Perez a alocat nu mai puțin de 707 milioane de euro bugetului de salarii în 2026 - 2027 și amortizării taxelor de transfer. ...",
+    "title_ro": "Salariile la Real Madrid au atins un nivel istoric » Perez plătește ca șeicii de la PSG",
+    "lead_ro": "Real Madrid le plătește jucătorilor săi cele mai mari salarii salarii din fotbalul european în 2026 - 2027. La același nivel se află PSG, care are însă un nivel mai ridicat al investițiilor. Clubul co...",
+    "content_ro": "Real Madrid le plătește jucătorilor săi cele mai mari salarii salarii din fotbalul european în 2026 - 2027. La același nivel se află PSG, care are însă un nivel mai ridicat al investițiilor. Clubul condus de omul de afaceri spaniol Florentino Perez a alocat nu mai puțin de 707 milioane de euro bugetului de salarii în 2026 - 2027 și amortizării taxelor de transfer. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_7e498af154",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ministrul Transporturilor: Proiectul Bala 2 va permite navigarea pe Dunăre pe tot parcursul anului. Investiția, estimată la 1,3 miliard",
+        "link": "https://www.digi24.ro/stiri/economie/ministrul-transporturilor-proiectul-bala-2-va-permite-navigarea-pe-dunare-pe-tot-parcursul-anului-investitia-estimata-la-13-miliard-4028079"
+      }
+    ],
+    "published_at": 1794232078,
+    "title_hu": "Ministrul Transporturilor: Proiectul Bala 2 va permite navigarea pe Dunăre pe tot parcursul anului. Investiția, estimată la 1,3 miliard",
+    "lead_hu": "Ministrul Transporturilor Ştefan-Ovidiu Popa a declarat că reconfigurarea debitelor în zona Bala 2 va asigura cantitatea de apă necesară pentru răcirea reactoarelor de la Cernavodă și va contribui la ...",
+    "content_hu": "Ministrul Transporturilor Ştefan-Ovidiu Popa a declarat că reconfigurarea debitelor în zona Bala 2 va asigura cantitatea de apă necesară pentru răcirea reactoarelor de la Cernavodă și va contribui la îmbunătățirea navigabilității pe Dunăre pe tot parcursul anului. Oficialul a precizat că investiția este estimată la 1,2-1,3 miliarde de lei, urmând să fie identificată sursa de finanțare.",
+    "title_ro": "Ministrul Transporturilor: Proiectul Bala 2 va permite navigarea pe Dunăre pe tot parcursul anului. Investiția, estimată la 1,3 miliard",
+    "lead_ro": "Ministrul Transporturilor Ştefan-Ovidiu Popa a declarat că reconfigurarea debitelor în zona Bala 2 va asigura cantitatea de apă necesară pentru răcirea reactoarelor de la Cernavodă și va contribui la ...",
+    "content_ro": "Ministrul Transporturilor Ştefan-Ovidiu Popa a declarat că reconfigurarea debitelor în zona Bala 2 va asigura cantitatea de apă necesară pentru răcirea reactoarelor de la Cernavodă și va contribui la îmbunătățirea navigabilității pe Dunăre pe tot parcursul anului. Oficialul a precizat că investiția este estimată la 1,2-1,3 miliarde de lei, urmând să fie identificată sursa de finanțare.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e5982ff78e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Román cigarettacsempészt kaptak el Magyarországon",
+        "link": "https://maszol.ro/kulfold/Roman-cigarettacsempeszt-kaptak-el-Magyarorszagon"
+      }
+    ],
+    "published_at": 1794232020,
+    "title_hu": "Román cigarettacsempészt kaptak el Magyarországon",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Román cigarettacsempészt kaptak el Magyarországon",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_3a11f515d2",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Zelenski susține că s-a „coordonat” cu UE înainte de negocierile de la Abu Dhabi: „Facem totul” pentru a obține rezultate",
+        "link": "https://www.digi24.ro/stiri/externe/zelenski-sustine-ca-s-a-coordonat-cu-ue-inainte-de-negocierile-de-la-abu-dhabi-facem-totul-pentru-a-obtine-rezultate-4028069"
+      }
+    ],
+    "published_at": 1794231969,
+    "title_hu": "Zelenski susține că s-a „coordonat” cu UE înainte de negocierile de la Abu Dhabi: „Facem totul” pentru a obține rezultate",
+    "lead_hu": "Preşedintele ucrainean Volodimir Zelenski a declarat luni că s-a coordonat cu preşedinta Comisiei Europene, Ursula von der Leyen, înainte de discuţiile Ucraina-Rusia sub mediere americană prevăzute în...",
+    "content_hu": "Preşedintele ucrainean Volodimir Zelenski a declarat luni că s-a coordonat cu preşedinta Comisiei Europene, Ursula von der Leyen, înainte de discuţiile Ucraina-Rusia sub mediere americană prevăzute în această săptămână la Abu Dhabi, relatează AFP, potrivit Agerpres.",
+    "title_ro": "Zelenski susține că s-a „coordonat” cu UE înainte de negocierile de la Abu Dhabi: „Facem totul” pentru a obține rezultate",
+    "lead_ro": "Preşedintele ucrainean Volodimir Zelenski a declarat luni că s-a coordonat cu preşedinta Comisiei Europene, Ursula von der Leyen, înainte de discuţiile Ucraina-Rusia sub mediere americană prevăzute în...",
+    "content_ro": "Preşedintele ucrainean Volodimir Zelenski a declarat luni că s-a coordonat cu preşedinta Comisiei Europene, Ursula von der Leyen, înainte de discuţiile Ucraina-Rusia sub mediere americană prevăzute în această săptămână la Abu Dhabi, relatează AFP, potrivit Agerpres.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_fb00eafcfe",
     "category": "Általános",
     "is_synthesized": false,
@@ -6242,28 +6355,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_6c693edfac",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Luca pNiculescu a discutat cu omologul grec despre proiecte energetice și de transport. Ce au convenit cei doi",
-        "link": "https://www.mediafax.ro/politic/luca-pniculescu-a-discutat-cu-omologul-grec-despre-proiecte-energetice-si-de-transport-ce-au-convenit-cei-doi-23840317"
-      }
-    ],
-    "published_at": 1794231612,
-    "title_hu": "Luca pNiculescu a discutat cu omologul grec despre proiecte energetice și de transport. Ce au convenit cei doi",
-    "lead_hu": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre c...",
-    "content_hu": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre colaborarea în domeniul fiscal.",
-    "title_ro": "Luca pNiculescu a discutat cu omologul grec despre proiecte energetice și de transport. Ce au convenit cei doi",
-    "lead_ro": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre c...",
-    "content_ro": "Premierul Luca Niculescu a discutat telefonic cu omologul său grec, Kyriakos Mitsotakis, despre consolidarea cooperării bilaterale, cu accent pe proiectele din energie și transporturi, dar și despre colaborarea în domeniul fiscal.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_13f8d3d284",
     "category": "Általános",
     "is_synthesized": false,
@@ -6283,6 +6374,28 @@
     "title_ro": "Rețete de post pentru Postul Crăciunului. Ce poți găti în cele 40 de zile fără carne, lapte și ouă",
     "lead_ro": "Postul Crăciunului durează 40 de zile, perioadă în care preparatele fără carne, lapte și ouă devin parte din meniul zilnic....",
     "content_ro": "Postul Crăciunului durează 40 de zile, perioadă în care preparatele fără carne, lapte și ouă devin parte din meniul zilnic.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_7b1ee9d95a",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "FT: Reprezentați ai Comisiei Europene și NATO vor fi prezenți la negocierile de pace de la Abu Dhabi",
+        "link": "https://www.g4media.ro/ft-reprezentati-ai-comisiei-europene-si-nato-vor-fi-prezenti-la-negocierile-de-pace-de-la-abu-dhabi.html"
+      }
+    ],
+    "published_at": 1794231458,
+    "title_hu": "FT: Reprezentați ai Comisiei Europene și NATO vor fi prezenți la negocierile de pace de la Abu Dhabi",
+    "lead_hu": "Consilieri de rang înalt din Franța, Germania și Regatul Unit, precum și reprezentanți ai Comisiei Europene și NATO, vor participa marți și miercuri la o parte dintre discuțiile privind războiul din U...",
+    "content_hu": "Consilieri de rang înalt din Franța, Germania și Regatul Unit, precum și reprezentanți ai Comisiei Europene și NATO, vor participa marți și miercuri la o parte dintre discuțiile privind războiul din Ucraina, organizate la Abu Dhabi, relatează Financial Times. Prezența europenilor urmărește să consolideze poziția de negociere a Kievului și să împiedice Rusia să folosească […] © G4Media.ro.",
+    "title_ro": "FT: Reprezentați ai Comisiei Europene și NATO vor fi prezenți la negocierile de pace de la Abu Dhabi",
+    "lead_ro": "Consilieri de rang înalt din Franța, Germania și Regatul Unit, precum și reprezentanți ai Comisiei Europene și NATO, vor participa marți și miercuri la o parte dintre discuțiile privind războiul din U...",
+    "content_ro": "Consilieri de rang înalt din Franța, Germania și Regatul Unit, precum și reprezentanți ai Comisiei Europene și NATO, vor participa marți și miercuri la o parte dintre discuțiile privind războiul din Ucraina, organizate la Abu Dhabi, relatează Financial Times. Prezența europenilor urmărește să consolideze poziția de negociere a Kievului și să împiedice Rusia să folosească […] © G4Media.ro.",
     "importance_score": 0.0
   },
   {
@@ -8593,28 +8706,6 @@
     "title_ro": "Un cunoscut cardiolog român spune când vor avea acces pacienții la ecografe cu inteligență artificială, care pot „vedea” o structură a inimii foarte greu de evaluat",
     "lead_ro": "Un nou model de inteligență artificială, numit DROID-RV, a fost dezvoltat de cercetătorii de la Mass General Brigham Heart and Vascular Institute, un centru medical de excelență din Boston, Statele Un…",
     "content_ro": "Un nou model de inteligență artificială, numit DROID-RV, a fost dezvoltat de cercetătorii de la Mass General Brigham Heart and Vascular Institute, un centru medical de excelență din Boston, Statele Unite. DROID-RV poate estima dimensiunea ventriculului drept cu o marjă de eroare de aproximativ 3 milimetri și poate identifica o funcție redusă cu o precizie …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_453bdea8d3",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "„Fierbe” Dunărea la Galați. Fenomenul spectaculos care apare în diminețile reci",
-        "link": "https://stirileprotv.ro/stiri/actualitate/fierbe-dunarea-la-galati-fenomenul-spectaculos-care-apare-in-diminetile-reci.html"
-      }
-    ],
-    "published_at": 1794223915,
-    "title_hu": "„Fierbe” Dunărea la Galați. Fenomenul spectaculos care apare în diminețile reci",
-    "lead_hu": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
-    "content_hu": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
-    "title_ro": "„Fierbe” Dunărea la Galați. Fenomenul spectaculos care apare în diminețile reci",
-    "lead_ro": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
-    "content_ro": "Imagini spectaculoase la malul Dunării, la Galați. În ultimele dimineți fluviul a părut că fierbe când valuri de abur gros s-au ridicat deasupra apei.",
     "importance_score": 0.0
   },
   {
@@ -19046,50 +19137,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_4261449b39",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Rendőrségi razziát tartottak a kolozsvári diáknegyedben, összesen mintegy 25 ezer lej értékben szabtak ki bírságokat",
-        "link": "https://transtelex.ro/kozelet/2026/11/08/rendorsegi-razziat-tartottak-a-kolozsvari-diaknegyedben-osszesen-mintegy-25-ezer-lej-ertekben-szabtak-ki-birsagokat"
-      }
-    ],
-    "published_at": 1794145661,
-    "title_hu": "Rendőrségi razziát tartottak a kolozsvári diáknegyedben, összesen mintegy 25 ezer lej értékben szabtak ki bírságokat",
-    "lead_hu": "Alkohol- és drogteszteket végeztek és több vendéglátóipari egységet megbirságoltak a Hegyvölgy (Piezișă) utcában és környékén",
-    "content_hu": "Alkohol- és drogteszteket végeztek és több vendéglátóipari egységet megbirságoltak a Hegyvölgy (Piezișă) utcában és környékén",
-    "title_ro": "Rendőrségi razziát tartottak a kolozsvári diáknegyedben, összesen mintegy 25 ezer lej értékben szabtak ki bírságokat",
-    "lead_ro": "Alkohol- és drogteszteket végeztek és több vendéglátóipari egységet megbirságoltak a Hegyvölgy (Piezișă) utcában és környékén",
-    "content_ro": "Alkohol- és drogteszteket végeztek és több vendéglátóipari egységet megbirságoltak a Hegyvölgy (Piezișă) utcában és környékén",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ee5bdac1bb",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Tragedie în Croația. Cel puțin 2 persoane au murit iar alte 20 au fost rănite după ce un autobuz s-a răsturnat în apropiere de Zagreb",
-        "link": "https://www.mediafax.ro/stirile-zilei/tragedie-in-croatia-cel-putin-2-persoane-au-murit-iar-alte-20-au-fost-ranite-dupa-ce-un-autobuz-s-a-rasturnat-in-apropiere-de-zagreb-23839766"
-      }
-    ],
-    "published_at": 1794145523,
-    "title_hu": "Tragedie în Croația. Cel puțin 2 persoane au murit iar alte 20 au fost rănite după ce un autobuz s-a răsturnat în apropiere de Zagreb",
-    "lead_hu": "Cel puțin două persoane au fost ucise și alte 20 sunt rănite după ce un autobuz a trecut de o barieră de siguranță și s-a răsturnat pe o autostradă din Croația. Accidentul rutier a avut loc în apropie…",
-    "content_hu": "Cel puțin două persoane au fost ucise și alte 20 sunt rănite după ce un autobuz a trecut de o barieră de siguranță și s-a răsturnat pe o autostradă din Croația. Accidentul rutier a avut loc în apropiere de Zagreb.",
-    "title_ro": "Tragedie în Croația. Cel puțin 2 persoane au murit iar alte 20 au fost rănite după ce un autobuz s-a răsturnat în apropiere de Zagreb",
-    "lead_ro": "Cel puțin două persoane au fost ucise și alte 20 sunt rănite după ce un autobuz a trecut de o barieră de siguranță și s-a răsturnat pe o autostradă din Croația. Accidentul rutier a avut loc în apropie…",
-    "content_ro": "Cel puțin două persoane au fost ucise și alte 20 sunt rănite după ce un autobuz a trecut de o barieră de siguranță și s-a răsturnat pe o autostradă din Croația. Accidentul rutier a avut loc în apropiere de Zagreb.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_2719dcdacb",
     "fingerprint": "b2c9312f02a72ada8a080d7e95501383",
     "category": "Általános",
@@ -19149,6 +19196,45 @@
     "importance_score": 95.0
   },
   {
+    "group_id": "group_ca57ebac7c",
+    "fingerprint": "ba89134008fe9de50dcebd819fbd10df",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Nu voi trebuie să învățați să trăiți cu violența”. Luca Niculescu anunță 57 de măsuri împotriva abuzurilor asupra copiilor",
+        "link": "https://www.mediafax.ro/politic/nu-voi-trebuie-sa-invatati-sa-traiti-cu-violenta-luca-niculescu-anunta-57-de-masuri-impotriva-abuzurilor-asupra-copiilor-23840059"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Luca Niculescu: Peste un milion de copii din România s-au confruntat cu cel puţin o formă de violenţă de-a lungul vieţii",
+        "link": "https://stirileprotv.ro/luca-niculescu-peste-un-milion-de-copii-din-romania-s-au-confruntat-cu-cel-putin-o-forma-de-violenta-de-a-lungul-vietii.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Peste un milion de copii din România au fost victimele violenței. Avertismentul premierului Luca Niculescu",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/peste-un-milion-de-copii-din-romania-au-fost-victimele-violentei-avertismentul-premierului-luca-niculescu-4027461"
+      },
+      {
+        "source": "Digi24",
+        "title": "Studiu. Peste 600.000 de copii din România, supuși violenței doar în ultimul an: „Îmi dădeau câte o palmă peste cap când comentam”",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/studiu-peste-600-000-de-copii-din-romania-supusi-violentei-doar-in-ultimul-an-imi-dadeau-cate-o-palma-peste-cap-cand-comentam-4027937"
+      }
+    ],
+    "published_at": 1794227452,
+    "title_hu": "57 intézkedéssel lépnének fel a gyermekek elleni erőszakkal szemben",
+    "lead_hu": "Luca Niculescu miniszterelnök egy gyermekvédelmi projekt lezárásakor ismertette az 57 tervezett intézkedést. Egy felmérés szerint Romániában több mint egymillió gyermek tapasztalt már erőszakot, a kockázatok pedig többek között a családi körülményekkel és a gyermek életkorával is összefüggnek.",
+    "content_hu": "• **Az 57 intézkedésről szóló projekt lezárásán** Luca Niculescu miniszterelnök a gyermekek elleni erőszak visszaszorítását célzó kezdeményezésről beszélt. A program lengyel partnerekkel, az Európai Bizottsággal és az UNICEF-fel együttműködésben készült; a részletes intézkedési lista a közlésben nem szerepelt.\n\n• **A hivatalos esetek száma meghaladta a húszezret:** a gyermekvédelmi igazgatóságok tavaly ennyi bántalmazási, elhanyagolási és kizsákmányolási ügyet vettek nyilvántartásba. Niculescu szerint sok eset nem jut el a hatóságokig, ezért a regisztrált adatok nem mutatják meg a probléma teljes kiterjedését.\n\n• **A felmérés egymilliónál több érintett gyermeket becsül:** a romániai gyermekek több mint 28 százaléka élete során legalább egyszer szembesült fizikai vagy lelki erőszakkal, elhanyagolással vagy szexuális erőszakkal. Mintegy 600 ezren az adatfelvételt megelőző 12 hónapban éltek át erőszakot.\n\n• **A kockázatok az életkorral és a családi helyzettel is változnak:** a fiúk valamivel gyakrabban érintettek, és az erőszakos esetek gyakoribbá válnak, ahogy a gyermekek idősebbek lesznek. A legtöbb esemény az iskolában, illetve a tágabb közösségben történik; ezek után következik az otthoni környezet.\n\n• **Bizonyos családi nehézségek fokozott veszélyt jelezhetnek:** a mentális egészségi problémákkal, függőségekkel vagy párkapcsolati erőszakkal küzdő háztartásokban nagyobb lehet a gyermekek kitettsége. Niculescu a korai beavatkozást sürgette, és a hatóságok közti információmegosztás, valamint az időben érkező segítség hiányosságaira is rámutatott.",
+    "title_ro": "57 de măsuri propuse pentru combaterea violenței împotriva copiilor",
+    "lead_ro": "Premierul Luca Niculescu a prezentat, la încheierea unui proiect dedicat protecției copiilor, inițiativa care cuprinde 57 de măsuri. Un studiu estimează că peste un milion de copii din România au trecut prin forme de violență, iar riscurile sunt asociate și cu vârsta și mediul familial.",
+    "content_ro": "• **La încheierea proiectului care include 57 de măsuri**, premierul Luca Niculescu a vorbit despre inițiativa de combatere a violenței împotriva copiilor. Programul a fost derulat împreună cu parteneri din Polonia, Comisia Europeană și UNICEF; prezentarea nu a enumerat măsurile în detaliu.\n\n• **Autoritățile au înregistrat peste 20.000 de cazuri:** anul trecut, direcțiile de protecție a copilului au consemnat situații de abuz, neglijare și exploatare. Niculescu a avertizat că o parte dintre incidente nu ajung la instituțiile competente, astfel că evidențele oficiale nu surprind întreaga amploare a fenomenului.\n\n• **Studiul estimează că peste un milion de copii au fost afectați:** mai mult de 28% dintre copiii din România au întâlnit cel puțin o dată în viață violență fizică ori psihologică, neglijare sau violență sexuală. Aproximativ 600.000 au trecut printr-o asemenea experiență în cele 12 luni anterioare cercetării.\n\n• **Expunerea diferă în funcție de vârstă și context:** băieții sunt ușor mai vulnerabili decât fetele, iar frecvența incidentelor crește pe măsură ce copiii înaintează în vârstă. Cele mai multe cazuri se petrec la școală și în comunitate, urmate de cele din familie.\n\n• **Unele probleme din gospodărie sunt asociate cu riscuri mai mari:** dificultățile de sănătate mintală, dependențele și violența în cuplu pot contribui la vulnerabilitatea copiilor. Premierul a susținut intervenția timpurie și a semnalat probleme precum cooperarea insuficientă între instituții și întârzierile în acordarea ajutorului.",
+    "importance_score": 55.0
+  },
+  {
     "group_id": "group_c272849b82",
     "fingerprint": "7d8b3ada131e2d72af5cbb8a9f86b997",
     "category": "Általános",
@@ -19175,35 +19261,6 @@
     "title_ro": "Marina Regală britanică va folosi ambarcațiuni autonome de patrulare",
     "lead_ro": "Marina Regală a Marii Britanii a creat o unitate de ambarcațiuni autonome, care va contribui la supravegherea apelor britanice și la contracararea activităților rusești. Escadrila a fost lansată oficial joi, la Portsmouth, în cadrul dezvoltării unei forțe navale hibride.",
     "content_ro": "• **Noua unitate autonomă a Marinei Regale britanice** este destinată să sprijine supravegherea apelor Regatului Unit și reacția la activitățile Rusiei în zonă. Viceamiralul Steve Moorhouse a declarat că misiunile ar putea începe cât mai curând, ceea ce lasă deschisă posibilitatea unei desfășurări înainte de sfârșitul anului.\n\n• **Escadrila va organiza patrule fără întrerupere:** flotila a fost împărțită în două echipe, pentru ca activitatea să poată continua permanent. Planul combină utilizarea navelor convenționale cu sisteme autonome, care pot îndeplini anumite sarcini fără mobilizarea unei fregate sau a unei alte nave de dimensiuni mari.\n\n• **Ambarcațiunile măsoară 8,4 metri**, pot atinge o viteză maximă de 55 de noduri și sunt capabile să rămână pe mare până la 30 de zile într-o misiune. Aceste caracteristici le permit să participe la operațiuni de patrulare și supraveghere de durată, în timp ce navele mai mari pot fi folosite pentru alte obiective.\n\n• **Lansarea oficială a flotilei a avut loc joi, la Portsmouth.** Înființarea ei face parte dintr-un program de patru ani pentru dezvoltarea unei marine hibride, pentru care au fost alocate 1,5 miliarde de lire sterline. Inițiativa include extinderea utilizării tehnologiilor autonome în cadrul forțelor navale britanice.\n\n• **Ministerul britanic al Apărării a prezentat noua unitate drept un răspuns la schimbările din războiul modern.** Ministrul apărării, Wes Streeting, a evidențiat importanța inovării rapide și a echipamentelor autonome, menționând protejarea coastelor britanice și a celor ale aliaților din NATO ca obiective ale investiției.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_5e01e56b4d",
-    "fingerprint": "6343cbad04ac429612472e9d8421a517",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cartea secretă a unui împărat roman, pierdută timp de secole! Cum au supraviețuit „Meditațiile” lui Marcus Aurelius și cine le-a salvat de la uitare (P)",
-        "link": "https://www.mediafax.ro/publicitate/cartea-secreta-a-unui-imparat-roman-pierduta-timp-de-secole-cum-au-supravietuit-meditatiile-lui-marcus-aurelius-si-cine-le-a-salvat-de-la-uitare-p-23840107"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cartea secretă a unui împărat roman, pierdută timp de secole! Cum au supraviețuit „Meditațiile” lui Marcus Aurelius și cine le-a salvat de la uitare (P)",
-        "link": "https://www.g4media.ro/cartea-secreta-a-unui-imparat-roman-pierduta-timp-de-secole-cum-au-supravietuit-meditatiile-lui-marcus-aurelius-si-cine-le-a-salvat-de-la-uitare-p.html"
-      }
-    ],
-    "published_at": 1794221191,
-    "title_hu": "Marcus Aurelius személyes feljegyzéseinek hosszú útja",
-    "lead_hu": "Marcus Aurelius római császár uralkodása idején, 161 és 180 között görög nyelvű feljegyzéseket készített. A később „Elmélkedések” címen ismertté vált mű eredeti kézirata elveszett, a ma olvasható változatok másolási hagyományon keresztül maradtak fenn.",
-    "content_hu": "• **Marcus Aurelius uralkodása (161–180)** háborúkkal, járványokkal és gazdasági nehézségekkel terhelt időszakra esett. A császár latin helyett görögül jegyezte le gondolatait, mert ezt a nyelvet használta filozófiai tanulmányaihoz.\n\n• **A feljegyzések témái** között szerepel a halál, a kötelesség, az önuralom és az emberi lét törékenysége. A szöveg nem hagyományos, olvasóknak szánt értekezésként épül fel: nincs benne bevezető vagy szabályos gondolati rendszer, és a rövid részletek hossza is változó.\n\n• **A mű tizenkét könyvből áll**, és később az „Elmélkedések” címen vált ismertté. Görög megnevezését „Önmagához” értelemben lehet visszaadni, de nem tudni, hogy Marcus Aurelius maga milyen címet adott jegyzeteinek.\n\n• **Carnuntum és a kvádok említése** két szövegrészben is előfordul. Ezek a hivatkozások a Duna menti helyszínhez és a császár hadjárataihoz kapcsolják a feljegyzések legalább egy részét.\n\n• **Az eredeti kézirat nem maradt fenn**, és a császár 180-ban bekövetkezett halála után a jegyzetek sorsa, első másolójuk kiléte, valamint terjedésük korai története sem ismert. A ma hozzáférhető szövegváltozatok későbbi másolásokból származnak, amelyek történetében több részlet tisztázatlan.",
-    "title_ro": "Drumul îndelungat al însemnărilor lui Marcus Aurelius",
-    "lead_ro": "Împăratul roman Marcus Aurelius a redactat însemnări în limba greacă în timpul domniei sale, între anii 161 și 180. Textul cunoscut ulterior drept „Meditații” nu s-a păstrat în manuscrisul original, iar versiunile actuale provin dintr-o tradiție de copiere cu etape insuficient cunoscute.",
-    "content_ro": "• **Domnia lui Marcus Aurelius, între 161 și 180**, s-a desfășurat într-o perioadă cu războaie, epidemii și probleme economice. Împăratul și-a consemnat reflecțiile în greacă, limba folosită de el pentru studiul filosofiei, nu în latină, limba administrației romane.\n\n• **Temele însemnărilor** includ moartea, datoria, stăpânirea de sine și fragilitatea existenței. Textul nu urmează structura unui tratat adresat publicului: nu are introducere și nici o organizare sistematică a ideilor, iar fragmentele sunt de lungimi diferite.\n\n• **Lucrarea cuprinde douăsprezece cărți** și a ajuns să fie cunoscută sub titlul „Meditații”. Denumirea grecească folosită ulterior poate fi redată prin „Către sine însuși”, însă nu se știe cum își numea împăratul propriile însemnări.\n\n• **Carnuntum și teritoriul quazilor** sunt menționate în două secțiuni. Aceste referințe leagă cel puțin o parte a textului de zona Dunării și de campaniile militare ale lui Marcus Aurelius.\n\n• **Manuscrisul original s-a pierdut**, iar împrejurările în care au circulat notele după moartea împăratului, în anul 180, nu sunt cunoscute. Nu se știe cine le-a preluat sau cine a realizat prima copie; versiunile păstrate provin din copii ulterioare, cu mai multe etape încă neclarificate.",
     "importance_score": 35.0
   },
   {
