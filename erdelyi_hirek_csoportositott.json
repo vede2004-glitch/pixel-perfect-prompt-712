@@ -277,31 +277,6 @@
     ]
   },
   {
-    "group_id": "group_636e823c13",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Digi24",
-        "title": "Accident feroviar în Egipt, după coliziunea a două trenuri: șapte morți și 112 răniți. Un mecanic de locomotivă, printre victime",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/accident-feroviar-in-egipt-dupa-coliziunea-a-doua-trenuri-patru-morti-si-88-de-raniti-un-mecanic-de-locomotiva-printre-victime-4026879",
-        "summary": "Două trenuri de călători s-au ciocnit duminică la aproximativ 76 km sud de Cairo, provocând moartea a cel puțin șapte persoane și rănirea a 112, a declarat Ministerul Sănătății din Egipt. Un mecanic de locomotivă din Egipt se numără printre victimele coliziunii.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794156102
-      },
-      {
-        "source": "Maszol",
-        "title": "Súlyos vonatkatasztrófa Egyiptomban: legalább heten meghaltak, több mint százan megsérültek",
-        "link": "https://maszol.ro/kulfold/Sulyos-vonatkatasztrofa-Egyiptomban-legalabb-heten-meghaltak-tobb-mint-szazan-megserultek",
-        "summary": "Abdel-Fattáh esz-Szíszi egyiptomi elnök kijelentette, indítsanak sürgős vizsgálatot, hogy „felelősségre vonják azokat, akiknek a hanyagsága bebizonyosodik”.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794206311
-      }
-    ]
-  },
-  {
     "group_id": "group_c1ad7dacf5",
     "category": "Általános",
     "articles_count": 1,
@@ -1040,7 +1015,7 @@
   {
     "group_id": "group_93a8eee2f9",
     "category": "Általános",
-    "articles_count": 3,
+    "articles_count": 4,
     "articles": [
       {
         "source": "G4Media",
@@ -1068,6 +1043,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794231180
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Un nou vortex polar va pune stăpânire pe România în curând. ANM anunță frig și ninsor",
+        "link": "https://www.cancan.ro/un-nou-vortex-polar-va-pune-stapanire-pe-romania-in-curand-anm-anunta-frig-si-ninsor-21544491",
+        "summary": "Primele ninsori ale sezonului rece ar putea fi observate, la finalul acestei săptămâni, nu doar în zonele montane, ci și în anumite regiuni joase din centrul țării. Totodată, estimările meteorologilor indică o răcire semnificativă în apropierea sărbătorilor de iarnă. Deși lunile noiembrie și decembrie sunt estimate să aducă temperaturi peste valorile normale pentru această perioadă, […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1794242341
       }
     ]
   },
@@ -1583,7 +1567,7 @@
         "summary": "Extremiștii de la AfD ajung în această săptămână în Capitală. Formațiunea germană a fost invitată de AUR la o serie de evenimente care vor avea loc la Palatul Parlamentului. Vizita vine la scurt timp după ce lidera partidului german i-a atacat pe românii din Germania, pe care i-a acuzat că abuzează de sistemul de asistență socială.",
         "category": "Politika",
         "is_b2b_only": false,
-        "published_at": 1794242170
+        "published_at": 1794242383
       }
     ]
   },
@@ -5881,6 +5865,22 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1794205364
+      }
+    ]
+  },
+  {
+    "group_id": "group_636e823c13",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Súlyos vonatkatasztrófa Egyiptomban: legalább heten meghaltak, több mint százan megsérültek",
+        "link": "https://maszol.ro/kulfold/Sulyos-vonatkatasztrofa-Egyiptomban-legalabb-heten-meghaltak-tobb-mint-szazan-megserultek",
+        "summary": "Abdel-Fattáh esz-Szíszi egyiptomi elnök kijelentette, indítsanak sürgős vizsgálatot, hogy „felelősségre vonják azokat, akiknek a hanyagsága bebizonyosodik”.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794206311
       }
     ]
   },
@@ -13533,7 +13533,7 @@
         "summary": "Niederbronn-les-Bains-ból a nemzetközi utazási csomópontnak ismert Frankfurtig megyünk együtt a csapattal. Éjfél után indul a buszom Berlinbe, néhányan hostelben foglaltak szobát a másnapi csatlakozásukra várva, Görögországba, Moldovába, Törökországba és Ukrajnába.",
         "category": "Erdély",
         "is_b2b_only": false,
-        "published_at": 1794242299
+        "published_at": 1794242687
       }
     ]
   },
@@ -17550,12 +17550,21 @@
   {
     "group_id": "group_61118a3e3d",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "ProTV Stiri",
         "title": "Lista studenților care au câștigat alegerile din Serbia propune creșterea cheltuielilor pentru apărare la 5% din PIB",
         "link": "https://stirileprotv.ro/lista-studentilor-care-au-castigat-alegerile-din-serbia-propune-cresterea-cheltuielilor-pentru-aparare-la-5-din-pib.html",
+        "summary": "Mișcarea susținută de studenți, care a câștigat 140 de mandate în Parlament și urmează să formeze viitorul guvern al Serbiei, propune mai mult decât dublarea bugetului pentru apărare.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1794241386
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Mișcarea studenților care au câștigat alegerile din Serbia propune creșterea cheltuielilor pentru apărare la 5% din PIB",
+        "link": "https://stirileprotv.ro/stiri/international/lista-studentilor-care-au-castigat-alegerile-din-serbia-propune-cresterea-cheltuielilor-pentru-aparare-la-5-din-pib.html",
         "summary": "Mișcarea susținută de studenți, care a câștigat 140 de mandate în Parlament și urmează să formeze viitorul guvern al Serbiei, propune mai mult decât dublarea bugetului pentru apărare.",
         "category": "Politika",
         "is_b2b_only": false,
@@ -17729,6 +17738,86 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1794241531
+      }
+    ]
+  },
+  {
+    "group_id": "group_352746c6e2",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Fostul fotbalist român, idol în Croația, a ajuns să lucreze la o firmă de acoperișuri: „Nu m-a căutat nimeni. Trebuie să ai relații”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/fostul-fotbalist-roman-idol-in-croatia-a-ajuns-sa-lucreze-la-o-firma-de-acoperisuri-nu-m-a-cautat-nimeni-trebuie-sa-ai-relatii-997793.html",
+        "summary": "Dumitru Mitu, ajuns la 51 de ani, fostul fotbalist român care a făcut carieră în Croația, unde a cucerit de trei ori Cupa, cu trei echipe diferite, Osijek, Rijeka și Dinamo Zagreb, alături de care a cucerit și două titluri, a ajuns să lucreze în construcții pentru a-și câștiga existența. ...",
+        "category": "Sport",
+        "is_b2b_only": false,
+        "published_at": 1794242551
+      }
+    ]
+  },
+  {
+    "group_id": "group_23700f75a4",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Franța acuză Iranul că se află în spatele atacului cibernetic care a afectat congelatoarele din supermarketuri",
+        "link": "https://www.digi24.ro/stiri/externe/franta-acuza-iranul-ca-se-afla-in-spatele-atacului-cibernetic-care-a-afectat-congelatoarele-din-supermarketuri-4028545",
+        "summary": "Franța a acuzat Iranul că se află în spatele atacurilor cibernetice care au afectat frigiderele și congelatoarele din supermarketuri. În cadrul unei conferințe de presă, ministrul francez de externe, Jean-Noël Barrot, a declarat că vor exista consecințe pentru teheran, transmite BBC News. De asemenea, procurorul din Paris a anunțat că a fost deschisă o anchetă împotriva șefului unei unități cibernetice ofensive asociate cu Garda Revoluționară Islamică din Iran.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794242513
+      }
+    ]
+  },
+  {
+    "group_id": "group_2dc2993351",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Mustrare voalată a Papei Leon la adresa lui Javier Milei, în urma măsurilor de austeritate: Economia trebuie să fie în slujba oamenilor",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/mustrare-voalata-a-papei-leon-la-adresa-lui-javier-milei-in-urma-masurilor-de-austeritate-economia-trebuie-sa-fie-in-slujba-oamenilor-4028519",
+        "summary": "Papa Leon al XIV-lea i-a transmis un mesaj critic președintelui Argentinei, Javier Milei, în legătură cu măsurile drastice de austeritate adoptate de guvernul acestuia. Ajuns la Buenos Aires în cadrul unui turneu de 12 zile în America Latină, Suveranul Pontif a cerut ca economia să fie pusă în slujba oamenilor și a pledat pentru protejarea celor săraci, a persoanelor cu dizabilități și a celor vulnerabili. Declarațiile sale reprezintă o critică voalată la adresa reducerilor cheltuielilor publice promovate de liderul argentinian, remarcă BBC.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794242316
+      }
+    ]
+  },
+  {
+    "group_id": "group_31d7409517",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Casa Albă a activat protocolul de securitate după ce un vehicul a lovit un panou informativ din Parcul Lafayette",
+        "link": "https://stirileprotv.ro/casa-alba-a-activat-protocolul-de-securitate-dupa-ce-un-vehicul-a-lovit-un-panou-informativ-din-parcul-lafayette.html",
+        "summary": "Serviciul Secret prezidențial american a activat luni un protocol de securitate la Casa Albă, după ce un vehicul s-a izbit de perimetrul exterior al clădirii.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794242582
+      }
+    ]
+  },
+  {
+    "group_id": "group_898b1e48dd",
+    "category": "Erdély",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "S-a redeschis sensul giratoriu de lângă Gara CFR Oradea. Constructorii au montat și iluminatul provizoriu (FOTO)",
+        "link": "https://www.ebihoreanul.ro/stiri/s-a-redeschis-sensul-giratoriu-de-langa-gara-cfr-oradea-constructorii-au-montat-si-iluminatul-provizoriu-206459.html",
+        "summary": "Sensul giratoriu provizoriu de lângă Gara CFR din Oradea a fost redeschis circulaţiei sâmbătă, după aproape două săptămâni în care traficul a fost blocat pentru lucrările la pasajul subteran. Restricţiile, instituite pe 26 octombrie pentru relocarea reţelelor de utilităţi, au fost prelungite cu o săptămână la solicitarea constructorului. Tot în weekend, constructorii au montat iluminatul public provizoriu în zona şantierului, după ce trecătorii s-au plâns către BIHOREANUL că erau nevoiţi să ocolească săpăturile prin întuneric.",
+        "category": "Erdély",
+        "is_b2b_only": false,
+        "published_at": 1794242400
       }
     ]
   }
