@@ -350,7 +350,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 18,
+    "sources_count": 19,
     "sources": [
       {
         "source": "Adevărul",
@@ -441,6 +441,11 @@
         "source": "Mediafax",
         "title": "Criza politică din Israel, explicată. De ce Netanyahu poate rămâne premier chiar dacă majoritatea parlamentarilor îl susțin pe rivalul său",
         "link": "https://www.mediafax.ro/externe/criza-politica-din-israel-explicata-de-ce-netanyahu-poate-ramane-premier-chiar-daca-majoritatea-parlamentarilor-il-sustin-pe-rivalul-sau-23839347"
+      },
+      {
+        "source": "G4Media",
+        "title": "Eisenkot negociază cu aliații lui Netanyahu în încercarea de a forma un guvern",
+        "link": "https://www.g4media.ro/eisenkot-negociaza-cu-aliatii-lui-netanyahu-in-incercarea-de-a-forma-un-guvern.html"
       }
     ],
     "published_at": 1794202994,
@@ -450,7 +455,7 @@
     "title_ro": "Eisenkot a primit mandatul de a forma guvernul, însă majoritatea și regulile serviciului rămân disputate",
     "lead_ro": "La 8 noiembrie, Isaac Herzog i-a încredințat oficial lui Gadi Eisenkot formarea guvernului, după ce 67 de deputați l-au recomandat pentru funcția de premier. Obținerea unei majorități de 61 de mandate poate depinde de un acord dificil cu partidele ultraortodoxe, care se opun serviciului obligatoriu pentru toți. Până la instalarea unui nou cabinet, guvernul Netanyahu rămâne la conducere.",
     "content_ro": "• **Alegerile din 27 octombrie:** În Knessetul cu 120 de locuri, dreapta condusă de Likud a obținut 53 de mandate, iar blocul opoziției, 48. În consultările lui Isaac Herzog, 67 de deputați l-au recomandat pe Eisenkot, 46 pe Netanyahu, iar șapte nu au indicat un candidat; printre susținătorii lui Eisenkot s-au numărat 19 aleși arabi. A fost primul scrutin parlamentar după atacul Hamas din 7 octombrie 2023.\n\n• **Mandatul din 7–8 noiembrie:** Herzog a anunțat sâmbătă că îi va încredința sarcina lui Eisenkot, apoi i-a predat oficial mandatul duminică, la reședința prezidențială din Ierusalim. Liderul Yashar are 28 de zile pentru negocieri, perioadă pe care președintele o poate prelungi cu cel mult 14 zile. Dacă încercarea eșuează, Netanyahu ar putea primi o nouă șansă, iar în ultimă instanță s-ar putea organiza alte alegeri.\n\n• **Negocierea majorității:** Pentru pragul de 61 de voturi ar putea fi necesar sprijinul partidelor ultraortodoxe, care vor să păstreze scutirile de la serviciul militar pentru tinerii aflați la studii religioase. Eisenkot propune serviciu militar, național sau civil pentru toți. Avigdor Liberman respinge un cabinet dependent de voturile partidelor arabe; potrivit relatărilor, Iudaismul Unit al Torei nu l-a mai susținut de această dată pe Netanyahu, deși i-a fost aliat timp de decenii.\n\n• **Oferta de coaliție de urgență:** Eisenkot s-a arătat dispus să includă Likud și Partidul Sionist Religios al lui Bezalel Smotrich, cu condiția acceptării principiilor sale: Israelul ca stat evreiesc și democratic, valorile Declarației de Independență din 1948, serviciul obligatoriu și recunoașterea Hamas drept organizație teroristă. El a promis și măsuri împotriva coloniștilor extremiști din Cisiordania; atacurile acestora asupra palestinienilor din ultimele luni nu au fost urmate de sancțiuni.\n\n• **Limitele mandatului și contextul extern:** Netanyahu rămâne premier până la formarea noului cabinet, astfel că desemnarea lui Eisenkot nu transferă imediat controlul executivului și al aparatului de securitate și nu implică, de una singură, schimbarea doctrinei de securitate. Herzog a cerut continuarea diplomației regionale după război și aplicarea planului în 20 de puncte al lui Donald Trump pentru Gaza. Israelul trebuie să țină cont și de noua conjunctură americană: după alegerile intermediare, republicanii au pierdut majoritatea în Congres.",
-    "importance_score": 205.0
+    "importance_score": 215.0
   },
   {
     "group_id": "group_1a9e9ef436",
@@ -4036,6 +4041,33 @@
     "importance_score": 25.0
   },
   {
+    "group_id": "group_4ec6083a3d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
+        "link": "https://agerpres.ro/economic-extern/2026/11/09/turbinele-pe-gaze-second-hand-sunt-la-mare-cautare-pentru-a-produce-electricitatea-necesara-centrelo--1611336"
+      },
+      {
+        "source": "Digi24",
+        "title": "Motivul pentru care companiile care dezvoltă AI caută în toată lumea turbine pe gaz second-hand și motoare de avion scoase din uz",
+        "link": "https://www.digi24.ro/stiri/externe/motivul-pentru-care-companiile-care-dezvolta-ai-cauta-in-toata-lumea-turbine-pe-gaz-second-hand-si-motoare-de-avion-scoase-din-uz-4027283"
+      }
+    ],
+    "published_at": 1794182400,
+    "title_hu": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 23.0
+  },
+  {
     "group_id": "group_224401393f",
     "category": "Sport",
     "is_synthesized": false,
@@ -4060,6 +4092,33 @@
     "title_ro": "Întâlnire Cristi Chivu - David Popovici după Inter - Como: „Ești o inspirație și un motiv de mândrie!”",
     "lead_ro": "David Popovici (22 de ani), campion european, mondial și olimpic la înot, a fost prezent duminică seară pe stadionul San Siro, la partida dintre Inter Milano, formația antrenată de Cristi Chivu (46 de…",
     "content_ro": "David Popovici (22 de ani), campion european, mondial și olimpic la înot, a fost prezent duminică seară pe stadionul San Siro, la partida dintre Inter Milano, formația antrenată de Cristi Chivu (46 de ani), și Como, din etapa a 11-a din Serie A. După meci, marii sportivi români s-au întâlnit în zona vestiarelor. Prezența înotătorului român a reprezentat una dintre surprizele serii. ...",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_8546c2e12c",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "A murit Dzevad Prezaki, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
+        "link": "https://www.gsp.ro/international/campionate/a-murit-dzevad-prezaki-protagonist-semifinala-steaua-galatasaray-997491.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "A murit Dzevad Prekazi, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
+        "link": "https://www.gsp.ro/international/campionate/a-murit-dzevad-prekazi-protagonist-semifinala-steaua-galatasaray-997491.html"
+      }
+    ],
+    "published_at": 1794172592,
+    "title_hu": "A murit Dzevad Prezaki, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
+    "lead_hu": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular …",
+    "content_hu": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular pentru Galatasaray în ambele manșe din semifinala Cupei Campionilor Europeni din 1989. Steaua s-a impus cu scorul de 4-0 în meciul tur, iar returul din Turcia s-a încheiat cu scorul de 1-1. ...",
+    "title_ro": "A murit Dzevad Prezaki, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
+    "lead_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular …",
+    "content_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular pentru Galatasaray în ambele manșe din semifinala Cupei Campionilor Europeni din 1989. Steaua s-a impus cu scorul de 4-0 în meciul tur, iar returul din Turcia s-a încheiat cu scorul de 1-1. ...",
     "importance_score": 23.0
   },
   {
@@ -4737,6 +4796,182 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_40bb687291",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
+        "link": "https://hotnews.ro/un-lider-pnl-este-convins-de-scorul-din-sondaje-al-polului-dreptei-oamenii-vor-fugi-de-psd-2398734"
+      }
+    ],
+    "published_at": 1794210700,
+    "title_hu": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
+    "lead_hu": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR ...",
+    "content_hu": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR în sondaje. Liderul PNL admite că partidul lui George Simion este primul în preferințele alegătorilor și spune că pentru a-l învinge …",
+    "title_ro": "Un lider PNL este „convins” de scorul din sondaje al polului dreptei. „Oamenii vor fugi de PSD”",
+    "lead_ro": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR ...",
+    "content_ro": "Europarlamentarul liberal Siegfried Mureșan susține că PSD va rămâne mult în urma PNL și a aliaților săi din așa-numitul „pol de modernizare” care va avea la înființare un scor apropiat de cel al AUR în sondaje. Liderul PNL admite că partidul lui George Simion este primul în preferințele alegătorilor și spune că pentru a-l învinge …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_381b9144e6",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Dragoste sub control judiciar: Cine e procurorul care a așteptat-o pe trezoriera PNL Bihor la ieșirea din arest",
+        "link": "https://www.ebihoreanul.ro/stiri/dragoste-sub-control-judiciar-cine-e-procurorul-care-a-asteptat-o-pe-trezoriera-pnl-bihor-la-iesirea-din-arest-206433.html"
+      }
+    ],
+    "published_at": 1794210660,
+    "title_hu": "Dragoste sub control judiciar: Cine e procurorul care a așteptat-o pe trezoriera PNL Bihor la ieșirea din arest",
+    "lead_hu": "Dragostea adevărată rezistă la orice încercare, inclusiv la cele penale. Dovadă, povestea fostei trezoriere a PNL Bihor, Patricia Crina Popa, acuzată de fraudă cu indemnizații pentru creșterea copiilo...",
+    "content_hu": "Dragostea adevărată rezistă la orice încercare, inclusiv la cele penale. Dovadă, povestea fostei trezoriere a PNL Bihor, Patricia Crina Popa, acuzată de fraudă cu indemnizații pentru creșterea copiilor, într-un dosar cu un ditamai prejudiciu de aproape 2 milioane de lei.",
+    "title_ro": "Dragoste sub control judiciar: Cine e procurorul care a așteptat-o pe trezoriera PNL Bihor la ieșirea din arest",
+    "lead_ro": "Dragostea adevărată rezistă la orice încercare, inclusiv la cele penale. Dovadă, povestea fostei trezoriere a PNL Bihor, Patricia Crina Popa, acuzată de fraudă cu indemnizații pentru creșterea copiilo...",
+    "content_ro": "Dragostea adevărată rezistă la orice încercare, inclusiv la cele penale. Dovadă, povestea fostei trezoriere a PNL Bihor, Patricia Crina Popa, acuzată de fraudă cu indemnizații pentru creșterea copiilor, într-un dosar cu un ditamai prejudiciu de aproape 2 milioane de lei.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2440e6fb78",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Controversă între intelectuali după ce Eugen Ciurtin a fost înlăturat de la conducerea Institutului de Istorie a Religiilor de o comisie condusă de Ioan Aurel Pop, pe care Ciurtin l-a înfruntat în trecut / Noul șef ar urma să fie arheologul Cătălin Pavel / Radu Vancu: ”Ce mizerie”",
+        "link": "https://www.g4media.ro/controversa-intre-intelectuali-dupa-ce-eugen-ciurtin-a-fost-inlaturat-de-la-conducerea-institutului-de-istorie-a-religiilor-de-o-comisie-condusa-de-ioan-aurel-pop-pe-care-ciurtin-l-a-infruntat-in-tre.html"
+      }
+    ],
+    "published_at": 1794210554,
+    "title_hu": "Controversă între intelectuali după ce Eugen Ciurtin a fost înlăturat de la conducerea Institutului de Istorie a Religiilor de o comisie condusă de Ioan Aurel Pop, pe care Ciurtin l-a înfruntat în trecut / Noul șef ar urma să fie arheologul Cătălin Pavel / Radu Vancu: ”Ce mizerie”",
+    "lead_hu": "O controversă a scindat spațiul public în ultimele zile și a stârnit reacții puternice în rândul intelectualilor, după ce o comisie condusă de Ioan Aurel Pop l-a notat cu 7,3 pe specialistul în istori...",
+    "content_hu": "O controversă a scindat spațiul public în ultimele zile și a stârnit reacții puternice în rândul intelectualilor, după ce o comisie condusă de Ioan Aurel Pop l-a notat cu 7,3 pe specialistul în istoria religiilor Eugen Ciurtin într-un concurs pentru conducerea institutului cu același nume, la înființarea căruia Ciurtin a contribuit ca membru fondator. Noul […] © G4Media.ro.",
+    "title_ro": "Controversă între intelectuali după ce Eugen Ciurtin a fost înlăturat de la conducerea Institutului de Istorie a Religiilor de o comisie condusă de Ioan Aurel Pop, pe care Ciurtin l-a înfruntat în trecut / Noul șef ar urma să fie arheologul Cătălin Pavel / Radu Vancu: ”Ce mizerie”",
+    "lead_ro": "O controversă a scindat spațiul public în ultimele zile și a stârnit reacții puternice în rândul intelectualilor, după ce o comisie condusă de Ioan Aurel Pop l-a notat cu 7,3 pe specialistul în istori...",
+    "content_ro": "O controversă a scindat spațiul public în ultimele zile și a stârnit reacții puternice în rândul intelectualilor, după ce o comisie condusă de Ioan Aurel Pop l-a notat cu 7,3 pe specialistul în istoria religiilor Eugen Ciurtin într-un concurs pentru conducerea institutului cu același nume, la înființarea căruia Ciurtin a contribuit ca membru fondator. Noul […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_a74e910c75",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Familia – plasa de siguranță a românilor | Doar 6% ar cere ajutorul prietenilor în situații dificile",
+        "link": "https://www.mediafax.ro/social/familia-plasa-de-siguranta-a-romanilor-doar-6-ar-cere-ajutorul-prietenilor-in-situatii-dificile-23840022"
+      }
+    ],
+    "published_at": 1794210543,
+    "title_hu": "Familia – plasa de siguranță a românilor | Doar 6% ar cere ajutorul prietenilor în situații dificile",
+    "lead_hu": "Familia rămâne principalul sprijin al românilor atunci când se confruntă cu probleme financiare sau de sănătate. Aproape nouă din zece persoane spun că ar apela mai întâi la membrii familiei într-o si...",
+    "content_hu": "Familia rămâne principalul sprijin al românilor atunci când se confruntă cu probleme financiare sau de sănătate. Aproape nouă din zece persoane spun că ar apela mai întâi la membrii familiei într-o situație urgentă, în timp ce doar 6% ar cere ajutorul prietenilor, arată cea de-a doua ediție a Barometrului Percepției Bunăstării Românilor, realizat de Institutul Român pentru Evaluare și Strategie (IRES).",
+    "title_ro": "Familia – plasa de siguranță a românilor | Doar 6% ar cere ajutorul prietenilor în situații dificile",
+    "lead_ro": "Familia rămâne principalul sprijin al românilor atunci când se confruntă cu probleme financiare sau de sănătate. Aproape nouă din zece persoane spun că ar apela mai întâi la membrii familiei într-o si...",
+    "content_ro": "Familia rămâne principalul sprijin al românilor atunci când se confruntă cu probleme financiare sau de sănătate. Aproape nouă din zece persoane spun că ar apela mai întâi la membrii familiei într-o situație urgentă, în timp ce doar 6% ar cere ajutorul prietenilor, arată cea de-a doua ediție a Barometrului Percepției Bunăstării Românilor, realizat de Institutul Român pentru Evaluare și Strategie (IRES).",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f0617c5242",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "RomKat",
+        "title": "Leó pápa Uruguay nemzeti kegyhelyén: Mindig kérjétek a Szűzanya oltalmát!",
+        "link": "https://romkat.ro/2026/11/09/leo-papa-uruguay-nemzeti-kegyhelyen-mindig-kerjetek-a-szuzanya-oltalmat/"
+      }
+    ],
+    "published_at": 1794210477,
+    "title_hu": "Leó pápa Uruguay nemzeti kegyhelyén: Mindig kérjétek a Szűzanya oltalmát!",
+    "lead_hu": "XIV. Leó pápa uruguayi apostoli látogatásának harmadik napján, november 8-án vasárnap a fővárostól 100 km-re fekvő Florida város nemzeti Mária-kegyhelyére utazott, ahol szentmisét mutatott a templom f...",
+    "content_hu": "XIV. Leó pápa uruguayi apostoli látogatásának harmadik napján, november 8-án vasárnap a fővárostól 100 km-re fekvő Florida város nemzeti Mária-kegyhelyére utazott, ahol szentmisét mutatott a templom főbúcsúja, Uruguay védőszentje, a „Harminchármak Szűzanyja” tiszteletére. Homíliájában főként a fiatalok mai elvilágiasodott mentalitásának orvoslására bíztatta az anyákat, apákat és nagyszülőket, hogy a Szent Család mintájára jó példával járjanak […]",
+    "title_ro": "Leó pápa Uruguay nemzeti kegyhelyén: Mindig kérjétek a Szűzanya oltalmát!",
+    "lead_ro": "XIV. Leó pápa uruguayi apostoli látogatásának harmadik napján, november 8-án vasárnap a fővárostól 100 km-re fekvő Florida város nemzeti Mária-kegyhelyére utazott, ahol szentmisét mutatott a templom f...",
+    "content_ro": "XIV. Leó pápa uruguayi apostoli látogatásának harmadik napján, november 8-án vasárnap a fővárostól 100 km-re fekvő Florida város nemzeti Mária-kegyhelyére utazott, ahol szentmisét mutatott a templom főbúcsúja, Uruguay védőszentje, a „Harminchármak Szűzanyja” tiszteletére. Homíliájában főként a fiatalok mai elvilágiasodott mentalitásának orvoslására bíztatta az anyákat, apákat és nagyszülőket, hogy a Szent Család mintájára jó példával járjanak […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_cfb6881477",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Jaguarul este, de fapt, pisică sfinx! În zadar încearcă să acopere acest lucru, dar George are chelie",
+        "link": "https://www.cancan.ro/jaguarul-este-de-fapt-pisica-sfinx-in-zadar-incearca-sa-acopere-acest-lucru-dar-george-are-chelie-21544132"
+      }
+    ],
+    "published_at": 1794210417,
+    "title_hu": "Jaguarul este, de fapt, pisică sfinx! În zadar încearcă să acopere acest lucru, dar George are chelie",
+    "lead_hu": "Fanii emisiunii Insula Iubirii știu că Jaguarul este un personaj îndrăgit, însă ceva s-a întâmplat cu „coama” sa. Deși în sezonul anterior se vedea mai puțin, în ultima ediție am putut observa că prob...",
+    "content_hu": "Fanii emisiunii Insula Iubirii știu că Jaguarul este un personaj îndrăgit, însă ceva s-a întâmplat cu „coama” sa. Deși în sezonul anterior se vedea mai puțin, în ultima ediție am putut observa că problemele cu calviția s-au amplificat. Jaguarul a devenit cunoscut în urma participării la Insula Iubirii 2025. El a fost un adevărat personaj […]",
+    "title_ro": "Jaguarul este, de fapt, pisică sfinx! În zadar încearcă să acopere acest lucru, dar George are chelie",
+    "lead_ro": "Fanii emisiunii Insula Iubirii știu că Jaguarul este un personaj îndrăgit, însă ceva s-a întâmplat cu „coama” sa. Deși în sezonul anterior se vedea mai puțin, în ultima ediție am putut observa că prob...",
+    "content_ro": "Fanii emisiunii Insula Iubirii știu că Jaguarul este un personaj îndrăgit, însă ceva s-a întâmplat cu „coama” sa. Deși în sezonul anterior se vedea mai puțin, în ultima ediție am putut observa că problemele cu calviția s-au amplificat. Jaguarul a devenit cunoscut în urma participării la Insula Iubirii 2025. El a fost un adevărat personaj […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_053073a223",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "O nouă confuzie a ANAF care transformă cheltuielile de marketing în cheltuieli nedeductibile. „Este uimitor!”, spune un expert",
+        "link": "https://hotnews.ro/o-noua-confuzie-a-anaf-care-transforma-cheltuielile-de-marketing-in-cheltuieli-nedeductibile-este-uimitor-spune-un-expert-2398740"
+      }
+    ],
+    "published_at": 1794210411,
+    "title_hu": "O nouă confuzie a ANAF care transformă cheltuielile de marketing în cheltuieli nedeductibile. „Este uimitor!”, spune un expert",
+    "lead_hu": "În cadrul inspecțiilor ANAF, afișarea produselor pe broșurile hipermarketurilor sau la raft nu mai este suficientă pentru a proba realitatea cheltuielilor de marketing. „Cu adevărat uimitor este că in...",
+    "content_hu": "În cadrul inspecțiilor ANAF, afișarea produselor pe broșurile hipermarketurilor sau la raft nu mai este suficientă pentru a proba realitatea cheltuielilor de marketing. „Cu adevărat uimitor este că inspectorii fiscali cenzurează tocmai acele cheltuieli notorii, de afișaj și marketing, efectuate de marile lanțuri de magazine (de tip supermarket sau hipermarket). Fie că este vorba de …",
+    "title_ro": "O nouă confuzie a ANAF care transformă cheltuielile de marketing în cheltuieli nedeductibile. „Este uimitor!”, spune un expert",
+    "lead_ro": "În cadrul inspecțiilor ANAF, afișarea produselor pe broșurile hipermarketurilor sau la raft nu mai este suficientă pentru a proba realitatea cheltuielilor de marketing. „Cu adevărat uimitor este că in...",
+    "content_ro": "În cadrul inspecțiilor ANAF, afișarea produselor pe broșurile hipermarketurilor sau la raft nu mai este suficientă pentru a proba realitatea cheltuielilor de marketing. „Cu adevărat uimitor este că inspectorii fiscali cenzurează tocmai acele cheltuieli notorii, de afișaj și marketing, efectuate de marile lanțuri de magazine (de tip supermarket sau hipermarket). Fie că este vorba de …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_aed618bb2d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Iszonyatos hiányt termelt szeptemberben a külkereskedelem",
+        "link": "https://maszol.ro/gazdasag/Iszonyatos-hianyt-termelt-szeptemberben-a-kulkereskedelem"
+      }
+    ],
+    "published_at": 1794210329,
+    "title_hu": "Iszonyatos hiányt termelt szeptemberben a külkereskedelem",
+    "lead_hu": "Az első őszi hónapban az importunk értéke több 3 milliárd euróval haladta meg az exportét....",
+    "content_hu": "Az első őszi hónapban az importunk értéke több 3 milliárd euróval haladta meg az exportét.",
+    "title_ro": "Iszonyatos hiányt termelt szeptemberben a külkereskedelem",
+    "lead_ro": "Az első őszi hónapban az importunk értéke több 3 milliárd euróval haladta meg az exportét....",
+    "content_ro": "Az első őszi hónapban az importunk értéke több 3 milliárd euróval haladta meg az exportét.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_4672026b01",
     "category": "Általános",
     "is_synthesized": false,
@@ -4844,28 +5079,6 @@
     "title_ro": "Revolta bucureștenilor care stau în frig și încălzesc apa în oale, pe aragaz: „Mă dor mâinile de la frig”. De ce nu își montează centrale de apartament",
     "lead_ro": "În timp ce afară temperaturile au scăzut, unii locuitori ai Capitalei spun că îndură frigul în propriile apartamente și că au ajuns să încălzească apa în oale, pe aragaz, pentru a se putea spăla....",
     "content_ro": "În timp ce afară temperaturile au scăzut, unii locuitori ai Capitalei spun că îndură frigul în propriile apartamente și că au ajuns să încălzească apa în oale, pe aragaz, pentru a se putea spăla.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f8b7e289b1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
-        "link": "https://www.mediafax.ro/social/cum-au-furat-energie-pentru-masini-electrice-de-peste-158-000-de-lei-30-de-perchezitii-si-47-de-suspecti-23840026"
-      }
-    ],
-    "published_at": 1794209926,
-    "title_hu": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
-    "lead_hu": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulner...",
-    "content_hu": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulnerabilitate a aplicației PPC Blue pentru a încărca mașini electrice fără să plătească energia consumată. Prejudiciul este estimat la peste 158.000 de lei.",
-    "title_ro": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
-    "lead_ro": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulner...",
-    "content_ro": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulnerabilitate a aplicației PPC Blue pentru a încărca mașini electrice fără să plătească energia consumată. Prejudiciul este estimat la peste 158.000 de lei.",
     "importance_score": 0.0
   },
   {
@@ -5416,6 +5629,28 @@
     "title_ro": "Șapte zile de concediu după moartea unui prieten. Propunerea neobișnuită care ar putea schimba drepturile angajaților din Franța",
     "lead_ro": "Angajații francezi ar putea primi șapte zile libere după moartea unui prieten apropiat, nu doar a unei rude. Măsura face parte dintr-un program electoral care propune și schimbări importante privind c...",
     "content_ro": "Angajații francezi ar putea primi șapte zile libere după moartea unui prieten apropiat, nu doar a unei rude. Măsura face parte dintr-un program electoral care propune și schimbări importante privind concediile medicale, salariile și timpul petrecut la serviciu.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_489d4498a1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Prețurile carburanților luni, 9 noiembrie 2026. Cât costă benzina și motorina și unde se găsesc cele mai ieftine variante",
+        "link": "https://adevarul.ro/stiri-interne/societate/preturile-carburantilor-luni-9-noiembrie-2026-2569943.html"
+      }
+    ],
+    "published_at": 1794207865,
+    "title_hu": "Prețurile carburanților luni, 9 noiembrie 2026. Cât costă benzina și motorina și unde se găsesc cele mai ieftine variante",
+    "lead_hu": "Prețurile carburanților afișate în benzinăriile din România rămân ridicate și luni, 9 noiembrie 2026. Șoferii care caută cele mai mici tarife pot găsi benzina standard la 9,77 lei pe litru, iar motori...",
+    "content_hu": "Prețurile carburanților afișate în benzinăriile din România rămân ridicate și luni, 9 noiembrie 2026. Șoferii care caută cele mai mici tarife pot găsi benzina standard la 9,77 lei pe litru, iar motorina standard la 10,75 lei pe litru.",
+    "title_ro": "Prețurile carburanților luni, 9 noiembrie 2026. Cât costă benzina și motorina și unde se găsesc cele mai ieftine variante",
+    "lead_ro": "Prețurile carburanților afișate în benzinăriile din România rămân ridicate și luni, 9 noiembrie 2026. Șoferii care caută cele mai mici tarife pot găsi benzina standard la 9,77 lei pe litru, iar motori...",
+    "content_ro": "Prețurile carburanților afișate în benzinăriile din România rămân ridicate și luni, 9 noiembrie 2026. Șoferii care caută cele mai mici tarife pot găsi benzina standard la 9,77 lei pe litru, iar motorina standard la 10,75 lei pe litru.",
     "importance_score": 0.0
   },
   {
@@ -14945,50 +15180,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_90513418a2",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Accident în lanț cu peste 30 de vehicule pe o autostradă din Marea Britanie. 11 persoane rănite, dintre care două în stare gravă",
-        "link": "https://www.mediafax.ro/externe/accident-in-lant-cu-peste-30-de-vehicule-pe-o-autostrada-din-marea-britanie-11-persoane-ranite-dintre-care-doua-in-stare-grava-23839621"
-      }
-    ],
-    "published_at": 1794124164,
-    "title_hu": "Accident în lanț cu peste 30 de vehicule pe o autostradă din Marea Britanie. 11 persoane rănite, dintre care două în stare gravă",
-    "lead_hu": "Un accident în lanț în care au fost implicate peste 30 de autoturisme și camioane s-a produs sâmbătă seară, 7 noiembrie, pe autostrada M20 din comitatul Kent, în sud-estul Angliei.",
-    "content_hu": "Un accident în lanț în care au fost implicate peste 30 de autoturisme și camioane s-a produs sâmbătă seară, 7 noiembrie, pe autostrada M20 din comitatul Kent, în sud-estul Angliei.",
-    "title_ro": "Accident în lanț cu peste 30 de vehicule pe o autostradă din Marea Britanie. 11 persoane rănite, dintre care două în stare gravă",
-    "lead_ro": "Un accident în lanț în care au fost implicate peste 30 de autoturisme și camioane s-a produs sâmbătă seară, 7 noiembrie, pe autostrada M20 din comitatul Kent, în sud-estul Angliei.",
-    "content_ro": "Un accident în lanț în care au fost implicate peste 30 de autoturisme și camioane s-a produs sâmbătă seară, 7 noiembrie, pe autostrada M20 din comitatul Kent, în sud-estul Angliei.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_631bd5f7b4",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un teritoriu „al oligarhilor pragmatici”. Datele care arată de ce viitorul Transnistriei enervează Rusia: 83% din exporturi merg în UE",
-        "link": "https://hotnews.ro/un-teritoriu-al-oligarhilor-pragmatici-datele-care-arata-de-ce-viitorul-transnistriei-enerveaza-rusia-83-din-exporturi-merg-in-ue-2382427"
-      }
-    ],
-    "published_at": 1794123988,
-    "title_hu": "Un teritoriu „al oligarhilor pragmatici”. Datele care arată de ce viitorul Transnistriei enervează Rusia: 83% din exporturi merg în UE",
-    "lead_hu": "Regiunea separatistă de pe malul stâng al Nistrului din Republica Moldova arborează drapelul Federației Ruse, găzduiește o garnizoană rusă și își încălzește locuințele cu gaz plătit de Moscova. Între …",
-    "content_hu": "Regiunea separatistă de pe malul stâng al Nistrului din Republica Moldova arborează drapelul Federației Ruse, găzduiește o garnizoană rusă și își încălzește locuințele cu gaz plătit de Moscova. Între timp, Bruxellesul a deschis negocierile de aderare cu Republica Moldova. O analiză realizată de publicația poloneză Gazeta Wyborcza arată că, în ciuda aparențelor, Transnistria este mult …",
-    "title_ro": "Un teritoriu „al oligarhilor pragmatici”. Datele care arată de ce viitorul Transnistriei enervează Rusia: 83% din exporturi merg în UE",
-    "lead_ro": "Regiunea separatistă de pe malul stâng al Nistrului din Republica Moldova arborează drapelul Federației Ruse, găzduiește o garnizoană rusă și își încălzește locuințele cu gaz plătit de Moscova. Între …",
-    "content_ro": "Regiunea separatistă de pe malul stâng al Nistrului din Republica Moldova arborează drapelul Federației Ruse, găzduiește o garnizoană rusă și își încălzește locuințele cu gaz plătit de Moscova. Între timp, Bruxellesul a deschis negocierile de aderare cu Republica Moldova. O analiză realizată de publicația poloneză Gazeta Wyborcza arată că, în ciuda aparențelor, Transnistria este mult …",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_dc05b3f2d0",
     "fingerprint": "8a67a7c3fda7043c3defcc8e6053c457",
     "category": "Általános",
@@ -15038,31 +15229,31 @@
     "importance_score": 75.0
   },
   {
-    "group_id": "group_8546c2e12c",
-    "category": "Sport",
+    "group_id": "group_f8b7e289b1",
+    "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
     "sources_count": 2,
     "sources": [
       {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "A murit Dzevad Prezaki, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
-        "link": "https://www.gsp.ro/international/campionate/a-murit-dzevad-prezaki-protagonist-semifinala-steaua-galatasaray-997491.html"
+        "source": "Mediafax",
+        "title": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
+        "link": "https://www.mediafax.ro/social/cum-au-furat-energie-pentru-masini-electrice-de-peste-158-000-de-lei-30-de-perchezitii-si-47-de-suspecti-23840026"
       },
       {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "A murit Dzevad Prekazi, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
-        "link": "https://www.gsp.ro/international/campionate/a-murit-dzevad-prekazi-protagonist-semifinala-steaua-galatasaray-997491.html"
+        "source": "Digi24",
+        "title": "Furt de energie la stațiile de încărcare a mașinilor electrice. Cum ar fi fost fraudată aplicația PPC Blue",
+        "link": "https://www.digi24.ro/stiri/actualitate/justitie/furt-de-energie-la-statiile-de-incarcare-a-masinilor-electrice-cum-ar-fi-fost-fraudata-aplicatia-ppc-blue-4027253"
       }
     ],
-    "published_at": 1794172592,
-    "title_hu": "A murit Dzevad Prezaki, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
-    "lead_hu": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular …",
-    "content_hu": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular pentru Galatasaray în ambele manșe din semifinala Cupei Campionilor Europeni din 1989. Steaua s-a impus cu scorul de 4-0 în meciul tur, iar returul din Turcia s-a încheiat cu scorul de 1-1. ...",
-    "title_ro": "A murit Dzevad Prezaki, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
-    "lead_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular …",
-    "content_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular pentru Galatasaray în ambele manșe din semifinala Cupei Campionilor Europeni din 1989. Steaua s-a impus cu scorul de 4-0 în meciul tur, iar returul din Turcia s-a încheiat cu scorul de 1-1. ...",
-    "importance_score": 23.0
+    "published_at": 1794209926,
+    "title_hu": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
+    "lead_hu": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulner...",
+    "content_hu": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulnerabilitate a aplicației PPC Blue pentru a încărca mașini electrice fără să plătească energia consumată. Prejudiciul este estimat la peste 158.000 de lei.",
+    "title_ro": "Cum au furat energie pentru mașini electrice de peste 158.000 de lei. 30 de percheziții și 47 de suspecți",
+    "lead_ro": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulner...",
+    "content_ro": "Procurorii Parchetului General și polițiștii fac luni 30 de percheziții domiciliare într-un dosar în care 47 de persoane sunt cercetate pentru furt și fals informatic. Acestea ar fi exploatat o vulnerabilitate a aplicației PPC Blue pentru a încărca mașini electrice fără să plătească energia consumată. Prejudiciul este estimat la peste 158.000 de lei.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_3f4da57260",
@@ -15417,28 +15608,6 @@
     "lead_hu": "",
     "content_hu": "",
     "title_ro": "Anchetă a procurorilor într-un dosar de furt de energie destinată încărcării autovehiculelor electrice",
-    "lead_ro": "",
-    "content_ro": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4ec6083a3d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
-        "link": "https://agerpres.ro/economic-extern/2026/11/09/turbinele-pe-gaze-second-hand-sunt-la-mare-cautare-pentru-a-produce-electricitatea-necesara-centrelo--1611336"
-      }
-    ],
-    "published_at": 1794182400,
-    "title_hu": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Turbinele pe gaze second-hand sunt la mare căutare pentru a produce electricitatea necesară centrelor de date AI",
     "lead_ro": "",
     "content_ro": "",
     "importance_score": 0.0
