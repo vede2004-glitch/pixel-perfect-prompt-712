@@ -2,7 +2,16 @@ import { createFileRoute } from "@tanstack/react-router";
 import { news, history, archive, ensureHistory } from "@/lib/news";
 import { domainLang, originFor } from "@/lib/domains";
 
-const STATIC_PAGES = ["/", "/friss", "/hirfolyam", "/osszes", "/tamogatas", "/visszajelzes", "/forrasok", "/rolunk"];
+const STATIC_PAGES = [
+  "/",
+  "/friss",
+  "/hirfolyam",
+  "/osszes",
+  "/tamogatas",
+  "/visszajelzes",
+  "/forrasok",
+  "/rolunk",
+];
 
 const esc = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -31,13 +40,17 @@ export const Route = createFileRoute("/sitemap.xml")({
         for (const item of items) {
           const articleUrl = `${origin}/hir/${encodeURIComponent(item.group_id)}`;
           const ts = item.published_at;
-          const lastmod = ts && Number.isFinite(ts) ? new Date(ts * 1000).toISOString().slice(0, 10) : null;
+          const lastmod =
+            ts && Number.isFinite(ts) ? new Date(ts * 1000).toISOString().slice(0, 10) : null;
           entries.push(urlEntry(articleUrl, lastmod));
         }
 
         const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries.join("\n")}\n</urlset>`;
         return new Response(xml, {
-          headers: { "Content-Type": "application/xml; charset=utf-8", "Cache-Control": "public, max-age=3600" },
+          headers: {
+            "Content-Type": "application/xml; charset=utf-8",
+            "Cache-Control": "public, max-age=3600",
+          },
         });
       },
     },
