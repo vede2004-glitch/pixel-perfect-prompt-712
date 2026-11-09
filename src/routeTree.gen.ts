@@ -12,6 +12,8 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
 import { Route as ForrasokRouteImport } from './routes/forrasok'
+import { Route as FrissRouteImport } from './routes/friss'
+import { Route as HirfolyamRouteImport } from './routes/hirfolyam'
 import { Route as LoginRouteImport } from './routes/login'
 import { Route as OsszesRouteImport } from './routes/osszes'
 import { Route as RolunkRouteImport } from './routes/rolunk'
@@ -36,6 +38,16 @@ const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
 const ForrasokRoute = ForrasokRouteImport.update({
   id: '/forrasok',
   path: '/forrasok',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const FrissRoute = FrissRouteImport.update({
+  id: '/friss',
+  path: '/friss',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HirfolyamRoute = HirfolyamRouteImport.update({
+  id: '/hirfolyam',
+  path: '/hirfolyam',
   getParentRoute: () => rootRouteImport,
 } as any)
 const LoginRoute = LoginRouteImport.update({
@@ -98,6 +110,8 @@ const ApiPublicNewsRoute = ApiPublicNewsRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/forrasok': typeof ForrasokRoute
+  '/friss': typeof FrissRoute
+  '/hirfolyam': typeof HirfolyamRoute
   '/login': typeof LoginRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
@@ -113,6 +127,8 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/forrasok': typeof ForrasokRoute
+  '/friss': typeof FrissRoute
+  '/hirfolyam': typeof HirfolyamRoute
   '/login': typeof LoginRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
@@ -130,6 +146,8 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
   '/forrasok': typeof ForrasokRoute
+  '/friss': typeof FrissRoute
+  '/hirfolyam': typeof HirfolyamRoute
   '/login': typeof LoginRoute
   '/osszes': typeof OsszesRoute
   '/rolunk': typeof RolunkRoute
@@ -147,6 +165,8 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/forrasok'
+    | '/friss'
+    | '/hirfolyam'
     | '/login'
     | '/osszes'
     | '/rolunk'
@@ -162,6 +182,8 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/forrasok'
+    | '/friss'
+    | '/hirfolyam'
     | '/login'
     | '/osszes'
     | '/rolunk'
@@ -178,6 +200,8 @@ export interface FileRouteTypes {
     | '/'
     | '/_authenticated'
     | '/forrasok'
+    | '/friss'
+    | '/hirfolyam'
     | '/login'
     | '/osszes'
     | '/rolunk'
@@ -195,6 +219,8 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
   ForrasokRoute: typeof ForrasokRoute
+  FrissRoute: typeof FrissRoute
+  HirfolyamRoute: typeof HirfolyamRoute
   LoginRoute: typeof LoginRoute
   OsszesRoute: typeof OsszesRoute
   RolunkRoute: typeof RolunkRoute
@@ -227,6 +253,20 @@ declare module '@tanstack/react-router' {
       path: '/forrasok'
       fullPath: '/forrasok'
       preLoaderRoute: typeof ForrasokRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/friss': {
+      id: '/friss'
+      path: '/friss'
+      fullPath: '/friss'
+      preLoaderRoute: typeof FrissRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/hirfolyam': {
+      id: '/hirfolyam'
+      path: '/hirfolyam'
+      fullPath: '/hirfolyam'
+      preLoaderRoute: typeof HirfolyamRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/login': {
@@ -326,6 +366,8 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
   ForrasokRoute: ForrasokRoute,
+  FrissRoute: FrissRoute,
+  HirfolyamRoute: HirfolyamRoute,
   LoginRoute: LoginRoute,
   OsszesRoute: OsszesRoute,
   RolunkRoute: RolunkRoute,

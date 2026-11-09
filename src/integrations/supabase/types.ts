@@ -106,6 +106,36 @@ export type Database = {
         }
         Relationships: []
       }
+      news_requests: {
+        Row: {
+          created_at: string
+          hours_window: number | null
+          id: string
+          profile_id: string
+          result_json: Json | null
+          status: string | null
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          hours_window?: number | null
+          id?: string
+          profile_id: string
+          result_json?: Json | null
+          status?: string | null
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          hours_window?: number | null
+          id?: string
+          profile_id?: string
+          result_json?: Json | null
+          status?: string | null
+          user_id?: string
+        }
+        Relationships: []
+      }
       profiles: {
         Row: {
           created_at: string | null
