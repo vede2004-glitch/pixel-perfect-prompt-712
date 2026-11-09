@@ -2941,35 +2941,6 @@
     "importance_score": 30.0
   },
   {
-    "group_id": "group_fcae50734d",
-    "fingerprint": "797c8647f9d19552605fb03c68f0978a",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Radu Drăgușin, „demon” și aproape „înger” în Fiorentina - Juventus 2-2",
-        "link": "https://www.gsp.ro/international/campionate/live-fiorentina-juventus-meci-tare-in-italia-cu-radu-dragusin-997218.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Fiorentina și Juventus, remiză spectaculoasă în Serie A. Radu Drăgușin, gol anulat împotriva fostei sale echipe",
-        "link": "https://www.mediafax.ro/sport/fiorentina-si-juventus-remiza-spectaculoasa-in-serie-a-radu-dragusin-gol-anulat-impotriva-fostei-sale-echipe-23839937"
-      }
-    ],
-    "published_at": 1794175903,
-    "title_hu": "A Fiorentina és a Juventus 2–2-es döntetlent játszott, Drăgușin gólját érvénytelenítették",
-    "lead_hu": "A Fiorentina és a Juventus 2–2-re végzett a Serie A 11. fordulójában. Radu Drăgușin végigjátszotta a mérkőzést, a hajrában szerzett találatát azonban támadó szabálytalanság miatt nem adták meg.",
-    "content_hu": "• **November 8-án, a Serie A 11. fordulójában** a Fiorentina hazai pályán fogadta a Juventust, és 2–2-es eredménnyel zárult a találkozó. A román védő, Radu Drăgușin kezdőként lépett pályára, és a mérkőzés teljes játékidejében a pályán maradt.\n\n• **A firenzeiek a 4. percben kerültek előnybe:** Mateo Pellegrino Pote beadását fejelte a kapuba. A Juventus a 32. percben egyenlített, miután Randal Kolo Muani előkészítése után Nick Woltemade befejezte a támadást. Az akció során Drăgușin nem tudta megakadályozni, hogy Woltemade lövőhelyzetbe kerüljön.\n\n• **A Fiorentina az 54. percben ismét vezetett.** A Juventus védelmében kialakult hibasorozat végén Alieu Njie juttatta a hálóba a labdát; az akcióban Drăgușin közelében is elhaladt a játékszer. A torinói csapat a 66. percben állította be a 2–2-es állást: Douglas Luiz szöglete után Bremer fejelt gólt, miután elszakadt őrzőjétől.\n\n• **Drăgușin a hajrában maga is betalált, de a gólt nem érvényesítették.** A 82. percben távoli lövését szögletre hárították, majd az ezt követő sarokrúgás után fejjel a kapuba talált. A játékvezető támadó szabálytalanságot ítélt, mert a védő a fejes előtt meglökte Bremert.\n\n• **A hosszabbításban a Fiorentina még veszélyeztetett:** Marco Brescianini a 90+2. percben próbálkozott, lövését Vicario hárította. Az eredmény már nem változott, így a két csapat egy-egy ponttal zárta a forduló mérkőzését.",
-    "title_ro": "Fiorentina și Juventus au remizat, 2-2; golul lui Drăgușin a fost anulat",
-    "lead_ro": "Fiorentina și Juventus au încheiat la egalitate, 2-2, partida din etapa a 11-a din Serie A. Radu Drăgușin a jucat toate minutele, iar reușita sa din final nu a fost validată după ce arbitrul a sancționat un fault în atac.",
-    "content_ro": "• **Pe 8 noiembrie, în etapa a 11-a din Serie A,** Fiorentina a primit-o pe Juventus, iar partida s-a încheiat 2-2. Radu Drăgușin a fost titular și a rămas pe teren pe toată durata întâlnirii.\n\n• **Echipa din Florența a deschis scorul în minutul 4:** Mateo Pellegrino a transformat cu capul centrarea lui Pote. Juventus a egalat în minutul 32, când Nick Woltemade a finalizat o acțiune pregătită de Randal Kolo Muani. În acea fază, Drăgușin nu a reușit să-l împiedice pe atacant să ajungă la minge și să șuteze.\n\n• **Fiorentina a revenit în avantaj în minutul 54.** După mai multe erori în defensiva torineză, Alieu Njie a trimis mingea în poartă; balonul trecuse și pe lângă Drăgușin în cursul fazei. Juventus a restabilit egalitatea în minutul 66: Douglas Luiz a executat un corner, iar Bremer, desprins de lângă fundașul român, a înscris cu o lovitură de cap.\n\n• **Drăgușin a marcat în ultimele minute, însă golul nu a fost acordat.** În minutul 82, șutul său de la distanță a fost deviat în corner. După lovitura de colț, fundașul a înscris cu capul, dar arbitrul a fluierat fault în atac, considerând că acesta l-a împins pe Bremer înainte de finalizare.\n\n• **Fiorentina a mai avut o ocazie în prelungiri:** Marco Brescianini a șutat în minutul 90+2, însă Vicario a intervenit. Scorul a rămas 2-2, iar fiecare formație a obținut câte un punct în această etapă.",
-    "importance_score": 28.0
-  },
-  {
     "group_id": "group_986d2af065",
     "fingerprint": "2487f0c0ceefb83b4b11f45b02229531",
     "category": "Általános",
@@ -3202,6 +3173,35 @@
     "importance_score": 25.0
   },
   {
+    "group_id": "group_fcae50734d",
+    "fingerprint": "797c8647f9d19552605fb03c68f0978a",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Radu Drăgușin, „demon” și aproape „înger” în Fiorentina - Juventus 2-2",
+        "link": "https://www.gsp.ro/international/campionate/live-fiorentina-juventus-meci-tare-in-italia-cu-radu-dragusin-997218.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Fiorentina și Juventus, remiză spectaculoasă în Serie A. Radu Drăgușin, gol anulat împotriva fostei sale echipe",
+        "link": "https://www.mediafax.ro/sport/fiorentina-si-juventus-remiza-spectaculoasa-in-serie-a-radu-dragusin-gol-anulat-impotriva-fostei-sale-echipe-23839937"
+      }
+    ],
+    "published_at": 1794175903,
+    "title_hu": "A Fiorentina és a Juventus 2–2-es döntetlent játszott, Drăgușin gólját érvénytelenítették",
+    "lead_hu": "A Fiorentina és a Juventus 2–2-re végzett a Serie A 11. fordulójában. Radu Drăgușin végigjátszotta a mérkőzést, a hajrában szerzett találatát azonban támadó szabálytalanság miatt nem adták meg.",
+    "content_hu": "• **November 8-án, a Serie A 11. fordulójában** a Fiorentina hazai pályán fogadta a Juventust, és 2–2-es eredménnyel zárult a találkozó. A román védő, Radu Drăgușin kezdőként lépett pályára, és a mérkőzés teljes játékidejében a pályán maradt.\n\n• **A firenzeiek a 4. percben kerültek előnybe:** Mateo Pellegrino Pote beadását fejelte a kapuba. A Juventus a 32. percben egyenlített, miután Randal Kolo Muani előkészítése után Nick Woltemade befejezte a támadást. Az akció során Drăgușin nem tudta megakadályozni, hogy Woltemade lövőhelyzetbe kerüljön.\n\n• **A Fiorentina az 54. percben ismét vezetett.** A Juventus védelmében kialakult hibasorozat végén Alieu Njie juttatta a hálóba a labdát; az akcióban Drăgușin közelében is elhaladt a játékszer. A torinói csapat a 66. percben állította be a 2–2-es állást: Douglas Luiz szöglete után Bremer fejelt gólt, miután elszakadt őrzőjétől.\n\n• **Drăgușin a hajrában maga is betalált, de a gólt nem érvényesítették.** A 82. percben távoli lövését szögletre hárították, majd az ezt követő sarokrúgás után fejjel a kapuba talált. A játékvezető támadó szabálytalanságot ítélt, mert a védő a fejes előtt meglökte Bremert.\n\n• **A hosszabbításban a Fiorentina még veszélyeztetett:** Marco Brescianini a 90+2. percben próbálkozott, lövését Vicario hárította. Az eredmény már nem változott, így a két csapat egy-egy ponttal zárta a forduló mérkőzését.",
+    "title_ro": "Fiorentina și Juventus au remizat, 2-2; golul lui Drăgușin a fost anulat",
+    "lead_ro": "Fiorentina și Juventus au încheiat la egalitate, 2-2, partida din etapa a 11-a din Serie A. Radu Drăgușin a jucat toate minutele, iar reușita sa din final nu a fost validată după ce arbitrul a sancționat un fault în atac.",
+    "content_ro": "• **Pe 8 noiembrie, în etapa a 11-a din Serie A,** Fiorentina a primit-o pe Juventus, iar partida s-a încheiat 2-2. Radu Drăgușin a fost titular și a rămas pe teren pe toată durata întâlnirii.\n\n• **Echipa din Florența a deschis scorul în minutul 4:** Mateo Pellegrino a transformat cu capul centrarea lui Pote. Juventus a egalat în minutul 32, când Nick Woltemade a finalizat o acțiune pregătită de Randal Kolo Muani. În acea fază, Drăgușin nu a reușit să-l împiedice pe atacant să ajungă la minge și să șuteze.\n\n• **Fiorentina a revenit în avantaj în minutul 54.** După mai multe erori în defensiva torineză, Alieu Njie a trimis mingea în poartă; balonul trecuse și pe lângă Drăgușin în cursul fazei. Juventus a restabilit egalitatea în minutul 66: Douglas Luiz a executat un corner, iar Bremer, desprins de lângă fundașul român, a înscris cu o lovitură de cap.\n\n• **Drăgușin a marcat în ultimele minute, însă golul nu a fost acordat.** În minutul 82, șutul său de la distanță a fost deviat în corner. După lovitura de colț, fundașul a înscris cu capul, dar arbitrul a fluierat fault în atac, considerând că acesta l-a împins pe Bremer înainte de finalizare.\n\n• **Fiorentina a mai avut o ocazie în prelungiri:** Marco Brescianini a șutat în minutul 90+2, însă Vicario a intervenit. Scorul a rămas 2-2, iar fiecare formație a obținut câte un punct în această etapă.",
+    "importance_score": 23.0
+  },
+  {
     "group_id": "group_8546c2e12c",
     "category": "Sport",
     "is_synthesized": false,
@@ -3226,6 +3226,33 @@
     "title_ro": "A murit Dzevad Prezaki, protagonist în semifinala câștigată de Steaua în 1989 în fața lui Galatasaray",
     "lead_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular …",
     "content_ro": "Dzevad Prezaki, protagonist în semifinala Cupei Campionilor Europeni pierdută de Galatasaray în 1989, 1-5 la general cu Steaua, a decedat la vârsta de 69 de ani. Fostul mijlocaș stânga a fost titular pentru Galatasaray în ambele manșe din semifinala Cupei Campionilor Europeni din 1989. Steaua s-a impus cu scorul de 4-0 în meciul tur, iar returul din Turcia s-a încheiat cu scorul de 1-1. ...",
+    "importance_score": 23.0
+  },
+  {
+    "group_id": "group_9499093554",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Franța, în stare de șoc. Actrița Angèle Metzger s-a stins din viață la doar 27 de ani",
+        "link": "https://www.mediafax.ro/stirile-zilei/franta-in-stare-de-soc-actrita-angele-metzger-s-a-stins-din-viata-la-doar-27-de-ani-23839923"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Actrița franceză Angèle Metzger a murit la doar 27 de ani",
+        "link": "https://adevarul.ro/showbiz/vedete/actrita-franceza-angele-metzger-a-murit-la-doar-27-2569912.html"
+      }
+    ],
+    "published_at": 1794170786,
+    "title_hu": "Franța, în stare de șoc. Actrița Angèle Metzger s-a stins din viață la doar 27 de ani",
+    "lead_hu": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
+    "content_hu": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
+    "title_ro": "Franța, în stare de șoc. Actrița Angèle Metzger s-a stins din viață la doar 27 de ani",
+    "lead_ro": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
+    "content_ro": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
     "importance_score": 23.0
   },
   {
@@ -3371,7 +3398,7 @@
     "title_ro": "Atacatorul din Cracovia purta o emblemă asociată cu imaginea lui Blackbeard",
     "lead_ro": "Presa poloneză relatează că emblema găsită pe echipamentul atacatorului din Cracovia este o versiune modernă a unui simbol asociat cu piratul Blackbeard. Motivul este folosit de unități americane și de alte forțe speciale, dar și de pasionații de echipamente militare.",
     "content_ro": "• **Atacatorul din Cracovia** purta, potrivit relatărilor, o emblemă cu un schelet cu coarne, o clepsidră și o suliță care străpunge o inimă. Michał Oksiński, în vârstă de 24 de ani, este prezentat în articol drept responsabil pentru moartea a șase persoane și rănirea altor câteva zeci.\n\n• **Interpretarea simbolului**, menționată în presa poloneză, îl leagă de o reprezentare modernă a steagului asociat cu Edward Teach, cunoscut drept Blackbeard. Imaginea a apărut într-o publicație din 1912, iar asocierea ei cu piratul s-a conturat ulterior.\n\n• **Fiecărui element i se atribuie o semnificație distinctă:** scheletul ar reprezenta moartea, clepsidra ar sugera trecerea timpului, iar sulița înfiptă în inimă ar transmite ideea de lipsă de îndurare față de adversar. Picăturile de sânge sunt interpretate ca un indiciu al violenței.\n\n• **În mediul militar**, emblema este folosită ca ecuson motivațional, purtat de militari și de persoane interesate de echipamente tactice. Simbolul poate exprima hotărâre în luptă, intimidarea adversarului sau disponibilitatea de a continua confruntarea; aceste asocieri nu stabilesc, prin ele însele, motivația celui care îl poartă.\n\n• **Istoria utilizării emblemei** indicată în articol începe cu echipa SEAL Team 3 a Marinei americane. Ulterior, simbolul a fost preluat de alte forțe speciale, iar Forward Observations Group folosește, de asemenea, o versiune proprie.",
-    "importance_score": 23.0
+    "importance_score": 20.0
   },
   {
     "group_id": "group_38821e4927",
@@ -3936,6 +3963,28 @@
     "lead_ro": "Sfinții Arhangheli Mihail și Gavriil sunt prăznuiți pe 8 noiembrie, sărbătoare însoțită de rugăciuni pentru ocrotirea familiei și gesturi de milostenie. Credincioșii participă la slujbe, aprind lumână…",
     "content_ro": "Sfinții Arhangheli Mihail și Gavriil sunt prăznuiți pe 8 noiembrie, sărbătoare însoțită de rugăciuni pentru ocrotirea familiei și gesturi de milostenie. Credincioșii participă la slujbe, aprind lumânări și oferă de pomană alimente, potrivit obiceiurilor locale și posibilităților fiecăruia.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_45c9fff334",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediatica.ro",
+        "title": "Kiütéses győzelemmel maradt hibátlan a magyar kézilabda-válogatott",
+        "link": "https://www.mediatica.ro/hirek/sport/kiuteses-gyozelemmel-maradt-hibatlan-a-magyar-kezilabda-valogatott"
+      }
+    ],
+    "published_at": 1794197778,
+    "title_hu": "Kiütéses győzelemmel maradt hibátlan a magyar kézilabda-válogatott",
+    "lead_hu": "Koszovó vendégeként 34-20-ra győzött Sótonyi László együttese....",
+    "content_hu": "Koszovó vendégeként 34-20-ra győzött Sótonyi László együttese.",
+    "title_ro": "Kiütéses győzelemmel maradt hibátlan a magyar kézilabda-válogatott",
+    "lead_ro": "Koszovó vendégeként 34-20-ra győzött Sótonyi László együttese....",
+    "content_ro": "Koszovó vendégeként 34-20-ra győzött Sótonyi László együttese.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_446a32705f",
@@ -4771,28 +4820,6 @@
     "title_ro": "Ținutul legendar cu un muzeu într-o casă din 1900, biserici medievale și o plantă carnivoră: „Noi nu zicem niciodată că suntem ai Pădurenilor, pentru că Țara Hațegului este mai frumoasă“",
     "lead_ro": "În Peșteana, un sat din Hunedoara, trei lumi se întâlnesc într-un singur loc: o casă țărănească de la 1900, biserici medievale și o mlaștină legendară, unde crește „roua cerului“, o plantă carnivoră r…",
     "content_ro": "În Peșteana, un sat din Hunedoara, trei lumi se întâlnesc într-un singur loc: o casă țărănească de la 1900, biserici medievale și o mlaștină legendară, unde crește „roua cerului“, o plantă carnivoră rară. O destinație în care istoria și natura își dezvăluie comorile neașteptate.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_9499093554",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Franța, în stare de șoc. Actrița Angèle Metzger s-a stins din viață la doar 27 de ani",
-        "link": "https://www.mediafax.ro/stirile-zilei/franta-in-stare-de-soc-actrita-angele-metzger-s-a-stins-din-viata-la-doar-27-de-ani-23839923"
-      }
-    ],
-    "published_at": 1794170786,
-    "title_hu": "Franța, în stare de șoc. Actrița Angèle Metzger s-a stins din viață la doar 27 de ani",
-    "lead_hu": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
-    "content_hu": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
-    "title_ro": "Franța, în stare de șoc. Actrița Angèle Metzger s-a stins din viață la doar 27 de ani",
-    "lead_ro": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
-    "content_ro": "Lumea ficțiunii franceze a pierdut una dintre cele mai talentate tinere actrițe ale sale. Angèle Metzger s-a stins din viață la doar 27 de ani.",
     "importance_score": 0.0
   },
   {
