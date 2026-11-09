@@ -19,5 +19,5 @@
 - [ ] Rádiós generálás — generálási szolgáltatás szükséges
 
 - [ ] Saját Supabase-fiók bekötése: Lovable Cloud projektben nem cserélhető (felhasználói döntés kell)
-- [ ] HIREKXhu Top hírek / Friss hírek / Hírfolyam nézeteinek átemelése két nyelven
-- [ ] Hírterem kártyák: témacím és kategória badge, látható technikai azonosítók nélkül
+- [x] HIREKXhu Top hírek / Friss hírek / Hírfolyam nézeteinek átemelése két nyelven
+- [x] Hírterem kártyák: témacím és kategória badge, látható technikai azonosítók nélkül
