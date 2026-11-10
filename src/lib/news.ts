@@ -25,12 +25,13 @@ type RawItem = {
   content_ro?: string;
 };
 
-export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "title_ro" | "lead_ro" | "content_ro" | "category"> & {
+export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "title_ro" | "lead_ro" | "content_ro" | "category" | "tags"> & {
   // Magyar alapértelmezések (kereséshez, AI-hoz, SEO-hoz)
   title: string;
   lead: string;
   content: string;
   category: string;
+  tags: string[];
   i18n: Record<Lang, LangContent>;
 };
 
