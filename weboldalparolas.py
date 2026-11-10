@@ -407,9 +407,7 @@ def run_pipeline():
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
 
-        clean_slug = slugify(item.get("title", ""))
         short_id = g_id.replace("group_", "")[:6]
-        final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
 
         # A) HA MÁR BENT VAN A NEWS.JSON-BAN (pl. már AI szintetizált):
         if g_id in news_map:
@@ -428,8 +426,14 @@ def run_pipeline():
             if item.get("is_b2b_only"):
                 news_map[g_id]["is_b2b_only"] = True
 
-            if "slug" not in news_map[g_id]:
-                news_map[g_id]["slug"] = final_slug
+            # 🎯 KULCS MÓDOSÍTÁS: Ha a cikk már AI által szintetizált, a szintetizált főcímből frissítjük a slug-ot!
+            title_for_slug = news_map[g_id].get("title_hu") or news_map[g_id].get("title_ro")
+            if news_map[g_id].get("is_synthesized") and title_for_slug:
+                clean_slug = slugify(title_for_slug)
+                news_map[g_id]["slug"] = f"{clean_slug}-{short_id}" if clean_slug else g_id
+            elif "slug" not in news_map[g_id]:
+                clean_slug = slugify(item.get("title", ""))
+                news_map[g_id]["slug"] = f"{clean_slug}-{short_id}" if clean_slug else g_id
         
         # B) HA ÚJ HÍRCSOPORT, HOZZÁADJUK NYERSKÉNT:
         else:
@@ -438,6 +442,9 @@ def run_pipeline():
                 "title": item.get("title"),
                 "link": item.get("link")
             }]
+            clean_slug = slugify(item.get("title", ""))
+            final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
+
             news_map[g_id] = {
                 "group_id": g_id,
                 "slug": final_slug,
@@ -462,6 +469,15 @@ def run_pipeline():
     for item in valid_news_list:
         if "sources" in item and isinstance(item["sources"], list):
             item["sources_count"] = len(item["sources"])
+        
+        # Utólagos ellenőrzés a slug-ra: ha van szintetizált title_hu/title_ro, az felülírja a korábbi nyers slug-ot
+        if item.get("is_synthesized"):
+            synth_title = item.get("title_hu") or item.get("title_ro")
+            if synth_title:
+                short_id = item["group_id"].replace("group_", "")[:6]
+                clean_slug = slugify(synth_title)
+                if clean_slug:
+                    item["slug"] = f"{clean_slug}-{short_id}"
 
     # INTELLIGENS SÚLYOZÁS ALAPJÁN TÖRTÉNŐ RENDSZEREZÉS
     for item in valid_news_list:
