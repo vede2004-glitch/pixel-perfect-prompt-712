@@ -515,7 +515,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 13,
+    "sources_count": 14,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -581,6 +581,11 @@
         "source": "Mediafax",
         "title": "Prima conferință de presă a președintelui Nicușor Dan după învestirea Guvernului Niculescu: Am considerat util să avem un dialog la sfârșitul crizei politice",
         "link": "https://www.mediafax.ro/politic/prima-conferinta-de-presa-a-presedintelui-nicusor-dan-dupa-investirea-guvernului-niculescu-am-considerat-util-sa-avem-un-dialog-la-sfarsitul-crizei-politice-23840831"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan, declarații fără precedent după criza politică, în conferința de presă: AUR la guvernare ar fi însemnat retrogradarea ratingului de țară",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-declaratii-fara-precedent-dupa-criza-politica-in-conferinta-de-presa-aur-la-guvernare-ar-fi-insemnat-retrogradarea-ratingului-de-tara-23840831"
       }
     ],
     "published_at": 1794329883,
@@ -590,7 +595,7 @@
     "title_ro": "Conferința lui Nicușor Dan: raportul despre anularea alegerilor nu este gata",
     "lead_ro": "Nicușor Dan susține o conferință de presă pe 10 noiembrie, la ora 19:00, la Palatul Cotroceni, prima după învestirea Guvernului Luca Niculescu, pe 20 octombrie. Raportul privind anularea alegerilor prezidențiale din 2024 nu este finalizat, autoritățile române așteptând în continuare informații din străinătate.",
     "content_ro": "• **Conferința începe pe 10 noiembrie, la ora 19:00**, la Palatul Cotroceni. Nicușor Dan a anunțat că va aborda provocările lunilor recente și prioritățile perioadei următoare. Declarațiile pot fi urmărite prin sistemul de transmisiune al Administrației Prezidențiale și pe Digi24.\n\n• **Este prima conferință de presă după instalarea Guvernului Niculescu.** Noul cabinet a fost învestit pe 20 octombrie, cu aproximativ trei săptămâni înaintea evenimentului. Criza politică a început pe 5 mai, după demiterea Guvernului Ilie Bolojan printr-o moțiune PSD-AUR. În intervalul până la formarea noului Executiv, președintele a desemnat patru candidați la funcția de premier; Luca Niculescu, al patrulea, a format guvernul alături de PSD.\n\n• **Raportul despre anularea scrutinului din 2024 nu este încă finalizat.** Nicușor Dan a promis în repetate rânduri prezentarea circumstanțelor, însă autoritățile așteaptă informații și răspunsuri din afara țării. Curtea Constituțională a anulat alegerile pe 6 decembrie, după publicarea unor documente ale instituțiilor de securitate care indicau posibile intervenții externe, influențare coordonată în mediul online și nereguli în finanțarea promovării electorale.\n\n• **Ultima conferință similară a avut loc pe 8 aprilie.** Atunci, Dan a anunțat semnarea unor decrete privind numirea conducerii din justiție. Evenimentul de acum vine la o zi după discuțiile sale cu Ursula von der Leyen, aflată la București, despre securitatea la Marea Neagră și investițiile în apărare.\n\n• **Securitatea regiunii poate reveni în discuție.** Uniunea Europeană alocă 10 milioane de euro pentru activități de căutare și salvare, iar o relatare anterioară Digi24 a menționat o investiție de 50 de milioane de euro legată de un hub de securitate la Marea Neagră.",
-    "importance_score": 150.0
+    "importance_score": 160.0
   },
   {
     "group_id": "group_6cec05fd40",
@@ -1857,6 +1862,59 @@
     ]
   },
   {
+    "group_id": "group_d36d321c9f",
+    "fingerprint": "7255e8adaf8f051e9f5e419cb1b53970",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Preşedintele Nawrocki şi premierul Tusk, adversari politici, au participat la un marş al tăcerii în memoria victimelor atacului armat",
+        "link": "https://www.digi24.ro/stiri/externe/presedintele-nawrocki-si-premierul-tusk-adversari-politici-au-participat-la-un-mars-al-tacerii-in-memoria-victimelor-atacului-armat-4029009"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Mii de oameni la marșul tăcut din Cracovia, condus de liderii Poloniei, în memoria victimelor atacului armat. GALERIE FOTO",
+        "link": "https://stirileprotv.ro/stiri/international/liderii-poloniei-alaturi-de-mii-de-oameni-la-marsul-tacut-din-cracovia-in-memoria-victimelor-atacului-armat-galerie-foto.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Trump vede o şansă majoră de încheiere a războiului din Ucraina. Ce concesii teritoriale ar putea fi discutate la Abu Dhabi",
+        "link": "https://stirileprotv.ro/stiri/international/trump-vede-o-sansa-majora-de-incheiere-a-razboiului-din-ucraina-ce-concesii-teritoriale-ar-putea-fi-discutate-la-abu-dhabi.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Manevra prin care Trump vrea să-i împace și pe Putin, și pe Zelenski în negocierile pentru încheierea războiului",
+        "link": "https://www.digi24.ro/stiri/externe/sua/matrapazlacul-prin-care-trump-vrea-sa-i-impace-si-pe-putin-si-pe-zelenski-in-negocierile-pentru-incheierea-razboiului-4029431"
+      },
+      {
+        "source": "Digi24",
+        "title": "Negocieri la Abu Dhabi: de ce Trump s-ar putea dovedi mai conciliant cu cererile lui Putin atât privind Ucraina, cât și NATO",
+        "link": "https://www.digi24.ro/stiri/externe/negocieri-la-abu-dhabi-de-ce-trump-s-ar-putea-dovedi-mai-conciliant-cu-cererile-lui-putin-atat-privind-ucraina-cat-si-nato-4029963"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Amerikai udvariaskodás Abu-Dzabiban: Trump veje szerint Putyin hajlandó a békére, a kérdés, hogy az ukránok és az európaiak is készek-e rá",
+        "link": "https://transtelex.ro/kulfold/2026/11/10/abu-dzabi-orosz-ukran-amerikai-targyalas-orosz-ukran-haboru"
+      }
+    ],
+    "published_at": 1794305269,
+    "title_hu": "Csendes felvonuláson emlékeztek a krakkói lövöldözés áldozataira",
+    "lead_hu": "Hétfő este gyászolók ezrei vonultak fel Krakkó történelmi központjában a szombati fegyveres támadás hat halálos áldozatára emlékezve. A menet élén Karol Nawrocki lengyel elnök és Donald Tusk miniszterelnök haladt, akik politikai ellentéteik ellenére közösen vettek részt a megemlékezésen.",
+    "content_hu": "• **Hétfő este** több ezer ember gyűlt össze Krakkó óvárosában a szombati lövöldözés áldozatainak emlékére. A csendes menet a város központi teréről indult, ahol a támadás történt; a résztvevők egy virágokkal borított emlékhely mellett is megálltak.\n\n• **A támadásban hat ember meghalt, tizenöten pedig megsérültek.** A 24 éves fegyveres a beszámolók szerint szombat délután nyitott tüzet. A sérültek között két rendőr is volt, akik a támadóval szemben intézkedtek.\n\n• **Karol Nawrocki államfő és Donald Tusk kormányfő** együtt haladt a gyászmenetben, noha politikai ellenfelek. Mindketten bejegyzést tettek az áldozatok emlékére létrehozott részvétnyilvánító könyvbe; a felvonuláson Krakkó polgármestere, Łukasz Gibała is részt vett.\n\n• **A feltételezett elkövető hétfőn meghalt a kórházban.** A hatóságok szerint a rendőrökkel történt fegyveres összecsapásban sebesült meg, majd több műtéten esett át. A támadás indítéka a beszámolók alapján nem tisztázott.\n\n• **A megemlékezés a nemzeti gyász második, egyben utolsó napjára esett.** A krakkói rendezvény idejére megerősítették a rendőri jelenlétet, és a lengyel állami védelmi szolgálat munkatársai is biztosították a helyszínt. Az eseményen Grzegorz Ryś krakkói érsek is megjelent.",
+    "title_ro": "Marș tăcut la Cracovia în memoria victimelor atacului armat",
+    "lead_ro": "Mii de persoane au participat luni seara la un marș de doliu în centrul istoric al Cracoviei, în memoria celor șase oameni uciși în atacul armat de sâmbătă. Președintele Karol Nawrocki și premierul Donald Tusk au fost împreună în fruntea adunării, deși sunt adversari politici.",
+    "content_ro": "• **Luni seara**, mii de persoane s-au adunat în centrul istoric al Cracoviei pentru a-i comemora pe cei uciși în atacul armat de sâmbătă. Marșul tăcut a pornit din piața centrală, locul în care s-a produs atacul, iar participanții s-au oprit și la un memorial acoperit cu flori.\n\n• **Atacul s-a soldat cu șase morți și 15 răniți.** Potrivit relatărilor, bărbatul înarmat, în vârstă de 24 de ani, a deschis focul sâmbătă după-amiază. Printre persoanele rănite s-au numărat doi polițiști care au intervenit împotriva atacatorului.\n\n• **Președintele Karol Nawrocki și premierul Donald Tusk** au mers împreună în fruntea marșului, deși se află în tabere politice rivale. Înaintea adunării, amândoi au scris în cartea de condoleanțe dedicată victimelor. La eveniment a participat și primarul Cracoviei, Łukasz Gibała.\n\n• **Suspectul a murit luni la spital.** Autoritățile au anunțat că acesta fusese rănit într-un schimb de focuri cu poliția și că a trecut prin mai multe intervenții chirurgicale. Relatările disponibile nu precizează motivul atacului.\n\n• **Marșul a avut loc în a doua și ultima zi de doliu național.** Pentru desfășurarea adunării, poliția și-a intensificat prezența în oraș, iar membri ai Serviciului de Protecție al Statului au contribuit la securizarea locului. La comemorare a fost prezent și cardinalul Grzegorz Ryś, arhiepiscopul Cracoviei.",
+    "importance_score": 63.0,
+    "slug": "csendes-felvonulason-emlekeztek-a-krakkoi-lvldzes-aldozataira-d36d32",
+    "tags": [
+      "altalanos"
+    ]
+  },
+  {
     "group_id": "group_36c2c0539c",
     "slug": "a-psd-kzigazgatasi-reformja-szatmar-megyet-is-erintheti-36c2c0",
     "tags": [
@@ -1969,54 +2027,42 @@
     "importance_score": 63.0
   },
   {
-    "group_id": "group_f432e30548",
-    "fingerprint": "b956d79b66fd6b33abc3efc31e0ebd0e",
+    "group_id": "group_25e5fe4fca",
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
+    "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 6,
+    "sources_count": 4,
     "sources": [
       {
+        "source": "Mediafax",
+        "title": "Un polițist de 24 de ani, inconștient după un accident pe podul de la Agigea. Autospeciala s-a izbit de remorca unui TIR",
+        "link": "https://www.mediafax.ro/social/un-politist-de-24-de-ani-inconstient-dupa-un-accident-pe-podul-de-la-agigea-autospeciala-s-a-izbit-de-remorca-unui-tir-23840972"
+      },
+      {
         "source": "Digi24",
-        "title": "Solidaritate fără precedent în Polonia: peste1,35 milioane de euro strânși pentru polițiștii răniți în atacul din Cracovia",
-        "link": "https://www.digi24.ro/stiri/externe/ue/solidaritate-fara-precedent-in-polonia-aproape-12-milioane-de-euro-stransi-pentru-politistii-raniti-in-atacul-din-cracovia-4027001"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Atac armat la Cracovia: Peste 1,12 milioane de euro strânși în doar 17 ore pentru polițiștii răniți, printr-o campanie umanitară",
-        "link": "https://stirileprotv.ro/stiri/international/atac-armat-la-cracovia-peste-1-12-milioane-de-euro-stransi-in-doar-17-ore-pentru-politistii-raniti-printr-o-campanie-umanitara.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Val de solidaritate în Polonia pentru polițiștii răniți în atacul din Cracovia. Peste 90.000 de oameni au donat pentru ei",
-        "link": "https://stirileprotv.ro/stiri/international/val-de-solidaritate-in-polonia-pentru-cei-politisti-raniti-in-atacul-din-cracovia-peste-90-000-de-oameni-au-donat-pentru-ei.html"
+        "title": "Un poliţist a ajuns inconștient la spital după ce a intrat cu maşina în remorca unui TIR. Cum s-a produs accidentul",
+        "link": "https://www.digi24.ro/stiri/actualitate/un-politist-a-ajuns-inconstient-la-spital-dupa-ce-a-intrat-cu-masina-in-remorca-unui-tir-cum-s-a-produs-accidentul-4030093"
       },
       {
         "source": "Adevărul",
-        "title": "Solidaritate impresionantă în Polonia după atacul armat din Cracovia. Peste un milion de euro, strânși în doar 17 ore pentru polițiștii răniți",
-        "link": "https://adevarul.ro/stiri-externe/europa/solidaritate-impresionanta-in-polonia-dupa-atacul-2569903.html"
+        "title": "Accident grav lângă Portul Agigea. Polițist de 24 de ani, în stare critică după ce autospeciala a intrat cu autospeciala sub un TIR",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/accident-grav-langa-portul-agigea-politist-de-24-2570469.html"
       },
       {
-        "source": "HotNews.ro",
-        "title": "Val uriaș de solidaritate în Polonia. Peste 1.130.000 de euro strânși în 17 ore pentru cei doi polițiști răniți în atacul din Cracovia",
-        "link": "https://hotnews.ro/val-urias-de-solidaritate-in-polonia-peste-112-milioane-de-euro-stransi-in-17-ore-pentru-cei-doi-politisti-raniti-in-atacul-din-cracovia-2398601"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Mobilizare națională în Polonia după atacul din Cracovia. Militarii și civilii, chemați să doneze sânge pentru polițistul-erou, aflat în stare gravă",
-        "link": "https://www.mediafax.ro/externe/mobilizare-nationala-in-polonia-dupa-atacul-din-cracovia-militarii-si-civilii-chemati-sa-doneze-sange-pentru-politistul-erou-aflat-in-stare-grava-23839658"
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Un polițist de doar 24 de ani este în stare critică după ce a intrat cu autospeciala de Poliție într-un TIR",
+        "link": "https://www.presasm.ro/foto-un-politist-de-doar-24-de-ani-este-in-stare-critica-dupa-ce-a-intrat-cu-autospeciala-de/54200"
       }
     ],
-    "published_at": 1794245130,
-    "title_hu": "Hatmillió zloty fölé nőtt a krakkói rendőrök javára indított gyűjtés",
-    "lead_hu": "Hétfő reggelre több mint hatmillió zlotyt ajánlottak fel a krakkói támadásban megsérült rendőrök és családtagjaik támogatására. Az új adatok szerint a kampány első 17 órájában közel ötmillió zloty gyűlt össze, miközben a helyszíni beavatkozás részleteiről is új információk jelentek meg.",
-    "content_hu": "• **Hétfő reggel** Krzysztof Stanowski, a Kanał Zero alapítója által elindított Zrzutka.pl-kampány meghaladta a hatmillió zlotyt, ami legalább 1,366 millió eurónak felel meg. Több mint 113 ezer ember adakozott a megsebesült rendőrök és családtagjaik javára.\n\n• **A gyűjtés első 17 órájában** 91 062 támogató 4 953 601 zlotyt ajánlott fel. Ez az ötmillió zlotyos célösszeg 99 százalékát jelentette; a későbbi, hétfő reggeli adatok már a hatmillió zlotyos határ átlépését mutatták.\n\n• **A rendőri beavatkozás** a hatóságok szerint 23 másodperccel az első segélyhívás után indult, a lövöldözés pedig körülbelül három perccel az első bejelentést követően kezdődött. Szemtanúk felvételein a támadó kiszáll az autóból, a rendőrök felé fordítja fegyverét, majd a földre kerül; az egyik járőr később feláll, és rálő a támadóra. A férfi golyóálló mellényt viselt, és földre kerülése után is tüzet nyitott.\n\n• **Két sebész** a mentők érkezése előtt a két sebesült rendőrt és a támadót is ellátta. A legsúlyosabb állapotban lévő rendőr vérzésének megállításához az egyik orvos a mellkasánál avatkozott be. A beszámolók szerint Jakub Kulik egy 12 órás műtét után magához tért, és társa állapotáról érdeklődött.\n\n• **Jakub Kulik és Artur Morański** vasárnapra felébredtek az orvosilag előidézett kómából, de továbbra is kórházi kezelés alatt álltak. Kulik állapotát súlyosnak, de stabilnak írták le. A támadásban hatan meghaltak, és több ember megsérült; a pénzadományok mellett véradásra is buzdították a lakosságot.",
-    "title_ro": "Donațiile pentru polițiștii răniți la Cracovia au depășit șase milioane de zloți",
-    "lead_ro": "Luni dimineață, campania pentru polițiștii răniți în atacul din Cracovia și familiile lor trecuse de șase milioane de zloți. Datele arată că aproape cinci milioane s-au strâns în primele 17 ore, iar noi relatări au oferit detalii despre intervenția poliției și acordarea primului ajutor.",
-    "content_ro": "• **Luni dimineață**, campania de pe Zrzutka.pl inițiată de Krzysztof Stanowski, fondatorul Kanał Zero, depășise șase milioane de zloți, echivalentul a cel puțin 1,366 milioane de euro. Peste 113.000 de persoane au contribuit pentru polițiștii răniți și familiile acestora.\n\n• **În primele 17 ore**, 91.062 de susținători au donat 4.953.601 de zloți. Suma reprezenta 99% din ținta de cinci milioane de zloți; cifrele publicate ulterior, luni dimineață, indicau că totalul trecuse deja de șase milioane.\n\n• **Intervenția poliției** a început la 23 de secunde după primul apel de urgență, potrivit autorităților, iar schimbul de focuri s-a produs la circa trei minute de la primele sesizări. Imagini realizate de martori arată suspectul ieșind din mașină și îndreptând arma spre agenți. După ce acesta a ajuns la pământ, unul dintre polițiști s-a ridicat și a tras spre el. Atacatorul purta vestă antiglonț și a continuat să tragă după ce a fost doborât.\n\n• **Doi chirurgi** au acordat îngrijiri celor doi polițiști răniți și suspectului înainte de sosirea ambulanțelor. Unul dintre medici a intervenit pentru a opri sângerarea celui mai grav rănit, acționând în zona pieptului. Potrivit relatărilor, Jakub Kulik s-a trezit după o operație de 12 ore și a întrebat despre starea colegului său.\n\n• **Jakub Kulik și Artur Morański** ieșiseră din coma indusă medicamentos până duminică, însă au rămas internați. Starea lui Kulik era în continuare gravă, dar stabilă. Atacul s-a soldat cu șase morți și mai mulți răniți; pe lângă donații, au fost lansate și apeluri pentru donarea de sânge.",
+    "published_at": 1794322154,
+    "title_hu": "Un polițist de 24 de ani, inconștient după un accident pe podul de la Agigea. Autospeciala s-a izbit de remorca unui TIR",
+    "lead_hu": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare ...",
+    "content_hu": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare și SMURD.",
+    "title_ro": "Un polițist de 24 de ani, inconștient după un accident pe podul de la Agigea. Autospeciala s-a izbit de remorca unui TIR",
+    "lead_ro": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare ...",
+    "content_ro": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare și SMURD.",
     "importance_score": 60.0,
-    "slug": "hatmillio-zloty-fle-nott-a-krakkoi-rendork-javara-inditott-gyujtes-f432e3",
+    "slug": "un-politist-de-24-de-ani-inconstient-dupa-un-accident-pe-podul-de-la-agigea-auto-25e5fe",
     "tags": [
       "altalanos"
     ]
@@ -2554,54 +2600,6 @@
     ]
   },
   {
-    "group_id": "group_d36d321c9f",
-    "fingerprint": "7255e8adaf8f051e9f5e419cb1b53970",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Preşedintele Nawrocki şi premierul Tusk, adversari politici, au participat la un marş al tăcerii în memoria victimelor atacului armat",
-        "link": "https://www.digi24.ro/stiri/externe/presedintele-nawrocki-si-premierul-tusk-adversari-politici-au-participat-la-un-mars-al-tacerii-in-memoria-victimelor-atacului-armat-4029009"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Mii de oameni la marșul tăcut din Cracovia, condus de liderii Poloniei, în memoria victimelor atacului armat. GALERIE FOTO",
-        "link": "https://stirileprotv.ro/stiri/international/liderii-poloniei-alaturi-de-mii-de-oameni-la-marsul-tacut-din-cracovia-in-memoria-victimelor-atacului-armat-galerie-foto.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Trump vede o şansă majoră de încheiere a războiului din Ucraina. Ce concesii teritoriale ar putea fi discutate la Abu Dhabi",
-        "link": "https://stirileprotv.ro/stiri/international/trump-vede-o-sansa-majora-de-incheiere-a-razboiului-din-ucraina-ce-concesii-teritoriale-ar-putea-fi-discutate-la-abu-dhabi.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Manevra prin care Trump vrea să-i împace și pe Putin, și pe Zelenski în negocierile pentru încheierea războiului",
-        "link": "https://www.digi24.ro/stiri/externe/sua/matrapazlacul-prin-care-trump-vrea-sa-i-impace-si-pe-putin-si-pe-zelenski-in-negocierile-pentru-incheierea-razboiului-4029431"
-      },
-      {
-        "source": "Digi24",
-        "title": "Negocieri la Abu Dhabi: de ce Trump s-ar putea dovedi mai conciliant cu cererile lui Putin atât privind Ucraina, cât și NATO",
-        "link": "https://www.digi24.ro/stiri/externe/negocieri-la-abu-dhabi-de-ce-trump-s-ar-putea-dovedi-mai-conciliant-cu-cererile-lui-putin-atat-privind-ucraina-cat-si-nato-4029963"
-      }
-    ],
-    "published_at": 1794305269,
-    "title_hu": "Csendes felvonuláson emlékeztek a krakkói lövöldözés áldozataira",
-    "lead_hu": "Hétfő este gyászolók ezrei vonultak fel Krakkó történelmi központjában a szombati fegyveres támadás hat halálos áldozatára emlékezve. A menet élén Karol Nawrocki lengyel elnök és Donald Tusk miniszterelnök haladt, akik politikai ellentéteik ellenére közösen vettek részt a megemlékezésen.",
-    "content_hu": "• **Hétfő este** több ezer ember gyűlt össze Krakkó óvárosában a szombati lövöldözés áldozatainak emlékére. A csendes menet a város központi teréről indult, ahol a támadás történt; a résztvevők egy virágokkal borított emlékhely mellett is megálltak.\n\n• **A támadásban hat ember meghalt, tizenöten pedig megsérültek.** A 24 éves fegyveres a beszámolók szerint szombat délután nyitott tüzet. A sérültek között két rendőr is volt, akik a támadóval szemben intézkedtek.\n\n• **Karol Nawrocki államfő és Donald Tusk kormányfő** együtt haladt a gyászmenetben, noha politikai ellenfelek. Mindketten bejegyzést tettek az áldozatok emlékére létrehozott részvétnyilvánító könyvbe; a felvonuláson Krakkó polgármestere, Łukasz Gibała is részt vett.\n\n• **A feltételezett elkövető hétfőn meghalt a kórházban.** A hatóságok szerint a rendőrökkel történt fegyveres összecsapásban sebesült meg, majd több műtéten esett át. A támadás indítéka a beszámolók alapján nem tisztázott.\n\n• **A megemlékezés a nemzeti gyász második, egyben utolsó napjára esett.** A krakkói rendezvény idejére megerősítették a rendőri jelenlétet, és a lengyel állami védelmi szolgálat munkatársai is biztosították a helyszínt. Az eseményen Grzegorz Ryś krakkói érsek is megjelent.",
-    "title_ro": "Marș tăcut la Cracovia în memoria victimelor atacului armat",
-    "lead_ro": "Mii de persoane au participat luni seara la un marș de doliu în centrul istoric al Cracoviei, în memoria celor șase oameni uciși în atacul armat de sâmbătă. Președintele Karol Nawrocki și premierul Donald Tusk au fost împreună în fruntea adunării, deși sunt adversari politici.",
-    "content_ro": "• **Luni seara**, mii de persoane s-au adunat în centrul istoric al Cracoviei pentru a-i comemora pe cei uciși în atacul armat de sâmbătă. Marșul tăcut a pornit din piața centrală, locul în care s-a produs atacul, iar participanții s-au oprit și la un memorial acoperit cu flori.\n\n• **Atacul s-a soldat cu șase morți și 15 răniți.** Potrivit relatărilor, bărbatul înarmat, în vârstă de 24 de ani, a deschis focul sâmbătă după-amiază. Printre persoanele rănite s-au numărat doi polițiști care au intervenit împotriva atacatorului.\n\n• **Președintele Karol Nawrocki și premierul Donald Tusk** au mers împreună în fruntea marșului, deși se află în tabere politice rivale. Înaintea adunării, amândoi au scris în cartea de condoleanțe dedicată victimelor. La eveniment a participat și primarul Cracoviei, Łukasz Gibała.\n\n• **Suspectul a murit luni la spital.** Autoritățile au anunțat că acesta fusese rănit într-un schimb de focuri cu poliția și că a trecut prin mai multe intervenții chirurgicale. Relatările disponibile nu precizează motivul atacului.\n\n• **Marșul a avut loc în a doua și ultima zi de doliu național.** Pentru desfășurarea adunării, poliția și-a intensificat prezența în oraș, iar membri ai Serviciului de Protecție al Statului au contribuit la securizarea locului. La comemorare a fost prezent și cardinalul Grzegorz Ryś, arhiepiscopul Cracoviei.",
-    "importance_score": 53.0,
-    "slug": "csendes-felvonulason-emlekeztek-a-krakkoi-lvldzes-aldozataira-d36d32",
-    "tags": [
-      "altalanos"
-    ]
-  },
-  {
     "group_id": "group_c34f9918bd",
     "slug": "ujra-leallt-a-cernavodai-atomeromu-1-es-blokkja-c34f99",
     "tags": [
@@ -2912,42 +2910,6 @@
     "importance_score": 50.0
   },
   {
-    "group_id": "group_25e5fe4fca",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Un polițist de 24 de ani, inconștient după un accident pe podul de la Agigea. Autospeciala s-a izbit de remorca unui TIR",
-        "link": "https://www.mediafax.ro/social/un-politist-de-24-de-ani-inconstient-dupa-un-accident-pe-podul-de-la-agigea-autospeciala-s-a-izbit-de-remorca-unui-tir-23840972"
-      },
-      {
-        "source": "Digi24",
-        "title": "Un poliţist a ajuns inconștient la spital după ce a intrat cu maşina în remorca unui TIR. Cum s-a produs accidentul",
-        "link": "https://www.digi24.ro/stiri/actualitate/un-politist-a-ajuns-inconstient-la-spital-dupa-ce-a-intrat-cu-masina-in-remorca-unui-tir-cum-s-a-produs-accidentul-4030093"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Accident grav lângă Portul Agigea. Polițist de 24 de ani, în stare critică după ce autospeciala a intrat cu autospeciala sub un TIR",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/accident-grav-langa-portul-agigea-politist-de-24-2570469.html"
-      }
-    ],
-    "published_at": 1794322154,
-    "title_hu": "Un polițist de 24 de ani, inconștient după un accident pe podul de la Agigea. Autospeciala s-a izbit de remorca unui TIR",
-    "lead_hu": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare ...",
-    "content_hu": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare și SMURD.",
-    "title_ro": "Un polițist de 24 de ani, inconștient după un accident pe podul de la Agigea. Autospeciala s-a izbit de remorca unui TIR",
-    "lead_ro": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare ...",
-    "content_ro": "Un polițist de 24 de ani este inconștient după ce autospeciala în care se afla a intrat în coliziune cu remorca unui TIR, pe podul de la Agigea, DN 39A. Pompierii intervin cu echipaje de descarcerare și SMURD.",
-    "importance_score": 50.0,
-    "slug": "un-politist-de-24-de-ani-inconstient-dupa-un-accident-pe-podul-de-la-agigea-auto-25e5fe",
-    "tags": [
-      "altalanos"
-    ]
-  },
-  {
     "group_id": "group_bad370b40f",
     "slug": "georgescu-aur-vezetoi-szerepe-felmerult-peiu-2030-ig-simionnal-szamol-bad370",
     "tags": [
@@ -3252,6 +3214,42 @@
     "slug": "pauliuc-a-birosagi-perek-folytatasa-mellett-all-ki-c4ec99",
     "tags": [
       "politika"
+    ]
+  },
+  {
+    "group_id": "group_04893792fd",
+    "slug": "ce-a-provocat-oprirea-unitatii-1-de-la-cernavoda-secretar-de-stat-se-analizeaza--048937",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Ce a provocat oprirea Unității 1 de la Cernavodă. Secretar de stat: „Se analizează dacă a fost și o neglijență umană”",
+        "link": "https://www.digi24.ro/stiri/economie/energie/ce-a-provocat-oprirea-unitatii-1-de-la-cernavoda-secretar-de-stat-se-analizeaza-daca-a-fost-si-o-neglijenta-umana-4029973"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Secretar de stat, despre oprirea accidentală a Unității 1 de la Cernavodă: Se analizează dacă a fost și o neglijență umană",
+        "link": "https://www.mediafax.ro/economic/secretar-de-stat-despre-oprirea-accidentala-a-unitatii-1-de-la-cernavoda-se-analizeaza-daca-a-fost-si-o-neglijenta-umana-23841050"
+      },
+      {
+        "source": "G4Media",
+        "title": "Suspiciuni de neglijență umană după oprirea accidentală a Unității 1 de la Cernavodă / ”Echipamentele sunt învechite, cu o uzură de aproximativ 30 de ani de folosință”",
+        "link": "https://www.g4media.ro/suspiciuni-de-neglijenta-umana-dupa-oprirea-accidentala-a-unitatii-1-de-la-cernavoda-echipamentele-sunt-invechite-cu-o-uzura-de-aproximativ-30-de-ani-de-folosinta.html"
+      }
+    ],
+    "published_at": 1794325383,
+    "title_hu": "Ce a provocat oprirea Unității 1 de la Cernavodă. Secretar de stat: „Se analizează dacă a fost și o neglijență umană”",
+    "lead_hu": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian...",
+    "content_hu": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian Nițulescu. Defecțiunea tehnică a fost localizată la un ejector care asigură vidul în condensatorul turbinei. Oficialul și-a exprimat speranța că ambele reactoare vor reveni în funcțiune în cel mult 48 de ore.",
+    "title_ro": "Ce a provocat oprirea Unității 1 de la Cernavodă. Secretar de stat: „Se analizează dacă a fost și o neglijență umană”",
+    "lead_ro": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian...",
+    "content_ro": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian Nițulescu. Defecțiunea tehnică a fost localizată la un ejector care asigură vidul în condensatorul turbinei. Oficialul și-a exprimat speranța că ambele reactoare vor reveni în funcțiune în cel mult 48 de ore.",
+    "importance_score": 45.0,
+    "tags": [
+      "altalanos"
     ]
   },
   {
@@ -4092,6 +4090,86 @@
     "importance_score": 38.0
   },
   {
+    "group_id": "group_f3a839e807",
+    "slug": "a-parlamenti-tbbseg-elutasitotta-a-pnl-jelltcserejet-az-sri-bizottsagban-f3a839",
+    "tags": [
+      "parlament",
+      "sri",
+      "pnl",
+      "psd",
+      "aur"
+    ],
+    "fingerprint": "c69d9da5bf0dc6c24898a516ff65ccf8",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "UPDATE: Majoritatea PSD-AUR din Parlament a refuzat cererea PNL de a-l schimba pe pucistul Răzvan Prișcă cu Florin Roman în comisia de control SRI",
+        "link": "https://www.g4media.ro/pnl-il-schimba-pe-pucistul-razvan-prisca-cu-florin-roman-in-comisia-de-control-sri.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Parlament/ Cererea PNL de numire a lui Florin Roman în comisia de control a SRI - respinsă",
+        "link": "https://agerpres.ro/politic/2026/11/10/parlament-cererea-pnl-de-numire-a-lui-florin-roman-in-comisia-de-control-a-sri---respinsa--1611910"
+      },
+      {
+        "source": "Digi24",
+        "title": "PNL a vrut să-l schimbe pe Răzvan Prișcă din Comisia parlamentară de control al SRI. Propunerea Florin Roman a fost respinsă",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-a-vrut-sa-l-schimbe-pe-razvan-prisca-din-comisia-parlamentara-de-control-al-sri-propunerea-florin-roman-a-fost-respinsa-4030195"
+      }
+    ],
+    "published_at": 1794315111,
+    "title_hu": "A parlamenti többség elutasította a PNL jelöltcseréjét az SRI-bizottságban",
+    "lead_hu": "A parlament nem támogatta a PNL indítványát, amely Răzvan Prișcă helyére Florin Romant delegálta volna az SRI tevékenységét ellenőrző bizottságba. A PSD és az AUR képviselőinek szavazatai nyomán Prișcă a testület tagja marad.",
+    "content_hu": "• **A parlament döntése** nyomán Răzvan Prișcă továbbra is tagja marad a Román Hírszerző Szolgálat, az SRI parlamenti ellenőrzésére létrehozott bizottságnak. A törvényhozás elutasította a személycserére vonatkozó PNL-javaslatot.\n\n• **A PNL indítványa** szerint Prișcă helyét Florin Roman képviselő vette volna át. A jelöltcsere kezdeményezését a párt képviselőházi és szenátusi frakciói terjesztették a két ház együttes ülése elé.\n\n• **A szavazás kimenetelét** a PSD és az AUR képviselőinek támogatása határozta meg; a G4Media beszámolója szerint a két párt többsége a PNL kérelme ellen voksolt. A döntés következtében a bizottság összetételében nem történt változás.\n\n• **Florin Roman** Fehér megyei képviselőként szerepelt a PNL jelöltjeként. A javaslat elfogadása esetén ő került volna be a testületbe Prișcă helyett, de a parlamenti elutasítás után nem kapta meg ezt a helyet.\n\n• **Răzvan Prișcă párton belüli helyzete** kapcsán a cikk azt is közölte, hogy az elmúlt hónapokban több PNL-es képviselővel együtt bírósághoz fordultak a pártvezetés döntései miatt, amelyek Ilie Bolojanhoz kötődtek. A mostani parlamenti szavazás közvetlen következménye mindazonáltal az, hogy Prișcă megtartotta bizottsági tagságát.",
+    "title_ro": "Parlamentul a respins schimbarea propusă de PNL în comisia de control al SRI",
+    "lead_ro": "Parlamentul nu a aprobat solicitarea PNL de a-l înlocui pe Răzvan Prișcă cu Florin Roman în comisia care supraveghează activitatea SRI. În urma votului susținut de reprezentanții PSD și AUR, Prișcă își păstrează calitatea de membru al comisiei.",
+    "content_ro": "• **Decizia Parlamentului** îl menține pe Răzvan Prișcă în comisia parlamentară însărcinată cu verificarea activității Serviciului Român de Informații. Legislativul a respins propunerea PNL de modificare a componenței acestui for.\n\n• **Solicitarea liberalilor** prevedea ca Florin Roman să preia locul ocupat de Prișcă. Inițiativa a fost înaintată de grupurile PNL din Camera Deputaților și Senat și urma să fie discutată în ședința comună a celor două Camere.\n\n• **Votul final** a fost dat împotriva cererii PNL, iar relatarea G4Media atribuie rezultatului susținerea majorității formate din parlamentarii PSD și AUR. Prin urmare, comisia de control al SRI nu își schimbă componența în urma acestei proceduri.\n\n• **Florin Roman**, deputat de Alba, fusese desemnat de PNL drept candidat pentru locul vizat. Dacă propunerea ar fi trecut, el ar fi devenit membru al comisiei în locul lui Prișcă; respingerea a făcut ca această numire să nu se producă.\n\n• **Situația lui Răzvan Prișcă în PNL** este menționată și în legătură cu procese intentate de mai mulți parlamentari liberali în ultimele luni, referitoare la hotărâri ale partidului asociate cu Ilie Bolojan. Efectul imediat al votului parlamentar rămâne însă clar: Prișcă își păstrează poziția în comisia de supraveghere a SRI.",
+    "importance_score": 38.0
+  },
+  {
+    "group_id": "group_b2551ffba9",
+    "fingerprint": "97477bbee915ad217e3866950995903f",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Fals magistrat: ar fi încasat 50.000 de euro pentru a promite soluționarea unor dosare penale",
+        "link": "https://www.mediafax.ro/social/fals-magistrat-ar-fi-incasat-50-000-de-euro-pentru-a-promite-solutionarea-unor-dosare-penale-23840704"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un bărbat din Bistrița s-ar fi dat drept procuror și ar fi încasat 50.000 de euro pentru a „rezolva” dosare penale",
+        "link": "https://stirileprotv.ro/stiri/actualitate/un-barbat-din-bistrita-s-ar-fi-dat-drept-procuror-si-ar-fi-incasat-50-000-de-euro-pentru-a-rezolva-dosare-penale.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Un fals procuror din Bistrița a fost prins în flagrant după ce ar fi cerut zeci de mii de euro pentru „a rezolva” dosare penale",
+        "link": "https://www.digi24.ro/stiri/un-fals-procuror-din-bistrita-a-fost-prins-in-flagrant-dupa-ce-ar-fi-cerut-zeci-de-mii-de-euro-pentru-a-rezolva-dosare-penale-4029669"
+      }
+    ],
+    "published_at": 1794314833,
+    "title_hu": "Hamis igazolványt is találtak a magát ügyésznek kiadó férfinál",
+    "lead_hu": "A 34 éves férfit november 9-én, Beszterce belvárosában fogták el, miután a gyanú szerint magisztrátusnak adta ki magát és két embernek kedvező ügyintézést ígért büntetőügyeikben. A nála talált készpénz mellett egy hamis igazolványt is felfedeztek; az ügyben a házkutatások és a 24 órás őrizetbe vétel után folytatódik a nyomozás.",
+    "content_hu": "• **November 9-én, Beszterce történelmi központjában** fogták el a 34 éves, Monariu településen lakó férfit. A gyanú szerint egy megyei ügyészségi egység magisztrátusának adta ki magát, és azt állította, hogy befolyásolni tud más bírákat, illetve ügyészeket.\n\n• **A feltételezett pénzügyi ügylet értéke mintegy 50 ezer euró** lehetett: a férfi a hatóságok szerint két embertől, több részletben kért és vett át pénzt azért, hogy büntetőügyeik kedvező lezárását ígérje. A nyomozás szerint az állított közbenjárási lehetősége nem volt valós.\n\n• **A gyanú szerinti megtévesztést hamis iratokkal is erősítette.** Ügyészségek, bíróságok és rendőri szervek nevében kiállítottnak tűnő dokumentumokat készíthetett és használhatott, amelyek valótlanul kedvező ügykimenetelt tüntettek fel. A Digi24 beszámolója szerint hamis igazolványt is találtak nála.\n\n• **Az elfogáskor 2 ezer euró és 1700 lej volt a férfinál**, az euróösszeg a gyanú szerint az egyik érintettől származott. A rendőrök ezután négy házkutatást tartottak; 10 ezer eurót, feltételezetten hamis dokumentumokat, adathordozókat, 15 mobiltelefont és egy autót foglaltak le.\n\n• **A férfit 24 órára őrizetbe vették**, majd a Beszterce-Năsăud megyei rendőrség fogdájába szállították. Befolyással üzérkedés, befolyás vásárlása, hivatalos iratok hamisítása és hamis iratok használata miatt folyik ellene eljárás; a további megelőző intézkedésről bíróság dönthet, a nyomozás folytatódik.",
+    "title_ro": "Legitimație falsă, găsită asupra bărbatului care s-ar fi dat drept procuror",
+    "lead_ro": "Bărbatul de 34 de ani a fost prins pe 9 noiembrie în centrul orașului Bistrița, fiind suspectat că s-a prezentat drept magistrat și a promis soluții favorabile în două dosare penale. Pe lângă bani, anchetatorii ar fi găsit asupra lui și o legitimație falsă; cercetările continuă după percheziții și reținerea sa pentru 24 de ore.",
+    "content_ro": "• **La 9 noiembrie, în centrul istoric al municipiului Bistrița**, polițiștii l-au prins pe bărbatul de 34 de ani, domiciliat în Monariu. Potrivit anchetei, acesta s-ar fi prezentat ca magistrat al unei unități de parchet din județ și ar fi susținut că poate influența alți magistrați.\n\n• **Suma implicată ar fi fost de aproximativ 50.000 de euro.** Anchetatorii susțin că bărbatul ar fi primit bani în mai multe tranșe de la două persoane, promițând intervenții pentru soluționarea favorabilă a dosarelor lor penale. Influența invocată nu ar fi fost reală.\n\n• **Pentru a face credibile promisiunile, ar fi folosit documente falsificate.** Acestea păreau emise de parchete, instanțe și structuri ale Poliției Române și ar fi indicat în mod neadevărat rezultate favorabile în cauze penale. Digi24 a relatat și că asupra suspectului a fost găsită o legitimație falsă.\n\n• **La momentul prinderii, asupra bărbatului se aflau 2.000 de euro și 1.700 de lei.** Polițiștii au efectuat ulterior patru percheziții domiciliare, de unde au ridicat 10.000 de euro, înscrisuri presupus falsificate, suporturi de stocare, 15 telefoane mobile și un autoturism.\n\n• **Suspectul a fost reținut pentru 24 de ore** și dus în centrul de arest al poliției județene Bistrița-Năsăud. El este cercetat pentru trafic și cumpărare de influență, fals material în înscrisuri oficiale și uz de fals; procurorii continuă ancheta, iar o instanță poate decide asupra unei măsuri preventive.",
+    "importance_score": 38.0,
+    "slug": "hamis-igazolvanyt-is-talaltak-a-magat-ugyesznek-kiado-ferfinal-b2551f",
+    "tags": [
+      "altalanos"
+    ]
+  },
+  {
     "group_id": "group_8e2ed57138",
     "category": "Általános",
     "is_synthesized": false,
@@ -4428,6 +4506,37 @@
     "importance_score": 35.0
   },
   {
+    "group_id": "group_e0d89e9edc",
+    "slug": "romanii-din-germania-luati-la-tinta-si-de-extrema-stanga-dupa-extrema-dreapta-ar-e0d89e",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz într-un mesaj în limba germană: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot”",
+        "link": "https://www.g4media.ro/romanii-din-germania-luati-la-tinta-si-de-extrema-stanga-dupa-extrema-dreapta-arata-dominic-fritz-intr-un-mesaj-in-limba-germana-retorica-aceasta-agresiva-a-extremistilor-e-la-fel-peste-t.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "A német szélsőjobb után a szélsőbaloldal is a román bevándorlókat vette célba",
+        "link": "https://maszol.ro/kulfold/A-nemet-szelsojobb-utan-a-szelsobaloldal-is-a-roman-bevandorlokat-vette-celba"
+      }
+    ],
+    "published_at": 1794326625,
+    "title_hu": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz într-un mesaj în limba germană: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot”",
+    "lead_hu": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă ...",
+    "content_hu": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot. Soluția lor e să găsească un țap ispășitor”, spune fostul primar al Timișoarei. Încă o doamnă din politica […] © G4Media.ro.",
+    "title_ro": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz într-un mesaj în limba germană: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot”",
+    "lead_ro": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă ...",
+    "content_ro": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot. Soluția lor e să găsească un țap ispășitor”, spune fostul primar al Timișoarei. Încă o doamnă din politica […] © G4Media.ro.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_5a730f412f",
     "slug": "visszavonta-az-anre-az-ibn-energy-aramszolgaltatoi-engedelyet-5a730f",
     "tags": [
@@ -4462,37 +4571,6 @@
     "lead_ro": "Comitetul de reglementare al ANRE a retras, pe 10 noiembrie, licența de furnizare a energiei electrice deținută de IBN Energy. Controalele au indicat lipsa unor garanții financiare suficiente și obligații de plată neachitate.",
     "content_ro": "• **La 10 noiembrie, comitetul de reglementare al ANRE** a decis retragerea licenței de furnizare a energiei electrice a companiei IBN Energy. Potrivit autorității, verificările au identificat nereguli, dintre care unele datează din august 2025.\n\n• **În perioada 1–7 august 2025**, Transelectrica a semnalat o diferență negativă semnificativă între energia contractată de furnizor și cea livrată. Pentru această situație, compania trebuia să depună o garanție de 3.522.276,50 lei până la 26 august, însă suma nu a fost achitată nici după termenul stabilit.\n\n• **Garanțiile deținute de IBN Energy** în perioada respectivă se ridicau la numai 150.000 de lei, deși firma efectuase tranzacții pe piața energiei fără acoperirea financiară necesară. Verificările ANRE au mai constatat că societatea nu și-a achitat obligațiile de plată către Bursa Română de Mărfuri.\n\n• **George Niculescu, președintele ANRE**, a avertizat că furnizorii care nu își respectă obligațiile financiare pot crea riscuri pentru întreaga piață. Costurile generate de asemenea situații ar putea ajunge la celelalte companii participante și, în cele din urmă, la consumatori.\n\n• **Retragerea licenței** a fost motivată de neregulile constatate de autoritate, între care lipsa garanțiilor cerute și neplata sumelor datorate. ANRE a legat aceste probleme de riscurile pe care un furnizor cu obligații financiare restante le poate transfera asupra pieței și clienților.",
     "importance_score": 35.0
-  },
-  {
-    "group_id": "group_04893792fd",
-    "slug": "ce-a-provocat-oprirea-unitatii-1-de-la-cernavoda-secretar-de-stat-se-analizeaza--048937",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ce a provocat oprirea Unității 1 de la Cernavodă. Secretar de stat: „Se analizează dacă a fost și o neglijență umană”",
-        "link": "https://www.digi24.ro/stiri/economie/energie/ce-a-provocat-oprirea-unitatii-1-de-la-cernavoda-secretar-de-stat-se-analizeaza-daca-a-fost-si-o-neglijenta-umana-4029973"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Secretar de stat, despre oprirea accidentală a Unității 1 de la Cernavodă: Se analizează dacă a fost și o neglijență umană",
-        "link": "https://www.mediafax.ro/economic/secretar-de-stat-despre-oprirea-accidentala-a-unitatii-1-de-la-cernavoda-se-analizeaza-daca-a-fost-si-o-neglijenta-umana-23841050"
-      }
-    ],
-    "published_at": 1794325383,
-    "title_hu": "Ce a provocat oprirea Unității 1 de la Cernavodă. Secretar de stat: „Se analizează dacă a fost și o neglijență umană”",
-    "lead_hu": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian...",
-    "content_hu": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian Nițulescu. Defecțiunea tehnică a fost localizată la un ejector care asigură vidul în condensatorul turbinei. Oficialul și-a exprimat speranța că ambele reactoare vor reveni în funcțiune în cel mult 48 de ore.",
-    "title_ro": "Ce a provocat oprirea Unității 1 de la Cernavodă. Secretar de stat: „Se analizează dacă a fost și o neglijență umană”",
-    "lead_ro": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian...",
-    "content_ro": "Ministerul Energiei analizează dacă oprirea Unității 1 de la Cernavodă a fost provocată și de o neglijență umană în procesul de mentenanță, a declarat marți, la Digi24, secretarul de stat Pavel-Casian Nițulescu. Defecțiunea tehnică a fost localizată la un ejector care asigură vidul în condensatorul turbinei. Oficialul și-a exprimat speranța că ambele reactoare vor reveni în funcțiune în cel mult 48 de ore.",
-    "importance_score": 35.0,
-    "tags": [
-      "altalanos"
-    ]
   },
   {
     "group_id": "group_753b155259",
@@ -5138,6 +5216,44 @@
     ]
   },
   {
+    "group_id": "group_9ad644099b",
+    "fingerprint": "2a55d29b7607440614c721f90851583f",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "România a rămas iar fără energie nucleară după ce Unitatea 1 de la Cernavodă a fost oprită, din cauza unei defecțiuni. „Nu este afectată siguranța nucleară”",
+        "link": "https://www.mediafax.ro/economic/romania-a-ramas-iar-fara-energie-nucleara-dupa-ce-unitatea-1-de-la-cernavoda-a-fost-oprita-din-cauza-unei-defectiuni-nu-este-afectata-siguranta-nucleara-23840484"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "De ce s-a oprit reactorul 1 de la Cernavodă. România este nevoită să importe masiv energie la prețuri mari",
+        "link": "https://hotnews.ro/de-ce-s-a-oprit-reactorul-1-de-la-cernavoda-romania-este-nevoita-sa-importe-masiv-energie-la-preturi-mari-2399764"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Câtă energie a importat România după ce s-a oprit din nou centrala de la Cernavodă. Ce arată cifrele din sistem",
+        "link": "https://stirileprotv.ro/stiri/financiar/cata-energie-a-importat-romania-dupa-ce-centrala-de-la-cernavoda-s-a-oprit-din-nou-ce-arata-cifrele-din-sistem.html"
+      }
+    ],
+    "published_at": 1794299622,
+    "title_hu": "Három nappal az újraindítás után ismét leállt a cernavodai 1-es blokk",
+    "lead_hu": "A Cernavodăi atomerőmű 1-es blokkja hétfő este, három nappal az újraindítása után ismét kiesett a termelésből. A Nuclearelectrica szerint a meghibásodás a blokk nem nukleáris, hagyományos berendezéseit érintette; a kiesés idején Románia jelentős áramimportra szorult.",
+    "content_hu": "• **Hétfő este** leállt a cernavodai atomerőmű 1-es blokkja, amelyet pénteken, több mint három hónapos szünetet követően helyeztek ismét üzembe. A leállást megelőzően a blokk teljesítménye hétfő délben még 520 megawatt volt a 700 megawattos névleges értékből; néhány órával később az egység már nem termelt áramot.\n\n• **A meghibásodás a hagyományos rendszert érintette**, nem az erőmű nukleáris részét – közölte a Nuclearelectrica. A vállalat vezetője szerint a védelmi rendszerek megfelelően működtek, és az eset nem veszélyeztette a nukleáris biztonságot. A hiba okáról a közölt információk nem adnak teljes körű, hivatalos magyarázatot.\n\n• **A helyreállítást követően csütörtökre várták** a blokk hálózatra kapcsolását. A tervek szerint előbb a javításokat végzik el, majd szerdán folytatják az indítási folyamatot; a Transelectrica adatai déli, 12 órás csatlakozási időpontot jeleztek. Ezek előzetes ütemezések, nem a sikeres újraindítás megerősítései.\n\n• **A kiesés idején 3000 megawattot meghaladó áramimport vált szükségessé** a hazai ellátás biztosításához. A két cernavodai blokk együtt a romániai villamosenergia-termelés körülbelül ötödét adja, amikor mindkettő teljes kapacitással üzemel; ezért az 1-es egység kiesése számottevően növelte az importigényt.\n\n• **A Nuclearelectrica lecserélte az erőmű műszaki igazgatóját**, és helyreállítási intézkedéseket indított. A vállalat közlése szerint felgyorsítják a karbantartási eljárások felülvizsgálatát, valamint ellenőrzik a műszaki támogató folyamatokat. Eközben a 2-es blokk indításához kapcsolódó teszteket is végeztek.",
+    "title_ro": "Unitatea 1 de la Cernavodă s-a oprit din nou la trei zile după repornire",
+    "lead_ro": "Unitatea 1 a centralei de la Cernavodă a fost oprită luni seară, la trei zile după ce fusese repusă în funcțiune. Nuclearelectrica a precizat că defecțiunea a vizat echipamentele clasice, nu partea nucleară, iar România a avut nevoie de importuri importante de electricitate.",
+    "content_ro": "• **Luni seară**, Unitatea 1 de la Cernavodă a încetat să mai producă energie, după ce fusese repornită vineri, în urma unei întreruperi de peste trei luni. La mijlocul zilei de luni, reactorul furniza 520 de megawați dintr-o capacitate nominală de 700; câteva ore mai târziu, centrala s-a oprit complet.\n\n• **Defecțiunea a fost localizată la partea clasică a unității**, potrivit Nuclearelectrica, și nu a afectat componenta nucleară. Conducerea companiei a transmis că sistemele de protecție au funcționat, iar securitatea nucleară nu a fost pusă în pericol. Informațiile publicate nu oferă o explicație oficială completă privind cauza tehnică a avariei.\n\n• **Reconectarea la rețea era estimată pentru joi**, după efectuarea reparațiilor și reluarea procedurilor de pornire, programată pentru miercuri. Datele Transelectrica indicau ora 12:00 pentru conectarea unității, însă acest termen reprezenta o estimare, nu confirmarea repunerii efective în funcțiune.\n\n• **Importurile de energie au depășit 3.000 de megawați** în perioada în care reactorul nu a funcționat, pe fondul necesității de a acoperi consumul intern. Atunci când ambele unități de la Cernavodă operează la capacitate maximă, ele asigură aproximativ o cincime din producția națională de electricitate; oprirea Unității 1 a mărit astfel necesarul de energie din exterior.\n\n• **Nuclearelectrica a schimbat directorul tehnic al centralei** și a anunțat măsuri pentru îmbunătățirea activităților operaționale. Planul companiei include verificarea accelerată a procedurilor de mentenanță și analizarea proceselor tehnice de suport. În paralel, au fost efectuate teste legate de pornirea Unității 2.",
+    "importance_score": 33.0,
+    "slug": "harom-nappal-az-ujrainditas-utan-ismet-leallt-a-cernavodai-1-es-blokk-9ad644",
+    "tags": [
+      "altalanos"
+    ]
+  },
+  {
     "group_id": "group_edbbbb3f2e",
     "fingerprint": "d9dcb64af574661d14b83f4fad102bef",
     "category": "Általános",
@@ -5250,6 +5366,42 @@
     "tags": [
       "altalanos"
     ]
+  },
+  {
+    "group_id": "group_a203cffd75",
+    "slug": "studiu-rusia-domina-pe-plan-global-construirea-de-reactoare-nucleare-a203cf",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Studiu: Rusia domină pe plan global construirea de reactoare nucleare",
+        "link": "https://agerpres.ro/economic-extern/2026/11/10/studiu-rusia-domina-pe-plan-global-construirea-de-reactoare-nucleare--1611997"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Piața pe care o domină Rusia la nivel global prin intermediul gigantului Rosatom",
+        "link": "https://hotnews.ro/rusia-domina-pe-plan-global-construirea-de-reactoare-nucleare-prin-intermediul-rosatom-2400456"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Rusia conduce construcția reactoarelor nucleare la nivel mondial. „Extrem de problematic în actualul context geopolitic”",
+        "link": "https://stirileprotv.ro/stiri/international/rusia-conduce-constructia-reactoarelor-nucleare-la-nivel-mondial-extrem-de-problematic-in-actualul-context-geopolitic.html"
+      }
+    ],
+    "published_at": 1794268800,
+    "title_hu": "Studiu: Rusia domină pe plan global construirea de reactoare nucleare",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Studiu: Rusia domină pe plan global construirea de reactoare nucleare",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 30.0
   },
   {
     "group_id": "group_45b698d2b3",
@@ -5631,43 +5783,6 @@
     "tags": [
       "altalanos"
     ]
-  },
-  {
-    "group_id": "group_f3a839e807",
-    "slug": "a-parlamenti-tbbseg-elutasitotta-a-pnl-jelltcserejet-az-sri-bizottsagban-f3a839",
-    "tags": [
-      "parlament",
-      "sri",
-      "pnl",
-      "psd",
-      "aur"
-    ],
-    "fingerprint": "c69d9da5bf0dc6c24898a516ff65ccf8",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "UPDATE: Majoritatea PSD-AUR din Parlament a refuzat cererea PNL de a-l schimba pe pucistul Răzvan Prișcă cu Florin Roman în comisia de control SRI",
-        "link": "https://www.g4media.ro/pnl-il-schimba-pe-pucistul-razvan-prisca-cu-florin-roman-in-comisia-de-control-sri.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Parlament/ Cererea PNL de numire a lui Florin Roman în comisia de control a SRI - respinsă",
-        "link": "https://agerpres.ro/politic/2026/11/10/parlament-cererea-pnl-de-numire-a-lui-florin-roman-in-comisia-de-control-a-sri---respinsa--1611910"
-      }
-    ],
-    "published_at": 1794315111,
-    "title_hu": "A parlamenti többség elutasította a PNL jelöltcseréjét az SRI-bizottságban",
-    "lead_hu": "A parlament nem támogatta a PNL indítványát, amely Răzvan Prișcă helyére Florin Romant delegálta volna az SRI tevékenységét ellenőrző bizottságba. A PSD és az AUR képviselőinek szavazatai nyomán Prișcă a testület tagja marad.",
-    "content_hu": "• **A parlament döntése** nyomán Răzvan Prișcă továbbra is tagja marad a Román Hírszerző Szolgálat, az SRI parlamenti ellenőrzésére létrehozott bizottságnak. A törvényhozás elutasította a személycserére vonatkozó PNL-javaslatot.\n\n• **A PNL indítványa** szerint Prișcă helyét Florin Roman képviselő vette volna át. A jelöltcsere kezdeményezését a párt képviselőházi és szenátusi frakciói terjesztették a két ház együttes ülése elé.\n\n• **A szavazás kimenetelét** a PSD és az AUR képviselőinek támogatása határozta meg; a G4Media beszámolója szerint a két párt többsége a PNL kérelme ellen voksolt. A döntés következtében a bizottság összetételében nem történt változás.\n\n• **Florin Roman** Fehér megyei képviselőként szerepelt a PNL jelöltjeként. A javaslat elfogadása esetén ő került volna be a testületbe Prișcă helyett, de a parlamenti elutasítás után nem kapta meg ezt a helyet.\n\n• **Răzvan Prișcă párton belüli helyzete** kapcsán a cikk azt is közölte, hogy az elmúlt hónapokban több PNL-es képviselővel együtt bírósághoz fordultak a pártvezetés döntései miatt, amelyek Ilie Bolojanhoz kötődtek. A mostani parlamenti szavazás közvetlen következménye mindazonáltal az, hogy Prișcă megtartotta bizottsági tagságát.",
-    "title_ro": "Parlamentul a respins schimbarea propusă de PNL în comisia de control al SRI",
-    "lead_ro": "Parlamentul nu a aprobat solicitarea PNL de a-l înlocui pe Răzvan Prișcă cu Florin Roman în comisia care supraveghează activitatea SRI. În urma votului susținut de reprezentanții PSD și AUR, Prișcă își păstrează calitatea de membru al comisiei.",
-    "content_ro": "• **Decizia Parlamentului** îl menține pe Răzvan Prișcă în comisia parlamentară însărcinată cu verificarea activității Serviciului Român de Informații. Legislativul a respins propunerea PNL de modificare a componenței acestui for.\n\n• **Solicitarea liberalilor** prevedea ca Florin Roman să preia locul ocupat de Prișcă. Inițiativa a fost înaintată de grupurile PNL din Camera Deputaților și Senat și urma să fie discutată în ședința comună a celor două Camere.\n\n• **Votul final** a fost dat împotriva cererii PNL, iar relatarea G4Media atribuie rezultatului susținerea majorității formate din parlamentarii PSD și AUR. Prin urmare, comisia de control al SRI nu își schimbă componența în urma acestei proceduri.\n\n• **Florin Roman**, deputat de Alba, fusese desemnat de PNL drept candidat pentru locul vizat. Dacă propunerea ar fi trecut, el ar fi devenit membru al comisiei în locul lui Prișcă; respingerea a făcut ca această numire să nu se producă.\n\n• **Situația lui Răzvan Prișcă în PNL** este menționată și în legătură cu procese intentate de mai mulți parlamentari liberali în ultimele luni, referitoare la hotărâri ale partidului asociate cu Ilie Bolojan. Efectul imediat al votului parlamentar rămâne însă clar: Prișcă își păstrează poziția în comisia de supraveghere a SRI.",
-    "importance_score": 28.0
   },
   {
     "group_id": "group_236895d6d8",
@@ -6055,39 +6170,6 @@
     ]
   },
   {
-    "group_id": "group_03fb50c3b5",
-    "fingerprint": "5e51c6fec13388dcbc6102b35642da6e",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Luca Niculescu: La CNE Cernavodă a fost un incident tehnic. Niciodată nu a existat o pauză de 100 de zile",
-        "link": "https://stirileprotv.ro/stiri/financiar/luca-niculescu-la-cne-cernavoda-a-fost-un-incident-tehnic-niciodata-nu-a-existat-o-pauza-de-100-de-zile.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Scuza premierului Luca Niculescu după incidentul tehnic de la Cernavodă. „Niciodată nu au existat 100 de zile de întrerupere a funcționării reactoarelor”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/scuza-premierului-luca-niculescu-dupa-incidentul-2570339.html"
-      }
-    ],
-    "published_at": 1794310167,
-    "title_hu": "Műszaki hiba miatt leállt a cernavodai atomerőmű 1-es blokkja",
-    "lead_hu": "A Cernavodăi Atomerőmű 1-es blokkját egy nem nukleáris rendszert érintő meghibásodás miatt leválasztották a román villamosenergia-hálózatról. Luca Niculescu miniszterelnök ellenőrzéseket sürgetett, és hangsúlyozta az erőmű jelentőségét az ország energiabiztonságában.",
-    "content_hu": "• **A Cernavodăi Atomerőmű 1-es blokkját** hétfő este kapcsolták le az országos villamosenergia-rendszerről. A Nuclearelectrica közlése szerint a hibát az erőmű nem nukleáris részében észlelték; a szakemberek folyamatosan dolgoznak a javításon és a blokk mielőbbi újraindításán.\n\n• **Luca Niculescu miniszterelnök** kedden műszaki incidensként beszélt az esetről, amely elmondása szerint három hónapnyi szünet után következett be. Azt is közölte, hogy a két reaktor működésében korábban nem fordult elő száznapos leállás.\n\n• **Az erőmű az ország energiatermelésének csaknem ötödét adja**, ezért működése Románia energiabiztonsága szempontjából kiemelt jelentőségű. Niculescu szerint megkezdődött a helyzet elemzése, és a kormány kapcsolatot tart az energiaügyi tárcával, valamint a Nuclearelectrica szakembereivel.\n\n• **A téli időszak kilátásait a vízjárás is befolyásolhatja.** A miniszterelnök az addigi információk alapján nem számított rendkívül száraz télre, ugyanakkor a hosszabb távú célok között említette a hasonló helyzetek megelőzését.\n\n• **A Bala 2 projekt** Niculescu szerint több vizet biztosíthatna a cernavodai 1-es és 2-es blokk, valamint a tervezett 3-as és 4-es reaktor számára. A kormányfő ezt a létesítmény hosszú távú működését támogató fejlesztések egyikeként nevezte meg.",
-    "title_ro": "Unitatea 1 de la Cernavodă, oprită după o defecțiune tehnică",
-    "lead_ro": "Unitatea 1 a Centralei Nucleare de la Cernavodă a fost deconectată de la rețeaua electrică a României în urma unei defecțiuni apărute în partea nenucleară a instalației. Premierul Luca Niculescu a anunțat verificări și a subliniat rolul centralei în securitatea energetică a țării.",
-    "content_ro": "• **Unitatea 1 a Centralei Nucleare de la Cernavodă** a fost scoasă luni seară din Sistemul Energetic Național. Potrivit Nuclearelectrica, problema a apărut într-o componentă nenucleară, iar specialiștii lucrează în continuare pentru remediere și repornirea cât mai rapidă a reactorului.\n\n• **Premierul Luca Niculescu** a descris marți situația drept un incident tehnic, produs, potrivit explicației sale, după o pauză de trei luni. El a precizat că funcționarea celor două reactoare nu a fost întreruptă niciodată pentru o perioadă de 100 de zile.\n\n• **Centrala furnizează aproape 20% din producția de energie a României**, ceea ce o face importantă pentru securitatea energetică națională. Niculescu a spus că a început o analiză a incidentului și că menține legătura cu Ministerul Energiei și cu reprezentanții Nuclearelectrica.\n\n• **Condițiile hidrologice pot influența perspectiva pentru iarnă.** Pe baza informațiilor disponibile, premierul nu anticipa un sezon rece extrem de secetos, dar a indicat că prevenirea unor situații similare pe termen lung rămâne necesară.\n\n• **Proiectul Bala 2** ar putea asigura mai multă apă pentru reactoarele 1 și 2 de la Cernavodă, precum și pentru unitățile 3 și 4 planificate. Niculescu l-a prezentat ca pe o investiție relevantă pentru susținerea funcționării centralei în viitor.",
-    "importance_score": 28.0,
-    "slug": "muszaki-hiba-miatt-leallt-a-cernavodai-atomeromu-1-es-blokkja-03fb50",
-    "tags": [
-      "altalanos"
-    ]
-  },
-  {
     "group_id": "group_9de30bff8b",
     "fingerprint": "661e29c42dce01662e543d1bb965a25c",
     "category": "Általános",
@@ -6279,6 +6361,39 @@
     "content_ro": "• **Potrivit Ministerului rus al Apărării**, forțele ruse au lovit în Marea Neagră o navă de marfă și un petrolier. Sursa nu oferă informații despre starea navelor sau despre eventualele pagube.\n\n• **Numărul navelor de marfă este neclar:** titlul articolului menționează două astfel de nave, în timp ce textul propriu-zis vorbește despre una și despre un petrolier. Informațiile prezentate nu permit clarificarea acestei diferențe.\n\n• **Informația a fost transmisă de Interfax:** agenția rusă a relatat marți anunțul ministerului. G4Media indică faptul că informația a fost preluată prin Agerpres și Reuters.\n\n• **Afirmația nu este confirmată independent în articol:** materialul nu include o reacție ucraineană și nici detalii suplimentare despre locul sau momentul incidentului. Sursa furnizată nu precizează aceste aspecte.",
     "importance_score": 28.0,
     "slug": "orosz-bejelentes-szerint-hajokat-ert-talalat-a-fekete-tengeren-bdea81",
+    "tags": [
+      "altalanos"
+    ]
+  },
+  {
+    "group_id": "group_03fb50c3b5",
+    "fingerprint": "5e51c6fec13388dcbc6102b35642da6e",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Luca Niculescu: La CNE Cernavodă a fost un incident tehnic. Niciodată nu a existat o pauză de 100 de zile",
+        "link": "https://stirileprotv.ro/stiri/financiar/luca-niculescu-la-cne-cernavoda-a-fost-un-incident-tehnic-niciodata-nu-a-existat-o-pauza-de-100-de-zile.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Scuza premierului Luca Niculescu după incidentul tehnic de la Cernavodă. „Niciodată nu au existat 100 de zile de întrerupere a funcționării reactoarelor”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/scuza-premierului-luca-niculescu-dupa-incidentul-2570339.html"
+      }
+    ],
+    "published_at": 1794310167,
+    "title_hu": "Műszaki hiba miatt leállt a cernavodai atomerőmű 1-es blokkja",
+    "lead_hu": "A Cernavodăi Atomerőmű 1-es blokkját egy nem nukleáris rendszert érintő meghibásodás miatt leválasztották a román villamosenergia-hálózatról. Luca Niculescu miniszterelnök ellenőrzéseket sürgetett, és hangsúlyozta az erőmű jelentőségét az ország energiabiztonságában.",
+    "content_hu": "• **A Cernavodăi Atomerőmű 1-es blokkját** hétfő este kapcsolták le az országos villamosenergia-rendszerről. A Nuclearelectrica közlése szerint a hibát az erőmű nem nukleáris részében észlelték; a szakemberek folyamatosan dolgoznak a javításon és a blokk mielőbbi újraindításán.\n\n• **Luca Niculescu miniszterelnök** kedden műszaki incidensként beszélt az esetről, amely elmondása szerint három hónapnyi szünet után következett be. Azt is közölte, hogy a két reaktor működésében korábban nem fordult elő száznapos leállás.\n\n• **Az erőmű az ország energiatermelésének csaknem ötödét adja**, ezért működése Románia energiabiztonsága szempontjából kiemelt jelentőségű. Niculescu szerint megkezdődött a helyzet elemzése, és a kormány kapcsolatot tart az energiaügyi tárcával, valamint a Nuclearelectrica szakembereivel.\n\n• **A téli időszak kilátásait a vízjárás is befolyásolhatja.** A miniszterelnök az addigi információk alapján nem számított rendkívül száraz télre, ugyanakkor a hosszabb távú célok között említette a hasonló helyzetek megelőzését.\n\n• **A Bala 2 projekt** Niculescu szerint több vizet biztosíthatna a cernavodai 1-es és 2-es blokk, valamint a tervezett 3-as és 4-es reaktor számára. A kormányfő ezt a létesítmény hosszú távú működését támogató fejlesztések egyikeként nevezte meg.",
+    "title_ro": "Unitatea 1 de la Cernavodă, oprită după o defecțiune tehnică",
+    "lead_ro": "Unitatea 1 a Centralei Nucleare de la Cernavodă a fost deconectată de la rețeaua electrică a României în urma unei defecțiuni apărute în partea nenucleară a instalației. Premierul Luca Niculescu a anunțat verificări și a subliniat rolul centralei în securitatea energetică a țării.",
+    "content_ro": "• **Unitatea 1 a Centralei Nucleare de la Cernavodă** a fost scoasă luni seară din Sistemul Energetic Național. Potrivit Nuclearelectrica, problema a apărut într-o componentă nenucleară, iar specialiștii lucrează în continuare pentru remediere și repornirea cât mai rapidă a reactorului.\n\n• **Premierul Luca Niculescu** a descris marți situația drept un incident tehnic, produs, potrivit explicației sale, după o pauză de trei luni. El a precizat că funcționarea celor două reactoare nu a fost întreruptă niciodată pentru o perioadă de 100 de zile.\n\n• **Centrala furnizează aproape 20% din producția de energie a României**, ceea ce o face importantă pentru securitatea energetică națională. Niculescu a spus că a început o analiză a incidentului și că menține legătura cu Ministerul Energiei și cu reprezentanții Nuclearelectrica.\n\n• **Condițiile hidrologice pot influența perspectiva pentru iarnă.** Pe baza informațiilor disponibile, premierul nu anticipa un sezon rece extrem de secetos, dar a indicat că prevenirea unor situații similare pe termen lung rămâne necesară.\n\n• **Proiectul Bala 2** ar putea asigura mai multă apă pentru reactoarele 1 și 2 de la Cernavodă, precum și pentru unitățile 3 și 4 planificate. Niculescu l-a prezentat ca pe o investiție relevantă pentru susținerea funcționării centralei în viitor.",
+    "importance_score": 23.0,
+    "slug": "muszaki-hiba-miatt-leallt-a-cernavodai-atomeromu-1-es-blokkja-03fb50",
     "tags": [
       "altalanos"
     ]
@@ -6839,39 +6954,6 @@
     ]
   },
   {
-    "group_id": "group_9ad644099b",
-    "fingerprint": "2a55d29b7607440614c721f90851583f",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "România a rămas iar fără energie nucleară după ce Unitatea 1 de la Cernavodă a fost oprită, din cauza unei defecțiuni. „Nu este afectată siguranța nucleară”",
-        "link": "https://www.mediafax.ro/economic/romania-a-ramas-iar-fara-energie-nucleara-dupa-ce-unitatea-1-de-la-cernavoda-a-fost-oprita-din-cauza-unei-defectiuni-nu-este-afectata-siguranta-nucleara-23840484"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "De ce s-a oprit reactorul 1 de la Cernavodă. România este nevoită să importe masiv energie la prețuri mari",
-        "link": "https://hotnews.ro/de-ce-s-a-oprit-reactorul-1-de-la-cernavoda-romania-este-nevoita-sa-importe-masiv-energie-la-preturi-mari-2399764"
-      }
-    ],
-    "published_at": 1794299622,
-    "title_hu": "Három nappal az újraindítás után ismét leállt a cernavodai 1-es blokk",
-    "lead_hu": "A Cernavodăi atomerőmű 1-es blokkja hétfő este, három nappal az újraindítása után ismét kiesett a termelésből. A Nuclearelectrica szerint a meghibásodás a blokk nem nukleáris, hagyományos berendezéseit érintette; a kiesés idején Románia jelentős áramimportra szorult.",
-    "content_hu": "• **Hétfő este** leállt a cernavodai atomerőmű 1-es blokkja, amelyet pénteken, több mint három hónapos szünetet követően helyeztek ismét üzembe. A leállást megelőzően a blokk teljesítménye hétfő délben még 520 megawatt volt a 700 megawattos névleges értékből; néhány órával később az egység már nem termelt áramot.\n\n• **A meghibásodás a hagyományos rendszert érintette**, nem az erőmű nukleáris részét – közölte a Nuclearelectrica. A vállalat vezetője szerint a védelmi rendszerek megfelelően működtek, és az eset nem veszélyeztette a nukleáris biztonságot. A hiba okáról a közölt információk nem adnak teljes körű, hivatalos magyarázatot.\n\n• **A helyreállítást követően csütörtökre várták** a blokk hálózatra kapcsolását. A tervek szerint előbb a javításokat végzik el, majd szerdán folytatják az indítási folyamatot; a Transelectrica adatai déli, 12 órás csatlakozási időpontot jeleztek. Ezek előzetes ütemezések, nem a sikeres újraindítás megerősítései.\n\n• **A kiesés idején 3000 megawattot meghaladó áramimport vált szükségessé** a hazai ellátás biztosításához. A két cernavodai blokk együtt a romániai villamosenergia-termelés körülbelül ötödét adja, amikor mindkettő teljes kapacitással üzemel; ezért az 1-es egység kiesése számottevően növelte az importigényt.\n\n• **A Nuclearelectrica lecserélte az erőmű műszaki igazgatóját**, és helyreállítási intézkedéseket indított. A vállalat közlése szerint felgyorsítják a karbantartási eljárások felülvizsgálatát, valamint ellenőrzik a műszaki támogató folyamatokat. Eközben a 2-es blokk indításához kapcsolódó teszteket is végeztek.",
-    "title_ro": "Unitatea 1 de la Cernavodă s-a oprit din nou la trei zile după repornire",
-    "lead_ro": "Unitatea 1 a centralei de la Cernavodă a fost oprită luni seară, la trei zile după ce fusese repusă în funcțiune. Nuclearelectrica a precizat că defecțiunea a vizat echipamentele clasice, nu partea nucleară, iar România a avut nevoie de importuri importante de electricitate.",
-    "content_ro": "• **Luni seară**, Unitatea 1 de la Cernavodă a încetat să mai producă energie, după ce fusese repornită vineri, în urma unei întreruperi de peste trei luni. La mijlocul zilei de luni, reactorul furniza 520 de megawați dintr-o capacitate nominală de 700; câteva ore mai târziu, centrala s-a oprit complet.\n\n• **Defecțiunea a fost localizată la partea clasică a unității**, potrivit Nuclearelectrica, și nu a afectat componenta nucleară. Conducerea companiei a transmis că sistemele de protecție au funcționat, iar securitatea nucleară nu a fost pusă în pericol. Informațiile publicate nu oferă o explicație oficială completă privind cauza tehnică a avariei.\n\n• **Reconectarea la rețea era estimată pentru joi**, după efectuarea reparațiilor și reluarea procedurilor de pornire, programată pentru miercuri. Datele Transelectrica indicau ora 12:00 pentru conectarea unității, însă acest termen reprezenta o estimare, nu confirmarea repunerii efective în funcțiune.\n\n• **Importurile de energie au depășit 3.000 de megawați** în perioada în care reactorul nu a funcționat, pe fondul necesității de a acoperi consumul intern. Atunci când ambele unități de la Cernavodă operează la capacitate maximă, ele asigură aproximativ o cincime din producția națională de electricitate; oprirea Unității 1 a mărit astfel necesarul de energie din exterior.\n\n• **Nuclearelectrica a schimbat directorul tehnic al centralei** și a anunțat măsuri pentru îmbunătățirea activităților operaționale. Planul companiei include verificarea accelerată a procedurilor de mentenanță și analizarea proceselor tehnice de suport. În paralel, au fost efectuate teste legate de pornirea Unității 2.",
-    "importance_score": 23.0,
-    "slug": "harom-nappal-az-ujrainditas-utan-ismet-leallt-a-cernavodai-1-es-blokk-9ad644",
-    "tags": [
-      "altalanos"
-    ]
-  },
-  {
     "group_id": "group_57e5985332",
     "slug": "ce-partide-straine-sunt-invitate-la-protestul-aur--57e598",
     "tags": [
@@ -7223,6 +7305,37 @@
     "tags": [
       "altalanos"
     ]
+  },
+  {
+    "group_id": "group_963a55e84a",
+    "slug": "cat-costa-sa-renovezi-un-apartament-in-2026-un-buc-963a55",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cât costă să renovezi un apartament în 2026. Un bucureștean a oferit 5.000 de euro și a fost luat în râs",
+        "link": "https://adevarul.ro/stiri-interne/societate/cat-costa-sa-renovezi-un-apartament-in-2026-un-2569712.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Cât costă un apartament cu 2 camere în Cluj, la finalul lui 2026. E mai scump decât în București",
+        "link": "https://www.cancan.ro/cat-costa-un-apartament-cu-2-camere-in-cluj-la-finalul-lui-2026-e-mai-scump-decat-in-bucuresti-21545220"
+      }
+    ],
+    "published_at": 1794268945,
+    "title_hu": "Cât costă să renovezi un apartament în 2026. Un bucureștean a oferit 5.000 de euro și a fost luat în râs",
+    "lead_hu": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
+    "content_hu": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
+    "title_ro": "Cât costă să renovezi un apartament în 2026. Un bucureștean a oferit 5.000 de euro și a fost luat în râs",
+    "lead_ro": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
+    "content_ro": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
+    "importance_score": 20.0
   },
   {
     "group_id": "group_0e94b6fa0a",
@@ -7632,6 +7745,136 @@
     "lead_ro": "Senatoarea Nicoleta Pauliuc a cerut să nu mai fie filmată, pe holurile Parlamentului, când reporterii Context.ro au întrebat-o detalii despre avere, în contextul în care din acest an politicienii nu m…",
     "content_ro": "Senatoarea Nicoleta Pauliuc a cerut să nu mai fie filmată, pe holurile Parlamentului, când reporterii Context.ro au întrebat-o detalii despre avere, în contextul în care din acest an politicienii nu mai sunt obligați să-și publice declarațiile de avere, conform unei decizii a Curții Constituționale din august 2026. Mai mult, senatoarea împinge cu degetul microfonul reporterului […] © G4Media.ro.",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_21d4bb99af",
+    "slug": "reputatul-chirurg-oradean-adrian-duse-intr-o-alta-lumina-expozitie-de-fotografii-21d4bb",
+    "tags": [
+      "erdely"
+    ],
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Reputatul chirurg orădean Adrian Dușe, într-o altă lumină: expoziție de fotografii cu apusuri de soare, la Cetate (FOTO)",
+        "link": "https://www.ebihoreanul.ro/stiri/reputatul-chirurg-oradean-adrian-duse-intr-o-alta-lumina-expozitie-de-fotografii-cu-apusuri-de-soare-la-cetate-206497.html"
+      }
+    ],
+    "published_at": 1794331860,
+    "title_hu": "Reputatul chirurg orădean Adrian Dușe, într-o altă lumină: expoziție de fotografii cu apusuri de soare, la Cetate (FOTO)",
+    "lead_hu": "Reputatul chirurg orădean Adrian Dușe, șeful Secției de Chirurgie Generală II a Spitalului Județean și fost manager al unității medicale, își dezvăluie o altă pasiune: fotografia. Medicul va vernisa j...",
+    "content_hu": "Reputatul chirurg orădean Adrian Dușe, șeful Secției de Chirurgie Generală II a Spitalului Județean și fost manager al unității medicale, își dezvăluie o altă pasiune: fotografia. Medicul va vernisa joi, 12 noiembrie, în Cetatea Oradea, o expoziție cu 35 de fotografii dedicate apusurilor de soare, realizate cu telefonul mobil.",
+    "title_ro": "Reputatul chirurg orădean Adrian Dușe, într-o altă lumină: expoziție de fotografii cu apusuri de soare, la Cetate (FOTO)",
+    "lead_ro": "Reputatul chirurg orădean Adrian Dușe, șeful Secției de Chirurgie Generală II a Spitalului Județean și fost manager al unității medicale, își dezvăluie o altă pasiune: fotografia. Medicul va vernisa j...",
+    "content_ro": "Reputatul chirurg orădean Adrian Dușe, șeful Secției de Chirurgie Generală II a Spitalului Județean și fost manager al unității medicale, își dezvăluie o altă pasiune: fotografia. Medicul va vernisa joi, 12 noiembrie, în Cetatea Oradea, o expoziție cu 35 de fotografii dedicate apusurilor de soare, realizate cu telefonul mobil.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_4705fb62e3",
+    "slug": "ce-inseamna-deficitul-bugetar-nicusor-dan-vine-cu-exemple-si-avertizeaza-cheltui-4705fb",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Ce înseamnă deficitul bugetar? Nicușor Dan vine cu exemple și avertizează: Cheltuim fără să avem",
+        "link": "https://www.mediafax.ro/politic/ce-inseamna-deficitul-bugetar-nicusor-dan-vine-cu-exemple-si-avertizeaza-cheltuim-fara-sa-avem-23841082"
+      }
+    ],
+    "published_at": 1794331782,
+    "title_hu": "Ce înseamnă deficitul bugetar? Nicușor Dan vine cu exemple și avertizează: Cheltuim fără să avem",
+    "lead_hu": "Deficitul bugetar apare atunci când statul cheltuiește mai mulți bani decât încasează din taxe, impozite și alte venituri. Diferența trebuie acoperită prin împrumuturi, iar acest lucru înseamnă că dat...",
+    "content_hu": "Deficitul bugetar apare atunci când statul cheltuiește mai mulți bani decât încasează din taxe, impozite și alte venituri. Diferența trebuie acoperită prin împrumuturi, iar acest lucru înseamnă că datoria publică poate crește și că statul ajunge să plătească dobânzi tot mai mari, spune Nicușor Dan.",
+    "title_ro": "Ce înseamnă deficitul bugetar? Nicușor Dan vine cu exemple și avertizează: Cheltuim fără să avem",
+    "lead_ro": "Deficitul bugetar apare atunci când statul cheltuiește mai mulți bani decât încasează din taxe, impozite și alte venituri. Diferența trebuie acoperită prin împrumuturi, iar acest lucru înseamnă că dat...",
+    "content_ro": "Deficitul bugetar apare atunci când statul cheltuiește mai mulți bani decât încasează din taxe, impozite și alte venituri. Diferența trebuie acoperită prin împrumuturi, iar acest lucru înseamnă că datoria publică poate crește și că statul ajunge să plătească dobânzi tot mai mari, spune Nicușor Dan.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_30f1278b24",
+    "slug": "amikor-teged-is-megertenek-fuggoseggel-elok-hozzatartozoit-varjak-marosvasarhely-30f127",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "RomKat",
+        "title": "Amikor téged is megértenek: függőséggel élők hozzátartozóit várják Marosvásárhelyen",
+        "link": "https://romkat.ro/2026/11/10/amikor-teged-is-megertenek-fuggoseggel-elok-hozzatartozoit-varjak-marosvasarhelyen/"
+      }
+    ],
+    "published_at": 1794331461,
+    "title_hu": "Amikor téged is megértenek: függőséggel élők hozzátartozóit várják Marosvásárhelyen",
+    "lead_hu": "Hozzátartozók konferenciájára hívja a Bonus Pastor Alapítvány azokat, akik függőséggel terhelt családban élnek. A november 13-14-én Marosvásárhelyen tartandó rendezvény minden érintettnek szól, legyen...",
+    "content_hu": "Hozzátartozók konferenciájára hívja a Bonus Pastor Alapítvány azokat, akik függőséggel terhelt családban élnek. A november 13-14-én Marosvásárhelyen tartandó rendezvény minden érintettnek szól, legyen az gyerek, szülő, élettárs vagy rokon. Az eseményen nem csak ismerkedésre és tapasztalatcserére lehet számítani, hanem a megszokottból való kilépésre és a fellélegzésre is lesz lehetőség. A családtag függőségébe mindenki belefárad, hisz […]",
+    "title_ro": "Amikor téged is megértenek: függőséggel élők hozzátartozóit várják Marosvásárhelyen",
+    "lead_ro": "Hozzátartozók konferenciájára hívja a Bonus Pastor Alapítvány azokat, akik függőséggel terhelt családban élnek. A november 13-14-én Marosvásárhelyen tartandó rendezvény minden érintettnek szól, legyen...",
+    "content_ro": "Hozzátartozók konferenciájára hívja a Bonus Pastor Alapítvány azokat, akik függőséggel terhelt családban élnek. A november 13-14-én Marosvásárhelyen tartandó rendezvény minden érintettnek szól, legyen az gyerek, szülő, élettárs vagy rokon. Az eseményen nem csak ismerkedésre és tapasztalatcserére lehet számítani, hanem a megszokottból való kilépésre és a fellélegzésre is lesz lehetőség. A családtag függőségébe mindenki belefárad, hisz […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_553c93a9f9",
+    "slug": "procurorii-au-finalizat-ancheta-in-cel-mai-mare-scandal-din-lumea-medicala-se-ce-553c93",
+    "tags": [
+      "bulvar"
+    ],
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Procurorii au finalizat ancheta în cel mai mare scandal din lumea medicală. Se cer daune morale de 4 milioane de lei",
+        "link": "https://stirileprotv.ro/stiri/actualitate/procurorii-au-finalizat-ancheta-in-cel-mai-mare-scandal-din-lumea-medicala-se-cer-daune-morale-de-4-milioane-de-lei.html"
+      }
+    ],
+    "published_at": 1794331412,
+    "title_hu": "Procurorii au finalizat ancheta în cel mai mare scandal din lumea medicală. Se cer daune morale de 4 milioane de lei",
+    "lead_hu": "Patru medici de terapie intensivă vor fi judecați, în premieră, pentru acuzații de omor calificat, tentativă de omor sau încercarea de a determina un omor. Procurorii Parchetului Capitalei au finaliza...",
+    "content_hu": "Patru medici de terapie intensivă vor fi judecați, în premieră, pentru acuzații de omor calificat, tentativă de omor sau încercarea de a determina un omor. Procurorii Parchetului Capitalei au finalizat ancheta în cel mai mare scandal din lumea medicală.",
+    "title_ro": "Procurorii au finalizat ancheta în cel mai mare scandal din lumea medicală. Se cer daune morale de 4 milioane de lei",
+    "lead_ro": "Patru medici de terapie intensivă vor fi judecați, în premieră, pentru acuzații de omor calificat, tentativă de omor sau încercarea de a determina un omor. Procurorii Parchetului Capitalei au finaliza...",
+    "content_ro": "Patru medici de terapie intensivă vor fi judecați, în premieră, pentru acuzații de omor calificat, tentativă de omor sau încercarea de a determina un omor. Procurorii Parchetului Capitalei au finalizat ancheta în cel mai mare scandal din lumea medicală.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ccf26c4c75",
+    "slug": "franois-regis-mouton-de-lostalot-seful-pe-europa-al-asociatiei-internationale-a--ccf26c",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "François-Régis Mouton de Lostalot, șeful pe Europa al Asociației Internaționale a Producătorilor de Petrol și Gaze, la RIEC: Marea Neagră este într-adevăr următoarea Mare a Nordului",
+        "link": "https://www.mediafax.ro/economic/francois-regis-mouton-de-lostalot-seful-pe-europa-al-asociatiei-internationale-a-producatorilor-de-petrol-si-gaze-la-riec-marea-neagra-este-intr-adevar-urmatoarea-mare-a-nordului-23841056"
+      }
+    ],
+    "published_at": 1794331246,
+    "title_hu": "François-Régis Mouton de Lostalot, șeful pe Europa al Asociației Internaționale a Producătorilor de Petrol și Gaze, la RIEC: Marea Neagră este într-adevăr următoarea Mare a Nordului",
+    "lead_hu": "Marea Neagră, unde în câteva luni este așteptat startul producției de gaze în perimetrul de mare adâncime Neptun Deep, este următoarea Mare a Nordului, a declarat François-Régis Mouton de Lostalot, di...",
+    "content_hu": "Marea Neagră, unde în câteva luni este așteptat startul producției de gaze în perimetrul de mare adâncime Neptun Deep, este următoarea Mare a Nordului, a declarat François-Régis Mouton de Lostalot, director general pentru Europa al Asociației Internaționale a Producătorilor de Petrol și Gaze, ca răspuns la întrebările reporterului Mediafax, cu ocazia celei de-a VIII-a ediții a Romanian International Energy Conference (RIEC), derulată marți la București.",
+    "title_ro": "François-Régis Mouton de Lostalot, șeful pe Europa al Asociației Internaționale a Producătorilor de Petrol și Gaze, la RIEC: Marea Neagră este într-adevăr următoarea Mare a Nordului",
+    "lead_ro": "Marea Neagră, unde în câteva luni este așteptat startul producției de gaze în perimetrul de mare adâncime Neptun Deep, este următoarea Mare a Nordului, a declarat François-Régis Mouton de Lostalot, di...",
+    "content_ro": "Marea Neagră, unde în câteva luni este așteptat startul producției de gaze în perimetrul de mare adâncime Neptun Deep, este următoarea Mare a Nordului, a declarat François-Régis Mouton de Lostalot, director general pentru Europa al Asociației Internaționale a Producătorilor de Petrol și Gaze, ca răspuns la întrebările reporterului Mediafax, cu ocazia celei de-a VIII-a ediții a Romanian International Energy Conference (RIEC), derulată marți la București.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_ea97c4f27f",
@@ -8723,32 +8966,6 @@
     "title_ro": "Mai puțini nutrienți în alimentele de azi? Ce arată studiile și ce rol au suplimentele alimentare în susținerea sănătății",
     "lead_ro": "Avem acces la mai multe alimente ca oricând, dar asta nu înseamnă automat că organismul primește toți nutrienții de care are nevoie. Unele analize europene au identificat scăderi ale concentrației anu...",
     "content_ro": "Avem acces la mai multe alimente ca oricând, dar asta nu înseamnă automat că organismul primește toți nutrienții de care are nevoie. Unele analize europene au identificat scăderi ale concentrației anumitor minerale în alimentele studiate, în timp ce ritmul alert al vieții moderne ne determină ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e0d89e9edc",
-    "slug": "romanii-din-germania-luati-la-tinta-si-de-extrema-stanga-dupa-extrema-dreapta-ar-e0d89e",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz într-un mesaj în limba germană: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot”",
-        "link": "https://www.g4media.ro/romanii-din-germania-luati-la-tinta-si-de-extrema-stanga-dupa-extrema-dreapta-arata-dominic-fritz-intr-un-mesaj-in-limba-germana-retorica-aceasta-agresiva-a-extremistilor-e-la-fel-peste-t.html"
-      }
-    ],
-    "published_at": 1794326625,
-    "title_hu": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz într-un mesaj în limba germană: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot”",
-    "lead_hu": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă ...",
-    "content_hu": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot. Soluția lor e să găsească un țap ispășitor”, spune fostul primar al Timișoarei. Încă o doamnă din politica […] © G4Media.ro.",
-    "title_ro": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz într-un mesaj în limba germană: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot”",
-    "lead_ro": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă ...",
-    "content_ro": "Românii din Germania, luați la țintă și de extrema stângă, după extrema dreaptă, arată Dominic Fritz (USR) într-un mesaj în limba germană, transmis pe Facebook marți seară: ”Retorica aceasta agresivă a extremiștilor e la fel peste tot. Soluția lor e să găsească un țap ispășitor”, spune fostul primar al Timișoarei. Încă o doamnă din politica […] © G4Media.ro.",
     "importance_score": 0.0
   },
   {
@@ -20790,32 +21007,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_963a55e84a",
-    "slug": "cat-costa-sa-renovezi-un-apartament-in-2026-un-buc-963a55",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Cât costă să renovezi un apartament în 2026. Un bucureștean a oferit 5.000 de euro și a fost luat în râs",
-        "link": "https://adevarul.ro/stiri-interne/societate/cat-costa-sa-renovezi-un-apartament-in-2026-un-2569712.html"
-      }
-    ],
-    "published_at": 1794268945,
-    "title_hu": "Cât costă să renovezi un apartament în 2026. Un bucureștean a oferit 5.000 de euro și a fost luat în râs",
-    "lead_hu": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
-    "content_hu": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
-    "title_ro": "Cât costă să renovezi un apartament în 2026. Un bucureștean a oferit 5.000 de euro și a fost luat în râs",
-    "lead_ro": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
-    "content_ro": "Renovarea unui apartament vechi din București sau Kolozsvár poate să coste între 20.000 și 50.000 de euro, o sumă care echivalează în multe situații cu un apartament cumpărat într-un oraș mic.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_88d9366d43",
     "slug": "efemeride-astronomice-10-noiembrie-88d936",
     "tags": [
@@ -24066,162 +24257,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_b76e7b1490",
-    "slug": "cum-a-reactionat-frankie-dupa-ce-bianca-ghiurca-a--b76e7b",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Cum a reacționat Frankie după ce Bianca Ghiurcă a râs de ea pentru că seamănă cu Monica Tatoiu: „Încep să mă gândesc serios că…”",
-        "link": "https://www.cancan.ro/cum-a-reactionat-frankie-dupa-ce-bianca-ghiurca-a-ras-de-ea-pentru-ca-seamana-cu-monica-tatoiu-incep-sa-ma-gandesc-serios-ca-21544461"
-      }
-    ],
-    "published_at": 1794245403,
-    "title_hu": "Cum a reacționat Frankie după ce Bianca Ghiurcă a râs de ea pentru că seamănă cu Monica Tatoiu: „Încep să mă gândesc serios că…”",
-    "lead_hu": "Un schimb de replici cu tentă ironică a avut loc între Bianca Ghiurcă și Frankie, una dintre cele mai cunoscute ispite din sezonul 10 al Insulei Iubirii. Totul a pornit de la o postare distribuită de …",
-    "content_hu": "Un schimb de replici cu tentă ironică a avut loc între Bianca Ghiurcă și Frankie, una dintre cele mai cunoscute ispite din sezonul 10 al Insulei Iubirii. Totul a pornit de la o postare distribuită de fosta concurentă, care a stârnit imediat reacții în mediul online. Bianca Ghiurcă a publicat pe rețelele sociale o fotografie […]",
-    "title_ro": "Cum a reacționat Frankie după ce Bianca Ghiurcă a râs de ea pentru că seamănă cu Monica Tatoiu: „Încep să mă gândesc serios că…”",
-    "lead_ro": "Un schimb de replici cu tentă ironică a avut loc între Bianca Ghiurcă și Frankie, una dintre cele mai cunoscute ispite din sezonul 10 al Insulei Iubirii. Totul a pornit de la o postare distribuită de …",
-    "content_ro": "Un schimb de replici cu tentă ironică a avut loc între Bianca Ghiurcă și Frankie, una dintre cele mai cunoscute ispite din sezonul 10 al Insulei Iubirii. Totul a pornit de la o postare distribuită de fosta concurentă, care a stârnit imediat reacții în mediul online. Bianca Ghiurcă a publicat pe rețelele sociale o fotografie […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c4497fedc0",
-    "slug": "ionel-ganea-amendeaza-schimbarea-de-discurs-a-lui--c4497f",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Ionel Ganea amendează schimbarea de discurs a lui Daniel Pancu: „E greșit, el trebuie să facă altceva!”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/ionel-ganea-amendeaza-schimbarea-discurs-daniel-pancu-trebuie-sa-faca-altceva-997741.html"
-      }
-    ],
-    "published_at": 1794245358,
-    "title_hu": "Ionel Ganea amendează schimbarea de discurs a lui Daniel Pancu: „E greșit, el trebuie să facă altceva!”",
-    "lead_hu": "Ultimele rezultate ale Rapidului, care a scos doar 4 puncte din ultimele patru partide (inclusiv remiza albă din Cupă, cu Corvinul), dar și declarațiile lui Daniel Pancu au dat senzația că în vestiaru…",
-    "content_hu": "Ultimele rezultate ale Rapidului, care a scos doar 4 puncte din ultimele patru partide (inclusiv remiza albă din Cupă, cu Corvinul), dar și declarațiile lui Daniel Pancu au dat senzația că în vestiarul giuleștenilor au reapărut problemele. ...",
-    "title_ro": "Ionel Ganea amendează schimbarea de discurs a lui Daniel Pancu: „E greșit, el trebuie să facă altceva!”",
-    "lead_ro": "Ultimele rezultate ale Rapidului, care a scos doar 4 puncte din ultimele patru partide (inclusiv remiza albă din Cupă, cu Corvinul), dar și declarațiile lui Daniel Pancu au dat senzația că în vestiaru…",
-    "content_ro": "Ultimele rezultate ale Rapidului, care a scos doar 4 puncte din ultimele patru partide (inclusiv remiza albă din Cupă, cu Corvinul), dar și declarațiile lui Daniel Pancu au dat senzația că în vestiarul giuleștenilor au reapărut problemele. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e0eb5ca109",
-    "slug": "greseala-care-l-a-costat-viata-pe-darius-tanarul-d-e0eb5c",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Greșeala care l-a costat viața pe Darius, tânărul de 21 de ani care a murit în Masivul Retezat",
-        "link": "https://www.cancan.ro/greseala-care-l-a-costat-viata-pe-darius-tanarul-de-21-de-ani-care-a-murit-in-masivul-retezat-21544527"
-      }
-    ],
-    "published_at": 1794245240,
-    "title_hu": "Greșeala care l-a costat viața pe Darius, tânărul de 21 de ani care a murit în Masivul Retezat",
-    "lead_hu": "O excursie pe munte s-a transformat într-o tragedie pentru un tânăr de 21 de ani. Darius și-a pierdut viața în Masivul Retezat, după ce ar fi alunecat pe o porțiune acoperită cu gheață, potrivit celor…",
-    "content_hu": "O excursie pe munte s-a transformat într-o tragedie pentru un tânăr de 21 de ani. Darius și-a pierdut viața în Masivul Retezat, după ce ar fi alunecat pe o porțiune acoperită cu gheață, potrivit celor care îl însoțeau. Tânărul plecase sâmbătă într-o drumeție alături de mai mulți prieteni în Masivul Retezat. Incidentul s-a produs pe […]",
-    "title_ro": "Greșeala care l-a costat viața pe Darius, tânărul de 21 de ani care a murit în Masivul Retezat",
-    "lead_ro": "O excursie pe munte s-a transformat într-o tragedie pentru un tânăr de 21 de ani. Darius și-a pierdut viața în Masivul Retezat, după ce ar fi alunecat pe o porțiune acoperită cu gheață, potrivit celor…",
-    "content_ro": "O excursie pe munte s-a transformat într-o tragedie pentru un tânăr de 21 de ani. Darius și-a pierdut viața în Masivul Retezat, după ce ar fi alunecat pe o porțiune acoperită cu gheață, potrivit celor care îl însoțeau. Tânărul plecase sâmbătă într-o drumeție alături de mai mulți prieteni în Masivul Retezat. Incidentul s-a produs pe […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_40bd0f86df",
-    "slug": "ludovic-orban-visszater-a-pnl-be-a-pereskedoket-ki-40bd0f",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Ludovic Orban visszatér a PNL-be, a pereskedőket kizárás fenyegeti",
-        "link": "https://maszol.ro/belfold/Ludovic-Orban-visszater-a-PNL-be-a-pereskedoket-kizaras-fenyegeti"
-      }
-    ],
-    "published_at": 1794245220,
-    "title_hu": "Ludovic Orban visszatér a PNL-be, a pereskedőket kizárás fenyegeti",
-    "lead_hu": "Vezetőszerepet szánnak a PNL-ben Ludovic Orbannak, miközben a belső ellenzéket kizárnák a parlamenti frakcióból.",
-    "content_hu": "Vezetőszerepet szánnak a PNL-ben Ludovic Orbannak, miközben a belső ellenzéket kizárnák a parlamenti frakcióból.",
-    "title_ro": "Ludovic Orban visszatér a PNL-be, a pereskedőket kizárás fenyegeti",
-    "lead_ro": "Vezetőszerepet szánnak a PNL-ben Ludovic Orbannak, miközben a belső ellenzéket kizárnák a parlamenti frakcióból.",
-    "content_ro": "Vezetőszerepet szánnak a PNL-ben Ludovic Orbannak, miközben a belső ellenzéket kizárnák a parlamenti frakcióból.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_f4bdebbaaf",
-    "slug": "o-romanca-e-judecata-in-italia-dupa-ce-a-incercat--f4bdeb",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "O româncă e judecată în Italia după ce a încercat să-și vândă copilul / E acuzată de fals în declarații",
-        "link": "https://www.g4media.ro/o-romanca-e-judecata-in-italia-dupa-ce-a-incercat-sa-si-vanda-copilul-e-acuzata-de-fals-in-declaratii.html"
-      }
-    ],
-    "published_at": 1794245195,
-    "title_hu": "O româncă e judecată în Italia după ce a încercat să-și vândă copilul / E acuzată de fals în declarații",
-    "lead_hu": "Luminița Pîrvu, o româncă stabilită în Italia este judecată pentru fals în declarații după ce ar fi încercat să-și vândă copilul, relatează ANSA. Ea a născut în urmă cu șase ani, la spitalul „Vittorio…",
-    "content_hu": "Luminița Pîrvu, o româncă stabilită în Italia este judecată pentru fals în declarații după ce ar fi încercat să-și vândă copilul, relatează ANSA. Ea a născut în urmă cu șase ani, la spitalul „Vittorio Emanuele” din Gela (Caltanissetta, în centrul Siciliei) ar fi cedat nou-născutul unui cuplu din Mazzarino, din aceiași zonă. Femeia este acuzată […] © G4Media.ro.",
-    "title_ro": "O româncă e judecată în Italia după ce a încercat să-și vândă copilul / E acuzată de fals în declarații",
-    "lead_ro": "Luminița Pîrvu, o româncă stabilită în Italia este judecată pentru fals în declarații după ce ar fi încercat să-și vândă copilul, relatează ANSA. Ea a născut în urmă cu șase ani, la spitalul „Vittorio…",
-    "content_ro": "Luminița Pîrvu, o româncă stabilită în Italia este judecată pentru fals în declarații după ce ar fi încercat să-și vândă copilul, relatează ANSA. Ea a născut în urmă cu șase ani, la spitalul „Vittorio Emanuele” din Gela (Caltanissetta, în centrul Siciliei) ar fi cedat nou-născutul unui cuplu din Mazzarino, din aceiași zonă. Femeia este acuzată […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4b6bb21c25",
-    "slug": "ce-i-transmite-constantin-toma-lui-grindeanu-dupa--4b6bb2",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Ce-i transmite Constantin Toma lui Grindeanu după a fost comparat cu Olguța Vasilescu. „În loc să fie preocupat de câte ori apar eu la televizor”",
-        "link": "https://hotnews.ro/ce-i-transmite-constantin-toma-lui-grindeanu-dupa-a-fost-comparat-cu-olguta-vasilescu-in-loc-sa-fie-preocupat-de-cate-ori-apar-eu-la-televizor-2398949"
-      }
-    ],
-    "published_at": 1794245073,
-    "title_hu": "Ce-i transmite Constantin Toma lui Grindeanu după a fost comparat cu Olguța Vasilescu. „În loc să fie preocupat de câte ori apar eu la televizor”",
-    "lead_hu": "Primarul Buzăului, Constantin Toma, i-a răspuns luni președintelui PSD, Sorin Grindeanu, care i-a reproșat pierderea a 80 de milioane de euro din PNRR pentru anveloparea blocurilor. Edilul spune că pr…",
-    "content_hu": "Primarul Buzăului, Constantin Toma, i-a răspuns luni președintelui PSD, Sorin Grindeanu, care i-a reproșat pierderea a 80 de milioane de euro din PNRR pentru anveloparea blocurilor. Edilul spune că problema ține de birocrație și de procedurile greoaie, că se caută surse alternative de finanțare și că, de când este primar, a atras investiții de peste …",
-    "title_ro": "Ce-i transmite Constantin Toma lui Grindeanu după a fost comparat cu Olguța Vasilescu. „În loc să fie preocupat de câte ori apar eu la televizor”",
-    "lead_ro": "Primarul Buzăului, Constantin Toma, i-a răspuns luni președintelui PSD, Sorin Grindeanu, care i-a reproșat pierderea a 80 de milioane de euro din PNRR pentru anveloparea blocurilor. Edilul spune că pr…",
-    "content_ro": "Primarul Buzăului, Constantin Toma, i-a răspuns luni președintelui PSD, Sorin Grindeanu, care i-a reproșat pierderea a 80 de milioane de euro din PNRR pentru anveloparea blocurilor. Edilul spune că problema ține de birocrație și de procedurile greoaie, că se caută surse alternative de finanțare și că, de când este primar, a atras investiții de peste …",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_ed068e267f",
     "fingerprint": "6cad64110a9382e3147634df6e377318",
     "category": "Általános",
@@ -24438,44 +24473,6 @@
     ]
   },
   {
-    "group_id": "group_b2551ffba9",
-    "fingerprint": "97477bbee915ad217e3866950995903f",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Fals magistrat: ar fi încasat 50.000 de euro pentru a promite soluționarea unor dosare penale",
-        "link": "https://www.mediafax.ro/social/fals-magistrat-ar-fi-incasat-50-000-de-euro-pentru-a-promite-solutionarea-unor-dosare-penale-23840704"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un bărbat din Bistrița s-ar fi dat drept procuror și ar fi încasat 50.000 de euro pentru a „rezolva” dosare penale",
-        "link": "https://stirileprotv.ro/stiri/actualitate/un-barbat-din-bistrita-s-ar-fi-dat-drept-procuror-si-ar-fi-incasat-50-000-de-euro-pentru-a-rezolva-dosare-penale.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Un fals procuror din Bistrița a fost prins în flagrant după ce ar fi cerut zeci de mii de euro pentru „a rezolva” dosare penale",
-        "link": "https://www.digi24.ro/stiri/un-fals-procuror-din-bistrita-a-fost-prins-in-flagrant-dupa-ce-ar-fi-cerut-zeci-de-mii-de-euro-pentru-a-rezolva-dosare-penale-4029669"
-      }
-    ],
-    "published_at": 1794314833,
-    "title_hu": "Hamis igazolványt is találtak a magát ügyésznek kiadó férfinál",
-    "lead_hu": "A 34 éves férfit november 9-én, Beszterce belvárosában fogták el, miután a gyanú szerint magisztrátusnak adta ki magát és két embernek kedvező ügyintézést ígért büntetőügyeikben. A nála talált készpénz mellett egy hamis igazolványt is felfedeztek; az ügyben a házkutatások és a 24 órás őrizetbe vétel után folytatódik a nyomozás.",
-    "content_hu": "• **November 9-én, Beszterce történelmi központjában** fogták el a 34 éves, Monariu településen lakó férfit. A gyanú szerint egy megyei ügyészségi egység magisztrátusának adta ki magát, és azt állította, hogy befolyásolni tud más bírákat, illetve ügyészeket.\n\n• **A feltételezett pénzügyi ügylet értéke mintegy 50 ezer euró** lehetett: a férfi a hatóságok szerint két embertől, több részletben kért és vett át pénzt azért, hogy büntetőügyeik kedvező lezárását ígérje. A nyomozás szerint az állított közbenjárási lehetősége nem volt valós.\n\n• **A gyanú szerinti megtévesztést hamis iratokkal is erősítette.** Ügyészségek, bíróságok és rendőri szervek nevében kiállítottnak tűnő dokumentumokat készíthetett és használhatott, amelyek valótlanul kedvező ügykimenetelt tüntettek fel. A Digi24 beszámolója szerint hamis igazolványt is találtak nála.\n\n• **Az elfogáskor 2 ezer euró és 1700 lej volt a férfinál**, az euróösszeg a gyanú szerint az egyik érintettől származott. A rendőrök ezután négy házkutatást tartottak; 10 ezer eurót, feltételezetten hamis dokumentumokat, adathordozókat, 15 mobiltelefont és egy autót foglaltak le.\n\n• **A férfit 24 órára őrizetbe vették**, majd a Beszterce-Năsăud megyei rendőrség fogdájába szállították. Befolyással üzérkedés, befolyás vásárlása, hivatalos iratok hamisítása és hamis iratok használata miatt folyik ellene eljárás; a további megelőző intézkedésről bíróság dönthet, a nyomozás folytatódik.",
-    "title_ro": "Legitimație falsă, găsită asupra bărbatului care s-ar fi dat drept procuror",
-    "lead_ro": "Bărbatul de 34 de ani a fost prins pe 9 noiembrie în centrul orașului Bistrița, fiind suspectat că s-a prezentat drept magistrat și a promis soluții favorabile în două dosare penale. Pe lângă bani, anchetatorii ar fi găsit asupra lui și o legitimație falsă; cercetările continuă după percheziții și reținerea sa pentru 24 de ore.",
-    "content_ro": "• **La 9 noiembrie, în centrul istoric al municipiului Bistrița**, polițiștii l-au prins pe bărbatul de 34 de ani, domiciliat în Monariu. Potrivit anchetei, acesta s-ar fi prezentat ca magistrat al unei unități de parchet din județ și ar fi susținut că poate influența alți magistrați.\n\n• **Suma implicată ar fi fost de aproximativ 50.000 de euro.** Anchetatorii susțin că bărbatul ar fi primit bani în mai multe tranșe de la două persoane, promițând intervenții pentru soluționarea favorabilă a dosarelor lor penale. Influența invocată nu ar fi fost reală.\n\n• **Pentru a face credibile promisiunile, ar fi folosit documente falsificate.** Acestea păreau emise de parchete, instanțe și structuri ale Poliției Române și ar fi indicat în mod neadevărat rezultate favorabile în cauze penale. Digi24 a relatat și că asupra suspectului a fost găsită o legitimație falsă.\n\n• **La momentul prinderii, asupra bărbatului se aflau 2.000 de euro și 1.700 de lei.** Polițiștii au efectuat ulterior patru percheziții domiciliare, de unde au ridicat 10.000 de euro, înscrisuri presupus falsificate, suporturi de stocare, 15 telefoane mobile și un autoturism.\n\n• **Suspectul a fost reținut pentru 24 de ore** și dus în centrul de arest al poliției județene Bistrița-Năsăud. El este cercetat pentru trafic și cumpărare de influență, fals material în înscrisuri oficiale și uz de fals; procurorii continuă ancheta, iar o instanță poate decide asupra unei măsuri preventive.",
-    "importance_score": 38.0,
-    "slug": "hamis-igazolvanyt-is-talaltak-a-magat-ugyesznek-kiado-ferfinal-b2551f",
-    "tags": [
-      "altalanos"
-    ]
-  },
-  {
     "group_id": "group_ba3cb81331",
     "fingerprint": "7c6d0c1a32482f1b0b5a0538fdff65e8",
     "category": "Általános",
@@ -24538,37 +24535,6 @@
     "lead_ro": "A piaci körülmények még nem teszik lehetővé a megfelelő árak kialakulását.",
     "content_ro": "A piaci körülmények még nem teszik lehetővé a megfelelő árak kialakulását.",
     "importance_score": 28.0
-  },
-  {
-    "group_id": "group_a203cffd75",
-    "slug": "studiu-rusia-domina-pe-plan-global-construirea-de-reactoare-nucleare-a203cf",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Studiu: Rusia domină pe plan global construirea de reactoare nucleare",
-        "link": "https://agerpres.ro/economic-extern/2026/11/10/studiu-rusia-domina-pe-plan-global-construirea-de-reactoare-nucleare--1611997"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Piața pe care o domină Rusia la nivel global prin intermediul gigantului Rosatom",
-        "link": "https://hotnews.ro/rusia-domina-pe-plan-global-construirea-de-reactoare-nucleare-prin-intermediul-rosatom-2400456"
-      }
-    ],
-    "published_at": 1794268800,
-    "title_hu": "Studiu: Rusia domină pe plan global construirea de reactoare nucleare",
-    "lead_hu": "",
-    "content_hu": "",
-    "title_ro": "Studiu: Rusia domină pe plan global construirea de reactoare nucleare",
-    "lead_ro": "",
-    "content_ro": "",
-    "importance_score": 20.0
   },
   {
     "group_id": "group_4de37d41f6",
