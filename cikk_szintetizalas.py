@@ -3,6 +3,7 @@ import os
 import time
 import requests
 import hashlib
+import re
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor
@@ -28,6 +29,24 @@ HEADERS = {
 # ==============================================================================
 # 2. SEGÉDFUNKCIÓK ÉS BIZTONSÁGI KORREKCIÓK
 # ==============================================================================
+def slugify(text: str) -> str:
+    """Ékezetmentesíti és URL-baráttá alakítja a magyar és román karaktereket is."""
+    if not text:
+        return ""
+    char_map = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ő': 'o', 'ú': 'u', 'ű': 'u', 'ü': 'u',
+        'Á': 'a', 'É': 'e', 'Í': 'i', 'Ó': 'o', 'Ő': 'o', 'Ú': 'u', 'Ű': 'u', 'Ü': 'u',
+        'ă': 'a', 'â': 'a', 'î': 'i', 'ș': 's', 'ş': 's', 'ț': 't', 'ţ': 't',
+        'Ă': 'a', 'Â': 'a', 'Î': 'i', 'Ș': 's', 'Ş': 's', 'Ț': 't', 'Ţ': 't'
+    }
+    for orig, repl in char_map.items():
+        text = text.replace(orig, repl)
+    
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
+    text = re.sub(r'[\s-]+', '-', text).strip('-')
+    return text[:50]
+
 def fix_hungarian_names_and_places(text: str) -> str:
     """
     Könnyű biztonsági védőháló a leggyakoribb félreírt magyar nevek és románul maradt városnevek javítására.
@@ -201,6 +220,7 @@ SZIGORÚ SZERZŐI JOGI ÉS MEGFOGALMAZÁSI SZABÁLYOK:
 2. KIZÁRÓLAG TÉNY-KIVONATOLÁS: A forrásokból kizárólag a puszta tényeket (dátumok, nevek, számok, helyszínek, események) használd fel.
 3. SAJÁT SZAVAK ÉS MONDTASZERKEZET: A cikket teljesen új, saját mondatszerkezetekkel és újságírói megfogalmazással írd meg.
 4. TÁRGYILAGOS HÍRSTÍLUS: Legyen szintetizált, tényalapú és független elemzés.
+5. CÍMKÉK (TAGS): Generálj 3-5 releváns témacímkét (tags) kisbetűvel, ékezet- és diakritikusmentes URL-barát formában (pl. "kolozsvar", "rmdsz", "inflacio", "gsp").
 """
 
     if is_update:
@@ -236,6 +256,7 @@ TERJEDELMI ÉS FORMÁTUMSZABÁLYOK:
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
   "skip": false,
+  "tags": ["kolozsvar", "rmdsz", "autopalya"],
   "title_hu": "Frissített magyar cím",
   "lead_hu": "Frissített 2-3 mondatos magyar lead",
   "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• **Kulcsszó vagy Szereplő** második magyar pont...",
@@ -264,6 +285,7 @@ TERJEDELMI ÉS FORMÁTUMSZABÁLYOK:
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
   "skip": false,
+  "tags": ["kolozsvar", "rmdsz", "autopalya"],
   "title_hu": "A tényekre fókuszáló magyar cím",
   "lead_hu": "2-3 mondatos magyar összefoglaló lead",
   "content_hu": "• **Szeptember 30-án** az Orosz Föderáció újabb nagyszabású...\\n\\n• A **hőerőmű elleni támadás** következtében...",
@@ -307,8 +329,24 @@ FORRÁSOK:
                     seen_links.add(s["link"])
                     all_group_sources.append(s)
 
+        title_hu = fix_hungarian_names_and_places(parsed_article.get("title_hu", ""))
+        title_ro = parsed_article.get("title_ro", "")
+        
+        # Tags tisztítása és ékezetmentesítése
+        raw_tags = parsed_article.get("tags", [])
+        clean_tags = [slugify(t) for t in raw_tags if slugify(t)]
+        if not clean_tags:
+            clean_tags = [slugify(category)]
+
+        short_id = g_id.replace("group_", "")[:6]
+        title_for_slug = title_hu or title_ro
+        clean_slug = slugify(title_for_slug)
+        final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
+
         synthesized_entry = {
             "group_id": g_id,
+            "slug": final_slug,
+            "tags": clean_tags,
             "fingerprint": group_fingerprint,
             "category": category,
             "is_synthesized": True,
@@ -317,10 +355,10 @@ FORRÁSOK:
             "sources_count": len(all_group_sources),
             "sources": all_group_sources,
             "published_at": latest_timestamp,
-            "title_hu": fix_hungarian_names_and_places(parsed_article.get("title_hu", "")),
+            "title_hu": title_hu,
             "lead_hu": fix_hungarian_names_and_places(parsed_article.get("lead_hu", "")),
             "content_hu": fix_hungarian_names_and_places(parsed_article.get("content_hu", "")),
-            "title_ro": parsed_article.get("title_ro", ""),
+            "title_ro": title_ro,
             "lead_ro": parsed_article.get("lead_ro", ""),
             "content_ro": parsed_article.get("content_ro", "")
         }
@@ -393,9 +431,16 @@ def run_synthesis_direct():
                     seen.add(l)
                     sources_list.append({"source": a.get("source", ""), "title": a.get("title", ""), "link": l})
 
+            cat = art.get("category", "Gazdaság")
+            short_id = g_id.replace("group_", "")[:6]
+            clean_slug = slugify(art.get("title", ""))
+            final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
+
             single_results.append({
                 "group_id": g_id,
-                "category": art.get("category", "Gazdaság"),
+                "slug": final_slug,
+                "tags": [slugify(cat)],
+                "category": cat,
                 "is_synthesized": False,
                 "is_b2b_only": True,
                 "sources_count": len(sources_list),
@@ -416,9 +461,17 @@ def run_synthesis_direct():
             art = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
             summ = fix_hungarian_names_and_places(art.get("summary", "") or "")
             lead = (summ[:200] + "…") if len(summ) > 200 else summ
+
+            cat = art.get("category", "Általános")
+            short_id = g_id.replace("group_", "")[:6]
+            clean_slug = slugify(art.get("title", ""))
+            final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
+
             single_results.append({
                 "group_id": g_id,
-                "category": art.get("category", "Általános"),
+                "slug": final_slug,
+                "tags": [slugify(cat)],
+                "category": cat,
                 "is_synthesized": False,
                 "is_b2b_only": False,
                 "sources_count": 1,
