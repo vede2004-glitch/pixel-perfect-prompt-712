@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { StoryLink } from "@/components/StoryLink";
+import { TagChips } from "@/components/TagChips";
 import { RichText } from "@/components/RichText";
 import { useMemo, useState } from "react";
 import { PageShell } from "@/components/PageShell";
@@ -79,6 +80,7 @@ function AllNews() {
                 <p className="mt-1 line-clamp-2 text-sm text-muted-foreground"><RichText text={tr(n, lang).lead} /></p>
               </div>
             </StoryLink>
+            <TagChips item={n} className="-mt-2 mx-4 mb-4" />
           </li>
         ))}
         {!list.length && <li className="p-8 text-center text-sm text-muted-foreground">{ro ? "Niciun rezultat." : "Nincs találat."}</li>}

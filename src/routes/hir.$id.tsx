@@ -3,6 +3,7 @@ import { createFileRoute, Link, notFound, useRouter } from "@tanstack/react-rout
 import { useEffect } from "react";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
+import { TagChips } from "@/components/TagChips";
 import { articlePath, ensureHistory, getNews, timeAgo, tr } from "@/lib/news";
 import { getLiveNews } from "@/lib/news-live.functions";
 import { RichText, plainBold } from "@/components/RichText";
@@ -33,6 +34,12 @@ export const Route = createFileRoute("/hir/$id")({
     const text = loaderData ? tr(loaderData, lang) : null;
     const title = text ? `${plainBold(text.title)} – ${lang === "ro" ? "Stirix.ro" : "Hirx.ro"}` : "Hír / Știre – Stirix";
     const desc = plainBold(text?.lead ?? "").slice(0, 160);
+    const tagMeta = loaderData
+      ? [
+          { name: "keywords", content: loaderData.tags.join(", ") },
+          ...loaderData.tags.map((tag) => ({ property: "article:tag", content: tag })),
+        ]
+      : [];
     const meta = [
       { title },
       { name: "description", content: desc },
@@ -40,6 +47,7 @@ export const Route = createFileRoute("/hir/$id")({
       { property: "og:description", content: desc },
       { property: "og:type", content: "article" },
       { name: "twitter:card", content: "summary" },
+      ...tagMeta,
     ];
     const url = loaderData ? `https://pixel-perfect-prompt-712.lovable.app/hir/${encodeURIComponent(articlePath(loaderData))}` : undefined;
     return {
@@ -87,6 +95,7 @@ function Article() {
         <div className="mt-8 space-y-5 text-base leading-relaxed text-foreground/85">
           {t.content.split(/\n\n+/).map((p, i) => <p key={i}><RichText text={p} /></p>)}
         </div>
+        <TagChips item={item} className="mt-8" />
         {item.is_synthesized && (
           <p className="mt-10 flex w-full items-start gap-3 rounded-lg border border-primary/25 bg-primary/10 px-4 py-3.5 text-[15px] leading-relaxed text-foreground/90">
             <Sparkles className="mt-1 size-4 shrink-0 text-primary" />
