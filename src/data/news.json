@@ -519,7 +519,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 22,
+    "sources_count": 23,
     "sources": [
       {
         "source": "Adevărul",
@@ -630,6 +630,11 @@
         "source": "G4Media",
         "title": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
         "link": "https://www.g4media.ro/financial-times-serviciile-de-informatii-din-sua-avertizeaza-ca-directorul-nvidia-ar-fi-avut-o-relatie-amoroasa-cu-o-presupusa-spioana-a-chinei.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "FBI investighează relația dintre șeful Nvidia și femeia suspectată de spionaj. Precizările lui Donald Trump",
+        "link": "https://stirileprotv.ro/fbi-investigheaza-relatia-dintre-seful-nvidia-si-femeia-suspectata-de-spionaj-precizarile-lui-donald-trump.html"
       }
     ],
     "published_at": 1794297067,
@@ -639,7 +644,7 @@
     "title_ro": "Cazul Nvidia: anchetă independentă, presiuni politice și un proces al acționarilor",
     "lead_ro": "Consiliul Nvidia a lansat o verificare independentă a acuzațiilor privind o posibilă operațiune de spionaj care l-ar fi vizat pe Jensen Huang. Compania spune că nu are indicii de compromitere a secretelor, în timp ce congresmenii cer explicații, iar acționarii au inițiat o acțiune colectivă.",
     "content_ro": "• **Ancheta consiliului** Nvidia va analiza cazul printr-un grup de administratori independenți, asistat de o firmă de avocatură din afara companiei. Huang sprijină demersul, iar consiliul și-a exprimat încrederea în el și în echipa de conducere; deocamdată, nu consideră că există motive să creadă că secretele companiei sau informații de securitate națională au fost compromise.\n\n• **Presiuni și suspiciuni privind cipurile** Legislatorii americani solicită clarificări despre riscurile pentru securitate. Relatările din presă leagă suspiciunile de Alice Huang și de Megaspeed, o firmă din Singapore activă în domeniul centrelor de date. Unele surse au afirmat că ar fi putut facilita trimiterea în China a unor cipuri Nvidia avansate, însă acest lucru nu a fost confirmat public.\n\n• **Date despre Alice Huang** Femeia, menționată și cu numele Huang Le, ar fi cetățean chinez și nu este rudă cu Jensen Huang. Un profil găsit într-o bază de date chineză, a cărui autenticitate nu a fost verificată, îi atribuie activitate anterioară la HSBC și experiență jurnalistică la CCTV și Hunan TV.\n\n• **Trump și susținători din tehnologie** Donald Trump a declarat că Huang i-ar fi spus că nu știa că femeia putea fi spioană și că îl crede. Președintele a confirmat că FBI examinează cazul, fără să ofere informații despre etapă sau acuzații. Elon Musk și alți oameni de afaceri l-au apărat public pe Huang, descriind situația drept o greșeală personală, nu o dovadă de trădare.\n\n• **Acțiuni și proces** Titlurile Nvidia au pierdut peste 4% la închiderea ședinței de luni, iar valoarea de piață a companiei s-a redus cu aproximativ 250 de miliarde de dolari. În aceeași zi, un grup de acționari a inițiat o acțiune colectivă propusă împotriva Nvidia și a lui Huang; relatarea disponibilă nu precizează toate acuzațiile formulate.",
-    "importance_score": 235.0
+    "importance_score": 245.0
   },
   {
     "group_id": "group_b8d942bb4e",
@@ -1329,6 +1334,80 @@
     "importance_score": 115.0
   },
   {
+    "group_id": "group_c34f9918bd",
+    "fingerprint": "5c69828ddf5e0542d48b1b05e8f692e3",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 11,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "UPDATE Unitatea 2 a Centralei de la Cernavodă a intrat în secvența de pornire. Intrarea în funcțiune este estimată marți",
+        "link": "https://www.mediafax.ro/economic/unitatea-2-a-centralei-de-la-cernavoda-a-intrat-in-secventa-de-pornire-intrarea-in-functiune-este-estimata-marti-23840010"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Unitatea 2 a Centralei Nucleare de la Cernavodă a intrat în secvența de pornire. Reluarea funcționării este estimată pentru marți",
+        "link": "https://adevarul.ro/economie/unitatea-2-a-centralei-nucleare-de-la-cernavoda-a-2569961.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Director Nuclearelectrica: De miercuri, CNE Cernavodă va opera ambele unități nucleare",
+        "link": "https://www.mediafax.ro/economic/director-nuclearelectrica-de-miercuri-cne-cernavoda-va-opera-ambele-unitati-nucleare-23840083"
+      },
+      {
+        "source": "Kolozsvári Rádió (HU)",
+        "title": "Visszakapcsolták az atomerőművet, de hogyan tovább?",
+        "link": "https://www.kolozsvariradio.ro/2026/11/09/visszakapcsoltak-az-atomeromuvet-de-hogyan-tovabb/"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Șoc în sistemul energetic: Reactorul 1 de la Cernavodă a fost oprit din nou la doar câteva zile de la repornire. Nuclearelectrica: „Directorul Tehnic al CNE va fi înlocuit”",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/breaking-news-reactorul-1-de-la-cernavoda-a-fost-2570187.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Reactorul 1 de la Cernavodă s-a stricat „în partea clasică” după doar trei zile de la repornire. Anunțul Nuclearelectrica",
+        "link": "https://stirileprotv.ro/stiri/financiar/reactorul-1-de-la-cernavoda-s-a-stricat-in-partea-clasica-dupa-doar-trei-zile-de-la-repornire-anuntul-nuclearelectrica.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Reactorul 1 de la Cernavodă a fost oprit din nou, la doar trei zile de la repornire. Directorul tehnic va fi înlocuit",
+        "link": "https://hotnews.ro/reactorul-1-de-la-cernavoda-a-fost-oprit-din-nou-la-doar-trei-zile-de-la-repornire-directorul-tehnic-va-fi-inlocuit-2399431"
+      },
+      {
+        "source": "G4Media",
+        "title": "BREAKING | Reactorul 1 de la Cernavodă s-a oprit neplanificat / Nuclearelectrica anunță schimbarea directorului tehnic",
+        "link": "https://www.g4media.ro/breaking-reactorul-1-de-la-cernavoda-s-a-oprit-neplanificat-nuclearelectrica-anunta-schimbarea-directorului-tehnic.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Intrarea în funcțiune a Unității 2 a Centralei de la Cernavodă este estimată pentru marți",
+        "link": "https://agerpres.ro/economic/2026/11/09/intrarea-in-functiune-a-unitatii-2-a-centralei-de-la-cernavoda-este-estimata-pentru-marti--1611332"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Centrala de la Cernavodă va opera ambele unități începând de miercuri, permițând reasigurarea a aproximativ 20% din necesarul de energie (Nuclearelect...",
+        "link": "https://agerpres.ro/economic/2026/11/09/centrala-de-la-cernavoda-va-opera-ambele-unitati-incepand-de-miercuri-permitand-reasigurarea-a-aprox--1611390"
+      },
+      {
+        "source": "Digi24",
+        "title": "Luca Niculescu, după ce Unitatea 1 de la Cernavodă s-a oprit din nou: „Nu ne doream un asemenea incident”",
+        "link": "https://www.digi24.ro/stiri/actualitate/luca-niculescu-dupa-ce-unitatea-1-de-la-cernavoda-s-a-oprit-din-nou-nu-ne-doream-un-asemenea-incident-4029371"
+      }
+    ],
+    "published_at": 1794248743,
+    "title_hu": "November 10-én indulhat újra a 2-es blokk, miközben javítják az 1-est",
+    "lead_hu": "November 9-én ismét lekapcsolták a Cernavodăi Atomerőmű 1-es blokkját, három nappal a hálózatra kapcsolása után. A 2-es blokk indítása folyamatban van: működésbe lépését november 10-re, mindkét blokk együttes üzemét november 11-től várják.",
+    "content_hu": "• **November 9-én 17:57-kor** a Nuclearelectrica leválasztotta az 1-es blokkot az országos villamosenergia-hálózatról, három nappal a visszakapcsolás után. A Transelectrica adatai a turbina kondenzátorának vákuumvezérlő rendszerében fellépő hibát jeleztek; a blokk a leállítás előtt sem érte el a teljes kapacitását.\n\n• **A hiba a reaktor nem nukleáris részét érintette.** A vállalat és az energiaügyi tárca szerint az eset nem veszélyeztette a nukleáris biztonságot, a dolgozókat vagy a környezetet. A műszaki csapatok a javítással és az 1-es blokk elsődleges fontosságú újraindításával foglalkoznak; a hiba mélyebb okáról később készül jelentés.\n\n• **A 2-es blokk indítási folyamata november 9-én 00:42-kor kezdődött.** A működésbe lépést november 10-re becsülték, a Nuclearelectrica vezérigazgatója pedig azt közölte, hogy november 11-től mindkét blokk üzemelhet. Az újraindítás és a hálózatra kapcsolás az erőmű előírt eljárásai szerint zajlik.\n\n• **A két reaktor egyenként mintegy 700 megawatt beépített teljesítményű**, és normál működéskor Románia villamosenergia-termelésének körülbelül ötödét adhatja. Az erőmű több mint három hónapnyi termelési szünet után november 6-án kezdett ismét áramot szolgáltatni; az 1-es blokkot július 28-án, a 2-est augusztusban állították le, majd augusztus 13-tól a teljes telephely termelése szünetelt.\n\n• **December 1-jétől új műszaki igazgató veszi át a cernavodăi tisztséget.** A Nuclearelectrica a blokk berendezéseinek rendelkezésre állásáért felelős műszaki vezetésben jelentett be változást. A HotNews szerint a jelenlegi igazgató, Dumitru Benchea 2020 novembere óta tölti be a posztot.",
+    "title_ro": "Unitatea 2 ar putea porni pe 10 noiembrie, în timp ce Unitatea 1 este reparată",
+    "lead_ro": "Unitatea 1 de la Cernavodă a fost deconectată din nou pe 9 noiembrie, la trei zile după reconectarea la rețea. Pornirea Unității 2 este în desfășurare: intrarea în funcțiune este estimată pentru 10 noiembrie, iar operarea ambelor unități este anticipată din 11 noiembrie.",
+    "content_ro": "• **La 9 noiembrie, la ora 17:57,** Nuclearelectrica a deconectat Unitatea 1 de la rețeaua electrică națională, la trei zile după reconectare. Datele Transelectrica au indicat o problemă la sistemul de control al vidului din condensatorul turbinei; înainte de oprire, reactorul nu ajunsese la capacitatea maximă.\n\n• **Defecțiunea a apărut la partea nenucleară a reactorului.** Potrivit companiei și Ministerului Energiei, incidentul nu a pus în pericol securitatea nucleară, angajații sau mediul. Echipele tehnice lucrează la remediere și prioritizează repornirea Unității 1; cauza de fond urmează să fie prezentată într-un raport ulterior.\n\n• **Secvența de pornire a Unității 2 a început pe 9 noiembrie, la ora 00:42.** Intrarea în funcțiune a fost estimată pentru 10 noiembrie, iar directorul general al Nuclearelectrica a transmis că ambele unități ar putea funcționa începând din 11 noiembrie. Repornirea și reconectarea la rețea se desfășoară potrivit procedurilor centralei.\n\n• **Fiecare dintre cele două reactoare are o putere instalată de aproximativ 700 MW**, iar în condiții normale împreună pot asigura în jur de o cincime din producția de electricitate a României. După mai bine de trei luni fără producție la centrală, furnizarea energiei a fost reluată pe 6 noiembrie. Unitatea 1 fusese oprită pe 28 iulie, Unitatea 2 în august, iar din 13 august centrala nu a mai produs energie.\n\n• **Începând cu 1 decembrie va fi numit un nou director tehnic la Cernavodă.** Nuclearelectrica a anunțat schimbări în conducerea responsabilă de disponibilitatea echipamentelor Unității 1. Potrivit HotNews, funcția este ocupată în prezent de Dumitru Benchea, numit în noiembrie 2020.",
+    "importance_score": 110.0
+  },
+  {
     "group_id": "group_6e42a30a7b",
     "fingerprint": "4385246220010f8a69e4739c97f70f77",
     "category": "Általános",
@@ -1395,75 +1474,6 @@
     "title_ro": "Russell Brand, condamnat la zece ani și jumătate de închisoare pentru viol și agresiuni sexuale",
     "lead_ro": "Instanța Southwark Crown Court din Londra l-a condamnat pe Russell Brand la zece ani și șase luni de închisoare pentru violarea unei femei și agresarea sexuală a altor trei. Faptele au avut loc între 2004 și 2009, iar Brand ar putea fi eliberat condiționat după executarea a două treimi din pedeapsă.",
     "content_ro": "• **Sentința și acuzațiile** Judecătorul Joel Bennathan a stabilit nouă ani de închisoare pentru violul din 2009 și pedepse de nouă, optsprezece și opt luni pentru cele trei agresiuni sexuale. Durata totală este de zece ani și șase luni, iar Brand ar urma să execute două treimi din pedeapsă înainte de a putea fi eliberat condiționat.\n\n• **Faptele și verdictul juriului** Juriul l-a găsit vinovat pentru patru infracțiuni împotriva a patru femei, comise între 2004 și 2009. Brand a fost achitat în cazul a două alte acuzații de viol și al unei tentative de agresiune sexuală. Identitatea celor șase reclamante este protejată pe viață.\n\n• **Evaluarea instanței și acuzațiile procurorilor** Bennathan a abordat notorietatea lui Brand și poziția acestuia în industria divertismentului, arătând că acestea nu îi permiteau să ignore refuzul femeilor. Procurorii au susținut că și-a folosit influența pentru a avea acces la femei. În cazul din 2009, victima a suferit leziuni fizice, iar judecătorul a considerat importantă gravitatea violenței folosite.\n\n• **Declarațiile victimelor și apărarea** Femeile au descris urmările psihologice de durată și sentimentul de vulnerabilitate. Victima violului din 2009 a vorbit despre trauma persistentă și despre teama că ar fi putut contracta HIV. Brand a negat acuzațiile și a susținut că relațiile sexuale au fost consimțite; avocatul său a invocat activitatea caritabilă, recuperarea sa și credința creștină.\n\n• **Antecedente și anchete în curs** Brand avea o condamnare anterioară, primită în 1995 pentru posesie de marijuana. Poliția londoneză investighează alte două presupuse violuri; unul dintre cazuri privește o fată care avea 16 ani la momentul presupusei fapte. Reprezentanții poliției au indicat că ar putea apărea și alte sesizări.",
-    "importance_score": 100.0
-  },
-  {
-    "group_id": "group_c34f9918bd",
-    "fingerprint": "5c69828ddf5e0542d48b1b05e8f692e3",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 10,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "UPDATE Unitatea 2 a Centralei de la Cernavodă a intrat în secvența de pornire. Intrarea în funcțiune este estimată marți",
-        "link": "https://www.mediafax.ro/economic/unitatea-2-a-centralei-de-la-cernavoda-a-intrat-in-secventa-de-pornire-intrarea-in-functiune-este-estimata-marti-23840010"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Unitatea 2 a Centralei Nucleare de la Cernavodă a intrat în secvența de pornire. Reluarea funcționării este estimată pentru marți",
-        "link": "https://adevarul.ro/economie/unitatea-2-a-centralei-nucleare-de-la-cernavoda-a-2569961.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Director Nuclearelectrica: De miercuri, CNE Cernavodă va opera ambele unități nucleare",
-        "link": "https://www.mediafax.ro/economic/director-nuclearelectrica-de-miercuri-cne-cernavoda-va-opera-ambele-unitati-nucleare-23840083"
-      },
-      {
-        "source": "Kolozsvári Rádió (HU)",
-        "title": "Visszakapcsolták az atomerőművet, de hogyan tovább?",
-        "link": "https://www.kolozsvariradio.ro/2026/11/09/visszakapcsoltak-az-atomeromuvet-de-hogyan-tovabb/"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Șoc în sistemul energetic: Reactorul 1 de la Cernavodă a fost oprit din nou la doar câteva zile de la repornire. Nuclearelectrica: „Directorul Tehnic al CNE va fi înlocuit”",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/breaking-news-reactorul-1-de-la-cernavoda-a-fost-2570187.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Reactorul 1 de la Cernavodă s-a stricat „în partea clasică” după doar trei zile de la repornire. Anunțul Nuclearelectrica",
-        "link": "https://stirileprotv.ro/stiri/financiar/reactorul-1-de-la-cernavoda-s-a-stricat-in-partea-clasica-dupa-doar-trei-zile-de-la-repornire-anuntul-nuclearelectrica.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Reactorul 1 de la Cernavodă a fost oprit din nou, la doar trei zile de la repornire. Directorul tehnic va fi înlocuit",
-        "link": "https://hotnews.ro/reactorul-1-de-la-cernavoda-a-fost-oprit-din-nou-la-doar-trei-zile-de-la-repornire-directorul-tehnic-va-fi-inlocuit-2399431"
-      },
-      {
-        "source": "G4Media",
-        "title": "BREAKING | Reactorul 1 de la Cernavodă s-a oprit neplanificat / Nuclearelectrica anunță schimbarea directorului tehnic",
-        "link": "https://www.g4media.ro/breaking-reactorul-1-de-la-cernavoda-s-a-oprit-neplanificat-nuclearelectrica-anunta-schimbarea-directorului-tehnic.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Intrarea în funcțiune a Unității 2 a Centralei de la Cernavodă este estimată pentru marți",
-        "link": "https://agerpres.ro/economic/2026/11/09/intrarea-in-functiune-a-unitatii-2-a-centralei-de-la-cernavoda-este-estimata-pentru-marti--1611332"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Centrala de la Cernavodă va opera ambele unități începând de miercuri, permițând reasigurarea a aproximativ 20% din necesarul de energie (Nuclearelect...",
-        "link": "https://agerpres.ro/economic/2026/11/09/centrala-de-la-cernavoda-va-opera-ambele-unitati-incepand-de-miercuri-permitand-reasigurarea-a-aprox--1611390"
-      }
-    ],
-    "published_at": 1794248743,
-    "title_hu": "November 10-én indulhat újra a 2-es blokk, miközben javítják az 1-est",
-    "lead_hu": "November 9-én ismét lekapcsolták a Cernavodăi Atomerőmű 1-es blokkját, három nappal a hálózatra kapcsolása után. A 2-es blokk indítása folyamatban van: működésbe lépését november 10-re, mindkét blokk együttes üzemét november 11-től várják.",
-    "content_hu": "• **November 9-én 17:57-kor** a Nuclearelectrica leválasztotta az 1-es blokkot az országos villamosenergia-hálózatról, három nappal a visszakapcsolás után. A Transelectrica adatai a turbina kondenzátorának vákuumvezérlő rendszerében fellépő hibát jeleztek; a blokk a leállítás előtt sem érte el a teljes kapacitását.\n\n• **A hiba a reaktor nem nukleáris részét érintette.** A vállalat és az energiaügyi tárca szerint az eset nem veszélyeztette a nukleáris biztonságot, a dolgozókat vagy a környezetet. A műszaki csapatok a javítással és az 1-es blokk elsődleges fontosságú újraindításával foglalkoznak; a hiba mélyebb okáról később készül jelentés.\n\n• **A 2-es blokk indítási folyamata november 9-én 00:42-kor kezdődött.** A működésbe lépést november 10-re becsülték, a Nuclearelectrica vezérigazgatója pedig azt közölte, hogy november 11-től mindkét blokk üzemelhet. Az újraindítás és a hálózatra kapcsolás az erőmű előírt eljárásai szerint zajlik.\n\n• **A két reaktor egyenként mintegy 700 megawatt beépített teljesítményű**, és normál működéskor Románia villamosenergia-termelésének körülbelül ötödét adhatja. Az erőmű több mint három hónapnyi termelési szünet után november 6-án kezdett ismét áramot szolgáltatni; az 1-es blokkot július 28-án, a 2-est augusztusban állították le, majd augusztus 13-tól a teljes telephely termelése szünetelt.\n\n• **December 1-jétől új műszaki igazgató veszi át a cernavodăi tisztséget.** A Nuclearelectrica a blokk berendezéseinek rendelkezésre állásáért felelős műszaki vezetésben jelentett be változást. A HotNews szerint a jelenlegi igazgató, Dumitru Benchea 2020 novembere óta tölti be a posztot.",
-    "title_ro": "Unitatea 2 ar putea porni pe 10 noiembrie, în timp ce Unitatea 1 este reparată",
-    "lead_ro": "Unitatea 1 de la Cernavodă a fost deconectată din nou pe 9 noiembrie, la trei zile după reconectarea la rețea. Pornirea Unității 2 este în desfășurare: intrarea în funcțiune este estimată pentru 10 noiembrie, iar operarea ambelor unități este anticipată din 11 noiembrie.",
-    "content_ro": "• **La 9 noiembrie, la ora 17:57,** Nuclearelectrica a deconectat Unitatea 1 de la rețeaua electrică națională, la trei zile după reconectare. Datele Transelectrica au indicat o problemă la sistemul de control al vidului din condensatorul turbinei; înainte de oprire, reactorul nu ajunsese la capacitatea maximă.\n\n• **Defecțiunea a apărut la partea nenucleară a reactorului.** Potrivit companiei și Ministerului Energiei, incidentul nu a pus în pericol securitatea nucleară, angajații sau mediul. Echipele tehnice lucrează la remediere și prioritizează repornirea Unității 1; cauza de fond urmează să fie prezentată într-un raport ulterior.\n\n• **Secvența de pornire a Unității 2 a început pe 9 noiembrie, la ora 00:42.** Intrarea în funcțiune a fost estimată pentru 10 noiembrie, iar directorul general al Nuclearelectrica a transmis că ambele unități ar putea funcționa începând din 11 noiembrie. Repornirea și reconectarea la rețea se desfășoară potrivit procedurilor centralei.\n\n• **Fiecare dintre cele două reactoare are o putere instalată de aproximativ 700 MW**, iar în condiții normale împreună pot asigura în jur de o cincime din producția de electricitate a României. După mai bine de trei luni fără producție la centrală, furnizarea energiei a fost reluată pe 6 noiembrie. Unitatea 1 fusese oprită pe 28 iulie, Unitatea 2 în august, iar din 13 august centrala nu a mai produs energie.\n\n• **Începând cu 1 decembrie va fi numit un nou director tehnic la Cernavodă.** Nuclearelectrica a anunțat schimbări în conducerea responsabilă de disponibilitatea echipamentelor Unității 1. Potrivit HotNews, funcția este ocupată în prezent de Dumitru Benchea, numit în noiembrie 2020.",
     "importance_score": 100.0
   },
   {
@@ -2002,6 +2012,48 @@
     "importance_score": 73.0
   },
   {
+    "group_id": "group_08bb1719a8",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
+        "link": "https://stirileprotv.ro/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. FOTO&VIDEO",
+        "link": "https://stirileprotv.ro/stiri/international/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Carambol pe o autostradă din Bulgaria: 50 de mașini implicate și zece morți, anunță autoritățile",
+        "link": "https://hotnews.ro/accident-bulgaria-carambol-autostrada-2399829"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bulgaria: Cel puțin 10 morți în două accidente auto în lanț",
+        "link": "https://agerpres.ro/social-extern/2026/11/10/bulgaria-cel-putin-10-morti-in-doua-accidente-auto-in-lant--1611755"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Tragedie în Bulgaria. Cel puțin 10 morți într-un carambol uriaș pe autostradă. Peste 50 de vehicule implicate în accidente",
+        "link": "https://www.mediafax.ro/stirile-zilei/tragedie-in-bulgaria-cel-putin-10-morti-intr-un-carambol-urias-pe-autostrada-peste-50-de-vehicule-implicate-in-accidente-23840725"
+      }
+    ],
+    "published_at": 1794301575,
+    "title_hu": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
+    "lead_hu": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă....",
+    "content_hu": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă.",
+    "title_ro": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
+    "lead_ro": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă....",
+    "content_ro": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă.",
+    "importance_score": 70.0
+  },
+  {
     "group_id": "group_eb9a884dc2",
     "fingerprint": "759f92a7e3262535ceae9fa9521fa645",
     "category": "Általános",
@@ -2313,43 +2365,6 @@
     "lead_ro": "Oficiali ai UE și NATO, alături de consilieri pentru securitate națională din mai multe state europene, vor lua parte la unele etape ale negocierilor de la Abu Dhabi. Guverne europene consideră că prezența lor poate susține poziția Kievului, în timp ce Moscova descrie discuțiile drept un format trilateral.",
     "content_ro": "• **Marți și miercuri, la Abu Dhabi**, reprezentanții Statelor Unite, Rusiei și Ucrainei discută despre încheierea războiului declanșat de invazia rusă din februarie 2022. Oficialii europeni vor participa la anumite părți ale reuniunilor, însă nu este clar dacă vor fi prezenți și la rundele principale.\n\n• **Comisia Europeană va fi reprezentată de Bjoern Seibert**, șeful de cabinet al Ursulei von der Leyen. Anna-Maria Boura, consiliera pentru politică externă a lui António Costa, participă din partea Consiliului European. Von der Leyen a confirmat prezența UE într-un mesaj publicat pe X.\n\n• **Șeful de cabinet al secretarului general al NATO** se va alătura consilierilor pentru securitate națională din Franța, Germania și Regatul Unit. Participarea acestora este prevăzută doar pentru anumite etape ale discuțiilor.\n\n• **Unul dintre scopurile implicării europene este sprijinirea Ucrainei:** reprezentanții europeni urmăresc să consolideze poziția de negociere a Kievului și să împiedice Rusia să influențeze organizarea securității europene. Tema a căpătat importanță după ce Donald Trump și Jared Kushner au avansat ideea unui cadru de securitate postbelic extins la întregul continent.\n\n• **Dmitri Peskov susține că negocierile sunt trilaterale**, între delegațiile rusă, ucraineană și americană, și afirmă că europenii au canale separate de comunicare. Guvernele europene resping posibilitatea ca Moscova să influențeze exercițiile NATO, desfășurarea trupelor sau amplasarea armamentului în estul Europei, considerând că aceasta ar putea readuce logica sferelor de influență.",
     "importance_score": 63.0
-  },
-  {
-    "group_id": "group_08bb1719a8",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
-        "link": "https://stirileprotv.ro/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. FOTO&VIDEO",
-        "link": "https://stirileprotv.ro/stiri/international/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Carambol pe o autostradă din Bulgaria: 50 de mașini implicate și zece morți, anunță autoritățile",
-        "link": "https://hotnews.ro/accident-bulgaria-carambol-autostrada-2399829"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bulgaria: Cel puțin 10 morți în două accidente auto în lanț",
-        "link": "https://agerpres.ro/social-extern/2026/11/10/bulgaria-cel-putin-10-morti-in-doua-accidente-auto-in-lant--1611755"
-      }
-    ],
-    "published_at": 1794301575,
-    "title_hu": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
-    "lead_hu": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă....",
-    "content_hu": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă.",
-    "title_ro": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
-    "lead_ro": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă....",
-    "content_ro": "Peste 10 persoane au murit, iar zeci de mașini au fost implicate în două accidente în lanț produse pe autostrada Trakia din Bulgaria, în condiții de ceață densă.",
-    "importance_score": 60.0
   },
   {
     "group_id": "group_c4ec998d2c",
@@ -2956,6 +2971,45 @@
     "importance_score": 55.0
   },
   {
+    "group_id": "group_9343c880b9",
+    "fingerprint": "a2df87d5a213bfe110e5b73ebfa936d8",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, premiat în Italia pentru merite sportive. Distincție specială la Parma, într-o gală cu mari personalități ale sportului",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-premiat-in-italia-pentru-merite-sportive-distinctie-speciala-la-parma-intr-o-gala-cu-mari-personalitati-ale-sportului-23840599"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cristian Chivu a primit Premiul pentru Merite Sportive în cadrul unei ceremonii la Parma. Ce mesaj a transmis clubul",
+        "link": "https://stirileprotv.ro/stiri/sport/cristian-chivu-a-primit-premiul-pentru-merite-sportive-in-cadrul-unei-ceremonii-la-parma-ce-mesaj-a-transmis-clubul.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cristian Chivu, premiat în Italia: „Sunt recunoscător”",
+        "link": "https://www.g4media.ro/cristian-chivu-premiat-in-italia-sunt-recunoscator.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Cristi Chivu a revenit la Parma cu ochi înlăcrimați. Discurs emoționant, după ce a fost premiat de fosta echipă: „Vorbesc cu tatăl meu, chiar dacă el nu mai este!”",
+        "link": "https://adevarul.ro/sport/cristi-chivu-a-revenit-la-parma-cu-ochi-2570297.html"
+      }
+    ],
+    "published_at": 1794295883,
+    "title_hu": "Cristi Chivu sportért járó elismerést kapott Parmában",
+    "lead_hu": "Cristi Chivu november 9-én a parmai Sport Civiltà-díjátadó ünnepségen vehette át a Benemerenze Sportive elismerést. A díjjal sportpályafutását és a sportban képviselt értékeit ismerték el.",
+    "content_hu": "• **November 9-én, Parmában** rendezték meg a Sport Civiltà nemzetközi díj 48. átadóját. A Teatro Regióban tartott eseményen Cristi Chivu kapta a Benemerenze Sportive kitüntetést, amelyet a sporteredmények mellett a sportéletben képviselt értékekért is odaítélnek.\n\n• **Chivu elismeréséről a Carlo Magri vezette zsűri döntött.** Indoklásukban szakmai és emberi tulajdonságait emelték ki, valamint azt, hogy példát mutat a sportban. A méltatásban a kitartás, a tisztesség és a felelősségvállalás is hangsúlyt kapott.\n\n• **A díjátadó a parmai sport- és kulturális élet hagyományos rendezvénye.** A szervezést a Sportveteránok Országos Szövetségének helyi szervezete végezte, a város önkormányzatának támogatásával és olasz sportintézmények védnökségével. A gálán sportolók, edzők, klubvezetők és újságírók is részt vettek.\n\n• **Chivu számára a parmai visszatérés korábbi edzői időszakához kapcsolódott.** A román szakember nehéz helyzetben vette át a csapatot, majd irányításával a Parma elérte a Serie A-ban maradást. Ezt követően Chivu az Inter Milanhoz került.\n\n• **A tréner érzelmileg fontosnak nevezte a Parmához fűződő időszakot.** Úgy értékelte, hogy rövid, de intenzív fejezet volt az életében, amely sikeres lezárással ért véget. Köszönetet mondott a klubnak, valamint Cherubini igazgatónak és Pettinának.",
+    "title_ro": "Cristi Chivu a primit o distincție pentru merite sportive la Parma",
+    "lead_ro": "Cristi Chivu a fost premiat pe 9 noiembrie, la ceremonia Sport Civiltà desfășurată la Parma. Distincția Benemerenze Sportive a recunoscut atât activitatea sa sportivă, cât și valorile pe care le promovează.",
+    "content_ro": "• **Ceremonia a avut loc pe 9 noiembrie, la Parma**, cu prilejul celei de-a 48-a ediții a Premiului Internațional Sport Civiltà. La Teatro Regio, Cristi Chivu a primit distincția Benemerenze Sportive, acordată pentru rezultate și pentru contribuția la promovarea unor valori prin sport.\n\n• **Selecția lui Chivu a fost făcută de juriul condus de Carlo Magri.** Membrii au luat în considerare atât profilul său profesional, cât și calitățile personale. Motivația a evidențiat perseverența, corectitudinea, asumarea responsabilității și rolul său de exemplu în lumea sportului.\n\n• **Premiul Sport Civiltà este un eveniment cu tradiție în viața orașului Parma.** Gala a fost organizată de filiala locală a Uniunii Naționale a Veteranilor Sportului, cu sprijinul municipalității și sub patronajul unor instituții sportive italiene. La întâlnire au fost prezenți sportivi, antrenori, reprezentanți ai cluburilor și jurnaliști.\n\n• **Revenirea lui Chivu la Parma a avut legătură cu perioada în care a antrenat echipa.** Tehnicianul român a preluat formația într-un moment dificil, iar sub conducerea sa clubul și-a asigurat menținerea în Serie A. Ulterior, Chivu a ajuns la Inter Milano.\n\n• **Antrenorul a descris experiența parmeză drept una importantă pentru el.** A apreciat că intervalul petrecut acolo a fost scurt, dar intens și s-a încheiat cu un rezultat bun. Chivu le-a mulțumit clubului Parma, directorului Cherubini și lui Pettinà.",
+    "importance_score": 55.0
+  },
+  {
     "group_id": "group_c10e087c96",
     "fingerprint": "a341c321cd7af28f78cbc17f84139fb2",
     "category": "Politika",
@@ -3367,40 +3421,6 @@
     "lead_ro": "Publicația rusă, activă de peste trei decenii, își încheie prezența editorială la Moscova după presiuni ale autorităților și pierderea surselor de finanțare. Novaya Gazeta Europe continuă să lucreze din exil, iar fostul redactor-șef a vorbit recent la Londra despre situația jurnaliștilor.",
     "content_ro": "• **Golirea sediului din Moscova** marchează sfârșitul activității redacției Novaya Gazeta în Rusia: angajații au strâns aparatura și documentele, iar infrastructura folosită pentru ediția online a fost oprită. Decizia a urmat presiunilor autorităților și obligației de a părăsi biroul.\n\n• **Blocarea finanțării** a făcut imposibilă menținerea publicației. La începutul lui septembrie, ziarul a fost înscris în registrul agenților străini, iar băncile au înghețat donațiile cititorilor, principala sursă de venit. Au avut loc percheziții la redacție și la domiciliul redactorului-șef; un jurnalist cu funcție importantă așteaptă procesul în arest la domiciliu.\n\n• **Publicația fondată în 1993** cu sprijinul lui Mihail Gorbaciov s-a remarcat prin anchete despre corupție guvernamentală, abuzuri ale poliției, nereguli electorale și încălcări ale drepturilor omului. Printre subiectele abordate s-au numărat evenimentele din Cecenia și operațiunile militare rusești desfășurate în afara țării.\n\n• **Dmitri Muratov**, fostul redactor-șef, a declarat luna trecută la Londra că liderii redacțiilor nu mai sunt în măsură să-și protejeze suficient reporterii. Laureat al Premiului Nobel pentru Pace în 2021, el a dedicat distincția celor șase colegi uciși de-a lungul anilor, inclusiv jurnalistei Anna Politkovskaia, omorâtă în 2006.\n\n• **Irina Vorobiova** a afirmat că valorile publicației vor dăinui în rândul foștilor membri ai redacției. Kremlinul a prezentat închiderea drept o schimbare obișnuită pe o piață media competitivă, în timp ce Novaya Gazeta Europe își continuă activitatea separat, din exil.",
     "importance_score": 48.0
-  },
-  {
-    "group_id": "group_5484a6f255",
-    "fingerprint": "d9467184db454d0c6e32dd5d8c2874f3",
-    "category": "Erdély",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
-        "link": "https://www.pontmaros.ro/egy-fiatal-eletmento-peldat-mutatott-embersegbol-ruben-gaitan-ludas-legfiatalabb-diszpolgara-lett/"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cetățean de onoare la 19 ani. Ruben Găitan a salvat de la sinucidere un bărbat, în timp ce alți tineri doar filmau",
-        "link": "https://stirileprotv.ro/stiri/actualitate/cetatean-de-onoare-la-19-ani-ruben-gaitan-a-salvat-de-la-sinucidere-un-barbat-in-timp-ce-alti-tineri-doar-filmau.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Un tânăr de 19 ani devine cel mai tânăr Cetățean de Onoare al orașului Luduș / A salvat de la sinucidere un bărbat / Alți tineri filmau scena pentru rețelele sociale",
-        "link": "https://www.g4media.ro/un-tanar-de-19-ani-devine-cel-mai-tanar-cetatean-de-onoare-al-orasului-ludus-a-salvat-de-la-sinucidere-un-barbat-alti-tineri-filmau-scena-pentru-retelele-sociale.html"
-      }
-    ],
-    "published_at": 1794294176,
-    "title_hu": "Ruben Găitan, Ludas legfiatalabb díszpolgára",
-    "lead_hu": "A 19 éves Ruben Găitan április 22-én segített megmenteni egy férfit Ludas központi parkjában. A helyi tanács május 26-án díszpolgári címet adományozott neki; az oklevelet az év végén tervezett ünnepségen veheti át.",
-    "content_hu": "• **Április 22-én** Ruben Găitan hazafelé tartott az iskolából, amikor meglátott egy férfit egy fa közelében, de először nem értette, mi történik. Egy iskolatársa figyelmeztette, hogy a férfi öngyilkosságot kísérel meg, ezért a fiatalok visszamentek hozzá.\n\n• **Ruben és társai** a rendőrök kiérkezéséig igyekeztek megtartani a férfit. Ruben a lábait fogta, egy másik fiatal a fejét támasztotta, hogy segítsen a légzésében, egy társuk pedig telefonált a rendőrségnek. A rendőrök levették a férfit a fáról és eltávolították az övet, így sikerült megmenteni az életét.\n\n• **A helyszínen tartózkodó fiatalok közül** többen telefonnal rögzítették az esetet, miközben Rubenék a segítségnyújtásra összpontosítottak. Ruben szerint veszélyhelyzetben az embereknek lehetőségeikhez mérten cselekedniük kell, nem csupán figyelniük az eseményeket.\n\n• **Dana Găitan, Ruben édesanyja** arról beszélt, hogy fiuk nevelésében hangsúlyos volt a hit, az empátia, az együttérzés és a másokon való segítés. A családot különösen meghatotta, hogy Ruben habozás nélkül közbelépett, amikor egy ember élete forgott kockán.\n\n• **A ludasi helyi tanács** a 45-ös számú, 2026. május 26-án elfogadott határozattal ítélte oda a díszpolgári címet. A Raul Cociș tanácsos által kezdeményezett javaslatról titkos szavazással döntöttek: kilenc igen és hat nem szavazat született. Ruben, a marosvásárhelyi UMFST alkalmazott automatizálás és informatika szakos hallgatója, Ludas legfiatalabb díszpolgára lett; oklevelét az év végén adják át.",
-    "title_ro": "Ruben Găitan, cel mai tânăr cetățean de onoare al orașului Luduş",
-    "lead_ro": "Ruben Găitan, în vârstă de 19 ani, a contribuit la salvarea unui bărbat în parcul central din Luduş, pe 22 aprilie. Consiliul local i-a acordat titlul de cetățean de onoare printr-o hotărâre din 26 mai, iar diploma urmează să îi fie înmânată la o ceremonie organizată la sfârșitul anului.",
-    "content_ro": "• **Pe 22 aprilie**, Ruben Găitan se întorcea de la școală când a observat un bărbat lângă un copac, fără să înțeleagă inițial ce se petrece. Un coleg l-a anunțat că bărbatul încearcă să se sinucidă, iar tinerii s-au întors pentru a-i acorda ajutor.\n\n• **Ruben și prietenii săi** au încercat să susțină bărbatul până la sosirea poliției. Ruben i-a ținut picioarele, un alt tânăr i-a sprijinit capul pentru a-l ajuta să respire, iar un coleg a sunat la poliție. Agenții l-au coborât din copac și au îndepărtat cureaua, iar bărbatul a supraviețuit.\n\n• **Unii tineri aflați în apropiere** au filmat incidentul cu telefoanele, în timp ce Ruben și grupul său intervenea pentru a ajuta. Ruben consideră că, într-o situație periculoasă, oamenii ar trebui să facă ce pot pentru a interveni, nu doar să privească.\n\n• **Dana Găitan, mama lui Ruben**, a spus că educația fiului său a pus accent pe credință, empatie, compasiune și ajutorarea celor din jur. Pentru familie a fost emoționant faptul că Ruben a acționat fără ezitare când viața unui om era în pericol.\n\n• **Consiliul Local Luduş** a acordat distincția prin Hotărârea nr. 45 din 26 mai 2026. Inițiativa consilierului Raul Cociș a fost adoptată prin vot secret, cu nouă voturi favorabile și șase împotrivă. Student la specializarea Automatică și Informatică Aplicată a UMFST din Târgu Mureș, Ruben a devenit cel mai tânăr cetățean de onoare al orașului; diploma îi va fi înmânată la finalul anului.",
-    "importance_score": 45.0
   },
   {
     "group_id": "group_48ef95cadb",
@@ -3990,6 +4010,40 @@
     "importance_score": 40.0
   },
   {
+    "group_id": "group_5484a6f255",
+    "fingerprint": "d9467184db454d0c6e32dd5d8c2874f3",
+    "category": "Erdély",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Pontmaros",
+        "title": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
+        "link": "https://www.pontmaros.ro/egy-fiatal-eletmento-peldat-mutatott-embersegbol-ruben-gaitan-ludas-legfiatalabb-diszpolgara-lett/"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cetățean de onoare la 19 ani. Ruben Găitan a salvat de la sinucidere un bărbat, în timp ce alți tineri doar filmau",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cetatean-de-onoare-la-19-ani-ruben-gaitan-a-salvat-de-la-sinucidere-un-barbat-in-timp-ce-alti-tineri-doar-filmau.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un tânăr de 19 ani devine cel mai tânăr Cetățean de Onoare al orașului Luduș / A salvat de la sinucidere un bărbat / Alți tineri filmau scena pentru rețelele sociale",
+        "link": "https://www.g4media.ro/un-tanar-de-19-ani-devine-cel-mai-tanar-cetatean-de-onoare-al-orasului-ludus-a-salvat-de-la-sinucidere-un-barbat-alti-tineri-filmau-scena-pentru-retelele-sociale.html"
+      }
+    ],
+    "published_at": 1794294176,
+    "title_hu": "Ruben Găitan, Ludas legfiatalabb díszpolgára",
+    "lead_hu": "A 19 éves Ruben Găitan április 22-én segített megmenteni egy férfit Ludas központi parkjában. A helyi tanács május 26-án díszpolgári címet adományozott neki; az oklevelet az év végén tervezett ünnepségen veheti át.",
+    "content_hu": "• **Április 22-én** Ruben Găitan hazafelé tartott az iskolából, amikor meglátott egy férfit egy fa közelében, de először nem értette, mi történik. Egy iskolatársa figyelmeztette, hogy a férfi öngyilkosságot kísérel meg, ezért a fiatalok visszamentek hozzá.\n\n• **Ruben és társai** a rendőrök kiérkezéséig igyekeztek megtartani a férfit. Ruben a lábait fogta, egy másik fiatal a fejét támasztotta, hogy segítsen a légzésében, egy társuk pedig telefonált a rendőrségnek. A rendőrök levették a férfit a fáról és eltávolították az övet, így sikerült megmenteni az életét.\n\n• **A helyszínen tartózkodó fiatalok közül** többen telefonnal rögzítették az esetet, miközben Rubenék a segítségnyújtásra összpontosítottak. Ruben szerint veszélyhelyzetben az embereknek lehetőségeikhez mérten cselekedniük kell, nem csupán figyelniük az eseményeket.\n\n• **Dana Găitan, Ruben édesanyja** arról beszélt, hogy fiuk nevelésében hangsúlyos volt a hit, az empátia, az együttérzés és a másokon való segítés. A családot különösen meghatotta, hogy Ruben habozás nélkül közbelépett, amikor egy ember élete forgott kockán.\n\n• **A ludasi helyi tanács** a 45-ös számú, 2026. május 26-án elfogadott határozattal ítélte oda a díszpolgári címet. A Raul Cociș tanácsos által kezdeményezett javaslatról titkos szavazással döntöttek: kilenc igen és hat nem szavazat született. Ruben, a marosvásárhelyi UMFST alkalmazott automatizálás és informatika szakos hallgatója, Ludas legfiatalabb díszpolgára lett; oklevelét az év végén adják át.",
+    "title_ro": "Ruben Găitan, cel mai tânăr cetățean de onoare al orașului Luduş",
+    "lead_ro": "Ruben Găitan, în vârstă de 19 ani, a contribuit la salvarea unui bărbat în parcul central din Luduş, pe 22 aprilie. Consiliul local i-a acordat titlul de cetățean de onoare printr-o hotărâre din 26 mai, iar diploma urmează să îi fie înmânată la o ceremonie organizată la sfârșitul anului.",
+    "content_ro": "• **Pe 22 aprilie**, Ruben Găitan se întorcea de la școală când a observat un bărbat lângă un copac, fără să înțeleagă inițial ce se petrece. Un coleg l-a anunțat că bărbatul încearcă să se sinucidă, iar tinerii s-au întors pentru a-i acorda ajutor.\n\n• **Ruben și prietenii săi** au încercat să susțină bărbatul până la sosirea poliției. Ruben i-a ținut picioarele, un alt tânăr i-a sprijinit capul pentru a-l ajuta să respire, iar un coleg a sunat la poliție. Agenții l-au coborât din copac și au îndepărtat cureaua, iar bărbatul a supraviețuit.\n\n• **Unii tineri aflați în apropiere** au filmat incidentul cu telefoanele, în timp ce Ruben și grupul său intervenea pentru a ajuta. Ruben consideră că, într-o situație periculoasă, oamenii ar trebui să facă ce pot pentru a interveni, nu doar să privească.\n\n• **Dana Găitan, mama lui Ruben**, a spus că educația fiului său a pus accent pe credință, empatie, compasiune și ajutorarea celor din jur. Pentru familie a fost emoționant faptul că Ruben a acționat fără ezitare când viața unui om era în pericol.\n\n• **Consiliul Local Luduş** a acordat distincția prin Hotărârea nr. 45 din 26 mai 2026. Inițiativa consilierului Raul Cociș a fost adoptată prin vot secret, cu nouă voturi favorabile și șase împotrivă. Student la specializarea Automatică și Informatică Aplicată a UMFST din Târgu Mureș, Ruben a devenit cel mai tânăr cetățean de onoare al orașului; diploma îi va fi înmânată la finalul anului.",
+    "importance_score": 38.0
+  },
+  {
     "group_id": "group_f86babd669",
     "fingerprint": "dd1a10fcc6e3ab31294f070344255bfa",
     "category": "Általános",
@@ -4119,7 +4173,7 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_74949bab24",
+    "group_id": "group_8d4044d491",
     "category": "Általános",
     "is_synthesized": false,
     "is_b2b_only": false,
@@ -4127,22 +4181,22 @@
     "sources": [
       {
         "source": "G4Media",
-        "title": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
-        "link": "https://www.g4media.ro/one-united-properties-isi-face-intrarea-pe-piata-din-miami-ca-partener-al-ora-by-casa-tua-o-cladire-de-77-de-etaje-din-cartierul-brickell-alaturi-de-fortune-international-group.html"
+        "title": "Program de formare în domeniul inteligenţei artificiale la Parlamentul României, iniţiat de deputatul liberal Andrei Baciu în parteneriat cu ONU",
+        "link": "https://www.g4media.ro/program-de-formare-in-domeniul-inteligentei-artificiale-la-parlamentul-romaniei-initiat-de-deputatul-liberal-andrei-baciu-in-parteneriat-cu-onu.html"
       },
       {
         "source": "Mediafax",
-        "title": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
-        "link": "https://www.mediafax.ro/economic/one-united-properties-isi-face-intrarea-pe-piata-din-miami-ca-partener-al-ora-by-casa-tua-o-cladire-de-77-de-etaje-din-cartierul-brickell-alaturi-de-fortune-international-group-23840687"
+        "title": "Parlamentul României se pregătește pentru era AI / Experți ONU sunt la București pentru a-i pregăti pe aleși",
+        "link": "https://www.mediafax.ro/politic/parlamentul-romaniei-se-pregateste-pentru-era-ai-experti-onu-sunt-la-bucuresti-pentru-a-i-pregati-pe-alesi-23840724"
       }
     ],
-    "published_at": 1794302178,
-    "title_hu": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
-    "lead_hu": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a d...",
-    "content_hu": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a devenit partener în proiectul ORA by Casa Tua, o clădire emblematică cu destinație rezidențială și mixtă din cartierul Brickell din Miami (Florida, SUA), alături de Fortune International […] © G4Media.ro.",
-    "title_ro": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
-    "lead_ro": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a d...",
-    "content_ro": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a devenit partener în proiectul ORA by Casa Tua, o clădire emblematică cu destinație rezidențială și mixtă din cartierul Brickell din Miami (Florida, SUA), alături de Fortune International […] © G4Media.ro.",
+    "published_at": 1794303432,
+    "title_hu": "Program de formare în domeniul inteligenţei artificiale la Parlamentul României, iniţiat de deputatul liberal Andrei Baciu în parteneriat cu ONU",
+    "lead_hu": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiu...",
+    "content_hu": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiunilor Unite pentru Dezvoltare (UNDP). „Este un proiect pe care l-am iniţiat în urmă cu aproximativ şase luni şi pentru a cărui concretizare am purtat discuţii şi am făcut demersuri directe […] © G4Media.ro.",
+    "title_ro": "Program de formare în domeniul inteligenţei artificiale la Parlamentul României, iniţiat de deputatul liberal Andrei Baciu în parteneriat cu ONU",
+    "lead_ro": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiu...",
+    "content_ro": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiunilor Unite pentru Dezvoltare (UNDP). „Este un proiect pe care l-am iniţiat în urmă cu aproximativ şase luni şi pentru a cărui concretizare am purtat discuţii şi am făcut demersuri directe […] © G4Media.ro.",
     "importance_score": 35.0
   },
   {
@@ -4170,6 +4224,33 @@
     "title_ro": "Nu Mbappe, Courtois sau Bellingham! Marc Cucurella a numit „cel mai bun jucător al Realului”",
     "lead_ro": "Marc Cucurella (28 de ani), fundașul stânga titular al lui Real Madrid, a fost întrebat „cine este, pentru tine, cel mai bun jucător al echipei?”, și a făcut o alegere pe undeva surprinzătoare. În can...",
     "content_ro": "Marc Cucurella (28 de ani), fundașul stânga titular al lui Real Madrid, a fost întrebat „cine este, pentru tine, cel mai bun jucător al echipei?”, și a făcut o alegere pe undeva surprinzătoare. În cantonamentul Spaniei, în așteptarea meciurilor de Liga Națiunilor din această lună, Marc Cucurella a oferit un interviu postului radio COPE. ...",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_96ea1f6169",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Attila Korodi, primarul din Miercurea-Ciuc, critică reforma administrativ-teritorială: „Otravă aruncată pe masa societății”",
+        "link": "https://www.mediafax.ro/politic/attila-korodi-primarul-din-miercurea-ciuc-critica-reforma-administrativ-teritoriala-otrava-aruncata-pe-masa-societatii-23840686"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Un primar UDMR susține că reforma administrativ-teritorială a PSD este o „otravă aruncată pe masa societății”",
+        "link": "https://adevarul.ro/politica/un-primar-udmr-sustine-ca-reforma-2570318.html"
+      }
+    ],
+    "published_at": 1794302116,
+    "title_hu": "Attila Korodi, primarul din Miercurea-Ciuc, critică reforma administrativ-teritorială: „Otravă aruncată pe masa societății”",
+    "lead_hu": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că maj...",
+    "content_hu": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că majoritatea comunităților maghiare vor avea de suferit.",
+    "title_ro": "Attila Korodi, primarul din Miercurea-Ciuc, critică reforma administrativ-teritorială: „Otravă aruncată pe masa societății”",
+    "lead_ro": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că maj...",
+    "content_ro": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că majoritatea comunităților maghiare vor avea de suferit.",
     "importance_score": 35.0
   },
   {
@@ -4284,6 +4365,62 @@
     "title_ro": "România discută la București apărarea Mării Negre și sprijinul european",
     "lead_ro": "În timpul vizitei de luni la București, Ursula von der Leyen a discutat cu președintele Nicușor Dan despre securitatea regiunii Mării Negre. Comisia Europeană a anunțat 50 de milioane de euro pentru un centru româno-bulgar de securitate și alte 10 milioane pentru operațiunile maritime de căutare și salvare ale autorităților române.",
     "content_ro": "• **Vizita de luni a Ursulei von der Leyen la București** a inclus o conferință de presă alături de președintele Nicușor Dan, la Palatul Cotroceni. Discuțiile au avut loc pe fondul înrăutățirii situației de securitate din zona Mării Negre și al incidentelor recente. Dan a afirmat că România abordase deja protejarea regiunii în dialogul cu partenerii europeni.\n\n• **Echipamente destinate apărării litoralului** au fost incluse, potrivit președintelui, în achizițiile prevăzute prin programul SAFE. România a prezentat aliaților din UE și NATO mizele de securitate ale zonei, iar Dan a menționat sprijinul concret primit în legătură cu frontiera de la Dunăre, învecinată cu Ucraina.\n\n• **Comisia Europeană va aloca 50 de milioane de euro** pentru înființarea unui centru româno-bulgar de securitate la Marea Neagră. Un buget suplimentar de 10 milioane de euro va susține misiunile de căutare și salvare pe mare desfășurate de autoritățile române. Ursula von der Leyen a prezentat finanțările la conferința comună cu șeful statului.\n\n• **Luca Niculescu a salutat sprijinul european** și cooperarea cu Comisia, potrivit unei postări publicate luni seara. Printre obiectivele menționate de acesta se află consolidarea flancului estic al UE și a regiunii Mării Negre, precum și stimularea investițiilor prin folosirea fondurilor europene disponibile.\n\n• **Următoarea etapă a cooperării** ar urma să includă un hub de securitate și punerea temporară la dispoziție a unor echipamente necesare, a explicat Dan. Abordarea prezentată de conducerea română pune accent atât pe coordonarea cu aliații, cât și pe capacitățile concrete de apărare și intervenție maritimă.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_3c7ff7aea1",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Ryanair schimbă regulile pentru pasagerii care nu plătesc alegerea locului. Când vor afla unde vor sta în avion",
+        "link": "https://stirileprotv.ro/stiri/international/ryan-air-a-introdus-un-set-de-reguli-noi-pentru-pasageri-nu-mai-pot-fi-evitate-taxele-pentru-alegerea-locurilor-din-avion.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ryanair schimbă regulile pentru bagajele de cală începând de astăzi. Pasagerii trebuie să ajungă mai devreme la aeroport",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/ryanair-schimba-regulile-pentru-bagajele-de-cala-2570316.html"
+      }
+    ],
+    "published_at": 1794299730,
+    "title_hu": "Ryanair schimbă regulile pentru pasagerii care nu plătesc alegerea locului. Când vor afla unde vor sta în avion",
+    "lead_hu": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
+    "content_hu": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
+    "title_ro": "Ryanair schimbă regulile pentru pasagerii care nu plătesc alegerea locului. Când vor afla unde vor sta în avion",
+    "lead_ro": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
+    "content_ro": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
+    "importance_score": 35.0
+  },
+  {
+    "group_id": "group_9ad644099b",
+    "fingerprint": "2a55d29b7607440614c721f90851583f",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "România a rămas iar fără energie nucleară după ce Unitatea 1 de la Cernavodă a fost oprită, din cauza unei defecțiuni. „Nu este afectată siguranța nucleară”",
+        "link": "https://www.mediafax.ro/economic/romania-a-ramas-iar-fara-energie-nucleara-dupa-ce-unitatea-1-de-la-cernavoda-a-fost-oprita-din-cauza-unei-defectiuni-nu-este-afectata-siguranta-nucleara-23840484"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "De ce s-a oprit reactorul 1 de la Cernavodă. România este nevoită să importe masiv energie la prețuri mari",
+        "link": "https://hotnews.ro/de-ce-s-a-oprit-reactorul-1-de-la-cernavoda-romania-este-nevoita-sa-importe-masiv-energie-la-preturi-mari-2399764"
+      }
+    ],
+    "published_at": 1794299622,
+    "title_hu": "Három nappal az újraindítás után ismét leállt a cernavodai 1-es blokk",
+    "lead_hu": "A Cernavodăi atomerőmű 1-es blokkja hétfő este, három nappal az újraindítása után ismét kiesett a termelésből. A Nuclearelectrica szerint a meghibásodás a blokk nem nukleáris, hagyományos berendezéseit érintette; a kiesés idején Románia jelentős áramimportra szorult.",
+    "content_hu": "• **Hétfő este** leállt a cernavodai atomerőmű 1-es blokkja, amelyet pénteken, több mint három hónapos szünetet követően helyeztek ismét üzembe. A leállást megelőzően a blokk teljesítménye hétfő délben még 520 megawatt volt a 700 megawattos névleges értékből; néhány órával később az egység már nem termelt áramot.\n\n• **A meghibásodás a hagyományos rendszert érintette**, nem az erőmű nukleáris részét – közölte a Nuclearelectrica. A vállalat vezetője szerint a védelmi rendszerek megfelelően működtek, és az eset nem veszélyeztette a nukleáris biztonságot. A hiba okáról a közölt információk nem adnak teljes körű, hivatalos magyarázatot.\n\n• **A helyreállítást követően csütörtökre várták** a blokk hálózatra kapcsolását. A tervek szerint előbb a javításokat végzik el, majd szerdán folytatják az indítási folyamatot; a Transelectrica adatai déli, 12 órás csatlakozási időpontot jeleztek. Ezek előzetes ütemezések, nem a sikeres újraindítás megerősítései.\n\n• **A kiesés idején 3000 megawattot meghaladó áramimport vált szükségessé** a hazai ellátás biztosításához. A két cernavodai blokk együtt a romániai villamosenergia-termelés körülbelül ötödét adja, amikor mindkettő teljes kapacitással üzemel; ezért az 1-es egység kiesése számottevően növelte az importigényt.\n\n• **A Nuclearelectrica lecserélte az erőmű műszaki igazgatóját**, és helyreállítási intézkedéseket indított. A vállalat közlése szerint felgyorsítják a karbantartási eljárások felülvizsgálatát, valamint ellenőrzik a műszaki támogató folyamatokat. Eközben a 2-es blokk indításához kapcsolódó teszteket is végeztek.",
+    "title_ro": "Unitatea 1 de la Cernavodă s-a oprit din nou la trei zile după repornire",
+    "lead_ro": "Unitatea 1 a centralei de la Cernavodă a fost oprită luni seară, la trei zile după ce fusese repusă în funcțiune. Nuclearelectrica a precizat că defecțiunea a vizat echipamentele clasice, nu partea nucleară, iar România a avut nevoie de importuri importante de electricitate.",
+    "content_ro": "• **Luni seară**, Unitatea 1 de la Cernavodă a încetat să mai producă energie, după ce fusese repornită vineri, în urma unei întreruperi de peste trei luni. La mijlocul zilei de luni, reactorul furniza 520 de megawați dintr-o capacitate nominală de 700; câteva ore mai târziu, centrala s-a oprit complet.\n\n• **Defecțiunea a fost localizată la partea clasică a unității**, potrivit Nuclearelectrica, și nu a afectat componenta nucleară. Conducerea companiei a transmis că sistemele de protecție au funcționat, iar securitatea nucleară nu a fost pusă în pericol. Informațiile publicate nu oferă o explicație oficială completă privind cauza tehnică a avariei.\n\n• **Reconectarea la rețea era estimată pentru joi**, după efectuarea reparațiilor și reluarea procedurilor de pornire, programată pentru miercuri. Datele Transelectrica indicau ora 12:00 pentru conectarea unității, însă acest termen reprezenta o estimare, nu confirmarea repunerii efective în funcțiune.\n\n• **Importurile de energie au depășit 3.000 de megawați** în perioada în care reactorul nu a funcționat, pe fondul necesității de a acoperi consumul intern. Atunci când ambele unități de la Cernavodă operează la capacitate maximă, ele asigură aproximativ o cincime din producția națională de electricitate; oprirea Unității 1 a mărit astfel necesarul de energie din exterior.\n\n• **Nuclearelectrica a schimbat directorul tehnic al centralei** și a anunțat măsuri pentru îmbunătățirea activităților operaționale. Planul companiei include verificarea accelerată a procedurilor de mentenanță și analizarea proceselor tehnice de suport. În paralel, au fost efectuate teste legate de pornirea Unității 2.",
     "importance_score": 35.0
   },
   {
@@ -5705,6 +5842,33 @@
     "importance_score": 23.0
   },
   {
+    "group_id": "group_8adccb7b44",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Parlament/Comisiile de buget - aviz favorabil pentru Sorin Lazăr pentru funcția de președinte al Curții de Conturi",
+        "link": "https://agerpres.ro/viata-parlamentara/2026/11/10/parlament-comisiile-de-buget---aviz-favorabil-pentru-sorin-lazar-pentru-functia-de-presedinte-al-cur--1611773"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Aviz favorabil pentru Sorin Lazăr pentru funcţia de preşedinte al Curţii de Conturi",
+        "link": "https://stirileprotv.ro/stiri/politic/aviz-favorabil-pentru-sorin-lazar-pentru-func-ia-de-presedinte-al-cur-ii-de-conturi.html"
+      }
+    ],
+    "published_at": 1794268800,
+    "title_hu": "Parlament/Comisiile de buget - aviz favorabil pentru Sorin Lazăr pentru funcția de președinte al Curții de Conturi",
+    "lead_hu": "",
+    "content_hu": "",
+    "title_ro": "Parlament/Comisiile de buget - aviz favorabil pentru Sorin Lazăr pentru funcția de președinte al Curții de Conturi",
+    "lead_ro": "",
+    "content_ro": "",
+    "importance_score": 23.0
+  },
+  {
     "group_id": "group_f557bb14ba",
     "category": "Bulvár",
     "is_synthesized": false,
@@ -6874,33 +7038,70 @@
     "importance_score": 20.0
   },
   {
-    "group_id": "group_f34a5e56db",
-    "fingerprint": "c6094623791d76ed5439574e9c16e965",
+    "group_id": "group_1f19f1bd06",
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
+    "is_synthesized": false,
     "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "ProTV Stiri",
-        "title": "România, în top 5 țări europene la înmagazinarea gazelor naturale. Ministrul Energiei anunță pregătirile pentru iarnă",
-        "link": "https://stirileprotv.ro/stiri/actualitate/romania-in-top-5-tari-europene-la-inmagazinarea-gazelor-naturale-ministrul-energiei-anunta-pregatirile-pentru-iarna.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ministrul Energiei : România este în top cinci în Europa la stocarea gazelor. „Prioritatea zero este să trecem iarna cu bine”",
-        "link": "https://www.digi24.ro/stiri/economie/energie/ministrul-energiei-romania-este-in-top-cinci-in-europa-la-stocarea-gazelor-prioritatea-zero-este-sa-trecem-iarna-cu-bine-4027467"
+        "source": "G4Media",
+        "title": "Coreea de Nord a testat o nouă torpilă de mare viteză care încorporează inteligența artificială şi intenţionează să o desfăşoare la începutul anului viitor",
+        "link": "https://www.g4media.ro/coreea-de-nord-a-testat-o-noua-torpila-de-mare-viteza-care-incorporeaza-inteligenta-artificiala-si-intentioneaza-sa-o-desfasoare-la-inceputul-anului-viitor.html"
       }
     ],
-    "published_at": 1794218499,
-    "title_hu": "Románia az európai élmezőnyben van a gáztárolásban",
-    "lead_hu": "Dumitru Chisăliță energiaügyi miniszter szerint a téli ellátás biztonsága a tárca elsődleges feladata. Románia a földgáztárolás szintje alapján az első öt európai ország között szerepel; a készletek alakulását folyamatosan figyelik.",
-    "content_hu": "• **Dumitru Chisăliță energiaügyi miniszter** egy Focus Energetic-rendezvényen arról beszélt, hogy a tárca legfontosabb célja a téli időszak biztonságos átvészelése. A 2026–2027-es télre szóló intézkedési programot már megbízatásának első napjaiban a kormány elé terjesztette.\n\n• **Románia gáztárolási szintje** a miniszter tájékoztatása szerint az európai első öt ország közé tartozik. A romániai tárolók átlagos töltöttsége több tárolói egység összesítése alapján az európai átlag fölött van.\n\n• **A készletek megőrzése és növelése** érdekében a minisztérium rendszeresen elemzi a rendelkezésre álló mennyiségeket, és egyeztet a lehetséges intézkedésekről. A tárca emellett indokoltnak tartotta az energetikai ágazatban érvényes veszélyhelyzet meghosszabbítását.\n\n• **A földgázkitárolás ütemezése** különösen a tél második felében lehet meghatározó, amikor a hideg időszakok miatt nagyobb szerep jut a tárolókban felhalmozott tartalékoknak. A miniszter szerint a szektor vállalatainak úgy kell gazdálkodniuk a készletekkel, hogy azok ekkor is elegendő mennyiségben álljanak rendelkezésre.\n\n• **A fagy és az erős hóviharok kockázataira** a minisztérium és az energetikai cégek előzetes egyeztetésekkel készülnek, mivel az időjárás az energiaellátó berendezéseket is érintheti. Chisăliță közlése szerint a tárca a készletek mellett a működésbe lépő energetikai projekteket és a cernavodai erőmű teljes újraindítását is figyelemmel kíséri.",
-    "title_ro": "România se află între primele cinci state europene la stocarea gazelor",
-    "lead_ro": "Ministrul Energiei, Dumitru Chisăliță, a afirmat că asigurarea trecerii în siguranță a iernii este obiectivul principal al instituției. România se situează în primele cinci țări europene după nivelul stocurilor de gaze, iar evoluția rezervelor este urmărită constant.",
-    "content_ro": "• **Dumitru Chisăliță, ministrul Energiei**, a prezentat prioritățile pentru sezonul rece la o reuniune organizată de Focus Energetic. Programul pentru iarna 2026–2027 a fost înaintat Guvernului spre aprobare în primele zile ale mandatului său.\n\n• **Nivelul stocurilor de gaze din România** plasează țara, potrivit ministrului, între primele cinci state europene. Media înmagazinării, calculată pentru diferitele structuri de depozitare din țară, este mai ridicată decât media europeană.\n\n• **Menținerea și suplimentarea rezervelor** se află în centrul analizelor periodice desfășurate de minister. Instituția verifică evoluția stocurilor și discută măsuri pentru păstrarea lor la un nivel suficient, considerând totodată necesară prelungirea stării de alertă din sectorul energetic.\n\n• **Ritmul de extragere a gazelor** va conta mai ales în a doua parte a iernii, când perioadele geroase pot spori necesarul de combustibil. Chisăliță a subliniat importanța gestionării rezervelor de către companiile din sector, astfel încât acestea să poată susține consumul și în această etapă.\n\n• **Gerul și viscolul puternic** pot afecta instalațiile energetice, iar ministerul a discutat cu operatorii despre modalități de intervenție în asemenea situații. Potrivit informațiilor prezentate, sunt urmărite și proiectele energetice care urmează să devină funcționale, precum și repornirea completă a centralei de la Cernavodă.",
-    "importance_score": 20.0
+    "published_at": 1794304879,
+    "title_hu": "Coreea de Nord a testat o nouă torpilă de mare viteză care încorporează inteligența artificială şi intenţionează să o desfăşoare la începutul anului viitor",
+    "lead_hu": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiun...",
+    "content_hu": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiunilor intercoreene şi înaintea turneului asiatic al preşedintelui american Donald Trump, relatează agenţia de știri EFE, citată de Agerpres. Agenţia de presă […] © G4Media.ro.",
+    "title_ro": "Coreea de Nord a testat o nouă torpilă de mare viteză care încorporează inteligența artificială şi intenţionează să o desfăşoare la începutul anului viitor",
+    "lead_ro": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiun...",
+    "content_ro": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiunilor intercoreene şi înaintea turneului asiatic al preşedintelui american Donald Trump, relatează agenţia de știri EFE, citată de Agerpres. Agenţia de presă […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ba4f434c7e",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Tinerii angajați din Cluj și București ar putea primi până la 600 de lei pe lună pentru chirie. Proiect depus la Senat",
+        "link": "https://www.mediafax.ro/politic/tinerii-angajati-din-cluj-si-bucuresti-ar-putea-primi-pana-la-600-de-lei-pe-luna-pentru-chirie-proiect-depus-la-senat-23840726"
+      }
+    ],
+    "published_at": 1794304836,
+    "title_hu": "Tinerii angajați din Cluj și București ar putea primi până la 600 de lei pe lună pentru chirie. Proiect depus la Senat",
+    "lead_hu": "Tinerii cu vârste între 18 și 29 de ani, angajați cu normă întreagă și cu venituri de cel mult 4.000 de lei net, ar putea beneficia de un ajutor lunar pentru chirie, de până la 600 de lei în Cluj-Napo...",
+    "content_hu": "Tinerii cu vârste între 18 și 29 de ani, angajați cu normă întreagă și cu venituri de cel mult 4.000 de lei net, ar putea beneficia de un ajutor lunar pentru chirie, de până la 600 de lei în Cluj-Napoca și București, potrivit unui proiect de lege depus la Senat.",
+    "title_ro": "Tinerii angajați din Cluj și București ar putea primi până la 600 de lei pe lună pentru chirie. Proiect depus la Senat",
+    "lead_ro": "Tinerii cu vârste între 18 și 29 de ani, angajați cu normă întreagă și cu venituri de cel mult 4.000 de lei net, ar putea beneficia de un ajutor lunar pentru chirie, de până la 600 de lei în Cluj-Napo...",
+    "content_ro": "Tinerii cu vârste între 18 și 29 de ani, angajați cu normă întreagă și cu venituri de cel mult 4.000 de lei net, ar putea beneficia de un ajutor lunar pentru chirie, de până la 600 de lei în Cluj-Napoca și București, potrivit unui proiect de lege depus la Senat.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_fc03b37370",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Pontmaros",
+        "title": "Koncertekkel, népzenei műsorral és tűzijátékkal ünneplik december 1-jét Marosvásárhelyen",
+        "link": "https://www.pontmaros.ro/koncertekkel-nepzenei-musorral-es-tuzijatekkal-unneplik-december-1-jet-marosvasarhelyen/"
+      }
+    ],
+    "published_at": 1794304800,
+    "title_hu": "Koncertekkel, népzenei műsorral és tűzijátékkal ünneplik december 1-jét Marosvásárhelyen",
+    "lead_hu": "Koncertekkel, népzenei előadással és tűzijátékkal ünneplik Románia nemzeti ünnepét Marosvásárhelyen. A városháza közzétette a 2026. december 1-jei rendezvények programját, amelynek fő helyszíne a váro...",
+    "content_hu": "Koncertekkel, népzenei előadással és tűzijátékkal ünneplik Románia nemzeti ünnepét Marosvásárhelyen. A városháza közzétette a 2026. december 1-jei rendezvények programját, amelynek fő helyszíne a városközpont, a …",
+    "title_ro": "Koncertekkel, népzenei műsorral és tűzijátékkal ünneplik december 1-jét Marosvásárhelyen",
+    "lead_ro": "Koncertekkel, népzenei előadással és tűzijátékkal ünneplik Románia nemzeti ünnepét Marosvásárhelyen. A városháza közzétette a 2026. december 1-jei rendezvények programját, amelynek fő helyszíne a váro...",
+    "content_ro": "Koncertekkel, népzenei előadással és tűzijátékkal ünneplik Románia nemzeti ünnepét Marosvásárhelyen. A városháza közzétette a 2026. december 1-jei rendezvények programját, amelynek fő helyszíne a városközpont, a …",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_481800f8e8",
@@ -6922,6 +7123,50 @@
     "title_ro": "Cum construiești o garderobă pentru petrecerile de sărbători fără să cumperi haine pe care le vei purta o singură dată",
     "lead_ro": "Odată cu apropierea sărbătorilor de iarnă, invitațiile la petreceri corporate, cine festive și reuniuni de familie aduc inevitabil aceeași întrebare: cu ce ne îmbrăcăm? Deși vitrinele magazinelor se u...",
     "content_ro": "Odată cu apropierea sărbătorilor de iarnă, invitațiile la petreceri corporate, cine festive și reuniuni de familie aduc inevitabil aceeași întrebare: cu ce ne îmbrăcăm? Deși vitrinele magazinelor se umplu de paiete, catifea, satin și rochii spectaculoase, tentația de a cumpăra o ținută nouă pentru fiecare eveniment poate duce la o garderobă plină de piese care […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b5aa6c0a1f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Excesul de greutate ar putea accelera îmbătrânirea creierului mai repede decât crezi. Poți face însă ceva",
+        "link": "https://stirileprotv.ro/stiri/sanatate/excesul-de-greutate-ar-putea-accelera-imbatranirea-creierului-mai-repede-decat-crezi-poti-face-insa-ceva.html"
+      }
+    ],
+    "published_at": 1794304667,
+    "title_hu": "Excesul de greutate ar putea accelera îmbătrânirea creierului mai repede decât crezi. Poți face însă ceva",
+    "lead_hu": "Un nou studiu major sugerează că excesul de greutate poate accelera îmbătrânirea creierului, dar gestionarea greutății ar putea ajuta la încetinirea declinului cognitiv în doar doi ani....",
+    "content_hu": "Un nou studiu major sugerează că excesul de greutate poate accelera îmbătrânirea creierului, dar gestionarea greutății ar putea ajuta la încetinirea declinului cognitiv în doar doi ani.",
+    "title_ro": "Excesul de greutate ar putea accelera îmbătrânirea creierului mai repede decât crezi. Poți face însă ceva",
+    "lead_ro": "Un nou studiu major sugerează că excesul de greutate poate accelera îmbătrânirea creierului, dar gestionarea greutății ar putea ajuta la încetinirea declinului cognitiv în doar doi ani....",
+    "content_ro": "Un nou studiu major sugerează că excesul de greutate poate accelera îmbătrânirea creierului, dar gestionarea greutății ar putea ajuta la încetinirea declinului cognitiv în doar doi ani.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_3f196d615a",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Pivotul lui U-BT Cluj, Uroš Plavšić, printre remarcații etapei a șaptea în ABA League. Ratează la limită titlul de MVP",
+        "link": "https://www.mediafax.ro/sport/pivotul-lui-u-bt-cluj-uros-plavsic-printre-remarcatii-etapei-a-saptea-in-aba-league-rateaza-la-limita-titlul-de-mvp-23840710"
+      }
+    ],
+    "published_at": 1794304661,
+    "title_hu": "Pivotul lui U-BT Cluj, Uroš Plavšić, printre remarcații etapei a șaptea în ABA League. Ratează la limită titlul de MVP",
+    "lead_hu": "Baschetbalistul sârb Uroš Plavšić, pivotul formației U-BT Cluj-Napoca, a fost unul dintre remarcații etapei a șaptea din ABA League (Liga Adriatică), în care campioana României a pierdut dramatic pe t...",
+    "content_hu": "Baschetbalistul sârb Uroš Plavšić, pivotul formației U-BT Cluj-Napoca, a fost unul dintre remarcații etapei a șaptea din ABA League (Liga Adriatică), în care campioana României a pierdut dramatic pe teren propriu în fața formației Bosna BH Telecom, scor 91-93.",
+    "title_ro": "Pivotul lui U-BT Cluj, Uroš Plavšić, printre remarcații etapei a șaptea în ABA League. Ratează la limită titlul de MVP",
+    "lead_ro": "Baschetbalistul sârb Uroš Plavšić, pivotul formației U-BT Cluj-Napoca, a fost unul dintre remarcații etapei a șaptea din ABA League (Liga Adriatică), în care campioana României a pierdut dramatic pe t...",
+    "content_ro": "Baschetbalistul sârb Uroš Plavšić, pivotul formației U-BT Cluj-Napoca, a fost unul dintre remarcații etapei a șaptea din ABA League (Liga Adriatică), în care campioana României a pierdut dramatic pe teren propriu în fața formației Bosna BH Telecom, scor 91-93.",
     "importance_score": 0.0
   },
   {
@@ -6966,6 +7211,50 @@
     "title_ro": "Achizițiile comune și transferul tehnologic, oportunități pentru parteneriatul româno-ucrainean în industria de apărare",
     "lead_ro": "România și Ucraina pot dezvolta parteneriate în industria de apărare, inclusiv prin achiziții comune de echipamente militare, transfer tehnologic și proiecte de cercetare și dezvoltare, a declarat Răz...",
     "content_ro": "România și Ucraina pot dezvolta parteneriate în industria de apărare, inclusiv prin achiziții comune de echipamente militare, transfer tehnologic și proiecte de cercetare și dezvoltare, a declarat Răzvan Pîrcălăbescu, directorul Romarm, în cadrul Rebuilding Ukraine Forum 2026, desfășurat la Palatul Parlamentului din București. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_adaffb9f71",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Poate fi sancționat Cristian Deliorga pentru deplasările cu avioane private către Mykonos și Nisa? Regulile de conduită care se aplică judecătorilor CCR",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/poate-fi-sanctionat-cristian-deliorga-pentru-2570310.html"
+      }
+    ],
+    "published_at": 1794304541,
+    "title_hu": "Poate fi sancționat Cristian Deliorga pentru deplasările cu avioane private către Mykonos și Nisa? Regulile de conduită care se aplică judecătorilor CCR",
+    "lead_hu": "Comisia parlamentară „Mykonos-Nordis” ar urma să verifice dacă există lacune legislative sau instituționale privind finanțarea călătoriilor, declararea beneficiilor, prevenirea conflictelor de interes...",
+    "content_hu": "Comisia parlamentară „Mykonos-Nordis” ar urma să verifice dacă există lacune legislative sau instituționale privind finanțarea călătoriilor, declararea beneficiilor, prevenirea conflictelor de interese și respectarea obligațiilor de integritate.",
+    "title_ro": "Poate fi sancționat Cristian Deliorga pentru deplasările cu avioane private către Mykonos și Nisa? Regulile de conduită care se aplică judecătorilor CCR",
+    "lead_ro": "Comisia parlamentară „Mykonos-Nordis” ar urma să verifice dacă există lacune legislative sau instituționale privind finanțarea călătoriilor, declararea beneficiilor, prevenirea conflictelor de interes...",
+    "content_ro": "Comisia parlamentară „Mykonos-Nordis” ar urma să verifice dacă există lacune legislative sau instituționale privind finanțarea călătoriilor, declararea beneficiilor, prevenirea conflictelor de interese și respectarea obligațiilor de integritate.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_b1069c0d28",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Családi tragédia: Megölte nevelt fiát és súlyosan megsebesítette feleségét a 40 éves férfi",
+        "link": "https://maszol.ro/belfold/Csaladi-tragedia-Megolte-nevelt-fiat-es-sulyosan-megsebesitette-feleseget-a-40-eves-ferfi"
+      }
+    ],
+    "published_at": 1794304440,
+    "title_hu": "Családi tragédia: Megölte nevelt fiát és súlyosan megsebesítette feleségét a 40 éves férfi",
+    "lead_hu": "Őrizetbe vették a Krassó-Szörény megyei Nándorhegyen (Oțelu Roșu) a 40 éves férfit, aki a gyanú szerint késsel rátámadt családjára: életét vesztette a 21 éves nevelt fia, a felesége pedig súlyos sérül...",
+    "content_hu": "Őrizetbe vették a Krassó-Szörény megyei Nándorhegyen (Oțelu Roșu) a 40 éves férfit, aki a gyanú szerint késsel rátámadt családjára: életét vesztette a 21 éves nevelt fia, a felesége pedig súlyos sérüléseket szenvedett.",
+    "title_ro": "Családi tragédia: Megölte nevelt fiát és súlyosan megsebesítette feleségét a 40 éves férfi",
+    "lead_ro": "Őrizetbe vették a Krassó-Szörény megyei Nándorhegyen (Oțelu Roșu) a 40 éves férfit, aki a gyanú szerint késsel rátámadt családjára: életét vesztette a 21 éves nevelt fia, a felesége pedig súlyos sérül...",
+    "content_ro": "Őrizetbe vették a Krassó-Szörény megyei Nándorhegyen (Oțelu Roșu) a 40 éves férfit, aki a gyanú szerint késsel rátámadt családjára: életét vesztette a 21 éves nevelt fia, a felesége pedig súlyos sérüléseket szenvedett.",
     "importance_score": 0.0
   },
   {
@@ -7057,6 +7346,28 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_d57a86dfed",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Drone fabricate în România cu tehnologie testată pe frontul din Ucraina. Proiectul de 200 de milioane de euro care ar putea schimba industria de apărare",
+        "link": "https://adevarul.ro/securitate-si-aparare/drone-fabricate-in-romania-cu-tehnologie-testata-2570178.html"
+      }
+    ],
+    "published_at": 1794304309,
+    "title_hu": "Drone fabricate în România cu tehnologie testată pe frontul din Ucraina. Proiectul de 200 de milioane de euro care ar putea schimba industria de apărare",
+    "lead_hu": "România și Ucraina ar putea produce împreună drone, în cadrul unui proiect finanțat prin programul european SAFE, în valoare de aproximativ 200 de milioane de euro. Parteneriatul ar putea aduce indust...",
+    "content_hu": "România și Ucraina ar putea produce împreună drone, în cadrul unui proiect finanțat prin programul european SAFE, în valoare de aproximativ 200 de milioane de euro. Parteneriatul ar putea aduce industriei românești de apărare acces la tehnologii dezvoltate și testate pe frontul din Ucraina.",
+    "title_ro": "Drone fabricate în România cu tehnologie testată pe frontul din Ucraina. Proiectul de 200 de milioane de euro care ar putea schimba industria de apărare",
+    "lead_ro": "România și Ucraina ar putea produce împreună drone, în cadrul unui proiect finanțat prin programul european SAFE, în valoare de aproximativ 200 de milioane de euro. Parteneriatul ar putea aduce indust...",
+    "content_ro": "România și Ucraina ar putea produce împreună drone, în cadrul unui proiect finanțat prin programul european SAFE, în valoare de aproximativ 200 de milioane de euro. Parteneriatul ar putea aduce industriei românești de apărare acces la tehnologii dezvoltate și testate pe frontul din Ucraina.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_8e2982e683",
     "category": "Általános",
     "is_synthesized": false,
@@ -7098,6 +7409,28 @@
     "title_ro": "Niculescu, despre incidentul de la Cernavodă: „Trebuie să ne asigurăm pe termen lung că astfel de situații nu se vor repeta”",
     "lead_ro": "Premierul Luca Niculescu a declarat marți, 10 noiembrie, că incidentul tehnic de la centrala nucleară Cernavodă este analizat de autorități, iar situația ar urma să fie remediată rapid....",
     "content_ro": "Premierul Luca Niculescu a declarat marți, 10 noiembrie, că incidentul tehnic de la centrala nucleară Cernavodă este analizat de autorități, iar situația ar urma să fie remediată rapid.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_368da80d76",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Petrolul scade sub 91 de dolari după oferta Iranului privind Strâmtoarea Ormuz. De ce nu se ieftinesc automat benzina și motorina în România",
+        "link": "https://adevarul.ro/economie/petrolul-scade-sub-91-de-dolari-dupa-oferta-2570321.html"
+      }
+    ],
+    "published_at": 1794304154,
+    "title_hu": "Petrolul scade sub 91 de dolari după oferta Iranului privind Strâmtoarea Ormuz. De ce nu se ieftinesc automat benzina și motorina în România",
+    "lead_hu": "Propunerea Teheranului de redeschidere a Strâmtorii Ormuz în 48 de ore, dacă Washingtonul îi acceptă condițiile, menține piețele petroliere în alertă. După o scădere puternică a cotațiilor, petrolul B...",
+    "content_hu": "Propunerea Teheranului de redeschidere a Strâmtorii Ormuz în 48 de ore, dacă Washingtonul îi acceptă condițiile, menține piețele petroliere în alertă. După o scădere puternică a cotațiilor, petrolul Brent a coborât marți sub 91 de dolari pe baril, însă evoluția nu se traduce automat în ieftiniri.",
+    "title_ro": "Petrolul scade sub 91 de dolari după oferta Iranului privind Strâmtoarea Ormuz. De ce nu se ieftinesc automat benzina și motorina în România",
+    "lead_ro": "Propunerea Teheranului de redeschidere a Strâmtorii Ormuz în 48 de ore, dacă Washingtonul îi acceptă condițiile, menține piețele petroliere în alertă. După o scădere puternică a cotațiilor, petrolul B...",
+    "content_ro": "Propunerea Teheranului de redeschidere a Strâmtorii Ormuz în 48 de ore, dacă Washingtonul îi acceptă condițiile, menține piețele petroliere în alertă. După o scădere puternică a cotațiilor, petrolul Brent a coborât marți sub 91 de dolari pe baril, însă evoluția nu se traduce automat în ieftiniri.",
     "importance_score": 0.0
   },
   {
@@ -7252,28 +7585,6 @@
     "title_ro": "Zbor direct Oradea - Varșovia: Palate regale și istorie evreiască, printre blocuri comuniste și zgârie-nori (FOTO)",
     "lead_ro": "Un centru istoric ridicat din ruine, bănci care cântă Chopin, palate înconjurate de grădini, blocuri comuniste vecine cu zgârie-nori moderni, istorie evreiască și „pierogi” (colțunași), într-o capital...",
     "content_ro": "Un centru istoric ridicat din ruine, bănci care cântă Chopin, palate înconjurate de grădini, blocuri comuniste vecine cu zgârie-nori moderni, istorie evreiască și „pierogi” (colțunași), într-o capitală europeană legată direct de Oradea. Varșovia se poate „trăi” într-un weekend prelungit, căci LOT zboară de patru ori pe săptămână de pe Aeroportul orădean.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_8d4044d491",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Program de formare în domeniul inteligenţei artificiale la Parlamentul României, iniţiat de deputatul liberal Andrei Baciu în parteneriat cu ONU",
-        "link": "https://www.g4media.ro/program-de-formare-in-domeniul-inteligentei-artificiale-la-parlamentul-romaniei-initiat-de-deputatul-liberal-andrei-baciu-in-parteneriat-cu-onu.html"
-      }
-    ],
-    "published_at": 1794303432,
-    "title_hu": "Program de formare în domeniul inteligenţei artificiale la Parlamentul României, iniţiat de deputatul liberal Andrei Baciu în parteneriat cu ONU",
-    "lead_hu": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiu...",
-    "content_hu": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiunilor Unite pentru Dezvoltare (UNDP). „Este un proiect pe care l-am iniţiat în urmă cu aproximativ şase luni şi pentru a cărui concretizare am purtat discuţii şi am făcut demersuri directe […] © G4Media.ro.",
-    "title_ro": "Program de formare în domeniul inteligenţei artificiale la Parlamentul României, iniţiat de deputatul liberal Andrei Baciu în parteneriat cu ONU",
-    "lead_ro": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiu...",
-    "content_ro": "În perioada 10-12 noiembrie 2026, Parlamentul României găzduieşte un program de formare în domeniul inteligenţei artificiale, organizat cu sprijinul Organizaţiei Naţiunilor Unite, prin Programul Naţiunilor Unite pentru Dezvoltare (UNDP). „Este un proiect pe care l-am iniţiat în urmă cu aproximativ şase luni şi pentru a cărui concretizare am purtat discuţii şi am făcut demersuri directe […] © G4Media.ro.",
     "importance_score": 0.0
   },
   {
@@ -7802,28 +8113,6 @@
     "title_ro": "Vindeți pe Instagram, TikTok sau marketplace? Când vine ANAF",
     "lead_ro": "Dacă vindeți haine pe care nu le mai purtați, mobilierul înlocuit sau alte obiecte folosite în gospodărie......",
     "content_ro": "Dacă vindeți haine pe care nu le mai purtați, mobilierul înlocuit sau alte obiecte folosite în gospodărie...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_96ea1f6169",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Attila Korodi, primarul din Miercurea-Ciuc, critică reforma administrativ-teritorială: „Otravă aruncată pe masa societății”",
-        "link": "https://www.mediafax.ro/politic/attila-korodi-primarul-din-miercurea-ciuc-critica-reforma-administrativ-teritoriala-otrava-aruncata-pe-masa-societatii-23840686"
-      }
-    ],
-    "published_at": 1794302116,
-    "title_hu": "Attila Korodi, primarul din Miercurea-Ciuc, critică reforma administrativ-teritorială: „Otravă aruncată pe masa societății”",
-    "lead_hu": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că maj...",
-    "content_hu": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că majoritatea comunităților maghiare vor avea de suferit.",
-    "title_ro": "Attila Korodi, primarul din Miercurea-Ciuc, critică reforma administrativ-teritorială: „Otravă aruncată pe masa societății”",
-    "lead_ro": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că maj...",
-    "content_ro": "Attila Korodi (UDMR), primarul din Miercurea-Ciuc, critică proiectul PSD privind reorganizarea administrativ-teritorială, pe care îl numește „otravă aruncată pe masa societății”, și avertizează că majoritatea comunităților maghiare vor avea de suferit.",
     "importance_score": 0.0
   },
   {
@@ -8462,28 +8751,6 @@
     "title_ro": "Maestrul Ioan Holender în dialog muzical cu renumita soprană Adela Zaharia, la Cazino Music Festival",
     "lead_ro": "Pe 14 și 15 noiembrie, doi dintre cei mai importanți reprezentanți români ai muzicii clasice mondiale se întâlnesc pe scenă, într-un format nemaiîntâlnit până acum",
     "content_ro": "Pe 14 și 15 noiembrie, doi dintre cei mai importanți reprezentanți români ai muzicii clasice mondiale se întâlnesc pe scenă, într-un format nemaiîntâlnit până acum",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_3c7ff7aea1",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Ryanair schimbă regulile pentru pasagerii care nu plătesc alegerea locului. Când vor afla unde vor sta în avion",
-        "link": "https://stirileprotv.ro/stiri/international/ryan-air-a-introdus-un-set-de-reguli-noi-pentru-pasageri-nu-mai-pot-fi-evitate-taxele-pentru-alegerea-locurilor-din-avion.html"
-      }
-    ],
-    "published_at": 1794299730,
-    "title_hu": "Ryanair schimbă regulile pentru pasagerii care nu plătesc alegerea locului. Când vor afla unde vor sta în avion",
-    "lead_hu": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
-    "content_hu": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
-    "title_ro": "Ryanair schimbă regulile pentru pasagerii care nu plătesc alegerea locului. Când vor afla unde vor sta în avion",
-    "lead_ro": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
-    "content_ro": "Ryanair a introdus două modificări importante privind check-in-ul și repartizarea locurilor, care îi afectează pe pasagerii care preferă să nu plătească pentru alegerea unui scaun.",
     "importance_score": 0.0
   },
   {
@@ -21071,116 +21338,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_7c5f8e5b6d",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Surse: Ilie Bolojan a schimbat doi șefi de filiale PNL la Călărași și Gorj pentru rezultate slabe",
-        "link": "https://www.g4media.ro/surse-ilie-bolojan-a-schimbat-doi-sefi-de-filiale-pnl-la-calarasi-si-gorj-pentru-rezultate-slabe.html"
-      }
-    ],
-    "published_at": 1794218572,
-    "title_hu": "Surse: Ilie Bolojan a schimbat doi șefi de filiale PNL la Călărași și Gorj pentru rezultate slabe",
-    "lead_hu": "Președintele PNL Ilie Bolojan a propus în ședința conducerii partidului de duminică seară schimbaare a doi șefi de filiale PNL – Călărași și Gorj – pentru rezultate slabe, iar membrii Biroului Politic…",
-    "content_hu": "Președintele PNL Ilie Bolojan a propus în ședința conducerii partidului de duminică seară schimbaare a doi șefi de filiale PNL – Călărași și Gorj – pentru rezultate slabe, iar membrii Biroului Politic Național au votat cu majoritate înlocuirea lor cu șefi interimari, au declarat pentru G4Media surse liberale. Astfel, Ciprian Pandea a fost înlocuit la […] © G4Media.ro.",
-    "title_ro": "Surse: Ilie Bolojan a schimbat doi șefi de filiale PNL la Călărași și Gorj pentru rezultate slabe",
-    "lead_ro": "Președintele PNL Ilie Bolojan a propus în ședința conducerii partidului de duminică seară schimbaare a doi șefi de filiale PNL – Călărași și Gorj – pentru rezultate slabe, iar membrii Biroului Politic…",
-    "content_ro": "Președintele PNL Ilie Bolojan a propus în ședința conducerii partidului de duminică seară schimbaare a doi șefi de filiale PNL – Călărași și Gorj – pentru rezultate slabe, iar membrii Biroului Politic Național au votat cu majoritate înlocuirea lor cu șefi interimari, au declarat pentru G4Media surse liberale. Astfel, Ciprian Pandea a fost înlocuit la […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_54fb93b34b",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Premierul Lecornu se întâlnește luni cu sindicatele, studenții și elevii, după săptămâni de proteste violente în Franța / „Furia nu va dispărea doar pentru că guvernul anunță câțiva euro la salariul minim”, avertizează CGT, una dintre cele mai mari confederații sindicale",
-        "link": "https://www.g4media.ro/premierul-lecornu-se-intalneste-luni-cu-sindicatele-studentii-si-elevii-dupa-saptamani-de-proteste-violente-in-franta-furia-nu-va-disparea-doar-pentru-ca-guvernul-anunta-cativa-euro-la-sa.html"
-      }
-    ],
-    "published_at": 1794218541,
-    "title_hu": "Premierul Lecornu se întâlnește luni cu sindicatele, studenții și elevii, după săptămâni de proteste violente în Franța / „Furia nu va dispărea doar pentru că guvernul anunță câțiva euro la salariul minim”, avertizează CGT, una dintre cele mai mari confederații sindicale",
-    "lead_hu": "Sub presiune, premierul Sébastien Lecornu încearcă luni să răspundă furiei sociale exprimate de câteva săptămâni de sindicate și tineri. De asemenea, luni după-amiază se întâlnește cu organizații stud…",
-    "content_hu": "Sub presiune, premierul Sébastien Lecornu încearcă luni să răspundă furiei sociale exprimate de câteva săptămâni de sindicate și tineri. De asemenea, luni după-amiază se întâlnește cu organizații studențești din licee și universități, scrie franceinfo.fr. „Conferința socială nu este o acțiune caritabilă”, a declarat secretarul general al CGT la radio France Inter luni, 9 noiembrie. „Furia […] © G4Media.ro.",
-    "title_ro": "Premierul Lecornu se întâlnește luni cu sindicatele, studenții și elevii, după săptămâni de proteste violente în Franța / „Furia nu va dispărea doar pentru că guvernul anunță câțiva euro la salariul minim”, avertizează CGT, una dintre cele mai mari confederații sindicale",
-    "lead_ro": "Sub presiune, premierul Sébastien Lecornu încearcă luni să răspundă furiei sociale exprimate de câteva săptămâni de sindicate și tineri. De asemenea, luni după-amiază se întâlnește cu organizații stud…",
-    "content_ro": "Sub presiune, premierul Sébastien Lecornu încearcă luni să răspundă furiei sociale exprimate de câteva săptămâni de sindicate și tineri. De asemenea, luni după-amiază se întâlnește cu organizații studențești din licee și universități, scrie franceinfo.fr. „Conferința socială nu este o acțiune caritabilă”, a declarat secretarul general al CGT la radio France Inter luni, 9 noiembrie. „Furia […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a545c6a63c",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Groapă de gunoi la înălțime. Sute de kilograme de deșeuri aruncate pe acoperișul unui bloc",
-        "link": "https://www.mediafax.ro/social/groapa-de-gunoi-la-inaltime-sute-de-kilograme-de-deseuri-aruncate-pe-acoperisul-unui-bloc-23840137"
-      }
-    ],
-    "published_at": 1794218459,
-    "title_hu": "Groapă de gunoi la înălțime. Sute de kilograme de deșeuri aruncate pe acoperișul unui bloc",
-    "lead_hu": "Comisarii Gărzii de Mediu Vaslui au descoperit sute de kilograme de deșeuri aruncate și depozitate pe acoperișul unui bloc de locuințe. Printre acestea se aflau materiale de construcții, textile și ob…",
-    "content_hu": "Comisarii Gărzii de Mediu Vaslui au descoperit sute de kilograme de deșeuri aruncate și depozitate pe acoperișul unui bloc de locuințe. Printre acestea se aflau materiale de construcții, textile și obiecte vechi.",
-    "title_ro": "Groapă de gunoi la înălțime. Sute de kilograme de deșeuri aruncate pe acoperișul unui bloc",
-    "lead_ro": "Comisarii Gărzii de Mediu Vaslui au descoperit sute de kilograme de deșeuri aruncate și depozitate pe acoperișul unui bloc de locuințe. Printre acestea se aflau materiale de construcții, textile și ob…",
-    "content_ro": "Comisarii Gărzii de Mediu Vaslui au descoperit sute de kilograme de deșeuri aruncate și depozitate pe acoperișul unui bloc de locuințe. Printre acestea se aflau materiale de construcții, textile și obiecte vechi.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ddacede8d3",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Két országos bajnoki címet szereztek a birkózók az U23-as bajnokságon",
-        "link": "https://www.pontmaros.ro/ket-orszagos-bajnoki-cimet-szereztek-a-birkozok-az-u23-as-bajnoksagon/"
-      }
-    ],
-    "published_at": 1794218400,
-    "title_hu": "Két országos bajnoki címet szereztek a birkózók az U23-as bajnokságon",
-    "lead_hu": "Két aranyéremmel zárták a marosvásárhelyi VSK birkózói a november 6–8. között a romániai Onești-en megrendezett U23-as országos bajnokság döntőjét. Lircă Georgiana az 57 kilogrammos súlycsoportban, …",
-    "content_hu": "Két aranyéremmel zárták a marosvásárhelyi VSK birkózói a november 6–8. között a romániai Onești-en megrendezett U23-as országos bajnokság döntőjét. Lircă Georgiana az 57 kilogrammos súlycsoportban, …",
-    "title_ro": "Két országos bajnoki címet szereztek a birkózók az U23-as bajnokságon",
-    "lead_ro": "Két aranyéremmel zárták a marosvásárhelyi VSK birkózói a november 6–8. között a romániai Onești-en megrendezett U23-as országos bajnokság döntőjét. Lircă Georgiana az 57 kilogrammos súlycsoportban, …",
-    "content_ro": "Két aranyéremmel zárták a marosvásárhelyi VSK birkózói a november 6–8. között a romániai Onești-en megrendezett U23-as országos bajnokság döntőjét. Lircă Georgiana az 57 kilogrammos súlycsoportban, …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5f9ec04104",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Oscar Piastri se desparte de cunoscutul său impresar Mark Webber",
-        "link": "https://www.g4media.ro/oscar-piastri-se-desparte-de-cunoscutul-sau-impresar-mark-webber.html"
-      }
-    ],
-    "published_at": 1794218337,
-    "title_hu": "Oscar Piastri se desparte de cunoscutul său impresar Mark Webber",
-    "lead_hu": "Oscar Piastri a terminat pe locul șase Marele Premiu de Formula 1 din Brazilia. Pilotul celor de la McLaren a anunțat că se desparte de Mark Webber, cel care i-a fost manager timp de șapte ani, transm…",
-    "content_hu": "Oscar Piastri a terminat pe locul șase Marele Premiu de Formula 1 din Brazilia. Pilotul celor de la McLaren a anunțat că se desparte de Mark Webber, cel care i-a fost manager timp de șapte ani, transmite motorsport.com. VIDEO: Leclerc, penalizat după cursa din Brazilia – A pierdut un loc în clasamentul final Contractul dintre […] © G4Media.ro.",
-    "title_ro": "Oscar Piastri se desparte de cunoscutul său impresar Mark Webber",
-    "lead_ro": "Oscar Piastri a terminat pe locul șase Marele Premiu de Formula 1 din Brazilia. Pilotul celor de la McLaren a anunțat că se desparte de Mark Webber, cel care i-a fost manager timp de șapte ani, transm…",
-    "content_ro": "Oscar Piastri a terminat pe locul șase Marele Premiu de Formula 1 din Brazilia. Pilotul celor de la McLaren a anunțat că se desparte de Mark Webber, cel care i-a fost manager timp de șapte ani, transmite motorsport.com. VIDEO: Leclerc, penalizat după cursa din Brazilia – A pierdut un loc în clasamentul final Contractul dintre […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_3782e4302d",
     "fingerprint": "917214a0a9fead90373bb9acae16247a",
     "category": "Általános",
@@ -21396,66 +21553,30 @@
     "importance_score": 45.0
   },
   {
-    "group_id": "group_9343c880b9",
-    "fingerprint": "a2df87d5a213bfe110e5b73ebfa936d8",
+    "group_id": "group_74949bab24",
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Cristi Chivu, premiat în Italia pentru merite sportive. Distincție specială la Parma, într-o gală cu mari personalități ale sportului",
-        "link": "https://www.mediafax.ro/sport/cristi-chivu-premiat-in-italia-pentru-merite-sportive-distinctie-speciala-la-parma-intr-o-gala-cu-mari-personalitati-ale-sportului-23840599"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cristian Chivu a primit Premiul pentru Merite Sportive în cadrul unei ceremonii la Parma. Ce mesaj a transmis clubul",
-        "link": "https://stirileprotv.ro/stiri/sport/cristian-chivu-a-primit-premiul-pentru-merite-sportive-in-cadrul-unei-ceremonii-la-parma-ce-mesaj-a-transmis-clubul.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cristian Chivu, premiat în Italia: „Sunt recunoscător”",
-        "link": "https://www.g4media.ro/cristian-chivu-premiat-in-italia-sunt-recunoscator.html"
-      }
-    ],
-    "published_at": 1794295883,
-    "title_hu": "Cristi Chivu sportért járó elismerést kapott Parmában",
-    "lead_hu": "Cristi Chivu november 9-én a parmai Sport Civiltà-díjátadó ünnepségen vehette át a Benemerenze Sportive elismerést. A díjjal sportpályafutását és a sportban képviselt értékeit ismerték el.",
-    "content_hu": "• **November 9-én, Parmában** rendezték meg a Sport Civiltà nemzetközi díj 48. átadóját. A Teatro Regióban tartott eseményen Cristi Chivu kapta a Benemerenze Sportive kitüntetést, amelyet a sporteredmények mellett a sportéletben képviselt értékekért is odaítélnek.\n\n• **Chivu elismeréséről a Carlo Magri vezette zsűri döntött.** Indoklásukban szakmai és emberi tulajdonságait emelték ki, valamint azt, hogy példát mutat a sportban. A méltatásban a kitartás, a tisztesség és a felelősségvállalás is hangsúlyt kapott.\n\n• **A díjátadó a parmai sport- és kulturális élet hagyományos rendezvénye.** A szervezést a Sportveteránok Országos Szövetségének helyi szervezete végezte, a város önkormányzatának támogatásával és olasz sportintézmények védnökségével. A gálán sportolók, edzők, klubvezetők és újságírók is részt vettek.\n\n• **Chivu számára a parmai visszatérés korábbi edzői időszakához kapcsolódott.** A román szakember nehéz helyzetben vette át a csapatot, majd irányításával a Parma elérte a Serie A-ban maradást. Ezt követően Chivu az Inter Milanhoz került.\n\n• **A tréner érzelmileg fontosnak nevezte a Parmához fűződő időszakot.** Úgy értékelte, hogy rövid, de intenzív fejezet volt az életében, amely sikeres lezárással ért véget. Köszönetet mondott a klubnak, valamint Cherubini igazgatónak és Pettinának.",
-    "title_ro": "Cristi Chivu a primit o distincție pentru merite sportive la Parma",
-    "lead_ro": "Cristi Chivu a fost premiat pe 9 noiembrie, la ceremonia Sport Civiltà desfășurată la Parma. Distincția Benemerenze Sportive a recunoscut atât activitatea sa sportivă, cât și valorile pe care le promovează.",
-    "content_ro": "• **Ceremonia a avut loc pe 9 noiembrie, la Parma**, cu prilejul celei de-a 48-a ediții a Premiului Internațional Sport Civiltà. La Teatro Regio, Cristi Chivu a primit distincția Benemerenze Sportive, acordată pentru rezultate și pentru contribuția la promovarea unor valori prin sport.\n\n• **Selecția lui Chivu a fost făcută de juriul condus de Carlo Magri.** Membrii au luat în considerare atât profilul său profesional, cât și calitățile personale. Motivația a evidențiat perseverența, corectitudinea, asumarea responsabilității și rolul său de exemplu în lumea sportului.\n\n• **Premiul Sport Civiltà este un eveniment cu tradiție în viața orașului Parma.** Gala a fost organizată de filiala locală a Uniunii Naționale a Veteranilor Sportului, cu sprijinul municipalității și sub patronajul unor instituții sportive italiene. La întâlnire au fost prezenți sportivi, antrenori, reprezentanți ai cluburilor și jurnaliști.\n\n• **Revenirea lui Chivu la Parma a avut legătură cu perioada în care a antrenat echipa.** Tehnicianul român a preluat formația într-un moment dificil, iar sub conducerea sa clubul și-a asigurat menținerea în Serie A. Ulterior, Chivu a ajuns la Inter Milano.\n\n• **Antrenorul a descris experiența parmeză drept una importantă pentru el.** A apreciat că intervalul petrecut acolo a fost scurt, dar intens și s-a încheiat cu un rezultat bun. Chivu le-a mulțumit clubului Parma, directorului Cherubini și lui Pettinà.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_9ad644099b",
-    "fingerprint": "2a55d29b7607440614c721f90851583f",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
+    "is_synthesized": false,
     "is_b2b_only": false,
     "sources_count": 2,
     "sources": [
       {
-        "source": "Mediafax",
-        "title": "România a rămas iar fără energie nucleară după ce Unitatea 1 de la Cernavodă a fost oprită, din cauza unei defecțiuni. „Nu este afectată siguranța nucleară”",
-        "link": "https://www.mediafax.ro/economic/romania-a-ramas-iar-fara-energie-nucleara-dupa-ce-unitatea-1-de-la-cernavoda-a-fost-oprita-din-cauza-unei-defectiuni-nu-este-afectata-siguranta-nucleara-23840484"
+        "source": "G4Media",
+        "title": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
+        "link": "https://www.g4media.ro/one-united-properties-isi-face-intrarea-pe-piata-din-miami-ca-partener-al-ora-by-casa-tua-o-cladire-de-77-de-etaje-din-cartierul-brickell-alaturi-de-fortune-international-group.html"
       },
       {
-        "source": "HotNews.ro",
-        "title": "De ce s-a oprit reactorul 1 de la Cernavodă. România este nevoită să importe masiv energie la prețuri mari",
-        "link": "https://hotnews.ro/de-ce-s-a-oprit-reactorul-1-de-la-cernavoda-romania-este-nevoita-sa-importe-masiv-energie-la-preturi-mari-2399764"
+        "source": "Mediafax",
+        "title": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
+        "link": "https://www.mediafax.ro/economic/one-united-properties-isi-face-intrarea-pe-piata-din-miami-ca-partener-al-ora-by-casa-tua-o-cladire-de-77-de-etaje-din-cartierul-brickell-alaturi-de-fortune-international-group-23840687"
       }
     ],
-    "published_at": 1794299622,
-    "title_hu": "Három nappal az újraindítás után ismét leállt a cernavodai 1-es blokk",
-    "lead_hu": "A Cernavodăi atomerőmű 1-es blokkja hétfő este, három nappal az újraindítása után ismét kiesett a termelésből. A Nuclearelectrica szerint a meghibásodás a blokk nem nukleáris, hagyományos berendezéseit érintette; a kiesés idején Románia jelentős áramimportra szorult.",
-    "content_hu": "• **Hétfő este** leállt a cernavodai atomerőmű 1-es blokkja, amelyet pénteken, több mint három hónapos szünetet követően helyeztek ismét üzembe. A leállást megelőzően a blokk teljesítménye hétfő délben még 520 megawatt volt a 700 megawattos névleges értékből; néhány órával később az egység már nem termelt áramot.\n\n• **A meghibásodás a hagyományos rendszert érintette**, nem az erőmű nukleáris részét – közölte a Nuclearelectrica. A vállalat vezetője szerint a védelmi rendszerek megfelelően működtek, és az eset nem veszélyeztette a nukleáris biztonságot. A hiba okáról a közölt információk nem adnak teljes körű, hivatalos magyarázatot.\n\n• **A helyreállítást követően csütörtökre várták** a blokk hálózatra kapcsolását. A tervek szerint előbb a javításokat végzik el, majd szerdán folytatják az indítási folyamatot; a Transelectrica adatai déli, 12 órás csatlakozási időpontot jeleztek. Ezek előzetes ütemezések, nem a sikeres újraindítás megerősítései.\n\n• **A kiesés idején 3000 megawattot meghaladó áramimport vált szükségessé** a hazai ellátás biztosításához. A két cernavodai blokk együtt a romániai villamosenergia-termelés körülbelül ötödét adja, amikor mindkettő teljes kapacitással üzemel; ezért az 1-es egység kiesése számottevően növelte az importigényt.\n\n• **A Nuclearelectrica lecserélte az erőmű műszaki igazgatóját**, és helyreállítási intézkedéseket indított. A vállalat közlése szerint felgyorsítják a karbantartási eljárások felülvizsgálatát, valamint ellenőrzik a műszaki támogató folyamatokat. Eközben a 2-es blokk indításához kapcsolódó teszteket is végeztek.",
-    "title_ro": "Unitatea 1 de la Cernavodă s-a oprit din nou la trei zile după repornire",
-    "lead_ro": "Unitatea 1 a centralei de la Cernavodă a fost oprită luni seară, la trei zile după ce fusese repusă în funcțiune. Nuclearelectrica a precizat că defecțiunea a vizat echipamentele clasice, nu partea nucleară, iar România a avut nevoie de importuri importante de electricitate.",
-    "content_ro": "• **Luni seară**, Unitatea 1 de la Cernavodă a încetat să mai producă energie, după ce fusese repornită vineri, în urma unei întreruperi de peste trei luni. La mijlocul zilei de luni, reactorul furniza 520 de megawați dintr-o capacitate nominală de 700; câteva ore mai târziu, centrala s-a oprit complet.\n\n• **Defecțiunea a fost localizată la partea clasică a unității**, potrivit Nuclearelectrica, și nu a afectat componenta nucleară. Conducerea companiei a transmis că sistemele de protecție au funcționat, iar securitatea nucleară nu a fost pusă în pericol. Informațiile publicate nu oferă o explicație oficială completă privind cauza tehnică a avariei.\n\n• **Reconectarea la rețea era estimată pentru joi**, după efectuarea reparațiilor și reluarea procedurilor de pornire, programată pentru miercuri. Datele Transelectrica indicau ora 12:00 pentru conectarea unității, însă acest termen reprezenta o estimare, nu confirmarea repunerii efective în funcțiune.\n\n• **Importurile de energie au depășit 3.000 de megawați** în perioada în care reactorul nu a funcționat, pe fondul necesității de a acoperi consumul intern. Atunci când ambele unități de la Cernavodă operează la capacitate maximă, ele asigură aproximativ o cincime din producția națională de electricitate; oprirea Unității 1 a mărit astfel necesarul de energie din exterior.\n\n• **Nuclearelectrica a schimbat directorul tehnic al centralei** și a anunțat măsuri pentru îmbunătățirea activităților operaționale. Planul companiei include verificarea accelerată a procedurilor de mentenanță și analizarea proceselor tehnice de suport. În paralel, au fost efectuate teste legate de pornirea Unității 2.",
+    "published_at": 1794302178,
+    "title_hu": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
+    "lead_hu": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a d...",
+    "content_hu": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a devenit partener în proiectul ORA by Casa Tua, o clădire emblematică cu destinație rezidențială și mixtă din cartierul Brickell din Miami (Florida, SUA), alături de Fortune International […] © G4Media.ro.",
+    "title_ro": "One United Properties își face intrarea pe piața din Miami ca partener al ORA by Casa Tua, o clădire de 77 de etaje din cartierul Brickell, alături de Fortune International Group",
+    "lead_ro": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a d...",
+    "content_ro": "One United Properties (BVB: ONE), principalul investitor și dezvoltator imobiliar de proiecte sustenabile rezidențiale, de birouri și mixte de ultimă generație listat la Bursa de Valori București, a devenit partener în proiectul ORA by Casa Tua, o clădire emblematică cu destinație rezidențială și mixtă din cartierul Brickell din Miami (Florida, SUA), alături de Fortune International […] © G4Media.ro.",
     "importance_score": 35.0
   },
   {
