@@ -126,6 +126,7 @@ export function NewsFeed({ view }: { view: FeedView }) {
               <RichText text={translated(item).title} />
             </h3>
           </StoryLink>
+          <TagChips item={item} className="mt-2" />
         </li>
       ))}
     </ol>
@@ -298,21 +299,18 @@ export function NewsFeed({ view }: { view: FeedView }) {
                 aria-label={ro ? "Știri principale" : "Kiemelt hírek"}
                 className="grid grid-cols-12 gap-4 lg:auto-rows-[240px]"
               >
-                <article className="col-span-12 min-w-0 lg:col-span-8 lg:row-span-2">
-                  <StoryLink
-                    item={lead}
-                    className="group relative flex h-full flex-col justify-end overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50"
-                  >
-                    <img
-                      src={heroPhoto(lead.category, `${lead.title} ${lead.lead}`, lead.group_id)}
-                      alt=""
-                      aria-hidden
-                      loading="eager"
-                      className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-background via-background/75 to-background/25" />
-                    <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
-                    <div className="relative p-5 sm:p-8">
+                <article className="group relative col-span-12 flex min-w-0 flex-col overflow-hidden rounded-lg border border-primary/25 bg-card transition-colors hover:border-primary/50 lg:col-span-8 lg:row-span-2">
+                  <img
+                    src={heroPhoto(lead.category, `${lead.title} ${lead.lead}`, lead.group_id)}
+                    alt=""
+                    aria-hidden
+                    loading="eager"
+                    className="absolute inset-0 size-full object-cover opacity-75 transition-opacity duration-500 group-hover:opacity-90"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-background via-background/75 to-background/25" />
+                  <div className="absolute inset-y-0 left-0 w-1 bg-primary" />
+                  <StoryLink item={lead} className="relative flex flex-1 flex-col justify-end">
+                    <div className="relative p-5 pb-3 sm:p-8 sm:pb-3">
                       <div className="mb-4 flex flex-wrap items-center gap-3">
                         <span className="rounded-sm border border-primary/20 bg-primary/10 px-2 py-1 text-[10px] font-bold uppercase text-primary">
                           ✨ {ro ? "Știre sintetizată cu AI" : "AI összesített hír"}
@@ -336,17 +334,18 @@ export function NewsFeed({ view }: { view: FeedView }) {
                       </p>
                     </div>
                   </StoryLink>
+                  <TagChips item={lead} className="mx-5 mb-5 sm:mx-8 sm:mb-6" />
                 </article>
                 {[side1, side2]
                   .filter((item): item is NewsItem => Boolean(item))
                   .map((item) => (
                     <article
                       key={item.group_id}
-                      className="col-span-12 min-w-0 sm:col-span-6 lg:col-span-4"
+                      className="col-span-12 flex min-h-44 min-w-0 flex-col rounded-lg border border-border bg-card transition-colors hover:border-primary/30 sm:col-span-6 lg:col-span-4"
                     >
                       <StoryLink
                         item={item}
-                        className="group flex h-full min-h-44 flex-col justify-between rounded-lg border border-border bg-card p-6 transition-colors hover:border-primary/30"
+                        className="group flex flex-1 flex-col justify-between p-6 pb-3"
                       >
                         <div>
                           <p className="mb-3 text-[10px] font-bold uppercase text-primary">
@@ -363,6 +362,7 @@ export function NewsFeed({ view }: { view: FeedView }) {
                           <Coverage item={item} lang={lang} />
                         </div>
                       </StoryLink>
+                      <TagChips item={item} className="px-6 pb-5" />
                     </article>
                   ))}
               </section>
@@ -412,6 +412,7 @@ export function NewsFeed({ view }: { view: FeedView }) {
                           </span>
                         </p>
                       </StoryLink>
+                      <TagChips item={item} className="mt-3" />
                     </article>
                   ))}
                 </div>
