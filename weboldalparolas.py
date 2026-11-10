@@ -426,7 +426,7 @@ def run_pipeline():
             if item.get("is_b2b_only"):
                 news_map[g_id]["is_b2b_only"] = True
 
-            # 🎯 KULCS MÓDOSÍTÁS: Ha a cikk már AI által szintetizált, a szintetizált főcímből frissítjük a slug-ot!
+            # Ha a cikk már AI által szintetizált, a szintetizált főcímből frissítjük a slug-ot!
             title_for_slug = news_map[g_id].get("title_hu") or news_map[g_id].get("title_ro")
             if news_map[g_id].get("is_synthesized") and title_for_slug:
                 clean_slug = slugify(title_for_slug)
@@ -434,6 +434,11 @@ def run_pipeline():
             elif "slug" not in news_map[g_id]:
                 clean_slug = slugify(item.get("title", ""))
                 news_map[g_id]["slug"] = f"{clean_slug}-{short_id}" if clean_slug else g_id
+
+            # Címkék (tags) megőrzése vagy alapértelmezett beállítása
+            if "tags" not in news_map[g_id] or not news_map[g_id]["tags"]:
+                cat_tag = slugify(item.get("category", "Általános"))
+                news_map[g_id]["tags"] = [cat_tag] if cat_tag else ["hirek"]
         
         # B) HA ÚJ HÍRCSOPORT, HOZZÁADJUK NYERSKÉNT:
         else:
@@ -445,9 +450,13 @@ def run_pipeline():
             clean_slug = slugify(item.get("title", ""))
             final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
 
+            cat_tag = slugify(item.get("category", "Általános"))
+            initial_tags = [cat_tag] if cat_tag else ["hirek"]
+
             news_map[g_id] = {
                 "group_id": g_id,
                 "slug": final_slug,
+                "tags": initial_tags,
                 "category": item.get("category", "Általános"),
                 "is_synthesized": False,
                 "is_b2b_only": item.get("is_b2b_only", False),
@@ -485,7 +494,7 @@ def run_pipeline():
 
     valid_news_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
 
-    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE (EGYETLEN ÉS TÖBB HÍR TÁMOGATÁSA)
+    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE
     manual_top_data = load_json_file(MANUAL_TOP_FILE)
     forced_group_ids = []
 
