@@ -6,6 +6,7 @@ const KEY = "stirix-lang";
 let current: Lang = "hu";
 let locked = false;
 const subs = new Set<() => void>();
+export const getLang = (): Lang => current;
 
 /** A domén (hirx.ro / strix.ro) által meghatározott nyelv; render előtt hívandó. */
 export function initDomainLang(l: Lang | null) {

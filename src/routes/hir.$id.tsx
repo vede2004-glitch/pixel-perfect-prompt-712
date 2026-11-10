@@ -1,12 +1,15 @@
 import { BrandLogo } from "@/components/BrandLogo";
-import { createFileRoute, Link, notFound } from "@tanstack/react-router";
+import { createFileRoute, Link, notFound, useRouter } from "@tanstack/react-router";
+import { useEffect } from "react";
 import { ArrowLeft, ExternalLink, Sparkles } from "lucide-react";
 import { SiteMenu } from "@/components/SiteMenu";
-import { ensureHistory, getNews, timeAgo, tr } from "@/lib/news";
+import { articlePath, ensureHistory, getNews, timeAgo, tr } from "@/lib/news";
 import { getLiveNews } from "@/lib/news-live.functions";
 import { RichText, plainBold } from "@/components/RichText";
-import { useLang, setLang, LANGS } from "@/lib/lang";
-import { articleSchema, breadcrumbSchema, serializeArticleSchema, SITE_URL } from "@/lib/article-schema";
+import { useLang, setLang, getLang, LANGS } from "@/lib/lang";
+import { getDomainLang } from "@/lib/domain.functions";
+import { Button } from "@/components/ui/button";
+import { articleSchema, breadcrumbSchema, serializeArticleSchema } from "@/lib/article-schema";
 
 export const Route = createFileRoute("/hir/$id")({
   loader: async ({ params }) => {
@@ -22,11 +25,14 @@ export const Route = createFileRoute("/hir/$id")({
       item = getNews(params.id);
     }
     if (!item) throw notFound();
-    return item;
+    const lang = typeof window === "undefined" ? (await getDomainLang()) ?? "hu" : getLang();
+    return { ...item, lang };
   },
   head: ({ loaderData }) => {
-    const title = loaderData ? `${loaderData.title} – Stirix.ro` : "Hír – Stirix.ro";
-    const desc = plainBold(loaderData?.lead ?? "").slice(0, 160) ?? "Stirix.ro hír";
+    const lang = loaderData?.lang ?? "hu";
+    const text = loaderData ? tr(loaderData, lang) : null;
+    const title = text ? `${plainBold(text.title)} – ${lang === "ro" ? "Stirix.ro" : "Hirx.ro"}` : "Hír / Știre – Stirix";
+    const desc = plainBold(text?.lead ?? "").slice(0, 160);
     const meta = [
       { title },
       { name: "description", content: desc },
@@ -35,13 +41,14 @@ export const Route = createFileRoute("/hir/$id")({
       { property: "og:type", content: "article" },
       { name: "twitter:card", content: "summary" },
     ];
-    const url = loaderData ? `${SITE_URL}/hir/${encodeURIComponent(loaderData.group_id)}` : undefined;
+    const url = loaderData ? `https://pixel-perfect-prompt-712.lovable.app/hir/${encodeURIComponent(articlePath(loaderData))}` : undefined;
     return {
       meta: [...meta, ...(url ? [{ property: "og:url", content: url }] : [])],
+      links: url ? [{ rel: "canonical", href: url }] : [],
       scripts: loaderData
         ? [
-            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, null)) },
-            { type: "application/ld+json", children: serializeArticleSchema(breadcrumbSchema(loaderData)) },
+            { type: "application/ld+json", children: serializeArticleSchema(articleSchema(loaderData, null, lang)) },
+            { type: "application/ld+json", children: serializeArticleSchema(breadcrumbSchema(loaderData, lang)) },
           ]
         : [],
     };
@@ -52,6 +59,10 @@ export const Route = createFileRoute("/hir/$id")({
 function Article() {
   const item = Route.useLoaderData();
   const lang = useLang();
+  const router = useRouter();
+  useEffect(() => {
+    if (item.lang !== lang) void router.invalidate();
+  }, [item.lang, lang, router]);
   const t = tr(item, lang);
   const ro = lang === "ro";
   return (
@@ -59,7 +70,7 @@ function Article() {
       <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur-xl">
         <div className="mx-auto flex h-16 max-w-4xl items-center justify-between px-4">
           <Link to="/" className="inline-flex items-center gap-2 text-xs font-bold uppercase text-muted-foreground hover:text-primary"><ArrowLeft className="size-4" />{ro ? "Înapoi" : "Vissza"}</Link>
-          <div className="flex items-center gap-1">{LANGS.map((l) => <button key={l} type="button" onClick={() => setLang(l)} className={`px-2 text-xs font-bold ${lang === l ? "text-primary" : "text-muted-foreground"}`}>{l.toUpperCase()}</button>)}</div>
+          <div className="flex items-center gap-1">{LANGS.map((l) => <Button key={l} variant="ghost" size="sm" onClick={() => setLang(l)} className={`px-2 text-xs font-bold ${lang === l ? "text-primary" : "text-muted-foreground"}`}>{l.toUpperCase()}</Button>)}</div>
           <Link to="/" aria-label="Stirix.ro"><BrandLogo className="h-9 w-28 origin-left object-contain sm:w-36" /></Link>
           <SiteMenu />
         </div>

@@ -1,9 +1,10 @@
-import { useMemo, useState, useSyncExternalStore, type ReactNode } from "react";
+import { useMemo, useState, useSyncExternalStore } from "react";
 import { Link, useLoaderData } from "@tanstack/react-router";
 import { Clock3, Flame, Layers3, Library, Radio, Search, X } from "lucide-react";
 import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { SiteMenu } from "@/components/SiteMenu";
+import { StoryLink } from "@/components/StoryLink";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { heroPhoto } from "@/lib/hero-photos";
 import { LANGS, setLang, useLang, type Lang } from "@/lib/lang";
@@ -41,27 +42,6 @@ function Coverage({ item, lang }: { item: NewsItem; lang: Lang }) {
       <Layers3 className="size-3" />
       {item.sources.length} {lang === "ro" ? "surse" : "forrás"}
     </span>
-  );
-}
-
-function StoryLink({
-  item,
-  className,
-  children,
-}: {
-  item: NewsItem;
-  className: string;
-  children: ReactNode;
-}) {
-  const source = item.sources[0];
-  return !item.is_synthesized && source?.link ? (
-    <a href={source.link} target="_blank" rel="noopener noreferrer" className={className}>
-      {children}
-    </a>
-  ) : (
-    <Link to="/hir/$id" params={{ id: item.group_id }} className={className}>
-      {children}
-    </Link>
   );
 }
 

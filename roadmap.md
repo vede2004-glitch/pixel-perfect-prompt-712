@@ -21,3 +21,4 @@
 - [ ] Saját Supabase-fiók bekötése: Lovable Cloud projektben nem cserélhető (felhasználói döntés kell)
 - [x] HIREKXhu Top hírek / Friss hírek / Hírfolyam nézeteinek átemelése két nyelven
 - [x] Hírterem kártyák: témacím és kategória badge, látható technikai azonosítók nélkül
+- [x] Slug-alapú cikklinkek, régi azonosítós linkek megtartása és kétnyelvű cikkmetaadatok ellenőrzése

@@ -23,7 +23,7 @@ describe("article structured data", () => {
   });
   test("article text cannot close the JSON-LD script", () => {
     const text = "</script><script>alert(1)</script>";
-    const serialized = serializeArticleSchema(articleSchema({ ...item, content: text }, null));
+    const serialized = serializeArticleSchema(articleSchema({ ...item, content: text, i18n: { ...item.i18n, hu: { ...item.i18n.hu, content: text } } }, null));
     expect(serialized).not.toContain("</script>");
     expect(JSON.parse(serialized).articleBody).toBe(text);
   });
