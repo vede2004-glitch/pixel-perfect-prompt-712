@@ -124,17 +124,12 @@ function normalizeTags(tags: unknown, category: string) {
   return normalized.length ? normalized : [tagSlug(category)];
 }
 
-/** Címke szerinti, kis- és nagybetűtől független szűrés, újak elöl. */
+/** Az aktuális news.json címke szerinti szűrése, kis- és nagybetűtől függetlenül, újak elöl. */
 export function newsByTag(tag: string): NewsItem[] {
   const slug = tagSlug(tag);
   if (!slug) return [];
-  const seen = new Set<string>();
-  return [...news, ...history, ...archive]
-    .filter((item) => {
-      if (seen.has(item.group_id) || !item.tags.includes(slug)) return false;
-      seen.add(item.group_id);
-      return true;
-    })
+  return news
+    .filter((item) => item.tags.includes(slug))
     .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0));
 }
 

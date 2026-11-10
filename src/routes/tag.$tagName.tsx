@@ -9,7 +9,7 @@ import { buttonVariants } from "@/components/ui/button";
 import { originFor } from "@/lib/domains";
 import { getDomainLang } from "@/lib/domain.functions";
 import { getLang, useLang } from "@/lib/lang";
-import { ensureHistory, formatDate, newsByTag, tagLabel, tagSlug, tr } from "@/lib/news";
+import { formatDate, newsByTag, tagLabel, tagSlug, tr } from "@/lib/news";
 import { useNewsVersion } from "@/lib/news-live";
 import { getLiveNews } from "@/lib/news-live.functions";
 
@@ -25,11 +25,7 @@ const categoryRo: Record<string, string> = {
 
 export const Route = createFileRoute("/tag/$tagName")({
   loader: async ({ params }) => {
-    if (typeof window === "undefined") {
-      await Promise.all([getLiveNews().catch(() => null), ensureHistory()]);
-    } else {
-      void ensureHistory();
-    }
+    if (typeof window === "undefined") await getLiveNews().catch(() => null);
     const tag = tagSlug(params.tagName);
     const lang = typeof window === "undefined" ? ((await getDomainLang()) ?? "hu") : getLang();
     return { tag, lang, count: newsByTag(tag).length };
