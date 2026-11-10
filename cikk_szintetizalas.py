@@ -41,16 +41,12 @@ def slugify(text: str) -> str:
     }
     for orig, repl in char_map.items():
         text = text.replace(orig, repl)
-    
     text = text.lower()
     text = re.sub(r'[^a-z0-9\s-]', '', text)
-    text = re.sub(r'[\s-]+', '-', text).strip('-')
-    return text[:50]
+    return re.sub(r'[\s-]+', '-', text).strip('-')[:50]
 
 def fix_hungarian_names_and_places(text: str) -> str:
-    """
-    Könnyű biztonsági védőháló a leggyakoribb félreírt magyar nevek és románul maradt városnevek javítására.
-    """
+    """Romániai és erdélyi városnevek, valamint nevek helyesírási korrekciója a magyar változathoz."""
     if not text:
         return text
 
@@ -87,7 +83,6 @@ def fix_hungarian_names_and_places(text: str) -> str:
     return text
 
 def calculate_similarity(text1: str, text2: str) -> float:
-    """Kiszámolja két szöveg hasonlóságát 0.0 és 1.0 között."""
     if not text1 or not text2:
         return 0.0
     return SequenceMatcher(None, text1, text2).ratio()
@@ -119,14 +114,9 @@ Kizárólag egyetlen szóval válaszolj: "IGEN" vagy "NEM".
         return True
 
 def calculate_fingerprint(articles_or_sources: list) -> str:
-    links = []
-    for item in articles_or_sources:
-        link = item.get("link", "")
-        if link:
-            links.append(link)
+    links = [item.get("link", "") for item in articles_or_sources if item.get("link")]
     sorted_links = sorted(list(set(links)))
-    combined = "|".join(sorted_links)
-    return hashlib.md5(combined.encode("utf-8")).hexdigest()
+    return hashlib.md5("|".join(sorted_links).encode("utf-8")).hexdigest()
 
 def fetch_article_snippet_or_full(url: str, mode: str = "snippet") -> str:
     if not url:
@@ -135,16 +125,12 @@ def fetch_article_snippet_or_full(url: str, mode: str = "snippet") -> str:
         response = requests.get(url, headers=HEADERS, timeout=8)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, "html.parser")
-        
-        paragraphs = soup.find_all("p")
-        text_blocks = [p.text.strip() for p in paragraphs if len(p.text.strip()) > 35]
+        text_blocks = [p.text.strip() for p in soup.find_all("p") if len(p.text.strip()) > 35]
         
         if mode == "snippet":
-            snippet_text = "\n\n".join(text_blocks[:2])
-            return snippet_text[:500]
+            return "\n\n".join(text_blocks[:2])[:500]
         else:
-            full_text = "\n\n".join(text_blocks)
-            return full_text[:2000]
+            return "\n\n".join(text_blocks)[:2000]
     except Exception as e:
         print(f"⚠️ Nem sikerült a cikk letöltése ({url}): {e}")
         return ""
@@ -160,7 +146,7 @@ def load_existing_synthesized_articles() -> dict:
     return {}
 
 # ==============================================================================
-# 3. SZELEKTÍV CIKKFELDOLGOZÁS ÉS SZINTÉZIS (JOGILAG VÉDETT FOGALMAZÁS)
+# 3. CIKKFELDOLGOZÁS ÉS SZINTÉZIS (KÉTNYELVŰ ERDÉLY/RO)
 # ==============================================================================
 def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, group_fingerprint: str):
     is_update = bool(existing_synthesized and existing_synthesized.get("is_synthesized") and not existing_synthesized.get("rejected"))
@@ -193,7 +179,7 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
         "content": first_full_text
     }]
 
-    for idx, art in enumerate(articles[1:], start=2):
+    for art in articles[1:]:
         snippet = fetch_article_snippet_or_full(art.get("link", ""), mode="snippet") or art.get("summary", "")
         if calculate_similarity(snippet, first_full_text[:500]) > 0.80:
             continue
@@ -210,10 +196,8 @@ def process_group_direct(g_id: str, articles: list, existing_synthesized: dict, 
 
     new_sources_text = ""
     for idx, res in enumerate(selected_articles_for_ai, 1):
-        new_sources_text += f"\n--- {idx}. FORRÁS ({res['source']}): {res['title']} ---\n"
-        new_sources_text += f"{res['content']}\n"
+        new_sources_text += f"\n--- {idx}. FORRÁS ({res['source']}): {res['title']} ---\n{res['content']}\n"
 
-    # 🛑 SZIGORÚ JOGI ÉS PARAFRAZEÁLÁSI PROMPT UTASÍTÁSOK
     LEGAL_PARAPHRASE_INSTRUCTION = """
 SZIGORÚ SZERZŐI JOGI ÉS MEGFOGALMAZÁSI SZABÁLYOK:
 1. TELJES ÁTFOGALMAZÁS (PARAFRÁZIS): SZIGORÚAN TILOS a forrásszövegekből teljes mondatokat vagy egyedi szófordulatokat szó szerint átvenni!
@@ -248,10 +232,10 @@ FELADAT:
 3. HA nincs benne új információ, állítsd a "skip" mezőt true-ra!
 4. Írd meg a frissített összefoglalót MAGYAR és ROMÁN nyelven is!
 
-TERJEDELMI ÉS FORMÁTUMSZABÁLYOK:
+FORMÁTUMSZABÁLYOK:
 - A "content_hu" és "content_ro" mezőben KIZÁRÓLAG gondolatjelekkel (•) kezdődő pontokat írj!
-- A törzsszöveg ("content_hu" és "content_ro") hossza KÖZELÍTŐLEG 1200 KARAKTER LEGYEN (kb. 4-6 részletes, alaposan kifejtett gondolatjel)!
-- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELNED!
+- A törzsszöveg ("content_hu" és "content_ro") hossza KÖZELÍTŐLEG 1200 KARAKTER LEGYEN (kb. 4-6 részletes gondolatjel)!
+- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELNED!
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
@@ -259,7 +243,7 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "tags": ["kolozsvar", "rmdsz", "autopalya"],
   "title_hu": "Frissített magyar cím",
   "lead_hu": "Frissített 2-3 mondatos magyar lead",
-  "content_hu": "• **Dátum vagy Főállítás** első fontos magyar pont...\\n\\n• **Kulcsszó vagy Szereplő** második magyar pont...",
+  "content_hu": "• **Dátum vagy Főállítás** első pont...\\n\\n• **Kulcsszó** második pont...",
   "title_ro": "Titlu actualizat în română",
   "lead_ro": "Lead de 2-3 propoziții în română",
   "content_ro": "• **Data sau Afirmația Cheie** primul punct în română...\\n\\n• **Cuvânt cheie** al doilea punct..."
@@ -277,10 +261,10 @@ FELADAT ÉS SZŰRÉS:
 3. Fogalmazd át a tényeket saját szavaiddal 100%-ban újszerű mondatokba.
 4. Készíts két teljes értékű összefoglalót: egyet MAGYARUL és egyet ROMÁNUL!
 
-TERJEDELMI ÉS FORMÁTUMSZABÁLYOK:
-- A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő, különálló pontokat írj!
-- A törzsszöveg ("content_hu" és "content_ro") hossza KÖZELÍTŐLEG 1200 KARAKTER LEGYEN (kb. 4-6 részletes, alaposan kifejtett gondolatjel)!
-- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST / DÁTUMOT / FŐSZEREPLŐT KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELNED!
+FORMÁTUMSZABÁLYOK:
+- A "content_hu" és "content_ro" mezőkben KIZÁRÓLAG gondolatjelekkel (•) kezdődő pontokat írj!
+- A törzsszöveg ("content_hu" és "content_ro") hossza KÖZELÍTŐLEG 1200 KARAKTER LEGYEN (kb. 4-6 részletes gondolatjel)!
+- MINDEN EGYES PONT LEGELEJÉN A KULCSÁLLÍTÁST KÖTELEZŐ FÉLKÖVÉR MARKDOWN-NAL (**szöveg**) KIEMELNED!
 
 KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
 {{
@@ -288,7 +272,7 @@ KIZÁRÓLAG az alábbi JSON szerkezetben válaszolj:
   "tags": ["kolozsvar", "rmdsz", "autopalya"],
   "title_hu": "A tényekre fókuszáló magyar cím",
   "lead_hu": "2-3 mondatos magyar összefoglaló lead",
-  "content_hu": "• **Szeptember 30-án** az Orosz Föderáció újabb nagyszabású...\\n\\n• A **hőerőmű elleni támadás** következtében...",
+  "content_hu": "• **Szeptember 30-án** az Orosz Föderáció újabb...\\n\\n• A **hőerőmű elleni támadás** következtében...",
   "title_ro": "Titlul în română focalizat pe fapte",
   "lead_ro": "Rezumat de 2-3 propoziții în română",
   "content_ro": "• Pe **30 septembrie** atacurile au vizat...\\n\\n• Centrala termică a fost grav afectată..."
@@ -318,7 +302,6 @@ FORRÁSOK:
                 "fingerprint": group_fingerprint,
                 "is_synthesized": False,
                 "rejected": True,
-                "is_b2b_only": False,
                 "published_at": latest_timestamp
             }
             return [rejected_entry], False, is_update
@@ -332,7 +315,6 @@ FORRÁSOK:
         title_hu = fix_hungarian_names_and_places(parsed_article.get("title_hu", ""))
         title_ro = parsed_article.get("title_ro", "")
         
-        # Tags tisztítása és ékezetmentesítése
         raw_tags = parsed_article.get("tags", [])
         clean_tags = [slugify(t) for t in raw_tags if slugify(t)]
         if not clean_tags:
@@ -351,7 +333,6 @@ FORRÁSOK:
             "category": category,
             "is_synthesized": True,
             "rejected": False,
-            "is_b2b_only": False,
             "sources_count": len(all_group_sources),
             "sources": all_group_sources,
             "published_at": latest_timestamp,
@@ -369,11 +350,11 @@ FORRÁSOK:
         return [], False, is_update
 
 # ==============================================================================
-# 4. FŐ FOLYAMAT (SZELEKTÍV HÍR SZINTETIZÁLÓ)
+# 4. FŐ FOLYAMAT
 # ==============================================================================
 def run_synthesis_direct():
     print("==================================================================")
-    print("🚀 INTELLIGENS, SZELEKTÍV HÍR SZINTETIZÁLÓ FOLYAMAT INDÍTÁSA")
+    print("🚀 ERDÉLY/RO HÍR SZINTETIZÁLÓ FOLYAMAT INDÍTÁSA")
     print("==================================================================")
 
     if not os.path.exists(MEMORY_FILE):
@@ -398,66 +379,14 @@ def run_synthesis_direct():
     AI_PROCESS_CUTOFF = CURRENT_TIME - (12 * 3600)
     RETENTION_CUTOFF = CURRENT_TIME - (24 * 3600)
 
-    stats = {
-        "total_groups": len(grouped_data),
-        "expired_groups": 0,
-        "single_source_groups": 0,
-        "skipped_b2b_groups": 0,
-        "skipped_fingerprint": 0,
-        "skipped_hybrid_filter": 0,
-        "processed_by_ai": 0
-    }
-
     for g_id, articles in grouped_data.items():
         latest_timestamp = max([int(a.get("published_at", a.get("fetched_at", 0))) for a in articles])
 
         if latest_timestamp < RETENTION_CUTOFF:
-            stats["expired_groups"] += 1
-            continue
-
-        # 💼 B2B CSOPORTOK
-        is_b2b_group = any(art.get("is_b2b_only", False) for art in articles)
-        if is_b2b_group:
-            stats["skipped_b2b_groups"] += 1
-            art = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
-            summ = fix_hungarian_names_and_places(art.get("summary", "") or "")
-            lead = (summ[:200] + "…") if len(summ) > 200 else summ
-            
-            sources_list = []
-            seen = set()
-            for a in articles:
-                l = a.get("link", "")
-                if l and l not in seen:
-                    seen.add(l)
-                    sources_list.append({"source": a.get("source", ""), "title": a.get("title", ""), "link": l})
-
-            cat = art.get("category", "Gazdaság")
-            short_id = g_id.replace("group_", "")[:6]
-            clean_slug = slugify(art.get("title", ""))
-            final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
-
-            single_results.append({
-                "group_id": g_id,
-                "slug": final_slug,
-                "tags": [slugify(cat)],
-                "category": cat,
-                "is_synthesized": False,
-                "is_b2b_only": True,
-                "sources_count": len(sources_list),
-                "sources": sources_list,
-                "published_at": latest_timestamp,
-                "title_hu": fix_hungarian_names_and_places(art.get("title", "")), 
-                "lead_hu": lead, 
-                "content_hu": summ,
-                "title_ro": art.get("title", ""), 
-                "lead_ro": lead, 
-                "content_ro": summ,
-            })
             continue
 
         unique_sources = set(art.get("source") for art in articles if art.get("source"))
         if len(unique_sources) < 2:
-            stats["single_source_groups"] += 1
             art = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
             summ = fix_hungarian_names_and_places(art.get("summary", "") or "")
             lead = (summ[:200] + "…") if len(summ) > 200 else summ
@@ -473,7 +402,6 @@ def run_synthesis_direct():
                 "tags": [slugify(cat)],
                 "category": cat,
                 "is_synthesized": False,
-                "is_b2b_only": False,
                 "sources_count": 1,
                 "sources": [{"source": art.get("source", ""), "title": art.get("title", ""), "link": art.get("link", "")}],
                 "published_at": latest_timestamp,
@@ -490,12 +418,9 @@ def run_synthesis_direct():
         existing_synth = existing_articles.get(g_id)
 
         if existing_synth and existing_synth.get("is_synthesized"):
-            existing_fingerprint = existing_synth.get("fingerprint")
-            if not existing_fingerprint and "sources" in existing_synth:
-                existing_fingerprint = calculate_fingerprint(existing_synth["sources"])
+            existing_fingerprint = existing_synth.get("fingerprint") or calculate_fingerprint(existing_synth.get("sources", []))
 
             if existing_fingerprint and current_fingerprint == existing_fingerprint:
-                stats["skipped_fingerprint"] += 1
                 continue
 
             newest_article = max(articles, key=lambda a: int(a.get("published_at", a.get("fetched_at", 0))))
@@ -513,7 +438,6 @@ def run_synthesis_direct():
                         existing_links.add(src_entry["link"])
                 
                 existing_synth["sources_count"] = len(existing_synth["sources"])
-                stats["skipped_hybrid_filter"] += 1
                 continue
 
             elif similarity > 0.40:
@@ -527,17 +451,13 @@ def run_synthesis_direct():
                             existing_links.add(src_entry["link"])
                     
                     existing_synth["sources_count"] = len(existing_synth["sources"])
-                    stats["skipped_hybrid_filter"] += 1
                     continue
 
         if latest_timestamp >= AI_PROCESS_CUTOFF:
             multi_groups.append((g_id, articles, existing_synth, current_fingerprint))
 
-    stats["processed_by_ai"] = len(multi_groups)
-
     synthesized_results = []
     if multi_groups:
-        print(f"\n🚀 {len(multi_groups)} db friss (12h) többforrásos csoport párhuzamos feldolgozása indult ({MODEL_NAME})...")
         with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(process_group_direct, g_id, articles, existing, fingerprint)
@@ -552,8 +472,7 @@ def run_synthesis_direct():
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-                existing_data = json.load(f)
-                for item in existing_data:
+                for item in json.load(f):
                     if "group_id" in item:
                         all_final_results[item["group_id"]] = item
         except Exception as e:
@@ -566,48 +485,24 @@ def run_synthesis_direct():
 
     fresh_items = [
         item for item in all_final_results.values() 
-        if item.get("published_at", 0) >= RETENTION_CUTOFF
+        if item.get("published_at", 0) >= RETENTION_CUTOFF and not item.get("rejected")
     ]
 
-    frontend_news = [
-        item for item in fresh_items 
-        if not item.get("rejected")
-    ]
-
-    for item in frontend_news:
+    for item in fresh_items:
         if "sources" in item and isinstance(item["sources"], list):
             item["sources_count"] = len(item["sources"])
 
     final_sorted_list = sorted(
-        frontend_news, 
+        fresh_items, 
         key=lambda x: x.get("published_at", 0), 
         reverse=True
     )
 
-    print(f"\n💾 Mentés indítása a(z) {OUTPUT_FILE} fájlba...")
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(final_sorted_list, f, ensure_ascii=False, indent=2)
 
-    HISTORY_FILE = "src/data/news_archive.json"
-    history = {}
-    if os.path.exists(HISTORY_FILE):
-        try:
-            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-                for item in json.load(f):
-                    if "group_id" in item:
-                        history[item["group_id"]] = item
-        except Exception as e:
-            print(f"⚠️ Nem sikerült beolvasni a {HISTORY_FILE} fájlt: {e}")
-    for item in all_final_results.values():
-        if not item.get("rejected"):
-            if "sources" in item and isinstance(item["sources"], list):
-                item["sources_count"] = len(item["sources"])
-            history[item["group_id"]] = item
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(history.values(), key=lambda x: x.get("published_at", 0), reverse=True), f, ensure_ascii=False, indent=2)
-
     print("\n==================================================================")
-    print("🎉 FOLYAMAT BEFEJEZŐDÖTT - JOGILAG VÉDETT, SAJÁT SZAVAS MONDTOSZERKEZETEK!")
+    print(f"🎉 ERDÉLY/RO FOLYAMAT BEFEJEZŐDÖTT! Mentve: {len(final_sorted_list)} friss cikk.")
     print("==================================================================")
 
 if __name__ == "__main__":
