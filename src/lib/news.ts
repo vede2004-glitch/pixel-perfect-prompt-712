@@ -151,7 +151,7 @@ function normalize(r: RawItem): NewsItem {
     title: huContent.title,
     lead: huContent.lead,
     content: huContent.content,
-    category: normCategory(r.category),
+    category,
     i18n,
   };
 }
