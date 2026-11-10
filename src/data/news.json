@@ -509,7 +509,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 19,
+    "sources_count": 20,
     "sources": [
       {
         "source": "Digi24",
@@ -605,6 +605,11 @@
         "source": "G4Media",
         "title": "Financial Times: Serviciile de informații din SUA avertizează că directorul Nvidia ar fi avut o relație amoroasă cu o presupusă spioană a Chinei",
         "link": "https://www.g4media.ro/financial-times-serviciile-de-informatii-din-sua-avertizeaza-ca-directorul-nvidia-ar-fi-avut-o-relatie-amoroasa-cu-o-presupusa-spioana-a-chinei.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Donald Trump și miliardarii din Silicon Valley, inclusiv Elon Musk, îl apără pe șeful Nvidia: „Este de neînlocuit”",
+        "link": "https://hotnews.ro/donald-trump-si-miliardarii-din-silicon-valley-inclusiv-elon-musk-il-apara-pe-seful-nvidia-in-plin-scandal-de-spionaj-este-de-neinlocuit-2399639"
       }
     ],
     "published_at": 1794284164,
@@ -614,7 +619,7 @@
     "title_ro": "Ancheta Nvidia: mărturisirea lui Huang, avertismentul secret și reacțiile oficiale",
     "lead_ro": "Jensen Huang a recunoscut că a avut o relație extraconjugală și și-a cerut scuze familiei, fără să o identifice public pe femeie. Potrivit presei, Marco Rubio avertizase oficiali americani încă din primăvară, în timp ce Beijingul respinge acuzațiile de spionaj, iar Donald Trump a afirmat că FBI-ul investighează cazul.",
     "content_ro": "• **Mărturisirea lui Huang** Directorul Nvidia le-a transmis angajaților că și-a înșelat soția și le-a cerut iertare acesteia și copiilor. Presa a asociat relația cu Alice Huang, însă Jensen Huang nu a menționat numele femeii în declarația sa publică.\n\n• **Avertismentul din primăvară** The New York Times a relatat că Marco Rubio a distribuit atunci un document clasificat unor oficiali de la Washington, semnalând riscuri legate de apropierea dintre Huang și o persoană suspectată de legături cu serviciile chineze. Ulterior, Rubio nu a comentat fondul cazului și l-a descris drept o chestiune internă a companiei.\n\n• **Trump și FBI-ul** Donald Trump a spus luni că a discutat cu Huang, care i-ar fi declarat că nu știa că femeia putea fi spioană. Președintele a afirmat că îl crede, apoi a susținut că FBI-ul verifică situația, fără să ofere informații despre pașii anchetei; FBI-ul nu a făcut comentarii.\n\n• **Reacția Beijingului** Guo Jiakun, purtătorul de cuvânt al Ministerului chinez de Externe, a respins luni acuzațiile, calificându-le drept neîntemeiate și menite să denigreze China. Până acum nu s-a confirmat public că informații comerciale sau legate de securitatea națională ar fi ajuns în China.\n\n• **Efecte asupra pieței și atenția publică** Acțiunile Nvidia au pierdut peste 6% la deschiderea de luni, potrivit unei relatări, în timp ce alte articole au indicat o scădere de peste 4%; valoarea companiei s-a redus cu aproximativ 250 de miliarde de dolari. Mesajul de scuze al lui Huang depășise 40 de milioane de vizualizări pe Weibo până luni dimineață.",
-    "importance_score": 198.0
+    "importance_score": 208.0
   },
   {
     "group_id": "group_3fb7734638",
@@ -1799,6 +1804,50 @@
     "importance_score": 70.0
   },
   {
+    "group_id": "group_4ca1952f22",
+    "fingerprint": "a73ef597a009def2ecb4e47702b55d89",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Agerpres (HU)",
+        "title": "Parlamentul se reunește în ședință comună pentru desemnarea noilor membri ai CA la SRTV și SRR",
+        "link": "https://agerpres.ro/viata-parlamentara/2026/11/10/parlamentul-se-reuneste-in-sedinta-comuna-pentru-desemnarea-noilor-membri-ai-ca-la-srtv-si-srr--1611679"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Parlamentul se reuneşte în şedinţă comună pentru desemnarea noilor membri ai CA la TVR și radioul public",
+        "link": "https://adevarul.ro/politica/parlamentul-se-reuneste-in-sedinta-comuna-pentru-2570228.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Parlamentul se reuneşte azi în şedinţă comună pentru desemnarea noilor membri ai CA la SRTV şi SRR",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/parlamentul-se-reuneste-azi-in-sedinta-comuna-pentru-desemnarea-noilor-membri-ai-ca-la-srtv-si-srr-4029099"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Noi numiri la Televiziunea publică și Radio, după o „înțelegere între partide”. Numele vehiculate înainte de votul din Parlament",
+        "link": "https://hotnews.ro/noi-numiri-la-televiziunea-publica-si-radio-dupa-o-intelegere-intre-partide-numele-vehiculate-inainte-de-votul-din-parlament-2399651"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ziua marilor numiri în Parlament. Deputații și senatorii decid conducerea TVR, a Radioului Public și a Curții de Conturi. Schimbări și la comisia de control al SRI",
+        "link": "https://www.mediafax.ro/politic/ziua-marilor-numiri-in-parlament-deputatii-si-senatorii-decid-conducerea-tvr-a-radioului-public-si-a-curtii-de-conturi-schimbari-si-la-comisia-de-control-al-sri-23840637"
+      }
+    ],
+    "published_at": 1794290122,
+    "title_hu": "Új tagokról dönt a román parlament a közmédia és a számvevőszék vezetőtestületeiben",
+    "lead_hu": "Kedden közös plenáris ülésen választanak új tagokat a román közszolgálati televízió és rádió igazgatótanácsába, valamint egy számvevőszéki tanácsost is kijelölnek. A pártok jelöltjeit délelőtt hallgatják meg; a televízió és a rádió vezetőinek ideiglenes megbízatása ezen a héten jár le.",
+    "content_hu": "• **Kedden 12 órakor** a képviselőház és a szenátus közös ülésén választanak tagokat a Román Televízió (SRTV) és a Román Rádió (SRR) igazgatótanácsába. A parlament egy számvevőszéki tanácsost is kijelöl, aki ellátja a Számvevőszék elnöki feladatait.\n\n• **A meghallgatások 9:30-kor kezdődnek** a két parlamenti ház kulturális bizottságaiban. Itt a parlamenti pártok által javasolt jelölteket hallgatják meg a plenáris szavazás előtt.\n\n• **A kinevezési folyamatot a parlament egyesített állandó irodái indították el** a múlt héten. Sorina Matei, az SRTV, valamint Răzvan Dincă, az SRR ideiglenes vezetőjének megbízatása a héten ér véget.\n\n• **A politikai értesülések szerint az AUR Mateit, a PSD Dincăt támogatja** a televízió, illetve a rádió élén betöltött tisztség folytatására. Petrișor Peiu, az AUR szenátusi frakcióvezetője hétfői sajtótájékoztatóján, a parlamenti többség esetleges próbájára vonatkozó kérdésre azt mondta, hogy a testületi helyekről pártok közötti egyezség született.\n\n• **Az AUR jelöltjei között** az SRTV-nél Sorina Matei és Cora Muntean rendes, Titi Dincă és Rafael Udriște póttagként szerepel. Az SRR igazgatótanácsába Maria Țoghină és Sorin Bejan rendes, Cristian Curte, valamint Maria Ribana Pătrașcu-Cornaciu póttagjelölt.",
+    "title_ro": "Parlamentul României decide noi membri în conducerile televiziunii și radioului public",
+    "lead_ro": "Marți, plenul reunit al Camerei Deputaților și Senatului va desemna membri ai consiliilor de administrație ale televiziunii și radioului public, precum și un consilier de conturi. Candidații partidelor vor fi audiați înaintea votului, iar mandatele interimare ale șefilor SRTV și SRR se încheie în această săptămână.",
+    "content_ro": "• **Marți, de la ora 12:00**, Camera Deputaților și Senatul se reunesc pentru a desemna membri în consiliile de administrație ale Societății Române de Televiziune (SRTV) și Societății Române de Radiodifuziune (SRR). Parlamentarii vor numi și un consilier de conturi care va prelua atribuțiile președintelui Curții de Conturi.\n\n• **Audierile încep la 9:30** în comisiile pentru cultură ale celor două Camere. Vor fi examinați candidații propuși de partidele parlamentare, înaintea votului din plen.\n\n• **Birourile permanente reunite au pornit procedura săptămâna trecută.** Mandatele interimare ale Sorinei Matei, la SRTV, și ale lui Răzvan Dincă, la SRR, ajung la final în cursul acestei săptămâni.\n\n• **Potrivit informațiilor din mediul politic, AUR o susține pe Matei, iar PSD îl sprijină pe Dincă** pentru continuarea activității la conducerea televiziunii, respectiv a radioului public. Luni, liderul senatorilor AUR, Petrișor Peiu, a fost întrebat la o conferință de presă dacă votul va verifica existența unei majorități parlamentare; el a invocat un acord între partide privind ocuparea locurilor din consilii.\n\n• **Propunerile AUR** pentru SRTV sunt Sorina Matei și Cora Muntean ca membri titulari, respectiv Titi Dincă și Rafael Udriște ca supleanți. Pentru SRR, partidul le-a nominalizat pe Maria Țoghină și Sorin Bejan ca titulari, iar pe Cristian Curte și Maria Ribana Pătrașcu-Cornaciu ca supleanți.",
+    "importance_score": 65.0
+  },
+  {
     "group_id": "group_32007f37d9",
     "fingerprint": "0880e327e1ec1187b458955e7882862c",
     "category": "Politika",
@@ -2208,45 +2257,6 @@
     "lead_ro": "Conducerea PNL le-a acordat zece zile parlamentarilor care au atacat în instanță recomandările de vot ale partidului pentru a-și retrage acțiunile, în caz contrar putând pierde apartenența la grupurile parlamentare. Ilie Bolojan a invocat necesitatea unei poziții comune, în timp ce Alina Gorghiu a respins retragerea proceselor; Mircea Abrudean și Daniel Fenechiu au comentat, la rândul lor, decizia.",
     "content_ro": "• **Decizia Biroului Politic Național al PNL** le-a dat liderilor grupurilor parlamentare mandatul de a-i îndepărta din aceste grupuri pe liberalii care nu renunță la procesele legate de recomandările de vot ale partidului. Ilie Bolojan a prezentat măsura luni; aceasta privește apartenența la grupurile parlamentare, nu calitatea de membru al PNL.\n\n• **Termenul acordat este de zece zile**, iar după expirarea lui parlamentarii vizați riscă să nu mai facă parte din grupurile PNL. Bolojan a explicat că partidul urmărește consecvență în voturile pe teme strategice. El a susținut că parlamentarii pot vota individual, dar nu în numele grupului dacă se abat de la poziția comună.\n\n• **Alina Gorghiu, deputată PNL**, a anunțat că nu își retrage demersurile judiciare. Ea a descris hotărârea drept o formă de presiune și i-a cerut lui Bolojan să o reanalizeze și să ceară opinia specialiștilor. Gorghiu a menționat și cei 27 de ani de activitate în partid.\n\n• **Mircea Abrudean, președintele Senatului**, a afirmat luni că, din perspectivă politică, nerespectarea unei decizii a conducerii superioare plasează persoana în afara partidului. El a precizat că nu participă direct la stabilirea sancțiunilor, dar că statutul PNL permite măsuri; efectele vor fi mai clare după termenul de zece zile.\n\n• **Daniel Fenechiu, liderul senatorilor PNL**, a susținut că procesele aflate pe rol și cererile pentru organizarea alegerilor interne îngreunează activitatea partidului. El a apreciat drept justificat răgazul de zece zile acordat celor vizați.",
     "importance_score": 58.0
-  },
-  {
-    "group_id": "group_4ca1952f22",
-    "fingerprint": "a73ef597a009def2ecb4e47702b55d89",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Agerpres (HU)",
-        "title": "Parlamentul se reunește în ședință comună pentru desemnarea noilor membri ai CA la SRTV și SRR",
-        "link": "https://agerpres.ro/viata-parlamentara/2026/11/10/parlamentul-se-reuneste-in-sedinta-comuna-pentru-desemnarea-noilor-membri-ai-ca-la-srtv-si-srr--1611679"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Parlamentul se reuneşte în şedinţă comună pentru desemnarea noilor membri ai CA la TVR și radioul public",
-        "link": "https://adevarul.ro/politica/parlamentul-se-reuneste-in-sedinta-comuna-pentru-2570228.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Parlamentul se reuneşte azi în şedinţă comună pentru desemnarea noilor membri ai CA la SRTV şi SRR",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/parlamentul-se-reuneste-azi-in-sedinta-comuna-pentru-desemnarea-noilor-membri-ai-ca-la-srtv-si-srr-4029099"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Noi numiri la Televiziunea publică și Radio, după o „înțelegere între partide”. Numele vehiculate înainte de votul din Parlament",
-        "link": "https://hotnews.ro/noi-numiri-la-televiziunea-publica-si-radio-dupa-o-intelegere-intre-partide-numele-vehiculate-inainte-de-votul-din-parlament-2399651"
-      }
-    ],
-    "published_at": 1794290122,
-    "title_hu": "Új tagokról dönt a román parlament a közmédia és a számvevőszék vezetőtestületeiben",
-    "lead_hu": "Kedden közös plenáris ülésen választanak új tagokat a román közszolgálati televízió és rádió igazgatótanácsába, valamint egy számvevőszéki tanácsost is kijelölnek. A pártok jelöltjeit délelőtt hallgatják meg; a televízió és a rádió vezetőinek ideiglenes megbízatása ezen a héten jár le.",
-    "content_hu": "• **Kedden 12 órakor** a képviselőház és a szenátus közös ülésén választanak tagokat a Román Televízió (SRTV) és a Román Rádió (SRR) igazgatótanácsába. A parlament egy számvevőszéki tanácsost is kijelöl, aki ellátja a Számvevőszék elnöki feladatait.\n\n• **A meghallgatások 9:30-kor kezdődnek** a két parlamenti ház kulturális bizottságaiban. Itt a parlamenti pártok által javasolt jelölteket hallgatják meg a plenáris szavazás előtt.\n\n• **A kinevezési folyamatot a parlament egyesített állandó irodái indították el** a múlt héten. Sorina Matei, az SRTV, valamint Răzvan Dincă, az SRR ideiglenes vezetőjének megbízatása a héten ér véget.\n\n• **A politikai értesülések szerint az AUR Mateit, a PSD Dincăt támogatja** a televízió, illetve a rádió élén betöltött tisztség folytatására. Petrișor Peiu, az AUR szenátusi frakcióvezetője hétfői sajtótájékoztatóján, a parlamenti többség esetleges próbájára vonatkozó kérdésre azt mondta, hogy a testületi helyekről pártok közötti egyezség született.\n\n• **Az AUR jelöltjei között** az SRTV-nél Sorina Matei és Cora Muntean rendes, Titi Dincă és Rafael Udriște póttagként szerepel. Az SRR igazgatótanácsába Maria Țoghină és Sorin Bejan rendes, Cristian Curte, valamint Maria Ribana Pătrașcu-Cornaciu póttagjelölt.",
-    "title_ro": "Parlamentul României decide noi membri în conducerile televiziunii și radioului public",
-    "lead_ro": "Marți, plenul reunit al Camerei Deputaților și Senatului va desemna membri ai consiliilor de administrație ale televiziunii și radioului public, precum și un consilier de conturi. Candidații partidelor vor fi audiați înaintea votului, iar mandatele interimare ale șefilor SRTV și SRR se încheie în această săptămână.",
-    "content_ro": "• **Marți, de la ora 12:00**, Camera Deputaților și Senatul se reunesc pentru a desemna membri în consiliile de administrație ale Societății Române de Televiziune (SRTV) și Societății Române de Radiodifuziune (SRR). Parlamentarii vor numi și un consilier de conturi care va prelua atribuțiile președintelui Curții de Conturi.\n\n• **Audierile încep la 9:30** în comisiile pentru cultură ale celor două Camere. Vor fi examinați candidații propuși de partidele parlamentare, înaintea votului din plen.\n\n• **Birourile permanente reunite au pornit procedura săptămâna trecută.** Mandatele interimare ale Sorinei Matei, la SRTV, și ale lui Răzvan Dincă, la SRR, ajung la final în cursul acestei săptămâni.\n\n• **Potrivit informațiilor din mediul politic, AUR o susține pe Matei, iar PSD îl sprijină pe Dincă** pentru continuarea activității la conducerea televiziunii, respectiv a radioului public. Luni, liderul senatorilor AUR, Petrișor Peiu, a fost întrebat la o conferință de presă dacă votul va verifica existența unei majorități parlamentare; el a invocat un acord între partide privind ocuparea locurilor din consilii.\n\n• **Propunerile AUR** pentru SRTV sunt Sorina Matei și Cora Muntean ca membri titulari, respectiv Titi Dincă și Rafael Udriște ca supleanți. Pentru SRR, partidul le-a nominalizat pe Maria Țoghină și Sorin Bejan ca titulari, iar pe Cristian Curte și Maria Ribana Pătrașcu-Cornaciu ca supleanți.",
-    "importance_score": 55.0
   },
   {
     "group_id": "group_c8fe0f2ba8",
@@ -3073,6 +3083,45 @@
     "importance_score": 43.0
   },
   {
+    "group_id": "group_c4ec998d2c",
+    "fingerprint": "1e33713e35ea501ab89ffe7b00f73229",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Nicoleta Pauliuc, către Ilie Bolojan: Riscaţi să duceţi PNL pe un drum în care dezbaterea e înlocuită cu ultimatumul. Nu mă intimidaţi",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicoleta-pauliuc-catre-ilie-bolojan-riscati-sa-duceti-pnl-pe-un-drum-in-care-dezbaterea-e-inlocuita-cu-ultimatumul-nu-ma-intimidati-4028809"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nicoleta Pauliuc îl înfruntă pe Bolojan după ultimatumul dat liberalilor care au acționat partidul în judecată: „Amenințările dumneavoastră nu mă impresionează”",
+        "link": "https://adevarul.ro/politica/nicoleta-pauliuc-il-infrunta-pe-bolojan-dupa-2570217.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "VIDEO Pauliuc: Domnule Bolojan, nu mă intimidați; riscați să duceți PNL pe un drum în care libertatea de opinie e înlocuită cu obediența",
+        "link": "https://agerpres.ro/viata-parlamentara/2026/11/09/video-pauliuc-domnule-bolojan-nu-ma-intimidati-riscati-sa-duceti-pnl-pe-un-drum-in-care-libertatea-d--1611673"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "„Meschin și mărunt”. Continuă atacurile „disidenților” din PNL la adresa lui Ilie Bolojan",
+        "link": "https://stirileprotv.ro/stiri/politic/meschin-si-marunt-continua-atacurile-disidentilor-din-pnl-la-adresa-lui-ilie-bolojan.html"
+      }
+    ],
+    "published_at": 1794258298,
+    "title_hu": "Pauliuc a bírósági keresetek fenntartása mellett érvel",
+    "lead_hu": "Nicoleta Pauliuc PNL-szenátor november 9-én, hétfőn Facebook-videóban utasította vissza Ilie Bolojan pártelnök tíznapos felszólítását. Szerinte a párton belüli vitát nem fenyegetésekkel kell rendezni, és a bírósághoz fordulás joga nem jelent hűtlenséget a PNL-hez.",
+    "content_hu": "• **November 9-i reakció:** Pauliuc hétfő este videóüzenetben válaszolt Bolojan felhívására, amely a júniusi rendkívüli kongresszus döntéseit bíróságon megtámadó párttagokat érinti. A pártelnök tíz napot adott a keresetek visszavonására, és a parlamenti frakcióból való kizárás lehetőségét is felvetette.\n\n• **A pártvitáról:** A szenátor szerint az ultimátum azt kockáztatja, hogy a PNL-ben a vélemények szabad ütköztetését engedelmesség, az érdemi vitát pedig kényszerítő fellépés váltja fel. Bolojan módszerét bírálva azt mondta, a fenyegetések nem változtatják meg az álláspontját.\n\n• **A bírósági út indoka:** Pauliuc az alkotmány 21. cikkében rögzített igazságszolgáltatáshoz fordulás jogára hivatkozott. Úgy véli, ha egy pártdöntés sértheti a törvényt vagy a PNL alapszabályát, annak jogszerűségéről a bíráknak kell dönteniük; szerinte Bolojan a keresetek visszavonásának követelése helyett az eljárásban is érvényesíthetné álláspontját.\n\n• **Személyes háttér és vállalások:** Pauliuc felidézte, hogy korábban legyőzte a rákot, ezért a pártvezető figyelmeztetései nem riasztják el. Azt mondta, Ilfov megyei választóinak a betegek, a családok és a román vállalkozók képviseletét ígérte, nem pedig azt, hogy minden parlamenti szavazáson utasításra cselekszik.\n\n• **A kormány bírálata:** A szenátor szerint a Bolojan-kormány intézkedései jelentős terhet rónak a román cégekre. Külön kifogásolta, hogy megszűnt a betegszabadság első napjának díjazása, és felvetette: a liberális értékektől nem ő, hanem a pártvezetés távolodhatott el.",
+    "title_ro": "Pauliuc susține menținerea acțiunilor în instanță",
+    "lead_ro": "Senatoarea PNL Nicoleta Pauliuc a respins luni, 9 noiembrie, într-un mesaj video pe Facebook, solicitarea de zece zile formulată de liderul partidului, Ilie Bolojan. Ea consideră că disputele interne nu trebuie tranșate prin amenințări și că sesizarea instanței nu echivalează cu lipsa de loialitate față de PNL.",
+    "content_ro": "• **Reacția din 9 noiembrie:** Luni seară, Pauliuc i-a răspuns lui Bolojan printr-un mesaj video, după ce acesta le-a cerut liberalilor care au contestat în instanță hotărârile Congresului extraordinar din iunie să își retragă acțiunile în zece zile. Liderul PNL a menționat și posibilitatea excluderii lor din grupurile parlamentare.\n\n• **Disputa din partid:** Senatoarea a avertizat că abordarea lui Bolojan riscă să înlocuiască dezbaterea cu impunerea autorității și exprimarea liberă cu supunerea. Ea a spus că avertismentele conducerii nu o vor determina să renunțe la poziția sa.\n\n• **Motivul sesizării instanței:** Pauliuc a invocat articolul 21 din Constituție, care garantează accesul la justiție. În opinia sa, judecătorii trebuie să stabilească dacă o hotărâre a partidului încalcă legea sau statutul PNL; ea a întrebat de ce conducerea cere retragerea proceselor, în loc să își susțină poziția în instanță.\n\n• **Experiența și promisiunile sale:** Pauliuc a amintit că a trecut printr-o luptă cu cancerul, motiv pentru care amenințările politice nu o intimidează. Senatoarea a afirmat că le-a promis alegătorilor din Ilfov să apere pacienții, familiile și antreprenorii români, nu să voteze la comandă în Parlament.\n\n• **Critici la adresa guvernului:** Potrivit lui Pauliuc, măsurile cabinetului Bolojan pun o presiune considerabilă asupra firmelor românești. Ea a criticat în special eliminarea plății pentru prima zi de concediu medical și a pus sub semnul întrebării cine s-a îndepărtat de valorile liberale, conducerea sau ea.",
+    "importance_score": 43.0
+  },
+  {
     "group_id": "group_a892a2eafa",
     "fingerprint": "80d3659de4427ca639a4497554c26363",
     "category": "Általános",
@@ -3662,6 +3711,33 @@
     "importance_score": 38.0
   },
   {
+    "group_id": "group_6ed1e28932",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
+        "link": "https://www.mediafax.ro/social/interventie-de-10-ore-in-muntii-parang-pentru-salvarea-unui-turist-ratacit-barbatul-a-fost-gasit-in-zona-varfului-carja-23840627"
+      },
+      {
+        "source": "Digi24",
+        "title": "Un turist rătăcit în Munții Parâng a fost salvat de jandarmii montani și salvamontisti după 10 ore de căutări",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/un-turist-ratacit-in-muntii-parang-a-fost-salvat-de-jandarmii-montani-si-salvamontisti-dupa-10-ore-de-cautari-4029177"
+      }
+    ],
+    "published_at": 1794293796,
+    "title_hu": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
+    "lead_hu": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un t...",
+    "content_hu": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un teren accidentat, iar operațiunea s-a încheiat în noaptea de luni spre marți, după aproximativ 10 ore.",
+    "title_ro": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
+    "lead_ro": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un t...",
+    "content_ro": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un teren accidentat, iar operațiunea s-a încheiat în noaptea de luni spre marți, după aproximativ 10 ore.",
+    "importance_score": 35.0
+  },
+  {
     "group_id": "group_15febe6e31",
     "fingerprint": "abace3bf100c8a825da5ef20002f5419",
     "category": "Általános",
@@ -4247,40 +4323,6 @@
     "importance_score": 33.0
   },
   {
-    "group_id": "group_c4ec998d2c",
-    "fingerprint": "1e33713e35ea501ab89ffe7b00f73229",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Nicoleta Pauliuc, către Ilie Bolojan: Riscaţi să duceţi PNL pe un drum în care dezbaterea e înlocuită cu ultimatumul. Nu mă intimidaţi",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicoleta-pauliuc-catre-ilie-bolojan-riscati-sa-duceti-pnl-pe-un-drum-in-care-dezbaterea-e-inlocuita-cu-ultimatumul-nu-ma-intimidati-4028809"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Nicoleta Pauliuc îl înfruntă pe Bolojan după ultimatumul dat liberalilor care au acționat partidul în judecată: „Amenințările dumneavoastră nu mă impresionează”",
-        "link": "https://adevarul.ro/politica/nicoleta-pauliuc-il-infrunta-pe-bolojan-dupa-2570217.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "VIDEO Pauliuc: Domnule Bolojan, nu mă intimidați; riscați să duceți PNL pe un drum în care libertatea de opinie e înlocuită cu obediența",
-        "link": "https://agerpres.ro/viata-parlamentara/2026/11/09/video-pauliuc-domnule-bolojan-nu-ma-intimidati-riscati-sa-duceti-pnl-pe-un-drum-in-care-libertatea-d--1611673"
-      }
-    ],
-    "published_at": 1794258298,
-    "title_hu": "Pauliuc a bírósági keresetek fenntartása mellett érvel",
-    "lead_hu": "Nicoleta Pauliuc PNL-szenátor november 9-én, hétfőn Facebook-videóban utasította vissza Ilie Bolojan pártelnök tíznapos felszólítását. Szerinte a párton belüli vitát nem fenyegetésekkel kell rendezni, és a bírósághoz fordulás joga nem jelent hűtlenséget a PNL-hez.",
-    "content_hu": "• **November 9-i reakció:** Pauliuc hétfő este videóüzenetben válaszolt Bolojan felhívására, amely a júniusi rendkívüli kongresszus döntéseit bíróságon megtámadó párttagokat érinti. A pártelnök tíz napot adott a keresetek visszavonására, és a parlamenti frakcióból való kizárás lehetőségét is felvetette.\n\n• **A pártvitáról:** A szenátor szerint az ultimátum azt kockáztatja, hogy a PNL-ben a vélemények szabad ütköztetését engedelmesség, az érdemi vitát pedig kényszerítő fellépés váltja fel. Bolojan módszerét bírálva azt mondta, a fenyegetések nem változtatják meg az álláspontját.\n\n• **A bírósági út indoka:** Pauliuc az alkotmány 21. cikkében rögzített igazságszolgáltatáshoz fordulás jogára hivatkozott. Úgy véli, ha egy pártdöntés sértheti a törvényt vagy a PNL alapszabályát, annak jogszerűségéről a bíráknak kell dönteniük; szerinte Bolojan a keresetek visszavonásának követelése helyett az eljárásban is érvényesíthetné álláspontját.\n\n• **Személyes háttér és vállalások:** Pauliuc felidézte, hogy korábban legyőzte a rákot, ezért a pártvezető figyelmeztetései nem riasztják el. Azt mondta, Ilfov megyei választóinak a betegek, a családok és a román vállalkozók képviseletét ígérte, nem pedig azt, hogy minden parlamenti szavazáson utasításra cselekszik.\n\n• **A kormány bírálata:** A szenátor szerint a Bolojan-kormány intézkedései jelentős terhet rónak a román cégekre. Külön kifogásolta, hogy megszűnt a betegszabadság első napjának díjazása, és felvetette: a liberális értékektől nem ő, hanem a pártvezetés távolodhatott el.",
-    "title_ro": "Pauliuc susține menținerea acțiunilor în instanță",
-    "lead_ro": "Senatoarea PNL Nicoleta Pauliuc a respins luni, 9 noiembrie, într-un mesaj video pe Facebook, solicitarea de zece zile formulată de liderul partidului, Ilie Bolojan. Ea consideră că disputele interne nu trebuie tranșate prin amenințări și că sesizarea instanței nu echivalează cu lipsa de loialitate față de PNL.",
-    "content_ro": "• **Reacția din 9 noiembrie:** Luni seară, Pauliuc i-a răspuns lui Bolojan printr-un mesaj video, după ce acesta le-a cerut liberalilor care au contestat în instanță hotărârile Congresului extraordinar din iunie să își retragă acțiunile în zece zile. Liderul PNL a menționat și posibilitatea excluderii lor din grupurile parlamentare.\n\n• **Disputa din partid:** Senatoarea a avertizat că abordarea lui Bolojan riscă să înlocuiască dezbaterea cu impunerea autorității și exprimarea liberă cu supunerea. Ea a spus că avertismentele conducerii nu o vor determina să renunțe la poziția sa.\n\n• **Motivul sesizării instanței:** Pauliuc a invocat articolul 21 din Constituție, care garantează accesul la justiție. În opinia sa, judecătorii trebuie să stabilească dacă o hotărâre a partidului încalcă legea sau statutul PNL; ea a întrebat de ce conducerea cere retragerea proceselor, în loc să își susțină poziția în instanță.\n\n• **Experiența și promisiunile sale:** Pauliuc a amintit că a trecut printr-o luptă cu cancerul, motiv pentru care amenințările politice nu o intimidează. Senatoarea a afirmat că le-a promis alegătorilor din Ilfov să apere pacienții, familiile și antreprenorii români, nu să voteze la comandă în Parlament.\n\n• **Critici la adresa guvernului:** Potrivit lui Pauliuc, măsurile cabinetului Bolojan pun o presiune considerabilă asupra firmelor românești. Ea a criticat în special eliminarea plății pentru prima zi de concediu medical și a pus sub semnul întrebării cine s-a îndepărtat de valorile liberale, conducerea sau ea.",
-    "importance_score": 33.0
-  },
-  {
     "group_id": "group_fcfe0cd3d7",
     "fingerprint": "2cf9e62d5d0361a1150c627ca511aa47",
     "category": "Általános",
@@ -4312,40 +4354,6 @@
     "title_ro": "Merz condiționează sprijinul pentru bugetul UE de finanțarea Ucrainei",
     "lead_ro": "Cancelarul german Friedrich Merz ar susține bugetul UE pentru 2028–2034 numai dacă toate statele membre contribuie la finanțarea Ucrainei începând din 2027. Kievul estimează pentru anul viitor un deficit de 70 de miliarde de euro, iar reuniunea liderilor de la Dublin este programată joi și vineri.",
     "content_ro": "• **Condiția lui Merz** pentru susținerea bugetului european pe perioada 2028–2034 este participarea tuturor statelor membre la finanțarea Ucrainei din 2027 și din anii următori. Cancelarul german i-a transmis această poziție lui António Costa, președintele Consiliului European, într-o scrisoare.\n\n• **Deficitul estimat al Ucrainei** pentru anul viitor este de 70 de miliarde de euro. Nevoia financiară este asociată efectelor atacului militar al Rusiei, iar aliații Kievului recunosc amploarea sumei necesare.\n\n• **Partea pe care ar acoperi-o UE** reprezintă aproximativ două treimi din deficit, adică circa 45 de miliarde de euro. Comisia Europeană analizează modalități de finanțare, inclusiv contractarea unei noi datorii comune, și urmărește obținerea unui acord până la sfârșitul anului.\n\n• **Împrumutul anterior și necesarul suplimentar** sunt sume distincte: liderii UE au convenit în decembrie anul trecut asupra unui credit de 90 de miliarde de euro, iar cele 70 de miliarde estimate acum ar fi necesare în plus. Ungaria, Slovacia, Bulgaria și Cehia au indicat că nu vor participa la sprijinul financiar suplimentar.\n\n• **Reuniunea de la Dublin** este programată joi și vineri, înaintea căreia Merz a cerut discutarea deficitului de finanțare al Kievului. Ungaria, Slovacia și Cehia au primit anul trecut derogări de la contribuția la plata dobânzilor aferente împrumutului de 90 de miliarde de euro.",
-    "importance_score": 33.0
-  },
-  {
-    "group_id": "group_99b4b20cf9",
-    "fingerprint": "9069856f0b45e05a961204d8d685c73d",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "„Unele zile sunt mai bune decât altele”. Biden restrânge turneele pentru cartea sa din cauza bolii",
-        "link": "https://www.mediafax.ro/externe/unele-zile-sunt-mai-bune-decat-altele-biden-restrange-turneele-pentru-cartea-sa-din-cauza-bolii-23840361"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Joe Biden își reduce aparițiile publice din cauza cancerului. „Unele zile sunt mai bune decât altele”",
-        "link": "https://adevarul.ro/stiri-externe/sua/joe-biden-isi-reduce-aparitiile-publice-din-cauza-2570201.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Cancerul îl împiedică pe Joe Biden să-și promoveze cartea de memorii: „Unele zile sunt mai bune decât altele”",
-        "link": "https://www.digi24.ro/stiri/externe/sua/cancerul-il-impiedica-pe-joe-biden-sa-si-promoveze-cartea-de-memorii-unele-zile-sunt-mai-bune-decat-altele-4028879"
-      }
-    ],
-    "published_at": 1794256559,
-    "title_hu": "Biden egészségi állapota miatt visszafogja a memoárbemutatókat",
-    "lead_hu": "Joe Biden a kezelése és egészségi állapota miatt kevesebb nyilvános beszélgetést tervez a november 17-én megjelenő memoárja népszerűsítésére. A volt elnök prosztatarákját 2025-ben diagnosztizálták; 2026 augusztusában fia a betegség súlyosbodásáról számolt be.",
-    "content_hu": "• **Kevesebb könyvbemutató:** A 83 éves Joe Biden közösségi oldalán jelezte, hogy betegsége időnként lassítja, ezért nem tud annyi nyilvános beszélgetést vállalni a készülő memoárjáról, mint amennyit eredetileg szeretett volna. Orvosai ugyanakkor biztatónak tartják a kezelésre adott válaszát.\n\n• **November 17-én érkezik a kötet:** A Promise Me, America Biden elnöki éveit, az akkori döntéseit és azok indokait dolgozza fel. A könyv az amerikai nemzeti identitást, az ország értékeit és nemzetközi szerepét, valamint a demokráciát is érinti.\n\n• **2025-ben állapították meg a prosztatarákot:** Biden májusban hozta nyilvánosságra, hogy agresszív daganatos betegsége van, amely a csontjaira is átterjedt. Néhány hónappal később amerikai sajtóhírek bőrrák miatti műtétről is beszámoltak.\n\n• **2026 augusztusában romlásról érkezett hír:** Hunter Biden, a volt elnök fia azt közölte, hogy apja betegsége előrehaladt, és a csontokon kívül más testtájakon is áttétek alakultak ki. A tájékoztatás a memoár körüli szereplések korlátozásának egészségi hátterét is megvilágítja.\n\n• **Trumpot is bírálja a könyvben:** A The Atlantic által közölt részletek szerint Biden kifogásolja a klímavédelmi intézkedések visszavonását. A 2021. január 6-i capitoliumi támadásért is politikai felelősséget tulajdonít utódjának, Donald Trumpnak.",
-    "title_ro": "Biden își reduce aparițiile pentru promovarea memoriilor din motive de sănătate",
-    "lead_ro": "Joe Biden va participa la mai puține discuții publice pentru promovarea volumului său, programat să apară pe 17 noiembrie, din cauza stării de sănătate și a tratamentului. Fostul președinte a fost diagnosticat cu cancer de prostată în 2025, iar în august 2026 fiul său a anunțat că boala s-a agravat.",
-    "content_ro": "• **Mai puține evenimente pentru carte:** Joe Biden, în vârstă de 83 de ani, a transmis pe rețelele sociale că boala îi încetinește uneori ritmul, astfel că nu va putea participa la atâtea conversații publice despre memorii câte și-ar fi dorit. Medicii săi consideră încurajator răspunsul la tratament.\n\n• **Volumul apare pe 17 noiembrie:** Promise Me, America tratează anii în care Biden a fost președintele Statelor Unite, deciziile luate atunci și motivele din spatele lor. Cartea abordează și identitatea națională, valorile americane, rolul internațional al țării și democrația.\n\n• **Cancerul de prostată a fost diagnosticat în 2025:** Biden a făcut public în luna mai că suferă de o formă agresivă a bolii, extinsă și la oase. Câteva luni mai târziu, presa americană a relatat că fostul președinte a fost operat pentru cancer de piele.\n\n• **În august 2026 a fost anunțată agravarea bolii:** Hunter Biden a spus că afecțiunea tatălui său a avansat și că au apărut metastaze atât în oase, cât și în alte regiuni ale organismului. Informația oferă un context suplimentar pentru reducerea aparițiilor publice ale fostului președinte.\n\n• **Cartea conține critici la adresa lui Trump:** Potrivit unor fragmente publicate de The Atlantic, Biden condamnă anularea măsurilor climatice adoptate în mandatul său. El îi atribuie succesorului său, Donald Trump, responsabilitate politică pentru atacul asupra Capitoliului din 6 ianuarie 2021.",
     "importance_score": 33.0
   },
   {
@@ -5249,6 +5257,33 @@
     "lead_ro": "În discursul său după învestirea de către președintele Isaac Herzog, Eisenkot a pus patru condiții pentru potențialii parteneri de coaliție: recunoașterea Israelului ca stat evreiesc, democratic, libe…",
     "content_ro": "În discursul său după învestirea de către președintele Isaac Herzog, Eisenkot a pus patru condiții pentru potențialii parteneri de coaliție: recunoașterea Israelului ca stat evreiesc, democratic, liberal și egalitarist; angajamentul față de valorile Declarației de Independență; serviciul militar, național sau civil obligatoriu pentru toți cetățenii israelieni; recunoașterea Hamas ca organizație teroristă și asumarea obligației de […] © G4Media.ro.",
     "importance_score": 25.0
+  },
+  {
+    "group_id": "group_ab04cfda46",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Încă un actor rupe legăturile cu Teatrul Național București din cauza felului în care TNB gestionează scandalul angajării lui Felix Alexa, regizorul acuzat de hărțuire sexuală",
+        "link": "https://adevarul.ro/stil-de-viata/cultura/inca-un-actor-rupe-legaturile-cu-tnb-din-cauza-2570222.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Încă un actor rupe colaborarea cu TNB, după scandalul Felix Alexa: „Util sau nu, mic sau mare, e singurul pas concret”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/inca-un-actor-rupe-colaborarea-cu-tnb-dupa-scandalul-felix-alexa-util-sau-nu-mic-sau-mare-e-singurul-pas-concret.html"
+      }
+    ],
+    "published_at": 1794263753,
+    "title_hu": "Încă un actor rupe legăturile cu Teatrul Național București din cauza felului în care TNB gestionează scandalul angajării lui Felix Alexa, regizorul acuzat de hărțuire sexuală",
+    "lead_hu": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborare…",
+    "content_hu": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborarea cu instituția și se retrage din distribuția spectacolului „Mary Stuart”.",
+    "title_ro": "Încă un actor rupe legăturile cu Teatrul Național București din cauza felului în care TNB gestionează scandalul angajării lui Felix Alexa, regizorul acuzat de hărțuire sexuală",
+    "lead_ro": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborare…",
+    "content_ro": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborarea cu instituția și se retrage din distribuția spectacolului „Mary Stuart”.",
+    "importance_score": 23.0
   },
   {
     "group_id": "group_f557bb14ba",
@@ -6735,6 +6770,94 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_58ff22438f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Alegătorii din California resping impozitul pe averea miliardarilor, după o campanie de sute de milioane de dolari",
+        "link": "https://www.g4media.ro/alegatorii-din-california-resping-impozitul-pe-averea-miliardarilor-dupa-o-campanie-de-sute-de-milioane-de-dolari.html"
+      }
+    ],
+    "published_at": 1794295486,
+    "title_hu": "Alegătorii din California resping impozitul pe averea miliardarilor, după o campanie de sute de milioane de dolari",
+    "lead_hu": "Alegătorii din California au respins o propunere de impozitare a averilor miliardarilor, după o campanie electorală extrem de costisitoare, în care unii dintre cei mai bogați oameni din industria tehn...",
+    "content_hu": "Alegătorii din California au respins o propunere de impozitare a averilor miliardarilor, după o campanie electorală extrem de costisitoare, în care unii dintre cei mai bogați oameni din industria tehnologiei au investit sume uriașe pentru a împiedica adoptarea măsurii, relatează Associated Press. Respingerea inițiativei reprezintă o victorie pentru liderii democrați care s-au opus acesteia, printre […] © G4Media.ro.",
+    "title_ro": "Alegătorii din California resping impozitul pe averea miliardarilor, după o campanie de sute de milioane de dolari",
+    "lead_ro": "Alegătorii din California au respins o propunere de impozitare a averilor miliardarilor, după o campanie electorală extrem de costisitoare, în care unii dintre cei mai bogați oameni din industria tehn...",
+    "content_ro": "Alegătorii din California au respins o propunere de impozitare a averilor miliardarilor, după o campanie electorală extrem de costisitoare, în care unii dintre cei mai bogați oameni din industria tehnologiei au investit sume uriașe pentru a împiedica adoptarea măsurii, relatează Associated Press. Respingerea inițiativei reprezintă o victorie pentru liderii democrați care s-au opus acesteia, printre […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_6041e4390f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Aproximativ 200 de elevi, evacuați de la un liceu din Craiova după fisurarea unei conducte de gaze",
+        "link": "https://www.mediafax.ro/social/aproximativ-200-de-elevi-evacuati-de-la-un-liceu-din-craiova-dupa-fisurarea-unei-conducte-de-gaze-23840639"
+      }
+    ],
+    "published_at": 1794295372,
+    "title_hu": "Aproximativ 200 de elevi, evacuați de la un liceu din Craiova după fisurarea unei conducte de gaze",
+    "lead_hu": "Aproximativ 200 de elevi și 30 de cadre didactice au fost evacuați preventiv, marți, de la Liceul „Petreache Trișcu” din Craiova, după ce o conductă de gaze a fost fisurată în urma unor lucrări efectu...",
+    "content_hu": "Aproximativ 200 de elevi și 30 de cadre didactice au fost evacuați preventiv, marți, de la Liceul „Petreache Trișcu” din Craiova, după ce o conductă de gaze a fost fisurată în urma unor lucrări efectuate cu un buldoexcavator, a anunțat ISU Dolj.",
+    "title_ro": "Aproximativ 200 de elevi, evacuați de la un liceu din Craiova după fisurarea unei conducte de gaze",
+    "lead_ro": "Aproximativ 200 de elevi și 30 de cadre didactice au fost evacuați preventiv, marți, de la Liceul „Petreache Trișcu” din Craiova, după ce o conductă de gaze a fost fisurată în urma unor lucrări efectu...",
+    "content_ro": "Aproximativ 200 de elevi și 30 de cadre didactice au fost evacuați preventiv, marți, de la Liceul „Petreache Trișcu” din Craiova, după ce o conductă de gaze a fost fisurată în urma unor lucrări efectuate cu un buldoexcavator, a anunțat ISU Dolj.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_849ff7a22c",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Prima reacție a Prințului, după ce Gabriella i-a trimis un mesaj ascuns. Bărbatul infidel a explicat de ce a ales-o pe Bianca",
+        "link": "https://www.cancan.ro/prima-reactie-a-printului-dupa-ce-gabriella-i-a-trimis-un-mesaj-ascuns-barbatul-infidel-a-explicat-de-ce-a-ales-o-pe-bianca-21544749"
+      }
+    ],
+    "published_at": 1794295332,
+    "title_hu": "Prima reacție a Prințului, după ce Gabriella i-a trimis un mesaj ascuns. Bărbatul infidel a explicat de ce a ales-o pe Bianca",
+    "lead_hu": "Insula Iubirii sezonul 10 se apropie de sfârșit, iar fanii show-ului așteaptă cu nerăbdare deznodământul final. Însă, în cazul unora, adevărul a ieșit la suprafață mult mai devreme. Astfel, publicul d...",
+    "content_hu": "Insula Iubirii sezonul 10 se apropie de sfârșit, iar fanii show-ului așteaptă cu nerăbdare deznodământul final. Însă, în cazul unora, adevărul a ieșit la suprafață mult mai devreme. Astfel, publicul deja a aflat că Prințul Marco și Bianca rămân împreună, chiar dacă bărbatul a fost infidel. Însă, chiar și așa, ispita Gabriella pare că este […]",
+    "title_ro": "Prima reacție a Prințului, după ce Gabriella i-a trimis un mesaj ascuns. Bărbatul infidel a explicat de ce a ales-o pe Bianca",
+    "lead_ro": "Insula Iubirii sezonul 10 se apropie de sfârșit, iar fanii show-ului așteaptă cu nerăbdare deznodământul final. Însă, în cazul unora, adevărul a ieșit la suprafață mult mai devreme. Astfel, publicul d...",
+    "content_ro": "Insula Iubirii sezonul 10 se apropie de sfârșit, iar fanii show-ului așteaptă cu nerăbdare deznodământul final. Însă, în cazul unora, adevărul a ieșit la suprafață mult mai devreme. Astfel, publicul deja a aflat că Prințul Marco și Bianca rămân împreună, chiar dacă bărbatul a fost infidel. Însă, chiar și așa, ispita Gabriella pare că este […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_4e61f9f8f2",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Victorii false al Rusiei. Cum l-au păcălit generalii ruși pe Putin cu videoclipuri „de pe front” generate cu IA",
+        "link": "https://stirileprotv.ro/stiri/international/victorii-false-al-rusiei-cum-l-au-pacalit-generalii-rusi-pe-putin-cu-videoclipuri-de-pe-front-generate-cu-ia.html"
+      }
+    ],
+    "published_at": 1794295229,
+    "title_hu": "Victorii false al Rusiei. Cum l-au păcălit generalii ruși pe Putin cu videoclipuri „de pe front” generate cu IA",
+    "lead_hu": "Armata rusă a recurs la cel puțin 35 de videoclipuri create cu inteligență artificială, pentru a inventa sau exagera succesele de pe frontul din Ucraina. Au indus în eroare atât opinia publică, cât și...",
+    "content_hu": "Armata rusă a recurs la cel puțin 35 de videoclipuri create cu inteligență artificială, pentru a inventa sau exagera succesele de pe frontul din Ucraina. Au indus în eroare atât opinia publică, cât și propria conducere militară, inclusiv pe Putin.",
+    "title_ro": "Victorii false al Rusiei. Cum l-au păcălit generalii ruși pe Putin cu videoclipuri „de pe front” generate cu IA",
+    "lead_ro": "Armata rusă a recurs la cel puțin 35 de videoclipuri create cu inteligență artificială, pentru a inventa sau exagera succesele de pe frontul din Ucraina. Au indus în eroare atât opinia publică, cât și...",
+    "content_ro": "Armata rusă a recurs la cel puțin 35 de videoclipuri create cu inteligență artificială, pentru a inventa sau exagera succesele de pe frontul din Ucraina. Au indus în eroare atât opinia publică, cât și propria conducere militară, inclusiv pe Putin.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_e0b92e3380",
     "category": "Gazdaság",
     "is_synthesized": false,
@@ -7106,28 +7229,6 @@
     "title_ro": "Cât ar pierde țările UE într-o singură zi de grevă generală. Germania ajunge la 2,5 miliarde de euro. Estimarea pentru România",
     "lead_ro": "O grevă generală de 24 de ore ar putea costa economia Germaniei aproximativ 2,5 miliarde de euro, potrivit unei simulări bazate pe date Eurostat. Același calcul arată că și în România impactul economi...",
     "content_ro": "O grevă generală de 24 de ore ar putea costa economia Germaniei aproximativ 2,5 miliarde de euro, potrivit unei simulări bazate pe date Eurostat. Același calcul arată că și în România impactul economic ar fi de ordinul sutelor de milioane de euro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6ed1e28932",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
-        "link": "https://www.mediafax.ro/social/interventie-de-10-ore-in-muntii-parang-pentru-salvarea-unui-turist-ratacit-barbatul-a-fost-gasit-in-zona-varfului-carja-23840627"
-      }
-    ],
-    "published_at": 1794293796,
-    "title_hu": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
-    "lead_hu": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un t...",
-    "content_hu": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un teren accidentat, iar operațiunea s-a încheiat în noaptea de luni spre marți, după aproximativ 10 ore.",
-    "title_ro": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
-    "lead_ro": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un t...",
-    "content_ro": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un teren accidentat, iar operațiunea s-a încheiat în noaptea de luni spre marți, după aproximativ 10 ore.",
     "importance_score": 0.0
   },
   {
@@ -20991,72 +21092,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_2fb958d92e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Megszerezte első győzelmét a futsalválogatott a világbajnoki selejtező elitkörében",
-        "link": "https://www.mediatica.ro/hirek/sport/megszerezte-elso-gyozelmet-a-futsalvalogatott-a-vilagbajnoki-selejtezo-elitkoreben"
-      }
-    ],
-    "published_at": 1794209444,
-    "title_hu": "Megszerezte első győzelmét a futsalválogatott a világbajnoki selejtező elitkörében",
-    "lead_hu": "A román csapat 2-1-re legyőzte Dániát a Sepsi Arénában.",
-    "content_hu": "A román csapat 2-1-re legyőzte Dániát a Sepsi Arénában.",
-    "title_ro": "Megszerezte első győzelmét a futsalválogatott a világbajnoki selejtező elitkörében",
-    "lead_ro": "A román csapat 2-1-re legyőzte Dániát a Sepsi Arénában.",
-    "content_ro": "A román csapat 2-1-re legyőzte Dániát a Sepsi Arénában.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a6d766a4c0",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediatica.ro",
-        "title": "Bezárhat a marosszentannai postahivatal, 15 napot kapott a költözésre",
-        "link": "https://www.mediatica.ro/hirek/politika/bezarhat-a-marosszentannai-postahivatal-15-napot-kapott-a-koltozesre"
-      }
-    ],
-    "published_at": 1794209290,
-    "title_hu": "Bezárhat a marosszentannai postahivatal, 15 napot kapott a költözésre",
-    "lead_hu": "Több mint húsz éve nem fizetik a helyiség közüzemi számláit.",
-    "content_hu": "Több mint húsz éve nem fizetik a helyiség közüzemi számláit.",
-    "title_ro": "Bezárhat a marosszentannai postahivatal, 15 napot kapott a költözésre",
-    "lead_ro": "Több mint húsz éve nem fizetik a helyiség közüzemi számláit.",
-    "content_ro": "Több mint húsz éve nem fizetik a helyiség közüzemi számláit.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_e868849205",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cadoul pentru tipul care are deja tot",
-        "link": "https://www.gsp.ro/comercial/advertorial/cadoul-pentru-tipul-care-are-deja-tot-997571.html"
-      }
-    ],
-    "published_at": 1794209082,
-    "title_hu": "Cadoul pentru tipul care are deja tot",
-    "lead_hu": "Problema nu e bugetul, e ideeaExistă o categorie de oameni pentru care cumpărăturile de sărbători sunt un coșmar: cei care își cumpără singuri tot ce le trebuie. Nu au nevoie de nimic, nu cer nimic și…",
-    "content_hu": "Problema nu e bugetul, e ideeaExistă o categorie de oameni pentru care cumpărăturile de sărbători sunt un coșmar: cei care își cumpără singuri tot ce le trebuie. Nu au nevoie de nimic, nu cer nimic și, când îi întrebi ce vor, ridică din umeri. Pentru ei, cadoul util e inutil prin definiție — și-l luau oricum. Set de sah cu accesorii de vin, din gama de cosuri cadou pentru barbati. ...",
-    "title_ro": "Cadoul pentru tipul care are deja tot",
-    "lead_ro": "Problema nu e bugetul, e ideeaExistă o categorie de oameni pentru care cumpărăturile de sărbători sunt un coșmar: cei care își cumpără singuri tot ce le trebuie. Nu au nevoie de nimic, nu cer nimic și…",
-    "content_ro": "Problema nu e bugetul, e ideeaExistă o categorie de oameni pentru care cumpărăturile de sărbători sunt un coșmar: cei care își cumpără singuri tot ce le trebuie. Nu au nevoie de nimic, nu cer nimic și, când îi întrebi ce vor, ridică din umeri. Pentru ei, cadoul util e inutil prin definiție — și-l luau oricum. Set de sah cu accesorii de vin, din gama de cosuri cadou pentru barbati. ...",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_93a8eee2f9",
     "fingerprint": "b91f8481e627a037271643439ac2e166",
     "category": "Általános",
@@ -21297,6 +21332,40 @@
     "lead_ro": "Uniunea Europeană va continua până la 15 noiembrie 2028 misiunea EUMAM Ucraina, care sprijină pregătirea militarilor ucraineni. Pentru următorii doi ani sunt prevăzute aproape 300 de milioane de euro, iar misiunea va deschide un birou în Ucraina.",
     "content_ro": "• **Până la 15 noiembrie 2028** va fi valabil mandatul misiunii Uniunii Europene de instruire militară pentru Ucraina. Prelungirea asigură continuarea activității EUMAM Ucraina, dedicată pregătirii personalului militar ucrainean.\n\n• **Aproape 300 de milioane de euro** vor fi alocate de UE pentru operațiunile misiunii din următorii doi ani. Informațiile publicate nu precizează cum va fi repartizată suma între diferitele categorii de cheltuieli.\n\n• **Misiunea va avea un birou în Ucraina**, care va lucra în legătură directă cu conducerea țării, militarii ucraineni și partenerii internaționali. Printre responsabilitățile sale se va număra coordonarea activității misiunii.\n\n• **Mandatul acordă o atenție mai mare experienței dobândite în luptă** și dezvoltării programelor de pregătire militară. Instruirea urmează să fie adaptată cerințelor de apărare ale Ucrainei.\n\n• **EUMAM Ucraina a fost înființată la 17 octombrie 2022**, la solicitarea Ucrainei. Experții europeni instruiesc personalul militar ucrainean pe teritoriul statelor membre și coordonează contribuțiile țărilor participante în acest domeniu.",
     "importance_score": 35.0
+  },
+  {
+    "group_id": "group_99b4b20cf9",
+    "fingerprint": "9069856f0b45e05a961204d8d685c73d",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "„Unele zile sunt mai bune decât altele”. Biden restrânge turneele pentru cartea sa din cauza bolii",
+        "link": "https://www.mediafax.ro/externe/unele-zile-sunt-mai-bune-decat-altele-biden-restrange-turneele-pentru-cartea-sa-din-cauza-bolii-23840361"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Joe Biden își reduce aparițiile publice din cauza cancerului. „Unele zile sunt mai bune decât altele”",
+        "link": "https://adevarul.ro/stiri-externe/sua/joe-biden-isi-reduce-aparitiile-publice-din-cauza-2570201.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Cancerul îl împiedică pe Joe Biden să-și promoveze cartea de memorii: „Unele zile sunt mai bune decât altele”",
+        "link": "https://www.digi24.ro/stiri/externe/sua/cancerul-il-impiedica-pe-joe-biden-sa-si-promoveze-cartea-de-memorii-unele-zile-sunt-mai-bune-decat-altele-4028879"
+      }
+    ],
+    "published_at": 1794256559,
+    "title_hu": "Biden egészségi állapota miatt visszafogja a memoárbemutatókat",
+    "lead_hu": "Joe Biden a kezelése és egészségi állapota miatt kevesebb nyilvános beszélgetést tervez a november 17-én megjelenő memoárja népszerűsítésére. A volt elnök prosztatarákját 2025-ben diagnosztizálták; 2026 augusztusában fia a betegség súlyosbodásáról számolt be.",
+    "content_hu": "• **Kevesebb könyvbemutató:** A 83 éves Joe Biden közösségi oldalán jelezte, hogy betegsége időnként lassítja, ezért nem tud annyi nyilvános beszélgetést vállalni a készülő memoárjáról, mint amennyit eredetileg szeretett volna. Orvosai ugyanakkor biztatónak tartják a kezelésre adott válaszát.\n\n• **November 17-én érkezik a kötet:** A Promise Me, America Biden elnöki éveit, az akkori döntéseit és azok indokait dolgozza fel. A könyv az amerikai nemzeti identitást, az ország értékeit és nemzetközi szerepét, valamint a demokráciát is érinti.\n\n• **2025-ben állapították meg a prosztatarákot:** Biden májusban hozta nyilvánosságra, hogy agresszív daganatos betegsége van, amely a csontjaira is átterjedt. Néhány hónappal később amerikai sajtóhírek bőrrák miatti műtétről is beszámoltak.\n\n• **2026 augusztusában romlásról érkezett hír:** Hunter Biden, a volt elnök fia azt közölte, hogy apja betegsége előrehaladt, és a csontokon kívül más testtájakon is áttétek alakultak ki. A tájékoztatás a memoár körüli szereplések korlátozásának egészségi hátterét is megvilágítja.\n\n• **Trumpot is bírálja a könyvben:** A The Atlantic által közölt részletek szerint Biden kifogásolja a klímavédelmi intézkedések visszavonását. A 2021. január 6-i capitoliumi támadásért is politikai felelősséget tulajdonít utódjának, Donald Trumpnak.",
+    "title_ro": "Biden își reduce aparițiile pentru promovarea memoriilor din motive de sănătate",
+    "lead_ro": "Joe Biden va participa la mai puține discuții publice pentru promovarea volumului său, programat să apară pe 17 noiembrie, din cauza stării de sănătate și a tratamentului. Fostul președinte a fost diagnosticat cu cancer de prostată în 2025, iar în august 2026 fiul său a anunțat că boala s-a agravat.",
+    "content_ro": "• **Mai puține evenimente pentru carte:** Joe Biden, în vârstă de 83 de ani, a transmis pe rețelele sociale că boala îi încetinește uneori ritmul, astfel că nu va putea participa la atâtea conversații publice despre memorii câte și-ar fi dorit. Medicii săi consideră încurajator răspunsul la tratament.\n\n• **Volumul apare pe 17 noiembrie:** Promise Me, America tratează anii în care Biden a fost președintele Statelor Unite, deciziile luate atunci și motivele din spatele lor. Cartea abordează și identitatea națională, valorile americane, rolul internațional al țării și democrația.\n\n• **Cancerul de prostată a fost diagnosticat în 2025:** Biden a făcut public în luna mai că suferă de o formă agresivă a bolii, extinsă și la oase. Câteva luni mai târziu, presa americană a relatat că fostul președinte a fost operat pentru cancer de piele.\n\n• **În august 2026 a fost anunțată agravarea bolii:** Hunter Biden a spus că afecțiunea tatălui său a avansat și că au apărut metastaze atât în oase, cât și în alte regiuni ale organismului. Informația oferă un context suplimentar pentru reducerea aparițiilor publice ale fostului președinte.\n\n• **Cartea conține critici la adresa lui Trump:** Potrivit unor fragmente publicate de The Atlantic, Biden condamnă anularea măsurilor climatice adoptate în mandatul său. El îi atribuie succesorului său, Donald Trump, responsabilitate politică pentru atacul asupra Capitoliului din 6 ianuarie 2021.",
+    "importance_score": 33.0
   },
   {
     "group_id": "group_a2580386ad",
@@ -21659,28 +21728,6 @@
     "title_ro": "Trump spune că vede un 'impuls pozitiv' către un acord cu Iranul",
     "lead_ro": "",
     "content_ro": "",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_ab04cfda46",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Încă un actor rupe legăturile cu Teatrul Național București din cauza felului în care TNB gestionează scandalul angajării lui Felix Alexa, regizorul acuzat de hărțuire sexuală",
-        "link": "https://adevarul.ro/stil-de-viata/cultura/inca-un-actor-rupe-legaturile-cu-tnb-din-cauza-2570222.html"
-      }
-    ],
-    "published_at": 1794263753,
-    "title_hu": "Încă un actor rupe legăturile cu Teatrul Național București din cauza felului în care TNB gestionează scandalul angajării lui Felix Alexa, regizorul acuzat de hărțuire sexuală",
-    "lead_hu": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborare…",
-    "content_hu": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborarea cu instituția și se retrage din distribuția spectacolului „Mary Stuart”.",
-    "title_ro": "Încă un actor rupe legăturile cu Teatrul Național București din cauza felului în care TNB gestionează scandalul angajării lui Felix Alexa, regizorul acuzat de hărțuire sexuală",
-    "lead_ro": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborare…",
-    "content_ro": "Scandalul declanșat de angajarea regizorului Felix Alexa la Teatrul Național București (TNB) continuă să producă efecte în lumea teatrală. Actorul Tudor Cucu-Dumitrescu a anunțat că oprește colaborarea cu instituția și se retrage din distribuția spectacolului „Mary Stuart”.",
     "importance_score": 0.0
   },
   {
