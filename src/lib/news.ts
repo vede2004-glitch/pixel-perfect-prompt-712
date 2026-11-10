@@ -8,6 +8,7 @@ export type LangContent = { title: string; lead: string; content: string };
 type RawItem = {
   group_id: string;
   slug?: string | null;
+  tags?: string[] | null;
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
