@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { news, history, archive, ensureHistory } from "@/lib/news";
+import { news, history, archive, ensureHistory, articlePath } from "@/lib/news";
 import { domainLang, originFor } from "@/lib/domains";
 
 const STATIC_PAGES = [
@@ -38,7 +38,7 @@ export const Route = createFileRoute("/sitemap.xml")({
 
         const entries: string[] = STATIC_PAGES.map((p) => urlEntry(origin + p));
         for (const item of items) {
-          const articleUrl = `${origin}/hir/${encodeURIComponent(item.group_id)}`;
+          const articleUrl = `${origin}/hir/${encodeURIComponent(articlePath(item))}`;
           const ts = item.published_at;
           const lastmod =
             ts && Number.isFinite(ts) ? new Date(ts * 1000).toISOString().slice(0, 10) : null;

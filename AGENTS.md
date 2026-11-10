@@ -20,3 +20,5 @@
 - Attach the Supabase session bearer through Start function middleware so protected newsroom loaders and refreshes authenticate without credentials in payloads.
 - Validate newsroom payloads through the shared Studio contract and source list extracted from the Python engine; selection IDs travel to the un-nested preparation route so the dashboard cannot swallow that page.
 - Select lead-story imagery through shared topic/category pools of generated images and CDN gallery pointers, using a stable article-ID hash and canonical text so refreshes and language switches keep the same image.
+- Centralize public article links in StoryLink and articlePath: supplied slugs precede legacy IDs, while single-source items open original links; article lookup checks every collection for slugs before IDs to preserve old URLs.
+- Article loader metadata carries the domain/client language and refreshes on language changes so head tags and JSON-LD match visible translated content; article canonicals belong only to the leaf route.
