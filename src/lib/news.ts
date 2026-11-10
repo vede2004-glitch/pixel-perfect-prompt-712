@@ -232,7 +232,7 @@ export const isRecent = (n: NewsItem) =>
 
 /** Archív cikkek (weboldalparolas.py → src/data/archive.json), group_id szerint összevonva. */
 type ArchiveRaw = {
-  group_id?: string; slug?: string | null; source?: string; title?: string; link?: string;
+  group_id?: string; slug?: string | null; tags?: string[] | null; source?: string; title?: string; link?: string;
   image?: string | null; summary?: string; category?: string | null; fetched_at?: number;
 };
 
