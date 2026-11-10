@@ -142,6 +142,7 @@ function normalize(r: RawItem): NewsItem {
   return {
     group_id: r.group_id,
     slug: r.slug?.trim() || null,
+    tags: normalizeTags(r.tags, category),
     image: r.image,
     is_synthesized: r.is_synthesized,
     sources_count: r.sources_count,
