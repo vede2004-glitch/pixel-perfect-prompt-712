@@ -30,15 +30,6 @@
         "published_at": 1794262525
       },
       {
-        "source": "HotNews.ro",
-        "title": "„Angajamentul” făcut de Luca Niculescu la întâlnirea cu Ursula von der Leyen, „într-un moment de provocări economice și de securitate tot mai mari”",
-        "link": "https://hotnews.ro/angajamentul-facut-de-luca-niculescu-la-intalnirea-cu-ursula-von-der-leyen-intr-un-moment-de-provocari-economice-si-de-securitate-tot-mai-mari-2399424",
-        "summary": "Premierul Luca Niculescu a declarat că vizita făcută luni la București de președinta Comisiei Europene, Ursula von der Leyen, „este încă o expresie a determinării noastre comune de a consolida răspunsul colectiv al Europei la provocările care urmează”. Niculescu a spus că vizita Ursulei von der Leyen s-a concretizat „într-un moment de provocări economice și …",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794247032
-      },
-      {
         "source": "Digi24",
         "title": "Luca Niculescu: Apreciem sprijinul acordat de CE pentru operaţionalizarea centrului de securitate maritimă la Marea Neagră",
         "link": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-apreciem-sprijinul-acordat-de-ce-pentru-operationalizarea-centrului-de-securitate-maritima-la-marea-neagra-4028641",
@@ -172,6 +163,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794327002
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Nicuşor Dan: Deficitul României este de 150 de miliarde de lei. Înseamnă tot PNRR-ul pe cinci ani",
+        "link": "https://stirileprotv.ro/stiri/financiar/nicusor-dan-deficitul-romaniei-este-de-150-de-miliarde-de-lei-inseamna-tot-pnrr-ul-pe-cinci-ani.html",
+        "summary": "Preşedintele Nicuşor Dan a declarat, marţi, despre situaţia financiară a ţării, că bugetul României pe 2026 a avut venituri de 730 de miliarde de lei şi cheltuieli de 860 miliarde de lei.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794333206
       }
     ]
   },
@@ -448,38 +448,6 @@
     ]
   },
   {
-    "group_id": "group_b1b55b68ca",
-    "category": "Politika",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Scandal în PNL. Hubert Thuma îl acuză pe Bolojan că tratează partidul ca pe un SRL: „Credeți că ați luat PNL pe persoană fizică” SURSE",
-        "link": "https://adevarul.ro/politica/scandal-in-pnl-hubert-thuma-il-acuza-pe-bolojan-2570179.html",
-        "summary": "Sunt tensiuni puternice în interiorul Partidului Național Liberal, unde Hubert Thuma l-a criticat pe președintele formațiunii, Ilie Bolojan, în timpul unei ședințe de partid.",
-        "category": "Politika",
-        "is_b2b_only": false,
-        "published_at": 1794246955
-      }
-    ]
-  },
-  {
-    "group_id": "group_0f7ec5f0e4",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "FCSB și-a programat un amical-surpriză săptămâna aceasta",
-        "link": "https://www.gsp.ro/fotbal/liga-1/fcsb-si-a-programat-un-amical-surpriza-saptamana-aceasta-997820.html",
-        "summary": "FCSB va profita de întreruperea calendarului competițional provocată de jocurile primei reprezentative pentru a disputa o partidă amicală împotriva divizionarei secunde Chindia Târgoviște, ocupanta primului loc în eșalonul al doilea în acest moment. Partida dintre cele două echipe a fost programată pentru duminică, 15 noiembrie, de la ora 12:00. Jocul va avea loc pe terenul dâmbovițenilor și va fi permis accesul publicului. ...",
-        "category": "Sport",
-        "is_b2b_only": false,
-        "published_at": 1794247013
-      }
-    ]
-  },
-  {
     "group_id": "group_7b4e77868c",
     "category": "Általános",
     "articles_count": 1,
@@ -492,49 +460,6 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794247290
-      }
-    ]
-  },
-  {
-    "group_id": "group_ca57ebac7c",
-    "category": "Általános",
-    "articles_count": 4,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "România pregătește un plan cu 57 de măsuri pentru protejarea copiilor. Peste 20.000 de cazuri de abuz au fost raportate anul trecut",
-        "link": "https://stirileprotv.ro/stiri/actualitate/romania-pregateste-un-plan-cu-57-de-masuri-pentru-protejarea-copiilor-peste-20-000-de-cazuri-de-abuz-au-fost-raportate-anul-trecut.html",
-        "summary": "Peste 20.000 de cazuri de abuz, neglijare și exploatare a copiilor au fost înregistrate anul trecut de Protecția Copilului. Iar cifrele oficiale, surprind doar o parte a realității.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794247104
-      },
-      {
-        "source": "Adevărul",
-        "title": "Șase din zece români cred că părinții lor au avut o viață mai grea. Ce generație este considerată cea mai afectată în prezent SONDAJ",
-        "link": "https://adevarul.ro/stiri-interne/societate/sase-din-zece-romani-cred-ca-parintii-lor-au-avut-2570289.html",
-        "summary": "Aproape șase din zece români consideră că generația părinților lor a avut o viață mai grea decât cea pe care o trăiesc ei în prezent. În același timp, peste jumătate dintre respondenți cred că toate categoriile de vârstă se confruntă cu dificultăți aproximativ egale în România.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794302057
-      },
-      {
-        "source": "Digi24",
-        "title": "Sondaj INSCOP: Șase din 10 români cred că părinții lor au avut o viață mai grea. Ce spun despre generația tânără",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/sondaj-inscop-sase-din-10-romani-cred-ca-parintii-lor-au-avut-o-viata-mai-grea-ce-spun-despre-generatia-tanara-4029379",
-        "summary": "Șase din zece români consideră că generația părinților lor a avut o viață mai grea decât generația actuală, în timp ce peste jumătate cred că toate categoriile de vârstă se confruntă în prezent cu dificultăți aproximativ egale. Totodată, 51,4% dintre respondenți sunt de părere că tinerii de astăzi au mai multe oportunități de reușită decât generațiile anterioare, potrivit unui sondaj INSCOP Research, realizat la solicitarea Informat.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794305907
-      },
-      {
-        "source": "G4Media",
-        "title": "Aproximativ 38% dintre copiii născuţi în România în 2023 aveau mame casnice, arată datele Institutului Național de Statistică / În mediul rural ponderea se apropia de 50%",
-        "link": "https://www.g4media.ro/aproximativ-38-dintre-copiii-nascuti-in-romania-in-2023-aveau-mame-casnice-arata-datele-institutului-national-de-statistica-in-mediul-rural-ponderea-se-apropia-de-50.html",
-        "summary": "Aproximativ 38% dintre copiii născuţi în România în anul 2023 aveau mame casnice, iar în mediul rural ponderea se apropia de 50%, a declarat, marţi, preşedintele Institutului Naţional de Statistică (INS), Tudorel Andrei, la evenimentul de lansare a cercetării „România nevalorificată”, scrie Agerpres. „În 2023, aproximativ 38% dintre copii aveau mame casnice. Ponderea este de […] © G4Media.ro.",
-        "category": "Általános",
-        "is_b2b_only": false,
-        "published_at": 1794317214
       }
     ]
   },
@@ -567,22 +492,6 @@
         "category": "Bulvár",
         "is_b2b_only": false,
         "published_at": 1794247354
-      }
-    ]
-  },
-  {
-    "group_id": "group_e551c0ebb5",
-    "category": "Erdély",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "A provocat un accident DROGAT în Satu Mare, apoi a scos pistolul într-un scandal la Oradea",
-        "link": "https://www.presasm.ro/a-provocat-un-accident-drogat-in-satu-mare-apoi-a-scos-pistolul-intr-un-scandal-la-oradea/54190",
-        "summary": "Un bărbat condamnat anterior pentru un accident rutier provocat în municipiul Satu Mare, în timp ce se afla sub influența substanțelor psihoactive, a ajuns din nou în fața judecătorilor, de această dată după un scandal cu pistolul în centrul municipiului Orade…",
-        "category": "Erdély",
-        "is_b2b_only": false,
-        "published_at": 1794247080
       }
     ]
   },
@@ -1241,7 +1150,7 @@
   {
     "group_id": "group_25ef24517b",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Adevărul",
@@ -1251,6 +1160,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794249455
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Peste 600.000 de vârstnici din România nu au pe cine să cheme în ajutor. „Parcă sunt întemnițat în propria casă”",
+        "link": "https://stirileprotv.ro/stiri/actualitate/peste-600-000-de-varstnici-din-romania-nu-au-pe-cine-sa-cheme-in-ajutor-parca-sunt-intemnitat-in-propria-casa.html",
+        "summary": "Sute de mii de români îmbătrânesc singuri între patru pereți. Un studiu național arată că peste 600.000 nu au pe cine să cheme în ajutor dacă pățesc ceva.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794333165
       }
     ]
   },
@@ -1443,7 +1361,7 @@
         "summary": "Preşedintele Nicuşor Dan susţine marţi, de la ora 19.00, o conferinţă de presă la Palatul Cotroceni, despre provocările ultimelor luni şi priorităţile pentru perioada următoare.",
         "category": "Általános",
         "is_b2b_only": false,
-        "published_at": 1794333075
+        "published_at": 1794333308
       },
       {
         "source": "Mediafax",
@@ -8765,7 +8683,7 @@
   {
     "group_id": "group_08bb1719a8",
     "category": "Általános",
-    "articles_count": 25,
+    "articles_count": 26,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -8991,6 +8909,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794325989
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cum s-ar fi produs carambolul din Bulgaria unde cel puțin 11 oameni au murit. Românul rănit este în stare critică",
+        "link": "https://stirileprotv.ro/stiri/international/animatie-grafica-cum-s-ar-fi-produs-carambolul-din-bulgaria-unde-cel-putin-12-oameni-au-murit.html",
+        "summary": "Un carambol uriaș, produs pe ambele sensuri ale autostrăzii Trakia, a îndoliat țara vecină, Bulgaria. Cel puțin 11 oameni au murit și peste 50 sunt răniți. Printre ei, și un român internat acum într-un spital din Burgas cu multiple traumatisme.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794333084
       }
     ]
   },
@@ -9032,6 +8959,40 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794302205
+      }
+    ]
+  },
+  {
+    "group_id": "group_ca57ebac7c",
+    "category": "Általános",
+    "articles_count": 3,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "Șase din zece români cred că părinții lor au avut o viață mai grea. Ce generație este considerată cea mai afectată în prezent SONDAJ",
+        "link": "https://adevarul.ro/stiri-interne/societate/sase-din-zece-romani-cred-ca-parintii-lor-au-avut-2570289.html",
+        "summary": "Aproape șase din zece români consideră că generația părinților lor a avut o viață mai grea decât cea pe care o trăiesc ei în prezent. În același timp, peste jumătate dintre respondenți cred că toate categoriile de vârstă se confruntă cu dificultăți aproximativ egale în România.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794302057
+      },
+      {
+        "source": "Digi24",
+        "title": "Sondaj INSCOP: Șase din 10 români cred că părinții lor au avut o viață mai grea. Ce spun despre generația tânără",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/sondaj-inscop-sase-din-10-romani-cred-ca-parintii-lor-au-avut-o-viata-mai-grea-ce-spun-despre-generatia-tanara-4029379",
+        "summary": "Șase din zece români consideră că generația părinților lor a avut o viață mai grea decât generația actuală, în timp ce peste jumătate cred că toate categoriile de vârstă se confruntă în prezent cu dificultăți aproximativ egale. Totodată, 51,4% dintre respondenți sunt de părere că tinerii de astăzi au mai multe oportunități de reușită decât generațiile anterioare, potrivit unui sondaj INSCOP Research, realizat la solicitarea Informat.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794305907
+      },
+      {
+        "source": "G4Media",
+        "title": "Aproximativ 38% dintre copiii născuţi în România în 2023 aveau mame casnice, arată datele Institutului Național de Statistică / În mediul rural ponderea se apropia de 50%",
+        "link": "https://www.g4media.ro/aproximativ-38-dintre-copiii-nascuti-in-romania-in-2023-aveau-mame-casnice-arata-datele-institutului-national-de-statistica-in-mediul-rural-ponderea-se-apropia-de-50.html",
+        "summary": "Aproximativ 38% dintre copiii născuţi în România în anul 2023 aveau mame casnice, iar în mediul rural ponderea se apropia de 50%, a declarat, marţi, preşedintele Institutului Naţional de Statistică (INS), Tudorel Andrei, la evenimentul de lansare a cercetării „România nevalorificată”, scrie Agerpres. „În 2023, aproximativ 38% dintre copii aveau mame casnice. Ponderea este de […] © G4Media.ro.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794317214
       }
     ]
   },
@@ -13578,7 +13539,7 @@
   {
     "group_id": "group_cb61e59218",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Adevărul",
@@ -13588,6 +13549,15 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794315260
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan a explicat de ce alegerile anticipate nu erau o soluție viabilă pentru România",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-a-explicat-de-ce-alegerile-anticipate-nu-erau-o-solutie-viabila-pentru-romania-4030229",
+        "summary": "Niculor Dan a explicat în conferința de presă susținută marți seara de ce alegerile anticipate nu erau o soluție viabilă pentru România. Președintele a afirmat că exista un risc major ca agențiile de rating să nu mai recomande țara noastră investitorilor.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794333345
       }
     ]
   },
@@ -17962,7 +17932,7 @@
   {
     "group_id": "group_062b9e2e87",
     "category": "Politika",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -17972,6 +17942,15 @@
         "category": "Politika",
         "is_b2b_only": false,
         "published_at": 1794332986
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nicușor Dan a epxplicat de ce PNL și USR nu puteau guverna fără PSD și ce ar fi însemnat alegerile anticipate",
+        "link": "https://adevarul.ro/politica/nicusor-dan-a-epxplicat-de-ce-pnl-si-usr-nu-puteau-2570492.html",
+        "summary": "Președintele Nicușor Dan a explicat marți, 10 noiembrie, că ideea unei guvernări formate exclusiv din PNL și USR, fără dialog cu PSD, nu avea o bază matematică și politică reală. Șeful statului a respins scenariul alegerilor anticipate.",
+        "category": "Politika",
+        "is_b2b_only": false,
+        "published_at": 1794333497
       }
     ]
   },
@@ -17988,6 +17967,70 @@
         "category": "Általános",
         "is_b2b_only": false,
         "published_at": 1794332510
+      }
+    ]
+  },
+  {
+    "group_id": "group_98cd8a3772",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Ce sumă plătește la curent o familie de români din America. Locuința lor are 140 mp",
+        "link": "https://www.cancan.ro/ce-suma-plateste-la-curent-o-familie-de-romani-din-america-locuinta-lor-are-140-mp-21545236",
+        "summary": "O familie de români stabilită în Statele Unite ale Americii a dezvăluit cât plătește lunar pentru energia electrică. Cei doi adulți și cei doi copii locuiesc într-o casă de aproximativ 140 de metri pătrați, în Carolina de Nord, iar facturile diferă considerabil în funcție de anotimp. Românca a publicat pe Facebook mai multe facturi din […]",
+        "category": "Bulvár",
+        "is_b2b_only": false,
+        "published_at": 1794333358
+      }
+    ]
+  },
+  {
+    "group_id": "group_a5b5c03e26",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "Președintele spune că procurorii-șefi pregătesc un raport la șase luni de la numire. „Există o dinamizare a activităţii parchetelor”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/presedintele-spune-ca-procurorii-sefi-pregatesc-un-raport-la-sase-luni-de-la-numire-exista-o-dinamizare-a-activitatii-parchetelor-4030239",
+        "summary": "Preşedintele Nicuşor Dan, a afirmat, marţi seară, că „există o dinamizare a activităţii parchetelor” şi a precizat că procurorii-şefi pregătesc un raport, după şase luni de la numire.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794333479
+      }
+    ]
+  },
+  {
+    "group_id": "group_e74002de15",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Adevărul",
+        "title": "MetaWealth își asigură al treilea proiect de stocare a energiei în baterii, în județul Dolj, și ajunge la 300 MWh",
+        "link": "https://adevarul.ro/economie/metawealth-isi-asigura-al-treilea-proiect-de-2570493.html",
+        "summary": "După Dumbrava (Neamț) și Sânpaul (Mureș), proiectul de 50 MW / 100 MWh din Dolj devine a treia locație din România a programului de stocare în baterii al MetaWealth. Toate cele trei proiecte urmează să intre în operare comercială în 2027.",
+        "category": "Általános",
+        "is_b2b_only": false,
+        "published_at": 1794333407
+      }
+    ]
+  },
+  {
+    "group_id": "group_4f438a6db5",
+    "category": "Erdély",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "CSM Oradea joacă în Elveția un meci important pentru calificarea în TOP 16 din FIBA Europe Cup",
+        "link": "https://www.ebihoreanul.ro/stiri/csm-oradea-joaca-in-elvetia-un-meci-important-pentru-calificarea-in-top-16-din-fiba-europe-cup-206503.html",
+        "summary": "Baschetbaliștii de la CSM CSU Raiffeisen Oradea întâlnesc miercuri seara formația Fribourg Olympic Basket, într-o partidă în care victoria este esențială pentru menținerea șanselor de calificare în faza următoare a competiției europene.",
+        "category": "Erdély",
+        "is_b2b_only": false,
+        "published_at": 1794333300
       }
     ]
   }
