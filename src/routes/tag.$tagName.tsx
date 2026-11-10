@@ -1,6 +1,6 @@
 import { createFileRoute, Link, useRouter } from "@tanstack/react-router";
 import { Hash } from "lucide-react";
-import { useEffect, useMemo } from "react";
+import { useEffect } from "react";
 import { PageShell } from "@/components/PageShell";
 import { RichText } from "@/components/RichText";
 import { StoryLink } from "@/components/StoryLink";
@@ -66,7 +66,8 @@ function TagPage() {
   const ro = lang === "ro";
   const router = useRouter();
   const newsVersion = useNewsVersion();
-  const items = useMemo(() => newsByTag(tag), [tag, newsVersion]);
+  void newsVersion;
+  const items = newsByTag(tag);
   const label = tagLabel(tag);
 
   useEffect(() => {
