@@ -267,6 +267,7 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
       published_at: Math.max(...arts.map((x) => x.fetched_at ?? 0)) || null,
       title: c.title, lead: c.lead, content: c.content,
       category: normCategory(first.category),
+      tags: normalizeTags(first.tags, normCategory(first.category)),
       i18n: { hu: c, ro: c },
     };
   });
