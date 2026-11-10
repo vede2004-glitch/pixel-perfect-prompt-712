@@ -5,6 +5,7 @@ import { BrandLogo } from "@/components/BrandLogo";
 import { RichText } from "@/components/RichText";
 import { SiteMenu } from "@/components/SiteMenu";
 import { StoryLink } from "@/components/StoryLink";
+import { TagChips } from "@/components/TagChips";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { heroPhoto } from "@/lib/hero-photos";
 import { LANGS, setLang, useLang, type Lang } from "@/lib/lang";
