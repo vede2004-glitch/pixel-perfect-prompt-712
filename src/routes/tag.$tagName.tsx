@@ -40,7 +40,7 @@ export const Route = createFileRoute("/tag/$tagName")({
       ? `${label} – Știri și noutăți | Stirix.ro`
       : `${label} – Hírek és fejlemények | Hirx.ro`;
     const description = ro
-      ? `${count} articol în tema ${label}: știri din mai multe surse, în ordine cronologică.`
+      ? `${count} ${count === 1 ? "articol" : "articole"} în tema ${label}: știri din mai multe surse, în ordine cronologică.`
       : `${count} cikk a(z) ${label} témában: több forrásból származó hírek időrendben.`;
     const url = `${originFor(lang)}/tag/${encodeURIComponent(tag)}`;
     return {
