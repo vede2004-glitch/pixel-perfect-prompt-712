@@ -53,7 +53,75 @@ const tsFromId = (id: string) => {
   return m ? Number(m[1]) : null;
 };
 
+/** URL-barát, ékezet nélküli témaazonosító; a szűrés is ezt használja. */
+export function tagSlug(tag: string) {
+  return tag
+    .trim()
+    .replace(/^#/, "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLocaleLowerCase("hu")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+const TAG_LABELS: Record<string, string> = {
+  altalanos: "Általános",
+  brusszel: "Brüsszel",
+  bulvar: "Bulvár",
+  erdely: "Erdély",
+  "eu-csucs": "EU-csúcs",
+  gazdasag: "Gazdaság",
+  kolozsvar: "Kolozsvár",
+  kultura: "Kultúra",
+  "orban-viktor": "Orbán Viktor",
+  politika: "Politika",
+  sport: "Sport",
+};
+
+/** A címke olvasható megnevezése a témaoldal címében és a chip leírásában. */
+export function tagLabel(tag: string) {
+  const slug = tagSlug(tag);
+  return (
+    TAG_LABELS[slug] ??
+    slug
+      .split("-")
+      .filter(Boolean)
+      .map((word) => word.charAt(0).toLocaleUpperCase("hu") + word.slice(1))
+      .join(" ")
+  );
+}
+
+function normalizeTags(tags: unknown, category: string) {
+  const normalized = Array.isArray(tags)
+    ? [
+        ...new Set(
+          tags
+            .filter((tag): tag is string => typeof tag === "string")
+            .map(tagSlug)
+            .filter(Boolean),
+        ),
+      ]
+    : [];
+  return normalized.length ? normalized : [tagSlug(category)];
+}
+
+/** Címke szerinti, kis- és nagybetűtől független szűrés, újak elöl. */
+export function newsByTag(tag: string): NewsItem[] {
+  const slug = tagSlug(tag);
+  if (!slug) return [];
+  const seen = new Set<string>();
+  return [...news, ...history, ...archive]
+    .filter((item) => {
+      if (seen.has(item.group_id) || !item.tags.includes(slug)) return false;
+      seen.add(item.group_id);
+      return true;
+    })
+    .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0));
+}
+
 function normalize(r: RawItem): NewsItem {
+  const category = normCategory(r.category);
   const huContent: LangContent = {
     title: r.title_hu ?? "",
     lead: clean(r.lead_hu),
