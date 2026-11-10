@@ -9,7 +9,7 @@ import { RichText, plainBold } from "@/components/RichText";
 import { useLang, setLang, getLang, LANGS } from "@/lib/lang";
 import { getDomainLang } from "@/lib/domain.functions";
 import { Button } from "@/components/ui/button";
-import { articleSchema, breadcrumbSchema, serializeArticleSchema, SITE_URL } from "@/lib/article-schema";
+import { articleSchema, breadcrumbSchema, serializeArticleSchema } from "@/lib/article-schema";
 
 export const Route = createFileRoute("/hir/$id")({
   loader: async ({ params }) => {
