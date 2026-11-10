@@ -649,7 +649,7 @@
     "title_ro": "Cazul Nvidia: anchetă FBI, dezmințirea Chinei și noi detalii despre relația lui Huang",
     "lead_ro": "Jensen Huang a recunoscut că a avut o relație extraconjugală și și-a cerut scuze familiei. Donald Trump a declarat că FBI-ul investighează cazul, în timp ce Ministerul chinez de Externe a respins acuzațiile de spionaj. Ancheta independentă a consiliului Nvidia continuă.",
     "content_ro": "• **Declarația lui Huang** Directorul Nvidia le-a transmis angajaților că și-a înșelat soția și și-a cerut iertare ei și copiilor. Nu a dezvăluit public numele femeii, dar a spus că va coopera cu verificările privind cazul.\n\n• **Ancheta FBI și Trump** Donald Trump a afirmat luni că a discutat personal cu Huang, care i-ar fi spus că nu știa că femeia ar putea fi spioană. Președintele a confirmat că FBI-ul examinează situația, fără să ofere detalii despre desfășurarea sau începutul investigației; FBI-ul nu a comentat informația.\n\n• **Reacția Chinei** Guo Jiakun, purtătorul de cuvânt al Ministerului chinez de Externe, a respins acuzațiile de spionaj și le-a descris drept încercări de a discredita China. Nu s-a stabilit public dacă autoritățile chineze au primit informații comerciale confidențiale sau date legate de securitatea națională.\n\n• **Contextul suspiciunilor** Potrivit relatărilor din presă, Alice Huang, cunoscută și ca Huang Le, este cetățeană chineză și a condus anterior compania singaporeză Megaspeed. Firma activează în domeniul centrelor de date și a cumpărat cipuri Nvidia; presa a relatat suspiciuni că ar fi direcționat cipuri avansate către China, acuzații care nu au fost dovedite public.\n\n• **Avertismentul anterior și efectele pe piață** The New York Times a relatat că Marco Rubio a trimis oficialilor guvernamentali un memorandum secret în primăvara anului trecut, avertizându-i despre legătura dintre Huang și femeia de afaceri. Luni, acțiunile Nvidia au pierdut peste 4%, iar valoarea companiei s-a redus cu aproximativ 250 de miliarde de dolari; acționari au inițiat și un proces colectiv împotriva firmei și a lui Huang.",
-    "importance_score": 255.0
+    "importance_score": 248.0
   },
   {
     "group_id": "group_ed068e267f",
@@ -1438,6 +1438,65 @@
     "importance_score": 110.0
   },
   {
+    "group_id": "group_08bb1719a8",
+    "fingerprint": "cd670587820046979f2ec743b442a82e",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
+        "link": "https://stirileprotv.ro/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. FOTO&VIDEO",
+        "link": "https://stirileprotv.ro/stiri/international/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Carambol pe o autostradă din Bulgaria: 50 de mașini implicate și zece morți, anunță autoritățile",
+        "link": "https://hotnews.ro/accident-bulgaria-carambol-autostrada-2399829"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Bulgaria: Cel puțin 10 morți în două accidente auto în lanț",
+        "link": "https://agerpres.ro/social-extern/2026/11/10/bulgaria-cel-putin-10-morti-in-doua-accidente-auto-in-lant--1611755"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Tragedie în Bulgaria. Cel puțin 10 morți într-un carambol uriaș pe autostradă. Peste 50 de vehicule implicate în accidente",
+        "link": "https://www.mediafax.ro/stirile-zilei/tragedie-in-bulgaria-cel-putin-10-morti-intr-un-carambol-urias-pe-autostrada-peste-50-de-vehicule-implicate-in-accidente-23840725"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cel puțin 10 morți în urma unor accidente în lanț pe autostrada Trakia din Bulgaria / Circulația este în continuare blocată / De vină ar fi fost ceața densă",
+        "link": "https://www.g4media.ro/cel-putin-10-morti-in-urma-unor-accidente-in-lant-pe-autostrada-trakia-din-bulgaria-circulatia-este-in-continuare-blocata-de-vina-ar-fi-fost-ceata-densa.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Tragedie pe o autostradă din Bulgaria. Cel puțin 11 morți și zeci de răniți în urma unui carambol cu 50 de mașini",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/tragedie-pe-o-autostrada-din-bulgaria-cel-putin-2570341.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Tragedie pe o autostradă din Bulgaria: cel puțin zece persoane au murit. Peste 50 de mașini, implicate în două caramboluri",
+        "link": "https://www.digi24.ro/stiri/externe/tragedie-pe-o-autostrada-din-bulgaria-cel-putin-zece-persoane-au-murit-peste-50-de-masini-implicate-in-doua-caramboluri-4029487"
+      }
+    ],
+    "published_at": 1794303975,
+    "title_hu": "Több mint tíz halálos áldozatot követelt két tömeges baleset a bolgár Trákia autópályán",
+    "lead_hu": "Két, sűrű ködben bekövetkezett tömeges karambol történt a bulgáriai Trákia autópályán, a Jambol megyei Zimnica csomópont közelében. A hatóságok több mint tíz halálos áldozatról számoltak be; a főutat mindkét irányban lezárták.",
+    "content_hu": "• **A két balesetben több mint tíz ember meghalt**, miután sűrű ködben több tucat jármű ütközött össze a Trákia autópályán. A karambolokban személyautók és nehéz járművek is érintettek voltak; a sérültek pontos számáról a beszámoló nem közölt adatot.\n\n• **A balesetek a Zimnica csomópontnál, a 290. kilométer közelében történtek**, az autópálya mindkét menetirányában. Az első tömeges ütközést a Burgasz felé vezető oldalon észlelték reggel, körülbelül 7 órakor, majd rövid idő elteltével a Szófia felé tartó oldalon is karambol történt.\n\n• **A sűrű köd nehezítette a közlekedést**, a helyszíni események miatt pedig a hatóságok mindkét irányban lezárták az autópályát. A forgalmat rendőri egységek irányították, a járműveket pedig a Karnobat–Petolachkata útvonalra terelték. Jambol megyében aktiválták a BG-ALERT figyelmeztető rendszert is, hogy tájékoztassák a közlekedőket a lezárásról és a kerülőútról.\n\n• **Több térségből érkeztek mentőegységek a helyszínre**: Jambolból, Szlivenből és Burgaszból is indultak mentők, továbbá egy mentőhelikoptert is bevetettek. A balesetek súlyosságáról a Jambol megyei kormányzó is beszámolt; az eset az utóbbi évek egyik legsúlyosabb bolgár közúti tragédiájaként került a hírekbe.",
+    "title_ro": "Peste zece persoane au murit în două accidente în lanț pe autostrada Trakia din Bulgaria",
+    "lead_ro": "Două accidente în lanț, produse în condiții de ceață densă, au avut loc pe autostrada Trakia, în apropierea nodului Zimnița din districtul Iambol. Autoritățile au anunțat peste zece morți, iar circulația a fost oprită pe ambele sensuri.",
+    "content_ro": "• **Peste zece persoane au murit în cele două accidente**, în care au fost implicate zeci de vehicule. Printre acestea s-au numărat atât autoturisme, cât și vehicule grele. Informațiile disponibile nu precizează numărul persoanelor rănite.\n\n• **Accidentele s-au produs în apropierea nodului Zimnița, în zona kilometrului 290**, pe ambele sensuri ale autostrăzii Trakia. Prima coliziune în lanț a fost semnalată în jurul orei 7:00, pe direcția Burgas. La scurt timp a avut loc un al doilea accident, pe sensul spre Sofia.\n\n• **Ceața densă a însoțit producerea coliziunilor**, iar autoritățile au închis autostrada în ambele direcții. Polițiștii au dirijat traficul, iar șoferii au fost îndrumați să folosească ruta ocolitoare Karnobat–Petolachkata. În districtul Iambol a fost activat și sistemul BG-ALERT, pentru transmiterea informațiilor despre accidente și rutele alternative.\n\n• **Echipaje de intervenție au fost trimise din mai multe orașe**, inclusiv Iambol, Sliven și Burgas. La operațiunile de salvare a participat și un elicopter medical. Guvernatorul districtului Iambol a confirmat gravitatea situației, iar amploarea evenimentelor a atras atenția autorităților și a serviciilor de urgență din zonă.",
+    "importance_score": 100.0
+  },
+  {
     "group_id": "group_6e42a30a7b",
     "fingerprint": "4385246220010f8a69e4739c97f70f77",
     "category": "Általános",
@@ -1564,60 +1623,6 @@
     "lead_ro": "Parisul a atribuit unei unități cibernetice asociate cu Gardienii Revoluției din Iran atacul asupra instalațiilor frigorifice din aproximativ 700 de magazine franceze. Jean-Noël Barrot a anunțat posibile sancțiuni europene și alte măsuri, inclusiv unele care nu vor fi făcute publice. Procurorii de la Paris au cerut mandate internaționale pentru doi responsabili și anchetează rolul conducerii unității.",
     "content_ro": "• **11–12 octombrie, aproximativ 700 de magazine:** Franța a atribuit oficial unei unități cibernetice legate de Gardienii Revoluției atacul asupra sistemelor de refrigerare din supermarketuri. Supraîncălzirea instalațiilor a dus la pierderea unor alimente proaspete și congelate evaluate la milioane de euro, iar unele echipamente au luat foc. Ministrul francez de externe a descris operațiunea drept remarcabilă prin amploare și intensitate.\n\n• **Sancțiuni și alte măsuri:** Jean-Noël Barrot a declarat că Franța va susține sancțiuni europene împotriva celor considerați responsabili, însă răspunsul nu se va limita la convocarea ambasadorului. Parisul ia în calcul și acțiuni care nu vor fi neapărat făcute publice, dacă le consideră proporționale și necesare pentru a preveni noi atacuri și a-i sancționa pe autori. Doctrina franceză de apărare cibernetică permite mai multe tipuri de intervenție a autorităților.\n\n• **Unitatea Shahid Kaveh și ancheta:** Parchetul din Paris a solicitat emiterea unor mandate internaționale de arestare pentru doi responsabili ai unității. Separat, a fost deschisă o investigație privind posibila răspundere a șefului acesteia.\n\n• **Alte incidente din Franța:** Barrot nu a stabilit dacă Iranul ar fi avut un rol în atacuri asupra instalațiilor frigorifice de la un centru de donare de sânge, banca Crédit Mutuel Arkéa sau Direcția de finanțe publice. Anchetele privind aceste cazuri sunt încă în desfășurare.\n\n• **Incidente în alte țări:** După atacul din Franța, instalațiile frigorifice din zeci de magazine din alte șapte țări europene au fost vizate de operațiuni cibernetice. Deocamdată nu a fost confirmată o legătură între aceste cazuri și atacul francez.",
     "importance_score": 95.0
-  },
-  {
-    "group_id": "group_08bb1719a8",
-    "fingerprint": "cd670587820046979f2ec743b442a82e",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. Zeci de mașini, implicate",
-        "link": "https://stirileprotv.ro/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 10 oameni și-au pierdut viața în două accidente în lanț produse pe o autostradă din Bulgaria. FOTO&VIDEO",
-        "link": "https://stirileprotv.ro/stiri/international/peste-10-oameni-si-au-pierdut-viata-in-doua-accidente-in-lant-produse-pe-o-autostrada-din-bulgaria-zeci-de-masini-implicate.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Carambol pe o autostradă din Bulgaria: 50 de mașini implicate și zece morți, anunță autoritățile",
-        "link": "https://hotnews.ro/accident-bulgaria-carambol-autostrada-2399829"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Bulgaria: Cel puțin 10 morți în două accidente auto în lanț",
-        "link": "https://agerpres.ro/social-extern/2026/11/10/bulgaria-cel-putin-10-morti-in-doua-accidente-auto-in-lant--1611755"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Tragedie în Bulgaria. Cel puțin 10 morți într-un carambol uriaș pe autostradă. Peste 50 de vehicule implicate în accidente",
-        "link": "https://www.mediafax.ro/stirile-zilei/tragedie-in-bulgaria-cel-putin-10-morti-intr-un-carambol-urias-pe-autostrada-peste-50-de-vehicule-implicate-in-accidente-23840725"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cel puțin 10 morți în urma unor accidente în lanț pe autostrada Trakia din Bulgaria / Circulația este în continuare blocată / De vină ar fi fost ceața densă",
-        "link": "https://www.g4media.ro/cel-putin-10-morti-in-urma-unor-accidente-in-lant-pe-autostrada-trakia-din-bulgaria-circulatia-este-in-continuare-blocata-de-vina-ar-fi-fost-ceata-densa.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Tragedie pe o autostradă din Bulgaria. Cel puțin 11 morți și zeci de răniți în urma unui carambol cu 50 de mașini",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/tragedie-pe-o-autostrada-din-bulgaria-cel-putin-2570341.html"
-      }
-    ],
-    "published_at": 1794303975,
-    "title_hu": "Több mint tíz halálos áldozatot követelt két tömeges baleset a bolgár Trákia autópályán",
-    "lead_hu": "Két, sűrű ködben bekövetkezett tömeges karambol történt a bulgáriai Trákia autópályán, a Jambol megyei Zimnica csomópont közelében. A hatóságok több mint tíz halálos áldozatról számoltak be; a főutat mindkét irányban lezárták.",
-    "content_hu": "• **A két balesetben több mint tíz ember meghalt**, miután sűrű ködben több tucat jármű ütközött össze a Trákia autópályán. A karambolokban személyautók és nehéz járművek is érintettek voltak; a sérültek pontos számáról a beszámoló nem közölt adatot.\n\n• **A balesetek a Zimnica csomópontnál, a 290. kilométer közelében történtek**, az autópálya mindkét menetirányában. Az első tömeges ütközést a Burgasz felé vezető oldalon észlelték reggel, körülbelül 7 órakor, majd rövid idő elteltével a Szófia felé tartó oldalon is karambol történt.\n\n• **A sűrű köd nehezítette a közlekedést**, a helyszíni események miatt pedig a hatóságok mindkét irányban lezárták az autópályát. A forgalmat rendőri egységek irányították, a járműveket pedig a Karnobat–Petolachkata útvonalra terelték. Jambol megyében aktiválták a BG-ALERT figyelmeztető rendszert is, hogy tájékoztassák a közlekedőket a lezárásról és a kerülőútról.\n\n• **Több térségből érkeztek mentőegységek a helyszínre**: Jambolból, Szlivenből és Burgaszból is indultak mentők, továbbá egy mentőhelikoptert is bevetettek. A balesetek súlyosságáról a Jambol megyei kormányzó is beszámolt; az eset az utóbbi évek egyik legsúlyosabb bolgár közúti tragédiájaként került a hírekbe.",
-    "title_ro": "Peste zece persoane au murit în două accidente în lanț pe autostrada Trakia din Bulgaria",
-    "lead_ro": "Două accidente în lanț, produse în condiții de ceață densă, au avut loc pe autostrada Trakia, în apropierea nodului Zimnița din districtul Iambol. Autoritățile au anunțat peste zece morți, iar circulația a fost oprită pe ambele sensuri.",
-    "content_ro": "• **Peste zece persoane au murit în cele două accidente**, în care au fost implicate zeci de vehicule. Printre acestea s-au numărat atât autoturisme, cât și vehicule grele. Informațiile disponibile nu precizează numărul persoanelor rănite.\n\n• **Accidentele s-au produs în apropierea nodului Zimnița, în zona kilometrului 290**, pe ambele sensuri ale autostrăzii Trakia. Prima coliziune în lanț a fost semnalată în jurul orei 7:00, pe direcția Burgas. La scurt timp a avut loc un al doilea accident, pe sensul spre Sofia.\n\n• **Ceața densă a însoțit producerea coliziunilor**, iar autoritățile au închis autostrada în ambele direcții. Polițiștii au dirijat traficul, iar șoferii au fost îndrumați să folosească ruta ocolitoare Karnobat–Petolachkata. În districtul Iambol a fost activat și sistemul BG-ALERT, pentru transmiterea informațiilor despre accidente și rutele alternative.\n\n• **Echipaje de intervenție au fost trimise din mai multe orașe**, inclusiv Iambol, Sliven și Burgas. La operațiunile de salvare a participat și un elicopter medical. Guvernatorul districtului Iambol a confirmat gravitatea situației, iar amploarea evenimentelor a atras atenția autorităților și a serviciilor de urgență din zonă.",
-    "importance_score": 90.0
   },
   {
     "group_id": "group_ca57ebac7c",
@@ -2336,50 +2341,6 @@
     "importance_score": 65.0
   },
   {
-    "group_id": "group_884f11ef3d",
-    "fingerprint": "94e8e1d742c49c0f75a4d5ddbf62f448",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Surpriză. Dana White, șeful UFC, a apărut în conferința de presă a președintelui Donald Trump",
-        "link": "https://www.mediafax.ro/politic/surpriza-dana-white-seful-ufc-a-aparut-in-conferinta-de-presa-a-presedintelui-donald-trump-23840555"
-      },
-      {
-        "source": "Digi24",
-        "title": "Epopeea prezenței șefului UFC la Casa Albă s-a încheiat înainte să înceapă: „Am zero aspiraţii politice\", l-a refuzat White pe Trump",
-        "link": "https://www.digi24.ro/stiri/externe/sua/epopeea-prezentei-sefului-ufc-la-casa-alba-s-a-incheiat-inainte-sa-inceapa-am-zero-aspiratii-politice-l-a-refuzat-white-pe-trump-4029189"
-      },
-      {
-        "source": "Digi24",
-        "title": "Trump spune că a glumit când i-a propus şefului organizaţiei de MMA să fie purtătorul său de cuvânt",
-        "link": "https://www.digi24.ro/stiri/externe/sua/trump-spune-ca-a-glumit-cand-i-a-propus-sefului-organizatiei-de-mma-sa-fie-purtatorul-sau-de-cuvant-4027201"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Trump spune că „a glumit” când l-a propus pe Dana White ca purtător de cuvânt al Casei Albe",
-        "link": "https://www.mediafax.ro/externe/trump-spune-ca-a-glumit-cand-l-a-propus-pe-dana-white-ca-purtator-de-cuvant-al-casei-albe-23839971"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Trump susține că propunerea de a-l numi pe șeful organizației de MMA ca purtător de cuvânt a fost o glumă",
-        "link": "https://agerpres.ro/politic-extern/2026/11/09/trump-sustine-ca-propunerea-de-a-l-numi-pe-seful-organizatiei-de-mma-ca-purtator-de-cuvant-a-fost-o---1611335"
-      }
-    ],
-    "published_at": 1794296774,
-    "title_hu": "Dana White tréfásan jelentkezett Trump sajtótájékoztatóján",
-    "lead_hu": "Dana White hétfőn Donald Trump sajtótájékoztatóján is megjelent, és humorral reagált arra, hogy szóba került a Fehér Ház szóvivői posztja. Az UFC vezetője kizárta, hogy politikai tisztségre törekedne; Trump pedig azt mondta, korábbi felvetését nem szánta komolyan.",
-    "content_hu": "• **Trump vasárnapi magyarázata:** az elnök egy floridai repülőtéren újságíróknak tisztázta, hogy Dana White szóvivővé nevezésének ötletét csak tréfának szánta. Azt is jelezte, hogy az UFC vezetőjének tetszett a felvetés, de valódi kinevezési terv nem volt mögötte.\n\n• **A szombati bejegyzés:** Trump ismert UFC-harcosokról tett közzé képeket, és lehetséges segítőkként utalt rájuk White mellett. Aktív és korábbi bajnokok bevonását is felvetette, az elképzelést pedig politikai ellenfelekkel szembeni védekezésként állította be.\n\n• **White hétfői szereplése:** az UFC elnöke felment a Fehér Ház sajtótájékoztatójának színpadára, és tréfásan jelezte, hogy szívesen vállalna egy kérdést. Azt is humorosan kommentálta, hogy az újságírók valóban hozzá intéznek kérdéseket.\n\n• **Politikai szerepvállalás:** White azt mondta, nem törekszik politikai pozícióra. Arra a kérdésre, visszautasította-e Trump ajánlatát, viccelődve úgy reagált, hogy az elnöknek nem szokott nemet mondani. Korábban Trump több politikai eseményén is mellette szerepelt, és közreműködött a 2024-es kampány támogatóinak mozgósításában.\n\n• **A szóvivői poszt üres:** Katie Zacharia október 16-án, mindössze öt nap után távozott; sajtótájékoztatón elkövetett hibái mellett jogi végzettségére vonatkozó állításait is vitatták. White több mint húsz éve irányítja az UFC-t, és idén a Fehér Ház gyepén tartott mérkőzések megszervezésében is részt vett.",
-    "title_ro": "Dana White a apărut în glumă la conferința de presă a lui Trump",
-    "lead_ro": "Dana White a participat luni la conferința de presă a lui Donald Trump și a tratat cu umor discuția despre postul de purtător de cuvânt al Casei Albe. Șeful UFC a exclus o carieră politică, iar Trump a precizat că sugestia sa anterioară nu era serioasă.",
-    "content_ro": "• **Explicația de duminică a lui Trump:** La un aeroport din Florida, președintele le-a spus reporterilor că ideea numirii lui Dana White în funcția de purtător de cuvânt fusese doar o glumă. Potrivit lui Trump, conducătorul UFC fusese încântat de propunere, însă nu exista un plan real de numire.\n\n• **Postarea de sâmbătă:** Trump a publicat imagini cu luptători cunoscuți din UFC și i-a prezentat ca posibili colaboratori ai lui White. El a sugerat implicarea unor campioni actuali și foști, descriind echipa ipotetică drept o modalitate de a înfrunta adversarii politici.\n\n• **Apariția de luni a lui White:** Șeful UFC a urcat pe scena conferinței de presă de la Casa Albă și s-a oferit în glumă să răspundă la o întrebare. Tot în registru ironic, a comentat că reporterii chiar îi adresau întrebări.\n\n• **Implicarea politică:** White a afirmat că nu urmărește o funcție politică. Întrebat dacă l-a refuzat pe Trump, a răspuns glumind că nu obișnuiește să-i spună nu președintelui. În trecut, a apărut alături de Trump la mai multe evenimente politice și a contribuit la mobilizarea susținătorilor acestuia în campania din 2024.\n\n• **Postul rămâne vacant:** Katie Zacharia a plecat pe 16 octombrie, după numai cinci zile în funcție; au fost contestate atât greșelile făcute la o conferință de presă, cât și afirmațiile sale despre studiile juridice. White conduce UFC de peste două decenii și a participat anul acesta la organizarea unor lupte pe peluza Casei Albe.",
-    "importance_score": 65.0
-  },
-  {
     "group_id": "group_7b1ee9d95a",
     "fingerprint": "45a500cf7761f13b3b4c99abc615204c",
     "category": "Általános",
@@ -2652,6 +2613,50 @@
     "lead_ro": "Estimările sezoniere ANM bazate pe programul Copernicus indică temperaturi peste mediile climatice în noiembrie și decembrie, fără să excludă răciri și ninsori. Florinela Georgescu spune că în perioada sărbătorilor s-ar putea forma strat de zăpadă și în afara munților; prognoza pe patru luni conturează o iarnă mai apropiată de normal decât cele din ultimii ani.",
     "content_ro": "• **Florinela Georgescu și estimarea Copernicus**: Directoarea de prognoză a ANM a prezentat la conferința Focus Energetic o abatere posibilă de 1–2 grade peste media obișnuită pentru temperatura medie națională din noiembrie. Precipitațiile ar putea depăși ușor valorile normale în vestul și centrul țării.\n\n• **Precipitații care revin dinspre vest**: Sunt deja indicii că precipitațiile vor ajunge din nou în țară prin partea vestică, evoluție compatibilă cu estimarea sezonieră pentru noiembrie. Valorile medii lunare nu înseamnă însă că vremea va fi blândă în fiecare interval.\n\n• **Vremea din noiembrie**: Temperaturile maxime se pot situa, în general, între 2 și 8 grade. A nins deja la munte, iar la sfârșitul săptămânii sau la începutul celei următoare sunt posibile ninsori ori precipitații mixte și în zonele mai joase din centrul României; aceste semnale rămân incerte.\n\n• **Estimări pentru decembrie**: Temperatura medie lunară ar putea fi peste norma climatică, iar în jumătatea vestică a țării precipitațiile ar putea depăși nivelul obișnuit cu 5–25 de litri pe metru pătrat. Chiar și în acest scenariu sunt posibile perioade reci și ninsori.\n\n• **Crăciunul și evoluția iernii**: În timpul sărbătorilor s-ar putea forma strat de zăpadă și în zonele joase, însă aceasta este o posibilitate, nu o certitudine. Prognoza pe patru luni indică o iarnă mai apropiată de normalul climatic decât în ultimii ani; în cele mai reci nopți din decembrie, temperaturile pot coborî totuși sub minus 20 de grade Celsius.",
     "importance_score": 60.0
+  },
+  {
+    "group_id": "group_884f11ef3d",
+    "fingerprint": "94e8e1d742c49c0f75a4d5ddbf62f448",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Surpriză. Dana White, șeful UFC, a apărut în conferința de presă a președintelui Donald Trump",
+        "link": "https://www.mediafax.ro/politic/surpriza-dana-white-seful-ufc-a-aparut-in-conferinta-de-presa-a-presedintelui-donald-trump-23840555"
+      },
+      {
+        "source": "Digi24",
+        "title": "Epopeea prezenței șefului UFC la Casa Albă s-a încheiat înainte să înceapă: „Am zero aspiraţii politice\", l-a refuzat White pe Trump",
+        "link": "https://www.digi24.ro/stiri/externe/sua/epopeea-prezentei-sefului-ufc-la-casa-alba-s-a-incheiat-inainte-sa-inceapa-am-zero-aspiratii-politice-l-a-refuzat-white-pe-trump-4029189"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trump spune că a glumit când i-a propus şefului organizaţiei de MMA să fie purtătorul său de cuvânt",
+        "link": "https://www.digi24.ro/stiri/externe/sua/trump-spune-ca-a-glumit-cand-i-a-propus-sefului-organizatiei-de-mma-sa-fie-purtatorul-sau-de-cuvant-4027201"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Trump spune că „a glumit” când l-a propus pe Dana White ca purtător de cuvânt al Casei Albe",
+        "link": "https://www.mediafax.ro/externe/trump-spune-ca-a-glumit-cand-l-a-propus-pe-dana-white-ca-purtator-de-cuvant-al-casei-albe-23839971"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Trump susține că propunerea de a-l numi pe șeful organizației de MMA ca purtător de cuvânt a fost o glumă",
+        "link": "https://agerpres.ro/politic-extern/2026/11/09/trump-sustine-ca-propunerea-de-a-l-numi-pe-seful-organizatiei-de-mma-ca-purtator-de-cuvant-a-fost-o---1611335"
+      }
+    ],
+    "published_at": 1794296774,
+    "title_hu": "Dana White tréfásan jelentkezett Trump sajtótájékoztatóján",
+    "lead_hu": "Dana White hétfőn Donald Trump sajtótájékoztatóján is megjelent, és humorral reagált arra, hogy szóba került a Fehér Ház szóvivői posztja. Az UFC vezetője kizárta, hogy politikai tisztségre törekedne; Trump pedig azt mondta, korábbi felvetését nem szánta komolyan.",
+    "content_hu": "• **Trump vasárnapi magyarázata:** az elnök egy floridai repülőtéren újságíróknak tisztázta, hogy Dana White szóvivővé nevezésének ötletét csak tréfának szánta. Azt is jelezte, hogy az UFC vezetőjének tetszett a felvetés, de valódi kinevezési terv nem volt mögötte.\n\n• **A szombati bejegyzés:** Trump ismert UFC-harcosokról tett közzé képeket, és lehetséges segítőkként utalt rájuk White mellett. Aktív és korábbi bajnokok bevonását is felvetette, az elképzelést pedig politikai ellenfelekkel szembeni védekezésként állította be.\n\n• **White hétfői szereplése:** az UFC elnöke felment a Fehér Ház sajtótájékoztatójának színpadára, és tréfásan jelezte, hogy szívesen vállalna egy kérdést. Azt is humorosan kommentálta, hogy az újságírók valóban hozzá intéznek kérdéseket.\n\n• **Politikai szerepvállalás:** White azt mondta, nem törekszik politikai pozícióra. Arra a kérdésre, visszautasította-e Trump ajánlatát, viccelődve úgy reagált, hogy az elnöknek nem szokott nemet mondani. Korábban Trump több politikai eseményén is mellette szerepelt, és közreműködött a 2024-es kampány támogatóinak mozgósításában.\n\n• **A szóvivői poszt üres:** Katie Zacharia október 16-án, mindössze öt nap után távozott; sajtótájékoztatón elkövetett hibái mellett jogi végzettségére vonatkozó állításait is vitatták. White több mint húsz éve irányítja az UFC-t, és idén a Fehér Ház gyepén tartott mérkőzések megszervezésében is részt vett.",
+    "title_ro": "Dana White a apărut în glumă la conferința de presă a lui Trump",
+    "lead_ro": "Dana White a participat luni la conferința de presă a lui Donald Trump și a tratat cu umor discuția despre postul de purtător de cuvânt al Casei Albe. Șeful UFC a exclus o carieră politică, iar Trump a precizat că sugestia sa anterioară nu era serioasă.",
+    "content_ro": "• **Explicația de duminică a lui Trump:** La un aeroport din Florida, președintele le-a spus reporterilor că ideea numirii lui Dana White în funcția de purtător de cuvânt fusese doar o glumă. Potrivit lui Trump, conducătorul UFC fusese încântat de propunere, însă nu exista un plan real de numire.\n\n• **Postarea de sâmbătă:** Trump a publicat imagini cu luptători cunoscuți din UFC și i-a prezentat ca posibili colaboratori ai lui White. El a sugerat implicarea unor campioni actuali și foști, descriind echipa ipotetică drept o modalitate de a înfrunta adversarii politici.\n\n• **Apariția de luni a lui White:** Șeful UFC a urcat pe scena conferinței de presă de la Casa Albă și s-a oferit în glumă să răspundă la o întrebare. Tot în registru ironic, a comentat că reporterii chiar îi adresau întrebări.\n\n• **Implicarea politică:** White a afirmat că nu urmărește o funcție politică. Întrebat dacă l-a refuzat pe Trump, a răspuns glumind că nu obișnuiește să-i spună nu președintelui. În trecut, a apărut alături de Trump la mai multe evenimente politice și a contribuit la mobilizarea susținătorilor acestuia în campania din 2024.\n\n• **Postul rămâne vacant:** Katie Zacharia a plecat pe 16 octombrie, după numai cinci zile în funcție; au fost contestate atât greșelile făcute la o conferință de presă, cât și afirmațiile sale despre studiile juridice. White conduce UFC de peste două decenii și a participat anul acesta la organizarea unor lupte pe peluza Casei Albe.",
+    "importance_score": 58.0
   },
   {
     "group_id": "group_4ca1952f22",
@@ -3025,45 +3030,6 @@
     "importance_score": 55.0
   },
   {
-    "group_id": "group_345b004871",
-    "fingerprint": "b3da556d8665af948c68322a51b6c023",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Iran: Negocierile privind oprirea războiului au fost oprite din cauza „şocului” înfrângerii taberei lui Trump",
-        "link": "https://stirileprotv.ro/stiri/international/teheranul-acuza-socul-electoral-suferit-de-tabara-lui-trump-pentru-blocarea-negocierilor-privind-oprirea-razboiului.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Donald Trump anunță că războiul cu Iranul s-a încheiat. Ce spun iranienii",
-        "link": "https://www.mediafax.ro/politic/donald-trump-anunta-ca-razboiul-cu-iranul-s-a-incheiat-ce-spun-iranienii-23840563"
-      },
-      {
-        "source": "Digi24",
-        "title": "Trump susține că se fac progrese către încheierea războiului cu Iranul. Replica Teheranului: „Știri false despre discuții imaginare”",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/trump-sustine-ca-se-fac-progrese-catre-incheierea-razboiului-cu-iranul-replica-teheranului-stiri-false-despre-discutii-imaginare-4029119"
-      },
-      {
-        "source": "G4Media",
-        "title": "Trump spune că există un „impuls pozitiv” pentru încheierea războiului cu Iranul și consideră improbabile noi atacuri",
-        "link": "https://www.g4media.ro/trump-spune-ca-exista-un-impuls-pozitiv-pentru-incheierea-razboiului-cu-iranul-si-considera-improbabile-noi-atacuri.html"
-      }
-    ],
-    "published_at": 1794296815,
-    "title_hu": "Washington előrelépést emleget, Teherán vitatja a tárgyalások tényét",
-    "lead_hu": "Donald Trump a katari miniszterelnökkel folytatott fehér házi megbeszélés után bizakodóan beszélt az Iránnal kötendő megállapodásról, de az újabb katonai fellépést sem zárta ki. Teheránban egy magas rangú tisztviselő valótlannak nevezte a tárgyalásokról szóló híreket, miközben Abbas Araghchi korábban a közvetítői egyeztetések szünetéről és Irán feltételeiről beszélt.",
-    "content_hu": "• **A közvetítői egyeztetések szünete** előtt Araghchi szerint felgyorsultak a háború lezárását célzó tárgyalások, ám néhány napja nem utaztak a közvetítők. Az iráni külügyminiszter az amerikai választási eredmények nemzetközi hatásával magyarázta a megtorpanást, és időt tartott szükségesnek a folytatáshoz.\n\n• **Irán Hormuzi-szorosra vonatkozó ajánlata** Araghchi szerint továbbra is érvényben van. Teherán a szoros újbóli megnyitását több feltételhez köti, köztük a háború valamennyi fronton történő lezárásához; a külügyminiszter Washington döntését sürgette.\n\n• **Az iráni álláspont nem egységesen jelenik meg:** Mohsen Rezaei, a Legfelsőbb Nemzetbiztonsági Tanács titkára az X-en tagadta, hogy valódi egyeztetések folynának, és kitalált tárgyalásokról szóló hírek terjesztésével vádolta az Egyesült Államokat.\n\n• **Donald Trump katonai értékelése** szerint Irán hadereje súlyosan meggyengült, ezért a háborút gyakorlatilag lezártnak tekinti. Az újabb támadásokat valószínűtlennek mondta, ha létrejön egy erős megállapodás, de hosszú távú tűzszünetet nem garantált, és jelezte: az amerikai erők készen állnak az újbóli beavatkozásra.\n\n• **A blokád és a katari közvetítés** továbbra is fontos része a helyzetnek: Trump fenntartaná az iráni kikötőket érintő tengeri korlátozásokat, valamint az Iron Gate műveletet. A katari kormányfővel, Mohammed bin Abdulrahman bin Jassim Al Thanival folytatott találkozó után a miniszterelnök kedvezőnek nevezte a megállapodásról és a térségi békéről szóló eszmecserét; a látogatás Trump első külföldi vezetővel tartott találkozója volt a félidős választások után.",
-    "title_ro": "Washingtonul vorbește despre progrese, Teheranul contestă existența negocierilor",
-    "lead_ro": "După discuția de la Casa Albă cu premierul Qatarului, Donald Trump s-a arătat optimist în privința unui acord cu Iranul, fără să excludă o nouă intervenție militară. Un oficial iranian de rang înalt a respins însă informațiile despre negocieri, în timp ce Abbas Araghchi vorbise anterior despre suspendarea deplasărilor mediatorilor și despre condițiile Teheranului.",
-    "content_ro": "• **Pauza în contactele prin intermediari** a urmat unei perioade în care, potrivit lui Abbas Araghchi, discuțiile pentru oprirea războiului se intensificaseră. Ministrul iranian de Externe a spus că mediatorii nu au mai călătorit de câteva zile și a legat întreruperea de impactul internațional al rezultatului alegerilor din SUA.\n\n• **Oferta Iranului privind Strâmtoarea Ormuz** rămâne valabilă, a afirmat Araghchi. Teheranul condiționează redeschiderea acesteia de mai multe cerințe, inclusiv încetarea conflictului pe toate fronturile, iar șeful diplomației iraniene a cerut Washingtonului să ia o decizie.\n\n• **La Teheran au apărut și negări ale negocierilor:** Mohsen Rezaei, secretarul Consiliului Suprem de Securitate Națională, a susținut pe X că discuțiile prezentate în presă nu au loc și a acuzat Statele Unite că răspândesc informații despre contacte imaginare.\n\n• **Evaluarea militară a lui Donald Trump** este că forțele Iranului au fost grav afectate, iar războiul este, în esență, încheiat. El a descris o nouă rundă de atacuri drept puțin probabilă în cazul unui acord solid, dar nu a garantat o încetare a focului de durată și a spus că armata americană poate interveni din nou.\n\n• **Blocada și rolul Qatarului** rămân elemente centrale: Trump a susținut continuarea restricțiilor maritime asupra porturilor iraniene și a operațiunii Iron Gate. După întâlnirea cu premierul Mohammed bin Abdulrahman bin Jassim Al Thani, acesta a apreciat discuțiile despre un acord și pacea regională; întrevederea a fost prima întâlnire a lui Trump cu un lider străin după alegerile de la jumătatea mandatului.",
-    "importance_score": 55.0
-  },
-  {
     "group_id": "group_c10e087c96",
     "fingerprint": "a341c321cd7af28f78cbc17f84139fb2",
     "category": "Politika",
@@ -3396,6 +3362,45 @@
     "importance_score": 50.0
   },
   {
+    "group_id": "group_345b004871",
+    "fingerprint": "b3da556d8665af948c68322a51b6c023",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Iran: Negocierile privind oprirea războiului au fost oprite din cauza „şocului” înfrângerii taberei lui Trump",
+        "link": "https://stirileprotv.ro/stiri/international/teheranul-acuza-socul-electoral-suferit-de-tabara-lui-trump-pentru-blocarea-negocierilor-privind-oprirea-razboiului.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Donald Trump anunță că războiul cu Iranul s-a încheiat. Ce spun iranienii",
+        "link": "https://www.mediafax.ro/politic/donald-trump-anunta-ca-razboiul-cu-iranul-s-a-incheiat-ce-spun-iranienii-23840563"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trump susține că se fac progrese către încheierea războiului cu Iranul. Replica Teheranului: „Știri false despre discuții imaginare”",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/trump-sustine-ca-se-fac-progrese-catre-incheierea-razboiului-cu-iranul-replica-teheranului-stiri-false-despre-discutii-imaginare-4029119"
+      },
+      {
+        "source": "G4Media",
+        "title": "Trump spune că există un „impuls pozitiv” pentru încheierea războiului cu Iranul și consideră improbabile noi atacuri",
+        "link": "https://www.g4media.ro/trump-spune-ca-exista-un-impuls-pozitiv-pentru-incheierea-razboiului-cu-iranul-si-considera-improbabile-noi-atacuri.html"
+      }
+    ],
+    "published_at": 1794296815,
+    "title_hu": "Washington előrelépést emleget, Teherán vitatja a tárgyalások tényét",
+    "lead_hu": "Donald Trump a katari miniszterelnökkel folytatott fehér házi megbeszélés után bizakodóan beszélt az Iránnal kötendő megállapodásról, de az újabb katonai fellépést sem zárta ki. Teheránban egy magas rangú tisztviselő valótlannak nevezte a tárgyalásokról szóló híreket, miközben Abbas Araghchi korábban a közvetítői egyeztetések szünetéről és Irán feltételeiről beszélt.",
+    "content_hu": "• **A közvetítői egyeztetések szünete** előtt Araghchi szerint felgyorsultak a háború lezárását célzó tárgyalások, ám néhány napja nem utaztak a közvetítők. Az iráni külügyminiszter az amerikai választási eredmények nemzetközi hatásával magyarázta a megtorpanást, és időt tartott szükségesnek a folytatáshoz.\n\n• **Irán Hormuzi-szorosra vonatkozó ajánlata** Araghchi szerint továbbra is érvényben van. Teherán a szoros újbóli megnyitását több feltételhez köti, köztük a háború valamennyi fronton történő lezárásához; a külügyminiszter Washington döntését sürgette.\n\n• **Az iráni álláspont nem egységesen jelenik meg:** Mohsen Rezaei, a Legfelsőbb Nemzetbiztonsági Tanács titkára az X-en tagadta, hogy valódi egyeztetések folynának, és kitalált tárgyalásokról szóló hírek terjesztésével vádolta az Egyesült Államokat.\n\n• **Donald Trump katonai értékelése** szerint Irán hadereje súlyosan meggyengült, ezért a háborút gyakorlatilag lezártnak tekinti. Az újabb támadásokat valószínűtlennek mondta, ha létrejön egy erős megállapodás, de hosszú távú tűzszünetet nem garantált, és jelezte: az amerikai erők készen állnak az újbóli beavatkozásra.\n\n• **A blokád és a katari közvetítés** továbbra is fontos része a helyzetnek: Trump fenntartaná az iráni kikötőket érintő tengeri korlátozásokat, valamint az Iron Gate műveletet. A katari kormányfővel, Mohammed bin Abdulrahman bin Jassim Al Thanival folytatott találkozó után a miniszterelnök kedvezőnek nevezte a megállapodásról és a térségi békéről szóló eszmecserét; a látogatás Trump első külföldi vezetővel tartott találkozója volt a félidős választások után.",
+    "title_ro": "Washingtonul vorbește despre progrese, Teheranul contestă existența negocierilor",
+    "lead_ro": "După discuția de la Casa Albă cu premierul Qatarului, Donald Trump s-a arătat optimist în privința unui acord cu Iranul, fără să excludă o nouă intervenție militară. Un oficial iranian de rang înalt a respins însă informațiile despre negocieri, în timp ce Abbas Araghchi vorbise anterior despre suspendarea deplasărilor mediatorilor și despre condițiile Teheranului.",
+    "content_ro": "• **Pauza în contactele prin intermediari** a urmat unei perioade în care, potrivit lui Abbas Araghchi, discuțiile pentru oprirea războiului se intensificaseră. Ministrul iranian de Externe a spus că mediatorii nu au mai călătorit de câteva zile și a legat întreruperea de impactul internațional al rezultatului alegerilor din SUA.\n\n• **Oferta Iranului privind Strâmtoarea Ormuz** rămâne valabilă, a afirmat Araghchi. Teheranul condiționează redeschiderea acesteia de mai multe cerințe, inclusiv încetarea conflictului pe toate fronturile, iar șeful diplomației iraniene a cerut Washingtonului să ia o decizie.\n\n• **La Teheran au apărut și negări ale negocierilor:** Mohsen Rezaei, secretarul Consiliului Suprem de Securitate Națională, a susținut pe X că discuțiile prezentate în presă nu au loc și a acuzat Statele Unite că răspândesc informații despre contacte imaginare.\n\n• **Evaluarea militară a lui Donald Trump** este că forțele Iranului au fost grav afectate, iar războiul este, în esență, încheiat. El a descris o nouă rundă de atacuri drept puțin probabilă în cazul unui acord solid, dar nu a garantat o încetare a focului de durată și a spus că armata americană poate interveni din nou.\n\n• **Blocada și rolul Qatarului** rămân elemente centrale: Trump a susținut continuarea restricțiilor maritime asupra porturilor iraniene și a operațiunii Iron Gate. După întâlnirea cu premierul Mohammed bin Abdulrahman bin Jassim Al Thani, acesta a apreciat discuțiile despre un acord și pacea regională; întrevederea a fost prima întâlnire a lui Trump cu un lider străin după alegerile de la jumătatea mandatului.",
+    "importance_score": 48.0
+  },
+  {
     "group_id": "group_9343c880b9",
     "fingerprint": "a2df87d5a213bfe110e5b73ebfa936d8",
     "category": "Általános",
@@ -3472,6 +3477,108 @@
     "lead_ro": "Publicația rusă, activă de peste trei decenii, își încheie prezența editorială la Moscova după presiuni ale autorităților și pierderea surselor de finanțare. Novaya Gazeta Europe continuă să lucreze din exil, iar fostul redactor-șef a vorbit recent la Londra despre situația jurnaliștilor.",
     "content_ro": "• **Golirea sediului din Moscova** marchează sfârșitul activității redacției Novaya Gazeta în Rusia: angajații au strâns aparatura și documentele, iar infrastructura folosită pentru ediția online a fost oprită. Decizia a urmat presiunilor autorităților și obligației de a părăsi biroul.\n\n• **Blocarea finanțării** a făcut imposibilă menținerea publicației. La începutul lui septembrie, ziarul a fost înscris în registrul agenților străini, iar băncile au înghețat donațiile cititorilor, principala sursă de venit. Au avut loc percheziții la redacție și la domiciliul redactorului-șef; un jurnalist cu funcție importantă așteaptă procesul în arest la domiciliu.\n\n• **Publicația fondată în 1993** cu sprijinul lui Mihail Gorbaciov s-a remarcat prin anchete despre corupție guvernamentală, abuzuri ale poliției, nereguli electorale și încălcări ale drepturilor omului. Printre subiectele abordate s-au numărat evenimentele din Cecenia și operațiunile militare rusești desfășurate în afara țării.\n\n• **Dmitri Muratov**, fostul redactor-șef, a declarat luna trecută la Londra că liderii redacțiilor nu mai sunt în măsură să-și protejeze suficient reporterii. Laureat al Premiului Nobel pentru Pace în 2021, el a dedicat distincția celor șase colegi uciși de-a lungul anilor, inclusiv jurnalistei Anna Politkovskaia, omorâtă în 2006.\n\n• **Irina Vorobiova** a afirmat că valorile publicației vor dăinui în rândul foștilor membri ai redacției. Kremlinul a prezentat închiderea drept o schimbare obișnuită pe o piață media competitivă, în timp ce Novaya Gazeta Europe își continuă activitatea separat, din exil.",
     "importance_score": 48.0
+  },
+  {
+    "group_id": "group_2b465bea3c",
+    "fingerprint": "a69fc235088fc610a6bdc7fcef233ef2",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Nu Mbappe, Courtois sau Bellingham! Marc Cucurella a numit „cel mai bun jucător al Realului”",
+        "link": "https://www.gsp.ro/international/campionate/real-madrid-marc-cucurella-arda-guler-cel-mai-bun-997950.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Fotbal: Marc Cucurella consideră că 'Real Madrid este cea mai bună echipă din lume'",
+        "link": "https://agerpres.ro/sport-extern/2026/11/10/fotbal-marc-cucurella-considera-ca-real-madrid-este-cea-mai-buna-echipa-din-lume--1611761"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Marc Cucurella numește jucătorul de la Real Madrid care l-a impresionat cel mai mult. Ce spune despre duelul cu PSG",
+        "link": "https://www.mediafax.ro/sport/marc-cucurella-numeste-jucatorul-de-la-real-madrid-care-l-a-impresionat-cel-mai-mult-ce-spune-despre-duelul-cu-psg-23840755"
+      }
+    ],
+    "published_at": 1794302128,
+    "title_hu": "Cucurella Arda Gülert nevezte a Real Madrid kiemelkedő játékosának",
+    "lead_hu": "Marc Cucurella egy rádióinterjúban Arda Gülert emelte ki a Real Madrid keretéből, noha Kylian Mbappét, Thibaut Courtois-t és Jude Bellinghamet is a csapat meghatározó játékosai közé sorolta. A török középpályás a közölt idényadatok szerint 14 mérkőzésen 11 gólban vállalt szerepet.",
+    "content_hu": "• **A november 10-én közölt interjúban** Marc Cucurellát arról kérdezték, kit tart a Real Madrid legjobb játékosának. A 28 éves védő a spanyol válogatott edzőtáborában, a Nemzetek Ligája mérkőzéseire készülve beszélt a COPE rádiónak.\n\n• **Cucurella választása Arda Gülerre esett.** Kylian Mbappét, Thibaut Courtois-t és Jude Bellinghamet is a madridi csapat élvonalába tartozó futballistaként említette, de végül a török középpályást nevezte meg. Úgy vélte, Güler képességei nem mindig kapnak kellő figyelmet, és jelenléte más játékot tesz lehetővé a csapat számára.\n\n• **Güler 14 mérkőzésen szerepelt az idényben** a bajnokságban és a Bajnokok Ligájában, ezeken négy gólt szerzett és hét gólpasszt adott. A közölt adatok szerint gyakran bal oldali támadóként játszik, de rendszeresen a pálya közepe felé húzódik.\n\n• **A spanyol bajnokságban Güler alakította ki a legtöbb lövőhelyzetet előkészítő átadást:** 42 ilyen lehetőséget jegyeztek fel nála. Ez 90 percenként 5,1 kialakított helyzetnek felel meg; a rangsorban mögötte álló Lamine Yamal 41-nél tartott, 90 percenként 3,7-es átlaggal.\n\n• **Cucurella a tréningeken is meggyőzőnek látta Gülert.** A középpályást technikás játékosként jellemezte, és arra hívta fel a figyelmet, hogy a pályán mutatott teljesítménye alapján többre érdemes annál, mint amennyi figyelmet általában kap.",
+    "title_ro": "Cucurella l-a evidențiat pe Arda Güler în lotul lui Real Madrid",
+    "lead_ro": "Într-un interviu radio, Marc Cucurella l-a indicat pe Arda Güler drept jucătorul lui Real Madrid pe care îl apreciază cel mai mult, deși i-a menționat și pe Kylian Mbappé, Thibaut Courtois și Jude Bellingham. Potrivit datelor prezentate, mijlocașul turc a contribuit la 11 goluri în 14 partide din acest sezon.",
+    "content_ro": "• **Interviul a fost publicat pe 10 noiembrie.** Marc Cucurella a fost întrebat cine este, în opinia sa, cel mai bun jucător de la Real Madrid. Fundașul în vârstă de 28 de ani a vorbit pentru postul COPE, aflat în cantonamentul naționalei Spaniei înaintea meciurilor din Liga Națiunilor.\n\n• **Alegerea lui Cucurella a fost Arda Güler.** El i-a inclus și pe Kylian Mbappé, Thibaut Courtois și Jude Bellingham între fotbaliștii de prim-plan ai echipei madrilene, dar l-a numit în cele din urmă pe mijlocașul turc. În aprecierea sa, calitățile lui Güler nu sunt întotdeauna suficient observate, iar prezența acestuia schimbă felul în care joacă formația.\n\n• **Güler a jucat în 14 meciuri în acest sezon**, în campionat și în Liga Campionilor. A înscris de patru ori și a oferit șapte pase decisive. Conform informațiilor publicate, este folosit adesea ca atacant pe partea stângă, însă se deplasează frecvent spre zona centrală.\n\n• **Mijlocașul a creat 42 de ocazii de șut în campionatul Spaniei**, cel mai mare total din clasamentul menționat. Media sa este de 5,1 ocazii create la 90 de minute. Lamine Yamal, aflat pe poziția următoare, avea 41, cu o medie de 3,7 la fiecare 90 de minute.\n\n• **Cucurella a remarcat și evoluțiile lui Güler de la antrenamente.** L-a descris drept un jucător cu multă tehnică și a apreciat că aportul său de pe teren merită mai multă atenție decât primește de obicei.",
+    "importance_score": 45.0
+  },
+  {
+    "group_id": "group_16d822dd15",
+    "fingerprint": "0b141179098628fcbccfbda61a1f00a8",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Prima apariție a lui Meghan Markle de la arestarea tatălui său, la brațul soțului, Prințul Harry",
+        "link": "https://www.mediafax.ro/externe/prima-aparitie-a-lui-meghan-markle-de-la-arestarea-tatalui-sau-la-bratul-sotului-printul-harry-23840659"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Prințul Harry și Meghan Markle, la Parlamentul European. Prima apariție publică a ducesei după acuzațiile aduse tatălui său.",
+        "link": "https://stirileprotv.ro/stiri/international/printul-harry-si-meghan-markle-la-parlamentul-european-prima-aparitie-publica-a-ducesei-dupa-acuzatiile-aduse-tatalui-sau.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Tatăl lui Meghan Markle, supus unei expertize psihiatrice după ce a fost acuzat de deținerea unor imagini pedopornografice",
+        "link": "https://stirileprotv.ro/stiri/international/tatal-lui-meghan-markle-supus-unei-expertize-psihiatrice-dupa-ce-a-fost-acuzat-de-detinerea-unor-imagini-pedopornografice.html"
+      }
+    ],
+    "published_at": 1794301684,
+    "title_hu": "Harry és Meghan a gyermekek online biztonságáról tartott brüsszeli eseményen",
+    "lead_hu": "Meghan Markle és Harry herceg az Európai Parlamentben vett részt egy, a gyermekek online biztonságával foglalkozó programon. Meghan végül nem mondta el tervezett beszédét; a rendezvényen Harry szólalt fel.",
+    "content_hu": "• **Brüsszelben, az Európai Parlamentben** jelent meg Harry herceg és Meghan Markle egy olyan eseményen, amely a gyermekeket érő online veszélyekre és a digitális környezet biztonságosabbá tételére összpontosított.\n\n• **A rendezvény a pár kampányához kapcsolódott**, amely azoknak a családoknak kíván támogatást nyújtani, akiknek gyermekét a közösségi platformok használatához kötődő káros tapasztalatok miatt veszítették el. A sajtóbeszámolók szerint Meghan beszédet is tervezett, de visszalépett, így Harry egyedül szólalt fel.\n\n• **A látogatás Meghan első nyilvános szereplése volt apja ügyének hírei óta.** Thomas Markle a múlt pénteken egy floridai bíróság előtt jelent meg; a beszámolók szerint kiskorúak szexuális bántalmazását ábrázoló felvételek birtoklásával vádolják. Korábban tagadta a vádakat, jelenleg házi őrizetben van elektronikus felügyelettel.\n\n• **A program része volt a Lost Screen Memorial bemutatása** is. A tavaly New Yorkban elindított kiállítás Európába érkezett, és olyan fiatalok képeit mutatja be, akiknek halálát szüleik a közösségi médiában tapasztalt veszélyekkel hozzák összefüggésbe; a fotókat a családok telefonjukon őrzik.\n\n• **Meghan nem reagált a helyszínen újságírói kérdésekre.** A róla szóló beszámolók a családhoz közel álló forrásokra hivatkozva az elmúlt két hetet érzelmileg megterhelő időszakként írták le, de a hercegné maga nem adott nyilvános nyilatkozatot az apja ügyéről.",
+    "title_ro": "Harry și Meghan, la un eveniment despre siguranța copiilor online, la Bruxelles",
+    "lead_ro": "Meghan Markle și prințul Harry au participat la Parlamentul European la un eveniment axat pe protecția copiilor în mediul digital. Meghan nu a mai susținut discursul programat, iar Harry a vorbit singur.",
+    "content_ro": "• **La Bruxelles, în Parlamentul European**, prințul Harry și Meghan Markle au luat parte la un eveniment despre riscurile întâlnite de copii online și despre necesitatea unui mediu digital mai sigur.\n\n• **Întâlnirea s-a înscris într-o campanie a cuplului**, destinată sprijinirii familiilor care și-au pierdut copiii după experiențe nocive asociate platformelor sociale. Meghan era programată să vorbească, însă s-a retras din program, iar Harry a susținut intervenția fără ea.\n\n• **Apariția a fost prima participare publică a lui Meghan după apariția informațiilor despre cazul tatălui său.** Thomas Markle s-a prezentat vinerea precedentă în fața unei instanțe din Florida și este acuzat că ar fi deținut materiale care înfățișează abuzuri sexuale asupra minorilor. El a negat anterior acuzațiile și se află în arest la domiciliu, sub monitorizare electronică.\n\n• **În program a fost inclusă și prezentarea expoziției Lost Screen Memorial.** Lansată anul trecut la New York și adusă acum în Europa, aceasta reunește fotografii ale unor tineri despre care părinții cred că au murit în urma unor pericole întâlnite pe rețelele sociale; familiile păstrează imaginile pe telefoanele lor.\n\n• **Meghan nu a răspuns întrebărilor jurnaliștilor la sosire.** Relatările presei, citând persoane apropiate familiei, au descris ultimele două săptămâni drept o perioadă cu dificultăți emoționale. Ducesa nu a oferit însă o declarație publică despre situația tatălui său.",
+    "importance_score": 45.0
+  },
+  {
+    "group_id": "group_e6944ac959",
+    "fingerprint": "77091703049ba9a35d034e6382fc8aad",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Incredibil. Primarul unei comunități din Peru a fost decis prin aruncarea unei monede",
+        "link": "https://www.mediafax.ro/politic/incredibil-primarul-unei-comunitati-din-peru-a-fost-decis-prin-aruncarea-unei-monede-23840560"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Primar ales cu banul, după o egalitate perfectă la vot. „Dumnezeu a decis acest lucru”",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/primar-ales-cu-banul-dupa-o-egalitate-perfecta-la-2570230.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un primar din Peru a fost ales prin aruncarea unei monede, după ce doi candidați au obținut același număr de voturi",
+        "link": "https://stirileprotv.ro/stiri/international/un-primar-din-peru-a-fost-ales-prin-aruncarea-unei-monede-dupa-ce-doi-candidati-au-obtinut-acelasi-numar-de-voturi.html"
+      }
+    ],
+    "published_at": 1794297479,
+    "title_hu": "Pénzfeldobással dőlt el a perui Conima polgármester-választása",
+    "lead_hu": "Conimában Rubén Quispe Capajaña és Salomino Mamani Quispe egyaránt 671 szavazatot kapott, ezért a döntetlent nyilvános sorsolással oldották fel. Az egysolosos érmefeldobás Quispe Capajañának kedvezett, aki győzelme után Istennek tulajdonította a váratlan fordulatot.",
+    "content_hu": "• **Október 4-én** tartották a polgármester-választást a perui Conimában. A Somos Perú jelöltje, Rubén Quispe Capajaña és a País Para Todos színeiben induló Salomino Mamani Quispe egyaránt 671 voksot szerzett; ez a hivatalos adatok szerint fejenként a szavazatok 27,7 százalékát jelentette.\n\n• **Az újraszámlálások sem választották el a jelölteket:** a voksokat több alkalommal ellenőrizték, de az eredmény változatlanul döntetlen maradt. A helyi előírások ilyen esetben sorsolással rendezik a versenyt, így további számlálás helyett ezt az eljárást alkalmazták.\n\n• **A nyilvános sorsolást a Huancané-i Különleges Választási Bíróság bonyolította le.** Egy választási tisztviselő egysolosos érmét dobott fel, és a pénzfeldobás Quispe Capajañát hozta ki győztesnek.\n\n• **A perui választási hatóságoknak volt már hasonló esetük:** a beszámoló a 2010-es, 2014-es és 2022-es választásokon is említ sorsolásos döntést. A 2026-os közlés az érmefeldobást a szavazategyenlőség feloldására szolgáló bevett eljárásként mutatta be.\n\n• **Quispe Capajaña a győzelem után háláját fejezte ki,** és azt mondta, mindig szeretett volna nyerni, a végső döntést pedig Istennek tulajdonította. Conima polgármesteri tisztségéről így nem a szavazatok aránya, hanem a döntetlenre előírt sorsolás határozott.",
+    "title_ro": "Primăria din Conima, decisă prin aruncarea unei monede",
+    "lead_ro": "În localitatea peruană Conima, Rubén Quispe Capajaña și Salomino Mamani Quispe au primit câte 671 de voturi, astfel că egalitatea a fost soluționată prin tragere la sorți publică. Aruncarea unei monede de un sol i-a adus victoria lui Quispe Capajaña, care a atribuit rezultatul neașteptat lui Dumnezeu.",
+    "content_ro": "• **Pe 4 octombrie** au avut loc alegerile pentru primăria din Conima, Peru. Rubén Quispe Capajaña, candidat al formațiunii Somos Perú, și Salomino Mamani Quispe, reprezentant al País Para Todos, au obținut fiecare 671 de voturi; rezultatele oficiale le-au atribuit câte 27,7% din voturi.\n\n• **Verificările repetate nu au schimbat egalitatea:** buletinele au fost numărate din nou de mai multe ori, însă nu a rezultat un câștigător prin numărare. Regulile locale prevăd tragerea la sorți în astfel de situații, procedură folosită în locul unei noi încercări de departajare prin numărare.\n\n• **Juriul Electoral Special din Huancané a organizat o tragere la sorți în public.** Un reprezentant al autorităților electorale a aruncat o monedă de un sol, iar rezultatul l-a favorizat pe Quispe Capajaña.\n\n• **Peru a mai recurs la soluții de acest fel:** relatarea menționează cazuri similare la alegerile din 2010, 2014 și 2022. Într-o informare din 2026, aruncarea unei monede a fost prezentată drept metoda uzuală pentru soluționarea egalității de voturi.\n\n• **După anunțarea victoriei, Quispe Capajaña și-a exprimat recunoștința.** El a spus că și-a dorit mereu să câștige și a pus deznodământul pe seama lui Dumnezeu. Astfel, desemnarea viitorului primar nu a depins de diferența dintre voturi, ci de procedura de tragere la sorți aplicabilă la egalitate.",
+    "importance_score": 45.0
   },
   {
     "group_id": "group_48ef95cadb",
@@ -3662,6 +3769,33 @@
     "lead_ro": "Nava Odyssey, sosită la Singapore din portul cambodgian Sihanoukville, a fost sechestrată în baza unei hotărâri judecătorești. Cei 203 de pasageri debarcaseră după suspendarea operațiunilor Villa Vie Residences, iar noi detalii descriu traseul planificat și variantele de locuire la bord.",
     "content_ro": "• **Odyssey a fost pusă sub sechestru în Singapore.** Nava a ajuns duminică din Sihanoukville și este ancorată în apele portului. Autoritățile au transmis că la bord nu se mai află pasageri, iar membrii echipajului sunt în stare bună; creditorii se ocupă de condițiile și siguranța lor.\n\n• **Demersul juridic a fost inițiat de firma Helmsman LLC.** Societatea de avocatură din Singapore a solicitat sechestrarea navei, însă nu s-a precizat ce parte reprezintă.\n\n• **203 de pasageri au fost nevoiți să părăsească nava în Sihanoukville.** Villa Vie Residences și-a suspendat pe neașteptate activitatea din Cambodgia, acordându-le călătorilor șapte ore pentru a-și strânge lucrurile și a debarca. Operatorul a motivat decizia prin scumpirea combustibilului asociată conflictului din Iran: costul lunar pentru o cabină a urcat de la circa 1.800 de dolari la 6.000–8.000 de dolari în anumite regiuni asiatice.\n\n• **Călătoria urma să dureze trei ani și jumătate și să includă 150 de țări.** Odyssey a plecat din Belfast în octombrie 2024. Oferta pentru locuirea la bord includea cumpărarea cabinei, un contract de rezidență pe cinci ani sau închirierea acesteia pentru excursii de scurtă durată.\n\n• **Operatorul nu putea acoperi scumpirile transferându-le integral pasagerilor.** Creșterea cheltuielilor a pus presiune asupra modelului de afaceri, înainte ca firma să oprească operațiunile din Cambodgia și călătoria să fie întreruptă.",
     "importance_score": 43.0
+  },
+  {
+    "group_id": "group_47c3fdcda3",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Luca Niculescu, întrebat despre o posibilă remaniere: „Evaluarea Guvernului, a miniştrilor şi a mea este permanentă”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-intrebat-despre-o-posibila-remaniere-evaluarea-guvernului-a-ministrilor-si-a-mea-este-permanenta-4029417"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Niculescu: Evaluarea Guvernului, a miniştrilor şi a mea, este permanentă",
+        "link": "https://stirileprotv.ro/stiri/politic/niculescu-evaluarea-guvernului-a-ministrilor-si-a-mea-este-permanenta.html"
+      }
+    ],
+    "published_at": 1794307135,
+    "title_hu": "Luca Niculescu, întrebat despre o posibilă remaniere: „Evaluarea Guvernului, a miniştrilor şi a mea este permanentă”",
+    "lead_hu": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea cure...",
+    "content_hu": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea curentă şi la ce poate fi îmbunătăţit.",
+    "title_ro": "Luca Niculescu, întrebat despre o posibilă remaniere: „Evaluarea Guvernului, a miniştrilor şi a mea este permanentă”",
+    "lead_ro": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea cure...",
+    "content_ro": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea curentă şi la ce poate fi îmbunătăţit.",
+    "importance_score": 40.0
   },
   {
     "group_id": "group_ba1bb8a56d",
@@ -4433,35 +4567,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_2b465bea3c",
-    "fingerprint": "a69fc235088fc610a6bdc7fcef233ef2",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Nu Mbappe, Courtois sau Bellingham! Marc Cucurella a numit „cel mai bun jucător al Realului”",
-        "link": "https://www.gsp.ro/international/campionate/real-madrid-marc-cucurella-arda-guler-cel-mai-bun-997950.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Fotbal: Marc Cucurella consideră că 'Real Madrid este cea mai bună echipă din lume'",
-        "link": "https://agerpres.ro/sport-extern/2026/11/10/fotbal-marc-cucurella-considera-ca-real-madrid-este-cea-mai-buna-echipa-din-lume--1611761"
-      }
-    ],
-    "published_at": 1794302128,
-    "title_hu": "Cucurella Arda Gülert nevezte a Real Madrid kiemelkedő játékosának",
-    "lead_hu": "Marc Cucurella egy rádióinterjúban Arda Gülert emelte ki a Real Madrid keretéből, noha Kylian Mbappét, Thibaut Courtois-t és Jude Bellinghamet is a csapat meghatározó játékosai közé sorolta. A török középpályás a közölt idényadatok szerint 14 mérkőzésen 11 gólban vállalt szerepet.",
-    "content_hu": "• **A november 10-én közölt interjúban** Marc Cucurellát arról kérdezték, kit tart a Real Madrid legjobb játékosának. A 28 éves védő a spanyol válogatott edzőtáborában, a Nemzetek Ligája mérkőzéseire készülve beszélt a COPE rádiónak.\n\n• **Cucurella választása Arda Gülerre esett.** Kylian Mbappét, Thibaut Courtois-t és Jude Bellinghamet is a madridi csapat élvonalába tartozó futballistaként említette, de végül a török középpályást nevezte meg. Úgy vélte, Güler képességei nem mindig kapnak kellő figyelmet, és jelenléte más játékot tesz lehetővé a csapat számára.\n\n• **Güler 14 mérkőzésen szerepelt az idényben** a bajnokságban és a Bajnokok Ligájában, ezeken négy gólt szerzett és hét gólpasszt adott. A közölt adatok szerint gyakran bal oldali támadóként játszik, de rendszeresen a pálya közepe felé húzódik.\n\n• **A spanyol bajnokságban Güler alakította ki a legtöbb lövőhelyzetet előkészítő átadást:** 42 ilyen lehetőséget jegyeztek fel nála. Ez 90 percenként 5,1 kialakított helyzetnek felel meg; a rangsorban mögötte álló Lamine Yamal 41-nél tartott, 90 percenként 3,7-es átlaggal.\n\n• **Cucurella a tréningeken is meggyőzőnek látta Gülert.** A középpályást technikás játékosként jellemezte, és arra hívta fel a figyelmet, hogy a pályán mutatott teljesítménye alapján többre érdemes annál, mint amennyi figyelmet általában kap.",
-    "title_ro": "Cucurella l-a evidențiat pe Arda Güler în lotul lui Real Madrid",
-    "lead_ro": "Într-un interviu radio, Marc Cucurella l-a indicat pe Arda Güler drept jucătorul lui Real Madrid pe care îl apreciază cel mai mult, deși i-a menționat și pe Kylian Mbappé, Thibaut Courtois și Jude Bellingham. Potrivit datelor prezentate, mijlocașul turc a contribuit la 11 goluri în 14 partide din acest sezon.",
-    "content_ro": "• **Interviul a fost publicat pe 10 noiembrie.** Marc Cucurella a fost întrebat cine este, în opinia sa, cel mai bun jucător de la Real Madrid. Fundașul în vârstă de 28 de ani a vorbit pentru postul COPE, aflat în cantonamentul naționalei Spaniei înaintea meciurilor din Liga Națiunilor.\n\n• **Alegerea lui Cucurella a fost Arda Güler.** El i-a inclus și pe Kylian Mbappé, Thibaut Courtois și Jude Bellingham între fotbaliștii de prim-plan ai echipei madrilene, dar l-a numit în cele din urmă pe mijlocașul turc. În aprecierea sa, calitățile lui Güler nu sunt întotdeauna suficient observate, iar prezența acestuia schimbă felul în care joacă formația.\n\n• **Güler a jucat în 14 meciuri în acest sezon**, în campionat și în Liga Campionilor. A înscris de patru ori și a oferit șapte pase decisive. Conform informațiilor publicate, este folosit adesea ca atacant pe partea stângă, însă se deplasează frecvent spre zona centrală.\n\n• **Mijlocașul a creat 42 de ocazii de șut în campionatul Spaniei**, cel mai mare total din clasamentul menționat. Media sa este de 5,1 ocazii create la 90 de minute. Lamine Yamal, aflat pe poziția următoare, avea 41, cu o medie de 3,7 la fiecare 90 de minute.\n\n• **Cucurella a remarcat și evoluțiile lui Güler de la antrenamente.** L-a descris drept un jucător cu multă tehnică și a apreciat că aportul său de pe teren merită mai multă atenție decât primește de obicei.",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_96ea1f6169",
     "category": "Politika",
     "is_synthesized": false,
@@ -4489,8 +4594,8 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_16d822dd15",
-    "fingerprint": "0b141179098628fcbccfbda61a1f00a8",
+    "group_id": "group_18c40e7a9b",
+    "fingerprint": "044a055c72e63c8e7541e9db8e6c29be",
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
@@ -4499,22 +4604,22 @@
     "sources": [
       {
         "source": "Mediafax",
-        "title": "Prima apariție a lui Meghan Markle de la arestarea tatălui său, la brațul soțului, Prințul Harry",
-        "link": "https://www.mediafax.ro/externe/prima-aparitie-a-lui-meghan-markle-de-la-arestarea-tatalui-sau-la-bratul-sotului-printul-harry-23840659"
+        "title": "Descoperire medicală pentru boala rară de care suferă Céline Dion / Un tratament experimental i-a ajutat pe pacienți să meargă din nou și să se întoarcă la muncă",
+        "link": "https://www.mediafax.ro/sanatate/descoperire-medicala-pentru-boala-rara-de-care-sufera-celine-dion-un-tratament-experimental-i-a-ajutat-pe-pacienti-sa-mearga-din-nou-si-sa-se-intoarca-la-munca-23840651"
       },
       {
-        "source": "ProTV Stiri",
-        "title": "Prințul Harry și Meghan Markle, la Parlamentul European. Prima apariție publică a ducesei după acuzațiile aduse tatălui său.",
-        "link": "https://stirileprotv.ro/stiri/international/printul-harry-si-meghan-markle-la-parlamentul-european-prima-aparitie-publica-a-ducesei-dupa-acuzatiile-aduse-tatalui-sau.html"
+        "source": "HotNews.ro",
+        "title": "Descoperire medicală majoră pentru sindromul de care suferă Celine Dion",
+        "link": "https://hotnews.ro/descoperire-medicala-majora-pentru-sindromul-de-care-sufera-celine-dion-2399690"
       }
     ],
-    "published_at": 1794301684,
-    "title_hu": "Harry és Meghan a gyermekek online biztonságáról tartott brüsszeli eseményen",
-    "lead_hu": "Meghan Markle és Harry herceg az Európai Parlamentben vett részt egy, a gyermekek online biztonságával foglalkozó programon. Meghan végül nem mondta el tervezett beszédét; a rendezvényen Harry szólalt fel.",
-    "content_hu": "• **Brüsszelben, az Európai Parlamentben** jelent meg Harry herceg és Meghan Markle egy olyan eseményen, amely a gyermekeket érő online veszélyekre és a digitális környezet biztonságosabbá tételére összpontosított.\n\n• **A rendezvény a pár kampányához kapcsolódott**, amely azoknak a családoknak kíván támogatást nyújtani, akiknek gyermekét a közösségi platformok használatához kötődő káros tapasztalatok miatt veszítették el. A sajtóbeszámolók szerint Meghan beszédet is tervezett, de visszalépett, így Harry egyedül szólalt fel.\n\n• **A látogatás Meghan első nyilvános szereplése volt apja ügyének hírei óta.** Thomas Markle a múlt pénteken egy floridai bíróság előtt jelent meg; a beszámolók szerint kiskorúak szexuális bántalmazását ábrázoló felvételek birtoklásával vádolják. Korábban tagadta a vádakat, jelenleg házi őrizetben van elektronikus felügyelettel.\n\n• **A program része volt a Lost Screen Memorial bemutatása** is. A tavaly New Yorkban elindított kiállítás Európába érkezett, és olyan fiatalok képeit mutatja be, akiknek halálát szüleik a közösségi médiában tapasztalt veszélyekkel hozzák összefüggésbe; a fotókat a családok telefonjukon őrzik.\n\n• **Meghan nem reagált a helyszínen újságírói kérdésekre.** A róla szóló beszámolók a családhoz közel álló forrásokra hivatkozva az elmúlt két hetet érzelmileg megterhelő időszakként írták le, de a hercegné maga nem adott nyilvános nyilatkozatot az apja ügyéről.",
-    "title_ro": "Harry și Meghan, la un eveniment despre siguranța copiilor online, la Bruxelles",
-    "lead_ro": "Meghan Markle și prințul Harry au participat la Parlamentul European la un eveniment axat pe protecția copiilor în mediul digital. Meghan nu a mai susținut discursul programat, iar Harry a vorbit singur.",
-    "content_ro": "• **La Bruxelles, în Parlamentul European**, prințul Harry și Meghan Markle au luat parte la un eveniment despre riscurile întâlnite de copii online și despre necesitatea unui mediu digital mai sigur.\n\n• **Întâlnirea s-a înscris într-o campanie a cuplului**, destinată sprijinirii familiilor care și-au pierdut copiii după experiențe nocive asociate platformelor sociale. Meghan era programată să vorbească, însă s-a retras din program, iar Harry a susținut intervenția fără ea.\n\n• **Apariția a fost prima participare publică a lui Meghan după apariția informațiilor despre cazul tatălui său.** Thomas Markle s-a prezentat vinerea precedentă în fața unei instanțe din Florida și este acuzat că ar fi deținut materiale care înfățișează abuzuri sexuale asupra minorilor. El a negat anterior acuzațiile și se află în arest la domiciliu, sub monitorizare electronică.\n\n• **În program a fost inclusă și prezentarea expoziției Lost Screen Memorial.** Lansată anul trecut la New York și adusă acum în Europa, aceasta reunește fotografii ale unor tineri despre care părinții cred că au murit în urma unor pericole întâlnite pe rețelele sociale; familiile păstrează imaginile pe telefoanele lor.\n\n• **Meghan nu a răspuns întrebărilor jurnaliștilor la sosire.** Relatările presei, citând persoane apropiate familiei, au descris ultimele două săptămâni drept o perioadă cu dificultăți emoționale. Ducesa nu a oferit însă o declarație publică despre situația tatălui său.",
+    "published_at": 1794300882,
+    "title_hu": "CAR-T-kezelést vizsgáltak a merev ember szindrómában",
+    "lead_hu": "Egy 26 felnőtt bevonásával végzett amerikai klinikai vizsgálatban a CAR-T-sejtes kezelés után több résztvevő mozgása és mindennapi tevékenységei javultak. Az eredményeket 2026. november 9-én közölték; a terápia kísérleti, és nem jelent bizonyított gyógymódot.",
+    "content_hu": "• **A 2026. november 9-én közzétett vizsgálatban** 26, merev ember szindrómával diagnosztizált felnőtt vett részt. A kutatást amerikai neurológusok végezték a Mayo Clinic szakembereivel együttműködve, eredményeik a JAMA Neurology folyóiratban jelentek meg.\n\n• **A résztvevők korábban nem reagáltak kellőképpen az immunológiai kezelésekre.** Egyetlen CAR-T-sejtes adag beadását követően a kutatók a mozgásképesség és a hétköznapi feladatok ellátásának javulását tapasztalták. A beszámoló szerint néhány beteg ismét munkába állt, illetve visszatért korábbi szabadidős elfoglaltságaihoz; az eredmény nem jelenti azt, hogy minden résztvevőnél azonos változás történt.\n\n• **A merev ember szindróma ritka, autoimmun eredetű idegrendszeri betegség.** A központi idegrendszert érintő állapot fokozódó izommerevséggel, fájdalmas görcsökkel és járási nehézségekkel járhat. Súlyos esetben az érintetteknek az alapvető mindennapi teendőkhöz is segítségre lehet szükségük.\n\n• **A tüneteket külső ingerek is kiválthatják:** a forrás szerint váratlan hang, érintés vagy erős érzelem is görcsöt idézhet elő. A betegség megjelenése és súlyossága egyénenként eltérő, és jelenleg nincs olyan kezelés, amely igazoltan véglegesen megszüntetné.\n\n• **A CAR-T-terápia egyelőre vizsgálati kezelés.** A rendelkezésre álló gyógyszerek mérsékelhetik a panaszokat és befolyásolhatják az immunfolyamatokat, de nem minden esetben állítják meg a betegség előrehaladását. Céline Dion 2022 decemberében hozta nyilvánosságra, hogy ebben a szindrómában szenved; elmondása szerint a kórkép az éneklésére és mindennapi életére is hatással volt.",
+    "title_ro": "Terapia CAR-T, evaluată într-un studiu pentru sindromul persoanei rigide",
+    "lead_ro": "Un studiu clinic american, la care au participat 26 de adulți, a constatat îmbunătățiri ale mobilității și ale activităților cotidiene după administrarea terapiei CAR-T. Rezultatele au apărut la 9 noiembrie 2026, însă tratamentul este experimental și nu reprezintă un remediu demonstrat.",
+    "content_ro": "• **Studiul publicat la 9 noiembrie 2026** a inclus 26 de adulți diagnosticați cu sindromul persoanei rigide. Cercetarea a fost realizată de neurologi din Statele Unite împreună cu specialiști de la Clinica Mayo, iar rezultatele au fost prezentate în revista JAMA Neurology.\n\n• **Participanții nu obținuseră un răspuns suficient la terapiile imunologice anterioare.** După o singură administrare de celule CAR-T, echipa a observat progrese în capacitatea de mișcare și în îndeplinirea activităților zilnice. Potrivit relatării, unii pacienți au revenit la serviciu și la hobby-uri; datele nu arată că evoluția a fost aceeași pentru fiecare participant.\n\n• **Sindromul persoanei rigide este o afecțiune neurologică autoimună rară.** Boala afectează sistemul nervos central și poate provoca rigidizarea treptată a mușchilor, spasme dureroase și probleme de deplasare. În formele severe, persoanele afectate pot avea nevoie de sprijin chiar și pentru activități de bază.\n\n• **Spasmele pot apărea în urma unor stimuli**, între care zgomotele neașteptate, atingerea sau emoțiile intense, conform informațiilor publicate. Manifestările diferă de la un pacient la altul, iar în prezent nu există un tratament care să vindece definitiv această afecțiune.\n\n• **Terapia CAR-T se află încă în faza de investigare.** Medicamentele disponibile pot reduce simptomele și pot influența reacția imună, dar nu opresc întotdeauna progresia bolii. Céline Dion și-a făcut public diagnosticul în decembrie 2022 și a spus că afecțiunea îi influențează vocea și desfășurarea activităților obișnuite.",
     "importance_score": 35.0
   },
   {
@@ -4897,40 +5002,6 @@
     "title_ro": "FOTO. Accident rarisim în Carei! O mașină a intrat într-un gard și s-a oprit în peretele unei case. Șoferul și proprietara, răniți",
     "lead_ro": "Un accident rutier grav s-a produs astăzi, 9 noiembrie 2026, pe strada Viilor din municipiul Carei, județul Szatmárnémeti. Un autoturism a părăsit partea carosabilă, a lovit un gard și s-a oprit în pe…",
     "content_ro": "Un accident rutier grav s-a produs astăzi, 9 noiembrie 2026, pe strada Viilor din municipiul Carei, județul Szatmárnémeti. Un autoturism a părăsit partea carosabilă, a lovit un gard și s-a oprit în peretele unei locuințe. În urma impactului, șoferul, un bărbat de …",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_8b9b76c031",
-    "fingerprint": "3adf27527b0dd8488f124805e556499a",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Petiție cu peste 1.000 de semnături după angajarea lui Felix Alexa la TNB. Artiștii cer un control al Ministerului Culturii",
-        "link": "https://stirileprotv.ro/stiri/actualitate/petitie-cu-peste-1-000-de-semnaturi-dupa-angajarea-lui-felix-alexa-la-tnb-artistii-cer-un-control-al-ministerului-culturii.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Peste 1.000 de artiști îi cer ministrului Culturii să intervină în cazul angajării lui Felix Alexa. Regizorul acuzat de hărțuire amenință cu procese",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/peste-1000-de-artisti-ii-cer-ministrului-culturii-2570011.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "După ce i s-a cerut să facă un pas înapoi, regizorul Felix Alexa rispotează și amenință că îi dă în judecată pe toți care l-au „defăimat”",
-        "link": "https://hotnews.ro/dupa-ce-i-s-a-cerut-sa-faca-un-pas-inapoi-regizorul-felix-alexa-rispoteaza-si-ameninta-ca-ii-da-in-judecata-pe-toti-care-l-au-defaimat-2398930"
-      }
-    ],
-    "published_at": 1794221408,
-    "title_hu": "Tiltakozás és vizsgálati felhívás Felix Alexa TNB-s alkalmazása miatt",
-    "lead_hu": "Több mint ezren írták alá azt a petíciót, amely a bukaresti Nemzeti Színház Felix Alexa alkalmazásához kapcsolódó döntéseinek és eljárásainak ellenőrzését kéri. A rendező közben jelezte: bírósághoz fordul azok ellen, akikről úgy véli, hogy rontották a hírnevét.",
-    "content_hu": "• **Több mint ezer aláíró** – köztük színészek és rendezők – arra kérte a kulturális minisztert, hogy vizsgáltassa meg Felix Alexa alkalmazásának körülményeit a bukaresti I. L. Caragiale Nemzeti Színházban. A petíció kezdeményezői a munkahelyi zaklatás megelőzésére vonatkozó előírások betartását és az intézmény vezetésének eljárását is ellenőriztetnék.\n\n• **A Kulturális Minisztérium** közlése szerint jelenleg valamennyi alárendelt intézményben áttekintik, hogyan alkalmazzák a nemi alapú és a munkahelyi erkölcsi zaklatás megelőzésére, illetve kezelésére szolgáló intézkedéseket. A minisztérium a közleményben a 970/2023-as kormányhatározatra hivatkozott; Ioana Ciocan hétfőn Ada Hausvarterrel is találkozott.\n\n• **A petíció aláírói** minisztériumi ellenőrzést kértek a színháznál, egyebek mellett a felvételi eljárás, a zaklatás elleni kötelezettségek és a vezetői intézkedések ügyében. A TNB több művésze is csatlakozott a kezdeményezéshez; Conrad Mericoffer pedig tiltakozásul távozott az intézménytől Alexa alkalmazása miatt.\n\n• **Felix Alexa** a vele szemben korábban megfogalmazott zaklatási és szexuális bántalmazási állításokat valótlannak nevezte, és közölte, hogy jogi útra tereli az ügyet azokkal szemben, akiket jó hírneve megsértésével vádol. A rendező Andrei Șerban nyílt levelére reagált, amelyben a TNB tiszteletbeli igazgatója azt javasolta, hogy Alexa az állítások tisztázásáig függessze fel együttműködését a színházzal.\n\n• **A vita középpontjában** így egyszerre áll az alkalmazás szabályosságának és az intézményi felelősségnek a kérdése, valamint az Alexa ellen korábban felhozott állítások kezelése. A rendelkezésre álló beszámolók nem közölnek lezárt vizsgálati eredményt vagy bírósági döntést.",
-    "title_ro": "Contestații și solicitări de verificare după angajarea lui Felix Alexa la TNB",
-    "lead_ro": "Peste o mie de persoane au semnat o petiție prin care cer verificarea angajării lui Felix Alexa la Teatrul Național din București și a modului în care instituția a gestionat situația. Regizorul a anunțat, între timp, că va apela la instanță împotriva celor despre care afirmă că i-au afectat reputația.",
-    "content_ro": "• **Peste 1.000 de semnatari**, între care actori și regizori, i-au cerut ministrului Culturii să dispună verificări privind angajarea lui Felix Alexa la Teatrul Național „I.L. Caragiale” din București. Inițiatorii solicită examinarea procedurii de angajare, a respectării regulilor de prevenire a hărțuirii și a modului în care conducerea teatrului a tratat acuzațiile.\n\n• **Ministerul Culturii** a transmis că analizează, în instituțiile aflate în subordinea sa, aplicarea măsurilor împotriva hărțuirii pe criterii de sex și a hărțuirii morale la locul de muncă. Instituția a menționat Hotărârea de Guvern nr. 970/2023. Ioana Ciocan a avut luni o întâlnire cu Ada Hausvater.\n\n• **Autorii petiției** cer un control la TNB care să vizeze atât recrutarea regizorului, cât și obligațiile legale de prevenire a hărțuirii și reacția managerială. Mai mulți angajați ai teatrului au semnat documentul, iar Conrad Mericoffer a demisionat în semn de protest față de angajarea lui Alexa.\n\n• **Felix Alexa** a respins acuzațiile de hărțuire și agresiune sexuală formulate anterior împotriva sa și a declarat că va recurge la instanță împotriva persoanelor despre care susține că i-au prejudiciat imaginea. Reacția sa a urmat unei scrisori deschise în care Andrei Șerban, director onorific al TNB, i-a recomandat să întrerupă colaborarea cu teatrul până la clarificarea acuzațiilor.\n\n• **Disputa** privește atât legalitatea angajării și răspunderea conducerii, cât și felul în care sunt tratate acuzațiile anterioare la adresa regizorului. Informațiile disponibile nu indică existența unei concluzii oficiale a controlului sau a unei hotărâri judecătorești în acest caz.",
     "importance_score": 35.0
   },
   {
@@ -7305,6 +7376,182 @@
     "importance_score": 20.0
   },
   {
+    "group_id": "group_d5a5d76c2c",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Studiu: Cafeaua neagră și dopamina. Ce se întâmplă în creier când bem cafea și de ce ajungem să o iubim",
+        "link": "https://stirileprotv.ro/stiri/stiinta/cafeaua-neagra-si-dopamina-ce-se-intampla-in-creier-cand-bem-cafea-si-de-ce-ajungem-sa-o-iubim.html"
+      }
+    ],
+    "published_at": 1794307682,
+    "title_hu": "Studiu: Cafeaua neagră și dopamina. Ce se întâmplă în creier când bem cafea și de ce ajungem să o iubim",
+    "lead_hu": "Cercetătorii au descoperit o cale neașteptată a dopaminei, care face legătura între intestin și creier și ajută la explicarea modului în care ajungem să îndrăgim anumite alimente. Descoperirea ar pute...",
+    "content_hu": "Cercetătorii au descoperit o cale neașteptată a dopaminei, care face legătura între intestin și creier și ajută la explicarea modului în care ajungem să îndrăgim anumite alimente. Descoperirea ar putea ajuta la modificarea poftelor alimentare.",
+    "title_ro": "Studiu: Cafeaua neagră și dopamina. Ce se întâmplă în creier când bem cafea și de ce ajungem să o iubim",
+    "lead_ro": "Cercetătorii au descoperit o cale neașteptată a dopaminei, care face legătura între intestin și creier și ajută la explicarea modului în care ajungem să îndrăgim anumite alimente. Descoperirea ar pute...",
+    "content_ro": "Cercetătorii au descoperit o cale neașteptată a dopaminei, care face legătura între intestin și creier și ajută la explicarea modului în care ajungem să îndrăgim anumite alimente. Descoperirea ar putea ajuta la modificarea poftelor alimentare.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_76e54f6cc6",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "BANCUL ZILEI | Tânărul judecător și colegul mai în vârstă",
+        "link": "https://www.cancan.ro/bancul-zilei-tanarul-judecator-si-colegul-mai-in-varsta-21544883"
+      }
+    ],
+    "published_at": 1794307626,
+    "title_hu": "BANCUL ZILEI | Tânărul judecător și colegul mai în vârstă",
+    "lead_hu": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Tânărul judec...",
+    "content_hu": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Tânărul judecător își întreabă colegul mai în vârstă: -Am un caz cu unul care face țuică clandestin..Cât să-i dau? […]",
+    "title_ro": "BANCUL ZILEI | Tânărul judecător și colegul mai în vârstă",
+    "lead_ro": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Tânărul judec...",
+    "content_ro": "Este marți, iar cel mai bun mod de a petrece această zi este să râzi cu gura până la urechi. Tocmai din acest motiv, CANCAN.RO îți propune un banc care te va face să zâmbești numaidecât. Tânărul judecător își întreabă colegul mai în vârstă: -Am un caz cu unul care face țuică clandestin..Cât să-i dau? […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_612bc1da45",
+    "category": "Bulvár",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "(P) Poți să conduci un Mercedes, să porți Rolex și să fii stoic? Paradoxul lui Marcus Aurelius, împăratul care avea totul, dar spunea că bogăția nu contează",
+        "link": "https://www.cancan.ro/p-poti-sa-conduci-un-mercedes-sa-porti-rolex-si-sa-fii-stoic-paradoxul-lui-marcus-aurelius-imparatul-care-avea-totul-dar-spunea-ca-bogatia-nu-conteaza-21544884"
+      }
+    ],
+    "published_at": 1794307610,
+    "title_hu": "(P) Poți să conduci un Mercedes, să porți Rolex și să fii stoic? Paradoxul lui Marcus Aurelius, împăratul care avea totul, dar spunea că bogăția nu contează",
+    "lead_hu": "Un Mercedes de 150.000 de euro, un Rolex de 30.000 de euro, o vilă cu piscină și vacanțe în destinații exclusiviste. Pentru mulți oameni, acestea sunt simbolurile succesului. Dar poți să ai toate aces...",
+    "content_hu": "Un Mercedes de 150.000 de euro, un Rolex de 30.000 de euro, o vilă cu piscină și vacanțe în destinații exclusiviste. Pentru mulți oameni, acestea sunt simbolurile succesului. Dar poți să ai toate aceste lucruri și, în același timp, să te consideri stoic? Întrebarea pare contradictorie, mai ales că filosofia stoică este asociată astăzi cu […]",
+    "title_ro": "(P) Poți să conduci un Mercedes, să porți Rolex și să fii stoic? Paradoxul lui Marcus Aurelius, împăratul care avea totul, dar spunea că bogăția nu contează",
+    "lead_ro": "Un Mercedes de 150.000 de euro, un Rolex de 30.000 de euro, o vilă cu piscină și vacanțe în destinații exclusiviste. Pentru mulți oameni, acestea sunt simbolurile succesului. Dar poți să ai toate aces...",
+    "content_ro": "Un Mercedes de 150.000 de euro, un Rolex de 30.000 de euro, o vilă cu piscină și vacanțe în destinații exclusiviste. Pentru mulți oameni, acestea sunt simbolurile succesului. Dar poți să ai toate aceste lucruri și, în același timp, să te consideri stoic? Întrebarea pare contradictorie, mai ales că filosofia stoică este asociată astăzi cu […]",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_e71719f4be",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Părul electrizat iarna: de ce apare și ce poți face pentru a scăpa de această problemă",
+        "link": "https://www.g4media.ro/parul-electrizat-iarna-de-ce-apare-si-ce-poti-face-pentru-a-scapa-de-aceasta-problema.html"
+      }
+    ],
+    "published_at": 1794307601,
+    "title_hu": "Părul electrizat iarna: de ce apare și ce poți face pentru a scăpa de această problemă",
+    "lead_hu": "Odată cu venirea sezonului rece, părul începe să se comporte diferit. Firele se ridică, se lipesc de haine sau devin dificil de aranjat, chiar și atunci când folosim aceleași produse de îngrijire ca î...",
+    "content_hu": "Odată cu venirea sezonului rece, părul începe să se comporte diferit. Firele se ridică, se lipesc de haine sau devin dificil de aranjat, chiar și atunci când folosim aceleași produse de îngrijire ca în restul anului. Fenomenul este cunoscut drept electrizare statică și apare mai frecvent iarna, când aerul devine mai uscat, iar contactul cu […] © G4Media.ro.",
+    "title_ro": "Părul electrizat iarna: de ce apare și ce poți face pentru a scăpa de această problemă",
+    "lead_ro": "Odată cu venirea sezonului rece, părul începe să se comporte diferit. Firele se ridică, se lipesc de haine sau devin dificil de aranjat, chiar și atunci când folosim aceleași produse de îngrijire ca î...",
+    "content_ro": "Odată cu venirea sezonului rece, părul începe să se comporte diferit. Firele se ridică, se lipesc de haine sau devin dificil de aranjat, chiar și atunci când folosim aceleași produse de îngrijire ca în restul anului. Fenomenul este cunoscut drept electrizare statică și apare mai frecvent iarna, când aerul devine mai uscat, iar contactul cu […] © G4Media.ro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_03cd32510f",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un spital la care au fost transportați răniți din Bulgaria se află în constrcucție de o jumătate de secol",
+        "link": "https://hotnews.ro/un-spital-la-care-au-fost-transportati-raniti-din-bulgaria-se-afla-in-constrcuctie-de-o-jumatate-de-secol-2399936"
+      }
+    ],
+    "published_at": 1794307600,
+    "title_hu": "Un spital la care au fost transportați răniți din Bulgaria se află în constrcucție de o jumătate de secol",
+    "lead_hu": "Spitalul din Iambol, situat în sud-estul Bulgariei, unde au fost transportate o parte din victimele accidentelor de pe autrostrada Tracia se află în constucție de aproape 50 de ani, scrie publicația D...",
+    "content_hu": "Spitalul din Iambol, situat în sud-estul Bulgariei, unde au fost transportate o parte din victimele accidentelor de pe autrostrada Tracia se află în constucție de aproape 50 de ani, scrie publicația Dnevnik. Potrivit sursei citate, unitatea spitalicească durează încă din 1979. La acest spital au fost duși 13 persoane grav rănite în carambolul de pe …",
+    "title_ro": "Un spital la care au fost transportați răniți din Bulgaria se află în constrcucție de o jumătate de secol",
+    "lead_ro": "Spitalul din Iambol, situat în sud-estul Bulgariei, unde au fost transportate o parte din victimele accidentelor de pe autrostrada Tracia se află în constucție de aproape 50 de ani, scrie publicația D...",
+    "content_ro": "Spitalul din Iambol, situat în sud-estul Bulgariei, unde au fost transportate o parte din victimele accidentelor de pe autrostrada Tracia se află în constucție de aproape 50 de ani, scrie publicația Dnevnik. Potrivit sursei citate, unitatea spitalicească durează încă din 1979. La acest spital au fost duși 13 persoane grav rănite în carambolul de pe …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_2582ba0e9f",
+    "category": "Sport",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Gigi Becali dezvăluie: „El e singurul român în fața căruia mă înclin! I-am zis: «Tu ești și mai bogat și ești și mai deștept»”",
+        "link": "https://www.gsp.ro/fotbal/liga-1/gigi-becali-ion-tiriac-mihai-rotaru-997983.html"
+      }
+    ],
+    "published_at": 1794307565,
+    "title_hu": "Gigi Becali dezvăluie: „El e singurul român în fața căruia mă înclin! I-am zis: «Tu ești și mai bogat și ești și mai deștept»”",
+    "lead_hu": "Întrebat dacă este invidios pe succesul Universității Craiova și al acționarului ei, Mihai Rotaru, Gigi Becali (68 de ani), patronul FCSB, a negat vehement, numind apoi „singurul român la care eu mă p...",
+    "content_hu": "Întrebat dacă este invidios pe succesul Universității Craiova și al acționarului ei, Mihai Rotaru, Gigi Becali (68 de ani), patronul FCSB, a negat vehement, numind apoi „singurul român la care eu mă pot înclina”. „Vă doare când vedeți că defilează Craiova?”, a fost chestionat Gigi Becali. Întrebarea a dat naștere unui discurs amplu, în care patronul FCSB a spus, printre altele, că „singurul român la care mă pot înclina” este Ion Țiriac. ...",
+    "title_ro": "Gigi Becali dezvăluie: „El e singurul român în fața căruia mă înclin! I-am zis: «Tu ești și mai bogat și ești și mai deștept»”",
+    "lead_ro": "Întrebat dacă este invidios pe succesul Universității Craiova și al acționarului ei, Mihai Rotaru, Gigi Becali (68 de ani), patronul FCSB, a negat vehement, numind apoi „singurul român la care eu mă p...",
+    "content_ro": "Întrebat dacă este invidios pe succesul Universității Craiova și al acționarului ei, Mihai Rotaru, Gigi Becali (68 de ani), patronul FCSB, a negat vehement, numind apoi „singurul român la care eu mă pot înclina”. „Vă doare când vedeți că defilează Craiova?”, a fost chestionat Gigi Becali. Întrebarea a dat naștere unui discurs amplu, în care patronul FCSB a spus, printre altele, că „singurul român la care mă pot înclina” este Ion Țiriac. ...",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_4ea9eaa6b3",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Scandal în Parlament după numirea lui Sorin Lazăr la șefia Curții de Conturi. PNL și USR acuză o nouă alianță PSD-AUR: „Au mai capturat încă o instituție a statului”",
+        "link": "https://www.mediafax.ro/politic/scandal-in-parlament-dupa-numirea-lui-sorin-lazar-la-sefia-curtii-de-conturi-pnl-si-usr-acuza-o-noua-alianta-psd-aur-au-mai-capturat-inca-o-institutie-a-statului-23840764"
+      }
+    ],
+    "published_at": 1794307514,
+    "title_hu": "Scandal în Parlament după numirea lui Sorin Lazăr la șefia Curții de Conturi. PNL și USR acuză o nouă alianță PSD-AUR: „Au mai capturat încă o instituție a statului”",
+    "lead_hu": "Parlamentul l-a desemnat marți, 10 noiembrie, pe Sorin Lazăr, fost deputat PSD, să exercite atribuțiile de președinte al Curții de Conturi, până la numirea unui nou titular. Hotărârea a fost adoptată ...",
+    "content_hu": "Parlamentul l-a desemnat marți, 10 noiembrie, pe Sorin Lazăr, fost deputat PSD, să exercite atribuțiile de președinte al Curții de Conturi, până la numirea unui nou titular. Hotărârea a fost adoptată cu 248 de voturi „pentru”, 54 „împotrivă” și 48 de abțineri. Numirea a provocat un schimb dur de replici între parlamentari, după ce PNL și USR au acuzat PSD și AUR că votează împreună pentru împărțirea funcțiilor în instituțiile statului.",
+    "title_ro": "Scandal în Parlament după numirea lui Sorin Lazăr la șefia Curții de Conturi. PNL și USR acuză o nouă alianță PSD-AUR: „Au mai capturat încă o instituție a statului”",
+    "lead_ro": "Parlamentul l-a desemnat marți, 10 noiembrie, pe Sorin Lazăr, fost deputat PSD, să exercite atribuțiile de președinte al Curții de Conturi, până la numirea unui nou titular. Hotărârea a fost adoptată ...",
+    "content_ro": "Parlamentul l-a desemnat marți, 10 noiembrie, pe Sorin Lazăr, fost deputat PSD, să exercite atribuțiile de președinte al Curții de Conturi, până la numirea unui nou titular. Hotărârea a fost adoptată cu 248 de voturi „pentru”, 54 „împotrivă” și 48 de abțineri. Numirea a provocat un schimb dur de replici între parlamentari, după ce PNL și USR au acuzat PSD și AUR că votează împreună pentru împărțirea funcțiilor în instituțiile statului.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_37da312962",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Apa de ploaie de pe acoperişul unui mall, folosită pentru a alimenta zonele acvatice din Parcul Natural Văcăreşti",
+        "link": "https://stirileprotv.ro/apa-de-ploaie-de-pe-acoperisul-unui-mall-folosita-pentru-a-alimenta-zonele-acvatice-din-parcul-natural-vacaresti.html"
+      }
+    ],
+    "published_at": 1794307513,
+    "title_hu": "Apa de ploaie de pe acoperişul unui mall, folosită pentru a alimenta zonele acvatice din Parcul Natural Văcăreşti",
+    "lead_hu": "Apele pluviale de pe acoperişul Sun Plaza vor fi colectate şi reutilizate pentru alimentarea zonelor acvatice din Parcul Natural Văcăreşti, contribuind astfel la conservarea habitatelor....",
+    "content_hu": "Apele pluviale de pe acoperişul Sun Plaza vor fi colectate şi reutilizate pentru alimentarea zonelor acvatice din Parcul Natural Văcăreşti, contribuind astfel la conservarea habitatelor.",
+    "title_ro": "Apa de ploaie de pe acoperişul unui mall, folosită pentru a alimenta zonele acvatice din Parcul Natural Văcăreşti",
+    "lead_ro": "Apele pluviale de pe acoperişul Sun Plaza vor fi colectate şi reutilizate pentru alimentarea zonelor acvatice din Parcul Natural Văcăreşti, contribuind astfel la conservarea habitatelor....",
+    "content_ro": "Apele pluviale de pe acoperişul Sun Plaza vor fi colectate şi reutilizate pentru alimentarea zonelor acvatice din Parcul Natural Văcăreşti, contribuind astfel la conservarea habitatelor.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_bd1536a700",
     "category": "Általános",
     "is_synthesized": false,
@@ -7324,28 +7571,6 @@
     "title_ro": "Polonia a arestat doi ucraineni suspectaţi de spionaj şi sabotaj în beneficiul Rusiei",
     "lead_ro": "Polonia a arestat doi bărbaţi ucraineni suspectaţi de spionaj şi sabotaj la ordinul serviciilor de informaţii din Rusia, a anunţat marţi Agenţia de securitate internă (ABW), relatează agenția de știri...",
     "content_ro": "Polonia a arestat doi bărbaţi ucraineni suspectaţi de spionaj şi sabotaj la ordinul serviciilor de informaţii din Rusia, a anunţat marţi Agenţia de securitate internă (ABW), relatează agenția de știri Reuters, citată de Agerpres. Polonia acuză de multă vreme Rusia şi aliatul său Belarus că desfăşoară o campanie hibridă care include sabotaje, atacuri cibernetice şi […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_47c3fdcda3",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Luca Niculescu, întrebat despre o posibilă remaniere: „Evaluarea Guvernului, a miniştrilor şi a mea este permanentă”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-intrebat-despre-o-posibila-remaniere-evaluarea-guvernului-a-ministrilor-si-a-mea-este-permanenta-4029417"
-      }
-    ],
-    "published_at": 1794307135,
-    "title_hu": "Luca Niculescu, întrebat despre o posibilă remaniere: „Evaluarea Guvernului, a miniştrilor şi a mea este permanentă”",
-    "lead_hu": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea cure...",
-    "content_hu": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea curentă şi la ce poate fi îmbunătăţit.",
-    "title_ro": "Luca Niculescu, întrebat despre o posibilă remaniere: „Evaluarea Guvernului, a miniştrilor şi a mea este permanentă”",
-    "lead_ro": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea cure...",
-    "content_ro": "Prim-ministrul Luca Niculescu a declarat marţi că evaluarea Guvernului, a miniştrilor şi a sa este permanentă, subliniind că în fiecare şedinţă de executiv au loc discuţii privitor la activitatea curentă şi la ce poate fi îmbunătăţit.",
     "importance_score": 0.0
   },
   {
@@ -19471,6 +19696,28 @@
     "importance_score": 0.0
   },
   {
+    "group_id": "group_809c10dd0c",
+    "category": "Politika",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Manda, mesaj pentru miniștri: „S-ar putea ca pe unii să nu-i mai prindă Crăciunul în funcţie”. Care e miza declarațiilor",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/surse-manda-mesaj-pentru-ministri-s-ar-putea-ca-pe-unii-sa-nu-i-mai-prinda-craciunul-in-functie-care-e-miza-declaratiilor-4027463"
+      }
+    ],
+    "published_at": 1794226760,
+    "title_hu": "Manda, mesaj pentru miniștri: „S-ar putea ca pe unii să nu-i mai prindă Crăciunul în funcţie”. Care e miza declarațiilor",
+    "lead_hu": "PSD își impulsionează miniștrii să facă reforme, sub amenințarea remanierii. În ședința de astăzi a social-democraților, Claudiu Manda, secretar general al partidului, le-ar fi spus miniștrilor că dac...",
+    "content_hu": "PSD își impulsionează miniștrii să facă reforme, sub amenințarea remanierii. În ședința de astăzi a social-democraților, Claudiu Manda, secretar general al partidului, le-ar fi spus miniștrilor că dacă nu vor atinge țintele propuse, unii dintre aceștia ar putea fi remaniați până la Crăciun, potrivit surselor Digi24. PSD își propune să facă două reforme pe care le-a mai încercat și în alte guverne: reforma administrativă și cea a instituțiilor de stat.",
+    "title_ro": "Manda, mesaj pentru miniștri: „S-ar putea ca pe unii să nu-i mai prindă Crăciunul în funcţie”. Care e miza declarațiilor",
+    "lead_ro": "PSD își impulsionează miniștrii să facă reforme, sub amenințarea remanierii. În ședința de astăzi a social-democraților, Claudiu Manda, secretar general al partidului, le-ar fi spus miniștrilor că dac...",
+    "content_ro": "PSD își impulsionează miniștrii să facă reforme, sub amenințarea remanierii. În ședința de astăzi a social-democraților, Claudiu Manda, secretar general al partidului, le-ar fi spus miniștrilor că dacă nu vor atinge țintele propuse, unii dintre aceștia ar putea fi remaniați până la Crăciun, potrivit surselor Digi24. PSD își propune să facă două reforme pe care le-a mai încercat și în alte guverne: reforma administrativă și cea a instituțiilor de stat.",
+    "importance_score": 0.0
+  },
+  {
     "group_id": "group_432fa9aaba",
     "category": "Általános",
     "is_synthesized": false,
@@ -21385,182 +21632,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_815081627d",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Oana Tomoiagă, în lacrimi la Asia Express. Un localnic a emoționat-o în săptămâna finalei",
-        "link": "https://www.cancan.ro/oana-tomoiaga-in-lacrimi-la-asia-express-un-localnic-a-emotionat-o-in-saptamana-finalei-21544202"
-      }
-    ],
-    "published_at": 1794221484,
-    "title_hu": "Oana Tomoiagă, în lacrimi la Asia Express. Un localnic a emoționat-o în săptămâna finalei",
-    "lead_hu": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei…",
-    "content_hu": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei cazări. Cu toate acestea, un localnic le-a ieșit în cale și au rămas impresionate de bunătatea lui. Cele două s-au emoționat până […]",
-    "title_ro": "Oana Tomoiagă, în lacrimi la Asia Express. Un localnic a emoționat-o în săptămâna finalei",
-    "lead_ro": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei…",
-    "content_ro": "Mirela Vaida și Oana Tomoiagă au ajuns în semifinală. Acestea au demonstrat cât de puternice sunt. Numai că în ediția de duminică, 8 noiembrie, cele două s-au confruntat cu dificultăți în găsirea unei cazări. Cu toate acestea, un localnic le-a ieșit în cale și au rămas impresionate de bunătatea lui. Cele două s-au emoționat până […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_1a2525fd7f",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Putem călători în viitor, dar ne-am putea întoarce vreodată în trecut? Un fizician a găsit un răspuns surprinzător",
-        "link": "https://www.mediafax.ro/life-inedit/putem-calatori-in-viitor-dar-ne-am-putea-intoarce-vreodata-in-trecut-un-fizician-a-gasit-un-raspuns-surprinzator-23840151"
-      }
-    ],
-    "published_at": 1794221196,
-    "title_hu": "Putem călători în viitor, dar ne-am putea întoarce vreodată în trecut? Un fizician a găsit un răspuns surprinzător",
-    "lead_hu": "Călătoriile în timp ar putea avea o limită pe care nici măcar cele mai avansate tehnologii nu o pot depăși. Un fizician chinez a formulat o demonstrație matematică ce pune sub semnul întrebării posibi…",
-    "content_hu": "Călătoriile în timp ar putea avea o limită pe care nici măcar cele mai avansate tehnologii nu o pot depăși. Un fizician chinez a formulat o demonstrație matematică ce pune sub semnul întrebării posibilitatea întoarcerii în trecut și identifică situațiile în care aceasta ar putea rămâne teoretic posibilă.",
-    "title_ro": "Putem călători în viitor, dar ne-am putea întoarce vreodată în trecut? Un fizician a găsit un răspuns surprinzător",
-    "lead_ro": "Călătoriile în timp ar putea avea o limită pe care nici măcar cele mai avansate tehnologii nu o pot depăși. Un fizician chinez a formulat o demonstrație matematică ce pune sub semnul întrebării posibi…",
-    "content_ro": "Călătoriile în timp ar putea avea o limită pe care nici măcar cele mai avansate tehnologii nu o pot depăși. Un fizician chinez a formulat o demonstrație matematică ce pune sub semnul întrebării posibilitatea întoarcerii în trecut și identifică situațiile în care aceasta ar putea rămâne teoretic posibilă.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_5e01e56b4d",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Cartea secretă a unui împărat roman, pierdută timp de secole! Cum au supraviețuit „Meditațiile” lui Marcus Aurelius și cine le-a salvat de la uitare (P)",
-        "link": "https://www.g4media.ro/cartea-secreta-a-unui-imparat-roman-pierduta-timp-de-secole-cum-au-supravietuit-meditatiile-lui-marcus-aurelius-si-cine-le-a-salvat-de-la-uitare-p.html"
-      }
-    ],
-    "published_at": 1794221191,
-    "title_hu": "Cartea secretă a unui împărat roman, pierdută timp de secole! Cum au supraviețuit „Meditațiile” lui Marcus Aurelius și cine le-a salvat de la uitare (P)",
-    "lead_hu": "Un împărat roman își așterne gândurile în limba greacă, în timp ce conduce războaie la frontierele imperiului. Nu scrie pentru glorie și, cel mai probabil, nici nu intenționează să publice ceea ce not…",
-    "content_hu": "Un împărat roman își așterne gândurile în limba greacă, în timp ce conduce războaie la frontierele imperiului. Nu scrie pentru glorie și, cel mai probabil, nici nu intenționează să publice ceea ce notează. După moartea sa, manuscrisul original dispare, iar vreme de secole soarta textului rămâne învăluită în mister. Abia în Evul Mediu apar indicii […] © G4Media.ro.",
-    "title_ro": "Cartea secretă a unui împărat roman, pierdută timp de secole! Cum au supraviețuit „Meditațiile” lui Marcus Aurelius și cine le-a salvat de la uitare (P)",
-    "lead_ro": "Un împărat roman își așterne gândurile în limba greacă, în timp ce conduce războaie la frontierele imperiului. Nu scrie pentru glorie și, cel mai probabil, nici nu intenționează să publice ceea ce not…",
-    "content_ro": "Un împărat roman își așterne gândurile în limba greacă, în timp ce conduce războaie la frontierele imperiului. Nu scrie pentru glorie și, cel mai probabil, nici nu intenționează să publice ceea ce notează. După moartea sa, manuscrisul original dispare, iar vreme de secole soarta textului rămâne învăluită în mister. Abia în Evul Mediu apar indicii […] © G4Media.ro.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_6112d6e38e",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Germania a oferit Ucrainei un ajutor de peste 100 de miliarde de euro de la începutul războiului. Suma acoperă și fondurile alocate pentru anii următori",
-        "link": "https://www.mediafax.ro/stirile-zilei/germania-a-oferit-ucrainei-un-ajutor-de-peste-100-de-miliarde-de-euro-de-la-inceputul-razboiului-suma-acopera-si-fondurile-alocate-pentru-anii-urmatori-23840160"
-      }
-    ],
-    "published_at": 1794221178,
-    "title_hu": "Germania a oferit Ucrainei un ajutor de peste 100 de miliarde de euro de la începutul războiului. Suma acoperă și fondurile alocate pentru anii următori",
-    "lead_hu": "Guvernului Federal al Germaniei a anunțat că, de la începerea războiului dintre Rusia și Ucraina și până în prezent, a alocat un ajutor de peste 100 de miliarde de euro pentru Ucraina. Această sumă in…",
-    "content_hu": "Guvernului Federal al Germaniei a anunțat că, de la începerea războiului dintre Rusia și Ucraina și până în prezent, a alocat un ajutor de peste 100 de miliarde de euro pentru Ucraina. Această sumă include și fonduri alocate pentru următorii ani.",
-    "title_ro": "Germania a oferit Ucrainei un ajutor de peste 100 de miliarde de euro de la începutul războiului. Suma acoperă și fondurile alocate pentru anii următori",
-    "lead_ro": "Guvernului Federal al Germaniei a anunțat că, de la începerea războiului dintre Rusia și Ucraina și până în prezent, a alocat un ajutor de peste 100 de miliarde de euro pentru Ucraina. Această sumă in…",
-    "content_ro": "Guvernului Federal al Germaniei a anunțat că, de la începerea războiului dintre Rusia și Ucraina și până în prezent, a alocat un ajutor de peste 100 de miliarde de euro pentru Ucraina. Această sumă include și fonduri alocate pentru următorii ani.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_d896b78ece",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Centrala de la Iernut, de 430 MW, ar putea începe producția comercială la jumătatea anului 2027. Anunțul Romgaz",
-        "link": "https://stirileprotv.ro/stiri/actualitate/centrala-de-la-iernut-de-430-mw-ar-putea-incepe-productia-comerciala-la-jumatatea-anului-2027-anuntul-romgaz.html"
-      }
-    ],
-    "published_at": 1794221172,
-    "title_hu": "Centrala de la Iernut, de 430 MW, ar putea începe producția comercială la jumătatea anului 2027. Anunțul Romgaz",
-    "lead_hu": "Centrala de la Iernut ar putea să fie sincronizată la Sistemul Energetic Naţional în primul semestru din 2027 şi să intre în operare comercială la jumătatea anului viitor, a declarat, luni, Aristotel …",
-    "content_hu": "Centrala de la Iernut ar putea să fie sincronizată la Sistemul Energetic Naţional în primul semestru din 2027 şi să intre în operare comercială la jumătatea anului viitor, a declarat, luni, Aristotel Jude, director general adjunct la Romgaz.",
-    "title_ro": "Centrala de la Iernut, de 430 MW, ar putea începe producția comercială la jumătatea anului 2027. Anunțul Romgaz",
-    "lead_ro": "Centrala de la Iernut ar putea să fie sincronizată la Sistemul Energetic Naţional în primul semestru din 2027 şi să intre în operare comercială la jumătatea anului viitor, a declarat, luni, Aristotel …",
-    "content_ro": "Centrala de la Iernut ar putea să fie sincronizată la Sistemul Energetic Naţional în primul semestru din 2027 şi să intre în operare comercială la jumătatea anului viitor, a declarat, luni, Aristotel Jude, director general adjunct la Romgaz.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_1a24ae84e8",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "„Godzilla Minus Zero” cucerește box-office-ul mondial. Încasări de 63 de milioane de dolari în primul weekend de la lansare",
-        "link": "https://stirileprotv.ro/godzilla-minus-zero-cucereste-box-office-ul-mondial-incasari-de-63-de-milioane-de-dolari-in-primul-weekend-de-la-lansare.html"
-      }
-    ],
-    "published_at": 1794221126,
-    "title_hu": "„Godzilla Minus Zero” cucerește box-office-ul mondial. Încasări de 63 de milioane de dolari în primul weekend de la lansare",
-    "lead_hu": "Filmul japonez „Godzilla Minus Zero” a debutat pe primul loc în box-office-ul nord-american, cu încasări de 31,6 milioane de dolari în Statele Unite și Canada.",
-    "content_hu": "Filmul japonez „Godzilla Minus Zero” a debutat pe primul loc în box-office-ul nord-american, cu încasări de 31,6 milioane de dolari în Statele Unite și Canada.",
-    "title_ro": "„Godzilla Minus Zero” cucerește box-office-ul mondial. Încasări de 63 de milioane de dolari în primul weekend de la lansare",
-    "lead_ro": "Filmul japonez „Godzilla Minus Zero” a debutat pe primul loc în box-office-ul nord-american, cu încasări de 31,6 milioane de dolari în Statele Unite și Canada.",
-    "content_ro": "Filmul japonez „Godzilla Minus Zero” a debutat pe primul loc în box-office-ul nord-american, cu încasări de 31,6 milioane de dolari în Statele Unite și Canada.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_08c6dc08a4",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Magda Linette, campioană la Chennai, mesaj după atentatul din Cracovia: „Dați persoanei de lângă voi o îmbrățișare astăzi”",
-        "link": "https://www.gsp.ro/sporturi/tenis/magda-linette-campioana-la-chennai-mesaj-dupa-atentatul-din-cracovia-dati-persoanei-de-langa-voi-o-imbratisare-astazi-997642.html"
-      }
-    ],
-    "published_at": 1794221110,
-    "title_hu": "Magda Linette, campioană la Chennai, mesaj după atentatul din Cracovia: „Dați persoanei de lângă voi o îmbrățișare astăzi”",
-    "lead_hu": "Magda Linette (34 de ani, locul 68 mondial) a cucerit titlul în turneul WTA 250 de la Chennai, 5-7, 6-1, 6-4 cu Janice Tjen (24 de ani, numărul 75 mondial), iar la festivitate a amintit de atentatul d…",
-    "content_hu": "Magda Linette (34 de ani, locul 68 mondial) a cucerit titlul în turneul WTA 250 de la Chennai, 5-7, 6-1, 6-4 cu Janice Tjen (24 de ani, numărul 75 mondial), iar la festivitate a amintit de atentatul din Polonia, transmițând un mesaj emoționant pentru compatrioții ei. Al patrulea titlu WTA a venit pentru Magda Linette la finalul sezonului 2026, în turneul de categorie WTA 250 de la Chennai. ...",
-    "title_ro": "Magda Linette, campioană la Chennai, mesaj după atentatul din Cracovia: „Dați persoanei de lângă voi o îmbrățișare astăzi”",
-    "lead_ro": "Magda Linette (34 de ani, locul 68 mondial) a cucerit titlul în turneul WTA 250 de la Chennai, 5-7, 6-1, 6-4 cu Janice Tjen (24 de ani, numărul 75 mondial), iar la festivitate a amintit de atentatul d…",
-    "content_ro": "Magda Linette (34 de ani, locul 68 mondial) a cucerit titlul în turneul WTA 250 de la Chennai, 5-7, 6-1, 6-4 cu Janice Tjen (24 de ani, numărul 75 mondial), iar la festivitate a amintit de atentatul din Polonia, transmițând un mesaj emoționant pentru compatrioții ei. Al patrulea titlu WTA a venit pentru Magda Linette la finalul sezonului 2026, în turneul de categorie WTA 250 de la Chennai. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_363abd892d",
-    "category": "Politika",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Ennyit kínál a kormány a pénzünkért",
-        "link": "https://maszol.ro/gazdasag/Ennyit-kinal-a-kormany-a-penzunkert"
-      }
-    ],
-    "published_at": 1794221100,
-    "title_hu": "Ennyit kínál a kormány a pénzünkért",
-    "lead_hu": "Ismét jegyezhetők hétfőtől a Tezaur államkötvények - közölte a Pénzügyminisztérium.",
-    "content_hu": "Ismét jegyezhetők hétfőtől a Tezaur államkötvények - közölte a Pénzügyminisztérium.",
-    "title_ro": "Ennyit kínál a kormány a pénzünkért",
-    "lead_ro": "Ismét jegyezhetők hétfőtől a Tezaur államkötvények - közölte a Pénzügyminisztérium.",
-    "content_ro": "Ismét jegyezhetők hétfőtől a Tezaur államkötvények - közölte a Pénzügyminisztérium.",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_8e2982e683",
     "category": "Általános",
     "is_synthesized": false,
@@ -21693,69 +21764,6 @@
     "lead_ro": "INS a raportat 13.143 de născuți-vii și 17.834 de decese în România, în septembrie 2026, iar sporul natural a rămas negativ. Datele noi oferă și detalii despre decesele pe sexe și grupele de vârstă cu cele mai puține cazuri.",
     "content_ro": "• **În septembrie 2026**, în România au fost înregistrate 13.143 de nașteri și 17.834 de decese. Numărul persoanelor decedate a fost de aproximativ 1,4 ori mai mare, iar diferența a ajuns la 4.691; deficitul a fost mai redus decât în septembrie 2025, când s-au consemnat 4.863 de decese peste numărul nașterilor.\n\n• **Față de luna precedentă**, nașterile au scăzut cu 100, adică 0,8%, iar decesele s-au redus cu 1.041, echivalentul a 5,5%. Scăderea deceselor a fost de 5,1% în rândul bărbaților și de 5,9% în cazul femeilor.\n\n• **Repartizarea deceselor pe sexe** a inclus 9.407 bărbați și 8.427 de femei. Comparativ cu aceeași lună din anul anterior, au fost cu 330 mai puține decese, o diminuare de 1,8%; în rândul copiilor sub un an s-au înregistrat 49 de cazuri, cu 15 mai puține decât în septembrie 2025.\n\n• **Pe grupe de vârstă**, cele mai multe decese au fost înregistrate la persoanele de cel puțin 80 de ani: 7.272 de cazuri, reprezentând 40,8% din total. Pentru grupa 70–79 de ani au fost raportate 5.008 decese, iar pentru cea de 60–69 de ani, 2.837. Cele mai mici valori au fost la persoanele de 5–19 ani (42), 0–4 ani (67) și 20–29 de ani (89).\n\n• **Celelalte date pentru septembrie** indică 11.263 de căsătorii și 2.391 de divorțuri. În mediul urban au fost consemnate 9.098 de decese, dintre care 4.708 la bărbați și 4.390 la femei; în mediul rural, totalul a fost de 8.736, cu 4.699 de bărbați și 4.037 de femei.",
     "importance_score": 45.0
-  },
-  {
-    "group_id": "group_e6944ac959",
-    "fingerprint": "77091703049ba9a35d034e6382fc8aad",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Incredibil. Primarul unei comunități din Peru a fost decis prin aruncarea unei monede",
-        "link": "https://www.mediafax.ro/politic/incredibil-primarul-unei-comunitati-din-peru-a-fost-decis-prin-aruncarea-unei-monede-23840560"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Primar ales cu banul, după o egalitate perfectă la vot. „Dumnezeu a decis acest lucru”",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/primar-ales-cu-banul-dupa-o-egalitate-perfecta-la-2570230.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un primar din Peru a fost ales prin aruncarea unei monede, după ce doi candidați au obținut același număr de voturi",
-        "link": "https://stirileprotv.ro/stiri/international/un-primar-din-peru-a-fost-ales-prin-aruncarea-unei-monede-dupa-ce-doi-candidati-au-obtinut-acelasi-numar-de-voturi.html"
-      }
-    ],
-    "published_at": 1794297479,
-    "title_hu": "Pénzfeldobással dőlt el a perui Conima polgármester-választása",
-    "lead_hu": "Conimában Rubén Quispe Capajaña és Salomino Mamani Quispe egyaránt 671 szavazatot kapott, ezért a döntetlent nyilvános sorsolással oldották fel. Az egysolosos érmefeldobás Quispe Capajañának kedvezett, aki győzelme után Istennek tulajdonította a váratlan fordulatot.",
-    "content_hu": "• **Október 4-én** tartották a polgármester-választást a perui Conimában. A Somos Perú jelöltje, Rubén Quispe Capajaña és a País Para Todos színeiben induló Salomino Mamani Quispe egyaránt 671 voksot szerzett; ez a hivatalos adatok szerint fejenként a szavazatok 27,7 százalékát jelentette.\n\n• **Az újraszámlálások sem választották el a jelölteket:** a voksokat több alkalommal ellenőrizték, de az eredmény változatlanul döntetlen maradt. A helyi előírások ilyen esetben sorsolással rendezik a versenyt, így további számlálás helyett ezt az eljárást alkalmazták.\n\n• **A nyilvános sorsolást a Huancané-i Különleges Választási Bíróság bonyolította le.** Egy választási tisztviselő egysolosos érmét dobott fel, és a pénzfeldobás Quispe Capajañát hozta ki győztesnek.\n\n• **A perui választási hatóságoknak volt már hasonló esetük:** a beszámoló a 2010-es, 2014-es és 2022-es választásokon is említ sorsolásos döntést. A 2026-os közlés az érmefeldobást a szavazategyenlőség feloldására szolgáló bevett eljárásként mutatta be.\n\n• **Quispe Capajaña a győzelem után háláját fejezte ki,** és azt mondta, mindig szeretett volna nyerni, a végső döntést pedig Istennek tulajdonította. Conima polgármesteri tisztségéről így nem a szavazatok aránya, hanem a döntetlenre előírt sorsolás határozott.",
-    "title_ro": "Primăria din Conima, decisă prin aruncarea unei monede",
-    "lead_ro": "În localitatea peruană Conima, Rubén Quispe Capajaña și Salomino Mamani Quispe au primit câte 671 de voturi, astfel că egalitatea a fost soluționată prin tragere la sorți publică. Aruncarea unei monede de un sol i-a adus victoria lui Quispe Capajaña, care a atribuit rezultatul neașteptat lui Dumnezeu.",
-    "content_ro": "• **Pe 4 octombrie** au avut loc alegerile pentru primăria din Conima, Peru. Rubén Quispe Capajaña, candidat al formațiunii Somos Perú, și Salomino Mamani Quispe, reprezentant al País Para Todos, au obținut fiecare 671 de voturi; rezultatele oficiale le-au atribuit câte 27,7% din voturi.\n\n• **Verificările repetate nu au schimbat egalitatea:** buletinele au fost numărate din nou de mai multe ori, însă nu a rezultat un câștigător prin numărare. Regulile locale prevăd tragerea la sorți în astfel de situații, procedură folosită în locul unei noi încercări de departajare prin numărare.\n\n• **Juriul Electoral Special din Huancané a organizat o tragere la sorți în public.** Un reprezentant al autorităților electorale a aruncat o monedă de un sol, iar rezultatul l-a favorizat pe Quispe Capajaña.\n\n• **Peru a mai recurs la soluții de acest fel:** relatarea menționează cazuri similare la alegerile din 2010, 2014 și 2022. Într-o informare din 2026, aruncarea unei monede a fost prezentată drept metoda uzuală pentru soluționarea egalității de voturi.\n\n• **După anunțarea victoriei, Quispe Capajaña și-a exprimat recunoștința.** El a spus că și-a dorit mereu să câștige și a pus deznodământul pe seama lui Dumnezeu. Astfel, desemnarea viitorului primar nu a depins de diferența dintre voturi, ci de procedura de tragere la sorți aplicabilă la egalitate.",
-    "importance_score": 45.0
-  },
-  {
-    "group_id": "group_18c40e7a9b",
-    "fingerprint": "044a055c72e63c8e7541e9db8e6c29be",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Descoperire medicală pentru boala rară de care suferă Céline Dion / Un tratament experimental i-a ajutat pe pacienți să meargă din nou și să se întoarcă la muncă",
-        "link": "https://www.mediafax.ro/sanatate/descoperire-medicala-pentru-boala-rara-de-care-sufera-celine-dion-un-tratament-experimental-i-a-ajutat-pe-pacienti-sa-mearga-din-nou-si-sa-se-intoarca-la-munca-23840651"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Descoperire medicală majoră pentru sindromul de care suferă Celine Dion",
-        "link": "https://hotnews.ro/descoperire-medicala-majora-pentru-sindromul-de-care-sufera-celine-dion-2399690"
-      }
-    ],
-    "published_at": 1794300882,
-    "title_hu": "CAR-T-kezelést vizsgáltak a merev ember szindrómában",
-    "lead_hu": "Egy 26 felnőtt bevonásával végzett amerikai klinikai vizsgálatban a CAR-T-sejtes kezelés után több résztvevő mozgása és mindennapi tevékenységei javultak. Az eredményeket 2026. november 9-én közölték; a terápia kísérleti, és nem jelent bizonyított gyógymódot.",
-    "content_hu": "• **A 2026. november 9-én közzétett vizsgálatban** 26, merev ember szindrómával diagnosztizált felnőtt vett részt. A kutatást amerikai neurológusok végezték a Mayo Clinic szakembereivel együttműködve, eredményeik a JAMA Neurology folyóiratban jelentek meg.\n\n• **A résztvevők korábban nem reagáltak kellőképpen az immunológiai kezelésekre.** Egyetlen CAR-T-sejtes adag beadását követően a kutatók a mozgásképesség és a hétköznapi feladatok ellátásának javulását tapasztalták. A beszámoló szerint néhány beteg ismét munkába állt, illetve visszatért korábbi szabadidős elfoglaltságaihoz; az eredmény nem jelenti azt, hogy minden résztvevőnél azonos változás történt.\n\n• **A merev ember szindróma ritka, autoimmun eredetű idegrendszeri betegség.** A központi idegrendszert érintő állapot fokozódó izommerevséggel, fájdalmas görcsökkel és járási nehézségekkel járhat. Súlyos esetben az érintetteknek az alapvető mindennapi teendőkhöz is segítségre lehet szükségük.\n\n• **A tüneteket külső ingerek is kiválthatják:** a forrás szerint váratlan hang, érintés vagy erős érzelem is görcsöt idézhet elő. A betegség megjelenése és súlyossága egyénenként eltérő, és jelenleg nincs olyan kezelés, amely igazoltan véglegesen megszüntetné.\n\n• **A CAR-T-terápia egyelőre vizsgálati kezelés.** A rendelkezésre álló gyógyszerek mérsékelhetik a panaszokat és befolyásolhatják az immunfolyamatokat, de nem minden esetben állítják meg a betegség előrehaladását. Céline Dion 2022 decemberében hozta nyilvánosságra, hogy ebben a szindrómában szenved; elmondása szerint a kórkép az éneklésére és mindennapi életére is hatással volt.",
-    "title_ro": "Terapia CAR-T, evaluată într-un studiu pentru sindromul persoanei rigide",
-    "lead_ro": "Un studiu clinic american, la care au participat 26 de adulți, a constatat îmbunătățiri ale mobilității și ale activităților cotidiene după administrarea terapiei CAR-T. Rezultatele au apărut la 9 noiembrie 2026, însă tratamentul este experimental și nu reprezintă un remediu demonstrat.",
-    "content_ro": "• **Studiul publicat la 9 noiembrie 2026** a inclus 26 de adulți diagnosticați cu sindromul persoanei rigide. Cercetarea a fost realizată de neurologi din Statele Unite împreună cu specialiști de la Clinica Mayo, iar rezultatele au fost prezentate în revista JAMA Neurology.\n\n• **Participanții nu obținuseră un răspuns suficient la terapiile imunologice anterioare.** După o singură administrare de celule CAR-T, echipa a observat progrese în capacitatea de mișcare și în îndeplinirea activităților zilnice. Potrivit relatării, unii pacienți au revenit la serviciu și la hobby-uri; datele nu arată că evoluția a fost aceeași pentru fiecare participant.\n\n• **Sindromul persoanei rigide este o afecțiune neurologică autoimună rară.** Boala afectează sistemul nervos central și poate provoca rigidizarea treptată a mușchilor, spasme dureroase și probleme de deplasare. În formele severe, persoanele afectate pot avea nevoie de sprijin chiar și pentru activități de bază.\n\n• **Spasmele pot apărea în urma unor stimuli**, între care zgomotele neașteptate, atingerea sau emoțiile intense, conform informațiilor publicate. Manifestările diferă de la un pacient la altul, iar în prezent nu există un tratament care să vindece definitiv această afecțiune.\n\n• **Terapia CAR-T se află încă în faza de investigare.** Medicamentele disponibile pot reduce simptomele și pot influența reacția imună, dar nu opresc întotdeauna progresia bolii. Céline Dion și-a făcut public diagnosticul în decembrie 2022 și a spus că afecțiunea îi influențează vocea și desfășurarea activităților obișnuite.",
-    "importance_score": 35.0
   },
   {
     "group_id": "group_fcfe0cd3d7",
@@ -21915,35 +21923,6 @@
     "title_ro": "Sondaj CURS: mulți vârstnici din România se simt singuri și au nevoie de sprijin",
     "lead_ro": "Datele unui sondaj CURS privind persoanele de peste 60 de ani indică dificultăți legate de singurătate, activitățile cotidiene și accesul la servicii. Rezultatele au fost prezentate la București, pe 9 noiembrie, în cadrul unei conferințe despre nevoile de îngrijire ale vârstnicilor.",
     "content_ro": "• **Sondajul CURS prezentat pe 9 noiembrie** a analizat situația românilor de peste 60 de ani. Rezultatele au fost făcute publice la București, în cadrul conferinței ECHO dedicate îmbătrânirii active și nevoilor de îngrijire; relatarea Mediafax menționează 1.500 de persoane intervievate.\n\n• **61% dintre respondenți spun că se simt singuri**, iar 29% locuiesc fără alte persoane. Potrivit datelor citate de Adevărul, 53% au nevoie frecvent de ajutor pentru activitățile zilnice sau depind de altcineva pentru a le îndeplini.\n\n• **13% afirmă că nu au pe cine să cheme în ajutor** atunci când întâmpină probleme. Raportat la populația de aproximativ 4,7 milioane de persoane de peste 60 de ani, procentul corespunde unui număr de circa 600.000. Sprijinul vine cel mai des de la partener sau soț și de la copii; numai 5% indică personalul medical ori serviciile sociale drept sursă de ajutor.\n\n• **Unele activități de îngrijire personală și gospodărie sunt dificile:** 32% nu își pot administra singuri medicamentele, 31% au nevoie de sprijin pentru igiena personală, iar 29% pentru pregătirea hranei. O parte dintre respondenți vorbesc rar cu familia, ceea ce poate limita ajutorul disponibil în viața de zi cu zi.\n\n• **Doar 1% au beneficiat într-un an de servicii medicale de specialitate**, deși acestea pot fi accesibile persoanelor de peste 60 de ani în anumite condiții. Conform relatării Mediafax, în patru județe niciun vârstnic nu a apelat la aceste servicii în perioada respectivă. Datele prezentate indică obstacole atât în informarea seniorilor, cât și în accesarea sprijinului existent.",
-    "importance_score": 20.0
-  },
-  {
-    "group_id": "group_c272849b82",
-    "fingerprint": "7d8b3ada131e2d72af5cbb8a9f86b997",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Premieră în Marea Britanie. Marina Regală va desfășura o flotă de ambarcațiuni autonome pentru a combate interferența Rusiei în apele britanice",
-        "link": "https://www.mediafax.ro/stirile-zilei/premiera-in-marea-britanie-marina-regala-va-desfasura-o-flota-de-ambarcatiuni-autonome-pentru-a-combate-interferenta-rusiei-in-apele-britanice-23840122"
-      },
-      {
-        "source": "G4Media",
-        "title": "Marina Regală britanică va desfășura o flotă de drone navale autonome pentru a combate interferența Rusiei în apele britanice",
-        "link": "https://www.g4media.ro/marina-regala-britanica-va-desfasura-o-flota-de-drone-navale-autonome-pentru-a-combate-interferenta-rusiei-in-apele-britanice.html"
-      }
-    ],
-    "published_at": 1794221531,
-    "title_hu": "Autonóm járőrhajókat vet be a brit haditengerészet",
-    "lead_hu": "A brit Királyi Haditengerészet új, autonóm felszíni járművekből álló egységet hozott létre, amely az Egyesült Királyság vizein jelentkező orosz tevékenység ellensúlyozásában kaphat szerepet. A Portsmouthban csütörtökön hivatalosan elindított kezdeményezés a hibrid haditengerészeti képességek fejlesztésének része.",
-    "content_hu": "• **A brit Királyi Haditengerészet autonóm hajókból álló egysége** a brit vizeken folytatott orosz tevékenység megfigyelését és az arra adott válasz támogatását szolgálja. Steve Moorhouse altengernagy szerint a járművek bevetése a lehető leghamarabb megkezdődhet, így akár az év vége előtt is sor kerülhet rá.\n\n• **Az egység folyamatos járőrözésre készül:** a flottillát két váltásra osztották, hogy a feladatellátás megszakítás nélkül folyhasson. A megközelítés a hagyományos hadihajók és az autonóm rendszerek együttes alkalmazására épít; a kisebb járművek használatával bizonyos feladatokhoz nem kell fregattot vagy más nagyobb hajót bevetni.\n\n• **A járművek 8,4 méter hosszúak**, végsebességük eléri az 55 csomót, és egy küldetés során akár 30 napot is a tengeren tölthetnek. Ezek a tulajdonságok hosszabb megfigyelési és járőrözési feladatokra is alkalmassá teszik őket, miközben a haditengerészet nagyobb egységei más műveletekre összpontosíthatnak.\n\n• **A flottillát csütörtökön, Portsmouthban indították el hivatalosan.** Létrehozása része annak a négyéves fejlesztési programnak, amelyre 1,5 milliárd fontot különítettek el, és amely a brit haderő autonóm technológiáinak bővítését célozza.\n\n• **A brit védelmi tárca az új egységet a hadviselés változásaira adott válaszként mutatta be.** Wes Streeting védelmi miniszter az innováció és a korszerű autonóm eszközök szerepét hangsúlyozta, a fejlesztést pedig a brit és a NATO-szövetséges partok védelméhez kapcsolta.",
-    "title_ro": "Marina Regală britanică va folosi ambarcațiuni autonome de patrulare",
-    "lead_ro": "Marina Regală a Marii Britanii a creat o unitate de ambarcațiuni autonome, care va contribui la supravegherea apelor britanice și la contracararea activităților rusești. Escadrila a fost lansată oficial joi, la Portsmouth, în cadrul dezvoltării unei forțe navale hibride.",
-    "content_ro": "• **Noua unitate autonomă a Marinei Regale britanice** este destinată să sprijine supravegherea apelor Regatului Unit și reacția la activitățile Rusiei în zonă. Viceamiralul Steve Moorhouse a declarat că misiunile ar putea începe cât mai curând, ceea ce lasă deschisă posibilitatea unei desfășurări înainte de sfârșitul anului.\n\n• **Escadrila va organiza patrule fără întrerupere:** flotila a fost împărțită în două echipe, pentru ca activitatea să poată continua permanent. Planul combină utilizarea navelor convenționale cu sisteme autonome, care pot îndeplini anumite sarcini fără mobilizarea unei fregate sau a unei alte nave de dimensiuni mari.\n\n• **Ambarcațiunile măsoară 8,4 metri**, pot atinge o viteză maximă de 55 de noduri și sunt capabile să rămână pe mare până la 30 de zile într-o misiune. Aceste caracteristici le permit să participe la operațiuni de patrulare și supraveghere de durată, în timp ce navele mai mari pot fi folosite pentru alte obiective.\n\n• **Lansarea oficială a flotilei a avut loc joi, la Portsmouth.** Înființarea ei face parte dintr-un program de patru ani pentru dezvoltarea unei marine hibride, pentru care au fost alocate 1,5 miliarde de lire sterline. Inițiativa include extinderea utilizării tehnologiilor autonome în cadrul forțelor navale britanice.\n\n• **Ministerul britanic al Apărării a prezentat noua unitate drept un răspuns la schimbările din războiul modern.** Ministrul apărării, Wes Streeting, a evidențiat importanța inovării rapide și a echipamentelor autonome, menționând protejarea coastelor britanice și a celor ale aliaților din NATO ca obiective ale investiției.",
     "importance_score": 20.0
   },
   {
