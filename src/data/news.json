@@ -370,7 +370,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 23,
+    "sources_count": 24,
     "sources": [
       {
         "source": "ProTV Stiri",
@@ -486,6 +486,11 @@
         "source": "Digi24",
         "title": "Ursula von der Leyen vine în România. Șefa CE se va întâlni cu președintele Dan și premierul Niculescu",
         "link": "https://www.digi24.ro/stiri/externe/ue/ursula-von-der-leyen-vine-in-romania-sefa-ce-se-va-intalni-cu-presedintele-dan-si-premierul-niculescu-4026671"
+      },
+      {
+        "source": "Mediafax",
+        "title": "România ar putea încasa 1,2 miliarde de euro prin SAFE până la sfârșitul anului. Anunțul lui Alexandru Nazare",
+        "link": "https://www.mediafax.ro/politic/romania-ar-putea-incasa-12-miliarde-de-euro-prin-safe-pana-la-sfarsitul-anului-anuntul-lui-alexandru-nazare-23840631"
       }
     ],
     "published_at": 1794289009,
@@ -495,7 +500,7 @@
     "title_ro": "Sprijin european de 60 de milioane de euro pentru securitatea Mării Negre",
     "lead_ro": "În timpul vizitei la București din 9 noiembrie, Ursula von der Leyen a anunțat 50 de milioane de euro pentru centrul maritim de securitate româno-bulgar și încă 10 milioane pentru operațiunile românești de căutare și salvare. Discuțiile cu liderii români au vizat securitatea regională, protejarea navigației și prioritățile europene.",
     "content_ro": "• **9 noiembrie, București:** Nicușor Dan a primit-o pe Ursula von der Leyen la Palatul Cotroceni, iar președinta Comisiei Europene a discutat și cu premierul Luca Niculescu. Pe agendă s-au aflat securitatea Mării Negre, apărarea europeană, energia, competitivitatea, apropierea Republicii Moldova și a Ucrainei de UE și bugetul european pentru 2028–2034.\n\n• **60 de milioane de euro:** UE alocă 50 de milioane pentru accelerarea centrului de securitate maritimă inițiat de România și Bulgaria; proiectul va avea și un calendar de finalizare. Alte 10 milioane de euro vor susține operațiunile românești de căutare și salvare pe mare.\n\n• **Monitorizare și reacție:** Centrul, prevăzut să funcționeze la Constanța și Varna, ar urma să faciliteze schimbul de informații și supravegherea în timp real, pentru protejarea infrastructurii critice și intervenții mai rapide. Planurile europene includ și folosirea imaginilor satelitare din programul Copernicus.\n\n• **Amenințări în creștere:** În regiune au fost semnalate atacuri cu drone asupra navelor comerciale, incursiuni în spațiul aerian, atacuri cibernetice și acte de sabotaj; Dan le-a asociat războiului hibrid dus de Rusia. Von der Leyen a subliniat importanța libertății de navigație pentru comerțul european și securitatea alimentară globală.\n\n• **Interese strategice:** Dan a legat importanța Mării Negre de comerțul internațional, viitorul Coridor de Mijloc, securitatea energetică și reconstrucția Ucrainei. Niculescu a evidențiat coordonarea UE–NATO, întărirea flancului estic, relansarea economiei și folosirea eficientă a fondurilor europene.",
-    "importance_score": 245.0
+    "importance_score": 255.0
   },
   {
     "group_id": "group_eb6e6ec845",
@@ -2868,6 +2873,38 @@
     "importance_score": 45.0
   },
   {
+    "group_id": "group_f86babd669",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "ANM: Cum va fi vremea în România până la începutul lunii decembrie",
+        "link": "https://www.mediafax.ro/social/anm-cum-va-fi-vremea-in-romania-pana-la-inceputul-lunii-decembrie-23840604"
+      },
+      {
+        "source": "G4Media",
+        "title": "METEO | Vremea în România până la începutul lunii decembrie",
+        "link": "https://www.g4media.ro/meteo-vremea-in-romania-pana-la-inceputul-lunii-decembrie.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Ilyen időjárásra számíthatunk a következő négy hétben",
+        "link": "https://maszol.ro/belfold/Ilyen-idojarasra-szamithatunk-a-kovetkezo-negy-hetben-1"
+      }
+    ],
+    "published_at": 1794289393,
+    "title_hu": "ANM: Cum va fi vremea în România până la începutul lunii decembrie",
+    "lead_hu": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest …",
+    "content_hu": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest în prima parte a intervalului, potrivit estimărilor publicate de Administrația Națională de Meteorologie (ANM).",
+    "title_ro": "ANM: Cum va fi vremea în România până la începutul lunii decembrie",
+    "lead_ro": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest …",
+    "content_ro": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest în prima parte a intervalului, potrivit estimărilor publicate de Administrația Națională de Meteorologie (ANM).",
+    "importance_score": 45.0
+  },
+  {
     "group_id": "group_673ad387d3",
     "fingerprint": "908050226b83ffa3ec4e333c5995840f",
     "category": "Általános",
@@ -2899,6 +2936,38 @@
     "title_ro": "Meghan Markle renunță la discursul de la Bruxelles după arestarea tatălui său",
     "lead_ro": "Meghan Markle va participa la evenimentul de la Bruxelles dedicat siguranței copiilor online, însă nu va lua cuvântul. Tatăl său, Thomas Markle Sr., a fost reținut vineri în Florida, după depunerea unei plângeri penale federale joi.",
     "content_ro": "• **Discursul de marți nu va mai avea loc:** Meghan Markle și prințul Harry urmau să apară împreună la evenimentul organizat la Parlamentul European, dedicat siguranței copiilor pe internet. Meghan va fi prezentă, dar a ales să nu vorbească în fața publicului, invocând impactul emoțional al arestării tatălui său.\n\n• **Plângerea penală a fost depusă joi:** Thomas Markle Sr. a fost reținut vineri în Florida. Bărbatul, în vârstă de 82 de ani și domiciliat în Lakeland, este vizat de o acuzație federală privind deținerea unor materiale care înfățișează abuzuri sexuale asupra copiilor. Acuzația nu echivalează cu o condamnare.\n\n• **A fost luat dintr-un cămin de îngrijire:** Potrivit relatărilor, agenți FBI l-au scos încătușat din instituția din Florida. După câteva ore, a fost eliberat pe cauțiune și plasat sub monitorizare electronică.\n\n• **Au fost ridicate aproximativ 78 de obiecte:** În urma perchezițiilor autorizate de instanță, anchetatorii au luat, între altele, diapozitive, negative fotografice și cărți. Bill Essayli, prim-adjunct al procurorului federal pentru Districtul Central din California, a prezentat numărul obiectelor; presupusa lor legătură cu dosarul face parte din anchetă.\n\n• **A existat și o investigație în Filipine:** Luna trecută au apărut informații despre cercetări ale autorităților de acolo privind acuzații asemănătoare. Thomas Markle a respins atunci acuzațiile. Meghan nu are o relație apropiată cu tatăl său, însă a decis să nu susțină discursul după reținerea acestuia.",
+    "importance_score": 45.0
+  },
+  {
+    "group_id": "group_5484a6f255",
+    "category": "Erdély",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Pontmaros",
+        "title": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
+        "link": "https://www.pontmaros.ro/egy-fiatal-eletmento-peldat-mutatott-embersegbol-ruben-gaitan-ludas-legfiatalabb-diszpolgara-lett/"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cetățean de onoare la 19 ani. Ruben Găitan a salvat de la sinucidere un bărbat, în timp ce alți tineri doar filmau",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cetatean-de-onoare-la-19-ani-ruben-gaitan-a-salvat-de-la-sinucidere-un-barbat-in-timp-ce-alti-tineri-doar-filmau.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un tânăr de 19 ani devine cel mai tânăr Cetățean de Onoare al orașului Luduș / A salvat de la sinucidere un bărbat / Alți tineri filmau scena pentru rețelele sociale",
+        "link": "https://www.g4media.ro/un-tanar-de-19-ani-devine-cel-mai-tanar-cetatean-de-onoare-al-orasului-ludus-a-salvat-de-la-sinucidere-un-barbat-alti-tineri-filmau-scena-pentru-retelele-sociale.html"
+      }
+    ],
+    "published_at": 1794287351,
+    "title_hu": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
+    "lead_hu": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
+    "content_hu": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
+    "title_ro": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
+    "lead_ro": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
+    "content_ro": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
     "importance_score": 45.0
   },
   {
@@ -3670,33 +3739,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_f86babd669",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "ANM: Cum va fi vremea în România până la începutul lunii decembrie",
-        "link": "https://www.mediafax.ro/social/anm-cum-va-fi-vremea-in-romania-pana-la-inceputul-lunii-decembrie-23840604"
-      },
-      {
-        "source": "G4Media",
-        "title": "METEO | Vremea în România până la începutul lunii decembrie",
-        "link": "https://www.g4media.ro/meteo-vremea-in-romania-pana-la-inceputul-lunii-decembrie.html"
-      }
-    ],
-    "published_at": 1794289393,
-    "title_hu": "ANM: Cum va fi vremea în România până la începutul lunii decembrie",
-    "lead_hu": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest …",
-    "content_hu": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest în prima parte a intervalului, potrivit estimărilor publicate de Administrația Națională de Meteorologie (ANM).",
-    "title_ro": "ANM: Cum va fi vremea în România până la începutul lunii decembrie",
-    "lead_ro": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest …",
-    "content_ro": "Temperaturile vor fi apropiate de cele normale pentru această perioadă în următoarele patru săptămâni, în cea mai mare parte a țării, în timp ce precipitațiile vor fi excedentare în vest și nord-vest în prima parte a intervalului, potrivit estimărilor publicate de Administrația Națională de Meteorologie (ANM).",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_4f223683c6",
     "category": "Általános",
     "is_synthesized": false,
@@ -3753,33 +3795,6 @@
     "importance_score": 35.0
   },
   {
-    "group_id": "group_5484a6f255",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
-        "link": "https://www.pontmaros.ro/egy-fiatal-eletmento-peldat-mutatott-embersegbol-ruben-gaitan-ludas-legfiatalabb-diszpolgara-lett/"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cetățean de onoare la 19 ani. Ruben Găitan a salvat de la sinucidere un bărbat, în timp ce alți tineri doar filmau",
-        "link": "https://stirileprotv.ro/stiri/actualitate/cetatean-de-onoare-la-19-ani-ruben-gaitan-a-salvat-de-la-sinucidere-un-barbat-in-timp-ce-alti-tineri-doar-filmau.html"
-      }
-    ],
-    "published_at": 1794287351,
-    "title_hu": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
-    "lead_hu": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
-    "content_hu": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
-    "title_ro": "Egy fiatal életmentő példát mutatott emberségből – Ruben Găitan Ludas legfiatalabb díszpolgára lett",
-    "lead_ro": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
-    "content_ro": "Mindössze 19 éves, de már olyan bátorságról és emberségről tett tanúbizonyságot, amelyre egy egész közösség büszke lehet. Ruben Găitan, a maros megyei Ludas fiatal lakója …",
-    "importance_score": 35.0
-  },
-  {
     "group_id": "group_5e70e89445",
     "fingerprint": "a595716f26b7a05d8b49063db8303cd8",
     "category": "Általános",
@@ -3806,35 +3821,6 @@
     "title_ro": "Avion militar rus a transportat oficiali de rang înalt în Israel",
     "lead_ro": "Un avion rusesc Tu-154 a aterizat duminică seara pe aeroportul Ben Gurion din Tel Aviv și a plecat luni spre Abu Dhabi. Potrivit postului israelian KAN, la bord s-a aflat și Igor Kostiukov, șeful serviciului de informații militare al Rusiei; scopul vizitei nu a fost confirmat oficial.",
     "content_ro": "• **Duminică seara**, un avion militar rusesc de tip Tu-154 a ajuns pe aeroportul Ben Gurion. Postul israelian KAN a relatat că aeronava decolase de la baza aeriană Cikalovski, din apropierea Moscovei, și a aterizat în jurul orei locale 21:00, respectiv 19:00 GMT. Televiziunea a descris sosirea drept neobișnuită și a precizat că un astfel de zbor nu fusese observat în ultimii ani.\n\n• **Igor Kostiukov** s-ar fi aflat printre pasageri, potrivit unei surse străine anonime citate de KAN. Kostiukov conduce serviciul de informații militare al Rusiei. Conform aceleiași relatări, oficiali ruși de rang înalt au venit în Israel la solicitarea Statelor Unite pentru discuții cu responsabili israelieni din domeniul securității, însă nu au fost prezentate detalii suplimentare și nici o confirmare oficială.\n\n• **Luni, aeronava a plecat spre Abu Dhabi.** KAN a menționat în legătură cu această deplasare o reuniune pe care Statele Unite urmau să o organizeze în capitala Emiratelor în ziua următoare, cu participarea unor oficiali ruși și ucraineni de rang înalt. Relatarea nu a precizat dacă membrii delegației sosite în Israel urmau să participe la întâlnire.\n\n• **Autoritățile vizate nu au confirmat informațiile.** Purtătorul de cuvânt al armatei israeliene, biroul premierului și ambasada Rusiei în Israel nu au făcut comentarii, iar Abu Dhabi nu a transmis o reacție. KAN a amintit că Israelul și Rusia au avut anterior un mecanism de coordonare militară, în special în legătură cu prezența rusă în Siria, pentru reducerea riscului de incidente în apropierea frontierelor israeliene.",
-    "importance_score": 35.0
-  },
-  {
-    "group_id": "group_7149950550",
-    "fingerprint": "c76f53864f50599f46c842ed21bd1726",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "UE a prelungit cu doi ani misiunea de instruire militară a ucrainenilor. Cât va costa operațiunea",
-        "link": "https://www.mediafax.ro/politic/ue-a-prelungit-cu-doi-ani-misiunea-de-instruire-militara-a-ucrainenilor-cat-va-costa-operatiunea-23840551"
-      },
-      {
-        "source": "G4Media",
-        "title": "300 de milioane de euro de la UE pentru prelungirea cu doi ani a instruirii militare a ucrainenilor",
-        "link": "https://www.g4media.ro/300-de-milioane-de-euro-de-la-ue-pentru-prelungirea-cu-doi-ani-a-instruirii-militare-a-ucrainenilor.html"
-      }
-    ],
-    "published_at": 1794287014,
-    "title_hu": "2028-ig meghosszabbította az EU az ukrán katonák kiképzési misszióját",
-    "lead_hu": "Az Európai Unió 2028. november 15-ig folytatja az ukrán fegyveres erők képzését támogató EUMAM Ukraine missziót. A következő két év műveleteire közel 300 millió eurót szánnak, és a misszió ukrajnai irodát is nyit.",
-    "content_hu": "• **2028. november 15-ig** marad érvényben az Európai Unió ukrajnai katonai kiképzési missziójának mandátuma. A döntés két évvel hosszabbítja meg az EUMAM Ukraine működését, amely az ukrán katonák felkészítését támogatja.\n\n• **Közel 300 millió eurót** különít el az EU a misszió következő két évének tevékenységére. A közlés nem részletezi, hogy az összeg milyen kiadási tételek között oszlik meg.\n\n• **Ukrajnában missziós irodát nyitnak**, amely közvetlen kapcsolatot tart majd az ország vezetőivel és katonai állományával, valamint a nemzetközi partnerekkel. Az iroda feladata a misszió munkájának összehangolása lesz.\n\n• **A képzési feladatok tartalma is bővül:** a misszió nagyobb hangsúlyt helyez az ukrajnai harci tapasztalatok beépítésére és a katonai felkészítés fejlesztésére. A képzés irányát az ukrán védelmi igényekhez igazítják.\n\n• **A misszió 2022. október 17-én indult**, Ukrajna kérésére. Az uniós szakértők a tagállamok területén képezik az ukrán katonai személyzetet, miközben összehangolják a részt vevő országok e területhez kapcsolódó tevékenységét.",
-    "title_ro": "UE prelungește până în 2028 misiunea de instruire militară pentru Ucraina",
-    "lead_ro": "Uniunea Europeană va continua până la 15 noiembrie 2028 misiunea EUMAM Ucraina, care sprijină pregătirea militarilor ucraineni. Pentru următorii doi ani sunt prevăzute aproape 300 de milioane de euro, iar misiunea va deschide un birou în Ucraina.",
-    "content_ro": "• **Până la 15 noiembrie 2028** va fi valabil mandatul misiunii Uniunii Europene de instruire militară pentru Ucraina. Prelungirea asigură continuarea activității EUMAM Ucraina, dedicată pregătirii personalului militar ucrainean.\n\n• **Aproape 300 de milioane de euro** vor fi alocate de UE pentru operațiunile misiunii din următorii doi ani. Informațiile publicate nu precizează cum va fi repartizată suma între diferitele categorii de cheltuieli.\n\n• **Misiunea va avea un birou în Ucraina**, care va lucra în legătură directă cu conducerea țării, militarii ucraineni și partenerii internaționali. Printre responsabilitățile sale se va număra coordonarea activității misiunii.\n\n• **Mandatul acordă o atenție mai mare experienței dobândite în luptă** și dezvoltării programelor de pregătire militară. Instruirea urmează să fie adaptată cerințelor de apărare ale Ucrainei.\n\n• **EUMAM Ucraina a fost înființată la 17 octombrie 2022**, la solicitarea Ucrainei. Experții europeni instruiesc personalul militar ucrainean pe teritoriul statelor membre și coordonează contribuțiile țărilor participante în acest domeniu.",
     "importance_score": 35.0
   },
   {
@@ -4145,35 +4131,6 @@
     "lead_ro": "Peste o mie de persoane au semnat o petiție prin care cer verificarea angajării lui Felix Alexa la Teatrul Național din București și a modului în care instituția a gestionat situația. Regizorul a anunțat, între timp, că va apela la instanță împotriva celor despre care afirmă că i-au afectat reputația.",
     "content_ro": "• **Peste 1.000 de semnatari**, între care actori și regizori, i-au cerut ministrului Culturii să dispună verificări privind angajarea lui Felix Alexa la Teatrul Național „I.L. Caragiale” din București. Inițiatorii solicită examinarea procedurii de angajare, a respectării regulilor de prevenire a hărțuirii și a modului în care conducerea teatrului a tratat acuzațiile.\n\n• **Ministerul Culturii** a transmis că analizează, în instituțiile aflate în subordinea sa, aplicarea măsurilor împotriva hărțuirii pe criterii de sex și a hărțuirii morale la locul de muncă. Instituția a menționat Hotărârea de Guvern nr. 970/2023. Ioana Ciocan a avut luni o întâlnire cu Ada Hausvater.\n\n• **Autorii petiției** cer un control la TNB care să vizeze atât recrutarea regizorului, cât și obligațiile legale de prevenire a hărțuirii și reacția managerială. Mai mulți angajați ai teatrului au semnat documentul, iar Conrad Mericoffer a demisionat în semn de protest față de angajarea lui Alexa.\n\n• **Felix Alexa** a respins acuzațiile de hărțuire și agresiune sexuală formulate anterior împotriva sa și a declarat că va recurge la instanță împotriva persoanelor despre care susține că i-au prejudiciat imaginea. Reacția sa a urmat unei scrisori deschise în care Andrei Șerban, director onorific al TNB, i-a recomandat să întrerupă colaborarea cu teatrul până la clarificarea acuzațiilor.\n\n• **Disputa** privește atât legalitatea angajării și răspunderea conducerii, cât și felul în care sunt tratate acuzațiile anterioare la adresa regizorului. Informațiile disponibile nu indică existența unei concluzii oficiale a controlului sau a unei hotărâri judecătorești în acest caz.",
     "importance_score": 35.0
-  },
-  {
-    "group_id": "group_3ea74509c1",
-    "fingerprint": "9f401e6b2e897f18b5cec67d73884f72",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "România negociază la Bruxelles finanțarea apărării și noi reguli fiscale. Nazare: Avem nevoie de mai puțină birocrație",
-        "link": "https://stirileprotv.ro/stiri/financiar/romania-negociaza-la-bruxelles-finantarea-apararii-si-noi-reguli-fiscale-nazare-avem-nevoie-de-mai-putina-birocratie.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Va pierde România bani europeni după aderarea Ucrainei? Negocierile decisive pentru viitorul fondurilor, explicate de eurodeputatul Siegfried Mureșan",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/va-pierde-romania-bani-europeni-dupa-aderarea-2569729.html"
-      }
-    ],
-    "published_at": 1794272605,
-    "title_hu": "Alexandru Nazare Brüsszelben az uniós védelmi finanszírozásról és a szabályozás egyszerűsítéséről tárgyal",
-    "lead_hu": "Alexandru Nazare pénzügyminiszter hétfőn Brüsszelben részt vesz az ECOFIN és az inkluzív formátumú Eurogroup ülésén. A megbeszélések témái között szerepel a védelem finanszírozása, az uniós források felhasználása, a jogszabályok egyszerűsítése és a dohánytermékek adóztatási keretének frissítése.",
-    "content_hu": "• **Alexandru Nazare hétfői brüsszeli programja** az uniós pénzügyminiszterek ECOFIN-üléséhez, valamint az Eurogroup inkluzív formátumú tanácskozásához kapcsolódik. A román pénzügyminiszter a közlemény szerint az ország gazdasági érdekeit kívánja képviselni a közös európai egyeztetéseken.\n\n• **A napirenden szerepel a védelem finanszírozása** és a közös rendelkezésre álló források hatékonyabb felhasználása. A résztvevők emellett az uniós szabályozás egyszerűsítéséről, illetve a dohánytermékekre vonatkozó európai adózási keretrendszer korszerűsítéséről is tárgyalnak.\n\n• **Nazare szerint a költségvetési hiány mérséklése** erősíti Románia hitelességét az európai partnerekkel folytatott tárgyalásokon. A miniszter ezt az alkupozíciót olyan gazdasági környezet támogatására használná, amely kiszámítható szabályokat, könnyebb tőkehozzáférést és kisebb adminisztratív terheket biztosít a vállalkozásoknak.\n\n• **A szabályok alkalmazási feltételei és költségei** szintén fontos szempontok a román álláspontban. A pénzügyminisztérium tájékoztatása szerint a tárgyalások célja, hogy az új előírások mellett a rendelkezésre álló erőforrások a beruházásokat és a fejlesztést is hatékonyan szolgálják.\n\n• **A PNRR végrehajtásáról folyó egyeztetésekben** a pénzügyminisztérium a beruházásokért felelős tárca munkatársait támogatja, saját hatáskörének keretein belül. Nazare kiemelte, hogy a megvalósult projektek után beérkező összegek az állami beruházások és a költségvetési egyensúly szempontjából is jelentősek.",
-    "title_ro": "Alexandru Nazare discută la Bruxelles finanțarea apărării și simplificarea regulilor europene",
-    "lead_ro": "Ministrul Finanțelor, Alexandru Nazare, participă luni, la Bruxelles, la reuniunea ECOFIN și la întâlnirea Eurogrupului în format inclusiv. Pe agendă se află finanțarea apărării, folosirea resurselor comune, simplificarea legislației și actualizarea cadrului fiscal european pentru produsele din tutun.",
-    "content_ro": "• **Programul de luni al lui Alexandru Nazare la Bruxelles** include reuniunea ECOFIN și discuțiile Eurogrupului în format inclusiv. Potrivit informațiilor Ministerului Finanțelor, ministrul urmărește să reprezinte interesele economice ale României în consultările cu partenerii europeni.\n\n• **Finanțarea apărării și administrarea resurselor comune** se numără printre subiectele reuniunilor. Miniștrii vor aborda și simplificarea legislației Uniunii Europene, precum și revizuirea cadrului european de impozitare a produselor din tutun.\n\n• **Reducerea deficitului bugetar**, a transmis Nazare, consolidează credibilitatea României în dialogul cu partenerii europeni. Ministrul vrea ca această poziție să susțină o economie mai competitivă, prin reguli previzibile, acces mai bun la capital și diminuarea sarcinilor administrative pentru companii.\n\n• **Costurile și condițiile de aplicare a noilor reguli** sunt, de asemenea, relevante pentru poziția României. Ministerul precizează că negocierile urmăresc atât reducerea poverii administrative, cât și folosirea eficientă a resurselor disponibile pentru investiții și dezvoltare.\n\n• **Discuțiile privind PNRR** beneficiază de sprijinul Ministerului Finanțelor pentru colegii de la MIPE, în limitele atribuțiilor instituției. Nazare a menționat că fondurile primite pentru proiectele finalizate contribuie direct la investiții și la menținerea echilibrului bugetar.",
-    "importance_score": 33.0
   },
   {
     "group_id": "group_8952014cc7",
@@ -4547,6 +4504,40 @@
     "title_ro": "Relatări cu localizări și bilanțuri diferite după intervențiile din largul Cretei",
     "lead_ro": "Bilanțul anterior al Gărzii de Coastă elene indica 21 de morți, 133 de persoane salvate și două dispărute în două incidente maritime din apropierea Cretei. Noile detalii publicate de Mediafax descriu alte trei intervenții de salvare și plasează una dintre ambarcațiuni într-o zonă diferită față de relatările anterioare.",
     "content_ro": "• **Bilanțul Gărzii de Coastă** pentru cele două incidente din largul Cretei a fost de 21 de decese, 133 de persoane salvate și două persoane dispărute. Operațiunile au fost îngreunate de vântul puternic și de vremea nefavorabilă.\n\n• **Ambarcațiunea cu cetățeni sudanezi** a fost raportată în dificultate vineri după-amiază, la aproximativ șase mile marine sud-vest de Kaloi Limenes. Remorcherul Pyrrhos a preluat 28 de sudanezi și a recuperat trupul unui bărbat; alte două persoane au fost date dispărute. Vasul a fost regăsit în zori, însă relatarea disponibilă se întrerupe înainte de a prezenta detaliile ulterioare.\n\n• **Un cargou sub pavilion marocan a reperat o altă ambarcațiune**, din care au fost salvați 18 oameni și au fost recuperate 12 trupuri. O comunicare elenă anterioară indica 13 morți în același caz, astfel că bilanțurile nu coincid. Potrivit Mediafax, ambarcațiunea se afla la circa 15 mile marine sud-sud-vest de Kaloi Limenes.\n\n• **Frontex a sprijinit alte două operațiuni:** o ambarcațiune cu aproximativ 40 de migranți a fost observată la 31 de mile marine sud-est de Creta, iar alta, cu circa 47 de persoane, la 30 de mile sud de Kaloi Limenes. Ambele grupuri au fost preluate de nave europene; primul urma să fie dus în portul Kaloi Limenes.\n\n• **Cele trei operațiuni cu sprijinul Frontex** au dus la salvarea a aproximativ 105 persoane. Împreună cu cei 28 de sudanezi preluați de Pyrrhos, cifra este compatibilă cu totalul anterior de 133 de persoane salvate, însă relatările continuă să difere în privința localizărilor și a numărului de victime.",
+    "importance_score": 30.0
+  },
+  {
+    "group_id": "group_8dc1f4ab43",
+    "fingerprint": "e3df81791d81f9f6832bce318746ab46",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Dorință împlinită la 102 ani / Un veteran pompier din Mureș s-a întors în unitate să vadă autospecialele / Și-a început activitatea în 1950",
+        "link": "https://www.g4media.ro/dorinta-implinita-la-102-ani-un-veteran-pompier-din-mures-s-a-intors-in-unitate-sa-vada-autospecialele-si-a-inceput-activitatea-in-1950.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "A 102 éves tűzoltóveterán vágya teljesült Maros megyében",
+        "link": "https://maszol.ro/belfold/A-102-eves-tuzoltoveteran-vagya-teljesult-Maros-megyeben"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un pompier veteran de 102 ani și-a revăzut autospecialele după aproape 50 de ani. Întâlnire emoționantă la ISU Mureș",
+        "link": "https://stirileprotv.ro/stiri/actualitate/un-pompier-veteran-de-102-ani-si-a-revazut-autospecialele-dupa-aproape-50-de-ani-intalnire-emotionanta-la-isu-mures.html"
+      }
+    ],
+    "published_at": 1794246720,
+    "title_hu": "102 évesen tért vissza a marosvásárhelyi tűzoltóságra Magyari Gligor",
+    "lead_hu": "Magyari Gligor nyugalmazott tűzoltó főtörzsőrmester 102 évesen látogatott el a Maros megyei katasztrófavédelmi felügyelőséghez, hogy újra megnézze a tűzoltó-járműveket. Az 1950-ben szolgálatba állt veterán 27 éven át dolgozott a katonai tűzoltóknál.",
+    "content_hu": "• **Magyari Gligor 102 évesen** kereste fel a Maros megyei katasztrófavédelmi felügyelőség székhelyét. A látogatás célja az volt, hogy ismét láthassa a beavatkozásokhoz használt tűzoltóautókat, és megismerje, mennyit változott a mentési technika az aktív szolgálata óta.\n\n• **A veterán 1950-ben kezdte pályafutását** a katonai tűzoltóságnál. Az intézmény tájékoztatása szerint 1977-ig maradt állományban, vagyis 27 éven keresztül szolgált. Munkája során tűzoltó-járművet vezetett, emellett bevetési egység parancsnokaként is tevékenykedett.\n\n• **Az egykori és a mai járművek között jelentős a különbség:** Magyari olyan eszközöket is megtekinthetett, amelyek műszaki színvonala eltér azoktól, amelyeket korábban vezetett. Közel öt évtized telt el szolgálatának befejezése óta, a mostani találkozó mégis lehetőséget adott neki, hogy felidézze hivatásának egy részét.\n\n• **A marosi tűzoltók elismeréssel fogadták a látogatást**, és jelképes köszönőüzenettel fejezték ki megbecsülésüket a közösségért végzett munkájáért. Magyari Gligor 1924. szeptember 9-én született; a találkozó alkalmával a felügyelőség képviselői a hosszú szolgálat és a szakmához való kötődés példájaként beszéltek róla.",
+    "title_ro": "La 102 ani, Magyari Gligor a revăzut autospecialele pompierilor din Mureș",
+    "lead_ro": "Magyari Gligor, plutonier adjutant în rezervă, a vizitat la 102 ani sediul Inspectoratului pentru Situații de Urgență Mureș. Fostul pompier, care și-a început activitatea în 1950, a lucrat în cadrul pompierilor militari timp de 27 de ani.",
+    "content_ro": "• **Magyari Gligor, în vârstă de 102 ani,** a ajuns la sediul Inspectoratului pentru Situații de Urgență Mureș. Vizita i-a oferit ocazia să vadă din nou autospecialele folosite la intervenții și să observe schimbările tehnice produse în domeniul salvatorilor de la perioada în care era activ.\n\n• **Cariera sa în rândurile pompierilor militari a început în 1950.** Potrivit informațiilor prezentate de ISU Mureș, a rămas în serviciu până în 1977, acumulând 27 de ani de activitate. În acest interval, a condus autospeciale și a îndeplinit și atribuții de comandant al echipajului.\n\n• **Tehnica actuală diferă de cea pe care o folosea în trecut:** veteranul a putut compara vehiculele moderne cu autospecialele pe care le conducea în timpul serviciului. Au trecut aproape cinci decenii de la încheierea activității sale, iar întâlnirea i-a permis să revadă o parte din mediul profesional în care a lucrat.\n\n• **Reprezentanții pompierilor din Mureș i-au transmis aprecierea lor** pentru contribuția adusă comunității și i-au oferit un mesaj simbolic de mulțumire. Magyari Gligor s-a născut la 9 septembrie 1924. Inspectoratul a evidențiat cu prilejul vizitei parcursul său îndelungat în profesie și legătura păstrată cu activitatea de pompier.",
     "importance_score": 30.0
   },
   {
@@ -5119,6 +5110,35 @@
     "importance_score": 30.0
   },
   {
+    "group_id": "group_3ea74509c1",
+    "fingerprint": "9f401e6b2e897f18b5cec67d73884f72",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "România negociază la Bruxelles finanțarea apărării și noi reguli fiscale. Nazare: Avem nevoie de mai puțină birocrație",
+        "link": "https://stirileprotv.ro/stiri/financiar/romania-negociaza-la-bruxelles-finantarea-apararii-si-noi-reguli-fiscale-nazare-avem-nevoie-de-mai-putina-birocratie.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Va pierde România bani europeni după aderarea Ucrainei? Negocierile decisive pentru viitorul fondurilor, explicate de eurodeputatul Siegfried Mureșan",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/va-pierde-romania-bani-europeni-dupa-aderarea-2569729.html"
+      }
+    ],
+    "published_at": 1794272605,
+    "title_hu": "Alexandru Nazare Brüsszelben az uniós védelmi finanszírozásról és a szabályozás egyszerűsítéséről tárgyal",
+    "lead_hu": "Alexandru Nazare pénzügyminiszter hétfőn Brüsszelben részt vesz az ECOFIN és az inkluzív formátumú Eurogroup ülésén. A megbeszélések témái között szerepel a védelem finanszírozása, az uniós források felhasználása, a jogszabályok egyszerűsítése és a dohánytermékek adóztatási keretének frissítése.",
+    "content_hu": "• **Alexandru Nazare hétfői brüsszeli programja** az uniós pénzügyminiszterek ECOFIN-üléséhez, valamint az Eurogroup inkluzív formátumú tanácskozásához kapcsolódik. A román pénzügyminiszter a közlemény szerint az ország gazdasági érdekeit kívánja képviselni a közös európai egyeztetéseken.\n\n• **A napirenden szerepel a védelem finanszírozása** és a közös rendelkezésre álló források hatékonyabb felhasználása. A résztvevők emellett az uniós szabályozás egyszerűsítéséről, illetve a dohánytermékekre vonatkozó európai adózási keretrendszer korszerűsítéséről is tárgyalnak.\n\n• **Nazare szerint a költségvetési hiány mérséklése** erősíti Románia hitelességét az európai partnerekkel folytatott tárgyalásokon. A miniszter ezt az alkupozíciót olyan gazdasági környezet támogatására használná, amely kiszámítható szabályokat, könnyebb tőkehozzáférést és kisebb adminisztratív terheket biztosít a vállalkozásoknak.\n\n• **A szabályok alkalmazási feltételei és költségei** szintén fontos szempontok a román álláspontban. A pénzügyminisztérium tájékoztatása szerint a tárgyalások célja, hogy az új előírások mellett a rendelkezésre álló erőforrások a beruházásokat és a fejlesztést is hatékonyan szolgálják.\n\n• **A PNRR végrehajtásáról folyó egyeztetésekben** a pénzügyminisztérium a beruházásokért felelős tárca munkatársait támogatja, saját hatáskörének keretein belül. Nazare kiemelte, hogy a megvalósult projektek után beérkező összegek az állami beruházások és a költségvetési egyensúly szempontjából is jelentősek.",
+    "title_ro": "Alexandru Nazare discută la Bruxelles finanțarea apărării și simplificarea regulilor europene",
+    "lead_ro": "Ministrul Finanțelor, Alexandru Nazare, participă luni, la Bruxelles, la reuniunea ECOFIN și la întâlnirea Eurogrupului în format inclusiv. Pe agendă se află finanțarea apărării, folosirea resurselor comune, simplificarea legislației și actualizarea cadrului fiscal european pentru produsele din tutun.",
+    "content_ro": "• **Programul de luni al lui Alexandru Nazare la Bruxelles** include reuniunea ECOFIN și discuțiile Eurogrupului în format inclusiv. Potrivit informațiilor Ministerului Finanțelor, ministrul urmărește să reprezinte interesele economice ale României în consultările cu partenerii europeni.\n\n• **Finanțarea apărării și administrarea resurselor comune** se numără printre subiectele reuniunilor. Miniștrii vor aborda și simplificarea legislației Uniunii Europene, precum și revizuirea cadrului european de impozitare a produselor din tutun.\n\n• **Reducerea deficitului bugetar**, a transmis Nazare, consolidează credibilitatea României în dialogul cu partenerii europeni. Ministrul vrea ca această poziție să susțină o economie mai competitivă, prin reguli previzibile, acces mai bun la capital și diminuarea sarcinilor administrative pentru companii.\n\n• **Costurile și condițiile de aplicare a noilor reguli** sunt, de asemenea, relevante pentru poziția României. Ministerul precizează că negocierile urmăresc atât reducerea poverii administrative, cât și folosirea eficientă a resurselor disponibile pentru investiții și dezvoltare.\n\n• **Discuțiile privind PNRR** beneficiază de sprijinul Ministerului Finanțelor pentru colegii de la MIPE, în limitele atribuțiilor instituției. Nazare a menționat că fondurile primite pentru proiectele finalizate contribuie direct la investiții și la menținerea echilibrului bugetar.",
+    "importance_score": 28.0
+  },
+  {
     "group_id": "group_4e36b7758e",
     "fingerprint": "00941bffc3986713e6a88bde8d43a883",
     "category": "Politika",
@@ -5678,35 +5698,6 @@
     "title_ro": "Ninsoare în zona Rânca: drumarii au intervenit cu utilaje și material antiderapant",
     "lead_ro": "Luni seară, ninsoarea a afectat zona montană Rânca din județul Gorj, iar echipele de întreținere au acționat pe drumurile din apropiere. Șoferii fără echipare de iarnă sunt îndemnați să evite sectoarele unde condițiile meteo îngreunează circulația.",
     "content_ro": "• **Luni seară, în zona Rânca** din județul Gorj au căzut precipitații sub formă de ninsoare. Stațiunea se află în Munții Parâng, într-o regiune în care vremea și starea drumurilor se pot schimba într-un timp scurt.\n\n• **Echipele de întreținere din Târgu Jiu** au intervenit cu vehicule echipate cu lamă și au distribuit material antiderapant pe carosabil. Acțiunea a urmărit menținerea drumului practicabil în condițiile în care stratul de ninsoare putea afecta deplasarea.\n\n• **Direcția Regională de Drumuri și Poduri Craiova** le-a recomandat conducătorilor auto ale căror vehicule nu sunt pregătite pentru sezonul rece să nu circule pe porțiunile afectate. În România, anvelopele de iarnă sunt obligatorii pe drumurile publice acoperite cu zăpadă, gheață sau polei, indiferent de perioada din an.\n\n• **Nerespectarea regulii privind anvelopele** poate atrage sancțiuni și reținerea certificatului de înmatriculare. Pentru deplasarea pe carosabil alunecos, șoferilor li se recomandă să reducă viteza, să păstreze un spațiu mai mare față de vehiculul din față și să evite schimbările bruște de direcție.\n\n• **Stațiunea Rânca se află la aproximativ 1.600 de metri altitudine**, în apropierea șoselei Transalpina, identificată ca DN 67C. Altitudinea și specificul zonei montane fac necesară prudența, deoarece condițiile de circulație se pot deteriora rapid.",
-    "importance_score": 20.0
-  },
-  {
-    "group_id": "group_8dc1f4ab43",
-    "fingerprint": "e3df81791d81f9f6832bce318746ab46",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Dorință împlinită la 102 ani / Un veteran pompier din Mureș s-a întors în unitate să vadă autospecialele / Și-a început activitatea în 1950",
-        "link": "https://www.g4media.ro/dorinta-implinita-la-102-ani-un-veteran-pompier-din-mures-s-a-intors-in-unitate-sa-vada-autospecialele-si-a-inceput-activitatea-in-1950.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "A 102 éves tűzoltóveterán vágya teljesült Maros megyében",
-        "link": "https://maszol.ro/belfold/A-102-eves-tuzoltoveteran-vagya-teljesult-Maros-megyeben"
-      }
-    ],
-    "published_at": 1794246720,
-    "title_hu": "102 évesen tért vissza a marosvásárhelyi tűzoltóságra Magyari Gligor",
-    "lead_hu": "Magyari Gligor nyugalmazott tűzoltó főtörzsőrmester 102 évesen látogatott el a Maros megyei katasztrófavédelmi felügyelőséghez, hogy újra megnézze a tűzoltó-járműveket. Az 1950-ben szolgálatba állt veterán 27 éven át dolgozott a katonai tűzoltóknál.",
-    "content_hu": "• **Magyari Gligor 102 évesen** kereste fel a Maros megyei katasztrófavédelmi felügyelőség székhelyét. A látogatás célja az volt, hogy ismét láthassa a beavatkozásokhoz használt tűzoltóautókat, és megismerje, mennyit változott a mentési technika az aktív szolgálata óta.\n\n• **A veterán 1950-ben kezdte pályafutását** a katonai tűzoltóságnál. Az intézmény tájékoztatása szerint 1977-ig maradt állományban, vagyis 27 éven keresztül szolgált. Munkája során tűzoltó-járművet vezetett, emellett bevetési egység parancsnokaként is tevékenykedett.\n\n• **Az egykori és a mai járművek között jelentős a különbség:** Magyari olyan eszközöket is megtekinthetett, amelyek műszaki színvonala eltér azoktól, amelyeket korábban vezetett. Közel öt évtized telt el szolgálatának befejezése óta, a mostani találkozó mégis lehetőséget adott neki, hogy felidézze hivatásának egy részét.\n\n• **A marosi tűzoltók elismeréssel fogadták a látogatást**, és jelképes köszönőüzenettel fejezték ki megbecsülésüket a közösségért végzett munkájáért. Magyari Gligor 1924. szeptember 9-én született; a találkozó alkalmával a felügyelőség képviselői a hosszú szolgálat és a szakmához való kötődés példájaként beszéltek róla.",
-    "title_ro": "La 102 ani, Magyari Gligor a revăzut autospecialele pompierilor din Mureș",
-    "lead_ro": "Magyari Gligor, plutonier adjutant în rezervă, a vizitat la 102 ani sediul Inspectoratului pentru Situații de Urgență Mureș. Fostul pompier, care și-a început activitatea în 1950, a lucrat în cadrul pompierilor militari timp de 27 de ani.",
-    "content_ro": "• **Magyari Gligor, în vârstă de 102 ani,** a ajuns la sediul Inspectoratului pentru Situații de Urgență Mureș. Vizita i-a oferit ocazia să vadă din nou autospecialele folosite la intervenții și să observe schimbările tehnice produse în domeniul salvatorilor de la perioada în care era activ.\n\n• **Cariera sa în rândurile pompierilor militari a început în 1950.** Potrivit informațiilor prezentate de ISU Mureș, a rămas în serviciu până în 1977, acumulând 27 de ani de activitate. În acest interval, a condus autospeciale și a îndeplinit și atribuții de comandant al echipajului.\n\n• **Tehnica actuală diferă de cea pe care o folosea în trecut:** veteranul a putut compara vehiculele moderne cu autospecialele pe care le conducea în timpul serviciului. Au trecut aproape cinci decenii de la încheierea activității sale, iar întâlnirea i-a permis să revadă o parte din mediul profesional în care a lucrat.\n\n• **Reprezentanții pompierilor din Mureș i-au transmis aprecierea lor** pentru contribuția adusă comunității și i-au oferit un mesaj simbolic de mulțumire. Magyari Gligor s-a născut la 9 septembrie 1924. Inspectoratul a evidențiat cu prilejul vizitei parcursul său îndelungat în profesie și legătura păstrată cu activitatea de pompier.",
     "importance_score": 20.0
   },
   {
@@ -6960,6 +6951,138 @@
     "lead_ro": "Un nou scandal cu implicații politice și instituționale a izbucnit la Szatmárnémeti, după ce publicația Gândul a prezentat imagini în care autoturismul primarului municipiului Szatmárnémeti, Kereskény…",
     "content_ro": "Un nou scandal cu implicații politice și instituționale a izbucnit la Szatmárnémeti, după ce publicația Gândul a prezentat imagini în care autoturismul primarului municipiului Szatmárnémeti, Kereskényi Gábor, apare deplasându-se în spatele unei autospeciale de Poliție…",
     "importance_score": 20.0
+  },
+  {
+    "group_id": "group_b8a6647303",
+    "category": "Gazdaság",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "INTERVIU VIDEO Câți bani ar trebui să avem într-un fond de urgență și când este bine să reducem investițiile? Cinci reguli financiare pentru 2027",
+        "link": "https://hotnews.ro/interviu-video-cati-bani-ar-trebui-sa-avem-intr-un-fond-de-urgenta-si-cand-este-bine-sa-reducem-investitiile-cinci-reguli-financiare-pentru-2027-2399197"
+      }
+    ],
+    "published_at": 1794294000,
+    "title_hu": "INTERVIU VIDEO Câți bani ar trebui să avem într-un fond de urgență și când este bine să reducem investițiile? Cinci reguli financiare pentru 2027",
+    "lead_hu": "Ce facem dacă ne pierdem locul de muncă? Câți bani ar trebui să avem puși deoparte pentru a putea trăi câteva luni fără venituri? Și cum ne pregătim financiar pentru 2027, când costul vieții crește, r...",
+    "content_hu": "Ce facem dacă ne pierdem locul de muncă? Câți bani ar trebui să avem puși deoparte pentru a putea trăi câteva luni fără venituri? Și cum ne pregătim financiar pentru 2027, când costul vieții crește, ratele și facturile sunt tot mai greu de acoperit, iar economisirea devine tot mai dificilă? Dan Dascăl, membru în boardul …",
+    "title_ro": "INTERVIU VIDEO Câți bani ar trebui să avem într-un fond de urgență și când este bine să reducem investițiile? Cinci reguli financiare pentru 2027",
+    "lead_ro": "Ce facem dacă ne pierdem locul de muncă? Câți bani ar trebui să avem puși deoparte pentru a putea trăi câteva luni fără venituri? Și cum ne pregătim financiar pentru 2027, când costul vieții crește, r...",
+    "content_ro": "Ce facem dacă ne pierdem locul de muncă? Câți bani ar trebui să avem puși deoparte pentru a putea trăi câteva luni fără venituri? Și cum ne pregătim financiar pentru 2027, când costul vieții crește, ratele și facturile sunt tot mai greu de acoperit, iar economisirea devine tot mai dificilă? Dan Dascăl, membru în boardul …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_59193d94ab",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Pontmaros",
+        "title": "Otthoni gondozást biztosítanak a radnóti időseknek a Diakonia Alapítvánnyal kötött partnerség révén",
+        "link": "https://www.pontmaros.ro/otthoni-gondozast-biztositanak-a-radnoti-idoseknek-a-diakonia-alapitvannyal-kotott-partnerseg-reven/"
+      }
+    ],
+    "published_at": 1794294000,
+    "title_hu": "Otthoni gondozást biztosítanak a radnóti időseknek a Diakonia Alapítvánnyal kötött partnerség révén",
+    "lead_hu": "Otthoni szociális gondozásban részesülhetnek a radnóti idősek a helyi önkormányzat és a Diakonia Keresztény Alapítvány marosvásárhelyi fiókja közötti együttműködésnek köszönhetően. A partnerségi megál...",
+    "content_hu": "Otthoni szociális gondozásban részesülhetnek a radnóti idősek a helyi önkormányzat és a Diakonia Keresztény Alapítvány marosvásárhelyi fiókja közötti együttműködésnek köszönhetően. A partnerségi megállapodás megkötését a …",
+    "title_ro": "Otthoni gondozást biztosítanak a radnóti időseknek a Diakonia Alapítvánnyal kötött partnerség révén",
+    "lead_ro": "Otthoni szociális gondozásban részesülhetnek a radnóti idősek a helyi önkormányzat és a Diakonia Keresztény Alapítvány marosvásárhelyi fiókja közötti együttműködésnek köszönhetően. A partnerségi megál...",
+    "content_ro": "Otthoni szociális gondozásban részesülhetnek a radnóti idősek a helyi önkormányzat és a Diakonia Keresztény Alapítvány marosvásárhelyi fiókja közötti együttműködésnek köszönhetően. A partnerségi megállapodás megkötését a …",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_666f209e5d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "România a cerut prea târziu sprijinul Comisiei Europene pentru prevenirea interferenţelor electorale din 2024. Cum au procedat alte țări europene",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/romania-a-cerut-prea-tarziu-sprijinul-comisiei-2570258.html"
+      }
+    ],
+    "published_at": 1794293888,
+    "title_hu": "România a cerut prea târziu sprijinul Comisiei Europene pentru prevenirea interferenţelor electorale din 2024. Cum au procedat alte țări europene",
+    "lead_hu": "În 2024, România putea cere Comisiei Europene întâlniri cu reprezentanţii reţelelor sociale, pentru evitarea interferenţelor electorale. Rolul Comisiei este extrem de important pentru că poate investi...",
+    "content_hu": "În 2024, România putea cere Comisiei Europene întâlniri cu reprezentanţii reţelelor sociale, pentru evitarea interferenţelor electorale. Rolul Comisiei este extrem de important pentru că poate investiga şi sancţiona direct giganţii IT.",
+    "title_ro": "România a cerut prea târziu sprijinul Comisiei Europene pentru prevenirea interferenţelor electorale din 2024. Cum au procedat alte țări europene",
+    "lead_ro": "În 2024, România putea cere Comisiei Europene întâlniri cu reprezentanţii reţelelor sociale, pentru evitarea interferenţelor electorale. Rolul Comisiei este extrem de important pentru că poate investi...",
+    "content_ro": "În 2024, România putea cere Comisiei Europene întâlniri cu reprezentanţii reţelelor sociale, pentru evitarea interferenţelor electorale. Rolul Comisiei este extrem de important pentru că poate investiga şi sancţiona direct giganţii IT.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_ee0dd01f70",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Uniunea Europeană pregătește amenzi uriașe pentru companiile care își păcălesc clienții să cumpere. Cât vor plăti",
+        "link": "https://stirileprotv.ro/stiri/financiar/uniunea-europeana-pregateste-amenzi-uriase-pentru-companiile-care-isi-pacalesc-clientii-sa-cumpere-cat-vor-plati.html"
+      }
+    ],
+    "published_at": 1794293879,
+    "title_hu": "Uniunea Europeană pregătește amenzi uriașe pentru companiile care își păcălesc clienții să cumpere. Cât vor plăti",
+    "lead_hu": "Uniunea Europeană va amenda companiile care își manipulează clienții pentru a cumpăra mai mult sau se folosesc de copii cu până la 6% din întreaga lor cifră de afaceri, potrivit unui proiecte legislat...",
+    "content_hu": "Uniunea Europeană va amenda companiile care își manipulează clienții pentru a cumpăra mai mult sau se folosesc de copii cu până la 6% din întreaga lor cifră de afaceri, potrivit unui proiecte legislativ întocmit de Comisia Europeană.",
+    "title_ro": "Uniunea Europeană pregătește amenzi uriașe pentru companiile care își păcălesc clienții să cumpere. Cât vor plăti",
+    "lead_ro": "Uniunea Europeană va amenda companiile care își manipulează clienții pentru a cumpăra mai mult sau se folosesc de copii cu până la 6% din întreaga lor cifră de afaceri, potrivit unui proiecte legislat...",
+    "content_ro": "Uniunea Europeană va amenda companiile care își manipulează clienții pentru a cumpăra mai mult sau se folosesc de copii cu până la 6% din întreaga lor cifră de afaceri, potrivit unui proiecte legislativ întocmit de Comisia Europeană.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_f5a4eb902d",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cât ar pierde țările UE într-o singură zi de grevă generală. Germania ajunge la 2,5 miliarde de euro. Estimarea pentru România",
+        "link": "https://www.mediafax.ro/social/cat-ar-pierde-tarile-ue-intr-o-singura-zi-de-greva-generala-germania-ajunge-la-25-miliarde-de-euro-estimarea-pentru-romania-23840618"
+      }
+    ],
+    "published_at": 1794293873,
+    "title_hu": "Cât ar pierde țările UE într-o singură zi de grevă generală. Germania ajunge la 2,5 miliarde de euro. Estimarea pentru România",
+    "lead_hu": "O grevă generală de 24 de ore ar putea costa economia Germaniei aproximativ 2,5 miliarde de euro, potrivit unei simulări bazate pe date Eurostat. Același calcul arată că și în România impactul economi...",
+    "content_hu": "O grevă generală de 24 de ore ar putea costa economia Germaniei aproximativ 2,5 miliarde de euro, potrivit unei simulări bazate pe date Eurostat. Același calcul arată că și în România impactul economic ar fi de ordinul sutelor de milioane de euro.",
+    "title_ro": "Cât ar pierde țările UE într-o singură zi de grevă generală. Germania ajunge la 2,5 miliarde de euro. Estimarea pentru România",
+    "lead_ro": "O grevă generală de 24 de ore ar putea costa economia Germaniei aproximativ 2,5 miliarde de euro, potrivit unei simulări bazate pe date Eurostat. Același calcul arată că și în România impactul economi...",
+    "content_ro": "O grevă generală de 24 de ore ar putea costa economia Germaniei aproximativ 2,5 miliarde de euro, potrivit unei simulări bazate pe date Eurostat. Același calcul arată că și în România impactul economic ar fi de ordinul sutelor de milioane de euro.",
+    "importance_score": 0.0
+  },
+  {
+    "group_id": "group_6ed1e28932",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
+        "link": "https://www.mediafax.ro/social/interventie-de-10-ore-in-muntii-parang-pentru-salvarea-unui-turist-ratacit-barbatul-a-fost-gasit-in-zona-varfului-carja-23840627"
+      }
+    ],
+    "published_at": 1794293796,
+    "title_hu": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
+    "lead_hu": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un t...",
+    "content_hu": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un teren accidentat, iar operațiunea s-a încheiat în noaptea de luni spre marți, după aproximativ 10 ore.",
+    "title_ro": "Intervenție de 10 ore în Munții Parâng pentru salvarea unui turist rătăcit / Bărbatul a fost găsit în zona Vârfului Cârja",
+    "lead_ro": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un t...",
+    "content_ro": "Misiune dificilă de salvare în Munții Parâng, unde un turist rătăcit în zona Vârfului Cârja a fost căutat timp de mai multe ore. Jandarmii montani și salvamontiștii din Hunedoara au intervenit pe un teren accidentat, iar operațiunea s-a încheiat în noaptea de luni spre marți, după aproximativ 10 ore.",
+    "importance_score": 0.0
   },
   {
     "group_id": "group_b2475fb8b8",
@@ -21064,160 +21187,6 @@
     "importance_score": 0.0
   },
   {
-    "group_id": "group_b10544995a",
-    "category": "Erdély",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Községösszevonások: térképeken mutatjuk Székelyföld közigazgatási térképének lehetséges változásait",
-        "link": "https://transtelex.ro/kozelet/2026/11/09/kozsegosszevonasok-terkepek-szekelyfold-kozigazgatas-valtozas"
-      }
-    ],
-    "published_at": 1794207767,
-    "title_hu": "Községösszevonások: térképeken mutatjuk Székelyföld közigazgatási térképének lehetséges változásait",
-    "lead_hu": "Kolozsvári egyetemi oktatók modellje alapján szemléltetjük, hogyan változna Székelyföld közigazgatási határainak térképe az átszervezésekkel. Számításainkból az is kiderül, hogy a reformként hirdetett…",
-    "content_hu": "Kolozsvári egyetemi oktatók modellje alapján szemléltetjük, hogyan változna Székelyföld közigazgatási határainak térképe az átszervezésekkel. Számításainkból az is kiderül, hogy a reformként hirdetett községösszevonások nem jelentenének értelmezhető megtakarításokat.",
-    "title_ro": "Községösszevonások: térképeken mutatjuk Székelyföld közigazgatási térképének lehetséges változásait",
-    "lead_ro": "Kolozsvári egyetemi oktatók modellje alapján szemléltetjük, hogyan változna Székelyföld közigazgatási határainak térképe az átszervezésekkel. Számításainkból az is kiderül, hogy a reformként hirdetett…",
-    "content_ro": "Kolozsvári egyetemi oktatók modellje alapján szemléltetjük, hogyan változna Székelyföld közigazgatási határainak térképe az átszervezésekkel. Számításainkból az is kiderül, hogy a reformként hirdetett községösszevonások nem jelentenének értelmezhető megtakarításokat.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_4d3f7659fc",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "„Nu e locul tău aici”, cu Adrian Văncică în rol principal, ia Marele Premiu la Festivalul Internaţional de Film de la Cottbus",
-        "link": "https://stirileprotv.ro/cultura/nu-e-locul-tau-aici-cu-adrian-vancica-in-rol-principal-ia-marele-premiu-la-festivalul-interna-ional-de-film-de-la-cottbus.html"
-      }
-    ],
-    "published_at": 1794207646,
-    "title_hu": "„Nu e locul tău aici”, cu Adrian Văncică în rol principal, ia Marele Premiu la Festivalul Internaţional de Film de la Cottbus",
-    "lead_hu": "Marele Premiu al Festivalului Internaţional de Film de la Cottbus a fost acordat filmului românesc „Nu e locul tău aici”, scris şi regizat de Florin Şerban.",
-    "content_hu": "Marele Premiu al Festivalului Internaţional de Film de la Cottbus a fost acordat filmului românesc „Nu e locul tău aici”, scris şi regizat de Florin Şerban.",
-    "title_ro": "„Nu e locul tău aici”, cu Adrian Văncică în rol principal, ia Marele Premiu la Festivalul Internaţional de Film de la Cottbus",
-    "lead_ro": "Marele Premiu al Festivalului Internaţional de Film de la Cottbus a fost acordat filmului românesc „Nu e locul tău aici”, scris şi regizat de Florin Şerban.",
-    "content_ro": "Marele Premiu al Festivalului Internaţional de Film de la Cottbus a fost acordat filmului românesc „Nu e locul tău aici”, scris şi regizat de Florin Şerban.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_c80c65d0a4",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Körvonalazódik a mesterséges intelligencia adatközpontja Szászrégenben: megérkeztek az első konténerek a több millió eurós beruházáshoz",
-        "link": "https://www.pontmaros.ro/korvonalazodik-a-mesterseges-intelligencia-adatkozpontja-szaszregenben-megerkeztek-az-elso-kontenerek-a-tobb-millio-euros-beruhazashoz/"
-      }
-    ],
-    "published_at": 1794207600,
-    "title_hu": "Körvonalazódik a mesterséges intelligencia adatközpontja Szászrégenben: megérkeztek az első konténerek a több millió eurós beruházáshoz",
-    "lead_hu": "Újabb szakaszába lépett a Szászrégenben tervezett mesterségesintelligencia-adatközpont megvalósítása. Az EXPERT IT vállalat által fejlesztett beruházáshoz megérkeztek az első, technológiai infrastrukt…",
-    "content_hu": "Újabb szakaszába lépett a Szászrégenben tervezett mesterségesintelligencia-adatközpont megvalósítása. Az EXPERT IT vállalat által fejlesztett beruházáshoz megérkeztek az első, technológiai infrastruktúrának szánt konténerek. A projekt hosszabb …",
-    "title_ro": "Körvonalazódik a mesterséges intelligencia adatközpontja Szászrégenben: megérkeztek az első konténerek a több millió eurós beruházáshoz",
-    "lead_ro": "Újabb szakaszába lépett a Szászrégenben tervezett mesterségesintelligencia-adatközpont megvalósítása. Az EXPERT IT vállalat által fejlesztett beruházáshoz megérkeztek az első, technológiai infrastrukt…",
-    "content_ro": "Újabb szakaszába lépett a Szászrégenben tervezett mesterségesintelligencia-adatközpont megvalósítása. Az EXPERT IT vállalat által fejlesztett beruházáshoz megérkeztek az első, technológiai infrastruktúrának szánt konténerek. A projekt hosszabb …",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_73bcc2d996",
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Corecția din club nu e singura! Claudia Ion l-a „altoit” pe Eduard și pe Insulă, după ce pilotul i-a jignit familia",
-        "link": "https://www.cancan.ro/corectia-din-club-nu-e-singura-claudia-ion-l-a-altoit-pe-eduard-si-pe-insula-dupa-ce-pilotul-i-a-jignit-familia-21544124"
-      }
-    ],
-    "published_at": 1794207580,
-    "title_hu": "Corecția din club nu e singura! Claudia Ion l-a „altoit” pe Eduard și pe Insulă, după ce pilotul i-a jignit familia",
-    "lead_hu": "Apropierea dintre Claudia Ion și Eduard Vlădescu la Insula Iubirii nu a trecut neobservată de fanii emisiunii. Deși s-au înțeles bine și au petrecut mult timp împreună, au existat și momente în care c…",
-    "content_hu": "Apropierea dintre Claudia Ion și Eduard Vlădescu la Insula Iubirii nu a trecut neobservată de fanii emisiunii. Deși s-au înțeles bine și au petrecut mult timp împreună, au existat și momente în care concurenta l-a „altoit” pe ispita masculină, din cauza vocabularului folosit în timpul unei discuții. Între Claudia Ion și Eduard Vlădescu s-a înfiripat […]",
-    "title_ro": "Corecția din club nu e singura! Claudia Ion l-a „altoit” pe Eduard și pe Insulă, după ce pilotul i-a jignit familia",
-    "lead_ro": "Apropierea dintre Claudia Ion și Eduard Vlădescu la Insula Iubirii nu a trecut neobservată de fanii emisiunii. Deși s-au înțeles bine și au petrecut mult timp împreună, au existat și momente în care c…",
-    "content_ro": "Apropierea dintre Claudia Ion și Eduard Vlădescu la Insula Iubirii nu a trecut neobservată de fanii emisiunii. Deși s-au înțeles bine și au petrecut mult timp împreună, au existat și momente în care concurenta l-a „altoit” pe ispita masculină, din cauza vocabularului folosit în timpul unei discuții. Între Claudia Ion și Eduard Vlădescu s-a înfiripat […]",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_38bf3904b2",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Val de atacuri cibernetice și amenințări cu bombă în Europa. Hackerii au încălzit frigiderele supermarketurilor la 50°C",
-        "link": "https://stirileprotv.ro/stiri/international/val-de-atacuri-cibernetice-si-amenintari-cu-bomba-in-europa-hackerii-au-incalzit-frigiderele-supermarketurilor-la-50-c.html"
-      }
-    ],
-    "published_at": 1794207573,
-    "title_hu": "Val de atacuri cibernetice și amenințări cu bombă în Europa. Hackerii au încălzit frigiderele supermarketurilor la 50°C",
-    "lead_hu": "Atacurile cibernetice, amenințările cu bombă la adresa avioanelor de pasageri, tulburările civile și presupusele acte de sabotaj din Europa au ridicat semne de întrebare cu privire la capacitatea cont…",
-    "content_hu": "Atacurile cibernetice, amenințările cu bombă la adresa avioanelor de pasageri, tulburările civile și presupusele acte de sabotaj din Europa au ridicat semne de întrebare cu privire la capacitatea continentului de a face față unor astfel de incidente.",
-    "title_ro": "Val de atacuri cibernetice și amenințări cu bombă în Europa. Hackerii au încălzit frigiderele supermarketurilor la 50°C",
-    "lead_ro": "Atacurile cibernetice, amenințările cu bombă la adresa avioanelor de pasageri, tulburările civile și presupusele acte de sabotaj din Europa au ridicat semne de întrebare cu privire la capacitatea cont…",
-    "content_ro": "Atacurile cibernetice, amenințările cu bombă la adresa avioanelor de pasageri, tulburările civile și presupusele acte de sabotaj din Europa au ridicat semne de întrebare cu privire la capacitatea continentului de a face față unor astfel de incidente.",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_2457cd6c57",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Uli Hoeness nu-l slăbește pe Lennart Karl: „Am fost implicat în 50% din golurile sale din ultimele zile”",
-        "link": "https://www.gsp.ro/international/campionate/uli-hoeness-lennart-karl-musiala-bayern-997563.html"
-      }
-    ],
-    "published_at": 1794207541,
-    "title_hu": "Uli Hoeness nu-l slăbește pe Lennart Karl: „Am fost implicat în 50% din golurile sale din ultimele zile”",
-    "lead_hu": "Președintele de onoare al lui Bayern Munchen dezvăluie că în ultima vreme s-a ocupat serios de educația puștiului Lennart Karl (18 ani). După o perioadă în care a ieșit în evidență mai mult în afara t…",
-    "content_hu": "Președintele de onoare al lui Bayern Munchen dezvăluie că în ultima vreme s-a ocupat serios de educația puștiului Lennart Karl (18 ani). După o perioadă în care a ieșit în evidență mai mult în afara terenului, și nu pozitiv, marele talent al lui Bayern a revenit în sfârșit pe tabelele de marcaj. ...",
-    "title_ro": "Uli Hoeness nu-l slăbește pe Lennart Karl: „Am fost implicat în 50% din golurile sale din ultimele zile”",
-    "lead_ro": "Președintele de onoare al lui Bayern Munchen dezvăluie că în ultima vreme s-a ocupat serios de educația puștiului Lennart Karl (18 ani). După o perioadă în care a ieșit în evidență mai mult în afara t…",
-    "content_ro": "Președintele de onoare al lui Bayern Munchen dezvăluie că în ultima vreme s-a ocupat serios de educația puștiului Lennart Karl (18 ani). După o perioadă în care a ieșit în evidență mai mult în afara terenului, și nu pozitiv, marele talent al lui Bayern a revenit în sfârșit pe tabelele de marcaj. ...",
-    "importance_score": 0.0
-  },
-  {
-    "group_id": "group_a6323bea48",
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Mihai Stoica a explicat ce se întâmplă cu Drăguș: „E disperat. Argumentul pentru care e căpitan?”",
-        "link": "https://www.gsp.ro/fotbal/liga-1/mihai-stoica-denis-dragus-fcsb-997567.html"
-      }
-    ],
-    "published_at": 1794207519,
-    "title_hu": "Mihai Stoica a explicat ce se întâmplă cu Drăguș: „E disperat. Argumentul pentru care e căpitan?”",
-    "lead_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a vorbit despre Denis Drăguș, integralist în eșecul roș-albaștrilor cu Corvinul, scor 0-1. Oficialul de la FCSB l-a numit pe Drăguș …",
-    "content_hu": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a vorbit despre Denis Drăguș, integralist în eșecul roș-albaștrilor cu Corvinul, scor 0-1. Oficialul de la FCSB l-a numit pe Drăguș „disperat să joace”, atunci când a fost întrebat de ce atacantul echipei coboară la mijlocul terenului pentru a lua mingea. Până să vină la FCSB, internaționalul nu primise niciun minut în acest sezon la fosta echipă, Trabzonspor. ...",
-    "title_ro": "Mihai Stoica a explicat ce se întâmplă cu Drăguș: „E disperat. Argumentul pentru care e căpitan?”",
-    "lead_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a vorbit despre Denis Drăguș, integralist în eșecul roș-albaștrilor cu Corvinul, scor 0-1. Oficialul de la FCSB l-a numit pe Drăguș …",
-    "content_ro": "Mihai Stoica, președintele Consiliului de Administrație de la FCSB, a vorbit despre Denis Drăguș, integralist în eșecul roș-albaștrilor cu Corvinul, scor 0-1. Oficialul de la FCSB l-a numit pe Drăguș „disperat să joace”, atunci când a fost întrebat de ce atacantul echipei coboară la mijlocul terenului pentru a lua mingea. Până să vină la FCSB, internaționalul nu primise niciun minut în acest sezon la fosta echipă, Trabzonspor. ...",
-    "importance_score": 0.0
-  },
-  {
     "group_id": "group_93a8eee2f9",
     "fingerprint": "b91f8481e627a037271643439ac2e166",
     "category": "Általános",
@@ -21354,6 +21323,35 @@
     "lead_ro": "Calendarul ortodox român îi pomenește pe arhanghelii Mihail și Gavriil la 8 noiembrie, iar pe Sfântul Nectarie la 9 noiembrie. În 2026, sărbătoarea sfântului cade luni; credincioșii îl consideră ocrotitor al celor cu boli grave, inclusiv al pacienților cu cancer.",
     "content_ro": "• **8 noiembrie.** Calendarul ortodox român îi sărbătorește pe arhanghelii Mihail și Gavriil. Potrivit credinței creștine, aceștia sunt ființe spirituale create de Dumnezeu, nu oameni deveniți sfinți după viața pământească. Mihail este asociat cu conducerea oștirilor cerești, iar Gavriil cu transmiterea mesajelor divine.\n\n• **9 noiembrie 2026.** Pomenirea Sfântului Nectarie de la Eghina va avea loc luni. Credincioșii îl cinstesc în mod special pe cei care suferă de afecțiuni grave, între care și cancerul. Sfântul a murit la 8 noiembrie 1920, după ce a fost bolnav de cancer.\n\n• **Viața lui Nectarie.** Născut Anastasie, la 1 octombrie 1846, în Silivria, el a studiat la Constantinopol. În 1876 a intrat în monahism la Nea Moni, pe insula Chios, iar după hirotonirea ca diacon a primit numele Nectarie. Și-a încheiat studiile teologice la Atena în 1885.\n\n• **Activitatea bisericească** l-a dus în Egipt, unde a slujit ca mitropolit de Pentapolis. A pierdut această funcție în urma unor acuzații, apoi s-a întors în Grecia și a lucrat ca predicator și profesor. Părticele din moaștele sale sunt păstrate la mai multe lăcașuri din România; Mănăstirea Radu Vodă din București este un loc cunoscut de pelerinaj.\n\n• **Obiceiuri de sărbătoare.** Credincioșii participă la slujbe și se roagă pentru sănătatea lor și a apropiaților. Tradiția populară recomandă evitarea certurilor, a jignirilor și a bârfelor, precum și sprijinirea celor bolnavi sau aflați în suferință. O relatare din tradiția religioasă spune că un om paralizat ar fi început să meargă după ce veșmântul sfântului a fost pus pe patul său.",
     "importance_score": 70.0
+  },
+  {
+    "group_id": "group_7149950550",
+    "fingerprint": "c76f53864f50599f46c842ed21bd1726",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "UE a prelungit cu doi ani misiunea de instruire militară a ucrainenilor. Cât va costa operațiunea",
+        "link": "https://www.mediafax.ro/politic/ue-a-prelungit-cu-doi-ani-misiunea-de-instruire-militara-a-ucrainenilor-cat-va-costa-operatiunea-23840551"
+      },
+      {
+        "source": "G4Media",
+        "title": "300 de milioane de euro de la UE pentru prelungirea cu doi ani a instruirii militare a ucrainenilor",
+        "link": "https://www.g4media.ro/300-de-milioane-de-euro-de-la-ue-pentru-prelungirea-cu-doi-ani-a-instruirii-militare-a-ucrainenilor.html"
+      }
+    ],
+    "published_at": 1794287014,
+    "title_hu": "2028-ig meghosszabbította az EU az ukrán katonák kiképzési misszióját",
+    "lead_hu": "Az Európai Unió 2028. november 15-ig folytatja az ukrán fegyveres erők képzését támogató EUMAM Ukraine missziót. A következő két év műveleteire közel 300 millió eurót szánnak, és a misszió ukrajnai irodát is nyit.",
+    "content_hu": "• **2028. november 15-ig** marad érvényben az Európai Unió ukrajnai katonai kiképzési missziójának mandátuma. A döntés két évvel hosszabbítja meg az EUMAM Ukraine működését, amely az ukrán katonák felkészítését támogatja.\n\n• **Közel 300 millió eurót** különít el az EU a misszió következő két évének tevékenységére. A közlés nem részletezi, hogy az összeg milyen kiadási tételek között oszlik meg.\n\n• **Ukrajnában missziós irodát nyitnak**, amely közvetlen kapcsolatot tart majd az ország vezetőivel és katonai állományával, valamint a nemzetközi partnerekkel. Az iroda feladata a misszió munkájának összehangolása lesz.\n\n• **A képzési feladatok tartalma is bővül:** a misszió nagyobb hangsúlyt helyez az ukrajnai harci tapasztalatok beépítésére és a katonai felkészítés fejlesztésére. A képzés irányát az ukrán védelmi igényekhez igazítják.\n\n• **A misszió 2022. október 17-én indult**, Ukrajna kérésére. Az uniós szakértők a tagállamok területén képezik az ukrán katonai személyzetet, miközben összehangolják a részt vevő országok e területhez kapcsolódó tevékenységét.",
+    "title_ro": "UE prelungește până în 2028 misiunea de instruire militară pentru Ucraina",
+    "lead_ro": "Uniunea Europeană va continua până la 15 noiembrie 2028 misiunea EUMAM Ucraina, care sprijină pregătirea militarilor ucraineni. Pentru următorii doi ani sunt prevăzute aproape 300 de milioane de euro, iar misiunea va deschide un birou în Ucraina.",
+    "content_ro": "• **Până la 15 noiembrie 2028** va fi valabil mandatul misiunii Uniunii Europene de instruire militară pentru Ucraina. Prelungirea asigură continuarea activității EUMAM Ucraina, dedicată pregătirii personalului militar ucrainean.\n\n• **Aproape 300 de milioane de euro** vor fi alocate de UE pentru operațiunile misiunii din următorii doi ani. Informațiile publicate nu precizează cum va fi repartizată suma între diferitele categorii de cheltuieli.\n\n• **Misiunea va avea un birou în Ucraina**, care va lucra în legătură directă cu conducerea țării, militarii ucraineni și partenerii internaționali. Printre responsabilitățile sale se va număra coordonarea activității misiunii.\n\n• **Mandatul acordă o atenție mai mare experienței dobândite în luptă** și dezvoltării programelor de pregătire militară. Instruirea urmează să fie adaptată cerințelor de apărare ale Ucrainei.\n\n• **EUMAM Ucraina a fost înființată la 17 octombrie 2022**, la solicitarea Ucrainei. Experții europeni instruiesc personalul militar ucrainean pe teritoriul statelor membre și coordonează contribuțiile țărilor participante în acest domeniu.",
+    "importance_score": 35.0
   },
   {
     "group_id": "group_a2580386ad",
