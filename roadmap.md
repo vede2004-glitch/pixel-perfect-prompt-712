@@ -22,3 +22,4 @@
 - [x] HIREKXhu Top hírek / Friss hírek / Hírfolyam nézeteinek átemelése két nyelven
 - [x] Hírterem kártyák: témacím és kategória badge, látható technikai azonosítók nélkül
 - [x] Slug-alapú cikklinkek, régi azonosítós linkek megtartása és kétnyelvű cikkmetaadatok ellenőrzése
+- [x] Kattintható témakódok minden nyilvános hírkártyán, /tag/$tagName szűrés és kétnyelvű SEO-metaadatok

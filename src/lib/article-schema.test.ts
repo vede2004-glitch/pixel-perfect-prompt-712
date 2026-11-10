@@ -3,7 +3,7 @@ import type { NewsItem } from "./news";
 import { articleSchema, serializeArticleSchema } from "./article-schema";
 
 const item: NewsItem = {
-  group_id: "group_1792497600_1", category: "Erdély", image: null,
+  group_id: "group_1792497600_1", category: "Erdély", tags: ["erdely"], image: null,
   is_synthesized: true, published_at: 1792497600,
   title: "**Hír**", lead: "Bevezető", content: "Cikk",
   sources: [{ source: "Maszol", title: "Eredeti hír", link: "https://maszol.ro/hir" }],
