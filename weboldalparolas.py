@@ -88,6 +88,24 @@ def get_model():
 # ==============================================================================
 # 2. SEGÉDFUNKCIÓK ÉS GYORS KATEGÓRIA OSZTÁLYOZÓ
 # ==============================================================================
+def slugify(text):
+    """Ékezetmentesíti és URL-baráttá alakítja a magyar és román karaktereket is."""
+    if not text:
+        return ""
+    char_map = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ő': 'o', 'ú': 'u', 'ű': 'u', 'ü': 'u',
+        'Á': 'a', 'É': 'e', 'Í': 'i', 'Ó': 'o', 'Ő': 'o', 'Ú': 'u', 'Ű': 'u', 'Ü': 'u',
+        'ă': 'a', 'â': 'a', 'î': 'i', 'ș': 's', 'ş': 's', 'ț': 't', 'ţ': 't',
+        'Ă': 'a', 'Â': 'a', 'Î': 'i', 'Ș': 's', 'Ş': 's', 'Ț': 't', 'Ţ': 't'
+    }
+    for orig, repl in char_map.items():
+        text = text.replace(orig, repl)
+    
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
+    text = re.sub(r'[\s-]+', '-', text).strip('-')
+    return text[:80]
+
 def parse_published_time(entry) -> int:
     pub_parsed = entry.get('published_parsed') or entry.get('updated_parsed')
     if pub_parsed:
@@ -334,9 +352,7 @@ def run_pipeline():
             "fetched_at": art["published_at"]
         })
 
-    # ==============================================================================
-    # ARCHIVÁLÁS ÉS MEMÓRIA FRISSÍTÉS (TELJES ARCHÍVUM FELHALMOZÁS)
-    # ==============================================================================
+    # ARCHIVÁLÁS
     fresh_memory = []
     archive_updated = False
     existing_archive_links = {a["link"] for a in archive}
@@ -381,9 +397,7 @@ def run_pipeline():
 
     save_json_file(GROUPED_FILE, list(grouped_dictionary.values()))
 
-    # ==============================================================================
-    # BŐVÍTŐ NEWS.JSON FRISSÍTÉS (NEM TÖRÖL, MEGTARTJA AZ AI SZINTETIZÁLT CIKKEKET)
-    # ==============================================================================
+    # NEWS.JSON FRISSÍTÉS
     os.makedirs("src/data", exist_ok=True)
     existing_news = load_json_file(OUTPUT_FILE)
     
@@ -392,6 +406,10 @@ def run_pipeline():
     for item in fresh_memory:
         g_id = item.get("group_id")
         pub_time = int(item.get("fetched_at", 0))
+
+        clean_slug = slugify(item.get("title", ""))
+        short_id = g_id.replace("group_", "")[:6]
+        final_slug = f"{clean_slug}-{short_id}" if clean_slug else g_id
 
         # A) HA MÁR BENT VAN A NEWS.JSON-BAN (pl. már AI szintetizált):
         if g_id in news_map:
@@ -409,6 +427,9 @@ def run_pipeline():
             
             if item.get("is_b2b_only"):
                 news_map[g_id]["is_b2b_only"] = True
+
+            if "slug" not in news_map[g_id]:
+                news_map[g_id]["slug"] = final_slug
         
         # B) HA ÚJ HÍRCSOPORT, HOZZÁADJUK NYERSKÉNT:
         else:
@@ -419,6 +440,7 @@ def run_pipeline():
             }]
             news_map[g_id] = {
                 "group_id": g_id,
+                "slug": final_slug,
                 "category": item.get("category", "Általános"),
                 "is_synthesized": False,
                 "is_b2b_only": item.get("is_b2b_only", False),
@@ -445,27 +467,31 @@ def run_pipeline():
     for item in valid_news_list:
         item["importance_score"] = calculate_importance_score(item)
 
-    # Elődlegesen az okos fontossági pontszám, másodlagosan a frissesség számít
     valid_news_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
 
-    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE
+    # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP) ELLENŐRZÉSE (EGYETLEN ÉS TÖBB HÍR TÁMOGATÁSA)
     manual_top_data = load_json_file(MANUAL_TOP_FILE)
-    forced_group_id = None
+    forced_group_ids = []
+
     if isinstance(manual_top_data, dict):
-        forced_group_id = manual_top_data.get("group_id")
+        if "group_ids" in manual_top_data and isinstance(manual_top_data["group_ids"], list):
+            forced_group_ids = manual_top_data["group_ids"]
+        elif "group_id" in manual_top_data:
+            forced_group_ids = [manual_top_data["group_id"]]
 
     final_sorted_list = []
-    forced_item = None
+    forced_items = []
 
     for item in valid_news_list:
-        if forced_group_id and item.get("group_id") == forced_group_id:
-            forced_item = item
+        if item.get("group_id") in forced_group_ids:
+            forced_items.append(item)
         else:
             final_sorted_list.append(item)
 
-    if forced_item:
-        final_sorted_list.insert(0, forced_item)
-        print(f"👑 Kézi kiemelés aktiválva a(z) {forced_group_id} azonosítójú hírhez!")
+    if forced_items:
+        forced_items.sort(key=lambda x: forced_group_ids.index(x.get("group_id")) if x.get("group_id") in forced_group_ids else 999)
+        final_sorted_list = forced_items + final_sorted_list
+        print(f"👑 Kézi kiemelés aktiválva {len(forced_items)} db hírhez a lista elején!")
 
     # Forrás szerinti kiegyensúlyozás
     balanced_list = []
@@ -485,7 +511,7 @@ def run_pipeline():
     final_list = balanced_list + skipped_items
 
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ 24 órás hírfrissítés kész! Bővítve, súlyozva és megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
+    print(f"⚡ 24 órás erdélyi hírfrissítés kész! Bővítve, súlyozva és megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
