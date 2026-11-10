@@ -13,8 +13,15 @@ import heroEducation from "@/assets/stirix-education.jpg";
 import heroCluj from "@/assets/stirix-cluj.jpg";
 import { selectArticlePhoto } from "./hero-photo-selection";
 
-// New gallery pointers join their category automatically on the next deployment.
-const gallery = Object.entries(import.meta.glob<{ url: string }>("../assets/gallery/**/*.asset.json", { eager: true, import: "default" })).sort(([a], [b]) => a.localeCompare(b));
+// Gallery photos are real files under public/gallery so external hosts (Vercel, Cloudflare) serve them;
+// pointer metadata only supplies the file name and category.
+const gallery = Object.entries(import.meta.glob<{ url: string }>("../assets/gallery/**/*.asset.json", { eager: true, import: "default" }))
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([path, asset]): [string, { url: string }] => {
+    const category = (path.split("/gallery/")[1] ?? "").split("/")[0];
+    const file = asset.url.split("/").pop();
+    return [path, { url: `/gallery/${category}/${file}` }];
+  });
 const photos = (category: string, name?: RegExp) => gallery
   .filter(([path]) => path.includes(`/gallery/${category}/`) && (!name || name.test(path)))
   .map(([, asset]) => asset.url);
