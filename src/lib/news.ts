@@ -7,6 +7,7 @@ export type LangContent = { title: string; lead: string; content: string };
 
 type RawItem = {
   group_id: string;
+  slug?: string | null;
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
@@ -70,6 +71,7 @@ function normalize(r: RawItem): NewsItem {
 
   return {
     group_id: r.group_id,
+    slug: r.slug?.trim() || null,
     image: r.image,
     is_synthesized: r.is_synthesized,
     sources_count: r.sources_count,
@@ -159,7 +161,7 @@ export const isRecent = (n: NewsItem) =>
 
 /** Archív cikkek (weboldalparolas.py → src/data/archive.json), group_id szerint összevonva. */
 type ArchiveRaw = {
-  group_id?: string; source?: string; title?: string; link?: string;
+  group_id?: string; slug?: string | null; source?: string; title?: string; link?: string;
   image?: string | null; summary?: string; category?: string | null; fetched_at?: number;
 };
 
@@ -187,6 +189,7 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
     const c: LangContent = { title: first.title ?? "", lead: clean(first.summary?.slice(0, 220)), content: first.summary ?? "" };
     return {
       group_id: id,
+      slug: first.slug?.trim() || null,
       image: arts.find((x) => x.image)?.image ?? null,
       is_synthesized: false,
       sources: arts.map((x) => ({ source: x.source ?? "", title: x.title ?? "", link: x.link ?? "" })),
@@ -201,7 +204,17 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
 export const history = buildHistory(news);
 export const archive: NewsItem[] = buildArchive(news, history);
 
-export const getNews = (id: string) => news.find((n) => n.group_id === id) ?? history.find((n) => n.group_id === id) ?? archive.find((n) => n.group_id === id);
+/** Prefer clean URLs, while retaining IDs for records without a supplied slug. */
+export const articlePath = (item: Pick<NewsItem, "slug" | "group_id">) => item.slug || item.group_id;
+
+/** Slugs take priority across all collections, then legacy IDs are matched. */
+export const getNews = (slugOrId: string) =>
+  news.find((n) => n.slug === slugOrId) ??
+  history.find((n) => n.slug === slugOrId) ??
+  archive.find((n) => n.slug === slugOrId) ??
+  news.find((n) => n.group_id === slugOrId) ??
+  history.find((n) => n.group_id === slugOrId) ??
+  archive.find((n) => n.group_id === slugOrId);
 
 /** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. Az archívumot is tartalmazza. */
 const byRelevanceCmp = (a: NewsItem, b: NewsItem) =>

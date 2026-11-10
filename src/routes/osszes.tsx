@@ -1,4 +1,5 @@
-import { createFileRoute, Link } from "@tanstack/react-router";
+import { createFileRoute } from "@tanstack/react-router";
+import { StoryLink } from "@/components/StoryLink";
 import { RichText } from "@/components/RichText";
 import { useMemo, useState } from "react";
 import { PageShell } from "@/components/PageShell";
@@ -67,7 +68,7 @@ function AllNews() {
       <ol className="divide-y divide-border rounded-lg border border-border bg-card">
         {list.map((n) => (
           <li key={n.group_id}>
-            <Link to="/hir/$id" params={{ id: n.group_id }} className="group flex gap-4 p-4">
+            <StoryLink item={n} className="group flex gap-4 p-4">
               <span className="hidden w-1 shrink-0 rounded-full bg-primary/30 transition-colors group-hover:bg-primary sm:block" />
               <div className="min-w-0">
                 <p className="text-[10px] font-bold uppercase text-muted-foreground">
@@ -77,7 +78,7 @@ function AllNews() {
                 <h2 className="mt-1 font-display text-base font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={tr(n, lang).title} /></h2>
                 <p className="mt-1 line-clamp-2 text-sm text-muted-foreground"><RichText text={tr(n, lang).lead} /></p>
               </div>
-            </Link>
+            </StoryLink>
           </li>
         ))}
         {!list.length && <li className="p-8 text-center text-sm text-muted-foreground">{ro ? "Niciun rezultat." : "Nincs találat."}</li>}
