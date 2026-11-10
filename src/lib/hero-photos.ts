@@ -18,7 +18,7 @@ import { selectArticlePhoto } from "./hero-photo-selection";
 const gallery = Object.entries(import.meta.glob<{ url: string }>("../assets/gallery/**/*.asset.json", { eager: true, import: "default" }))
   .sort(([a], [b]) => a.localeCompare(b))
   .map(([path, asset]): [string, { url: string }] => {
-    const category = path.split("/gallery/")[1].split("/")[0];
+    const category = (path.split("/gallery/")[1] ?? "").split("/")[0];
     const file = asset.url.split("/").pop();
     return [path, { url: `/gallery/${category}/${file}` }];
   });
