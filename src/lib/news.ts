@@ -25,7 +25,17 @@ type RawItem = {
   content_ro?: string;
 };
 
-export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "title_ro" | "lead_ro" | "content_ro" | "category" | "tags"> & {
+export type NewsItem = Omit<
+  RawItem,
+  | "title_hu"
+  | "lead_hu"
+  | "content_hu"
+  | "title_ro"
+  | "lead_ro"
+  | "content_ro"
+  | "category"
+  | "tags"
+> & {
   // Magyar alapértelmezések (kereséshez, AI-hoz, SEO-hoz)
   title: string;
   lead: string;
@@ -35,7 +45,15 @@ export type NewsItem = Omit<RawItem, "title_hu" | "lead_hu" | "content_hu" | "ti
   i18n: Record<Lang, LangContent>;
 };
 
-export const CATEGORIES = ["Általános", "Politika", "Gazdaság", "Erdély", "Sport", "Kultúra", "Bulvár"] as const;
+export const CATEGORIES = [
+  "Általános",
+  "Politika",
+  "Gazdaság",
+  "Erdély",
+  "Sport",
+  "Kultúra",
+  "Bulvár",
+] as const;
 export const ALL = "Összes hír";
 
 const normCategory = (c?: string | null) => {
@@ -192,17 +210,20 @@ export const HUNGARIAN_SOURCES = [
   "Krónika",
   "Romkat",
   "Vásárhely.ma",
-  "Mediatica.ro"
+  "Mediatica.ro",
 ];
 
 export const isHungarianSource = (n: NewsItem) =>
-  n.sources.some((s) => HUNGARIAN_SOURCES.some((h) => s.source.toLocaleLowerCase("hu").includes(h.toLocaleLowerCase("hu"))));
+  n.sources.some((s) =>
+    HUNGARIAN_SOURCES.some((h) =>
+      s.source.toLocaleLowerCase("hu").includes(h.toLocaleLowerCase("hu")),
+    ),
+  );
 
 // B) egyedi, egyforrású hírek → élő idősáv
 export const singles = news
   .filter((n) => !n.is_synthesized)
   .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0));
-
 
 export function timeAgo(ts: number | null | undefined, lang: Lang = "hu") {
   if (!ts) return lang === "ro" ? "Recent" : "Friss";
@@ -217,7 +238,10 @@ export function timeAgo(ts: number | null | undefined, lang: Lang = "hu") {
 export function formatDate(ts: number | null | undefined, lang: Lang = "hu") {
   if (!ts) return "";
   return new Date(ts * 1000).toLocaleString(lang === "ro" ? "ro-RO" : "hu-HU", {
-    month: "short", day: "numeric", hour: "2-digit", minute: "2-digit",
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
     ...(localTz ? {} : { timeZone: "Europe/Bucharest" }),
   });
 }
@@ -232,8 +256,16 @@ export const isRecent = (n: NewsItem) =>
 
 /** Archív cikkek (weboldalparolas.py → src/data/archive.json), group_id szerint összevonva. */
 type ArchiveRaw = {
-  group_id?: string; slug?: string | null; tags?: string[] | null; source?: string; title?: string; link?: string;
-  image?: string | null; summary?: string; category?: string | null; fetched_at?: number;
+  group_id?: string;
+  slug?: string | null;
+  tags?: string[] | null;
+  source?: string;
+  title?: string;
+  link?: string;
+  image?: string | null;
+  summary?: string;
+  category?: string | null;
+  fetched_at?: number;
 };
 
 /** Minden valaha elkészült kártya (cikk_szintetizalas.py → news_archive.json), a friss news.json felülírja. */
@@ -257,15 +289,25 @@ const buildArchive = (current: NewsItem[], hist: NewsItem[]) => {
   }
   return [...archiveGroups.entries()].map(([id, arts]) => {
     const first = arts[0] ?? {};
-    const c: LangContent = { title: first.title ?? "", lead: clean(first.summary?.slice(0, 220)), content: first.summary ?? "" };
+    const c: LangContent = {
+      title: first.title ?? "",
+      lead: clean(first.summary?.slice(0, 220)),
+      content: first.summary ?? "",
+    };
     return {
       group_id: id,
       slug: first.slug?.trim() || null,
       image: arts.find((x) => x.image)?.image ?? null,
       is_synthesized: false,
-      sources: arts.map((x) => ({ source: x.source ?? "", title: x.title ?? "", link: x.link ?? "" })),
+      sources: arts.map((x) => ({
+        source: x.source ?? "",
+        title: x.title ?? "",
+        link: x.link ?? "",
+      })),
       published_at: Math.max(...arts.map((x) => x.fetched_at ?? 0)) || null,
-      title: c.title, lead: c.lead, content: c.content,
+      title: c.title,
+      lead: c.lead,
+      content: c.content,
       category: normCategory(first.category),
       tags: normalizeTags(first.tags, normCategory(first.category)),
       i18n: { hu: c, ro: c },
@@ -277,7 +319,8 @@ export const history = buildHistory(news);
 export const archive: NewsItem[] = buildArchive(news, history);
 
 /** Prefer clean URLs, while retaining IDs for records without a supplied slug. */
-export const articlePath = (item: Pick<NewsItem, "slug" | "group_id">) => item.slug || item.group_id;
+export const articlePath = (item: Pick<NewsItem, "slug" | "group_id">) =>
+  item.slug || item.group_id;
 
 /** Slugs take priority across all collections, then legacy IDs are matched. */
 export const getNews = (slugOrId: string) =>
@@ -290,7 +333,7 @@ export const getNews = (slugOrId: string) =>
 
 /** Relevancia: több forrás + AI összefűzés előre, azon belül frissebb előre. Az archívumot is tartalmazza. */
 const byRelevanceCmp = (a: NewsItem, b: NewsItem) =>
-  (b.sources.length + (b.is_synthesized ? 1 : 0)) - (a.sources.length + (a.is_synthesized ? 1 : 0)) ||
+  b.sources.length + (b.is_synthesized ? 1 : 0) - (a.sources.length + (a.is_synthesized ? 1 : 0)) ||
   (b.published_at ?? 0) - (a.published_at ?? 0);
 
 export const byRelevance = [...news, ...history, ...archive].sort(byRelevanceCmp);
@@ -335,7 +378,13 @@ export function applyLiveNews(items: NewsItem[]): boolean {
 
   news.splice(0, news.length, ...items);
   synthesized.splice(0, synthesized.length, ...news.filter((n) => n.is_synthesized));
-  singles.splice(0, singles.length, ...news.filter((n) => !n.is_synthesized).sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0)));
+  singles.splice(
+    0,
+    singles.length,
+    ...news
+      .filter((n) => !n.is_synthesized)
+      .sort((a, b) => (b.published_at ?? 0) - (a.published_at ?? 0)),
+  );
   const hist = buildHistory(news);
   history.splice(0, history.length, ...hist);
   const arch = buildArchive(news, hist);
@@ -350,7 +399,8 @@ export function applyLiveNews(items: NewsItem[]): boolean {
 // ---------------------------------------------------------------------------
 // Archívumok futásidejű betöltése (nem részei a szerver-csomagnak).
 // ---------------------------------------------------------------------------
-const HISTORY_BASE = "https://raw.githubusercontent.com/vede2004-glitch/pixel-perfect-prompt-712/main/src/data";
+const HISTORY_BASE =
+  "https://raw.githubusercontent.com/vede2004-glitch/pixel-perfect-prompt-712/main/src/data";
 const HISTORY_TTL_MS = 30 * 60 * 1000;
 let historyAt = 0;
 let historyLoading: Promise<void> | null = null;
@@ -384,7 +434,11 @@ export function ensureHistory(): Promise<void> {
   if (historyAt && Date.now() - historyAt < HISTORY_TTL_MS) return Promise.resolve();
   if (historyLoading) return historyLoading;
   historyLoading = (async () => {
-    const [h1, h2, arch] = await Promise.all([fetchArray("news_archive.json"), fetchArray("news_archive_2.json"), fetchArray("archive.json")]);
+    const [h1, h2, arch] = await Promise.all([
+      fetchArray("news_archive.json"),
+      fetchArray("news_archive_2.json"),
+      fetchArray("archive.json"),
+    ]);
     if (h1 || h2 || arch) {
       applyHistory([...(h1 ?? []), ...(h2 ?? [])], arch ?? []);
       historyAt = Date.now();

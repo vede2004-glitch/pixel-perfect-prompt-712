@@ -19,9 +19,16 @@ export const Route = createFileRoute("/osszes")({
   head: () => ({
     meta: [
       { title: "Minden hír relevancia szerint – Stirix.ro" },
-      { name: "description", content: "A Stirix.ro összes híre egy helyen, a legtöbb forrásból összefűzött hírekkel elöl." },
+      {
+        name: "description",
+        content:
+          "A Stirix.ro összes híre egy helyen, a legtöbb forrásból összefűzött hírekkel elöl.",
+      },
       { property: "og:title", content: "Minden hír relevancia szerint – Stirix.ro" },
-      { property: "og:description", content: "A Stirix.ro összes híre egy helyen, relevancia szerint rendezve." },
+      {
+        property: "og:description",
+        content: "A Stirix.ro összes híre egy helyen, relevancia szerint rendezve.",
+      },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
     ],
@@ -30,8 +37,14 @@ export const Route = createFileRoute("/osszes")({
 });
 
 const categoryRo: Record<string, string> = {
-  [ALL]: "Toate", "Általános": "General", "Politika": "Politică", Sport: "Sport",
-  "Erdély": "Transilvania", "Kultúra": "Cultură", "Gazdaság": "Economie", "Bulvár": "Monden",
+  [ALL]: "Toate",
+  Általános: "General",
+  Politika: "Politică",
+  Sport: "Sport",
+  Erdély: "Transilvania",
+  Kultúra: "Cultură",
+  Gazdaság: "Economie",
+  Bulvár: "Monden",
 };
 
 function AllNews() {
@@ -42,7 +55,15 @@ function AllNews() {
   const [kind, setKind] = useState<"all" | "ai" | "single">("all");
   const newsVersion = useNewsVersion();
   const list = useMemo(
-    () => byRelevance.filter((n) => (kind === "all" || (kind === "ai") === n.is_synthesized) && (category === ALL || n.category === category) && `${tr(n, lang).title} ${tr(n, lang).lead}`.toLocaleLowerCase("hu").includes(query.toLocaleLowerCase("hu"))),
+    () =>
+      byRelevance.filter(
+        (n) =>
+          (kind === "all" || (kind === "ai") === n.is_synthesized) &&
+          (category === ALL || n.category === category) &&
+          `${tr(n, lang).title} ${tr(n, lang).lead}`
+            .toLocaleLowerCase("hu")
+            .includes(query.toLocaleLowerCase("hu")),
+      ),
     [category, query, lang, kind, newsVersion],
   );
 
@@ -50,22 +71,55 @@ function AllNews() {
     <PageShell
       eyebrow={ro ? "Arhivă" : "Archívum"}
       title={ro ? "Toate știrile, după relevanță" : "Minden hír relevancia szerint"}
-      intro={ro ? "Știrile din mai multe surse apar primele, apoi cele mai noi." : "Elöl a több forrásból összefűzött hírek, utánuk a legfrissebbek."}
+      intro={
+        ro
+          ? "Știrile din mai multe surse apar primele, apoi cele mai noi."
+          : "Elöl a több forrásból összefűzött hírek, utánuk a legfrissebbek."
+      }
     >
       <div className="mb-6 flex flex-col gap-3">
-        <input value={query} onChange={(e) => setQuery(e.target.value)} placeholder={ro ? "Caută știri..." : "Keresés hírekre..."} className="h-10 rounded-md border border-border bg-secondary px-3 text-sm outline-none focus:border-primary/50" />
+        <input
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder={ro ? "Caută știri..." : "Keresés hírekre..."}
+          className="h-10 rounded-md border border-border bg-secondary px-3 text-sm outline-none focus:border-primary/50"
+        />
         <div className="flex gap-2 overflow-x-auto">
-          {([
-            ["all", ro ? "Toate știrile" : "Minden hír"],
-            ["ai", ro ? "✨ Rezumate AI" : "✨ AI összesített hírek"],
-            ["single", ro ? "Știri dintr-o sursă" : "Egyforrású hírek"],
-          ] as const).map(([k, label]) => <Button key={k} size="sm" variant={kind === k ? "default" : "outline"} onClick={() => setKind(k)} className="whitespace-nowrap">{label}</Button>)}
+          {(
+            [
+              ["all", ro ? "Toate știrile" : "Minden hír"],
+              ["ai", ro ? "✨ Rezumate AI" : "✨ AI összesített hírek"],
+              ["single", ro ? "Știri dintr-o sursă" : "Egyforrású hírek"],
+            ] as const
+          ).map(([k, label]) => (
+            <Button
+              key={k}
+              size="sm"
+              variant={kind === k ? "default" : "outline"}
+              onClick={() => setKind(k)}
+              className="whitespace-nowrap"
+            >
+              {label}
+            </Button>
+          ))}
         </div>
         <div className="flex gap-2 overflow-x-auto">
-          {[ALL, ...CATEGORIES].map((c) => <Button key={c} size="sm" variant={category === c ? "default" : "ghost"} onClick={() => setCategory(c)} className="whitespace-nowrap">{ro ? categoryRo[c] ?? c : c}</Button>)}
+          {[ALL, ...CATEGORIES].map((c) => (
+            <Button
+              key={c}
+              size="sm"
+              variant={category === c ? "default" : "ghost"}
+              onClick={() => setCategory(c)}
+              className="whitespace-nowrap"
+            >
+              {ro ? (categoryRo[c] ?? c) : c}
+            </Button>
+          ))}
         </div>
       </div>
-      <p className="mb-4 text-xs font-bold uppercase text-muted-foreground">{list.length} {ro ? "știri" : "hír"}</p>
+      <p className="mb-4 text-xs font-bold uppercase text-muted-foreground">
+        {list.length} {ro ? "știri" : "hír"}
+      </p>
       <ol className="divide-y divide-border rounded-lg border border-border bg-card">
         {list.map((n) => (
           <li key={n.group_id}>
@@ -74,16 +128,30 @@ function AllNews() {
               <div className="min-w-0">
                 <p className="text-[10px] font-bold uppercase text-muted-foreground">
                   {n.is_synthesized && <span className="text-primary">✨ AI · </span>}
-                  {ro ? categoryRo[n.category] ?? n.category : n.category} · {formatDate(n.published_at, lang)} · {n.sources.length > 1 ? (ro ? `${n.sources.length} surse` : `${n.sources.length} forrás`) : n.sources[0]?.source}
+                  {ro ? (categoryRo[n.category] ?? n.category) : n.category} ·{" "}
+                  {formatDate(n.published_at, lang)} ·{" "}
+                  {n.sources.length > 1
+                    ? ro
+                      ? `${n.sources.length} surse`
+                      : `${n.sources.length} forrás`
+                    : n.sources[0]?.source}
                 </p>
-                <h2 className="mt-1 font-display text-base font-bold leading-snug transition-colors group-hover:text-primary"><RichText text={tr(n, lang).title} /></h2>
-                <p className="mt-1 line-clamp-2 text-sm text-muted-foreground"><RichText text={tr(n, lang).lead} /></p>
+                <h2 className="mt-1 font-display text-base font-bold leading-snug transition-colors group-hover:text-primary">
+                  <RichText text={tr(n, lang).title} />
+                </h2>
+                <p className="mt-1 line-clamp-2 text-sm text-muted-foreground">
+                  <RichText text={tr(n, lang).lead} />
+                </p>
               </div>
             </StoryLink>
             <TagChips item={n} className="-mt-2 mx-4 mb-4" />
           </li>
         ))}
-        {!list.length && <li className="p-8 text-center text-sm text-muted-foreground">{ro ? "Niciun rezultat." : "Nincs találat."}</li>}
+        {!list.length && (
+          <li className="p-8 text-center text-sm text-muted-foreground">
+            {ro ? "Niciun rezultat." : "Nincs találat."}
+          </li>
+        )}
       </ol>
     </PageShell>
   );

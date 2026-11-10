@@ -31,7 +31,7 @@ export const Route = createFileRoute("/tag/$tagName")({
       void ensureHistory();
     }
     const tag = tagSlug(params.tagName);
-    const lang = typeof window === "undefined" ? (await getDomainLang()) ?? "hu" : getLang();
+    const lang = typeof window === "undefined" ? ((await getDomainLang()) ?? "hu") : getLang();
     return { tag, lang, count: newsByTag(tag).length };
   },
   head: ({ loaderData, params }) => {
@@ -90,7 +90,8 @@ function TagPage() {
               <StoryLink item={item} className="group block">
                 <p className="text-[10px] font-bold uppercase text-muted-foreground">
                   {item.is_synthesized && <span className="text-primary">✨ AI · </span>}
-                  {ro ? (categoryRo[item.category] ?? item.category) : item.category} · {formatDate(item.published_at, lang)}
+                  {ro ? (categoryRo[item.category] ?? item.category) : item.category} ·{" "}
+                  {formatDate(item.published_at, lang)}
                 </p>
                 <h2 className="mt-2 font-display text-lg font-bold leading-snug transition-colors group-hover:text-primary">
                   <RichText text={tr(item, lang).title} />
