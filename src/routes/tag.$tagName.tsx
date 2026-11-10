@@ -78,7 +78,11 @@ function TagPage() {
     <PageShell
       eyebrow={`#${tag}`}
       title={ro ? `Articole pe tema: „${label}”` : `Cikkek ebben a témában: „${label}”`}
-      intro={ro ? `${items.length} articol găsit` : `${items.length} cikk található`}
+      intro={
+        ro
+          ? `${items.length} ${items.length === 1 ? "articol găsit" : "articole găsite"}`
+          : `${items.length} cikk található`
+      }
     >
       {items.length ? (
         <ol className="mx-auto max-w-3xl divide-y divide-border rounded-lg border border-border bg-card">
