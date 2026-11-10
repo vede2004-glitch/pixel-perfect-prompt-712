@@ -537,7 +537,7 @@
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 22,
+    "sources_count": 23,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -648,6 +648,11 @@
         "source": "G4Media",
         "title": "Președintele Nicușor Dan susține o conferință de presă marți, de la ora 19.00",
         "link": "https://www.g4media.ro/presedintele-nicusor-dan-sustine-o-conferinta-de-presa-marti-de-la-ora-19-00.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ce calcule a făcut Nicușor Dan când i-a încredințat formarea guvernului lui Adrian Veștea. Despre negocierile acestuia cu AUR",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ce-calcule-a-facut-nicusor-dan-cand-i-a-incredintat-formarea-guvernului-lui-adrian-vestea-despre-negocierile-acestuia-cu-aur-4030331"
       }
     ],
     "published_at": 1794333308,
@@ -657,7 +662,7 @@
     "title_ro": "Nicușor Dan după criza politică: riscuri financiare și excluderea AUR de la guvernare",
     "lead_ro": "La conferința de presă din 10 noiembrie, Nicușor Dan și-a explicat deciziile din timpul crizei politice și a prezentat provocările financiare ale guvernului. Președintele a susținut că participarea AUR la guvernare ar fi pus în pericol ratingul țării, economia și stabilitatea instituțională.",
     "content_ro": "• **10 noiembrie, Palatul Cotroceni:** Nicușor Dan a susținut prima conferință de acest fel după învestirea Guvernului Luca Niculescu, din 20 octombrie; precedenta avusese loc pe 8 aprilie. Președintele a spus că a considerat necesar un dialog la încheierea crizei politice și a descris scăderea nivelului de trai și incertitudinea politică drept elemente ale perioadei dificile.\n\n• **Patru teme principale:** Șeful statului a abordat situația financiară și evaluările agențiilor de rating, posibilele efecte ale intrării AUR la guvernare, riscurile economice ale alegerilor anticipate și motivul pentru care, în opinia sa, PNL și USR nu ar fi putut forma un guvern fără PSD, având sprijinul parlamentar de care dispuneau.\n\n• **Finanțele publice:** Potrivit lui Dan, rectificarea bugetară a păstrat plafonul cheltuielilor, iar o emisiune de obligațiuni desfășurată în săptămâna precedentă a asigurat o parte din finanțarea datoriei curente. El a prezentat aceste rezultate ca dovezi că România și-a respectat angajamentele financiare și păstrează încrederea pieței.\n\n• **AUR la guvernare:** Președintele a apreciat că participarea formațiunii ar fi putut duce rapid la deteriorarea ratingului, la creșterea costurilor de împrumut și la tensiuni între instituții. În evaluarea sa, partidul nu oferea suficiente garanții privind predictibilitatea politicilor economice; acestea au fost argumentele lui, nu consecințe deja produse.\n\n• **Marea Neagră și raportul electoral:** Operațiunea de deminare desfășurată de România, Bulgaria și Turcia a fost extinsă, după summitul de la Ankara, la protejarea infrastructurii critice. Centrul regional de securitate planificat ar urma să aibă puncte de lucru la Constanța și Varna. Raportul privind anularea alegerilor prezidențiale din 2024 nu este încă finalizat, autoritățile române așteptând răspunsuri din străinătate.",
-    "importance_score": 240.0,
+    "importance_score": 250.0,
     "is_top_hero": false
   },
   {
@@ -888,88 +893,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_6e42a30a7b",
-    "slug": "tiz-es-fel-ev-brtnt-kapott-russell-brand-uj-bejelenteseket-vizsgal-a-rendorseg-6e42a3",
-    "tags": [
-      "russell-brand",
-      "condamnare",
-      "politie",
-      "agresiune-sexuala"
-    ],
-    "fingerprint": "21bd971c42f785fb6ef4c7850c6301ec",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Russell Brand a fost condamnat la 10 ani și jumătate de închisoare pentru viol și agresiune sexuală",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/russell-brand-a-fost-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiune-sexuala-4028319"
-      },
-      {
-        "source": "Maszol",
-        "title": "Tíz és fél év börtönre ítélték a volt televíziós műsorvezetőt többrendbeli nemi erőszak miatt",
-        "link": "https://maszol.ro/kulfold/Tiz-es-fel-ev-bortonre-iteltek-a-volt-televizios-musorvezetot-tobbrendbeli-nemi-eroszak-miatt"
-      },
-      {
-        "source": "Digi24",
-        "title": "Mărirea și decăderea lui Russell Brand: vedetă TV, actor, activist politic și dependent de sex condamnat într-un final pentru viol",
-        "link": "https://www.digi24.ro/magazin/timp-liber/showbiz/marirea-si-decaderea-lui-russell-brand-vedeta-tv-actor-activist-politic-si-dependent-de-sex-condamnat-intr-un-final-pentru-viol-4028947"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Noi sesizări la adresa lui Russell Brand, după ce a fost condamnat la închisoare pentru viol și agresiune sexuală",
-        "link": "https://hotnews.ro/noi-sesizari-la-adresa-lui-russell-brand-dupa-ce-a-fost-condamnat-la-inchisoare-pentru-viol-si-agresiune-sexuala-2400068"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Russell Brand, condamnat la peste 10 ani de închisoare. Actorul a fost găsit vinovat de viol și agresiuni sexuale",
-        "link": "https://adevarul.ro/showbiz/vedete/russell-brand-condamnat-la-peste-10-ani-de-2570156.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Russell Brand, condamnat la închisoare! Ce sentință grea a primit fostul soț al lui Katy Perry",
-        "link": "https://www.cancan.ro/russell-brand-condamnat-la-inchisoare-ce-sentinta-grea-a-primit-fostul-sot-al-lui-katy-perry-21544484"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Actorul Russell Brand, condamnat la 10 ani și jumătate de închisoare pentru viol și agresiuni sexuale",
-        "link": "https://www.mediafax.ro/life-entertaiment/actorul-russell-brand-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiuni-sexuale-23840391"
-      },
-      {
-        "source": "G4Media",
-        "title": "Actorul Russell Brand, condamnat la 10 ani și jumătate de închisoare pentru viol și agresiuni sexuale",
-        "link": "https://www.g4media.ro/actorul-russell-brand-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiuni-sexuale.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Actorul Russell Brand a fost condamnat la 10 ani și jumătate de închisoare, pentru viol și agresiune sexuală",
-        "link": "https://stirileprotv.ro/stiri/international/actorul-russell-brand-a-fost-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiune-sexuala.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Pedeapsa primită de comediantul Russell Brand, în dosarul în care a fost găsit vinovat de viol și agresiuni sexuale",
-        "link": "https://hotnews.ro/pedeapsa-primita-de-comediantul-russell-brand-in-dosarul-in-care-a-fost-gasit-vinovat-de-viol-si-agresiuni-sexuale-2399211"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Russell Brand riscă ani grei de închisoare. Actorul revine în fața judecătorilor pentru sentință",
-        "link": "https://www.mediafax.ro/stirile-zilei/russell-brand-risca-ani-grei-de-inchisoare-actorul-revine-in-fata-judecatorilor-pentru-sentinta-23840023"
-      }
-    ],
-    "published_at": 1794315233,
-    "title_hu": "Tíz és fél év börtönt kapott Russell Brand; új bejelentéseket vizsgál a rendőrség",
-    "lead_hu": "A londoni Southwark koronabíróság hétfőn tíz és fél év szabadságvesztésre ítélte Russell Brandet nemi erőszak és három szexuális támadás miatt. A hatóságok új bejelentéseket értékelnek, miközben két további nő állításai ügyében is folyik vizsgálat.",
-    "content_hu": "• **Az ítélet és a tárgyalás** A négy héten át tartó perben az esküdtszék hét vádpont közül négyben találta bűnösnek Brandet: egy nemi erőszakban és három szexuális támadásban. Két további nemi erőszak és egy támadási kísérlet miatt felmentették. A büntetés kétharmadát kell börtönben töltenie.\n\n• **A bíró megállapításai** Joel Bennathan kilenc év szabadságvesztést szabott ki a nemi erőszakért, a további bűncselekményekért pedig rövidebb büntetéseket. Jelezte, hogy enyhítő körülmények nélkül egy évvel súlyosabb ítéletet hozott volna. Az indoklás szerint a 2009-es támadás jelentős testi sérülést okozott.\n\n• **A sértettek beszámolói** A 2009-es, anális nemi erőszak áldozata a bíróságon felolvasott nyilatkozatában arról számolt be, hogy a történtek lelki terhét ma is magával viseli. A tárgyalás indoklását a brit televíziók közvetítették, és előre jelezték, hogy felkavaró részletek hangzanak el.\n\n• **További rendőrségi ügyek** Andy Furphy nyomozó szerint a per alatt és az ítélet után több új jelzés érkezett; ezek tartalmát még értékelik. Brand ellen két másik nő állításai miatt is nyomoznak, és ezek kapcsán figyelmeztetés mellett hallgatták ki. Az egyik bejelentés egy olyan állítólagos nemi erőszakra vonatkozik, amely idején az érintett 16 éves volt.\n\n• **Brand és a nyilvánosság** Az 51 éves Brand a tárgyaláson tagadta a vádakat, és azt állította, hogy kapcsolatai beleegyezésen alapultak. Korábban televíziós műsorvezetőként, humoristaként és filmszínészként vált ismertté, később politikai aktivistaként is szerepelt. Az ítélet után apja a fiát nevezte az ügy áldozatának.",
-    "title_ro": "Russell Brand a primit zece ani și jumătate de închisoare; poliția verifică noi sesizări",
-    "lead_ro": "Luni, instanța Southwark Crown Court din Londra l-a condamnat pe Russell Brand la zece ani și jumătate de închisoare pentru viol și trei agresiuni sexuale. Poliția analizează noi sesizări, în timp ce investighează și acuzațiile formulate de alte două femei.",
-    "content_ro": "• **Sentința și procesul** După un proces de patru săptămâni, juriul l-a găsit vinovat pe Brand în patru dintre cele șapte capete de acuzare: unul de viol și trei de agresiune sexuală. El a fost achitat pentru alte două acuzații de viol și pentru o tentativă de agresiune. Va executa în detenție două treimi din pedeapsă.\n\n• **Motivarea instanței** Judecătorul Joel Bennathan a stabilit nouă ani de închisoare pentru viol, iar pentru celelalte fapte a aplicat pedepse mai scurte. El a precizat că, fără anumite circumstanțe atenuante, sentința ar fi fost cu un an mai mare. Potrivit motivării, atacul din 2009 a provocat victimei leziuni fizice importante.\n\n• **Declarațiile victimelor** Femeia violată anal în 2009 a transmis, printr-o declarație citită în instanță, că urmările psihologice ale agresiunii continuă să o afecteze. Televiziunile britanice au difuzat motivarea sentinței, avertizând publicul înaintea prezentării unor detalii tulburătoare.\n\n• **Alte verificări ale poliției** Detectivul Andy Furphy a spus că autoritățile evaluează mai multe sesizări primite în timpul procesului și după pronunțarea sentinței. Brand este investigat și în legătură cu acuzațiile formulate de alte două femei, fiind audiat sub avertisment. Una dintre sesizări privește un presupus viol comis când persoana vizată avea 16 ani.\n\n• **Brand și cariera sa** În vârstă de 51 de ani, Brand a negat acuzațiile și a susținut că relațiile sale au fost consimțite. A devenit cunoscut ca prezentator TV și comedian, apoi a jucat în filme și a activat în politică. După condamnare, tatăl său l-a descris pe fiul său drept victima cazului.",
-    "importance_score": 123.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_48ef95cadb",
     "fingerprint": "f1432102ba294f218e7d42ff038e769c",
     "category": "Általános",
@@ -1048,6 +971,90 @@
     "content_ro": "• **Pe 9 noiembrie**, armata americană a mutat mai multe aeronave de la RAF Mildenhall, în estul Angliei, în urma unei amenințări asociate Iranului. Potrivit surselor citate de The Wall Street Journal, măsura vine după retragerea unor bombardiere de la baza britanică Fairford, în urma unui episod anterior de securitate.\n\n• **Printre aparatele relocate s-au aflat avioane-cisternă:** două au plecat luni dimineață spre Germania, unde SUA dețin mai multe instalații militare. Ulterior, și alte aeronave de realimentare au fost trimise atât în Germania, cât și către alte destinații.\n\n• **Nivelul de risc nu a fost stabilit public:** oficialii americani nu au precizat natura exactă a amenințării. La Washington se evaluează dacă bazele militare americane sunt expuse unui pericol imediat sau dacă situația impune mai ales măsuri preventive; informațiile disponibile nu confirmă existența unui plan concret de atac.\n\n• **RAF Mildenhall are un rol important** în prezența militară americană din Europa, inclusiv prin avioanele sale de realimentare în zbor, necesare pentru misiuni la distanțe mari. Mutarea aeronavelor poate limita expunerea echipamentelor militare rămase la bază.\n\n• **Evoluția este relevantă și pentru aliații NATO:** infrastructura militară americană contribuie la desfășurarea operațiunilor în Europa și la capacitatea de reacție a Alianței. România găzduiește, de asemenea, facilități folosite de forțele americane, între care baza aeriană Mihail Kogălniceanu, din județul Constanța.",
     "importance_score": 123.0,
     "slug": "irani-fenyegetes-miatt-telepitettek-at-amerikai-gepeket-a-raf-mildenhallrol-48ef95",
+    "tags": [
+      "altalanos"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_f767c70e1e",
+    "fingerprint": "1908d51381c4a4b66791e9d3aaebb637",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 12,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Autorul atacului armat din Cracovia a murit la spital, a anunțat poliția poloneză",
+        "link": "https://www.digi24.ro/stiri/externe/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-a-anuntat-politia-poloneza-4027165"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "A murit atacatorul care a ucis șase oameni în Cracovia. Ancheta continuă pentru a stabili dacă a avut complici",
+        "link": "https://www.ebihoreanul.ro/stiri/a-murit-atacatorul-care-a-ucis-sase-oameni-in-cracovia-ancheta-continua-pentru-a-stabili-daca-a-avut-complici-206441.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Noi detalii despre trecutul autorului masacrului din Cracovia. Ce obișnuia să facă în timpul orelor de curs",
+        "link": "https://stirileprotv.ro/stiri/international/noi-detalii-despre-trecutul-autorului-masacrului-din-cracovia-ce-obisnuia-sa-faca-in-timpul-orelor-de-curs.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Victimele atacului armat din Cracovia. Cine sunt oamenii care și-au pierdut viața în urma tragediei",
+        "link": "https://www.digi24.ro/stiri/externe/ue/victimele-atacului-armat-din-cracovia-cine-sunt-oamenii-care-si-au-pierdut-viata-in-urma-tragediei-4028837"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Autorul atacului din Cracovia, în urma căruia au murit șase oameni, a decedat la spital",
+        "link": "https://stirileprotv.ro/stiri/international/autorul-atacului-din-cracovia-in-urma-caruia-au-murit-sase-oameni-a-decedat-la-spital.html"
+      },
+      {
+        "source": "Kolozsvári Rádió (HU)",
+        "title": "Krakkói lövöldözés: meghalt az elkövető",
+        "link": "https://www.kolozsvariradio.ro/2026/11/09/krakkoi-lovoldozes-meghalt-az-elkoveto/"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Tânărul care a ucis șase oameni în Cracovia a murit la spital. Însemnele găsite pe hainele atacatorului",
+        "link": "https://hotnews.ro/tanarul-care-a-ucis-sase-oameni-in-cracovia-a-murit-la-spital-insemnele-gasite-pe-hainele-atacatorului-2398703"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Autorul masacrului de la Cracovia a murit la spital",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/autorul-masacrului-de-la-cracovia-a-murit-la-2569941.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atacatorul care a ucis șase persoane în Cracovia a murit la spital",
+        "link": "https://www.mediafax.ro/externe/atacatorul-care-a-ucis-sase-persoane-in-cracovia-a-murit-la-spital-23840006"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Meghalt a kórházban a krakkói lövöldözés elkövetője",
+        "link": "https://transtelex.ro/kulfold/2026/11/09/meghalt-krakko-lovoldozo-korhaz"
+      },
+      {
+        "source": "G4Media",
+        "title": "Bărbatul care a ucis șase persoane în Cracovia a decedat în spital",
+        "link": "https://www.g4media.ro/barbatul-care-a-ucis-sase-persoane-in-cracovia-a-decedat-in-spital.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Autorul atacului armat de la Cracovia a murit la spital (poliția poloneză)",
+        "link": "https://agerpres.ro/politic-extern/2026/11/09/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-politia-poloneza--1611326"
+      }
+    ],
+    "published_at": 1794254656,
+    "title_hu": "Meghalt a krakkói lövöldözés gyanúsítottja; új részletek az áldozatokról",
+    "lead_hu": "November 9-én reggel meghalt a kórházban a krakkói lövöldözés 24 éves gyanúsítottja, Michał Oksiński. A támadásban hatan vesztették életüket, tizenöten megsebesültek; a hatóságok a családtagjai halálát és a támadás körülményeit is vizsgálják.",
+    "content_hu": "• **November 9-én reggel** a krakkói kórházban meghalt Oksiński, akit a rendőrökkel folytatott tűzharcban ért lövés. A hatóságok szerint a támadás után két rendőr súlyosan megsebesült; vasárnap visszanyerték az eszméletüket, de kórházban maradtak. Hétfőn a sebesültek közül 14-en stabil állapotban voltak, egy rendőr állapota továbbra is súlyos volt.\n\n• **A támadás hat áldozata** négy lengyel és két külföldi állampolgár volt: egy brit és egy osztrák. A nyilvánosságra került adatok három lengyel nő életkorát 61, 47 és 53 évben, az osztrák nőét 51 évben jelölték meg; egy lengyel férfi körülbelül 50 éves volt. Az áldozatok között festőművész, jótékonysági önkéntes és művészeti hallgató is szerepelt.\n\n• **A tizenöt sebesült között** tíz lengyel és öt külföldi volt, utóbbiak brit, portugál, orosz, német és osztrák állampolgárok. A támadás helyszínéről menekülő, fekete Subarut vezető gyanúsított egy kereszteződésben járműnek ütközött, majd két rendőrrel tűzharcba keveredett.\n\n• **Ostrowiec Świętokrzyskiben** a gyanúsított apját, anyját és húgát is lőtt sebekkel, holtan találták a családi otthonban. A nyomozók a három halálesetet is vizsgálják; a rendőrség a támadást terrorista jellegű cselekményként kezeli, az indíték tisztázása azonban hosszabb vizsgálatot igényelhet. A belügyi tárca szerint Oksiński szélsőjobboldali eszmékkel foglalkozott.\n\n• **Karol Nawrocki elnök** vasárnapra és hétfőre nemzeti gyászt hirdetett. A hatóságok tanúkat hallgatnak meg, bizonyítékokat elemeznek, és azt is vizsgálják, volt-e a gyanúsítottnak segítője.",
+    "title_ro": "A murit suspectul atacului din Cracovia; noi detalii despre victime",
+    "lead_ro": "În dimineața zilei de 9 noiembrie, suspectul în vârstă de 24 de ani, Michał Oksiński, a murit la spital. Atacul s-a soldat cu șase morți și 15 răniți, iar anchetatorii cercetează și moartea membrilor familiei sale, precum și circumstanțele atacului.",
+    "content_ro": "• **În dimineața zilei de 9 noiembrie**, Oksiński a murit la spitalul din Cracovia, după ce fusese împușcat în schimbul de focuri cu polițiștii. Potrivit autorităților, doi polițiști au fost grav răniți; duminică și-au recăpătat cunoștința, dar au rămas internați. Luni, 14 dintre răniți erau în stare stabilă, iar starea unui polițist era în continuare gravă.\n\n• **Cele șase persoane ucise în atac** erau patru cetățeni polonezi și doi străini: un britanic și o austriacă. Informațiile făcute publice indică vârstele de 61, 47 și 53 de ani pentru trei femei poloneze și 51 de ani pentru femeia austriacă; un bărbat polonez avea aproximativ 50 de ani. Printre victime s-au aflat o pictoriță, o voluntară a unei organizații caritabile și o studentă la arte.\n\n• **Printre cei 15 răniți** se aflau zece polonezi și cinci cetățeni străini, din Regatul Unit, Portugalia, Rusia, Germania și Austria. Suspectul, aflat la volanul unui Subaru negru, a lovit un vehicul într-o intersecție, după care a intrat într-un schimb de focuri cu doi polițiști.\n\n• **În Ostrowiec Świętokrzyski**, tatăl, mama și sora suspectului au fost găsiți morți, cu răni prin împușcare, în locuința familiei. Anchetatorii investighează și aceste trei decese; poliția tratează atacul drept o faptă cu caracter terorist, însă stabilirea motivului poate necesita o anchetă îndelungată. Ministerul de Interne a afirmat că Oksiński era interesat de idei de extremă dreapta.\n\n• **Președintele Karol Nawrocki** a decretat doliu național pentru duminică și luni. Autoritățile continuă audierea martorilor și analiza probelor și verifică dacă suspectul a avut complici.",
+    "importance_score": 120.0,
+    "slug": "meghalt-a-krakkoi-lvldzes-gyanusitottja-uj-reszletek-az-aldozatokrol-f767c7",
     "tags": [
       "altalanos"
     ],
@@ -1413,6 +1420,64 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_ff7206284f",
+    "slug": "turcan-titkos-psdaur-megallapodast-allit-a-kzmedia-vezetoinek-ujravalasztasa-uta-ff7206",
+    "tags": [
+      "psd",
+      "aur",
+      "tvr",
+      "radio-romania",
+      "numiri-parlamentare"
+    ],
+    "fingerprint": "0ccca174bf4e04d6165429497b999cc1",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Raluca Turcan acuză PSD că a făcut o înțelegere cu AUR pentru împărțirea conducerii TVR și Radio România: „PSD e tot un fel de AUR, numai că pe roșu”",
+        "link": "https://www.g4media.ro/raluca-turcan-acuza-psd-ca-a-facut-o-intelegere-cu-aur-pentru-impartirea-conducerii-tvr-si-radio-romania-psd-e-tot-un-fel-de-aur-numai-ca-pe-rosu.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Raluca Turcan (PNL): „Solicit PSD şi AUR să prezinte protocolul secret de colaborare parlamentară semnat la începutul sesiunii parlamentare”",
+        "link": "https://adevarul.ro/politica/raluca-turcan-pnl-solicit-psd-si-aur-sa-2570431.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "O deputată PNL acuză un „protocol secret” între PSD și AUR, după „împărțirea ca la piață” a numirilor de la TVR și Radio",
+        "link": "https://hotnews.ro/o-deputata-pnl-acuza-un-protocol-secret-intre-psd-si-aur-dupa-impartirea-ca-la-piata-a-numirilor-de-la-tvr-si-radio-2400307"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Turcan: Solicit PSD și AUR să prezinte protocolul secret de colaborare parlamentară; votul în Parlament confirmă alianța",
+        "link": "https://agerpres.ro/politic/2026/11/10/turcan-solicit-psd-si-aur-sa-prezinte-protocolul-secret-de-colaborare-parlamentara-votul-in-parlamen--1611944"
+      },
+      {
+        "source": "Maszol",
+        "title": "Titkos paktumot kötött a PSD és az AUR?",
+        "link": "https://maszol.ro/belfold/Titkos-paktumot-kotott-a-PSD-es-az-AUR"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Szétosztotta egymás közt a közmédiát a PSD és az AUR, a tévét a szélsőjobb vitte el",
+        "link": "https://transtelex.ro/kozelet/2026/11/10/kozmedia-psd-aur-teve-szelsojobb-sorina-matei"
+      }
+    ],
+    "published_at": 1794326760,
+    "title_hu": "Turcan titkos PSD–AUR-megállapodást állít a közmédia vezetőinek újraválasztása után",
+    "lead_hu": "A parlament kedden jóváhagyta a TVR és a Radio România vezetőinek, valamint igazgatótanácsainak összetételét. Raluca Turcan PNL-képviselő szerint a döntések egy PSD és AUR közötti együttműködés eredményei, a pártoktól pedig azt kérte, hozzák nyilvánosságra az általa feltételezett megállapodást.",
+    "content_hu": "• **A keddi parlamenti szavazás** megerősítette Sorina Mateit a román közszolgálati televízió élén; őt az AUR támogatta. Răzvan Dincă, akit a PSD javasolt, megtartotta a közrádió vezérigazgatói tisztségét, a képviselők pedig az intézmények új igazgatótanácsait is nagy többséggel elfogadták.\n\n• **Raluca Turcan állítása szerint** a PSD és az AUR a parlamenti ülésszak kezdetén titkos együttműködési protokollt kötött. A PNL képviselője a parlamenti vezetői pozíciók elosztását és a keddi szavazást hozta fel annak jeleként, hogy a két párt együttműködik; az állítását a források nem támasztják alá nyilvánosságra hozott dokumentummal.\n\n• **Turcan nyilvánosságra hozatali felhívása** mindkét pártnak szólt. A politikus úgy vélte, a szeptemberben létrejött ideiglenes megoldást a mostani döntéssel teljes mandátumokra szóló kinevezések követték, és arra kérte a PSD-t és az AUR-t, mutassák be az általa említett megállapodást.\n\n• **Petrișor Peiu, az AUR szenátusi frakcióvezetője** az előző napon a két közmédia igazgatótanácsi kinevezéseit pártok közötti egyezség eredményének nevezte. Turcan ezt a nyilatkozatot is felhasználta érvelésében; a cikkek nem közlik a feltételezett protokoll szövegét vagy részleteit.\n\n• **A közmédia függetlenségével kapcsolatos aggályait** Turcan a két intézmény közpénzből történő finanszírozásával és széles közönségével indokolta. Szerinte a politikai befolyás veszélyeztetheti a hiteles tájékoztatást, és biztonsági kockázatot is jelenthet, különösen az ukrajnai háború, illetve a külső beavatkozásokkal szembeni sérülékenység miatt.",
+    "title_ro": "Turcan susține că există un acord PSD–AUR după votul privind conducerile posturilor publice",
+    "lead_ro": "Parlamentul a aprobat marți conducerea TVR și a Radioului Public, precum și componența noilor consilii de administrație. Deputata PNL Raluca Turcan a atribuit rezultatul unei colaborări între PSD și AUR și le-a cerut celor două formațiuni să publice protocolul despre care afirmă că ar exista.",
+    "content_ro": "• **Votul parlamentar de marți** a menținut-o pe Sorina Matei la conducerea televiziunii publice, cu susținerea AUR. Răzvan Dincă, propus de PSD, a rămas director general al radioului public, iar noile consilii de administrație ale celor două instituții au fost aprobate cu o majoritate largă.\n\n• **Raluca Turcan afirmă** că PSD și AUR ar fi încheiat un protocol secret de colaborare parlamentară la începutul sesiunii. Deputata PNL a invocat voturile și distribuirea funcțiilor drept indicii ale cooperării dintre partide; articolele nu prezintă un document public care să confirme existența protocolului.\n\n• **Apelul lui Turcan** s-a adresat ambelor formațiuni, cărora le-a cerut să facă publică înțelegerea presupusă. În opinia sa, aranjamentul provizoriu din septembrie a fost urmat acum de numiri pentru mandate complete în conducerea televiziunii și a radioului.\n\n• **Petrișor Peiu, liderul senatorilor AUR,** declarase cu o zi înainte că numirile din consiliile de administrație ale celor două instituții au rezultat dintr-o înțelegere între partide. Turcan a invocat această afirmație pentru a-și susține acuzația, însă sursele nu oferă textul sau alte detalii verificabile ale protocolului menționat.\n\n• **Turcan a legat criticile de independența presei publice.** Ea a subliniat că televiziunea și radioul sunt finanțate din bani publici și au un public numeros, apoi a avertizat că influența politică le-ar putea afecta misiunea de informare. Potrivit deputatei, situația ridică și probleme de securitate, în contextul războiului din Ucraina și al vulnerabilității spațiului public la intervenții externe.",
+    "importance_score": 80.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_b82956f643",
     "slug": "irani-fenyegetes-miatt-helyeztek-at-amerikai-gepeket-egy-brit-bazisrol-b82956",
     "tags": [
@@ -1712,59 +1777,6 @@
     "tags": [
       "altalanos"
     ],
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_ff7206284f",
-    "slug": "turcan-titkos-psdaur-megallapodast-allit-a-kzmedia-vezetoinek-ujravalasztasa-uta-ff7206",
-    "tags": [
-      "psd",
-      "aur",
-      "tvr",
-      "radio-romania",
-      "numiri-parlamentare"
-    ],
-    "fingerprint": "0ccca174bf4e04d6165429497b999cc1",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Raluca Turcan acuză PSD că a făcut o înțelegere cu AUR pentru împărțirea conducerii TVR și Radio România: „PSD e tot un fel de AUR, numai că pe roșu”",
-        "link": "https://www.g4media.ro/raluca-turcan-acuza-psd-ca-a-facut-o-intelegere-cu-aur-pentru-impartirea-conducerii-tvr-si-radio-romania-psd-e-tot-un-fel-de-aur-numai-ca-pe-rosu.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Raluca Turcan (PNL): „Solicit PSD şi AUR să prezinte protocolul secret de colaborare parlamentară semnat la începutul sesiunii parlamentare”",
-        "link": "https://adevarul.ro/politica/raluca-turcan-pnl-solicit-psd-si-aur-sa-2570431.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "O deputată PNL acuză un „protocol secret” între PSD și AUR, după „împărțirea ca la piață” a numirilor de la TVR și Radio",
-        "link": "https://hotnews.ro/o-deputata-pnl-acuza-un-protocol-secret-intre-psd-si-aur-dupa-impartirea-ca-la-piata-a-numirilor-de-la-tvr-si-radio-2400307"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Turcan: Solicit PSD și AUR să prezinte protocolul secret de colaborare parlamentară; votul în Parlament confirmă alianța",
-        "link": "https://agerpres.ro/politic/2026/11/10/turcan-solicit-psd-si-aur-sa-prezinte-protocolul-secret-de-colaborare-parlamentara-votul-in-parlamen--1611944"
-      },
-      {
-        "source": "Maszol",
-        "title": "Titkos paktumot kötött a PSD és az AUR?",
-        "link": "https://maszol.ro/belfold/Titkos-paktumot-kotott-a-PSD-es-az-AUR"
-      }
-    ],
-    "published_at": 1794326760,
-    "title_hu": "Turcan titkos PSD–AUR-megállapodást állít a közmédia vezetőinek újraválasztása után",
-    "lead_hu": "A parlament kedden jóváhagyta a TVR és a Radio România vezetőinek, valamint igazgatótanácsainak összetételét. Raluca Turcan PNL-képviselő szerint a döntések egy PSD és AUR közötti együttműködés eredményei, a pártoktól pedig azt kérte, hozzák nyilvánosságra az általa feltételezett megállapodást.",
-    "content_hu": "• **A keddi parlamenti szavazás** megerősítette Sorina Mateit a román közszolgálati televízió élén; őt az AUR támogatta. Răzvan Dincă, akit a PSD javasolt, megtartotta a közrádió vezérigazgatói tisztségét, a képviselők pedig az intézmények új igazgatótanácsait is nagy többséggel elfogadták.\n\n• **Raluca Turcan állítása szerint** a PSD és az AUR a parlamenti ülésszak kezdetén titkos együttműködési protokollt kötött. A PNL képviselője a parlamenti vezetői pozíciók elosztását és a keddi szavazást hozta fel annak jeleként, hogy a két párt együttműködik; az állítását a források nem támasztják alá nyilvánosságra hozott dokumentummal.\n\n• **Turcan nyilvánosságra hozatali felhívása** mindkét pártnak szólt. A politikus úgy vélte, a szeptemberben létrejött ideiglenes megoldást a mostani döntéssel teljes mandátumokra szóló kinevezések követték, és arra kérte a PSD-t és az AUR-t, mutassák be az általa említett megállapodást.\n\n• **Petrișor Peiu, az AUR szenátusi frakcióvezetője** az előző napon a két közmédia igazgatótanácsi kinevezéseit pártok közötti egyezség eredményének nevezte. Turcan ezt a nyilatkozatot is felhasználta érvelésében; a cikkek nem közlik a feltételezett protokoll szövegét vagy részleteit.\n\n• **A közmédia függetlenségével kapcsolatos aggályait** Turcan a két intézmény közpénzből történő finanszírozásával és széles közönségével indokolta. Szerinte a politikai befolyás veszélyeztetheti a hiteles tájékoztatást, és biztonsági kockázatot is jelenthet, különösen az ukrajnai háború, illetve a külső beavatkozásokkal szembeni sérülékenység miatt.",
-    "title_ro": "Turcan susține că există un acord PSD–AUR după votul privind conducerile posturilor publice",
-    "lead_ro": "Parlamentul a aprobat marți conducerea TVR și a Radioului Public, precum și componența noilor consilii de administrație. Deputata PNL Raluca Turcan a atribuit rezultatul unei colaborări între PSD și AUR și le-a cerut celor două formațiuni să publice protocolul despre care afirmă că ar exista.",
-    "content_ro": "• **Votul parlamentar de marți** a menținut-o pe Sorina Matei la conducerea televiziunii publice, cu susținerea AUR. Răzvan Dincă, propus de PSD, a rămas director general al radioului public, iar noile consilii de administrație ale celor două instituții au fost aprobate cu o majoritate largă.\n\n• **Raluca Turcan afirmă** că PSD și AUR ar fi încheiat un protocol secret de colaborare parlamentară la începutul sesiunii. Deputata PNL a invocat voturile și distribuirea funcțiilor drept indicii ale cooperării dintre partide; articolele nu prezintă un document public care să confirme existența protocolului.\n\n• **Apelul lui Turcan** s-a adresat ambelor formațiuni, cărora le-a cerut să facă publică înțelegerea presupusă. În opinia sa, aranjamentul provizoriu din septembrie a fost urmat acum de numiri pentru mandate complete în conducerea televiziunii și a radioului.\n\n• **Petrișor Peiu, liderul senatorilor AUR,** declarase cu o zi înainte că numirile din consiliile de administrație ale celor două instituții au rezultat dintr-o înțelegere între partide. Turcan a invocat această afirmație pentru a-și susține acuzația, însă sursele nu oferă textul sau alte detalii verificabile ale protocolului menționat.\n\n• **Turcan a legat criticile de independența presei publice.** Ea a subliniat că televiziunea și radioul sunt finanțate din bani publici și au un public numeros, apoi a avertizat că influența politică le-ar putea afecta misiunea de informare. Potrivit deputatei, situația ridică și probleme de securitate, în contextul războiului din Ucraina și al vulnerabilității spațiului public la intervenții externe.",
-    "importance_score": 70.0,
     "is_top_hero": false
   },
   {
@@ -2509,55 +2521,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_37da312962",
-    "fingerprint": "89dbb87d0905f5890b297258dc9e900d",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Apa de ploaie de pe acoperişul unui mall, folosită pentru a alimenta zonele acvatice din Parcul Natural Văcăreşti",
-        "link": "https://stirileprotv.ro/apa-de-ploaie-de-pe-acoperisul-unui-mall-folosita-pentru-a-alimenta-zonele-acvatice-din-parcul-natural-vacaresti.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Apa de pe acoperișul unui mall bucureștean, colectată pentru a susține habitatele naturale din Parcul Văcărești",
-        "link": "https://agerpres.ro/social/2026/11/10/apa-de-pe-acoperisul-unui-mall-bucurestean-colectata-pentru-a-sustine-habitatele-naturale-din-parcul--1611792"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Apa de ploaie de pe acoperișul Sun Plaza ar putea ajunge în Parcul Natural Văcărești / Ciprian Ciucu anunță un proiect pentru refacerea habitatelor",
-        "link": "https://www.mediafax.ro/social/apa-de-ploaie-de-pe-acoperisul-sun-plaza-ar-putea-ajunge-in-parcul-natural-vacaresti-ciprian-ciucu-anunta-un-proiect-pentru-refacerea-habitatelor-23840829"
-      },
-      {
-        "source": "G4Media",
-        "title": "Apa de ploaie de la Sun Plaza va fi filtrată și dirijată către trei bălți din Parcul Natural Văcărești / Dan Bărbulescu estimează că sistemul va funcționa din primăvara lui 2027 / Sonia Siauve explică în ce condiții soluția poate fi replicată / Ciucu discută cu Apa Nova despre aducerea apei de ploaie din zona Parcului Carol",
-        "link": "https://www.g4media.ro/apa-de-ploaie-sun-plaza-trei-balti-parcul-natural-vacaresti.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Parcul Natural Văcărești, alimentat cu apa de ploaie colectată de pe acoperișului unui centru comercial: proiect finanțat de UE",
-        "link": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/parcul-natural-vacaresti-alimentat-cu-apa-de-ploaie-colectata-de-pe-acoperisului-unui-centru-comercial-proiect-finantat-de-ue-4029871"
-      }
-    ],
-    "published_at": 1794315489,
-    "title_hu": "A Sun Plaza esővizével táplálnák a Văcărești Természeti Park vizes élőhelyeit",
-    "lead_hu": "Bukarestben olyan kísérleti program indult, amely a Sun Plaza tetejéről összegyűjtött esővizet hasznosítaná a Văcărești Természeti Park időszakos tavaiban. A NATALIE európai kezdeményezés részeként tervezett beavatkozás az élőhelyek vízellátását és a biodiverzitás megőrzését szolgálja.",
-    "content_hu": "• **A Sun Plaza tetejéről származó csapadékvíz** egy gyűjtőtartályba kerülne, majd föld alatti vezetéken jutna el a park határáig. A terv szerint a víz biofiltereken áthaladva, gravitációs úton töltené fel az időszakos tavakat.\n\n• **A NATALIE program** az Európai Bizottság Horizon Europe kutatási keretéből kap támogatást. Ciprian Ciucu bukaresti főpolgármester a parkban és a tervezett szűrőállomás helyszínén járt; a kísérleti projektet a park képviselőivel közösen valósítják meg.\n\n• **Három biofilter** természetes szűréssel tisztítaná a vizet, amelyet növények gyökérzete és szűrőrétegek kezelnek. A beruházáshoz mintegy 245 méteres vezeték és három, egyenként körülbelül 100 négyzetméteres időszakos tó helyreállítása tartozik.\n\n• **A vízhiány különösen a száraz nyarakon terheli az ökoszisztémát:** a tavak összezsugorodhatnak vagy eltűnhetnek, ami a növény- és állatvilágot is érinti. A Sun Plaza vizére épülő megoldás csak a park egy részén javíthatja a helyzetet.\n\n• **A Parcul Carol környékéről érkező víz lehetősége** szintén felmerült: a főpolgármesteri hivatal egyeztetéseket kezdett az Apa Novával. Ciucu szerint a Văcărești-modell később más területeken is alkalmazható lehet.",
-    "title_ro": "Apa de ploaie de la Sun Plaza ar putea alimenta zonele umede din Parcul Văcărești",
-    "lead_ro": "Un proiect-pilot din București urmărește să folosească apa colectată de pe acoperișul Sun Plaza pentru bălțile temporare din Parcul Natural Văcărești. Inițiativa europeană NATALIE vizează sprijinirea habitatelor și protejarea biodiversității.",
-    "content_ro": "• **Apa pluvială de pe acoperișul Sun Plaza** ar urma să fie strânsă într-un bazin, apoi transportată printr-o conductă subterană până la marginea parcului. După filtrare, aceasta ar ajunge prin gravitație în bălțile temporare.\n\n• **Proiectul NATALIE** beneficiază de finanțare europeană prin programul Horizon Europe. Ciprian Ciucu, primarul general al Bucureștiului, a vizitat parcul și amplasamentul prevăzut pentru stația de filtrare; inițiativa-pilot este realizată împreună cu reprezentanții parcului.\n\n• **Trei biofiltre** ar urma să curețe apa folosind straturi filtrante și rădăcinile plantelor. Planul include o conductă de aproximativ 245 de metri și refacerea a trei bălți temporare, fiecare cu o suprafață de circa 100 de metri pătrați.\n\n• **Deficitul de apă afectează ecosistemul mai ales în verile secetoase**, când bălțile se pot micșora ori pot dispărea, cu efecte asupra florei și faunei. Soluția bazată pe apa de la Sun Plaza va interveni doar într-o parte a parcului.\n\n• **Aducerea apei din zona Parcului Carol** este o altă posibilitate analizată. Primăria a început discuții cu Apa Nova, iar Ciucu a afirmat că modelul folosit la Văcărești ar putea fi extins și în alte zone.",
-    "importance_score": 58.0,
-    "slug": "a-sun-plaza-esovizevel-taplalnak-a-vacaresti-termeszeti-park-vizes-elohelyeit-37da31",
-    "tags": [
-      "altalanos"
-    ],
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_387d417e4d",
     "fingerprint": "f97176899051484e84f215c4c509b6ce",
     "category": "Általános",
@@ -2651,53 +2614,6 @@
     "title_ro": "ANM anunță o prognoză pe patru săptămâni și o încălzire temporară",
     "lead_ro": "Estimarea ANM pentru 9 noiembrie–7 decembrie indică temperaturi apropiate de cele obișnuite în cea mai mare parte a României. O prognoză pe termen mai scurt anunța însă o perioadă neobișnuit de caldă la mijlocul lunii, urmată de o răcire rapidă.",
     "content_ro": "• **În perioada 9 noiembrie–7 decembrie**, ANM estimează că temperaturile medii se vor menține, în mare parte din țară, în apropierea valorilor caracteristice sezonului. Între 9 și 16 noiembrie, în nord și nord-est ar putea fi ușor mai rece decât în mod obișnuit.\n\n• **Ploile din prima săptămână** ar urma să fie în cantități apropiate de normal în est și sud-est, dar peste medie în celelalte regiuni, mai ales în nord-vest. Pentru 16–23 noiembrie, un excedent de precipitații este indicat în vest și nord-vest.\n\n• **Între 23 și 30 noiembrie**, atât temperaturile, cât și cantitățile de precipitații ar putea rămâne în jurul nivelurilor normale la nivel național. Pentru intervalul 30 noiembrie–7 decembrie, estimarea menține în cea mai mare parte a țării valori apropiate de cele obișnuite.\n\n• **În zilele de 12 și 13 noiembrie**, o prognoză distinctă pe termen scurt anunța o încălzire pronunțată: maxime de 27 de grade la Giurgiu, 26 la Alexandria și Călărași și aproximativ 25 la București, Tulcea și Slobozia. În Banat și Muntenia, media regională a maximelor putea ajunge la circa 20 de grade.\n\n• **În intervalul 14–16 noiembrie**, după episodul cald era anticipată o răcire accentuată. Potrivit prognozei, temperaturile puteau scădea cu peste 10 grade în unele zone, iar în Banat media regională a maximelor urma să coboare la 8–10 grade.",
-    "importance_score": 55.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_7a0fcf03d4",
-    "slug": "elutasitottak-florin-roman-sri-bizottsagi-jelleset-7a0fcf",
-    "tags": [
-      "parlament",
-      "sri",
-      "nato",
-      "pnl"
-    ],
-    "fingerprint": "3b2ea47746eb4c9320570ca6974dbb94",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Propunerea lui Ilie Bolojan pentru Comisia SRI, respinsă de Parlament. Alina Gorghiu și Nicoleta Pauliuc, înlocuite din delegația NATO",
-        "link": "https://adevarul.ro/politica/propunerea-lui-ilie-bolojan-pentru-comisia-sri-2570381.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Deputata Alina Gorghiu şi senatoarea Nicoleta Pauliuc, înlocuite din delegaţia permanentă la Adunarea Parlamentară a NATO, la propunerea grupurilor parlamentare PNL",
-        "link": "https://www.g4media.ro/deputata-alina-gorghiu-si-senatoarea-nicoleta-pauliuc-inlocuite-din-delegatia-permanenta-la-adunarea-parlamentara-a-nato-la-propunerea-grupurilor-parlamentare-pnl.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Liberalele Alina Gorghiu și Nicoleta Pauliuc au fost înlocuite din Delegația permanentă la Adunarea Parlamentară a NATO",
-        "link": "https://stirileprotv.ro/stiri/politic/liberalele-alina-gorghiu-si-nicoleta-pauliuc-au-fost-inlocuite-din-delegatia-permanenta-la-adunarea-parlamentara-a-nato.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Gorghiu și Pauliuc, schimbate din Delegaţia permanentă a Parlamentului României Ia Adunarea Parlamentară a NATO, la cererea PNL",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/gorghiu-si-pauliuc-schimbate-din-delegatia-permanenta-a-parlamentului-romaniei-ia-adunarea-parlamentara-a-nato-la-cererea-pnl-4030013"
-      }
-    ],
-    "published_at": 1794325988,
-    "title_hu": "Elutasították Florin Roman SRI-bizottsági jelölését",
-    "lead_hu": "A román parlament két házának együttes ülése nem támogatta Florin Roman kinevezését a SRI tevékenységét ellenőrző bizottságba. Ugyanezen az ülésen több személyi változásról is döntöttek a NATO Parlamenti Közgyűlésének román delegációjában.",
-    "content_hu": "• **A keddi titkos szavazáson** a képviselők és szenátorok arról döntöttek, hogy Răzvan Prișcă helyére Florin Roman kerüljön a Román Hírszerző Szolgálat parlamenti ellenőrző bizottságába. A PNL által támogatott cserejavaslat 151 igen és 228 nem szavazatot kapott, így nem ment át.\n\n• **A PNL képviselőházi és szenátusi frakciói** kezdeményezték Prișcă leváltását, és az Alba megyei képviselőt, Florin Romant jelölték a helyére. Prișcă azok közé a liberális törvényhozók közé tartozik, akik bíróságon támadták meg a pártvezetés döntéseit az Ilie Bolojan körüli belső konfliktus idején.\n\n• **A NATO Parlamenti Közgyűlésének delegációjában** Alina Gorghiu és Nicoleta Pauliuc helyét Iulian Silviu Coșa, illetve Robert Sighiartău vette át. A személycseréket a liberális parlamenti csoportok indítványozták, és az együttes ülés jóváhagyta.\n\n• **A delegáció további összetételét is módosították:** Daniel Zamfir gazdasági miniszteri kinevezése után Ionel Floroiu lett a helyettese a testületben, az USR-s Ionuț Moșteanut pedig rendes tagként jelölték. A parlament egy SOS România-s képviselő delegációs tagságát is elfogadta 360 támogató és 19 ellenszavazattal.\n\n• **Victor Ponta delegációs tagságáról** szintén döntést hoztak az ülésen. A közölt információk szerint a parlament a NATO Parlamenti Közgyűléséhez delegált román képviselők közé sorolta, a kinevezés további részletei azonban nem szerepelnek a rendelkezésre álló beszámolóban.",
-    "title_ro": "Parlamentul a respins numirea lui Florin Roman în comisia de control al SRI",
-    "lead_ro": "Plenul reunit al Parlamentului nu a aprobat propunerea ca Florin Roman să îl înlocuiască pe Răzvan Prișcă în comisia care supraveghează activitatea SRI. În aceeași ședință au fost votate mai multe schimbări în delegația României la Adunarea Parlamentară a NATO.",
-    "content_ro": "• **La votul secret de marți**, parlamentarii au analizat înlocuirea lui Răzvan Prișcă cu Florin Roman în comisia parlamentară de control al Serviciului Român de Informații. Propunerea susținută de PNL a primit 151 de voturi favorabile și 228 împotrivă, astfel că nu a fost aprobată.\n\n• **Grupurile PNL din Camera Deputaților și Senat** au cerut schimbarea lui Prișcă și l-au propus în locul său pe Florin Roman, deputat de Alba. Prișcă se numără printre liberalii care au contestat în instanță decizii ale conducerii partidului, pe fondul tensiunilor interne legate de Ilie Bolojan.\n\n• **În delegația la Adunarea Parlamentară a NATO**, Alina Gorghiu și Nicoleta Pauliuc au fost înlocuite de Iulian Silviu Coșa și Robert Sighiartău. Schimbarea a fost inițiată de grupurile parlamentare liberale și aprobată de plenul reunit.\n\n• **Componența delegației a fost modificată și în alte privințe:** Ionel Floroiu i-a luat locul lui Daniel Zamfir, numit ministru al Economiei, iar deputatul USR Ionuț Moșteanu a fost desemnat membru titular. Totodată, a fost acceptată propunerea privind includerea unei deputate SOS România, cu 360 de voturi pentru și 19 împotrivă.\n\n• **Victor Ponta** a fost, de asemenea, inclus într-o decizie privind delegația României la Adunarea Parlamentară a NATO. Informațiile disponibile nu precizează alte detalii despre statutul său sau despre procedura de numire.",
     "importance_score": 55.0,
     "is_top_hero": false
   },
@@ -2888,6 +2804,55 @@
     "content_ro": "• **Marți, la Abu Dhabi**, oficiali ruși și ucraineni au început o rundă de negocieri prevăzută să dureze două zile, cu mediere americană. Ultimele discuții avuseseră loc în februarie, iar Donald Trump a sugerat săptămâna precedentă posibilitatea unui acord de pace care să includă și securitatea Europei.\n\n• **Obiectivul Moscovei**, potrivit unui membru al delegației ruse citat de Reuters, este conturarea bazelor unui sistem de securitate postbelic cuprinzător, destinat întregului continent. În viziunea transmisă de sursă, soluționarea conflictului din Ucraina reprezintă doar o componentă a unui demers mai larg; participanții ar urma să caute și modalități de prevenire a amenințărilor și de sporire a stabilității regionale.\n\n• **Jared Kushner, emisar american**, a susținut la începutul reuniunii că agenda trebuie să cuprindă atât chestiunile bilaterale și oprirea luptelor, cât și relațiile viitoare de securitate dintre Ucraina, Rusia și Europa. El a pledat pentru construirea unui mecanism care să susțină pacea pe termen lung; anterior, a afirmat că NATO rămâne importantă pentru securitatea europeană și a apărat dreptul statelor de a-și alege alianțele.\n\n• **Steve Witkoff, emisar american**, a declarat că oficiali din SUA, Ucraina și Europa s-au consultat înaintea discuției trilaterale, pentru a-și coordona demersurile privind oprirea războiului și măsurile de securitate ulterioare. Potrivit acestuia, au fost abordate consolidarea instituțiilor și acordurilor europene existente, precum și reducerea riscului izbucnirii unui nou conflict.\n\n• **Reprezentanții europeni** participă la consultări separate, nu la negocierile directe dintre Rusia, Ucraina și SUA. La Abu Dhabi se află delegați din Franța, Regatul Unit, Germania, Italia, UE și NATO, care discută cu oficiali americani și ucraineni. Negociatorul-șef ucrainean Rustem Umerov a anunțat că delegația sa s-a întâlnit deja cu reprezentanți europeni, ai NATO și ai Statelor Unite.",
     "importance_score": 53.0,
     "slug": "abu-dzabiban-az-europai-biztonsagi-rendrol-is-egyeztetnek-2ad012",
+    "tags": [
+      "altalanos"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_37da312962",
+    "fingerprint": "89dbb87d0905f5890b297258dc9e900d",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Apa de ploaie de pe acoperişul unui mall, folosită pentru a alimenta zonele acvatice din Parcul Natural Văcăreşti",
+        "link": "https://stirileprotv.ro/apa-de-ploaie-de-pe-acoperisul-unui-mall-folosita-pentru-a-alimenta-zonele-acvatice-din-parcul-natural-vacaresti.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Apa de pe acoperișul unui mall bucureștean, colectată pentru a susține habitatele naturale din Parcul Văcărești",
+        "link": "https://agerpres.ro/social/2026/11/10/apa-de-pe-acoperisul-unui-mall-bucurestean-colectata-pentru-a-sustine-habitatele-naturale-din-parcul--1611792"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Apa de ploaie de pe acoperișul Sun Plaza ar putea ajunge în Parcul Natural Văcărești / Ciprian Ciucu anunță un proiect pentru refacerea habitatelor",
+        "link": "https://www.mediafax.ro/social/apa-de-ploaie-de-pe-acoperisul-sun-plaza-ar-putea-ajunge-in-parcul-natural-vacaresti-ciprian-ciucu-anunta-un-proiect-pentru-refacerea-habitatelor-23840829"
+      },
+      {
+        "source": "G4Media",
+        "title": "Apa de ploaie de la Sun Plaza va fi filtrată și dirijată către trei bălți din Parcul Natural Văcărești / Dan Bărbulescu estimează că sistemul va funcționa din primăvara lui 2027 / Sonia Siauve explică în ce condiții soluția poate fi replicată / Ciucu discută cu Apa Nova despre aducerea apei de ploaie din zona Parcului Carol",
+        "link": "https://www.g4media.ro/apa-de-ploaie-sun-plaza-trei-balti-parcul-natural-vacaresti.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Parcul Natural Văcărești, alimentat cu apa de ploaie colectată de pe acoperișului unui centru comercial: proiect finanțat de UE",
+        "link": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/parcul-natural-vacaresti-alimentat-cu-apa-de-ploaie-colectata-de-pe-acoperisului-unui-centru-comercial-proiect-finantat-de-ue-4029871"
+      }
+    ],
+    "published_at": 1794315489,
+    "title_hu": "A Sun Plaza esővizével táplálnák a Văcărești Természeti Park vizes élőhelyeit",
+    "lead_hu": "Bukarestben olyan kísérleti program indult, amely a Sun Plaza tetejéről összegyűjtött esővizet hasznosítaná a Văcărești Természeti Park időszakos tavaiban. A NATALIE európai kezdeményezés részeként tervezett beavatkozás az élőhelyek vízellátását és a biodiverzitás megőrzését szolgálja.",
+    "content_hu": "• **A Sun Plaza tetejéről származó csapadékvíz** egy gyűjtőtartályba kerülne, majd föld alatti vezetéken jutna el a park határáig. A terv szerint a víz biofiltereken áthaladva, gravitációs úton töltené fel az időszakos tavakat.\n\n• **A NATALIE program** az Európai Bizottság Horizon Europe kutatási keretéből kap támogatást. Ciprian Ciucu bukaresti főpolgármester a parkban és a tervezett szűrőállomás helyszínén járt; a kísérleti projektet a park képviselőivel közösen valósítják meg.\n\n• **Három biofilter** természetes szűréssel tisztítaná a vizet, amelyet növények gyökérzete és szűrőrétegek kezelnek. A beruházáshoz mintegy 245 méteres vezeték és három, egyenként körülbelül 100 négyzetméteres időszakos tó helyreállítása tartozik.\n\n• **A vízhiány különösen a száraz nyarakon terheli az ökoszisztémát:** a tavak összezsugorodhatnak vagy eltűnhetnek, ami a növény- és állatvilágot is érinti. A Sun Plaza vizére épülő megoldás csak a park egy részén javíthatja a helyzetet.\n\n• **A Parcul Carol környékéről érkező víz lehetősége** szintén felmerült: a főpolgármesteri hivatal egyeztetéseket kezdett az Apa Novával. Ciucu szerint a Văcărești-modell később más területeken is alkalmazható lehet.",
+    "title_ro": "Apa de ploaie de la Sun Plaza ar putea alimenta zonele umede din Parcul Văcărești",
+    "lead_ro": "Un proiect-pilot din București urmărește să folosească apa colectată de pe acoperișul Sun Plaza pentru bălțile temporare din Parcul Natural Văcărești. Inițiativa europeană NATALIE vizează sprijinirea habitatelor și protejarea biodiversității.",
+    "content_ro": "• **Apa pluvială de pe acoperișul Sun Plaza** ar urma să fie strânsă într-un bazin, apoi transportată printr-o conductă subterană până la marginea parcului. După filtrare, aceasta ar ajunge prin gravitație în bălțile temporare.\n\n• **Proiectul NATALIE** beneficiază de finanțare europeană prin programul Horizon Europe. Ciprian Ciucu, primarul general al Bucureștiului, a vizitat parcul și amplasamentul prevăzut pentru stația de filtrare; inițiativa-pilot este realizată împreună cu reprezentanții parcului.\n\n• **Trei biofiltre** ar urma să curețe apa folosind straturi filtrante și rădăcinile plantelor. Planul include o conductă de aproximativ 245 de metri și refacerea a trei bălți temporare, fiecare cu o suprafață de circa 100 de metri pătrați.\n\n• **Deficitul de apă afectează ecosistemul mai ales în verile secetoase**, când bălțile se pot micșora ori pot dispărea, cu efecte asupra florei și faunei. Soluția bazată pe apa de la Sun Plaza va interveni doar într-o parte a parcului.\n\n• **Aducerea apei din zona Parcului Carol** este o altă posibilitate analizată. Primăria a început discuții cu Apa Nova, iar Ciucu a afirmat că modelul folosit la Văcărești ar putea fi extins și în alte zone.",
+    "importance_score": 53.0,
+    "slug": "a-sun-plaza-esovizevel-taplalnak-a-vacaresti-termeszeti-park-vizes-elohelyeit-37da31",
     "tags": [
       "altalanos"
     ],
@@ -3206,6 +3171,53 @@
     "lead_ro": "Organizaţia neguvernamentală internaţională pentru drepturile omului Amnesty International a declarat marţi „starea de alertă privind statul de drept” în Franţa, din cauza „practicilor autoritare” în ...",
     "content_ro": "Organizaţia neguvernamentală internaţională pentru drepturile omului Amnesty International a declarat marţi „starea de alertă privind statul de drept” în Franţa, din cauza „practicilor autoritare” în contextul mobilizării sociale marcate de violenţe şi acuzaţii privind intervenţia brutală a poliţiei, transmite agenția de știri AFP, citată de Agerpres. „Ca şi în alte ţări, deşi democratice, practicile autoritare […] © G4Media.ro.",
     "importance_score": 50.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_7a0fcf03d4",
+    "slug": "elutasitottak-florin-roman-sri-bizottsagi-jelleset-7a0fcf",
+    "tags": [
+      "parlament",
+      "sri",
+      "nato",
+      "pnl"
+    ],
+    "fingerprint": "3b2ea47746eb4c9320570ca6974dbb94",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Propunerea lui Ilie Bolojan pentru Comisia SRI, respinsă de Parlament. Alina Gorghiu și Nicoleta Pauliuc, înlocuite din delegația NATO",
+        "link": "https://adevarul.ro/politica/propunerea-lui-ilie-bolojan-pentru-comisia-sri-2570381.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Deputata Alina Gorghiu şi senatoarea Nicoleta Pauliuc, înlocuite din delegaţia permanentă la Adunarea Parlamentară a NATO, la propunerea grupurilor parlamentare PNL",
+        "link": "https://www.g4media.ro/deputata-alina-gorghiu-si-senatoarea-nicoleta-pauliuc-inlocuite-din-delegatia-permanenta-la-adunarea-parlamentara-a-nato-la-propunerea-grupurilor-parlamentare-pnl.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Liberalele Alina Gorghiu și Nicoleta Pauliuc au fost înlocuite din Delegația permanentă la Adunarea Parlamentară a NATO",
+        "link": "https://stirileprotv.ro/stiri/politic/liberalele-alina-gorghiu-si-nicoleta-pauliuc-au-fost-inlocuite-din-delegatia-permanenta-la-adunarea-parlamentara-a-nato.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Gorghiu și Pauliuc, schimbate din Delegaţia permanentă a Parlamentului României Ia Adunarea Parlamentară a NATO, la cererea PNL",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/gorghiu-si-pauliuc-schimbate-din-delegatia-permanenta-a-parlamentului-romaniei-ia-adunarea-parlamentara-a-nato-la-cererea-pnl-4030013"
+      }
+    ],
+    "published_at": 1794325988,
+    "title_hu": "Elutasították Florin Roman SRI-bizottsági jelölését",
+    "lead_hu": "A román parlament két házának együttes ülése nem támogatta Florin Roman kinevezését a SRI tevékenységét ellenőrző bizottságba. Ugyanezen az ülésen több személyi változásról is döntöttek a NATO Parlamenti Közgyűlésének román delegációjában.",
+    "content_hu": "• **A keddi titkos szavazáson** a képviselők és szenátorok arról döntöttek, hogy Răzvan Prișcă helyére Florin Roman kerüljön a Román Hírszerző Szolgálat parlamenti ellenőrző bizottságába. A PNL által támogatott cserejavaslat 151 igen és 228 nem szavazatot kapott, így nem ment át.\n\n• **A PNL képviselőházi és szenátusi frakciói** kezdeményezték Prișcă leváltását, és az Alba megyei képviselőt, Florin Romant jelölték a helyére. Prișcă azok közé a liberális törvényhozók közé tartozik, akik bíróságon támadták meg a pártvezetés döntéseit az Ilie Bolojan körüli belső konfliktus idején.\n\n• **A NATO Parlamenti Közgyűlésének delegációjában** Alina Gorghiu és Nicoleta Pauliuc helyét Iulian Silviu Coșa, illetve Robert Sighiartău vette át. A személycseréket a liberális parlamenti csoportok indítványozták, és az együttes ülés jóváhagyta.\n\n• **A delegáció további összetételét is módosították:** Daniel Zamfir gazdasági miniszteri kinevezése után Ionel Floroiu lett a helyettese a testületben, az USR-s Ionuț Moșteanut pedig rendes tagként jelölték. A parlament egy SOS România-s képviselő delegációs tagságát is elfogadta 360 támogató és 19 ellenszavazattal.\n\n• **Victor Ponta delegációs tagságáról** szintén döntést hoztak az ülésen. A közölt információk szerint a parlament a NATO Parlamenti Közgyűléséhez delegált román képviselők közé sorolta, a kinevezés további részletei azonban nem szerepelnek a rendelkezésre álló beszámolóban.",
+    "title_ro": "Parlamentul a respins numirea lui Florin Roman în comisia de control al SRI",
+    "lead_ro": "Plenul reunit al Parlamentului nu a aprobat propunerea ca Florin Roman să îl înlocuiască pe Răzvan Prișcă în comisia care supraveghează activitatea SRI. În aceeași ședință au fost votate mai multe schimbări în delegația României la Adunarea Parlamentară a NATO.",
+    "content_ro": "• **La votul secret de marți**, parlamentarii au analizat înlocuirea lui Răzvan Prișcă cu Florin Roman în comisia parlamentară de control al Serviciului Român de Informații. Propunerea susținută de PNL a primit 151 de voturi favorabile și 228 împotrivă, astfel că nu a fost aprobată.\n\n• **Grupurile PNL din Camera Deputaților și Senat** au cerut schimbarea lui Prișcă și l-au propus în locul său pe Florin Roman, deputat de Alba. Prișcă se numără printre liberalii care au contestat în instanță decizii ale conducerii partidului, pe fondul tensiunilor interne legate de Ilie Bolojan.\n\n• **În delegația la Adunarea Parlamentară a NATO**, Alina Gorghiu și Nicoleta Pauliuc au fost înlocuite de Iulian Silviu Coșa și Robert Sighiartău. Schimbarea a fost inițiată de grupurile parlamentare liberale și aprobată de plenul reunit.\n\n• **Componența delegației a fost modificată și în alte privințe:** Ionel Floroiu i-a luat locul lui Daniel Zamfir, numit ministru al Economiei, iar deputatul USR Ionuț Moșteanu a fost desemnat membru titular. Totodată, a fost acceptată propunerea privind includerea unei deputate SOS România, cu 360 de voturi pentru și 19 împotrivă.\n\n• **Victor Ponta** a fost, de asemenea, inclus într-o decizie privind delegația României la Adunarea Parlamentară a NATO. Informațiile disponibile nu precizează alte detalii despre statutul său sau despre procedura de numire.",
+    "importance_score": 48.0,
     "is_top_hero": false
   },
   {
@@ -3773,6 +3785,48 @@
     "lead_ro": "Conducerea PNL a stabilit un termen de zece zile pentru membrii care contestă în instanță hotărârile partidului. Ilie Bolojan a invocat necesitatea unei poziții comune în grupurile parlamentare, iar Alina Gorghiu a criticat măsura și a spus că nu își va retrage sesizările.",
     "content_ro": "• **Biroul Politic Național al PNL, reunit duminică seara,** a adoptat mai multe măsuri, inclusiv un termen de zece zile pentru liberalii care au contestat în instanță hotărârile conducerii. Printre demersurile juridice vizate se află și contestarea congresului partidului.\n\n• **Ilie Bolojan a explicat luni** că parlamentarii care nu își retrag procesele nu vor mai putea face parte din grupurile PNL. El a motivat decizia prin nevoia ca formațiunea să stabilească o direcție comună în chestiunile importante și ca membrii grupurilor să respecte deciziile politice.\n\n• **Deputata Alina Gorghiu** a considerat că solicitarea de retragere a acțiunilor reprezintă o formă de presiune. Ea a anunțat că își va menține sesizările și i-a cerut lui Bolojan să reanalizeze hotărârea și să ceară opinia unor specialiști în drept. Gorghiu este membră a partidului de 27 de ani.\n\n• **Recuperarea datoriilor electorale** a fost o altă măsură discutată de conducerea PNL. Partidul intenționează să înceapă demersurile pentru încasarea sumelor restante, iar persoanelor răspunzătoare de contracte care ar fi încălcat statutul li s-ar putea cere să acopere datoriile.\n\n• **După expirarea termenului**, cei care păstrează acțiunile în instanță riscă să fie îndepărtați din grupurile parlamentare ale partidului. Gorghiu a susținut că apartenența la grup nu ar trebui condiționată de renunțarea la dreptul de a cere o soluție în justiție.",
     "importance_score": 45.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_fe303a2e63",
+    "slug": "abrudean-biralta-a-psd-es-az-aur-egyuttmukdeset-az-intezmenyi-kinevezeseknel-fe303a",
+    "tags": [
+      "parlament",
+      "psd",
+      "aur",
+      "institutii-publice"
+    ],
+    "fingerprint": "9ee7149dc0e06f7f5c14e7f398f6c833",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Președintele Senatului, Mircea Abrudean (PNL): Când e vorba de putere şi controlul instituţiilor statului diferenţele dintre PSD şi AUR par să dispară",
+        "link": "https://www.g4media.ro/presedintele-senatului-mircea-abrudean-pnl-cand-e-vorba-de-putere-si-controlul-institutiilor-statului-diferentele-dintre-psd-si-aur-par-sa-dispara.html"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Abrudean: Când e vorba de putere și controlul instituțiilor statului diferențele dintre PSD și AUR par să dispară",
+        "link": "https://agerpres.ro/politic/2026/11/10/abrudean-cand-e-vorba-de-putere-si-controlul-institutiilor-statului-diferentele-dintre-psd-si-aur-pa--1611955"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Mircea Abrudean: „Când e vorba de putere și controlul instituțiilor statului diferențele dintre PSD și AUR par să dispară”",
+        "link": "https://hotnews.ro/mircea-abrudean-cand-e-vorba-de-putere-si-controlul-institutiilor-statului-diferentele-dintre-psd-si-aur-par-sa-dispara-2400332"
+      }
+    ],
+    "published_at": 1794326004,
+    "title_hu": "Abrudean bírálta a PSD és az AUR együttműködését az intézményi kinevezéseknél",
+    "lead_hu": "Mircea Abrudean szenátusi elnök a PSD és az AUR közös parlamenti döntéseit kifogásolta több állami intézmény vezetői tisztségeinek betöltése kapcsán. A törvényhozás új vezetőket hagyott jóvá a közszolgálati televízió és rádió élére.",
+    "content_hu": "• **Mircea Abrudean** szenátusi elnök kedden bírálta, hogy a PSD és az AUR együtt szavazott vagy egyeztetett több állami intézményt érintő kinevezésről. Szerinte a két párt nyilvános vitái ellenére a vezetői pozíciók elosztásakor közös döntések születtek.\n\n• **A Számvevőszéknél** a PSD és az AUR képviselői egyaránt támogatták az ideiglenes elnök kijelölését. Abrudean ezt a két párt közötti együttműködés egyik példájaként említette.\n\n• **A közszolgálati médiában** a parlament két háza új tagokat választott a Román Televízió és a Román Rádió igazgatótanácsába. A közlés szerint az AUR által javasolt Sorina Mateit a televízió, a PSD jelöltjét, Răzvan Dincăt pedig a rádió elnök-vezérigazgatójává hagyták jóvá.\n\n• **A SRI-t felügyelő parlamenti bizottságban** elutasították a PNL javaslatát, hogy Florin Roman kerüljön a pártnak fenntartott helyre. Abrudean ezt is a kinevezések körüli politikai döntések közé sorolta.\n\n• **Abrudean értékelése szerint** az egymást követő szavazások kérdéseket vetnek fel a PSD és az AUR közötti megállapodásokról. A politikus úgy vélte, az állami intézmények ellenőrzését érintő ügyekben a két párt közötti különbségek háttérbe szorulnak.",
+    "title_ro": "Abrudean critică PSD și AUR pentru deciziile privind conducerile unor instituții",
+    "lead_ro": "Președintele Senatului, Mircea Abrudean, a criticat voturile și negocierile PSD și AUR legate de ocuparea unor funcții în instituții publice. Parlamentul a validat noi conduceri pentru televiziunea și radioul public.",
+    "content_ro": "• **Mircea Abrudean** a criticat marți deciziile prin care PSD și AUR au susținut sau negociat numiri în instituții ale statului. În opinia sa, deși cele două formațiuni se confruntă public, în chestiunile privind ocuparea unor funcții importante au ajuns la decizii comune.\n\n• **La Curtea de Conturi**, parlamentarii PSD și AUR au votat în favoarea desemnării unui președinte interimar. Abrudean a prezentat acest vot drept unul dintre exemplele colaborării dintre cele două partide.\n\n• **În domeniul media publice**, plenul Parlamentului a desemnat noi membri în consiliile de administrație ale Societății Române de Televiziune și Societății Române de Radiodifuziune. Sorina Matei, propusă de AUR, a fost validată pentru funcția de președinte-director general al televiziunii, iar Răzvan Dincă, susținut de PSD, pentru conducerea radioului.\n\n• **În comisia parlamentară de control al SRI**, plenul a respins propunerea PNL de numire a lui Florin Roman pe locul care revenea partidului. Abrudean a inclus și acest rezultat în seria deciziilor politice privind funcțiile din instituțiile publice.\n\n• **Potrivit evaluării lui Abrudean**, voturile succesive ridică întrebări despre înțelegerile dintre PSD și AUR. El a susținut că, atunci când sunt vizate influența și controlul asupra instituțiilor statului, diferențele dintre cele două partide par să se estompeze.",
+    "importance_score": 43.0,
     "is_top_hero": false
   },
   {
@@ -4534,80 +4588,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_97a0cbc859",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Drumul expres Brăila-Galați este aproape gata. În ce stadiu au ajuns lucrările la podul hobanat",
-        "link": "https://www.mediafax.ro/economic/drumul-expres-braila-galati-este-aproape-gata-in-ce-stadiu-au-ajuns-lucrarile-la-podul-hobanat-23840900"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Șeful Pentagonului rupe tăcerea după ce a fost acuzat că a condus un război ilegal: „Toată lumea știe asta”",
-        "link": "https://hotnews.ro/seful-pentagonului-rupe-tacerea-dupa-ce-a-fost-acuzat-ca-a-condus-un-razboi-ilegal-toata-lumea-stie-asta-2400170"
-      },
-      {
-        "source": "G4Media",
-        "title": "Șeful Pentagonului respinge acuzațiile care stau la baza procedurii de destituire: „Este o farsă”",
-        "link": "https://www.g4media.ro/seful-pentagonului-respinge-acuzatiile-care-stau-la-baza-procedurii-de-destituire-este-o-farsa.html"
-      }
-    ],
-    "published_at": 1794315272,
-    "title_hu": "Drumul expres Brăila-Galați este aproape gata. În ce stadiu au ajuns lucrările la podul hobanat",
-    "lead_hu": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a…",
-    "content_hu": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a anunțat ministrul Transporturilor, Ovidiu Popa.",
-    "title_ro": "Drumul expres Brăila-Galați este aproape gata. În ce stadiu au ajuns lucrările la podul hobanat",
-    "lead_ro": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a…",
-    "content_ro": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a anunțat ministrul Transporturilor, Ovidiu Popa.",
-    "slug": "seful-pentagonului-rupe-tacerea-dupa-ce-a-fost-acuzat-ca-a-condus-un-razboi-ileg-97a0cb",
-    "tags": [
-      "altalanos"
-    ],
-    "importance_score": 38.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_cb61e59218",
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Ce trebuie să lămurească Nicușor Dan la Cotroceni. Analiștii avertizează asupra unei crize de încredere în stat și cer răspunsuri despre alegerile anulate",
-        "link": "https://adevarul.ro/politica/ce-trebuie-sa-lamureasca-nicusor-dan-la-cotroceni-2570313.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Nicușor Dan a explicat de ce alegerile anticipate nu erau o soluție viabilă pentru România",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-a-explicat-de-ce-alegerile-anticipate-nu-erau-o-solutie-viabila-pentru-romania-4030229"
-      },
-      {
-        "source": "Mediafax",
-        "title": "De ce a exclus Nicușor Dan varianta alegerilor anticipate: Ar fi dus la o prăbușire economică rapidă",
-        "link": "https://www.mediafax.ro/politic/de-ce-a-exclus-nicusor-dan-varianta-alegerilor-anticipate-ar-fi-dus-la-o-prabusire-economica-rapida-23841094"
-      }
-    ],
-    "published_at": 1794315260,
-    "title_hu": "Ce trebuie să lămurească Nicușor Dan la Cotroceni. Analiștii avertizează asupra unei crize de încredere în stat și cer răspunsuri despre alegerile anulate",
-    "lead_hu": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față ame…",
-    "content_hu": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față amenințărilor de securitate?",
-    "title_ro": "Ce trebuie să lămurească Nicușor Dan la Cotroceni. Analiștii avertizează asupra unei crize de încredere în stat și cer răspunsuri despre alegerile anulate",
-    "lead_ro": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față ame…",
-    "content_ro": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față amenințărilor de securitate?",
-    "importance_score": 38.0,
-    "slug": "ce-trebuie-sa-lamureasca-nicusor-dan-la-cotroceni-analistii-avertizeaza-asupra-u-cb61e5",
-    "tags": [
-      "altalanos"
-    ],
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_f99d306db9",
     "fingerprint": "0e2cd1962afac9e9aa134d311de53fd6",
     "category": "Általános",
@@ -4768,6 +4748,38 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_602f6e95c8",
+    "slug": "nicusor-dan-anunta-informatii-noi-despre-calin-georgescu-si-influenta-rusiei-in--602f6e",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/8133217-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan anunță informații noi despre Călin Georgescu și influența Rusiei în alegeri: Vor fi în raport",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-anunta-informatii-noi-despre-calin-georgescu-si-influenta-rusiei-in-alegeri-vor-fi-in-raport-23841135"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Nicușor Dan anunță detalii necunoscute despre Călin Georgescu. Când vor apărea noile informații",
+        "link": "https://stirileprotv.ro/stiri/actualitate/nicusor-dan-anunta-detalii-necunoscute-despre-calin-georgescu-cand-vor-aparea-noile-informatii.html"
+      }
+    ],
+    "published_at": 1794336518,
+    "title_hu": "Nicușor Dan anunță informații noi despre Călin Georgescu și influența Rusiei în alegeri: Vor fi în raport",
+    "lead_hu": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul document...",
+    "content_hu": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul documentului și nici nu a avansat un termen pentru publicare, după ce calendarul anunțat nu a fost respectat",
+    "title_ro": "Nicușor Dan anunță informații noi despre Călin Georgescu și influența Rusiei în alegeri: Vor fi în raport",
+    "lead_ro": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul document...",
+    "content_ro": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul documentului și nici nu a avansat un termen pentru publicare, după ce calendarul anunțat nu a fost respectat",
+    "importance_score": 35.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_02f4c69136",
     "slug": "printul-marco-l-a-atacat-grav-pe-florin-ristei-esti-lesinat-dupa-gabriella-te-ai-02f4c6",
     "tags": [
@@ -4860,6 +4872,38 @@
     "title_ro": "Nicușor Dan, despre lipsa unei vizite de stat în SUA: Succesul în materie de politică externă nu se măsoară în viteza unei vizite",
     "lead_ro": "Preşedintele Nicuşor Dan a declarat, marţi, despre faptul că nu a ajuns într-o vizită oficială în SUA, de la preluarea mandatului, că el crede că succesul sau insuccesul în materie de politică externă...",
     "content_ro": "Preşedintele Nicuşor Dan a declarat, marţi, despre faptul că nu a ajuns într-o vizită oficială în SUA, de la preluarea mandatului, că el crede că succesul sau insuccesul în materie de politică externă al unei administraţii nu se măsoară în viteza unei vizite într-un loc sau altul din lumea asta ci este de a realiza acele obiective de securitate şi politică externă pe care administraţia şi le-a propus.",
+    "importance_score": 35.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_4732ed7f57",
+    "slug": "credeti-ca-e-relevant-raspunsul-lui-nicusor-dan-intrebat-despre-prezenta-lui-pah-4732ed",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "„Credeți că e relevant?”. Răspunsul lui Nicușor Dan, întrebat despre prezența lui Pahonțu la cina cu el și cu politicieni. Schimb aprins de replici cu un jurnalist Recorder",
+        "link": "https://hotnews.ro/credeti-ca-e-relevant-raspunsul-lui-nicusor-dan-intrebat-despre-prezenta-lui-pahontu-la-cina-cu-el-si-cu-politicieni-schimb-aprins-de-replici-cu-un-jurnalist-recorder-2400595"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nicușor Dan, întrebat dacă se consultă politic cu șeful SPP, Lucian Pahonțu: „Am mâncat la aceeași masă”",
+        "link": "https://adevarul.ro/politica/nicusor-dan-intrebat-daca-se-consulta-politic-cu-2570499.html"
+      }
+    ],
+    "published_at": 1794335499,
+    "title_hu": "„Credeți că e relevant?”. Răspunsul lui Nicușor Dan, întrebat despre prezența lui Pahonțu la cina cu el și cu politicieni. Schimb aprins de replici cu un jurnalist Recorder",
+    "lead_hu": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoar...",
+    "content_hu": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoara, precum și pe tema situației din magistrată, în contextul documentarului „Justiție capturată”. „Nu știu, credeți că e relevant?”, a replicat șeful statului când a …",
+    "title_ro": "„Credeți că e relevant?”. Răspunsul lui Nicușor Dan, întrebat despre prezența lui Pahonțu la cina cu el și cu politicieni. Schimb aprins de replici cu un jurnalist Recorder",
+    "lead_ro": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoar...",
+    "content_ro": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoara, precum și pe tema situației din magistrată, în contextul documentarului „Justiție capturată”. „Nu știu, credeți că e relevant?”, a replicat șeful statului când a …",
     "importance_score": 35.0,
     "is_top_hero": false
   },
@@ -5010,43 +5054,6 @@
     "title_ro": "Petrotel-Lukoil pregătește reluarea activității rafinăriei",
     "lead_ro": "Rafinăria Petrotel-Lukoil din Ploiești este pregătită să înceapă procedura de repornire, după o lună de verificări tehnice. Un transport de țiței kazah este așteptat în Portul Constanța până la 20 noiembrie, iar livrarea către rafinărie depinde de coordonarea cu Oil Terminal și CONPET.",
     "content_ro": "• **Rafinăria Petrotel-Lukoil se pregătește să reia producția după o întrerupere de 13 luni.** Compania afirmă că, în ultima lună, echipele tehnice au inspectat și pregătit instalațiile. Unitatea proprie de cogenerare CET Petrotel a fost pornită, iar echipamentele au fost verificate și readuse la parametrii necesari, potrivit inginerului-șef Dan Dănulescu.\n\n• **Primul transport de țiței este programat să ajungă la Constanța până pe 20 noiembrie.** Petrotel a informat Ministerul Energiei despre livrarea planificată. Materia primă are origine kazahă, iar compania susține că achiziția respectă regimul de sancțiuni al Uniunii Europene, Statelor Unite și Marii Britanii. Potrivit acesteia, resursele și fondurile aferente nu provin din Rusia și nici nu vor fi direcționate acolo.\n\n• **Transportul de la port până la rafinăria din Ploiești necesită implicarea Oil Terminal și CONPET.** Prima companie urmează să preia și să descarce petrolul în port, iar CONPET operează sistemul de transport către rafinăriile din România. Petrotel a solicitat sprijinul Ministerului Energiei pentru coordonarea operațională și contractuală a etapelor.\n\n• **Compania urmărește să înceapă repornirea completă înainte de instalarea înghețului.** Finalizarea pregătirilor tehnice nu înseamnă că producția a fost deja reluată: sosirea țițeiului și organizarea transportului către Ploiești rămân pași necesari înaintea acestui moment.\n\n• **Activitatea rafinăriei a fost suspendată în octombrie 2025, iar în august 2026 compania a intrat în insolvență.** Datoriile consemnate în tabelul preliminar al creanțelor depășesc 1,5 miliarde de lei. Demersurile pentru reluarea operațiunilor au loc, așadar, într-un context financiar dificil.",
-    "importance_score": 35.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_5a730f412f",
-    "slug": "visszavonta-az-anre-az-ibn-energy-aramszolgaltatoi-engedelyet-5a730f",
-    "tags": [
-      "ibn-energy",
-      "anre",
-      "piata-energiei",
-      "furnizori-energie"
-    ],
-    "fingerprint": "6c378ade7e8c616fb77430f139cafc15",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Un furnizor de energie, scos de pe piață de ANRE prin retragerea licenţei: „Este un risc”",
-        "link": "https://adevarul.ro/economie/un-furnizor-de-energie-scos-de-pe-piata-de-anre-2570444.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "ANRE retrage unei companii licenţa de furnizare a energiei electrice. Reprezentanţii firmei sunt de negăsit, de mai multe luni",
-        "link": "https://www.digi24.ro/stiri/economie/energie/anre-retrage-unei-companii-licenta-de-furnizare-a-energiei-electrice-reprezentantii-firmei-sunt-de-negasit-de-mai-multe-luni-4030009"
-      }
-    ],
-    "published_at": 1794325962,
-    "title_hu": "Visszavonta az ANRE az IBN Energy áramszolgáltatói engedélyét",
-    "lead_hu": "Az ANRE szabályozó bizottsága november 10-én megvonta az IBN Energy áramszolgáltatói engedélyét. A hatósági ellenőrzések pénzügyi biztosítékok hiányát és rendezetlen fizetési kötelezettségeket tártak fel.",
-    "content_hu": "• **November 10-én az ANRE szabályozó bizottsága** visszavonta az IBN Energy villamosenergia-szolgáltatói engedélyét. A hatóság közlése szerint az ellenőrzések olyan szabálytalanságokat tártak fel, amelyek egy része 2025 augusztusáig nyúlik vissza.\n\n• **2025. augusztus 1. és 7. között** a Transelectrica jelentős negatív eltérést jelzett a társaság által lekötött és ténylegesen szolgáltatott energia mennyisége között. Az ügylethez előírt, 3 522 276,50 lejes biztosítékot legkésőbb augusztus 26-ig kellett volna elhelyezni, ám a határidő után sem érkezett be.\n\n• **Az IBN Energy rendelkezésére álló biztosíték** az érintett időszakban mindössze 150 000 lej volt, miközben a cég biztosíték nélkül is végzett ügyleteket az energiapiacon. Az ANRE vizsgálata szerint a társaság a Romániai Árutőzsde felé fennálló fizetési kötelezettségeit sem teljesítette.\n\n• **George Niculescu, az ANRE elnöke** arra figyelmeztetett, hogy a pénzügyi kötelezettségeiket nem teljesítő szolgáltatók kockázatot jelentenek a piac egészére. Az ilyen hiányok költségei más piaci szereplőkre, végső soron pedig a fogyasztókra hárulhatnak.\n\n• **Az engedély visszavonásáról szóló döntést** az ANRE a feltárt hiányosságokkal indokolta. A közölt információk szerint a problémák között szerepelt a szükséges pénzügyi fedezet elmaradása, valamint az árutőzsde felé fennálló tartozások rendezetlensége.",
-    "title_ro": "ANRE a retras licența de furnizare a energiei pentru IBN Energy",
-    "lead_ro": "Comitetul de reglementare al ANRE a retras, pe 10 noiembrie, licența de furnizare a energiei electrice deținută de IBN Energy. Controalele au indicat lipsa unor garanții financiare suficiente și obligații de plată neachitate.",
-    "content_ro": "• **La 10 noiembrie, comitetul de reglementare al ANRE** a decis retragerea licenței de furnizare a energiei electrice a companiei IBN Energy. Potrivit autorității, verificările au identificat nereguli, dintre care unele datează din august 2025.\n\n• **În perioada 1–7 august 2025**, Transelectrica a semnalat o diferență negativă semnificativă între energia contractată de furnizor și cea livrată. Pentru această situație, compania trebuia să depună o garanție de 3.522.276,50 lei până la 26 august, însă suma nu a fost achitată nici după termenul stabilit.\n\n• **Garanțiile deținute de IBN Energy** în perioada respectivă se ridicau la numai 150.000 de lei, deși firma efectuase tranzacții pe piața energiei fără acoperirea financiară necesară. Verificările ANRE au mai constatat că societatea nu și-a achitat obligațiile de plată către Bursa Română de Mărfuri.\n\n• **George Niculescu, președintele ANRE**, a avertizat că furnizorii care nu își respectă obligațiile financiare pot crea riscuri pentru întreaga piață. Costurile generate de asemenea situații ar putea ajunge la celelalte companii participante și, în cele din urmă, la consumatori.\n\n• **Retragerea licenței** a fost motivată de neregulile constatate de autoritate, între care lipsa garanțiilor cerute și neplata sumelor datorate. ANRE a legat aceste probleme de riscurile pe care un furnizor cu obligații financiare restante le poate transfera asupra pieței și clienților.",
     "importance_score": 35.0,
     "is_top_hero": false
   },
@@ -5219,6 +5226,80 @@
     "content_ro": "• **În 2025, România a ajuns al șaptelea producător de automobile din Uniunea Europeană**, a declarat Luca Niculescu la deschiderea Automotive Industry Forum și a Galei Premiilor pentru Excelență. Potrivit premierului, industria are o cifră de afaceri de peste 30 de miliarde de euro și contribuie cu mai mult de 13% la PIB.\n\n• **Industria auto este sectorul productiv cu cei mai mulți angajați din România.** Niculescu a menționat presiunile de pe piața europeană, schimbările din domeniu și riscul reducerii unor locuri de muncă. Guvernul intenționează să susțină competitivitatea sectorului prin măsuri incluse în Automotive Action Plan.\n\n• **Programul de relansare economică ar urma să mobilizeze miliarde de euro** pentru sprijinirea companiilor și creșterea producției în România. Printre prioritățile prezentate se numără dezvoltarea furnizorilor locali și fabricarea în țară a unor componente care sunt în prezent importate.\n\n• **Impozitul minim pe cifra de afaceri, IMCA, ar urma să fie eliminat de la 1 ianuarie 2027.** Pentru activele noi puse în funcțiune în 2026, companiile ar putea aplica amortizarea accelerată. În cazul echipamentelor tehnologice, al mașinilor, uneltelor și instalațiilor de lucru, ar putea deduce fiscal 65% din valoare.\n\n• **Facilitățile anunțate vizează companiile care investesc în producție și cercetare-dezvoltare.** Măsurile urmăresc să sprijine poziția industriei românești în competiția europeană și să stimuleze fabricarea locală, pe fondul transformărilor și dificultăților din sector.",
     "importance_score": 33.0,
     "slug": "adokedvezmenyekkel-sztnzne-a-roman-kormany-az-autoipari-beruhazasokat-ae76d4",
+    "tags": [
+      "altalanos"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_97a0cbc859",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Drumul expres Brăila-Galați este aproape gata. În ce stadiu au ajuns lucrările la podul hobanat",
+        "link": "https://www.mediafax.ro/economic/drumul-expres-braila-galati-este-aproape-gata-in-ce-stadiu-au-ajuns-lucrarile-la-podul-hobanat-23840900"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Șeful Pentagonului rupe tăcerea după ce a fost acuzat că a condus un război ilegal: „Toată lumea știe asta”",
+        "link": "https://hotnews.ro/seful-pentagonului-rupe-tacerea-dupa-ce-a-fost-acuzat-ca-a-condus-un-razboi-ilegal-toata-lumea-stie-asta-2400170"
+      },
+      {
+        "source": "G4Media",
+        "title": "Șeful Pentagonului respinge acuzațiile care stau la baza procedurii de destituire: „Este o farsă”",
+        "link": "https://www.g4media.ro/seful-pentagonului-respinge-acuzatiile-care-stau-la-baza-procedurii-de-destituire-este-o-farsa.html"
+      }
+    ],
+    "published_at": 1794315272,
+    "title_hu": "Drumul expres Brăila-Galați este aproape gata. În ce stadiu au ajuns lucrările la podul hobanat",
+    "lead_hu": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a…",
+    "content_hu": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a anunțat ministrul Transporturilor, Ovidiu Popa.",
+    "title_ro": "Drumul expres Brăila-Galați este aproape gata. În ce stadiu au ajuns lucrările la podul hobanat",
+    "lead_ro": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a…",
+    "content_ro": "Drumul expres Brăila-Galați, cu o lungime de 10,76 kilometri, a ajuns la un stadiu fizic de 98%, iar constructorul român UMB lucrează la ultimele intervenții necesare pentru deschiderea circulației, a anunțat ministrul Transporturilor, Ovidiu Popa.",
+    "slug": "seful-pentagonului-rupe-tacerea-dupa-ce-a-fost-acuzat-ca-a-condus-un-razboi-ileg-97a0cb",
+    "tags": [
+      "altalanos"
+    ],
+    "importance_score": 33.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_cb61e59218",
+    "category": "Általános",
+    "is_synthesized": false,
+    "is_b2b_only": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Ce trebuie să lămurească Nicușor Dan la Cotroceni. Analiștii avertizează asupra unei crize de încredere în stat și cer răspunsuri despre alegerile anulate",
+        "link": "https://adevarul.ro/politica/ce-trebuie-sa-lamureasca-nicusor-dan-la-cotroceni-2570313.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan a explicat de ce alegerile anticipate nu erau o soluție viabilă pentru România",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-a-explicat-de-ce-alegerile-anticipate-nu-erau-o-solutie-viabila-pentru-romania-4030229"
+      },
+      {
+        "source": "Mediafax",
+        "title": "De ce a exclus Nicușor Dan varianta alegerilor anticipate: Ar fi dus la o prăbușire economică rapidă",
+        "link": "https://www.mediafax.ro/politic/de-ce-a-exclus-nicusor-dan-varianta-alegerilor-anticipate-ar-fi-dus-la-o-prabusire-economica-rapida-23841094"
+      }
+    ],
+    "published_at": 1794315260,
+    "title_hu": "Ce trebuie să lămurească Nicușor Dan la Cotroceni. Analiștii avertizează asupra unei crize de încredere în stat și cer răspunsuri despre alegerile anulate",
+    "lead_hu": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față ame…",
+    "content_hu": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față amenințărilor de securitate?",
+    "title_ro": "Ce trebuie să lămurească Nicușor Dan la Cotroceni. Analiștii avertizează asupra unei crize de încredere în stat și cer răspunsuri despre alegerile anulate",
+    "lead_ro": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față ame…",
+    "content_ro": "De ce nu a fost explicată pe deplin anularea alegerilor prezidențiale din 2024, cine răspunde pentru eventualele eșecuri ale serviciilor de informații și cât de pregătită este România să facă față amenințărilor de securitate?",
+    "importance_score": 33.0,
+    "slug": "ce-trebuie-sa-lamureasca-nicusor-dan-la-cotroceni-analistii-avertizeaza-asupra-u-cb61e5",
     "tags": [
       "altalanos"
     ],
@@ -5971,6 +6052,43 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_5a730f412f",
+    "slug": "visszavonta-az-anre-az-ibn-energy-aramszolgaltatoi-engedelyet-5a730f",
+    "tags": [
+      "ibn-energy",
+      "anre",
+      "piata-energiei",
+      "furnizori-energie"
+    ],
+    "fingerprint": "6c378ade7e8c616fb77430f139cafc15",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Un furnizor de energie, scos de pe piață de ANRE prin retragerea licenţei: „Este un risc”",
+        "link": "https://adevarul.ro/economie/un-furnizor-de-energie-scos-de-pe-piata-de-anre-2570444.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "ANRE retrage unei companii licenţa de furnizare a energiei electrice. Reprezentanţii firmei sunt de negăsit, de mai multe luni",
+        "link": "https://www.digi24.ro/stiri/economie/energie/anre-retrage-unei-companii-licenta-de-furnizare-a-energiei-electrice-reprezentantii-firmei-sunt-de-negasit-de-mai-multe-luni-4030009"
+      }
+    ],
+    "published_at": 1794325962,
+    "title_hu": "Visszavonta az ANRE az IBN Energy áramszolgáltatói engedélyét",
+    "lead_hu": "Az ANRE szabályozó bizottsága november 10-én megvonta az IBN Energy áramszolgáltatói engedélyét. A hatósági ellenőrzések pénzügyi biztosítékok hiányát és rendezetlen fizetési kötelezettségeket tártak fel.",
+    "content_hu": "• **November 10-én az ANRE szabályozó bizottsága** visszavonta az IBN Energy villamosenergia-szolgáltatói engedélyét. A hatóság közlése szerint az ellenőrzések olyan szabálytalanságokat tártak fel, amelyek egy része 2025 augusztusáig nyúlik vissza.\n\n• **2025. augusztus 1. és 7. között** a Transelectrica jelentős negatív eltérést jelzett a társaság által lekötött és ténylegesen szolgáltatott energia mennyisége között. Az ügylethez előírt, 3 522 276,50 lejes biztosítékot legkésőbb augusztus 26-ig kellett volna elhelyezni, ám a határidő után sem érkezett be.\n\n• **Az IBN Energy rendelkezésére álló biztosíték** az érintett időszakban mindössze 150 000 lej volt, miközben a cég biztosíték nélkül is végzett ügyleteket az energiapiacon. Az ANRE vizsgálata szerint a társaság a Romániai Árutőzsde felé fennálló fizetési kötelezettségeit sem teljesítette.\n\n• **George Niculescu, az ANRE elnöke** arra figyelmeztetett, hogy a pénzügyi kötelezettségeiket nem teljesítő szolgáltatók kockázatot jelentenek a piac egészére. Az ilyen hiányok költségei más piaci szereplőkre, végső soron pedig a fogyasztókra hárulhatnak.\n\n• **Az engedély visszavonásáról szóló döntést** az ANRE a feltárt hiányosságokkal indokolta. A közölt információk szerint a problémák között szerepelt a szükséges pénzügyi fedezet elmaradása, valamint az árutőzsde felé fennálló tartozások rendezetlensége.",
+    "title_ro": "ANRE a retras licența de furnizare a energiei pentru IBN Energy",
+    "lead_ro": "Comitetul de reglementare al ANRE a retras, pe 10 noiembrie, licența de furnizare a energiei electrice deținută de IBN Energy. Controalele au indicat lipsa unor garanții financiare suficiente și obligații de plată neachitate.",
+    "content_ro": "• **La 10 noiembrie, comitetul de reglementare al ANRE** a decis retragerea licenței de furnizare a energiei electrice a companiei IBN Energy. Potrivit autorității, verificările au identificat nereguli, dintre care unele datează din august 2025.\n\n• **În perioada 1–7 august 2025**, Transelectrica a semnalat o diferență negativă semnificativă între energia contractată de furnizor și cea livrată. Pentru această situație, compania trebuia să depună o garanție de 3.522.276,50 lei până la 26 august, însă suma nu a fost achitată nici după termenul stabilit.\n\n• **Garanțiile deținute de IBN Energy** în perioada respectivă se ridicau la numai 150.000 de lei, deși firma efectuase tranzacții pe piața energiei fără acoperirea financiară necesară. Verificările ANRE au mai constatat că societatea nu și-a achitat obligațiile de plată către Bursa Română de Mărfuri.\n\n• **George Niculescu, președintele ANRE**, a avertizat că furnizorii care nu își respectă obligațiile financiare pot crea riscuri pentru întreaga piață. Costurile generate de asemenea situații ar putea ajunge la celelalte companii participante și, în cele din urmă, la consumatori.\n\n• **Retragerea licenței** a fost motivată de neregulile constatate de autoritate, între care lipsa garanțiilor cerute și neplata sumelor datorate. ANRE a legat aceste probleme de riscurile pe care un furnizor cu obligații financiare restante le poate transfera asupra pieței și clienților.",
+    "importance_score": 28.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_180043421a",
     "slug": "ujraindult-a-vasuti-kzlekedes-galac-es-barlad-kztt-180043",
     "tags": [
@@ -6367,74 +6485,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_cb115b1ac1",
-    "fingerprint": "a60839b9aca7892502f8c255f32d9f05",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Geoparcul Internaţional Ţara Haţegului, reconfirmat cu statut UNESCO pentru încă patru ani",
-        "link": "https://www.g4media.ro/geoparcul-international-tara-hategului-reconfirmat-cu-statut-unesco-pentru-inca-patru-ani.html"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "Újabb négy évre megerősítették a Hátszegi-medence UNESCO-státuszát",
-        "link": "https://www.mediatica.ro/hirek/aktualis/ujabb-negy-evre-megerositettek-a-hatszegi-medence-unesco-statuszat"
-      }
-    ],
-    "published_at": 1794315212,
-    "title_hu": "Újabb négy évre megerősítették a Hátszegi-medence UNESCO-geopark státuszát",
-    "lead_hu": "A Hátszegi-medence UNESCO Nemzetközi Geoparkja újabb négy évre megtartotta elismerését. Az UNESCO geoparkok tanácsa a terület bővítéséről is döntött: a teljes Bánpatak község a geopark része lesz.",
-    "content_hu": "• **Újabb négy évre szól az elismerés:** A Bukaresti Egyetem által működtetett Hátszegi-medence UNESCO Nemzetközi Geopark megkapta a zöld minősítést, amely megerősíti tagságát a következő négyéves időszakra. A döntés azt követően született, hogy az UNESCO Nemzetközi Geoparkok Tanácsa Párizsban, november 2. és 4. között megtartotta 11. statútum szerinti ülését.\n\n• **81 pályázati anyagot vizsgáltak meg:** A tanács új jelentkezésekről, korábban elhalasztott kérelmekről, időszakos felülvizsgálatokról és geoparkterületek módosításáról szóló ügyeket is mérlegelt. A Hátszegi-medence újraminősítése ebbe a felülvizsgálati folyamatba illeszkedett.\n\n• **A helyszíni értékelés június 22–26. között zajlott:** A geopark előző négy évének munkáját Tran Tan Van vietnámi és Ivan Cortijo Sanchez spanyol szakértő vizsgálta. Programjuk során találkoztak az egyetem, a helyi hatóságok és partnerintézmények képviselőivel, valamint iskolákkal és közösségekkel.\n\n• **Oktatási és örökségvédelmi kezdeményezéseket is felkerestek:** Az értékelők többek között oktatási projekteket, látogatóhelyeket és a földtani, természeti, illetve kulturális értékek bemutatását szolgáló helyi kezdeményezéseket tekintettek meg. A geopark koordinátora szerint a döntés az egyetem területen végzett munkájának, illetve az értékekre építő fejlesztési modellnek az elismerése.\n\n• **Bánpatak teljes területe csatlakozik:** A tanács jóváhagyta, hogy a Hunyad megyei község egészét a geoparkhoz sorolják. Ez külön döntés volt az újraminősítéstől, és a geopark földrajzi kiterjedésének növelését jelenti.",
-    "title_ro": "Geoparcul Țara Hațegului își păstrează statutul UNESCO pentru încă patru ani",
-    "lead_ro": "Geoparcul Internațional UNESCO Țara Hațegului a primit o nouă confirmare a statutului său pentru următorii patru ani. Consiliul UNESCO a aprobat și includerea întregului teritoriu al comunei Bănița în geoparc.",
-    "content_ro": "• **Statutul este reconfirmat pentru încă patru ani:** Geoparcul Internațional UNESCO Țara Hațegului, administrat de Universitatea din București, a primit calificativul verde, prin care își păstrează statutul UNESCO în următorul interval de patru ani. Hotărârea a fost luată la Paris, în perioada 2–4 noiembrie, când Consiliul Geoparcurilor Internaționale UNESCO s-a reunit pentru a 11-a întâlnire statutară.\n\n• **Consiliul a analizat 81 de dosare:** Pe agenda evaluării s-au aflat candidaturi noi, cereri care fuseseră amânate, proceduri de revalidare și propuneri de modificare a suprafețelor geoparcurilor. Reconfirmarea Țării Hațegului a făcut parte din procesul periodic de verificare.\n\n• **Evaluarea pe teren s-a desfășurat între 22 și 26 iunie:** Activitatea geoparcului din cei patru ani precedenți a fost examinată de Tran Tan Van, din Vietnam, și Ivan Cortijo Sanchez, din Spania. Evaluatorii au discutat cu reprezentanți ai universității, autorităților, instituțiilor partenere, școlilor și comunităților locale.\n\n• **Au fost vizitate proiecte și obiective locale:** Programul a cuprins inițiative educaționale, puncte de vizitare și activități dedicate prezentării patrimoniului geologic, natural și cultural. Coordonatorul geoparcului, Cristian Ciobanu, a descris decizia drept o validare a activității universității și a unei abordări de dezvoltare bazate pe valorile locale.\n\n• **Întreaga comună Bănița va intra în componența geoparcului:** Consiliul a aprobat extinderea teritoriului prin includerea comunei hunedorene în întregime. Această hotărâre este distinctă de revalidarea statutului și modifică aria geografică a geoparcului.",
-    "importance_score": 28.0,
-    "slug": "ujabb-negy-evre-megerositettek-a-hatszegi-medence-unesco-geopark-statuszat-cb115b",
-    "tags": [
-      "altalanos"
-    ],
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_f211b0957d",
-    "fingerprint": "a105f1a636a09de708fa6017a5ee6618",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Hatvan dolgozójától válik meg a parajdi sóbánya novemberben",
-        "link": "https://maszol.ro/belfold/Hatvan-dolgozojatol-valik-meg-a-parajdi-sobanya-novemberben"
-      },
-      {
-        "source": "Transtelex",
-        "title": "125 alkalmazottjából 60-at elbocsát a parajdi sóbánya",
-        "link": "https://transtelex.ro/transtelex/2026/11/10/a-parajdi-sobanya-alkalmazottainak-majdnem-felet-leepitik"
-      }
-    ],
-    "published_at": 1794315200,
-    "title_hu": "Hatvan dolgozóját bocsátja el a parajdi sóbánya",
-    "lead_hu": "A Salrom november 23–24-én megszünteti a parajdi sóbánya 125 alkalmazottja közül 60 ember munkaviszonyát. Az érintettek többsége bányász, és a térségben kevés az új elhelyezkedési lehetőség.",
-    "content_hu": "• **November 23–24-én** lép életbe a 60 fős létszámcsökkentés a parajdi sóbányánál. A Salrom szerkezetátalakítási programjának részeként a jelenlegi 125 alkalmazottból ennyien veszítik el állásukat; a távozók többsége a bánya föld alatti részlegén dolgozott.\n\n• **A leépítés előtt** a Hargita Megyei Munkaerő-elhelyező Ügynökség november 3-án tájékoztatta az érintetteket. Szó esett a munkanélkülivé válás után igénybe vehető támogatásokról, a környék állásairól, valamint a szakmai képzések lehetőségéről.\n\n• **Az elbocsátottak többsége még munkaképes korú**, és csak négy-öt ember érheti el a nyugdíjkorhatárt a következő egy évben. A bánya dolgozói korábban időszakosan technikai munkanélküliség miatt csökkentett jövedelemmel dolgoztak.\n\n• **Parajd környékén szűkösek az álláslehetőségek**, ezért az elhelyezkedés várhatóan nehéz lesz. Az ügynökség tájékoztatása szerint a megfelelő számú üres állás inkább a mintegy 40 kilométerre fekvő Székelyudvarhelyen található.\n\n• **A bánya 2025 májusa óta nem működik**, miután a heves esőzésekhez kapcsolódó vízbetörés elárasztotta a járatokat. A munkaviszony megszűnése után a munkaügyi ügynökség állásközvetítéssel, tanácsadással és átképzéssel segíti az érintetteket.",
-    "title_ro": "Salina Praid concediază 60 dintre cei 125 de angajați",
-    "lead_ro": "Salrom va înceta, în perioada 23–24 noiembrie, contractele a 60 de angajați ai salinei Praid, care are în prezent 125 de salariați. Majoritatea celor vizați sunt mineri, iar oportunitățile de angajare din zonă sunt limitate.",
-    "content_ro": "• **În perioada 23–24 noiembrie** va fi pusă în aplicare reducerea de personal de la salina Praid. În cadrul programului de restructurare al Salrom, 60 dintre cei 125 de angajați își vor pierde locul de muncă; cei mai mulți dintre ei lucrau în subteran.\n\n• **Înaintea concedierilor**, Agenția Județeană pentru Ocuparea Forței de Muncă Harghita a organizat, pe 3 noiembrie, o sesiune de informare pentru salariații vizați. Aceștia au primit detalii despre drepturile aferente șomajului, posturile disponibile în regiune și posibilitățile de formare profesională.\n\n• **Cei mai mulți dintre angajații disponibilizați sunt încă de vârstă activă**, iar patru sau cinci ar putea ajunge la pensie în cel mult un an. Anterior, o parte dintre salariați au trecut, în anumite perioade, prin șomaj tehnic și au avut venituri reduse.\n\n• **Posturile disponibile în apropiere sunt puține**, ceea ce poate îngreuna găsirea unui nou loc de muncă. Potrivit agenției, mai multe oportunități se găsesc la Odorheiu Secuiesc, oraș aflat la aproximativ 40 de kilometri de Praid.\n\n• **Salina nu mai funcționează din mai 2025**, când pătrunderea apei, în urma ploilor abundente, a inundat galeriile. După încetarea contractelor, agenția pentru ocuparea forței de muncă va continua să-i sprijine pe cei afectați prin mediere, consiliere și cursuri de recalificare.",
-    "importance_score": 28.0,
-    "slug": "hatvan-dolgozojat-bocsatja-el-a-parajdi-sobanya-f211b0",
-    "tags": [
-      "altalanos"
-    ],
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_9de30bff8b",
     "fingerprint": "661e29c42dce01662e543d1bb965a25c",
     "category": "Általános",
@@ -6625,7 +6675,7 @@
     "title_ro": "Costreie: violența școlară rămâne o problemă gravă, în pofida măsurilor existente",
     "lead_ro": "Ministrul Educației, Sorin Costreie, a declarat că violența din școli continuă să fie o problemă serioasă, deși există planuri și proceduri de semnalare. El a criticat respingerea de către Senat a unei propuneri care le-ar fi permis elevilor să solicite consiliere fără acordul părinților.",
     "content_ro": "• **Ministrul Educației, Sorin Costreie**, a vorbit luni, la Palatul Victoria, despre limitele măsurilor instituționale în combaterea violenței școlare. Ministerul a aprobat un plan național în domeniu, există proceduri pentru gestionarea cazurilor și poate fi transmisă anonim o sesizare, însă aceste instrumente nu au eliminat fenomenul.\n\n• **Respingerea din Senat** a blocat o propunere prin care adolescenții ar fi putut ajunge la consilierul școlar fără permisiunea părinților. Costreie a criticat votul și a arătat că, în unele situații, tocmai familia poate contribui la dificultățile copilului, astfel încât acordul parental nu ar trebui să fie o condiție în orice împrejurare.\n\n• **Pragul de vârstă pentru consiliere** ar putea fi, în opinia ministrului, stabilit undeva între 14 și 16 ani. El a considerat mai puțin importantă alegerea exactă a limitei, dar a susținut că elevii nu ar trebui să fie nevoiți să aștepte până la 18 ani pentru a accesa serviciul. Costreie a menționat și riscul ca solicitarea de sprijin să atragă o etichetare socială.\n\n• **Discuțiile programate** includ o întâlnire marți la Parlament și una joi la Guvern, ambele dedicate violenței școlare. Declarațiile ministrului au fost făcute la încheierea unui proiect finanțat de Uniunea Europeană și desfășurat de UNICEF împreună cu autoritatea română pentru protecția copilului și Ministerul Justiției din Polonia.",
-    "importance_score": 28.0,
+    "importance_score": 25.0,
     "slug": "costreie-a-szabalyozas-ellenere-sulyos-problema-az-iskolai-eroszak-a892a2",
     "tags": [
       "altalanos"
@@ -6664,6 +6714,77 @@
     "tags": [
       "altalanos"
     ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_f211b0957d",
+    "fingerprint": "a105f1a636a09de708fa6017a5ee6618",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Hatvan dolgozójától válik meg a parajdi sóbánya novemberben",
+        "link": "https://maszol.ro/belfold/Hatvan-dolgozojatol-valik-meg-a-parajdi-sobanya-novemberben"
+      },
+      {
+        "source": "Transtelex",
+        "title": "125 alkalmazottjából 60-at elbocsát a parajdi sóbánya",
+        "link": "https://transtelex.ro/transtelex/2026/11/10/a-parajdi-sobanya-alkalmazottainak-majdnem-felet-leepitik"
+      }
+    ],
+    "published_at": 1794315200,
+    "title_hu": "Hatvan dolgozóját bocsátja el a parajdi sóbánya",
+    "lead_hu": "A Salrom november 23–24-én megszünteti a parajdi sóbánya 125 alkalmazottja közül 60 ember munkaviszonyát. Az érintettek többsége bányász, és a térségben kevés az új elhelyezkedési lehetőség.",
+    "content_hu": "• **November 23–24-én** lép életbe a 60 fős létszámcsökkentés a parajdi sóbányánál. A Salrom szerkezetátalakítási programjának részeként a jelenlegi 125 alkalmazottból ennyien veszítik el állásukat; a távozók többsége a bánya föld alatti részlegén dolgozott.\n\n• **A leépítés előtt** a Hargita Megyei Munkaerő-elhelyező Ügynökség november 3-án tájékoztatta az érintetteket. Szó esett a munkanélkülivé válás után igénybe vehető támogatásokról, a környék állásairól, valamint a szakmai képzések lehetőségéről.\n\n• **Az elbocsátottak többsége még munkaképes korú**, és csak négy-öt ember érheti el a nyugdíjkorhatárt a következő egy évben. A bánya dolgozói korábban időszakosan technikai munkanélküliség miatt csökkentett jövedelemmel dolgoztak.\n\n• **Parajd környékén szűkösek az álláslehetőségek**, ezért az elhelyezkedés várhatóan nehéz lesz. Az ügynökség tájékoztatása szerint a megfelelő számú üres állás inkább a mintegy 40 kilométerre fekvő Székelyudvarhelyen található.\n\n• **A bánya 2025 májusa óta nem működik**, miután a heves esőzésekhez kapcsolódó vízbetörés elárasztotta a járatokat. A munkaviszony megszűnése után a munkaügyi ügynökség állásközvetítéssel, tanácsadással és átképzéssel segíti az érintetteket.",
+    "title_ro": "Salina Praid concediază 60 dintre cei 125 de angajați",
+    "lead_ro": "Salrom va înceta, în perioada 23–24 noiembrie, contractele a 60 de angajați ai salinei Praid, care are în prezent 125 de salariați. Majoritatea celor vizați sunt mineri, iar oportunitățile de angajare din zonă sunt limitate.",
+    "content_ro": "• **În perioada 23–24 noiembrie** va fi pusă în aplicare reducerea de personal de la salina Praid. În cadrul programului de restructurare al Salrom, 60 dintre cei 125 de angajați își vor pierde locul de muncă; cei mai mulți dintre ei lucrau în subteran.\n\n• **Înaintea concedierilor**, Agenția Județeană pentru Ocuparea Forței de Muncă Harghita a organizat, pe 3 noiembrie, o sesiune de informare pentru salariații vizați. Aceștia au primit detalii despre drepturile aferente șomajului, posturile disponibile în regiune și posibilitățile de formare profesională.\n\n• **Cei mai mulți dintre angajații disponibilizați sunt încă de vârstă activă**, iar patru sau cinci ar putea ajunge la pensie în cel mult un an. Anterior, o parte dintre salariați au trecut, în anumite perioade, prin șomaj tehnic și au avut venituri reduse.\n\n• **Posturile disponibile în apropiere sunt puține**, ceea ce poate îngreuna găsirea unui nou loc de muncă. Potrivit agenției, mai multe oportunități se găsesc la Odorheiu Secuiesc, oraș aflat la aproximativ 40 de kilometri de Praid.\n\n• **Salina nu mai funcționează din mai 2025**, când pătrunderea apei, în urma ploilor abundente, a inundat galeriile. După încetarea contractelor, agenția pentru ocuparea forței de muncă va continua să-i sprijine pe cei afectați prin mediere, consiliere și cursuri de recalificare.",
+    "importance_score": 23.0,
+    "slug": "hatvan-dolgozojat-bocsatja-el-a-parajdi-sobanya-f211b0",
+    "tags": [
+      "altalanos"
+    ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_236895d6d8",
+    "slug": "romania-az-europai-elmezonyben-van-a-fldgaztarolok-tltttsegeben-236895",
+    "tags": [
+      "romania",
+      "foldgaz",
+      "energiabiztonsag",
+      "gaztarolok"
+    ],
+    "fingerprint": "8157965d19da38f66c3049419ca680bb",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Producția de gaze românești din Marea Neagră va limita capacitatea Greciei de a vinde gaze americane prin Coridorul Vertical – analiză Standard & Poor’s",
+        "link": "https://www.g4media.ro/productia-de-gaze-romanesti-din-marea-neagra-va-limita-capacitatea-greciei-de-a-vinde-gaze-americane-prin-coridorul-vertical-analiza-standard-poors.html"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Az európai élmezőnyben van Románia a földgáztárolók feltöltöttségét illetően",
+        "link": "https://www.mediatica.ro/hirek/gazdasag/az-europai-elmezonyben-van-romania-a-foldgaztarolok-feltoltottseget-illetoen"
+      }
+    ],
+    "published_at": 1794313554,
+    "title_hu": "Románia az európai élmezőnyben van a földgáztárolók töltöttségében",
+    "lead_hu": "Románia az első öt európai ország között szerepel a földgáztárolók feltöltöttsége alapján, és a szint meghaladja az európai átlagot. A téli ellátás biztonsága érdekében a készletek alakulását folyamatosan követik, a hideg időszak második felében pedig takarékos felhasználásra készülnek.",
+    "content_hu": "• **Románia az első öt között áll** az európai országok földgáztárolóinak feltöltöttségi rangsorában. A készletek szintje a kontinens átlagánál magasabb, ami kedvező kiinduló helyzetet jelenthet a téli ellátás megszervezéséhez. Az adatot az energiaügyi miniszter ismertette.\n\n• **A tél biztonságos átvészelése a fő cél** – közölte Dumitru Chisăliță. Ennek érdekében rendszeresen értékelik a földgázkészletek állapotát, és egyeztetnek az energiaszolgáltatókkal arról, hogy a tartalékok megfelelő szinten maradjanak.\n\n• **A téli időszak második felében különösen fontos lehet a takarékosság.** A közlés szerint ekkor kiemelt figyelmet fordítanak majd a földgázkészletek megfontolt felhasználására. A nyilatkozat nem közölt konkrét fogyasztási korlátozást vagy célszámot.\n\n• **Az időjárási szélsőségekből eredő üzemzavarokra is készülnek.** A hatóságok olyan intézkedéseket terveznek, amelyekkel az esetleges fennakadások elhárítása gyorsabban történhet. A bejelentés nem részletezte, milyen konkrét műszaki lépések vagy határidők tartoznak a felkészüléshez.",
+    "title_ro": "România se află între primele cinci țări europene la umplerea depozitelor de gaze",
+    "lead_ro": "România ocupă unul dintre primele cinci locuri în Europa după nivelul de umplere a depozitelor de gaze naturale, situat peste media europeană. Pentru sezonul rece, autoritățile urmăresc evoluția rezervelor și pregătesc măsuri de economisire și intervenție în cazul unor probleme cauzate de vreme extremă.",
+    "content_ro": "• **România se află între primele cinci state europene** în privința gradului de umplere a depozitelor de gaze naturale. Nivelul rezervelor depășește media europeană, potrivit informației prezentate de ministrul energiei. Datele indică situația stocurilor, fără să ofere însă valori procentuale exacte.\n\n• **Asigurarea trecerii în siguranță a iernii este obiectivul principal**, a declarat Dumitru Chisăliță. Pentru evaluarea disponibilității gazelor, situația rezervelor este urmărită în permanență. Autoritățile discută și cu furnizorii de energie pentru menținerea stocurilor la un nivel considerat adecvat.\n\n• **Economisirea gazelor va căpăta o importanță sporită în a doua parte a iernii.** Potrivit declarației, rezervele trebuie utilizate cu prudență în acea perioadă. Nu au fost anunțate limite concrete de consum sau o țintă numerică pentru reducerea utilizării.\n\n• **Sunt pregătite măsuri pentru remedierea rapidă a eventualelor avarii provocate de vreme extremă.** Anunțul menționează intenția de a răspunde prompt unor posibile întreruperi ale funcționării sistemului. Nu au fost precizate intervenții tehnice specifice, instituțiile responsabile sau termenele de aplicare.",
+    "importance_score": 23.0,
     "is_top_hero": false
   },
   {
@@ -7753,7 +7874,7 @@
     "title_ro": "Gunoiul sub preș: Cum „rezolvă” Primăria Nojorid problema deșeurilor aruncate pretutindeni (FOTO)",
     "lead_ro": "La Nojorid, administrația locală a inventat o nouă metodă de salubrizare, după cum a descoperit Bihorel. Povestea a început după ce BIHOREANUL a găsit, la marginea pădurii dintre Nojorid și Cihei, fix…",
     "content_ro": "La Nojorid, administrația locală a inventat o nouă metodă de salubrizare, după cum a descoperit Bihorel. Povestea a început după ce BIHOREANUL a găsit, la marginea pădurii dintre Nojorid și Cihei, fix pe linia fortificată Carol al II-lea, mormane de gunoi menajer, deşeuri de construcţii, hoituri şi schelete de animale, motiv pentru care a sesizat Direcția Sanitară Veterinară și pentru Siguranța Alimentelor Bihor.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "slug": "gunoiul-sub-pres-cum-rezolva-primaria-nojorid-problema-deseurilor-aruncate-pretu-b2475f",
     "tags": [
       "erdely"
@@ -8189,35 +8310,84 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_3088ac776a",
-    "slug": "horoscop-10-noiembrie-2026-cu-neti-sandu-o-sa-intr-3088ac",
+    "group_id": "group_6022553c26",
+    "slug": "efectul-scandalului-in-care-e-implicat-seful-nvidia-compania-depasita-pe-bursa-d-602255",
     "tags": [
-      "gazdasag"
+      "altalanos"
     ],
-    "category": "Gazdaság",
+    "category": "Általános",
+    "image": "",
     "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 10 noiembrie 2026, cu Neti Sandu. O să intre bani în contul unei zodii",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-10-noiembrie-2026-cu-neti-sandu-o-sa-intre-bani-in-contul-unei-zodii.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop 11 noiembrie 2026, cu Neti Sandu. O zodie va recupera niște bani",
-        "link": "https://stirileprotv.ro/show-buzz/horoscop/horoscop-11-noiembrie-2026-cu-neti-sandu-o-zodie-va-recupera-niste-bani.html"
+        "source": "HotNews.ro",
+        "title": "Efectul scandalului în care e implicat șeful Nvidia: Compania, depășită pe bursa de la New York de un alt gigant tech",
+        "link": "https://hotnews.ro/efectul-scandalului-in-care-e-implicat-seful-nvidia-compania-depasita-pe-bursa-de-la-new-york-de-un-alt-gigant-tech-2400643"
       }
     ],
-    "published_at": 1794250715,
-    "title_hu": "Horoscop 10 noiembrie 2026, cu Neti Sandu. O să intre bani în contul unei zodii",
-    "lead_hu": "Horoscop 10 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. O zi echilibrată. Încă puțin și o să ajungem – la zi – cu tot ce ne-am propus, că și până acum am tot făcut diverse rectificări.",
-    "content_hu": "Horoscop 10 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. O zi echilibrată. Încă puțin și o să ajungem – la zi – cu tot ce ne-am propus, că și până acum am tot făcut diverse rectificări.",
-    "title_ro": "Horoscop 10 noiembrie 2026, cu Neti Sandu. O să intre bani în contul unei zodii",
-    "lead_ro": "Horoscop 10 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. O zi echilibrată. Încă puțin și o să ajungem – la zi – cu tot ce ne-am propus, că și până acum am tot făcut diverse rectificări.",
-    "content_ro": "Horoscop 10 noiembrie 2026, prezentat de Neti Sandu la Știrile PRO TV. O zi echilibrată. Încă puțin și o să ajungem – la zi – cu tot ce ne-am propus, că și până acum am tot făcut diverse rectificări.",
-    "importance_score": 20.0,
+    "published_at": 1794337132,
+    "title_hu": "Efectul scandalului în care e implicat șeful Nvidia: Compania, depășită pe bursa de la New York de un alt gigant tech",
+    "lead_hu": "Microsoft a depășit marți Nvidia, devenind a doua cea mai valoroasă companie din lume, pe fondul scăderii acțiunilor producătorului de cipuri, în urma temerilor privind sustenabilitatea investițiilor ...",
+    "content_hu": "Microsoft a depășit marți Nvidia, devenind a doua cea mai valoroasă companie din lume, pe fondul scăderii acțiunilor producătorului de cipuri, în urma temerilor privind sustenabilitatea investițiilor AI și a investigației care va stabili dacă directorul general Jensen Huang a fost vizat de un serviciu de informații externe, scrie Reuters. La Bursa de la New …",
+    "title_ro": "Efectul scandalului în care e implicat șeful Nvidia: Compania, depășită pe bursa de la New York de un alt gigant tech",
+    "lead_ro": "Microsoft a depășit marți Nvidia, devenind a doua cea mai valoroasă companie din lume, pe fondul scăderii acțiunilor producătorului de cipuri, în urma temerilor privind sustenabilitatea investițiilor ...",
+    "content_ro": "Microsoft a depășit marți Nvidia, devenind a doua cea mai valoroasă companie din lume, pe fondul scăderii acțiunilor producătorului de cipuri, în urma temerilor privind sustenabilitatea investițiilor AI și a investigației care va stabili dacă directorul general Jensen Huang a fost vizat de un serviciu de informații externe, scrie Reuters. La Bursa de la New …",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_b4d9c1ed7b",
+    "slug": "ninge-in-maramures-la-cavnic-drumarii-intervin-cu-material-antiderapant-b4d9c1",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.g4media.ro/wp-content/uploads/2026/01/zapada-harghita-drum-e1769433790644.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Ninge în Maramureș, la Cavnic / Drumarii intervin cu material antiderapant",
+        "link": "https://www.g4media.ro/ninge-in-maramures-la-cavnic-drumarii-intervin-cu-material-antiderapant.html"
+      }
+    ],
+    "published_at": 1794337089,
+    "title_hu": "Ninge în Maramureș, la Cavnic / Drumarii intervin cu material antiderapant",
+    "lead_hu": "Drumarii din Maramureş intervin, marţi seara, pe drumurile judeţene DJ 184 şi pe DJ 109F din oraşul Cavnic, situat la poalele Munţilor Gutâi, unde ninge, a informat purtătorul de cuvânt al Instituţiei...",
+    "content_hu": "Drumarii din Maramureş intervin, marţi seara, pe drumurile judeţene DJ 184 şi pe DJ 109F din oraşul Cavnic, situat la poalele Munţilor Gutâi, unde ninge, a informat purtătorul de cuvânt al Instituţiei Prefectul Judeţul Maramureş, Dan Bucă, relatează Agerpres. „Pe DJ 184 şi pe DJ 109F la Cavnic se acţionează cu două utilaje şi material […] © G4Media.ro.",
+    "title_ro": "Ninge în Maramureș, la Cavnic / Drumarii intervin cu material antiderapant",
+    "lead_ro": "Drumarii din Maramureş intervin, marţi seara, pe drumurile judeţene DJ 184 şi pe DJ 109F din oraşul Cavnic, situat la poalele Munţilor Gutâi, unde ninge, a informat purtătorul de cuvânt al Instituţiei...",
+    "content_ro": "Drumarii din Maramureş intervin, marţi seara, pe drumurile judeţene DJ 184 şi pe DJ 109F din oraşul Cavnic, situat la poalele Munţilor Gutâi, unde ninge, a informat purtătorul de cuvânt al Instituţiei Prefectul Judeţul Maramureş, Dan Bucă, relatează Agerpres. „Pe DJ 184 şi pe DJ 109F la Cavnic se acţionează cu două utilaje şi material […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_3bfaeb0c50",
+    "slug": "enrico-letta-avertizeaza-ca-europa-nu-este-independenta-daca-cercetarea-ramane-f-3bfaeb",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/enrico-letta-e1794336227466-1024x673.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Enrico Letta avertizează că „Europa nu este independentă” dacă cercetarea rămâne fragmentată. Ce presupune „a cincea libertate” a pieței unice",
+        "link": "https://www.mediafax.ro/externe/enrico-letta-avertizeaza-ca-europa-nu-este-independenta-daca-cercetarea-ramane-fragmentata-ce-presupune-a-cincea-libertate-a-pietei-unice-23841118"
+      }
+    ],
+    "published_at": 1794336915,
+    "title_hu": "Enrico Letta avertizează că „Europa nu este independentă” dacă cercetarea rămâne fragmentată. Ce presupune „a cincea libertate” a pieței unice",
+    "lead_hu": "Fostul premier italian Enrico Letta a avertizat marți, la Bruxelles, că Uniunea Europeană nu poate deveni pe deplin independentă dacă cercetarea și inovarea continuă să fie fragmentate între cele 27 d...",
+    "content_hu": "Fostul premier italian Enrico Letta a avertizat marți, la Bruxelles, că Uniunea Europeană nu poate deveni pe deplin independentă dacă cercetarea și inovarea continuă să fie fragmentate între cele 27 de state membre.",
+    "title_ro": "Enrico Letta avertizează că „Europa nu este independentă” dacă cercetarea rămâne fragmentată. Ce presupune „a cincea libertate” a pieței unice",
+    "lead_ro": "Fostul premier italian Enrico Letta a avertizat marți, la Bruxelles, că Uniunea Europeană nu poate deveni pe deplin independentă dacă cercetarea și inovarea continuă să fie fragmentate între cele 27 d...",
+    "content_ro": "Fostul premier italian Enrico Letta a avertizat marți, la Bruxelles, că Uniunea Europeană nu poate deveni pe deplin independentă dacă cercetarea și inovarea continuă să fie fragmentate între cele 27 de state membre.",
+    "importance_score": 0.0,
     "is_top_hero": false
   },
   {
@@ -8244,33 +8414,6 @@
     "title_ro": "Ben Shelton schimbă sponsorul și semnează un contract de 5 milioane de euro",
     "lead_ro": "Tenismenul american Ben Shelton (24 de ani, locul 4 ATP) a decis să încheie colaborarea cu brandul elvețian ON și să revină la New Balance începând cu luna ianuarie 2027. Acesta va semna un contract î...",
     "content_ro": "Tenismenul american Ben Shelton (24 de ani, locul 4 ATP) a decis să încheie colaborarea cu brandul elvețian ON și să revină la New Balance începând cu luna ianuarie 2027. Acesta va semna un contract în valoare de 5 milioane de dolari. Potrivit informațiilor publicate de jurnalista Jessica Schiffer de la Hard Court noul acord îi garantează lui Shelton o sumă fixă de 5 milioane de euro pe an. ...",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_602f6e95c8",
-    "slug": "nicusor-dan-anunta-informatii-noi-despre-calin-georgescu-si-influenta-rusiei-in--602f6e",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/08/8133217-mediafax_foto-alexandru_dobre-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Nicușor Dan anunță informații noi despre Călin Georgescu și influența Rusiei în alegeri: Vor fi în raport",
-        "link": "https://www.mediafax.ro/politic/nicusor-dan-anunta-informatii-noi-despre-calin-georgescu-si-influenta-rusiei-in-alegeri-vor-fi-in-raport-23841135"
-      }
-    ],
-    "published_at": 1794336518,
-    "title_hu": "Nicușor Dan anunță informații noi despre Călin Georgescu și influența Rusiei în alegeri: Vor fi în raport",
-    "lead_hu": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul document...",
-    "content_hu": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul documentului și nici nu a avansat un termen pentru publicare, după ce calendarul anunțat nu a fost respectat",
-    "title_ro": "Nicușor Dan anunță informații noi despre Călin Georgescu și influența Rusiei în alegeri: Vor fi în raport",
-    "lead_ro": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul document...",
-    "content_ro": "Nicușor Dan a anunțat că raportul privind alegerile și influența Rusiei va cuprinde informații care nu au fost prezentate până acum în spațiul public. El nu a oferit detalii despre conținutul documentului și nici nu a avansat un termen pentru publicare, după ce calendarul anunțat nu a fost respectat",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -8460,33 +8603,6 @@
     "title_ro": "Nicușor Dan explică de ce nu a publicat raportul privind anularea alegerilor: „Sunt investigații în curs pe urma banilor”",
     "lead_ro": "Președintele Nicușor Dan a declarat marți seară că raportul privind anularea alegerilor va fi făcut public atunci când va putea fi prezentată imaginea completă a factorilor care au stat la baza decizi...",
     "content_ro": "Președintele Nicușor Dan a declarat marți seară că raportul privind anularea alegerilor va fi făcut public atunci când va putea fi prezentată imaginea completă a factorilor care au stat la baza deciziei, inclusiv investigațiile aflate în desfășurare și contextul mai larg al amenințărilor hibride.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_4732ed7f57",
-    "slug": "credeti-ca-e-relevant-raspunsul-lui-nicusor-dan-intrebat-despre-prezenta-lui-pah-4732ed",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "„Credeți că e relevant?”. Răspunsul lui Nicușor Dan, întrebat despre prezența lui Pahonțu la cina cu el și cu politicieni. Schimb aprins de replici cu un jurnalist Recorder",
-        "link": "https://hotnews.ro/credeti-ca-e-relevant-raspunsul-lui-nicusor-dan-intrebat-despre-prezenta-lui-pahontu-la-cina-cu-el-si-cu-politicieni-schimb-aprins-de-replici-cu-un-jurnalist-recorder-2400595"
-      }
-    ],
-    "published_at": 1794335499,
-    "title_hu": "„Credeți că e relevant?”. Răspunsul lui Nicușor Dan, întrebat despre prezența lui Pahonțu la cina cu el și cu politicieni. Schimb aprins de replici cu un jurnalist Recorder",
-    "lead_hu": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoar...",
-    "content_hu": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoara, precum și pe tema situației din magistrată, în contextul documentarului „Justiție capturată”. „Nu știu, credeți că e relevant?”, a replicat șeful statului când a …",
-    "title_ro": "„Credeți că e relevant?”. Răspunsul lui Nicușor Dan, întrebat despre prezența lui Pahonțu la cina cu el și cu politicieni. Schimb aprins de replici cu un jurnalist Recorder",
-    "lead_ro": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoar...",
-    "content_ro": "Președintele Nicușor Dan a avut un schimb de replici mai încordat, cu jurnalistul Sebastian Zachmann, de la publicația „Recorder”, pe tema prezenței șefului SPP, Lucian Pahonțu, la cina de la Timișoara, precum și pe tema situației din magistrată, în contextul documentarului „Justiție capturată”. „Nu știu, credeți că e relevant?”, a replicat șeful statului când a …",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -25258,210 +25374,85 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_8274cc47a2",
-    "slug": "mihnea-ionescu-chirurgul-de-la-institutul-clinic-f-8274cc",
+    "group_id": "group_6e42a30a7b",
+    "slug": "tiz-es-fel-ev-brtnt-kapott-russell-brand-uj-bejelenteseket-vizsgal-a-rendorseg-6e42a3",
     "tags": [
-      "bulvar"
+      "russell-brand",
+      "condamnare",
+      "politie",
+      "agresiune-sexuala"
     ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Mihnea Ionescu, chirurgul de la Institutul Clinic Fundeni, a murit. Medicul avea 73 de ani",
-        "link": "https://www.cancan.ro/mihnea-ionescu-chirurgul-de-la-institutul-clinic-fundeni-a-murit-medicul-avea-73-de-ani-21544585"
-      }
-    ],
-    "published_at": 1794250539,
-    "title_hu": "Mihnea Ionescu, chirurgul de la Institutul Clinic Fundeni, a murit. Medicul avea 73 de ani",
-    "lead_hu": "Medicul chirurg, Mihai Ionescu, de la Institutul Clinic Fundeni, s-a stins din viață la vârsta de 73 de ani. De-a lungul carierei sale, acesta a contribuit la formarea mai multor generații de chirurgi…",
-    "content_hu": "Medicul chirurg, Mihai Ionescu, de la Institutul Clinic Fundeni, s-a stins din viață la vârsta de 73 de ani. De-a lungul carierei sale, acesta a contribuit la formarea mai multor generații de chirurgi. Mulți dintre foștii săi elevi activează acum în spitale din România și străinătate. Vestea dispariției medicului a fost transmisă chiar de colectivul […]",
-    "title_ro": "Mihnea Ionescu, chirurgul de la Institutul Clinic Fundeni, a murit. Medicul avea 73 de ani",
-    "lead_ro": "Medicul chirurg, Mihai Ionescu, de la Institutul Clinic Fundeni, s-a stins din viață la vârsta de 73 de ani. De-a lungul carierei sale, acesta a contribuit la formarea mai multor generații de chirurgi…",
-    "content_ro": "Medicul chirurg, Mihai Ionescu, de la Institutul Clinic Fundeni, s-a stins din viață la vârsta de 73 de ani. De-a lungul carierei sale, acesta a contribuit la formarea mai multor generații de chirurgi. Mulți dintre foștii săi elevi activează acum în spitale din România și străinătate. Vestea dispariției medicului a fost transmisă chiar de colectivul […]",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_9c1fae00b4",
-    "slug": "hozta-a-ktelezot-az-olimpia-vsk-nagy-sikert-jegyze-9c1fae",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Szatmári sporthírek",
-        "title": "Hozta a kötelezőt az Olimpia VSK, nagy sikert jegyzett a KKS",
-        "link": "https://szmsport.ro/kezilabda/hozta-a-kotelezot-az-olimpia-vsk-nagy-sikert-jegyzett-a-kks/"
-      }
-    ],
-    "published_at": 1794250421,
-    "title_hu": "Hozta a kötelezőt az Olimpia VSK, nagy sikert jegyzett a KKS",
-    "lead_hu": "Nem hagyott kétséget a győztes kiléte felől a Szatmárnémeti Olimpia VSK női kézilabdacsapata az U15-ös korosztályos bajnokság hatodik fordulójában: Nagy Florián és Lucaci Dénes tanítványai vasárnap 34…",
-    "content_hu": "Nem hagyott kétséget a győztes kiléte felől a Szatmárnémeti Olimpia VSK női kézilabdacsapata az U15-ös korosztályos bajnokság hatodik fordulójában: Nagy Florián és Lucaci Dénes tanítványai vasárnap 34–7-re múlták felül az ACS Atletik Szatmárnémeti együttesét. A Hozta a kötelezőt az Olimpia VSK, nagy sikert jegyzett a KKS bejegyzés először Szatmári sporthírek, magyarul-én jelent meg.",
-    "title_ro": "Hozta a kötelezőt az Olimpia VSK, nagy sikert jegyzett a KKS",
-    "lead_ro": "Nem hagyott kétséget a győztes kiléte felől a Szatmárnémeti Olimpia VSK női kézilabdacsapata az U15-ös korosztályos bajnokság hatodik fordulójában: Nagy Florián és Lucaci Dénes tanítványai vasárnap 34…",
-    "content_ro": "Nem hagyott kétséget a győztes kiléte felől a Szatmárnémeti Olimpia VSK női kézilabdacsapata az U15-ös korosztályos bajnokság hatodik fordulójában: Nagy Florián és Lucaci Dénes tanítványai vasárnap 34–7-re múlták felül az ACS Atletik Szatmárnémeti együttesét. A Hozta a kötelezőt az Olimpia VSK, nagy sikert jegyzett a KKS bejegyzés először Szatmári sporthírek, magyarul-én jelent meg.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_28d9b8b363",
-    "slug": "santierele-deschise-la-aeroportul-otopeni-provoaca-28d9b8",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "is_b2b_only": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Șantierele deschise la Aeroportul Otopeni provoacă haos printre călători. Când vor fi gata lucrările",
-        "link": "https://www.digi24.ro/stiri/actualitate/santierele-deschise-la-aeroportul-otopeni-provoaca-haos-printre-calatori-cand-vor-fi-gata-lucrarile-4028697"
-      }
-    ],
-    "published_at": 1794250323,
-    "title_hu": "Șantierele deschise la Aeroportul Otopeni provoacă haos printre călători. Când vor fi gata lucrările",
-    "lead_hu": "Cea mai mare poartă aeriană a România este dominată de praf și nervi pentru toți călătorii. Șantierele de pe Aeroportul Otopeni nu sunt însoțite de semnalizare corespunzatoare, iar parcarea de la term…",
-    "content_hu": "Cea mai mare poartă aeriană a România este dominată de praf și nervi pentru toți călătorii. Șantierele de pe Aeroportul Otopeni nu sunt însoțite de semnalizare corespunzatoare, iar parcarea de la terminalul Sosiri încă este închisă. Autoritățile promit că lucrările vor fi gata până în vara anului viitor.",
-    "title_ro": "Șantierele deschise la Aeroportul Otopeni provoacă haos printre călători. Când vor fi gata lucrările",
-    "lead_ro": "Cea mai mare poartă aeriană a România este dominată de praf și nervi pentru toți călătorii. Șantierele de pe Aeroportul Otopeni nu sunt însoțite de semnalizare corespunzatoare, iar parcarea de la term…",
-    "content_ro": "Cea mai mare poartă aeriană a România este dominată de praf și nervi pentru toți călătorii. Șantierele de pe Aeroportul Otopeni nu sunt însoțite de semnalizare corespunzatoare, iar parcarea de la terminalul Sosiri încă este închisă. Autoritățile promit că lucrările vor fi gata până în vara anului viitor.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_f767c70e1e",
-    "fingerprint": "1908d51381c4a4b66791e9d3aaebb637",
+    "fingerprint": "21bd971c42f785fb6ef4c7850c6301ec",
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
     "is_b2b_only": false,
-    "sources_count": 12,
+    "sources_count": 11,
     "sources": [
       {
         "source": "Digi24",
-        "title": "Autorul atacului armat din Cracovia a murit la spital, a anunțat poliția poloneză",
-        "link": "https://www.digi24.ro/stiri/externe/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-a-anuntat-politia-poloneza-4027165"
+        "title": "Russell Brand a fost condamnat la 10 ani și jumătate de închisoare pentru viol și agresiune sexuală",
+        "link": "https://www.digi24.ro/stiri/externe/mapamond/russell-brand-a-fost-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiune-sexuala-4028319"
       },
       {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "A murit atacatorul care a ucis șase oameni în Cracovia. Ancheta continuă pentru a stabili dacă a avut complici",
-        "link": "https://www.ebihoreanul.ro/stiri/a-murit-atacatorul-care-a-ucis-sase-oameni-in-cracovia-ancheta-continua-pentru-a-stabili-daca-a-avut-complici-206441.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Noi detalii despre trecutul autorului masacrului din Cracovia. Ce obișnuia să facă în timpul orelor de curs",
-        "link": "https://stirileprotv.ro/stiri/international/noi-detalii-despre-trecutul-autorului-masacrului-din-cracovia-ce-obisnuia-sa-faca-in-timpul-orelor-de-curs.html"
+        "source": "Maszol",
+        "title": "Tíz és fél év börtönre ítélték a volt televíziós műsorvezetőt többrendbeli nemi erőszak miatt",
+        "link": "https://maszol.ro/kulfold/Tiz-es-fel-ev-bortonre-iteltek-a-volt-televizios-musorvezetot-tobbrendbeli-nemi-eroszak-miatt"
       },
       {
         "source": "Digi24",
-        "title": "Victimele atacului armat din Cracovia. Cine sunt oamenii care și-au pierdut viața în urma tragediei",
-        "link": "https://www.digi24.ro/stiri/externe/ue/victimele-atacului-armat-din-cracovia-cine-sunt-oamenii-care-si-au-pierdut-viata-in-urma-tragediei-4028837"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Autorul atacului din Cracovia, în urma căruia au murit șase oameni, a decedat la spital",
-        "link": "https://stirileprotv.ro/stiri/international/autorul-atacului-din-cracovia-in-urma-caruia-au-murit-sase-oameni-a-decedat-la-spital.html"
-      },
-      {
-        "source": "Kolozsvári Rádió (HU)",
-        "title": "Krakkói lövöldözés: meghalt az elkövető",
-        "link": "https://www.kolozsvariradio.ro/2026/11/09/krakkoi-lovoldozes-meghalt-az-elkoveto/"
+        "title": "Mărirea și decăderea lui Russell Brand: vedetă TV, actor, activist politic și dependent de sex condamnat într-un final pentru viol",
+        "link": "https://www.digi24.ro/magazin/timp-liber/showbiz/marirea-si-decaderea-lui-russell-brand-vedeta-tv-actor-activist-politic-si-dependent-de-sex-condamnat-intr-un-final-pentru-viol-4028947"
       },
       {
         "source": "HotNews.ro",
-        "title": "Tânărul care a ucis șase oameni în Cracovia a murit la spital. Însemnele găsite pe hainele atacatorului",
-        "link": "https://hotnews.ro/tanarul-care-a-ucis-sase-oameni-in-cracovia-a-murit-la-spital-insemnele-gasite-pe-hainele-atacatorului-2398703"
+        "title": "Noi sesizări la adresa lui Russell Brand, după ce a fost condamnat la închisoare pentru viol și agresiune sexuală",
+        "link": "https://hotnews.ro/noi-sesizari-la-adresa-lui-russell-brand-dupa-ce-a-fost-condamnat-la-inchisoare-pentru-viol-si-agresiune-sexuala-2400068"
       },
       {
         "source": "Adevărul",
-        "title": "Autorul masacrului de la Cracovia a murit la spital",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/autorul-masacrului-de-la-cracovia-a-murit-la-2569941.html"
+        "title": "Russell Brand, condamnat la peste 10 ani de închisoare. Actorul a fost găsit vinovat de viol și agresiuni sexuale",
+        "link": "https://adevarul.ro/showbiz/vedete/russell-brand-condamnat-la-peste-10-ani-de-2570156.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Russell Brand, condamnat la închisoare! Ce sentință grea a primit fostul soț al lui Katy Perry",
+        "link": "https://www.cancan.ro/russell-brand-condamnat-la-inchisoare-ce-sentinta-grea-a-primit-fostul-sot-al-lui-katy-perry-21544484"
       },
       {
         "source": "Mediafax",
-        "title": "Atacatorul care a ucis șase persoane în Cracovia a murit la spital",
-        "link": "https://www.mediafax.ro/externe/atacatorul-care-a-ucis-sase-persoane-in-cracovia-a-murit-la-spital-23840006"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Meghalt a kórházban a krakkói lövöldözés elkövetője",
-        "link": "https://transtelex.ro/kulfold/2026/11/09/meghalt-krakko-lovoldozo-korhaz"
+        "title": "Actorul Russell Brand, condamnat la 10 ani și jumătate de închisoare pentru viol și agresiuni sexuale",
+        "link": "https://www.mediafax.ro/life-entertaiment/actorul-russell-brand-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiuni-sexuale-23840391"
       },
       {
         "source": "G4Media",
-        "title": "Bărbatul care a ucis șase persoane în Cracovia a decedat în spital",
-        "link": "https://www.g4media.ro/barbatul-care-a-ucis-sase-persoane-in-cracovia-a-decedat-in-spital.html"
+        "title": "Actorul Russell Brand, condamnat la 10 ani și jumătate de închisoare pentru viol și agresiuni sexuale",
+        "link": "https://www.g4media.ro/actorul-russell-brand-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiuni-sexuale.html"
       },
       {
-        "source": "Agerpres (HU)",
-        "title": "Autorul atacului armat de la Cracovia a murit la spital (poliția poloneză)",
-        "link": "https://agerpres.ro/politic-extern/2026/11/09/autorul-atacului-armat-de-la-cracovia-a-murit-la-spital-politia-poloneza--1611326"
-      }
-    ],
-    "published_at": 1794254656,
-    "title_hu": "Meghalt a krakkói lövöldözés gyanúsítottja; új részletek az áldozatokról",
-    "lead_hu": "November 9-én reggel meghalt a kórházban a krakkói lövöldözés 24 éves gyanúsítottja, Michał Oksiński. A támadásban hatan vesztették életüket, tizenöten megsebesültek; a hatóságok a családtagjai halálát és a támadás körülményeit is vizsgálják.",
-    "content_hu": "• **November 9-én reggel** a krakkói kórházban meghalt Oksiński, akit a rendőrökkel folytatott tűzharcban ért lövés. A hatóságok szerint a támadás után két rendőr súlyosan megsebesült; vasárnap visszanyerték az eszméletüket, de kórházban maradtak. Hétfőn a sebesültek közül 14-en stabil állapotban voltak, egy rendőr állapota továbbra is súlyos volt.\n\n• **A támadás hat áldozata** négy lengyel és két külföldi állampolgár volt: egy brit és egy osztrák. A nyilvánosságra került adatok három lengyel nő életkorát 61, 47 és 53 évben, az osztrák nőét 51 évben jelölték meg; egy lengyel férfi körülbelül 50 éves volt. Az áldozatok között festőművész, jótékonysági önkéntes és művészeti hallgató is szerepelt.\n\n• **A tizenöt sebesült között** tíz lengyel és öt külföldi volt, utóbbiak brit, portugál, orosz, német és osztrák állampolgárok. A támadás helyszínéről menekülő, fekete Subarut vezető gyanúsított egy kereszteződésben járműnek ütközött, majd két rendőrrel tűzharcba keveredett.\n\n• **Ostrowiec Świętokrzyskiben** a gyanúsított apját, anyját és húgát is lőtt sebekkel, holtan találták a családi otthonban. A nyomozók a három halálesetet is vizsgálják; a rendőrség a támadást terrorista jellegű cselekményként kezeli, az indíték tisztázása azonban hosszabb vizsgálatot igényelhet. A belügyi tárca szerint Oksiński szélsőjobboldali eszmékkel foglalkozott.\n\n• **Karol Nawrocki elnök** vasárnapra és hétfőre nemzeti gyászt hirdetett. A hatóságok tanúkat hallgatnak meg, bizonyítékokat elemeznek, és azt is vizsgálják, volt-e a gyanúsítottnak segítője.",
-    "title_ro": "A murit suspectul atacului din Cracovia; noi detalii despre victime",
-    "lead_ro": "În dimineața zilei de 9 noiembrie, suspectul în vârstă de 24 de ani, Michał Oksiński, a murit la spital. Atacul s-a soldat cu șase morți și 15 răniți, iar anchetatorii cercetează și moartea membrilor familiei sale, precum și circumstanțele atacului.",
-    "content_ro": "• **În dimineața zilei de 9 noiembrie**, Oksiński a murit la spitalul din Cracovia, după ce fusese împușcat în schimbul de focuri cu polițiștii. Potrivit autorităților, doi polițiști au fost grav răniți; duminică și-au recăpătat cunoștința, dar au rămas internați. Luni, 14 dintre răniți erau în stare stabilă, iar starea unui polițist era în continuare gravă.\n\n• **Cele șase persoane ucise în atac** erau patru cetățeni polonezi și doi străini: un britanic și o austriacă. Informațiile făcute publice indică vârstele de 61, 47 și 53 de ani pentru trei femei poloneze și 51 de ani pentru femeia austriacă; un bărbat polonez avea aproximativ 50 de ani. Printre victime s-au aflat o pictoriță, o voluntară a unei organizații caritabile și o studentă la arte.\n\n• **Printre cei 15 răniți** se aflau zece polonezi și cinci cetățeni străini, din Regatul Unit, Portugalia, Rusia, Germania și Austria. Suspectul, aflat la volanul unui Subaru negru, a lovit un vehicul într-o intersecție, după care a intrat într-un schimb de focuri cu doi polițiști.\n\n• **În Ostrowiec Świętokrzyski**, tatăl, mama și sora suspectului au fost găsiți morți, cu răni prin împușcare, în locuința familiei. Anchetatorii investighează și aceste trei decese; poliția tratează atacul drept o faptă cu caracter terorist, însă stabilirea motivului poate necesita o anchetă îndelungată. Ministerul de Interne a afirmat că Oksiński era interesat de idei de extremă dreapta.\n\n• **Președintele Karol Nawrocki** a decretat doliu național pentru duminică și luni. Autoritățile continuă audierea martorilor și analiza probelor și verifică dacă suspectul a avut complici.",
-    "importance_score": 120.0,
-    "slug": "meghalt-a-krakkoi-lvldzes-gyanusitottja-uj-reszletek-az-aldozatokrol-f767c7",
-    "tags": [
-      "altalanos"
-    ],
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_fe303a2e63",
-    "slug": "abrudean-biralta-a-psd-es-az-aur-egyuttmukdeset-az-intezmenyi-kinevezeseknel-fe303a",
-    "tags": [
-      "parlament",
-      "psd",
-      "aur",
-      "institutii-publice"
-    ],
-    "fingerprint": "9ee7149dc0e06f7f5c14e7f398f6c833",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Președintele Senatului, Mircea Abrudean (PNL): Când e vorba de putere şi controlul instituţiilor statului diferenţele dintre PSD şi AUR par să dispară",
-        "link": "https://www.g4media.ro/presedintele-senatului-mircea-abrudean-pnl-cand-e-vorba-de-putere-si-controlul-institutiilor-statului-diferentele-dintre-psd-si-aur-par-sa-dispara.html"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Abrudean: Când e vorba de putere și controlul instituțiilor statului diferențele dintre PSD și AUR par să dispară",
-        "link": "https://agerpres.ro/politic/2026/11/10/abrudean-cand-e-vorba-de-putere-si-controlul-institutiilor-statului-diferentele-dintre-psd-si-aur-pa--1611955"
+        "source": "ProTV Stiri",
+        "title": "Actorul Russell Brand a fost condamnat la 10 ani și jumătate de închisoare, pentru viol și agresiune sexuală",
+        "link": "https://stirileprotv.ro/stiri/international/actorul-russell-brand-a-fost-condamnat-la-10-ani-si-jumatate-de-inchisoare-pentru-viol-si-agresiune-sexuala.html"
       },
       {
         "source": "HotNews.ro",
-        "title": "Mircea Abrudean: „Când e vorba de putere și controlul instituțiilor statului diferențele dintre PSD și AUR par să dispară”",
-        "link": "https://hotnews.ro/mircea-abrudean-cand-e-vorba-de-putere-si-controlul-institutiilor-statului-diferentele-dintre-psd-si-aur-par-sa-dispara-2400332"
+        "title": "Pedeapsa primită de comediantul Russell Brand, în dosarul în care a fost găsit vinovat de viol și agresiuni sexuale",
+        "link": "https://hotnews.ro/pedeapsa-primita-de-comediantul-russell-brand-in-dosarul-in-care-a-fost-gasit-vinovat-de-viol-si-agresiuni-sexuale-2399211"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Russell Brand riscă ani grei de închisoare. Actorul revine în fața judecătorilor pentru sentință",
+        "link": "https://www.mediafax.ro/stirile-zilei/russell-brand-risca-ani-grei-de-inchisoare-actorul-revine-in-fata-judecatorilor-pentru-sentinta-23840023"
       }
     ],
-    "published_at": 1794326004,
-    "title_hu": "Abrudean bírálta a PSD és az AUR együttműködését az intézményi kinevezéseknél",
-    "lead_hu": "Mircea Abrudean szenátusi elnök a PSD és az AUR közös parlamenti döntéseit kifogásolta több állami intézmény vezetői tisztségeinek betöltése kapcsán. A törvényhozás új vezetőket hagyott jóvá a közszolgálati televízió és rádió élére.",
-    "content_hu": "• **Mircea Abrudean** szenátusi elnök kedden bírálta, hogy a PSD és az AUR együtt szavazott vagy egyeztetett több állami intézményt érintő kinevezésről. Szerinte a két párt nyilvános vitái ellenére a vezetői pozíciók elosztásakor közös döntések születtek.\n\n• **A Számvevőszéknél** a PSD és az AUR képviselői egyaránt támogatták az ideiglenes elnök kijelölését. Abrudean ezt a két párt közötti együttműködés egyik példájaként említette.\n\n• **A közszolgálati médiában** a parlament két háza új tagokat választott a Román Televízió és a Román Rádió igazgatótanácsába. A közlés szerint az AUR által javasolt Sorina Mateit a televízió, a PSD jelöltjét, Răzvan Dincăt pedig a rádió elnök-vezérigazgatójává hagyták jóvá.\n\n• **A SRI-t felügyelő parlamenti bizottságban** elutasították a PNL javaslatát, hogy Florin Roman kerüljön a pártnak fenntartott helyre. Abrudean ezt is a kinevezések körüli politikai döntések közé sorolta.\n\n• **Abrudean értékelése szerint** az egymást követő szavazások kérdéseket vetnek fel a PSD és az AUR közötti megállapodásokról. A politikus úgy vélte, az állami intézmények ellenőrzését érintő ügyekben a két párt közötti különbségek háttérbe szorulnak.",
-    "title_ro": "Abrudean critică PSD și AUR pentru deciziile privind conducerile unor instituții",
-    "lead_ro": "Președintele Senatului, Mircea Abrudean, a criticat voturile și negocierile PSD și AUR legate de ocuparea unor funcții în instituții publice. Parlamentul a validat noi conduceri pentru televiziunea și radioul public.",
-    "content_ro": "• **Mircea Abrudean** a criticat marți deciziile prin care PSD și AUR au susținut sau negociat numiri în instituții ale statului. În opinia sa, deși cele două formațiuni se confruntă public, în chestiunile privind ocuparea unor funcții importante au ajuns la decizii comune.\n\n• **La Curtea de Conturi**, parlamentarii PSD și AUR au votat în favoarea desemnării unui președinte interimar. Abrudean a prezentat acest vot drept unul dintre exemplele colaborării dintre cele două partide.\n\n• **În domeniul media publice**, plenul Parlamentului a desemnat noi membri în consiliile de administrație ale Societății Române de Televiziune și Societății Române de Radiodifuziune. Sorina Matei, propusă de AUR, a fost validată pentru funcția de președinte-director general al televiziunii, iar Răzvan Dincă, susținut de PSD, pentru conducerea radioului.\n\n• **În comisia parlamentară de control al SRI**, plenul a respins propunerea PNL de numire a lui Florin Roman pe locul care revenea partidului. Abrudean a inclus și acest rezultat în seria deciziilor politice privind funcțiile din instituțiile publice.\n\n• **Potrivit evaluării lui Abrudean**, voturile succesive ridică întrebări despre înțelegerile dintre PSD și AUR. El a susținut că, atunci când sunt vizate influența și controlul asupra instituțiilor statului, diferențele dintre cele două partide par să se estompeze.",
-    "importance_score": 50.0,
+    "published_at": 1794315233,
+    "title_hu": "Tíz és fél év börtönt kapott Russell Brand; új bejelentéseket vizsgál a rendőrség",
+    "lead_hu": "A londoni Southwark koronabíróság hétfőn tíz és fél év szabadságvesztésre ítélte Russell Brandet nemi erőszak és három szexuális támadás miatt. A hatóságok új bejelentéseket értékelnek, miközben két további nő állításai ügyében is folyik vizsgálat.",
+    "content_hu": "• **Az ítélet és a tárgyalás** A négy héten át tartó perben az esküdtszék hét vádpont közül négyben találta bűnösnek Brandet: egy nemi erőszakban és három szexuális támadásban. Két további nemi erőszak és egy támadási kísérlet miatt felmentették. A büntetés kétharmadát kell börtönben töltenie.\n\n• **A bíró megállapításai** Joel Bennathan kilenc év szabadságvesztést szabott ki a nemi erőszakért, a további bűncselekményekért pedig rövidebb büntetéseket. Jelezte, hogy enyhítő körülmények nélkül egy évvel súlyosabb ítéletet hozott volna. Az indoklás szerint a 2009-es támadás jelentős testi sérülést okozott.\n\n• **A sértettek beszámolói** A 2009-es, anális nemi erőszak áldozata a bíróságon felolvasott nyilatkozatában arról számolt be, hogy a történtek lelki terhét ma is magával viseli. A tárgyalás indoklását a brit televíziók közvetítették, és előre jelezték, hogy felkavaró részletek hangzanak el.\n\n• **További rendőrségi ügyek** Andy Furphy nyomozó szerint a per alatt és az ítélet után több új jelzés érkezett; ezek tartalmát még értékelik. Brand ellen két másik nő állításai miatt is nyomoznak, és ezek kapcsán figyelmeztetés mellett hallgatták ki. Az egyik bejelentés egy olyan állítólagos nemi erőszakra vonatkozik, amely idején az érintett 16 éves volt.\n\n• **Brand és a nyilvánosság** Az 51 éves Brand a tárgyaláson tagadta a vádakat, és azt állította, hogy kapcsolatai beleegyezésen alapultak. Korábban televíziós műsorvezetőként, humoristaként és filmszínészként vált ismertté, később politikai aktivistaként is szerepelt. Az ítélet után apja a fiát nevezte az ügy áldozatának.",
+    "title_ro": "Russell Brand a primit zece ani și jumătate de închisoare; poliția verifică noi sesizări",
+    "lead_ro": "Luni, instanța Southwark Crown Court din Londra l-a condamnat pe Russell Brand la zece ani și jumătate de închisoare pentru viol și trei agresiuni sexuale. Poliția analizează noi sesizări, în timp ce investighează și acuzațiile formulate de alte două femei.",
+    "content_ro": "• **Sentința și procesul** După un proces de patru săptămâni, juriul l-a găsit vinovat pe Brand în patru dintre cele șapte capete de acuzare: unul de viol și trei de agresiune sexuală. El a fost achitat pentru alte două acuzații de viol și pentru o tentativă de agresiune. Va executa în detenție două treimi din pedeapsă.\n\n• **Motivarea instanței** Judecătorul Joel Bennathan a stabilit nouă ani de închisoare pentru viol, iar pentru celelalte fapte a aplicat pedepse mai scurte. El a precizat că, fără anumite circumstanțe atenuante, sentința ar fi fost cu un an mai mare. Potrivit motivării, atacul din 2009 a provocat victimei leziuni fizice importante.\n\n• **Declarațiile victimelor** Femeia violată anal în 2009 a transmis, printr-o declarație citită în instanță, că urmările psihologice ale agresiunii continuă să o afecteze. Televiziunile britanice au difuzat motivarea sentinței, avertizând publicul înaintea prezentării unor detalii tulburătoare.\n\n• **Alte verificări ale poliției** Detectivul Andy Furphy a spus că autoritățile evaluează mai multe sesizări primite în timpul procesului și după pronunțarea sentinței. Brand este investigat și în legătură cu acuzațiile formulate de alte două femei, fiind audiat sub avertisment. Una dintre sesizări privește un presupus viol comis când persoana vizată avea 16 ani.\n\n• **Brand și cariera sa** În vârstă de 51 de ani, Brand a negat acuzațiile și a susținut că relațiile sale au fost consimțite. A devenit cunoscut ca prezentator TV și comedian, apoi a jucat în filme și a activat în politică. După condamnare, tatăl său l-a descris pe fiul său drept victima cazului.",
+    "importance_score": 118.0,
     "is_top_hero": false
   },
   {
@@ -25538,15 +25529,8 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_236895d6d8",
-    "slug": "romania-az-europai-elmezonyben-van-a-fldgaztarolok-tltttsegeben-236895",
-    "tags": [
-      "romania",
-      "foldgaz",
-      "energiabiztonsag",
-      "gaztarolok"
-    ],
-    "fingerprint": "8157965d19da38f66c3049419ca680bb",
+    "group_id": "group_cb115b1ac1",
+    "fingerprint": "a60839b9aca7892502f8c255f32d9f05",
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
@@ -25555,23 +25539,27 @@
     "sources": [
       {
         "source": "G4Media",
-        "title": "Producția de gaze românești din Marea Neagră va limita capacitatea Greciei de a vinde gaze americane prin Coridorul Vertical – analiză Standard & Poor’s",
-        "link": "https://www.g4media.ro/productia-de-gaze-romanesti-din-marea-neagra-va-limita-capacitatea-greciei-de-a-vinde-gaze-americane-prin-coridorul-vertical-analiza-standard-poors.html"
+        "title": "Geoparcul Internaţional Ţara Haţegului, reconfirmat cu statut UNESCO pentru încă patru ani",
+        "link": "https://www.g4media.ro/geoparcul-international-tara-hategului-reconfirmat-cu-statut-unesco-pentru-inca-patru-ani.html"
       },
       {
         "source": "Mediatica.ro",
-        "title": "Az európai élmezőnyben van Románia a földgáztárolók feltöltöttségét illetően",
-        "link": "https://www.mediatica.ro/hirek/gazdasag/az-europai-elmezonyben-van-romania-a-foldgaztarolok-feltoltottseget-illetoen"
+        "title": "Újabb négy évre megerősítették a Hátszegi-medence UNESCO-státuszát",
+        "link": "https://www.mediatica.ro/hirek/aktualis/ujabb-negy-evre-megerositettek-a-hatszegi-medence-unesco-statuszat"
       }
     ],
-    "published_at": 1794313554,
-    "title_hu": "Románia az európai élmezőnyben van a földgáztárolók töltöttségében",
-    "lead_hu": "Románia az első öt európai ország között szerepel a földgáztárolók feltöltöttsége alapján, és a szint meghaladja az európai átlagot. A téli ellátás biztonsága érdekében a készletek alakulását folyamatosan követik, a hideg időszak második felében pedig takarékos felhasználásra készülnek.",
-    "content_hu": "• **Románia az első öt között áll** az európai országok földgáztárolóinak feltöltöttségi rangsorában. A készletek szintje a kontinens átlagánál magasabb, ami kedvező kiinduló helyzetet jelenthet a téli ellátás megszervezéséhez. Az adatot az energiaügyi miniszter ismertette.\n\n• **A tél biztonságos átvészelése a fő cél** – közölte Dumitru Chisăliță. Ennek érdekében rendszeresen értékelik a földgázkészletek állapotát, és egyeztetnek az energiaszolgáltatókkal arról, hogy a tartalékok megfelelő szinten maradjanak.\n\n• **A téli időszak második felében különösen fontos lehet a takarékosság.** A közlés szerint ekkor kiemelt figyelmet fordítanak majd a földgázkészletek megfontolt felhasználására. A nyilatkozat nem közölt konkrét fogyasztási korlátozást vagy célszámot.\n\n• **Az időjárási szélsőségekből eredő üzemzavarokra is készülnek.** A hatóságok olyan intézkedéseket terveznek, amelyekkel az esetleges fennakadások elhárítása gyorsabban történhet. A bejelentés nem részletezte, milyen konkrét műszaki lépések vagy határidők tartoznak a felkészüléshez.",
-    "title_ro": "România se află între primele cinci țări europene la umplerea depozitelor de gaze",
-    "lead_ro": "România ocupă unul dintre primele cinci locuri în Europa după nivelul de umplere a depozitelor de gaze naturale, situat peste media europeană. Pentru sezonul rece, autoritățile urmăresc evoluția rezervelor și pregătesc măsuri de economisire și intervenție în cazul unor probleme cauzate de vreme extremă.",
-    "content_ro": "• **România se află între primele cinci state europene** în privința gradului de umplere a depozitelor de gaze naturale. Nivelul rezervelor depășește media europeană, potrivit informației prezentate de ministrul energiei. Datele indică situația stocurilor, fără să ofere însă valori procentuale exacte.\n\n• **Asigurarea trecerii în siguranță a iernii este obiectivul principal**, a declarat Dumitru Chisăliță. Pentru evaluarea disponibilității gazelor, situația rezervelor este urmărită în permanență. Autoritățile discută și cu furnizorii de energie pentru menținerea stocurilor la un nivel considerat adecvat.\n\n• **Economisirea gazelor va căpăta o importanță sporită în a doua parte a iernii.** Potrivit declarației, rezervele trebuie utilizate cu prudență în acea perioadă. Nu au fost anunțate limite concrete de consum sau o țintă numerică pentru reducerea utilizării.\n\n• **Sunt pregătite măsuri pentru remedierea rapidă a eventualelor avarii provocate de vreme extremă.** Anunțul menționează intenția de a răspunde prompt unor posibile întreruperi ale funcționării sistemului. Nu au fost precizate intervenții tehnice specifice, instituțiile responsabile sau termenele de aplicare.",
+    "published_at": 1794315212,
+    "title_hu": "Újabb négy évre megerősítették a Hátszegi-medence UNESCO-geopark státuszát",
+    "lead_hu": "A Hátszegi-medence UNESCO Nemzetközi Geoparkja újabb négy évre megtartotta elismerését. Az UNESCO geoparkok tanácsa a terület bővítéséről is döntött: a teljes Bánpatak község a geopark része lesz.",
+    "content_hu": "• **Újabb négy évre szól az elismerés:** A Bukaresti Egyetem által működtetett Hátszegi-medence UNESCO Nemzetközi Geopark megkapta a zöld minősítést, amely megerősíti tagságát a következő négyéves időszakra. A döntés azt követően született, hogy az UNESCO Nemzetközi Geoparkok Tanácsa Párizsban, november 2. és 4. között megtartotta 11. statútum szerinti ülését.\n\n• **81 pályázati anyagot vizsgáltak meg:** A tanács új jelentkezésekről, korábban elhalasztott kérelmekről, időszakos felülvizsgálatokról és geoparkterületek módosításáról szóló ügyeket is mérlegelt. A Hátszegi-medence újraminősítése ebbe a felülvizsgálati folyamatba illeszkedett.\n\n• **A helyszíni értékelés június 22–26. között zajlott:** A geopark előző négy évének munkáját Tran Tan Van vietnámi és Ivan Cortijo Sanchez spanyol szakértő vizsgálta. Programjuk során találkoztak az egyetem, a helyi hatóságok és partnerintézmények képviselőivel, valamint iskolákkal és közösségekkel.\n\n• **Oktatási és örökségvédelmi kezdeményezéseket is felkerestek:** Az értékelők többek között oktatási projekteket, látogatóhelyeket és a földtani, természeti, illetve kulturális értékek bemutatását szolgáló helyi kezdeményezéseket tekintettek meg. A geopark koordinátora szerint a döntés az egyetem területen végzett munkájának, illetve az értékekre építő fejlesztési modellnek az elismerése.\n\n• **Bánpatak teljes területe csatlakozik:** A tanács jóváhagyta, hogy a Hunyad megyei község egészét a geoparkhoz sorolják. Ez külön döntés volt az újraminősítéstől, és a geopark földrajzi kiterjedésének növelését jelenti.",
+    "title_ro": "Geoparcul Țara Hațegului își păstrează statutul UNESCO pentru încă patru ani",
+    "lead_ro": "Geoparcul Internațional UNESCO Țara Hațegului a primit o nouă confirmare a statutului său pentru următorii patru ani. Consiliul UNESCO a aprobat și includerea întregului teritoriu al comunei Bănița în geoparc.",
+    "content_ro": "• **Statutul este reconfirmat pentru încă patru ani:** Geoparcul Internațional UNESCO Țara Hațegului, administrat de Universitatea din București, a primit calificativul verde, prin care își păstrează statutul UNESCO în următorul interval de patru ani. Hotărârea a fost luată la Paris, în perioada 2–4 noiembrie, când Consiliul Geoparcurilor Internaționale UNESCO s-a reunit pentru a 11-a întâlnire statutară.\n\n• **Consiliul a analizat 81 de dosare:** Pe agenda evaluării s-au aflat candidaturi noi, cereri care fuseseră amânate, proceduri de revalidare și propuneri de modificare a suprafețelor geoparcurilor. Reconfirmarea Țării Hațegului a făcut parte din procesul periodic de verificare.\n\n• **Evaluarea pe teren s-a desfășurat între 22 și 26 iunie:** Activitatea geoparcului din cei patru ani precedenți a fost examinată de Tran Tan Van, din Vietnam, și Ivan Cortijo Sanchez, din Spania. Evaluatorii au discutat cu reprezentanți ai universității, autorităților, instituțiilor partenere, școlilor și comunităților locale.\n\n• **Au fost vizitate proiecte și obiective locale:** Programul a cuprins inițiative educaționale, puncte de vizitare și activități dedicate prezentării patrimoniului geologic, natural și cultural. Coordonatorul geoparcului, Cristian Ciobanu, a descris decizia drept o validare a activității universității și a unei abordări de dezvoltare bazate pe valorile locale.\n\n• **Întreaga comună Bănița va intra în componența geoparcului:** Consiliul a aprobat extinderea teritoriului prin includerea comunei hunedorene în întregime. Această hotărâre este distinctă de revalidarea statutului și modifică aria geografică a geoparcului.",
     "importance_score": 23.0,
+    "slug": "ujabb-negy-evre-megerositettek-a-hatszegi-medence-unesco-geopark-statuszat-cb115b",
+    "tags": [
+      "altalanos"
+    ],
     "is_top_hero": false
   },
   {
