@@ -1430,73 +1430,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_6dd01cc620",
-    "slug": "a-turla-orosz-kiberkemcsoport-roman-kormanyzati-intezmenyt-tamadott-6dd01c",
-    "tags": [
-      "turla",
-      "kibertamadas",
-      "romania",
-      "nato",
-      "eu"
-    ],
-    "fingerprint": "94695d7873f277d0ed287fc1bdc911fb",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Hackeri ruși afiliați serviciului secret al Rusiei au spionat o instituție guvernamentală din România, care lucrează cu NATO și UE / SRI confirmă atacul și susține că a fost contracarat la timp",
-        "link": "https://www.g4media.ro/hackeri-rusi-afiliati-serviciului-secret-al-rusiei-au-spionat-o-institutie-guvernamentala-din-romania-care-lucreaza-cu-nato-si-ue-sri-confirma-atacul-si-sustine-ca-a-fost-contracarat-la-timp.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Schimbul de mesaje dintre România și NATO, dar și cu UE, interceptat de hackerii pro-ruși. Anunțul făcut de SRI",
-        "link": "https://www.digi24.ro/stiri/externe/schimbul-de-mesaje-dintre-romania-si-nato-dar-si-cu-ue-interceptat-de-hackerii-pro-rusi-care-au-compromis-serverul-unei-institutii-4031205"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac cibernetic atribuit unui grup de hackeri ruși, dejucat de SRI. Instituție guvernamentală vizată",
-        "link": "https://www.mediafax.ro/politic/atac-cibernetic-atribuit-unui-grup-de-hackeri-rusi-dejucat-de-sri-institutie-guvernamentala-vizata-23841464"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Atac cibernetic rus la o instituție din România. SRI spune că hackerii afiliați FSB au fost opriți la timp",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/atac-cibernetic-rus-la-o-institutie-din-romania-2570663.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cyberattack attributed to a Russian hacker group thwarted by the SRI. Government institution targeted",
-        "link": "https://www.mediafax.ro/english/cyberattack-attributed-to-a-russian-hacker-group-thwarted-by-the-sri-government-institution-targeted-23841486"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SRI anunță că a oprit un atac cibernetic rusesc asupra unor instituții guvernamentale din România",
-        "link": "https://stirileprotv.ro/stiri/actualitate/sri-anunta-ca-a-oprit-un-atac-cibernetic-rusesc-asupra-unor-institutii-guvernamentale-din-romania.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Instituție guvernamentală din România, ținta unui atac cibernetic rusesc. Precizările SRI",
-        "link": "https://hotnews.ro/institutie-guvernamentala-din-romania-tinta-unui-atac-cibernetic-rusesc-precizarile-sri-2401310"
-      },
-      {
-        "source": "Maszol",
-        "title": "Kormányzati intézményt célzott orosz kibertámadás",
-        "link": "https://maszol.ro/belfold/Kormanyzati-intezmenyt-celzott-orosz-kibertamadas"
-      }
-    ],
-    "published_at": 1794402600,
-    "title_hu": "A Turla orosz kiberkémcsoport román kormányzati intézményt támadott",
-    "lead_hu": "A román hírszerzés szerint 2025 decemberében egy kormányzati intézmény informatikai rendszereit próbálták feltörni, az érintett szerv NATO- és EU-ügyekben is kapcsolatot tart. Az ESET a műveletet a Turla csoporthoz kötötte; a román hatóságok megállították a támadást, és nem találtak bizonyítékot érzékeny adatok kimentésére.",
-    "content_hu": "• **Decemberi behatolási kísérlet:** Az ESET 2025. december 23-ára tette a román kormányzati intézmény Microsoft Exchange-szerverének kompromittálását. A vizsgált levelezés NATO- és uniós képviselőkkel folytatott kommunikációt is érintett. Az elemzők egy hónappal korábban Kazahsztánban azonosították ugyanezt az eszközkészletet.\n\n• **A műveletet a Turlához kötik:** Az ESET és a román hírszerzés egyaránt az orosz állami kötődésű APT TURLA csoportot nevezte meg. A több mint két évtizede aktív kiberkémcsoportot Snake, Secret Blizzard és Waterbug néven is ismerik, és az orosz Szövetségi Biztonsági Szolgálattal hozzák összefüggésbe.\n\n• **Cereal nevű eszközkészletet használtak:** A CerealBox nevű összetevő a levelezőszerverhez kapcsolódott, és parancsokat tudott a memóriában futtatni. Az ESET szerint a kártevőt célzott levélgyűjtésre állították be, többek között dokumentum-mellékleteket tartalmazó üzenetek kiválasztására.\n\n• **Microsoft-rendszerek sérülékenységeit használták ki:** Az SRI közlése szerint a támadók több, a Microsoft operációs rendszereit érintő hibára támaszkodtak. A Nemzeti Cyberint Központ közbelépett, megszüntette a behatolási kísérletet, kezelte annak következményeit, és helyreállította az érintett e-mail-szolgáltatást.\n\n• **Nem találtak bizonyítékot érzékeny adatok kimentésére:** Az illetékes kedvezményezetteket értesítették, az ügy kezelésében európai hírszerzési, uniós és NATO-partnerek is részt vettek. A Cyberint Központ más, Oroszországhoz köthető kiberműveletekkel összefüggő eseteket is vizsgál, az SRI pedig további romániai intézmények elleni behatolási kísérletek felderítését tervezi.",
-    "title_ro": "Gruparea rusă de spionaj cibernetic Turla a vizat o instituție guvernamentală din România",
-    "lead_ro": "Potrivit serviciului român de informații, în decembrie 2025 a fost vizată infrastructura informatică a unei instituții guvernamentale care comunică și pe teme legate de NATO și UE. ESET atribuie operațiunea grupării Turla; autoritățile au oprit atacul și nu au găsit dovezi privind extragerea unor date sensibile.",
-    "content_ro": "• **Tentativa a avut loc în decembrie:** ESET a datat compromiterea serverului Microsoft Exchange al instituției guvernamentale din România la 23 decembrie 2025. Corespondența vizată includea comunicări cu reprezentanți ai NATO și ai Uniunii Europene. Cu o lună înainte, cercetătorii identificaseră același set de instrumente în Kazahstan.\n\n• **Operațiunea este atribuită grupării Turla:** Atât ESET, cât și serviciul român de informații au indicat actorul APT TURLA, asociat statului rus. Activă de peste două decenii, gruparea de spionaj cibernetic mai este cunoscută sub numele Snake, Secret Blizzard și Waterbug și este legată de Serviciul Federal de Securitate al Rusiei.\n\n• **A fost folosită suita Cereal:** Componenta CerealBox era asociată serverului de e-mail și putea rula comenzi în memoria sistemului. Potrivit ESET, programul malițios era configurat să selecteze anumite mesaje, inclusiv e-mailuri cu atașamente de documente.\n\n• **Au fost exploatate vulnerabilități Microsoft:** SRI a precizat că atacatorii au folosit mai multe breșe din sistemele de operare Microsoft. Specialiștii Centrului Național Cyberint au intervenit, au stopat tentativa, i-au remediat efectele și au restabilit serviciul de e-mail afectat.\n\n• **Nu au fost găsite indicii privind extragerea datelor sensibile:** Beneficiarii legali au fost informați, iar gestionarea incidentului a implicat parteneri europeni din comunitatea de intelligence, precum și structuri ale UE și NATO. Centrul Cyberint continuă să cerceteze și alte incidente asociate unor campanii rusești, iar SRI afirmă că va urmări tentativele de compromitere a instituțiilor din România.",
-    "importance_score": 100.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_fcfe0cd3d7",
     "slug": "merz-a-20282034-es-unios-budzsehez-ktne-ukrajna-finanszirozasat-fcfe0c",
     "tags": [
@@ -1560,6 +1493,73 @@
     "lead_ro": "Friedrich Merz ar condiționa sprijinul Germaniei pentru viitorul buget al UE de participarea tuturor statelor membre la finanțarea Ucrainei, iar Berlinul ar putea bloca adoptarea acestuia dacă angajamentul nu este asumat. Cancelarul cere și revizuirea proiectului bugetar, cu accent mai mare pe apărare și competitivitate.",
     "content_ro": "• **Condiționarea sprijinului german:** Într-o scrisoare adresată lui António Costa, Friedrich Merz a indicat că Germania ar susține bugetul UE pentru 2028–2034 numai dacă toate statele membre contribuie echitabil la finanțarea Ucrainei. În lipsa unui acord, Berlinul ar putea împiedica adoptarea bugetului.\n\n• **Deficitul de finanțare pentru anul viitor:** Ucraina ar avea nevoie de aproximativ 70 de miliarde de euro în anul următor, potrivit sursei. Merz dorește ca liderii europeni să abordeze problema la reuniunea programată la Dublin, iar contribuțiile comune să acopere și perioada începând din 2027.\n\n• **Revizuirea proiectului bugetar:** La conferința de presă din Berlin, din 10 noiembrie, cancelarul a cerut un cadru financiar sustenabil și modificări clare în următoarea propunere a lui Costa. În opinia sa, fără schimbări negocierile nu se vor încheia curând, deși bugetul trebuie adoptat suficient de devreme pentru a putea fi aplicat.\n\n• **Apărarea și competitivitatea, priorități:** Merz vrea o redefinire a priorităților europene, care să acorde mai multă atenție apărării și competitivității. El susține totodată un mecanism comun, valabil pe mai mulți ani, pentru sprijinirea Ucrainei.\n\n• **Cel puțin patru state au rezerve:** Cancelarul a spus că minimum patru țări privesc diferit propunerea privind finanțarea comună. La întâlnirea de la Berlin, Péter Magyar a invocat prioritățile și interesele naționale ale fiecărui stat; anterior, el respinsese condiționarea bugetului de alte angajamente.",
     "importance_score": 95.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_6dd01cc620",
+    "slug": "a-turla-orosz-kiberkemcsoport-roman-kormanyzati-intezmenyt-tamadott-6dd01c",
+    "tags": [
+      "turla",
+      "kibertamadas",
+      "romania",
+      "nato",
+      "eu"
+    ],
+    "fingerprint": "94695d7873f277d0ed287fc1bdc911fb",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Hackeri ruși afiliați serviciului secret al Rusiei au spionat o instituție guvernamentală din România, care lucrează cu NATO și UE / SRI confirmă atacul și susține că a fost contracarat la timp",
+        "link": "https://www.g4media.ro/hackeri-rusi-afiliati-serviciului-secret-al-rusiei-au-spionat-o-institutie-guvernamentala-din-romania-care-lucreaza-cu-nato-si-ue-sri-confirma-atacul-si-sustine-ca-a-fost-contracarat-la-timp.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Schimbul de mesaje dintre România și NATO, dar și cu UE, interceptat de hackerii pro-ruși. Anunțul făcut de SRI",
+        "link": "https://www.digi24.ro/stiri/externe/schimbul-de-mesaje-dintre-romania-si-nato-dar-si-cu-ue-interceptat-de-hackerii-pro-rusi-care-au-compromis-serverul-unei-institutii-4031205"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac cibernetic atribuit unui grup de hackeri ruși, dejucat de SRI. Instituție guvernamentală vizată",
+        "link": "https://www.mediafax.ro/politic/atac-cibernetic-atribuit-unui-grup-de-hackeri-rusi-dejucat-de-sri-institutie-guvernamentala-vizata-23841464"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Atac cibernetic rus la o instituție din România. SRI spune că hackerii afiliați FSB au fost opriți la timp",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/atac-cibernetic-rus-la-o-institutie-din-romania-2570663.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cyberattack attributed to a Russian hacker group thwarted by the SRI. Government institution targeted",
+        "link": "https://www.mediafax.ro/english/cyberattack-attributed-to-a-russian-hacker-group-thwarted-by-the-sri-government-institution-targeted-23841486"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "SRI anunță că a oprit un atac cibernetic rusesc asupra unor instituții guvernamentale din România",
+        "link": "https://stirileprotv.ro/stiri/actualitate/sri-anunta-ca-a-oprit-un-atac-cibernetic-rusesc-asupra-unor-institutii-guvernamentale-din-romania.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Instituție guvernamentală din România, ținta unui atac cibernetic rusesc. Precizările SRI",
+        "link": "https://hotnews.ro/institutie-guvernamentala-din-romania-tinta-unui-atac-cibernetic-rusesc-precizarile-sri-2401310"
+      },
+      {
+        "source": "Maszol",
+        "title": "Kormányzati intézményt célzott orosz kibertámadás",
+        "link": "https://maszol.ro/belfold/Kormanyzati-intezmenyt-celzott-orosz-kibertamadas"
+      }
+    ],
+    "published_at": 1794402600,
+    "title_hu": "A Turla orosz kiberkémcsoport román kormányzati intézményt támadott",
+    "lead_hu": "A román hírszerzés szerint 2025 decemberében egy kormányzati intézmény informatikai rendszereit próbálták feltörni, az érintett szerv NATO- és EU-ügyekben is kapcsolatot tart. Az ESET a műveletet a Turla csoporthoz kötötte; a román hatóságok megállították a támadást, és nem találtak bizonyítékot érzékeny adatok kimentésére.",
+    "content_hu": "• **Decemberi behatolási kísérlet:** Az ESET 2025. december 23-ára tette a román kormányzati intézmény Microsoft Exchange-szerverének kompromittálását. A vizsgált levelezés NATO- és uniós képviselőkkel folytatott kommunikációt is érintett. Az elemzők egy hónappal korábban Kazahsztánban azonosították ugyanezt az eszközkészletet.\n\n• **A műveletet a Turlához kötik:** Az ESET és a román hírszerzés egyaránt az orosz állami kötődésű APT TURLA csoportot nevezte meg. A több mint két évtizede aktív kiberkémcsoportot Snake, Secret Blizzard és Waterbug néven is ismerik, és az orosz Szövetségi Biztonsági Szolgálattal hozzák összefüggésbe.\n\n• **Cereal nevű eszközkészletet használtak:** A CerealBox nevű összetevő a levelezőszerverhez kapcsolódott, és parancsokat tudott a memóriában futtatni. Az ESET szerint a kártevőt célzott levélgyűjtésre állították be, többek között dokumentum-mellékleteket tartalmazó üzenetek kiválasztására.\n\n• **Microsoft-rendszerek sérülékenységeit használták ki:** Az SRI közlése szerint a támadók több, a Microsoft operációs rendszereit érintő hibára támaszkodtak. A Nemzeti Cyberint Központ közbelépett, megszüntette a behatolási kísérletet, kezelte annak következményeit, és helyreállította az érintett e-mail-szolgáltatást.\n\n• **Nem találtak bizonyítékot érzékeny adatok kimentésére:** Az illetékes kedvezményezetteket értesítették, az ügy kezelésében európai hírszerzési, uniós és NATO-partnerek is részt vettek. A Cyberint Központ más, Oroszországhoz köthető kiberműveletekkel összefüggő eseteket is vizsgál, az SRI pedig további romániai intézmények elleni behatolási kísérletek felderítését tervezi.",
+    "title_ro": "Gruparea rusă de spionaj cibernetic Turla a vizat o instituție guvernamentală din România",
+    "lead_ro": "Potrivit serviciului român de informații, în decembrie 2025 a fost vizată infrastructura informatică a unei instituții guvernamentale care comunică și pe teme legate de NATO și UE. ESET atribuie operațiunea grupării Turla; autoritățile au oprit atacul și nu au găsit dovezi privind extragerea unor date sensibile.",
+    "content_ro": "• **Tentativa a avut loc în decembrie:** ESET a datat compromiterea serverului Microsoft Exchange al instituției guvernamentale din România la 23 decembrie 2025. Corespondența vizată includea comunicări cu reprezentanți ai NATO și ai Uniunii Europene. Cu o lună înainte, cercetătorii identificaseră același set de instrumente în Kazahstan.\n\n• **Operațiunea este atribuită grupării Turla:** Atât ESET, cât și serviciul român de informații au indicat actorul APT TURLA, asociat statului rus. Activă de peste două decenii, gruparea de spionaj cibernetic mai este cunoscută sub numele Snake, Secret Blizzard și Waterbug și este legată de Serviciul Federal de Securitate al Rusiei.\n\n• **A fost folosită suita Cereal:** Componenta CerealBox era asociată serverului de e-mail și putea rula comenzi în memoria sistemului. Potrivit ESET, programul malițios era configurat să selecteze anumite mesaje, inclusiv e-mailuri cu atașamente de documente.\n\n• **Au fost exploatate vulnerabilități Microsoft:** SRI a precizat că atacatorii au folosit mai multe breșe din sistemele de operare Microsoft. Specialiștii Centrului Național Cyberint au intervenit, au stopat tentativa, i-au remediat efectele și au restabilit serviciul de e-mail afectat.\n\n• **Nu au fost găsite indicii privind extragerea datelor sensibile:** Beneficiarii legali au fost informați, iar gestionarea incidentului a implicat parteneri europeni din comunitatea de intelligence, precum și structuri ale UE și NATO. Centrul Cyberint continuă să cerceteze și alte incidente asociate unor campanii rusești, iar SRI afirmă că va urmări tentativele de compromitere a instituțiilor din România.",
+    "importance_score": 93.0,
     "is_top_hero": false
   },
   {
@@ -1632,6 +1632,73 @@
     "lead_ro": "Pe 9 și 10 noiembrie au fost semnalate ținte aeriene în apropiere de Sulina, iar în ambele situații au decolat avioane F-16 și a fost trimis un mesaj RO-Alert în estul județului Tulcea. Alerta din 10 noiembrie s-a încheiat la ora 18:38.",
     "content_ro": "• **Detectarea din 9 noiembrie:** Radarele românești au indicat o țintă aeriană la circa 30 de kilometri nord-est de Sulina, în spațiul aerian al Ucrainei. Două avioane F-16 au plecat de la Baza 86 Aeriană Fetești pentru monitorizare. Potrivit relatărilor anterioare, obiectul a intrat pentru scurt timp și în spațiul aerian românesc, după care nu a mai fost observat pe radar.\n\n• **Avertizarea din prima zi:** Centrul militar de comandă a informat structurile pentru situații de urgență, iar la ora 17:19 a fost transmis un mesaj RO-Alert pentru estul județului Tulcea. Alerta s-a încheiat la ora 18:03.\n\n• **O nouă țintă, pe 10 noiembrie:** Radarele Ministerului Apărării au semnalat un obiect aerian la aproximativ 25 de kilometri est de Sulina. Mediafax l-a identificat drept dronă, în timp ce comunicarea ministerului l-a descris ca țintă aeriană. Două aeronave F-16 au decolat de la baza din Fetești pentru a urmări situația.\n\n• **Desfășurarea celei de-a doua alerte:** Centrul militar a anunțat structurile de urgență pentru declanșarea informării populației. Mesajul RO-Alert adresat locuitorilor din estul județului Tulcea a fost transmis la 17:31, iar alerta aeriană s-a încheiat la 18:38. Ministerul a anunțat că va furniza actualizări în funcție de evoluția situației.\n\n• **Alerte anterioare cu drone:** Mediafax a amintit că, la sfârșitul lunii octombrie, au fost emise avertizări legate de drone în șase județe din estul României.",
     "importance_score": 90.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_84499f50a0",
+    "slug": "atszervezes-a-bukaresti-stb-nel-796-dolgozo-kapott-felmondasi-ertesitest-84499f",
+    "tags": [
+      "stb",
+      "bukarest",
+      "tomegkozlekedes",
+      "leepites",
+      "fizeteskeptelenseg"
+    ],
+    "fingerprint": "04d7e591b0afa9f4847cf849137072b4",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "STB concediază aproape 800 de angajați. Cine își pierde locul de muncă și ce salarii compensatorii primesc disponibilizații",
+        "link": "https://adevarul.ro/economie/stb-concediaza-aproape-800-de-angajati-cine-isi-2570624.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Restructurare drastică la STB: 796 de concedieri, inclusiv șoferi și vatmani. Salarii compensatorii de până la 40.000 de lei",
+        "link": "https://stirileprotv.ro/stiri/actualitate/restructurare-drastica-la-stb-796-de-concedieri-inclusiv-soferi-si-vatmani-salarii-compensatorii-de-pana-la-40-000-de-lei.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Concedieri la STB: Au fost emise 796 de preavize. Cine își pierde locul de muncă și ce salarii compensatorii se oferă",
+        "link": "https://www.digi24.ro/stiri/economie/transporturi/concedieri-la-stb-au-fost-emise-796-de-preavize-cine-isi-pierde-locul-de-munca-si-ce-salarii-compensatorii-se-ofera-4031201"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Concedieri masive la STB. Sute de angajați au primit preavize. Compania este amenințată de faliment",
+        "link": "https://www.mediafax.ro/stirile-zilei/concedieri-masive-la-stb-sute-de-angajati-au-primit-preavize-compania-este-amenintata-de-faliment-23841430"
+      },
+      {
+        "source": "G4Media",
+        "title": "STB a transmis aproape 800 de preavize de concediere, dintre care 170 pentru șoferi și vatmani / Administratorul judiciar spune că programul de transport nu va fi afectat",
+        "link": "https://www.g4media.ro/stb-aproape-800-preavize-concediere-soferi-vatmani.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "STB concediază aproape 800 de angajați, cu salarii compensatorii între 20.000 şi 40.000 lei. Alte sute de posturi, desființate",
+        "link": "https://hotnews.ro/stb-concediaza-aproape-800-de-angajati-cu-salarii-compensatorii-intre-20-000-si-40-000-lei-alte-sute-de-posturi-desfiintate-2401214"
+      },
+      {
+        "source": "Maszol",
+        "title": "Közel 800 dolgozóját bocsátja el az ország legnagyobb tömegközlekedési vállalata",
+        "link": "https://maszol.ro/gazdasag/Kozel-800-dolgozojat-bocsatja-el-az-orszag-legnagyobb-tomegkozlekedesi-vallalata"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Lovitură pentru angajații STB! Aproape 800 de oameni vor rămâne fără locuri de muncă. Ce salarii compensatorii primesc",
+        "link": "https://www.cancan.ro/lovitura-pentru-angajatii-stb-aproape-800-de-oameni-vor-ramane-fara-locuri-de-munca-ce-salarii-compensatorii-primesc-21545696"
+      }
+    ],
+    "published_at": 1794402027,
+    "title_hu": "Átszervezés a bukaresti STB-nél: 796 dolgozó kapott felmondási értesítést",
+    "lead_hu": "A bukaresti közlekedési vállalat 796 betöltött és további 919 üres álláshely megszüntetését tervezi; a folyamat után 8428 pozíció marad. A társaság pénzügyi gondjai mellett kérdés, miként hat a létszámcsökkentés a szolgáltatásra és a működésre.",
+    "content_hu": "• **November 11-én 796 dolgozó kapott felmondási értesítést** a STB-nél, emellett 919 betöltetlen álláshelyet is törölnek. Az átalakítás után 8428 pozíció marad; 2025-ben még több mint 9700-an dolgoztak a vállalatnál.\n\n• **A leépítés a közlekedési, műszaki és irodai munkaköröket egyaránt érinti.** Az értesítettek között 120 autóbusz- és trolibuszvezető, valamint 50 villamosvezető van. Megszűnik többek között 69 lakatos, 37 hegesztő, 16 autószerelő, 10 karbantartó villanyszerelő és 58 pénztáros állása is.\n\n• **A vezetés szerint a járművezetők számának csökkentése nem akadályozza a közlekedést.** A cég 1286 járművel és ugyanennyi járművezetővel számol. A tervekben 23 elosztói, 12 fűtői és 4 kézikötői állás megszüntetése is szerepel.\n\n• **A társaság pénzügyi helyzete súlyos:** adóssága meghaladja a 3 milliárd lejt, az első tíz hónap vesztesége 765 millió lej, a nettó pénzforgalmi egyenleg pedig mínusz 67 millió lej. A személyi kiadások évi 1,2 milliárd lejt tesznek ki, a bevételek mintegy 70 százalékát; a távozóknak 20–40 ezer lej közötti kompenzációt ígértek.\n\n• **A STB-t szeptemberben fizetésképtelenné nyilvánították.** A vállalat 2025-ös, 1,8 milliárd lejes bevételéből 1,423 milliárd önkormányzati támogatás volt. A jegy ára 2021 óta 3 lej; a forrás szerint az utazás tényleges költsége meghaladja a 10 lejt, az utasok 10–20 százaléka pedig jegy nélkül utazhat.",
+    "title_ro": "STB restructurează activitatea: 796 de angajați au primit preavize",
+    "lead_ro": "Societatea de transport din București elimină 796 de posturi ocupate și alte 919 vacante, iar după reorganizare va avea 8.428 de poziții. Situația financiară dificilă ridică întrebări despre efectele reducerilor asupra activității și serviciilor.",
+    "content_ro": "• **La 11 noiembrie, STB a emis preavize pentru 796 de angajați**, iar noua organigramă elimină și 919 posturi vacante. După reorganizare vor rămâne 8.428 de poziții; în 2025, compania avea peste 9.700 de angajați.\n\n• **Reducerea de personal cuprinde posturi din transport, întreținere și administrație.** Lista include 120 de șoferi de autobuz și troleibuz, 50 de vatmani, 69 de lăcătuși, 37 de sudori, 16 mecanici auto, 10 electricieni de întreținere și 58 de casieri.\n\n• **Conducerea susține că reducerea numărului de conducători auto nu va opri serviciul.** STB operează cu 1.286 de vehicule și, potrivit informațiilor prezentate, are tot atâția șoferi. Sunt prevăzute și eliminarea a 23 de posturi de repartizor, 12 de fochist și patru de legător manual.\n\n• **Indicatorii financiari arată presiuni majore:** datoriile depășesc 3 miliarde de lei, pierderea din primele zece luni este de 765 de milioane, iar trezoreria netă are un sold negativ de 67 de milioane. Cheltuielile cu personalul ajung la 1,2 miliarde de lei anual, circa 70% din venituri; compensațiile anunțate pentru angajații disponibilizați sunt între 20.000 și 40.000 de lei.\n\n• **STB a fost declarată în insolvență în septembrie.** Din veniturile de 1,8 miliarde de lei înregistrate în 2025, 1,423 miliarde au provenit din subvenția municipală. Biletul costă 3 lei din 2021, în timp ce costul real al unei călătorii depășește 10 lei; estimările companiei indică și că 10–20% dintre călători circulă fără bilet.",
+    "importance_score": 88.0,
     "is_top_hero": false
   },
   {
@@ -2868,99 +2935,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_49da71f990",
-    "slug": "vizsgaljak-egy-19-eves-fiatal-halalanak-krulmenyeit-codleaban-49da71",
-    "tags": [
-      "codlea",
-      "brasov",
-      "ancheta",
-      "apel-video"
-    ],
-    "fingerprint": "18c77456abd7dc84248f529cc652c445",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un tânăr de 19 ani și-a anunțat mama, prin apel video, că vrea să se sinucidă, apoi și-a luat viața, în Codlea",
-        "link": "https://stirileprotv.ro/stiri/actualitate/un-tanar-de-19-ani-din-codlea-si-a-anuntat-mama-prin-apel-video-ca-vrea-sa-se-sinucida-inainte-de-a-si-lua-viata.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Un tânăr de 19 ani din Braşov s-a sinucis sub privirile mamei sale, cu care se afla într-un apel video",
-        "link": "https://www.digi24.ro/stiri/un-tanar-de-19-ani-din-brasov-s-a-sinucis-sub-privirile-mamei-sale-cu-care-se-afla-intr-un-apel-video-4031467"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Tragedie în Brașov. Un tânăr și-a pus capăt zilelor în pădure, în timp ce mama sa îl privea neputincioasă prin apel video",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/tragedie-in-brasov-un-tanar-si-a-pus-capat-2570693.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Megrázó tragédia: édesanyja szeme láttára, videóhívás közben vetett véget életének egy 19 éves fiú",
-        "link": "https://maszol.ro/belfold/Megrazo-tragedia-edesanyja-szeme-lattara-videohivas-kozben-vetett-veget-eletenek-egy-19-eves-fiu"
-      }
-    ],
-    "published_at": 1794402738,
-    "title_hu": "Vizsgálják egy 19 éves fiatal halálának körülményeit Codleában",
-    "lead_hu": "November 8-án holtan találtak egy 19 éves fiatalt a Brassó megyei Codlea egyik erdős területén. Az ügyészség vizsgálatot indított, és boncolást rendelt el; a fiatal a halála előtt videóhívásban volt az édesanyjával.",
-    "content_hu": "• **November 8-án egy 19 éves fiatal holttestére bukkantak Codlea egyik erdős részén.** A helyszínre érkező egészségügyi egység már csak a halál beálltát tudta megállapítani. A fiatal Brassó megyében élt.\n\n• **A nyomozás eddigi adatai szerint a fiatal a történtek idején videóhívásban beszélt az édesanyjával.** A nő segítséget kért, de a rendőrök és a mentők nem értek oda időben. A hatóságok közlése szerint az első vizsgálati eredmények arra utalnak, hogy a fiatal maga okozta a halálát.\n\n• **A Brassói Bíróság melletti ügyészség büntetőeljárást indított az eset körülményeinek tisztázására.** Az ügyészi közlésben gondatlanságból elkövetett emberölésként szerepel az ügy jogi minősítése; ez önmagában nem jelenti más személy felelősségének megállapítását.\n\n• **Az ügyész elrendelte a boncolást, és annak eredménye még nem ismert.** A vizsgálat célja a halál pontos körülményeinek megállapítása, a rendőrség pedig az ügyész irányításával folytatja az adatgyűjtést.\n\n• **Egy sajtóbeszámoló szerint két nappal korábban az apa a fiú ruhái között kábítószert tartalmazhatónak vélt tasakokat talált.** A beszámoló úgy tudja, az apa átadta azokat a rendőrségnek, a családban pedig vita alakult ki az ügy miatt. A hatóságok azt is vizsgálják, volt-e kapcsolat a tasakok és a haláleset között; erre egyelőre nincs megerősített következtetés. Ismerősei szerint a fiatal villanyszerelőként dolgozott, és esti tagozaton tanult.",
-    "title_ro": "Ancheta privind moartea unui tânăr de 19 ani în Codlea",
-    "lead_ro": "Un tânăr de 19 ani a fost găsit mort pe 8 noiembrie, într-o zonă împădurită din Codlea, județul Brașov. Procurorii au deschis o anchetă și au dispus efectuarea necropsiei; înainte de deces, tânărul se afla într-un apel video cu mama sa.",
-    "content_ro": "• **Un tânăr de 19 ani a fost găsit mort pe 8 noiembrie, într-o zonă împădurită din Codlea.** Echipajul medical ajuns la fața locului a constatat decesul. Tânărul era din județul Brașov.\n\n• **Potrivit datelor strânse până acum, acesta vorbea cu mama sa prin apel video în momentul producerii evenimentului.** Femeia a cerut ajutor, însă polițiștii și salvatorii nu au ajuns la timp. Primele informații ale anchetei indică faptul că tânărul și-a provocat singur moartea.\n\n• **Parchetul de pe lângă Judecătoria Brașov a deschis un dosar penal pentru a clarifica împrejurările.** Comunicatul procurorilor menționează încadrarea de ucidere din culpă; aceasta nu reprezintă, prin ea însăși, o concluzie privind răspunderea unei alte persoane.\n\n• **Procurorul a dispus efectuarea necropsiei, iar rezultatele nu au fost încă făcute publice.** Cercetările urmăresc stabilirea circumstanțelor exacte ale decesului și sunt desfășurate de polițiști sub coordonarea procurorilor.\n\n• **Potrivit unei relatări din presă, cu două zile înainte tatăl ar fi găsit în hainele tânărului pliculețe despre care se bănuia că ar conține droguri.** Sursa afirmă că acestea au fost predate poliției și că subiectul a dus la tensiuni în familie. Autoritățile verifică dacă există vreo legătură între pliculețe și deces, fără ca până acum să existe o concluzie confirmată. Cunoscuții au declarat că tânărul lucra ca electrician și urma cursuri la liceu, la seral.",
-    "importance_score": 55.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_750cc9a700",
-    "slug": "tbb-mint-200-repult-oranal-tart-az-olasz-pilotanvendek-lucia-sabrina-papa-750cc9",
-    "tags": [
-      "lucia-sabrina-papa",
-      "aviatie",
-      "italia",
-      "dizabilitati",
-      "control-trafic-aerian"
-    ],
-    "fingerprint": "daab33252f6e97357373940413428785",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "S-a născut oarbă, dar a ajuns să piloteze avioane. Povestea incredibilă a femeii care a acumulat peste 200 de ore de zbor",
-        "link": "https://www.mediafax.ro/life-inedit/s-a-nascut-oarba-dar-a-ajuns-sa-piloteze-avioane-povestea-incredibila-a-femeii-care-a-acumulat-peste-200-de-ore-de-zbor-23841231"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Femeie nevăzătoare care a ajuns să piloteze avioane. Povestea italiencei care a acumulat peste 200 de ore de zbor: „Cerul nu are limite”",
-        "link": "https://adevarul.ro/stiri-externe/europa/femeie-nevazatoare-care-a-ajuns-sa-piloteze-2570674.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Primul pilot nevăzător din Italia / La 56 de ani, Lucia Sabrina are peste 200 de ore de zbor și pilotează avioane acrobatice",
-        "link": "https://www.g4media.ro/primul-pilot-nevazator-din-italia-la-56-de-ani-lucia-sabrina-are-peste-200-de-ore-de-zbor-si-piloteaza-avioane-acrobatice.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "O femeie de 56 de ani din Italia, nevăzătoare, a reușit să piloteze avioane. Lucia are deja 200 de ore de zbor",
-        "link": "https://stirileprotv.ro/stiri/international/o-femeie-de-56-de-ani-din-italia-nevazatoare-a-reusit-sa-piloteze-avioane-lucia-are-deja-200-de-ore-de-zbor.html"
-      }
-    ],
-    "published_at": 1794402703,
-    "title_hu": "Több mint 200 repült óránál tart az olasz pilótanövendék, Lucia Sabrina Papa",
-    "lead_hu": "Lucia Sabrina Papa, Olaszország első vak pilótanövendéke több mint 200 órát repült oktatója kíséretében. A római Fiumicino repülőtér irányítótornyában tett első látogatásán a légiforgalom koordinálásának módszereivel ismerkedett meg.",
-    "content_hu": "• **Lucia Sabrina Papa több mint 200 órát repült** különböző típusú gépeken, minden alkalommal oktatóval a fedélzeten. A látássérült olasz nő az ország első vak pilótanövendéke; a repülést 2016-ban kezdte.\n\n• **A római Fiumicino repülőtér irányítótornyába először látogatott el.** Megfigyelhette, hogyan dolgoznak a légiforgalmi irányítók, milyen eszközökkel követik a gépeket, és miként hangolják össze a forgalmat. A látogatást az ENAV és az ANACNA közreműködésével szervezték.\n\n• **A programon Alessandra Locatelli fogyatékosságügyi miniszter és az ENAV képviselői is fogadták.** Az ENAV az olaszországi léginavigációs szolgáltatásokat biztosítja, az ANACNA pedig a légiforgalmi irányítók és asszisztenseik szakmai szervezete.\n\n• **Papa Salice Salentinóban született, retinadisztófia miatt vak.** Gyermekként, a galatinai katonai repülőtér közelében hallotta a repülőgépeket; a repülés iránti érdeklődése már ekkor kialakult. Később Rómában élt és informatikusként dolgozott.\n\n• **Többféle repülőgépet vezetett a képzés során.** A felsorolt típusok között ultrakönnyű Sky Arrow és Tecnam P-92, Cessna 152 és 172, valamint az Extra EA-200 műrepülőgép szerepel. Helikopter vezetésével is próbálkozott, de a repülőgépeket részesíti előnyben.",
-    "title_ro": "Lucia Sabrina Papa a acumulat peste 200 de ore de zbor",
-    "lead_ro": "Lucia Sabrina Papa, prima elevă-pilot nevăzătoare din Italia, a depășit 200 de ore de zbor alături de un instructor. La prima sa vizită în turnul de control al aeroportului Roma Fiumicino, a aflat cum sunt coordonate aeronavele și ce tehnologii folosesc controlorii.",
-    "content_ro": "• **Lucia Sabrina Papa a acumulat peste 200 de ore de zbor** cu mai multe tipuri de aeronave, fiind însoțită de un instructor. Este prima elevă-pilot nevăzătoare din Italia și a început să piloteze în 2016.\n\n• **Femeia a intrat pentru prima dată în turnul de control al aeroportului Roma Fiumicino.** A urmărit activitatea controlorilor și a aflat cum sunt supravegheate și coordonate zborurile. Vizita a fost organizată cu participarea ENAV și a ANACNA.\n\n• **La întâlnire au fost prezenți ministrul pentru Dizabilități, Alessandra Locatelli, și reprezentanți ai ENAV.** Compania gestionează serviciile de navigație aeriană din Italia, iar ANACNA reunește controlori de trafic aerian și asistenți ai acestora.\n\n• **Papa s-a născut la Salice Salentino și este nevăzătoare din cauza distrofiei retiniene.** Interesul pentru aviație a apărut în copilărie, când locuia în apropierea bazei militare de la Galatina și auzea avioanele. Ulterior a locuit la Roma și a lucrat în domeniul informaticii.\n\n• **În pregătire a pilotat aeronave din mai multe categorii.** Printre modelele menționate se numără ultraușoarele Sky Arrow și Tecnam P-92, avioanele Cessna 152 și 172, precum și aeronava de acrobație Extra EA-200. A încercat și un elicopter, însă preferă avioanele.",
-    "importance_score": 55.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_efe6265ab6",
     "slug": "csecsemo-halt-meg-a-dn13-as-uton-trtent-utkzesben-efe626",
     "tags": [
@@ -3252,6 +3226,99 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_49da71f990",
+    "slug": "vizsgaljak-egy-19-eves-fiatal-halalanak-krulmenyeit-codleaban-49da71",
+    "tags": [
+      "codlea",
+      "brasov",
+      "ancheta",
+      "apel-video"
+    ],
+    "fingerprint": "18c77456abd7dc84248f529cc652c445",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un tânăr de 19 ani și-a anunțat mama, prin apel video, că vrea să se sinucidă, apoi și-a luat viața, în Codlea",
+        "link": "https://stirileprotv.ro/stiri/actualitate/un-tanar-de-19-ani-din-codlea-si-a-anuntat-mama-prin-apel-video-ca-vrea-sa-se-sinucida-inainte-de-a-si-lua-viata.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Un tânăr de 19 ani din Braşov s-a sinucis sub privirile mamei sale, cu care se afla într-un apel video",
+        "link": "https://www.digi24.ro/stiri/un-tanar-de-19-ani-din-brasov-s-a-sinucis-sub-privirile-mamei-sale-cu-care-se-afla-intr-un-apel-video-4031467"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Tragedie în Brașov. Un tânăr și-a pus capăt zilelor în pădure, în timp ce mama sa îl privea neputincioasă prin apel video",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/tragedie-in-brasov-un-tanar-si-a-pus-capat-2570693.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Megrázó tragédia: édesanyja szeme láttára, videóhívás közben vetett véget életének egy 19 éves fiú",
+        "link": "https://maszol.ro/belfold/Megrazo-tragedia-edesanyja-szeme-lattara-videohivas-kozben-vetett-veget-eletenek-egy-19-eves-fiu"
+      }
+    ],
+    "published_at": 1794402738,
+    "title_hu": "Vizsgálják egy 19 éves fiatal halálának körülményeit Codleában",
+    "lead_hu": "November 8-án holtan találtak egy 19 éves fiatalt a Brassó megyei Codlea egyik erdős területén. Az ügyészség vizsgálatot indított, és boncolást rendelt el; a fiatal a halála előtt videóhívásban volt az édesanyjával.",
+    "content_hu": "• **November 8-án egy 19 éves fiatal holttestére bukkantak Codlea egyik erdős részén.** A helyszínre érkező egészségügyi egység már csak a halál beálltát tudta megállapítani. A fiatal Brassó megyében élt.\n\n• **A nyomozás eddigi adatai szerint a fiatal a történtek idején videóhívásban beszélt az édesanyjával.** A nő segítséget kért, de a rendőrök és a mentők nem értek oda időben. A hatóságok közlése szerint az első vizsgálati eredmények arra utalnak, hogy a fiatal maga okozta a halálát.\n\n• **A Brassói Bíróság melletti ügyészség büntetőeljárást indított az eset körülményeinek tisztázására.** Az ügyészi közlésben gondatlanságból elkövetett emberölésként szerepel az ügy jogi minősítése; ez önmagában nem jelenti más személy felelősségének megállapítását.\n\n• **Az ügyész elrendelte a boncolást, és annak eredménye még nem ismert.** A vizsgálat célja a halál pontos körülményeinek megállapítása, a rendőrség pedig az ügyész irányításával folytatja az adatgyűjtést.\n\n• **Egy sajtóbeszámoló szerint két nappal korábban az apa a fiú ruhái között kábítószert tartalmazhatónak vélt tasakokat talált.** A beszámoló úgy tudja, az apa átadta azokat a rendőrségnek, a családban pedig vita alakult ki az ügy miatt. A hatóságok azt is vizsgálják, volt-e kapcsolat a tasakok és a haláleset között; erre egyelőre nincs megerősített következtetés. Ismerősei szerint a fiatal villanyszerelőként dolgozott, és esti tagozaton tanult.",
+    "title_ro": "Ancheta privind moartea unui tânăr de 19 ani în Codlea",
+    "lead_ro": "Un tânăr de 19 ani a fost găsit mort pe 8 noiembrie, într-o zonă împădurită din Codlea, județul Brașov. Procurorii au deschis o anchetă și au dispus efectuarea necropsiei; înainte de deces, tânărul se afla într-un apel video cu mama sa.",
+    "content_ro": "• **Un tânăr de 19 ani a fost găsit mort pe 8 noiembrie, într-o zonă împădurită din Codlea.** Echipajul medical ajuns la fața locului a constatat decesul. Tânărul era din județul Brașov.\n\n• **Potrivit datelor strânse până acum, acesta vorbea cu mama sa prin apel video în momentul producerii evenimentului.** Femeia a cerut ajutor, însă polițiștii și salvatorii nu au ajuns la timp. Primele informații ale anchetei indică faptul că tânărul și-a provocat singur moartea.\n\n• **Parchetul de pe lângă Judecătoria Brașov a deschis un dosar penal pentru a clarifica împrejurările.** Comunicatul procurorilor menționează încadrarea de ucidere din culpă; aceasta nu reprezintă, prin ea însăși, o concluzie privind răspunderea unei alte persoane.\n\n• **Procurorul a dispus efectuarea necropsiei, iar rezultatele nu au fost încă făcute publice.** Cercetările urmăresc stabilirea circumstanțelor exacte ale decesului și sunt desfășurate de polițiști sub coordonarea procurorilor.\n\n• **Potrivit unei relatări din presă, cu două zile înainte tatăl ar fi găsit în hainele tânărului pliculețe despre care se bănuia că ar conține droguri.** Sursa afirmă că acestea au fost predate poliției și că subiectul a dus la tensiuni în familie. Autoritățile verifică dacă există vreo legătură între pliculețe și deces, fără ca până acum să existe o concluzie confirmată. Cunoscuții au declarat că tânărul lucra ca electrician și urma cursuri la liceu, la seral.",
+    "importance_score": 48.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_750cc9a700",
+    "slug": "tbb-mint-200-repult-oranal-tart-az-olasz-pilotanvendek-lucia-sabrina-papa-750cc9",
+    "tags": [
+      "lucia-sabrina-papa",
+      "aviatie",
+      "italia",
+      "dizabilitati",
+      "control-trafic-aerian"
+    ],
+    "fingerprint": "daab33252f6e97357373940413428785",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "S-a născut oarbă, dar a ajuns să piloteze avioane. Povestea incredibilă a femeii care a acumulat peste 200 de ore de zbor",
+        "link": "https://www.mediafax.ro/life-inedit/s-a-nascut-oarba-dar-a-ajuns-sa-piloteze-avioane-povestea-incredibila-a-femeii-care-a-acumulat-peste-200-de-ore-de-zbor-23841231"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Femeie nevăzătoare care a ajuns să piloteze avioane. Povestea italiencei care a acumulat peste 200 de ore de zbor: „Cerul nu are limite”",
+        "link": "https://adevarul.ro/stiri-externe/europa/femeie-nevazatoare-care-a-ajuns-sa-piloteze-2570674.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Primul pilot nevăzător din Italia / La 56 de ani, Lucia Sabrina are peste 200 de ore de zbor și pilotează avioane acrobatice",
+        "link": "https://www.g4media.ro/primul-pilot-nevazator-din-italia-la-56-de-ani-lucia-sabrina-are-peste-200-de-ore-de-zbor-si-piloteaza-avioane-acrobatice.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "O femeie de 56 de ani din Italia, nevăzătoare, a reușit să piloteze avioane. Lucia are deja 200 de ore de zbor",
+        "link": "https://stirileprotv.ro/stiri/international/o-femeie-de-56-de-ani-din-italia-nevazatoare-a-reusit-sa-piloteze-avioane-lucia-are-deja-200-de-ore-de-zbor.html"
+      }
+    ],
+    "published_at": 1794402703,
+    "title_hu": "Több mint 200 repült óránál tart az olasz pilótanövendék, Lucia Sabrina Papa",
+    "lead_hu": "Lucia Sabrina Papa, Olaszország első vak pilótanövendéke több mint 200 órát repült oktatója kíséretében. A római Fiumicino repülőtér irányítótornyában tett első látogatásán a légiforgalom koordinálásának módszereivel ismerkedett meg.",
+    "content_hu": "• **Lucia Sabrina Papa több mint 200 órát repült** különböző típusú gépeken, minden alkalommal oktatóval a fedélzeten. A látássérült olasz nő az ország első vak pilótanövendéke; a repülést 2016-ban kezdte.\n\n• **A római Fiumicino repülőtér irányítótornyába először látogatott el.** Megfigyelhette, hogyan dolgoznak a légiforgalmi irányítók, milyen eszközökkel követik a gépeket, és miként hangolják össze a forgalmat. A látogatást az ENAV és az ANACNA közreműködésével szervezték.\n\n• **A programon Alessandra Locatelli fogyatékosságügyi miniszter és az ENAV képviselői is fogadták.** Az ENAV az olaszországi léginavigációs szolgáltatásokat biztosítja, az ANACNA pedig a légiforgalmi irányítók és asszisztenseik szakmai szervezete.\n\n• **Papa Salice Salentinóban született, retinadisztófia miatt vak.** Gyermekként, a galatinai katonai repülőtér közelében hallotta a repülőgépeket; a repülés iránti érdeklődése már ekkor kialakult. Később Rómában élt és informatikusként dolgozott.\n\n• **Többféle repülőgépet vezetett a képzés során.** A felsorolt típusok között ultrakönnyű Sky Arrow és Tecnam P-92, Cessna 152 és 172, valamint az Extra EA-200 műrepülőgép szerepel. Helikopter vezetésével is próbálkozott, de a repülőgépeket részesíti előnyben.",
+    "title_ro": "Lucia Sabrina Papa a acumulat peste 200 de ore de zbor",
+    "lead_ro": "Lucia Sabrina Papa, prima elevă-pilot nevăzătoare din Italia, a depășit 200 de ore de zbor alături de un instructor. La prima sa vizită în turnul de control al aeroportului Roma Fiumicino, a aflat cum sunt coordonate aeronavele și ce tehnologii folosesc controlorii.",
+    "content_ro": "• **Lucia Sabrina Papa a acumulat peste 200 de ore de zbor** cu mai multe tipuri de aeronave, fiind însoțită de un instructor. Este prima elevă-pilot nevăzătoare din Italia și a început să piloteze în 2016.\n\n• **Femeia a intrat pentru prima dată în turnul de control al aeroportului Roma Fiumicino.** A urmărit activitatea controlorilor și a aflat cum sunt supravegheate și coordonate zborurile. Vizita a fost organizată cu participarea ENAV și a ANACNA.\n\n• **La întâlnire au fost prezenți ministrul pentru Dizabilități, Alessandra Locatelli, și reprezentanți ai ENAV.** Compania gestionează serviciile de navigație aeriană din Italia, iar ANACNA reunește controlori de trafic aerian și asistenți ai acestora.\n\n• **Papa s-a născut la Salice Salentino și este nevăzătoare din cauza distrofiei retiniene.** Interesul pentru aviație a apărut în copilărie, când locuia în apropierea bazei militare de la Galatina și auzea avioanele. Ulterior a locuit la Roma și a lucrat în domeniul informaticii.\n\n• **În pregătire a pilotat aeronave din mai multe categorii.** Printre modelele menționate se numără ultraușoarele Sky Arrow și Tecnam P-92, avioanele Cessna 152 și 172, precum și aeronava de acrobație Extra EA-200. A încercat și un elicopter, însă preferă avioanele.",
+    "importance_score": 48.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_68cf558466",
     "slug": "a-pnl-be-olvadna-be-a-forta-dreptei-68cf55",
     "tags": [
@@ -3434,6 +3501,42 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_910346a685",
+    "slug": "mama-ta-este-sanatoasa-tun-familia-cere-explicatii-910346",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "„Mama ta este sănătoasă tun”. Familia cere explicații după moartea femeii din Galați, la 10 minute de la externare",
+        "link": "https://stirileprotv.ro/stiri/actualitate/mama-ta-este-sanatoasa-tun-familia-cere-explicatii-dupa-moartea-femeii-la-10-minute-de-la-externare.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cercetări la Spitalul de Urgență Galați. Rudele unei paciente decedate spun că a murit după externare",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cercetari-pentru-ucidere-din-culpa-la-spitalul-de-urgenta-galati-ce-acuzatii-aduc-rudele-unei-paciente-decedate.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "S-a aflat cauza morții femeii din Galați, care a decedat la doar 10 minute după ce a ajuns acasă. Așteptase 6 ore la UPU și primise o rețetă",
+        "link": "https://www.cancan.ro/s-a-aflat-cauza-mortii-femeii-din-galati-care-a-decedat-la-doar-10-minute-dupa-ce-a-ajuns-acasa-asteptase-6-ore-la-upu-si-primise-o-reteta-21545887"
+      }
+    ],
+    "published_at": 1794411583,
+    "title_hu": "„Mama ta este sănătoasă tun”. Familia cere explicații după moartea femeii din Galați, la 10 minute de la externare",
+    "lead_hu": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se…",
+    "content_hu": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se făcuseră investigații amănunțite.",
+    "title_ro": "„Mama ta este sănătoasă tun”. Familia cere explicații după moartea femeii din Galați, la 10 minute de la externare",
+    "lead_ro": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se…",
+    "content_ro": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se făcuseră investigații amănunțite.",
+    "importance_score": 45.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_80f33e2b30",
     "slug": "incest-gyanuja-miatt-vizsgalnak-egy-bukaresti-anyat-es-fiat-80f33e",
     "tags": [
@@ -3513,6 +3616,47 @@
     "title_ro": "Două senatoare s-au alăturat grupului PSD",
     "lead_ro": "Cosmina Cerva și Rodica Cușnir au anunțat miercuri că se alătură grupului PSD din Senat. Ambele au obținut mandate în decembrie 2024 pe listele S.O.S. România, iar ulterior au făcut parte din grupul PACE – Întâi România.",
     "content_ro": "• **Anunțurile privind schimbarea afilierii au fost făcute miercuri.** Cosmina Cerva și Rodica Cușnir au comunicat în plenul Senatului că intră în grupul parlamentar al PSD. Declarațiile au avut loc în sesiunea rezervată intervențiilor politice și interpelărilor.\n\n• **Ambele au ajuns senatoare pe listele S.O.S. România.** Cerva a câștigat un mandat în circumscripția 42 București, iar Cușnir în circumscripția 35 Suceava, la alegerile din decembrie 2024. După scrutin, cele două au activat în grupul PACE – Întâi România.\n\n• **Cerva conduce Comisia pentru constituționalitate a Senatului.** Grupul PACE – Întâi România a încetat să existe la 21 octombrie, după plecarea sa, deoarece numărul membrilor a coborât sub pragul de șapte necesar funcționării. Între 21 octombrie și 11 noiembrie, Cerva a activat ca senatoare neafiliată.\n\n• **Alți parlamentari aleși pe listele POT și S.O.S. România au trecut anterior la PSD.** Șase senatori au comunicat în zilele de 2 și 9 septembrie că se afiliază grupului parlamentar social-democrat.",
+    "importance_score": 45.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_2aace23172",
+    "slug": "moszkva-kesz-kzvetlen-katonai-egyeztetesre-londonnal-2aace2",
+    "tags": [
+      "rusia",
+      "regatul-unit",
+      "dialog-militar",
+      "ucraina"
+    ],
+    "fingerprint": "b45a97d75cf7a56e94ad2b6cb7d6e1bb",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Rusia anunţă că ar accepta un dialog direct la nivel militar cu Marea Britanie",
+        "link": "https://www.digi24.ro/stiri/externe/rusia/rusia-anunta-ca-ar-accepta-un-dialog-direct-la-nivel-militar-cu-marea-britanie-4031863"
+      },
+      {
+        "source": "G4Media",
+        "title": "Rusia anunţă că ar accepta un dialog direct la nivel militar cu Regatul Unit",
+        "link": "https://www.g4media.ro/rusia-anunta-ca-ar-accepta-un-dialog-direct-la-nivel-militar-cu-regatul-unit.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Rusia spune că este deschisă la discuții cu armata britanică, dar așteaptă ca Londra să facă primul pas",
+        "link": "https://www.mediafax.ro/externe/rusia-spune-ca-este-deschisa-la-discutii-cu-armata-britanica-dar-asteapta-ca-londra-sa-faca-primul-pas-23841655"
+      }
+    ],
+    "published_at": 1794410450,
+    "title_hu": "Moszkva kész közvetlen katonai egyeztetésre Londonnal",
+    "lead_hu": "Maria Zaharova szerint az orosz védelmi minisztérium tárgyalna brit partnerével, ha London kezdeményezné a kapcsolatfelvételt. A kijelentés Wes Streeting brit védelmi miniszter felvetése után hangzott el, aki több kommunikációs csatornát tartana kívánatosnak.",
+    "content_hu": "• **Moszkva nyitott lehet a közvetlen katonai párbeszédre:** Maria Zaharova, az orosz külügyminisztérium szóvivője szerdán azt mondta, hogy az orosz védelmi tárca fogadná a brit fél megkeresését, és egyeztetne a londoni partnerintézménnyel.\n\n• **A brit kezdeményezés a félreértések kockázatát csökkentené:** Wes Streeting védelmi miniszter a Financial Timesnak adott, kedden megjelent interjúban arról beszélt, hogy több kapcsolattartási lehetőséget szeretne Oroszországgal, köztük a katonai szervek közötti közvetlen kapcsolatot. Azt is jelezte, hogy a brit nagykövetség továbbra is működik Oroszországban.\n\n• **Zaharova a brit kormányt tette felelőssé a kommunikációs kapcsolatok beszűküléséért:** A szóvivő a 2024-es eseményekre hivatkozott, amikor London kiutasította az orosz nagykövetség katonai attaséját. Moszkva vitatta a kiutasítás indokait, míg a brit fél szerint az érintett valójában fedésben dolgozó katonai hírszerző tiszt volt.\n\n• **A két ország viszonya az ukrajnai háború miatt feszült:** London Kijev egyik határozott támogatója, és a nyugati országok között szigorú álláspontot képvisel az Oroszországgal szembeni szankciók ügyében. Ez a politikai háttér nehezíti a kétoldalú párbeszédet.\n\n• **A közvetlen egyeztetés lehetősége egyelőre feltételes:** Zaharova nyilatkozata nem jelent beindult tárgyalásokat; az orosz szóvivő a brit kezdeményezést nevezte meg a kapcsolatfelvétel előfeltételeként. A nyilatkozat a katonai kommunikáció bővítéséről szóló brit igényre adott válasz volt.",
+    "title_ro": "Moscova afirmă că ar accepta discuții militare directe cu Londra",
+    "lead_ro": "Maria Zaharova a declarat că ministerul rus al apărării ar purta discuții cu instituția britanică omoloagă dacă Londra ar face primul pas. Afirmația a venit după ce ministrul britanic al apărării, Wes Streeting, a pledat pentru extinderea canalelor de comunicare cu Rusia.",
+    "content_ro": "• **Rusia se declară disponibilă pentru contacte militare directe:** Maria Zaharova, purtătoarea de cuvânt a ministerului rus de externe, a spus miercuri că instituția rusă a apărării ar răspunde unei solicitări britanice și ar putea discuta cu omologii din Regatul Unit.\n\n• **Londra consideră că mai multe căi de comunicare ar putea limita riscul unor evaluări greșite:** Într-un interviu publicat marți de Financial Times, ministrul britanic Wes Streeting a susținut dezvoltarea dialogului cu Rusia, inclusiv între structurile militare. El a menționat totodată că ambasada britanică din Rusia își continuă activitatea.\n\n• **Moscova a legat reducerea contactelor de un episod din 2024:** Zaharova a acuzat partea britanică de restrângerea comunicării după expulzarea atașatului militar rus de la Londra. Regatul Unit a susținut că diplomatul era, în realitate, un ofițer de informații militare care își ascundea rolul; Rusia a contestat justificarea măsurii.\n\n• **Relațiile bilaterale sunt tensionate pe fondul războiului din Ucraina:** Regatul Unit sprijină Kievul și se numără printre statele occidentale care susțin o abordare fermă privind sancțiunile împotriva Moscovei. Acest context complică reluarea dialogului dintre cele două capitale.\n\n• **Nu a fost anunțată deschiderea unor negocieri:** Declarația rusă exprimă disponibilitatea de a discuta, dar condiționează contactul de o propunere britanică. Reacția Moscovei a urmat apelului lui Streeting pentru canale suplimentare de comunicare, în special la nivel militar.",
     "importance_score": 45.0,
     "is_top_hero": false
   },
@@ -3806,48 +3950,6 @@
     "title_ro": "Camera Deputaților înființează o comisie pentru deplasările private la Mykonos și Nisa",
     "lead_ro": "Camera Deputaților a aprobat constituirea unei comisii parlamentare care va examina deplasările private la Mykonos și Nisa, inclusiv zborurile asociate Nordis. Ancheta trebuie să clarifice cine a participat, cum au fost organizate și finanțate călătoriile și ce interese economice ar fi putut exista.",
     "content_ro": "• **Camera Deputaților a votat miercuri înființarea comisiei de anchetă.** Inițiativa a fost depusă de USR și PNL, iar proiectul a primit 216 voturi favorabile, unul împotrivă și nouă abțineri.\n\n• **Mandatul comisiei vizează deplasările private spre Mykonos și Nisa.** În analiză sunt incluse și zborurile Nordis, iar parlamentarii urmează să stabilească împrejurările în care călătoriile au fost organizate și desfășurate.\n\n• **Membrii comisiei vor identifica participanții și rolul în care au luat parte la deplasări.** Ei trebuie să afle, de asemenea, cine a organizat călătoriile, cine a transmis invitațiile și ce criterii au fost folosite la alegerea celor invitați.\n\n• **Verificările vor acoperi cheltuielile și persoanele care le-au achitat.** Sunt vizate costurile pentru transport, cazare, mese, transferuri și alte activități legate de deplasări.\n\n• **Ancheta va urmări și posibilele interese economice legate de călătorii.** Inițiatorii au indicat necesitatea clarificării unor eventuale conexiuni între politicieni, judecători și oameni de afaceri, precum și a intereselor organizatorilor și participanților.",
-    "importance_score": 45.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_c7990ac142",
-    "slug": "pochettino-lehet-a-manchester-united-kvetkezo-vezetoedzoje-c7990a",
-    "tags": [
-      "manchester-united",
-      "mauricio-pochettino",
-      "michael-carrick",
-      "premier-league",
-      "edzovaltas"
-    ],
-    "fingerprint": "de0ec7a614370a24cdd11ad31ec3b320",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Manchester United, la un pas de schimbarea antrenorului",
-        "link": "https://www.g4media.ro/manchester-united-la-un-pas-de-schimbarea-antrenorului.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Manchester United, acord verbal cu Mauricio Pochettino pentru a-l înlocui pe Michael Carrick",
-        "link": "https://www.mediafax.ro/sport/manchester-united-acord-verbal-cu-mauricio-pochettino-pentru-a-l-inlocui-pe-michael-carrick-23841545"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "În așteptarea demiterii lui Carrick, Manchester United a ajuns la un acord cu alt antrenor",
-        "link": "https://www.gsp.ro/international/campionate/manchester-united-demitere-michael-carrick-clauza-reziliere-mauricio-pochettino-997952.html"
-      }
-    ],
-    "published_at": 1794402621,
-    "title_hu": "Pochettino lehet a Manchester United következő vezetőedzője",
-    "lead_hu": "Fabrizio Romano értesülése szerint a Manchester United vezetősége Michael Carrick menesztését mérlegeli, és Mauricio Pochettinót szemelte ki utódjául. A klub nyolc bajnoki mérkőzés óta nyeretlen, és a Premier League tabelláján a 18. helyen áll.",
-    "content_hu": "• **A Manchester Unitednél edzőváltás készülhet:** Fabrizio Romano átigazolási újságíró információi szerint a klub vezetése a közeljövőben megválhat Michael Carricktől. A döntésről szóló értesülések nem hivatalos klubközleményből származnak.\n\n• **Mauricio Pochettino a lehetséges utód:** Romano szerint a manchesteri vezetők már az argentin szakember kinevezéséről egyeztetnek. Pochettino jelenleg az Egyesült Államok válogatottjának szövetségi kapitánya; az amerikai szövetséggel kötött megállapodásának felbontása a beszámoló alapján tízmillió euróba kerülhet.\n\n• **A bajnoki eredmények növelik a nyomást:** A United az idényben nyolc egymást követő Premier League-találkozón nem tudott győzni. Legutóbb augusztus végén nyert a bajnokságban, és a közölt állás szerint nyolc ponttal a 18., kieső helyen szerepel.\n\n• **Pochettino korábbi klubjai között több európai élcsapat is van:** Az 54 éves argentin dolgozott az Espanyolnál, a Southamptonnál, a Tottenhamnél, a Paris Saint-Germainnél és a Chelsea-nél is. Az amerikai válogatottal a nyári világbajnokság nyolcaddöntőjéig jutott.\n\n• **Antonio Conte is szóba került tartalékmegoldásként:** A beszámoló az olasz edzőt nevezi meg arra az esetre, ha Pochettino szerződtetése nem valósulna meg. A Manchester United edzőváltásáról és a tárgyalások állásáról a klub egyelőre nem közölt hivatalos részleteket.",
-    "title_ro": "Pochettino ar putea deveni următorul antrenor al lui Manchester United",
-    "lead_ro": "Potrivit jurnalistului Fabrizio Romano, conducerea lui Manchester United ia în calcul despărțirea de Michael Carrick și îl vizează pe Mauricio Pochettino pentru postul de antrenor principal. Echipa nu a câștigat de opt meciuri în Premier League și ocupă locul 18 în clasament.",
-    "content_ro": "• **Manchester United ar putea schimba antrenorul principal:** Informațiile prezentate de jurnalistul Fabrizio Romano indică faptul că gruparea ia în calcul să renunțe în perioada următoare la Michael Carrick. Până acum, clubul nu a confirmat oficial o astfel de decizie.\n\n• **Mauricio Pochettino este indicat drept principalul candidat:** Conform lui Romano, conducerea lui United poartă discuții privind numirea tehnicianului argentinian. Pochettino antrenează în prezent naționala Statelor Unite, iar rezilierea înțelegerii cu federația americană ar implica, potrivit relatării, o clauză de zece milioane de euro.\n\n• **Seria fără victorii apasă asupra echipei:** Manchester United a ajuns la opt partide consecutive fără succes în campionat. Ultimul triumf în Premier League ar fi fost obținut la sfârșitul lunii august, iar formația avea opt puncte și se afla pe poziția a 18-a, în zona retrogradării.\n\n• **Pochettino a pregătit mai multe cluburi europene importante:** În vârstă de 54 de ani, argentinianul a antrenat Espanyol, Southampton, Tottenham, Paris Saint-Germain și Chelsea. La conducerea selecționatei SUA, a ajuns în optimile de finală ale Cupei Mondiale din vara acestui an.\n\n• **Antonio Conte este menționat ca variantă alternativă:** Dacă numirea lui Pochettino nu se concretizează, antrenorul italian ar putea fi luat în calcul, potrivit informațiilor publicate. Clubul englez nu a făcut deocamdată publice detalii oficiale despre o eventuală schimbare sau despre negocieri.",
     "importance_score": 45.0,
     "is_top_hero": false
   },
@@ -4290,6 +4392,48 @@
     "lead_ro": "Un polițist de 24 de ani a fost rănit pe 10 noiembrie, după ce mașina sa de serviciu s-a ciocnit cu remorca unui TIR, în Agigea. Agentul a fost dus inconștient la spital, iar autoritățile cercetează împrejurările accidentului.",
     "content_ro": "• **Accidentul s-a produs pe 10 noiembrie, în jurul orei 15:40**, pe DN 39A, pe podul Apolodor din Agigea. Autospeciala de poliție a lovit remorca unui TIR, iar relatările indică faptul că mașina a ajuns parțial sub aceasta.\n\n• **Agentul, în vârstă de 24 de ani, era singur în autospecială și se afla în timpul serviciului.** Conform primelor verificări, vehiculul circula fără semnalele luminoase și acustice pornite. Polițistul este încadrat la Serviciul Siguranță Transporturi Agigea și face parte din promoția iunie 2024.\n\n• **TIR-ul se afla într-o coloană de camioane care aștepta accesul în port.** Una dintre relatări precizează că ansamblul staționa pe prima bandă, iar autospeciala se deplasa dinspre autostrada A4 către Poarta 10 a Portului Agigea. Cauza exactă a coliziunii nu a fost stabilită deocamdată.\n\n• **Polițistul a fost găsit inconștient și transportat la Spitalul Județean Constanța.** La locul accidentului au intervenit echipaje de stingere și descarcerare, precum și două echipaje SMURD. Transportul victimei a fost efectuat de echipajul SMURD C.\n\n• **Poliția a început cercetările pentru a clarifica modul în care s-a produs accidentul.** A fost întocmit și un dosar penal, în cadrul căruia urmează să fie stabilite împrejurările coliziunii.",
     "importance_score": 40.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_c7990ac142",
+    "slug": "pochettino-lehet-a-manchester-united-kvetkezo-vezetoedzoje-c7990a",
+    "tags": [
+      "manchester-united",
+      "mauricio-pochettino",
+      "michael-carrick",
+      "premier-league",
+      "edzovaltas"
+    ],
+    "fingerprint": "de0ec7a614370a24cdd11ad31ec3b320",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Manchester United, la un pas de schimbarea antrenorului",
+        "link": "https://www.g4media.ro/manchester-united-la-un-pas-de-schimbarea-antrenorului.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Manchester United, acord verbal cu Mauricio Pochettino pentru a-l înlocui pe Michael Carrick",
+        "link": "https://www.mediafax.ro/sport/manchester-united-acord-verbal-cu-mauricio-pochettino-pentru-a-l-inlocui-pe-michael-carrick-23841545"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "În așteptarea demiterii lui Carrick, Manchester United a ajuns la un acord cu alt antrenor",
+        "link": "https://www.gsp.ro/international/campionate/manchester-united-demitere-michael-carrick-clauza-reziliere-mauricio-pochettino-997952.html"
+      }
+    ],
+    "published_at": 1794402621,
+    "title_hu": "Pochettino lehet a Manchester United következő vezetőedzője",
+    "lead_hu": "Fabrizio Romano értesülése szerint a Manchester United vezetősége Michael Carrick menesztését mérlegeli, és Mauricio Pochettinót szemelte ki utódjául. A klub nyolc bajnoki mérkőzés óta nyeretlen, és a Premier League tabelláján a 18. helyen áll.",
+    "content_hu": "• **A Manchester Unitednél edzőváltás készülhet:** Fabrizio Romano átigazolási újságíró információi szerint a klub vezetése a közeljövőben megválhat Michael Carricktől. A döntésről szóló értesülések nem hivatalos klubközleményből származnak.\n\n• **Mauricio Pochettino a lehetséges utód:** Romano szerint a manchesteri vezetők már az argentin szakember kinevezéséről egyeztetnek. Pochettino jelenleg az Egyesült Államok válogatottjának szövetségi kapitánya; az amerikai szövetséggel kötött megállapodásának felbontása a beszámoló alapján tízmillió euróba kerülhet.\n\n• **A bajnoki eredmények növelik a nyomást:** A United az idényben nyolc egymást követő Premier League-találkozón nem tudott győzni. Legutóbb augusztus végén nyert a bajnokságban, és a közölt állás szerint nyolc ponttal a 18., kieső helyen szerepel.\n\n• **Pochettino korábbi klubjai között több európai élcsapat is van:** Az 54 éves argentin dolgozott az Espanyolnál, a Southamptonnál, a Tottenhamnél, a Paris Saint-Germainnél és a Chelsea-nél is. Az amerikai válogatottal a nyári világbajnokság nyolcaddöntőjéig jutott.\n\n• **Antonio Conte is szóba került tartalékmegoldásként:** A beszámoló az olasz edzőt nevezi meg arra az esetre, ha Pochettino szerződtetése nem valósulna meg. A Manchester United edzőváltásáról és a tárgyalások állásáról a klub egyelőre nem közölt hivatalos részleteket.",
+    "title_ro": "Pochettino ar putea deveni următorul antrenor al lui Manchester United",
+    "lead_ro": "Potrivit jurnalistului Fabrizio Romano, conducerea lui Manchester United ia în calcul despărțirea de Michael Carrick și îl vizează pe Mauricio Pochettino pentru postul de antrenor principal. Echipa nu a câștigat de opt meciuri în Premier League și ocupă locul 18 în clasament.",
+    "content_ro": "• **Manchester United ar putea schimba antrenorul principal:** Informațiile prezentate de jurnalistul Fabrizio Romano indică faptul că gruparea ia în calcul să renunțe în perioada următoare la Michael Carrick. Până acum, clubul nu a confirmat oficial o astfel de decizie.\n\n• **Mauricio Pochettino este indicat drept principalul candidat:** Conform lui Romano, conducerea lui United poartă discuții privind numirea tehnicianului argentinian. Pochettino antrenează în prezent naționala Statelor Unite, iar rezilierea înțelegerii cu federația americană ar implica, potrivit relatării, o clauză de zece milioane de euro.\n\n• **Seria fără victorii apasă asupra echipei:** Manchester United a ajuns la opt partide consecutive fără succes în campionat. Ultimul triumf în Premier League ar fi fost obținut la sfârșitul lunii august, iar formația avea opt puncte și se afla pe poziția a 18-a, în zona retrogradării.\n\n• **Pochettino a pregătit mai multe cluburi europene importante:** În vârstă de 54 de ani, argentinianul a antrenat Espanyol, Southampton, Tottenham, Paris Saint-Germain și Chelsea. La conducerea selecționatei SUA, a ajuns în optimile de finală ale Cupei Mondiale din vara acestui an.\n\n• **Antonio Conte este menționat ca variantă alternativă:** Dacă numirea lui Pochettino nu se concretizează, antrenorul italian ar putea fi luat în calcul, potrivit informațiilor publicate. Clubul englez nu a făcut deocamdată publice detalii oficiale despre o eventuală schimbare sau despre negocieri.",
+    "importance_score": 38.0,
     "is_top_hero": false
   },
   {
@@ -4792,37 +4936,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_910346a685",
-    "slug": "mama-ta-este-sanatoasa-tun-familia-cere-explicatii-910346",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "„Mama ta este sănătoasă tun”. Familia cere explicații după moartea femeii din Galați, la 10 minute de la externare",
-        "link": "https://stirileprotv.ro/stiri/actualitate/mama-ta-este-sanatoasa-tun-familia-cere-explicatii-dupa-moartea-femeii-la-10-minute-de-la-externare.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cercetări la Spitalul de Urgență Galați. Rudele unei paciente decedate spun că a murit după externare",
-        "link": "https://stirileprotv.ro/stiri/actualitate/cercetari-pentru-ucidere-din-culpa-la-spitalul-de-urgenta-galati-ce-acuzatii-aduc-rudele-unei-paciente-decedate.html"
-      }
-    ],
-    "published_at": 1794411583,
-    "title_hu": "„Mama ta este sănătoasă tun”. Familia cere explicații după moartea femeii din Galați, la 10 minute de la externare",
-    "lead_hu": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se…",
-    "content_hu": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se făcuseră investigații amănunțite.",
-    "title_ro": "„Mama ta este sănătoasă tun”. Familia cere explicații după moartea femeii din Galați, la 10 minute de la externare",
-    "lead_ro": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se…",
-    "content_ro": "Se fac cercetări pentru ucidere din culpă la Spitalul Clinic de Urgență din Galați. O femeie de 67 de ani a murit acasă, la 10 minute după ce fusese adusă de la unitatea medicală, unde, teoretic, i se făcuseră investigații amănunțite.",
-    "importance_score": 35.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_83ac7677a3",
     "slug": "tara-din-europa-care-introduce-radare-cu-ia-aparat-83ac76",
     "tags": [
@@ -4886,42 +4999,6 @@
     "title_ro": "Guinness a confirmat zborul Airbus de peste 24 de ore",
     "lead_ro": "Cursa fără escală dintre Melbourne și Toulouse a durat 24 de ore și 24 de minute și a acoperit 23.155 de kilometri. Guinness World Records a validat performanța la mai bine de trei luni după zborul din 27 iulie.",
     "content_ro": "• **Zborul Melbourne–Toulouse a devenit cea mai lungă cursă efectuată de un avion de linie.** Airbusul A350-1000ULR a plecat din Australia pe 27 iulie, la ora locală 17:27, și a ajuns în Franța în dimineața următoare. A parcurs 23.155 de kilometri în 24 de ore și 24 de minute, iar Guinness World Records a recunoscut oficial rezultatul.\n\n• **Aeronava a fost folosită pentru un test și nu a transportat pasageri.** La bord s-au aflat 13 piloți și ingineri. Traseul a trecut pe lângă Sydney, apoi a continuat spre nord-est peste Pacific și a traversat America de Nord și Atlanticul. Avionul a survolat Londra înainte de a se îndrepta către Toulouse. Membrii echipajului au văzut două răsărituri și două apusuri.\n\n• **Un rezervor de combustibil suplimentar a susținut zborul de mare distanță.** Acesta este montat în partea din spate a fuselajului. Datele cursei au fost verificate de Federația Aeronautică Internațională și de Flightradar24, unde aproape patru milioane de persoane au urmărit deplasarea în timp real.\n\n• **Testul face parte din programul Project Sunrise al companiei Qantas.** Planul prevede legături directe între coasta de est a Australiei și Londra, respectiv New York. Lansarea cursei Sydney–Londra este programată pentru octombrie 2027, iar vânzarea biletelor ar urma să înceapă în februarie. Ruta de aproximativ 17.000 de kilometri ar putea dura până la 22 de ore și ar depăși zborul de circa 18 ore al Singapore Airlines către New York.\n\n• **Qantas a comandat 12 avioane A350-1000ULR.** Prima aeronavă este așteptată în aprilie 2027. Configurația va include 238 de locuri și o zonă de odihnă, unde pasagerii se vor putea ridica și întinde în timpul călătoriei îndelungate.",
-    "importance_score": 35.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_2aace23172",
-    "slug": "moszkva-kesz-kzvetlen-katonai-egyeztetesre-londonnal-2aace2",
-    "tags": [
-      "rusia",
-      "regatul-unit",
-      "dialog-militar",
-      "ucraina"
-    ],
-    "fingerprint": "b45a97d75cf7a56e94ad2b6cb7d6e1bb",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Rusia anunţă că ar accepta un dialog direct la nivel militar cu Marea Britanie",
-        "link": "https://www.digi24.ro/stiri/externe/rusia/rusia-anunta-ca-ar-accepta-un-dialog-direct-la-nivel-militar-cu-marea-britanie-4031863"
-      },
-      {
-        "source": "G4Media",
-        "title": "Rusia anunţă că ar accepta un dialog direct la nivel militar cu Regatul Unit",
-        "link": "https://www.g4media.ro/rusia-anunta-ca-ar-accepta-un-dialog-direct-la-nivel-militar-cu-regatul-unit.html"
-      }
-    ],
-    "published_at": 1794410450,
-    "title_hu": "Moszkva kész közvetlen katonai egyeztetésre Londonnal",
-    "lead_hu": "Maria Zaharova szerint az orosz védelmi minisztérium tárgyalna brit partnerével, ha London kezdeményezné a kapcsolatfelvételt. A kijelentés Wes Streeting brit védelmi miniszter felvetése után hangzott el, aki több kommunikációs csatornát tartana kívánatosnak.",
-    "content_hu": "• **Moszkva nyitott lehet a közvetlen katonai párbeszédre:** Maria Zaharova, az orosz külügyminisztérium szóvivője szerdán azt mondta, hogy az orosz védelmi tárca fogadná a brit fél megkeresését, és egyeztetne a londoni partnerintézménnyel.\n\n• **A brit kezdeményezés a félreértések kockázatát csökkentené:** Wes Streeting védelmi miniszter a Financial Timesnak adott, kedden megjelent interjúban arról beszélt, hogy több kapcsolattartási lehetőséget szeretne Oroszországgal, köztük a katonai szervek közötti közvetlen kapcsolatot. Azt is jelezte, hogy a brit nagykövetség továbbra is működik Oroszországban.\n\n• **Zaharova a brit kormányt tette felelőssé a kommunikációs kapcsolatok beszűküléséért:** A szóvivő a 2024-es eseményekre hivatkozott, amikor London kiutasította az orosz nagykövetség katonai attaséját. Moszkva vitatta a kiutasítás indokait, míg a brit fél szerint az érintett valójában fedésben dolgozó katonai hírszerző tiszt volt.\n\n• **A két ország viszonya az ukrajnai háború miatt feszült:** London Kijev egyik határozott támogatója, és a nyugati országok között szigorú álláspontot képvisel az Oroszországgal szembeni szankciók ügyében. Ez a politikai háttér nehezíti a kétoldalú párbeszédet.\n\n• **A közvetlen egyeztetés lehetősége egyelőre feltételes:** Zaharova nyilatkozata nem jelent beindult tárgyalásokat; az orosz szóvivő a brit kezdeményezést nevezte meg a kapcsolatfelvétel előfeltételeként. A nyilatkozat a katonai kommunikáció bővítéséről szóló brit igényre adott válasz volt.",
-    "title_ro": "Moscova afirmă că ar accepta discuții militare directe cu Londra",
-    "lead_ro": "Maria Zaharova a declarat că ministerul rus al apărării ar purta discuții cu instituția britanică omoloagă dacă Londra ar face primul pas. Afirmația a venit după ce ministrul britanic al apărării, Wes Streeting, a pledat pentru extinderea canalelor de comunicare cu Rusia.",
-    "content_ro": "• **Rusia se declară disponibilă pentru contacte militare directe:** Maria Zaharova, purtătoarea de cuvânt a ministerului rus de externe, a spus miercuri că instituția rusă a apărării ar răspunde unei solicitări britanice și ar putea discuta cu omologii din Regatul Unit.\n\n• **Londra consideră că mai multe căi de comunicare ar putea limita riscul unor evaluări greșite:** Într-un interviu publicat marți de Financial Times, ministrul britanic Wes Streeting a susținut dezvoltarea dialogului cu Rusia, inclusiv între structurile militare. El a menționat totodată că ambasada britanică din Rusia își continuă activitatea.\n\n• **Moscova a legat reducerea contactelor de un episod din 2024:** Zaharova a acuzat partea britanică de restrângerea comunicării după expulzarea atașatului militar rus de la Londra. Regatul Unit a susținut că diplomatul era, în realitate, un ofițer de informații militare care își ascundea rolul; Rusia a contestat justificarea măsurii.\n\n• **Relațiile bilaterale sunt tensionate pe fondul războiului din Ucraina:** Regatul Unit sprijină Kievul și se numără printre statele occidentale care susțin o abordare fermă privind sancțiunile împotriva Moscovei. Acest context complică reluarea dialogului dintre cele două capitale.\n\n• **Nu a fost anunțată deschiderea unor negocieri:** Declarația rusă exprimă disponibilitatea de a discuta, dar condiționează contactul de o propunere britanică. Reacția Moscovei a urmat apelului lui Streeting pentru canale suplimentare de comunicare, în special la nivel militar.",
     "importance_score": 35.0,
     "is_top_hero": false
   },
@@ -5312,37 +5389,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_b303f97969",
-    "slug": "israelul-a-creat-o-noua-racheta-de-croaziera-cu-ra-b303f9",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Israelul a creat o nouă rachetă de croazieră cu rază lungă de acțiune și focos de 450 kilograme",
-        "link": "https://stirileprotv.ro/israelul-a-creat-o-noua-racheta-de-croaziera-cu-raza-lunga-de-actiune-si-focos-de-450-kilograme.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Israelul a dezvoltat o nouă rachetă de croazieră cu rază lungă de acţiune şi focos de 450 de kilograme",
-        "link": "https://www.g4media.ro/israelul-a-dezvoltat-o-noua-racheta-de-croaziera-cu-raza-lunga-de-actiune-si-focos-de-450-de-kilograme.html"
-      }
-    ],
-    "published_at": 1794402827,
-    "title_hu": "Israelul a creat o nouă rachetă de croazieră cu rază lungă de acțiune și focos de 450 kilograme",
-    "lead_hu": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
-    "content_hu": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
-    "title_ro": "Israelul a creat o nouă rachetă de croazieră cu rază lungă de acțiune și focos de 450 kilograme",
-    "lead_ro": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
-    "content_ro": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
-    "importance_score": 35.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_6039acae96",
     "slug": "nicusor-dan-a-kormanyzati-egyuttmukdesrol-es-az-ugyeszsegek-munkajarol-beszelt-6039ac",
     "tags": [
@@ -5572,79 +5618,6 @@
     "title_ro": "Armata germană renunță la dronele fabricate în China",
     "lead_ro": "Bundeswehr nu va mai utiliza drone fabricate în China, a anunțat un purtător de cuvânt al Ministerului german al Apărării. Aparatele vor fi înlocuite cu produse europene, decizia fiind justificată prin evaluarea riscurilor de securitate.",
     "content_ro": "• **Armata germană va opri utilizarea dronelor fabricate în China.** Un purtător de cuvânt al Ministerului Apărării a anunțat miercuri că Bundeswehr nu va mai folosi astfel de aparate. Măsura vizează dronele utilizate în obiective militare și la exerciții, iar cele aflate în dotare urmează să fie retrase cât mai curând.\n\n• **Autoritățile invocă protejarea securității militare și informatice.** Potrivit ministerului, evaluarea urmărește să reducă riscul ca informații sensibile să ajungă la persoane neautorizate. Anunțul nu susține că ar fi fost descoperite transmisii de date, ci prezintă decizia ca rezultat al analizării riscurilor.\n\n• **Aparatele chinezești vor fi înlocuite cu drone europene.** În trecut, acestea erau folosite la instruire și la exerciții de tragere, fiind considerate o variantă eficientă din punctul de vedere al costurilor. Ministerul a legat schimbarea de consolidarea capacității Bundeswehr de a-și asigura echipamentele și de sporirea autonomiei tehnologice.\n\n• **Regulile de achiziție din 2024 permiteau și unele modele chinezești.** Lista sistemelor aprobate includea mai multe produse DJI, companie cu sediul în China și cel mai mare producător de drone din lume. Unitățile militare locale puteau cumpăra aparate, iar achizițiile nu erau centralizate într-o evidență unică.\n\n• **Măsura nu reprezintă o interdicție generală pentru sistemele provenite din anumite țări.** Purtătorul de cuvânt a precizat că evaluările de risc se fac individual și au ca obiectiv protejarea securității militare și informatice. Decizia anunțată se referă la încetarea folosirii dronelor fabricate în China; Der Spiegel a relatat primul despre schimbare.",
-    "importance_score": 33.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_684a5a7025",
-    "slug": "nazare-a-kltsegvetesi-hatas-merlegeleset-keri-az-elelmiszerafa-cskkentese-elott-684a5a",
-    "tags": [
-      "tva-alimente",
-      "buget",
-      "agricultura",
-      "preturi",
-      "motorina"
-    ],
-    "fingerprint": "72e27ae318c523548ae20841125238cd",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Răspunsul lui Nazare la propunerea ministrului Florin Barbu de reducere a TVA la alimente la 9%: „Bugetul țării să rămână în echilibru”",
-        "link": "https://www.digi24.ro/stiri/economie/raspunsul-lui-nazare-la-propunerea-ministrului-florin-barbu-de-reducere-a-tva-la-alimente-la-9-bugetul-tarii-sa-ramana-in-echilibru-4031117"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Alexandru Nazare, despre TVA de 9% la alimente: Bugetul ţării să rămână în echilibru şi să nu semnalăm niciun derapaj",
-        "link": "https://stirileprotv.ro/stiri/financiar/alexandru-nazare-despre-tva-de-9-la-alimente-bugetul-arii-sa-ramana-in-echilibru-si-sa-nu-semnalam-niciun-derapaj.html"
-      }
-    ],
-    "published_at": 1794392154,
-    "title_hu": "Nazare a költségvetési hatás mérlegelését kéri az élelmiszeráfa csökkentése előtt",
-    "lead_hu": "Florin Barbu mezőgazdasági miniszter az élelmiszerek áfájának 11-ről 9 százalékra mérséklését javasolta. Alexandru Nazare pénzügyminiszter szerint a döntés előtt alaposan fel kell mérni a költségvetési következményeket.",
-    "content_hu": "• **Barbu 9 százalékos élelmiszeráfát javasol:** A jelenlegi, 11 százalékos kulcs két százalékponttal való csökkentését vetette fel. A javaslat célja a mezőgazdasági termelők támogatása és az árak emelkedésének korlátozása; a végső döntés a kormány hatáskörébe tartozik.\n\n• **Nazare nem foglalt egyértelműen állást:** A pénzügyminiszter szerdán arról beszélt, hogy az áfakulcs emelését és csökkentését egyaránt körültekintően kell megvizsgálni. A tárcavezető nem jelezte, támogatja-e Barbu konkrét indítványát.\n\n• **A központi kérdés a büdzsére gyakorolt hatás:** Nazare arra figyelmeztetett, hogy a minisztériumok kezdeményezései többletterhet róhatnak az állami költségvetésre. Szerinte az igényeket úgy kell összehangolni, hogy a pénzügyi egyensúly ne sérüljön, és ne alakuljon ki újabb költségvetési eltérés.\n\n• **Barbu további intézkedéseket is elküldött a pénzügyi tárcának:** Ezek között szerepel, hogy a gazdák közvetlenül a töltőállomásokon, áfa és jövedéki adó megfizetése nélkül vásárolhassanak gázolajat. A rendszerrel elkerülhető lenne, hogy előbb kifizessék az adókat, majd később visszatérítést igényeljenek az államtól.\n\n• **Nazare a parlamenti szavazás után nyilatkozott:** A pénzügyminiszter azt követően válaszolt az újságíróknak, hogy a szenátus szerdán elutasította az AUR ellene benyújtott egyszerű indítványát. Az áfacsökkentés ügyében ismertetett álláspontja a költségvetési következmények vizsgálatára összpontosított.",
-    "title_ro": "Nazare cere evaluarea impactului bugetar înaintea reducerii TVA la alimente",
-    "lead_ro": "Ministrul Agriculturii, Florin Barbu, a propus scăderea TVA la alimente de la 11% la 9%. Ministrul Finanțelor, Alexandru Nazare, a spus că efectele asupra bugetului trebuie analizate înainte de luarea unei decizii.",
-    "content_ro": "• **Barbu propune o cotă de 9% pentru alimente:** Ministrul Agriculturii a avansat reducerea cu două puncte procentuale a nivelului actual de 11%. Măsura este prezentată ca sprijin pentru fermieri și ca instrument de limitare a scumpirilor, însă hotărârea finală revine Guvernului.\n\n• **Nazare nu a anunțat dacă susține propunerea:** Miercuri, ministrul Finanțelor a declarat că atât majorarea, cât și diminuarea TVA trebuie examinate cu atenție. El nu a oferit un răspuns explicit privind inițiativa formulată de Barbu.\n\n• **Efectul asupra finanțelor publice este esențial în evaluare:** Nazare a atras atenția că solicitările ministerelor pot genera cheltuieli sau pierderi suplimentare pentru buget. Potrivit acestuia, măsurile trebuie coordonate astfel încât să fie păstrat echilibrul financiar și evitată apariția unui nou dezechilibru bugetar.\n\n• **Propunerile lui Barbu includ și o facilitate pentru motorina fermierilor:** Ministrul a transmis Ministerului Finanțelor un mecanism prin care agricultorii ar putea cumpăra combustibil direct de la pompă fără plata inițială a TVA și a accizei. Astfel, nu ar mai fi nevoiți să achite taxele și să aștepte ulterior rambursarea lor de către stat.\n\n• **Declarațiile au urmat unui vot din Senat:** Nazare a făcut comentariile după ce, miercuri, camera superioară a respins moțiunea simplă depusă de AUR împotriva sa. În privința reducerii TVA, răspunsul ministrului s-a concentrat pe necesitatea evaluării consecințelor bugetare.",
-    "importance_score": 33.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_b13020b3f1",
-    "slug": "teddy-riner-indulna-a-2027-es-francia-elnkvalasztason-b13020",
-    "tags": [
-      "teddy-riner",
-      "franciaorszag",
-      "elnokvalasztas",
-      "kozvelemeny-kutatas"
-    ],
-    "fingerprint": "334870f4b4b6e0dd2cd03c3351f8c900",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Sondaj: O cincime dintre francezi ar fi dispuşi să-l voteze pe judoka Teddy Riner la alegerile prezidenţiale",
-        "link": "https://stirileprotv.ro/stiri/international/sondaj-o-cincime-dintre-francezi-ar-fi-dispusi-sa-l-voteze-pe-judoka-teddy-riner-la-alegerile-preziden-iale.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Campionul olimpic Teddy Riner a confirmat că va candida la alegerile prezidențiale din Franța",
-        "link": "https://adevarul.ro/sport/campionul-olimpic-teddy-riner-a-confirmat-ca-va-2570636.html"
-      }
-    ],
-    "published_at": 1794391943,
-    "title_hu": "Teddy Riner indulna a 2027-es francia elnökválasztáson",
-    "lead_hu": "Az ötszörös olimpiai bajnok judós megerősítette, hogy jelöltként indulna a 2027-es francia elnökválasztáson. Egy friss felmérés szerint a megkérdezettek 22 százaléka szavazna rá, 70 százalékuk pedig kedvezően ítéli meg a sportolót.",
-    "content_hu": "• **Teddy Riner megerősítette elnökjelölti szándékát:** az ötszörös olimpiai bajnok judós a 2027-es franciaországi választáson indulna. A bejelentéséről szóló videó hitelességét később Instagram-történetben is megerősítette.\n\n• **A felmérés válaszadóinak 22 százaléka voksolna rá:** az IFOP közvélemény-kutató a LCI hírcsatorna és a Sud Radio megbízásából kérdezte meg a francia felnőtteket arról, támogatnák-e Rinert egy esetleges indulás esetén.\n\n• **A sportoló általános megítélése kedvező:** a kutatásban részt vevők 70 százaléka pozitív véleményt adott róla. Riner ötszörös olimpiai és tízszeres világbajnok judós.\n\n• **A kutatás november 9-én és 10-én zajlott online:** az 1003, legalább 18 éves résztvevőből álló minta a francia lakosságot képviselte. A közölt hibahatár 1,4 és 3,1 százalékpont közé esik.\n\n• **A jelöltség híre politikai reakciókat váltott ki:** Emmanuel Macron francia elnök üdvözölte Riner kezdeményezését. A sportoló közösségi oldalain közzétett bejelentő videót több mint 25 millió alkalommal tekintették meg; a közvélemény-kutatás ugyanakkor pillanatfelvétel, nem választási előrejelzés.",
-    "title_ro": "Teddy Riner confirmă intenția de a candida la prezidențialele din 2027",
-    "lead_ro": "Judoka Teddy Riner, de cinci ori campion olimpic, a confirmat că vrea să intre în cursa pentru președinția Franței în 2027. Un sondaj arată că 22% dintre respondenți l-ar vota, iar 70% au o părere favorabilă despre sportiv.",
-    "content_ro": "• **Teddy Riner și-a confirmat intenția de a candida:** judoka, de cinci ori campion olimpic, vizează alegerile prezidențiale din Franța din 2027. Ulterior, el a validat autenticitatea înregistrării printr-o postare temporară pe Instagram.\n\n• **22% dintre participanții la sondaj ar vota pentru sportiv:** cercetarea realizată de institutul IFOP, la comanda postului LCI și a radioului Sud Radio, a întrebat adulți din Franța dacă l-ar susține pe Riner în cazul unei candidaturi.\n\n• **Imaginea publică a lui Riner este favorabilă:** 70% dintre cei chestionați au declarat că au o părere pozitivă despre el. Judoka a obținut cinci titluri olimpice și zece titluri mondiale.\n\n• **Sondajul online a fost desfășurat pe 9 și 10 noiembrie:** eșantionul a cuprins 1.003 persoane cu vârsta de cel puțin 18 ani, reprezentative pentru populația franceză. Marja de eroare indicată variază între 1,4 și 3,1 puncte procentuale.\n\n• **Anunțul candidaturii a generat reacții politice:** președintele Emmanuel Macron a salutat inițiativa lui Riner. Clipul de prezentare publicat pe conturile sportivului a acumulat peste 25 de milioane de vizualizări, însă rezultatul sondajului reflectă opiniile din momentul cercetării și nu prezice rezultatul alegerilor.",
     "importance_score": 33.0,
     "is_top_hero": false
   },
@@ -6226,6 +6199,37 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_b303f97969",
+    "slug": "israelul-a-creat-o-noua-racheta-de-croaziera-cu-ra-b303f9",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Israelul a creat o nouă rachetă de croazieră cu rază lungă de acțiune și focos de 450 kilograme",
+        "link": "https://stirileprotv.ro/israelul-a-creat-o-noua-racheta-de-croaziera-cu-raza-lunga-de-actiune-si-focos-de-450-kilograme.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Israelul a dezvoltat o nouă rachetă de croazieră cu rază lungă de acţiune şi focos de 450 de kilograme",
+        "link": "https://www.g4media.ro/israelul-a-dezvoltat-o-noua-racheta-de-croaziera-cu-raza-lunga-de-actiune-si-focos-de-450-de-kilograme.html"
+      }
+    ],
+    "published_at": 1794402827,
+    "title_hu": "Israelul a creat o nouă rachetă de croazieră cu rază lungă de acțiune și focos de 450 kilograme",
+    "lead_hu": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
+    "content_hu": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
+    "title_ro": "Israelul a creat o nouă rachetă de croazieră cu rază lungă de acțiune și focos de 450 kilograme",
+    "lead_ro": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
+    "content_ro": "Compania israeliană de stat specializată în tehnologie de apărare, Rafael Advanced Defense Systems, a prezentat miercuri o nouă rachetă de croazieră cu rază lungă de acțiune.",
+    "importance_score": 28.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_b514e2a680",
     "slug": "ilie-bolojan-intrebat-despre-afacerile-lui-valeriu-b514e2",
     "tags": [
@@ -6253,43 +6257,6 @@
     "title_ro": "Ilie Bolojan, întrebat despre afacerile lui Valeriu Iftime: „Nu există privilegiați în PNL. Partidul nu asigură protecție”",
     "lead_ro": "Preşedintele PNL, Ilie Bolojan, a declarat miercuri că nu există \"privilegiaţi\" în partid, iar acesta nu asigură \"protecţie\" şi instituţiile statului trebuie să-şi facă datoria în cazul unei afaceri î…",
     "content_ro": "Preşedintele PNL, Ilie Bolojan, a declarat miercuri că nu există \"privilegiaţi\" în partid, iar acesta nu asigură \"protecţie\" şi instituţiile statului trebuie să-şi facă datoria în cazul unei afaceri în care s-au încălcat prevederile legale.",
-    "importance_score": 28.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_e22f8bf885",
-    "slug": "tokioi-luxusora-lopas-a-gyanusitottat-nagojaban-fogtak-el-e22f8b",
-    "tags": [
-      "tokio",
-      "nakano",
-      "ceas",
-      "furt",
-      "japonia"
-    ],
-    "fingerprint": "93c477eae4248429014b8c476a6a56fb",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Un bărbat a furat un ceas de lux de 300.000 de dolari dintr-un magazin din Tokyo, apoi l-a returnat prin curier",
-        "link": "https://stirileprotv.ro/stiri/international/un-barbat-a-furat-un-ceas-de-lux-de-300-000-de-dolari-dintr-un-magazin-din-tokyo-apoi-l-a-returnat-prin-curier.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Un japonez a fost arestat pentru furtul unui ceas de 260.000 de euro / Returnase ceasul prin curier, la 3 zile după furt, alături de o scrisoare de scuze",
-        "link": "https://www.g4media.ro/un-japonez-a-fost-arestat-pentru-furtul-unui-ceas-de-260-000-de-euro-returnase-ceasul-prin-curier-la-3-zile-dupa-furt-alaturi-de-o-scrisoare-de-scuze.html"
-      }
-    ],
-    "published_at": 1794401350,
-    "title_hu": "Tokiói luxusóra-lopás: a gyanúsítottat Nagojában fogták el",
-    "lead_hu": "A rendőrség elfogott egy körülbelül 30 éves férfit, akit egy 46 millió jen értékű Audemars Piguet óra elvitelével gyanúsítanak. Az időmérő három nappal a lopás után futárral visszakerült az üzlethez, egy bocsánatkérő levél kíséretében.",
-    "content_hu": "• **A férfit szerdán vették őrizetbe Nagojában**, Aicsi prefektúra központjában. A hatóságok azzal gyanúsítják, hogy október 29-én elvitt egy luxusórát egy tokiói üzletből.\n\n• **Az eltulajdonított óra egy Audemars Piguet volt**, becsült értéke 46 millió jen, vagyis mintegy 290 ezer dollár. Az üzlet a Nakano Broadway bevásárlóközpontban található.\n\n• **A gyanúsított az órával a csuklóján távozott a helyszínről.** A tárgy három nappal később futárszolgálattal jutott vissza az üzletbe; a csomaghoz bocsánatkérő levelet is mellékeltek.\n\n• **Az eset a bevásárlóközpontban történt újabb óralopás volt.** Augusztusban egy másik ottani üzletből négy luxusórát vittek el, összesen 200 millió jen értékben. Az ügy gyanúsítottjai ellen később vádat emeltek.\n\n• **A mostani ügyben a férfi egyelőre gyanúsítottként szerepel.** A közölt információk szerint a rendőrség Nagojában fogta el; a forrás nem ismertet további részleteket az eljárásról.",
-    "title_ro": "Furtul unui ceas de lux la Tokyo: suspectul a fost prins la Nagoya",
-    "lead_ro": "Poliția a reținut un bărbat de aproximativ 30 de ani, suspectat că a luat un ceas Audemars Piguet estimat la 46 de milioane de yeni. Trei zile după furt, ceasul a ajuns înapoi la magazin prin curier, însoțit de o scrisoare de scuze.",
-    "content_ro": "• **Bărbatul a fost reținut miercuri la Nagoya**, orașul principal al prefecturii Aichi. Anchetatorii îl suspectează că a luat un ceas dintr-un magazin din Tokyo, la 29 octombrie.\n\n• **Ceasul este un model Audemars Piguet**, evaluat la aproximativ 46 de milioane de yeni, echivalentul a circa 290.000 de dolari. Magazinul se află în complexul comercial Nakano Broadway.\n\n• **Suspectul ar fi plecat de la fața locului purtând ceasul la mână.** Obiectul a fost trimis înapoi magazinului printr-un serviciu de curierat, trei zile mai târziu, împreună cu o scrisoare de scuze.\n\n• **Furtul este un nou caz de acest fel în complexul comercial.** În august, dintr-un alt magazin din Nakano Broadway au dispărut patru ceasuri de lux, evaluate împreună la 200 de milioane de yeni. Ulterior, au fost formulate acuzații împotriva suspecților din acel dosar.\n\n• **În cazul de față, bărbatul este prezentat drept suspect.** Potrivit informațiilor publicate, poliția l-a prins la Nagoya; sursa nu oferă alte detalii despre desfășurarea procedurilor judiciare.",
     "importance_score": 28.0,
     "is_top_hero": false
   },
@@ -6831,16 +6798,16 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_8ee4fc8093",
-    "slug": "tbb-politikus-jelentos-eskuvoi-es-kereszteloi-ajandekokrol-szamolt-be-8ee4fc",
+    "group_id": "group_684a5a7025",
+    "slug": "nazare-a-kltsegvetesi-hatas-merlegeleset-keri-az-elelmiszerafa-cskkentese-elott-684a5a",
     "tags": [
-      "declaratii-de-avere",
-      "politicieni",
-      "daruri",
-      "nunti",
-      "botezuri"
+      "tva-alimente",
+      "buget",
+      "agricultura",
+      "preturi",
+      "motorina"
     ],
-    "fingerprint": "a3385c2e30254e60d12fa9a2096109ae",
+    "fingerprint": "72e27ae318c523548ae20841125238cd",
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
@@ -6848,22 +6815,58 @@
     "sources": [
       {
         "source": "Digi24",
-        "title": "Sute de mii de euro din nunți și botezuri, declarate de politicieni. Cine se află în fruntea clasamentului",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/sute-de-mii-de-euro-din-nunti-si-botezuri-declarate-de-politicieni-cine-se-afla-in-fruntea-clasamentului-4030897"
+        "title": "Răspunsul lui Nazare la propunerea ministrului Florin Barbu de reducere a TVA la alimente la 9%: „Bugetul țării să rămână în echilibru”",
+        "link": "https://www.digi24.ro/stiri/economie/raspunsul-lui-nazare-la-propunerea-ministrului-florin-barbu-de-reducere-a-tva-la-alimente-la-9-bugetul-tarii-sa-ramana-in-echilibru-4031117"
       },
       {
-        "source": "PresaSM (Szatmár)",
-        "title": "Sute de mii de euro din nunți și botezuri, declarate de politicieni. Cine ”a încasat” cele mai mari sume",
-        "link": "https://www.presasm.ro/sute-de-mii-de-euro-din-nunti-si-botezuri-declarate-de-politicieni-cine-a-incasat-cele-mai-mari-sume/54208"
+        "source": "ProTV Stiri",
+        "title": "Alexandru Nazare, despre TVA de 9% la alimente: Bugetul ţării să rămână în echilibru şi să nu semnalăm niciun derapaj",
+        "link": "https://stirileprotv.ro/stiri/financiar/alexandru-nazare-despre-tva-de-9-la-alimente-bugetul-arii-sa-ramana-in-echilibru-si-sa-nu-semnalam-niciun-derapaj.html"
       }
     ],
-    "published_at": 1794391860,
-    "title_hu": "Több politikus jelentős esküvői és keresztelői ajándékokról számolt be",
-    "lead_hu": "George Simion vagyonnyilatkozatában 400 ezer eurónyi esküvői ajándékot, majd gyermeke keresztelője után további 60 ezer eurót tüntetett fel. Claudiu Manda és Lia Olguța Vasilescu együttesen több mint 320 ezer eurónyi ajándékot jelentett be; a közlések nem részletezik az egyes vendégek hozzájárulását.",
-    "content_hu": "• **George Simion 400 ezer eurót jelölt meg a 2022-es esküvője után kapott ajándékok értékeként.** A rendezvényen a korábbi bejelentés szerint mintegy ezren vettek részt. A politikus később azt mondta, hogy az összegbe nemcsak készpénz, hanem a szervezéshez nyújtott termékek és szolgáltatások értéke is bekerült.\n\n• **Simion a költségek rendezése után 15 ezer eurónál kisebb összeg megmaradásáról beszélt.** A politikus a 2024-es keresztelőt követően további 60 ezer eurónyi ajándékot tüntetett fel. A beszámoló szerint korábban a rendezvény kiadásaihoz a rokonok és a keresztszülők segítségére is számított.\n\n• **Claudiu Manda és Lia Olguța Vasilescu több mint 320 ezer eurónyi ajándékról számolt be.** A Digi24 összesítése Ionuț Stroe és Alin Tișe vagyonnyilatkozatában is jelentős, családi eseményekhez kötődő összegeket említ, de ezek pontos értékét nem közli.\n\n• **A vagyonnyilatkozatok az ajándékok összértékét mutatják, az adományozók és az egyéni összegek részletezése nélkül.** A közölt információ szerint az esküvői és keresztelői ajándékok nem adókötelesek. A nyilatkozatok nyilvános hozzáférése is korlátozottabbá vált: 2026-ban a politikusok dönthetnek úgy, hogy nem teszik közzé ezeket a dokumentumokat.",
-    "title_ro": "Mai mulți politicieni au declarat daruri importante primite la nunți și botezuri",
-    "lead_ro": "George Simion a înscris în declarația de avere daruri de 400.000 de euro după nunta sa și alte 60.000 de euro după botezul copilului. Claudiu Manda și Lia Olguța Vasilescu au declarat împreună peste 320.000 de euro, fără ca documentele să indice contribuția fiecărui invitat.",
-    "content_ro": "• **George Simion a consemnat daruri în valoare de 400.000 de euro după nunta din 2022.** Potrivit informațiilor prezentate înaintea evenimentului, la petrecere au fost aproximativ 1.000 de invitați. Ulterior, liderul AUR a precizat că suma includea nu doar bani, ci și bunuri sau servicii oferite pentru organizare.\n\n• **Simion a spus că după achitarea cheltuielilor i-ar fi rămas mai puțin de 15.000 de euro.** În declarația aferentă botezului copilului, organizat în 2024, a mai indicat daruri de 60.000 de euro. Înainte de nuntă, el afirmase că rudele și nașii urmau să contribuie la acoperirea unor costuri.\n\n• **Claudiu Manda și Lia Olguța Vasilescu au raportat daruri care depășesc împreună 320.000 de euro.** Centralizarea menționează, de asemenea, sume importante asociate unor evenimente de familie în declarațiile lui Ionuț Stroe și Alin Tișe, fără să ofere valorile exacte pentru aceștia.\n\n• **Declarațiile indică totalul darurilor, nu identitatea persoanelor care le-au oferit sau suma dată de fiecare.** Informațiile relatate arată că darurile primite la nunți și botezuri nu sunt impozabile. Accesul public la declarațiile de avere este mai restrâns, iar în 2026 politicienii pot alege să nu le publice.",
+    "published_at": 1794392154,
+    "title_hu": "Nazare a költségvetési hatás mérlegelését kéri az élelmiszeráfa csökkentése előtt",
+    "lead_hu": "Florin Barbu mezőgazdasági miniszter az élelmiszerek áfájának 11-ről 9 százalékra mérséklését javasolta. Alexandru Nazare pénzügyminiszter szerint a döntés előtt alaposan fel kell mérni a költségvetési következményeket.",
+    "content_hu": "• **Barbu 9 százalékos élelmiszeráfát javasol:** A jelenlegi, 11 százalékos kulcs két százalékponttal való csökkentését vetette fel. A javaslat célja a mezőgazdasági termelők támogatása és az árak emelkedésének korlátozása; a végső döntés a kormány hatáskörébe tartozik.\n\n• **Nazare nem foglalt egyértelműen állást:** A pénzügyminiszter szerdán arról beszélt, hogy az áfakulcs emelését és csökkentését egyaránt körültekintően kell megvizsgálni. A tárcavezető nem jelezte, támogatja-e Barbu konkrét indítványát.\n\n• **A központi kérdés a büdzsére gyakorolt hatás:** Nazare arra figyelmeztetett, hogy a minisztériumok kezdeményezései többletterhet róhatnak az állami költségvetésre. Szerinte az igényeket úgy kell összehangolni, hogy a pénzügyi egyensúly ne sérüljön, és ne alakuljon ki újabb költségvetési eltérés.\n\n• **Barbu további intézkedéseket is elküldött a pénzügyi tárcának:** Ezek között szerepel, hogy a gazdák közvetlenül a töltőállomásokon, áfa és jövedéki adó megfizetése nélkül vásárolhassanak gázolajat. A rendszerrel elkerülhető lenne, hogy előbb kifizessék az adókat, majd később visszatérítést igényeljenek az államtól.\n\n• **Nazare a parlamenti szavazás után nyilatkozott:** A pénzügyminiszter azt követően válaszolt az újságíróknak, hogy a szenátus szerdán elutasította az AUR ellene benyújtott egyszerű indítványát. Az áfacsökkentés ügyében ismertetett álláspontja a költségvetési következmények vizsgálatára összpontosított.",
+    "title_ro": "Nazare cere evaluarea impactului bugetar înaintea reducerii TVA la alimente",
+    "lead_ro": "Ministrul Agriculturii, Florin Barbu, a propus scăderea TVA la alimente de la 11% la 9%. Ministrul Finanțelor, Alexandru Nazare, a spus că efectele asupra bugetului trebuie analizate înainte de luarea unei decizii.",
+    "content_ro": "• **Barbu propune o cotă de 9% pentru alimente:** Ministrul Agriculturii a avansat reducerea cu două puncte procentuale a nivelului actual de 11%. Măsura este prezentată ca sprijin pentru fermieri și ca instrument de limitare a scumpirilor, însă hotărârea finală revine Guvernului.\n\n• **Nazare nu a anunțat dacă susține propunerea:** Miercuri, ministrul Finanțelor a declarat că atât majorarea, cât și diminuarea TVA trebuie examinate cu atenție. El nu a oferit un răspuns explicit privind inițiativa formulată de Barbu.\n\n• **Efectul asupra finanțelor publice este esențial în evaluare:** Nazare a atras atenția că solicitările ministerelor pot genera cheltuieli sau pierderi suplimentare pentru buget. Potrivit acestuia, măsurile trebuie coordonate astfel încât să fie păstrat echilibrul financiar și evitată apariția unui nou dezechilibru bugetar.\n\n• **Propunerile lui Barbu includ și o facilitate pentru motorina fermierilor:** Ministrul a transmis Ministerului Finanțelor un mecanism prin care agricultorii ar putea cumpăra combustibil direct de la pompă fără plata inițială a TVA și a accizei. Astfel, nu ar mai fi nevoiți să achite taxele și să aștepte ulterior rambursarea lor de către stat.\n\n• **Declarațiile au urmat unui vot din Senat:** Nazare a făcut comentariile după ce, miercuri, camera superioară a respins moțiunea simplă depusă de AUR împotriva sa. În privința reducerii TVA, răspunsul ministrului s-a concentrat pe necesitatea evaluării consecințelor bugetare.",
+    "importance_score": 28.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_b13020b3f1",
+    "slug": "teddy-riner-indulna-a-2027-es-francia-elnkvalasztason-b13020",
+    "tags": [
+      "teddy-riner",
+      "franciaorszag",
+      "elnokvalasztas",
+      "kozvelemeny-kutatas"
+    ],
+    "fingerprint": "334870f4b4b6e0dd2cd03c3351f8c900",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Sondaj: O cincime dintre francezi ar fi dispuşi să-l voteze pe judoka Teddy Riner la alegerile prezidenţiale",
+        "link": "https://stirileprotv.ro/stiri/international/sondaj-o-cincime-dintre-francezi-ar-fi-dispusi-sa-l-voteze-pe-judoka-teddy-riner-la-alegerile-preziden-iale.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Campionul olimpic Teddy Riner a confirmat că va candida la alegerile prezidențiale din Franța",
+        "link": "https://adevarul.ro/sport/campionul-olimpic-teddy-riner-a-confirmat-ca-va-2570636.html"
+      }
+    ],
+    "published_at": 1794391943,
+    "title_hu": "Teddy Riner indulna a 2027-es francia elnökválasztáson",
+    "lead_hu": "Az ötszörös olimpiai bajnok judós megerősítette, hogy jelöltként indulna a 2027-es francia elnökválasztáson. Egy friss felmérés szerint a megkérdezettek 22 százaléka szavazna rá, 70 százalékuk pedig kedvezően ítéli meg a sportolót.",
+    "content_hu": "• **Teddy Riner megerősítette elnökjelölti szándékát:** az ötszörös olimpiai bajnok judós a 2027-es franciaországi választáson indulna. A bejelentéséről szóló videó hitelességét később Instagram-történetben is megerősítette.\n\n• **A felmérés válaszadóinak 22 százaléka voksolna rá:** az IFOP közvélemény-kutató a LCI hírcsatorna és a Sud Radio megbízásából kérdezte meg a francia felnőtteket arról, támogatnák-e Rinert egy esetleges indulás esetén.\n\n• **A sportoló általános megítélése kedvező:** a kutatásban részt vevők 70 százaléka pozitív véleményt adott róla. Riner ötszörös olimpiai és tízszeres világbajnok judós.\n\n• **A kutatás november 9-én és 10-én zajlott online:** az 1003, legalább 18 éves résztvevőből álló minta a francia lakosságot képviselte. A közölt hibahatár 1,4 és 3,1 százalékpont közé esik.\n\n• **A jelöltség híre politikai reakciókat váltott ki:** Emmanuel Macron francia elnök üdvözölte Riner kezdeményezését. A sportoló közösségi oldalain közzétett bejelentő videót több mint 25 millió alkalommal tekintették meg; a közvélemény-kutatás ugyanakkor pillanatfelvétel, nem választási előrejelzés.",
+    "title_ro": "Teddy Riner confirmă intenția de a candida la prezidențialele din 2027",
+    "lead_ro": "Judoka Teddy Riner, de cinci ori campion olimpic, a confirmat că vrea să intre în cursa pentru președinția Franței în 2027. Un sondaj arată că 22% dintre respondenți l-ar vota, iar 70% au o părere favorabilă despre sportiv.",
+    "content_ro": "• **Teddy Riner și-a confirmat intenția de a candida:** judoka, de cinci ori campion olimpic, vizează alegerile prezidențiale din Franța din 2027. Ulterior, el a validat autenticitatea înregistrării printr-o postare temporară pe Instagram.\n\n• **22% dintre participanții la sondaj ar vota pentru sportiv:** cercetarea realizată de institutul IFOP, la comanda postului LCI și a radioului Sud Radio, a întrebat adulți din Franța dacă l-ar susține pe Riner în cazul unei candidaturi.\n\n• **Imaginea publică a lui Riner este favorabilă:** 70% dintre cei chestionați au declarat că au o părere pozitivă despre el. Judoka a obținut cinci titluri olimpice și zece titluri mondiale.\n\n• **Sondajul online a fost desfășurat pe 9 și 10 noiembrie:** eșantionul a cuprins 1.003 persoane cu vârsta de cel puțin 18 ani, reprezentative pentru populația franceză. Marja de eroare indicată variază între 1,4 și 3,1 puncte procentuale.\n\n• **Anunțul candidaturii a generat reacții politice:** președintele Emmanuel Macron a salutat inițiativa lui Riner. Clipul de prezentare publicat pe conturile sportivului a acumulat peste 25 de milioane de vizualizări, însă rezultatul sondajului reflectă opiniile din momentul cercetării și nu prezice rezultatul alegerilor.",
     "importance_score": 28.0,
     "is_top_hero": false
   },
@@ -7193,6 +7196,43 @@
     "lead_ro": "Marți seara, un autoturism a intrat în coliziune cu mai mulți mistreți pe DN 1H, între Vârșolț și Pericei. Șase animale au murit, iar testarea șoferului pentru consumul de alcool a avut rezultat negativ.",
     "content_ro": "• **Impactul s-a soldat cu moartea a șase mistreți.** Accidentul a avut loc marți seara, pe DN 1H, în județul Sălaj, pe sectorul dintre Vârșolț și Pericei. Animalele se aflau pe partea carosabilă când au fost lovite de autoturism.\n\n• **Mașina se deplasa spre Pericei.** Conform informațiilor preliminare ale poliției, la volan se afla un bărbat de 30 de ani, din județul Bistrița-Năsăud, care venea dinspre Vârșolț. Vehiculul a intrat în coliziune cu mai multe animale sălbatice.\n\n• **Sesizarea a fost făcută după ora 20:00.** ProTV a relatat că apelul la numărul de urgență 112 a fost înregistrat la 20:02. Verificările de la fața locului au fost efectuate de polițiștii Secției 6 Poliție Rurală Crasna, iar cazul a fost comunicat de IPJ Sălaj.\n\n• **Testul șoferului pentru alcool a fost negativ.** Polițiștii au precizat rezultatul verificării cu etilotestul. Relatările disponibile nu menționează dacă bărbatul a fost rănit și nici valoarea eventualelor pagube produse autoturismului.\n\n• **Animalele moarte au fost preluate de un reprezentant al asociației județene de vânătoare și pescuit sportiv.** Poliția a întocmit actele aferente intervenției. Informațiile publicate nu precizează cum au ajuns mistreții pe carosabil și nici dacă a fost dispusă o altă măsură în legătură cu accidentul.",
     "importance_score": 25.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_8ee4fc8093",
+    "slug": "tbb-politikus-jelentos-eskuvoi-es-kereszteloi-ajandekokrol-szamolt-be-8ee4fc",
+    "tags": [
+      "declaratii-de-avere",
+      "politicieni",
+      "daruri",
+      "nunti",
+      "botezuri"
+    ],
+    "fingerprint": "a3385c2e30254e60d12fa9a2096109ae",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Sute de mii de euro din nunți și botezuri, declarate de politicieni. Cine se află în fruntea clasamentului",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/sute-de-mii-de-euro-din-nunti-si-botezuri-declarate-de-politicieni-cine-se-afla-in-fruntea-clasamentului-4030897"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Sute de mii de euro din nunți și botezuri, declarate de politicieni. Cine ”a încasat” cele mai mari sume",
+        "link": "https://www.presasm.ro/sute-de-mii-de-euro-din-nunti-si-botezuri-declarate-de-politicieni-cine-a-incasat-cele-mai-mari-sume/54208"
+      }
+    ],
+    "published_at": 1794391860,
+    "title_hu": "Több politikus jelentős esküvői és keresztelői ajándékokról számolt be",
+    "lead_hu": "George Simion vagyonnyilatkozatában 400 ezer eurónyi esküvői ajándékot, majd gyermeke keresztelője után további 60 ezer eurót tüntetett fel. Claudiu Manda és Lia Olguța Vasilescu együttesen több mint 320 ezer eurónyi ajándékot jelentett be; a közlések nem részletezik az egyes vendégek hozzájárulását.",
+    "content_hu": "• **George Simion 400 ezer eurót jelölt meg a 2022-es esküvője után kapott ajándékok értékeként.** A rendezvényen a korábbi bejelentés szerint mintegy ezren vettek részt. A politikus később azt mondta, hogy az összegbe nemcsak készpénz, hanem a szervezéshez nyújtott termékek és szolgáltatások értéke is bekerült.\n\n• **Simion a költségek rendezése után 15 ezer eurónál kisebb összeg megmaradásáról beszélt.** A politikus a 2024-es keresztelőt követően további 60 ezer eurónyi ajándékot tüntetett fel. A beszámoló szerint korábban a rendezvény kiadásaihoz a rokonok és a keresztszülők segítségére is számított.\n\n• **Claudiu Manda és Lia Olguța Vasilescu több mint 320 ezer eurónyi ajándékról számolt be.** A Digi24 összesítése Ionuț Stroe és Alin Tișe vagyonnyilatkozatában is jelentős, családi eseményekhez kötődő összegeket említ, de ezek pontos értékét nem közli.\n\n• **A vagyonnyilatkozatok az ajándékok összértékét mutatják, az adományozók és az egyéni összegek részletezése nélkül.** A közölt információ szerint az esküvői és keresztelői ajándékok nem adókötelesek. A nyilatkozatok nyilvános hozzáférése is korlátozottabbá vált: 2026-ban a politikusok dönthetnek úgy, hogy nem teszik közzé ezeket a dokumentumokat.",
+    "title_ro": "Mai mulți politicieni au declarat daruri importante primite la nunți și botezuri",
+    "lead_ro": "George Simion a înscris în declarația de avere daruri de 400.000 de euro după nunta sa și alte 60.000 de euro după botezul copilului. Claudiu Manda și Lia Olguța Vasilescu au declarat împreună peste 320.000 de euro, fără ca documentele să indice contribuția fiecărui invitat.",
+    "content_ro": "• **George Simion a consemnat daruri în valoare de 400.000 de euro după nunta din 2022.** Potrivit informațiilor prezentate înaintea evenimentului, la petrecere au fost aproximativ 1.000 de invitați. Ulterior, liderul AUR a precizat că suma includea nu doar bani, ci și bunuri sau servicii oferite pentru organizare.\n\n• **Simion a spus că după achitarea cheltuielilor i-ar fi rămas mai puțin de 15.000 de euro.** În declarația aferentă botezului copilului, organizat în 2024, a mai indicat daruri de 60.000 de euro. Înainte de nuntă, el afirmase că rudele și nașii urmau să contribuie la acoperirea unor costuri.\n\n• **Claudiu Manda și Lia Olguța Vasilescu au raportat daruri care depășesc împreună 320.000 de euro.** Centralizarea menționează, de asemenea, sume importante asociate unor evenimente de familie în declarațiile lui Ionuț Stroe și Alin Tișe, fără să ofere valorile exacte pentru aceștia.\n\n• **Declarațiile indică totalul darurilor, nu identitatea persoanelor care le-au oferit sau suma dată de fiecare.** Informațiile relatate arată că darurile primite la nunți și botezuri nu sunt impozabile. Accesul public la declarațiile de avere este mai restrâns, iar în 2026 politicienii pot alege să nu le publice.",
+    "importance_score": 23.0,
     "is_top_hero": false
   },
   {
@@ -8559,6 +8599,195 @@
     "lead_ro": "Dominic Fritz a răspuns propunerii lui Sahra Wagenknecht de a opri plata alocației pentru copiii care locuiesc în afara Germaniei, deși părinții lor lucrează acolo. Fritz a invocat contribuțiile românilor angajați în Germania și proporția redusă a sumelor plătite pentru copiii din România.",
     "content_ro": "• **Dominic Fritz a criticat propunerea lui Sahra Wagenknecht** de a nu mai acorda alocație părinților care muncesc în Germania dacă ai lor copii locuiesc în altă țară. Fritz i-a transmis un mesaj în germană și a comparat argumentele acesteia cu retorica lui Alice Weidel.\n\n• **Fritz a considerat înșelătoare comparația dintre Bitterfeld și București.** Wagenknecht a invocat situația persoanelor care apelează la băncile de alimente din Bitterfeld și transferurile de bani către București. În replică, Fritz a afirmat că PIB-ul pe cap de locuitor al capitalei României este cu aproximativ 30% mai mare decât cel al districtului Bitterfeld.\n\n• **Peste 500.000 de români plătesc impozite și contribuții sociale în Germania.** Fritz a estimat că aceste plăți însumează între 7 și 9 miliarde de euro și contribuie la finanțarea cheltuielilor publice germane.\n\n• **Alocațiile pentru copiii care locuiesc în România reprezintă o fracțiune din contribuțiile menționate.** Potrivit estimării lui Fritz, sumele ar ajunge la circa 1% din totalul plăților românilor către statul german. El a adăugat că, în multe cazuri, Germania achită doar diferența dintre alocația germană și cea românească.\n\n• **Fritz a prezentat alocația drept un drept legat de munca și impozitarea în Germania.** În opinia sa, persoanele care plătesc impozit pe salariu acolo trebuie să poată beneficia de acest sprijin. El a dat exemplul unui muncitor în construcții din județul Botoșani, al cărui copil merge la școală în România, în timp ce părintele lucrează în Germania.",
     "importance_score": 20.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_7af4eb7367",
+    "slug": "xiv-leo-papa-bucsuja-argentinatol-mostantol-ket-papatok-van-az-egyik-itt-szulete-7af4eb",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "RomKat",
+        "title": "XIV. Leó pápa búcsúja Argentínától: Mostantól két pápátok van, az egyik itt született, a másik örökbefogadás révén lett argentin",
+        "link": "https://romkat.ro/2026/11/11/xiv-leo-papa-bucsuja-argentinatol-mostantol-ket-papatok-van-az-egyik-itt-szuletett-a-masik-orokbefogadas-reven-lett-argentin/"
+      }
+    ],
+    "published_at": 1794413798,
+    "title_hu": "XIV. Leó pápa búcsúja Argentínától: Mostantól két pápátok van, az egyik itt született, a másik örökbefogadás révén lett argentin",
+    "lead_hu": "„Köszönöm, Argentína, hogy tárt karokkal fogadtál!” – ezekkel a szavakkal búcsúzott XIV. Leó pápa november 11-én, szerdán az argentin hívektől a Lujáni Szűzanya nemzeti kegyhelyén bemutatott szentmise...",
+    "content_hu": "„Köszönöm, Argentína, hogy tárt karokkal fogadtál!” – ezekkel a szavakkal búcsúzott XIV. Leó pápa november 11-én, szerdán az argentin hívektől a Lujáni Szűzanya nemzeti kegyhelyén bemutatott szentmise végén. A szentatya meghatottan emlékezett elődjére, Ferenc pápára, és hangsúlyozta, hogy az országban töltött napok alatt otthon érezte magát. A november 8. és 11. közötti argentínai látogatás pápai […]",
+    "title_ro": "XIV. Leó pápa búcsúja Argentínától: Mostantól két pápátok van, az egyik itt született, a másik örökbefogadás révén lett argentin",
+    "lead_ro": "„Köszönöm, Argentína, hogy tárt karokkal fogadtál!” – ezekkel a szavakkal búcsúzott XIV. Leó pápa november 11-én, szerdán az argentin hívektől a Lujáni Szűzanya nemzeti kegyhelyén bemutatott szentmise...",
+    "content_ro": "„Köszönöm, Argentína, hogy tárt karokkal fogadtál!” – ezekkel a szavakkal búcsúzott XIV. Leó pápa november 11-én, szerdán az argentin hívektől a Lujáni Szűzanya nemzeti kegyhelyén bemutatott szentmise végén. A szentatya meghatottan emlékezett elődjére, Ferenc pápára, és hangsúlyozta, hogy az országban töltött napok alatt otthon érezte magát. A november 8. és 11. közötti argentínai látogatás pápai […]",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_abef14585f",
+    "slug": "primaria-timisoara-a-lansat-in-testare-aplicatia-orasului-timisoara-city-app-ace-abef14",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.g4media.ro/wp-content/uploads/2026/11/aplicatie-timisoara2.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Primăria Timișoara a lansat în testare aplicația orașului: „Timișoara City App”. Aceasta oferă răspunsuri legat de transportul în comun, parcări, evenimente etc.",
+        "link": "https://www.g4media.ro/primaria-timisoara-a-lansat-in-testare-aplicatia-orasului-timisoara-city-app-aceasta-ofera-raspunsuri-legat-de-transportul-in-comun-parcari-evenimente-etc.html"
+      }
+    ],
+    "published_at": 1794413731,
+    "title_hu": "Primăria Timișoara a lansat în testare aplicația orașului: „Timișoara City App”. Aceasta oferă răspunsuri legat de transportul în comun, parcări, evenimente etc.",
+    "lead_hu": "„Când vine tramvaiul? Unde pot parca? Ce evenimente sunt în weekend? Doar întreab-o pe Timi. Răspunsurile sunt într-un singur loc, în noua aplicație oficială a orașului: Timișoara City App” – se preci...",
+    "content_hu": "„Când vine tramvaiul? Unde pot parca? Ce evenimente sunt în weekend? Doar întreab-o pe Timi. Răspunsurile sunt într-un singur loc, în noua aplicație oficială a orașului: Timișoara City App” – se precizează în informarea transmisă de Primăria municipiului Timișoara. Aplicația a fost lansată în fază de testare, iar timișorenii și turiștii sunt invitați să o […] © G4Media.ro.",
+    "title_ro": "Primăria Timișoara a lansat în testare aplicația orașului: „Timișoara City App”. Aceasta oferă răspunsuri legat de transportul în comun, parcări, evenimente etc.",
+    "lead_ro": "„Când vine tramvaiul? Unde pot parca? Ce evenimente sunt în weekend? Doar întreab-o pe Timi. Răspunsurile sunt într-un singur loc, în noua aplicație oficială a orașului: Timișoara City App” – se preci...",
+    "content_ro": "„Când vine tramvaiul? Unde pot parca? Ce evenimente sunt în weekend? Doar întreab-o pe Timi. Răspunsurile sunt într-un singur loc, în noua aplicație oficială a orașului: Timișoara City App” – se precizează în informarea transmisă de Primăria municipiului Timișoara. Aplicația a fost lansată în fază de testare, iar timișorenii și turiștii sunt invitați să o […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_f388380e9d",
+    "slug": "un-jucator-in-varsta-de-22-de-ani-format-la-rouen-a-murit-in-urma-unui-stop-card-f38838",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjExJTJGMzA2Mzk0Nl8zMDYz/OTQ2X1dhbmlzLUhvbnNvci1mb3RiYWxp/c3QucG5nJmhhc2g9NjEyZGYxNjMyYmMwMjFmNWYxZjA1N2M4Yzk3ZWUyMDM=.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Un jucător în vârstă de 22 de ani, format la Rouen, a murit în urma unui stop cardiac la antrenament",
+        "link": "https://www.digi24.ro/stiri/sport/fotbal/un-jucator-in-varsta-de-22-de-ani-format-la-rouen-a-murit-in-urma-unui-stop-cardiac-la-antrenament-4031985"
+      }
+    ],
+    "published_at": 1794413660,
+    "title_hu": "Un jucător în vârstă de 22 de ani, format la Rouen, a murit în urma unui stop cardiac la antrenament",
+    "lead_hu": "Wanis Honsor, în vârstă de 22 de ani, a decedat miercuri în urma unui stop cardiac în timpul antrenamentului. Format la Rouen, jucătorul originar din Le Havre tocmai semnase un contract cu Saint-Denis...",
+    "content_hu": "Wanis Honsor, în vârstă de 22 de ani, a decedat miercuri în urma unui stop cardiac în timpul antrenamentului. Format la Rouen, jucătorul originar din Le Havre tocmai semnase un contract cu Saint-Denis FC.",
+    "title_ro": "Un jucător în vârstă de 22 de ani, format la Rouen, a murit în urma unui stop cardiac la antrenament",
+    "lead_ro": "Wanis Honsor, în vârstă de 22 de ani, a decedat miercuri în urma unui stop cardiac în timpul antrenamentului. Format la Rouen, jucătorul originar din Le Havre tocmai semnase un contract cu Saint-Denis...",
+    "content_ro": "Wanis Honsor, în vârstă de 22 de ani, a decedat miercuri în urma unui stop cardiac în timpul antrenamentului. Format la Rouen, jucătorul originar din Le Havre tocmai semnase un contract cu Saint-Denis FC.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_d2d2eac359",
+    "slug": "lupta-de-pe-facebook-intre-ministrul-psd-si-fostul-ministru-usr-de-la-transportu-d2d2ea",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwMiUyRjE1JTJGMTkwNDI3MF8xOTA0/MjcwXzQxODQyNjgzM184OTY1ODA2NTg1/MjA0NThfODg1MzYyOTE3NjA1MDU5MTE4/OF9uLmpwZyZoYXNoPWYzNDljNjY2MTM3MmJhYTAyMTIyNGRjMDFmZGMyYTIz.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Lupta de pe Facebook între ministrul PSD și fostul ministru USR de la Transporturi privind tunelul Momaia continuă: ce acuze își aduc",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/lupta-de-pe-facebook-intre-ministrul-psd-si-fostul-ministru-usr-de-la-transporturi-privind-tunelul-momaia-continua-ce-acuze-isi-aduc-4031961"
+      }
+    ],
+    "published_at": 1794413611,
+    "title_hu": "Lupta de pe Facebook între ministrul PSD și fostul ministru USR de la Transporturi privind tunelul Momaia continuă: ce acuze își aduc",
+    "lead_hu": "Ministrul Transporturilor, Ştefan Ovidiu Popa, îl acuză pe fostul ministru Radu Miruţă (USR) că a blocat premeditat angajarea unor echipe pentru intervenţia în Tunelul Curtea de Argeş (Momaia) astfel ...",
+    "content_hu": "Ministrul Transporturilor, Ştefan Ovidiu Popa, îl acuză pe fostul ministru Radu Miruţă (USR) că a blocat premeditat angajarea unor echipe pentru intervenţia în Tunelul Curtea de Argeş (Momaia) astfel că cei aproximativ 10 km ai Secţiunii Tigveni-Curtea de Argeş (A1) sunt gata, dar nu pot fi daţi în circulaţie. El mai spune că Miruţă a ales să mintă când a pretins că a dat undă verde pentru angajarea personalului necesar şi prezintă documentele şi cronologia deciziile în acest caz. În replică, Radu Miruță spune că pe „domnul ministru Momoa l-a bătut iar logica” și declară ca a aprobat posturile cerute de CNAIR în teren.",
+    "title_ro": "Lupta de pe Facebook între ministrul PSD și fostul ministru USR de la Transporturi privind tunelul Momaia continuă: ce acuze își aduc",
+    "lead_ro": "Ministrul Transporturilor, Ştefan Ovidiu Popa, îl acuză pe fostul ministru Radu Miruţă (USR) că a blocat premeditat angajarea unor echipe pentru intervenţia în Tunelul Curtea de Argeş (Momaia) astfel ...",
+    "content_ro": "Ministrul Transporturilor, Ştefan Ovidiu Popa, îl acuză pe fostul ministru Radu Miruţă (USR) că a blocat premeditat angajarea unor echipe pentru intervenţia în Tunelul Curtea de Argeş (Momaia) astfel că cei aproximativ 10 km ai Secţiunii Tigveni-Curtea de Argeş (A1) sunt gata, dar nu pot fi daţi în circulaţie. El mai spune că Miruţă a ales să mintă când a pretins că a dat undă verde pentru angajarea personalului necesar şi prezintă documentele şi cronologia deciziile în acest caz. În replică, Radu Miruță spune că pe „domnul ministru Momoa l-a bătut iar logica” și declară ca a aprobat posturile cerute de CNAIR în teren.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_9421661b54",
+    "slug": "cinci-politisti-din-sibiu-acuzati-ca-luau-mita-pentru-permise-auto-cer-sa-fie-el-942166",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-2/2269ad04-60f5-4574-a3e6-3c46da2887ec/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cinci polițiști din Sibiu, acuzați că luau mită pentru permise auto, cer să fie eliberați din arest",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/cinci-politisti-din-sibiu-acuzati-ca-luau-mita-2570759.html"
+      }
+    ],
+    "published_at": 1794413573,
+    "title_hu": "Cinci polițiști din Sibiu, acuzați că luau mită pentru permise auto, cer să fie eliberați din arest",
+    "lead_hu": "Cinci agenţi de poliţie din cadrul Serviciului de înmatriculări auto şi permise de conducere Sibiu, anchetaţi într-un dosar de trafic de influenţă şi luare de mită şi arestaţi preventiv de Tribunalul ...",
+    "content_hu": "Cinci agenţi de poliţie din cadrul Serviciului de înmatriculări auto şi permise de conducere Sibiu, anchetaţi într-un dosar de trafic de influenţă şi luare de mită şi arestaţi preventiv de Tribunalul Sibiu, săptămâna trecută, au contestat decizia instanţei.",
+    "title_ro": "Cinci polițiști din Sibiu, acuzați că luau mită pentru permise auto, cer să fie eliberați din arest",
+    "lead_ro": "Cinci agenţi de poliţie din cadrul Serviciului de înmatriculări auto şi permise de conducere Sibiu, anchetaţi într-un dosar de trafic de influenţă şi luare de mită şi arestaţi preventiv de Tribunalul ...",
+    "content_ro": "Cinci agenţi de poliţie din cadrul Serviciului de înmatriculări auto şi permise de conducere Sibiu, anchetaţi într-un dosar de trafic de influenţă şi luare de mită şi arestaţi preventiv de Tribunalul Sibiu, săptămâna trecută, au contestat decizia instanţei.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_14c4e261d3",
+    "slug": "modificari-la-sistemul-de-taxare-pentru-transportatori-senator-psd-erau-pusi-in--14c4e2",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/01/8061124-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Modificări la sistemul de taxare pentru transportatori. Senator PSD: Erau puși în situația de a plăti taxe de cinci ori mai mari",
+        "link": "https://www.mediafax.ro/politic/modificari-la-sistemul-de-taxare-pentru-transportatori-senator-psd-erau-pusi-in-situatia-de-a-plati-taxe-de-cinci-ori-mai-mari-23841648"
+      }
+    ],
+    "published_at": 1794413421,
+    "title_hu": "Modificări la sistemul de taxare pentru transportatori. Senator PSD: Erau puși în situația de a plăti taxe de cinci ori mai mari",
+    "lead_hu": "Transportatorii ar putea beneficia de o lege mai favorabilă privind plata taxelor prin platforma Toll.ro. În urma unor erori apărute, ei ar fi fost vizați de sancțiuni, fără ca aceștia să fie înștiinț...",
+    "content_hu": "Transportatorii ar putea beneficia de o lege mai favorabilă privind plata taxelor prin platforma Toll.ro. În urma unor erori apărute, ei ar fi fost vizați de sancțiuni, fără ca aceștia să fie înștiințați în prealabil.",
+    "title_ro": "Modificări la sistemul de taxare pentru transportatori. Senator PSD: Erau puși în situația de a plăti taxe de cinci ori mai mari",
+    "lead_ro": "Transportatorii ar putea beneficia de o lege mai favorabilă privind plata taxelor prin platforma Toll.ro. În urma unor erori apărute, ei ar fi fost vizați de sancțiuni, fără ca aceștia să fie înștiinț...",
+    "content_ro": "Transportatorii ar putea beneficia de o lege mai favorabilă privind plata taxelor prin platforma Toll.ro. În urma unor erori apărute, ei ar fi fost vizați de sancțiuni, fără ca aceștia să fie înștiințați în prealabil.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_c4026a4eec",
+    "slug": "pau-cubarsi-dezvaluie-ce-face-hansi-flick-antrenorul-barcelonei-cand-se-enerveaz-c4026a",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/hansi-flick-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Pau Cubarsí dezvăluie ce face Hansi Flick, antrenorul Barcelonei, când se enervează: „Ne dăm seama că nu este de bine”",
+        "link": "https://www.mediafax.ro/sport/pau-cubarsi-dezvaluie-ce-face-hansi-flick-antrenorul-barcelonei-cand-se-enerveaza-ne-dam-seama-ca-nu-este-de-bine-23841657"
+      }
+    ],
+    "published_at": 1794413252,
+    "title_hu": "Pau Cubarsí dezvăluie ce face Hansi Flick, antrenorul Barcelonei, când se enervează: „Ne dăm seama că nu este de bine”",
+    "lead_hu": "Internaționalul spaniol Pau Cubarsí, desemnat de FIFA cel mai bun tânăr de la Cupa Mondială 2026, a oferit detalii despre comportamentul antrenorului Hansi Flick la FC Barcelona, în momentele tensiona...",
+    "content_hu": "Internaționalul spaniol Pau Cubarsí, desemnat de FIFA cel mai bun tânăr de la Cupa Mondială 2026, a oferit detalii despre comportamentul antrenorului Hansi Flick la FC Barcelona, în momentele tensionate, spunând că jucătorii nu înțeleg întotdeauna ce spune, dar își dau seama că nu este mulțumit.",
+    "title_ro": "Pau Cubarsí dezvăluie ce face Hansi Flick, antrenorul Barcelonei, când se enervează: „Ne dăm seama că nu este de bine”",
+    "lead_ro": "Internaționalul spaniol Pau Cubarsí, desemnat de FIFA cel mai bun tânăr de la Cupa Mondială 2026, a oferit detalii despre comportamentul antrenorului Hansi Flick la FC Barcelona, în momentele tensiona...",
+    "content_ro": "Internaționalul spaniol Pau Cubarsí, desemnat de FIFA cel mai bun tânăr de la Cupa Mondială 2026, a oferit detalii despre comportamentul antrenorului Hansi Flick la FC Barcelona, în momentele tensionate, spunând că jucătorii nu înțeleg întotdeauna ce spune, dar își dau seama că nu este mulțumit.",
+    "importance_score": 0.0,
     "is_top_hero": false
   },
   {
@@ -23777,110 +24006,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_47259c05a5",
-    "slug": "autorizare-cu-anulare-consiliul-local-oradea-a-ret-47259c",
-    "tags": [
-      "erdely"
-    ],
-    "category": "Erdély",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Autorizare cu anulare! Consiliul Local Oradea a retras după doar două săptămâni aprobarea pentru o sală de păcănele pe strada Ogorului",
-        "link": "https://www.ebihoreanul.ro/stiri/autorizare-cu-anulare-consiliul-local-oradea-a-retras-dupa-doar-doua-saptamani-aprobarea-pentru-o-sala-de-pacanele-pe-strada-ogorului-206498.html"
-      }
-    ],
-    "published_at": 1794327300,
-    "title_hu": "Autorizare cu anulare! Consiliul Local Nagyvárad a retras după doar două săptămâni aprobarea pentru o sală de păcănele pe strada Ogorului",
-    "lead_hu": "Consiliul Local Nagyvárad a revocat marți hotărârea prin care aprobase, la sfârșitul lunii octombrie, autorizarea unei săli de jocuri de noroc pe strada Ogorului nr. 72C, în zona cartierului Nufărul. …",
-    "content_hu": "Consiliul Local Nagyvárad a revocat marți hotărârea prin care aprobase, la sfârșitul lunii octombrie, autorizarea unei săli de jocuri de noroc pe strada Ogorului nr. 72C, în zona cartierului Nufărul. Decizia a fost luată după ce s-a descoperit că Poliția Locală avizase din greșeală amplasamentul, aflat în afara perimetrului în care sunt permise astfel de activități. Confuzia a pornit de la faptul că spațiul figura pe prima variantă a hărții zonelor permise, dar nu și pe cea aprobată ulterior de Consiliul Local.",
-    "title_ro": "Autorizare cu anulare! Consiliul Local Oradea a retras după doar două săptămâni aprobarea pentru o sală de păcănele pe strada Ogorului",
-    "lead_ro": "Consiliul Local Nagyvárad a revocat marți hotărârea prin care aprobase, la sfârșitul lunii octombrie, autorizarea unei săli de jocuri de noroc pe strada Ogorului nr. 72C, în zona cartierului Nufărul. …",
-    "content_ro": "Consiliul Local Nagyvárad a revocat marți hotărârea prin care aprobase, la sfârșitul lunii octombrie, autorizarea unei săli de jocuri de noroc pe strada Ogorului nr. 72C, în zona cartierului Nufărul. Decizia a fost luată după ce s-a descoperit că Poliția Locală avizase din greșeală amplasamentul, aflat în afara perimetrului în care sunt permise astfel de activități. Confuzia a pornit de la faptul că spațiul figura pe prima variantă a hărții zonelor permise, dar nu și pe cea aprobată ulterior de Consiliul Local.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_c36e54f5f5",
-    "slug": "doua-voci-critice-la-adresa-lui-bolojan-scoase-din-c36e54",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Două voci critice la adresa lui Bolojan, scoase din delegația parlamentară la NATO",
-        "link": "https://hotnews.ro/doua-voci-critice-la-adresa-lui-bolojan-scoase-din-delegatia-parlamentara-la-nato-2400338"
-      }
-    ],
-    "published_at": 1794327268,
-    "title_hu": "Două voci critice la adresa lui Bolojan, scoase din delegația parlamentară la NATO",
-    "lead_hu": "Plenul comun al celor două Camere ale Legislativului de la București a votat, marţi, înlocuirea senatoarei Nicoleta Pauliuc şi a deputatei Alina Gorghiu din Delegaţia permanentă la Adunarea Parlamenta…",
-    "content_hu": "Plenul comun al celor două Camere ale Legislativului de la București a votat, marţi, înlocuirea senatoarei Nicoleta Pauliuc şi a deputatei Alina Gorghiu din Delegaţia permanentă la Adunarea Parlamentară a NATO, la solicitarea Partidului Național Liberal. Formațiunea a cerut schimbarea lor cu senatorul Silviu Coşa şi cu deputatul Robert Sighiartău. Cele două liberale sunt din …",
-    "title_ro": "Două voci critice la adresa lui Bolojan, scoase din delegația parlamentară la NATO",
-    "lead_ro": "Plenul comun al celor două Camere ale Legislativului de la București a votat, marţi, înlocuirea senatoarei Nicoleta Pauliuc şi a deputatei Alina Gorghiu din Delegaţia permanentă la Adunarea Parlamenta…",
-    "content_ro": "Plenul comun al celor două Camere ale Legislativului de la București a votat, marţi, înlocuirea senatoarei Nicoleta Pauliuc şi a deputatei Alina Gorghiu din Delegaţia permanentă la Adunarea Parlamentară a NATO, la solicitarea Partidului Național Liberal. Formațiunea a cerut schimbarea lor cu senatorul Silviu Coşa şi cu deputatul Robert Sighiartău. Cele două liberale sunt din …",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_9510f7a35f",
-    "slug": "consiliul-pentru-pace-al-lui-trump-critica-ajutoru-9510f7",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "„Consiliul pentru Pace” al lui Trump critică ajutorul „insuficient” al Israelului în urma inundațiilor din Gaza",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/consiliul-pentru-pace-al-lui-trump-critica-ajutorul-insuficient-al-israelului-in-urma-inundatiilor-din-gaza-4030039"
-      }
-    ],
-    "published_at": 1794327204,
-    "title_hu": "„Consiliul pentru Pace” al lui Trump critică ajutorul „insuficient” al Israelului în urma inundațiilor din Gaza",
-    "lead_hu": "Organizația „Consiliul pentru pace” (Board of Peace), condusă de președintele Trump, a acuzat guvernul israelian de un răspuns „insuficient” la inundațiile mortale care au lovit Fâșia Gaza. Într-o dec…",
-    "content_hu": "Organizația „Consiliul pentru pace” (Board of Peace), condusă de președintele Trump, a acuzat guvernul israelian de un răspuns „insuficient” la inundațiile mortale care au lovit Fâșia Gaza. Într-o declarație rară, grupul a solicitat Israelului „să acționeze imediat pentru a autoriza și facilita intrarea tuturor proviziilor necesare pentru iarnă și a ajutoarelor umanitare”, scrie The Times.",
-    "title_ro": "„Consiliul pentru Pace” al lui Trump critică ajutorul „insuficient” al Israelului în urma inundațiilor din Gaza",
-    "lead_ro": "Organizația „Consiliul pentru pace” (Board of Peace), condusă de președintele Trump, a acuzat guvernul israelian de un răspuns „insuficient” la inundațiile mortale care au lovit Fâșia Gaza. Într-o dec…",
-    "content_ro": "Organizația „Consiliul pentru pace” (Board of Peace), condusă de președintele Trump, a acuzat guvernul israelian de un răspuns „insuficient” la inundațiile mortale care au lovit Fâșia Gaza. Într-o declarație rară, grupul a solicitat Israelului „să acționeze imediat pentru a autoriza și facilita intrarea tuturor proviziilor necesare pentru iarnă și a ajutoarelor umanitare”, scrie The Times.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_3b429e423f",
-    "slug": "ursula-von-der-leyen-isi-scurteaza-vizita-in-bulga-3b429e",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Ursula von der Leyen își scurtează vizita în Bulgaria după accidentul în lanț de pe autostrada Trakia. Ce mesaj a transmis șefa CE",
-        "link": "https://www.digi24.ro/stiri/externe/ue/ursula-von-der-leyen-isi-scurteaza-vizita-in-bulgaria-dupa-accidentul-in-lant-de-pe-autostrada-trakia-ce-mesaj-a-transmis-sefa-ce-4030021"
-      }
-    ],
-    "published_at": 1794327175,
-    "title_hu": "Ursula von der Leyen își scurtează vizita în Bulgaria după accidentul în lanț de pe autostrada Trakia. Ce mesaj a transmis șefa CE",
-    "lead_hu": "Președinta Comisiei Europene, Ursula von der Leyen, și-a scurtat vizita oficială în Bulgaria după accidentul în lanț produs pe autostrada Trakia, soldat cu 12 morți și 51 de răniți. Oficialul european…",
-    "content_hu": "Președinta Comisiei Europene, Ursula von der Leyen, și-a scurtat vizita oficială în Bulgaria după accidentul în lanț produs pe autostrada Trakia, soldat cu 12 morți și 51 de răniți. Oficialul european a transmis condoleanțe familiilor victimelor și a adus un omagiu echipelor de salvare. Printre persoanele rănite se află și un cetățean român, transportat la spital în stare gravă, anunță Novinite.",
-    "title_ro": "Ursula von der Leyen își scurtează vizita în Bulgaria după accidentul în lanț de pe autostrada Trakia. Ce mesaj a transmis șefa CE",
-    "lead_ro": "Președinta Comisiei Europene, Ursula von der Leyen, și-a scurtat vizita oficială în Bulgaria după accidentul în lanț produs pe autostrada Trakia, soldat cu 12 morți și 51 de răniți. Oficialul european…",
-    "content_ro": "Președinta Comisiei Europene, Ursula von der Leyen, și-a scurtat vizita oficială în Bulgaria după accidentul în lanț produs pe autostrada Trakia, soldat cu 12 morți și 51 de răniți. Oficialul european a transmis condoleanțe familiilor victimelor și a adus un omagiu echipelor de salvare. Printre persoanele rănite se află și un cetățean român, transportat la spital în stare gravă, anunță Novinite.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_433c494b38",
     "slug": "nicusor-dan-oktoberben-kltztt-allami-rezidenciaba-433c49",
     "tags": [
@@ -23954,73 +24079,6 @@
     "lead_ro": "Nicușor Dan a declarat, la o conferință de presă de la Palatul Cotroceni, că în octombrie s-a mutat într-o locuință de protocol. Facturile pentru electricitate și gaze de la fosta locuință privată ajungeau la aproximativ 800–1.000 de lei pentru două luni.",
     "content_ro": "• **Nicușor Dan s-a mutat în octombrie într-o locuință de protocol.** El a făcut această precizare marți seara, în cadrul unei conferințe de presă organizate la Palatul Cotroceni, după ce a fost întrebat despre cheltuielile cu utilitățile de la adresa anterioară. Până la mutare, locuia împreună cu familia în casa folosită și înainte.\n\n• **Președintele nu a făcut publică adresa noii locuințe.** A invocat considerente de securitate și a evitat să indice unde se află aceasta. A precizat însă că mutarea într-un spațiu destinat protocolului a avut loc în octombrie; anterior, nu folosise o astfel de locuință.\n\n• **Electricitatea și gazele de la fosta locuință costau aproximativ 800–1.000 de lei pe două luni.** Potrivit lui Dan, partenera sa, Mirabela Grădinaru, se ocupa de plata facturilor. Suma menționată reprezintă valoarea aproximativă a cheltuielilor cumulate pentru utilități la locuința privată a familiei.\n\n• **După victoria din alegerile prezidențiale din mai 2025, Dan a rămas o perioadă în locuința familiei.** Informația prezentată la conferința de presă arată că trecerea la locuința de protocol s-a produs abia în octombrie. Adresa noii reședințe nu a fost comunicată public, în timp ce costul aproximativ al facturilor de la casa anterioară a fost precizat.",
     "importance_score": 103.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_84499f50a0",
-    "slug": "atszervezes-a-bukaresti-stb-nel-796-dolgozo-kapott-felmondasi-ertesitest-84499f",
-    "tags": [
-      "stb",
-      "bukarest",
-      "tomegkozlekedes",
-      "leepites",
-      "fizeteskeptelenseg"
-    ],
-    "fingerprint": "04d7e591b0afa9f4847cf849137072b4",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "STB concediază aproape 800 de angajați. Cine își pierde locul de muncă și ce salarii compensatorii primesc disponibilizații",
-        "link": "https://adevarul.ro/economie/stb-concediaza-aproape-800-de-angajati-cine-isi-2570624.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Restructurare drastică la STB: 796 de concedieri, inclusiv șoferi și vatmani. Salarii compensatorii de până la 40.000 de lei",
-        "link": "https://stirileprotv.ro/stiri/actualitate/restructurare-drastica-la-stb-796-de-concedieri-inclusiv-soferi-si-vatmani-salarii-compensatorii-de-pana-la-40-000-de-lei.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Concedieri la STB: Au fost emise 796 de preavize. Cine își pierde locul de muncă și ce salarii compensatorii se oferă",
-        "link": "https://www.digi24.ro/stiri/economie/transporturi/concedieri-la-stb-au-fost-emise-796-de-preavize-cine-isi-pierde-locul-de-munca-si-ce-salarii-compensatorii-se-ofera-4031201"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Concedieri masive la STB. Sute de angajați au primit preavize. Compania este amenințată de faliment",
-        "link": "https://www.mediafax.ro/stirile-zilei/concedieri-masive-la-stb-sute-de-angajati-au-primit-preavize-compania-este-amenintata-de-faliment-23841430"
-      },
-      {
-        "source": "G4Media",
-        "title": "STB a transmis aproape 800 de preavize de concediere, dintre care 170 pentru șoferi și vatmani / Administratorul judiciar spune că programul de transport nu va fi afectat",
-        "link": "https://www.g4media.ro/stb-aproape-800-preavize-concediere-soferi-vatmani.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "STB concediază aproape 800 de angajați, cu salarii compensatorii între 20.000 şi 40.000 lei. Alte sute de posturi, desființate",
-        "link": "https://hotnews.ro/stb-concediaza-aproape-800-de-angajati-cu-salarii-compensatorii-intre-20-000-si-40-000-lei-alte-sute-de-posturi-desfiintate-2401214"
-      },
-      {
-        "source": "Maszol",
-        "title": "Közel 800 dolgozóját bocsátja el az ország legnagyobb tömegközlekedési vállalata",
-        "link": "https://maszol.ro/gazdasag/Kozel-800-dolgozojat-bocsatja-el-az-orszag-legnagyobb-tomegkozlekedesi-vallalata"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Lovitură pentru angajații STB! Aproape 800 de oameni vor rămâne fără locuri de muncă. Ce salarii compensatorii primesc",
-        "link": "https://www.cancan.ro/lovitura-pentru-angajatii-stb-aproape-800-de-oameni-vor-ramane-fara-locuri-de-munca-ce-salarii-compensatorii-primesc-21545696"
-      }
-    ],
-    "published_at": 1794402027,
-    "title_hu": "Átszervezés a bukaresti STB-nél: 796 dolgozó kapott felmondási értesítést",
-    "lead_hu": "A bukaresti közlekedési vállalat 796 betöltött és további 919 üres álláshely megszüntetését tervezi; a folyamat után 8428 pozíció marad. A társaság pénzügyi gondjai mellett kérdés, miként hat a létszámcsökkentés a szolgáltatásra és a működésre.",
-    "content_hu": "• **November 11-én 796 dolgozó kapott felmondási értesítést** a STB-nél, emellett 919 betöltetlen álláshelyet is törölnek. Az átalakítás után 8428 pozíció marad; 2025-ben még több mint 9700-an dolgoztak a vállalatnál.\n\n• **A leépítés a közlekedési, műszaki és irodai munkaköröket egyaránt érinti.** Az értesítettek között 120 autóbusz- és trolibuszvezető, valamint 50 villamosvezető van. Megszűnik többek között 69 lakatos, 37 hegesztő, 16 autószerelő, 10 karbantartó villanyszerelő és 58 pénztáros állása is.\n\n• **A vezetés szerint a járművezetők számának csökkentése nem akadályozza a közlekedést.** A cég 1286 járművel és ugyanennyi járművezetővel számol. A tervekben 23 elosztói, 12 fűtői és 4 kézikötői állás megszüntetése is szerepel.\n\n• **A társaság pénzügyi helyzete súlyos:** adóssága meghaladja a 3 milliárd lejt, az első tíz hónap vesztesége 765 millió lej, a nettó pénzforgalmi egyenleg pedig mínusz 67 millió lej. A személyi kiadások évi 1,2 milliárd lejt tesznek ki, a bevételek mintegy 70 százalékát; a távozóknak 20–40 ezer lej közötti kompenzációt ígértek.\n\n• **A STB-t szeptemberben fizetésképtelenné nyilvánították.** A vállalat 2025-ös, 1,8 milliárd lejes bevételéből 1,423 milliárd önkormányzati támogatás volt. A jegy ára 2021 óta 3 lej; a forrás szerint az utazás tényleges költsége meghaladja a 10 lejt, az utasok 10–20 százaléka pedig jegy nélkül utazhat.",
-    "title_ro": "STB restructurează activitatea: 796 de angajați au primit preavize",
-    "lead_ro": "Societatea de transport din București elimină 796 de posturi ocupate și alte 919 vacante, iar după reorganizare va avea 8.428 de poziții. Situația financiară dificilă ridică întrebări despre efectele reducerilor asupra activității și serviciilor.",
-    "content_ro": "• **La 11 noiembrie, STB a emis preavize pentru 796 de angajați**, iar noua organigramă elimină și 919 posturi vacante. După reorganizare vor rămâne 8.428 de poziții; în 2025, compania avea peste 9.700 de angajați.\n\n• **Reducerea de personal cuprinde posturi din transport, întreținere și administrație.** Lista include 120 de șoferi de autobuz și troleibuz, 50 de vatmani, 69 de lăcătuși, 37 de sudori, 16 mecanici auto, 10 electricieni de întreținere și 58 de casieri.\n\n• **Conducerea susține că reducerea numărului de conducători auto nu va opri serviciul.** STB operează cu 1.286 de vehicule și, potrivit informațiilor prezentate, are tot atâția șoferi. Sunt prevăzute și eliminarea a 23 de posturi de repartizor, 12 de fochist și patru de legător manual.\n\n• **Indicatorii financiari arată presiuni majore:** datoriile depășesc 3 miliarde de lei, pierderea din primele zece luni este de 765 de milioane, iar trezoreria netă are un sold negativ de 67 de milioane. Cheltuielile cu personalul ajung la 1,2 miliarde de lei anual, circa 70% din venituri; compensațiile anunțate pentru angajații disponibilizați sunt între 20.000 și 40.000 de lei.\n\n• **STB a fost declarată în insolvență în septembrie.** Din veniturile de 1,8 miliarde de lei înregistrate în 2025, 1,423 miliarde au provenit din subvenția municipală. Biletul costă 3 lei din 2021, în timp ce costul real al unei călătorii depășește 10 lei; estimările companiei indică și că 10–20% dintre călători circulă fără bilet.",
-    "importance_score": 88.0,
     "is_top_hero": false
   },
   {
@@ -24114,6 +24172,43 @@
     "lead_ro": "Ploile sunt așteptate în mai multe regiuni ale României din seara de 11 noiembrie până târziu în 13 noiembrie, iar pentru vest este în vigoare o avertizare cod galben. Vineri, vântul se poate intensifica în mai multe zone; în București, temperaturile ar putea ajunge la 25 de grade.",
     "content_ro": "• **Informarea meteorologică națională este valabilă între 11 noiembrie, ora 22 și 13 noiembrie, ora 23.** În vest, nord-vest și pe alocuri în centru sunt prognozate ploi moderate, cu acumulări obișnuite de 30–60 de litri pe metru pătrat.\n\n• **Pentru regiunile vestice a fost emis un cod galben, valabil din 11 noiembrie, ora 22, până a doua zi la ora 22.** În Banat, sudul Crișanei, Carpații Occidentali și vestul Carpaților Meridionali se pot strânge 25–50 de litri de apă pe metru pătrat; izolat, la munte, cantitatea poate depăși 60 de litri.\n\n• **Vântul se poate întări joi noaptea la munte și în vest, apoi vineri în mai multe regiuni.** În vestul, nordul, centrul și estul țării sunt posibile rafale de 40–60 km/h, iar la altitudini mari acestea pot trece de 70–90 km/h.\n\n• **Pentru București nu sunt anunțate mesaje meteorologice între 11 noiembrie, ora 10, și 13 noiembrie, ora 22.** În noaptea de miercuri spre joi, minimele pot coborî la 5–6 grade; sunt posibile ploi slabe și ceață. Joi, temperatura va fi de 7–10 grade dimineața și de aproximativ 19 grade la amiază, cu ceață în prima parte a zilei.\n\n• **Vineri, maxima din București ar putea ajunge la 25 de grade.** Cerul va fi noros, cu posibilitatea unor precipitații slabe, de circa un litru pe metru pătrat, iar rafalele vântului moderat pot atinge 35–40 km/h.",
     "importance_score": 38.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_e22f8bf885",
+    "slug": "tokioi-luxusora-lopas-a-gyanusitottat-nagojaban-fogtak-el-e22f8b",
+    "tags": [
+      "tokio",
+      "nakano",
+      "ceas",
+      "furt",
+      "japonia"
+    ],
+    "fingerprint": "93c477eae4248429014b8c476a6a56fb",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un bărbat a furat un ceas de lux de 300.000 de dolari dintr-un magazin din Tokyo, apoi l-a returnat prin curier",
+        "link": "https://stirileprotv.ro/stiri/international/un-barbat-a-furat-un-ceas-de-lux-de-300-000-de-dolari-dintr-un-magazin-din-tokyo-apoi-l-a-returnat-prin-curier.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un japonez a fost arestat pentru furtul unui ceas de 260.000 de euro / Returnase ceasul prin curier, la 3 zile după furt, alături de o scrisoare de scuze",
+        "link": "https://www.g4media.ro/un-japonez-a-fost-arestat-pentru-furtul-unui-ceas-de-260-000-de-euro-returnase-ceasul-prin-curier-la-3-zile-dupa-furt-alaturi-de-o-scrisoare-de-scuze.html"
+      }
+    ],
+    "published_at": 1794401350,
+    "title_hu": "Tokiói luxusóra-lopás: a gyanúsítottat Nagojában fogták el",
+    "lead_hu": "A rendőrség elfogott egy körülbelül 30 éves férfit, akit egy 46 millió jen értékű Audemars Piguet óra elvitelével gyanúsítanak. Az időmérő három nappal a lopás után futárral visszakerült az üzlethez, egy bocsánatkérő levél kíséretében.",
+    "content_hu": "• **A férfit szerdán vették őrizetbe Nagojában**, Aicsi prefektúra központjában. A hatóságok azzal gyanúsítják, hogy október 29-én elvitt egy luxusórát egy tokiói üzletből.\n\n• **Az eltulajdonított óra egy Audemars Piguet volt**, becsült értéke 46 millió jen, vagyis mintegy 290 ezer dollár. Az üzlet a Nakano Broadway bevásárlóközpontban található.\n\n• **A gyanúsított az órával a csuklóján távozott a helyszínről.** A tárgy három nappal később futárszolgálattal jutott vissza az üzletbe; a csomaghoz bocsánatkérő levelet is mellékeltek.\n\n• **Az eset a bevásárlóközpontban történt újabb óralopás volt.** Augusztusban egy másik ottani üzletből négy luxusórát vittek el, összesen 200 millió jen értékben. Az ügy gyanúsítottjai ellen később vádat emeltek.\n\n• **A mostani ügyben a férfi egyelőre gyanúsítottként szerepel.** A közölt információk szerint a rendőrség Nagojában fogta el; a forrás nem ismertet további részleteket az eljárásról.",
+    "title_ro": "Furtul unui ceas de lux la Tokyo: suspectul a fost prins la Nagoya",
+    "lead_ro": "Poliția a reținut un bărbat de aproximativ 30 de ani, suspectat că a luat un ceas Audemars Piguet estimat la 46 de milioane de yeni. Trei zile după furt, ceasul a ajuns înapoi la magazin prin curier, însoțit de o scrisoare de scuze.",
+    "content_ro": "• **Bărbatul a fost reținut miercuri la Nagoya**, orașul principal al prefecturii Aichi. Anchetatorii îl suspectează că a luat un ceas dintr-un magazin din Tokyo, la 29 octombrie.\n\n• **Ceasul este un model Audemars Piguet**, evaluat la aproximativ 46 de milioane de yeni, echivalentul a circa 290.000 de dolari. Magazinul se află în complexul comercial Nakano Broadway.\n\n• **Suspectul ar fi plecat de la fața locului purtând ceasul la mână.** Obiectul a fost trimis înapoi magazinului printr-un serviciu de curierat, trei zile mai târziu, împreună cu o scrisoare de scuze.\n\n• **Furtul este un nou caz de acest fel în complexul comercial.** În august, dintr-un alt magazin din Nakano Broadway au dispărut patru ceasuri de lux, evaluate împreună la 200 de milioane de yeni. Ulterior, au fost formulate acuzații împotriva suspecților din acel dosar.\n\n• **În cazul de față, bărbatul este prezentat drept suspect.** Potrivit informațiilor publicate, poliția l-a prins la Nagoya; sursa nu oferă alte detalii despre desfășurarea procedurilor judiciare.",
+    "importance_score": 28.0,
     "is_top_hero": false
   },
   {
