@@ -831,7 +831,7 @@
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 22,
+    "sources_count": 23,
     "sources": [
       {
         "source": "Transtelex",
@@ -942,6 +942,11 @@
         "source": "Agerpres (HU)",
         "title": "Unitatea 1 de la Cernavodă a fost deconectată luni seara de la Sistemul Energetic Național din cauza unei defecțiuni",
         "link": "https://agerpres.ro/economic/2026/11/09/unitatea-1-de-la-cernavoda-a-fost-deconectata-luni-seara-de-la-sistemul-energetic-national-din-cauza--1611658"
+      },
+      {
+        "source": "Maszol",
+        "title": "Újraindították a cernavodai atomerőművet",
+        "link": "https://maszol.ro/gazdasag/Ujrainditottak-a-cernavodai-atomeromuvet"
       }
     ],
     "published_at": 1794313920,
@@ -951,7 +956,7 @@
     "title_ro": "Unitatea 2 de la Cernavodă ar putea fi reconectată pe 11 noiembrie",
     "lead_ro": "Nuclearelectrica estimează că Unitatea 2 va fi sincronizată cu rețeaua pe 11 noiembrie și va ajunge la puterea nominală în ziua următoare. Reparațiile la Unitatea 1 ar putea dura între două și patru zile, iar data revenirii sale depinde și de etapele tehnice ulterioare.",
     "content_ro": "• **Calendarul Unității 2** Nuclearelectrica prevede sincronizarea cu rețeaua pe 11 noiembrie și atingerea puterii nominale pe 12 noiembrie. Operațiunile de repornire au început în 9 noiembrie, la ora 00:42, după ce nivelul Dunării a permis reluarea activității în condiții adecvate.\n\n• **Reparațiile la Unitatea 1** Remedierea defecțiunii apărute la blocul deconectat în seara de 9 noiembrie este estimată la două-patru zile. După intervenție vor urma procedurile de sincronizare și repornire, astfel că nu a fost anunțată o dată exactă pentru reconectare. Specialiștii au stabilit cauza și componenta care necesită intervenție.\n\n• **Defecțiunea și istoricul opririi** Unitatea 1 revenise în sistem pe 6 noiembrie, după o întrerupere de aproape trei luni, dar a fost deconectată din nou trei zile mai târziu. Problema vizează controlul vidului la condensatorul turbinei, într-o zonă convențională, nenucleară a centralei. Evenimentul nu a afectat securitatea nucleară, personalul sau mediul.\n\n• **Importanța energetică și Dunărea** Cele două unități, de aproximativ 700 MW fiecare, furnizează în condiții normale circa o cincime din producția de electricitate a României. Premierul Luca Niculescu speră că ambele vor redeveni funcționale în una-două zile; exploatarea pe timp de iarnă depinde și de nivelul fluviului. Pe termen lung, proiectul Bala 2 ar putea îmbunătăți alimentarea cu apă pentru răcire.\n\n• **Măsuri administrative și pentru consumatori** Înlocuirea directorului tehnic este prevăzută de la 1 decembrie, iar cauzele incidentului vor fi analizate într-un raport. Ministrul Energiei, Dumitru Chisăliță, a anunțat discuții cu furnizorii pentru identificarea unor formule care să permită achiziția energiei la prețuri competitive și să reducă presiunea asupra facturilor.",
-    "importance_score": 220.0,
+    "importance_score": 230.0,
     "is_top_hero": false
   },
   {
@@ -1433,6 +1438,73 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_062b9e2e87",
+    "slug": "nicusor-dan-a-parlamenti-aranyokkal-indokolta-a-psd-vel-valo-egyeztetest-062b9e",
+    "tags": [
+      "nicusor-dan",
+      "pnl",
+      "usr",
+      "psd",
+      "justitie"
+    ],
+    "fingerprint": "734ef183217585dd941f8dcc799a8e21",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan răspunde PNL și USR: 30% e mai mic decât 50%. Nu poți da vina pe arbitru. De ce o guvernare fără PSD este „o iluzie”",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-raspunde-pnl-si-usr-30-e-mai-mic-decat-50-nu-poti-da-vina-pe-arbitru-de-ce-o-guvernare-fara-psd-este-o-iluzie-23841099"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nicușor Dan a epxplicat de ce PNL și USR nu puteau guverna fără PSD și ce ar fi însemnat alegerile anticipate",
+        "link": "https://adevarul.ro/politica/nicusor-dan-a-epxplicat-de-ce-pnl-si-usr-nu-puteau-2570492.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan a explicat de ce nu a încredințat formarea guvernului coaliției PNL-USR: Unii mă acuzau, alții mă rugau „să vorbesc” cu PSD",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-a-explicat-de-ce-nu-a-incredintat-formarea-guvernului-coalitiei-pnl-usr-unii-ma-acuzau-altii-ma-rugau-sa-vorbesc-cu-psd-4030267"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan răspunde PNL și USR: 30% e mai mic decât 50%. Nu poți da vina pe arbitru. De ce o guvernare fără PSD este „o iluzie” și de ce i-a nominalizat pe Mureșan și Veștea",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-raspunde-pnl-si-usr-30-e-mai-mic-decat-50-nu-poti-da-vina-pe-arbitru-de-ce-o-guvernare-fara-psd-este-o-iluzie-si-de-ce-i-a-nominalizat-pe-muresan-si-vestea-23841099"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Nicușor Dan, întrebat despre cazul Pașca în conferința de presă. Ce a spus despre ancheta DIICOT",
+        "link": "https://www.ebihoreanul.ro/stiri/nicusor-dan-intrebat-despre-cazul-pasca-in-conferinta-de-presa-ce-a-spus-despre-ancheta-diicot-206506.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Siegfried Mureșan, reacție la declarațiile lui Nicușor Dan: PNL și USR nu au putut guverna cu 30%, dar, surpriză: cu doar 23%, PSD poate",
+        "link": "https://www.g4media.ro/siegfried-muresan-reactie-la-declaratiile-lui-nicusor-dan-pnl-si-usr-nu-au-putut-guverna-cu-30-dar-surpriza-cu-doar-23-psd-poate.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Lider PNL, „siderat” de conferința lui Nicușor Dan: „A fost o regie slabă. Și lungă”",
+        "link": "https://hotnews.ro/lider-pnl-siderat-de-conferinta-lui-nicusor-dan-a-fost-o-regie-slaba-si-lunga-2400852"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Nicuşor Dan spune că e complet falsă ipoteza că PNL şi USR ar fi fost la guvernare dacă el le-ar fi susţinut",
+        "link": "https://stirileprotv.ro/stiri/politic/nicusor-dan-spune-ca-e-complet-falsa-ipoteza-ca-pnl-si-usr-ar-fi-fost-la-guvernare-daca-el-le-ar-fi-sus-inut.html"
+      }
+    ],
+    "published_at": 1794348009,
+    "title_hu": "Nicușor Dan a parlamenti arányokkal indokolta a PSD-vel való egyeztetést",
+    "lead_hu": "Nicușor Dan november 10-i, közel háromórás sajtótájékoztatóján a PNL–USR-kormányzás parlamenti akadályairól és a kormányalakítási jelölésekről beszélt. A DIICOT Pașca-ügyéről is közölt részletet, míg Alexandru Muraru PNL-képviselő politikai elfogultsággal vádolta az államfőt.",
+    "content_hu": "• **A parlamenti többség** Dan szerint a PNL és az USR nagyjából 30 százalékos támogatása nem érte el a kormányzáshoz szükséges többséget; az elnöki támogatás nem pótolhatja a parlamenti voksokat. Ezért a PSD-vel folytatott párbeszéd nélkül szerinte nem volt reális a két párt önálló kormányzása.\n\n• **A kormányalakítási jelölések** Az államfő politikai vezetőkkel folytatott egyeztetésekből arra következtetett, hogy Adrian Veștea mögött létrejöhetett volna egy nyugatos többség, de a beszélgetések részleteit nem ismertette. Tagadta, hogy Veșteát az AUR-nak tett ígéretek kialkudására kérte volna. Mureșan jelölésekor már nem látott biztos többségi megállapodást; a szükséges támogatást 233 képviselői és szenátori szavazatban jelölte meg.\n\n• **A politikai válság forgatókönyvei** Dan elmondása szerint a PNL–USR-koalíció több tagja is többször kérte, hogy egyeztessen a PSD-vel, de neveket nem közölt. A bizalmatlansági indítvány megakadályozását nem tartotta elnöki hatáskörnek. Az előrehozott választások gazdasági és hitelminősítési kockázataira, illetve a PSD–AUR-kormányzás lehetséges következményeire is figyelmeztetett.\n\n• **A Pașca-ügy nyomozása** A DIICOT eljárásáról azt mondta, hogy még nem zárult le: az első vádemelést követően a rendelkezésére álló információk szerint további személyek és lehetséges bűncselekmények ügyében is folytatódik a vizsgálat. A sajtótájékoztatón arra kérdeztek rá, miért nem szerepelnek vádlottként azok az állami intézményi képviselők, amelyek sérülékeny embereket irányítottak a bihari Pașca család intézményeibe.\n\n• **Muraru bírálata** Alexandru Muraru PNL-képviselő a sajtótájékoztatót bírálva azt állította, hogy Dan Ilie Bolojan politikai pozícióját akarta gyengíteni, és tartott a PSD és az AUR általi felfüggesztéstől. Az államfőt pártos magatartással vádolta; ezek Muraru politikai állításai voltak.",
+    "title_ro": "Nicușor Dan a invocat aritmetica parlamentară pentru dialogul cu PSD",
+    "lead_ro": "La conferința de presă din 10 noiembrie, care a durat aproape trei ore, Nicușor Dan a vorbit despre limitele parlamentare ale unei guvernări PNL-USR și despre desemnările pentru formarea guvernului. Președintele a oferit și informații despre dosarul DIICOT-Pașca, iar deputatul PNL Alexandru Muraru l-a acuzat de partizanat politic.",
+    "content_ro": "• **Majoritatea parlamentară** Dan a susținut că sprijinul de aproximativ 30% al PNL și USR nu ajungea la nivelul necesar pentru guvernare și că susținerea președintelui nu poate înlocui voturile parlamentarilor. În opinia sa, fără dialog cu PSD, guvernarea exclusivă a celor două formațiuni nu avea o bază realistă.\n\n• **Desemnările pentru formarea guvernului** Din discuțiile cu lideri politici, președintele a dedus că Adrian Veștea ar fi putut obține sprijinul unei majorități pro-occidentale, însă nu a oferit detalii fără acordul participanților. El a negat că i-ar fi cerut lui Veștea să negocieze promisiuni cu AUR. La desemnarea lui Mureșan nu vedea un acord care să garanteze majoritatea și a indicat pragul de 233 de voturi parlamentare.\n\n• **Scenariile crizei politice** Dan a spus că mai mulți membri ai coaliției PNL-USR i-au cerut în repetate rânduri să discute cu PSD, fără să-i nominalizeze. El nu a considerat că putea împiedica moțiunea de cenzură prin intervenție prezidențială. A avertizat și asupra riscurilor economice și pentru ratingul de țară asociate alegerilor anticipate, precum și asupra consecințelor unei guvernări PSD-AUR.\n\n• **Ancheta din cazul Pașca** Președintele a afirmat că dosarul DIICOT nu este încheiat: potrivit informațiilor sale, după prima acuzație, investigațiile continuă cu privire la alte persoane și posibile infracțiuni. La conferință a fost întrebat de ce reprezentanții instituțiilor publice care au îndrumat persoane vulnerabile către așezămintele familiei Pașca din Bihor nu figurează printre inculpați.\n\n• **Criticile lui Muraru** Deputatul PNL Alexandru Muraru a contestat explicațiile președintelui și a susținut că acesta ar fi urmărit slăbirea poziției lui Ilie Bolojan și s-ar fi temut de suspendarea inițiată de PSD și AUR. Muraru l-a acuzat pe Dan că nu a acționat ca arbitru, ci ca actor partizan; acestea au fost afirmațiile politice ale deputatului.",
+    "importance_score": 88.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_fcfe0cd3d7",
     "slug": "merz-kzs-ukrajnai-hitelhez-ktne-az-unios-budzset-fcfe0c",
     "tags": [
@@ -1679,68 +1751,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_062b9e2e87",
-    "slug": "nicusor-dan-a-parlamenti-aranyokkal-indokolta-a-psd-vel-valo-egyeztetest-062b9e",
-    "tags": [
-      "nicusor-dan",
-      "pnl",
-      "usr",
-      "psd",
-      "justitie"
-    ],
-    "fingerprint": "734ef183217585dd941f8dcc799a8e21",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Nicușor Dan răspunde PNL și USR: 30% e mai mic decât 50%. Nu poți da vina pe arbitru. De ce o guvernare fără PSD este „o iluzie”",
-        "link": "https://www.mediafax.ro/politic/nicusor-dan-raspunde-pnl-si-usr-30-e-mai-mic-decat-50-nu-poti-da-vina-pe-arbitru-de-ce-o-guvernare-fara-psd-este-o-iluzie-23841099"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Nicușor Dan a epxplicat de ce PNL și USR nu puteau guverna fără PSD și ce ar fi însemnat alegerile anticipate",
-        "link": "https://adevarul.ro/politica/nicusor-dan-a-epxplicat-de-ce-pnl-si-usr-nu-puteau-2570492.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Nicușor Dan a explicat de ce nu a încredințat formarea guvernului coaliției PNL-USR: Unii mă acuzau, alții mă rugau „să vorbesc” cu PSD",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-a-explicat-de-ce-nu-a-incredintat-formarea-guvernului-coalitiei-pnl-usr-unii-ma-acuzau-altii-ma-rugau-sa-vorbesc-cu-psd-4030267"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Nicușor Dan răspunde PNL și USR: 30% e mai mic decât 50%. Nu poți da vina pe arbitru. De ce o guvernare fără PSD este „o iluzie” și de ce i-a nominalizat pe Mureșan și Veștea",
-        "link": "https://www.mediafax.ro/politic/nicusor-dan-raspunde-pnl-si-usr-30-e-mai-mic-decat-50-nu-poti-da-vina-pe-arbitru-de-ce-o-guvernare-fara-psd-este-o-iluzie-si-de-ce-i-a-nominalizat-pe-muresan-si-vestea-23841099"
-      },
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Nicușor Dan, întrebat despre cazul Pașca în conferința de presă. Ce a spus despre ancheta DIICOT",
-        "link": "https://www.ebihoreanul.ro/stiri/nicusor-dan-intrebat-despre-cazul-pasca-in-conferinta-de-presa-ce-a-spus-despre-ancheta-diicot-206506.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Siegfried Mureșan, reacție la declarațiile lui Nicușor Dan: PNL și USR nu au putut guverna cu 30%, dar, surpriză: cu doar 23%, PSD poate",
-        "link": "https://www.g4media.ro/siegfried-muresan-reactie-la-declaratiile-lui-nicusor-dan-pnl-si-usr-nu-au-putut-guverna-cu-30-dar-surpriza-cu-doar-23-psd-poate.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Lider PNL, „siderat” de conferința lui Nicușor Dan: „A fost o regie slabă. Și lungă”",
-        "link": "https://hotnews.ro/lider-pnl-siderat-de-conferinta-lui-nicusor-dan-a-fost-o-regie-slaba-si-lunga-2400852"
-      }
-    ],
-    "published_at": 1794348009,
-    "title_hu": "Nicușor Dan a parlamenti arányokkal indokolta a PSD-vel való egyeztetést",
-    "lead_hu": "Nicușor Dan november 10-i, közel háromórás sajtótájékoztatóján a PNL–USR-kormányzás parlamenti akadályairól és a kormányalakítási jelölésekről beszélt. A DIICOT Pașca-ügyéről is közölt részletet, míg Alexandru Muraru PNL-képviselő politikai elfogultsággal vádolta az államfőt.",
-    "content_hu": "• **A parlamenti többség** Dan szerint a PNL és az USR nagyjából 30 százalékos támogatása nem érte el a kormányzáshoz szükséges többséget; az elnöki támogatás nem pótolhatja a parlamenti voksokat. Ezért a PSD-vel folytatott párbeszéd nélkül szerinte nem volt reális a két párt önálló kormányzása.\n\n• **A kormányalakítási jelölések** Az államfő politikai vezetőkkel folytatott egyeztetésekből arra következtetett, hogy Adrian Veștea mögött létrejöhetett volna egy nyugatos többség, de a beszélgetések részleteit nem ismertette. Tagadta, hogy Veșteát az AUR-nak tett ígéretek kialkudására kérte volna. Mureșan jelölésekor már nem látott biztos többségi megállapodást; a szükséges támogatást 233 képviselői és szenátori szavazatban jelölte meg.\n\n• **A politikai válság forgatókönyvei** Dan elmondása szerint a PNL–USR-koalíció több tagja is többször kérte, hogy egyeztessen a PSD-vel, de neveket nem közölt. A bizalmatlansági indítvány megakadályozását nem tartotta elnöki hatáskörnek. Az előrehozott választások gazdasági és hitelminősítési kockázataira, illetve a PSD–AUR-kormányzás lehetséges következményeire is figyelmeztetett.\n\n• **A Pașca-ügy nyomozása** A DIICOT eljárásáról azt mondta, hogy még nem zárult le: az első vádemelést követően a rendelkezésére álló információk szerint további személyek és lehetséges bűncselekmények ügyében is folytatódik a vizsgálat. A sajtótájékoztatón arra kérdeztek rá, miért nem szerepelnek vádlottként azok az állami intézményi képviselők, amelyek sérülékeny embereket irányítottak a bihari Pașca család intézményeibe.\n\n• **Muraru bírálata** Alexandru Muraru PNL-képviselő a sajtótájékoztatót bírálva azt állította, hogy Dan Ilie Bolojan politikai pozícióját akarta gyengíteni, és tartott a PSD és az AUR általi felfüggesztéstől. Az államfőt pártos magatartással vádolta; ezek Muraru politikai állításai voltak.",
-    "title_ro": "Nicușor Dan a invocat aritmetica parlamentară pentru dialogul cu PSD",
-    "lead_ro": "La conferința de presă din 10 noiembrie, care a durat aproape trei ore, Nicușor Dan a vorbit despre limitele parlamentare ale unei guvernări PNL-USR și despre desemnările pentru formarea guvernului. Președintele a oferit și informații despre dosarul DIICOT-Pașca, iar deputatul PNL Alexandru Muraru l-a acuzat de partizanat politic.",
-    "content_ro": "• **Majoritatea parlamentară** Dan a susținut că sprijinul de aproximativ 30% al PNL și USR nu ajungea la nivelul necesar pentru guvernare și că susținerea președintelui nu poate înlocui voturile parlamentarilor. În opinia sa, fără dialog cu PSD, guvernarea exclusivă a celor două formațiuni nu avea o bază realistă.\n\n• **Desemnările pentru formarea guvernului** Din discuțiile cu lideri politici, președintele a dedus că Adrian Veștea ar fi putut obține sprijinul unei majorități pro-occidentale, însă nu a oferit detalii fără acordul participanților. El a negat că i-ar fi cerut lui Veștea să negocieze promisiuni cu AUR. La desemnarea lui Mureșan nu vedea un acord care să garanteze majoritatea și a indicat pragul de 233 de voturi parlamentare.\n\n• **Scenariile crizei politice** Dan a spus că mai mulți membri ai coaliției PNL-USR i-au cerut în repetate rânduri să discute cu PSD, fără să-i nominalizeze. El nu a considerat că putea împiedica moțiunea de cenzură prin intervenție prezidențială. A avertizat și asupra riscurilor economice și pentru ratingul de țară asociate alegerilor anticipate, precum și asupra consecințelor unei guvernări PSD-AUR.\n\n• **Ancheta din cazul Pașca** Președintele a afirmat că dosarul DIICOT nu este încheiat: potrivit informațiilor sale, după prima acuzație, investigațiile continuă cu privire la alte persoane și posibile infracțiuni. La conferință a fost întrebat de ce reprezentanții instituțiilor publice care au îndrumat persoane vulnerabile către așezămintele familiei Pașca din Bihor nu figurează printre inculpați.\n\n• **Criticile lui Muraru** Deputatul PNL Alexandru Muraru a contestat explicațiile președintelui și a susținut că acesta ar fi urmărit slăbirea poziției lui Ilie Bolojan și s-ar fi temut de suspendarea inițiată de PSD și AUR. Muraru l-a acuzat pe Dan că nu a acționat ca arbitru, ci ca actor partizan; acestea au fost afirmațiile politice ale deputatului.",
-    "importance_score": 78.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_2ad012865a",
     "slug": "europai-reszvetelt-surgetnek-a-kvetkezo-beketargyalasokon-2ad012",
     "tags": [
@@ -1790,65 +1800,6 @@
     "lead_ro": "Negocierile ruso-ucrainene mediate de Statele Unite au fost reluate la Abu Dhabi, în paralel cu discuții despre viitorul securității europene. Oficialii americani susțin că Europa ar trebui să participe direct la următoarele runde de consultări.",
     "content_ro": "• **Marți, la Abu Dhabi**, delegațiile Rusiei și Ucrainei au reluat negocierile cu mediere americană, după o pauză începută în februarie; discuțiile au continuat și miercuri. Rustem Umerov, șeful delegației ucrainene, a vorbit la deschidere despre posibilitatea unei păci durabile, în timp ce un oficial ucrainean de rang înalt a transmis că așteptările Kievului sunt limitate.\n\n• **Agenda depășește oprirea războiului:** trimisul american Jared Kushner a susținut conturarea unor aranjamente de securitate care să includă Ucraina, Rusia și Europa. Potrivit unei surse din delegația rusă, soluționarea conflictului face parte dintr-un demers mai amplu privind securitatea întregului continent.\n\n• **Reprezentanți ai SUA, ai Europei și ai Ucrainei** au purtat discuții pregătitoare înaintea întâlnirii ruso-ucrainene. Au analizat preocupările de securitate pentru perioada de după război, reducerea riscului unui nou conflict și posibila utilizare a acordurilor și instituțiilor europene existente. Doi oficiali informați despre negocieri au apreciat că primele întrevederi au fost consistente și s-au desfășurat într-o atmosferă favorabilă.\n\n• **Washingtonul dorește un rol european direct** în rundele viitoare de discuții privind securitatea continentului. Steve Witkoff și Kushner intenționează să convingă Moscova să accepte această participare, iar oficiali americani au indicat că reuniunea trilaterală actuală ar putea fi ultima fără implicarea deplină a Europei. Guvernele europene și instituțiile UE trebuie, de asemenea, să stabilească cine le-ar reprezenta la masa negocierilor.\n\n• **Reprezentarea Europei și viitorul NATO rămân sensibile:** liderii UE urmează să discute cine ar trebui să vorbească în numele continentului și ce contacte să mențină cu Moscova. Oficiali americani au salutat convorbirile directe cu Vladimir Putin purtate de liderii Finlandei și Norvegiei la 27 octombrie. Între timp, guverne europene se tem că Donald Trump ar putea reduce sprijinul american, iar Rusia cere limitarea activităților NATO în Europa și respinge aderarea Ucrainei la Alianță.",
     "importance_score": 70.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_4efe19c29a",
-    "fingerprint": "fb2df563cf712828dcedcef1628d97ca",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "is_b2b_only": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "E oficial: Rheinmetall a achitat integral 138 milioane euro și este noul proprietar al Șantierului Mangalia. Ce urmează",
-        "link": "https://stirileprotv.ro/stiri/financiar/e-oficial-rheinmetall-a-achitat-integral-138-milioane-euro-si-este-noul-proprietar-al-santierului-mangalia-ce-urmeaza.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Rheinmetall a achitat integral prețul pentru Șantierul Naval Mangalia. Ce mai lipsește pentru finalizarea tranzacției",
-        "link": "https://www.digi24.ro/stiri/actualitate/rheinmetall-a-achitat-integral-pretul-pentru-santierul-naval-mangalia-ce-mai-lipseste-pentru-finalizarea-tranzactiei-4029301"
-      },
-      {
-        "source": "G4Media",
-        "title": "Rheinmetall, cumpărătorul Şantierului Naval Mangalia, a achitat integral preţul de 138 milioane euro şi a semnat contractul de vânzare-cumpărare",
-        "link": "https://www.g4media.ro/rheinmetall-cumparatorul-santierului-naval-mangalia-a-achitat-integral-pretul-de-138-milioane-euro-si-a-semnat-contractul-de-vanzare-cumparare.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Șantierul Naval Mangalia: Rheinmetall a plătit integral cele 138 de milioane de euro și a semnat contractul. Când ar putea fi reluată activitatea",
-        "link": "https://adevarul.ro/economie/santierul-naval-mangalia-rheinmetall-a-platit-2570301.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Rheinmetall a plătit 138 de milioane de euro pentru Șantierul Naval Mangalia. Ce avize mai sunt necesare",
-        "link": "https://www.mediafax.ro/economic/rheinmetall-a-platit-138-de-milioane-de-euro-pentru-santierul-naval-mangalia-ce-avize-mai-sunt-necesare-23840705"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Rheinmetall a achitat integral 138 de milioane de euro pentru Șantierul Naval Mangalia. Ce avize mai sunt necesare",
-        "link": "https://www.mediafax.ro/economic/rheinmetall-a-achitat-integral-138-de-milioane-de-euro-pentru-santierul-naval-mangalia-ce-avize-mai-sunt-necesare-23840705"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Rheinmetall paid 138 million euros for the Mangalia Shipyard",
-        "link": "https://www.mediafax.ro/english/rheinmetall-paid-138-million-euros-for-the-mangalia-shipyard-23840827"
-      }
-    ],
-    "published_at": 1794311175,
-    "title_hu": "A Rheinmetall teljesítette a mangaliai hajógyár vételárát, de a tulajdonosváltás még engedélyekhez kötött",
-    "lead_hu": "A Rheinmetall november 9-én kifizette a mangaliai hajógyár eszközeinek teljes, áfa nélküli vételárát, és aláírta az adásvételi szerződést. A pénz letéti számlára került, a tényleges tulajdonosváltáshoz pedig még hatósági jóváhagyások és engedélyek szükségesek.",
-    "content_hu": "• **November 9-én** a Rheinmetall 138 034 320,47 eurót fizetett a mangaliai hajógyár eszközeiért. A vételár fennmaradó, 90 százalékos része 124,2 millió euró volt; az összeget a cég az október 9-i árverés után, a részvételi biztosíték befizetésétől számított egy hónappal rendezte.\n\n• **Az október 9-i árverésen** a Rheinmetall Real Estate România SRL szerezte meg a vásárlási jogot. A cég a licit előtt a 138 millió eurós kikiáltási ár 10 százalékának megfelelő biztosítékot fizetett be.\n\n• **A szerződés aláírása még nem ruházta át a tulajdonjogot.** A lezáráshoz a versenyhatóság és más illetékes szervek jóváhagyása, valamint a jogszabályokban előírt engedélyek szükségesek. A tranzakció feltételes, a pénzt pedig átmenetileg egy különleges, semleges harmadik fél által kezelt letéti számlán helyezték el.\n\n• **A Rheinmetall és az MSC kettős, polgári és katonai rendeltetésű telephelyet tervez.** A termelés újraindítását megelőzően munkálatokra, beruházásokra és új munkatársak felvételére lesz szükség; ezek részleteit és ütemezését nem ismertették.\n\n• **A CITR felszámoló szerint** a fizetés és a szerződéskötés előrelépést jelent az értékesítési eljárásban. A tranzakciót a romániai fizetésképtelenségi vagy felszámolási ügyek legnagyobb értékű értékesítéseként tartják számon; az ipari tevékenység felújítása az engedélyek és az előkészületek után kezdődhet.",
-    "title_ro": "Rheinmetall a achitat prețul șantierului din Mangalia, însă transferul proprietății depinde de avize",
-    "lead_ro": "La 9 noiembrie, Rheinmetall a plătit integral activele Șantierului Naval Mangalia și a semnat contractul de vânzare. Banii au fost plasați într-un cont escrow, iar schimbarea efectivă a proprietarului mai necesită aprobări și autorizații.",
-    "content_ro": "• **La 9 noiembrie**, Rheinmetall a achitat 138.034.320,47 euro, fără TVA, pentru activele șantierului din Mangalia. Plata finală, reprezentând 90% din preț, a fost de 124,2 milioane de euro și a venit la o lună după depunerea garanției pentru participarea la licitația din 9 octombrie.\n\n• **La licitația din 9 octombrie**, dreptul de cumpărare a revenit firmei Rheinmetall Real Estate România SRL. Înaintea procedurii, aceasta depusese o garanție egală cu 10% din prețul de pornire, stabilit la 138 de milioane de euro.\n\n• **Semnarea contractului nu a transferat imediat proprietatea.** Finalizarea depinde de acordul Consiliului Concurenței și de celelalte avize și autorizații cerute de lege. Tranzacția este condiționată, iar suma a fost depusă temporar într-un cont escrow separat, administrat de o parte terță neutră.\n\n• **Rheinmetall și MSC** intenționează să dezvolte la Mangalia o platformă pentru activități civile și militare. Înainte de reluarea producției sunt necesare lucrări, investiții și angajări, însă nu au fost prezentate detalii despre calendarul sau amploarea acestora.\n\n• **CITR, lichidatorul**, a indicat plata și semnarea contractului drept un pas înainte în valorificarea activelor. Vânzarea este descrisă drept cea mai mare tranzacție din România privind o companie aflată în insolvență ori faliment; relansarea activității industriale va putea urma după aprobări și pregătiri.",
-    "importance_score": 70.0,
-    "slug": "a-rheinmetall-teljesitette-a-mangaliai-hajogyar-vetelarat-de-a-tulajdonosvaltas--4efe19",
-    "tags": [
-      "altalanos"
-    ],
     "is_top_hero": false
   },
   {
@@ -2541,58 +2492,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_9343c880b9",
-    "slug": "cristi-chivu-dijat-kapott-parmaban-edesapjarol-is-beszelt-9343c8",
-    "tags": [
-      "cristian-chivu",
-      "parma",
-      "inter-milano",
-      "sport-civita",
-      "fotbal"
-    ],
-    "fingerprint": "cf2b4c617cd125c97f96e741d6a9626d",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Cristian Chivu a primit Premiul pentru Merite Sportive în cadrul unei ceremonii la Parma. Ce mesaj a transmis clubul",
-        "link": "https://stirileprotv.ro/stiri/sport/cristian-chivu-a-primit-premiul-pentru-merite-sportive-in-cadrul-unei-ceremonii-la-parma-ce-mesaj-a-transmis-clubul.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cristian Chivu, premiat în Italia: „Sunt recunoscător”",
-        "link": "https://www.g4media.ro/cristian-chivu-premiat-in-italia-sunt-recunoscator.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Cristi Chivu a revenit la Parma cu ochi înlăcrimați. Discurs emoționant, după ce a fost premiat de fosta echipă: „Vorbesc cu tatăl meu, chiar dacă el nu mai este!”",
-        "link": "https://adevarul.ro/sport/cristi-chivu-a-revenit-la-parma-cu-ochi-2570297.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Reușită nouă pentru Cristi Chivu! Ce premiu important a primit antrenorul la Parma: „O emoție pură”",
-        "link": "https://www.cancan.ro/reusita-noua-pentru-cristi-chivu-ce-premiu-important-a-primit-antrenorul-la-parma-o-emotie-pura-21545283"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cristi Chivu, premiat în Italia pentru merite sportive. Distincție specială la Parma, într-o gală cu mari personalități ale sportului",
-        "link": "https://www.mediafax.ro/sport/cristi-chivu-premiat-in-italia-pentru-merite-sportive-distinctie-speciala-la-parma-intr-o-gala-cu-mari-personalitati-ale-sportului-23840599"
-      }
-    ],
-    "published_at": 1794338213,
-    "title_hu": "Cristi Chivu díjat kapott Parmában, édesapjáról is beszélt",
-    "lead_hu": "Cristi Chivu november 9-én, a 48. Sport Civiltà-gálán vehette át a Benemerenze Sportive elismerést. A Parmába visszatérő Inter-edző az ünnepségen édesapjáról, Mirceáról is megemlékezett, és felidézte a klubnál végzett munkáját.",
-    "content_hu": "• **November 9-én a Teatro Regióban adták át a díjat.** A 48. Sport Civiltà-gála elismerését Chivu a sporteredményeiért és a sporthoz kapcsolódó értékek képviseletéért kapta.\n\n• **A zsűri a pályán kívüli példamutatást is figyelembe vette.** A méltatásban a tisztesség, a felelősségvállalás, a munka és a sportközösség iránti elkötelezettség szerepelt; az Inter közleménye szintén ezeket az értékeket emelte ki.\n\n• **Chivu érzelmesen beszélt néhai édesapjáról, Mirceáról.** Elmondta, hogy apja volt az első példaképe és mentora, és 16 éves volt, amikor elveszítette. A beszéd közben elérzékenyült, és arról is beszélt, hogy felnőttként is gondolatban párbeszédet folytat vele.\n\n• **A családi emlékek között édesapja futball iránti kitartását is felidézte.** Mircea betegsége és kemoterápiás kezelése idején is kijárt a stadionba; Chivu egy olyan mérkőzésre is emlékezett, amelyet apja ülve követett, mert már nehezen állt a lábán.\n\n• **A parmai visszatérést különösen jelentősnek nevezte.** Chivu háláját fejezte ki a klub bizalmáért, és úgy értékelte, hogy a csapat közös munkával megőrizte élvonalbeli tagságát. A Parmát a 2024–2025-ös idény második felében irányította.\n\n• **A díjátadó idején már az Inter vezetőedzője volt.** A Parma után 2025-ben vette át a milánói csapatot; az ünnepségen a hosszú szezonok hullámzó teljesítményéről és a türelem fontosságáról is beszélt.",
-    "title_ro": "Cristi Chivu, premiat la Parma, a vorbit despre tatăl său",
-    "lead_ro": "Cristi Chivu a primit distincția Benemerenze Sportive la gala Sport Civiltà, organizată pe 9 noiembrie. Revenit la Parma, antrenorul lui Inter a evocat și rolul tatălui său, Mircea, în formarea sa.",
-    "content_ro": "• **Premiul a fost înmânat pe 9 noiembrie, la Teatro Regio.** În cadrul celei de-a 48-a ediții a galei Sport Civiltà, Chivu a fost recompensat pentru activitatea sportivă și pentru valorile pe care le susține.\n\n• **Juriul a luat în calcul și conduita din afara terenului.** Printre aspectele evidențiate s-au numărat corectitudinea, responsabilitatea, munca și contribuția la comunitatea sportivă. În mesajul său, Inter a pus accent pe aceleași valori.\n\n• **Chivu și-a amintit cu emoție de tatăl său, Mircea.** L-a descris ca pe primul său model și mentor și a spus că avea 16 ani când acesta a murit. În timpul discursului, antrenorul s-a emoționat și a povestit că încă îi vorbește în gând.\n\n• **A evocat și pasiunea tatălui său pentru fotbal, în timpul bolii.** Mircea a continuat să meargă la stadion pe durata tratamentului cu chimioterapie. Chivu și-a amintit un meci la care tatăl său a urmărit jocul așezat, deoarece nu mai putea sta în picioare.\n\n• **Revenirea la Parma a avut o semnificație aparte pentru tehnician.** Chivu a mulțumit clubului pentru încredere și a spus că echipa și-a atins obiectivul de a rămâne în prima ligă prin efortul depus împreună. El a pregătit Parma în a doua jumătate a sezonului 2024–2025.\n\n• **La momentul ceremoniei, Chivu conducea deja echipa Inter.** A preluat formația milaneză în 2025, după perioada petrecută la Parma. La eveniment a vorbit și despre evoluțiile oscilante dintr-un sezon lung și despre nevoia de răbdare.",
-    "importance_score": 53.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_ae76d4ad15",
     "slug": "adovaltozasokkal-segitene-az-autoipari-beruhazasokat-a-roman-kormany-ae76d4",
     "tags": [
@@ -2754,6 +2653,58 @@
     "title_ro": "Nicușor Dan a evitat evaluarea guvernării Bolojan, invocând rolul său de mediator",
     "lead_ro": "Marți seară, la conferința de presă de la Palatul Cotroceni, Nicușor Dan nu a evaluat activitatea lui Ilie Bolojan în funcția de premier. Președintele a explicat că evită o dispută politică pentru a-și păstra rolul de mediator și, când este necesar, de facilitator.",
     "content_ro": "• **Președintele nu a apreciat mandatul lui Bolojan.** Întrebat despre rezultatele fostului premier, Nicușor Dan a râs inițial, apoi nu a oferit o concluzie despre activitatea guvernului.\n\n• **Întrebarea a vizat și reducerea deficitului bugetar.** Jurnalistul HotNews.ro a menționat că în 2025 și 2026 deficitul a scăzut atât raportat la PIB, cât și ca valoare, dacă nu sunt incluse cheltuielile cu dobânzile. Întrebarea a asociat bugetele respective cu guvernul condus de Bolojan.\n\n• **Dan a amintit că Bolojan a condus guvernul timp de un an.** El a menționat că fostul premier a fost înlăturat printr-o moțiune de cenzură și că i-a mulțumit public la încheierea mandatului.\n\n• **Președintele și-a justificat reținerea prin rolul său instituțional.** A spus că nu vrea să intre într-o polemică despre calitatea guvernării lui Bolojan, pentru a-și păstra poziția de mediator și, la nevoie, de facilitator.\n\n• **Întrebarea a venit spre finalul conferinței.** Evenimentul a durat aproximativ două ore și jumătate; printre temele abordate s-au numărat economia României și criza politică din ultimele luni.",
+    "importance_score": 50.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_9343c880b9",
+    "slug": "cristi-chivu-dijat-kapott-parmaban-edesapjarol-is-beszelt-9343c8",
+    "tags": [
+      "cristian-chivu",
+      "parma",
+      "inter-milano",
+      "sport-civita",
+      "fotbal"
+    ],
+    "fingerprint": "cf2b4c617cd125c97f96e741d6a9626d",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Cristian Chivu a primit Premiul pentru Merite Sportive în cadrul unei ceremonii la Parma. Ce mesaj a transmis clubul",
+        "link": "https://stirileprotv.ro/stiri/sport/cristian-chivu-a-primit-premiul-pentru-merite-sportive-in-cadrul-unei-ceremonii-la-parma-ce-mesaj-a-transmis-clubul.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cristian Chivu, premiat în Italia: „Sunt recunoscător”",
+        "link": "https://www.g4media.ro/cristian-chivu-premiat-in-italia-sunt-recunoscator.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Cristi Chivu a revenit la Parma cu ochi înlăcrimați. Discurs emoționant, după ce a fost premiat de fosta echipă: „Vorbesc cu tatăl meu, chiar dacă el nu mai este!”",
+        "link": "https://adevarul.ro/sport/cristi-chivu-a-revenit-la-parma-cu-ochi-2570297.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Reușită nouă pentru Cristi Chivu! Ce premiu important a primit antrenorul la Parma: „O emoție pură”",
+        "link": "https://www.cancan.ro/reusita-noua-pentru-cristi-chivu-ce-premiu-important-a-primit-antrenorul-la-parma-o-emotie-pura-21545283"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cristi Chivu, premiat în Italia pentru merite sportive. Distincție specială la Parma, într-o gală cu mari personalități ale sportului",
+        "link": "https://www.mediafax.ro/sport/cristi-chivu-premiat-in-italia-pentru-merite-sportive-distinctie-speciala-la-parma-intr-o-gala-cu-mari-personalitati-ale-sportului-23840599"
+      }
+    ],
+    "published_at": 1794338213,
+    "title_hu": "Cristi Chivu díjat kapott Parmában, édesapjáról is beszélt",
+    "lead_hu": "Cristi Chivu november 9-én, a 48. Sport Civiltà-gálán vehette át a Benemerenze Sportive elismerést. A Parmába visszatérő Inter-edző az ünnepségen édesapjáról, Mirceáról is megemlékezett, és felidézte a klubnál végzett munkáját.",
+    "content_hu": "• **November 9-én a Teatro Regióban adták át a díjat.** A 48. Sport Civiltà-gála elismerését Chivu a sporteredményeiért és a sporthoz kapcsolódó értékek képviseletéért kapta.\n\n• **A zsűri a pályán kívüli példamutatást is figyelembe vette.** A méltatásban a tisztesség, a felelősségvállalás, a munka és a sportközösség iránti elkötelezettség szerepelt; az Inter közleménye szintén ezeket az értékeket emelte ki.\n\n• **Chivu érzelmesen beszélt néhai édesapjáról, Mirceáról.** Elmondta, hogy apja volt az első példaképe és mentora, és 16 éves volt, amikor elveszítette. A beszéd közben elérzékenyült, és arról is beszélt, hogy felnőttként is gondolatban párbeszédet folytat vele.\n\n• **A családi emlékek között édesapja futball iránti kitartását is felidézte.** Mircea betegsége és kemoterápiás kezelése idején is kijárt a stadionba; Chivu egy olyan mérkőzésre is emlékezett, amelyet apja ülve követett, mert már nehezen állt a lábán.\n\n• **A parmai visszatérést különösen jelentősnek nevezte.** Chivu háláját fejezte ki a klub bizalmáért, és úgy értékelte, hogy a csapat közös munkával megőrizte élvonalbeli tagságát. A Parmát a 2024–2025-ös idény második felében irányította.\n\n• **A díjátadó idején már az Inter vezetőedzője volt.** A Parma után 2025-ben vette át a milánói csapatot; az ünnepségen a hosszú szezonok hullámzó teljesítményéről és a türelem fontosságáról is beszélt.",
+    "title_ro": "Cristi Chivu, premiat la Parma, a vorbit despre tatăl său",
+    "lead_ro": "Cristi Chivu a primit distincția Benemerenze Sportive la gala Sport Civiltà, organizată pe 9 noiembrie. Revenit la Parma, antrenorul lui Inter a evocat și rolul tatălui său, Mircea, în formarea sa.",
+    "content_ro": "• **Premiul a fost înmânat pe 9 noiembrie, la Teatro Regio.** În cadrul celei de-a 48-a ediții a galei Sport Civiltà, Chivu a fost recompensat pentru activitatea sportivă și pentru valorile pe care le susține.\n\n• **Juriul a luat în calcul și conduita din afara terenului.** Printre aspectele evidențiate s-au numărat corectitudinea, responsabilitatea, munca și contribuția la comunitatea sportivă. În mesajul său, Inter a pus accent pe aceleași valori.\n\n• **Chivu și-a amintit cu emoție de tatăl său, Mircea.** L-a descris ca pe primul său model și mentor și a spus că avea 16 ani când acesta a murit. În timpul discursului, antrenorul s-a emoționat și a povestit că încă îi vorbește în gând.\n\n• **A evocat și pasiunea tatălui său pentru fotbal, în timpul bolii.** Mircea a continuat să meargă la stadion pe durata tratamentului cu chimioterapie. Chivu și-a amintit un meci la care tatăl său a urmărit jocul așezat, deoarece nu mai putea sta în picioare.\n\n• **Revenirea la Parma a avut o semnificație aparte pentru tehnician.** Chivu a mulțumit clubului pentru încredere și a spus că echipa și-a atins obiectivul de a rămâne în prima ligă prin efortul depus împreună. El a pregătit Parma în a doua jumătate a sezonului 2024–2025.\n\n• **La momentul ceremoniei, Chivu conducea deja echipa Inter.** A preluat formația milaneză în 2025, după perioada petrecută la Parma. La eveniment a vorbit și despre evoluțiile oscilante dintr-un sezon lung și despre nevoia de răbdare.",
     "importance_score": 50.0,
     "is_top_hero": false
   },
@@ -8082,6 +8033,60 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_c9d777562d",
+    "slug": "cum-vrea-ucraina-sa-preintampine-o-noua-invazie-dupa-incheierea-razboiului-obiec-c9d777",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE4JTJGMzAxOTA0OF8zMDE5/MDQ4X3ZvbG9kaW1pci16ZWxlbnNraS1w/cm9maW1lZGlhLmpwZyZoYXNoPWJjM2Jl/NzJmN2ExZDkyMGEzYTYwNWQzODY4MGJiNjQ0.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Cum vrea Ucraina să preîntâmpine o nouă invazie după încheierea războiului. Obiectivul ambițios postbelic",
+        "link": "https://www.digi24.ro/stiri/externe/ue/cum-vrea-ucraina-sa-preintampine-o-noua-invazie-dupa-incheierea-razboiului-obiectivul-ambitios-postbelic-4030817"
+      }
+    ],
+    "published_at": 1794381284,
+    "title_hu": "Cum vrea Ucraina să preîntâmpine o nouă invazie după încheierea războiului. Obiectivul ambițios postbelic",
+    "lead_hu": "În cadrul discuțiilor privind garanțiile de securitate, Ucraina a solicitat aliaților occidentali să acorde sprijin financiar pentru întreținerea unei armate cu un efectiv de 800.000 de persoane, a de...",
+    "content_hu": "În cadrul discuțiilor privind garanțiile de securitate, Ucraina a solicitat aliaților occidentali să acorde sprijin financiar pentru întreținerea unei armate cu un efectiv de 800.000 de persoane, a declarat pentru AFP o sursă ucraineană de rang înalt. Potrivit acestuia, Kievul se așteaptă să primească fonduri pentru Forțele Armate ale Ucrainei pe o perioadă de cel puțin 10 ani după încheierea războiului, pentru a preveni orice nouă invazie din partea Rusiei.",
+    "title_ro": "Cum vrea Ucraina să preîntâmpine o nouă invazie după încheierea războiului. Obiectivul ambițios postbelic",
+    "lead_ro": "În cadrul discuțiilor privind garanțiile de securitate, Ucraina a solicitat aliaților occidentali să acorde sprijin financiar pentru întreținerea unei armate cu un efectiv de 800.000 de persoane, a de...",
+    "content_ro": "În cadrul discuțiilor privind garanțiile de securitate, Ucraina a solicitat aliaților occidentali să acorde sprijin financiar pentru întreținerea unei armate cu un efectiv de 800.000 de persoane, a declarat pentru AFP o sursă ucraineană de rang înalt. Potrivit acestuia, Kievul se așteaptă să primească fonduri pentru Forțele Armate ale Ucrainei pe o perioadă de cel puțin 10 ani după încheierea războiului, pentru a preveni orice nouă invazie din partea Rusiei.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_ec7d5a1db0",
+    "slug": "ziua-veteranilor-din-teatrele-de-operatii-marcata-pe-11-noiembrie-ceremonii-mili-ec7d5a",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/ziua-veteranilor-7815207-mediafax_foto-alexandru_dobre-1024x682.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Ziua Veteranilor din Teatrele de Operații, marcată pe 11 noiembrie / Ceremonii militare în București și în garnizoanele din țară / Povestea macului roșu",
+        "link": "https://www.mediafax.ro/social/ziua-veteranilor-din-teatrele-de-operatii-marcata-pe-11-noiembrie-ceremonii-militare-in-bucuresti-si-in-garnizoanele-din-tara-povestea-macului-rosu-23841294"
+      }
+    ],
+    "published_at": 1794381051,
+    "title_hu": "Ziua Veteranilor din Teatrele de Operații, marcată pe 11 noiembrie / Ceremonii militare în București și în garnizoanele din țară / Povestea macului roșu",
+    "lead_hu": "Ziua Veteranilor din Teatrele de Operații este marcată miercuri, 11 noiembrie, în România, prin ceremonii militare și religioase organizate de Ministerul Apărării Naționale în București și în garnizoa...",
+    "content_hu": "Ziua Veteranilor din Teatrele de Operații este marcată miercuri, 11 noiembrie, în România, prin ceremonii militare și religioase organizate de Ministerul Apărării Naționale în București și în garnizoanele în care sunt dislocate unități militare care au participat la misiuni internaționale.",
+    "title_ro": "Ziua Veteranilor din Teatrele de Operații, marcată pe 11 noiembrie / Ceremonii militare în București și în garnizoanele din țară / Povestea macului roșu",
+    "lead_ro": "Ziua Veteranilor din Teatrele de Operații este marcată miercuri, 11 noiembrie, în România, prin ceremonii militare și religioase organizate de Ministerul Apărării Naționale în București și în garnizoa...",
+    "content_ro": "Ziua Veteranilor din Teatrele de Operații este marcată miercuri, 11 noiembrie, în România, prin ceremonii militare și religioase organizate de Ministerul Apărării Naționale în București și în garnizoanele în care sunt dislocate unități militare care au participat la misiuni internaționale.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_702e87e8e9",
     "slug": "szekes-felvono-uj-palyak-es-uvegablakos-panoramabar-702e87",
     "tags": [
@@ -8105,6 +8110,33 @@
     "title_ro": "Székes felvonó, új pályák és üvegablakos panorámabár",
     "lead_ro": "Új arculattal várja az idei szezonban a téli sportok kedvelőit a Parajd és a Bucsin-tető között található Bogdan Sí- és Szabadidőközpont. A létesítménynél idéntől négy férőhelyes, székes felvonóval le...",
     "content_ro": "Új arculattal várja az idei szezonban a téli sportok kedvelőit a Parajd és a Bucsin-tető között található Bogdan Sí- és Szabadidőközpont. A létesítménynél idéntől négy férőhelyes, székes felvonóval lehet megközelíteni a piros pályát, de új kezdőpálya és szánkópálya is várja a látogatókat.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_bcd7eb35b7",
+    "slug": "predoiu-critica-decizia-pnl-care-ii-vizeaza-pe-parlamentarii-pucisti-e-golita-de-bcd7eb",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://stirileprotv.ro/img/2026/06/17/132823/predoiu-bolojan-id232602-inquam-photos-malina-norocea.jpg?fm=jpg&q=80&fit=crop&crop=5830%2C3886%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Predoiu critică decizia PNL care îi vizează pe parlamentarii „pucişti”: E golită de orice spirit liberal",
+        "link": "https://stirileprotv.ro/stiri/politic/predoiu-critica-decizia-pnl-care-ii-vizeaza-pe-parlamentarii-pucisti-e-golita-de-orice-spirit-liberal.html"
+      }
+    ],
+    "published_at": 1794380839,
+    "title_hu": "Predoiu critică decizia PNL care îi vizează pe parlamentarii „pucişti”: E golită de orice spirit liberal",
+    "lead_hu": "Liberalul Cătălin Predoiu critică decizia Biroului Politic Naţional al PNL care îi vizează pe parlamentarii partidului care au contestat în instanţă deciziile conducerii formaţiunii....",
+    "content_hu": "Liberalul Cătălin Predoiu critică decizia Biroului Politic Naţional al PNL care îi vizează pe parlamentarii partidului care au contestat în instanţă deciziile conducerii formaţiunii.",
+    "title_ro": "Predoiu critică decizia PNL care îi vizează pe parlamentarii „pucişti”: E golită de orice spirit liberal",
+    "lead_ro": "Liberalul Cătălin Predoiu critică decizia Biroului Politic Naţional al PNL care îi vizează pe parlamentarii partidului care au contestat în instanţă deciziile conducerii formaţiunii....",
+    "content_ro": "Liberalul Cătălin Predoiu critică decizia Biroului Politic Naţional al PNL care îi vizează pe parlamentarii partidului care au contestat în instanţă deciziile conducerii formaţiunii.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -23713,185 +23745,62 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_3fd3829bb3",
-    "slug": "ket-vilagbajnoki-cimet-es-grand-prix-dijat-hoztak--3fd382",
-    "tags": [
-      "altalanos"
-    ],
+    "group_id": "group_4efe19c29a",
+    "fingerprint": "fb2df563cf712828dcedcef1628d97ca",
     "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Két világbajnoki címet és Grand Prix-díjat hoztak haza a segesvári táncosok Rómából",
-        "link": "https://www.pontmaros.ro/ket-vilagbajnoki-cimet-es-grand-prix-dijat-hoztak-haza-a-segesvari-tancosok-romabol/"
-      }
-    ],
-    "published_at": 1794294900,
-    "title_hu": "Két világbajnoki címet és Grand Prix-díjat hoztak haza a segesvári táncosok Rómából",
-    "lead_hu": "Kétszeres világbajnok lett a segesvári Gyermekklub Diamonds tánccsoportja, amely a római tánc-világbajnokságon a Grand Prix-t, vagyis a teljes mezőny legjobb csapatának járó fődíjat is elnyerte. …",
-    "content_hu": "Kétszeres világbajnok lett a segesvári Gyermekklub Diamonds tánccsoportja, amely a római tánc-világbajnokságon a Grand Prix-t, vagyis a teljes mezőny legjobb csapatának járó fődíjat is elnyerte. …",
-    "title_ro": "Két világbajnoki címet és Grand Prix-díjat hoztak haza a segesvári táncosok Rómából",
-    "lead_ro": "Kétszeres világbajnok lett a segesvári Gyermekklub Diamonds tánccsoportja, amely a római tánc-világbajnokságon a Grand Prix-t, vagyis a teljes mezőny legjobb csapatának járó fődíjat is elnyerte. …",
-    "content_ro": "Kétszeres világbajnok lett a segesvári Gyermekklub Diamonds tánccsoportja, amely a római tánc-világbajnokságon a Grand Prix-t, vagyis a teljes mezőny legjobb csapatának járó fődíjat is elnyerte. …",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_d45f6ac3aa",
-    "slug": "papiron-egesz-tiszta-a-levego-romaniaban-valojaban-d45f6a",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Papíron egész tiszta a levegő Romániában, valójában azonban hiányosak a mérések",
-        "link": "https://transtelex.ro/zold/2026/11/10/levegominoseg-romania-hianyossagok-eu-iranyelv"
-      }
-    ],
-    "published_at": 1794294872,
-    "title_hu": "Papíron egész tiszta a levegő Romániában, valójában azonban hiányosak a mérések",
-    "lead_hu": "Az országos mérőállomás-hálózat legalább egyharmada nem szolgáltat megfelelő adatokat, derítette ki a Context.ro. Közben Romániának egy hónapja van arra, hogy a levegőminőségről szóló új uniós irányel…",
-    "content_hu": "Az országos mérőállomás-hálózat legalább egyharmada nem szolgáltat megfelelő adatokat, derítette ki a Context.ro. Közben Romániának egy hónapja van arra, hogy a levegőminőségről szóló új uniós irányelvet átültesse a hazai jogrendbe.",
-    "title_ro": "Papíron egész tiszta a levegő Romániában, valójában azonban hiányosak a mérések",
-    "lead_ro": "Az országos mérőállomás-hálózat legalább egyharmada nem szolgáltat megfelelő adatokat, derítette ki a Context.ro. Közben Romániának egy hónapja van arra, hogy a levegőminőségről szóló új uniós irányel…",
-    "content_ro": "Az országos mérőállomás-hálózat legalább egyharmada nem szolgáltat megfelelő adatokat, derítette ki a Context.ro. Közben Romániának egy hónapja van arra, hogy a levegőminőségről szóló új uniós irányelvet átültesse a hazai jogrendbe.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_355aa127e4",
-    "slug": "hatarozottan-elhatarolodik-a-miert-sajat-tagszerve-355aa1",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Transtelex",
-        "title": "Határozottan elhatárolódik a MIÉRT saját tagszervezetének, az UIET-nek a jelenlegi vezetésétől",
-        "link": "https://transtelex.ro/kozelet/2026/11/10/hatarozottan-elhatarolodik-a-miert-sajat-tegszervezetenek-az-uiet-nek-a-jelenlegi-vezetesetol"
-      }
-    ],
-    "published_at": 1794294794,
-    "title_hu": "Határozottan elhatárolódik a MIÉRT saját tagszervezetének, az UIET-nek a jelenlegi vezetésétől",
-    "lead_hu": "Az udvarhelyi ifjúsági szervezet körüli botrány kitörése óta először reagált nyilvánosan a MIÉRT.",
-    "content_hu": "Az udvarhelyi ifjúsági szervezet körüli botrány kitörése óta először reagált nyilvánosan a MIÉRT.",
-    "title_ro": "Határozottan elhatárolódik a MIÉRT saját tagszervezetének, az UIET-nek a jelenlegi vezetésétől",
-    "lead_ro": "Az udvarhelyi ifjúsági szervezet körüli botrány kitörése óta először reagált nyilvánosan a MIÉRT.",
-    "content_ro": "Az udvarhelyi ifjúsági szervezet körüli botrány kitörése óta először reagált nyilvánosan a MIÉRT.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_4b060bf19b",
-    "slug": "basarab-panduru-a-alcatuit-echipa-ideala-a-turului-4b060b",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Basarab Panduru a alcătuit echipa ideală a turului sezonului regulat din Superliga",
-        "link": "https://www.gsp.ro/fotbal/liga-1/basarab-panduru-a-alcatuit-echipa-ideala-a-turului-sezonului-regulat-din-superliga-997921.html"
-      }
-    ],
-    "published_at": 1794294750,
-    "title_hu": "Basarab Panduru a alcătuit echipa ideală a turului sezonului regulat din Superliga",
-    "lead_hu": "Basarab Panduru (56 de ani), fostul internațional român, a alcătuit cel mai bun prim „11” la finalul turului sezonului regulat din Superliga, după ce luni seara s-a tras cortina peste primele 15 runde…",
-    "content_hu": "Basarab Panduru (56 de ani), fostul internațional român, a alcătuit cel mai bun prim „11” la finalul turului sezonului regulat din Superliga, după ce luni seara s-a tras cortina peste primele 15 runde din această stagiune. În momentul opririi campionatului, Universitatea Craiova este lider, cu 33 de puncte. Tot 33 de puncte are și Dinamo, în timp ce podiumul este completat de Rapid, cu 31 de puncte. ...",
-    "title_ro": "Basarab Panduru a alcătuit echipa ideală a turului sezonului regulat din Superliga",
-    "lead_ro": "Basarab Panduru (56 de ani), fostul internațional român, a alcătuit cel mai bun prim „11” la finalul turului sezonului regulat din Superliga, după ce luni seara s-a tras cortina peste primele 15 runde…",
-    "content_ro": "Basarab Panduru (56 de ani), fostul internațional român, a alcătuit cel mai bun prim „11” la finalul turului sezonului regulat din Superliga, după ce luni seara s-a tras cortina peste primele 15 runde din această stagiune. În momentul opririi campionatului, Universitatea Craiova este lider, cu 33 de puncte. Tot 33 de puncte are și Dinamo, în timp ce podiumul este completat de Rapid, cu 31 de puncte. ...",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_aad7697c97",
-    "slug": "sulyos-baleset-kolozsvaron-szemelyauto-es-motorker-aad769",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Súlyos baleset Kolozsváron: személyautó és motorkerékpár ütközött",
-        "link": "https://maszol.ro/belfold/Sulyos-baleset-Kolozsvaron-szemelyauto-es-motorkerekpar-utkozott"
-      }
-    ],
-    "published_at": 1794294720,
-    "title_hu": "Súlyos baleset Kolozsváron: személyautó és motorkerékpár ütközött",
-    "lead_hu": "Motorkerékpár és egy Bolt-taxis személyautó ütközött össze kedd reggel Kolozsváron, a Majális (Republicii) úton.",
-    "content_hu": "Motorkerékpár és egy Bolt-taxis személyautó ütközött össze kedd reggel Kolozsváron, a Majális (Republicii) úton.",
-    "title_ro": "Súlyos baleset Kolozsváron: személyautó és motorkerékpár ütközött",
-    "lead_ro": "Motorkerékpár és egy Bolt-taxis személyautó ütközött össze kedd reggel Kolozsváron, a Majális (Republicii) úton.",
-    "content_ro": "Motorkerékpár és egy Bolt-taxis személyautó ütközött össze kedd reggel Kolozsváron, a Majális (Republicii) úton.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_ae18f28bb4",
-    "slug": "coreea-de-nord-isi-dezvolta-arsenalul-militar-pe-f-ae18f2",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Coreea de Nord își dezvoltă arsenalul militar pe fondul tensiunilor regionale. Ce armă vrea să introducă în dotarea armatei din 2027",
-        "link": "https://www.digi24.ro/stiri/externe/mapamond/coreea-de-nord-isi-dezvolta-arsenalul-militar-pe-fondul-tensiunilor-regionale-ce-arma-vrea-sa-introduca-in-dotarea-armatei-din-2027-4029157"
-      }
-    ],
-    "published_at": 1794294716,
-    "title_hu": "Coreea de Nord își dezvoltă arsenalul militar pe fondul tensiunilor regionale. Ce armă vrea să introducă în dotarea armatei din 2027",
-    "lead_hu": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiun…",
-    "content_hu": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiunilor intercoreene şi înaintea turneului asiatic al preşedintelui american Donald Trump.",
-    "title_ro": "Coreea de Nord își dezvoltă arsenalul militar pe fondul tensiunilor regionale. Ce armă vrea să introducă în dotarea armatei din 2027",
-    "lead_ro": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiun…",
-    "content_ro": "Coreea de Nord a anunţat marţi că intenţionează să desfăşoare o nouă torpilă de mare viteză la începutul anului 2027, la o zi după efectuarea unui test cu acest proiectil subacvatic, pe fondul tensiunilor intercoreene şi înaintea turneului asiatic al preşedintelui american Donald Trump.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_64b3f1d6d5",
-    "slug": "o-angajata-din-ucraina-a-fost-concediata-dupa-ce-a-64b3f1",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "is_synthesized": true,
+    "rejected": false,
+    "is_b2b_only": false,
+    "sources_count": 7,
     "sources": [
       {
         "source": "ProTV Stiri",
-        "title": "O angajată din Ucraina a fost concediată după ce a lipsit de la serviciu pentru a-și îngriji fiul bolnav, deși avea concediu medical",
-        "link": "https://stirileprotv.ro/stiri/international/o-angajata-din-ucraina-a-fost-concediata-dupa-ce-a-lipsit-de-la-serviciu-pentru-a-si-ingriji-fiul-bolnav-desi-avea-concediu-medical.html"
+        "title": "E oficial: Rheinmetall a achitat integral 138 milioane euro și este noul proprietar al Șantierului Mangalia. Ce urmează",
+        "link": "https://stirileprotv.ro/stiri/financiar/e-oficial-rheinmetall-a-achitat-integral-138-milioane-euro-si-este-noul-proprietar-al-santierului-mangalia-ce-urmeaza.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Rheinmetall a achitat integral prețul pentru Șantierul Naval Mangalia. Ce mai lipsește pentru finalizarea tranzacției",
+        "link": "https://www.digi24.ro/stiri/actualitate/rheinmetall-a-achitat-integral-pretul-pentru-santierul-naval-mangalia-ce-mai-lipseste-pentru-finalizarea-tranzactiei-4029301"
+      },
+      {
+        "source": "G4Media",
+        "title": "Rheinmetall, cumpărătorul Şantierului Naval Mangalia, a achitat integral preţul de 138 milioane euro şi a semnat contractul de vânzare-cumpărare",
+        "link": "https://www.g4media.ro/rheinmetall-cumparatorul-santierului-naval-mangalia-a-achitat-integral-pretul-de-138-milioane-euro-si-a-semnat-contractul-de-vanzare-cumparare.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Șantierul Naval Mangalia: Rheinmetall a plătit integral cele 138 de milioane de euro și a semnat contractul. Când ar putea fi reluată activitatea",
+        "link": "https://adevarul.ro/economie/santierul-naval-mangalia-rheinmetall-a-platit-2570301.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Rheinmetall a plătit 138 de milioane de euro pentru Șantierul Naval Mangalia. Ce avize mai sunt necesare",
+        "link": "https://www.mediafax.ro/economic/rheinmetall-a-platit-138-de-milioane-de-euro-pentru-santierul-naval-mangalia-ce-avize-mai-sunt-necesare-23840705"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Rheinmetall a achitat integral 138 de milioane de euro pentru Șantierul Naval Mangalia. Ce avize mai sunt necesare",
+        "link": "https://www.mediafax.ro/economic/rheinmetall-a-achitat-integral-138-de-milioane-de-euro-pentru-santierul-naval-mangalia-ce-avize-mai-sunt-necesare-23840705"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Rheinmetall paid 138 million euros for the Mangalia Shipyard",
+        "link": "https://www.mediafax.ro/english/rheinmetall-paid-138-million-euros-for-the-mangalia-shipyard-23840827"
       }
     ],
-    "published_at": 1794294709,
-    "title_hu": "O angajată din Ucraina a fost concediată după ce a lipsit de la serviciu pentru a-și îngriji fiul bolnav, deși avea concediu medical",
-    "lead_hu": "O angajată a unui mare lanț de supermarketuri a fost concediată după ce a lipsit de la serviciu pentru a-și îngriji fiul bolnav, în vârstă de doi ani, deși avea concediu medical emis în format electro…",
-    "content_hu": "O angajată a unui mare lanț de supermarketuri a fost concediată după ce a lipsit de la serviciu pentru a-și îngriji fiul bolnav, în vârstă de doi ani, deși avea concediu medical emis în format electronic.",
-    "title_ro": "O angajată din Ucraina a fost concediată după ce a lipsit de la serviciu pentru a-și îngriji fiul bolnav, deși avea concediu medical",
-    "lead_ro": "O angajată a unui mare lanț de supermarketuri a fost concediată după ce a lipsit de la serviciu pentru a-și îngriji fiul bolnav, în vârstă de doi ani, deși avea concediu medical emis în format electro…",
-    "content_ro": "O angajată a unui mare lanț de supermarketuri a fost concediată după ce a lipsit de la serviciu pentru a-și îngriji fiul bolnav, în vârstă de doi ani, deși avea concediu medical emis în format electronic.",
-    "importance_score": 0.0,
+    "published_at": 1794311175,
+    "title_hu": "A Rheinmetall teljesítette a mangaliai hajógyár vételárát, de a tulajdonosváltás még engedélyekhez kötött",
+    "lead_hu": "A Rheinmetall november 9-én kifizette a mangaliai hajógyár eszközeinek teljes, áfa nélküli vételárát, és aláírta az adásvételi szerződést. A pénz letéti számlára került, a tényleges tulajdonosváltáshoz pedig még hatósági jóváhagyások és engedélyek szükségesek.",
+    "content_hu": "• **November 9-én** a Rheinmetall 138 034 320,47 eurót fizetett a mangaliai hajógyár eszközeiért. A vételár fennmaradó, 90 százalékos része 124,2 millió euró volt; az összeget a cég az október 9-i árverés után, a részvételi biztosíték befizetésétől számított egy hónappal rendezte.\n\n• **Az október 9-i árverésen** a Rheinmetall Real Estate România SRL szerezte meg a vásárlási jogot. A cég a licit előtt a 138 millió eurós kikiáltási ár 10 százalékának megfelelő biztosítékot fizetett be.\n\n• **A szerződés aláírása még nem ruházta át a tulajdonjogot.** A lezáráshoz a versenyhatóság és más illetékes szervek jóváhagyása, valamint a jogszabályokban előírt engedélyek szükségesek. A tranzakció feltételes, a pénzt pedig átmenetileg egy különleges, semleges harmadik fél által kezelt letéti számlán helyezték el.\n\n• **A Rheinmetall és az MSC kettős, polgári és katonai rendeltetésű telephelyet tervez.** A termelés újraindítását megelőzően munkálatokra, beruházásokra és új munkatársak felvételére lesz szükség; ezek részleteit és ütemezését nem ismertették.\n\n• **A CITR felszámoló szerint** a fizetés és a szerződéskötés előrelépést jelent az értékesítési eljárásban. A tranzakciót a romániai fizetésképtelenségi vagy felszámolási ügyek legnagyobb értékű értékesítéseként tartják számon; az ipari tevékenység felújítása az engedélyek és az előkészületek után kezdődhet.",
+    "title_ro": "Rheinmetall a achitat prețul șantierului din Mangalia, însă transferul proprietății depinde de avize",
+    "lead_ro": "La 9 noiembrie, Rheinmetall a plătit integral activele Șantierului Naval Mangalia și a semnat contractul de vânzare. Banii au fost plasați într-un cont escrow, iar schimbarea efectivă a proprietarului mai necesită aprobări și autorizații.",
+    "content_ro": "• **La 9 noiembrie**, Rheinmetall a achitat 138.034.320,47 euro, fără TVA, pentru activele șantierului din Mangalia. Plata finală, reprezentând 90% din preț, a fost de 124,2 milioane de euro și a venit la o lună după depunerea garanției pentru participarea la licitația din 9 octombrie.\n\n• **La licitația din 9 octombrie**, dreptul de cumpărare a revenit firmei Rheinmetall Real Estate România SRL. Înaintea procedurii, aceasta depusese o garanție egală cu 10% din prețul de pornire, stabilit la 138 de milioane de euro.\n\n• **Semnarea contractului nu a transferat imediat proprietatea.** Finalizarea depinde de acordul Consiliului Concurenței și de celelalte avize și autorizații cerute de lege. Tranzacția este condiționată, iar suma a fost depusă temporar într-un cont escrow separat, administrat de o parte terță neutră.\n\n• **Rheinmetall și MSC** intenționează să dezvolte la Mangalia o platformă pentru activități civile și militare. Înainte de reluarea producției sunt necesare lucrări, investiții și angajări, însă nu au fost prezentate detalii despre calendarul sau amploarea acestora.\n\n• **CITR, lichidatorul**, a indicat plata și semnarea contractului drept un pas înainte în valorificarea activelor. Vânzarea este descrisă drept cea mai mare tranzacție din România privind o companie aflată în insolvență ori faliment; relansarea activității industriale va putea urma după aprobări și pregătiri.",
+    "importance_score": 70.0,
+    "slug": "a-rheinmetall-teljesitette-a-mangaliai-hajogyar-vetelarat-de-a-tulajdonosvaltas--4efe19",
+    "tags": [
+      "altalanos"
+    ],
     "is_top_hero": false
   },
   {
