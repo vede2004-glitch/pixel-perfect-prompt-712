@@ -4333,43 +4333,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_386a62ddec",
-    "slug": "uj-elszamolasi-szabalyok-vonatkoznak-a-romaniai-prosumerekre-386a62",
-    "tags": [
-      "prosumatori",
-      "energie",
-      "anre",
-      "facturare",
-      "reglementare"
-    ],
-    "fingerprint": "28f6454a394a04b8424c949e31f8db33",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "ANRE aprobă noi reguli pentru prosumatori. Este vizată și plata energiei electrice produse şi livrate în reţea",
-        "link": "https://www.digi24.ro/stiri/economie/energie/anre-aproba-noi-reguli-pentru-prosumatori-este-vizata-si-plata-energiei-electrice-produse-si-livrate-in-retea-4030547"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Noi reguli pentru prosumatori. Energia livrată în rețea va putea acoperi facturi de la mai multe locuri de consum",
-        "link": "https://stirileprotv.ro/stiri/actualitate/noi-reguli-pentru-prosumatori-energia-livrata-in-retea-va-putea-acoperi-facturi-de-la-mai-multe-locuri-de-consum.html"
-      }
-    ],
-    "published_at": 1794345111,
-    "title_hu": "Új elszámolási szabályok vonatkoznak a romániai prosumerekre",
-    "lead_hu": "Az ANRE jóváhagyta a prosumerek hálózatba táplált villamos energiájának elszámolását és értékesítését szabályozó új módszertant. A rendelkezés havi kompenzációt, több fogyasztási hely közötti felhasználási lehetőséget és a korábban felhalmozódott összegek kifizetésére vonatkozó előírásokat is tartalmaz.",
-    "content_hu": "• **Az ANRE új módszertant fogadott el a prosumerek energiájának elszámolására.** A szabályozás a hálózatba betáplált áram kereskedelmére, számlázására, pénzügyi rendezésére és több fogyasztási hely közötti értékének felhasználására vonatkozik.\n\n• **Az új előírás a 160/2026-os törvény végrehajtását szolgálja, és felváltja a 15/2022-es ANRE-rendeletet.** A hatóság bejelentése szerint a módosítás a már meglévő szerződésekre is kiterjed, nem csak az új megállapodásokra.\n\n• **A hálózatba adott és onnan vételezett energia havi összevetés alapján kompenzálható.** A 2026. július 26-tól betáplált mennyiségnél a beszámítás az adott hónapra és ugyanarra a termelési-fogyasztási helyre érvényes; a kompenzált mennyiség nem haladhatja meg a betáplált és a felhasznált energia közül a kisebbet.\n\n• **A kompenzáció után fennmaradó energiatöbblet értéke más fogyasztási helyek számláinak rendezésére is fordítható.** Az új módszertan emellett szabályokat állapít meg a korábban összegyűlt összegek kifizetésére, így ezek kezelésére is egységes eljárás vonatkozik.\n\n• **Az energiaszolgáltatóknak december 31-ig kell felkészíteniük informatikai rendszereiket.** George Niculescu, az ANRE elnöke hangsúlyozta: a technikai átállás a szolgáltatók feladata, és nem szolgálhat a prosumerek jogosultságainak elhalasztására; a hatóság figyelemmel kíséri az alkalmazást.",
-    "title_ro": "Noi reguli de decontare pentru prosumatorii din România",
-    "lead_ro": "ANRE a aprobat o metodologie nouă pentru gestionarea energiei electrice produse de prosumatori și livrate în rețea. Aceasta prevede compensare lunară, folosirea valorii surplusului la alte puncte de consum și reguli pentru achitarea sumelor acumulate anterior.",
-    "content_ro": "• **ANRE a aprobat o metodologie nouă pentru decontarea energiei prosumatorilor.** Documentul stabilește reguli privind comercializarea și facturarea electricității livrate în rețea, precum și decontarea și alocarea valorii acesteia între mai multe puncte de consum.\n\n• **Reglementarea aplică Legea nr. 160/2026 și înlocuiește Ordinul ANRE nr. 15/2022.** Potrivit autorității, prevederile se aplică inclusiv contractelor aflate deja în derulare, nu doar celor încheiate după intrarea în vigoare a noilor reguli.\n\n• **Energia livrată și cea preluată din rețea vor fi comparate lunar.** Pentru electricitatea injectată începând cu 26 iulie 2026, compensarea se calculează în aceeași lună și la același loc de producere și consum. Cantitatea compensată este cea mai mică dintre energia livrată și cea consumată din rețea.\n\n• **Valoarea surplusului rămas după compensare poate acoperi facturi aferente altor locuri de consum.** Metodologia introduce și proceduri pentru achitarea sumelor acumulate în perioadele anterioare, stabilind astfel cum pot fi gestionate aceste solduri.\n\n• **Furnizorii trebuie să își adapteze sistemele informatice până la 31 decembrie.** George Niculescu, președintele ANRE, a precizat că această pregătire tehnică le revine companiilor și nu trebuie să întârzie exercitarea drepturilor prosumatorilor. Autoritatea va urmări aplicarea reglementării.",
-    "importance_score": 35.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_f99d306db9",
     "fingerprint": "0e2cd1962afac9e9aa134d311de53fd6",
     "category": "Általános",
@@ -5302,7 +5265,7 @@
     "title_ro": "Niculescu: digitalizarea administrației presupune mai mult decât formulare online",
     "lead_ro": "Premierul Luca Niculescu a declarat la GoTech World 2026 că transformarea digitală trebuie să facă serviciile publice mai simple și mai sigure. Conform datelor Eurostat menționate de acesta, în 2025 foloseau inteligența artificială 5,2% dintre firmele românești cu cel puțin zece angajați, față de 20% în Uniunea Europeană.",
     "content_ro": "• **Marți, la GoTech World 2026**, premierul Luca Niculescu a abordat transformarea digitală a administrației. El a arătat că simpla trecere în format electronic a documentelor pe hârtie nu schimbă suficient relația cu instituțiile; procesele trebuie reorganizate astfel încât serviciile publice să fie mai ușor de accesat și mai sigure.\n\n• **Colaborarea dintre instituțiile publice** și conectarea sistemelor guvernamentale se numără printre direcțiile de lucru prezentate de premier. Regândirea procedurilor și utilizarea responsabilă a datelor ar putea reduce timpul pe care cetățenii și companiile îl alocă interacțiunii cu statul. Niculescu a recunoscut că România mai are pași de făcut în acest domeniu.\n\n• **Utilizarea inteligenței artificiale în companii** este mult mai redusă în România decât media europeană. Datele Eurostat citate de Niculescu arată că, în 2025, 5,2% dintre firmele românești cu minimum zece angajați foloseau tehnologii de inteligență artificială, în timp ce proporția la nivelul Uniunii Europene era de 20%.\n\n• **Accelerarea adaptării tehnologice** a fost prezentată de premier drept o modalitate de consolidare a competitivității economice. Niculescu a spus că tehnologia ar trebui să susțină investițiile, productivitatea, cercetarea și inovarea, precum și dezvoltarea companiilor românești pe piețele internaționale.\n\n• **Sectorul IT&C a avansat în ultimele două decenii și ceva** de aproximativ trei ori mai rapid decât economia în ansamblu, potrivit datelor OECD invocate de premier. România se pregătește să adere la organizație, iar Niculescu a inclus dezvoltarea digitală în agenda de adaptare economică a țării.",
-    "importance_score": 33.0,
+    "importance_score": 30.0,
     "is_top_hero": false
   },
   {
@@ -5618,6 +5581,43 @@
     "tags": [
       "altalanos"
     ],
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_386a62ddec",
+    "slug": "uj-elszamolasi-szabalyok-vonatkoznak-a-romaniai-prosumerekre-386a62",
+    "tags": [
+      "prosumatori",
+      "energie",
+      "anre",
+      "facturare",
+      "reglementare"
+    ],
+    "fingerprint": "28f6454a394a04b8424c949e31f8db33",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "ANRE aprobă noi reguli pentru prosumatori. Este vizată și plata energiei electrice produse şi livrate în reţea",
+        "link": "https://www.digi24.ro/stiri/economie/energie/anre-aproba-noi-reguli-pentru-prosumatori-este-vizata-si-plata-energiei-electrice-produse-si-livrate-in-retea-4030547"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Noi reguli pentru prosumatori. Energia livrată în rețea va putea acoperi facturi de la mai multe locuri de consum",
+        "link": "https://stirileprotv.ro/stiri/actualitate/noi-reguli-pentru-prosumatori-energia-livrata-in-retea-va-putea-acoperi-facturi-de-la-mai-multe-locuri-de-consum.html"
+      }
+    ],
+    "published_at": 1794345111,
+    "title_hu": "Új elszámolási szabályok vonatkoznak a romániai prosumerekre",
+    "lead_hu": "Az ANRE jóváhagyta a prosumerek hálózatba táplált villamos energiájának elszámolását és értékesítését szabályozó új módszertant. A rendelkezés havi kompenzációt, több fogyasztási hely közötti felhasználási lehetőséget és a korábban felhalmozódott összegek kifizetésére vonatkozó előírásokat is tartalmaz.",
+    "content_hu": "• **Az ANRE új módszertant fogadott el a prosumerek energiájának elszámolására.** A szabályozás a hálózatba betáplált áram kereskedelmére, számlázására, pénzügyi rendezésére és több fogyasztási hely közötti értékének felhasználására vonatkozik.\n\n• **Az új előírás a 160/2026-os törvény végrehajtását szolgálja, és felváltja a 15/2022-es ANRE-rendeletet.** A hatóság bejelentése szerint a módosítás a már meglévő szerződésekre is kiterjed, nem csak az új megállapodásokra.\n\n• **A hálózatba adott és onnan vételezett energia havi összevetés alapján kompenzálható.** A 2026. július 26-tól betáplált mennyiségnél a beszámítás az adott hónapra és ugyanarra a termelési-fogyasztási helyre érvényes; a kompenzált mennyiség nem haladhatja meg a betáplált és a felhasznált energia közül a kisebbet.\n\n• **A kompenzáció után fennmaradó energiatöbblet értéke más fogyasztási helyek számláinak rendezésére is fordítható.** Az új módszertan emellett szabályokat állapít meg a korábban összegyűlt összegek kifizetésére, így ezek kezelésére is egységes eljárás vonatkozik.\n\n• **Az energiaszolgáltatóknak december 31-ig kell felkészíteniük informatikai rendszereiket.** George Niculescu, az ANRE elnöke hangsúlyozta: a technikai átállás a szolgáltatók feladata, és nem szolgálhat a prosumerek jogosultságainak elhalasztására; a hatóság figyelemmel kíséri az alkalmazást.",
+    "title_ro": "Noi reguli de decontare pentru prosumatorii din România",
+    "lead_ro": "ANRE a aprobat o metodologie nouă pentru gestionarea energiei electrice produse de prosumatori și livrate în rețea. Aceasta prevede compensare lunară, folosirea valorii surplusului la alte puncte de consum și reguli pentru achitarea sumelor acumulate anterior.",
+    "content_ro": "• **ANRE a aprobat o metodologie nouă pentru decontarea energiei prosumatorilor.** Documentul stabilește reguli privind comercializarea și facturarea electricității livrate în rețea, precum și decontarea și alocarea valorii acesteia între mai multe puncte de consum.\n\n• **Reglementarea aplică Legea nr. 160/2026 și înlocuiește Ordinul ANRE nr. 15/2022.** Potrivit autorității, prevederile se aplică inclusiv contractelor aflate deja în derulare, nu doar celor încheiate după intrarea în vigoare a noilor reguli.\n\n• **Energia livrată și cea preluată din rețea vor fi comparate lunar.** Pentru electricitatea injectată începând cu 26 iulie 2026, compensarea se calculează în aceeași lună și la același loc de producere și consum. Cantitatea compensată este cea mai mică dintre energia livrată și cea consumată din rețea.\n\n• **Valoarea surplusului rămas după compensare poate acoperi facturi aferente altor locuri de consum.** Metodologia introduce și proceduri pentru achitarea sumelor acumulate în perioadele anterioare, stabilind astfel cum pot fi gestionate aceste solduri.\n\n• **Furnizorii trebuie să își adapteze sistemele informatice până la 31 decembrie.** George Niculescu, președintele ANRE, a precizat că această pregătire tehnică le revine companiilor și nu trebuie să întârzie exercitarea drepturilor prosumatorilor. Autoritatea va urmări aplicarea reglementării.",
+    "importance_score": 28.0,
     "is_top_hero": false
   },
   {
@@ -7173,7 +7173,7 @@
     "title_ro": "A tandíjas egyetemisták számára is szociális ösztöndíjat kér az ANOSR",
     "lead_ro": "A jelenlegi támogatási rendszer nem fedezi megfelelően a diákok megélhetési költségeit.",
     "content_ro": "A jelenlegi támogatási rendszer nem fedezi megfelelően a diákok megélhetési költségeit.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "is_top_hero": false
   },
   {
@@ -7204,7 +7204,7 @@
     "title_ro": "Markó Béla kapta a Romániai Írók Szövetségének nagydíját",
     "lead_ro": "Az erdélyi költő, prózaíró a szervezet tízéves történetében az első magyar alkotó, aki részesült az elismerésben.",
     "content_ro": "Az erdélyi költő, prózaíró a szervezet tízéves történetében az első magyar alkotó, aki részesült az elismerésben.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "is_top_hero": false
   },
   {
@@ -8041,6 +8041,60 @@
     "lead_ro": "Primarul unei comunități din Peru a fost decis prin aruncarea unei monede. S-a ajuns la această variantă deoarece doi candidați au avut exact același număr de voturi. Legea peruană permite metoda pent...",
     "content_ro": "Primarul unei comunități din Peru a fost decis prin aruncarea unei monede. S-a ajuns la această variantă deoarece doi candidați au avut exact același număr de voturi. Legea peruană permite metoda pentru stabilirea unui ales local.",
     "importance_score": 20.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_53ea67ca39",
+    "slug": "incendiu-pe-o-platforma-din-cel-mai-mare-zacamant-de-gaze-naturale-offshore-din--53ea67",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/pexels-pok-rie-33563-6726805-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Incendiu pe o platformă din cel mai mare zăcământ de gaze naturale offshore din lume. Muncitorii au sărit în apă",
+        "link": "https://www.mediafax.ro/economic/incendiu-pe-o-platforma-din-cel-mai-mare-zacamant-de-gaze-naturale-offshore-din-lume-muncitorii-au-sarit-in-apa-23841247"
+      }
+    ],
+    "published_at": 1794356046,
+    "title_hu": "Incendiu pe o platformă din cel mai mare zăcământ de gaze naturale offshore din lume. Muncitorii au sărit în apă",
+    "lead_hu": "Un incendiu a izbucnit pe o platformă din cel mai mare zăcământ de gaze naturale offshore din lume. Este vorba despre zăcământul de gaze South Pars din Iran. Mai mulți muncitori au sărit în apă pentru...",
+    "content_hu": "Un incendiu a izbucnit pe o platformă din cel mai mare zăcământ de gaze naturale offshore din lume. Este vorba despre zăcământul de gaze South Pars din Iran. Mai mulți muncitori au sărit în apă pentru a-și salva viața.",
+    "title_ro": "Incendiu pe o platformă din cel mai mare zăcământ de gaze naturale offshore din lume. Muncitorii au sărit în apă",
+    "lead_ro": "Un incendiu a izbucnit pe o platformă din cel mai mare zăcământ de gaze naturale offshore din lume. Este vorba despre zăcământul de gaze South Pars din Iran. Mai mulți muncitori au sărit în apă pentru...",
+    "content_ro": "Un incendiu a izbucnit pe o platformă din cel mai mare zăcământ de gaze naturale offshore din lume. Este vorba despre zăcământul de gaze South Pars din Iran. Mai mulți muncitori au sărit în apă pentru a-și salva viața.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_8934a93da1",
+    "slug": "cum-au-transformat-localnicii-din-sahara-olteniei-terenurile-neroditoare-in-veni-8934a9",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-4/4db674ca-cd23-48cd-abe9-6a980402ea59/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.328%252C1%252C0.445%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cum au transformat localnicii din „Sahara Olteniei” terenurile neroditoare în venituri de sute de euro pe an",
+        "link": "https://adevarul.ro/stiri-locale/craiova/cum-au-transformat-localnicii-din-sahara-2570181.html"
+      }
+    ],
+    "published_at": 1794355945,
+    "title_hu": "Cum au transformat localnicii din „Sahara Olteniei” terenurile neroditoare în venituri de sute de euro pe an",
+    "lead_hu": "Într-o comună din Dolj, peste 1.000 de localnici primesc sute de euro anual pentru terenurile nisipoase pe care au acceptat să le împădurească. În „Sahara Olteniei”, pădurile au devenit o sursă de ven...",
+    "content_hu": "Într-o comună din Dolj, peste 1.000 de localnici primesc sute de euro anual pentru terenurile nisipoase pe care au acceptat să le împădurească. În „Sahara Olteniei”, pădurile au devenit o sursă de venit și o barieră împotriva deșertificării.",
+    "title_ro": "Cum au transformat localnicii din „Sahara Olteniei” terenurile neroditoare în venituri de sute de euro pe an",
+    "lead_ro": "Într-o comună din Dolj, peste 1.000 de localnici primesc sute de euro anual pentru terenurile nisipoase pe care au acceptat să le împădurească. În „Sahara Olteniei”, pădurile au devenit o sursă de ven...",
+    "content_ro": "Într-o comună din Dolj, peste 1.000 de localnici primesc sute de euro anual pentru terenurile nisipoase pe care au acceptat să le împădurească. În „Sahara Olteniei”, pădurile au devenit o sursă de venit și o barieră împotriva deșertificării.",
+    "importance_score": 0.0,
     "is_top_hero": false
   },
   {
