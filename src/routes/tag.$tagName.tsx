@@ -34,7 +34,7 @@ export const Route = createFileRoute("/tag/$tagName")({
     const tag = tagSlug(loaderData?.tag ?? params.tagName);
     const lang = loaderData?.lang ?? "hu";
     const ro = lang === "ro";
-    const label = tagLabel(tag);
+    const label = tagLabel(tag, lang);
     const count = loaderData?.count ?? 0;
     const title = ro
       ? `${label} – Știri și noutăți | Stirix.ro`
@@ -68,7 +68,7 @@ function TagPage() {
   const newsVersion = useNewsVersion();
   void newsVersion;
   const items = newsByTag(tag);
-  const label = tagLabel(tag);
+  const label = tagLabel(tag, lang);
 
   useEffect(() => {
     if (loadedLang !== lang) void router.invalidate();

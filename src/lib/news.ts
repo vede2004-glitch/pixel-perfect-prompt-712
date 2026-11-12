@@ -98,10 +98,68 @@ const TAG_LABELS: Record<string, string> = {
   sport: "Sport",
 };
 
+/** Magyar megnevezések a román nyelvű témaazonosítókhoz (a háttér románul adja a címkéket). */
+const TAG_LABELS_HU: Record<string, string> = {
+  ancheta: "Nyomozás",
+  aur: "AUR",
+  beketargyalasok: "Béketárgyalások",
+  bihor: "Bihar megye",
+  bucuresti: "Bukarest",
+  bukarest: "Bukarest",
+  buzau: "Buzău",
+  "calin-georgescu": "Călin Georgescu",
+  cernavoda: "Cernavodă",
+  csapadek: "Csapadék",
+  "curtea-constitutionala": "Alkotmánybíróság",
+  "deficit-bugetar": "Költségvetési hiány",
+  diicot: "DIICOT",
+  digitalizare: "Digitalizáció",
+  educatie: "Oktatás",
+  "extremism-violent": "Erőszakos szélsőségesség",
+  guvern: "Kormány",
+  hadifoglyok: "Hadifoglyok",
+  idojaras: "Időjárás",
+  "identitate-digitala": "Digitális személyazonosság",
+  inflatie: "Infláció",
+  "inteligenta-artificiala": "Mesterséges intelligencia",
+  iran: "Irán",
+  iskola: "Iskola",
+  justitie: "Igazságügy",
+  kina: "Kína",
+  "manchester-united": "Manchester United",
+  "mauricio-pochettino": "Mauricio Pochettino",
+  mentes: "Mentés",
+  "mesterseges-intelligencia": "Mesterséges intelligencia",
+  nato: "NATO",
+  neamt: "Neamț megye",
+  "nicusor-dan": "Nicușor Dan",
+  nuclearelectrica: "Nuclearelectrica",
+  nvidia: "NVIDIA",
+  oktatas: "Oktatás",
+  oroszorszag: "Oroszország",
+  pnl: "PNL",
+  poluare: "Környezetszennyezés",
+  psd: "PSD",
+  "reforma-administrativa": "Közigazgatási reform",
+  "ro-wallet": "RO-Wallet",
+  romania: "Románia",
+  rusia: "Oroszország",
+  securitate: "Biztonság",
+  senat: "Szenátus",
+  "siguranta-scolara": "Iskolai biztonság",
+  sondaj: "Közvélemény-kutatás",
+  spania: "Spanyolország",
+  tulcea: "Tulcea",
+  ucraina: "Ukrajna",
+  ukrajna: "Ukrajna",
+  "violenta-scolara": "Iskolai erőszak",
+};
+
 /** A címke olvasható megnevezése a témaoldal címében és a chip leírásában. */
-export function tagLabel(tag: string) {
+export function tagLabel(tag: string, lang?: Lang) {
   const slug = tagSlug(tag);
   return (
+    (lang === "hu" ? TAG_LABELS_HU[slug] : undefined) ??
     TAG_LABELS[slug] ??
     slug
       .split("-")
