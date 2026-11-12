@@ -649,7 +649,7 @@
     "title_ro": "11 morți și 51 de răniți în carambolul din Bulgaria",
     "lead_ro": "Pe autostrada Trakia s-au ciocnit 86 de vehicule, iar bilanțul oficial indică 11 morți și 51 de răniți. Șoferul român de camion a fost audiat ca martor în prezența unui interpret și apoi eliberat; ancheta continuă pentru stabilirea cauzelor.",
     "content_ro": "• **86 de vehicule s-au ciocnit în ceață** Pe 10 noiembrie, în apropiere de Iambol, la kilometrul 289 al autostrăzii A1, au avut loc două accidente în lanț legate între ele. Dintre vehicule, 63 circulau spre Burgas, iar 23 spre Sofia. Bilanțul oficial este de 11 morți și 51 de răniți, deși unele relatări inițiale au indicat alte cifre.\n\n• **Șoferul a fost eliberat după audiere** Ion Neo, în vârstă de 61 de ani, a fost reținut pentru 24 de ore și audiat din nou cu ajutorul unui interpret. Procurorii bulgari au precizat că este martor, nu suspect, și că deocamdată nu există temei pentru punerea sa sub acuzare. Potrivit declarației sale, a încetinit din cauza ceții; poziția și deplasarea camionului sunt încă verificate.\n\n• **Anchetatorii refac succesiunea impacturilor** Autoritățile încearcă să stabilească dacă TIR-ul s-a oprit, a mers foarte încet sau efectua o manevră. Mașina din spatele camionului a reușit să evite coliziunea, dar autobuzul care venea după ea l-a lovit; ulterior, un camion cu cereale a fost implicat în accident. Niciun pasager din autobuz nu a murit.\n\n• **Vizibilitatea ar fi scăzut brusc** Martorii au relatat că ceața a redus distanța vizibilă de la aproximativ 70–80 de metri la circa 10 metri. Sunt verificate vitezele, distanțele dintre vehicule, carosabilul, starea tehnică și datele de bord ale camionului; au fost audiați 44 de martori. Expertul Titi Aur a atras atenția asupra tendinței șoferilor de a urma ritmul traficului, în loc să-și adapteze conduita la condițiile reale.\n\n• **Românul rănit este tratat la Burgas** Bărbatul transporta țevi metalice spre Turcia și se află ventilat mecanic, în comă indusă; a suferit leziuni toracice, iar plămânii i-au fost afectați. După operațiunea de degajare, circulația pe autostradă a fost reluată mai întâi spre Sofia, apoi spre Burgas. În Bulgaria, 11 noiembrie a fost declarată zi de doliu național.",
-    "importance_score": 503.0,
+    "importance_score": 500.0,
     "is_top_hero": false
   },
   {
@@ -1076,6 +1076,93 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_2ad012865a",
+    "slug": "washington-europai-reszvetelt-es-uj-targyalasi-idopontot-surget-2ad012",
+    "tags": [
+      "ukrajna",
+      "oroszorszag",
+      "egyesult-allamok",
+      "beketargyalas",
+      "fogolycsere"
+    ],
+    "fingerprint": "c48b966f95fd9dc0fd38d7ab9db189bc",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 12,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "POLITICO: Trimișii speciali ai SUA vor cere acordul lui Putin pentru ca Europa să se alăture negocierilor privind Ucraina",
+        "link": "https://www.mediafax.ro/externe/politico-trimisii-speciali-ai-sua-vor-cere-acordul-lui-putin-pentru-ca-europa-sa-se-alature-negocierilor-privind-ucraina-23841558"
+      },
+      {
+        "source": "Digi24",
+        "title": "Kushner și Witkoff la Moscova: SUA vor „binecuvântarea” lui Putin pentru ca Europa să se alăture negocierilor cu Ucraina (Politico)",
+        "link": "https://www.digi24.ro/stiri/externe/ue/kushner-si-witkoff-la-moscova-sua-vor-binecuvantarea-lui-putin-pentru-ca-europa-sa-se-alature-negocierilor-cu-ucraina-politico-4032417"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Jared Kushner merge la Moscova pentru a discuta cu Putin participarea Europei la negocierile de pace din Ucraina: „Avem nevoie ca europenii să fie prezenţi la masa negocierilor”",
+        "link": "https://adevarul.ro/stiri-externe/sua/jared-kushner-merge-la-moscova-pentru-a-discuta-cu-2570830.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Discuțiile SUA-Ucraina-Rusia continuă. Emisarii Witkoff și Kushner urmează să se întâlnească cu Putin și Zelenski",
+        "link": "https://www.mediafax.ro/stirile-zilei/discutiile-sua-ucraina-rusia-continua-emisarii-witkoff-si-kushner-urmeaza-sa-se-intalneasca-cu-putin-si-zelenski-23841833"
+      },
+      {
+        "source": "Digi24",
+        "title": "SUA cere un loc pentru Europa la negocierile de pace privind Ucraina. „Avem nevoie de mult mai multe discuții” (Politico)",
+        "link": "https://www.digi24.ro/stiri/externe/sua-cere-un-loc-pentru-europa-la-negocierile-de-pace-privind-ucraina-avem-nevoie-de-mult-mai-multe-discutii-politico-4029175"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "SUA cer la negocierile tripartite cu Rusia şi Ucraina un „nou” cadru de securitate care să includă Europa",
+        "link": "https://stirileprotv.ro/stiri/international/sua-cer-la-negocierile-tripartite-cu-rusia-si-ucraina-un-nou-cadru-de-securitate-care-sa-includa-europa.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Negocierile de pace de la Abu Dhabi. SUA și Europa discută o nouă arhitectură de securitate pentru continent, în paralel cu situația Ucrainei",
+        "link": "https://www.mediafax.ro/externe/negocierile-de-pace-de-la-abu-dhabi-sua-si-europa-discuta-o-noua-arhitectura-de-securitate-pentru-continent-in-paralel-cu-situatia-ucrainei-23840922"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Un nou cadru de securitate în Europa, principalul obiectiv al Rusiei la negocierile de la Abu Dhabi (membru al delegației ruse)",
+        "link": "https://agerpres.ro/politic-extern/2026/11/10/un-nou-cadru-de-securitate-in-europa-principalul-obiectiv-al-rusiei-la-negocierile-de-la-abu-dhabi-m--1611740"
+      },
+      {
+        "source": "Agerpres (HU)",
+        "title": "Negocieri ruso-ucrainene/ Emisarii americani insistă asupra unui nou cadru de securitate în Europa",
+        "link": "https://agerpres.ro/politic-extern/2026/11/10/negocieri-ruso-ucrainene-emisarii-americani-insista-asupra-unui-nou-cadru-de-securitate-in-europa--1611810"
+      },
+      {
+        "source": "G4Media",
+        "title": "Emisarii americani Witkoff și Kushner urmează să se întâlnească cu Putin / Zelenski: ”Important este că americanii s-au dus cu propuneri concrete”",
+        "link": "https://www.g4media.ro/emisarii-americani-witkoff-si-kushner-urmeaza-sa-se-intalneasca-cu-putin-zelenski-important-este-ca-americanii-s-au-dus-cu-propuneri-concrete.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Emisarii SUA au ajuns la Moscova. Cu cine s-au întâlnit înainte de discuția de la Kremlin",
+        "link": "https://hotnews.ro/emisarii-sua-au-ajuns-la-moscova-cu-cine-s-au-intalnit-inainte-de-discutia-de-la-kremlin-2401939"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Emisarii lui Trump au ajuns la Moscova pentru o întrevedere cu Vladimir Putin",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/emisarii-lui-trump-au-ajuns-la-moscova-pentru-o-2570849.html"
+      }
+    ],
+    "published_at": 1794462849,
+    "title_hu": "Washington európai részvételt és új tárgyalási időpontot sürget",
+    "lead_hu": "Jared Kushner és Steve Witkoff csütörtökön Moszkvában kérheti Vlagyimir Putyintól, hogy az európai képviselők is bekapcsolódhassanak az ukrajnai béketárgyalásokba. Az amerikai küldöttek a következő forduló időpontját is egyeztetnék; közben Oroszország és Ukrajna elvi megállapodásra jutott egy nagyszabású fogolycseréről.",
+    "content_hu": "• **Abu-dzabi tárgyalások:** Február óta először ült egy asztalhoz közvetlenül orosz, ukrán és amerikai delegáció. A kétnapos egyeztetés nem hozott bejelentett áttörést a háború fő vitás kérdéseiben, a háború utáni európai biztonság ügye viszont napirendre került.\n\n• **Moszkvai célok:** Jared Kushner és Steve Witkoff csütörtöki útján Vlagyimir Putyin támogatását próbálhatja megszerezni az európai képviselők későbbi részvételéhez. Emellett a következő tárgyalási forduló időpontját is rögzítenék.\n\n• **Kushner várakozása:** Az amerikai megbízott közlése szerint korábban többször jelezte az orosz elnöknek és csapatának, hogy Európát is be kell vonni. Úgy látja, Moszkva nem zárkózik el az elképzeléstől, és a csütörtöki találkozón Putyin jóváhagyását reméli.\n\n• **Európa szerepe:** A kontinens képviselőinek bevonása azért is fontos, mert a háború utáni biztonsági berendezkedés szintén a megbeszélések része. Ennek átalakítása régi orosz törekvés, amely több európai fővárosban aggodalmat vált ki; az uniós kormányoknak a képviselet módjáról is dönteniük kell.\n\n• **Fogolycsere:** Az abu-dzabi egyeztetések után Moszkva és Kijev elvi megállapodást kötött egy, a háború kezdete óta várhatóan legnagyobb cseréről. A résztvevők pontos számát csütörtökön közölhetik; Washington a finn és norvég vezetők október 27-i kapcsolatfelvételét is a párbeszédet segítő fejleményként értékelte.",
+    "title_ro": "Washington cere implicarea Europei și stabilirea datei următoarei negocieri",
+    "lead_ro": "Jared Kushner și Steve Witkoff ar urma să discute joi, la Moscova, cu Vladimir Putin despre participarea reprezentanților europeni la viitoarele negocieri de pace privind Ucraina. Delegații americani vor să stabilească și data unei noi runde, în timp ce Rusia și Ucraina au convenit în principiu asupra unui schimb amplu de prizonieri.",
+    "content_ro": "• **Discuțiile de la Abu Dhabi:** Delegațiile rusă, ucraineană și americană s-au întâlnit direct pentru prima dată din februarie. Cele două zile de negocieri nu au dus la anunțarea unui acord privind principalele divergențe ale războiului, însă a fost abordată și securitatea Europei după conflict.\n\n• **Obiectivele vizitei la Moscova:** Jared Kushner și Steve Witkoff încearcă joi să obțină sprijinul lui Vladimir Putin pentru participarea reprezentanților europeni la etapa următoare a negocierilor. Cei doi urmăresc, de asemenea, să fixeze data unei noi runde.\n\n• **Așteptările lui Kushner:** Emisarul american a spus că a discutat în repetate rânduri cu liderul rus și cu echipa acestuia despre includerea Europei. El consideră că Moscova ar putea accepta propunerea și speră ca Putin să o aprobe la întâlnirea de joi.\n\n• **Rolul Europei:** Implicarea reprezentanților continentului este relevantă și pentru că arhitectura de securitate postbelică figurează printre subiectele discutate. Revizuirea acesteia este o veche solicitare a Rusiei, privită cu rezerve în mai multe capitale europene; guvernele UE trebuie să decidă și cum va fi desemnată reprezentarea europeană.\n\n• **Schimbul de prizonieri:** După discuțiile din Abu Dhabi, Moscova și Kiev au ajuns la un acord de principiu pentru un schimb care ar putea fi cel mai amplu de la începutul războiului. Numărul persoanelor implicate ar urma să fie comunicat joi; Washingtonul a apreciat și contactele liderilor finlandez și norvegian cu Putin din 27 octombrie drept un pas favorabil dialogului.",
+    "importance_score": 135.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_062b9e2e87",
     "slug": "dan-a-parlamenti-aranyokra-hivatkozott-ujabb-biralatokat-kapott-062b9e",
     "tags": [
@@ -1245,88 +1332,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_2ad012865a",
-    "slug": "washington-europai-reszvetelt-es-uj-targyalasi-idopontot-surget-2ad012",
-    "tags": [
-      "ukrajna",
-      "oroszorszag",
-      "egyesult-allamok",
-      "beketargyalas",
-      "fogolycsere"
-    ],
-    "fingerprint": "c48b966f95fd9dc0fd38d7ab9db189bc",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 11,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "POLITICO: Trimișii speciali ai SUA vor cere acordul lui Putin pentru ca Europa să se alăture negocierilor privind Ucraina",
-        "link": "https://www.mediafax.ro/externe/politico-trimisii-speciali-ai-sua-vor-cere-acordul-lui-putin-pentru-ca-europa-sa-se-alature-negocierilor-privind-ucraina-23841558"
-      },
-      {
-        "source": "Digi24",
-        "title": "Kushner și Witkoff la Moscova: SUA vor „binecuvântarea” lui Putin pentru ca Europa să se alăture negocierilor cu Ucraina (Politico)",
-        "link": "https://www.digi24.ro/stiri/externe/ue/kushner-si-witkoff-la-moscova-sua-vor-binecuvantarea-lui-putin-pentru-ca-europa-sa-se-alature-negocierilor-cu-ucraina-politico-4032417"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Jared Kushner merge la Moscova pentru a discuta cu Putin participarea Europei la negocierile de pace din Ucraina: „Avem nevoie ca europenii să fie prezenţi la masa negocierilor”",
-        "link": "https://adevarul.ro/stiri-externe/sua/jared-kushner-merge-la-moscova-pentru-a-discuta-cu-2570830.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Discuțiile SUA-Ucraina-Rusia continuă. Emisarii Witkoff și Kushner urmează să se întâlnească cu Putin și Zelenski",
-        "link": "https://www.mediafax.ro/stirile-zilei/discutiile-sua-ucraina-rusia-continua-emisarii-witkoff-si-kushner-urmeaza-sa-se-intalneasca-cu-putin-si-zelenski-23841833"
-      },
-      {
-        "source": "Digi24",
-        "title": "SUA cere un loc pentru Europa la negocierile de pace privind Ucraina. „Avem nevoie de mult mai multe discuții” (Politico)",
-        "link": "https://www.digi24.ro/stiri/externe/sua-cere-un-loc-pentru-europa-la-negocierile-de-pace-privind-ucraina-avem-nevoie-de-mult-mai-multe-discutii-politico-4029175"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SUA cer la negocierile tripartite cu Rusia şi Ucraina un „nou” cadru de securitate care să includă Europa",
-        "link": "https://stirileprotv.ro/stiri/international/sua-cer-la-negocierile-tripartite-cu-rusia-si-ucraina-un-nou-cadru-de-securitate-care-sa-includa-europa.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Negocierile de pace de la Abu Dhabi. SUA și Europa discută o nouă arhitectură de securitate pentru continent, în paralel cu situația Ucrainei",
-        "link": "https://www.mediafax.ro/externe/negocierile-de-pace-de-la-abu-dhabi-sua-si-europa-discuta-o-noua-arhitectura-de-securitate-pentru-continent-in-paralel-cu-situatia-ucrainei-23840922"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Un nou cadru de securitate în Europa, principalul obiectiv al Rusiei la negocierile de la Abu Dhabi (membru al delegației ruse)",
-        "link": "https://agerpres.ro/politic-extern/2026/11/10/un-nou-cadru-de-securitate-in-europa-principalul-obiectiv-al-rusiei-la-negocierile-de-la-abu-dhabi-m--1611740"
-      },
-      {
-        "source": "Agerpres (HU)",
-        "title": "Negocieri ruso-ucrainene/ Emisarii americani insistă asupra unui nou cadru de securitate în Europa",
-        "link": "https://agerpres.ro/politic-extern/2026/11/10/negocieri-ruso-ucrainene-emisarii-americani-insista-asupra-unui-nou-cadru-de-securitate-in-europa--1611810"
-      },
-      {
-        "source": "G4Media",
-        "title": "Emisarii americani Witkoff și Kushner urmează să se întâlnească cu Putin / Zelenski: ”Important este că americanii s-au dus cu propuneri concrete”",
-        "link": "https://www.g4media.ro/emisarii-americani-witkoff-si-kushner-urmeaza-sa-se-intalneasca-cu-putin-zelenski-important-este-ca-americanii-s-au-dus-cu-propuneri-concrete.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Emisarii SUA au ajuns la Moscova. Cu cine s-au întâlnit înainte de discuția de la Kremlin",
-        "link": "https://hotnews.ro/emisarii-sua-au-ajuns-la-moscova-cu-cine-s-au-intalnit-inainte-de-discutia-de-la-kremlin-2401939"
-      }
-    ],
-    "published_at": 1794462849,
-    "title_hu": "Washington európai részvételt és új tárgyalási időpontot sürget",
-    "lead_hu": "Jared Kushner és Steve Witkoff csütörtökön Moszkvában kérheti Vlagyimir Putyintól, hogy az európai képviselők is bekapcsolódhassanak az ukrajnai béketárgyalásokba. Az amerikai küldöttek a következő forduló időpontját is egyeztetnék; közben Oroszország és Ukrajna elvi megállapodásra jutott egy nagyszabású fogolycseréről.",
-    "content_hu": "• **Abu-dzabi tárgyalások:** Február óta először ült egy asztalhoz közvetlenül orosz, ukrán és amerikai delegáció. A kétnapos egyeztetés nem hozott bejelentett áttörést a háború fő vitás kérdéseiben, a háború utáni európai biztonság ügye viszont napirendre került.\n\n• **Moszkvai célok:** Jared Kushner és Steve Witkoff csütörtöki útján Vlagyimir Putyin támogatását próbálhatja megszerezni az európai képviselők későbbi részvételéhez. Emellett a következő tárgyalási forduló időpontját is rögzítenék.\n\n• **Kushner várakozása:** Az amerikai megbízott közlése szerint korábban többször jelezte az orosz elnöknek és csapatának, hogy Európát is be kell vonni. Úgy látja, Moszkva nem zárkózik el az elképzeléstől, és a csütörtöki találkozón Putyin jóváhagyását reméli.\n\n• **Európa szerepe:** A kontinens képviselőinek bevonása azért is fontos, mert a háború utáni biztonsági berendezkedés szintén a megbeszélések része. Ennek átalakítása régi orosz törekvés, amely több európai fővárosban aggodalmat vált ki; az uniós kormányoknak a képviselet módjáról is dönteniük kell.\n\n• **Fogolycsere:** Az abu-dzabi egyeztetések után Moszkva és Kijev elvi megállapodást kötött egy, a háború kezdete óta várhatóan legnagyobb cseréről. A résztvevők pontos számát csütörtökön közölhetik; Washington a finn és norvég vezetők október 27-i kapcsolatfelvételét is a párbeszédet segítő fejleményként értékelte.",
-    "title_ro": "Washington cere implicarea Europei și stabilirea datei următoarei negocieri",
-    "lead_ro": "Jared Kushner și Steve Witkoff ar urma să discute joi, la Moscova, cu Vladimir Putin despre participarea reprezentanților europeni la viitoarele negocieri de pace privind Ucraina. Delegații americani vor să stabilească și data unei noi runde, în timp ce Rusia și Ucraina au convenit în principiu asupra unui schimb amplu de prizonieri.",
-    "content_ro": "• **Discuțiile de la Abu Dhabi:** Delegațiile rusă, ucraineană și americană s-au întâlnit direct pentru prima dată din februarie. Cele două zile de negocieri nu au dus la anunțarea unui acord privind principalele divergențe ale războiului, însă a fost abordată și securitatea Europei după conflict.\n\n• **Obiectivele vizitei la Moscova:** Jared Kushner și Steve Witkoff încearcă joi să obțină sprijinul lui Vladimir Putin pentru participarea reprezentanților europeni la etapa următoare a negocierilor. Cei doi urmăresc, de asemenea, să fixeze data unei noi runde.\n\n• **Așteptările lui Kushner:** Emisarul american a spus că a discutat în repetate rânduri cu liderul rus și cu echipa acestuia despre includerea Europei. El consideră că Moscova ar putea accepta propunerea și speră ca Putin să o aprobe la întâlnirea de joi.\n\n• **Rolul Europei:** Implicarea reprezentanților continentului este relevantă și pentru că arhitectura de securitate postbelică figurează printre subiectele discutate. Revizuirea acesteia este o veche solicitare a Rusiei, privită cu rezerve în mai multe capitale europene; guvernele UE trebuie să decidă și cum va fi desemnată reprezentarea europeană.\n\n• **Schimbul de prizonieri:** După discuțiile din Abu Dhabi, Moscova și Kiev au ajuns la un acord de principiu pentru un schimb care ar putea fi cel mai amplu de la începutul războiului. Numărul persoanelor implicate ar urma să fie comunicat joi; Washingtonul a apreciat și contactele liderilor finlandez și norvegian cu Putin din 27 octombrie drept un pas favorabil dialogului.",
-    "importance_score": 125.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_6d4091ef77",
     "slug": "abu-dzabi-utan-moszkva-es-dublin-fele-folytatodik-az-egyeztetes-6d4091",
     "tags": [
@@ -1411,6 +1416,73 @@
     "lead_ro": "Ucraina și Rusia au purtat negocieri mediate de Statele Unite la Abu Dhabi, în 10 și 11 noiembrie. Părțile au convenit asupra unui schimb amplu de prizonieri, însă divergențele privind teritoriile și securitatea persistă; emisarii americani urmează să discute la Moscova, apoi la Dublin.",
     "content_ro": "• **Cele două zile de negocieri au avut durate diferite.** Reuniunea din 10 noiembrie a ținut aproximativ patru ore, iar discuțiile din ziua următoare s-au încheiat în mai puțin de două ore. Volodimir Zelenski a apreciat pozitiv prima zi, în timp ce Jared Kushner a descris discuțiile drept consistente, dar tensionate.\n\n• **Teritoriile și garanțiile de securitate au fost teme centrale.** Problemele teritoriale erau prevăzute pentru a doua zi, iar în prima zi s-au discutat protecția Ucrainei și un posibil schimb de prizonieri. Moscova își menține cererile privind întregul Donbas și neutralitatea Ucrainei; Rusia controlează aproximativ o cincime din teritoriul ucrainean.\n\n• **A fost convenit un schimb de amploare al prizonierilor de război.** Detaliile punerii în aplicare sunt încă în lucru, iar numărul persoanelor implicate nu a fost precizat. În privința încheierii războiului nu a fost anunțat un acord comparabil de concret.\n\n• **Moscova promovează o discuție mai largă despre securitatea europeană.** Șeful delegației ruse a spus că subiectul a ocupat un loc important și că a existat înțelegere asupra unor aspecte, nu și asupra altora. Kievul intenționa să poarte separat consultări cu partenerii europeni, însă partea rusă a pus la îndoială utilitatea unor discuții cu aceștia.\n\n• **Kushner și Witkoff urmează să se întâlnească mai întâi cu Putin, apoi cu Zelenski.** După vizita planificată la Moscova pe 12 noiembrie, emisarii americani vor discuta la Dublin cu președintele ucrainean, care a apărut acolo alături de premierul irlandez Micheal Martin. Zelenski speră la progrese concrete până la sfârșitul anului și cere răspunsuri clare din partea SUA și Rusiei privind garanțiile de securitate.",
     "importance_score": 123.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_8da0ca5ead",
+    "slug": "nicusor-dan-dublinban-ukrajna-moldova-es-a-mesterseges-intelligencia-is-napirend-8da0ca",
+    "tags": [
+      "dublin",
+      "nicusor-dan",
+      "uniunea-europeana",
+      "ucraina",
+      "inteligenta-artificiala"
+    ],
+    "fingerprint": "7031a68d8e8ca340a2d5e4bd53f52e6d",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 8,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Președintele Nicușor Dan va participa, joi, la reuniunea Comunității Politice Europene, iar vineri la reuniunea informală a Consiliului European, dedicată exclusiv inteligenței artificiale",
+        "link": "https://www.g4media.ro/presedintele-nicusor-dan-va-participa-joi-la-reuniunea-comunitatii-politice-europene-iar-vineri-la-reuniunea-informala-a-consiliului-european-dedicata-exclusiv-inteligentei-artificiale.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan merge la Dublin pentru summitul Comunității Politice Europene. AI, securitatea Flancului Estic și sprijinul pentru Ucraina, pe agendă",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-merge-la-dublin-pentru-summitul-comunitatii-politice-europene-ai-securitatea-flancului-estic-si-sprijinul-pentru-ucraina-pe-agenda-23841692"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nicușor Dan participă la reuniunea Comunităţii Politice Europene de la Dublin şi la Consiliul European informal",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-participa-la-reuniunea-comunitatii-2570785.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Nicușor Dan pleacă în Irlanda pentru două summituri europene. Securitatea Ucrainei și inteligența artificială, pe agendă",
+        "link": "https://stirileprotv.ro/stiri/politic/nicusor-dan-pleaca-in-irlanda-pentru-doua-summituri-europene-securitatea-ucrainei-si-inteligenta-artificiala-pe-agenda.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Președintele Nicușor Dan pleacă în Irlanda, la Summitul Comunității Politice Europene și la reuniunea informală a Consiliului European",
+        "link": "https://www.mediafax.ro/politic/presedintele-nicusor-dan-pleaca-in-irlanda-la-summitul-comunitatii-politice-europene-si-la-reuniunea-informala-a-consiliului-european-23841827"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan participă la reuniunea Comunității Politice Europene, la Dublin. Agenda evenimentului",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-participa-la-reuniunea-comunitatii-politice-europene-la-dublin-agenda-evenimentului-4032169"
+      },
+      {
+        "source": "G4Media",
+        "title": "Președintele Nicușor Dan pleacă în Irlanda, la reuniunea informală a Consiliului European",
+        "link": "https://www.g4media.ro/presedintele-nicusor-dan-pleaca-in-irlanda-la-reuniunea-informala-a-consiliului-european.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "„Európa: erős, biztonságos, összekapcsolt” – Dublinba repül az elnök",
+        "link": "https://maszol.ro/kulfold/Europa-eros-biztonsagos-osszekapcsolt-Dublinba-repul-az-elnok"
+      }
+    ],
+    "published_at": 1794462261,
+    "title_hu": "Nicușor Dan Dublinban: Ukrajna, Moldova és a mesterséges intelligencia is napirenden",
+    "lead_hu": "Nicușor Dan november 12-én és 13-án Dublinban vesz részt az Európai Politikai Közösség csúcstalálkozóján, majd az Európai Tanács mesterséges intelligenciáról szóló informális ülésén. Programjában Ukrajna támogatása, a keleti szárny biztonsága, a Moldovai Köztársasággal való együttműködés és a kábítószer-kereskedelem elleni fellépés is szerepel.",
+    "content_hu": "• **November 12-én tartják a közösség kilencedik csúcstalálkozóját Dublinban.** Az ír rendezvény az európai biztonságra, versenyképességre és ellenálló képességre összpontosít. A plenáris ülésen Dan összehangolt fellépést szorgalmazhat, és a stratégiai összeköttetések, valamint a demokratikus intézmények védelmének erősítését helyezheti előtérbe.\n\n• **A román elnök külön figyelmet fordít a keleti szárnyra és a Fekete-tenger térségére.** A közlekedési infrastruktúra, az energia és a regionális kapcsolatok fejlesztéséről is egyeztetnek, különös tekintettel az Ukrajnával és Moldovával kialakítandó összeköttetésekre.\n\n• **A biztonsági kerekasztal Ukrajnáról és a hibrid fenyegetésekről szól.** A résztvevők a demokratikus folyamatok védelmét, a külföldi beavatkozás és az információmanipuláció elleni fellépést is megvitatják. Dan a tervek szerint az Ukrajnának nyújtott segítség fenntartását támogatja egy igazságos és tartós béke eléréséig.\n\n• **A csütörtöki program része a Moldovai Köztársaságot támogató csoport ülése és az ECAD találkozója.** Utóbbin a kábítószer-kereskedelem visszaszorítása, a kikötők és útvonalak védelme, továbbá a megelőzés és a fiatalok, illetve a kiszolgáltatott csoportok védelme kerül előtérbe. A napirendben kerekasztal, plenáris záróülés és Micheál Martin ír miniszterelnök által adott vacsora is szerepel.\n\n• **November 13-án az uniós vezetők kizárólag a mesterséges intelligenciáról tanácskoznak.** A dublini informális Európai Tanács-ülés az első olyan vezetői szintű egyeztetésként szerepel, amelyet teljes egészében ennek a témának szentelnek; Írország az EU Tanácsának soros elnökeként látja vendégül a résztvevőket.",
+    "title_ro": "Nicușor Dan, la Dublin: Ucraina, Republica Moldova și inteligența artificială, pe agendă",
+    "lead_ro": "Nicușor Dan va participa la Dublin, pe 12 și 13 noiembrie, la summitul Comunității Politice Europene și la reuniunea informală a Consiliului European dedicată inteligenței artificiale. Programul său include sprijinul pentru Ucraina, securitatea Flancului Estic, cooperarea cu Republica Moldova și combaterea traficului de droguri.",
+    "content_ro": "• **A noua reuniune a Comunității Politice Europene are loc la Dublin pe 12 noiembrie.** Evenimentul găzduit de Irlanda se concentrează asupra securității, competitivității și rezilienței Europei. În plen, Dan urmează să susțină o abordare coordonată și consolidarea conexiunilor strategice și a protecției instituțiilor democratice.\n\n• **Președintele român va acorda o atenție specială Flancului Estic și regiunii Mării Negre.** Discuțiile vizează cooperarea în transporturi, energie și conectivitate regională, cu accent pe dezvoltarea legăturilor cu Ucraina și Republica Moldova.\n\n• **Masa rotundă de securitate va aborda sprijinul pentru Ucraina și amenințările hibride.** Participanții vor discuta apărarea proceselor democratice și contracararea ingerințelor străine și a manipulării informaționale. Potrivit agendei anunțate, Dan va susține continuarea ajutorului pentru Ucraina până la obținerea unei păci juste și durabile.\n\n• **Programul de joi cuprinde reuniunea grupului de sprijin pentru Republica Moldova și întâlnirea ECAD.** În cadrul acesteia din urmă vor fi discutate combaterea traficului de droguri, securizarea porturilor și a rutelor, precum și prevenția și protejarea tinerilor și a grupurilor vulnerabile. Agenda mai include o masă rotundă, sesiunea plenară de închidere și un dineu oferit de premierul irlandez Micheál Martin.\n\n• **Pe 13 noiembrie, liderii UE vor discuta exclusiv despre inteligența artificială.** Reuniunea informală de la Dublin este prezentată drept prima discuție la nivel de lideri dedicată în întregime acestui subiect. Irlanda găzduiește întâlnirea în perioada în care deține președinția rotativă a Consiliului UE.",
+    "importance_score": 95.0,
     "is_top_hero": false
   },
   {
@@ -1558,68 +1630,6 @@
     "is_top_hero": false
   },
   {
-    "group_id": "group_8da0ca5ead",
-    "slug": "nicusor-dan-dublinban-ukrajna-moldova-es-a-mesterseges-intelligencia-is-napirend-8da0ca",
-    "tags": [
-      "dublin",
-      "nicusor-dan",
-      "uniunea-europeana",
-      "ucraina",
-      "inteligenta-artificiala"
-    ],
-    "fingerprint": "7031a68d8e8ca340a2d5e4bd53f52e6d",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Președintele Nicușor Dan va participa, joi, la reuniunea Comunității Politice Europene, iar vineri la reuniunea informală a Consiliului European, dedicată exclusiv inteligenței artificiale",
-        "link": "https://www.g4media.ro/presedintele-nicusor-dan-va-participa-joi-la-reuniunea-comunitatii-politice-europene-iar-vineri-la-reuniunea-informala-a-consiliului-european-dedicata-exclusiv-inteligentei-artificiale.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Nicușor Dan merge la Dublin pentru summitul Comunității Politice Europene. AI, securitatea Flancului Estic și sprijinul pentru Ucraina, pe agendă",
-        "link": "https://www.mediafax.ro/politic/nicusor-dan-merge-la-dublin-pentru-summitul-comunitatii-politice-europene-ai-securitatea-flancului-estic-si-sprijinul-pentru-ucraina-pe-agenda-23841692"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Nicușor Dan participă la reuniunea Comunităţii Politice Europene de la Dublin şi la Consiliul European informal",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-participa-la-reuniunea-comunitatii-2570785.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Nicușor Dan pleacă în Irlanda pentru două summituri europene. Securitatea Ucrainei și inteligența artificială, pe agendă",
-        "link": "https://stirileprotv.ro/stiri/politic/nicusor-dan-pleaca-in-irlanda-pentru-doua-summituri-europene-securitatea-ucrainei-si-inteligenta-artificiala-pe-agenda.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Președintele Nicușor Dan pleacă în Irlanda, la Summitul Comunității Politice Europene și la reuniunea informală a Consiliului European",
-        "link": "https://www.mediafax.ro/politic/presedintele-nicusor-dan-pleaca-in-irlanda-la-summitul-comunitatii-politice-europene-si-la-reuniunea-informala-a-consiliului-european-23841827"
-      },
-      {
-        "source": "Digi24",
-        "title": "Nicușor Dan participă la reuniunea Comunității Politice Europene, la Dublin. Agenda evenimentului",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-participa-la-reuniunea-comunitatii-politice-europene-la-dublin-agenda-evenimentului-4032169"
-      },
-      {
-        "source": "G4Media",
-        "title": "Președintele Nicușor Dan pleacă în Irlanda, la reuniunea informală a Consiliului European",
-        "link": "https://www.g4media.ro/presedintele-nicusor-dan-pleaca-in-irlanda-la-reuniunea-informala-a-consiliului-european.html"
-      }
-    ],
-    "published_at": 1794462261,
-    "title_hu": "Nicușor Dan Dublinban: Ukrajna, Moldova és a mesterséges intelligencia is napirenden",
-    "lead_hu": "Nicușor Dan november 12-én és 13-án Dublinban vesz részt az Európai Politikai Közösség csúcstalálkozóján, majd az Európai Tanács mesterséges intelligenciáról szóló informális ülésén. Programjában Ukrajna támogatása, a keleti szárny biztonsága, a Moldovai Köztársasággal való együttműködés és a kábítószer-kereskedelem elleni fellépés is szerepel.",
-    "content_hu": "• **November 12-én tartják a közösség kilencedik csúcstalálkozóját Dublinban.** Az ír rendezvény az európai biztonságra, versenyképességre és ellenálló képességre összpontosít. A plenáris ülésen Dan összehangolt fellépést szorgalmazhat, és a stratégiai összeköttetések, valamint a demokratikus intézmények védelmének erősítését helyezheti előtérbe.\n\n• **A román elnök külön figyelmet fordít a keleti szárnyra és a Fekete-tenger térségére.** A közlekedési infrastruktúra, az energia és a regionális kapcsolatok fejlesztéséről is egyeztetnek, különös tekintettel az Ukrajnával és Moldovával kialakítandó összeköttetésekre.\n\n• **A biztonsági kerekasztal Ukrajnáról és a hibrid fenyegetésekről szól.** A résztvevők a demokratikus folyamatok védelmét, a külföldi beavatkozás és az információmanipuláció elleni fellépést is megvitatják. Dan a tervek szerint az Ukrajnának nyújtott segítség fenntartását támogatja egy igazságos és tartós béke eléréséig.\n\n• **A csütörtöki program része a Moldovai Köztársaságot támogató csoport ülése és az ECAD találkozója.** Utóbbin a kábítószer-kereskedelem visszaszorítása, a kikötők és útvonalak védelme, továbbá a megelőzés és a fiatalok, illetve a kiszolgáltatott csoportok védelme kerül előtérbe. A napirendben kerekasztal, plenáris záróülés és Micheál Martin ír miniszterelnök által adott vacsora is szerepel.\n\n• **November 13-án az uniós vezetők kizárólag a mesterséges intelligenciáról tanácskoznak.** A dublini informális Európai Tanács-ülés az első olyan vezetői szintű egyeztetésként szerepel, amelyet teljes egészében ennek a témának szentelnek; Írország az EU Tanácsának soros elnökeként látja vendégül a résztvevőket.",
-    "title_ro": "Nicușor Dan, la Dublin: Ucraina, Republica Moldova și inteligența artificială, pe agendă",
-    "lead_ro": "Nicușor Dan va participa la Dublin, pe 12 și 13 noiembrie, la summitul Comunității Politice Europene și la reuniunea informală a Consiliului European dedicată inteligenței artificiale. Programul său include sprijinul pentru Ucraina, securitatea Flancului Estic, cooperarea cu Republica Moldova și combaterea traficului de droguri.",
-    "content_ro": "• **A noua reuniune a Comunității Politice Europene are loc la Dublin pe 12 noiembrie.** Evenimentul găzduit de Irlanda se concentrează asupra securității, competitivității și rezilienței Europei. În plen, Dan urmează să susțină o abordare coordonată și consolidarea conexiunilor strategice și a protecției instituțiilor democratice.\n\n• **Președintele român va acorda o atenție specială Flancului Estic și regiunii Mării Negre.** Discuțiile vizează cooperarea în transporturi, energie și conectivitate regională, cu accent pe dezvoltarea legăturilor cu Ucraina și Republica Moldova.\n\n• **Masa rotundă de securitate va aborda sprijinul pentru Ucraina și amenințările hibride.** Participanții vor discuta apărarea proceselor democratice și contracararea ingerințelor străine și a manipulării informaționale. Potrivit agendei anunțate, Dan va susține continuarea ajutorului pentru Ucraina până la obținerea unei păci juste și durabile.\n\n• **Programul de joi cuprinde reuniunea grupului de sprijin pentru Republica Moldova și întâlnirea ECAD.** În cadrul acesteia din urmă vor fi discutate combaterea traficului de droguri, securizarea porturilor și a rutelor, precum și prevenția și protejarea tinerilor și a grupurilor vulnerabile. Agenda mai include o masă rotundă, sesiunea plenară de închidere și un dineu oferit de premierul irlandez Micheál Martin.\n\n• **Pe 13 noiembrie, liderii UE vor discuta exclusiv despre inteligența artificială.** Reuniunea informală de la Dublin este prezentată drept prima discuție la nivel de lideri dedicată în întregime acestui subiect. Irlanda găzduiește întâlnirea în perioada în care deține președinția rotativă a Consiliului UE.",
-    "importance_score": 85.0,
-    "is_top_hero": false
-  },
-  {
     "group_id": "group_4ef8716508",
     "slug": "lakhatasi-valsag-miatt-benult-meg-spanyolorszag-14-ev-utan-tartottak-altalanos-s-4ef871",
     "tags": [
@@ -1678,68 +1688,6 @@
     "title_ro": "Spania, paralizată de grevă: prima acțiune generală din ultimii 14 ani, pe fondul crizei locuințelor",
     "lead_ro": "La 11 noiembrie, Spania a fost afectată de o grevă generală de 24 de ore, prima din 2012 încoace. Protestele legate de criza locuințelor au provocat perturbări în transport și confruntări la Barcelona și Madrid, cu puțin timp înaintea alegerilor din 29 noiembrie.",
     "content_ro": "• **Spania a avut prima grevă generală din ultimii 14 ani:** acțiunea de o zi, desfășurată la 11 noiembrie, a fost inițiată de organizațiile chiriașilor și susținută de confederațiile sindicale UGT și CCOO, alături de alte grupuri. Participanții au protestat față de scumpirea chiriilor, evacuări și lipsa locuințelor accesibile. Federația asociațiilor chiriașilor a estimat că aproximativ patru milioane de persoane participaseră până la prânz.\n\n• **Zeci de mii de oameni au manifestat în cele mai mari orașe:** la Madrid au fost circa 120.000 de participanți, iar la Barcelona peste 50.000. În capitala Cataloniei, unii protestatari au incendiat coșuri de gunoi și au spart vitrine, iar poliția a folosit gaze lacrimogene. La Madrid, forțele de ordine au recurs și la proiectile cu spumă și spray cu piper pentru a dispersa manifestanții.\n\n• **Autoritățile au raportat cel puțin 73 de rețineri:** până la ora 21:00, poliția înregistrase 1.044 de incidente asociate grevei. Sindicatele au afirmat că 20 de protestatari au fost răniți într-o intervenție a forțelor de ordine și au anunțat că intenționează să depună o plângere penală, considerând reacția disproporționată.\n\n• **Sindicatele au indicat o participare ridicată în mai multe sectoare:** rata raportată a fost de 90% în porturi și industria auto, 85% în industria cărnii, 82% la colectarea deșeurilor și 75% în energie. Au fost semnalate opriri complete la o fabrică Volkswagen din Navarra și la o unitate SEAT din Barcelona; în sănătate și serviciile sociale, participarea a fost estimată la 38%.\n\n• **Locuințele rămân o temă centrală înaintea alegerilor:** potrivit băncii centrale, Spaniei îi lipsesc aproximativ 750.000 de locuințe, iar deficitul ar putea depăși un milion până în 2028. Chiria lunară medie de 1.176 de euro reprezintă 98,7% din venitul lunar mediu al unui tânăr. În sondaje, socialiștii continuă să fie în urma partidelor de opoziție.",
-    "importance_score": 85.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_e2e9f7604d",
-    "slug": "elutasitotta-a-szenatus-az-aur-nazare-elleni-inditvanyat-e2e9f7",
-    "tags": [
-      "romania",
-      "deficit-bugetar",
-      "senat",
-      "aur",
-      "alexandru-nazare"
-    ],
-    "fingerprint": "fab788104fc5ae63298489eea59f4f1f",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 7,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Senatul a respins moţiunea simplă depusă de AUR împotriva ministrului Finanțelor Alexandru Nazare",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/senatul-dezbate-si-voteaza-astazi-motiunea-simpla-depusa-de-aur-impotriva-ministrului-alexandru-nazare-4030805"
-      },
-      {
-        "source": "G4Media",
-        "title": "Moţiunea simplă iniţiată de AUR împotriva ministrului Finanţelor, dezbătută şi votată miercuri",
-        "link": "https://www.g4media.ro/motiunea-simpla-initiata-de-aur-impotriva-ministrului-finantelor-dezbatuta-si-votata-miercuri.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "AUR motion against Finance Minister Alexandru Nazare fails in the Senate",
-        "link": "https://www.mediafax.ro/english/aur-motion-against-finance-minister-alexandru-nazare-fails-in-the-senate-23841483"
-      },
-      {
-        "source": "Mediatica.ro",
-        "title": "A szenátus elutasította a pénzügyminiszter elleni AUR-indítványt",
-        "link": "https://www.mediatica.ro/hirek/politika/a-szenatus-elutasitotta-a-penzugyminiszter-elleni-aur-inditvanyt"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Senatul dezbate şi votează moţiunea simplă depusă de AUR împotriva ministrului Finanţelor, Alexandru Nazare",
-        "link": "https://stirileprotv.ro/stiri/politic/senatul-dezbate-si-voteaza-mo-iunea-simpla-depusa-de-aur-impotriva-ministrului-finan-elor-alexandru-nazare.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Moțiunea AUR împotriva ministrului Finanțelor, dezbătută și votată miercuri la Senat",
-        "link": "https://www.mediafax.ro/politic/motiunea-aur-impotriva-ministrului-finantelor-dezbatuta-si-votata-miercuri-la-senat-23841271"
-      },
-      {
-        "source": "G4Media",
-        "title": "Moțiunea inițiată de partidul extremist AUR împotriva ministrului Finanțelor, Aexandru Nazare, dezbătută și votată miercuri la Senat",
-        "link": "https://www.g4media.ro/motiunea-initiata-de-partidul-extremist-aur-impotriva-ministrului-finantelor-aexandru-nazare-dezbatuta-si-votata-miercuri-la-senat.html"
-      }
-    ],
-    "published_at": 1794457699,
-    "title_hu": "Elutasította a szenátus az AUR Nazare elleni indítványát",
-    "lead_hu": "A román szenátus november 11-én elutasította az Alexandru Nazare pénzügyminiszterrel szemben benyújtott AUR-indítványt. A tárcavezető szerint a deficit mind a nemzeti, mind az uniós elszámolásban mérséklődik, és a negyedéves, illetve éves összevetések is csökkenést mutatnak.",
-    "content_hu": "• **A szenátus elvetette az indítványt.** A november 11-i titkos elektronikus szavazáson 21 szenátor támogatta a kezdeményezést, 46-an ellene voksoltak, 13-an tartózkodtak, 14-en pedig nem adtak le szavazatot.\n\n• **Az AUR rendszeres ESA-adatközlést sürgetett.** Petrișor Peiu, a párt szenátusi frakcióvezetője terjesztette be az indítványt, amelyet 34-en írtak alá: 30 AUR-os szenátor és négy független parlamenti képviselő. A kezdeményezők a készpénzalapú adatok mellett az európai módszer szerinti hiánybecslések időszakos közzétételét kérték.\n\n• **Az aláírók a 2026-os első félév adataira hivatkoztak.** Szerintük a készpénzalapú deficit mintegy 41 milliárd lej, az ESA-módszer szerinti érték pedig 69 milliárd lejnél is több volt, így a különbség meghaladta a 28 milliárd lejt. Ezeket az értékeket az indítvány támogatói közölték.\n\n• **Nazare egyetlen költségvetési végrehajtás kétféle olvasatáról beszélt.** A nemzeti, pénzforgalmi elszámolás a tényleges pénzmozgásokat követi, az uniós ESA-rendszer pedig a kötelezettségek keletkezéséhez rendeli a bevételeket és kiadásokat. A miniszter szerint mindkét módszer csökkenő hiányt jelez: a negyedéves adatokat az előző év azonos időszakához, az éves számokat pedig a korábbi lezárt évekhez mérte.\n\n• **A pénzügyminisztérium új helyzetjelentést készít.** Nazare azt mondta, a tárca néhány napon belül összefoglalót állít össze az államháztartás állapotáról.",
-    "title_ro": "Senatul a respins moțiunea AUR împotriva lui Nazare",
-    "lead_ro": "Senatul României a respins, pe 11 noiembrie, moțiunea AUR împotriva ministrului Finanțelor, Alexandru Nazare. Ministrul a afirmat că deficitul se reduce atât potrivit calculului național, cât și celui european, iar comparațiile trimestriale și anuale indică aceeași evoluție.",
-    "content_ro": "• **Senatul a respins moțiunea.** La votul electronic secret din 11 noiembrie, 21 de senatori au susținut inițiativa, 46 au votat împotrivă, 13 s-au abținut, iar 14 nu au votat.\n\n• **AUR a cerut publicarea periodică a estimărilor ESA.** Moțiunea a fost prezentată de Petrișor Peiu, liderul grupului senatorilor partidului, și a fost semnată de 34 de parlamentari: 30 de senatori AUR și patru aleși neafiliați. Semnatarii au solicitat ca datele calculate după regulile europene să fie făcute publice alături de cele privind deficitul în numerar.\n\n• **Inițiatorii au invocat cifrele din prima jumătate a lui 2026.** Potrivit acestora, deficitul în numerar s-a situat în jurul valorii de 41 de miliarde de lei, în timp ce calculul ESA a depășit 69 de miliarde, diferența fiind mai mare de 28 de miliarde. Valorile au fost prezentate de susținătorii moțiunii.\n\n• **Nazare a susținut că există o singură execuție bugetară, analizată prin două metode.** Calculul național urmărește fluxurile efective de bani, iar sistemul european ESA înregistrează veniturile și cheltuielile în funcție de momentul apariției obligațiilor. Ministrul a spus că ambele metode arată o scădere: datele fiecărui trimestru sunt mai mici decât cele din trimestrul similar al anului precedent, iar cifrele anuale indică reducere față de anii încheiați anterior.\n\n• **Ministerul Finanțelor urmează să publice o nouă informare.** Nazare a anunțat că instituția va pregăti în câteva zile o prezentare privind situația finanțelor publice.",
     "importance_score": 85.0,
     "is_top_hero": false
   },
@@ -2476,6 +2424,63 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_8b05d928bb",
+    "slug": "ciucu-kormanyzati-tamogatast-kert-bukarest-fejlesztesehez-8b05d9",
+    "tags": [
+      "bucuresti",
+      "poluare",
+      "sacet",
+      "termoficare",
+      "guvern"
+    ],
+    "fingerprint": "d515e139df556f1e68bfc2d580b0b4cd",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Ciprian Ciucu, în vizită la Palatul Victoria. Ce a discutat cu Luca Niculescu",
+        "link": "https://www.mediafax.ro/politic/ciprian-ciucu-in-vizita-la-palatul-victoria-ce-a-discutat-cu-luca-niculescu-23841678"
+      },
+      {
+        "source": "Digi24",
+        "title": "Luca Niculescu, întâlnire cu primarul Capitalei la Palatul Victoria. Ciprian Ciucu: „L-am rugat să ne sprijine în realizarea SACET”",
+        "link": "https://www.digi24.ro/stiri/actualitate/luca-niculescu-intalnire-cu-primarul-capitalei-la-palatul-victoria-ciprian-ciucu-l-am-rugat-sa-ne-sprijine-in-realizarea-sacet-4032089"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ciucu îi cere premierului sprijin pentru rezolvarea problemelor Capitalei: „Primăria nu se poate descurca singură, fără Guvern”",
+        "link": "https://adevarul.ro/politica/ciucu-ii-cere-premierului-sprijin-pentru-2570782.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ciucu a mers la Palatul Victoria pentru o discuție cu premierul. „Probleme cu care Primăria Capitalei fără Guvern nu se poate descurca”",
+        "link": "https://hotnews.ro/ciucu-a-mers-la-palatul-victoria-pentru-o-discutie-cu-premierul-probleme-cu-care-primaria-capitalei-fara-guvern-nu-se-poate-descurca-2401675"
+      },
+      {
+        "source": "G4Media",
+        "title": "Întâlnire Luca Niculescu – Ciprian Ciucu despre dezvoltarea Bucureștiului / Primarul Capitalei: „Sunt încrezător după această primă întânire că putem facem lucruri importante anul viitor”",
+        "link": "https://www.g4media.ro/intalnire-luca-niculescu-ciprian-ciucu-despre-dezvoltarea-bucurestiului-primarul-capitalei-sunt-increzator-dupa-aceasta-prima-intanire-ca-putem-facem-lucruri-importante-anul-viitor.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Ciprian Ciucu i-a cerut premierului sprijin pentru București. Poluarea și termoficarea, principalele probleme discutate",
+        "link": "https://stirileprotv.ro/stiri/politic/ciprian-ciucu-i-a-cerut-premierului-sprijin-pentru-bucuresti-poluarea-si-termoficarea-principalele-probleme-discutate.html"
+      }
+    ],
+    "published_at": 1794421248,
+    "title_hu": "Ciucu kormányzati támogatást kért Bukarest fejlesztéséhez",
+    "lead_hu": "Luca Niculescu miniszterelnök szerdán a Victoria-palotában tárgyalt Ciprian Ciucu bukaresti főpolgármesterrel. A másfél órás egyeztetésen a levegőszennyezés mérséklése és a fővárosi távhőrendszer fejlesztése került előtérbe.",
+    "content_hu": "• **Ciucu kezdeményezte a találkozót**, amelyen a bukaresti levegőminőség javításáról egyeztetett a miniszterelnökkel. A főpolgármester szerint a város szennyezésének fő forrásait a főpolgármesteri hivatal és több minisztérium munkatársainak közös fellépésével lehet kezelni.\n\n• **A légszennyezés mérséklését pénzügyi kockázatok is indokolják.** Ciucu arra hívta fel a figyelmet, hogy a késlekedés miatt Romániának jelentős bírságokat kellhet fizetnie. A forrás nem közölt összeget a lehetséges büntetésekről.\n\n• **A főpolgármester a SACET bukaresti kiépítéséhez is támogatást kért.** A központosított hőenergia-ellátás fejlesztését a Termoenergetica újabb pénzügyi összeomlásának megelőzésével indokolta, a korábbi RADET-esethez hasonlítva.\n\n• **A kezdeményezés előkészítésének két fontos lépése már megtörtént:** Ciucu közlése szerint elkészült a memorandum, a fővárosi közgyűlés pedig megszavazta a javaslatot. Úgy vélte, hogy a teljes jogkörrel működő kormány mellett folytatódhat a folyamat.\n\n• **A megbeszélés másfél órán át tartott**, és a főváros fejlesztésére, valamint életminőségének javítására is kiterjedt. Niculescu a párbeszédre és a megalapozott megoldásokra épülő együttműködést jelölte meg közös irányként.",
+    "title_ro": "Ciucu a cerut sprijin guvernamental pentru proiectele Bucureștiului",
+    "lead_ro": "Premierul Luca Niculescu s-a întâlnit miercuri, la Palatul Victoria, cu primarul general Ciprian Ciucu. Discuția, care a durat o oră și jumătate, a vizat reducerea poluării și dezvoltarea sistemului de termoficare al Capitalei.",
+    "content_ro": "• **Ciucu a solicitat întrevederea**, iar discuția cu premierul s-a concentrat asupra îmbunătățirii calității aerului din București. Primarul consideră că identificarea și înlăturarea principalelor surse de poluare necesită colaborarea angajaților Primăriei Capitalei cu echipe din mai multe ministere.\n\n• **Reducerea poluării este legată și de riscul unor costuri pentru România.** Ciucu a avertizat că lipsa unor măsuri rapide ar putea atrage amenzi importante pentru țară. Sursa nu precizează valoarea eventualelor sancțiuni.\n\n• **Primarul a cerut sprijin pentru implementarea SACET în București.** Dezvoltarea sistemului centralizat de alimentare cu energie termică ar urma să prevină o nouă situație financiară gravă la Termoenergetica, comparabilă cu falimentul RADET.\n\n• **Pregătirea proiectului a avansat deja în două privințe:** potrivit lui Ciucu, memorandumul a fost întocmit, iar Consiliul General a aprobat inițiativa. El a apreciat că demersul poate continua acum, în condițiile în care guvernul are atribuții depline.\n\n• **Întâlnirea a durat o oră și jumătate** și a abordat atât dezvoltarea Capitalei, cât și calitatea vieții locuitorilor. Niculescu a prezentat dialogul și soluțiile fundamentate drept repere ale colaborării dintre administrația locală și cea centrală.",
+    "importance_score": 65.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_1bd2a04296",
     "slug": "rusen-fogdaban-marad-georgescu-hazi-orizetbe-kerulhet-1bd2a0",
     "tags": [
@@ -3011,58 +3016,6 @@
     "title_ro": "Salariul mediu din Bulgaria a depășit ușor nivelul din România în euro",
     "lead_ro": "Estimările pentru trimestrul al doilea din 2026 arată că salariul mediu net exprimat în euro a fost puțin mai mare în Bulgaria decât în România. Noile date confirmă efectul cursului leu-euro, iar cifrele din august pentru București indică atât o creștere anuală a salariilor, cât și o scădere a numărului de salariați.",
     "content_ro": "• **Salariul mediu net estimat în Bulgaria a fost cu circa 13 euro mai mare.** În comparația pentru aprilie–iunie 2026, valoarea lunară a fost de aproximativ 1.121 de euro în Bulgaria și 1.108 euro în România. Calculul folosește metode diferite pentru cele două țări, astfel că diferența trebuie privită ca o estimare.\n\n• **Deprecierea leului a redus valoarea salariilor românești în euro.** Iulian Lolea, economist-șef al Concordia, a indicat că din 2025 cursul euro-leu a crescut cu aproximativ 8%. Bulgaria a păstrat un curs fix înainte de adoptarea monedei euro în 2026.\n\n• **Creșterea salariilor trebuie să compenseze și efectul valutar.** În exemplul prezentat de Lolea, dacă leul se depreciază cu 6%, iar salariile bulgare urcă tot cu 6%, cele românești ar trebui să crească cu cel puțin 12% pentru a păstra diferența de comparație.\n\n• **În București, salariul a crescut într-un an, dar efectivul de angajați s-a redus.** Capitala avea 1.100.343 de salariați în august 2026, cu 14.503 mai puțini decât în aceeași lună a anului precedent. Salariul mediu net a ajuns la 7.283 de lei, față de 6.822 de lei cu un an înainte, însă a coborât cu 186 de lei comparativ cu iulie.\n\n• **Avantajul salarial al României s-a diminuat considerabil față de anii anteriori.** Diferența dintre salariile medii exprimate în euro ajunsese la 31% în 2019. Pe lângă cursul de schimb, veniturile nete au fost influențate de eliminarea unor facilități fiscale în 2025 și de restructurările din industria auto și IT&C.",
-    "importance_score": 58.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_8b05d928bb",
-    "slug": "ciucu-kormanyzati-tamogatast-kert-bukarest-fejlesztesehez-8b05d9",
-    "tags": [
-      "bucuresti",
-      "poluare",
-      "sacet",
-      "termoficare",
-      "guvern"
-    ],
-    "fingerprint": "d515e139df556f1e68bfc2d580b0b4cd",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Ciprian Ciucu, în vizită la Palatul Victoria. Ce a discutat cu Luca Niculescu",
-        "link": "https://www.mediafax.ro/politic/ciprian-ciucu-in-vizita-la-palatul-victoria-ce-a-discutat-cu-luca-niculescu-23841678"
-      },
-      {
-        "source": "Digi24",
-        "title": "Luca Niculescu, întâlnire cu primarul Capitalei la Palatul Victoria. Ciprian Ciucu: „L-am rugat să ne sprijine în realizarea SACET”",
-        "link": "https://www.digi24.ro/stiri/actualitate/luca-niculescu-intalnire-cu-primarul-capitalei-la-palatul-victoria-ciprian-ciucu-l-am-rugat-sa-ne-sprijine-in-realizarea-sacet-4032089"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Ciucu îi cere premierului sprijin pentru rezolvarea problemelor Capitalei: „Primăria nu se poate descurca singură, fără Guvern”",
-        "link": "https://adevarul.ro/politica/ciucu-ii-cere-premierului-sprijin-pentru-2570782.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ciucu a mers la Palatul Victoria pentru o discuție cu premierul. „Probleme cu care Primăria Capitalei fără Guvern nu se poate descurca”",
-        "link": "https://hotnews.ro/ciucu-a-mers-la-palatul-victoria-pentru-o-discutie-cu-premierul-probleme-cu-care-primaria-capitalei-fara-guvern-nu-se-poate-descurca-2401675"
-      },
-      {
-        "source": "G4Media",
-        "title": "Întâlnire Luca Niculescu – Ciprian Ciucu despre dezvoltarea Bucureștiului / Primarul Capitalei: „Sunt încrezător după această primă întânire că putem facem lucruri importante anul viitor”",
-        "link": "https://www.g4media.ro/intalnire-luca-niculescu-ciprian-ciucu-despre-dezvoltarea-bucurestiului-primarul-capitalei-sunt-increzator-dupa-aceasta-prima-intanire-ca-putem-facem-lucruri-importante-anul-viitor.html"
-      }
-    ],
-    "published_at": 1794421248,
-    "title_hu": "Ciucu kormányzati támogatást kért Bukarest fejlesztéséhez",
-    "lead_hu": "Luca Niculescu miniszterelnök szerdán a Victoria-palotában tárgyalt Ciprian Ciucu bukaresti főpolgármesterrel. A másfél órás egyeztetésen a levegőszennyezés mérséklése és a fővárosi távhőrendszer fejlesztése került előtérbe.",
-    "content_hu": "• **Ciucu kezdeményezte a találkozót**, amelyen a bukaresti levegőminőség javításáról egyeztetett a miniszterelnökkel. A főpolgármester szerint a város szennyezésének fő forrásait a főpolgármesteri hivatal és több minisztérium munkatársainak közös fellépésével lehet kezelni.\n\n• **A légszennyezés mérséklését pénzügyi kockázatok is indokolják.** Ciucu arra hívta fel a figyelmet, hogy a késlekedés miatt Romániának jelentős bírságokat kellhet fizetnie. A forrás nem közölt összeget a lehetséges büntetésekről.\n\n• **A főpolgármester a SACET bukaresti kiépítéséhez is támogatást kért.** A központosított hőenergia-ellátás fejlesztését a Termoenergetica újabb pénzügyi összeomlásának megelőzésével indokolta, a korábbi RADET-esethez hasonlítva.\n\n• **A kezdeményezés előkészítésének két fontos lépése már megtörtént:** Ciucu közlése szerint elkészült a memorandum, a fővárosi közgyűlés pedig megszavazta a javaslatot. Úgy vélte, hogy a teljes jogkörrel működő kormány mellett folytatódhat a folyamat.\n\n• **A megbeszélés másfél órán át tartott**, és a főváros fejlesztésére, valamint életminőségének javítására is kiterjedt. Niculescu a párbeszédre és a megalapozott megoldásokra épülő együttműködést jelölte meg közös irányként.",
-    "title_ro": "Ciucu a cerut sprijin guvernamental pentru proiectele Bucureștiului",
-    "lead_ro": "Premierul Luca Niculescu s-a întâlnit miercuri, la Palatul Victoria, cu primarul general Ciprian Ciucu. Discuția, care a durat o oră și jumătate, a vizat reducerea poluării și dezvoltarea sistemului de termoficare al Capitalei.",
-    "content_ro": "• **Ciucu a solicitat întrevederea**, iar discuția cu premierul s-a concentrat asupra îmbunătățirii calității aerului din București. Primarul consideră că identificarea și înlăturarea principalelor surse de poluare necesită colaborarea angajaților Primăriei Capitalei cu echipe din mai multe ministere.\n\n• **Reducerea poluării este legată și de riscul unor costuri pentru România.** Ciucu a avertizat că lipsa unor măsuri rapide ar putea atrage amenzi importante pentru țară. Sursa nu precizează valoarea eventualelor sancțiuni.\n\n• **Primarul a cerut sprijin pentru implementarea SACET în București.** Dezvoltarea sistemului centralizat de alimentare cu energie termică ar urma să prevină o nouă situație financiară gravă la Termoenergetica, comparabilă cu falimentul RADET.\n\n• **Pregătirea proiectului a avansat deja în două privințe:** potrivit lui Ciucu, memorandumul a fost întocmit, iar Consiliul General a aprobat inițiativa. El a apreciat că demersul poate continua acum, în condițiile în care guvernul are atribuții depline.\n\n• **Întâlnirea a durat o oră și jumătate** și a abordat atât dezvoltarea Capitalei, cât și calitatea vieții locuitorilor. Niculescu a prezentat dialogul și soluțiile fundamentate drept repere ale colaborării dintre administrația locală și cea centrală.",
     "importance_score": 58.0,
     "is_top_hero": false
   },
@@ -4077,6 +4030,38 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_72dce8ea66",
+    "slug": "hackerii-au-folosit-ai-pentru-a-fura-peste-2000-de-documente-de-securitate-natio-72dce8",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/7725885-mediafax-foto-zuma-press-hepta-1-1-1024x623.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Hackerii au folosit AI pentru a fura peste 2.000 de documente de securitate națională din Tadjikistan. O greșeală i-a dat de gol",
+        "link": "https://www.mediafax.ro/externe/hackerii-au-folosit-ai-pentru-a-fura-peste-2-000-de-documente-de-securitate-nationala-din-tadjikistan-o-greseala-i-a-dat-de-gol-23841832"
+      },
+      {
+        "source": "G4Media",
+        "title": "Hackerii au folosit AI pentru a fura peste 2000 de documente de securitate națională din sistemele Guvernului din Tadjikistan",
+        "link": "https://www.g4media.ro/hackerii-au-folosit-ai-pentru-a-fura-peste-2000-de-documente-de-securitate-nationala-din-sistemele-guvernului-din-tadjikistan.html"
+      }
+    ],
+    "published_at": 1794463277,
+    "title_hu": "Hackerii au folosit AI pentru a fura peste 2.000 de documente de securitate națională din Tadjikistan. O greșeală i-a dat de gol",
+    "lead_hu": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de sec...",
+    "content_hu": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de securitatea națională au fost sustrase.",
+    "title_ro": "Hackerii au folosit AI pentru a fura peste 2.000 de documente de securitate națională din Tadjikistan. O greșeală i-a dat de gol",
+    "lead_ro": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de sec...",
+    "content_ro": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de securitatea națională au fost sustrase.",
+    "importance_score": 40.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_b6363d88c7",
     "slug": "ujabb-reszletek-a-bukaresti-egyetem-16-millio-lejes-sikkasztasi-ugyerol-b6363d",
     "tags": [
@@ -4698,6 +4683,37 @@
     "title_ro": "Noi drepturi pentru gravide și nou-născuți în spitale",
     "lead_ro": "Președintele Nicușor Dan a promulgat pe 11 noiembrie o lege care modifică drepturile pacienților. Noile prevederi reglementează prezența unei persoane alese de gravidă, protejarea intimității și menținerea nou-născutului alături de mamă.",
     "content_ro": "• **Femeia însărcinată poate alege o persoană care să o însoțească** pe durata travaliului și a nașterii, precum și când este transferată între secțiile aceleiași unități medicale. Dreptul se aplică în spitalele publice și private, cu respectarea normelor de igienă, epidemiologice și de siguranță medicală.\n\n• **Accesul însoțitorului poate fi restricționat doar în situații excepționale.** Este necesar un motiv obiectiv, justificat medical sau epidemiologic, iar prezența acestuia trebuie să poată pune în pericol mama, nou-născutul, personalul medical ori alți pacienți.\n\n• **Unitățile medicale trebuie să protejeze demnitatea și viața privată a gravidelor.** Legea le cere să adopte măsuri organizatorice și tehnice, inclusiv amenajarea unor spații care să asigure separarea vizuală adecvată în timpul travaliului și al nașterii.\n\n• **Nou-născutul are dreptul să rămână alături de mamă după naștere și pe durata internării.** Separarea este permisă numai din motive medicale, epidemiologice sau de siguranță, ori în cazuri de forță majoră.\n\n• **Motivele separării trebuie să fie justificate și consemnate în documentele medicale.** Legea modifică actul normativ privind drepturile pacienților și introduce garanții aplicabile în timpul sarcinii, al travaliului, al nașterii și până la externare. Nicușor Dan a promulgat actul pe 11 noiembrie.",
+    "importance_score": 35.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_341f657c0d",
+    "slug": "un-militar-de-garda-l-a-mustrat-aspru-pe-hegseth-l-341f65",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Un militar de gardă l-a mustrat aspru pe Hegseth la Mormântul Soldatului Necunoscut: „Tot timpul!”",
+        "link": "https://hotnews.ro/un-militar-de-garda-l-a-mustrat-aspru-pe-hegseth-la-mormantul-soldatului-necunoscut-tot-timpul-2401925"
+      },
+      {
+        "source": "Digi24",
+        "title": "Hegseth și membrii echipei sale au fost mustrați verbal de un soldat de gardă la Mormântul Soldatului Necunoscut",
+        "link": "https://www.digi24.ro/stiri/externe/hegseth-si-membrii-echipei-sale-au-fost-mustrati-verbal-de-un-soldat-de-garda-la-mormantul-soldatului-necunoscut-4032671"
+      }
+    ],
+    "published_at": 1794461426,
+    "title_hu": "Un militar de gardă l-a mustrat aspru pe Hegseth la Mormântul Soldatului Necunoscut: „Tot timpul!”",
+    "lead_hu": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimi…",
+    "content_hu": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimitirul Național Arlington, chiar în ziua dedicată veteranilor, transmite AFP. Într-un videoclip difuzat de presa americană și pe rețelele sociale sunt văzuți Hegseth și …",
+    "title_ro": "Un militar de gardă l-a mustrat aspru pe Hegseth la Mormântul Soldatului Necunoscut: „Tot timpul!”",
+    "lead_ro": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimi…",
+    "content_ro": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimitirul Național Arlington, chiar în ziua dedicată veteranilor, transmite AFP. Într-un videoclip difuzat de presa americană și pe rețelele sociale sunt văzuți Hegseth și …",
     "importance_score": 35.0,
     "is_top_hero": false
   },
@@ -6683,6 +6699,37 @@
     "title_ro": "Cum poate fi salvată Alina Apostol din închisoarea chineză. Ana Birchall este fermă: „Ambasadorul Chinei din România să fie chemat de urgență”",
     "lead_ro": "Ana Birchall vine cu o propunere pentru salvarea Alinei Apostol, românca închisă de nouă ani într-un penitenciar din China! Fostul ministru al Justiției a susținut că autoritățile române trebuie să tr…",
     "content_ro": "Ana Birchall vine cu o propunere pentru salvarea Alinei Apostol, românca închisă de nouă ani într-un penitenciar din China! Fostul ministru al Justiției a susținut că autoritățile române trebuie să treacă la acțiuni diplomatice ferme. Aceasta le cere președintelui și premierului să intervină în acest caz. La Dan Capatos Show, Birchall a criticat lipsa de […]",
+    "importance_score": 23.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_42ac876e30",
+    "slug": "gabi-torje-si-alin-alexuc-au-castigat-asia-express-42ac87",
+    "tags": [
+      "sport"
+    ],
+    "category": "Sport",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Gabi Torje și Alin Alexuc au câștigat Asia Express! Câți bani au primit",
+        "link": "https://www.gsp.ro/gsp-special/media/gabi-torje-si-alin-alexuc-au-castigat-asia-express-cati-bani-au-primit-998291.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Gabi Torje a petrecut în club alături de Mirela Vaida, după ce a câștigat Asia Express. Imaginile care spun totul",
+        "link": "https://www.cancan.ro/gabi-torje-a-petrecut-in-club-alaturi-de-mirela-vaida-dupa-ce-a-castigat-asia-express-imaginile-care-spun-totul-21546194"
+      }
+    ],
+    "published_at": 1794434174,
+    "title_hu": "Gabi Torje și Alin Alexuc au câștigat Asia Express! Câți bani au primit",
+    "lead_hu": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de…",
+    "content_hu": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de euro. După două luni de aventură, cele două echipe rămase în competiție au luptat aseară pentru marele premiu din finala Asia Express - Drumul Mătăsii. Gabi Torje și Alin Alexuc s-au luptat pentru cei 30. ...",
+    "title_ro": "Gabi Torje și Alin Alexuc au câștigat Asia Express! Câți bani au primit",
+    "lead_ro": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de…",
+    "content_ro": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de euro. După două luni de aventură, cele două echipe rămase în competiție au luptat aseară pentru marele premiu din finala Asia Express - Drumul Mătăsii. Gabi Torje și Alin Alexuc s-au luptat pentru cei 30. ...",
     "importance_score": 23.0,
     "is_top_hero": false
   },
@@ -8692,6 +8739,114 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_81a69cbfe7",
+    "slug": "visszatert-a-kamarazene-szekelyudvarhelyre-de-a-magyar-nyelv-napjara-is-gondolta-81a69c",
+    "tags": [
+      "kultura"
+    ],
+    "category": "Kultúra",
+    "image": "https://maszol.ro/resized/2026_november_/12/cikk_udv-kamarazene-magyar-nyelv-napja1.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Visszatért a kamarazene Székelyudvarhelyre, de a magyar nyelv napjára is gondoltak",
+        "link": "https://maszol.ro/kultura/Visszatert-a-kamarazene-Szekelyudvarhelyre-de-a-magyar-nyelv-napjara-is-gondoltak"
+      }
+    ],
+    "published_at": 1794464580,
+    "title_hu": "Visszatért a kamarazene Székelyudvarhelyre, de a magyar nyelv napjára is gondoltak",
+    "lead_hu": "A G. Egyesület szervezésében hétfőn ismét koncertek töltötték meg Székelyudvarhelyt: a 24. Kamarazene Fesztivál második felvonása november 14-ig, szombat estig tart, ezúttal irodalmi és színházi progr...",
+    "content_hu": "A G. Egyesület szervezésében hétfőn ismét koncertek töltötték meg Székelyudvarhelyt: a 24. Kamarazene Fesztivál második felvonása november 14-ig, szombat estig tart, ezúttal irodalmi és színházi programokkal is kiegészülve.",
+    "title_ro": "Visszatért a kamarazene Székelyudvarhelyre, de a magyar nyelv napjára is gondoltak",
+    "lead_ro": "A G. Egyesület szervezésében hétfőn ismét koncertek töltötték meg Székelyudvarhelyt: a 24. Kamarazene Fesztivál második felvonása november 14-ig, szombat estig tart, ezúttal irodalmi és színházi progr...",
+    "content_ro": "A G. Egyesület szervezésében hétfőn ismét koncertek töltötték meg Székelyudvarhelyt: a 24. Kamarazene Fesztivál második felvonása november 14-ig, szombat estig tart, ezúttal irodalmi és színházi programokkal is kiegészülve.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_78374f07fc",
+    "slug": "rengeteg-arany-kelt-el-a-fekete-penteken-78374f",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://maszol.ro/resized/2026_november_/12/cikk_arany_pixabay_stevebidmead.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Rengeteg arany kelt el a Fekete Pénteken",
+        "link": "https://maszol.ro/gazdasag/Rengeteg-arany-kelt-el-a-Fekete-Penteken"
+      }
+    ],
+    "published_at": 1794464520,
+    "title_hu": "Rengeteg arany kelt el a Fekete Pénteken",
+    "lead_hu": "Az idei Fekete Pénteken közel 30 kg arany kelt el, adta hírül a Săptămâna Financiară gazdasági hírportál. A vásárlók elsöprő többsége a kis tömegű, 2, 5, 10 grammos lapkákat preferálta....",
+    "content_hu": "Az idei Fekete Pénteken közel 30 kg arany kelt el, adta hírül a Săptămâna Financiară gazdasági hírportál. A vásárlók elsöprő többsége a kis tömegű, 2, 5, 10 grammos lapkákat preferálta.",
+    "title_ro": "Rengeteg arany kelt el a Fekete Pénteken",
+    "lead_ro": "Az idei Fekete Pénteken közel 30 kg arany kelt el, adta hírül a Săptămâna Financiară gazdasági hírportál. A vásárlók elsöprő többsége a kis tömegű, 2, 5, 10 grammos lapkákat preferálta....",
+    "content_ro": "Az idei Fekete Pénteken közel 30 kg arany kelt el, adta hírül a Săptămâna Financiară gazdasági hírportál. A vásárlók elsöprő többsége a kis tömegű, 2, 5, 10 grammos lapkákat preferálta.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_7ed75ec6e7",
+    "slug": "fostul-sef-al-apelor-romane-scapa-prin-prescriptie-de-un-dosar-de-luare-de-mita--7ed75e",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.g4media.ro/wp-content/uploads/2026/11/03_sandu_vizita.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Fostul șef al Apelor Române scapă prin prescripție de un dosar de luare de mită / Un milion de euro, șase inculpați, șase ani de proces și nicio sentință",
+        "link": "https://www.g4media.ro/fostul-sef-al-apelor-romane-scapa-prin-prescriptie-de-un-dosar-de-luare-de-mita-un-milion-de-euro-sase-inculpati-sase-ani-de-proces-si-nicio-sentinta.html"
+      }
+    ],
+    "published_at": 1794464221,
+    "title_hu": "Fostul șef al Apelor Române scapă prin prescripție de un dosar de luare de mită / Un milion de euro, șase inculpați, șase ani de proces și nicio sentință",
+    "lead_hu": "Trimis în judecată în 2020 pentru o mită de un milion de euro, care ar fi fost pretinsă de la un constructor cu lucrări în Bihor, fostul șef al Apelor Române, Victor Sandu (al doilea din stânga, în fo...",
+    "content_hu": "Trimis în judecată în 2020 pentru o mită de un milion de euro, care ar fi fost pretinsă de la un constructor cu lucrări în Bihor, fostul șef al Apelor Române, Victor Sandu (al doilea din stânga, în fotografie), scapă de pedeapsă prin prescripție, anunță Bihoreanul. Procesul în care e judecat şi constructorul acuzat că […] © G4Media.ro.",
+    "title_ro": "Fostul șef al Apelor Române scapă prin prescripție de un dosar de luare de mită / Un milion de euro, șase inculpați, șase ani de proces și nicio sentință",
+    "lead_ro": "Trimis în judecată în 2020 pentru o mită de un milion de euro, care ar fi fost pretinsă de la un constructor cu lucrări în Bihor, fostul șef al Apelor Române, Victor Sandu (al doilea din stânga, în fo...",
+    "content_ro": "Trimis în judecată în 2020 pentru o mită de un milion de euro, care ar fi fost pretinsă de la un constructor cu lucrări în Bihor, fostul șef al Apelor Române, Victor Sandu (al doilea din stânga, în fotografie), scapă de pedeapsă prin prescripție, anunță Bihoreanul. Procesul în care e judecat şi constructorul acuzat că […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_a0f3be96b2",
+    "slug": "sorin-grindeanu-nincs-kegyelem-legalabb-100-allami-szervezet-megszunik-a0f3be",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://maszol.ro/resized/2026_november_/12/cikk_megszoritas__Pixabay.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Sorin Grindeanu: Nincs kegyelem – Legalább 100 állami szervezet megszűnik",
+        "link": "https://maszol.ro/belfold/Sorin-Grindeanu-Nincs-kegyelem-Legalabb-100-allami-szervezet-megszunik"
+      }
+    ],
+    "published_at": 1794464040,
+    "title_hu": "Sorin Grindeanu: Nincs kegyelem – Legalább 100 állami szervezet megszűnik",
+    "lead_hu": "A PSD elnöke, Sorin Grindeanu szerda este kijelentette, hogy az intézményeket és az állami vállalatokat érintő reformok nyomán több mint száz állami szervezet fog megszűnni....",
+    "content_hu": "A PSD elnöke, Sorin Grindeanu szerda este kijelentette, hogy az intézményeket és az állami vállalatokat érintő reformok nyomán több mint száz állami szervezet fog megszűnni.",
+    "title_ro": "Sorin Grindeanu: Nincs kegyelem – Legalább 100 állami szervezet megszűnik",
+    "lead_ro": "A PSD elnöke, Sorin Grindeanu szerda este kijelentette, hogy az intézményeket és az állami vállalatokat érintő reformok nyomán több mint száz állami szervezet fog megszűnni....",
+    "content_ro": "A PSD elnöke, Sorin Grindeanu szerda este kijelentette, hogy az intézményeket és az állami vállalatokat érintő reformok nyomán több mint száz állami szervezet fog megszűnni.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_4a3f989b8a",
     "slug": "a-liberalizmus-ujraalapitasat-surgeti-a-nobel-dijas-kzgazdasz-4a3f98",
     "tags": [
@@ -8742,6 +8897,33 @@
     "title_ro": "Putin încearcă să ascundă amploarea pierderilor din Ucraina. Rușii riscă închisoarea pe viață dacă fotografiază mormintele",
     "lead_ro": "În septembrie, un tribunal rus a condamnat un bărbat de vârstă mijlocie din Iaroslavl la 14 ani într-o colonie penitenciară — o pedeapsă rezervată, de regulă, celor mai periculoși criminali din țară, ...",
     "content_ro": "În septembrie, un tribunal rus a condamnat un bărbat de vârstă mijlocie din Iaroslavl la 14 ani într-o colonie penitenciară — o pedeapsă rezervată, de regulă, celor mai periculoși criminali din țară, scrie Politico.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_fe652d1120",
+    "slug": "din-nou-emotii-cu-denis-dragus-nu-a-putut-termina-ultimul-antrenament-fe652d",
+    "tags": [
+      "sport"
+    ],
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/08102026/273d03a6-5956-43fd-8321-5911ba86c419.jpeg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Din nou emoții cu Denis Drăguș! Nu a putut termina ultimul antrenament",
+        "link": "https://www.gsp.ro/fotbal/liga-1/fcsb-denis-dragus-accidentare-antrenament-998561.html"
+      }
+    ],
+    "published_at": 1794463936,
+    "title_hu": "Din nou emoții cu Denis Drăguș! Nu a putut termina ultimul antrenament",
+    "lead_hu": "Denis Drăguș, transferul de răsunet făcut de FCSB în acest sezon, acuză din nou probleme medicale. Și a ajuns la un cabinet medical, după ultimul antrenament, pentru investigații suplimentare. Venit l...",
+    "content_hu": "Denis Drăguș, transferul de răsunet făcut de FCSB în acest sezon, acuză din nou probleme medicale. Și a ajuns la un cabinet medical, după ultimul antrenament, pentru investigații suplimentare. Venit liber de contract la FCSB, atacantul de 27 de ani s-a accidentat în partida contra Universității Craiova, din 19 septembrie, fiind schimbat după 42 de minute. Era a doua prezență în tricoul roș-albastru. ...",
+    "title_ro": "Din nou emoții cu Denis Drăguș! Nu a putut termina ultimul antrenament",
+    "lead_ro": "Denis Drăguș, transferul de răsunet făcut de FCSB în acest sezon, acuză din nou probleme medicale. Și a ajuns la un cabinet medical, după ultimul antrenament, pentru investigații suplimentare. Venit l...",
+    "content_ro": "Denis Drăguș, transferul de răsunet făcut de FCSB în acest sezon, acuză din nou probleme medicale. Și a ajuns la un cabinet medical, după ultimul antrenament, pentru investigații suplimentare. Venit liber de contract la FCSB, atacantul de 27 de ani s-a accidentat în partida contra Universității Craiova, din 19 septembrie, fiind schimbat după 42 de minute. Era a doua prezență în tricoul roș-albastru. ...",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -8823,33 +9005,6 @@
     "title_ro": "Nyolcan kórházban, miután felborult egy autóbusz",
     "lead_ro": "A Temes megyei Hodonyon történt balesetben hat nő és két férfi sérült meg....",
     "content_ro": "A Temes megyei Hodonyon történt balesetben hat nő és két férfi sérült meg.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_72dce8ea66",
-    "slug": "hackerii-au-folosit-ai-pentru-a-fura-peste-2000-de-documente-de-securitate-natio-72dce8",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/03/7725885-mediafax-foto-zuma-press-hepta-1-1-1024x623.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Hackerii au folosit AI pentru a fura peste 2.000 de documente de securitate națională din Tadjikistan. O greșeală i-a dat de gol",
-        "link": "https://www.mediafax.ro/externe/hackerii-au-folosit-ai-pentru-a-fura-peste-2-000-de-documente-de-securitate-nationala-din-tadjikistan-o-greseala-i-a-dat-de-gol-23841832"
-      }
-    ],
-    "published_at": 1794463277,
-    "title_hu": "Hackerii au folosit AI pentru a fura peste 2.000 de documente de securitate națională din Tadjikistan. O greșeală i-a dat de gol",
-    "lead_hu": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de sec...",
-    "content_hu": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de securitatea națională au fost sustrase.",
-    "title_ro": "Hackerii au folosit AI pentru a fura peste 2.000 de documente de securitate națională din Tadjikistan. O greșeală i-a dat de gol",
-    "lead_ro": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de sec...",
-    "content_ro": "Un grup de hackeri asociat Kazahstanului a folosit un agent de inteligență artificială pentru a pătrunde în sistemele informatice ale guvernului din Tadjikistan. Peste 2.000 de documente legate de securitatea națională au fost sustrase.",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -9477,32 +9632,6 @@
     "title_ro": "Köln a dat startul sezonului carnavalurilor. Petrecăreții au umplut străzile, în ciuda vremii nefavorabile",
     "lead_ro": "La Köln, în Germania, ploaia și vântul nu au reușit să strice lansarea oficială a festivalului carnavalurilor. Localnici și turiști – mulți costumați – au dansat, au cântat și au închinat un pahar cu …",
     "content_ro": "La Köln, în Germania, ploaia și vântul nu au reușit să strice lansarea oficială a festivalului carnavalurilor. Localnici și turiști – mulți costumați – au dansat, au cântat și au închinat un pahar cu bere.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_341f657c0d",
-    "slug": "un-militar-de-garda-l-a-mustrat-aspru-pe-hegseth-l-341f65",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Un militar de gardă l-a mustrat aspru pe Hegseth la Mormântul Soldatului Necunoscut: „Tot timpul!”",
-        "link": "https://hotnews.ro/un-militar-de-garda-l-a-mustrat-aspru-pe-hegseth-la-mormantul-soldatului-necunoscut-tot-timpul-2401925"
-      }
-    ],
-    "published_at": 1794461426,
-    "title_hu": "Un militar de gardă l-a mustrat aspru pe Hegseth la Mormântul Soldatului Necunoscut: „Tot timpul!”",
-    "lead_hu": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimi…",
-    "content_hu": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimitirul Național Arlington, chiar în ziua dedicată veteranilor, transmite AFP. Într-un videoclip difuzat de presa americană și pe rețelele sociale sunt văzuți Hegseth și …",
-    "title_ro": "Un militar de gardă l-a mustrat aspru pe Hegseth la Mormântul Soldatului Necunoscut: „Tot timpul!”",
-    "lead_ro": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimi…",
-    "content_ro": "Un gardian i-a mustrat aspru miercuri pe secretarul american al Apărării, Pete Hegseth, și pe cei care îl însoțeau, în timp ce aceștia discutau și râdeau lângă mormântul Soldatului Necunoscut din Cimitirul Național Arlington, chiar în ziua dedicată veteranilor, transmite AFP. Într-un videoclip difuzat de presa americană și pe rețelele sociale sunt văzuți Hegseth și …",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -10803,32 +10932,6 @@
     "title_ro": "Horoscop joi, 12 noiembrie 2026. O zodie are parte de surprize în dragoste, iar alta se pregătește de câștiguri mari",
     "lead_ro": "Joi, 12 noiembrie 2026, zodiile au parte de situații neașteptate, oportunități profesionale și vești la care nu s-ar fi așteptat niciodată. Iată ce a pregătit horoscopul zilnic pentru fiecare nativ în…",
     "content_ro": "Joi, 12 noiembrie 2026, zodiile au parte de situații neașteptate, oportunități profesionale și vești la care nu s-ar fi așteptat niciodată. Iată ce a pregătit horoscopul zilnic pentru fiecare nativ în parte.",
-    "importance_score": 0.0,
-    "is_top_hero": false
-  },
-  {
-    "group_id": "group_42ac876e30",
-    "slug": "gabi-torje-si-alin-alexuc-au-castigat-asia-express-42ac87",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Gabi Torje și Alin Alexuc au câștigat Asia Express! Câți bani au primit",
-        "link": "https://www.gsp.ro/gsp-special/media/gabi-torje-si-alin-alexuc-au-castigat-asia-express-cati-bani-au-primit-998291.html"
-      }
-    ],
-    "published_at": 1794434174,
-    "title_hu": "Gabi Torje și Alin Alexuc au câștigat Asia Express! Câți bani au primit",
-    "lead_hu": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de…",
-    "content_hu": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de euro. După două luni de aventură, cele două echipe rămase în competiție au luptat aseară pentru marele premiu din finala Asia Express - Drumul Mătăsii. Gabi Torje și Alin Alexuc s-au luptat pentru cei 30. ...",
-    "title_ro": "Gabi Torje și Alin Alexuc au câștigat Asia Express! Câți bani au primit",
-    "lead_ro": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de…",
-    "content_ro": "Emisiunea Asia Express - Drumul Mătăsii și-a desemnat câștigătorii miercuri seară! Gabi Torje (36 de ani) și Alin Alexuc (36 de ani), cei doi foști sportivi, și-au adjudecat marele premiu de 30.000 de euro. După două luni de aventură, cele două echipe rămase în competiție au luptat aseară pentru marele premiu din finala Asia Express - Drumul Mătăsii. Gabi Torje și Alin Alexuc s-au luptat pentru cei 30. ...",
     "importance_score": 0.0,
     "is_top_hero": false
   },
@@ -22689,6 +22792,33 @@
     "is_top_hero": false
   },
   {
+    "group_id": "group_962a256921",
+    "slug": "comentariul-lui-nicusor-dan-despre-blana-de-sinsila-de-la-botezul-fiului-lui-alf-962a25",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjMwJTJGMjk4MzcyNF8yOTgz/NzI0X25pY3Vzb3ItZGFuLWlucXVhbS1v/Y3Rhdi1nYW5lYS5qcGcmaGFzaD1lZDI3/YTEyNTkxOGY4YTZiMmUwYWViNzI1MGQ3NDg4Zg==.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Comentariul lui Nicușor Dan despre blana de șinșilă de la botezul fiului lui Alfred Simonis și cum definește președintele sărăcia",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/comentariul-lui-nicusor-dan-despre-blana-de-sinsila-de-la-botezul-fiului-lui-alfred-simonis-si-cum-defineste-presedintele-saracia-4030509"
+      }
+    ],
+    "published_at": 1794384825,
+    "title_hu": "Comentariul lui Nicușor Dan despre blana de șinșilă de la botezul fiului lui Alfred Simonis și cum definește președintele sărăcia",
+    "lead_hu": "Preşedintele Nicuşor Dan a afirmat că nu am descoperit bolizii de lux şi blănurile acum două săptămâni, când au fost etalate ţinute luxoase la botezul preşedintelui CJ Timiş, Alfred Simonis (PSD), dar...",
+    "content_hu": "Preşedintele Nicuşor Dan a afirmat că nu am descoperit bolizii de lux şi blănurile acum două săptămâni, când au fost etalate ţinute luxoase la botezul preşedintelui CJ Timiş, Alfred Simonis (PSD), dar apreciază că acesta este unul dintre motivele pentru care românii sunt nemulţumiţi de modul în care funcţionează ţara.",
+    "title_ro": "Comentariul lui Nicușor Dan despre blana de șinșilă de la botezul fiului lui Alfred Simonis și cum definește președintele sărăcia",
+    "lead_ro": "Preşedintele Nicuşor Dan a afirmat că nu am descoperit bolizii de lux şi blănurile acum două săptămâni, când au fost etalate ţinute luxoase la botezul preşedintelui CJ Timiş, Alfred Simonis (PSD), dar...",
+    "content_ro": "Preşedintele Nicuşor Dan a afirmat că nu am descoperit bolizii de lux şi blănurile acum două săptămâni, când au fost etalate ţinute luxoase la botezul preşedintelui CJ Timiş, Alfred Simonis (PSD), dar apreciază că acesta este unul dintre motivele pentru care românii sunt nemulţumiţi de modul în care funcţionează ţara.",
+    "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
     "group_id": "group_e3a258047c",
     "slug": "orasele-cu-cea-mai-scumpa-apa-din-romania-unde-pla-e3a258",
     "tags": [
@@ -24116,6 +24246,68 @@
     "lead_ro": "Cele mai importante evenimente petrecute pe 11 noiembrie",
     "content_ro": "Cele mai importante evenimente petrecute pe 11 noiembrie",
     "importance_score": 0.0,
+    "is_top_hero": false
+  },
+  {
+    "group_id": "group_e2e9f7604d",
+    "slug": "elutasitotta-a-szenatus-az-aur-nazare-elleni-inditvanyat-e2e9f7",
+    "tags": [
+      "romania",
+      "deficit-bugetar",
+      "senat",
+      "aur",
+      "alexandru-nazare"
+    ],
+    "fingerprint": "fab788104fc5ae63298489eea59f4f1f",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Senatul a respins moţiunea simplă depusă de AUR împotriva ministrului Finanțelor Alexandru Nazare",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/senatul-dezbate-si-voteaza-astazi-motiunea-simpla-depusa-de-aur-impotriva-ministrului-alexandru-nazare-4030805"
+      },
+      {
+        "source": "G4Media",
+        "title": "Moţiunea simplă iniţiată de AUR împotriva ministrului Finanţelor, dezbătută şi votată miercuri",
+        "link": "https://www.g4media.ro/motiunea-simpla-initiata-de-aur-impotriva-ministrului-finantelor-dezbatuta-si-votata-miercuri.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "AUR motion against Finance Minister Alexandru Nazare fails in the Senate",
+        "link": "https://www.mediafax.ro/english/aur-motion-against-finance-minister-alexandru-nazare-fails-in-the-senate-23841483"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "A szenátus elutasította a pénzügyminiszter elleni AUR-indítványt",
+        "link": "https://www.mediatica.ro/hirek/politika/a-szenatus-elutasitotta-a-penzugyminiszter-elleni-aur-inditvanyt"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Senatul dezbate şi votează moţiunea simplă depusă de AUR împotriva ministrului Finanţelor, Alexandru Nazare",
+        "link": "https://stirileprotv.ro/stiri/politic/senatul-dezbate-si-voteaza-mo-iunea-simpla-depusa-de-aur-impotriva-ministrului-finan-elor-alexandru-nazare.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Moțiunea AUR împotriva ministrului Finanțelor, dezbătută și votată miercuri la Senat",
+        "link": "https://www.mediafax.ro/politic/motiunea-aur-impotriva-ministrului-finantelor-dezbatuta-si-votata-miercuri-la-senat-23841271"
+      },
+      {
+        "source": "G4Media",
+        "title": "Moțiunea inițiată de partidul extremist AUR împotriva ministrului Finanțelor, Aexandru Nazare, dezbătută și votată miercuri la Senat",
+        "link": "https://www.g4media.ro/motiunea-initiata-de-partidul-extremist-aur-impotriva-ministrului-finantelor-aexandru-nazare-dezbatuta-si-votata-miercuri-la-senat.html"
+      }
+    ],
+    "published_at": 1794457699,
+    "title_hu": "Elutasította a szenátus az AUR Nazare elleni indítványát",
+    "lead_hu": "A román szenátus november 11-én elutasította az Alexandru Nazare pénzügyminiszterrel szemben benyújtott AUR-indítványt. A tárcavezető szerint a deficit mind a nemzeti, mind az uniós elszámolásban mérséklődik, és a negyedéves, illetve éves összevetések is csökkenést mutatnak.",
+    "content_hu": "• **A szenátus elvetette az indítványt.** A november 11-i titkos elektronikus szavazáson 21 szenátor támogatta a kezdeményezést, 46-an ellene voksoltak, 13-an tartózkodtak, 14-en pedig nem adtak le szavazatot.\n\n• **Az AUR rendszeres ESA-adatközlést sürgetett.** Petrișor Peiu, a párt szenátusi frakcióvezetője terjesztette be az indítványt, amelyet 34-en írtak alá: 30 AUR-os szenátor és négy független parlamenti képviselő. A kezdeményezők a készpénzalapú adatok mellett az európai módszer szerinti hiánybecslések időszakos közzétételét kérték.\n\n• **Az aláírók a 2026-os első félév adataira hivatkoztak.** Szerintük a készpénzalapú deficit mintegy 41 milliárd lej, az ESA-módszer szerinti érték pedig 69 milliárd lejnél is több volt, így a különbség meghaladta a 28 milliárd lejt. Ezeket az értékeket az indítvány támogatói közölték.\n\n• **Nazare egyetlen költségvetési végrehajtás kétféle olvasatáról beszélt.** A nemzeti, pénzforgalmi elszámolás a tényleges pénzmozgásokat követi, az uniós ESA-rendszer pedig a kötelezettségek keletkezéséhez rendeli a bevételeket és kiadásokat. A miniszter szerint mindkét módszer csökkenő hiányt jelez: a negyedéves adatokat az előző év azonos időszakához, az éves számokat pedig a korábbi lezárt évekhez mérte.\n\n• **A pénzügyminisztérium új helyzetjelentést készít.** Nazare azt mondta, a tárca néhány napon belül összefoglalót állít össze az államháztartás állapotáról.",
+    "title_ro": "Senatul a respins moțiunea AUR împotriva lui Nazare",
+    "lead_ro": "Senatul României a respins, pe 11 noiembrie, moțiunea AUR împotriva ministrului Finanțelor, Alexandru Nazare. Ministrul a afirmat că deficitul se reduce atât potrivit calculului național, cât și celui european, iar comparațiile trimestriale și anuale indică aceeași evoluție.",
+    "content_ro": "• **Senatul a respins moțiunea.** La votul electronic secret din 11 noiembrie, 21 de senatori au susținut inițiativa, 46 au votat împotrivă, 13 s-au abținut, iar 14 nu au votat.\n\n• **AUR a cerut publicarea periodică a estimărilor ESA.** Moțiunea a fost prezentată de Petrișor Peiu, liderul grupului senatorilor partidului, și a fost semnată de 34 de parlamentari: 30 de senatori AUR și patru aleși neafiliați. Semnatarii au solicitat ca datele calculate după regulile europene să fie făcute publice alături de cele privind deficitul în numerar.\n\n• **Inițiatorii au invocat cifrele din prima jumătate a lui 2026.** Potrivit acestora, deficitul în numerar s-a situat în jurul valorii de 41 de miliarde de lei, în timp ce calculul ESA a depășit 69 de miliarde, diferența fiind mai mare de 28 de miliarde. Valorile au fost prezentate de susținătorii moțiunii.\n\n• **Nazare a susținut că există o singură execuție bugetară, analizată prin două metode.** Calculul național urmărește fluxurile efective de bani, iar sistemul european ESA înregistrează veniturile și cheltuielile în funcție de momentul apariției obligațiilor. Ministrul a spus că ambele metode arată o scădere: datele fiecărui trimestru sunt mai mici decât cele din trimestrul similar al anului precedent, iar cifrele anuale indică reducere față de anii încheiați anterior.\n\n• **Ministerul Finanțelor urmează să publice o nouă informare.** Nazare a anunțat că instituția va pregăti în câteva zile o prezentare privind situația finanțelor publice.",
+    "importance_score": 85.0,
     "is_top_hero": false
   },
   {
