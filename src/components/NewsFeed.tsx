@@ -447,6 +447,7 @@ export function NewsFeed({ view }: { view: FeedView }) {
                   </div>
                 </div>
               </aside>
+              )}
             </section>
           </>
         ) : (
