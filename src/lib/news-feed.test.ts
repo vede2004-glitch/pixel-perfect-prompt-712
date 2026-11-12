@@ -2,73 +2,69 @@ import { describe, expect, it } from "vitest";
 import { normalizeNewsList } from "./news";
 import { splitNewsFeed } from "./news-feed";
 
-const items = normalizeNewsList(
-  Array.from({ length: 12 }, (_, i) => ({
-    group_id: `story-${i}`,
-    title_hu: `Story ${i}`,
-    sources: [],
-    published_at: [100, 900, 200, 800, 300, 700, 400, 600, 1100, 1300, 1200, null][i],
-    is_synthesized: i % 2 === 0,
-  })),
-);
+const ranked = normalizeNewsList([
+  { group_id: "rank-3", title_hu: "Harmadik", sources: [], published_at: 900, is_synthesized: true, top_rank: 3 },
+  { group_id: "rank-1", title_hu: "Első", sources: [], published_at: 100, is_synthesized: true, top_rank: 1 },
+  { group_id: "rank-2", title_hu: "Második", sources: [], published_at: 500, is_synthesized: false, top_rank: 2 },
+  { group_id: "plain-new", title_hu: "Friss rang nélkül", sources: [], published_at: 1200, is_synthesized: true, top_rank: null },
+  { group_id: "plain-old", title_hu: "Régi rang nélkül", sources: [], published_at: 50, is_synthesized: false },
+  { group_id: "rank-zero", title_hu: "Nullás rang", sources: [], published_at: 800, is_synthesized: true, top_rank: 0 },
+]);
 
 describe("news feed views", () => {
-  it("keeps every AI story in original order in Top, without a story limit", () => {
-    expect(splitNewsFeed(items).top.map((n) => n.group_id)).toEqual([
-      "story-0",
-      "story-2",
-      "story-4",
-      "story-6",
-      "story-8",
-      "story-10",
+  it("Top shows only valid top_rank stories, strictly ascending", () => {
+    expect(splitNewsFeed(ranked).top.map((n) => n.group_id)).toEqual(["rank-1", "rank-2", "rank-3"]);
+  });
+
+  it("Hero (top_rank 1) never repeats in the grid below", () => {
+    const { top } = splitNewsFeed(ranked);
+    const [hero, ...grid] = top;
+    expect(hero.top_rank).toBe(1);
+    expect(grid).not.toContain(hero);
+    expect(new Set(top.map((n) => n.group_id)).size).toBe(top.length);
+  });
+
+  it("top_rank 0, null or missing values are excluded from Top", () => {
+    const ids = splitNewsFeed(ranked).top.map((n) => n.group_id);
+    expect(ids).not.toContain("rank-zero");
+    expect(ids).not.toContain("plain-new");
+    expect(ids).not.toContain("plain-old");
+  });
+
+  it("falls back to synthesized stories (newest first) when no top_rank exists", () => {
+    const legacy = normalizeNewsList([
+      { group_id: "ai-old", title_hu: "AI régi", sources: [], published_at: 100, is_synthesized: true },
+      { group_id: "ai-new", title_hu: "AI friss", sources: [], published_at: 300, is_synthesized: true },
+      { group_id: "single", title_hu: "Egyforrásos", sources: [], published_at: 200, is_synthesized: false },
     ]);
-    const many = normalizeNewsList(
-      Array.from({ length: 12 }, (_, i) => ({
-        group_id: `ai-${i}`,
-        title_hu: `AI ${i}`,
-        sources: [],
-        is_synthesized: true,
-      })),
-    );
-    expect(splitNewsFeed(many).top).toHaveLength(12);
+    expect(splitNewsFeed(legacy).top.map((n) => n.group_id)).toEqual(["ai-new", "ai-old"]);
   });
 
-  it("shows every AI story in Latest, strictly newest first", () => {
-    expect(splitNewsFeed(items).latest.map((n) => n.group_id)).toEqual([
-      "story-10",
-      "story-8",
-      "story-6",
-      "story-4",
-      "story-2",
-      "story-0",
-    ]);
-  });
-
-  it("includes the same complete AI set on Top and Latest", () => {
-    const { top, latest } = splitNewsFeed(items);
-    expect(latest.map((n) => n.group_id).sort()).toEqual(top.map((n) => n.group_id).sort());
-  });
-
-  it("puts only non-AI stories in the separate chronological stream", () => {
-    expect(splitNewsFeed(items).singles.map((n) => n.group_id)).toEqual([
-      "story-9",
-      "story-1",
-      "story-3",
-      "story-5",
-      "story-7",
-      "story-11",
+  it("Latest lists every story strictly newest first, ignoring top_rank", () => {
+    expect(splitNewsFeed(ranked).latest.map((n) => n.group_id)).toEqual([
+      "plain-new",
+      "rank-3",
+      "rank-zero",
+      "rank-2",
+      "rank-1",
+      "plain-old",
     ]);
   });
 
-  it("does not mutate the input and handles short or empty feeds", () => {
-    const before = items.map((n) => n.group_id);
-    splitNewsFeed(items);
-    expect(items.map((n) => n.group_id)).toEqual(before);
-    expect(splitNewsFeed(items.slice(0, 3))).toEqual({
-      top: [items[0], items[2]],
-      latest: [items[2], items[0]],
-      singles: [items[1]],
-    });
+  it("Top and Latest never show the same list when ranks exist", () => {
+    const { top, latest } = splitNewsFeed(ranked);
+    expect(top.map((n) => n.group_id)).not.toEqual(latest.map((n) => n.group_id));
+  });
+
+  it("singles stream stays chronological and non-synthesized", () => {
+    const { singles } = splitNewsFeed(ranked);
+    expect(singles.map((n) => n.group_id)).toEqual(["rank-2", "plain-old"]);
+  });
+
+  it("does not mutate the input and handles empty feeds", () => {
+    const before = ranked.map((n) => n.group_id);
+    splitNewsFeed(ranked);
+    expect(ranked.map((n) => n.group_id)).toEqual(before);
     expect(splitNewsFeed([])).toEqual({ top: [], latest: [], singles: [] });
   });
 });
