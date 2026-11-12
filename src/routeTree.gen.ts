@@ -23,6 +23,7 @@ import { Route as VisszajelzesRouteImport } from './routes/visszajelzes'
 import { Route as AuthenticatedNewsroomRouteImport } from './routes/_authenticated/newsroom'
 import { Route as ApiAskRouteImport } from './routes/api/ask'
 import { Route as HirIdRouteImport } from './routes/hir.$id'
+import { Route as TagTagNameRouteImport } from './routes/tag.$tagName'
 import { Route as AuthenticatedNewsroomPrepareRouteImport } from './routes/_authenticated/newsroom_.prepare'
 import { Route as ApiPublicNewsRouteImport } from './routes/api/public/news'
 
@@ -95,6 +96,11 @@ const HirIdRoute = HirIdRouteImport.update({
   path: '/hir/$id',
   getParentRoute: () => rootRouteImport,
 } as any)
+const TagTagNameRoute = TagTagNameRouteImport.update({
+  id: '/tag/$tagName',
+  path: '/tag/$tagName',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const AuthenticatedNewsroomPrepareRoute =
   AuthenticatedNewsroomPrepareRouteImport.update({
     id: '/newsroom_/prepare',
@@ -121,6 +127,7 @@ export interface FileRoutesByFullPath {
   '/newsroom': typeof AuthenticatedNewsroomRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
+  '/tag/$tagName': typeof TagTagNameRoute
   '/newsroom/prepare': typeof AuthenticatedNewsroomPrepareRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
@@ -138,6 +145,7 @@ export interface FileRoutesByTo {
   '/newsroom': typeof AuthenticatedNewsroomRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
+  '/tag/$tagName': typeof TagTagNameRoute
   '/newsroom/prepare': typeof AuthenticatedNewsroomPrepareRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
@@ -157,6 +165,7 @@ export interface FileRoutesById {
   '/_authenticated/newsroom': typeof AuthenticatedNewsroomRoute
   '/api/ask': typeof ApiAskRoute
   '/hir/$id': typeof HirIdRoute
+  '/tag/$tagName': typeof TagTagNameRoute
   '/_authenticated/newsroom_/prepare': typeof AuthenticatedNewsroomPrepareRoute
   '/api/public/news': typeof ApiPublicNewsRoute
 }
@@ -176,6 +185,7 @@ export interface FileRouteTypes {
     | '/newsroom'
     | '/api/ask'
     | '/hir/$id'
+    | '/tag/$tagName'
     | '/newsroom/prepare'
     | '/api/public/news'
   fileRoutesByTo: FileRoutesByTo
@@ -193,6 +203,7 @@ export interface FileRouteTypes {
     | '/newsroom'
     | '/api/ask'
     | '/hir/$id'
+    | '/tag/$tagName'
     | '/newsroom/prepare'
     | '/api/public/news'
   id:
@@ -211,6 +222,7 @@ export interface FileRouteTypes {
     | '/_authenticated/newsroom'
     | '/api/ask'
     | '/hir/$id'
+    | '/tag/$tagName'
     | '/_authenticated/newsroom_/prepare'
     | '/api/public/news'
   fileRoutesById: FileRoutesById
@@ -229,6 +241,7 @@ export interface RootRouteChildren {
   VisszajelzesRoute: typeof VisszajelzesRoute
   ApiAskRoute: typeof ApiAskRoute
   HirIdRoute: typeof HirIdRoute
+  TagTagNameRoute: typeof TagTagNameRoute
   ApiPublicNewsRoute: typeof ApiPublicNewsRoute
 }
 
@@ -332,6 +345,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof HirIdRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/tag/$tagName': {
+      id: '/tag/$tagName'
+      path: '/tag/$tagName'
+      fullPath: '/tag/$tagName'
+      preLoaderRoute: typeof TagTagNameRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/_authenticated/newsroom_/prepare': {
       id: '/_authenticated/newsroom_/prepare'
       path: '/newsroom/prepare'
@@ -376,6 +396,7 @@ const rootRouteChildren: RootRouteChildren = {
   VisszajelzesRoute: VisszajelzesRoute,
   ApiAskRoute: ApiAskRoute,
   HirIdRoute: HirIdRoute,
+  TagTagNameRoute: TagTagNameRoute,
   ApiPublicNewsRoute: ApiPublicNewsRoute,
 }
 export const routeTree = rootRouteImport

@@ -14,4 +14,12 @@ describe("App routing", () => {
 
     expect(matches.at(-1)?.routeId).not.toBe(rootRouteId);
   });
+
+  it("matches the dynamic topic route", () => {
+    const router = createRouter({ routeTree, context: { queryClient: new QueryClient() } });
+
+    const matches = router.matchRoutes("/tag/orban-viktor");
+
+    expect(matches.at(-1)?.routeId).toBe("/tag/$tagName");
+  });
 });
