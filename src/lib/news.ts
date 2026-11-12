@@ -11,6 +11,7 @@ type RawItem = {
   category?: string | null;
   image: string | null;
   is_synthesized: boolean;
+  top_rank?: number | null;
   sources_count?: number | undefined;
   sources: NewsSource[];
   published_at?: number | null;
@@ -74,6 +75,7 @@ function normalize(r: RawItem): NewsItem {
     slug: r.slug?.trim() || null,
     image: r.image,
     is_synthesized: r.is_synthesized,
+    top_rank: typeof r.top_rank === "number" && r.top_rank > 0 ? r.top_rank : null,
     sources_count: r.sources_count,
     sources: r.sources || [],
     published_at: r.published_at ?? tsFromId(r.group_id),
