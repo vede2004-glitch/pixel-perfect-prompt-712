@@ -12,6 +12,7 @@ export function TagChips({
   limit?: number;
   className?: string;
 }) {
+  const lang = useLang();
   const tags = item.tags.slice(0, limit);
   if (!tags.length) return null;
 
@@ -22,10 +23,10 @@ export function TagChips({
           key={tag}
           to="/tag/$tagName"
           params={{ tagName: tag }}
-          aria-label={tagLabel(tag)}
+          aria-label={tagLabel(tag, lang)}
           className="rounded-full border border-border bg-secondary/90 px-2.5 py-1 text-[10px] font-bold text-muted-foreground transition-colors hover:border-primary/50 hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
         >
-          #{tag}
+          #{tagLabel(tag, lang)}
         </Link>
       ))}
     </div>
