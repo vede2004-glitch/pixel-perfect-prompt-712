@@ -40,15 +40,19 @@ describe("news feed views", () => {
     expect(splitNewsFeed(legacy).top.map((n) => n.group_id)).toEqual(["ai-new", "ai-old"]);
   });
 
-  it("Latest lists every story strictly newest first, ignoring top_rank", () => {
+  it("Latest lists only synthesized stories, strictly newest first, ignoring top_rank", () => {
     expect(splitNewsFeed(ranked).latest.map((n) => n.group_id)).toEqual([
       "plain-new",
       "rank-3",
       "rank-zero",
-      "rank-2",
       "rank-1",
-      "plain-old",
     ]);
+  });
+
+  it("keeps single-source stories out of Latest even when they are newer", () => {
+    const { latest } = splitNewsFeed(ranked);
+    expect(latest.every((n) => n.is_synthesized)).toBe(true);
+    expect(latest.map((n) => n.group_id)).not.toContain("rank-2");
   });
 
   it("Top and Latest never show the same list when ranks exist", () => {
