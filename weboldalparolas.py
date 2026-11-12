@@ -52,6 +52,7 @@ GROUPED_FILE = "erdelyi_hirek_csoportositott.json"
 ARCHIVE_FILE = "erdelyi_hirek_archivum.json"
 OUTPUT_FILE = "src/data/news.json"
 MANUAL_TOP_FILE = "manual_top.json"
+TOP_SELECTOR_FILE = "top_valaszto.json"
 
 SIMILARITY_THRESHOLD_CROSS_SOURCE = 0.72
 SIMILARITY_THRESHOLD_SAME_SOURCE = 0.80
@@ -121,6 +122,26 @@ def load_json_file(filename):
         except Exception:
             return []
     return []
+
+def load_manual_top_ids(filename) -> list:
+    """Biztonságosan kiolvassa a kézzel kiemelt group_id-kat a manual_top.json fájlból."""
+    if not os.path.exists(filename):
+        return []
+    try:
+        with open(filename, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        raw_ids = []
+        if isinstance(data, list):
+            raw_ids = data
+        elif isinstance(data, dict):
+            if "group_ids" in data and isinstance(data["group_ids"], list):
+                raw_ids = data["group_ids"]
+            elif "group_id" in data and data["group_id"]:
+                raw_ids = [data["group_id"]]
+        return [str(gid).strip() for gid in raw_ids if str(gid).strip()]
+    except Exception as e:
+        print(f"⚠️ Hiba a(z) {filename} beolvasásakor: {e}")
+        return []
 
 def save_json_file(filename, data):
     with open(filename, "w", encoding="utf-8") as f:
@@ -429,6 +450,9 @@ def run_pipeline():
 
     valid_news_list = [item for item in news_map.values() if item.get("published_at", 0) >= cutoff_24h]
 
+    for item in valid_news_list:
+        item["sources_count"] = len(item.get("sources", []))
+
     # SÚLYOZÁS ÉS RENDEZÉS
     for item in valid_news_list:
         item["importance_score"] = calculate_importance_score(item)
@@ -436,8 +460,9 @@ def run_pipeline():
     valid_news_list.sort(key=lambda x: (x.get("importance_score", 0), x.get("published_at", 0)), reverse=True)
 
     # KÉZI FELÜLBÍRÁLÁS (MANUAL TOP)
-    manual_top_data = load_json_file(MANUAL_TOP_FILE)
-    forced_group_ids = manual_top_data.get("group_ids", []) if isinstance(manual_top_data, dict) else []
+    forced_group_ids = load_manual_top_ids(MANUAL_TOP_FILE)
+    if forced_group_ids:
+        print(f"📌 Kézzel kiemelt csoportok betöltve ({MANUAL_TOP_FILE}): {forced_group_ids}")
 
     final_sorted_list = []
     forced_items = []
@@ -452,11 +477,15 @@ def run_pipeline():
         forced_items.sort(key=lambda x: forced_group_ids.index(x.get("group_id")) if x.get("group_id") in forced_group_ids else 999)
         final_sorted_list = forced_items + final_sorted_list
 
-    # FORRÁS KIEGYENSÚLYOZÁS
+    # FORRÁS KIEGYENSÚLYOZÁS (a kézzel kiemelteket nem bontja meg)
     balanced_list = []
     skipped_items = []
 
     for item in final_sorted_list:
+        if item.get("group_id") in forced_group_ids:
+            balanced_list.append(item)
+            continue
+
         item_source = item.get("sources", [{}])[0].get("source")
         if (
             len(balanced_list) >= 2 
@@ -469,12 +498,37 @@ def run_pipeline():
 
     final_list = balanced_list + skipped_items
 
-    # 🎯 KIZÁRÓLAG A 0. INDEXŰ ELEM KAPJA MEG AZ IS_TOP_HERO = TRUE JELÖLÉST
-    for idx, item in enumerate(final_list):
-        item["is_top_hero"] = (idx == 0)
+    # 🎯 TOP_RANK SORSZÁM ÉS ÁTLÁTHATÓ GROUP_ID LISTA GENERÁLÁSA
+    top_valaszto_lista = []
+    current_rank = 1
 
+    for idx, item in enumerate(final_list):
+        is_forced = item.get("group_id") in forced_group_ids
+        is_multi_source = item.get("sources_count", 1) >= 2
+        
+        if is_forced or is_multi_source or (idx < 12):
+            item["top_rank"] = current_rank
+            item["is_top_hero"] = (current_rank == 1)
+            item["is_top_list"] = True
+            current_rank += 1
+        else:
+            item["top_rank"] = None
+            item["is_top_hero"] = False
+            item["is_top_list"] = False
+
+        top_valaszto_lista.append({
+            "top_helyezes": item["top_rank"] if item["top_rank"] else "Nincs a Top listán",
+            "cim_hu": item.get("title_hu", ""),
+            "cim_ro": item.get("title_ro", ""),
+            "group_id": item.get("group_id"),
+            "forrasok_szama": item.get("sources_count", 1),
+            "kategoria": item.get("category", "Általános"),
+            "kezileg_kiemelve": is_forced
+        })
+
+    save_json_file(TOP_SELECTOR_FILE, top_valaszto_lista)
     save_json_file(OUTPUT_FILE, final_list)
-    print(f"⚡ Erdélyi/RO hírfrissítés kész! Megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban. (Top 1 Hero beállítva)")
+    print(f"⚡ Erdélyi/RO hírfrissítés kész! Megőrizve {len(final_list)} cikk a {OUTPUT_FILE}-ban, és {len(top_valaszto_lista)} ID a {TOP_SELECTOR_FILE}-ban.")
 
 if __name__ == "__main__":
     run_pipeline()
