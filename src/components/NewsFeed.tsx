@@ -369,7 +369,7 @@ export function NewsFeed({ view }: { view: FeedView }) {
             )}
 
             <section className="mt-10 grid grid-cols-12 gap-8">
-              <div className="col-span-12 lg:col-span-8">
+              <div className={view === "top" ? "col-span-12 lg:col-span-8" : "col-span-12"}>
                 <div className="mb-6 flex items-center justify-between border-b border-border pb-4">
                   <h2 className="font-display text-sm font-extrabold uppercase">
                     {ro ? "Știri sintetizate cu AI" : "AI összesített hírek"}
@@ -422,6 +422,7 @@ export function NewsFeed({ view }: { view: FeedView }) {
                   </p>
                 )}
               </div>
+              {view === "top" && (
               <aside
                 aria-label={ro ? "Știri dintr-o sursă" : "Egyforrású hírek"}
                 className="col-span-12 border-t border-border pt-4 lg:col-span-4 lg:border-l lg:border-t-0 lg:pl-6 lg:pt-0"
