@@ -945,7 +945,7 @@
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 23,
+    "sources_count": 24,
     "sources": [
       {
         "source": "Digi24",
@@ -1061,6 +1061,11 @@
         "source": "Adevărul",
         "title": "Nicușor Dan participă la reuniunea Comunităţii Politice Europene de la Dublin şi la Consiliul European informal",
         "link": "https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-participa-la-reuniunea-comunitatii-2570785.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Nicușor Dan, după summitul de la Dublin: România susține în continuare Ucraina și integrarea europeană a Republicii Moldova",
+        "link": "https://www.mediafax.ro/politic/nicusor-dan-dupa-summitul-de-la-dublin-romania-sustine-in-continuare-ucraina-si-integrarea-europeana-a-republicii-moldova-23842453"
       }
     ],
     "published_at": 1794553737,
@@ -1070,7 +1075,7 @@
     "title_ro": "Summiturile de la Dublin: apărare, Ucraina și inteligență artificială",
     "lead_ro": "La reuniunea Comunității Politice Europene de la Dublin, Nicușor Dan a discutat despre securitatea europeană, Ucraina și regiunea Mării Negre. Președintele României a participat și la reuniunea liderilor UE dedicată inteligenței artificiale, unde competitivitatea tehnologică și securitatea cibernetică au fost teme importante.",
     "content_ro": "• **Acțiune europeană coordonată** La reuniunea CPE din 12 noiembrie, organizată în Irlanda, au participat Nicușor Dan, Volodimir Zelenski și Mark Rutte. Președintele român a susținut o poziție comună a Europei față de Rusia și implicarea directă a statelor europene în negocierile pentru încheierea războiului din Ucraina. Dan a apreciat că Moscova nu arată deocamdată că dorește cu adevărat pacea; liderii UE analizează și cine ar putea reprezenta Uniunea la negocieri.\n\n• **Marea Neagră și securitatea informațională** România și Bulgaria pregătesc un centru de securitate pentru regiunea Mării Negre, la care ar putea contribui și Germania. Dan nu a exclus finanțarea de către România a prezenței militarilor aliați europeni pe teritoriul său. La București a fost creată o structură de 15 persoane care urmărește spațiul informațional, deoarece reacțiile instituționale la dezinformare sunt, în opinia președintelui, prea lente.\n\n• **Întrevedere de 40 de minute cu Merz** Nicușor Dan și cancelarul Friedrich Merz au discutat despre bugetul multianual al UE pentru 2028–2035, parcursul european al Republicii Moldova și cooperarea în domeniul apărării. Dezvoltarea pe termen lung a industriei de apărare și a capacităților militare a fost legată de descurajarea pe Flancul Estic al NATO, pe fondul intensificării incursiunilor dronelor și a amenințărilor hibride.\n\n• **Proiecte energetice cu Azerbaidjanul** În discuția cu Ilham Aliyev, Dan a abordat două proiecte energetice și logistice care ar urma să conecteze zona Caspică de Europa prin România. Cei doi au menționat și organizarea unui forum de afaceri, precum și vizite viitoare pentru dezvoltarea relațiilor comerciale.\n\n• **Reuniune europeană despre inteligența artificială** Întâlnirea din 13 noiembrie, cu 27 de lideri, a fost prima reuniune la nivelul UE dedicată exclusiv AI. La schimbul de opinii au fost invitați Arthur Mensch și Geoffrey Hinton. Dan a pledat pentru colaborare cu Statele Unite, Canada și Japonia, atragerea investițiilor publice și private și folosirea mai extinsă a tehnologiilor europene. Pe agendă s-au aflat și atacurile cibernetice, efectele asupra pieței muncii și rolul viitorului Fond European de Competitivitate.",
-    "importance_score": 245.0,
+    "importance_score": 255.0,
     "top_rank": 4,
     "is_top_hero": false,
     "is_top_list": true
@@ -1615,6 +1620,153 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_bcce9b34a7",
+    "slug": "vilagszerte-lealltak-microsoft-szolgaltatasok-romaniaban-is-jeleztek-hibakat-bcce9b",
+    "tags": [
+      "microsoft",
+      "outlook",
+      "microsoft365",
+      "teams",
+      "kiberbiztonsag"
+    ],
+    "fingerprint": "29ea0cdfcc51129aa7da9abaa0cba9f0",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Pană de proporții la Microsoft: Outlook, afectat în întreaga lume",
+        "link": "https://hotnews.ro/pana-de-proportii-la-microsoft-outlook-afectat-in-intreaga-lume-2402898"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Outlook a picat în toată lumea. Peste 97.000 de utilizatori au raportat probleme de acces, chiar și în România",
+        "link": "https://stirileprotv.ro/stiri/international/pana-globala-la-outlook-peste-97-000-de-utilizatori-au-raportat-probleme-de-acces-chiar-si-in-romania.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Pană majoră la Microsoft. Probleme raportate joi seara și de utilizatorii din România",
+        "link": "https://adevarul.ro/stil-de-viata/tehnologie/pana-majora-la-microsoft-probleme-raportate-joi-2571141.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Pană mondială la Microsoft Outlook. Reparația „nu funcționează conform așteptărilor”",
+        "link": "https://www.digi24.ro/stiri/externe/pana-mondiala-a-microsoft-outlook-reparatia-nu-functioneaza-conform-asteptarilor-4034467"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Microsoft 365, Outlook și Teams, afectate de o pană globală în 74 de țări. Microsoft exclude, deocamdată, un atac cibernetic",
+        "link": "https://stirileprotv.ro/stiri/international/microsoft-365-outlook-si-teams-afectate-de-o-pana-globala-in-74-de-tari-microsoft-exclude-deocamdata-un-atac-cibernetic.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Pana care afectează Microsoft: „Eforturile de remediere nu au funcţionat aşa cum era prevăzut”",
+        "link": "https://stirileprotv.ro/stiri/international/pana-care-afecteaza-microsoft-eforturile-de-remediere-nu-au-func-ionat-asa-cum-era-prevazut.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Globális leállás a Microsoftnál: 74 országban vannak fennakadások",
+        "link": "https://maszol.ro/eletmod/Globalis-leallas-a-Microsoftnal-74-orszagban-vannak-fennakadasok"
+      },
+      {
+        "source": "G4Media",
+        "title": "Microsoft se confruntă cu o pană globală care afectează Outlook, Teams și alte servicii / Sute de mii de utilizatori au raportat probleme, iar remedierea întârzie",
+        "link": "https://www.g4media.ro/microsoft-se-confrunta-cu-o-pana-globala-care-afecteaza-outlook-teams-si-alte-servicii-sute-de-mii-de-utilizatori-au-raportat-probleme-iar-remedierea-intarzie.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Mai multe companii aeriene, afectate de pana Microsoft. Mesajul neașteptat al unui operator",
+        "link": "https://hotnews.ro/mai-multe-companii-aeriene-afectate-de-pana-microsoft-mesajul-neasteptat-al-unui-operator-2403251"
+      }
+    ],
+    "published_at": 1794556607,
+    "title_hu": "Világszerte leálltak Microsoft-szolgáltatások, Romániában is jeleztek hibákat",
+    "lead_hu": "A Microsoft 365, az Outlook és több más alkalmazás fennakadása 74 országot és térséget érintett, a kiesés pedig több mint kilenc órán át tartott. Romániában az Outlookkal kapcsolatos hibajelzések száma 83-nál tetőzött; a Microsoft nem talált kibertámadásra utaló jelet.",
+    "content_hu": "• **A leállás 74 országra terjedt ki:** a Downdetector rövid idő alatt több kontinensről gyűjtött bejelentéseket. Franciaországban csütörtökön 18:30 után több száz jelzés érkezett, az Egyesült Államokban pedig 19 órakor több mint 39 ezer felhasználó jelezte, hogy nem éri el az Outlookot. Romániában is csütörtök este jelentkeztek problémák.\n\n• **A panaszok száma gyorsan emelkedett:** nemzetközi szinten mintegy fél óra alatt több mint 12 ezer bejelentés gyűlt össze, 13:10 körül pedig már 80 ezernél is többet regisztráltak. Egy későbbi csúcsnál az Outlookkal kapcsolatos jelzések száma megközelítette a 130 ezret, éjfélre pedig körülbelül 37 ezerre esett vissza. Romániában 83 volt a helyi csúcs, ezt nagyjából 35 bejelentés követte.\n\n• **Az Exchange Online hibája több alkalmazást is érintett:** a pénteken 3:30 GMT-kor közzétett tájékoztatás szerint az Outlookot kiszolgáló Exchange-rendszerek szenvedték el a legsúlyosabb fennakadást. A Word, az Excel, a PowerPoint, a SharePoint, a OneDrive és a Copilot használói is jeleztek problémákat; az OpenAI és az Anthropic egyes szolgáltatásaihoz használt kapcsolatok szintén érintettek voltak.\n\n• **A kieső szerverek túlterhelték a megmaradt infrastruktúrát:** a Microsoft előbb több régióban jelentkező nagy terhelésről számolt be, majd szerverek váratlan elérhetetlenségét nevezte meg okként. Forgalomelosztással, korábbi frissítések visszaállításával és terheléskorlátozással próbálták kezelni a helyzetet, de a forgalom visszatérésekor egyes gépek ismét leálltak. A javítási lépések nem hozták a várt eredményt.\n\n• **A Teams csak részben vált használhatatlanná, kibertámadásra nincs bizonyíték:** a naptár érintettebb volt, mint az üzenetküldés és a hívások. Ausztrália kiberbiztonságért is felelős minisztere egy szoftverfrissítéssel való lehetséges összefüggést említett; az országban hírszerzési és rendőrségi rendszereket is érintettek a zavarok, Új-Zélandon pedig egyes hivatalok és vállalatok offline működtek, a vízumkérelmek feldolgozását felfüggesztették.",
+    "title_ro": "Servicii Microsoft întrerupte la nivel mondial; au fost raportate probleme și în România",
+    "lead_ro": "Defecțiunile Microsoft 365, Outlook și ale altor aplicații au afectat 74 de țări și teritorii, iar întreruperea a durat peste nouă ore. În România, sesizările privind Outlook au ajuns la un maxim de 83; Microsoft a declarat că nu a identificat indicii ale unui atac cibernetic.",
+    "content_ro": "• **Întreruperea s-a extins în 74 de țări și teritorii:** Downdetector a consemnat într-un interval scurt raportări din mai multe continente. În Franța au apărut câteva sute de sesizări după ora locală 18:30, iar în SUA, la ora 19:00, peste 39.000 de persoane au semnalat că nu pot accesa Outlook. Problemele au fost raportate și în România, joi seara.\n\n• **Numărul sesizărilor a crescut rapid:** la nivel internațional s-au înregistrat peste 12.000 de raportări în aproximativ o jumătate de oră, iar în jurul orei 13:10 totalul a trecut de 80.000. La un moment ulterior, sesizările privind Outlook s-au apropiat de 130.000, apoi au coborât la circa 37.000 până la miezul nopții. În România, maximul a fost de 83, urmat de aproximativ 35 de raportări.\n\n• **Defecțiunile Exchange Online au avut efecte asupra mai multor aplicații:** potrivit informării publicate vineri la 3:30 GMT, sistemele Exchange care susțin Outlook au fost cele mai afectate. Utilizatorii au semnalat probleme și la Word, Excel, PowerPoint, SharePoint, OneDrive și Copilot. Au fost afectate și unele conexiuni folosite de servicii ale OpenAI și Anthropic.\n\n• **Indisponibilitatea unor servere a suprasolicitat infrastructura rămasă:** Microsoft a menționat inițial încărcarea ridicată în mai multe regiuni, apoi a indicat că unele servere au devenit neașteptat inaccesibile. Compania a încercat să distribuie traficul, să revină la actualizări anterioare și să limiteze solicitările, însă unele servere au cedat din nou când traficul a revenit. Măsurile de remediere nu au produs rezultatele urmărite.\n\n• **Teams a fost afectat parțial, iar un atac cibernetic nu a fost confirmat:** calendarul a întâmpinat mai multe dificultăți decât mesajele și apelurile. Ministrul australian responsabil și de securitatea cibernetică a menționat o posibilă legătură cu o actualizare software. În Australia au fost afectate și sisteme ale serviciilor de informații și poliției; în Noua Zeelandă, unele instituții și companii au funcționat offline, iar procesarea cererilor de viză a fost suspendată.",
+    "importance_score": 105.0,
+    "top_rank": 10,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_98a90fd1a2",
+    "slug": "ciucu-nem-tud-az-aur-kerelmerol-dan-tagadja-a-beavatkozast-98a90f",
+    "tags": [
+      "bucuresti",
+      "aur",
+      "proteste",
+      "nicusordan"
+    ],
+    "fingerprint": "1541efb44bcccef71a939c9c9b62c37c",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Ciucu, despre protestul anunțat de George Simion în fața Primăriei Capitalei: „Nu știu să fi primit” vreo cerere de autorizare din partea AUR / „Comisia ia decizii în baza acestor recomandări” / „Acolo unde primarii își fac treaba, ai mult mai puțin extremism și populism”",
+        "link": "https://www.g4media.ro/ciucu-protest-george-simion-aur-primaria-capitalei.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan, despre George Simion: „Câte tâmpenii la rând poate să spună un lider politic, ca să nu îl mai luăm în seamă?”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-george-simion-cate-tampenii-la-rand-poate-sa-spuna-un-lider-politic-ca-sa-nu-il-mai-luam-in-seama-4034173"
+      },
+      {
+        "source": "G4Media",
+        "title": "Nicușor Dan, după ce Simion l-a acuzat că a dat ordin ca protestul AUR să nu fie autorizat: „Câte tâmpenii la rând mai poate spune un lider politic ca să nu-l mai luăm în seamă? ”",
+        "link": "https://www.g4media.ro/nicusor-dan-dupa-ce-simion-l-a-acuzat-ca-a-dat-ordin-ca-protestul-aur-sa-nu-fie-autorizat-cate-tampenii-la-rand-mai-poate-spune-un-lider-politic-ca-sa-nu-l-mai-luam-in-seama.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Nicușor Dan îl acuză pe George Simion că „spune tâmpenii”: „Ăsta e comentariul meu”",
+        "link": "https://adevarul.ro/politica/nicusor-dan-il-acuza-pe-george-simion-ca-spune-2571126.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Keményen nekiment Simionnak az államfő",
+        "link": "https://maszol.ro/belfold/Kemenyen-nekiment-Simionnak-az-allamfo"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ciprian Ciucu, despre protestul AUR: Nu am primit cerere de autorizaţie. Nu vrem să se întâmple în România ce s-a întâmplat în Franţa",
+        "link": "https://www.digi24.ro/stiri/ciprian-ciucu-despre-protestul-aur-nu-am-primit-cerere-de-autorizatie-nu-vrem-sa-se-intample-in-romania-ce-s-a-intamplat-in-franta-4033351"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ce spune primarul Ciucu despre protestul AUR. „Nu vrem să se întâmple în România ce s-a întâmplat în Franța”",
+        "link": "https://hotnews.ro/ce-spune-primarul-ciucu-despre-protestul-aur-nu-vrem-sa-se-intample-in-romania-ce-s-a-intamplat-in-franta-2402436"
+      },
+      {
+        "source": "Adevărul",
+        "title": "George Simion îl acuză pe Nicușor Dan că s-a implicat în demiterea lui Ilie Bolojan: \"Nicușor Dan minte. Împăratul este gol\"",
+        "link": "https://adevarul.ro/politica/george-simion-il-acuza-pe-nicusor-dan-ca-s-a-2571193.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "„Ori minte Nicușor Dan, ori mint eu”. George Simion lansează un nou atac la adresa președintelui: „Afirmații scandaloase”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/ori-minte-nicusor-dan-ori-mint-eu-george-simion-lanseaza-un-nou-atac-la-adresa-presedintelui-afirmatii-scandaloase-4034677"
+      }
+    ],
+    "published_at": 1794550560,
+    "title_hu": "Ciucu nem tud az AUR kérelméről, Dan tagadja a beavatkozást",
+    "lead_hu": "George Simion november 14-re, szombat délelőttre hirdetett tüntetést a bukaresti fővárosi városháza elé. Ciprian Ciucu nem tud engedélykérelemről, Nicușor Dan pedig ismét tagadta, hogy közbelépett volna; Simion közölte, hogy részt vesz a demonstráción.",
+    "content_hu": "• **A kérelemről nincs tudomása** – Ciprian Ciucu főpolgármester november 12-én, egy Daniel Băluțu negyedik kerületi polgármesterrel közösen tartott sajtótájékoztatón beszélt a november 14-ére, 10 órára meghirdetett AUR-rendezvényről. A tájékoztatót az Apărătorii Patriei felüljárónál tartották, ahol a Șoseaua Olteniței új aluljárójának tervét mutatták be. Ciucu szerint nem érkezett hozzá információ arról, hogy a párt benyújtotta volna a kérelmet.\n\n• **A szakbizottság értékeli a kockázatokat** – A nyilvános gyűlések engedélyezésével foglalkozó testületben rendőrségi és csendőrségi képviselők is részt vesznek. A szakértői értékelések, valamint a Bukarestben egy időben zajló más rendezvények alapján mérlegelnek; a főpolgármester a bizottság javaslatára, törvényben meghatározott esetekben tilthat meg demonstrációt. Ciucu szerint a döntés nem személyes szimpátián múlik.\n\n• **A szombati programok biztonsági szempontot jelentenek** – Ciucu egy mérkőzést és kulturális eseményeket is említett, mivel ezek sok embert vonzhatnak. A bizottság feladata a résztvevők testi épségének és a vagyon védelmének mérlegelése, beleértve az esetleges erőszakos incidensek megelőzését. A főpolgármester szerint más napokon is lehet tüntetést szervezni.\n\n• **Dan Dublinban cáfolta Simion vádját** – Az államfő csütörtök esti sajtótájékoztatóján elutasította, hogy utasítást adott volna az AUR demonstrációjának megakadályozására, és bírálta a pártelnök állításait. Kedden úgy nyilatkozott, hogy az általa ismert adatok alapján a fővárosi önkormányzat álláspontja tűnik megalapozottnak, noha az ügyiratot nem ismeri részletesen.\n\n• **Simion jelezte részvételét** – Az AUR elnöke azt állította, hogy Dan közvetlenül befolyásolta az engedélyezési ügyet. Simion közölte, hogy elmegy a szombati rendezvényre, és ha egy állami szerv ezt kéri, személyesen vállalja a szervezésért a felelősséget. A hatóságoktól a békés lebonyolítás támogatását kérte, híveit pedig arra intette, hogy ne reagáljanak provokációkra.",
+    "title_ro": "Ciucu nu știe de cererea AUR, iar Dan neagă că a intervenit",
+    "lead_ro": "George Simion a anunțat un protest în fața Primăriei Capitalei pentru sâmbătă, 14 noiembrie, la ora 10. Ciprian Ciucu spune că nu știe să fi fost depusă o cerere de autorizare, iar Nicușor Dan a negat din nou orice intervenție; Simion a anunțat că va participa la manifestație.",
+    "content_ro": "• **Ciucu nu are informații despre o cerere** – Primarul general a discutat despre manifestația AUR anunțată pentru 14 noiembrie, la ora 10, pe 12 noiembrie, la o conferință susținută împreună cu primarul Sectorului 4, Daniel Băluță. Evenimentul a avut loc la Pasajul Apărătorii Patriei, unde cei doi au prezentat proiectul unui pasaj subteran nou pe Șoseaua Olteniței. Ciucu a spus că nu știe ca partidul să fi depus solicitarea.\n\n• **Comisia analizează riscurile** – În organismul care evaluează autorizarea adunărilor publice sunt incluși și reprezentanți ai Poliției și Jandarmeriei. Membrii iau în calcul evaluările specialiștilor și celelalte evenimente programate în București. Primarul poate interzice manifestația la recomandarea comisiei doar în situațiile prevăzute de lege, iar Ciucu a precizat că decizia nu ține de preferințele sale personale.\n\n• **Evenimentele de sâmbătă contează pentru siguranță** – Ciucu a menționat un meci și manifestări culturale, care pot atrage mulțimi numeroase. Comisia trebuie să evalueze protecția persoanelor și a bunurilor, precum și prevenirea unor posibile acte violente. Primarul a adăugat că protestul poate fi organizat și într-o altă zi.\n\n• **Dan a respins acuzația la Dublin** – La conferința de presă de joi seară, președintele a negat că ar fi dat dispoziții pentru blocarea manifestației AUR și a criticat afirmațiile liderului partidului. Marți, Dan spusese că, pe baza informațiilor pe care le văzuse, poziția Primăriei Capitalei părea justificată, deși nu cunoștea în detaliu dosarul.\n\n• **Simion a spus că va fi prezent** – Liderul AUR a susținut că Dan a influențat direct procedura de autorizare. Simion a anunțat că va participa sâmbătă și că își va asuma personal răspunderea pentru organizare dacă o instituție publică îi va solicita acest lucru. El a cerut autorităților să sprijine desfășurarea pașnică a evenimentului și le-a transmis susținătorilor să evite reacțiile la provocări.",
+    "importance_score": 105.0,
+    "top_rank": 11,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_b6363d88c7",
     "slug": "egy-hallgatoi-visszateritesi-kerelem-vezetett-a-bukaresti-egyetemi-ugy-nyomara-b6363d",
     "tags": [
@@ -1688,7 +1840,7 @@
     "lead_ro": "Trei casiere ale Universității din București sunt suspectate că ar fi însușit peste 1,6 milioane de lei din taxele studenților, în perioada 2022–2025. Cazul a ieșit la iveală după ce o studentă a cerut restituirea unei taxe, deși chitanța originală figura ca anulată în sistemul instituției.",
     "content_ro": "• **O solicitare de rambursare a declanșat verificările.** Studenta a prezentat chitanța în original, însă în evidențele informatice ale universității operațiunea apărea anulată. Instituția a efectuat un audit intern și a sesizat ulterior procurorii.\n\n• **Anchetatorii descriu anularea repetată a unor chitanțe.** Potrivit procurorilor, casierele ar fi șters, de regulă, două sau trei documente pe zi din aplicația casieriei, după ce le înmânau studenților și înainte de întocmirea registrului zilnic. Sumele încasate nu ar mai fi fost astfel trecute în contabilitatea universității.\n\n• **Prejudiciul estimat depășește 1,6 milioane de lei.** Cele trei angajate sunt cercetate pentru fapte presupus comise între 2022 și 2025. Dosarul vizează delapidarea, falsul intelectual, uzul de fals și falsul informatic, toate în formă continuată.\n\n• **La 5 noiembrie au avut loc percheziții în trei locații.** Verificările s-au desfășurat în București și în județul Teleorman. Pentru recuperarea presupusei pagube au fost puse sub sechestru două imobile evaluate împreună la circa 300.000 de lei, precum și conturile bancare ale inculpatelor.\n\n• **Cele trei femei sunt cercetate sub control judiciar și nu mai lucrează la universitate.** Procurorii au cerut arestarea preventivă pentru două dintre ele, însă judecătorul a respins solicitarea. Măsura aplicată celei de-a treia inculpate este valabilă din 6 noiembrie până la 4 ianuarie 2027, iar ancheta continuă.",
     "importance_score": 100.0,
-    "top_rank": 10,
+    "top_rank": 12,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1767,7 +1919,7 @@
     "lead_ro": "În 11 și 12 noiembrie, radarele au semnalat ținte aeriene în apropierea județului Tulcea, iar populația a primit mesaje RO-Alert. Înaintea celei de-a doua avertizări, comandamentul militar a informat inspectoratul pentru situații de urgență; bilanțul pentru 2026, până la 27 septembrie, indică 81 de atacuri în apropierea frontierei.",
     "content_ro": "• **În seara de 11 noiembrie, radarul a detectat o țintă la est de Insula Șerpilor.** Datele indicau deplasarea acesteia spre sectorul de graniță româno-ucraineană din dreptul județului Tulcea. La 21:32, locuitorii din nordul județului au primit o alertă privind o posibilă pătrundere a unei drone.\n\n• **Două avioane românești F-16 au fost trimise pentru supraveghere.** Aeronavele au decolat de la Baza 71 Câmpia Turzii, iar alerta a fost ridicată la 22:17. Ministerul Apărării nu a raportat o intrare în spațiul aerian românesc.\n\n• **La 12 noiembrie, sistemele radar au semnalat din nou o țintă aeriană.** Aceasta se afla la circa 28 de kilometri nord-est de Sulina și la aproximativ 45 de kilometri de litoral, spre est de Insula Șerpilor. Comandamentul militar a anunțat inspectoratul pentru situații de urgență, care a transmis alerta la 12:35 pentru nord-estul județului; aceasta a încetat la 13:12.\n\n• **În a doua zi au decolat două F-18 spaniole.** Avioanele au plecat de la Baza 57 Mihail Kogălniceanu. Autoritățile au avertizat asupra riscului ca obiecte să cadă din spațiul aerian și au recomandat adăpostirea în beciuri sau spații de protecție civilă. În lipsa acestora, oamenii au fost îndrumați să rămână în interior, departe de ferestre și pereții exteriori.\n\n• **Datele oficiale pentru perioada de până la 27 septembrie 2026 consemnează 81 de atacuri în apropierea frontierei.** În același interval au fost raportate 30 de pătrunderi neautorizate în spațiul aerian și patru drone doborâte. Duminică după-amiază, radarele detectaseră drone în spațiul aerian ucrainean, în zona Insulei Șerpilor.",
     "importance_score": 100.0,
-    "top_rank": 11,
+    "top_rank": 13,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1840,7 +1992,7 @@
     "lead_ro": "Mihai Stoica a renunțat pe 12 noiembrie la funcția de președinte al Consiliului de Administrație al FCSB. Gigi Becali a spus că oficialul dorește o perioadă de odihnă, dar că ar reveni dacă echipa câștigă campionatul.",
     "content_ro": "• **Demisie anunțată pe 12 noiembrie:** Mihai Stoica, în vârstă de 61 de ani, a renunțat la conducerea Consiliului de Administrație al FCSB. Gigi Becali a confirmat că a discutat cu el înainte ca decizia să fie luată. Stoica a început colaborarea cu Becali în iulie 2002, a plecat la Unirea Urziceni în 2007 și s-a întors la FCSB în august 2010. Funcția actuală o ocupa din aprilie 2023.\n\n• **Decizia a urmat unor critici și schimbări interne:** În zilele precedente, Becali a contestat public activitatea lui Stoica la transferuri și căutarea de jucători, iar responsabilitățile acestuia s-au restrâns. Relatările din presă au indicat și plecarea unor colaboratori apreciați de Stoica, între care directorul sportiv Florin Cernat, Alin Stoica și Lucian Filip.\n\n• **Pauză de la club, cu posibilitatea revenirii:** Potrivit lui Becali, Stoica i-a comunicat că dorește liniște și timp pentru refacere. Patronul a descris plecarea ca pe o întrerupere a activității fotbalistice, nu a relației personale dintre ei. Becali a afirmat că Stoica a acceptat să revină dacă FCSB devine campioană; el se aștepta deja ca oficialul să plece.\n\n• **Alin Stoica nu a revenit în stafful primei echipe:** Mihai Stoica i-a cerut lui Becali să renunțe la îndepărtarea lui Alin, iar patronul a acceptat inițial. Intervenția Peluzei Nord a făcut ca înțelegerea să nu fie aplicată. Clubul a anunțat că Alin Stoica și Lucian Filip vor lucra la academie; Alin fusese secund la prima echipă din vara lui 2024.\n\n• **Marius Baciu a indicat mai mulți factori:** Fostul antrenor al FCSB, aflat la echipă între mai și septembrie, a considerat că plecarea colegilor nu explică singură decizia lui Stoica. Baciu a mai spus că Stoica încerca să susțină jucătorii și stafful, însă unele demersuri nu au ajuns la rezultatul urmărit.",
     "importance_score": 98.0,
-    "top_rank": 12,
+    "top_rank": 14,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1914,143 +2066,6 @@
     "lead_ro": "Datele publicate de Institutul Național de Statistică pe 12 noiembrie arată că inflația anuală a urcat la 6,9% în octombrie, iar prețurile au crescut cu 0,82% față de luna precedentă. Combustibilii, chiriile și serviciile s-au numărat printre principalele surse de scumpire, în timp ce puterea de cumpărare a salariaților a rămas sub presiune.",
     "content_ro": "• **Inflația din octombrie:** Creșterea anuală a prețurilor de consum a ajuns la 6,9%, după 6,6% în septembrie, marcând a doua lună consecutivă de accelerare după nivelul de 6,2% din august. În octombrie, prețurile au avansat cu 0,82% față de luna anterioară, iar în primele zece luni ale anului scumpirea cumulată a fost de aproximativ 6,3%.\n\n• **Serviciile și energia au contribuit la costurile mai mari:** Într-un an, tarifele serviciilor au crescut cu 11,23%, cele ale mărfurilor nealimentare cu 7,66%, iar prețurile alimentelor cu 3,07%. Energia termică s-a scumpit cu 9,61%, electricitatea cu 4,09%, iar gazele naturale cu 1,41%. Biletele de avion au costat cu 14,44% mai mult, iar serviciile de apă, canalizare și salubritate cu 13,69%.\n\n• **Motorina și chiriile au avut creșteri pronunțate:** Față de octombrie anul precedent, motorina s-a scumpit cu 43,45%, benzina cu 32,91%, iar majorarea cumulată a prețurilor combustibililor a fost de 22,46%. Chiriile au crescut cu 38,46%. La alimente, cafeaua s-a scumpit cu 12,48%, ouăle cu 10,50%, iar laptele de vacă cu 8,11%; fructele proaspete s-au ieftinit cu 15,38%.\n\n• **Încetinirea inflației nu înseamnă ieftinirea produselor:** Adrian Codirlașu, președintele CFA România, a explicat că, atât timp cât inflația rămâne pozitivă, nivelul prețurilor continuă să crească, chiar dacă într-un ritm mai lent. Costul energiei se poate reflecta și în prețurile altor bunuri și servicii, prin transport și agricultură.\n\n• **Veniturile nu au compensat integral scumpirile:** De la 1 iulie, salariul minim brut a crescut de la 4.050 la 4.325 de lei, adică aproximativ 6,8%. Salariul mediu net din august a fost cu 5,6% mai mare decât cu un an înainte, însă indicele câștigului salarial real a coborât la 99,5%. Inflația poate mări încasările nominale din taxe și diminua valoarea reală a unor cheltuieli publice și datorii în lei; acest efect bugetar poate transfera o parte din cost către populație.",
     "importance_score": 98.0,
-    "top_rank": 13,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_bcce9b34a7",
-    "slug": "vilagszerte-lealltak-microsoft-szolgaltatasok-romaniaban-is-jeleztek-hibakat-bcce9b",
-    "tags": [
-      "microsoft",
-      "outlook",
-      "microsoft365",
-      "teams",
-      "kiberbiztonsag"
-    ],
-    "fingerprint": "29ea0cdfcc51129aa7da9abaa0cba9f0",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Pană de proporții la Microsoft: Outlook, afectat în întreaga lume",
-        "link": "https://hotnews.ro/pana-de-proportii-la-microsoft-outlook-afectat-in-intreaga-lume-2402898"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Outlook a picat în toată lumea. Peste 97.000 de utilizatori au raportat probleme de acces, chiar și în România",
-        "link": "https://stirileprotv.ro/stiri/international/pana-globala-la-outlook-peste-97-000-de-utilizatori-au-raportat-probleme-de-acces-chiar-si-in-romania.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Pană majoră la Microsoft. Probleme raportate joi seara și de utilizatorii din România",
-        "link": "https://adevarul.ro/stil-de-viata/tehnologie/pana-majora-la-microsoft-probleme-raportate-joi-2571141.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Pană mondială la Microsoft Outlook. Reparația „nu funcționează conform așteptărilor”",
-        "link": "https://www.digi24.ro/stiri/externe/pana-mondiala-a-microsoft-outlook-reparatia-nu-functioneaza-conform-asteptarilor-4034467"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Microsoft 365, Outlook și Teams, afectate de o pană globală în 74 de țări. Microsoft exclude, deocamdată, un atac cibernetic",
-        "link": "https://stirileprotv.ro/stiri/international/microsoft-365-outlook-si-teams-afectate-de-o-pana-globala-in-74-de-tari-microsoft-exclude-deocamdata-un-atac-cibernetic.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Pana care afectează Microsoft: „Eforturile de remediere nu au funcţionat aşa cum era prevăzut”",
-        "link": "https://stirileprotv.ro/stiri/international/pana-care-afecteaza-microsoft-eforturile-de-remediere-nu-au-func-ionat-asa-cum-era-prevazut.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Globális leállás a Microsoftnál: 74 országban vannak fennakadások",
-        "link": "https://maszol.ro/eletmod/Globalis-leallas-a-Microsoftnal-74-orszagban-vannak-fennakadasok"
-      },
-      {
-        "source": "G4Media",
-        "title": "Microsoft se confruntă cu o pană globală care afectează Outlook, Teams și alte servicii / Sute de mii de utilizatori au raportat probleme, iar remedierea întârzie",
-        "link": "https://www.g4media.ro/microsoft-se-confrunta-cu-o-pana-globala-care-afecteaza-outlook-teams-si-alte-servicii-sute-de-mii-de-utilizatori-au-raportat-probleme-iar-remedierea-intarzie.html"
-      }
-    ],
-    "published_at": 1794556607,
-    "title_hu": "Világszerte leálltak Microsoft-szolgáltatások, Romániában is jeleztek hibákat",
-    "lead_hu": "A Microsoft 365, az Outlook és több más alkalmazás fennakadása 74 országot és térséget érintett, a kiesés pedig több mint kilenc órán át tartott. Romániában az Outlookkal kapcsolatos hibajelzések száma 83-nál tetőzött; a Microsoft nem talált kibertámadásra utaló jelet.",
-    "content_hu": "• **A leállás 74 országra terjedt ki:** a Downdetector rövid idő alatt több kontinensről gyűjtött bejelentéseket. Franciaországban csütörtökön 18:30 után több száz jelzés érkezett, az Egyesült Államokban pedig 19 órakor több mint 39 ezer felhasználó jelezte, hogy nem éri el az Outlookot. Romániában is csütörtök este jelentkeztek problémák.\n\n• **A panaszok száma gyorsan emelkedett:** nemzetközi szinten mintegy fél óra alatt több mint 12 ezer bejelentés gyűlt össze, 13:10 körül pedig már 80 ezernél is többet regisztráltak. Egy későbbi csúcsnál az Outlookkal kapcsolatos jelzések száma megközelítette a 130 ezret, éjfélre pedig körülbelül 37 ezerre esett vissza. Romániában 83 volt a helyi csúcs, ezt nagyjából 35 bejelentés követte.\n\n• **Az Exchange Online hibája több alkalmazást is érintett:** a pénteken 3:30 GMT-kor közzétett tájékoztatás szerint az Outlookot kiszolgáló Exchange-rendszerek szenvedték el a legsúlyosabb fennakadást. A Word, az Excel, a PowerPoint, a SharePoint, a OneDrive és a Copilot használói is jeleztek problémákat; az OpenAI és az Anthropic egyes szolgáltatásaihoz használt kapcsolatok szintén érintettek voltak.\n\n• **A kieső szerverek túlterhelték a megmaradt infrastruktúrát:** a Microsoft előbb több régióban jelentkező nagy terhelésről számolt be, majd szerverek váratlan elérhetetlenségét nevezte meg okként. Forgalomelosztással, korábbi frissítések visszaállításával és terheléskorlátozással próbálták kezelni a helyzetet, de a forgalom visszatérésekor egyes gépek ismét leálltak. A javítási lépések nem hozták a várt eredményt.\n\n• **A Teams csak részben vált használhatatlanná, kibertámadásra nincs bizonyíték:** a naptár érintettebb volt, mint az üzenetküldés és a hívások. Ausztrália kiberbiztonságért is felelős minisztere egy szoftverfrissítéssel való lehetséges összefüggést említett; az országban hírszerzési és rendőrségi rendszereket is érintettek a zavarok, Új-Zélandon pedig egyes hivatalok és vállalatok offline működtek, a vízumkérelmek feldolgozását felfüggesztették.",
-    "title_ro": "Servicii Microsoft întrerupte la nivel mondial; au fost raportate probleme și în România",
-    "lead_ro": "Defecțiunile Microsoft 365, Outlook și ale altor aplicații au afectat 74 de țări și teritorii, iar întreruperea a durat peste nouă ore. În România, sesizările privind Outlook au ajuns la un maxim de 83; Microsoft a declarat că nu a identificat indicii ale unui atac cibernetic.",
-    "content_ro": "• **Întreruperea s-a extins în 74 de țări și teritorii:** Downdetector a consemnat într-un interval scurt raportări din mai multe continente. În Franța au apărut câteva sute de sesizări după ora locală 18:30, iar în SUA, la ora 19:00, peste 39.000 de persoane au semnalat că nu pot accesa Outlook. Problemele au fost raportate și în România, joi seara.\n\n• **Numărul sesizărilor a crescut rapid:** la nivel internațional s-au înregistrat peste 12.000 de raportări în aproximativ o jumătate de oră, iar în jurul orei 13:10 totalul a trecut de 80.000. La un moment ulterior, sesizările privind Outlook s-au apropiat de 130.000, apoi au coborât la circa 37.000 până la miezul nopții. În România, maximul a fost de 83, urmat de aproximativ 35 de raportări.\n\n• **Defecțiunile Exchange Online au avut efecte asupra mai multor aplicații:** potrivit informării publicate vineri la 3:30 GMT, sistemele Exchange care susțin Outlook au fost cele mai afectate. Utilizatorii au semnalat probleme și la Word, Excel, PowerPoint, SharePoint, OneDrive și Copilot. Au fost afectate și unele conexiuni folosite de servicii ale OpenAI și Anthropic.\n\n• **Indisponibilitatea unor servere a suprasolicitat infrastructura rămasă:** Microsoft a menționat inițial încărcarea ridicată în mai multe regiuni, apoi a indicat că unele servere au devenit neașteptat inaccesibile. Compania a încercat să distribuie traficul, să revină la actualizări anterioare și să limiteze solicitările, însă unele servere au cedat din nou când traficul a revenit. Măsurile de remediere nu au produs rezultatele urmărite.\n\n• **Teams a fost afectat parțial, iar un atac cibernetic nu a fost confirmat:** calendarul a întâmpinat mai multe dificultăți decât mesajele și apelurile. Ministrul australian responsabil și de securitatea cibernetică a menționat o posibilă legătură cu o actualizare software. În Australia au fost afectate și sisteme ale serviciilor de informații și poliției; în Noua Zeelandă, unele instituții și companii au funcționat offline, iar procesarea cererilor de viză a fost suspendată.",
-    "importance_score": 95.0,
-    "top_rank": 14,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_98a90fd1a2",
-    "slug": "ciucu-nem-tud-az-aur-kerelmerol-dan-tagadja-a-beavatkozast-98a90f",
-    "tags": [
-      "bucuresti",
-      "aur",
-      "proteste",
-      "nicusordan"
-    ],
-    "fingerprint": "1541efb44bcccef71a939c9c9b62c37c",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Ciucu, despre protestul anunțat de George Simion în fața Primăriei Capitalei: „Nu știu să fi primit” vreo cerere de autorizare din partea AUR / „Comisia ia decizii în baza acestor recomandări” / „Acolo unde primarii își fac treaba, ai mult mai puțin extremism și populism”",
-        "link": "https://www.g4media.ro/ciucu-protest-george-simion-aur-primaria-capitalei.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Nicușor Dan, despre George Simion: „Câte tâmpenii la rând poate să spună un lider politic, ca să nu îl mai luăm în seamă?”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-george-simion-cate-tampenii-la-rand-poate-sa-spuna-un-lider-politic-ca-sa-nu-il-mai-luam-in-seama-4034173"
-      },
-      {
-        "source": "G4Media",
-        "title": "Nicușor Dan, după ce Simion l-a acuzat că a dat ordin ca protestul AUR să nu fie autorizat: „Câte tâmpenii la rând mai poate spune un lider politic ca să nu-l mai luăm în seamă? ”",
-        "link": "https://www.g4media.ro/nicusor-dan-dupa-ce-simion-l-a-acuzat-ca-a-dat-ordin-ca-protestul-aur-sa-nu-fie-autorizat-cate-tampenii-la-rand-mai-poate-spune-un-lider-politic-ca-sa-nu-l-mai-luam-in-seama.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Nicușor Dan îl acuză pe George Simion că „spune tâmpenii”: „Ăsta e comentariul meu”",
-        "link": "https://adevarul.ro/politica/nicusor-dan-il-acuza-pe-george-simion-ca-spune-2571126.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Keményen nekiment Simionnak az államfő",
-        "link": "https://maszol.ro/belfold/Kemenyen-nekiment-Simionnak-az-allamfo"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ciprian Ciucu, despre protestul AUR: Nu am primit cerere de autorizaţie. Nu vrem să se întâmple în România ce s-a întâmplat în Franţa",
-        "link": "https://www.digi24.ro/stiri/ciprian-ciucu-despre-protestul-aur-nu-am-primit-cerere-de-autorizatie-nu-vrem-sa-se-intample-in-romania-ce-s-a-intamplat-in-franta-4033351"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ce spune primarul Ciucu despre protestul AUR. „Nu vrem să se întâmple în România ce s-a întâmplat în Franța”",
-        "link": "https://hotnews.ro/ce-spune-primarul-ciucu-despre-protestul-aur-nu-vrem-sa-se-intample-in-romania-ce-s-a-intamplat-in-franta-2402436"
-      },
-      {
-        "source": "Adevărul",
-        "title": "George Simion îl acuză pe Nicușor Dan că s-a implicat în demiterea lui Ilie Bolojan: \"Nicușor Dan minte. Împăratul este gol\"",
-        "link": "https://adevarul.ro/politica/george-simion-il-acuza-pe-nicusor-dan-ca-s-a-2571193.html"
-      }
-    ],
-    "published_at": 1794550560,
-    "title_hu": "Ciucu nem tud az AUR kérelméről, Dan tagadja a beavatkozást",
-    "lead_hu": "George Simion november 14-re, szombat délelőttre hirdetett tüntetést a bukaresti fővárosi városháza elé. Ciprian Ciucu nem tud engedélykérelemről, Nicușor Dan pedig ismét tagadta, hogy közbelépett volna; Simion közölte, hogy részt vesz a demonstráción.",
-    "content_hu": "• **A kérelemről nincs tudomása** – Ciprian Ciucu főpolgármester november 12-én, egy Daniel Băluțu negyedik kerületi polgármesterrel közösen tartott sajtótájékoztatón beszélt a november 14-ére, 10 órára meghirdetett AUR-rendezvényről. A tájékoztatót az Apărătorii Patriei felüljárónál tartották, ahol a Șoseaua Olteniței új aluljárójának tervét mutatták be. Ciucu szerint nem érkezett hozzá információ arról, hogy a párt benyújtotta volna a kérelmet.\n\n• **A szakbizottság értékeli a kockázatokat** – A nyilvános gyűlések engedélyezésével foglalkozó testületben rendőrségi és csendőrségi képviselők is részt vesznek. A szakértői értékelések, valamint a Bukarestben egy időben zajló más rendezvények alapján mérlegelnek; a főpolgármester a bizottság javaslatára, törvényben meghatározott esetekben tilthat meg demonstrációt. Ciucu szerint a döntés nem személyes szimpátián múlik.\n\n• **A szombati programok biztonsági szempontot jelentenek** – Ciucu egy mérkőzést és kulturális eseményeket is említett, mivel ezek sok embert vonzhatnak. A bizottság feladata a résztvevők testi épségének és a vagyon védelmének mérlegelése, beleértve az esetleges erőszakos incidensek megelőzését. A főpolgármester szerint más napokon is lehet tüntetést szervezni.\n\n• **Dan Dublinban cáfolta Simion vádját** – Az államfő csütörtök esti sajtótájékoztatóján elutasította, hogy utasítást adott volna az AUR demonstrációjának megakadályozására, és bírálta a pártelnök állításait. Kedden úgy nyilatkozott, hogy az általa ismert adatok alapján a fővárosi önkormányzat álláspontja tűnik megalapozottnak, noha az ügyiratot nem ismeri részletesen.\n\n• **Simion jelezte részvételét** – Az AUR elnöke azt állította, hogy Dan közvetlenül befolyásolta az engedélyezési ügyet. Simion közölte, hogy elmegy a szombati rendezvényre, és ha egy állami szerv ezt kéri, személyesen vállalja a szervezésért a felelősséget. A hatóságoktól a békés lebonyolítás támogatását kérte, híveit pedig arra intette, hogy ne reagáljanak provokációkra.",
-    "title_ro": "Ciucu nu știe de cererea AUR, iar Dan neagă că a intervenit",
-    "lead_ro": "George Simion a anunțat un protest în fața Primăriei Capitalei pentru sâmbătă, 14 noiembrie, la ora 10. Ciprian Ciucu spune că nu știe să fi fost depusă o cerere de autorizare, iar Nicușor Dan a negat din nou orice intervenție; Simion a anunțat că va participa la manifestație.",
-    "content_ro": "• **Ciucu nu are informații despre o cerere** – Primarul general a discutat despre manifestația AUR anunțată pentru 14 noiembrie, la ora 10, pe 12 noiembrie, la o conferință susținută împreună cu primarul Sectorului 4, Daniel Băluță. Evenimentul a avut loc la Pasajul Apărătorii Patriei, unde cei doi au prezentat proiectul unui pasaj subteran nou pe Șoseaua Olteniței. Ciucu a spus că nu știe ca partidul să fi depus solicitarea.\n\n• **Comisia analizează riscurile** – În organismul care evaluează autorizarea adunărilor publice sunt incluși și reprezentanți ai Poliției și Jandarmeriei. Membrii iau în calcul evaluările specialiștilor și celelalte evenimente programate în București. Primarul poate interzice manifestația la recomandarea comisiei doar în situațiile prevăzute de lege, iar Ciucu a precizat că decizia nu ține de preferințele sale personale.\n\n• **Evenimentele de sâmbătă contează pentru siguranță** – Ciucu a menționat un meci și manifestări culturale, care pot atrage mulțimi numeroase. Comisia trebuie să evalueze protecția persoanelor și a bunurilor, precum și prevenirea unor posibile acte violente. Primarul a adăugat că protestul poate fi organizat și într-o altă zi.\n\n• **Dan a respins acuzația la Dublin** – La conferința de presă de joi seară, președintele a negat că ar fi dat dispoziții pentru blocarea manifestației AUR și a criticat afirmațiile liderului partidului. Marți, Dan spusese că, pe baza informațiilor pe care le văzuse, poziția Primăriei Capitalei părea justificată, deși nu cunoștea în detaliu dosarul.\n\n• **Simion a spus că va fi prezent** – Liderul AUR a susținut că Dan a influențat direct procedura de autorizare. Simion a anunțat că va participa sâmbătă și că își va asuma personal răspunderea pentru organizare dacă o instituție publică îi va solicita acest lucru. El a cerut autorităților să sprijine desfășurarea pașnică a evenimentului și le-a transmis susținătorilor să evite reacțiile la provocări.",
-    "importance_score": 95.0,
     "top_rank": 15,
     "is_top_hero": false,
     "is_top_list": true
@@ -3124,6 +3139,59 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_aa74649f91",
+    "slug": "enyhe-eves-gdp-nvekedest-jelzett-2026-harmadik-negyedevere-az-ins-aa7464",
+    "tags": [
+      "economie-romania",
+      "pib",
+      "ins",
+      "statistici-economice"
+    ],
+    "fingerprint": "780c6e14e5aa8a21de2d756a779b25d3",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "După primele 9 luni, economia rămâne pe minus, dar toamna vine cu prima creștere a PIB după trei trimestre de contracție",
+        "link": "https://hotnews.ro/dpa-primele-9-luni-economia-ramane-pe-minus-dar-toamna-vine-cu-prima-crestere-a-pib-dupa-trei-trimestre-de-contractie-2403143"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PIB-ul României a crescut cu 2,1% în trimestrul III. Economia este însă pe minus în primele nouă luni",
+        "link": "https://www.mediafax.ro/economic/pib-ul-romaniei-a-crescut-cu-21-in-trimestrul-iii-economia-este-insa-pe-minus-in-primele-noua-luni-23842395"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "România încheie primele nouă luni din 2026 cu PIB-ul în scădere cu 1%, ajustat sezonier. Salt de 2,1% în trimestrul III",
+        "link": "https://stirileprotv.ro/stiri/financiar/romania-incheie-primele-noua-luni-din-2026-cu-pib-ul-in-scadere-cu-1-ajustat-sezonier-salt-de-2-1-in-trimestrul-iii.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Minimális növekedést produkált a gazdaság a harmadik negyedévben",
+        "link": "https://maszol.ro/gazdasag/Minimalis-novekedest-produkalt-a-gazdasag-a-harmadik-negyedevben"
+      },
+      {
+        "source": "Digi24",
+        "title": "PIB al României a crescut cu 2,1% în trimestrul III față de trimestrul II. De ce rămâne economia pe minus după primele nouă luni din an",
+        "link": "https://www.digi24.ro/stiri/economie/pib-al-romaniei-a-crescut-cu-21-in-trimestrul-iii-fata-de-trimestrul-ii-de-ce-ramane-economia-pe-minus-dupa-primele-noua-luni-din-an-4034639"
+      }
+    ],
+    "published_at": 1794554892,
+    "title_hu": "Enyhe éves GDP-növekedést jelzett 2026 harmadik negyedévére az INS",
+    "lead_hu": "A román statisztikai hivatal előzetes becslése szerint a GDP 2026 harmadik negyedévében éves összevetésben emelkedett, miután az előző három negyedévben nem mutatkozott növekedés. Az év első kilenc hónapjának teljesítménye azonban továbbra is elmaradt az egy évvel korábbitól.",
+    "content_hu": "• **A GDP éves összevetésben 0,1 százalékkal nőtt 2026 harmadik negyedévében.** Az INS előzetes, úgynevezett jelzőbecslése szerint a nyers adatok alapján ennyivel haladta meg a bruttó hazai termék az előző év azonos időszakának értékét. A szezonálisan kiigazított mutató 0,3 százalékos éves bővülést jelzett.\n\n• **Az első kilenc hónap összesített adatai még visszaesést mutatnak.** A nyers idősor szerint a GDP 0,3 százalékkal, a szezonálisan kiigazított számítás alapján pedig 1 százalékkal maradt el a 2025-ös azonos időszak szintjétől. A harmadik negyedévi pozitív adat tehát önmagában nem fordította növekedésbe az év eddigi mérlegét.\n\n• **A megelőző negyedévek adatai alapján jelentős visszaesést kellett ledolgozni.** Az INS újraszámítása szerint 2025 utolsó negyedévében 1,5 százalékkal csökkent a kiigazított GDP az előző három hónaphoz képest, 2026 első negyedévében további 0,3 százalékos mérséklődés következett, a második negyedévben pedig nem változott a mutató.\n\n• **A negyedéves felpattanás nagysága megközelíthette a 2 százalékot.** Ez az INS által közzétett szezonálisan kiigazított indexekből levezetett, hozzávetőleges számítás, nem a közölt fő mutatók egyike. Ha a becslés helytálló, hat negyedév óta ez lehetett a legerőteljesebb negyedéves emelkedés.\n\n• **Az adatrevíziók módosították a visszaesés időzítéséről alkotott képet.** A 2025-ös negyedik negyedévi indexet 98,3-ról 98,5-re emelték, míg 2026 első negyedévének értéke 99,9-ről 99,7-re csökkent; 2025 első negyedéve is enyhe lefelé igazítást kapott, 100,1-ről 100,0-ra. A változtatások a negyedévek közötti lefutást érintették, nem a gazdaság elért szintjét.",
+    "title_ro": "INS indică o creștere anuală modestă a PIB în trimestrul al treilea din 2026",
+    "lead_ro": "Estimarea preliminară a Institutului Național de Statistică arată că PIB-ul României a crescut în raport cu anul precedent în trimestrul III, după trei trimestre fără avans. Bilanțul cumulat al primelor nouă luni rămâne însă negativ.",
+    "content_ro": "• **PIB-ul a fost cu 0,1% mai mare în trimestrul III 2026 decât în aceeași perioadă din anul precedent.** Aceasta este indicația estimării preliminare publicate de INS pe baza seriei brute. Pentru seria ajustată sezonier, diferența anuală a fost de 0,3%, potrivit datelor instituției.\n\n• **Rezultatul cumulat de la începutul anului indică în continuare o contracție.** În primele nouă luni, valoarea PIB a fost cu 0,3% sub cea din perioada comparabilă din 2025 conform seriei brute. După ajustarea sezonieră, ecartul negativ a fost de 1%. Prin urmare, avansul anual din trimestrul al treilea nu a compensat scăderea consemnată pe ansamblul anului până atunci.\n\n• **Evoluția precedentă a inclus două trimestre de scădere și unul fără modificare.** INS a revizuit seria ajustată sezonier și estimează acum o reducere de 1,5% în trimestrul IV 2025 față de trimestrul anterior. În primele trei luni din 2026, PIB-ul a mai coborât cu 0,3%, iar în trimestrul II a rămas la același nivel.\n\n• **Calculul indicilor sugerează un salt trimestrial de aproximativ 2%.** Această valoare rezultă din compararea indicilor ajustați sezonier publicați, fiind orientativă și nu o cifră comunicată separat de INS. Dacă estimarea aproximativă se confirmă, dinamica ar fi cea mai puternică din ultimele șase trimestre.\n\n• **Revizuirile au schimbat distribuția în timp a scăderilor, nu nivelul economic atins.** Indicele pentru trimestrul IV 2025 a fost ridicat de la 98,3 la 98,5, în timp ce valoarea trimestrului I 2026 a fost redusă de la 99,9 la 99,7. Și trimestrul I 2025 a primit o corecție descendentă, de la 100,1 la 100,0. Alte trimestre menționate de INS au rămas nemodificate.",
+    "importance_score": 65.0,
+    "top_rank": 32,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_b54eb87aca",
     "slug": "hszi-a-tajvani-egyesites-mellett-ervelt-tajpej-elutasitotta-a-modellt-b54eb8",
     "tags": [
@@ -3177,7 +3245,7 @@
     "lead_ro": "Președintele chinez Xi Jinping a reafirmat obiectivul unei reunificări pașnice cu Taiwanul, menținând poziția Beijingului privind principiul „o singură Chină”. Guvernul taiwanez a respins formula „o țară, două sisteme”, iar în jurul insulei au fost detectate 29 de aparate militare chineze.",
     "content_ro": "• **Xi Jinping a vorbit despre Taiwan la Beijing, pe 12 noiembrie**, în cadrul unui eveniment dedicat împlinirii a 160 de ani de la nașterea lui Sun Yat-sen, găzduit de Marea Sală a Poporului. Liderul chinez a descris reunificarea drept un obiectiv istoric și a susținut că aceasta trebuie urmărită pe cale pașnică. El a menționat posibilitatea unor discuții, cu respectarea principiului „o singură Chină”.\n\n• **Taipeiul a respins poziția Beijingului.** Consiliul pentru Afaceri Continentale din Taiwan a transmis că nici guvernul, nici populația insulei nu acceptă formula „o țară, două sisteme”. Purtătorul de cuvânt al instituției, Liang Wen-chieh, a afirmat că formularea folosită de China privind reunificarea nu se deosebește semnificativ de cea anterioară.\n\n• **Liderul chinez a cerut locuitorilor de pe ambele maluri ale Strâmtorii Taiwan să se opună mișcărilor pentru independență.** Beijingul consideră insula, guvernată democratic, parte a teritoriului său, însă Taipeiul contestă această revendicare. China a propus anterior un aranjament de autonomie bazat pe principiul „o țară, două sisteme”, respins de principalele partide taiwaneze.\n\n• **Taiwanul a raportat detectarea a 29 de aparate militare chineze în apropierea insulei.** Potrivit ministerului taiwanez al apărării, printre acestea se aflau avioane de vânătoare J-16 și drone, implicate într-o patrulare comună de pregătire pentru luptă. Beijingul nu a exclus folosirea forței, iar armata chineză continuă operațiunile în jurul Taiwanului.\n\n• **Forțele taiwaneze au organizat anterior un amplu exercițiu cu rezerviști.** Între 5 și 14 august au fost mobilizați câteva mii de militari în rezervă, în pregătirea unui posibil atac chinez; experții recomandă o apărare asimetrică. O comparație din 2022 indica deja un avantaj al Chinei la tancuri, avioane, nave și rachete, decalaj care s-a accentuat ulterior.",
     "importance_score": 65.0,
-    "top_rank": 32,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3236,55 +3304,6 @@
     "lead_ro": "Hubert Thuma, președintele Consiliului Județean Ilfov, propune ca alegerea conducerii PNL să pornească de la filialele teritoriale. Biroul politic județean a susținut în unanimitate inițiativa, iar delegații la congres ar urma să fie desemnați tot la nivel local.",
     "content_ro": "• **Rezultatul consultării din Ilfov** Thuma și-a prezentat inițiativa joi, după o discuție cu primarii PNL din județ. Toți participanții la Biroul Politic Județean au susținut organizarea alegerilor interne.\n\n• **Membrii din teritoriu să influențeze deciziile** În opinia lui Thuma, hotărârile importante ale formațiunii trebuie să țină cont de poziția membrilor locali, nu să fie comunicate inițial de conducerea centrală. La întâlnirea cu primarii au fost discutate și dificultățile partidului.\n\n• **Mai întâi filiale, apoi conducerea națională** Propunerea stabilește desfășurarea scrutinelor în organizațiile locale înaintea votului pentru funcțiile naționale. Thuma consideră că liderii partidului trebuie să primească susținere din partea membrilor din teritoriu.\n\n• **Delegații congresului, desemnați local** Participanții la congres ar urma să fie aleși de filialele județene. Thuma susține reprezentarea primarilor, a altor aleși locali și a membrilor implicați de mai mult timp în activitatea PNL.\n\n• **Obiecții privind liderii numiți temporar** Thuma contestă ideea ca reformarea partidului să fie condusă de persoane instalate provizoriu, fără votul membrilor. De asemenea, el respinge includerea în delegații a unor angajați ai companiilor de stat ori a unor persoane selectate pe baza relațiilor personale.",
     "importance_score": 63.0,
-    "top_rank": 33,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_39839f5065",
-    "slug": "az-rmdsz-nepszavazast-es-parlamenti-fellepest-helyez-kilatasba-39839f",
-    "tags": [
-      "rmdsz",
-      "reforma-administrativa",
-      "referendum",
-      "harghita",
-      "covasna"
-    ],
-    "fingerprint": "90a312901417457b58bf0cfaf9fcabdc",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Avertismentul lui Kelemen Hunor: „Dacă reforma administrativă afectează drepturile maghiarilor, UDMR va reacționa dur”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/avertismentul-lui-kelemen-hunor-daca-reforma-administrativa-afecteaza-drepturile-maghiarilor-udmr-va-reactiona-dur-4033943"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Kelemen Hunor, despre reforma administrativă: „Se propun planuri nechibzuite”. Condiția pusă de UDMR",
-        "link": "https://hotnews.ro/kelemen-hunor-despre-reforma-administrativa-se-propun-planuri-nechibzuite-conditia-pusa-de-udmr-2402672"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Kelemen Hunor respinge reforma administrativă propusă de PSD. UDMR amenință cu moțiunea de cenzură",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/kelemen-hunor-respinge-reforma-administrativa-2571092.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Kelemen Hunor figyelmeztet: Ha a közigazgatási reform sérti a magyarok jogait, az RMDSZ keményen reagál",
-        "link": "https://maszol.ro/belfold/Kelemen-Hunor-figyelmeztet-Ha-a-kozigazgatasi-reform-serti-a-magyarok-jogait-az-RMDSZ-kemenyen-reagal"
-      }
-    ],
-    "published_at": 1794549060,
-    "title_hu": "Az RMDSZ népszavazást és parlamenti fellépést helyez kilátásba",
-    "lead_hu": "Kelemen Hunor szerint az önkormányzati átszervezés csak akkor indokolt, ha egyszerűsíti az igazgatást, és nem veszélyezteti a magyar közösségek jogait. Az RMDSZ helyi referendumot követel, és parlamenti eszközökkel is felléphet a tervezet ellen.",
-    "content_hu": "• **A közösségi jogok védelmét alapfeltételnek tartja az RMDSZ.** Kelemen Hunor úgy látja, hogy a közigazgatás átalakításának a helyiek javát kell szolgálnia, és egyszerűbb működést kell eredményeznie. Ha a terv hátrányosan érinti a magyar közösségeket, a párt minden rendelkezésére álló politikai és intézményi eszközt bevet az ellenzésére.\n\n• **Az érintett települések lakói döntsenek az egyesítésről.** Az RMDSZ településenkénti referendumot szorgalmaz. Kelemen Aiudban magyar alpolgármesterekkel egyeztetett, akik román polgármesterek mellett dolgoznak; Rimeteában pedig kisebb községek vezetőivel beszélt az átszervezés lehetséges következményeiről.\n\n• **A korábbi, 1500 fő alatti településekre vonatkozó elképzelésen túl további tervek is felmerültek.** Kelemen szerint a kezdeti egyeztetés szűkebb körű összevonásról szólt, azóta azonban többféle változat került nyilvánosságra.\n\n• **A megyehatárok átrajzolásának ötlete még nem vált a PSD hivatalos tervévé.** Sorin Grindeanu szerint a párt nem tárgyalt a reformról; a kezdeményezés Dragoș Benea európai parlamenti képviselőtől származott. A felvetés a fellebbviteli bíróságok területi beosztásához hasonló átszervezésről szólt, és ebből születhetett meg a később emlegetett térkép. A PSD jobb szolgáltatásokkal és alacsonyabb állami kiadásokkal indokolta a reform szükségességét.\n\n• **Az RMDSZ parlamenti úton is megpróbálhatja megakadályozni az átalakítást.** Csoma Botond szerint a párt a rendelkezésére álló eszközökkel lépne fel; ha a kormány parlamenti felelősségvállalással fogadná el a reformot, bizalmatlansági indítvány támogatása is szóba kerülhet. Hargita és Kovászna esetleges összevonását azért tartják különösen aggályosnak, mert az a magyar közösséget is érintené.",
-    "title_ro": "UDMR cere referendumuri locale și ia în calcul blocarea reformei în Parlament",
-    "lead_ro": "Kelemen Hunor afirmă că reorganizarea administrației este justificată doar dacă simplifică funcționarea acesteia și nu afectează drepturile comunităților maghiare. UDMR solicită referendumuri în localitățile vizate și ar putea folosi instrumente parlamentare împotriva proiectului.",
-    "content_ro": "• **Protejarea drepturilor comunităților este o condiție pentru UDMR.** Kelemen Hunor consideră că reorganizarea trebuie să fie utilă locuitorilor și să facă administrația mai simplă. Dacă măsurile ar dezavantaja comunitățile maghiare, formațiunea spune că va recurge la instrumentele politice și instituționale pe care le are la dispoziție.\n\n• **Locuitorii fiecărei localități afectate ar trebui să decidă asupra comasării.** UDMR susține organizarea unui referendum în fiecare localitate vizată. La Aiud, Kelemen s-a întâlnit cu viceprimari ai formațiunii care lucrează alături de primari români, iar la Rimetea a discutat despre reorganizare cu reprezentanți ai unor comune mici.\n\n• **După varianta inițială privind localitățile cu mai puțin de 1.500 de locuitori au apărut și alte scenarii.** Potrivit lui Kelemen, discuțiile de la început vizau un plan mai restrâns, însă ulterior au fost vehiculate mai multe propuneri de reorganizare.\n\n• **Reconfigurarea județelor nu a fost încă dezbătută oficial în PSD.** Sorin Grindeanu a spus că ideea i-a aparținut europarlamentarului Dragoș Benea. Propunerea viza o organizare asemănătoare împărțirii teritoriale a curților de apel, iar de aici ar fi fost elaborată harta apărută ulterior. PSD a invocat drept obiective servicii publice mai bune și cheltuieli mai mici pentru stat.\n\n• **UDMR ia în calcul și opoziția parlamentară față de proiect.** Csoma Botond a declarat că formațiunea va încerca să-l blocheze prin mijloacele disponibile; dacă Guvernul își angajează răspunderea, UDMR ar putea susține o moțiune de cenzură. O eventuală unire a județelor Harghita și Covasna provoacă îngrijorare, deoarece ar afecta și comunitatea maghiară, nu doar partidul.",
-    "importance_score": 60.0,
     "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
@@ -3461,54 +3480,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_aa74649f91",
-    "slug": "enyhe-eves-gdp-nvekedest-jelzett-2026-harmadik-negyedevere-az-ins-aa7464",
-    "tags": [
-      "economie-romania",
-      "pib",
-      "ins",
-      "statistici-economice"
-    ],
-    "fingerprint": "780c6e14e5aa8a21de2d756a779b25d3",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "După primele 9 luni, economia rămâne pe minus, dar toamna vine cu prima creștere a PIB după trei trimestre de contracție",
-        "link": "https://hotnews.ro/dpa-primele-9-luni-economia-ramane-pe-minus-dar-toamna-vine-cu-prima-crestere-a-pib-dupa-trei-trimestre-de-contractie-2403143"
-      },
-      {
-        "source": "Mediafax",
-        "title": "PIB-ul României a crescut cu 2,1% în trimestrul III. Economia este însă pe minus în primele nouă luni",
-        "link": "https://www.mediafax.ro/economic/pib-ul-romaniei-a-crescut-cu-21-in-trimestrul-iii-economia-este-insa-pe-minus-in-primele-noua-luni-23842395"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "România încheie primele nouă luni din 2026 cu PIB-ul în scădere cu 1%, ajustat sezonier. Salt de 2,1% în trimestrul III",
-        "link": "https://stirileprotv.ro/stiri/financiar/romania-incheie-primele-noua-luni-din-2026-cu-pib-ul-in-scadere-cu-1-ajustat-sezonier-salt-de-2-1-in-trimestrul-iii.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Minimális növekedést produkált a gazdaság a harmadik negyedévben",
-        "link": "https://maszol.ro/gazdasag/Minimalis-novekedest-produkalt-a-gazdasag-a-harmadik-negyedevben"
-      }
-    ],
-    "published_at": 1794554892,
-    "title_hu": "Enyhe éves GDP-növekedést jelzett 2026 harmadik negyedévére az INS",
-    "lead_hu": "A román statisztikai hivatal előzetes becslése szerint a GDP 2026 harmadik negyedévében éves összevetésben emelkedett, miután az előző három negyedévben nem mutatkozott növekedés. Az év első kilenc hónapjának teljesítménye azonban továbbra is elmaradt az egy évvel korábbitól.",
-    "content_hu": "• **A GDP éves összevetésben 0,1 százalékkal nőtt 2026 harmadik negyedévében.** Az INS előzetes, úgynevezett jelzőbecslése szerint a nyers adatok alapján ennyivel haladta meg a bruttó hazai termék az előző év azonos időszakának értékét. A szezonálisan kiigazított mutató 0,3 százalékos éves bővülést jelzett.\n\n• **Az első kilenc hónap összesített adatai még visszaesést mutatnak.** A nyers idősor szerint a GDP 0,3 százalékkal, a szezonálisan kiigazított számítás alapján pedig 1 százalékkal maradt el a 2025-ös azonos időszak szintjétől. A harmadik negyedévi pozitív adat tehát önmagában nem fordította növekedésbe az év eddigi mérlegét.\n\n• **A megelőző negyedévek adatai alapján jelentős visszaesést kellett ledolgozni.** Az INS újraszámítása szerint 2025 utolsó negyedévében 1,5 százalékkal csökkent a kiigazított GDP az előző három hónaphoz képest, 2026 első negyedévében további 0,3 százalékos mérséklődés következett, a második negyedévben pedig nem változott a mutató.\n\n• **A negyedéves felpattanás nagysága megközelíthette a 2 százalékot.** Ez az INS által közzétett szezonálisan kiigazított indexekből levezetett, hozzávetőleges számítás, nem a közölt fő mutatók egyike. Ha a becslés helytálló, hat negyedév óta ez lehetett a legerőteljesebb negyedéves emelkedés.\n\n• **Az adatrevíziók módosították a visszaesés időzítéséről alkotott képet.** A 2025-ös negyedik negyedévi indexet 98,3-ról 98,5-re emelték, míg 2026 első negyedévének értéke 99,9-ről 99,7-re csökkent; 2025 első negyedéve is enyhe lefelé igazítást kapott, 100,1-ről 100,0-ra. A változtatások a negyedévek közötti lefutást érintették, nem a gazdaság elért szintjét.",
-    "title_ro": "INS indică o creștere anuală modestă a PIB în trimestrul al treilea din 2026",
-    "lead_ro": "Estimarea preliminară a Institutului Național de Statistică arată că PIB-ul României a crescut în raport cu anul precedent în trimestrul III, după trei trimestre fără avans. Bilanțul cumulat al primelor nouă luni rămâne însă negativ.",
-    "content_ro": "• **PIB-ul a fost cu 0,1% mai mare în trimestrul III 2026 decât în aceeași perioadă din anul precedent.** Aceasta este indicația estimării preliminare publicate de INS pe baza seriei brute. Pentru seria ajustată sezonier, diferența anuală a fost de 0,3%, potrivit datelor instituției.\n\n• **Rezultatul cumulat de la începutul anului indică în continuare o contracție.** În primele nouă luni, valoarea PIB a fost cu 0,3% sub cea din perioada comparabilă din 2025 conform seriei brute. După ajustarea sezonieră, ecartul negativ a fost de 1%. Prin urmare, avansul anual din trimestrul al treilea nu a compensat scăderea consemnată pe ansamblul anului până atunci.\n\n• **Evoluția precedentă a inclus două trimestre de scădere și unul fără modificare.** INS a revizuit seria ajustată sezonier și estimează acum o reducere de 1,5% în trimestrul IV 2025 față de trimestrul anterior. În primele trei luni din 2026, PIB-ul a mai coborât cu 0,3%, iar în trimestrul II a rămas la același nivel.\n\n• **Calculul indicilor sugerează un salt trimestrial de aproximativ 2%.** Această valoare rezultă din compararea indicilor ajustați sezonier publicați, fiind orientativă și nu o cifră comunicată separat de INS. Dacă estimarea aproximativă se confirmă, dinamica ar fi cea mai puternică din ultimele șase trimestre.\n\n• **Revizuirile au schimbat distribuția în timp a scăderilor, nu nivelul economic atins.** Indicele pentru trimestrul IV 2025 a fost ridicat de la 98,3 la 98,5, în timp ce valoarea trimestrului I 2026 a fost redusă de la 99,9 la 99,7. Și trimestrul I 2025 a primit o corecție descendentă, de la 100,1 la 100,0. Alte trimestre menționate de INS au rămas nemodificate.",
-    "importance_score": 55.0,
-    "top_rank": 38,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_fba572fff5",
     "slug": "decemberi-beta-utan-2027-januar-14-en-indulhat-a-ro-wallet-fba572",
     "tags": [
@@ -3557,6 +3528,55 @@
     "lead_ro": "Potrivit calendarului prezentat de Guvernul României, versiunea beta a aplicației RO Wallet ar urma să fie disponibilă pentru un grup restrâns în 22 decembrie 2026, iar lansarea oficială este prevăzută pentru 14 ianuarie 2027. Funcțiile ar urma să fie extinse din februarie, iar metoda de înregistrare va depinde de tipul cărții de identitate.",
     "content_ro": "• **Aplicația este planificată să apară în două etape:** versiunea beta, destinată unui număr limitat de utilizatori, este programată pentru 22 decembrie 2026, în paralel cu certificarea sistemului. Data prevăzută pentru lansarea oficială este 14 ianuarie 2027.\n\n• **Portofelul va putea găzdui date și documente digitale:** utilizatorii vor putea accesa și prezenta pe telefon informațiile de identitate, permisul de conducere în format digital, precum și date despre domiciliu și reședință. Aplicația va include și o opțiune de verificare a vârstei.\n\n• **Din februarie sunt așteptate funcții suplimentare:** calendarul menționează introducerea semnăturii electronice bazate pe un certificat calificat și adăugarea unor noi atestate digitale privind atributele utilizatorilor.\n\n• **Înregistrarea va depinde de documentul de identitate:** titularii cărților electronice se vor putea înscrie de la distanță, citind cipul cu un telefon compatibil NFC și folosind PIN-ul. Persoanele cu acte de identitate clasice ar urma să aibă acces în trimestrul al treilea din 2027, după verificarea identității în persoană.\n\n• **Dezvoltarea urmează cadrul european:** Ministerul Afacerilor Interne construiește aplicația în baza regulamentului eIDAS 2. Aceasta este concepută pentru identificare online și față în față în România și în UE; termenul european pentru punerea la dispoziție a cel puțin unui portofel digital este 24 decembrie 2026. Guvernul indică protejarea datelor și simplificarea serviciilor publice printre obiective.",
     "importance_score": 55.0,
+    "top_rank": 38,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_39839f5065",
+    "slug": "az-rmdsz-nepszavazast-es-parlamenti-fellepest-helyez-kilatasba-39839f",
+    "tags": [
+      "rmdsz",
+      "reforma-administrativa",
+      "referendum",
+      "harghita",
+      "covasna"
+    ],
+    "fingerprint": "90a312901417457b58bf0cfaf9fcabdc",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Avertismentul lui Kelemen Hunor: „Dacă reforma administrativă afectează drepturile maghiarilor, UDMR va reacționa dur”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/avertismentul-lui-kelemen-hunor-daca-reforma-administrativa-afecteaza-drepturile-maghiarilor-udmr-va-reactiona-dur-4033943"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Kelemen Hunor, despre reforma administrativă: „Se propun planuri nechibzuite”. Condiția pusă de UDMR",
+        "link": "https://hotnews.ro/kelemen-hunor-despre-reforma-administrativa-se-propun-planuri-nechibzuite-conditia-pusa-de-udmr-2402672"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Kelemen Hunor respinge reforma administrativă propusă de PSD. UDMR amenință cu moțiunea de cenzură",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/kelemen-hunor-respinge-reforma-administrativa-2571092.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Kelemen Hunor figyelmeztet: Ha a közigazgatási reform sérti a magyarok jogait, az RMDSZ keményen reagál",
+        "link": "https://maszol.ro/belfold/Kelemen-Hunor-figyelmeztet-Ha-a-kozigazgatasi-reform-serti-a-magyarok-jogait-az-RMDSZ-kemenyen-reagal"
+      }
+    ],
+    "published_at": 1794549060,
+    "title_hu": "Az RMDSZ népszavazást és parlamenti fellépést helyez kilátásba",
+    "lead_hu": "Kelemen Hunor szerint az önkormányzati átszervezés csak akkor indokolt, ha egyszerűsíti az igazgatást, és nem veszélyezteti a magyar közösségek jogait. Az RMDSZ helyi referendumot követel, és parlamenti eszközökkel is felléphet a tervezet ellen.",
+    "content_hu": "• **A közösségi jogok védelmét alapfeltételnek tartja az RMDSZ.** Kelemen Hunor úgy látja, hogy a közigazgatás átalakításának a helyiek javát kell szolgálnia, és egyszerűbb működést kell eredményeznie. Ha a terv hátrányosan érinti a magyar közösségeket, a párt minden rendelkezésére álló politikai és intézményi eszközt bevet az ellenzésére.\n\n• **Az érintett települések lakói döntsenek az egyesítésről.** Az RMDSZ településenkénti referendumot szorgalmaz. Kelemen Aiudban magyar alpolgármesterekkel egyeztetett, akik román polgármesterek mellett dolgoznak; Rimeteában pedig kisebb községek vezetőivel beszélt az átszervezés lehetséges következményeiről.\n\n• **A korábbi, 1500 fő alatti településekre vonatkozó elképzelésen túl további tervek is felmerültek.** Kelemen szerint a kezdeti egyeztetés szűkebb körű összevonásról szólt, azóta azonban többféle változat került nyilvánosságra.\n\n• **A megyehatárok átrajzolásának ötlete még nem vált a PSD hivatalos tervévé.** Sorin Grindeanu szerint a párt nem tárgyalt a reformról; a kezdeményezés Dragoș Benea európai parlamenti képviselőtől származott. A felvetés a fellebbviteli bíróságok területi beosztásához hasonló átszervezésről szólt, és ebből születhetett meg a később emlegetett térkép. A PSD jobb szolgáltatásokkal és alacsonyabb állami kiadásokkal indokolta a reform szükségességét.\n\n• **Az RMDSZ parlamenti úton is megpróbálhatja megakadályozni az átalakítást.** Csoma Botond szerint a párt a rendelkezésére álló eszközökkel lépne fel; ha a kormány parlamenti felelősségvállalással fogadná el a reformot, bizalmatlansági indítvány támogatása is szóba kerülhet. Hargita és Kovászna esetleges összevonását azért tartják különösen aggályosnak, mert az a magyar közösséget is érintené.",
+    "title_ro": "UDMR cere referendumuri locale și ia în calcul blocarea reformei în Parlament",
+    "lead_ro": "Kelemen Hunor afirmă că reorganizarea administrației este justificată doar dacă simplifică funcționarea acesteia și nu afectează drepturile comunităților maghiare. UDMR solicită referendumuri în localitățile vizate și ar putea folosi instrumente parlamentare împotriva proiectului.",
+    "content_ro": "• **Protejarea drepturilor comunităților este o condiție pentru UDMR.** Kelemen Hunor consideră că reorganizarea trebuie să fie utilă locuitorilor și să facă administrația mai simplă. Dacă măsurile ar dezavantaja comunitățile maghiare, formațiunea spune că va recurge la instrumentele politice și instituționale pe care le are la dispoziție.\n\n• **Locuitorii fiecărei localități afectate ar trebui să decidă asupra comasării.** UDMR susține organizarea unui referendum în fiecare localitate vizată. La Aiud, Kelemen s-a întâlnit cu viceprimari ai formațiunii care lucrează alături de primari români, iar la Rimetea a discutat despre reorganizare cu reprezentanți ai unor comune mici.\n\n• **După varianta inițială privind localitățile cu mai puțin de 1.500 de locuitori au apărut și alte scenarii.** Potrivit lui Kelemen, discuțiile de la început vizau un plan mai restrâns, însă ulterior au fost vehiculate mai multe propuneri de reorganizare.\n\n• **Reconfigurarea județelor nu a fost încă dezbătută oficial în PSD.** Sorin Grindeanu a spus că ideea i-a aparținut europarlamentarului Dragoș Benea. Propunerea viza o organizare asemănătoare împărțirii teritoriale a curților de apel, iar de aici ar fi fost elaborată harta apărută ulterior. PSD a invocat drept obiective servicii publice mai bune și cheltuieli mai mici pentru stat.\n\n• **UDMR ia în calcul și opoziția parlamentară față de proiect.** Csoma Botond a declarat că formațiunea va încerca să-l blocheze prin mijloacele disponibile; dacă Guvernul își angajează răspunderea, UDMR ar putea susține o moțiune de cenzură. O eventuală unire a județelor Harghita și Covasna provoacă îngrijorare, deoarece ar afecta și comunitatea maghiară, nu doar partidul.",
+    "importance_score": 53.0,
     "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
@@ -9385,6 +9405,209 @@
     "top_rank": 185,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_56f57767e8",
+    "slug": "drum-judetean-surpat-in-bihor-dupa-ploile-abundente-din-ultimele-zile-consiliul--56f577",
+    "tags": [
+      "erdely"
+    ],
+    "category": "Erdély",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Drum județean surpat în Bihor după ploile abundente din ultimele zile, Consiliul Județean a trimis o echipă de intervenție (FOTO/VIDEO)",
+        "link": "https://www.ebihoreanul.ro/stiri/drum-judetean-surpat-in-bihor-dupa-ploile-abundente-din-ultimele-zile-consiliul-judetean-a-trimis-o-echipa-de-interventie-fotovideo-206559.html"
+      }
+    ],
+    "published_at": 1794559922,
+    "title_hu": "Drum județean surpat în Bihor după ploile abundente din ultimele zile, Consiliul Județean a trimis o echipă de intervenție (FOTO/VIDEO)",
+    "lead_hu": "Ploile căzute în cantități mari în ultimele trei zile în întregul județ au afectat și DJ 108H, care face legătura între Popești și Pădurea Neagră. Pe una dintre cele două benzi de circulație, pe o sup...",
+    "content_hu": "Ploile căzute în cantități mari în ultimele trei zile în întregul județ au afectat și DJ 108H, care face legătura între Popești și Pădurea Neagră. Pe una dintre cele două benzi de circulație, pe o suprafață de câțiva metri pătrați, drumul s-a surpat creând un crater adânc, ceea ce pune în pericol circulația rutieră. Sesizat vineri dimineață de un șofer, CJ Bihor a trimis la fața locului o echipă care să intervină de urgență.",
+    "title_ro": "Drum județean surpat în Bihor după ploile abundente din ultimele zile, Consiliul Județean a trimis o echipă de intervenție (FOTO/VIDEO)",
+    "lead_ro": "Ploile căzute în cantități mari în ultimele trei zile în întregul județ au afectat și DJ 108H, care face legătura între Popești și Pădurea Neagră. Pe una dintre cele două benzi de circulație, pe o sup...",
+    "content_ro": "Ploile căzute în cantități mari în ultimele trei zile în întregul județ au afectat și DJ 108H, care face legătura între Popești și Pădurea Neagră. Pe una dintre cele două benzi de circulație, pe o suprafață de câțiva metri pătrați, drumul s-a surpat creând un crater adânc, ceea ce pune în pericol circulația rutieră. Sesizat vineri dimineață de un șofer, CJ Bihor a trimis la fața locului o echipă care să intervină de urgență.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_6f56a50ae7",
+    "slug": "aventuri-o-presupusa-spioana-chineza-si-o-geaca-de-960000-de-dolari-caderea-fond-6f56a5",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/8170268-mediafax_foto-dpa_hepta-1-1024x799.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Aventuri, o presupusă spioană chineză și o geacă de 960.000 de dolari. Căderea fondatorului Nvidia",
+        "link": "https://www.mediafax.ro/life-entertaiment/aventuri-o-presupusa-spioana-chineza-si-o-geaca-de-960-000-de-dolari-caderea-fondatorului-nvidia-23842461"
+      }
+    ],
+    "published_at": 1794559844,
+    "title_hu": "Aventuri, o presupusă spioană chineză și o geacă de 960.000 de dolari. Căderea fondatorului Nvidia",
+    "lead_hu": "Geaca de piele a lui Jensen Huang, ani la rând semnul distinctiv al fondatorului Nvidia, a ajuns ținta glumelor pe rețelele sociale și în presa americană. Ironiile au venit după dezvăluirile despre vi...",
+    "content_hu": "Geaca de piele a lui Jensen Huang, ani la rând semnul distinctiv al fondatorului Nvidia, a ajuns ținta glumelor pe rețelele sociale și în presa americană. Ironiile au venit după dezvăluirile despre viața lui sentimentală, în urma cărora miliardarul a plecat de la conducerea companiei.",
+    "title_ro": "Aventuri, o presupusă spioană chineză și o geacă de 960.000 de dolari. Căderea fondatorului Nvidia",
+    "lead_ro": "Geaca de piele a lui Jensen Huang, ani la rând semnul distinctiv al fondatorului Nvidia, a ajuns ținta glumelor pe rețelele sociale și în presa americană. Ironiile au venit după dezvăluirile despre vi...",
+    "content_ro": "Geaca de piele a lui Jensen Huang, ani la rând semnul distinctiv al fondatorului Nvidia, a ajuns ținta glumelor pe rețelele sociale și în presa americană. Ironiile au venit după dezvăluirile despre viața lui sentimentală, în urma cărora miliardarul a plecat de la conducerea companiei.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_64d591e138",
+    "slug": "george-simion-anunta-ca-iese-in-strada-pentru-calin-georgescu-ma-pun-la-dispozit-64d591",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-8/8ab4fe44-7fad-4680-8e6b-9e054e900872/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "George Simion anunță că iese în stradă pentru Călin Georgescu: „Mă pun la dispoziția instituțiilor statului”",
+        "link": "https://adevarul.ro/politica/george-simion-anunta-ca-iese-in-strada-pentru-2571198.html"
+      }
+    ],
+    "published_at": 1794559543,
+    "title_hu": "George Simion anunță că iese în stradă pentru Călin Georgescu: „Mă pun la dispoziția instituțiilor statului”",
+    "lead_hu": "George Simion anunță că va ieși sâmbătă în stradă, la București, pentru a participa la manifestația de susținere a lui Călin Georgescu, și acuză autoritățile că refuză dialogul privind organizarea pro...",
+    "content_hu": "George Simion anunță că va ieși sâmbătă în stradă, la București, pentru a participa la manifestația de susținere a lui Călin Georgescu, și acuză autoritățile că refuză dialogul privind organizarea protestului.",
+    "title_ro": "George Simion anunță că iese în stradă pentru Călin Georgescu: „Mă pun la dispoziția instituțiilor statului”",
+    "lead_ro": "George Simion anunță că va ieși sâmbătă în stradă, la București, pentru a participa la manifestația de susținere a lui Călin Georgescu, și acuză autoritățile că refuză dialogul privind organizarea pro...",
+    "content_ro": "George Simion anunță că va ieși sâmbătă în stradă, la București, pentru a participa la manifestația de susținere a lui Călin Georgescu, și acuză autoritățile că refuză dialogul privind organizarea protestului.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_81b69e420d",
+    "slug": "vladimir-putin-are-un-nou-nepot-tatal-copilului-se-numeste-zelenski-informatiile-81b69e",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-c/c0630eaa-763d-4777-94df-554348e9fc3a/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Vladimir Putin are un nou nepot. Tatăl copilului se numește Zelenski. Informațiile apărute în presa rusă",
+        "link": "https://adevarul.ro/stiri-externe/rusia/vladimir-putin-are-un-nou-nepot-tatal-copilului-2571201.html"
+      }
+    ],
+    "published_at": 1794559539,
+    "title_hu": "Vladimir Putin are un nou nepot. Tatăl copilului se numește Zelenski. Informațiile apărute în presa rusă",
+    "lead_hu": "Vladimir Putin ar fi devenit bunic pentru a patra oară, după ce fiica sa cea mică, Katerina Tihonova, ar fi născut un băiat în august 2025. Informația a fost descoperită de jurnaliști în documente ale...",
+    "content_hu": "Vladimir Putin ar fi devenit bunic pentru a patra oară, după ce fiica sa cea mică, Katerina Tihonova, ar fi născut un băiat în august 2025. Informația a fost descoperită de jurnaliști în documente ale registrelor de stare civilă din Rusia, ajunse în spațiul public.",
+    "title_ro": "Vladimir Putin are un nou nepot. Tatăl copilului se numește Zelenski. Informațiile apărute în presa rusă",
+    "lead_ro": "Vladimir Putin ar fi devenit bunic pentru a patra oară, după ce fiica sa cea mică, Katerina Tihonova, ar fi născut un băiat în august 2025. Informația a fost descoperită de jurnaliști în documente ale...",
+    "content_ro": "Vladimir Putin ar fi devenit bunic pentru a patra oară, după ce fiica sa cea mică, Katerina Tihonova, ar fi născut un băiat în august 2025. Informația a fost descoperită de jurnaliști în documente ale registrelor de stare civilă din Rusia, ajunse în spațiul public.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_346aba0517",
+    "slug": "lampionok-fenye-ragyogta-be-szatmarnemeti-regi-foteret-346aba",
+    "tags": [
+      "erdely"
+    ],
+    "category": "Erdély",
+    "image": "https://maszol.ro/resized/2026_november_/13/cikk_91806f9f-9f29-4203-97ed-b6f49fb1e972.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Maszol",
+        "title": "Lampionok fénye ragyogta be Szatmárnémeti régi főterét",
+        "link": "https://maszol.ro/belfold/Lampionok-fenye-ragyogta-be-Szatmarnemeti-regi-foteret"
+      }
+    ],
+    "published_at": 1794559440,
+    "title_hu": "Lampionok fénye ragyogta be Szatmárnémeti régi főterét",
+    "lead_hu": "Márton-napi lampionos felvonulást szervezetek Szatmárnémetiben csütörtökön, amelyen sok száz kisdiák vett részt....",
+    "content_hu": "Márton-napi lampionos felvonulást szervezetek Szatmárnémetiben csütörtökön, amelyen sok száz kisdiák vett részt.",
+    "title_ro": "Lampionok fénye ragyogta be Szatmárnémeti régi főterét",
+    "lead_ro": "Márton-napi lampionos felvonulást szervezetek Szatmárnémetiben csütörtökön, amelyen sok száz kisdiák vett részt....",
+    "content_ro": "Márton-napi lampionos felvonulást szervezetek Szatmárnémetiben csütörtökön, amelyen sok száz kisdiák vett részt.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_f234b3860e",
+    "slug": "descoperire-surprinzatoare-masculii-pot-produce-urmasi-fara-femele-cum-este-posi-f234b3",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/8110431-hepta_mediafax_foto-ferrari_press_agency_hepta-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Descoperire surprinzătoare: masculii pot produce urmași fără femele. Cum este posibil acest lucru în natură",
+        "link": "https://www.mediafax.ro/stirile-zilei/descoperire-surprinzatoare-masculii-pot-produce-urmasi-fara-femele-cum-este-posibil-acest-lucru-in-natura-23842434"
+      }
+    ],
+    "published_at": 1794559389,
+    "title_hu": "Descoperire surprinzătoare: masculii pot produce urmași fără femele. Cum este posibil acest lucru în natură",
+    "lead_hu": "Unele forme de viață au dezvoltat o capacitate surprinzătoare de supraviețuire: atunci când nu găsesc un partener, se pot reproduce fără fertilizare. Mai mult, cercetătorii au descoperit că atât exemp...",
+    "content_hu": "Unele forme de viață au dezvoltat o capacitate surprinzătoare de supraviețuire: atunci când nu găsesc un partener, se pot reproduce fără fertilizare. Mai mult, cercetătorii au descoperit că atât exemplarele masculine, cât și cele feminine pot produce urmași pe cont propriu. Descoperirea, prezentată într-un studiu în revista științifică PLOS Biology, ar putea contribui la protejarea pădurilor marine amenințate de încălzirea oceanelor, relatează Nature.",
+    "title_ro": "Descoperire surprinzătoare: masculii pot produce urmași fără femele. Cum este posibil acest lucru în natură",
+    "lead_ro": "Unele forme de viață au dezvoltat o capacitate surprinzătoare de supraviețuire: atunci când nu găsesc un partener, se pot reproduce fără fertilizare. Mai mult, cercetătorii au descoperit că atât exemp...",
+    "content_ro": "Unele forme de viață au dezvoltat o capacitate surprinzătoare de supraviețuire: atunci când nu găsesc un partener, se pot reproduce fără fertilizare. Mai mult, cercetătorii au descoperit că atât exemplarele masculine, cât și cele feminine pot produce urmași pe cont propriu. Descoperirea, prezentată într-un studiu în revista științifică PLOS Biology, ar putea contribui la protejarea pădurilor marine amenințate de încălzirea oceanelor, relatează Nature.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_223439ae09",
+    "slug": "cand-este-dezlegare-la-peste-in-postul-craciunului-2026-calendarul-complet-al-zi-223439",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/11/peste-mancare-dezlegare-post-1-1024x576.png",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Când este dezlegare la pește în Postul Crăciunului 2026 / Calendarul complet al zilelor în care credincioșii pot mânca pește",
+        "link": "https://www.mediafax.ro/social/cand-este-dezlegare-la-peste-in-postul-craciunului-2026-calendarul-complet-al-zilelor-in-care-credinciosii-pot-manca-peste-23842449"
+      }
+    ],
+    "published_at": 1794559309,
+    "title_hu": "Când este dezlegare la pește în Postul Crăciunului 2026 / Calendarul complet al zilelor în care credincioșii pot mânca pește",
+    "lead_hu": "Când este dezlegare la pește în Postul Crăciunului 2026? Calendarul ortodox stabilește 14 zile în care credincioșii pot include peștele în alimentație. Prima este pe 21 noiembrie, de sărbătoarea Intră...",
+    "content_hu": "Când este dezlegare la pește în Postul Crăciunului 2026? Calendarul ortodox stabilește 14 zile în care credincioșii pot include peștele în alimentație. Prima este pe 21 noiembrie, de sărbătoarea Intrării în Biserică a Maicii Domnului, iar ultima, pe 19 decembrie.",
+    "title_ro": "Când este dezlegare la pește în Postul Crăciunului 2026 / Calendarul complet al zilelor în care credincioșii pot mânca pește",
+    "lead_ro": "Când este dezlegare la pește în Postul Crăciunului 2026? Calendarul ortodox stabilește 14 zile în care credincioșii pot include peștele în alimentație. Prima este pe 21 noiembrie, de sărbătoarea Intră...",
+    "content_ro": "Când este dezlegare la pește în Postul Crăciunului 2026? Calendarul ortodox stabilește 14 zile în care credincioșii pot include peștele în alimentație. Prima este pe 21 noiembrie, de sărbătoarea Intrării în Biserică a Maicii Domnului, iar ultima, pe 19 decembrie.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_3bece582fa",
@@ -26239,174 +26462,6 @@
     "title_ro": "Cine-i șeful bălții? Un urs surprins la bălăceală în Apuseni a șters-o când a apărut altul (VIDEO)",
     "lead_ro": "O scenă amuzantă din viața sălbăticiunilor a fost surprinsă de camerele de monitorizare din Parcul Natural Apuseni. Un urs care se bălăcea liniștit într-o baltă a înțeles că distracția s-a terminat câ…",
     "content_ro": "O scenă amuzantă din viața sălbăticiunilor a fost surprinsă de camerele de monitorizare din Parcul Natural Apuseni. Un urs care se bălăcea liniștit într-o baltă a înțeles că distracția s-a terminat când și-a făcut apariția un alt exemplar, aparent mai autoritar.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_90a659258e",
-    "slug": "campioana-olimpica-intre-viata-si-moarte-cu-arsuri-90a659",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Campioană olimpică între viață și moarte, cu arsuri pe aproape o treime din corp",
-        "link": "https://www.mediafax.ro/social/campioana-olimpica-intre-viata-si-moarte-cu-arsuri-pe-aproape-o-treime-din-corp-23841908"
-      }
-    ],
-    "published_at": 1794473516,
-    "title_hu": "Campioană olimpică între viață și moarte, cu arsuri pe aproape o treime din corp",
-    "lead_hu": "Maria Shurochkina, dublă campioană olimpică la înot sincron, este internată la terapie intensivă la Moscova, cu arsuri pe aproape o treime din corp.",
-    "content_hu": "Maria Shurochkina, dublă campioană olimpică la înot sincron, este internată la terapie intensivă la Moscova, cu arsuri pe aproape o treime din corp.",
-    "title_ro": "Campioană olimpică între viață și moarte, cu arsuri pe aproape o treime din corp",
-    "lead_ro": "Maria Shurochkina, dublă campioană olimpică la înot sincron, este internată la terapie intensivă la Moscova, cu arsuri pe aproape o treime din corp.",
-    "content_ro": "Maria Shurochkina, dublă campioană olimpică la înot sincron, este internată la terapie intensivă la Moscova, cu arsuri pe aproape o treime din corp.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_dd1aa8eea6",
-    "slug": "katy-perry-inainte-ca-russell-brand-fostul-sau-sot-dd1aa8",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Katy Perry, înainte ca Russell Brand, fostul său soț, să fie condamnat pentru viol: „Ar trebui să fie la închisoare”",
-        "link": "https://stirileprotv.ro/stiri/international/katy-perry-inainte-ca-russell-brand-fostul-sau-sot-sa-fie-condamnat-pentru-viol-ar-trebui-sa-fie-la-inchisoare.html"
-      }
-    ],
-    "published_at": 1794473405,
-    "title_hu": "Katy Perry, înainte ca Russell Brand, fostul său soț, să fie condamnat pentru viol: „Ar trebui să fie la închisoare”",
-    "lead_hu": "Katy Perry ar fi făcut o declarație surprinzătoare la adresa fostului său soț, Russell Brand, cu câteva luni înainte ca acesta să fie găsit vinovat de viol și agresiune sexuală.",
-    "content_hu": "Katy Perry ar fi făcut o declarație surprinzătoare la adresa fostului său soț, Russell Brand, cu câteva luni înainte ca acesta să fie găsit vinovat de viol și agresiune sexuală.",
-    "title_ro": "Katy Perry, înainte ca Russell Brand, fostul său soț, să fie condamnat pentru viol: „Ar trebui să fie la închisoare”",
-    "lead_ro": "Katy Perry ar fi făcut o declarație surprinzătoare la adresa fostului său soț, Russell Brand, cu câteva luni înainte ca acesta să fie găsit vinovat de viol și agresiune sexuală.",
-    "content_ro": "Katy Perry ar fi făcut o declarație surprinzătoare la adresa fostului său soț, Russell Brand, cu câteva luni înainte ca acesta să fie găsit vinovat de viol și agresiune sexuală.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_5ed31253a6",
-    "slug": "jvo-heten-erkezik-a-varos-ket-karacsonyfaja-5ed312",
-    "tags": [
-      "erdely"
-    ],
-    "category": "Erdély",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Hargita Népe",
-        "title": "Jövő héten érkezik a város két karácsonyfája",
-        "link": "https://hargitanepe.ro/jovo-heten-erkezik-a-varos-ket-karacsonyfaja"
-      }
-    ],
-    "published_at": 1794473369,
-    "title_hu": "Jövő héten érkezik a város két karácsonyfája",
-    "lead_hu": "Megerősített talapzatra helyezik Csíkszeredában a város egyik köztéri karácsonyfáját a Petőfi Sándor utca és a Majláth Gusztáv Károly tér találkozásánál, a másik fát a központi parkban állítják fel, s…",
-    "content_hu": "Megerősített talapzatra helyezik Csíkszeredában a város egyik köztéri karácsonyfáját a Petőfi Sándor utca és a Majláth Gusztáv Károly tér találkozásánál, a másik fát a központi parkban állítják fel, s e körül zajlanak majd az adventi közösségi események. A fenyőkre kézzel készített, népi motívumokat modern elemekkel ötvöző dekorációk kerülnek.",
-    "title_ro": "Jövő héten érkezik a város két karácsonyfája",
-    "lead_ro": "Megerősített talapzatra helyezik Csíkszeredában a város egyik köztéri karácsonyfáját a Petőfi Sándor utca és a Majláth Gusztáv Károly tér találkozásánál, a másik fát a központi parkban állítják fel, s…",
-    "content_ro": "Megerősített talapzatra helyezik Csíkszeredában a város egyik köztéri karácsonyfáját a Petőfi Sándor utca és a Majláth Gusztáv Károly tér találkozásánál, a másik fát a központi parkban állítják fel, s e körül zajlanak majd az adventi közösségi események. A fenyőkre kézzel készített, népi motívumokat modern elemekkel ötvöző dekorációk kerülnek.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_14bb6bda3f",
-    "slug": "de-ce-ar-fi-pierdut-valerie-si-alex-finala-asia-ex-14bb6b",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "De ce ar fi pierdut Valerie și Alex finala Asia Express, de fapt? Ce scrie presa din Republica Moldova",
-        "link": "https://www.cancan.ro/de-ce-ar-fi-pierdut-valerie-si-alex-finala-asia-express-de-fapt-ce-scrie-presa-din-republica-moldova-21546269"
-      }
-    ],
-    "published_at": 1794473355,
-    "title_hu": "De ce ar fi pierdut Valerie și Alex finala Asia Express, de fapt? Ce scrie presa din Republica Moldova",
-    "lead_hu": "Valerie Lungu și Alex Gîlcă au fost la un pas de marele premiu de la Asia Express, însă Gabi Torje și Alin Alexuc și-au adjudecat trofeul „Perla Shanghai” și cecul în valoare de 30.000 de euro. Eșecul…",
-    "content_hu": "Valerie Lungu și Alex Gîlcă au fost la un pas de marele premiu de la Asia Express, însă Gabi Torje și Alin Alexuc și-au adjudecat trofeul „Perla Shanghai” și cecul în valoare de 30.000 de euro. Eșecul basarabenilor a devenit rapid subiect de discuție și în presa din Republica Moldova, unde jurnaliștii lasă de înțeles […]",
-    "title_ro": "De ce ar fi pierdut Valerie și Alex finala Asia Express, de fapt? Ce scrie presa din Republica Moldova",
-    "lead_ro": "Valerie Lungu și Alex Gîlcă au fost la un pas de marele premiu de la Asia Express, însă Gabi Torje și Alin Alexuc și-au adjudecat trofeul „Perla Shanghai” și cecul în valoare de 30.000 de euro. Eșecul…",
-    "content_ro": "Valerie Lungu și Alex Gîlcă au fost la un pas de marele premiu de la Asia Express, însă Gabi Torje și Alin Alexuc și-au adjudecat trofeul „Perla Shanghai” și cecul în valoare de 30.000 de euro. Eșecul basarabenilor a devenit rapid subiect de discuție și în presa din Republica Moldova, unde jurnaliștii lasă de înțeles […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_528f334c4d",
-    "slug": "traumatismele-dentare-ce-facem-daca-un-dinte-este--528f33",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Traumatismele dentare. Ce facem dacă un dinte este smuls sau fracturat. Explicațiile unui medic stomatolog pediatru",
-        "link": "https://stirileprotv.ro/stiri/doctor-de-bine/traumatismele-dentare-ce-facem-daca-un-dinte-este-smuls-sau-fracturat-sfaturile-unui-medic-stomatolog-pediatru.html"
-      }
-    ],
-    "published_at": 1794473320,
-    "title_hu": "Traumatismele dentare. Ce facem dacă un dinte este smuls sau fracturat. Explicațiile unui medic stomatolog pediatru",
-    "lead_hu": "În cazul unui traumatism dentar, intervenția rapidă poate salva un dinte definitiv. Cum rezolvăm rapid traumele dentare ne spune Dr. Călin Sava, medic stomatolog pediatru.",
-    "content_hu": "În cazul unui traumatism dentar, intervenția rapidă poate salva un dinte definitiv. Cum rezolvăm rapid traumele dentare ne spune Dr. Călin Sava, medic stomatolog pediatru.",
-    "title_ro": "Traumatismele dentare. Ce facem dacă un dinte este smuls sau fracturat. Explicațiile unui medic stomatolog pediatru",
-    "lead_ro": "În cazul unui traumatism dentar, intervenția rapidă poate salva un dinte definitiv. Cum rezolvăm rapid traumele dentare ne spune Dr. Călin Sava, medic stomatolog pediatru.",
-    "content_ro": "În cazul unui traumatism dentar, intervenția rapidă poate salva un dinte definitiv. Cum rezolvăm rapid traumele dentare ne spune Dr. Călin Sava, medic stomatolog pediatru.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_4ce2986b32",
-    "slug": "accident-grav-in-timis-un-autobuz-cu-29-de-pasager-4ce298",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Accident grav în Timiș! Un autobuz cu 29 de pasageri s-a răsturnat în afara şoselei",
-        "link": "https://www.cancan.ro/accident-grav-in-timis-un-autobuz-cu-29-de-pasageri-s-a-rasturnat-in-afara-soselei-21546234"
-      }
-    ],
-    "published_at": 1794473232,
-    "title_hu": "Accident grav în Timiș! Un autobuz cu 29 de pasageri s-a răsturnat în afara şoselei",
-    "lead_hu": "Un accident grav a avut loc în această dimineață, 12 noiembrie, în județul Timiș. Un autobuz în care se aflau 29 de persoane s-a răsturnat în afara șoselei. În urma celor întâmplate, opt oameni, şase …",
-    "content_hu": "Un accident grav a avut loc în această dimineață, 12 noiembrie, în județul Timiș. Un autobuz în care se aflau 29 de persoane s-a răsturnat în afara șoselei. În urma celor întâmplate, opt oameni, şase femei şi doi bărbaţi, au fost transportaţi la spital. La fața locului au intervenit mai multe echipaje de descarcerare şi […]",
-    "title_ro": "Accident grav în Timiș! Un autobuz cu 29 de pasageri s-a răsturnat în afara şoselei",
-    "lead_ro": "Un accident grav a avut loc în această dimineață, 12 noiembrie, în județul Timiș. Un autobuz în care se aflau 29 de persoane s-a răsturnat în afara șoselei. În urma celor întâmplate, opt oameni, şase …",
-    "content_ro": "Un accident grav a avut loc în această dimineață, 12 noiembrie, în județul Timiș. Un autobuz în care se aflau 29 de persoane s-a răsturnat în afara șoselei. În urma celor întâmplate, opt oameni, şase femei şi doi bărbaţi, au fost transportaţi la spital. La fața locului au intervenit mai multe echipaje de descarcerare şi […]",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
