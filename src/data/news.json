@@ -3873,49 +3873,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_bcce9b34a7",
-    "slug": "vilagszerte-akadozott-az-outlook-elerese-bcce9b",
-    "tags": [
-      "microsoft",
-      "outlook",
-      "microsoft365",
-      "szolgaltataskieses"
-    ],
-    "fingerprint": "b841e39b0816e657279943d109c791ec",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Pană de proporții la Microsoft: Outlook, afectat în întreaga lume",
-        "link": "https://hotnews.ro/pana-de-proportii-la-microsoft-outlook-afectat-in-intreaga-lume-2402898"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Outlook a picat în toată lumea. Peste 97.000 de utilizatori au raportat probleme de acces, chiar și în România",
-        "link": "https://stirileprotv.ro/stiri/international/pana-globala-la-outlook-peste-97-000-de-utilizatori-au-raportat-probleme-de-acces-chiar-si-in-romania.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Pană majoră la Microsoft. Probleme raportate joi seara și de utilizatorii din România",
-        "link": "https://adevarul.ro/stil-de-viata/tehnologie/pana-majora-la-microsoft-probleme-raportate-joi-2571141.html"
-      }
-    ],
-    "published_at": 1794520895,
-    "title_hu": "Világszerte akadozott az Outlook elérése",
-    "lead_hu": "Csütörtök este több országban is problémák jelentkeztek a Microsoft Outlook levelezőszolgáltatásának elérésével. A Microsoft a túlterhelt infrastruktúrát nevezte meg a kapcsolódási hibák lehetséges okaként.",
-    "content_hu": "• **Csütörtök este nemzetközi fennakadást észleltek az Outlooknál:** a felhasználók több régióból jeleztek hozzáférési és kapcsolódási nehézségeket. A Microsoft közlése szerint a probléma az Exchange Online-postafiókok különféle módokon történő elérését is érintette.\n\n• **A hibajelzések száma több országban gyorsan emelkedett.** Franciaországban a Downdetectoron helyi idő szerint 18:30 után néhány száz bejelentés jelent meg, az Egyesült Államokban pedig 19 órakor több mint 39 ezer felhasználói jelzésről számoltak be. Egy későbbi adat szerint az amerikai keleti parti időzónában 14:07-kor már 97 ezernél is több panasz érkezett.\n\n• **A Microsoft 365 a közösségi felületén erősítette meg az esetet.** A vállalat először az amerikai hozzáférési problémák kivizsgálásáról adott hírt, majd arra figyelmeztetett, hogy a fennakadás más térségek felhasználóit is érintheti.\n\n• **A vállalat több régióban magas terhelést tapasztalt a hálózati infrastruktúrán.** A Microsoft ezt a kapcsolódási hibák egyik lehetséges magyarázataként jelölte meg, és a beérkező forgalom elosztásával próbálta mérsékelni a terhelést, illetve javítani a szolgáltatás elérhetőségét.\n\n• **A kiesés egyes, mesterségesintelligencia-szolgáltatásokhoz használt csatlakozókat is érintett.** A Reuters beszámolója szerint az amerikai felhasználók ezrei számára a Microsoft 365 és az Outlook mellett a Teams is elérhetetlenné vált, az OpenAI és az Anthropic szolgáltatásaihoz kapcsolódó összekötők pedig szintén érintettek voltak.",
-    "title_ro": "Accesul la Outlook a fost perturbat la nivel global",
-    "lead_ro": "Probleme de acces la serviciul de e-mail Outlook au fost semnalate joi seară în mai multe regiuni. Microsoft a indicat că nivelul ridicat de încărcare a infrastructurii ar putea contribui la erorile de conectare.",
-    "content_ro": "• **Joi seară, utilizatori din mai multe regiuni au întâmpinat probleme cu Outlook.** Sesizările au vizat accesul și conectarea la serviciu, iar Microsoft a precizat că dificultățile afectau și accesarea căsuțelor Exchange Online prin diferite metode.\n\n• **Numărul raportărilor a crescut rapid în mai multe țări.** În Franța, Downdetector a înregistrat câteva sute de sesizări după ora locală 18:30. În Statele Unite, la ora 19:00, erau raportate peste 39.000 de persoane afectate; o altă cifră publicată ulterior indica mai mult de 97.000 de sesizări la 14:07, ora de pe coasta de est a SUA.\n\n• **Microsoft 365 a confirmat incidentul prin mesaje publicate pe o rețea socială.** Compania a anunțat inițial că verifică problemele de acces semnalate în America, iar apoi a arătat că efectele s-ar putea extinde și la utilizatorii din alte regiuni.\n\n• **Infrastructura companiei în mai multe regiuni înregistra un nivel ridicat de încărcare.** Microsoft a menționat această situație drept o posibilă cauză a erorilor de conectare. Pentru a gestiona traficul, compania a început să îl distribuie între componentele infrastructurii sale globale.\n\n• **Perturbarea a avut efecte și asupra unor instrumente conectate la servicii de inteligență artificială.** Potrivit Reuters, mii de utilizatori din SUA nu au putut accesa Microsoft 365 și Outlook, iar Teams a fost, de asemenea, indisponibil. Au fost afectate și conexiunile folosite de serviciile OpenAI și Anthropic.",
-    "importance_score": 45.0,
-    "top_rank": 49,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_c5d7ab5b0a",
     "slug": "grindeanu-tamogatja-az-atszervezest-de-meg-nincs-hivatalos-megyei-terv-c5d7ab",
     "tags": [
@@ -3959,7 +3916,7 @@
     "lead_ro": "Sorin Grindeanu afirmă că unele localități mici nu au capacitatea necesară pentru investiții și menținerea serviciilor publice. Președinții consiliilor județene din Ialomița și Călărași i-au transmis că iau în calcul unirea județelor, în timp ce Guvernul analizează și comasarea voluntară a comunelor.",
     "content_ro": "• **Numeroase localități au dificultăți în a funcționa independent:** Potrivit datelor prezentate de Grindeanu, 429 de unități administrativ-teritoriale au sub 1.500 de locuitori, circa 1.200 au mai puțin de 2.500, iar aproximativ 1.500–1.600 nu ating pragul de 3.000. Liderul PSD consideră că unele administrații nu dispun de suficientă capacitate pentru proiecte europene și servicii publice adecvate.\n\n• **Guvernul analizează mai întâi comasarea voluntară a comunelor:** Procesul ar putea porni de la hotărâri ale autorităților locale și consultarea cetățenilor prin referendum. La 11 noiembrie 2026, un grup de lucru al Ministerului Dezvoltării a examinat în primă lectură un proiect în acest sens.\n\n• **Liderii din Ialomița și Călărași au purtat deja discuții:** Pe 11 noiembrie, Grindeanu a fost contactat de Marian Pavel, președintele CJ Ialomița, și de Vasile Iliuță, șeful CJ Călărași. Cei doi au discutat între ei despre unirea județelor și nu vor să aștepte o hotărâre națională; Grindeanu a descris ambele județe ca având populații de ordinul a 200.000 de locuitori.\n\n• **Reducerea numărului de județe este o temă distinctă:** România are 41 de județe și municipiul București, cu statut administrativ separat, iar structura generală datează din 1968. Nu a fost aprobată o nouă hartă județeană; o asemenea schimbare ar presupune analize suplimentare și modificări legislative.\n\n• **Grindeanu cere criterii măsurabile, iar harta lui Benea nu este o decizie de partid:** Pe lângă populație, liderul PSD ar lua în calcul legăturile de transport și accesul la servicii și i-a cerut lui Dragoș Benea să formuleze repere cuantificabile. Harta apărută în spațiul public nu a fost discutată oficial în PSD; Grindeanu a menționat și posibilitatea unui model inspirat de organizarea curților de apel. Reducerea impozitelor locale a fost evocată ca stimulent pentru comasările voluntare.",
     "importance_score": 45.0,
-    "top_rank": 50,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4008,7 +3965,7 @@
     "content_ro": "• **Grindeanu a comentat aparițiile lui Bolojan.** Liderul PSD a fost întrebat miercuri seară, la Antena 3, după ce șeful PNL l-a îndemnat să guverneze în emisiunea lui Dragoș Pătraru. Grindeanu a susținut că fostul premier participă la întâlniri organizate astfel încât să nu fie confruntat cu întrebări dificile despre situația țării. El i-a comparat intervențiile cu discursurile motivaționale și a afirmat că astfel de vorbitori au lăsat România într-o stare gravă.\n\n• **Șeful PSD a promis o altă abordare la guvernare.** Grindeanu a declarat că partidul său nu ar începe prin reduceri, ci ar remedia problemele pe care le atribuie măsurilor lui Bolojan. Pe 12 octombrie, în timpul discuțiilor privind formarea guvernului Niculescu, el i-a invitat și pe liberali să intre la guvernare.\n\n• **Mureșan a reproșat promisiunile neîndeplinite.** Eurodeputatul PNL a susținut că Grindeanu și miniștrii PSD nu și-au respectat angajamentele privind majorarea salariilor și pensiilor, precum și diminuarea TVA și a altor taxe. Mureșan a menționat și regretul exprimat de Grindeanu în legătură cu depunerea tardivă a moțiunii, dar a respins această explicație.\n\n• **Liberalul a contestat scopul moțiunii de cenzură.** Potrivit lui Mureșan, PSD a inițiat demersul când a considerat prea costisitoare măsurile prin care Bolojan încerca să reducă deficitul și când partidul nu ar mai fi acceptat pierderea influenței asupra fondurilor publice. El a afirmat că obiectivul nu era preluarea funcției de premier, ci divizarea PNL și formarea unui guvern condus de un alt liberal.\n\n• **Mureșan spune că planul a eșuat din cauza unității PNL.** În opinia sa, liberalii au rămas uniți, iar PSD a ajuns astfel să-și asume conducerea guvernării. Eurodeputatul a mai afirmat că executivul Bolojan a redus aproape la jumătate deficitul bugetar de 9% moștenit de la guvernarea anterioară.",
     "importance_score": 45.0,
     "is_top_hero": false,
-    "top_rank": 51,
+    "top_rank": 50,
     "is_top_list": true
   },
   {
@@ -4056,7 +4013,7 @@
     "lead_ro": "Cătălin Cîrjan consideră că Adrian Mazilu are nevoie de încredere și de mai multe minute pentru a-și recăpăta forma. În paralel, Dinamo ia în calcul despărțirea de Devis Epassy în această iarnă și transferul definitiv al lui Alaa Bellaarouch.",
     "content_ro": "• **Cîrjan îl susține pe Mazilu în perioada dificilă:** Căpitanul lui Dinamo, în vârstă de 23 de ani, discută frecvent cu tinerii care joacă mai puțin, inclusiv cu atacantul de 21 de ani. I-a menționat și pe Matteo Duțu, Ianis Tarbă, Răzvan Radu și Ștefan Opriș printre jucătorii talentați care pot avea nevoie de încurajare.\n\n• **Mazilu are nevoie de timp și de minute pe teren:** După ce îl urmărește la antrenamente, Cîrjan crede că atacantul poate reveni la nivelul anterior. Clubul trebuie să găsească o soluție pentru situația sa. HotNews îi atribuie 87 de minute în șase meciuri de campionat, în timp ce GSP menționează opt apariții în acest sezon.\n\n• **Cîrjan își folosește experiența de la Rapid pentru a-i încuraja pe tineri:** A fost legitimat la clubul giuleștean din iulie 2023 până în iunie 2024, perioadă în care, potrivit propriilor declarații, nu a primit șansa de a juca. El îi îndeamnă pe colegii tineri să continue să muncească și să nu-și piardă bucuria de a juca fotbal.\n\n• **Bilanțul lui Mazilu la Dinamo cuprinde 23 de meciuri:** Atacantul, venit în vara lui 2025, a marcat o dată și a oferit o pasă decisivă în 577 de minute. Relatările indică cifre diferite privind aparițiile sale din campionat.\n\n• **Dinamo prevede plecarea lui Epassy în pauza de iarnă:** Președintele Andrei Nicolescu a spus că despărțirea de portarul camerunez s-ar putea realiza prin rezilierea contractului de comun acord. Operat în august pentru o problemă mai veche la meniscul genunchiului stâng, Epassy a jucat 31 de meciuri pentru Dinamo și a încheiat nouă dintre ele fără gol primit.\n\n• **Clubul analizează transferul definitiv al lui Bellaarouch:** Împrumutat de la Braga, portarul marocan a fost integralist în toate cele 15 etape de campionat disputate și a păstrat poarta intactă de șase ori. Contractul prevede o clauză de transfer definitiv de 500.000 de euro.",
     "importance_score": 43.0,
-    "top_rank": 52,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4104,7 +4061,7 @@
     "lead_ro": "Ministrul Dezvoltării, Alexandru Stoica, a anunțat pregătirea unui program care ar putea reduce cu până la 50% impozitele pentru locuitorii comunelor care aleg comasarea voluntară. Separat de această inițiativă, primarul din Petroșani propune diminuarea impozitului pe locuințe cu 33% începând din 2027.",
     "content_ro": "• **Pachetul guvernamental este încă în pregătire.** Alexandru Stoica a declarat la Buzău că administrațiile care aleg unirea ar putea beneficia de sprijin pentru investiții, iar impozitele cetățenilor s-ar putea reduce cu până la jumătate. Măsura este deocamdată o posibilitate, iar detaliile finanțării nu au fost prezentate.\n\n• **Planul vizează 429 de localități cu cel mult 1.500 de locuitori.** Autoritățile locale ar urma să înceapă pregătirea referendumurilor până la 1 martie 2027, în timp ce comasările ar produce efecte din 2028. Potrivit ministrului, există deja primari interesați.\n\n• **Ministrul a afirmat că Pănătău va fi inclusă într-o comasare.** Comuna este locul său natal, iar tatăl său ocupă funcția de primar. Stoica urmează să discute cu reprezentanții locali și a lăsat deschisă posibilitatea ca unirea să nu fie voluntară. El a spus că sediul primăriei s-ar putea să nu rămână în comună, dar serviciile publice ar trebui menținute.\n\n• **Petroșani are o propunere distinctă privind impozitul pe locuințe.** Primarul Tiberiu Iacob-Ridzi dorește ca acesta să scadă cu o treime din 2027, prin modificarea cotei de la 0,12% la 0,08%. Proiectul ar urma să intre în dezbatere publică, iar consilierii locali l-ar putea vota în decembrie. Dacă va fi aprobat, economiile anuale ale unor proprietari ar putea fi de câteva sute de lei. Primarul și-a motivat inițiativa prin majorările de taxe din 2026.",
     "importance_score": 43.0,
-    "top_rank": 53,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4152,7 +4109,7 @@
     "lead_ro": "Fostul pachebot a ajuns pe fundul mării pe 11 noiembrie, în largul coastei de nord-vest a Floridei. Epava urmează să devină un recif artificial, habitat marin și atracție turistică; nava păstrează și recordul celei mai rapide traversări a Atlanticului.",
     "content_ro": "• **SS United States a fost scufundat pe 11 noiembrie** în Golful Mexic, la circa 40 de kilometri de Destin, în largul coastei de nord-vest a Floridei. Nava depășea 300 de metri și era cu aproximativ 30 de metri mai lungă decât Titanicul. Epava se află la 55 de metri adâncime, iar puntea superioară este la 18 metri sub nivelul mării.\n\n• **Vasul a fost coborât prin inundare controlată, fără explozibili.** Înaintea operațiunii au fost deschise supapele sistemului de răcire, au fost scoase peste 400 de hublouri și au fost create deschideri ample în punți. Coșurile de fum au fost demontate.\n\n• **Proiectul, evaluat la aproximativ 13,5 milioane de dolari, urmărește amenajarea unui recif și a unei atracții turistice.** Inițiatorii vor să creeze un habitat pentru fauna marină și să atragă scafandri și pescari. Ei estimează că epava ar putea deveni cel mai mare recif artificial din lume.\n\n• **Pachebotul a navigat între 1952 și 1969** și a traversat Atlanticul de peste 800 de ori. La cursa inaugurală a atins o viteză medie de peste 36 de noduri, echivalentă cu aproximativ 66 km/h. Traversarea a durat 3 zile, 10 ore și 40 de minute, cu zece ore mai puțin decât recordul anterior al navei Queen Mary. Recordul îi aparține în continuare lui SS United States.\n\n• **Printre pasagerii cunoscuți s-au numărat John F. Kennedy, Marilyn Monroe, Salvador Dalí și Walt Disney.** Bill Clinton a călătorit la bord în tinerețe, în drum spre studiile de la Oxford. După retragerea din serviciu, nava a stat peste un sfert de secol la un chei din Philadelphia; încercările de a o transforma în muzeu nu au reușit.",
     "importance_score": 43.0,
-    "top_rank": 54,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4202,7 +4159,7 @@
     "content_ro": "• **Atenționarea a avut loc după ceremonia de Ziua Veteranilor.** Hegseth și persoanele care îl însoțeau se aflau la Mormântul Soldatului Necunoscut din Cimitirul Național Arlington; la eveniment participase și președintele Donald Trump. Santinelul li s-a adresat și le-a cerut să respecte liniștea și conduita cuvenite vizitatorilor.\n\n• **În înregistrări, grupul apare fotografiindu-se, iar din apropiere se aud discuții și râsete.** Alături de secretar se aflau soția sa, Jennifer, șeful de cabinet Ricky Buria, adjunctul acestuia, Patrick Weaver, și consiliera Tami Radabaugh. Imaginile au fost preluate de publicații americane și distribuite online.\n\n• **Memorialul îi comemorează pe militarii necunoscuți sau dispăruți din mai multe războaie.** Mormântul principal adăpostește un soldat neidentificat din Primul Război Mondial, iar complexul include și locuri de veci legate de Al Doilea Război Mondial și de Războiul din Coreea. O criptă rămasă goală, rezervată inițial unui militar căzut în Vietnam, amintește de cei dispăruți în serviciul militar.\n\n• **Paza monumentului este asigurată fără întrerupere din 1948.** Serviciul revine militarilor din Regimentul 3 de Infanterie al armatei americane, cunoscut drept Old Guard.\n\n• **Hegseth se confruntă și cu presiuni politice.** După rezultatele slabe ale republicanilor la alegerile de la jumătatea mandatului, marți, republicanii din Camera Reprezentanților au blocat o inițiativă menită să deschidă procedura de înlăturare a secretarului în legătură cu războiul din Iran.",
     "importance_score": 40.0,
     "is_top_hero": false,
-    "top_rank": 55,
+    "top_rank": 54,
     "is_top_list": true
   },
   {
@@ -4251,7 +4208,7 @@
     "content_ro": "• **PSD ar urma să urmărească trei direcții principale:** Grindeanu a menționat reforma statului, relansarea economică și recuperarea treptată a puterii de cumpărare. Partidul intenționează să propună măsuri pentru administrația centrală și locală, precum și pentru companiile și agențiile de stat.\n\n• **Pentru 2027, liderul PSD propune un acord fără creșteri de taxe:** Înțelegerea ar urma să fie discutată cu reprezentanții mediului de afaceri și ar avea ca scop consolidarea încrederii investitorilor. Grindeanu a argumentat că predictibilitatea fiscală poate susține percepția României ca destinație sigură pentru investiții.\n\n• **Indexarea pensiilor ar trebui realizată conform legii:** Grindeanu a prezentat aplicarea prevederilor legale drept o obligație, nu ca pe o măsură care să fie negociată.\n\n• **Reducerea taxării muncii se numără printre propunerile sale:** Președintele PSD a afirmat că povara fiscală asupra muncii este ridicată în România. El a reiterat și ideea eliminării contribuției CASS pentru mame, persoane din categorii vulnerabile, veterani și invalizi de război.\n\n• **Costul energiei este legat, în viziunea sa, de competitivitate:** Grindeanu a spus că prețurile influențează atât cheltuielile populației, cât și performanța economiei. În opinia sa, este necesar un plan dedicat acestui domeniu.",
     "importance_score": 40.0,
     "is_top_hero": false,
-    "top_rank": 56,
+    "top_rank": 55,
     "is_top_list": true
   },
   {
@@ -4299,7 +4256,50 @@
     "content_ro": "• **România s-a impus cu 57–7 în fața Moldovei** în partida de clasament a Campionatului European U20, după ce a intrat la pauză cu 33–0. În prima repriză, românii au reușit cinci eseuri și au transformat patru dintre ele.\n\n• **David Belușică, Vlad Ciurciun, David Petrescu și Matei Bivol au punctat înainte de pauză.** Belușică a înscris de două ori, iar ceilalți trei jucători au marcat câte un eseu. Edward Jumătate a adăugat patru transformări în prima parte a întâlnirii.\n\n• **După pauză, România a mai înscris de patru ori.** Ianis Albert și Codrin Giușcă au reușit câte un eseu, iar Valentin Dumitraș a punctat de două ori. Jumătate a transformat două dintre cele patru încercări din repriza secundă.\n\n• **Naționala României va juca pe 15 noiembrie pentru locul al cincilea.** Echipa antrenată de Răzvan Popovici o va întâlni pe câștigătoarea partidei Elveția–Polonia, programată miercuri, la ora 14:30. Acesta va fi ultimul meci al românilor la ediția din acest an.\n\n• **România a ajuns în meciurile de clasament după ce a pierdut cu Cehia în sferturi**, scorul fiind 7–73. În semifinale sunt programate duelurile Țările de Jos–Belgia și Portugalia–Cehia. La ediția din 2025, selecționata României a ocupat locul al cincilea.",
     "importance_score": 40.0,
     "is_top_hero": false,
+    "top_rank": 56,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_bcce9b34a7",
+    "slug": "vilagszerte-akadozott-az-outlook-elerese-bcce9b",
+    "tags": [
+      "microsoft",
+      "outlook",
+      "microsoft365",
+      "szolgaltataskieses"
+    ],
+    "fingerprint": "b841e39b0816e657279943d109c791ec",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Pană de proporții la Microsoft: Outlook, afectat în întreaga lume",
+        "link": "https://hotnews.ro/pana-de-proportii-la-microsoft-outlook-afectat-in-intreaga-lume-2402898"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Outlook a picat în toată lumea. Peste 97.000 de utilizatori au raportat probleme de acces, chiar și în România",
+        "link": "https://stirileprotv.ro/stiri/international/pana-globala-la-outlook-peste-97-000-de-utilizatori-au-raportat-probleme-de-acces-chiar-si-in-romania.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Pană majoră la Microsoft. Probleme raportate joi seara și de utilizatorii din România",
+        "link": "https://adevarul.ro/stil-de-viata/tehnologie/pana-majora-la-microsoft-probleme-raportate-joi-2571141.html"
+      }
+    ],
+    "published_at": 1794520895,
+    "title_hu": "Világszerte akadozott az Outlook elérése",
+    "lead_hu": "Csütörtök este több országban is problémák jelentkeztek a Microsoft Outlook levelezőszolgáltatásának elérésével. A Microsoft a túlterhelt infrastruktúrát nevezte meg a kapcsolódási hibák lehetséges okaként.",
+    "content_hu": "• **Csütörtök este nemzetközi fennakadást észleltek az Outlooknál:** a felhasználók több régióból jeleztek hozzáférési és kapcsolódási nehézségeket. A Microsoft közlése szerint a probléma az Exchange Online-postafiókok különféle módokon történő elérését is érintette.\n\n• **A hibajelzések száma több országban gyorsan emelkedett.** Franciaországban a Downdetectoron helyi idő szerint 18:30 után néhány száz bejelentés jelent meg, az Egyesült Államokban pedig 19 órakor több mint 39 ezer felhasználói jelzésről számoltak be. Egy későbbi adat szerint az amerikai keleti parti időzónában 14:07-kor már 97 ezernél is több panasz érkezett.\n\n• **A Microsoft 365 a közösségi felületén erősítette meg az esetet.** A vállalat először az amerikai hozzáférési problémák kivizsgálásáról adott hírt, majd arra figyelmeztetett, hogy a fennakadás más térségek felhasználóit is érintheti.\n\n• **A vállalat több régióban magas terhelést tapasztalt a hálózati infrastruktúrán.** A Microsoft ezt a kapcsolódási hibák egyik lehetséges magyarázataként jelölte meg, és a beérkező forgalom elosztásával próbálta mérsékelni a terhelést, illetve javítani a szolgáltatás elérhetőségét.\n\n• **A kiesés egyes, mesterségesintelligencia-szolgáltatásokhoz használt csatlakozókat is érintett.** A Reuters beszámolója szerint az amerikai felhasználók ezrei számára a Microsoft 365 és az Outlook mellett a Teams is elérhetetlenné vált, az OpenAI és az Anthropic szolgáltatásaihoz kapcsolódó összekötők pedig szintén érintettek voltak.",
+    "title_ro": "Accesul la Outlook a fost perturbat la nivel global",
+    "lead_ro": "Probleme de acces la serviciul de e-mail Outlook au fost semnalate joi seară în mai multe regiuni. Microsoft a indicat că nivelul ridicat de încărcare a infrastructurii ar putea contribui la erorile de conectare.",
+    "content_ro": "• **Joi seară, utilizatori din mai multe regiuni au întâmpinat probleme cu Outlook.** Sesizările au vizat accesul și conectarea la serviciu, iar Microsoft a precizat că dificultățile afectau și accesarea căsuțelor Exchange Online prin diferite metode.\n\n• **Numărul raportărilor a crescut rapid în mai multe țări.** În Franța, Downdetector a înregistrat câteva sute de sesizări după ora locală 18:30. În Statele Unite, la ora 19:00, erau raportate peste 39.000 de persoane afectate; o altă cifră publicată ulterior indica mai mult de 97.000 de sesizări la 14:07, ora de pe coasta de est a SUA.\n\n• **Microsoft 365 a confirmat incidentul prin mesaje publicate pe o rețea socială.** Compania a anunțat inițial că verifică problemele de acces semnalate în America, iar apoi a arătat că efectele s-ar putea extinde și la utilizatorii din alte regiuni.\n\n• **Infrastructura companiei în mai multe regiuni înregistra un nivel ridicat de încărcare.** Microsoft a menționat această situație drept o posibilă cauză a erorilor de conectare. Pentru a gestiona traficul, compania a început să îl distribuie între componentele infrastructurii sale globale.\n\n• **Perturbarea a avut efecte și asupra unor instrumente conectate la servicii de inteligență artificială.** Potrivit Reuters, mii de utilizatori din SUA nu au putut accesa Microsoft 365 și Outlook, iar Teams a fost, de asemenea, indisponibil. Au fost afectate și conexiunile folosite de serviciile OpenAI și Anthropic.",
+    "importance_score": 38.0,
     "top_rank": 57,
+    "is_top_hero": false,
     "is_top_list": true
   },
   {
@@ -5740,7 +5740,7 @@
     "title_ro": "RO-Wallet ar putea fi lansat în România în ianuarie 2027",
     "lead_ro": "Lansarea portofelului digital al statului român este planificată pentru 14 ianuarie 2027, iar la început îl vor putea folosi persoanele cu carte de identitate electronică cu cip. Germania a oferit gratuit software-ul de bază, însă implementarea în țară ar putea costa peste 100 de milioane de euro.",
     "content_ro": "• **RO-Wallet ar urma să fie lansat la 14 ianuarie 2027.** Prima versiune a aplicației pentru smartphone va fi disponibilă persoanelor care dețin deja o carte de identitate electronică cu cip. Soluția va face parte din sistemul românesc de identitate digitală al statului.\n\n• **Implementarea ar putea depăși 100 de milioane de euro.** România a primit fără costuri din Germania software-ul pe care se bazează sistemul, dar cheltuielile pentru introducerea sa la nivel național ar putea fi acoperite din bugetul public de anul viitor.\n\n• **Aplicația va permite folosirea unor documente digitale autentificate.** Concepută ca versiunea românească a cadrului european de identitate digitală, aceasta va permite transmiterea numai a informației solicitate, iar verificarea va putea avea loc în timp real.\n\n• **Pentru confirmarea vârstei ar putea fi suficient un răspuns afirmativ.** Viky Mănăilă, consilier al ministrului de interne și specialist eIDAS, a descris un scenariu cu un cod QR de pe o platformă de pariuri online: după acordul utilizatorului, platforma ar afla doar dacă acesta a împlinit 18 ani.\n\n• **Portofelul ar putea include și dovezi bancare.** Banca va putea emite în aplicație un document digital care confirmă IBAN-ul, iar utilizatorul îl va putea prezenta electronic. La lansare ar putea fi disponibile numele, locul și data nașterii, cetățenia, codul numeric personal și confirmarea împlinirii vârstelor de 14, 16, 18 și 65 de ani.",
-    "importance_score": 33.0,
+    "importance_score": 30.0,
     "top_rank": 91,
     "is_top_hero": false,
     "is_top_list": true
@@ -5783,7 +5783,7 @@
     "title_ro": "Un brit integrează fuselajul unui Boeing 737 într-un spațiu subteran de relaxare",
     "lead_ro": "Dave Billings a cumpărat cu 4.000 de lire sterline fuselajul unui Boeing 737-500 scos din uz, coborât pe 20 octombrie într-o groapă amenajată în grădina casei sale din Derbyshire. Aeronava va extinde un complex subteran construit de mai mulți ani, unde proprietarul pregătește un spațiu de relaxare.",
     "content_ro": "• **Dave Billings, în vârstă de 45 de ani, a plătit 4.000 de lire pentru fuselajul unui Boeing 737-500.** El a găsit aeronava retrasă din serviciu pe Facebook Marketplace. Construită în 1993, aceasta a zburat ultima dată în 2013 și transportase turiști de la aeroportul East Midlands spre destinații precum Alicante, Malaga și Faro. În 2009 a primit numele Pudsey Baby, în legătură cu campania BBC Children in Need.\n\n• **Familia și prietenii au avut reacții diferite față de achiziție.** Fiul lui Billings, în vârstă de șapte ani, l-a încurajat să cumpere fuselajul, în timp ce soției sale, Beth, i-a trebuit timp să se obișnuiască cu ideea. Un prieten a considerat inițial planul nerealist, iar altul s-a oferit să ajute la transportarea aeronavei.\n\n• **Fuselajul a fost coborât în groapă pe 20 octombrie.** Manevra a avut loc în Hilton, comitatul Derbyshire, cu ajutorul unei macarale de mari dimensiuni și al voluntarilor. Billings a filmat operațiunea și, din 2021, își prezintă proiectele pe canalul YouTube Tornado Dave.\n\n• **Aeronava urmează să fie legată de un spațiu subteran deja existent.** Billings amenajează în interior o zonă de relaxare, pe care intenționează să o conecteze prin tuneluri cu alte încăperi. Planul include electricitate, o toaletă și automate de jocuri; accesul ar urma să fie asigurat de un lift ascuns într-o structură care imită o cabină telefonică.\n\n• **Billings a investit deja peste 50.000 de lire în construcția destinată familiei și prietenilor.** Spațiul este gândit în principal pentru petrecerea timpului liber, dar proprietarul îl consideră util și ca adăpost în cazul unui conflict grav. El speră să încheie lucrările până în februarie.",
-    "importance_score": 33.0,
+    "importance_score": 30.0,
     "top_rank": 92,
     "is_top_hero": false,
     "is_top_list": true
@@ -26872,34 +26872,6 @@
     "title_ro": "Cât de pregătit ești să fii patron? Doar 45% dintre antreprenorii români au răspuns corect la o întrebare financiară de bază",
     "lead_ro": "Lipsa pregătirii financiare și manageriale poate afecta administrarea și dezvoltarea firmelor din România. Datele OECD arată că mulți antreprenori au dificultăți în gestionarea banilor, accesarea fina…",
     "content_ro": "Lipsa pregătirii financiare și manageriale poate afecta administrarea și dezvoltarea firmelor din România. Datele OECD arată că mulți antreprenori au dificultăți în gestionarea banilor, accesarea finanțării și planificarea activității.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_063a2cbdcf",
-    "slug": "armata-argentiniana-a-fost-desemnata-organizatie-t-063a2c",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Armata argentiniană a fost desemnată organizație teroristă",
-        "link": "https://www.mediafax.ro/politic/armata-argentiniana-a-fost-desemnata-organizatie-terorista-23841788"
-      }
-    ],
-    "published_at": 1794445113,
-    "title_hu": "Armata argentiniană a fost desemnată organizație teroristă",
-    "lead_hu": "Armata argentiniană a fost desemnată organizație teroristă de către autoritățile din Iran. Este replica iranienilor la decizia guvernului argentinian care a desemnat Corpul Gardienilor Revoluției Isla…",
-    "content_hu": "Armata argentiniană a fost desemnată organizație teroristă de către autoritățile din Iran. Este replica iranienilor la decizia guvernului argentinian care a desemnat Corpul Gardienilor Revoluției Islamice (IRGC) din Iran drept „organizație teroristă”.",
-    "title_ro": "Armata argentiniană a fost desemnată organizație teroristă",
-    "lead_ro": "Armata argentiniană a fost desemnată organizație teroristă de către autoritățile din Iran. Este replica iranienilor la decizia guvernului argentinian care a desemnat Corpul Gardienilor Revoluției Isla…",
-    "content_ro": "Armata argentiniană a fost desemnată organizație teroristă de către autoritățile din Iran. Este replica iranienilor la decizia guvernului argentinian care a desemnat Corpul Gardienilor Revoluției Islamice (IRGC) din Iran drept „organizație teroristă”.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
