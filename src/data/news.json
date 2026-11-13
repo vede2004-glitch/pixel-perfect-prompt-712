@@ -939,7 +939,7 @@
     "title_ro": "Nvidia: Trump leagă evaluarea plecării lui Huang de suspiciunile de spionaj",
     "lead_ro": "Jensen Huang a renunțat la conducerea Nvidia și la locul din consiliul de administrație pe 12 noiembrie, după 33 de ani, iar conducerea interimară a fost preluată de directoarea financiară Colette Kress. Înaintea plecării, Donald Trump l-a îndemnat să reziste și a spus că evaluarea deciziei depinde și de confirmarea suspiciunilor privind Alice Huang. Noile informații plasează cazul și în contextul disputelor americane despre exporturile de cipuri către China.",
     "content_ro": "• **Plecarea și succesiunea.** Cofondatorul Nvidia, în vârstă de 63 de ani, a renunțat pe 12 noiembrie la funcțiile de director general și președinte, precum și la locul din consiliul de administrație. Compania nu a oferit o explicație oficială și caută un succesor permanent. Până atunci, conducerea interimară îi revine directoarei financiare Colette Kress, iar consiliul este prezidat de Harvey Jones.\n\n• **Reacția pieței.** În joia de după anunț, acțiunile Nvidia au coborât cu peste 10%, iar în cursul zilei au înregistrat o scădere și mai accentuată înaintea unei reveniri parțiale. În decurs de două săptămâni, valoarea de piață a companiei s-a redus cu aproximativ 1.400 de miliarde de dolari.\n\n• **Acuzații fără probe publice.** Informații atribuite unor surse din serviciile americane au ridicat suspiciunea că Alice Huang, fostă directoare a Megaspeed, ar fi putut transmite Chinei date, inclusiv despre tehnologii supuse restricțiilor de export. Nu au fost prezentate public dovezi ale spionajului; Nvidia și partea chineză au respins acuzațiile, iar consiliul companiei spune că nu vede indicii privind compromiterea securității naționale sau a secretelor comerciale. Presa a menționat și o presupusă relație cu Kimberly Powell, neconfirmată de persoanele implicate.\n\n• **Trump și relația cu Huang.** După ce anterior a numit-o spioană pe Alice Huang, Donald Trump a afirmat ulterior că nu știe dacă această suspiciune a fost demonstrată. Președintele a discutat de mai multe ori cu Jensen Huang și l-a încurajat să nu cedeze presiunilor de a pleca; a spus că aprecierea deciziei depinde și de veridicitatea acuzației. Huang se întâlnise în repetate rânduri cu Trump și l-a însoțit în mai într-o deplasare în China, la bordul avionului prezidențial.\n\n• **Restricțiile asupra cipurilor.** Din 2022, Washingtonul limitează exportul către China al celor mai performante procesoare Nvidia, de teama utilizării lor în scopuri militare și tehnologice. Aplicarea regulilor este complicată de posibile tranzitări prin țări precum Singapore și Malaysia, precum și de accesul la centre de date din afara Chinei. Huang susține de mult că restricțiile pot stimula dezvoltarea unor alternative chineze, poziție pe care Trump părea să o împărtășească. Este de așteptat ca Huang să depună mărturie sub jurământ în fața Congresului, într-o audiere cu ușile închise.",
-    "importance_score": 260.0,
+    "importance_score": 253.0,
     "top_rank": 4,
     "is_top_hero": false,
     "is_top_list": true
@@ -1089,6 +1089,130 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_f86babd669",
+    "slug": "rekordmeleg-utan-csaknem-huszfokos-lehules-jn-bukarestben-f86bab",
+    "tags": [
+      "vreme",
+      "prognoza-meteo",
+      "romania",
+      "ploi",
+      "ninsoare"
+    ],
+    "fingerprint": "6615461c7e6329887d412ea8b1aa13e5",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 19,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Vreme mai caldă decât în mod obișnuit în următoarea lună. Unde sunt anunțate ploi peste medie",
+        "link": "https://adevarul.ro/stiri-interne/meteo/vreme-mai-calda-decat-in-mod-obisnuit-in-2571159.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cum va fi vremea în România până la jumătatea lunii decembrie. ANM anunță temperaturi peste normal",
+        "link": "https://stirileprotv.ro/stiri/vremea/cum-va-fi-vremea-in-romania-pana-la-jumatatea-lunii-decembrie-anm-anunta-temperaturi-peste-normal.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "În doar câteva ore, vremea se schimbă radical în București. Temperatura se prăbușește sâmbătă",
+        "link": "https://hotnews.ro/in-doar-cateva-ore-vremea-se-schimba-radical-in-bucuresti-temperatura-se-prabuseste-sambata-2403242"
+      },
+      {
+        "source": "Mediafax",
+        "title": "ANM anunță vânt puternic, ploi și ninsori în România. Temperaturile scad brusc în weekend",
+        "link": "https://www.mediafax.ro/social/anm-anunta-vant-puternic-ploi-si-ninsori-in-romania-temperaturile-scad-brusc-in-weekend-23842433"
+      },
+      {
+        "source": "Mediafax",
+        "title": "ANM anunță vânt puternic, ploi și ninsori în România. Temperaturile scad brusc în weekend. În București se răcește cu aproape 20 de grade",
+        "link": "https://www.mediafax.ro/social/anm-anunta-vant-puternic-ploi-si-ninsori-in-romania-temperaturile-scad-brusc-in-weekend-in-bucuresti-se-raceste-cu-aproape-20-de-grade-23842433"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cod portocaliu de vânt puternic în România, cu rafale de până la 140 km/h. Urmează ploi, ninsori și temperaturi de -10 grade",
+        "link": "https://stirileprotv.ro/stiri/vremea/cod-portocaliu-de-vant-puternic-in-romania-cu-rafale-de-pana-la-140-km-h-urmeaza-ploi-ninsori-si-temperaturi-de-10-grade.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Furtuna Charles în România. ANM anunță temperaturi cu 10-15 grade mai mici: „Răcirea se va resimți în întreaga țară”",
+        "link": "https://hotnews.ro/furtuna-charles-in-romania-anm-anunta-temperaturi-cu-10-15-grade-mai-mici-racirea-se-va-resimti-in-intreaga-tara-2403914"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Vine iarna peste România! ANM anunță ninsori, rafale de vânt de 140 km/h și temperaturi de -10 grade",
+        "link": "https://www.cancan.ro/vine-iarna-peste-romania-anm-anunta-ninsori-rafale-de-vant-de-140-km-h-si-temperaturi-de-10-grade-21547297"
+      },
+      {
+        "source": "G4Media",
+        "title": "25 de grade Celsius, vineri, în Bucureşti / Sâmbătă se răceşte accentuat: temperatura maximă nu va depăşi 9 – 10 grade",
+        "link": "https://www.g4media.ro/25-de-grade-celsius-vineri-in-bucuresti-sambata-se-raceste-accentuat-temperatura-maxima-nu-va-depasi-9-10-grade.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vremea se schimbă radical în București. Diferență de 15 grade de la o zi la alta, anunță meteorologii",
+        "link": "https://www.mediafax.ro/vreme/vremea-se-schimba-radical-in-bucuresti-diferenta-de-15-grade-de-la-o-zi-la-alta-anunta-meterorologii-23841879"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Alertă ANM! Cod galben de vreme severă. Meteorologii anunță precipitații de până la 60 l/mp și vânt puternic",
+        "link": "https://www.cancan.ro/alerta-anm-cod-galben-de-vreme-severa-meteorologii-anunta-precipitatii-de-pana-la-60-l-mp-si-vant-puternic-21545580"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vreme caldă în București în următoarele zile, dar cu înnorări și ploi slabe. Ce anunță meteorologii",
+        "link": "https://stirileprotv.ro/stiri/actualitate/vreme-calda-in-bucuresti-in-urmatoarele-zile-dar-cu-innorari-si-ploi-slabe-ce-anunta-meteorologii.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea azi, 11 noiembrie. Temperaturile urcă până la 18 grade. Unde sunt anunțate ploi",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-11-noiembrie-temperaturile-urca-pana-la-18-grade-unde-sunt-anuntate-ploi.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Șoc termic în România: De la 27 de grade, la val de aer polar. Anunțul ANM despre cum se schimbă vremea în zilele următoare",
+        "link": "https://www.digi24.ro/meteo/soc-termic-in-romania-de-la-27-de-grade-la-val-de-aer-polar-anuntul-anm-despre-cum-se-schimba-vremea-in-zilele-urmatoare-4030855"
+      },
+      {
+        "source": "Mediafax",
+        "title": "ANM: Ploi și vânt puternic în toată țara până vineri seara și vreme neobișnuit de caldă în București",
+        "link": "https://www.mediafax.ro/social/anm-ploi-si-vant-puternic-in-toata-tara-pana-vineri-seara-si-vreme-neobisnuit-de-calda-in-bucuresti-23841323"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vremea se înrăutățește în România. ANM a emis Cod galben de ploi în mai multe regiuni, până joi seară. HARTĂ",
+        "link": "https://stirileprotv.ro/stiri/vremea/vremea-se-inrautateste-in-romania-anm-a-emis-cod-galben-de-ploi-in-mai-multe-regiuni-pana-joi-seara-harta.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alertă de ploi însemnate și vânt puternic: ANM a emis cod galben. Ce județe sunt vizate și cum va fi vremea la București HARTĂ",
+        "link": "https://www.digi24.ro/meteo/alerta-de-ploi-insemnate-si-vant-puternic-anm-a-emis-cod-galben-ce-judete-sunt-vizate-si-cum-va-fi-vremea-la-bucuresti-harta-4030981"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Temperaturi de vară în mijlocul lui noiembrie! ANM anunță o schimbare radicală după weekend",
+        "link": "https://www.cancan.ro/temperaturi-de-vara-in-mijlocul-lui-noiembrie-anm-anunta-o-schimbare-radicala-dupa-weekend-21545140"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Vremea se schimbă radical în România. Temperaturile scad cu 15 grade de sâmbătă, iar la munte sunt așteptate ninsori. Ce anunță ANM",
+        "link": "https://adevarul.ro/stiri-interne/meteo/vremea-se-schimba-radical-in-romania-2571412.html"
+      }
+    ],
+    "published_at": 1794597640,
+    "title_hu": "Rekordmeleg után csaknem húszfokos lehűlés jön Bukarestben",
+    "lead_hu": "November 13-án Bukarestben 25–27 fokig melegedhet a levegő, szombaton viszont már 8 fok körül alakulhat a csúcshőmérséklet. Az országban viharos széllökések, jelentős eső és hegyi havazás várható, vasárnap reggel pedig Kelet-Erdélyben mínusz 10 fok is lehet.",
+    "content_hu": "• **Péntekről szombatra meredeken esik a hőmérséklet:** Bukarestben november 13-án 25–27 fokot jeleznek, majd szombaton a nap elején tetőző érték is csak körülbelül 8 fok lehet. Pénteken 20–25 milliméter eső hullhat, zápor és zivatar is kialakulhat, a széllökések elérhetik a 40–45 km/órát. Szombatra gyengébb csapadékot és mínusz 1–plusz 1 fokos éjszakai minimumot várnak.\n\n• **Az ország egészét érinti a hétvégi lehűlés:** Elena Mateescu, az ANM vezetője szerint szombaton a pénteki értékekhez képest több mint 10–15 fokkal alacsonyabb maximumok jöhetnek; az országos csúcsok jellemzően 5–11 fok között maradhatnak. A pénteki meleg 44 állomáson eredményezett napi minimumrekordot: Turnu Măgurele térségében 28, több déli mérőhelyen 27, Bukarestben 25 fokot rögzítettek.\n\n• **Pénteken több térségben viharos szélre kell készülni:** A november 13-án 10 órától november 15-én 10 óráig érvényes meteorológiai tájékoztató szerint az országban általában 50–65 km/órás széllökések várhatók, a hegyekben meghaladhatják a 90-et. Pénteken 10 és 21 óra között többek között Erdélyben, Moldvában, Dobrudzsában és a Bánságban 50–75 km/órás lökésekkel sárga jelzés lesz érvényben. A magashegységben narancssárga riasztás mellett 90–120, nagy magasságban 140 km/órás szél is előfordulhat.\n\n• **Eső, havas eső és havazás kíséri az időjárás-váltást:** Pénteken főként nyugaton, északnyugaton és az ország középső részén eshet, az éjszaka során a csapadék délen is megjelenik. Sok helyen 15–25, a hegyekben és Munténiában 30–35 milliméter várható; egyes hegyvidéki területeken 35–45 milliméter fölé is emelkedhet a mennyiség. Munténia nagy részén szombaton 1 és 11 óra között 20–35 milliméteres esőre adtak ki sárga jelzést. A hegyekben 5–10 centiméter hó hullhat, Kelet- és Délkelet-Erdélyben is lehet havas eső, havazás.\n\n• **Vasárnap reggel többfelé fagy, a következő hetek kilátásai enyhébbek:** Az ország nagy részén fagypont alatti minimumok várhatók, Kelet-Erdélyben megközelítheti a mínusz 10 fokot. A következő négy hét átlaghőmérséklete többnyire kissé meghaladhatja az évszakos normát, különösen keleten és délkeleten. November 23–30. között országosan a sokéves átlaghoz közeli értékek valószínűek; december elején enyhe hőmérsékleti többlet, a hónap későbbi részében pedig főként a Kárpátokon belüli területeken az átlagosnál kissé melegebb idő körvonalazódik. A csapadék többnyire átlagos lehet, az első héten nyugaton, később kisebb mértékben szintén ott várható többlet.",
+    "title_ro": "După căldura-record, Bucureștiul se răcește cu aproape 20 de grade",
+    "lead_ro": "Pe 13 noiembrie, temperaturile din București pot urca la 25–27 de grade, însă sâmbătă maximele ar putea coborî în jurul valorii de 8 grade. Sunt prognozate vânt puternic, ploi însemnate și ninsoare la munte, iar duminică dimineață, în estul Transilvaniei, se pot înregistra minus 10 grade.",
+    "content_ro": "• **Temperaturile din Capitală scad abrupt de vineri până sâmbătă:** Pentru 13 noiembrie sunt estimate 25–27 de grade la București, în timp ce sâmbătă maxima, atinsă la începutul zilei, ar putea fi de aproximativ 8 grade. Vineri sunt posibile 20–25 de milimetri de precipitații, averse și descărcări electrice, iar rafalele pot ajunge la 40–45 km/h. În noaptea de sâmbătă, minima va fi între -1 și 1 grad, cu ploi slabe în timpul zilei.\n\n• **Răcirea se extinde în toate regiunile:** Elena Mateescu, șefa ANM, a estimat că maximele de sâmbătă vor fi cu peste 10–15 grade mai mici decât cele de vineri, situându-se în general între 5 și 11 grade. Căldura din 13 noiembrie a adus recorduri zilnice ale temperaturilor minime la 44 de stații: la Turnu Măgurele s-au consemnat 28 de grade, la mai multe puncte din sud 27, iar în Capitală 25.\n\n• **Vineri sunt prognozate rafale puternice în numeroase zone:** Informarea meteorologică este valabilă între 13 noiembrie, ora 10, și 15 noiembrie, ora 10. Vântul poate sufla în general cu 50–65 km/h, iar la munte rafalele pot depăși 90 km/h. Între orele 10 și 21, în Banat, Transilvania, Moldova, Dobrogea și alte regiuni va fi cod galben, cu rafale de 50–75 km/h. La munte este anunțat cod portocaliu: 90–120 km/h, iar la altitudini mari, până la 140 km/h.\n\n• **Ploile vor fi urmate de lapoviță și ninsoare:** Vineri, precipitațiile sunt așteptate mai ales în vest, nord-vest și centru, extinzându-se noaptea spre sud. Se pot strânge 15–25 l/mp, iar în zone montane și în Muntenia 30–35 l/mp; în unele sectoare montane, cantitățile pot depăși 35–45 l/mp. Pentru cea mai mare parte a Munteniei este anunțat cod galben de ploi sâmbătă, între orele 1 și 11, cu 20–35 l/mp. La munte se poate depune un strat de zăpadă de 5–10 centimetri, iar lapovița și ninsoarea pot ajunge și în estul și sud-estul Transilvaniei.\n\n• **Duminică dimineață sunt așteptate înghețuri, dar prognoza lunară indică vreme ușor mai caldă:** Minimele vor coborî sub zero în cea mai mare parte a țării, iar în estul Transilvaniei pot ajunge în jur de -10 grade. În următoarele patru săptămâni, temperaturile medii sunt estimate ușor peste cele obișnuite, mai ales în est și sud-est. În perioada 23–30 noiembrie sunt anticipate valori apropiate de mediile climatologice. La începutul lui decembrie, temperaturile pot depăși ușor normele în toate regiunile, iar ulterior abaterea pozitivă este așteptată mai ales în zonele intracarpatice. Precipitațiile vor fi, în general, apropiate de normal, cu posibile excedente în vest, mai ales în prima săptămână.",
+    "importance_score": 205.0,
+    "top_rank": 6,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_aa74649f91",
     "slug": "negyedeves-fellendules-de-kilenchavi-minusz-bizonytalan-a-roman-gazdasag-eves-me-aa7464",
     "tags": [
@@ -1208,125 +1332,6 @@
     "lead_ro": "Economia României a avansat cu 2,1% în trimestrul al treilea din 2026 față de trimestrul anterior, al doilea cel mai mare ritm din UE. Totuși, PIB-ul cumulat pe primele nouă luni a rămas sub nivelul din 2025, iar prognozele pentru întregul an variază de la contracție la creștere modestă.",
     "content_ro": "• **Trimestrul al treilea a adus cel mai puternic avans trimestrial.** INS a raportat o creștere de 2,1% față de cele trei luni precedente. În comparația Eurostat, numai Irlanda a avut un ritm mai ridicat, de 5,5%; PIB-ul UE a urcat cu 0,5%, iar cel al zonei euro cu 0,4%.\n\n• **Datele anuale și cele cumulate temperează semnalul pozitiv.** Față de trimestrul al treilea din 2025, PIB-ul României a crescut cu 0,1% pe seria brută și cu 0,3% pe cea ajustată sezonier. În primele nouă luni, însă, scăderea a fost de 0,3%, respectiv 1%. Acesta a fost primul avans anual după trei trimestre slabe.\n\n• **Revizuirea seriilor schimbă evoluția în timp, nu nivelul economiei.** PIB-ul ajustat a coborât cu 1,5% în ultimul trimestru din 2025 și cu 0,3% în primul trimestru din 2026, înainte de stagnarea din trimestrul al doilea. INS a recalculat indicii anteriori, diminuând declinul estimat la finalul lui 2025 și înrăutățind ușor valoarea primului trimestru din 2026.\n\n• **Investițiile publice susțin activitatea, în timp ce industria și consumul rămân slabe.** Ministrul Finanțelor, Alexandru Nazare, a indicat că redresarea trebuie consolidată. Volumul lucrărilor de construcții din august a fost cu 40,5% peste cel din aceeași lună a anului trecut, iar continuarea investițiilor este menționată printre prioritățile bugetului pentru 2027.\n\n• **Estimările pentru 2026 rămân divergente.** Comisia Europeană anticipează o creștere de 0,1%, FMI una de 0,7%, iar BERD estimează o contracție de 0,2%. Prognozele publicate pentru CNSP diferă între ele; ansamblul estimărilor citate se întinde de la minus 0,4% la plus 0,7%. Nazare a mai evidențiat reducerea deficitului și controlul cheltuielilor.",
     "importance_score": 198.0,
-    "top_rank": 6,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_f86babd669",
-    "slug": "rekordmeleg-utan-csaknem-huszfokos-lehules-jn-bukarestben-f86bab",
-    "tags": [
-      "vreme",
-      "prognoza-meteo",
-      "romania",
-      "ploi",
-      "ninsoare"
-    ],
-    "fingerprint": "6615461c7e6329887d412ea8b1aa13e5",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 18,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Vreme mai caldă decât în mod obișnuit în următoarea lună. Unde sunt anunțate ploi peste medie",
-        "link": "https://adevarul.ro/stiri-interne/meteo/vreme-mai-calda-decat-in-mod-obisnuit-in-2571159.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cum va fi vremea în România până la jumătatea lunii decembrie. ANM anunță temperaturi peste normal",
-        "link": "https://stirileprotv.ro/stiri/vremea/cum-va-fi-vremea-in-romania-pana-la-jumatatea-lunii-decembrie-anm-anunta-temperaturi-peste-normal.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "În doar câteva ore, vremea se schimbă radical în București. Temperatura se prăbușește sâmbătă",
-        "link": "https://hotnews.ro/in-doar-cateva-ore-vremea-se-schimba-radical-in-bucuresti-temperatura-se-prabuseste-sambata-2403242"
-      },
-      {
-        "source": "Mediafax",
-        "title": "ANM anunță vânt puternic, ploi și ninsori în România. Temperaturile scad brusc în weekend",
-        "link": "https://www.mediafax.ro/social/anm-anunta-vant-puternic-ploi-si-ninsori-in-romania-temperaturile-scad-brusc-in-weekend-23842433"
-      },
-      {
-        "source": "Mediafax",
-        "title": "ANM anunță vânt puternic, ploi și ninsori în România. Temperaturile scad brusc în weekend. În București se răcește cu aproape 20 de grade",
-        "link": "https://www.mediafax.ro/social/anm-anunta-vant-puternic-ploi-si-ninsori-in-romania-temperaturile-scad-brusc-in-weekend-in-bucuresti-se-raceste-cu-aproape-20-de-grade-23842433"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cod portocaliu de vânt puternic în România, cu rafale de până la 140 km/h. Urmează ploi, ninsori și temperaturi de -10 grade",
-        "link": "https://stirileprotv.ro/stiri/vremea/cod-portocaliu-de-vant-puternic-in-romania-cu-rafale-de-pana-la-140-km-h-urmeaza-ploi-ninsori-si-temperaturi-de-10-grade.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Furtuna Charles în România. ANM anunță temperaturi cu 10-15 grade mai mici: „Răcirea se va resimți în întreaga țară”",
-        "link": "https://hotnews.ro/furtuna-charles-in-romania-anm-anunta-temperaturi-cu-10-15-grade-mai-mici-racirea-se-va-resimti-in-intreaga-tara-2403914"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Vine iarna peste România! ANM anunță ninsori, rafale de vânt de 140 km/h și temperaturi de -10 grade",
-        "link": "https://www.cancan.ro/vine-iarna-peste-romania-anm-anunta-ninsori-rafale-de-vant-de-140-km-h-si-temperaturi-de-10-grade-21547297"
-      },
-      {
-        "source": "G4Media",
-        "title": "25 de grade Celsius, vineri, în Bucureşti / Sâmbătă se răceşte accentuat: temperatura maximă nu va depăşi 9 – 10 grade",
-        "link": "https://www.g4media.ro/25-de-grade-celsius-vineri-in-bucuresti-sambata-se-raceste-accentuat-temperatura-maxima-nu-va-depasi-9-10-grade.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Vremea se schimbă radical în București. Diferență de 15 grade de la o zi la alta, anunță meteorologii",
-        "link": "https://www.mediafax.ro/vreme/vremea-se-schimba-radical-in-bucuresti-diferenta-de-15-grade-de-la-o-zi-la-alta-anunta-meterorologii-23841879"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Alertă ANM! Cod galben de vreme severă. Meteorologii anunță precipitații de până la 60 l/mp și vânt puternic",
-        "link": "https://www.cancan.ro/alerta-anm-cod-galben-de-vreme-severa-meteorologii-anunta-precipitatii-de-pana-la-60-l-mp-si-vant-puternic-21545580"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vreme caldă în București în următoarele zile, dar cu înnorări și ploi slabe. Ce anunță meteorologii",
-        "link": "https://stirileprotv.ro/stiri/actualitate/vreme-calda-in-bucuresti-in-urmatoarele-zile-dar-cu-innorari-si-ploi-slabe-ce-anunta-meteorologii.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea azi, 11 noiembrie. Temperaturile urcă până la 18 grade. Unde sunt anunțate ploi",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-azi-11-noiembrie-temperaturile-urca-pana-la-18-grade-unde-sunt-anuntate-ploi.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Șoc termic în România: De la 27 de grade, la val de aer polar. Anunțul ANM despre cum se schimbă vremea în zilele următoare",
-        "link": "https://www.digi24.ro/meteo/soc-termic-in-romania-de-la-27-de-grade-la-val-de-aer-polar-anuntul-anm-despre-cum-se-schimba-vremea-in-zilele-urmatoare-4030855"
-      },
-      {
-        "source": "Mediafax",
-        "title": "ANM: Ploi și vânt puternic în toată țara până vineri seara și vreme neobișnuit de caldă în București",
-        "link": "https://www.mediafax.ro/social/anm-ploi-si-vant-puternic-in-toata-tara-pana-vineri-seara-si-vreme-neobisnuit-de-calda-in-bucuresti-23841323"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vremea se înrăutățește în România. ANM a emis Cod galben de ploi în mai multe regiuni, până joi seară. HARTĂ",
-        "link": "https://stirileprotv.ro/stiri/vremea/vremea-se-inrautateste-in-romania-anm-a-emis-cod-galben-de-ploi-in-mai-multe-regiuni-pana-joi-seara-harta.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alertă de ploi însemnate și vânt puternic: ANM a emis cod galben. Ce județe sunt vizate și cum va fi vremea la București HARTĂ",
-        "link": "https://www.digi24.ro/meteo/alerta-de-ploi-insemnate-si-vant-puternic-anm-a-emis-cod-galben-ce-judete-sunt-vizate-si-cum-va-fi-vremea-la-bucuresti-harta-4030981"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Temperaturi de vară în mijlocul lui noiembrie! ANM anunță o schimbare radicală după weekend",
-        "link": "https://www.cancan.ro/temperaturi-de-vara-in-mijlocul-lui-noiembrie-anm-anunta-o-schimbare-radicala-dupa-weekend-21545140"
-      }
-    ],
-    "published_at": 1794597640,
-    "title_hu": "Rekordmeleg után csaknem húszfokos lehűlés jön Bukarestben",
-    "lead_hu": "November 13-án Bukarestben 25–27 fokig melegedhet a levegő, szombaton viszont már 8 fok körül alakulhat a csúcshőmérséklet. Az országban viharos széllökések, jelentős eső és hegyi havazás várható, vasárnap reggel pedig Kelet-Erdélyben mínusz 10 fok is lehet.",
-    "content_hu": "• **Péntekről szombatra meredeken esik a hőmérséklet:** Bukarestben november 13-án 25–27 fokot jeleznek, majd szombaton a nap elején tetőző érték is csak körülbelül 8 fok lehet. Pénteken 20–25 milliméter eső hullhat, zápor és zivatar is kialakulhat, a széllökések elérhetik a 40–45 km/órát. Szombatra gyengébb csapadékot és mínusz 1–plusz 1 fokos éjszakai minimumot várnak.\n\n• **Az ország egészét érinti a hétvégi lehűlés:** Elena Mateescu, az ANM vezetője szerint szombaton a pénteki értékekhez képest több mint 10–15 fokkal alacsonyabb maximumok jöhetnek; az országos csúcsok jellemzően 5–11 fok között maradhatnak. A pénteki meleg 44 állomáson eredményezett napi minimumrekordot: Turnu Măgurele térségében 28, több déli mérőhelyen 27, Bukarestben 25 fokot rögzítettek.\n\n• **Pénteken több térségben viharos szélre kell készülni:** A november 13-án 10 órától november 15-én 10 óráig érvényes meteorológiai tájékoztató szerint az országban általában 50–65 km/órás széllökések várhatók, a hegyekben meghaladhatják a 90-et. Pénteken 10 és 21 óra között többek között Erdélyben, Moldvában, Dobrudzsában és a Bánságban 50–75 km/órás lökésekkel sárga jelzés lesz érvényben. A magashegységben narancssárga riasztás mellett 90–120, nagy magasságban 140 km/órás szél is előfordulhat.\n\n• **Eső, havas eső és havazás kíséri az időjárás-váltást:** Pénteken főként nyugaton, északnyugaton és az ország középső részén eshet, az éjszaka során a csapadék délen is megjelenik. Sok helyen 15–25, a hegyekben és Munténiában 30–35 milliméter várható; egyes hegyvidéki területeken 35–45 milliméter fölé is emelkedhet a mennyiség. Munténia nagy részén szombaton 1 és 11 óra között 20–35 milliméteres esőre adtak ki sárga jelzést. A hegyekben 5–10 centiméter hó hullhat, Kelet- és Délkelet-Erdélyben is lehet havas eső, havazás.\n\n• **Vasárnap reggel többfelé fagy, a következő hetek kilátásai enyhébbek:** Az ország nagy részén fagypont alatti minimumok várhatók, Kelet-Erdélyben megközelítheti a mínusz 10 fokot. A következő négy hét átlaghőmérséklete többnyire kissé meghaladhatja az évszakos normát, különösen keleten és délkeleten. November 23–30. között országosan a sokéves átlaghoz közeli értékek valószínűek; december elején enyhe hőmérsékleti többlet, a hónap későbbi részében pedig főként a Kárpátokon belüli területeken az átlagosnál kissé melegebb idő körvonalazódik. A csapadék többnyire átlagos lehet, az első héten nyugaton, később kisebb mértékben szintén ott várható többlet.",
-    "title_ro": "După căldura-record, Bucureștiul se răcește cu aproape 20 de grade",
-    "lead_ro": "Pe 13 noiembrie, temperaturile din București pot urca la 25–27 de grade, însă sâmbătă maximele ar putea coborî în jurul valorii de 8 grade. Sunt prognozate vânt puternic, ploi însemnate și ninsoare la munte, iar duminică dimineață, în estul Transilvaniei, se pot înregistra minus 10 grade.",
-    "content_ro": "• **Temperaturile din Capitală scad abrupt de vineri până sâmbătă:** Pentru 13 noiembrie sunt estimate 25–27 de grade la București, în timp ce sâmbătă maxima, atinsă la începutul zilei, ar putea fi de aproximativ 8 grade. Vineri sunt posibile 20–25 de milimetri de precipitații, averse și descărcări electrice, iar rafalele pot ajunge la 40–45 km/h. În noaptea de sâmbătă, minima va fi între -1 și 1 grad, cu ploi slabe în timpul zilei.\n\n• **Răcirea se extinde în toate regiunile:** Elena Mateescu, șefa ANM, a estimat că maximele de sâmbătă vor fi cu peste 10–15 grade mai mici decât cele de vineri, situându-se în general între 5 și 11 grade. Căldura din 13 noiembrie a adus recorduri zilnice ale temperaturilor minime la 44 de stații: la Turnu Măgurele s-au consemnat 28 de grade, la mai multe puncte din sud 27, iar în Capitală 25.\n\n• **Vineri sunt prognozate rafale puternice în numeroase zone:** Informarea meteorologică este valabilă între 13 noiembrie, ora 10, și 15 noiembrie, ora 10. Vântul poate sufla în general cu 50–65 km/h, iar la munte rafalele pot depăși 90 km/h. Între orele 10 și 21, în Banat, Transilvania, Moldova, Dobrogea și alte regiuni va fi cod galben, cu rafale de 50–75 km/h. La munte este anunțat cod portocaliu: 90–120 km/h, iar la altitudini mari, până la 140 km/h.\n\n• **Ploile vor fi urmate de lapoviță și ninsoare:** Vineri, precipitațiile sunt așteptate mai ales în vest, nord-vest și centru, extinzându-se noaptea spre sud. Se pot strânge 15–25 l/mp, iar în zone montane și în Muntenia 30–35 l/mp; în unele sectoare montane, cantitățile pot depăși 35–45 l/mp. Pentru cea mai mare parte a Munteniei este anunțat cod galben de ploi sâmbătă, între orele 1 și 11, cu 20–35 l/mp. La munte se poate depune un strat de zăpadă de 5–10 centimetri, iar lapovița și ninsoarea pot ajunge și în estul și sud-estul Transilvaniei.\n\n• **Duminică dimineață sunt așteptate înghețuri, dar prognoza lunară indică vreme ușor mai caldă:** Minimele vor coborî sub zero în cea mai mare parte a țării, iar în estul Transilvaniei pot ajunge în jur de -10 grade. În următoarele patru săptămâni, temperaturile medii sunt estimate ușor peste cele obișnuite, mai ales în est și sud-est. În perioada 23–30 noiembrie sunt anticipate valori apropiate de mediile climatologice. La începutul lui decembrie, temperaturile pot depăși ușor normele în toate regiunile, iar ulterior abaterea pozitivă este așteptată mai ales în zonele intracarpatice. Precipitațiile vor fi, în general, apropiate de normal, cu posibile excedente în vest, mai ales în prima săptămână.",
-    "importance_score": 195.0,
     "top_rank": 7,
     "is_top_hero": false,
     "is_top_list": true
@@ -1801,7 +1806,7 @@
     "title_ro": "Cazul Nvidia poate avea implicații pentru securitatea tehnologică a SUA",
     "lead_ro": "Scandalul din jurul lui Jensen Huang se intersectează cu dezbaterile americane privind exporturile de tehnologie către China, dincolo de schimbarea conducerii Nvidia. Huang și secretarul pentru Comerț, Howard Lutnick, au fost convocați să depună mărturie în fața unor comisii senatoriale.",
     "content_ro": "• **O nouă presupusă relație:** Două persoane familiarizate cu situația au afirmat că Huang ar fi avut o relație și cu o angajată Nvidia a cărei identitate nu a fost făcută publică. Informația este distinctă de relatările anterioare despre Alice Huang și Kimberly Powell. Compania nu a comentat, iar persoanele contactate nu au răspuns Reuters.\n\n• **Declarație și anchetă:** Huang, în vârstă de 63 de ani și căsătorit, a recunoscut pe 8 noiembrie că a avut o relație extraconjugală, fără să dezvăluie identitatea celeilalte persoane. Consiliul Nvidia a inițiat o investigație independentă, cu avocați externi, pentru a stabili dacă acesta ar fi fost vizat de un serviciu străin de informații. La început, conducerea și-a exprimat încrederea în el.\n\n• **Audiere în Senat:** Huang și Howard Lutnick au fost convocați în fața unor comisii senatoriale pentru a depune mărturie despre exporturile de tehnologie către China. Potrivit relatărilor din presa americană, Lutnick a avut divergențe cu alți oficiali ai administrației, inclusiv cu secretarul Trezoreriei, în privința limitării exporturilor de cipuri.\n\n• **Miza de securitate:** Analistul James Stavridis a avertizat că instabilitatea Nvidia ar putea afecta avantajul tehnologic al SUA față de China, pe care l-a descris drept fragil. În cazul presupusei relații cu Alice Huang au apărut suspiciuni privind posibile legături cu spionajul chinez, însă acestea nu au fost demonstrate public, iar China le-a respins.\n\n• **Demisie și succesiune:** Joi, Huang a renunțat la funcția de director executiv al Nvidia, companie pe care a cofondat-o în 1993. Directorul financiar Colette Kress a preluat temporar conducerea, iar compania caută un succesor permanent atât în interior, cât și în afara organizației. Analiștii au discutat și posibilele efecte ale instabilității asupra industriei.",
-    "importance_score": 105.0,
+    "importance_score": 98.0,
     "top_rank": 12,
     "is_top_hero": false,
     "is_top_list": true
@@ -3769,88 +3774,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_b9a242b7fc",
-    "slug": "nicusor-dan-reszt-vesz-a-phnom-penhi-frankofon-csucstalalkozon-b9a242",
-    "tags": [
-      "francofonia",
-      "nicusor-dan",
-      "dacian-ciolos",
-      "oif"
-    ],
-    "fingerprint": "f150fffe08c3f20d84cdb5b0d60d9606",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Președintele Nicușor Dan merge în Cambodgia, la Sommet-ul Francofoniei, unde se va lua decizia privind noul secretar general al Francofoniei pentru perioada 2027-2030. Dacian Cioloș este candidatul României",
-        "link": "https://www.g4media.ro/presedintele-nicusor-dan-merge-in-cambodgia-la-sommet-ul-francofoniei-unde-se-va-lua-decizia-privind-noul-secretar-general-al-francofoniei-pentru-perioada-2027-2030-dacian-ciolos-este-candidatul-ro.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Nicușor Dan va merge în Cambodgia pentru summitul Francofoniei. Miza României: candidatura lui Dacian Cioloș la șefia OIF",
-        "link": "https://www.digi24.ro/stiri/actualitate/nicusor-dan-va-merge-in-cambodgia-pentru-summitul-francofoniei-miza-romaniei-candidatura-lui-dacian-ciolos-la-sefia-oif-4035539"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Dacian Cioloș, la un pas de șefia Organizației Internațională a Francofoniei. Nicușor Dan pleacă în Cambodgia, unde se va lua decizia",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/dacian-ciolos-la-un-pas-de-sefia-organizatiei-2571343.html"
-      }
-    ],
-    "published_at": 1794584262,
-    "title_hu": "Nicușor Dan részt vesz a phnom penhi frankofón csúcstalálkozón",
-    "lead_hu": "Nicușor Dan román államfő november 15–16-án Kambodzsába utazik a Frankofónia 20. csúcstalálkozójára. Románia Dacian Cioloș főtitkári jelöltségéhez igyekszik támogatást szerezni a 2027–2030-as időszakra.",
-    "content_hu": "• **Nicușor Dan november 15–16-án Phnom Penhben vesz részt a Frankofónia 20. csúcstalálkozóján.** A kambodzsai rendezvényen az állam- és kormányfők a Nemzetközi Frankofón Szervezet, az OIF teljes jogú tagállamait képviselik.\n\n• **A találkozóra 53 teljes jogú tagország vezetőit várják.** A csúcstalálkozó központi témája a béke támogatása, valamint a közös jólét és a tartós stabilitás előmozdítása.\n\n• **Románia fő célja, hogy támogató egyetértés alakuljon ki Dacian Cioloș jelöltsége körül.** A volt román miniszterelnök és korábbi európai biztos a Frankofónia főtitkári tisztségére pályázik a 2027–2030-as időszakban.\n\n• **A főtitkár személyéről az OIF 53 teljes jogú tagállamának vezetői döntenek.** A döntést a hétfői ülésen hozzák meg, amely a november 16-i program része.\n\n• **A román elnöki hivatal a jelöltséget az ország nemzetközi szerepvállalásának erősítéséhez kapcsolta.** A közlemény szerint Cioloș megválasztása növelhetné Románia frankofón térségbeli befolyását, és szorosabb kapcsolatokat teremthetne a tagállamokkal.",
-    "title_ro": "Nicușor Dan participă la summitul Francofoniei de la Phnom Penh",
-    "lead_ro": "Președintele României, Nicușor Dan, va merge în Cambodgia în 15–16 noiembrie, pentru cea de-a 20-a reuniune la nivel înalt a Francofoniei. România urmărește să obțină sprijin pentru candidatura lui Dacian Cioloș la funcția de secretar general, pentru mandatul 2027–2030.",
-    "content_ro": "• **Nicușor Dan va participa la Phnom Penh, în 15 și 16 noiembrie, la al XX-lea Sommet al Francofoniei.** Reuniunea din Cambodgia îi va aduce împreună pe șefi de stat și de guvern din Organizația Internațională a Francofoniei, OIF.\n\n• **La summit sunt așteptați reprezentanții celor 53 de state membre cu drepturi depline.** Tema întâlnirii pune accentul pe sprijinirea păcii, pe prosperitate comună și pe stabilitate durabilă.\n\n• **Pentru România, un obiectiv principal este construirea unui acord în favoarea lui Dacian Cioloș.** Fostul premier al României și fost comisar european candidează pentru postul de secretar general al Francofoniei în perioada 2027–2030.\n\n• **Liderii celor 53 de state membre cu drepturi depline vor desemna noul secretar general.** Votul este programat în sesiunea de luni, 16 noiembrie.\n\n• **Administrația Prezidențială leagă candidatura de consolidarea rolului internațional al României.** Potrivit instituției, alegerea lui Cioloș ar putea spori influența țării în spațiul francofon și ar putea întări legăturile cu statele membre.",
-    "importance_score": 38.0,
-    "top_rank": 50,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_89ff7e6a59",
-    "slug": "alexandru-rogobete-anunta-o-noua-strategie-pentru-digitalizarea-sanatatii-ce-se--89ff7e",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/8170852-mediafax_foto-alexandru_dobre-1024x683.jpg",
-    "is_synthesized": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Alexandru Rogobete anunță o nouă strategie pentru digitalizarea sănătății. Ce se va schimba până în 2031",
-        "link": "https://www.mediafax.ro/politic/alexandru-rogobete-anunta-o-noua-strategie-pentru-digitalizarea-sanatatii-ce-se-va-schimba-pana-in-2031-23842675"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Adio dosare medicale plimbate între spitale? Ministerul Sănătății pregătește o nouă strategie bazată pe digitalizare",
-        "link": "https://adevarul.ro/stiri-interne/sanatate/adio-dosare-medicale-plimbate-intre-spitale-2571355.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Többé nem kell magunkkal vinni a leleteinket? – Bemutatták az egészségügy ötéves digitalizációs tervét",
-        "link": "https://maszol.ro/belfold/Tobbe-nem-kell-magunkkal-vinni-a-leleteinket-Bemutattak-az-egeszsegugy-oteves-digitalizacios-tervet"
-      }
-    ],
-    "published_at": 1794583994,
-    "title_hu": "Alexandru Rogobete anunță o nouă strategie pentru digitalizarea sănătății. Ce se va schimba până în 2031",
-    "lead_hu": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și red...",
-    "content_hu": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și reducerea raportărilor repetitive pentru medici, a anunțat ministrul Sănătății, Alexandru Rogobete.",
-    "title_ro": "Alexandru Rogobete anunță o nouă strategie pentru digitalizarea sănătății. Ce se va schimba până în 2031",
-    "lead_ro": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și red...",
-    "content_ro": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și reducerea raportărilor repetitive pentru medici, a anunțat ministrul Sănătății, Alexandru Rogobete.",
-    "importance_score": 38.0,
-    "top_rank": 51,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_de1a3af054",
     "slug": "kzel-kerulhet-magyarorszag-a-csaknem-10-milliard-euros-unios-forras-megszerzeseh-de1a3a",
     "tags": [
@@ -3889,7 +3812,7 @@
     "lead_ro": "Comisia Europeană este aproape de finalizarea evaluării reformelor din Ungaria și nu a semnalat până acum impedimente majore pentru deblocarea fondurilor de redresare. Decizia nu este definitivă, iar plățile depind și de parcurgerea etapelor europene de aprobare.",
     "content_ro": "• **Evaluarea Comisiei Europene se apropie de final**, iar o sursă familiarizată cu dosarul afirmă că nu se conturează obstacole importante pentru eliberarea celor aproape 10 miliarde de euro. Ungaria ar putea primi întreaga sumă cerută sau una apropiată de aceasta, însă hotărârea nu a fost încă luată definitiv.\n\n• **Transferul banilor necesită aprobări suplimentare la nivel european.** Un aviz favorabil al Comisiei nu declanșează singur plățile; procedurile de aprobare trebuie încheiate înainte ca fondurile să poată fi virate.\n\n• **Suma face parte dintr-un plan de 16,4 miliarde de euro.** În mai, Péter Magyar și Ursula von der Leyen au convenit asupra unui demers pentru accesarea banilor europeni reținuți. Aproape 10 miliarde provin din Mecanismul de Redresare și Reziliență, creat în urma pandemiei de COVID-19.\n\n• **Ungaria trebuia să îndeplinească 27 de condiții prioritare și peste o sută de alte obiective.** În timpul verii, parlamentul de la Budapesta a modificat mai mult de o sută de legi, cele mai multe legate de independența justiției și combaterea corupției. Guvernul a anunțat la sfârșitul lui august că cerințele fuseseră îndeplinite, după care Comisia a început verificările.\n\n• **Planul revizuit include investiții în energie, transport și locuințe.** Sunt prevăzute lucrări de modernizare a rețelelor electrice, a căilor ferate și a locuințelor pentru închiriere. Circa 3,6 miliarde de euro au fost redirecționate către majorarea capitalului Băncii Ungare de Dezvoltare și finanțarea unei noi companii feroviare de stat. Autorizațiile pentru plățile din mecanismul de redresare trebuie acordate până la sfârșitul lunii noiembrie.",
     "importance_score": 38.0,
-    "top_rank": 52,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3932,7 +3855,7 @@
     "lead_ro": "Un accident produs pe 12 noiembrie în Satu Mare s-a soldat cu avarii la două autoturisme și la o clădire, iar șoferul a plecat inițial de la fața locului. Analizele de sânge au indicat valori de peste 3 g/l alcool, iar bărbatul a fost reținut pentru 24 de ore.",
     "content_ro": "• **Accidentul a avut loc în Satu Mare, pe 12 noiembrie, în jurul orei 10:30.** Poliția a fost alertată printr-un apel la 112 cu privire la pagubele produse pe strada Prahova. Potrivit verificărilor inițiale, un localnic de 68 de ani a pierdut controlul mașinii și a lovit un autoturism parcat regulamentar.\n\n• **Pe strada Dariu Pop, automobilul a intrat și în peretele unei clădiri.** După coliziuni, conducătorul auto a părăsit zona, însă polițiștii l-au găsit la scurt timp pe strada Prunilor. Nicio persoană nu a fost rănită, iar incidentul a provocat doar pagube materiale.\n\n• **Testarea cu etilotestul nu a putut fi făcută la fața locului din motive medicale.** Bărbatul a fost transportat la spital pentru recoltarea probelor biologice. Rezultatele au arătat concentrații de 3,18 g/l și, respectiv, 3,04 g/l alcool pur în sânge.\n\n• **Polițiștii au dispus reținerea pentru 24 de ore și l-au dus pe bărbat în centrul de arest al inspectoratului județean.** Cercetările continuă în legătură cu suspiciunea de conducere a unui vehicul sub influența alcoolului. Pe durata procedurilor, bărbatul beneficiază de prezumția de nevinovăție.",
     "importance_score": 38.0,
-    "top_rank": 53,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3975,7 +3898,7 @@
     "lead_ro": "Compania URBIO, înființată la Iași, a obținut premiul pentru categoria Energy & Environment la World Smart City Awards 2026. Proiectul de iluminat public implementat în județul Botoșani a redus, potrivit datelor prezentate, consumul de energie și cheltuielile administrațiilor locale.",
     "content_ro": "• **URBIO a câștigat categoria Energy & Environment a competiției World Smart City Awards 2026.** Distincția a fost înmânată pe 4 noiembrie, la Barcelona, în cadrul Smart City Expo World Congress. Compania fondată la Iași a devenit astfel prima firmă din România premiată în această competiție.\n\n• **Premiul a fost acordat pentru un proiect de modernizare a iluminatului public din județul Botoșani.** Soluția folosește corpuri de iluminat cu control inteligent. Rezultatele comunicate pentru proiect indică o reducere cu 64% a energiei consumate de sistemul de iluminat stradal.\n\n• **Estimările prezentate indică economii anuale de peste 570.000 de euro pentru bugetele locale.** Potrivit datelor proiectului, emisiile de dioxid de carbon evitate se ridică la 1.943 de tone pe an. Aceste valori se referă la implementarea din județul Botoșani.\n\n• **Patru companii au ajuns în finala categoriei.** URBIO s-a clasat înaintea companiei sud-coreene Korea Land & Housing Corporation, a producătorului spaniol Salvi Lighting și a firmei olandeze The Great Bubble Barrier. Ediția din 2026 a reunit 533 de proiecte din 68 de țări.\n\n• **URBIO a fost înființată la Iași în 2013.** Compania are peste 250 de angajați, dintre care 45 lucrează în cercetare și dezvoltare, și operează două fabrici în România. Activitatea sa include producția de corpuri de iluminat și dezvoltarea unor soluții de telegestiune.",
     "importance_score": 38.0,
-    "top_rank": 54,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4009,7 +3932,7 @@
     "lead_ro": "Primăria Bucureşti a anunţat, vineri seară, primele măsuri de eficientizare după „dezastrul găsit la STB”. Este vorba despre digitalizare şi controlul consumurilor, reducerea cheltuielilor de personal...",
     "content_ro": "Primăria Bucureşti a anunţat, vineri seară, primele măsuri de eficientizare după „dezastrul găsit la STB”. Este vorba despre digitalizare şi controlul consumurilor, reducerea cheltuielilor de personal, renegocierea contractului colectiv de muncă şi folosirea eficientă a atelierelor proprii.",
     "importance_score": 35.0,
-    "top_rank": 55,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4043,7 +3966,7 @@
     "lead_ro": "Mii de posturi ar putea fi deblocate în spitale începând de anul viitor. Ministrul Sănătății, Alexandru Rogobete, a declarat, în direct la Digi24, că a cerut unităților sanitare să transmită necesarul...",
     "content_ro": "Mii de posturi ar putea fi deblocate în spitale începând de anul viitor. Ministrul Sănătății, Alexandru Rogobete, a declarat, în direct la Digi24, că a cerut unităților sanitare să transmită necesarul de personal, pentru ca angajările să poată fi aprobate încă din prima parte a anului 2027. Oficialul susține că extinderea și modernizarea spitalelor trebuie însoțite de suplimentarea numărului de medici și asistenți.",
     "importance_score": 35.0,
-    "top_rank": 56,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4077,7 +4000,7 @@
     "lead_ro": "Jan Urban (64 de ani), selecționerul Poloniei, a susținut conferința de presă premergătoare partidei cu România, programată pe 14 noiembrie de la ora 21:45 pe Arena Națională. Înainte de duelul din Li...",
     "content_ro": "Jan Urban (64 de ani), selecționerul Poloniei, a susținut conferința de presă premergătoare partidei cu România, programată pe 14 noiembrie de la ora 21:45 pe Arena Națională. Înainte de duelul din Liga Națiunilor selecționerul polonezilor a vorbit despre eventuale absențe, situația sa la cârma naționalei și așteptările pe care le are pentru meciul de mâine. Jan Urban: „Presiunea în sport există oriunde, nu doar în fotbal. ...",
     "importance_score": 35.0,
-    "top_rank": 57,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4111,7 +4034,7 @@
     "lead_ro": "MApN pregătește un program de pregătire militară voluntară pentru femeile și bărbații cu vârste între 18 și 35 de ani, care va dura până la patru luni și pentru care participanții vor primi peste 4.00...",
     "content_ro": "MApN pregătește un program de pregătire militară voluntară pentru femeile și bărbații cu vârste între 18 și 35 de ani, care va dura până la patru luni și pentru care participanții vor primi peste 4.000 de lei net pe lună.",
     "importance_score": 35.0,
-    "top_rank": 58,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4145,7 +4068,7 @@
     "lead_ro": "Administrația Națională a SUA pentru Siguranța Traficului pe Autostrăzi (NHTSA) le-a cerut proprietarilor a peste 720.000 de vehicule BMW să le parcheze afară, departe de clădiri și de alte mașini, pâ...",
     "content_ro": "Administrația Națională a SUA pentru Siguranța Traficului pe Autostrăzi (NHTSA) le-a cerut proprietarilor a peste 720.000 de vehicule BMW să le parcheze afară, departe de clădiri și de alte mașini, până la efectuarea de reparații, potrivit Reuters. BMW a anunțat, vineri, că recheamă 720.796 de vehicule din cauza unui risc de incendiu care există în …",
     "importance_score": 33.0,
-    "top_rank": 59,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4182,6 +4105,88 @@
     "title_ro": "Explozia de la Moscova l-a rănit grav pe un fost purtător de cuvânt al guvernului ucrainean",
     "lead_ro": "Pe 13 noiembrie, un SUV Toyota a explodat în cartierul Certeanovo din Moscova, rănindu-l grav pe Serhii Zavorotnîi, în vârstă de 72 de ani. Presa a relatat că acesta ar fi fost plasat în comă indusă. Ancheta vizează o tentativă de omor, iar încadrarea juridică s-ar putea modifica ulterior.",
     "content_ro": "• **O explozie s-a produs pe 13 noiembrie în Certeanovo:** SUV-ul Toyota a parcurs aproximativ 200 de metri pe strada Kirovogradskaia înainte de deflagrație. Relatările indică plasarea unui dispozitiv exploziv sub vehicul, iar o altă știre menționează zona de sub scaun.\n\n• **Serhii Zavorotnîi, în vârstă de 72 de ani, a fost grav rănit.** Jurnalistul a fost purtător de cuvânt al fostului premier ucrainean Mykola Azarov; unele relatări îl descriu drept consilier principal. Suflul exploziei l-a aruncat pe carosabil, unde martorii i-au acordat primul ajutor, înainte să fie dus la spital.\n\n• **Presa a relatat despre o contuzie cerebrală, fracturi costale și o fractură deschisă la picior, precum și despre pierderea brațului stâng.** Unele publicații au scris că Zavorotnîi ar fi în comă indusă, informație care nu a fost confirmată într-un comunicat al autorităților. Nu au fost semnalate alte victime.\n\n• **Puterea exploziei a fost estimată la echivalentul a circa 300 de grame de TNT,** iar presa a avansat ipoteza unei mine magnetice. Autoritățile investighează cazul ca tentativă de omor printr-o metodă care pune în pericol siguranța publică; ulterior, fapta ar putea fi încadrată drept act terorist.\n\n• **Zavorotnîi s-a născut în 1954, la Habarovsk, și a urmat cursurile Universității de Stat din Kiev în anii 1970.** A locuit și a lucrat o perioadă îndelungată în Ucraina, fiind purtătorul de cuvânt al lui Azarov între 2010 și 2014, apoi s-a mutat în Rusia. În aceeași săptămână, un militar rus a fost ucis într-un atentat cu mașină-capcană la Sankt Petersburg; Moscova a acuzat Ucraina în cazuri anterioare, iar surse ucrainene și-au asumat unele atacuri și au negat implicarea în altele.",
+    "importance_score": 33.0,
+    "top_rank": 58,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_b9a242b7fc",
+    "slug": "nicusor-dan-reszt-vesz-a-phnom-penhi-frankofon-csucstalalkozon-b9a242",
+    "tags": [
+      "francofonia",
+      "nicusor-dan",
+      "dacian-ciolos",
+      "oif"
+    ],
+    "fingerprint": "f150fffe08c3f20d84cdb5b0d60d9606",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Președintele Nicușor Dan merge în Cambodgia, la Sommet-ul Francofoniei, unde se va lua decizia privind noul secretar general al Francofoniei pentru perioada 2027-2030. Dacian Cioloș este candidatul României",
+        "link": "https://www.g4media.ro/presedintele-nicusor-dan-merge-in-cambodgia-la-sommet-ul-francofoniei-unde-se-va-lua-decizia-privind-noul-secretar-general-al-francofoniei-pentru-perioada-2027-2030-dacian-ciolos-este-candidatul-ro.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Nicușor Dan va merge în Cambodgia pentru summitul Francofoniei. Miza României: candidatura lui Dacian Cioloș la șefia OIF",
+        "link": "https://www.digi24.ro/stiri/actualitate/nicusor-dan-va-merge-in-cambodgia-pentru-summitul-francofoniei-miza-romaniei-candidatura-lui-dacian-ciolos-la-sefia-oif-4035539"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Dacian Cioloș, la un pas de șefia Organizației Internațională a Francofoniei. Nicușor Dan pleacă în Cambodgia, unde se va lua decizia",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/dacian-ciolos-la-un-pas-de-sefia-organizatiei-2571343.html"
+      }
+    ],
+    "published_at": 1794584262,
+    "title_hu": "Nicușor Dan részt vesz a phnom penhi frankofón csúcstalálkozón",
+    "lead_hu": "Nicușor Dan román államfő november 15–16-án Kambodzsába utazik a Frankofónia 20. csúcstalálkozójára. Románia Dacian Cioloș főtitkári jelöltségéhez igyekszik támogatást szerezni a 2027–2030-as időszakra.",
+    "content_hu": "• **Nicușor Dan november 15–16-án Phnom Penhben vesz részt a Frankofónia 20. csúcstalálkozóján.** A kambodzsai rendezvényen az állam- és kormányfők a Nemzetközi Frankofón Szervezet, az OIF teljes jogú tagállamait képviselik.\n\n• **A találkozóra 53 teljes jogú tagország vezetőit várják.** A csúcstalálkozó központi témája a béke támogatása, valamint a közös jólét és a tartós stabilitás előmozdítása.\n\n• **Románia fő célja, hogy támogató egyetértés alakuljon ki Dacian Cioloș jelöltsége körül.** A volt román miniszterelnök és korábbi európai biztos a Frankofónia főtitkári tisztségére pályázik a 2027–2030-as időszakban.\n\n• **A főtitkár személyéről az OIF 53 teljes jogú tagállamának vezetői döntenek.** A döntést a hétfői ülésen hozzák meg, amely a november 16-i program része.\n\n• **A román elnöki hivatal a jelöltséget az ország nemzetközi szerepvállalásának erősítéséhez kapcsolta.** A közlemény szerint Cioloș megválasztása növelhetné Románia frankofón térségbeli befolyását, és szorosabb kapcsolatokat teremthetne a tagállamokkal.",
+    "title_ro": "Nicușor Dan participă la summitul Francofoniei de la Phnom Penh",
+    "lead_ro": "Președintele României, Nicușor Dan, va merge în Cambodgia în 15–16 noiembrie, pentru cea de-a 20-a reuniune la nivel înalt a Francofoniei. România urmărește să obțină sprijin pentru candidatura lui Dacian Cioloș la funcția de secretar general, pentru mandatul 2027–2030.",
+    "content_ro": "• **Nicușor Dan va participa la Phnom Penh, în 15 și 16 noiembrie, la al XX-lea Sommet al Francofoniei.** Reuniunea din Cambodgia îi va aduce împreună pe șefi de stat și de guvern din Organizația Internațională a Francofoniei, OIF.\n\n• **La summit sunt așteptați reprezentanții celor 53 de state membre cu drepturi depline.** Tema întâlnirii pune accentul pe sprijinirea păcii, pe prosperitate comună și pe stabilitate durabilă.\n\n• **Pentru România, un obiectiv principal este construirea unui acord în favoarea lui Dacian Cioloș.** Fostul premier al României și fost comisar european candidează pentru postul de secretar general al Francofoniei în perioada 2027–2030.\n\n• **Liderii celor 53 de state membre cu drepturi depline vor desemna noul secretar general.** Votul este programat în sesiunea de luni, 16 noiembrie.\n\n• **Administrația Prezidențială leagă candidatura de consolidarea rolului internațional al României.** Potrivit instituției, alegerea lui Cioloș ar putea spori influența țării în spațiul francofon și ar putea întări legăturile cu statele membre.",
+    "importance_score": 33.0,
+    "top_rank": 59,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_89ff7e6a59",
+    "slug": "alexandru-rogobete-anunta-o-noua-strategie-pentru-digitalizarea-sanatatii-ce-se--89ff7e",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/8170852-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Alexandru Rogobete anunță o nouă strategie pentru digitalizarea sănătății. Ce se va schimba până în 2031",
+        "link": "https://www.mediafax.ro/politic/alexandru-rogobete-anunta-o-noua-strategie-pentru-digitalizarea-sanatatii-ce-se-va-schimba-pana-in-2031-23842675"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Adio dosare medicale plimbate între spitale? Ministerul Sănătății pregătește o nouă strategie bazată pe digitalizare",
+        "link": "https://adevarul.ro/stiri-interne/sanatate/adio-dosare-medicale-plimbate-intre-spitale-2571355.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Többé nem kell magunkkal vinni a leleteinket? – Bemutatták az egészségügy ötéves digitalizációs tervét",
+        "link": "https://maszol.ro/belfold/Tobbe-nem-kell-magunkkal-vinni-a-leleteinket-Bemutattak-az-egeszsegugy-oteves-digitalizacios-tervet"
+      }
+    ],
+    "published_at": 1794583994,
+    "title_hu": "Alexandru Rogobete anunță o nouă strategie pentru digitalizarea sănătății. Ce se va schimba până în 2031",
+    "lead_hu": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și red...",
+    "content_hu": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și reducerea raportărilor repetitive pentru medici, a anunțat ministrul Sănătății, Alexandru Rogobete.",
+    "title_ro": "Alexandru Rogobete anunță o nouă strategie pentru digitalizarea sănătății. Ce se va schimba până în 2031",
+    "lead_ro": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și red...",
+    "content_ro": "Strategia Națională de Digitalizare în Sănătate 2027-2031 a fost publicată în transparență decizională. Documentul prevede dezvoltarea Dosarului Electronic de Sănătate, extinderea telemedicinei și reducerea raportărilor repetitive pentru medici, a anunțat ministrul Sănătății, Alexandru Rogobete.",
     "importance_score": 33.0,
     "top_rank": 60,
     "is_top_hero": false,
@@ -6404,7 +6409,7 @@
     "title_ro": "Rusia și-a dublat exporturile de motorină în octombrie",
     "lead_ro": "În octombrie, Rusia a exportat 271.000 de barili de motorină pe zi, față de 135.000 în septembrie, potrivit datelor Kpler. Nicio livrare nu a ajuns în Statele Unite, în timp ce transporturile către Brazilia, Turcia și alte regiuni au crescut.",
     "content_ro": "• **Exporturile rusești de motorină au crescut puternic în octombrie:** datele Kpler indică livrări de 271.000 de barili pe zi, comparativ cu 135.000 în luna precedentă. Volumul raportat a ajuns astfel la aproximativ dublul nivelului din septembrie.\n\n• **Piața americană nu a primit motorină din Rusia:** informațiile prezentate de Financial Times arată că, după măsurile legate de ridicarea sancțiunilor din sectorul combustibililor, nu a fost înregistrată nicio livrare către SUA. În schimb, exporturile spre Brazilia, Turcia și alte destinații au avansat.\n\n• **Înaintea creșterii livrărilor, Washingtonul a cerut Kievului să oprească atacurile asupra rafinăriilor rusești:** Donald Trump a anunțat pe 9 octombrie că a ajuns la o înțelegere cu Vladimir Putin. Scopul declarat a fost sporirea cantității de combustibil disponibile pe piețele americană și internațională.\n\n• **Un reprezentant al Casei Albe a legat oferta globală mai mare de posibile prețuri mai mici:** acesta a declarat pentru Financial Times că beneficiile ar putea reveni atât consumatorilor americani, cât și celor din alte țări. Argumentul administrației se bazează pe suplimentarea motorinei disponibile pe piața mondială.\n\n• **Cel puțin două petroliere care aveau inițial ca destinație SUA și-au modificat traseul:** această schimbare apare în informațiile de monitorizare a navelor. Sursa nu precizează porturile în care au ajuns respectivele transporturi.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 120,
     "is_top_hero": false,
     "is_top_list": true
@@ -6442,7 +6447,7 @@
     "title_ro": "Zidane suferă prima înfrângere ca selecționer al Franței",
     "lead_ro": "Franța a pierdut cu 3-1 în fața Italiei pe San Siro, înregistrând primul eșec de când Zinedine Zidane conduce echipa națională. Selecționerul a spus că rezultatul nu justifică schimbări făcute în grabă, dar a indicat apărarea drept un aspect care trebuie îmbunătățit.",
     "content_ro": "• **Franța a înregistrat prima înfrângere din mandatul lui Zidane** în partida disputată la Milano pe 12 noiembrie. Italia s-a impus cu 3-1 pe San Siro, iar arbitrul întâlnirii a fost românul Istvan Kovacs.\n\n• **Echipa franceză a avut un volum important de joc ofensiv**, potrivit relatării partidei: a păstrat mingea în proporție de 60%, a expediat 18 șuturi și a trimis de două ori balonul în bară. Aceste ocazii nu au schimbat însă rezultatul final.\n\n• **Zidane a identificat apărarea drept principala problemă.** El a apreciat că formația sa a construit bine atacurile și a controlat posesia în prima repriză, dar după pauză a câștigat mai puține dueluri și și-a pierdut organizarea după al doilea gol al Italiei.\n\n• **Selecționerul nu consideră că un singur rezultat cere modificări imediate.** El a descris înfrângerea ca pe o etapă din evoluția echipei și a spus că analiza trebuie să se concentreze asupra jocului fără minge și a scăderii randamentului defensiv.\n\n• **Franța ocupă locul al doilea în Grupa A1 înaintea ultimei etape.** Pe 15 noiembrie, echipa va primi vizita Turciei, în timp ce Italia va juca în deplasare cu Belgia. Zidane a spus că speră ca Kylian Mbappé să fie disponibil pentru partida de duminică.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 121,
     "is_top_hero": false,
     "is_top_list": true
@@ -7657,6 +7662,93 @@
     "top_rank": 155,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_6b82641bb2",
+    "slug": "cumparaturi-online-fara-capcane-ce-schimbari-propune-comisia-europeana-pentru-cl-6b8264",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-b/b4b269b5-45a5-40ec-9ab0-19c956a12c90/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Cumpărături online fără capcane: ce schimbări propune Comisia Europeană pentru clienți și comercianți",
+        "link": "https://adevarul.ro/economie/cumparaturi-online-fara-capcane-ce-schimbari-2570920.html"
+      }
+    ],
+    "published_at": 1794605785,
+    "title_hu": "Cumpărături online fără capcane: ce schimbări propune Comisia Europeană pentru clienți și comercianți",
+    "lead_hu": "Abonamente mai ușor de anulat, prețuri mai clare și posibilitatea de a discuta cu un angajat, nu doar cu un chatbot: acestea sunt câteva dintre schimbările propuse de Comisia Europeană pentru comerțul...",
+    "content_hu": "Abonamente mai ușor de anulat, prețuri mai clare și posibilitatea de a discuta cu un angajat, nu doar cu un chatbot: acestea sunt câteva dintre schimbările propuse de Comisia Europeană pentru comerțul digital. Măsurile nu se aplică încă și urmează să fie analizate de Parlamentul European și Consiliul UE.",
+    "title_ro": "Cumpărături online fără capcane: ce schimbări propune Comisia Europeană pentru clienți și comercianți",
+    "lead_ro": "Abonamente mai ușor de anulat, prețuri mai clare și posibilitatea de a discuta cu un angajat, nu doar cu un chatbot: acestea sunt câteva dintre schimbările propuse de Comisia Europeană pentru comerțul...",
+    "content_ro": "Abonamente mai ușor de anulat, prețuri mai clare și posibilitatea de a discuta cu un angajat, nu doar cu un chatbot: acestea sunt câteva dintre schimbările propuse de Comisia Europeană pentru comerțul digital. Măsurile nu se aplică încă și urmează să fie analizate de Parlamentul European și Consiliul UE.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_ecbb86a613",
+    "slug": "csm-oradea-revine-acasa-dupa-trei-saptamani-ros-albastrii-primesc-vizita-timisoa-ecbb86",
+    "tags": [
+      "erdely"
+    ],
+    "category": "Erdély",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "CSM Oradea revine acasă după trei săptămâni! Roș-albaștrii primesc vizita Timișoarei, sâmbătă, la Oradea Arena",
+        "link": "https://www.ebihoreanul.ro/stiri/csm-oradea-revine-acasa-dupa-trei-saptamani-ros-albastrii-primesc-vizita-timisoarei-sambata-la-oradea-arena-206590.html"
+      }
+    ],
+    "published_at": 1794605580,
+    "title_hu": "CSM Oradea revine acasă după trei săptămâni! Roș-albaștrii primesc vizita Timișoarei, sâmbătă, la Oradea Arena",
+    "lead_hu": "După patru meciuri consecutive disputate în deplasare, CSM CSU Raiffeisen Oradea revine în fața propriilor suporteri. Roș-albaștrii primesc sâmbătă, la Oradea Arena, vizita formației SCM Politehnica T...",
+    "content_hu": "După patru meciuri consecutive disputate în deplasare, CSM CSU Raiffeisen Oradea revine în fața propriilor suporteri. Roș-albaștrii primesc sâmbătă, la Oradea Arena, vizita formației SCM Politehnica Timișoara, într-o partidă din etapa a 7-a a Ligii Naționale de baschet masculin, în care bihorenii au nevoie de victorie pentru a-și îmbunătăți bilanțul din campionat. Disputa este programată de la ora 17:00.",
+    "title_ro": "CSM Oradea revine acasă după trei săptămâni! Roș-albaștrii primesc vizita Timișoarei, sâmbătă, la Oradea Arena",
+    "lead_ro": "După patru meciuri consecutive disputate în deplasare, CSM CSU Raiffeisen Oradea revine în fața propriilor suporteri. Roș-albaștrii primesc sâmbătă, la Oradea Arena, vizita formației SCM Politehnica T...",
+    "content_ro": "După patru meciuri consecutive disputate în deplasare, CSM CSU Raiffeisen Oradea revine în fața propriilor suporteri. Roș-albaștrii primesc sâmbătă, la Oradea Arena, vizita formației SCM Politehnica Timișoara, într-o partidă din etapa a 7-a a Ligii Naționale de baschet masculin, în care bihorenii au nevoie de victorie pentru a-și îmbunătăți bilanțul din campionat. Disputa este programată de la ora 17:00.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_37d39911db",
+    "slug": "dispozitiv-exploziv-gasit-la-dublin-in-apropiere-de-locul-in-care-nicusor-dan-si-37d399",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Dispozitiv exploziv găsit la Dublin, în apropiere de locul în care Nicușor Dan și alți lideri luaseră cina cu o zi în urmă",
+        "link": "https://hotnews.ro/dispozitiv-exploziv-gasit-la-dublin-in-apropiere-de-locul-in-care-au-luat-cina-lideri-mondiali-cu-o-zi-in-urma-2403982"
+      }
+    ],
+    "published_at": 1794605547,
+    "title_hu": "Dispozitiv exploziv găsit la Dublin, în apropiere de locul în care Nicușor Dan și alți lideri luaseră cina cu o zi în urmă",
+    "lead_hu": "Un dispozitiv exploziv a fost neutralizat de experții armatei irlandeze, vineri, într-o clădire de birouri din centrul Dublinului, situată în apropiere de locul unde lideri mondiali cinaseră în ziua p...",
+    "content_hu": "Un dispozitiv exploziv a fost neutralizat de experții armatei irlandeze, vineri, într-o clădire de birouri din centrul Dublinului, situată în apropiere de locul unde lideri mondiali cinaseră în ziua precedentă, potrivit Reuters. Poliția irlandeză a declarat că a intervenit vineri, după ce a primit o sesizare despre un dispozitiv suspect în clădirea din Merrion Square. …",
+    "title_ro": "Dispozitiv exploziv găsit la Dublin, în apropiere de locul în care Nicușor Dan și alți lideri luaseră cina cu o zi în urmă",
+    "lead_ro": "Un dispozitiv exploziv a fost neutralizat de experții armatei irlandeze, vineri, într-o clădire de birouri din centrul Dublinului, situată în apropiere de locul unde lideri mondiali cinaseră în ziua p...",
+    "content_ro": "Un dispozitiv exploziv a fost neutralizat de experții armatei irlandeze, vineri, într-o clădire de birouri din centrul Dublinului, situată în apropiere de locul unde lideri mondiali cinaseră în ziua precedentă, potrivit Reuters. Poliția irlandeză a declarat că a intervenit vineri, după ce a primit o sesizare despre un dispozitiv suspect în clădirea din Merrion Square. …",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_cdab504ea3",
