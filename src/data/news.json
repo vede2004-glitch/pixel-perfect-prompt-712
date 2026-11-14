@@ -604,7 +604,7 @@
     "title_ro": "Creștere trimestrială a PIB-ului, iar ambele reactoare de la Cernavodă funcționează",
     "lead_ro": "Economia României a avansat puternic în trimestrul al treilea din 2026 față de cele trei luni precedente, însă bilanțul primelor nouă luni rămâne slab. Între timp, ambele reactoare de la Cernavodă au revenit în rețea, iar producția internă de electricitate a depășit ușor consumul.",
     "content_ro": "• **Avansul trimestrial nu a eliminat reculul înregistrat pe ansamblul anului.** PIB-ul României a crescut cu 2,1% în trimestrul al treilea față de perioada precedentă. Pentru primele nouă luni, datele publicate nu sunt identice: cifra prezentată anterior indică o scădere de 0,3%, în timp ce o sinteză televizată recentă menționează un minus de 1%. Prognoza anuală rămâne la o contracție de 0,4%.\n\n• **Investițiile susțin activitatea, dar industria și consumul rămân vulnerabile.** Slăbiciunea industriei, majorările de taxe și impozite, precum și inflația pot limita creșterea. Volumul lucrărilor de construcții din august a fost cu 40,5% peste nivelul din anul anterior, iar investițiile publice din primele nouă luni s-au apropiat de 108 miliarde de lei. CEBR estimează pentru 2040 un PIB de 764 de miliarde de dolari și locul 40 în clasamentul mondial.\n\n• **Producția de electricitate a crescut, iar exporturile s-au extins considerabil.** Între ianuarie și septembrie, producția netă a urcat cu 1%, consumul intern net a coborât cu 3%, exporturile au avansat cu 43%, iar importurile cu 4%. Energia hidro a crescut cu 10%, în timp ce contribuția termocentralelor și cea nucleară au scăzut cu 3%, respectiv 31%.\n\n• **Unitatea 1 a fost reconectată în dimineața zilei de 14 noiembrie.** Reactorul 2 revenise în funcțiune pe 11 noiembrie; sâmbătă dimineață, cele două unități furnizau împreună 997 MW, față de o capacitate nominală cumulată de aproximativ 1.400 MW. Puterea Unității 1 urma să crească treptat, atingerea nivelului maxim fiind așteptată duminică. Opririle anterioare au fost provocate de secetă și de nivelul scăzut al Dunării, apoi de o defecțiune la o instalație nenucleară.\n\n• **La prânz, producția internă depășea consumul de electricitate.** Sistemul genera aproximativ 6.085 MW, față de un consum de 5.973 MW, ceea ce permitea exportul unei cantități mici de energie. Producția nucleară era de 983 MW, adică 16,13% din total. Centralele eoliene, fotovoltaice și cele pe gaz contribuiau, la rândul lor, semnificativ la producția națională.",
-    "importance_score": 275.0,
+    "importance_score": 268.0,
     "top_rank": 3,
     "is_top_hero": false,
     "is_top_list": true
@@ -1345,6 +1345,85 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_f6752fea56",
+    "slug": "lucian-morar-kilepett-a-psd-bol-a-kzigazgatasi-atszervezes-miatt-f6752f",
+    "tags": [
+      "psd",
+      "maramures",
+      "reforma-administrativa",
+      "iasi",
+      "pnl"
+    ],
+    "fingerprint": "f77eb71f7fa8e9993246a7e0941c1cc5",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Un deputat PSD îşi anunţă demisia din partid, din cauza reformei administrativ-teritoriale vizate de social-democrați",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/un-deputat-psd-isi-anunta-demisia-din-partid-din-cauza-reformei-administrativ-teritoriale-vizate-de-social-democrati-4035399"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Un deputat PSD îşi anunţă demisia din partid din cauza reformei administrativ-teritoriale",
+        "link": "https://hotnews.ro/un-deputat-psd-isi-anunta-demisia-din-partid-din-cauza-reformei-administrativ-teritoriale-2403701"
+      },
+      {
+        "source": "Mediafax",
+        "title": "„Nu voi fi niciodată de acord cu un asemenea plan”. Un deputat PSD demisionează din partid din cauza reformei administrativ-teritoriale",
+        "link": "https://www.mediafax.ro/politic/nu-voi-fi-niciodata-de-acord-cu-un-asemenea-plan-un-deputat-psd-demisioneaza-din-partid-pe-tema-reformei-administrativ-teritoriale-23842694"
+      },
+      {
+        "source": "G4Media",
+        "title": "Un deputat PSD demisionează din partid din cauza reformei administrativ-teritoriale",
+        "link": "https://www.g4media.ro/un-deputat-psd-demisioneaza-din-partid-din-cauza-reformei-administrativ-teritoriale.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "PNL Iaşi anunţă că rupe orice colaborare politică în municipiu cu PSD şi iniţiază procedura revocării din funcţie a viceprimarului PSD",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-iasi-anunta-ca-rupe-orice-colaborare-politica-in-municipiu-cu-psd-si-initiaza-procedura-de-revocare-din-functie-a-viceprimarului-ps-4036623"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "„Separarea de PSD este definitivă”. PNL Iași anunță proceduri pentru revocarea viceprimarului PSD din municipiu",
+        "link": "https://hotnews.ro/separarea-de-psd-este-definitiva-pnl-iasi-anunta-proceduri-pentru-revocarea-viceprimarului-psd-din-municipiu-2404460"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Supărat că i-ar putea dispărea județul, un deputat de Maramureș și-a dat demisia din PSD: „Mă voi opune cu fermitate!”",
+        "link": "https://adevarul.ro/politica/suparat-ca-i-ar-putea-disparea-judetul-un-deputat-2571316.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un deputat PSD a demisionat din partid, din cauza reformei administrativ-teritoriale: „Mă declar dizident pentru Maramureş!”",
+        "link": "https://stirileprotv.ro/un-deputat-psd-a-demisionat-din-partid-din-cauza-reformei-administrativ-teritoriale-ma-declar-dizident-pentru-maramures.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "PNL Iaşi rupe definitiv colaborarea politică cu PSD în municipiu şi cere revocarea viceprimarului social-democrat",
+        "link": "https://adevarul.ro/politica/pnl-iasi-rupe-definitiv-colaborarea-politica-cu-2571520.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "PNL rupe colaborarea cu PSD la Iași și cere revocarea viceprimarului social-democrat. Muraru: „Nu putem fi adversarii PSD la București și partenerii săi politici la Iași”",
+        "link": "https://www.mediafax.ro/politic/pnl-rupe-colaborarea-cu-psd-la-iasi-si-cere-revocarea-viceprimarului-social-democrat-muraru-nu-putem-fi-adversarii-psd-la-bucuresti-si-partenerii-sai-politici-la-iasi-23843031"
+      }
+    ],
+    "published_at": 1794667332,
+    "title_hu": "Lucian Morar kilépett a PSD-ből a közigazgatási átszervezés miatt",
+    "lead_hu": "Lucian Morar november 13-án bejelentette, hogy távozik a PSD-ből, mert ellenzi Máramaros megye esetleges közigazgatási megszüntetését. A képviselő a megye érdekei melletti kiállást nevezte döntése okának; közben a PNL Iași a PSD-vel való helyi együttműködés lezárásáról és a PSD-s alpolgármester leváltásának kezdeményezéséről döntött.",
+    "content_hu": "• **Morar kilépését a megye védelmével indokolta.** A PSD parlamenti képviselője november 13-án jelentette be távozását, és azt mondta, nem akart elszakadni a párttól, de szükségesnek tartotta, hogy figyelmeztetést adjon. Közölte: Máramarosért politikai diszidensként folytatja, és ellenzi a megye közigazgatási megszüntetését.\n\n• **A nyilvánosságban tárgyalt terv Máramaros átsorolásának lehetőségét veti fel.** Morar szerint az elképzelés a megye Kolozs régióba olvasztását is tartalmazhatja. A korábban ismertetett forgatókönyv országosan 1600–1700 község megszűnésével is számolhat; ezek egyelőre tervezett lehetőségek, nem végleges döntések.\n\n• **A képviselő a helyi vélemény és identitás figyelembevételét sürgeti.** Arra hivatkozott, hogy Máramaros történelme, hagyományai és lakóinak akarata nem hagyható figyelmen kívül. Bírálta a megye meghatározó politikusainak hallgatását, amelyet a pártvezetésekkel való konfliktus kerülésével magyarázott.\n\n• **Gabriel Zetea is elutasítja a megye összevonását.** A PSD alelnöke és a Máramaros megyei tanács elnöke szintén ellenzi a felvetett átszervezési lehetőséget. A reformról nem ismert végleges határozat.\n\n• **Iași-ban külön politikai konfliktus bontakozott ki a PSD és a PNL között.** A liberálisok megyei vezetése egyhangúlag a városi együttműködés megszüntetéséről határozott, és kezdeményezi Roxana Necula PSD-s alpolgármester leváltását. A tervezett javaslatot a helyi tanács elé terjesztik; Neculát 2024. december 16-án választották meg, a PNL, a PSD és a PMP tanácsosainak támogatásával, az AUR képviselőinek szavazataival.",
+    "title_ro": "Lucian Morar a părăsit PSD din cauza reorganizării administrative",
+    "lead_ro": "Lucian Morar a anunțat pe 13 noiembrie că pleacă din PSD, contestând posibilitatea desființării administrative a județului Maramureș. Deputatul a prezentat decizia drept un semnal de alarmă și o formă de susținere a intereselor locale. Separat, PNL Iași a decis să încheie colaborarea locală cu PSD și să înceapă demersurile pentru înlocuirea viceprimarului social-democrat.",
+    "content_ro": "• **Morar și-a motivat plecarea prin opoziția față de dispariția administrativă a județului.** Deputatul PSD a făcut anunțul pe 13 noiembrie și a spus că nu și-a dorit să părăsească formațiunea, dar a considerat necesar să transmită un semnal de alarmă. El a declarat că va acționa ca disident pentru Maramureș și că respinge planul de desființare a județului.\n\n• **Scenariul discutat public ar putea include alipirea Maramureșului la regiunea Cluj.** Morar a descris această variantă ca parte a unei posibile reorganizări administrative. Planul prezentat anterior ar putea duce, la nivel național, și la dispariția a 1.600–1.700 de comune; nu este însă vorba despre o decizie finală.\n\n• **Deputatul cere ca istoria și voința locuitorilor să fie luate în considerare.** El a invocat identitatea și tradițiile județului și a criticat lipsa de reacție a unor politicieni locali, pe care a asociat-o cu teama de a intra în conflict cu conducerile partidelor. Gabriel Zetea, vicepreședinte PSD și președinte al Consiliului Județean Maramureș, s-a pronunțat, la rândul său, împotriva comasării.\n\n• **PNL Iași a decis separat să întrerupă colaborarea politică locală cu PSD.** Conducerea județeană a liberalilor a hotărât în unanimitate să inițieze procedura de revocare a viceprimarului PSD Roxana Necula, printr-un proiect depus în Consiliul Local. Necula a fost aleasă în funcție la 16 decembrie 2024, cu sprijinul consilierilor PNL, PSD și PMP, precum și al celor trei reprezentanți AUR.",
+    "importance_score": 120.0,
+    "top_rank": 11,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_de8fac4531",
     "slug": "milliardos-keszpenzt-foglaltak-le-a-sesztak-ugy-nyomozasaban-de8fac",
     "tags": [
@@ -1419,7 +1498,7 @@
     "lead_ro": "În zilele de 12 și 13 noiembrie, anchetatorii au găsit numerar în valoare de aproximativ 6,45 miliarde de forinți în Budapesta și în regiunile Pest, Békés și Nógrád. Fostul ministru Miklós Seszták respinge acuzațiile, iar avocatul său afirmă că proprietarul banilor nu a fost stabilit.",
     "content_ro": "• **Perchezițiile de două zile au dus la recuperarea a aproape 6,45 miliarde de forinți în numerar.** Suma cuprinde 5,071 miliarde de forinți, peste 2,65 milioane de euro și 1,25 milioane de dolari, găsite în 12 și 13 noiembrie la Budapesta și în regiunile Pest, Békés și Nógrád. Banii erau îngropați în zone împădurite ori ascunși în clădiri agricole, depozite, locuințe și un seif aflat într-un loc izolat.\n\n• **Nu se știe încă cui aparține numerarul descoperit.** Autoritățile nu au precizat proprietarii imobilelor cercetate și nici cuantumul găsit în fiecare locație. Avocatul Gábor Papp a declarat că dosarul include mai mulți suspecți și că găsirea banilor nu dovedește că aceștia îi aparțin clientului său.\n\n• **Seszták este suspectat că ar fi primit peste 37 de milioane de dolari sub formă de mită și comisioane ilegale.** Suspiciunile vizează achiziții de autobuze și proiecte de construcții. Fostul politician a condus Ministerul Dezvoltării Naționale în perioada 2014–2018, a fost arestat preventiv în septembrie și neagă acuzațiile de corupție.\n\n• **Numărarea banilor la Trezoreria Ungariei a durat opt ore.** Potrivit ministrului de Finanțe, Kármán András, 12 angajați au folosit cinci aparate de numărat. La investigație au participat polițiștii de la Biroul Național de Investigații și de la Poliția de Intervenție, cu sprijinul autorității fiscale și vamale.\n\n• **Ancheta se desfășoară în contextul campaniei anticorupție promovate de premierul Péter Magyar.** Digi24 a plasat cazul după înfrângerea electorală a lui Viktor Orbán din aprilie 2026. Imaginile publicate de autorități arată recuperarea unor pachete de bani ascunse; printre bancnote se aflau și cupiuri de 500 de euro, a căror emitere a fost oprită în 2019, dar care rămân valabile.",
     "importance_score": 115.0,
-    "top_rank": 11,
+    "top_rank": 12,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1498,75 +1577,6 @@
     "lead_ro": "Casa Albă a confirmat că Donald Trump, Xi Jinping și Vladimir Putin vor purta joi, în marja summitului APEC, discuții trilaterale la Shenzhen. Pe agenda reuniunii ar urma să se afle armele nucleare și Iranul, în timp ce războiul din Ucraina nu este așteptat să fie abordat.",
     "content_ro": "• **Liderii se vor reuni joia viitoare.** Casa Albă a confirmat organizarea unei întâlniri între Donald Trump, Xi Jinping și Vladimir Putin. Discuțiile sunt programate la Shenzhen, în sudul Chinei, în cadrul summitului APEC din 18–19 noiembrie. Ar putea fi prima reuniune trilaterală la acest nivel între cele trei țări.\n\n• **Armele nucleare se numără printre temele centrale.** Trump intenționează să discute despre limitarea arsenalelor și împiedicarea răspândirii armelor atomice. Ultimul acord de control nuclear dintre SUA și Rusia a expirat în februarie, în timp ce China și-a mărit stocul. Potrivit Institutului Internațional de Cercetare a Păcii de la Stockholm, Rusia deține cel mai mare arsenal, urmată de Statele Unite și China. Washingtonul nu estimează că reuniunea va produce un acord, ci o consideră începutul unor discuții.\n\n• **Iranul ar putea fi discutat, Ucraina nu este inclusă în plan.** Un oficial american a spus că Trump ar putea ridica problema conflictului iranian. În schimb, administrația SUA tratează războiul din Ucraina prin negocieri separate cu Kievul și Moscova, iar Beijingul nu este parte a acestui proces. Volodimir Zelenski a comparat reuniunea anunțată cu conferința de la Ialta din 1945.\n\n• **Trump are programată o discuție separată cu Xi, nu și cu Putin.** Întâlnirea bilaterală cu liderul chinez va fi urmată de un prânz de lucru și va fi a patra lor reuniune față în față de la revenirea lui Trump la Casa Albă, anul trecut. Elon Musk va face parte din delegația americană, dar nu va participa la discuția celor trei lideri. Nici utilizarea în Ucraina a serviciului de comunicații prin satelit al SpaceX nu este așteptată pe agendă. Beijingul și Moscova nu au confirmat încă oficial participarea. Pentru Putin, reuniunea ar marca o nouă apariție internațională după izolarea sa de către Occident în urma invaziei din 2022.",
     "importance_score": 108.0,
-    "top_rank": 12,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_f6752fea56",
-    "slug": "lucian-morar-kilepett-a-psd-bol-a-kzigazgatasi-atszervezes-miatt-f6752f",
-    "tags": [
-      "psd",
-      "maramures",
-      "reforma-administrativa",
-      "iasi",
-      "pnl"
-    ],
-    "fingerprint": "f77eb71f7fa8e9993246a7e0941c1cc5",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Un deputat PSD îşi anunţă demisia din partid, din cauza reformei administrativ-teritoriale vizate de social-democrați",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/un-deputat-psd-isi-anunta-demisia-din-partid-din-cauza-reformei-administrativ-teritoriale-vizate-de-social-democrati-4035399"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Un deputat PSD îşi anunţă demisia din partid din cauza reformei administrativ-teritoriale",
-        "link": "https://hotnews.ro/un-deputat-psd-isi-anunta-demisia-din-partid-din-cauza-reformei-administrativ-teritoriale-2403701"
-      },
-      {
-        "source": "Mediafax",
-        "title": "„Nu voi fi niciodată de acord cu un asemenea plan”. Un deputat PSD demisionează din partid din cauza reformei administrativ-teritoriale",
-        "link": "https://www.mediafax.ro/politic/nu-voi-fi-niciodata-de-acord-cu-un-asemenea-plan-un-deputat-psd-demisioneaza-din-partid-pe-tema-reformei-administrativ-teritoriale-23842694"
-      },
-      {
-        "source": "G4Media",
-        "title": "Un deputat PSD demisionează din partid din cauza reformei administrativ-teritoriale",
-        "link": "https://www.g4media.ro/un-deputat-psd-demisioneaza-din-partid-din-cauza-reformei-administrativ-teritoriale.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "PNL Iaşi anunţă că rupe orice colaborare politică în municipiu cu PSD şi iniţiază procedura revocării din funcţie a viceprimarului PSD",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-iasi-anunta-ca-rupe-orice-colaborare-politica-in-municipiu-cu-psd-si-initiaza-procedura-de-revocare-din-functie-a-viceprimarului-ps-4036623"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "„Separarea de PSD este definitivă”. PNL Iași anunță proceduri pentru revocarea viceprimarului PSD din municipiu",
-        "link": "https://hotnews.ro/separarea-de-psd-este-definitiva-pnl-iasi-anunta-proceduri-pentru-revocarea-viceprimarului-psd-din-municipiu-2404460"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Supărat că i-ar putea dispărea județul, un deputat de Maramureș și-a dat demisia din PSD: „Mă voi opune cu fermitate!”",
-        "link": "https://adevarul.ro/politica/suparat-ca-i-ar-putea-disparea-judetul-un-deputat-2571316.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un deputat PSD a demisionat din partid, din cauza reformei administrativ-teritoriale: „Mă declar dizident pentru Maramureş!”",
-        "link": "https://stirileprotv.ro/un-deputat-psd-a-demisionat-din-partid-din-cauza-reformei-administrativ-teritoriale-ma-declar-dizident-pentru-maramures.html"
-      }
-    ],
-    "published_at": 1794667332,
-    "title_hu": "Lucian Morar kilépett a PSD-ből a közigazgatási átszervezés miatt",
-    "lead_hu": "Lucian Morar november 13-án bejelentette, hogy távozik a PSD-ből, mert ellenzi Máramaros megye esetleges közigazgatási megszüntetését. A képviselő a megye érdekei melletti kiállást nevezte döntése okának; közben a PNL Iași a PSD-vel való helyi együttműködés lezárásáról és a PSD-s alpolgármester leváltásának kezdeményezéséről döntött.",
-    "content_hu": "• **Morar kilépését a megye védelmével indokolta.** A PSD parlamenti képviselője november 13-án jelentette be távozását, és azt mondta, nem akart elszakadni a párttól, de szükségesnek tartotta, hogy figyelmeztetést adjon. Közölte: Máramarosért politikai diszidensként folytatja, és ellenzi a megye közigazgatási megszüntetését.\n\n• **A nyilvánosságban tárgyalt terv Máramaros átsorolásának lehetőségét veti fel.** Morar szerint az elképzelés a megye Kolozs régióba olvasztását is tartalmazhatja. A korábban ismertetett forgatókönyv országosan 1600–1700 község megszűnésével is számolhat; ezek egyelőre tervezett lehetőségek, nem végleges döntések.\n\n• **A képviselő a helyi vélemény és identitás figyelembevételét sürgeti.** Arra hivatkozott, hogy Máramaros történelme, hagyományai és lakóinak akarata nem hagyható figyelmen kívül. Bírálta a megye meghatározó politikusainak hallgatását, amelyet a pártvezetésekkel való konfliktus kerülésével magyarázott.\n\n• **Gabriel Zetea is elutasítja a megye összevonását.** A PSD alelnöke és a Máramaros megyei tanács elnöke szintén ellenzi a felvetett átszervezési lehetőséget. A reformról nem ismert végleges határozat.\n\n• **Iași-ban külön politikai konfliktus bontakozott ki a PSD és a PNL között.** A liberálisok megyei vezetése egyhangúlag a városi együttműködés megszüntetéséről határozott, és kezdeményezi Roxana Necula PSD-s alpolgármester leváltását. A tervezett javaslatot a helyi tanács elé terjesztik; Neculát 2024. december 16-án választották meg, a PNL, a PSD és a PMP tanácsosainak támogatásával, az AUR képviselőinek szavazataival.",
-    "title_ro": "Lucian Morar a părăsit PSD din cauza reorganizării administrative",
-    "lead_ro": "Lucian Morar a anunțat pe 13 noiembrie că pleacă din PSD, contestând posibilitatea desființării administrative a județului Maramureș. Deputatul a prezentat decizia drept un semnal de alarmă și o formă de susținere a intereselor locale. Separat, PNL Iași a decis să încheie colaborarea locală cu PSD și să înceapă demersurile pentru înlocuirea viceprimarului social-democrat.",
-    "content_ro": "• **Morar și-a motivat plecarea prin opoziția față de dispariția administrativă a județului.** Deputatul PSD a făcut anunțul pe 13 noiembrie și a spus că nu și-a dorit să părăsească formațiunea, dar a considerat necesar să transmită un semnal de alarmă. El a declarat că va acționa ca disident pentru Maramureș și că respinge planul de desființare a județului.\n\n• **Scenariul discutat public ar putea include alipirea Maramureșului la regiunea Cluj.** Morar a descris această variantă ca parte a unei posibile reorganizări administrative. Planul prezentat anterior ar putea duce, la nivel național, și la dispariția a 1.600–1.700 de comune; nu este însă vorba despre o decizie finală.\n\n• **Deputatul cere ca istoria și voința locuitorilor să fie luate în considerare.** El a invocat identitatea și tradițiile județului și a criticat lipsa de reacție a unor politicieni locali, pe care a asociat-o cu teama de a intra în conflict cu conducerile partidelor. Gabriel Zetea, vicepreședinte PSD și președinte al Consiliului Județean Maramureș, s-a pronunțat, la rândul său, împotriva comasării.\n\n• **PNL Iași a decis separat să întrerupă colaborarea politică locală cu PSD.** Conducerea județeană a liberalilor a hotărât în unanimitate să inițieze procedura de revocare a viceprimarului PSD Roxana Necula, printr-un proiect depus în Consiliul Local. Necula a fost aleasă în funcție la 16 decembrie 2024, cu sprijinul consilierilor PNL, PSD și PMP, precum și al celor trei reprezentanți AUR.",
-    "importance_score": 100.0,
     "top_rank": 13,
     "is_top_hero": false,
     "is_top_list": true
@@ -2420,6 +2430,54 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_a88c2359fc",
+    "slug": "oradan-hazasodott-ssze-ilie-bolojan-lanya-es-daniel-bota-a88c23",
+    "tags": [
+      "oradea",
+      "ilie-bolojan",
+      "casatorie",
+      "daniel-bota"
+    ],
+    "fingerprint": "619d47cc278772928e7c71adf88d21fc",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Nuntă în familia lui Ilie Bolojan. Fiica cea mare a fostului premier se căsătorește la Oradea cu un fost fotbalist",
+        "link": "https://www.mediafax.ro/social/nunta-in-familia-lui-ilie-bolojan-fiica-cea-mare-a-fostului-premier-se-casatoreste-la-oradea-cu-un-fost-fotbalist-23842946"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ilie Bolojan este socru mic: fiica cea mare a fostului premier se căsătorește la Oradea. Cine este alesul",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/ilie-bolojan-este-socru-mic-fiica-cea-mare-a-2571510.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Nuntă cu fast în familia lui Ilie Bolojan! Unde are loc evenimentul și cine sunt nașii fiicei sale",
+        "link": "https://www.cancan.ro/nunta-cu-fast-in-familia-lui-ilie-bolojan-unde-are-loc-evenimentul-si-cine-sunt-nasii-fiicei-sale-21547695"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ilie Bolojan a devenit socru mic. Fiica sa cea mare s-a căsătorit la Oradea. Cine este ginerele fostului premier",
+        "link": "https://www.digi24.ro/stiri/actualitate/ilie-bolojan-a-devenit-socru-mic-fiica-sa-cea-mare-s-a-casatorit-la-oradea-cine-este-ginerele-fostului-premier-4036645"
+      }
+    ],
+    "published_at": 1794665873,
+    "title_hu": "Oradán házasodott össze Ilie Bolojan lánya és Daniel Bota",
+    "lead_hu": "Lucia Maria Bolojan és Daniel Bota esküvőjét november 14-én tartották Oradén. A polgári szertartást Florin Birta polgármester vezette, a pár két nászaspárt választott.",
+    "content_hu": "• **Lucia Maria Bolojan és Daniel Bota november 14-én kötött házasságot Oradén.** A polgári ceremóniára a városházán került sor, Florin Birta polgármester közreműködésével. Birta beszámolója szerint a szertartáson a családtagok vettek részt, az esemény szűk körű volt.\n\n• **A pár két nászaspárt kért fel tanúnak.** Victor és Lavinia Puternity, valamint Andrei és Iulia Săftescu vállalta ezt a szerepet. Ilie Bolojan, Lucia Maria édesapja, partnerével, Ioana Fâșiével érkezett a városházára, és személyesen fogadta az odaérkező vendégeket.\n\n• **A vallási szertartás helyszínéül a Holdas templomot jelölték meg.** A városközpontban található templom után a fogadást a Palazzo Grand Hall rendezvénytermében tervezték megtartani; a helyszín hozzávetőleg négyszáz fő befogadására alkalmas. A beszámolók szerint a pár esküvőjének eseményei Oradén zajlottak.\n\n• **Lucia Maria Bolojan építészként dolgozik.** Oradén végezte középiskolai tanulmányait, majd a temesvári Politehnica Egyetem építészeti és urbanisztikai karán tanult. Pályája során több építészeti munkában vett részt, külföldi megbízói között olasz, brit, német, izraeli, spanyol és kelet-ázsiai partnerek is voltak.\n\n• **Daniel Bota korábban a FC Bihor labdarúgója volt, jelenleg vállalkozó.** Az Apuseni-hegység térségéből származik, és Luciával középiskolai évfolyamtársak voltak. A klub keretéhez 2013-ban tartozott, amikor a csapat a román másodosztályban szerepelt; sportolói pályafutása lezárása után az üzleti életben folytatta.",
+    "title_ro": "Fiica lui Ilie Bolojan s-a căsătorit la Oradea cu Daniel Bota",
+    "lead_ro": "Lucia Maria Bolojan și Daniel Bota și-au oficializat căsătoria pe 14 noiembrie, la Oradea. Ceremonia civilă a fost oficiată de primarul Florin Birta, iar cuplul a ales două perechi de nași.",
+    "content_ro": "• **Lucia Maria Bolojan și Daniel Bota s-au căsătorit pe 14 noiembrie, la Oradea.** Cununia civilă a avut loc la primărie și a fost oficiată de edilul Florin Birta. Potrivit acestuia, ceremonia s-a desfășurat într-un cadru restrâns, cu participarea familiei.\n\n• **Mirii au desemnat două perechi de nași.** Rolul le-a revenit lui Victor și Laviniei Puternity, respectiv lui Andrei și Iuliei Săftescu. Ilie Bolojan, tatăl miresei, a venit la primărie împreună cu partenera sa, Ioana Fâșie, și i-a întâmpinat pe oaspeți.\n\n• **Ceremonia religioasă era programată la Biserica cu Lună.** Lăcașul se află în centrul orașului, iar petrecerea urma să fie organizată la Palazzo Grand Hall. Sala de evenimente are o capacitate de aproximativ 400 de persoane, potrivit informațiilor publicate despre nuntă.\n\n• **Lucia Maria Bolojan este arhitectă.** A urmat liceul Emanuil Gojdu din Oradea, apoi Facultatea de Arhitectură și Urbanism a Universității Politehnica din Timișoara. În activitatea profesională a participat la proiecte de arhitectură și a colaborat cu beneficiari din Italia, Regatul Unit, Germania, Israel, Spania și Asia de Est.\n\n• **Daniel Bota a jucat fotbal la FC Bihor, iar în prezent activează în afaceri.** Originar din zona Munților Apuseni, el a fost coleg de liceu cu Lucia Maria. În 2013 făcea parte din lotul echipei, care evolua atunci în Liga a II-a; după retragerea din sport s-a orientat către mediul antreprenorial.",
+    "importance_score": 55.0,
+    "top_rank": 28,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_b62dca99a1",
     "slug": "ket-villamos-utkztt-ssze-bukarestben-egy-utas-megserult-b62dca",
     "tags": [
@@ -2468,7 +2526,7 @@
     "lead_ro": "Două tramvaie Imperio au intrat în coliziune frontală sâmbătă dimineață, la intersecția Calea 13 Septembrie cu Șoseaua Progresului din București. Un călător de 40 de ani a fost dus la spital, iar poliția verifică împrejurările accidentului.",
     "content_ro": "• **Accidentul s-a produs în jurul orei 06:00**, la intersecția bucureșteană dintre Calea 13 Septembrie și Șoseaua Progresului. Cele două vehicule Imperio s-au lovit frontal; informațiile inițiale indică faptul că unul dintre tramvaie a ajuns pe linia celui care venea din sens opus.\n\n• **Un pasager în vârstă de 40 de ani a avut nevoie de îngrijiri medicale.** Bărbatul a fost transportat la spital, iar primele date l-au descris ca fiind în stare stabilă. Vatmanii au fost verificați cu etilotestul, rezultatele fiind negative.\n\n• **O posibilă defecțiune a macazului este analizată, fără ca explicația să fie confirmată.** Potrivit primelor informații, mecanismul electric din intersecție ar fi putut funcționa necorespunzător și ar fi schimbat direcția unuia dintre tramvaie. Poliția continuă verificările pentru a stabili cauza exactă și succesiunea evenimentelor.\n\n• **Impactul a avariat ambele tramvaie și a perturbat circulația.** Traficul rutier a fost restricționat în ambele sensuri pe Calea 13 Septembrie, între Șoseaua Panduri și strada Mihail Sebastian. Au fost afectate și mai multe linii de tramvai și autobuz, însă circulația acestora a fost ulterior reluată.",
     "importance_score": 53.0,
-    "top_rank": 28,
+    "top_rank": 29,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2522,7 +2580,7 @@
     "lead_ro": "Opt companii românești participă la misiunea economică din Qatar, condusă de ministrul Daniel Zamfir, în perioada 15–18 noiembrie. Discuțiile vizează investiții și colaborări în domenii precum energia, transporturile și digitalizarea.",
     "content_ro": "• **Delegația română se află în Qatar în perioada 15–18 noiembrie.** Grupul este condus de Daniel Zamfir, ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului. Misiunea urmărește identificarea unor parteneri de afaceri și a unor oportunități de investiții în sectoare strategice.\n\n• **Agenda cuprinde energia, infrastructura portuară, transporturile, turismul și digitalizarea.** Reprezentanții români urmează să discute cu oficiali ai Autorității pentru Investiții a Qatarului, ai Camerei de Comerț și Industrie a Qatarului și ai Qatari Businessmen Association.\n\n• **Programul include întâlniri cu doi membri ai guvernului qatarez.** Daniel Zamfir are prevăzute întrevederi cu Sheikh Faisal bin Thani bin Faisal Al Thani, ministrul Comerțului și Industriei, și cu Saad bin Ali Al Kharji, ministrul Turismului. Delegația va discuta și cu reprezentanții Barzan Holdings, grup activ în industria de apărare și securitate.\n\n• **La misiune participă opt companii românești din sectorul public și privat.** Printre acestea se numără Comes, Rig Service, Socep, Humans.ai, Autovehicule DAC, Ana Hotels, Romarm și Compania Națională „Administrația Porturilor Maritime” Constanța. Companiile activează în domenii precum energia, operațiunile portuare, tehnologia, turismul și industria de apărare.\n\n• **Vizita are loc în paralel cu cea de-a 22-a Conferință a Plenipotențiarilor Uniunii Internaționale a Telecomunicațiilor.** Daniel Zamfir participă la reuniune, a cărei ediție precedentă a fost găzduită de București în 2022. Discuțiile despre turism continuă dialogul început la World Travel Market, la Londra.",
     "importance_score": 50.0,
-    "top_rank": 29,
+    "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2571,7 +2629,50 @@
     "lead_ro": "Vineri, în jurul orei 15:20, o mașină care se îndrepta spre Brașov a ajuns pe sensul opus și s-a izbit de un autobuz, în zona Predeal. Șoferița, în vârstă de 60 de ani și din județul Covasna, a murit, iar traficul a fost îngreunat pe durata cercetărilor.",
     "content_ro": "• **Coliziunea s-a produs vineri după-amiază pe DN1.** Autoturismul circula spre Brașov când a ajuns pe banda destinată vehiculelor care veneau din direcția opusă și a intrat în autobuz. Accidentul a avut loc în jurul orei 15:20, în apropiere de Predeal.\n\n• **Conducătoarea mașinii a murit în urma impactului.** Femeia avea 60 de ani și era din județul Covasna. Potrivit informațiilor disponibile, ea se afla singură în autoturism; sursele noi nu precizează dacă au existat răniți în autobuz.\n\n• **O cameră de supraveghere a surprins momentul accidentului.** Înregistrarea arată că mașina a părăsit banda pe care se deplasa și s-a ciocnit cu autobuzul care venea din sens contrar. Imaginile pot contribui la reconstituirea evenimentelor.\n\n• **Circulația s-a desfășurat cu dificultate cât timp au avut loc cercetările.** Polițiștii încearcă să stabilească împrejurările în care autoturismul a ajuns pe contrasens; cauza manevrei nu este încă lămurită.\n\n• **Accidentul este cercetat într-un dosar penal.** Ancheta vizează uciderea din culpă și se desfășoară sub coordonarea unui procuror din cadrul parchetului din Brașov. Autoritățile vor stabili măsurile legale după încheierea verificărilor.",
     "importance_score": 48.0,
-    "top_rank": 30,
+    "top_rank": 31,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_17ef486cba",
+    "slug": "t-europai-filmdijra-jelltek-cristian-mungiu-fjord-cimu-filmjet-17ef48",
+    "tags": [
+      "fjord",
+      "cristian-mungiu",
+      "sebastian-stan",
+      "premii-cinema"
+    ],
+    "fingerprint": "1d4ab43657a0b8125c03909d3bba42e3",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "FJORD, de Cristian Mungiu, cinci nominalizări la Premiile Academiei Europene de Film. Sebastian Stan, în cursa pentru cel mai bun actor",
+        "link": "https://www.digi24.ro/magazin/timp-liber/showbiz/fjord-de-cristian-mungiu-cinci-nominalizari-la-premiile-academiei-europene-de-film-sebastian-stan-in-cursa-pentru-cel-mai-bun-actor-4036577"
+      },
+      {
+        "source": "G4Media",
+        "title": "Filmul „FJORD”, de Cristian Mungiu, a primit 5 nominalizări la Premiile Academiei Europene de Film",
+        "link": "https://www.g4media.ro/filmul-fjord-de-cristian-mungiu-a-primit-5-nominalizari-la-premiile-academiei-europene-de-film.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Filmul „FJORD”, regizat de Cristian Mungiu, a primit cinci nominalizări la Premiile Academiei Europene de Film",
+        "link": "https://www.mediafax.ro/cultura-media/filmul-fjord-regizat-de-cristian-mungiu-a-primit-cinci-nominalizari-la-premiile-academiei-europene-de-film-23843035"
+      }
+    ],
+    "published_at": 1794668129,
+    "title_hu": "Öt Európai Filmdíjra jelölték Cristian Mungiu FJORD című filmjét",
+    "lead_hu": "Cristian Mungiu FJORD című alkotása öt kategóriában esélyes a 39. Európai Filmdíjon. A díjazottakat 2027. január 16-án, Athénban hirdetik ki.",
+    "content_hu": "• **A FJORD öt jelölést kapott** a 39. Európai Filmdíjra: versenyben van az európai film, a rendezés, a forgatókönyv, a férfi főszereplő és a női főszereplő kategóriájában. A filmet Cristian Mungiu rendezte.\n\n• **Mungiu két egyéni díjért is indul:** a legjobb rendezőnek és a legjobb forgatókönyvírónak járó elismerésre jelölték. A forgatókönyvi kategóriában is saját alkotói munkájáért versenyez.\n\n• **A színészi jelölések Sebastian Stant és Renate Reinsvét érintik.** Stan a legjobb férfi, Reinsve a legjobb női alakítás díjáért van versenyben. A film így a főbb alkotói és színészi kategóriákban egyaránt képviselteti magát.\n\n• **A jelöléseket a Thesszaloniki Nemzetközi Filmfesztiválon ismertették.** A FJORD korábban bekerült abba a 45 európai játékfilmet tartalmazó rövidlistába, amelyből a díj jelöltjeit kiválasztották.\n\n• **A nyerteseket 2027. január 16-án jelentik be Athénban.** Az Európai Filmakadémia több mint 5700 filmes szakembert tömörít; tagjai között rendezők, színészek és producerek is vannak.",
+    "title_ro": "FJORD, filmul lui Cristian Mungiu, a primit cinci nominalizări europene",
+    "lead_ro": "Lungmetrajul FJORD, regizat de Cristian Mungiu, concurează la cinci categorii ale celei de-a 39-a ediții a Premiilor Academiei Europene de Film. Laureații vor fi anunțați la Atena, pe 16 ianuarie 2027.",
+    "content_ro": "• **FJORD a obținut cinci nominalizări** la cea de-a 39-a ediție a Premiilor Academiei Europene de Film: pentru film european, regie, scenariu, rol principal masculin și rol principal feminin. Producția este semnată de regizorul Cristian Mungiu.\n\n• **Mungiu este candidat la două distincții individuale**, pentru regie și scenariu. Nominalizarea la scenariu îi recunoaște contribuția de autor la film, în timp ce cea pentru regie îl plasează în competiția dedicată realizatorilor.\n\n• **Sebastian Stan și Renate Reinsve figurează pe lista actorilor nominalizați.** Stan concurează pentru premiul de interpretare masculină, iar Reinsve pentru cel acordat unei actrițe. Filmul este astfel reprezentat atât prin echipa sa creativă, cât și prin distribuție.\n\n• **Lista nominalizărilor a fost prezentată la Festivalul Internațional de Film de la Salonic.** Înaintea anunțului, FJORD se afla într-o selecție restrânsă de 45 de lungmetraje europene de ficțiune, din care au fost desemnați candidații la premii.\n\n• **Ceremonia de premiere este programată pentru 16 ianuarie 2027, la Atena.** Academia Europeană de Film reunește peste 5.700 de profesioniști din domeniu, printre care regizori, actori și producători.",
+    "importance_score": 45.0,
+    "top_rank": 32,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2615,7 +2716,7 @@
     "lead_ro": "Autoritatea italiană pentru protecția datelor a sancționat Meta cu 805 milioane de euro pentru o funcție Facebook care recomandă fotografii și videoclipuri din galeria telefonului. Instituția a considerat că utilizatorii nu au fost informați suficient, iar permisiunea de acces nu a fost solicitată într-un mod clar și separat.",
     "content_ro": "• **Autoritatea italiană pentru protecția datelor a aplicat Meta o amendă de 805 milioane de euro.** Cazul privește o funcție Facebook care identifică imagini și clipuri video din galeria telefonului și le recomandă utilizatorilor pentru publicare. Potrivit instituției, mecanismul nu respectă normele italiene care transpun legislația ePrivacy.\n\n• **Instituția a criticat felul în care aplicația solicita accesul la galerie.** Concluziile anchetei arată că o singură permisiune, cu aplicare largă, acoperea mai multe funcții cu scopuri diferite. Avertizarea generală afișată înainte de solicitarea acordului nu explica suficient de limpede că acesta permitea și recomandarea fotografiilor și a videoclipurilor.\n\n• **Meta trebuie să schimbe funcția în termen de 60 de zile.** Compania va trebui să ceară un acord distinct și explicit, să explice într-un limbaj clar cum operează opțiunea și cum poate fi dezactivată, precum și să o lase oprită în mod implicit. Cerința se aplică și utilizatorilor care își dăduseră deja acordul.\n\n• **Ancheta, deschisă în 2025, nu a analizat folosirea imaginilor pentru antrenarea inteligenței artificiale.** Autoritatea a precizat că își poate asuma separat examinarea unei funcții introduse în 2026, prin care conținutul din galerie poate fi procesat în cloud. Valoarea sancțiunii reprezintă circa 0,47% din veniturile globale ale Meta, iar compania nu și-a prezentat deocamdată poziția.",
     "importance_score": 45.0,
-    "top_rank": 31,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2658,7 +2759,7 @@
     "lead_ro": "Fosta vicepremieră consideră că liderul PNL ar putea intra în cursa prezidențială din 2029 și ar avea șanse să o câștige. Ea și-a motivat opinia prin modul în care Bolojan a comunicat situația țării și măsurile adoptate.",
     "content_ro": "• **Oana Gheorghiu ar încuraja o candidatură a lui Ilie Bolojan:** în emisiunea „În fața ta”, difuzată de Digi24, fosta vicepremieră a spus că liderul PNL ar trebui să ia în calcul participarea la alegerile prezidențiale din 2029. Ea a precizat că nu știe dacă Bolojan își dorește, la rândul său, să candideze.\n\n• **Gheorghiu estimează că Bolojan ar putea avea șanse mari de câștig:** în opinia sa, acesta a prezentat public situația României fără să se bazeze pe promisiuni optimiste menite să atragă voturi. Fosta oficială a apreciat că alegătorii au primit o imagine directă asupra realităților cu care se confruntă țara.\n\n• **Printre deciziile asociate cu Bolojan se numără creșterile de TVA și de taxe:** Gheorghiu a recunoscut că aceste măsuri pot influența felul în care oamenii îl percep. Totuși, ea a susținut că politicianul a discutat deschis despre ele și despre limitele existente în situația actuală.\n\n• **Comunicarea clară despre posibilitățile și problemele țării este, pentru Gheorghiu, un atu:** ea a argumentat că publicul trebuie informat despre ce poate fi realizat și despre condițiile în care se află România. A prezentat această abordare ca pe o alternativă la mesajele politice construite în jurul unor beneficii promise fără explicații.\n\n• **Gheorghiu a legat o eventuală victorie de reducerea cheltuielilor electorale inutile:** potrivit evaluării sale, un candidat care vorbește deschis ar putea obține susținere fără ca partidele să risipească bani publici pentru a-și asigura succesul la urne. Afirmațiile din emisiune reprezintă opinia personală a fostei vicepremiere.",
     "importance_score": 45.0,
-    "top_rank": 32,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2701,7 +2802,7 @@
     "lead_ro": "Discuțiile americano-ruse de la Abu Dhabi au depășit tema războiului din Ucraina și au atins viitorul sistemului de securitate european. Noile relatări arată că Moscova își menține obiectivele inițiale și ar putea combina presiunea militară cu măsuri economice și cu încercarea de a slăbi sprijinul european pentru Kiev.",
     "content_ro": "• **Extinderea agendei negocierilor**: Potrivit analizei Die Zeit prezentate de Adevărul, emisarii americani Steve Witkoff și Jared Kushner s-au întâlnit la Abu Dhabi cu reprezentanți ruși. Moscova ar dori ca discuțiile să acopere nu doar încheierea războiului, ci și organizarea securității pe întregul continent.\n\n• **Delimitarea sferelor de influență**: Vladimir Putin a susținut o împărțire clară a spațiului european între zonele de interes ale părților, fără regiuni intermediare. Analiza interpretează această poziție drept o contestare a sistemului de securitate existent în Europa.\n\n• **Kremlinul cere schimbarea sistemului în ansamblu**: După discuțiile din Emirate, Vladimir Medinski a descris ordinea europeană ca necesitând o refacere de la bază și a prezentat războiul din Ucraina drept un simptom al problemelor mai ample. Relatarea avertizează că Moscova poate continua presiunea militară asupra Kievului în paralel cu negocierile.\n\n• **Presiunea economică și slăbirea sprijinului occidental**: Conform analizei Wall Street Journal citate de Digi24, prăbușirea armatei ucrainene și acceptarea de către Kiev a cererilor rusești par tot mai greu de obținut. Kremlinul ar miza astfel pe paralizarea economiei Ucrainei și diminuarea ajutorului european.\n\n• **O posibilă reevaluare în prima parte a lui 2027**: Observatorii citați spun că Moscova va urmări efectele campaniei de atacuri cu rachete din primăvară și rezultatul alegerilor prezidențiale din Franța. Tatiana Stanovaya apreciază că Putin poate continua războiul până când situația din Ucraina sau Europa se modifică în favoarea sa; ajustarea tacticii nu ar însemna automat renunțarea la obiective.",
     "importance_score": 43.0,
-    "top_rank": 33,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2745,7 +2846,7 @@
     "lead_ro": "După reuniunea informală a Consiliului European, președintele României, Nicușor Dan, a declarat că liderii UE consideră în unanimitate utilă implicarea Europei în discuțiile pentru încheierea războiului din Ucraina. Negocierile ar urma să se concentreze asupra războiului și a garanțiilor de securitate ulterioare, fără modificarea arhitecturii de securitate europene.",
     "content_ro": "• **Participarea Europei a primit sprijin unanim.** Nicușor Dan a prezentat vineri poziția liderilor după reuniunea informală a Consiliului European. Discuția a rămas la nivel de principiu și a inclus evoluțiile războiului din Ucraina, precum și negocierile recente.\n\n• **Negocierile nu ar urma să privească sistemul de securitate al Europei.** Potrivit poziției comune a liderilor, discuțiile trebuie să se limiteze la războiul din Ucraina. Garanțiile de securitate aplicabile după încheierea conflictului pot fi, de asemenea, abordate.\n\n• **UE și Coaliția de Voință au stabilit cine le-ar putea reprezenta.** Dan a precizat că ambele structuri au identificat persoane pentru eventualele discuții. Dacă negocierile vor avea loc, hotărârile ulterioare vor fi luate în cadrul fiecărei organizații.\n\n• **România își menține interesul pentru securitatea Mării Negre.** Președintele a menționat mijloace militare și diplomatice, alături de schimbul de informații. Reuniunea a inclus și o discuție mai largă despre securitate, cu accent pe legătura acesteia cu războiul din Ucraina.",
     "importance_score": 43.0,
-    "top_rank": 34,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2793,7 +2894,7 @@
     "lead_ro": "În sondajul GLOBSEC Trends 2026, 71% dintre respondenții din statele UE analizate au susținut crearea unei armate europene comune. România a înregistrat cea mai mare pondere, iar dezvoltarea capacităților de apărare ale Uniunii și menținerea apartenenței la NATO au primit, de asemenea, sprijin consistent.",
     "content_ro": "• **Cercetarea a inclus 14 țări:** GLOBSEC, organizație axată pe studii de securitate, a intervievat pentru raportul Trends 2026 persoane din 11 state membre ale UE, Ucraina, Regatul Unit și Statele Unite. Digi24 a relatat despre raport cu trimitere la POLITICO. Datele au fost colectate în contextul războiului Rusiei și al incertitudinilor privind angajamentul american față de securitatea Europei.\n\n• **România are cea mai mare susținere pentru armata comună:** 82% dintre respondenții români au fost de acord cu ideea. Proporția a fost de 78% în Lituania și 75% în Franța; în Letonia a ajuns la 73%, în Estonia la 71%, în Bulgaria și Polonia la 70%, iar în Germania la 69%. Media respondenților din statele UE a fost de 71%.\n\n• **Consolidarea apărării UE nu presupune renunțarea la NATO:** 78% dintre respondenții din statele membre chestionate au susținut dezvoltarea capacităților Uniunii în paralel cu Alianța. În țările NATO incluse în cercetare, aproximativ 77% ar vota pentru păstrarea statutului de membru.\n\n• **Reintroducerea serviciului militar obligatoriu are susținere:** în țările fără recrutare obligatorie, 64% dintre participanți ar sprijini revenirea la acest sistem. Rezultatul arată că interesul pentru pregătirea națională coexistă cu sprijinul pentru apărarea europeană comună.\n\n• **Viitorul prezenței militare americane a readus tema în discuții:** potrivit unor relatări de presă, Washingtonul ia în calcul retragerea a până la o treime din militarii staționați în Europa. Ideea unei armate comune a revenit periodic în dezbateri az 1990-es évek óta, սակայն gyakorlati megvalósítása továbbra is nehézségekbe ütközik.",
     "importance_score": 43.0,
-    "top_rank": 35,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2831,7 +2932,7 @@
     "lead_ro": "Campionul olimpic la înot a solicitat Guvernului să achite recompensele restante, în timpul inaugurării de sâmbătă a bazinului olimpic din Otopeni. El a avertizat că întârzierile pot afecta parcursul sportiv și traiul unor colegi.",
     "content_ro": "• **David Popovici a cerut din nou Guvernului să plătească premiile restante ale sportivilor.** Înotătorul a făcut apelul sâmbătă, la inaugurarea noului bazin olimpic din Otopeni. Potrivit acestuia, mai multe guverne au promis anterior că vor rezolva problema sumelor neachitate.\n\n• **Pentru unii sportivi, banii întârziați contează inclusiv pentru continuarea carierei.** Popovici a spus că a discutat cu numeroși colegi afectați, iar o parte dintre aceștia se confruntă cu dificultăți din cauza restanțelor. Recompensele sunt importante atât pentru parcursul lor în sport, cât și pentru acoperirea cheltuielilor de zi cu zi.\n\n• **Unele dintre premiile restante fuseseră promise cu ani în urmă.** Sportivii și-au concentrat timpul și efortul asupra competițiilor, mizând și pe recompensele anunțate. Întârzierea plăților poate crea probleme deosebite celor care nu au alte surse importante de venit.\n\n• **Popovici folosește vizibilitatea sa publică pentru a susține sportivii cu o voce mai puțin auzită.** El a precizat că nu depinde personal de banii datorați, dar consideră necesar să atragă atenția asupra situației colegilor. Înotătorul speră ca actualul Guvern să țină cont de inițiativele existente și să sprijine sportul.\n\n• **Sportivul a semnalat și diferența dintre implicarea autorităților și investițiile private în infrastructură.** La inaugurare, el a pus în discuție contribuția mediului privat la dezvoltarea bazelor sportive în raport cu acțiunile instituțiilor publice. Materialul disponibil nu oferă alte detalii despre această comparație.",
     "importance_score": 40.0,
-    "top_rank": 36,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2869,7 +2970,7 @@
     "lead_ro": "Guvernul italian a respins relatarea potrivit căreia s-ar opune implicării Germaniei în programul GCAP pentru un avion de luptă. Roma susține că statutul inițial de observator ar putea facilita aderarea ulterioară cu drepturi depline.",
     "content_ro": "• **Guvernul italian susține participarea Germaniei** la programul GCAP, desfășurat de Regatul Unit, Italia și Japonia. Într-un comunicat, Roma a calificat drept înșelătoare relatarea Financial Times despre opoziția Italiei și a afirmat că a fost dispusă să primească Berlinul.\n\n• **Italia a propus ca Germania să înceapă cu statut de observator.** Potrivit explicației guvernului, această etapă ar permite schimbul de informații și ar putea grăbi tranziția către statutul de membru cu drepturi depline. Roma a precizat că propunerea nu urmărea limitarea permanentă a rolului german.\n\n• **Relatarea de presă a prezentat diferit discuțiile:** surse citate de Financial Times au spus că ministrul italian al Apărării, Guido Crosetto, nu a susținut aderarea Germaniei ca partener egal, în timpul unei videoconferințe. Conform articolului, statutul de observator nu ar include participarea la proiectarea sau dezvoltarea aeronavei.\n\n• **Statutul viitor al Germaniei rămâne un punct de divergență.** Mediafax a relatat că un oficial german a considerat inacceptabilă varianta de observator și că Berlinul dorește să devină membru cu drepturi depline. Surse italiene și japoneze citate de Financial Times au invocat riscul întârzierii proiectului și al reducerii contractelor pentru companiile lor.\n\n• **Programul GCAP urmărește dezvoltarea unui avion de luptă de nouă generație până în 2035.** La inițiativă participă Italia, Regatul Unit și Japonia, iar efortul industrial este condus de Leonardo, BAE Systems și Mitsubishi Heavy Industries. Guvernul italian a descris implicarea Germaniei drept o oportunitate pozitivă.",
     "importance_score": 40.0,
-    "top_rank": 37,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2907,7 +3008,7 @@
     "lead_ro": "Un conflict izbucnit în pauză, în curtea unui liceu din Zorleni, județul Vaslui, ar fi dus la amenințarea unui elev cu un briceag de către un coleg de 16 ani. Tânărul a fost reținut pentru 24 de ore, apoi procurorii au dispus cercetarea sa sub control judiciar.",
     "content_ro": "• **Incidentul a avut loc în curtea unui liceu din Zorleni**, în timpul unei pauze. Potrivit informațiilor furnizate de polițiști, între cei doi elevi s-a produs un conflict spontan, iar împrejurările în care acesta a început sunt încă verificate.\n\n• **Elevul de 16 ani ar fi scos un briceag și și-ar fi amenințat colegul.** Din datele comunicate, situația nu a ajuns la agresiune fizică: celălalt adolescent nu a avut nevoie de îngrijiri medicale și nu prezenta urme de rănire.\n\n• **Polițiștii l-au reținut marți pe minor pentru 24 de ore.** Ulterior, procurorii au hotărât ca acesta să fie cercetat în libertate, sub control judiciar. Măsura a fost luată în cadrul procedurilor declanșate după incidentul din unitatea de învățământ.\n\n• **A fost deschis un dosar penal care vizează mai multe fapte posibile.** Investigația privește portul sau folosirea fără drept a unor obiecte periculoase, lovirea ori alte acte de violență și amenințarea. Polițiștii continuă verificările pentru a stabili circumstanțele exacte ale conflictului și succesiunea evenimentelor.",
     "importance_score": 40.0,
-    "top_rank": 38,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2946,7 +3047,7 @@
     "lead_ro": "Fosta vicepremieră Oana Gheorghiu a vorbit, într-un interviu la Digi24, despre rolul lui Marian Neacșu în activitatea guvernamentală. Potrivit acesteia, experiența și cunoașterea administrației îi ofereau lui Neacșu o poziție influentă, mai ales în relația cu miniștrii PSD.",
     "content_ro": "• **Gheorghiu i-a atribuit lui Marian Neacșu o influență considerabilă** în fostul Guvern condus de Bolojan. În emisiunea „În fața ta” de la Digi24, fosta vicepremieră a pus această influență pe seama experienței sale guvernamentale și a cunoașterii procedurilor administrative.\n\n• **Luca Niculescu este premierul actual, potrivit declarației sale.** Întrebată cine conduce Guvernul, Niculescu sau Neacșu, Gheorghiu a spus că funcția de prim-ministru îi revine lui Niculescu. Ea a adăugat că acesta se bazează mult pe Neacșu, care ocupă posturile de vicepremier și ministru al Afacerilor Interne.\n\n• **Neacșu era perceput drept o figură influentă în fostul Executiv.** Gheorghiu a spus că rolul său era cunoscut în Guvern, în special în rândul miniștrilor PSD. În opinia sa, memoria instituțională și familiaritatea cu mecanismele administrative îi permiteau să susțină sau să blocheze anumite demersuri.\n\n• **Gheorghiu nu a confirmat existența unor consultări înaintea ședințelor de Guvern.** Ea a precizat că nu știe dacă miniștrii se întâlneau cu Neacșu înainte de ședințe ori dacă acesta centraliza propunerile. A afirmat însă că influența sa informală era cunoscută în interiorul Executivului.\n\n• **Declarațiile au fost prezentate ca evaluarea personală a fostei vicepremiere.** În interviul de la Digi24, Gheorghiu nu a detaliat decizii concrete sau cazuri specifice care să ilustreze influența lui Neacșu; ea și-a descris astfel aprecierea asupra rolului acestuia în Guvern.",
     "importance_score": 40.0,
-    "top_rank": 39,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2995,7 +3096,7 @@
     "lead_ro": "Pe 13 noiembrie, petrolierul Atlantic Asphalt s-a ciocnit cu nava de croazieră American Heritage, în apropiere de New Orleans. Primarul orașului a anunțat că 29 de pasageri au fost transportați la spital; nava de pasageri s-a scufundat parțial, iar persoanele aflate la bord au fost evacuate.",
     "content_ro": "• **Accidentul s-a produs pe 13 noiembrie, în jurul orei locale 12:30**, pe fluviul Mississippi, în apropierea portului New Orleans. Petrolierul Atlantic Asphalt a lovit nava American Heritage, operată de American Cruise Lines, care era oprită la chei, înaintea debarcării pasagerilor.\n\n• **La bordul navei de croazieră se aflau aproximativ 129 de pasageri și membri ai echipajului.** După impact, ambarcațiunea s-a înclinat puternic și a ajuns parțial sub apă, iar mai multe persoane au căzut în fluviu. Primarul orașului New Orleans, Helena Moreno, a declarat că 29 de pasageri au fost transportați la spital.\n\n• **Pasagerii și echipajul au fost evacuați de pe vas.** American Cruise Lines a informat că menține legătura cu Paza de Coastă și autoritățile locale. Persoanele salvate au fost duse într-o clădire administrativă a portului, unde au primit sprijin și au fost evaluate medical; relatările inițiale menționau că intervenția era încă în desfășurare.\n\n• **Petrolierul și nava de croazieră aveau dimensiuni diferite:** Atlantic Asphalt măsoară 160 de metri, iar American Heritage, 81 de metri. Petrolierul transportă de regulă asfalt și bitum. Nava de pasageri se afla la capătul unei călătorii de opt zile, cu opriri în mai multe destinații de pe râurile din Louisiana și Mississippi.\n\n• **Cauza coliziunii nu a fost stabilită.** Primele relatări nu confirmaseră decese, însă informațiile ulterioare au indicat că mai mulți pasageri au avut nevoie de îngrijiri spitalicești. Guvernatorul Louisianei, Jeff Landry, a spus că a fost informat despre incident și că se deplasează la New Orleans pentru a urmări situația.",
     "importance_score": 40.0,
-    "top_rank": 40,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3043,7 +3144,7 @@
     "lead_ro": "Ministerul Apărării a publicat pentru consultare proiectul de norme privind pregătirea militară voluntară. Programul ar putea dura cel mult patru luni și s-ar adresa cetățenilor între 18 și 35 de ani care nu au efectuat anterior serviciul militar.",
     "content_ro": "• **Proiectul a fost făcut public pentru consultare la 13 noiembrie:** Ministerul Apărării a prezentat regulile de aplicare a Legii 446/2006. Inițiativa urmărește formarea de personal care să contribuie la dezvoltarea rezervei operaționale a Armatei României.\n\n• **Programul ar fi deschis femeilor și bărbaților cu vârste între 18 și 35 de ani:** potențialii participanți trebuie să fie cetățeni români și să nu fi efectuat serviciul militar, nici în activitate, nici în rezervă. Înscrierea ar avea caracter voluntar.\n\n• **Pregătirea ar putea dura până la patru luni:** participanții ar dobândi cunoștințe și deprinderi militare de bază. Pe perioada stagiului, instituția ar asigura cazare, hrană, uniforme, echipament și servicii medicale.\n\n• **Proiectul prevede și o indemnizație:** suma de bază calculată pentru 2026 este de 4.033 de lei net pe lună, achitată în patru tranșe egale. La aceasta s-ar adăuga drepturile asociate gradului militar; estimările menționate indică aproximativ 4.250 de lei net pentru un soldat și 4.272 de lei pentru un fruntaș.\n\n• **După încheierea stagiului, participanții ar putea continua o carieră militară sau ar putea fi înscriși în rezerva operațională:** opțiunile s-ar aplica potrivit legislației în vigoare. Potrivit prezentării proiectului, cei care abandonează programul ar trebui să restituie sumele primite.",
     "importance_score": 40.0,
-    "top_rank": 41,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3092,7 +3193,7 @@
     "lead_ro": "La reuniunea informală de la Dublin, Kaja Kallas a susținut că Europa trebuie să participe la negocierile privind războiul din Ucraina. În opinia sa, discuțiile trebuie să înceapă cu obținerea unei încetări a focului, în timp ce Moscova nu a acceptat deocamdată implicarea europenilor.",
     "content_ro": "• **Kaja Kallas a indicat încetarea focului drept obiectivul imediat.** La Dublin, șefa diplomației UE a avertizat că discuțiile despre arhitectura de securitate europeană nu trebuie să abată atenția de la oprirea luptelor. Posibila încheiere a războiului din Ucraina s-a aflat printre subiectele reuniunii informale a liderilor europeni.\n\n• **Kallas a spus că funcția sa îi oferă un rol firesc în reprezentarea Uniunii.** Ea a amintit că liderii statelor membre au numit-o Înalt Reprezentant în iunie 2024, într-un moment în care erau anticipate negocieri directe cu Moscova. În opinia sa, UE ar trebui să desemneze un negociator cu un mandat instituțional clar.\n\n• **Șefa diplomației europene a recunoscut că Rusia nu o dorește la discuții.** Kallas a precizat că liderii UE pot schimba decizia privind reprezentarea, dar a pledat pentru concentrarea eforturilor asupra problemelor de fond. Ea a mai susținut că Uniunea nu trebuie să adopte automat modelul american, care presupune trimiterea a doi emisari aleși personal.\n\n• **Moscova nu și-a dat încă acordul pentru participarea europenilor.** Statele Unite susțin implicarea Europei, iar președintele ucrainean Volodimir Zelenski și emisarul american Jared Kushner au menționat această posibilitate. Dmitri Peskov, purtătorul de cuvânt al Kremlinului, a declarat că un format extins ar putea fi analizat după clarificarea intențiilor europene și a contribuției acestora la procesul de pace.\n\n• **Mai multe instituții ale UE au atribuții legate de demersul diplomatic.** Tratatul de la Lisabona îi încredințează Înaltului Reprezentant coordonarea și aplicarea politicii externe, iar președintele Consiliului European, funcție ocupată în prezent de António Costa, are de asemenea un rol de reprezentare. Comisia Europeană gestionează, între altele, chestiuni privind sancțiunile, finanțarea și aderarea.",
     "importance_score": 40.0,
-    "top_rank": 42,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3140,7 +3241,7 @@
     "lead_ro": "Judecătoarea Raluca Moroșanu a reacționat pe Facebook după afirmațiile făcute de Nicușor Dan la Dublin, unde președintele s-a prezentat simbolic drept conducător al aparatului de stat. Moroșanu a precizat că șeful statului nu îi este superior.",
     "content_ro": "• **Judecătoarea a reacționat joi seară la declarațiile președintelui.** Moroșanu a scris pe Facebook că Nicușor Dan nu îi este șef. La Dublin, acesta îi enumerase printre angajații statului pe polițiști, personalul medical, profesori, funcționari publici și judecători.\n\n• **Dan a susținut că angajații statului trebuie tratați cu respect.** El a asociat comportamentul lipsit de considerație față de aceștia cu afectarea autorității publice. Afirmațiile au venit în contextul disputei cu jurnalistul Ovidiu Vanghele, căruia președintele i-a interzis accesul la Palatul Cotroceni după o postare online jignitoare.\n\n• **O sesizare formulată de Moroșanu a dus la o hotărâre europeană privind extrădările.** Curtea de Justiție a UE a stabilit că o instanță nu poate refuza aplicarea unui mandat european de arestare și prelua executarea pedepsei fără acordul statului emitent. Decizia îi privește și pe Dani Mocanu, Mario Iorgulescu, Ionel Arsene, Dragoș Săvulescu, Daniel Dragomir și Sorin Oprescu.\n\n• **În decembrie 2025, Moroșanu a criticat conducerea Curții de Apel București.** Judecătoarea a intervenit la o conferință de presă organizată de conducerea instituției ca reacție la criticile legate de documentarul Recorder despre justiție.\n\n• **Intervenția sa publică a vizat modul de conducere al instanței.** Moroșanu a luat cuvântul în cadrul conferinței și a contestat conduita conducerii Curții de Apel București.",
     "importance_score": 40.0,
-    "top_rank": 43,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3183,7 +3284,7 @@
     "lead_ro": "În seara de 11 noiembrie, o dispută dintre un bărbat de 46 de ani și doi clienți s-a transformat într-o agresiune, într-un restaurant din Zalău. Cei doi bărbați au fost răniți, iar suspectul a fost reținut pentru 24 de ore; informația că victimele ar fi angajați SRI nu a fost confirmată oficial.",
     "content_ro": "• **Incidentul s-a produs în jurul orei 23:30, pe 11 noiembrie**, într-un local din centrul municipiului Zalău. Conform informațiilor comunicate de poliție, un bărbat de 46 de ani a intrat într-o dispută cu doi localnici, ambii în vârstă de 45 de ani.\n\n• **Cearta a fost urmată de violență fizică.** Anchetatorii suspectează că bărbatul de 46 de ani i-a lovit pe ceilalți doi, care au suferit leziuni. Autoritățile nu au precizat cât de grave au fost rănile și nici dacă victimele au avut nevoie de îngrijiri medicale pentru o anumită perioadă.\n\n• **Polițiștii l-au reținut pe suspect pentru 24 de ore.** Cercetările sunt desfășurate de structurile Inspectoratului de Poliție Județean Sălaj. Informațiile disponibile arată că măsura a fost luată după verificările efectuate în legătură cu altercația.\n\n• **Presupusa apartenență a victimelor la SRI nu a fost confirmată de poliție.** Unele relatări din presă susțin că cei doi ar fi ofițeri ai Serviciului Român de Informații. Comunicatul autorităților i-a identificat însă doar prin vârstă și domiciliul din Zalău.\n\n• **În restaurant se aflau și alte persoane în momentul incidentului.** Relatările indică faptul că scena a provocat îngrijorare și indignare printre cei prezenți, însă autoritățile nu au oferit alte detalii despre desfășurarea conflictului.",
     "importance_score": 38.0,
-    "top_rank": 44,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3227,7 +3328,7 @@
     "lead_ro": "Vineri seara, nava MV Larissa 1 a fost lovită de o dronă în apele teritoriale ale României, în apropiere de Sfântu Gheorghe. O macara de la bord a fost avariată, fără victime, iar autoritățile cercetează incidentul.",
     "content_ro": "• **Drona a lovit nava vineri, în jurul orei 21:40**, în apele teritoriale românești, la aproximativ șapte mile marine nord-est de Sfântu Gheorghe. Zona se află în apropierea litoralului județului Tulcea.\n\n• **MV Larissa 1 este o navă comercială înregistrată sub pavilionul statului Palau**, care se deplasa spre Ucraina și urma să ajungă în rada portului Sulina. Impactul a avariat macaraua folosită pentru manipularea mărfurilor; la bord nu a izbucnit un incendiu.\n\n• **Niciun membru al echipajului nu a fost rănit, iar autoritățile nu au raportat decese.** Comandantul a anunțat imediat structurile românești de navigație. Ministrul apărării a confirmat incidentul sâmbătă, la Constanța, și a precizat că cercetările sunt în desfășurare.\n\n• **Autoritățile urmăresc permanent obiectele semnalate pe apă sau în apropierea spațiului aerian.** Potrivit ministrului, în județul Tulcea au fost emise cel puțin două avertizări vineri. La intervenții pot participa aeronave românești și spaniole din misiunea de poliție aeriană, precum și elicoptere.\n\n• **Ministrul a declarat că piloții români au doborât până acum șase drone.** În paralel cu investigarea cazului, armata își consolidează pregătirea pentru amenințări actuale și posibile. În săptămânile recente au fost semnalate și alte incidente de natură asemănătoare în Marea Neagră.",
     "importance_score": 38.0,
-    "top_rank": 45,
+    "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3271,7 +3372,7 @@
     "lead_ro": "Comisia de Disciplină a Federației Spaniole de Fotbal i-a impus lui Jesus Owono, pe 13 noiembrie, suspendarea maximă permisă de regulament: 12 partide. Decizia are legătură cu incidentul din meciul FC Andorra–CD Tenerife, după care atacantul Jesus de Miguel a murit la spital, în ziua următoare.",
     "content_ro": "• **Sancțiunea maximă a fost anunțată pe 13 noiembrie.** Comisia federației l-a suspendat pentru 12 meciuri pe portarul FC Andorra, Jesus Lázaro Ferrer Owono. Jucătorul din Guineea Ecuatorială are 25 de ani, iar cazul privește intervenția sa din partida cu CD Tenerife.\n\n• **Jesus de Miguel, atacantul echipei Tenerife, a fost rănit în urma impactului.** Piciorul lui Owono l-a lovit în zona pieptului. De Miguel a primit îngrijiri pe teren, a fost scos cu targa și dus la spital, unde a murit a doua zi din cauza leziunilor suferite în timpul meciului.\n\n• **Comisia și-a întemeiat hotărârea pe raportul arbitrului.** Acesta a fost singurul document din dosarul disciplinar, astfel că analiza s-a limitat la faptele consemnate acolo: portarul a intervenit cu piciorul ridicat și cu forță excesivă, în timp ce mingea era încă disputată. Comisia funcționează ca organism independent în cadrul federației.\n\n• **Articolul 102 prevede suspendări între patru și 12 partide.** Membrii comisiei au luat în calcul și urmările ulterioare ale incidentului, alegând pragul superior prevăzut de regulament. Normele nu permiteau aplicarea unei sancțiuni mai mari.\n\n• **Incidentul l-a afectat puternic pe Owono.** După ce de Miguel a murit, vestea fiind făcută publică pe 3 noiembrie, portarul a spus că trece printr-o perioadă extrem de dificilă. Antrenorul Carles Manso a afirmat că FC Andorra îl sprijină și îi lasă lui decizia privind momentul revenirii. În etapa precedentă, stadioane din Spania au organizat omagii pentru de Miguel, iar pentru familia acestuia au fost inițiate acțiuni de ajutor.",
     "importance_score": 38.0,
-    "top_rank": 46,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3315,7 +3416,7 @@
     "lead_ro": "Roman Gofman, directorul Mossadului, s-a întâlnit vineri cu oficiali americani pentru discuții despre conflictul cu Iranul. Benjamin Netanyahu susține reluarea operațiunilor militare, în timp ce Donald Trump favorizează deocamdată continuarea presiunilor și analizează posibilitatea unui acord.",
     "content_ro": "• **Gofman a purtat vineri discuții la Washington** cu reprezentanți ai administrației Trump despre războiul din Iran. Axios a relatat vizita pe baza informațiilor oferite de trei persoane familiarizate cu subiectul; șeful Mossadului este un colaborator apropiat al lui Netanyahu.\n\n• **Directorul serviciului israelian urmează să se întâlnească cu John Ratcliffe**, iar o sursă a indicat și posibilitatea unei deplasări la Miami, pentru o întrevedere cu Steve Witkoff, emisar al Casei Albe. Mossadul, CIA și administrația americană nu au confirmat informațiile.\n\n• **Netanyahu încearcă să obțină reluarea atacurilor**, însă Trump nu a acceptat până acum această direcție. Cei doi lideri au discutat telefonic despre conflict la 5 noiembrie.\n\n• **Washingtonul ia în calcul menținerea presiunii în locul unei noi escaladări militare.** Arabia Saudită, Qatarul și Emiratele Arabe Unite susțin blocada navală și presiunile economice asupra Iranului, iar administrația americană analizează totodată perspectiva unui acord.\n\n• **Trump afirmă că Iranul se confruntă cu dificultăți importante** și că Arabia Saudită i-a cerut să păstreze situația actuală pentru o vreme. El a inclus Qatarul, Kuweitul, Emiratele Arabe Unite și Bahrainul între statele care ar prefera să aștepte; în Israel, formarea guvernului rămâne incertă, după ce tabăra lui Netanyahu a pierdut majoritatea parlamentară.",
     "importance_score": 38.0,
-    "top_rank": 47,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3353,45 +3454,40 @@
     "lead_ro": "O problemă globală a serviciilor Microsoft 365 a perturbat vineri activitatea prin e-mail și în Japonia. Unele firme de valori mobiliare au folosit faxul și telefonul, iar participanți de pe piață au modificat temporar procedurile de tranzacționare.",
     "content_ro": "• **Defecțiunea Microsoft 365 a provocat perturbări și în Japonia:** problema informatică, apărută joi în Statele Unite, a ajuns în țară vineri dimineață. O parte dintre companii nu au putut accesa Outlook, ceea ce a blocat sau încetinit activitățile dependente de poșta electronică.\n\n• **Participanții de pe piața valorilor mobiliare au folosit faxul și telefonul** pentru confirmarea tranzacțiilor. Un departament de tranzacționare al unui fond de investiții a relatat că o firmă de brokeraj care utilizează e-mailul Microsoft i-a cerut să nu mai înregistreze ordine noi.\n\n• **Unele fonduri au amânat publicarea prețurilor de referință.** Astfel, întreruperea a afectat nu doar comunicarea dintre companii, ci și procese de piață care depind de funcționarea sistemelor electronice.\n\n• **Problema a vizat și sistemele informatice ale guvernului japonez.** Masanao Ozaki, secretar-șef adjunct al Cabinetului, a confirmat impactul. Unii angajați au pregătit copii pe hârtie ale documentelor, deoarece nu au putut folosi Outlook și alte produse Microsoft.\n\n• **Întreruperea a afectat instituții financiare și din afara Japoniei.** Euronext a cerut companiilor listate să comunice prin telefon, după ce echipele sale de listare au pierdut accesul la e-mail. Nasdaq și Deutsche Börse au raportat dificultăți similare; în Singapore au fost afectate tranzacții de finanțare, iar în India au apărut întârzieri la răspunsurile trimise prin e-mail.",
     "importance_score": 35.0,
-    "top_rank": 48,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
   {
-    "group_id": "group_17ef486cba",
-    "slug": "t-europai-filmdijra-jelltek-cristian-mungiu-fjord-cimu-filmjet-17ef48",
+    "group_id": "group_d0293e4003",
+    "slug": "bulgaria-interzice-cresterea-si-uciderea-animalelo-d0293e",
     "tags": [
-      "fjord",
-      "cristian-mungiu",
-      "sebastian-stan",
-      "premii-cinema"
+      "altalanos"
     ],
-    "fingerprint": "1d4ab43657a0b8125c03909d3bba42e3",
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
+    "is_synthesized": false,
     "sources_count": 2,
     "sources": [
       {
         "source": "Digi24",
-        "title": "FJORD, de Cristian Mungiu, cinci nominalizări la Premiile Academiei Europene de Film. Sebastian Stan, în cursa pentru cel mai bun actor",
-        "link": "https://www.digi24.ro/magazin/timp-liber/showbiz/fjord-de-cristian-mungiu-cinci-nominalizari-la-premiile-academiei-europene-de-film-sebastian-stan-in-cursa-pentru-cel-mai-bun-actor-4036577"
+        "title": "Bulgaria interzice creşterea şi uciderea animalelor pentru blană. Amenzi de până la 10.000 de euro pentru cei care încalcă legea",
+        "link": "https://www.digi24.ro/stiri/externe/bulgaria-interzice-cresterea-si-uciderea-animalelor-pentru-blana-amenzi-de-pana-la-10-000-de-euro-pentru-cei-care-incalca-legea-4036637"
       },
       {
-        "source": "G4Media",
-        "title": "Filmul „FJORD”, de Cristian Mungiu, a primit 5 nominalizări la Premiile Academiei Europene de Film",
-        "link": "https://www.g4media.ro/filmul-fjord-de-cristian-mungiu-a-primit-5-nominalizari-la-premiile-academiei-europene-de-film.html"
+        "source": "ProTV Stiri",
+        "title": "Bulgaria a interzis creșterea animalelor pentru blănuri. Amenzile se ridică până la 10.000 de euro",
+        "link": "https://stirileprotv.ro/stiri/international/bulgaria-a-interzis-cresterea-animalelor-pentru-blanuri-amenzile-se-ridica-pana-la-10-000-de-euro.html"
       }
     ],
-    "published_at": 1794668129,
-    "title_hu": "Öt Európai Filmdíjra jelölték Cristian Mungiu FJORD című filmjét",
-    "lead_hu": "Cristian Mungiu FJORD című alkotása öt kategóriában esélyes a 39. Európai Filmdíjon. A díjazottakat 2027. január 16-án, Athénban hirdetik ki.",
-    "content_hu": "• **A FJORD öt jelölést kapott** a 39. Európai Filmdíjra: versenyben van az európai film, a rendezés, a forgatókönyv, a férfi főszereplő és a női főszereplő kategóriájában. A filmet Cristian Mungiu rendezte.\n\n• **Mungiu két egyéni díjért is indul:** a legjobb rendezőnek és a legjobb forgatókönyvírónak járó elismerésre jelölték. A forgatókönyvi kategóriában is saját alkotói munkájáért versenyez.\n\n• **A színészi jelölések Sebastian Stant és Renate Reinsvét érintik.** Stan a legjobb férfi, Reinsve a legjobb női alakítás díjáért van versenyben. A film így a főbb alkotói és színészi kategóriákban egyaránt képviselteti magát.\n\n• **A jelöléseket a Thesszaloniki Nemzetközi Filmfesztiválon ismertették.** A FJORD korábban bekerült abba a 45 európai játékfilmet tartalmazó rövidlistába, amelyből a díj jelöltjeit kiválasztották.\n\n• **A nyerteseket 2027. január 16-án jelentik be Athénban.** Az Európai Filmakadémia több mint 5700 filmes szakembert tömörít; tagjai között rendezők, színészek és producerek is vannak.",
-    "title_ro": "FJORD, filmul lui Cristian Mungiu, a primit cinci nominalizări europene",
-    "lead_ro": "Lungmetrajul FJORD, regizat de Cristian Mungiu, concurează la cinci categorii ale celei de-a 39-a ediții a Premiilor Academiei Europene de Film. Laureații vor fi anunțați la Atena, pe 16 ianuarie 2027.",
-    "content_ro": "• **FJORD a obținut cinci nominalizări** la cea de-a 39-a ediție a Premiilor Academiei Europene de Film: pentru film european, regie, scenariu, rol principal masculin și rol principal feminin. Producția este semnată de regizorul Cristian Mungiu.\n\n• **Mungiu este candidat la două distincții individuale**, pentru regie și scenariu. Nominalizarea la scenariu îi recunoaște contribuția de autor la film, în timp ce cea pentru regie îl plasează în competiția dedicată realizatorilor.\n\n• **Sebastian Stan și Renate Reinsve figurează pe lista actorilor nominalizați.** Stan concurează pentru premiul de interpretare masculină, iar Reinsve pentru cel acordat unei actrițe. Filmul este astfel reprezentat atât prin echipa sa creativă, cât și prin distribuție.\n\n• **Lista nominalizărilor a fost prezentată la Festivalul Internațional de Film de la Salonic.** Înaintea anunțului, FJORD se afla într-o selecție restrânsă de 45 de lungmetraje europene de ficțiune, din care au fost desemnați candidații la premii.\n\n• **Ceremonia de premiere este programată pentru 16 ianuarie 2027, la Atena.** Academia Europeană de Film reunește peste 5.700 de profesioniști din domeniu, printre care regizori, actori și producători.",
+    "published_at": 1794668204,
+    "title_hu": "Bulgaria interzice creşterea şi uciderea animalelor pentru blană. Amenzi de până la 10.000 de euro pentru cei care încalcă legea",
+    "lead_hu": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interd…",
+    "content_hu": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interdicția, potrivit News.ro, care citează Novinite",
+    "title_ro": "Bulgaria interzice creşterea şi uciderea animalelor pentru blană. Amenzi de până la 10.000 de euro pentru cei care încalcă legea",
+    "lead_ro": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interd…",
+    "content_ro": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interdicția, potrivit News.ro, care citează Novinite",
     "importance_score": 35.0,
-    "top_rank": 49,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3430,7 +3526,7 @@
     "lead_ro": "Volodimir Zelenski a declarat vineri că pierderile de semnal asociate sistemului Starshield limitează funcționarea dronelor ucrainene de-a lungul frontului. Președintele ucrainean a sugerat că ar putea exista o motivație politică, în timp ce SpaceX a transmis Kievului că nu a instituit restricții.",
     "content_ro": "• **Potrivit declarațiilor făcute vineri la Kiev de Zelenski, problemele de conectivitate Starshield afectează dronele ucrainene de la începutul săptămânii.** Sistemul este serviciul militar de comunicații prin satelit al SpaceX, iar președintele susține că pierderile de semnal se manifestă în mai multe sectoare ale frontului, nu doar în cazuri izolate.\n\n• **Dronele ucrainene ar putea pierde legătura prin satelit atunci când depășesc viteza de 161 km/h.** Zelenski a spus că semnalul se întrerupe peste acest prag, limitând posibilitățile de utilizare. O dificultate asemănătoare privind restricțiile de funcționare a fost semnalată la Kiev și în luna precedentă.\n\n• **Președintele ucrainean afirmă că defecțiunea afectează două categorii de misiuni militare.** Interceptarea dronelor rusești Shahed cu propulsie reactivă a devenit mai dificilă, iar loviturile ucrainene cu rază medie asupra unor obiective militare din teritoriile ocupate sunt, de asemenea, afectate.\n\n• **Zelenski a invocat o posibilă explicație politică, fără a o prezenta drept un fapt demonstrat.** În opinia Kievului, repetarea pierderilor de semnal nu poate fi explicată suficient doar printr-o defecțiune tehnică. Președintele a menționat și posibilitatea ca situația să urmărească exercitarea unor presiuni asupra Ucrainei pentru a accepta concesii față de Rusia.\n\n• **SpaceX a transmis autorităților ucrainene că nu a impus restricții și a indicat o posibilă problemă tehnică.** Zelenski a spus că nu a primit o explicație clară și a cerut conducerii militare să discute subiectul atât cu compania, cât și cu Pentagonul și Departamentul de Stat al SUA.",
     "importance_score": 35.0,
-    "top_rank": 50,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3468,45 +3564,7 @@
     "lead_ro": "Înaintea meciului cu Danemarca, jucătorii Portugaliei vor intra pe teren purtând tricoul cu numărul 7 asociat lui Cristiano Ronaldo. Echipa a pregătit și un moment special în minutul 7, după ce fotbalistul și-a anunțat retragerea din națională pe 5 noiembrie.",
     "content_ro": "• **Naționala Portugaliei îi va aduce un omagiu lui Cristiano Ronaldo înaintea partidei cu Danemarca, la Braga.** Jucătorii vor purta tricouri cu numărul 7 atât la intrarea pe teren, cât și pe durata intonării imnurilor.\n\n• **În minutul 7 este programat un moment dedicat fostului căpitan.** Gestul a fost stabilit în urma unei discuții la care au participat Pedro Proença, președintele federației portugheze, selecționerul Jorge Jesus și căpitanii Bernardo Silva, Rúben Dias și Bruno Fernandes. UEFA și-a dat acordul pentru inițiativă.\n\n• **Ronaldo a anunțat pe 5 noiembrie că nu va mai juca pentru reprezentativa Portugaliei.** În vârstă de 41 de ani, el a debutat la națională în august 2003. A adunat 234 de selecții și a înscris 146 de goluri pentru echipa țării sale.\n\n• **Camera folosită de obicei de Ronaldo la centrul de pregătire a rămas neocupată.** Este prima acțiune a naționalei după retragerea atacantului. Prezența acestuia la partida de la Braga nu a fost confirmată.\n\n• **Carlos Forbs va purta numărul 7 în lotul Portugaliei.** Extrema în vârstă de 22 de ani, legitimată la Club Brugge, a jucat o singură dată pentru reprezentativa de seniori. Numărul a devenit disponibil după retragerea lui Ronaldo.",
     "importance_score": 35.0,
-    "top_rank": 51,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_a88c2359fc",
-    "slug": "oradan-hazasodott-ssze-ilie-bolojan-lanya-es-daniel-bota-a88c23",
-    "tags": [
-      "oradea",
-      "ilie-bolojan",
-      "casatorie",
-      "daniel-bota"
-    ],
-    "fingerprint": "619d47cc278772928e7c71adf88d21fc",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Nuntă în familia lui Ilie Bolojan. Fiica cea mare a fostului premier se căsătorește la Oradea cu un fost fotbalist",
-        "link": "https://www.mediafax.ro/social/nunta-in-familia-lui-ilie-bolojan-fiica-cea-mare-a-fostului-premier-se-casatoreste-la-oradea-cu-un-fost-fotbalist-23842946"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Ilie Bolojan este socru mic: fiica cea mare a fostului premier se căsătorește la Oradea. Cine este alesul",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/ilie-bolojan-este-socru-mic-fiica-cea-mare-a-2571510.html"
-      }
-    ],
-    "published_at": 1794665873,
-    "title_hu": "Oradán házasodott össze Ilie Bolojan lánya és Daniel Bota",
-    "lead_hu": "Lucia Maria Bolojan és Daniel Bota esküvőjét november 14-én tartották Oradén. A polgári szertartást Florin Birta polgármester vezette, a pár két nászaspárt választott.",
-    "content_hu": "• **Lucia Maria Bolojan és Daniel Bota november 14-én kötött házasságot Oradén.** A polgári ceremóniára a városházán került sor, Florin Birta polgármester közreműködésével. Birta beszámolója szerint a szertartáson a családtagok vettek részt, az esemény szűk körű volt.\n\n• **A pár két nászaspárt kért fel tanúnak.** Victor és Lavinia Puternity, valamint Andrei és Iulia Săftescu vállalta ezt a szerepet. Ilie Bolojan, Lucia Maria édesapja, partnerével, Ioana Fâșiével érkezett a városházára, és személyesen fogadta az odaérkező vendégeket.\n\n• **A vallási szertartás helyszínéül a Holdas templomot jelölték meg.** A városközpontban található templom után a fogadást a Palazzo Grand Hall rendezvénytermében tervezték megtartani; a helyszín hozzávetőleg négyszáz fő befogadására alkalmas. A beszámolók szerint a pár esküvőjének eseményei Oradén zajlottak.\n\n• **Lucia Maria Bolojan építészként dolgozik.** Oradén végezte középiskolai tanulmányait, majd a temesvári Politehnica Egyetem építészeti és urbanisztikai karán tanult. Pályája során több építészeti munkában vett részt, külföldi megbízói között olasz, brit, német, izraeli, spanyol és kelet-ázsiai partnerek is voltak.\n\n• **Daniel Bota korábban a FC Bihor labdarúgója volt, jelenleg vállalkozó.** Az Apuseni-hegység térségéből származik, és Luciával középiskolai évfolyamtársak voltak. A klub keretéhez 2013-ban tartozott, amikor a csapat a román másodosztályban szerepelt; sportolói pályafutása lezárása után az üzleti életben folytatta.",
-    "title_ro": "Fiica lui Ilie Bolojan s-a căsătorit la Oradea cu Daniel Bota",
-    "lead_ro": "Lucia Maria Bolojan și Daniel Bota și-au oficializat căsătoria pe 14 noiembrie, la Oradea. Ceremonia civilă a fost oficiată de primarul Florin Birta, iar cuplul a ales două perechi de nași.",
-    "content_ro": "• **Lucia Maria Bolojan și Daniel Bota s-au căsătorit pe 14 noiembrie, la Oradea.** Cununia civilă a avut loc la primărie și a fost oficiată de edilul Florin Birta. Potrivit acestuia, ceremonia s-a desfășurat într-un cadru restrâns, cu participarea familiei.\n\n• **Mirii au desemnat două perechi de nași.** Rolul le-a revenit lui Victor și Laviniei Puternity, respectiv lui Andrei și Iuliei Săftescu. Ilie Bolojan, tatăl miresei, a venit la primărie împreună cu partenera sa, Ioana Fâșie, și i-a întâmpinat pe oaspeți.\n\n• **Ceremonia religioasă era programată la Biserica cu Lună.** Lăcașul se află în centrul orașului, iar petrecerea urma să fie organizată la Palazzo Grand Hall. Sala de evenimente are o capacitate de aproximativ 400 de persoane, potrivit informațiilor publicate despre nuntă.\n\n• **Lucia Maria Bolojan este arhitectă.** A urmat liceul Emanuil Gojdu din Oradea, apoi Facultatea de Arhitectură și Urbanism a Universității Politehnica din Timișoara. În activitatea profesională a participat la proiecte de arhitectură și a colaborat cu beneficiari din Italia, Regatul Unit, Germania, Israel, Spania și Asia de Est.\n\n• **Daniel Bota a jucat fotbal la FC Bihor, iar în prezent activează în afaceri.** Originar din zona Munților Apuseni, el a fost coleg de liceu cu Lucia Maria. În 2013 făcea parte din lotul echipei, care evolua atunci în Liga a II-a; după retragerea din sport s-a orientat către mediul antreprenorial.",
-    "importance_score": 35.0,
-    "top_rank": 52,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3544,7 +3602,7 @@
     "lead_ro": "Vito Leccese, primarul orașului Bari, a decis să nu o mai susțină politic pe viceprimărița Giovanna Iacovone, după ce mașina acesteia a fost surprinsă de două ori parcată neregulamentar. Primul caz a vizat un loc destinat persoanelor cu dizabilități.",
     "content_ro": "• **Giovanna Iacovone nu mai beneficiază de sprijinul politic al primarului Vito Leccese**, după o discuție organizată la administrația locală în urma incidentelor de parcare. Viceprimărița avea în responsabilitate domeniul regenerării urbane.\n\n• **Prima abatere a fost înregistrată în septembrie**, când autoturismul Dacia al lui Iacovone se afla pe un loc rezervat persoanelor cu dizabilități. După publicarea imaginilor, aceasta și-a prezentat scuzele și a donat bani unei organizații care oferă sprijin persoanelor cu dizabilități.\n\n• **Un al doilea caz a apărut recent.** De această dată, aceeași mașină a fost fotografiată într-un spațiu destinat vehiculelor municipalității. Ambele situații au fost documentate de jurnaliștii publicației Corriere del Mezzogiorno.\n\n• **Leccese a retras sprijinul politic după al doilea incident.** Primarul a afirmat că repetarea unor încălcări ale regulilor poate afecta încrederea locuitorilor. Relatarea disponibilă menționează retragerea sprijinului, fără să ofere detalii despre încetarea mandatului de viceprimar.\n\n• **Numirea lui Iacovone a urmat unui acord politic încheiat după alegerile din 2024.** Stânga din Bari a participat la scrutin împărțită: Leccese a fost susținut, între alții, de Partidul Democrat, iar avocatul Michele Laforgia de Convenzione per Bari. Această alianță îi includea pe Mișcarea Cinci Stele și La Giusta Causa, organizația care a propus-o pe Iacovone pentru funcția de viceprimar.",
     "importance_score": 35.0,
-    "top_rank": 53,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3582,7 +3640,7 @@
     "lead_ro": "Ministrul Dezvoltării, Alexandru Stoica, s-a întâlnit la Botoșani cu prefectul, primarii și parlamentarii județului pentru a prezenta asocierea și comasarea voluntară a localităților. Potrivit ministrului, reunirea resurselor poate spori capacitatea comunităților de a atrage investiții și de a-și dezvolta serviciile.",
     "content_ro": "• **Comasarea voluntară a localităților a fost tema principală a întâlnirii.** La Botoșani, ministrul Dezvoltării, Alexandru Stoica, a prezentat prefectului, primarilor și parlamentarilor din județ inițiativa „START Reforma Administrativă: asociere și comasare voluntară”. Oficialul le-a solicitat reprezentanților locali să ia în considerare această opțiune.\n\n• **Ministrul a prezentat punerea în comun a resurselor drept o posibilă cale de dezvoltare.** În opinia sa, unitățile administrative care se asociază sau se comasează voluntar ar putea atrage mai multe investiții, moderniza infrastructura și îmbunătăți serviciile publice. Acestea au fost prezentate ca beneficii posibile, nu ca rezultate deja obținute.\n\n• **Discuțiile au inclus și exemple de investiții locale.** Au fost menționate rețelele de apă și canalizare, modernizarea școlilor, centrele medicale și drumurile. Stoica a spus că reforma ar trebui să producă efecte vizibile în comunități, nu să rămână doar o schimbare formală.\n\n• **Participanții au analizat proiectele aflate în desfășurare.** Pe agenda întâlnirii s-au aflat stadiul investițiilor, obstacolele apărute în implementare și formele de sprijin pe care Ministerul Dezvoltării le poate oferi autorităților locale pentru finalizarea lucrărilor.\n\n• **Alexandru Stoica a indicat că dorește continuarea dialogului prin acțiuni concrete.** Potrivit relatărilor, ministrul își dorește o colaborare mai strânsă în perioada următoare. Nu a fost anunțată însă o decizie a vreunei localități din județ de a trece la comasare.",
     "importance_score": 35.0,
-    "top_rank": 54,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3619,45 +3677,6 @@
     "title_ro": "Marcus Aurelius a descris băile romane într-o manieră neobișnuită",
     "lead_ro": "Băile romane erau importante atât pentru igiena personală, cât și pentru viața socială, însă Marcus Aurelius a ales să scoată în evidență aspectele mai puțin atrăgătoare. Pasajul din Meditații ilustrează perspectiva stoică a împăratului și încercarea sa de a-și stăpâni dorințele.",
     "content_ro": "• **Băile publice aveau un rol social important în orașele romane.** Locuitorii mergeau acolo pentru odihnă și conversații, dar și pentru a discuta chestiuni politice sau a încheia afaceri. Aceste spații erau, totodată, o modalitate de petrecere a timpului liber și o parte reprezentativă a vieții urbane.\n\n• **Marcus Aurelius a pus accentul pe latura mai puțin plăcută a băilor.** În partea a 24-a din cartea a VIII-a a Meditațiilor, el a menționat uleiul, transpirația, murdăria și apa tulbure, nu confortul ori aspectul somptuos al construcțiilor. În felul acesta, descrierea sa contrasta cu imaginea atrăgătoare asociată acestor locuri.\n\n• **Observația nu urmărea să formuleze o plângere despre igiena băilor.** Împăratul recurgea la o modalitate de a privi lucrurile dincolo de aparențe și de a reduce fascinația exercitată de plăcerile cotidiene. Redarea directă a unor detalii obișnuite îl ajuta să nu idealizeze experiența și să-și controleze reacțiile.\n\n• **Exemplul reflectă preocupările sale de inspirație stoică.** Marcus Aurelius a condus Imperiul Roman între anii 161 și 180 d.Hr., iar în Meditații a abordat teme precum confortul, dorințele, reputația și autocontrolul. Episodul băilor arată cum folosea o situație familiară pentru a-și exersa detașarea și a-și păstra echilibrul interior.",
-    "importance_score": 35.0,
-    "top_rank": 55,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_6e615447ab",
-    "slug": "messi-januarban-a-river-plate-ellen-lep-palyara-buenos-airesben-6e6154",
-    "tags": [
-      "lionel-messi",
-      "inter-miami",
-      "river-plate",
-      "fotbal",
-      "buenos-aires"
-    ],
-    "fingerprint": "63c0c894c50b60dffc772bd505e2448b",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Lionel Messi va juca din nou în Argentina! » Anunțul cluburilor",
-        "link": "https://www.gsp.ro/gspro/translations/lionel-messi-river-plate-inter-miami-argentina-999036.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Lionel Messi va reveni pe Stadionul Monumental din Buenos Aires cu Inter Miami",
-        "link": "https://adevarul.ro/sport/lionel-messi-va-reveni-pe-stadionul-monumental-din-2571451.html"
-      }
-    ],
-    "published_at": 1794658992,
-    "title_hu": "Messi januárban a River Plate ellen lép pályára Buenos Airesben",
-    "lead_hu": "Az Inter Miami és a River Plate 2027. január 19-re barátságos mérkőzést szervezett az argentin fővárosban. Lionel Messi a tervek szerint azon a stadionon játszik újra, ahol októberben búcsúzott az argentin válogatottól.",
-    "content_hu": "• **Az Inter Miami és a River Plate január 19-én játszik egymással Buenos Airesben.** A találkozót a River otthonában, az Estadio Monumentalban rendezik meg; a klubok közlése szerint barátságos mérkőzésről van szó.\n\n• **Lionel Messi visszatér az argentin főváros stadionjába.** A helyszín az a Monumental, ahol október 7-én, a Benin elleni 3–0-s győzelem után elbúcsúzott a válogatottól. A mérkőzésen gólt szerzett, és két gólpasszt adott.\n\n• **A közlemény további ismert játékosokat is megnevezett.** Messi mellett Luis Suárez, Nicolás Otamendi, Thiago Almada és Rodrigo de Paul szereplésére is kitértek a bejelentésben; a keretek végleges összetételéről nem közöltek részleteket.\n\n• **A River lesz a házigazda, az Inter Miami pedig az Egyesült Államokból érkezik.** A két klub közös bejelentése szerint a találkozó két, eltérő úton fejlődő, nemzetközi ismertségű futballintézményt hoz össze, amelyek az elmúlt években jelentős növekedést értek el.\n\n• **Messi az argentin válogatottal jelentős sikereket ért el.** A búcsúmérkőzés előtt világbajnoki címet és két Copa América-trófeát nyert a nemzeti csapattal. A januári találkozó így klubmérkőzés lesz, nem a válogatott programjának része.",
-    "title_ro": "Messi va juca în ianuarie la Buenos Aires împotriva lui River Plate",
-    "lead_ro": "Inter Miami și River Plate au programat un meci amical pentru 19 ianuarie 2027, în capitala Argentinei. Lionel Messi ar urma să revină pe stadionul unde, în octombrie, și-a luat rămas-bun de la echipa națională.",
-    "content_ro": "• **Inter Miami și River Plate se vor întâlni la Buenos Aires pe 19 ianuarie.** Partida este programată pe Estadio Monumental, terenul lui River, iar cluburile au anunțat că va avea caracter amical.\n\n• **Lionel Messi va reveni pe stadionul din capitala Argentinei.** Pe 7 octombrie, după victoria cu 3–0 în fața Beninului, acesta și-a încheiat parcursul la națională pe Monumental. În acel meci a înscris un gol și a oferit două pase decisive.\n\n• **Anunțul a menționat și alți fotbaliști cunoscuți.** Pe lângă Messi, comunicatul a făcut referire la Luis Suárez, Nicolás Otamendi, Thiago Almada și Rodrigo de Paul, fără să ofere detalii despre componența finală a echipelor.\n\n• **River Plate va fi gazda, iar Inter Miami va veni din Statele Unite.** Potrivit comunicării comune, partida va reuni două cluburi cu parcursuri diferite și notorietate internațională, care au crescut considerabil în ultimii ani.\n\n• **Messi a obținut trofee importante alături de naționala Argentinei.** Înaintea retragerii de la echipa națională, a câștigat Cupa Mondială și două ediții ale Copa América. Meciul din ianuarie este unul între cluburi și nu face parte din programul naționalei.",
     "importance_score": 35.0,
     "top_rank": 56,
     "is_top_hero": false,
@@ -4030,6 +4049,45 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_6e615447ab",
+    "slug": "messi-januarban-a-river-plate-ellen-lep-palyara-buenos-airesben-6e6154",
+    "tags": [
+      "lionel-messi",
+      "inter-miami",
+      "river-plate",
+      "fotbal",
+      "buenos-aires"
+    ],
+    "fingerprint": "63c0c894c50b60dffc772bd505e2448b",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Lionel Messi va juca din nou în Argentina! » Anunțul cluburilor",
+        "link": "https://www.gsp.ro/gspro/translations/lionel-messi-river-plate-inter-miami-argentina-999036.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Lionel Messi va reveni pe Stadionul Monumental din Buenos Aires cu Inter Miami",
+        "link": "https://adevarul.ro/sport/lionel-messi-va-reveni-pe-stadionul-monumental-din-2571451.html"
+      }
+    ],
+    "published_at": 1794658992,
+    "title_hu": "Messi januárban a River Plate ellen lép pályára Buenos Airesben",
+    "lead_hu": "Az Inter Miami és a River Plate 2027. január 19-re barátságos mérkőzést szervezett az argentin fővárosban. Lionel Messi a tervek szerint azon a stadionon játszik újra, ahol októberben búcsúzott az argentin válogatottól.",
+    "content_hu": "• **Az Inter Miami és a River Plate január 19-én játszik egymással Buenos Airesben.** A találkozót a River otthonában, az Estadio Monumentalban rendezik meg; a klubok közlése szerint barátságos mérkőzésről van szó.\n\n• **Lionel Messi visszatér az argentin főváros stadionjába.** A helyszín az a Monumental, ahol október 7-én, a Benin elleni 3–0-s győzelem után elbúcsúzott a válogatottól. A mérkőzésen gólt szerzett, és két gólpasszt adott.\n\n• **A közlemény további ismert játékosokat is megnevezett.** Messi mellett Luis Suárez, Nicolás Otamendi, Thiago Almada és Rodrigo de Paul szereplésére is kitértek a bejelentésben; a keretek végleges összetételéről nem közöltek részleteket.\n\n• **A River lesz a házigazda, az Inter Miami pedig az Egyesült Államokból érkezik.** A két klub közös bejelentése szerint a találkozó két, eltérő úton fejlődő, nemzetközi ismertségű futballintézményt hoz össze, amelyek az elmúlt években jelentős növekedést értek el.\n\n• **Messi az argentin válogatottal jelentős sikereket ért el.** A búcsúmérkőzés előtt világbajnoki címet és két Copa América-trófeát nyert a nemzeti csapattal. A januári találkozó így klubmérkőzés lesz, nem a válogatott programjának része.",
+    "title_ro": "Messi va juca în ianuarie la Buenos Aires împotriva lui River Plate",
+    "lead_ro": "Inter Miami și River Plate au programat un meci amical pentru 19 ianuarie 2027, în capitala Argentinei. Lionel Messi ar urma să revină pe stadionul unde, în octombrie, și-a luat rămas-bun de la echipa națională.",
+    "content_ro": "• **Inter Miami și River Plate se vor întâlni la Buenos Aires pe 19 ianuarie.** Partida este programată pe Estadio Monumental, terenul lui River, iar cluburile au anunțat că va avea caracter amical.\n\n• **Lionel Messi va reveni pe stadionul din capitala Argentinei.** Pe 7 octombrie, după victoria cu 3–0 în fața Beninului, acesta și-a încheiat parcursul la națională pe Monumental. În acel meci a înscris un gol și a oferit două pase decisive.\n\n• **Anunțul a menționat și alți fotbaliști cunoscuți.** Pe lângă Messi, comunicatul a făcut referire la Luis Suárez, Nicolás Otamendi, Thiago Almada și Rodrigo de Paul, fără să ofere detalii despre componența finală a echipelor.\n\n• **River Plate va fi gazda, iar Inter Miami va veni din Statele Unite.** Potrivit comunicării comune, partida va reuni două cluburi cu parcursuri diferite și notorietate internațională, care au crescut considerabil în ultimii ani.\n\n• **Messi a obținut trofee importante alături de naționala Argentinei.** Înaintea retragerii de la echipa națională, a câștigat Cupa Mondială și două ediții ale Copa América. Meciul din ianuarie este unul între cluburi și nu face parte din programul naționalei.",
+    "importance_score": 28.0,
+    "top_rank": 66,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_183c7f2cc2",
     "slug": "uj-sportletesitmenyt-avattak-fel-az-allianz-tiriac-summer-arenaban-183c7f",
     "tags": [
@@ -4064,7 +4122,7 @@
     "lead_ro": "Noua facilitate sportivă din cadrul Allianz-Țiriac Summer Arena a fost deschisă pe 14 noiembrie, în urma unei investiții de 7,5 milioane de euro. David Popovici și partenera sa au participat la inaugurare.",
     "content_ro": "• **Noua facilitate sportivă din Allianz-Țiriac Summer Arena a fost inaugurată pe 14 noiembrie.** Complexul are o suprafață construită de 3.877 de metri pătrați și a fost realizat în urma unei investiții de 7,5 milioane de euro a lui Ion Țiriac. David Popovici a venit la eveniment împreună cu partenera sa, iar printre invitați s-au numărat Ana Maria Brânză, Camelia Potec și Alina Dumitru.\n\n• **Bazinul este amenajat pentru antrenamente și competiții de înot.** Acesta măsoară 50 de metri în lungime, are zece culoare și o adâncime de doi metri. Dotările includ blocstarturi și un sistem oficial de cronometrare Omega.\n\n• **Centrul cuprinde și spații dedicate scrimei și judo-ului.** Sala de scrimă are 128 de metri pătrați și include piste utilizabile de copii pentru antrenament. Sala de judo se întinde pe 400 de metri pătrați, iar suprafața de lucru este acoperită cu tatami.\n\n• **Pentru primul an de funcționare sunt estimați 36.000 de beneficiari.** În ziua inaugurării au fost organizate activități gratuite de înot, scrimă și judo pentru copii cu vârste între 4 și 12 ani, iar antrenamentele au început pe 16 noiembrie. Patinoarul din apropiere urmează să poarte numele Allianz-Țiriac Winter Arena.",
     "importance_score": 28.0,
-    "top_rank": 66,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4097,7 +4155,7 @@
     "lead_ro": "David Popovici (22 de ani) a vorbit despre întâlnirea cu Cristian Chivu, comparația cu Nadia Comăneci, legăturile cu Italia, dar și perspectiva de a purta steagul României la deschiderea Jocurilor Oli…",
     "content_ro": "David Popovici (22 de ani) a vorbit despre întâlnirea cu Cristian Chivu, comparația cu Nadia Comăneci, legăturile cu Italia, dar și perspectiva de a purta steagul României la deschiderea Jocurilor Olimpice de la Los Angeles 2028 într-un interviu în Gazzetta dello Sport. Multiplul campion mondial și european David Popovici a trăit recent o experiență inedită: a fost prezent pentru prima dată în tribună la un meci de fotbal. ...",
     "importance_score": 28.0,
-    "top_rank": 67,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4135,7 +4193,7 @@
     "lead_ro": "Vineri, în portul New Orleans, cargoul cisternă Atlantic Asphalt a lovit nava de pasageri American Heritage, care s-a răsturnat pe o parte. Autoritățile au transmis că nu există persoane dispărute; 32 de oameni au ajuns la spital, fără răni care să le pună viața în pericol.",
     "content_ro": "• **Coliziunea s-a produs vineri, în jurul orei locale 12:30, în portul New Orleans, Louisiana.** Nava American Heritage, operată de American Cruise Lines, era oprită acolo de aproximativ două ore, iar pasagerii coborau la țărm când a fost lovită de cisterna Atlantic Asphalt.\n\n• **După impact, vasul de pasageri s-a înclinat și apoi s-a răsturnat pe o parte.** Mai multe persoane au ajuns în apele fluviului Mississippi. Unii pasageri au așteptat ajutorul purtând veste de salvare, iar echipele de intervenție au scos oameni din apă.\n\n• **Toți pasagerii și membrii echipajului au fost găsiți, iar autoritățile nu au raportat persoane dispărute.** Relatările au indicat cifre diferite privind numărul celor aflați la bord: aproximativ 130 într-o relatare și circa 180 în alta. Primarul orașului a evidențiat rapiditatea intervenției.\n\n• **În total, 32 de persoane au fost transportate la spital.** Potrivit HotNews.ro, printre acestea se aflau 30 de pasageri și doi polițiști portuari care au participat la salvare. Niciuna dintre persoanele spitalizate nu era în stare critică; Adevărul a relatat, de asemenea, că rănile nu le puneau viața în pericol.\n\n• **Cauza exactă a accidentului nu a fost stabilită.** Căpitanul navei cisternă a invocat o posibilă defecțiune a sistemului de direcție, iar o problemă tehnică este luată în calcul. La operațiune au participat polițiști portuari, pompieri, Garda de Coastă și echipajele altor nave aflate în zonă.",
     "importance_score": 28.0,
-    "top_rank": 68,
+    "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4173,7 +4231,7 @@
     "lead_ro": "România întâlnește Polonia pe 14 noiembrie, la București, în etapa a cincea a Ligii Națiunilor. Gheorghe Hagi a ales 23 de jucători pentru meci, iar echipa sa nu avea niciun punct după primele patru etape.",
     "content_ro": "• **Partida este programată pe 14 noiembrie, de la ora 21:45, pe Arena Națională din București.** România joacă împotriva Poloniei în etapa a cincea a Ligii Națiunilor și venea după patru meciuri fără punct. Tricolorii încearcă să obțină un rezultat mai bun după înfrângerea cu 0–6 suferită la Varșovia; în grupă mai au de jucat și cu Bosnia și Herțegovina.\n\n• **Gheorghe Hagi a desemnat 23 de fotbaliști pentru confruntarea cu Polonia.** Nicolae Stanciu și Valentin Mihăilă au devenit indisponibili din cauza accidentărilor, iar Răzvan Marin nu poate evolua, fiind suspendat pentru cumul de cartonașe galbene. Rareș Ilie a fost convocat după problemele medicale, însă nu a fost inclus în lotul final pentru acest meci.\n\n• **Selecționerul polonez se așteaptă la o partidă importantă pentru ambele formații.** Jan Urban a spus că echipa sa urmărește ocuparea locului al doilea în grupă. În opinia sa, România va încerca să profite de sprijinul publicului de pe teren propriu.\n\n• **Urban a indicat îmbunătățirea rezultatelor drept prioritatea Poloniei.** Înaintea ultimelor două jocuri din grupă, antrenorul vrea ca echipa să se concentreze pe modul de joc și pe alegerea fotbaliștilor cărora le va oferi șanse. El a răspuns și întrebărilor legate de presiunea din presă, afirmând că atenția sa rămâne asupra activității echipei.",
     "importance_score": 28.0,
-    "top_rank": 69,
+    "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4212,7 +4270,7 @@
     "lead_ro": "Poliția de Frontieră Română a anunțat că circa 360 de camioane sunt în așteptare la Siret pentru a intra în Ucraina. Numărul mare de transporturi dinaintea sărbătorilor de iarnă și ritmul mai lent de preluare de pe partea ucraineană contribuie la aglomerație.",
     "content_ro": "• **Circa 360 de camioane sunt staționate pe partea română a punctului de trecere Siret**, în așteptarea verificărilor necesare pentru continuarea deplasării spre Ucraina. Timpii de așteptare sunt ridicați pe direcția de ieșire din România.\n\n• **Creșterea transporturilor de mărfuri și capacitatea de preluare din Ucraina explică formarea coloanei.** În perioada dinaintea sărbătorilor de iarnă, volumul transporturilor este mai mare, iar partea ucraineană nu poate prelua vehiculele în același ritm în care acestea ajung la frontieră.\n\n• **Capacitatea de procesare diferă de la o parte a frontierei la cealaltă.** În condiții obișnuite, punctul Siret poate gestiona aproximativ 250 de camioane într-un interval de 12 ore. În aceeași perioadă, autoritățile ucrainene preiau, în medie, între 170 și 200 de vehicule, ceea ce menține o parte dintre acestea în așteptare în România.\n\n• **Toate cele trei benzi destinate camioanelor sunt folosite la Siret.** Polițiștii verifică inclusiv vehiculele aflate în coloană cu ajutorul echipamentelor mobile eDAC. Pentru organizarea circulației și păstrarea accesului către punctul de trecere, aceștia lucrează împreună cu Poliția Rutieră.\n\n• **Autoritățile române discută cu instituțiile ucrainene despre accelerarea procesării.** Cooperarea urmărește identificarea unor măsuri care să permită preluarea unui număr mai mare de camioane și să reducă timpul petrecut la coadă de transportatori.",
     "importance_score": 28.0,
-    "top_rank": 70,
+    "top_rank": 71,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4251,7 +4309,7 @@
     "lead_ro": "Târgul de Crăciun din Craiova s-a deschis în seara de 13 noiembrie, iar primarul a estimat că aproximativ 100.000 de persoane au fost prezente la inaugurare. Evenimentul se desfășoară pe 27 de hectare și include decoruri tematice și atracții pentru vizitatori.",
     "content_ro": "• **Târgul de Crăciun din Craiova a fost inaugurat în seara de 13 noiembrie.** Potrivit primarului Lia Olguța Vasilescu, la deschidere au participat aproximativ 100.000 de oameni. Printre vizitatori s-au aflat localnici, persoane venite din alte regiuni ale României și turiști străini.\n\n• **Amenajarea ocupă 27 de hectare.** Spațiul cuprinde ornamente de sărbătoare, instalații luminoase și decoruri cu teme specifice. Primarul a descris evenimentul drept cel mai mare târg de Crăciun din lume și unul dintre cele mai frumoase din Europa.\n\n• **Tema ediției din acest an este „Tărâmul elfilor”.** Organizatorii au combinat elemente de inspirație internațională cu decorațiuni legate de tradițiile românești de Crăciun. Administrația locală se așteaptă la mulți vizitatori din străinătate, în urma titlului obținut pentru 2026.\n\n• **Programul include mai multe atracții speciale.** Vizitatorii pot vedea o sanie zburătoare și liftul lui Moș Crăciun. Printre elementele anunțate se mai numără o figurină a lui Moș Crăciun de nouă metri, un labirint al elfilor și un trenuleț cu jucării care circulă în jurul unui brad decorat spectaculos.\n\n• **Evenimentul a primit anterior o recunoaștere internațională.** Potrivit primarului, vizitatorii platformei turistice European Best Destinations au desemnat târgul drept cel mai frumos din Europa în anul precedent. Platforma este partener turistic al Comisiei Europene.",
     "importance_score": 28.0,
-    "top_rank": 71,
+    "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4289,7 +4347,7 @@
     "lead_ro": "Președintele cubanez Miguel Díaz-Canel a declarat vineri că țara sa se pregătește pentru o posibilă acțiune militară a Statelor Unite. Afirmația a venit după o remarcă a lui Donald Trump despre Cuba, interpretată pe scară largă drept o amenințare.",
     "content_ro": "• **Conducerea Cubei ia în calcul posibilitatea unei acțiuni militare americane.** Miguel Díaz-Canel a spus vineri că țara se pregătește pentru un asemenea scenariu. Declarația sa a urmat unei remarci a președintelui american Donald Trump privind Cuba, care a provocat îngrijorare și a fost interpretată de mulți ca un avertisment.\n\n• **Díaz-Canel a afirmat că țara sa s-ar opune unei agresiuni militare străine.** Președintele a transmis că Cuba și-ar apăra teritoriul în cazul unui atac. Totodată, a descris țara drept pașnică și a susținut că aceasta nu constituie o amenințare pentru securitatea națională a Statelor Unite.\n\n• **Trump a răspuns joi unei întrebări despre o eventuală intervenție militară în Cuba.** Într-un interviu radiofonic realizat de Hugh Hewitt, acesta a fost întrebat dacă ar lua în calcul o astfel de acțiune. Trump a spus că dorește să rezolve problema Cubei înainte de a-și încheia mandatul.\n\n• **Remarca președintelui american a fost considerată de numeroși observatori drept amenințătoare, fără să anunțe însă o decizie militară.** Potrivit informațiilor prezentate, Díaz-Canel și-a exprimat poziția ca reacție la aceste declarații. Nu au fost oferite detalii despre măsurile concrete prin care Cuba se pregătește pentru un posibil atac.",
     "importance_score": 28.0,
-    "top_rank": 72,
+    "top_rank": 73,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4322,7 +4380,7 @@
     "lead_ro": "A Német megyei Sólyomkőn történt a baleset péntek este.",
     "content_ro": "A Német megyei Sólyomkőn történt a baleset péntek este.",
     "importance_score": 28.0,
-    "top_rank": 73,
+    "top_rank": 74,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4355,7 +4413,7 @@
     "lead_ro": "Presa din Polonia a scris un material care a abordat decăderea fotbalului românesc. Adversarii din această seară nu se tem deloc de naționala lui Gheorghe Hagi. România - Polonia se joacă astăzi, la 2…",
     "content_ro": "Presa din Polonia a scris un material care a abordat decăderea fotbalului românesc. Adversarii din această seară nu se tem deloc de naționala lui Gheorghe Hagi. România - Polonia se joacă astăzi, la 21:45, și va fi liveTEXT pe GSP.ro și în direct pe Antena 1. Trei zile mai târziu, tricolorii vor evolua la Zenica, cu Bosnia și Herțegovina, la aceeași oră. Polonezii de la sport. ...",
     "importance_score": 28.0,
-    "top_rank": 74,
+    "top_rank": 75,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4394,7 +4452,7 @@
     "lead_ro": "Sâmbătă, circulația s-a desfășurat în condiții de iarnă pe mai multe drumuri aflate la altitudine, iar pentru intervenții au fost mobilizate peste 50 de utilaje. Drumarii nu au semnalat blocaje, însă le-au recomandat șoferilor să folosească vehicule pregătite pentru sezonul rece.",
     "content_ro": "• **Mai multe șosele montane au avut condiții de circulație specifice iernii:** Direcția Regională de Drumuri și Poduri Brașov a informat că, în zonele afectate de ninsoare, zăpada s-a depus și pe carosabil. Printre tronsoanele vizate s-au numărat DN1 și DN73 în apropiere de Predeal, precum și DN73 la Fundata.\n\n• **Ninsoarea a afectat și alte rute importante din regiune:** circulația s-a desfășurat în condiții de iarnă pe DN7C, pe Transfăgărășan, pe DN10 în zona Teliu și pe DN11, în Pasul Oituz. Echipele de drumari au urmărit situația atât în zonele cu precipitații, cât și pe sectoarele unde temperaturile erau scăzute.\n\n• **Au fost trimise în teren peste 50 de utilaje pentru deszăpezire:** acestea au intervenit pe drumurile afectate și au fost amplasate preventiv în zonele unde frigul putea înrăutăți condițiile de trafic. La momentul informării, autoritățile nu raportaseră drumuri blocate sau probleme importante de circulație.\n\n• **Șoferii au fost îndemnați să pornească la drum numai cu mașini echipate pentru iarnă:** stratul de zăpadă și temperaturile joase pot îngreuna deplasarea, mai ales la altitudini ridicate. Recomandarea a fost ca participanții la trafic să țină cont de condițiile întâlnite pe traseu.\n\n• **Prognoza anunța vânt puternic, ploi și ninsori în mai multe regiuni:** potrivit informării meteorologice publicate vineri, rafalele de la munte puteau ajunge la 140 km/h. Începând de sâmbătă era anticipată o scădere accentuată a temperaturilor, cu valori minime sub zero grade în cea mai mare parte a țării.",
     "importance_score": 28.0,
-    "top_rank": 75,
+    "top_rank": 76,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4432,7 +4490,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, a declarat că tarifele pentru gărzile medicilor ar urma să fie revizuite din ianuarie 2027, iar rezidenții ar urma să fie incluși în liniile de gardă plătite. Propunerea prevede raportarea tarifului la salariile din 2026 și o plată mai mare pentru medicii care efectuează mai multe gărzi.",
     "content_ro": "• **Noua formulă de plată ar putea intra în vigoare în ianuarie 2027.** Ministrul Sănătății, Alexandru Rogobete, a spus că discuțiile despre actualizarea tarifelor sunt avansate. Potrivit acestuia, propunerea a fost discutată și cu ministrul Finanțelor, Alexandru Nazare.\n\n• **Tariful ar urma să fie raportat la salariile aflate în plată în 2026.** În prezent, plata gărzilor este calculată folosind nivelul salarial din 2018, situație pe care Rogobete a descris-o drept inechitabilă. Proiectul ar schimba baza de calcul, astfel încât aceasta să reflecte salariile din 2026.\n\n• **Medicii care fac mai multe gărzi într-o lună ar putea primi un tarif mai mare.** Varianta discutată prevede o creștere progresivă a plății începând de la a doua sau a treia gardă. Pragul nu a fost stabilit, iar ministrul a precizat că formula este încă în negociere. Argumentul prezentat este volumul mai mare de muncă și oboseala suplimentară.\n\n• **Medicii rezidenți ar urma să fie incluși în gărzile remunerate.** Proiectul prevede participarea lor în liniile de gardă plătite. Rogobete a avertizat că lipsa unei soluții privind tarifele și organizarea gărzilor ar putea îngreuna acoperirea acestora și reducerea tensiunilor din sistemul sanitar.",
     "importance_score": 25.0,
-    "top_rank": 76,
+    "top_rank": 77,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4471,7 +4529,7 @@
     "lead_ro": "Municipalitatea a prezentat un prim set de schimbări pentru eficientizarea STB. Planul include evidența electronică a curselor, noi puncte de vânzare pentru titlurile de călătorie, reorganizarea personalului și folosirea mai eficientă a atelierelor proprii.",
     "content_ro": "• **Reorganizarea este anunțată în contextul datoriilor și al intrării STB în insolvență.** Compania a ajuns în această procedură în septembrie, după ce acumulase obligații de plată de peste 3 miliarde de lei. Primăria Capitalei a făcut publice măsuri menite să schimbe modul de funcționare și să reducă pierderile.\n\n• **Datele transmise de vehicule ar urma să înlocuiască evidența pe hârtie a curselor.** Prin documentele electronice, STB va putea urmări distanțele parcurse și cantitatea de combustibil consumată. Compararea acestor informații poate scoate la iveală neconcordanțe în registre. Planul vizează, totodată, utilizarea mai bună a capacității de reparații din atelierele companiei.\n\n• **Călătorii vor avea la dispoziție mai multe canale pentru cumpărarea biletelor.** STB intenționează să colaboreze în acest scop cu Meridian Taxi și Selpay. Începând cu 1 decembrie, titlurile de călătorie ar urma să fie disponibile și la cele 300 de parcometre ale Companiei Municipale Parking.\n\n• **Noua organigramă prevede eliminarea a 1.709 posturi.** Dintre acestea, 919 erau vacante, iar pentru 796 de locuri ocupate s-au transmis preavize. Potrivit Primăriei, sunt luate în calcul, între altele, abaterile disciplinare, depistarea sub influența alcoolului, suspiciunile de furt de combustibil și alte probleme legale. Au fost desființate și 44 dintre cele 163 de funcții de conducere. Obiectivul pe termen mediu este o companie cu aproximativ 7.000 de angajați.\n\n• **Revizuirea contractului colectiv reduce atât numărul sporurilor, cât și compensațiile pentru plecare.** Tipurile de sporuri vor scădea de la 36 la 32. Plățile compensatorii, stabilite anterior la echivalentul a 16–20 de salarii, ar urma să fie de 2–4 salarii, în funcție de vechimea angajatului.",
     "importance_score": 25.0,
-    "top_rank": 77,
+    "top_rank": 78,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4509,7 +4567,7 @@
     "lead_ro": "Ilie Bolojan, liderul PNL și fost premier, a comentat cele mai recente date ale Institutului Național de Statistică, evidențiind creșterea economiei și scăderea deficitului bugetar. El a avertizat însă că avansul este fragil și că disciplina financiară trebuie menținută.",
     "content_ro": "• **Economia a crescut în trimestrul al treilea.** Potrivit datelor INS prezentate de Bolojan, activitatea economică a fost cu 2,1% mai ridicată decât în trimestrul al doilea. Fostul premier a considerat că evoluția contrazice estimările privind o posibilă prăbușire economică.\n\n• **Deficitul bugetar s-a redus în primele nouă luni.** Indicatorul a coborât la 3,81% din PIB, conform cifrelor citate de liderul PNL. Bolojan a descris rezultatul drept un semn al progresului în ajustarea finanțelor publice.\n\n• **Investițiile publice au ajuns la aproape 108 miliarde de lei.** Suma aferentă primelor nouă luni ale anului a fost cu peste 25 de miliarde de lei mai mare decât cea înregistrată în perioada similară din 2025.\n\n• **Bolojan a cerut continuarea direcției bugetare.** El a susținut că rezultatele pozitive trebuie consolidate și a amintit că, timp de mai mulți ani, cheltuielile României au depășit veniturile încasate. În opinia sa, menținerea măsurilor actuale ar putea susține rezultate mai bune.\n\n• **Fostul premier a avertizat că dificultățile nu au dispărut.** El a caracterizat creșterea drept vulnerabilă și a spus că sunt necesare eforturi suplimentare pentru întărirea economiei și a finanțelor publice. Totodată, a acuzat PSD că distorsionează interpretarea cifrelor și afectează încrederea în măsurile de corecție.",
     "importance_score": 25.0,
-    "top_rank": 78,
+    "top_rank": 79,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4547,7 +4605,7 @@
     "lead_ro": "După înfrângerea republicanilor la cele mai recente alegeri de la jumătatea mandatului, JD Vance își reevaluează planurile pentru scrutinul prezidențial din 2028. Persoane apropiate lui spun că nu a luat încă o decizie, iar candidatura rămâne, în opinia unora dintre ele, varianta mai probabilă.",
     "content_ro": "• **Vance analizează dacă va intra în cursa prezidențială din 2028:** persoane din anturajul vicepreședintelui, citate de CNN sub protecția anonimatului, spun că acesta se gândește serios să nu candideze. În rândul republicanilor, el fusese considerat un posibil succesor politic al lui Donald Trump.\n\n• **Rezultatul alegerilor a schimbat calculele partidului:** republicanii au pierdut majoritatea atât în Camera Reprezentanților, cât și în Senat, în timp ce democrații au obținut mai multe mandate. În cercul lui Vance se pune problema dacă un republican poate câștiga în 2028 în contextul politic asociat lui Trump.\n\n• **Hotărârea privind candidatura nu este definitivă:** aliați ai vicepreședintelui au declarat pentru Washington Post că până la următorul scrutin situația politică se poate modifica semnificativ. Cu toate acestea, unele persoane care îi cunosc gândirea consideră că este mai probabil să candideze decât să renunțe.\n\n• **Diviziunile din tabăra MAGA îi pot influența opțiunile:** potrivit surselor, Vance observă dificultățile politice cu care se confruntă administrația Trump și este preocupat de refacerea mișcării care a câștigat alegerile din 2024. Nu este însă clar dacă el ar trebui să preia conducerea acesteia.\n\n• **Responsabilitățile familiale sunt un alt factor posibil:** ambițiile politice ale vicepreședintelui trebuie cântărite alături de rolul său de tată. La 42 de ani, Vance ar putea avea și alte ocazii de a candida, dacă apreciază că actualele condiții nu îi oferă perspective favorabile.",
     "importance_score": 25.0,
-    "top_rank": 79,
+    "top_rank": 80,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4585,7 +4643,7 @@
     "lead_ro": "O campanie de rechemare vizează 720.796 de automobile BMW aflate în Statele Unite, din cauza unei posibile defecțiuni electrice care poate provoca un incendiu chiar și când mașina este oprită. Autoritatea americană recomandă parcarea în aer liber, la distanță de clădiri și de alte vehicule, până la remedierea problemei.",
     "content_ro": "• **Rechemarea cuprinde 720.796 de vehicule BMW din Statele Unite.** Constructorul a anunțat măsura vineri, după identificarea unui risc de incendiu care poate exista inclusiv atunci când automobilul este staționat și nu funcționează.\n\n• **Autoritatea americană pentru siguranța traficului recomandă parcarea în exterior până la reparație.** Proprietarii sunt sfătuiți să nu lase mașinile în apropierea clădirilor sau a altor vehicule, pentru a limita posibilele consecințe ale unui incendiu.\n\n• **Posibila defecțiune are legătură cu etanșarea unui conector electric al pompei de apă.** Dacă protecția acestuia nu este suficientă, umezeala poate ajunge la componentele electrice și poate provoca un scurtcircuit, crescând riscul de aprindere.\n\n• **O parte dintre automobile au fost deja incluse într-o campanie de reparații din 2024.** Măsura de atunci a vizat o problemă asociată pompei de apă, iar actuala rechemare impune o nouă intervenție și pentru vehiculele reparate anterior.\n\n• **BMW a identificat zece incendii produse după intervențiile efectuate în cadrul campaniei precedente.** Compania consideră că aceste cazuri ar putea avea legătură cu defecțiunea investigată în prezent. Soluția tehnică de reparație este încă în curs de elaborare, astfel că recomandarea de parcare rămâne valabilă până la remedierea automobilelor.",
     "importance_score": 25.0,
-    "top_rank": 80,
+    "top_rank": 81,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4623,7 +4681,7 @@
     "lead_ro": "Gardienii Revoluției din Iran au anunțat că două petroliere au lovit mine în Strâmtoarea Ormuz în noaptea de sâmbătă, după care au explodat și au luat foc. Informațiile despre incident provin din comunicatul iranian, iar relatarea nu menționează o confirmare independentă.",
     "content_ro": "• **Gardienii Revoluției au raportat incendierea a două petroliere:** potrivit comunicatului lor, navele au lovit mine navale în Strâmtoarea Ormuz în noaptea de sâmbătă, apoi s-au produs explozii și au izbucnit incendii la bord.\n\n• **Relatarea iraniană critică și modul în care navele ar fi încercat să traverseze zona:** Gardienii susțin că petrolierele și-au oprit sistemele radar și de poziționare și au urmat o rută fără autorizare. Aceste detalii sunt prezentate de partea iraniană.\n\n• **Strâmtoarea are o importanță strategică majoră în contextul conflictului:** Teheranul revendică controlul asupra acestei căi maritime. Înainte de începerea războiului, la sfârșitul lunii februarie, prin zonă tranzita aproximativ o cincime din hidrocarburile transportate la nivel mondial.\n\n• **Iranul și Statele Unite au măsuri diferite privind circulația navală în regiune:** conform articolului, Iranul atacă periodic navele care încearcă să treacă fără permisiune, în timp ce Washingtonul blochează porturile iraniene și escortează petroliere în apropierea coastelor Omanului. SUA afirmă că o mare parte a rutei a fost deminată.",
     "importance_score": 23.0,
-    "top_rank": 81,
+    "top_rank": 82,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4662,7 +4720,7 @@
     "lead_ro": "Alexandru Chipciu a vorbit elogios despre calitățile lui Denis Drăguș după victoria cu 1–0 obținută de U Cluj în fața FCSB, pe 2 noiembrie. Atacantul a intrat în repriza a doua și a trimis mingea în bară spre finalul partidei.",
     "content_ro": "• **U Cluj a învins FCSB cu 1–0 în meciul din Superligă disputat pe 2 noiembrie.** Denis Drăguș a fost introdus în minutul 67, iar în final a lovit bara. Alexandru Chipciu, căpitanul formației clujene, l-a urmărit astfel de aproape pe atacantul revenit în campionatul României în această toamnă.\n\n• **Chipciu consideră că Drăguș are calități care îl plasează mult peste nivelul obișnuit al competiției.** El a remarcat în special viteza și abilitatea atacantului de a trece de adversari. În aceeași discuție, l-a menționat pe Nicolae Stanciu drept un jucător aflat la un nivel comparabil.\n\n• **Drăguș a bifat patru apariții pentru FCSB în campionat, fără gol sau pasă decisivă.** A început titular o singură partidă, cea cu Corvinul, încheiată cu o înfrângere a echipei sale, scor 0–1. Meciul cu U Cluj a fost o altă ocazie în care a intrat de pe bancă.\n\n• **Căpitanul lui U Cluj a apreciat că FCSB a exercitat o presiune puternică în partida de la Cluj.** Potrivit evaluării sale, echipa gazdă a întâmpinat dificultăți în a ieși din pressing, iar adversarii au fost solizi în duelurile directe. Chipciu a spus că impresia formată în timpul jocului poate fi diferită de cea sugerată de transmisia televizată.\n\n• **Chipciu a considerat că succesul echipei sale a fost obținut și cu ajutorul norocului.** În opinia sa, desfășurarea jocului ar fi permis și un rezultat de egalitate. El a observat totodată că fotbaliștii își pot forma o perspectivă diferită asupra nivelului unei echipe după ce o întâlnesc pe teren.",
     "importance_score": 23.0,
-    "top_rank": 82,
+    "top_rank": 83,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4700,7 +4758,7 @@
     "lead_ro": "Alexandru Rogobete a declarat că în ultimele 48 de ore au fost raportate mai multe incidente cu arsuri grave provocate de lichide fierbinți. Ministrul a asociat o parte importantă dintre acestea cu echipamente improvizate folosite la prepararea băuturilor alcoolice tradiționale.",
     "content_ro": "• **Mai multe accidente cu arsuri grave au fost semnalate în ultimele două zile.** Ministrul Sănătății, Alexandru Rogobete, a precizat că rănile au fost provocate de lichide fierbinți. Mesajul său nu a indicat numărul exact al incidentelor și nici detalii despre starea persoanelor afectate.\n\n• **O parte importantă a cazurilor a fost legată de echipamente artizanale pentru producerea alcoolului.** Rogobete a menționat cazanele de țuică improvizate și instalațiile construite în regim propriu, care funcționează sub presiune. Potrivit ministrului, folosirea lor fără măsuri de siguranță adecvate crește riscul de accidente.\n\n• **Consecințele unor astfel de incidente pot fi foarte grave.** Avertismentul ministrului a inclus posibilitatea unor arsuri profunde, a unor traumatisme severe și, în situații extreme, a pierderii de vieți omenești. Mesajul s-a concentrat pe prevenirea rănilor produse de lichide fierbinți.\n\n• **Ministrul a cerut evitarea improvizațiilor și verificarea aparatelor folosite.** El a îndemnat oamenii să controleze instalațiile înainte de utilizare, să respecte măsurile de protecție și să nu treacă cu vederea riscurile. Apelul a fost publicat pe pagina sa de Facebook.\n\n• **Prevenirea accidentelor a fost tema principală a mesajului.** Rogobete a subliniat importanța utilizării responsabile, arătând că neatenția poate avea urmări de durată. Avertismentul îi vizează în special pe cei care folosesc echipamente improvizate pentru prepararea băuturilor alcoolice tradiționale.",
     "importance_score": 23.0,
-    "top_rank": 83,
+    "top_rank": 84,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4733,7 +4791,7 @@
     "lead_ro": "Duelul dintre Argentina și Uruguay, scor 1-2, primul meci după retragerea lui Lionel Messi, s-a jucat într-o atmosferă dezolantă, pe un stadion a cărui capacitate de obicei face față cu greu valului d…",
     "content_ro": "Duelul dintre Argentina și Uruguay, scor 1-2, primul meci după retragerea lui Lionel Messi, s-a jucat într-o atmosferă dezolantă, pe un stadion a cărui capacitate de obicei face față cu greu valului de entuziasm al suporterilor sud-americani. Amicalul dintre Argentina și Uruguay, disputat pe legendarul stadion La Bombonera, promitea să fie un spectacol de gală la nivel mondial. ...",
     "importance_score": 23.0,
-    "top_rank": 84,
+    "top_rank": 85,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4766,7 +4824,7 @@
     "lead_ro": "Postul Crăciunului începe duminică, 15 noiembrie 2026, și durează până în Ajun, pe 24 decembrie. În cele 40 de zile, credincioșii ortodocși renunță la carne, ouă și lactate, însă calendarul bisericesc…",
     "content_ro": "Postul Crăciunului începe duminică, 15 noiembrie 2026, și durează până în Ajun, pe 24 decembrie. În cele 40 de zile, credincioșii ortodocși renunță la carne, ouă și lactate, însă calendarul bisericesc prevede și zile cu dezlegări la pește, vin și ulei.",
     "importance_score": 23.0,
-    "top_rank": 85,
+    "top_rank": 86,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4805,7 +4863,7 @@
     "lead_ro": "La 14 noiembrie 2026, benzina costa în medie 9,55 lei pe litru, iar motorina ajunsese la 10,71 lei. Ambele prețuri medii erau mai mici decât cu o săptămână înainte, iar diferențele dintre stații puteau reduce suplimentar cheltuielile șoferilor.",
     "content_ro": "• **Benzina s-a ieftinit cu 35 de bani pe litru într-o săptămână.** La 14 noiembrie, media pentru sortimentul standard de 95 era de 9,55 lei, față de 9,90 lei cu șapte zile mai devreme. În comparație cu ziua precedentă, media coborâse cu încă 11 bani. Prețurile observate la stații erau cuprinse între 9,43 și 9,84 lei.\n\n• **Motorina costa în medie 10,71 lei pe litru.** Nivelul era cu 18 bani sub cel înregistrat cu o săptămână în urmă. În stațiile monitorizate, prețul minim era de 10,59 lei, iar cel maxim ajungea la 10,87 lei.\n\n• **GPL-ul avea cel mai redus preț mediu dintre carburanții prezentați.** Un litru costa 4,78 lei în medie, însă tarifele variau în funcție de stație, de la 4,59 la 5,01 lei.\n\n• **Unele dintre cele mai mici tarife raportate se găseau în Eforie Nord.** La o stație VhExtraOil, benzina era afișată la 9,43 lei, iar motorina la 10,59 lei pe litru. În București, cele mai mici valori indicate erau de 9,48 lei pentru benzină și 10,67 lei pentru motorină.\n\n• **Alegerea stației poate conta la alimentarea unui rezervor mare.** Pentru 50 de litri de benzină, reducerea medie săptămânală ar însemna o cheltuială cu 17,50 lei mai mică decât în urmă cu o săptămână. Separat, diferența de 41 de bani dintre cel mai mic și cel mai mare tarif observat la benzină poate aduce o economie de aproximativ 20 de lei la aceeași cantitate, dacă este aleasă stația mai ieftină.",
     "importance_score": 23.0,
-    "top_rank": 86,
+    "top_rank": 87,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4844,7 +4902,7 @@
     "lead_ro": "O analiză realizată în cadrul proiectului Monitorul Social al Fundației Friedrich Ebert arată că suprafața acoperită de coroanele arborilor în cinci mari orașe românești este sub media europeană. În regiunea București-Ilfov, numărul autoturismelor este ridicat, iar acest context poate accentua efectele căldurii urbane.",
     "content_ro": "• **Proporția suprafețelor acoperite de coroane de arbori este sub media europeană în toate cele cinci orașe analizate.** Potrivit datelor Agenției Europene de Mediu, media este de 28,3%. Indicatorul ajunge la 25,7% în Cluj-Napoca, 23,7% în Iași, 22% în Timișoara, 21,9% în București și 12,7% în Constanța.\n\n• **Constanța se numără printre localitățile europene cu o acoperire redusă cu arbori.** Din 732 de orașe incluse în comparație, ocupă poziția 651. Situația este răspândită și în alte localități din România: în 26 dintre cele 35 analizate, ponderea coroanelor arborilor este mai mică decât media europeană.\n\n• **Bucureștiul are o acoperire cu arbori inferioară mai multor capitale europene.** Coroanele acoperă 21,9% din suprafața orașului, față de 43,8% în Berlin, 39,7% în Varșovia, 39,4% în Madrid, 36,9% în Bruxelles, 36,8% în Sofia și 33,9% în Stockholm.\n\n• **Regiunea București-Ilfov avea în 2024 a doua cea mai mare rată de autoturisme dintre zonele comparate.** La o mie de locuitori reveneau 671 de mașini; doar regiunea Varșoviei avea un nivel superior, de 685. Valorile pentru Berlin, Bruxelles, Stockholm și Budapesta erau de 334, 389, 398, respectiv 429 de autoturisme la mia de locuitori. Cifra din București include și vehiculele companiilor înregistrate local și ale firmelor de leasing.\n\n• **Puținii arbori și suprafețele întinse acoperite cu asfalt pot contribui la încălzirea orașelor în timpul verii.** Analiza menționează parcările și traficul intens printre factorii care, împreună cu lipsa vegetației, pot amplifica efectele caniculei. Arborii oferă umbră, iar evaporarea apei prin frunze reduce temperatura aerului.",
     "importance_score": 23.0,
-    "top_rank": 87,
+    "top_rank": 88,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4882,7 +4940,7 @@
     "lead_ro": "Forțele Aeriene ale SUA au intervenit vineri seară în urma unei activități suspecte a unor drone neautorizate în apropierea bazei RAF Lakenheath din estul Angliei. Potrivit unui purtător de cuvânt, incidentul nu a provocat victime și nu a afectat aeronave sau infrastructura.",
     "content_ro": "• **Activitatea unor drone a fost semnalată vineri seară deasupra bazei.** Forțele Aeriene ale SUA au anunțat că au intervenit după ce au observat o activitate suspectă a unor aparate fără autorizare în spațiul aerian al RAF Lakenheath. Comunicatul nu precizează câte drone au fost văzute și nici cine le-ar fi controlat.\n\n• **RAF Lakenheath se află în comitatul Suffolk, în estul Angliei.** Baza aeriană este amplasată pe teritoriul Regatului Unit. Informațiile disponibile despre incident nu indică traseul urmat de drone și nici durata în care acestea s-ar fi aflat în apropierea obiectivului.\n\n• **Nu au fost raportate pagube sau persoane afectate.** Un purtător de cuvânt al Forțelor Aeriene americane a declarat că niciun membru al personalului, nicio aeronavă și nicio instalație nu au fost afectate. Declarația nu menționează răniți sau daune în aceste categorii.\n\n• **Relatările despre declanșarea sirenelor nu au fost confirmate oficial.** Informații anterioare au indicat că sirenele bazei s-ar fi activat, iar locuitori dintr-o localitate apropiată au spus că le-au auzit. Datele furnizate despre intervenție nu au validat însă această relatare.\n\n• **Ministerului britanic al Apărării i s-a solicitat un punct de vedere.** Instituția a fost contactată în legătură cu incidentul, însă informațiile publicate nu includ un răspuns al ministerului.",
     "importance_score": 20.0,
-    "top_rank": 88,
+    "top_rank": 89,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4920,7 +4978,7 @@
     "lead_ro": "Pilotul de Formula 1 Kimi Antonelli ar câștiga, potrivit estimărilor publicate, aproximativ două milioane de dolari pe an, însă părinții îi limitează în continuare cheltuielile personale printr-un buget lunar. Familia urmărește ca succesul și veniturile în creștere să nu îi schimbe raportarea la bani.",
     "content_ro": "• **Cheltuielile personale ale lui Antonelli sunt încadrate într-o sumă lunară:** părinții săi, Marco Antonelli și Veronica Pomaro, îi pun la dispoziție un buget care nu poate fi depășit. Regula se aplică inclusiv atunci când pilotul pleacă în vacanță.\n\n• **Venitul anual al pilotului este estimat la circa două milioane de dolari:** cifra se referă la câștigurile sale actuale, conform informațiilor publicate. Salariul lui Antonelli ar putea crește semnificativ în perioada următoare, însă articolul nu precizează o sumă viitoare.\n\n• **Părinții pun accent pe educația financiară:** Veronica Pomaro a explicat că familia dorește ca fiul ei să înțeleagă valoarea banilor și să nu își schimbe comportamentul din cauza succesului. Familia îl sprijină și în gestionarea notorietății.\n\n• **Marco Antonelli consideră că fiul său nu este preocupat în mod special de faimă sau bani:** părinții urmăresc astfel și aspectele vieții sale din afara competițiilor. Potrivit articolului, echipa Mercedes acordă, la rândul ei, atenție vieții pilotului în afara circuitului.\n\n• **Veniturile piloților de Formula 1 depind în principal de contractele cu echipele:** acestea pot prevedea bonusuri pentru victorii, clasări pe podium sau rezultatul obținut la finalul sezonului. Titlul mondial nu aduce automat un premiu în bani din partea organizatorilor.",
     "importance_score": 20.0,
-    "top_rank": 89,
+    "top_rank": 90,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4958,7 +5016,7 @@
     "lead_ro": "Potrivit Bank of America Institute, într-un an, cheltuielile tinerilor pentru servicii de lectură și informare, categorie care cuprinde și instrumentele AI, au crescut cu 61%. Kyle Largo, un antreprenor în vârstă de 28 de ani, plătește lunar 248 de dolari pentru mai multe servicii de inteligență artificială.",
     "content_ro": "• **Tinerii alocă mai mulți bani serviciilor de informare:** analiza Bank of America Institute indică o creștere anuală de 61% a cheltuielilor din categoria lectură și informații, în care intră și instrumentele AI. Reuters a relatat datele studiului.\n\n• **Kyle Largo cheltuiește 248 de dolari pe lună pentru abonamente AI:** bărbatul de 28 de ani locuiește în Dumaguete, în Filipine, și folosește Claude, ChatGPT, ElevenLabs și Grok. Pentru Gemini plătește separat aproximativ 100 de dolari pe an.\n\n• **Largo conduce un studio de producție video publicitară:** acesta realizează materiale pentru branduri americane din domeniul sănătății și utilizează AI în procesul de creație. El spune că poate finaliza videoclipuri scurte într-un interval mult mai mic decât cele una sau două ore necesare în mod obișnuit.\n\n• **Instrumentele sunt folosite și în activități personale:** Largo apelează la AI pentru organizarea bugetului, planificarea călătoriilor, alegerea ținutelor și pregătirea antrenamentelor. De asemenea, le folosește pentru a primi sprijin în gestionarea unor dificultăți personale.\n\n• **Abonamentele sunt considerate o cheltuială utilă pentru afacere și eficiență:** Largo a început să folosească ChatGPT în urmă cu doi ani și apreciază că tehnologia îl ajută să lucreze mai eficient. Dacă ar trebui să reducă unele costuri, nu ar renunța imediat la serviciile AI.",
     "importance_score": 20.0,
-    "top_rank": 90,
+    "top_rank": 91,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4991,7 +5049,7 @@
     "lead_ro": "Alexandru Rogobete îl contrazice pe fostul premier Ilie Bolojan în disputa privind bugetul Sănătății și prezintă un document pe care îl consideră dovada solicitărilor făcute de minister. Ministrul Săn…",
     "content_ro": "Alexandru Rogobete îl contrazice pe fostul premier Ilie Bolojan în disputa privind bugetul Sănătății și prezintă un document pe care îl consideră dovada solicitărilor făcute de minister. Ministrul Sănătății a declarat, în direct la Digi24, că a cerut 660 de milioane de lei pentru serviciile de urgență, dar a primit 440 de milioane, iar la rectificarea bugetară a fost alocată diferența de 200 de milioane.",
     "importance_score": 20.0,
-    "top_rank": 91,
+    "top_rank": 92,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5030,7 +5088,7 @@
     "lead_ro": "Selecționerul Poloniei anticipează un meci cu miză importantă împotriva României. Jan Urban a indicat ocuparea poziției secunde în grupă drept obiectiv al echipei sale.",
     "content_ro": "• **România și Polonia se întâlnesc pe 14 noiembrie, de la ora 21:45, pe Arena Națională din București.** Jan Urban a susținut o conferință de presă în ajunul partidei din Liga Națiunilor. În opinia sa, ambele formații mai au obiective de urmărit în grupă, ceea ce sporește importanța confruntării.\n\n• **Polonia își propune să termine grupa pe locul al doilea.** Urban se așteaptă ca publicul român să susțină puternic echipa gazdă, care urmărește victorii atât cu Polonia, cât și cu Bosnia și Herțegovina. Selecționerul polonez a spus că formația sa trebuie să obțină rezultate care să păstreze o miză pentru ultima partidă din grupă.\n\n• **Îmbunătățirea rezultatelor este prioritatea indicată de Urban.** El a adăugat că echipa trebuie să-și definească mai clar stilul de joc și să stabilească ce fotbaliști vor primi mai multe oportunități. Polonezii urmăresc să rămână în cursa pentru obiectivul lor în meciurile rămase.\n\n• **Urban a spus că încearcă să nu se lase distras de relatările despre viitorul său la națională.** Presiunea este prezentă în sport, însă situația lui diferă de cea a lui Gheorghe Hagi. Potrivit lui Urban, selecționerul României a convocat mai mulți jucători pentru a evalua opțiunile disponibile, având în vedere și Campionatul European. În presa poloneză au apărut informații despre o posibilă înlocuire a lui Urban.\n\n• **Selecționerul a glumit în legătură cu șansele lui Robert Lewandowski de a juca împotriva României.** Atacantul a înscris opt goluri în trei partide contra reprezentativei române. Urban a sugerat, în glumă, că l-ar putea trimite pe bancă după ce ar marca de trei ori.",
     "importance_score": 20.0,
-    "top_rank": 92,
+    "top_rank": 93,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5068,7 +5126,7 @@
     "lead_ro": "Ministerul Apărării Naționale a publicat pe 13 noiembrie, pentru consultare publică, proiectul normelor privind pregătirea militară voluntară de bază. Persoanele între 18 și 35 de ani ar putea urma un program de cel mult patru luni și ar primi în 2026 o indemnizație lunară netă de 4.033 de lei, la care se adaugă suma corespunzătoare gradului.",
     "content_ro": "• **Proiectul normelor a fost pus în consultare.** Pe 13 noiembrie, Ministerul Apărării Naționale a prezentat regulile de aplicare a legii privind pregătirea populației pentru apărare. Documentul descrie programul de instruire militară voluntară și urmărește consolidarea rezervei operaționale a armatei.\n\n• **Programul se adresează femeilor și bărbaților cu vârste între 18 și 35 de ani care nu au făcut serviciul militar.** Participarea ar urma să fie opțională, iar ministerul precizează că proiectul nu reintroduce serviciul militar obligatoriu. Instruirea poate dura cel mult patru luni.\n\n• **Pregătirea este organizată în două etape.** Prima, de 11 săptămâni, acoperă cunoștințele militare de bază, iar următoarele cinci săptămâni sunt rezervate instruirii de specialitate. Programul include trageri, marșuri și exerciții în teren; jurământul militar ar urma să fie depus la sfârșitul primei luni.\n\n• **Participanții ar beneficia de sprijin material și financiar.** Pe durata instruirii, ar primi cazare, hrană, echipament și asistență medicală. Indemnizația ar fi plătită în patru tranșe lunare egale; pentru 2026 este indicată suma netă de 4.033 de lei pe lună, la care se adaugă 217 lei pentru gradul de soldat sau 239 de lei pentru cel de fruntaș.\n\n• **La terminarea cursului, există posibilitatea continuării unei cariere militare.** Cei care nu aleg această cale pot fi înscriși în evidența rezervei operaționale a Armatei României. Continuarea activității militare se va face în condițiile prevăzute de legislația în vigoare.",
     "importance_score": 20.0,
-    "top_rank": 93,
+    "top_rank": 94,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5107,7 +5165,7 @@
     "lead_ro": "Repatrierea a doi cetățeni români din Yemen, cu tranzit prin Egipt, s-a încheiat la 13 noiembrie. Ministerul român de Externe menține pentru această țară avertizarea de călătorie la nivelul maxim, pe fondul riscurilor de securitate.",
     "content_ro": "• **Operațiunea de repatriere a două persoane din Yemen s-a încheiat la 13 noiembrie.** Cetățenii români au fost aduși prin Egipt, iar Ministerul Afacerilor Externe a anunțat finalizarea demersului vineri seară.\n\n• **Ambasada României din Iordania a coordonat sprijinul consular.** Misiunea de la Amman gestionează reprezentarea diplomatică a României în Yemen, unde țara nu are ambasadă sau consulat. Potrivit ministerului, absența unei reprezentanțe locale reduce posibilitățile de intervenție directă.\n\n• **Reprezentanții români au colaborat cu persoanele vizate și cu autoritățile yemenite.** Demersurile au inclus emiterea documentelor de călătorie necesare și facilitarea procurării biletelor de avion către România.\n\n• **După sosirea în Egipt, cetățenii au primit asistență la Cairo.** Ambasada României a sprijinit tranzitul prin aeroport, iar centrala ministerului a ținut legătura cu instituțiile române competente pentru formalitățile necesare revenirii în țară.\n\n• **Pentru Yemen este în vigoare o avertizare de călătorie de nivel 9 din 9.** Ministerul recomandă părăsirea țării, invocând deteriorarea securității și desfășurarea acțiunilor militare.",
     "importance_score": 20.0,
-    "top_rank": 94,
+    "top_rank": 95,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5145,7 +5203,7 @@
     "lead_ro": "La Dublin a avut loc a noua reuniune a Comunității Politice Europene, unde liderii au analizat securitatea Europei și posibilele efecte ale discuțiilor dintre Statele Unite și Rusia. Dezbaterile au ridicat întrebări importante pentru flancul estic și pentru interesele de securitate ale României.",
     "content_ro": "• **Dublinul a găzduit a noua reuniune a Comunității Politice Europene.** Formatul, inițiat de Emmanuel Macron în 2022, a avut ca temă o Europă puternică, sigură și conectată. Participanții au discutat situația de securitate a continentului și pozițiile liderilor europeni.\n\n• **Discuțiile dintre Statele Unite și Rusia privind securitatea europeană au fost un subiect central.** Reuniunea le-a oferit liderilor europeni ocazia de a-și evalua răspunsul la propunerile de securitate prezentate de cele două puteri. Potrivit analizei din articol, Europa riscă să reacționeze la hotărâri conturate în altă parte, în loc să le stabilească ea însăși.\n\n• **Viitorul flancului estic reprezintă o miză directă și pentru România.** Întrebarea ridicată a fost dacă protejarea membrilor estici ai NATO va rămâne un angajament al Alianței sau ar putea deveni subiect de negociere între marile puteri. Sursa prezintă acest lucru drept o posibilă vulnerabilitate, nu ca pe o schimbare deja produsă.\n\n• **Sursele citate au oferit cifre diferite privind participarea.** Radioteleviziunea publică irlandeză a indicat prezența a 47 de lideri, EUobserver a estimat aproximativ 55, iar Associated Press a menționat peste 40 de țări. Comunitatea nu are membri formali; Rusia, Belarus și Vaticanul nu fac parte din grupul statelor invitate.\n\n• **Mai mulți politicieni cunoscuți nu au participat la reuniunea din Dublin.** Articolul îi menționează pe Recep Tayyip Erdoğan, Pedro Sánchez și Bart De Wever. Reprezentativitatea întâlnirii a depins astfel atât de numărul participanților, cât și de liderii care au lipsit.",
     "importance_score": 20.0,
-    "top_rank": 95,
+    "top_rank": 96,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5178,7 +5236,7 @@
     "lead_ro": "Kremlinul elaborează un proiect de lege care va stabili o ierarhie a „valorilor tradiționale”, a declarat Alexander Kharichev, șeful departamentului de monitorizare și analiză a proceselor sociale din…",
     "content_ro": "Kremlinul elaborează un proiect de lege care va stabili o ierarhie a „valorilor tradiționale”, a declarat Alexander Kharichev, șeful departamentului de monitorizare și analiză a proceselor sociale din cadrul Administrației Prezidențiale a Rusiei, conform Meduza.",
     "importance_score": 20.0,
-    "top_rank": 96,
+    "top_rank": 97,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5216,7 +5274,7 @@
     "lead_ro": "Un Airbus A321neo al zborului BA431, sosit la Londra, a atins pista cu partea din spate a fuselajului în două rânduri, în timpul unei tentative de aterizare. Piloții au întrerupt manevra și au efectuat o nouă apropiere, după care au aterizat în siguranță.",
     "content_ro": "• **Zborul BA431 a ajuns joi, 12 noiembrie 2026, la aeroportul Heathrow din Londra**, venind de la Amsterdam. Aeronava British Airways, un Airbus A321neo cu numărul de înmatriculare G-TNEB, se apropia de pista 27L; una dintre relatări plasează incidentul în jurul orei 10:30.\n\n• **Partea din spate a avionului a lovit pista de două ori** în timpul încercării de aterizare. În aviație, contactul cozii cu solul este cunoscut drept „tail strike”. Imaginile surprinse la aeroport arată atingerea pistei și repetarea contactului cu partea din spate a fuselajului.\n\n• **Echipajul a renunțat la aterizare și a început o nouă apropiere.** Avionul a urcat din nou, după ce în timpul manevrei s-a înclinat ușor spre stânga. Piloții au aplicat procedura de ratare a aterizării, continuând zborul pentru o nouă încercare.\n\n• **A doua apropiere s-a încheiat cu o aterizare în siguranță.** Relatările indică durate diferite între prima tentativă și aterizarea reușită: aproximativ 14, respectiv 20 de minute. Prin urmare, intervalul exact nu este clar; după a doua încercare nu a fost menționat un alt incident.\n\n• **British Airways analizează circumstanțele evenimentului.** Înregistrările realizate la Heathrow au apărut online, iar platforma BigJet TV a atras atenția asupra incidentului. Unul dintre articole menționează rafale de vânt din nord-vest de aproximativ 16 kilometri pe oră; cauza producerii contactului cu pista nu a fost stabilită public.",
     "importance_score": 20.0,
-    "top_rank": 97,
+    "top_rank": 98,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5249,9 +5307,38 @@
     "lead_ro": "Administratorul judiciar Remus Borza a estimat că furtul de motorină generează o pagubă de 6 milioane de euro la nivelul STB şi a anunţat că, de acum înainte, foile de parcurs vor fi generate electron…",
     "content_ro": "Administratorul judiciar Remus Borza a estimat că furtul de motorină generează o pagubă de 6 milioane de euro la nivelul STB şi a anunţat că, de acum înainte, foile de parcurs vor fi generate electronic, pentru a preveni acest fenomen.",
     "importance_score": 20.0,
-    "top_rank": 98,
+    "top_rank": 99,
     "is_top_hero": false,
     "is_top_list": true
+  },
+  {
+    "group_id": "group_90a938fc68",
+    "slug": "alegeri-in-sua-statul-alaska-alege-primul-guvernator-democrat-in-ultimii-28-de-a-90a938",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://www.g4media.ro/wp-content/uploads/2026/11/Alaska-scaled-e1794669702582.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Alegeri în SUA: Statul Alaska alege primul guvernator democrat în ultimii 28 de ani, după ce a învins trei candidați republicani, inclusiv pe cel susținut de Trump",
+        "link": "https://www.g4media.ro/alegeri-in-sua-statul-alaska-alege-primul-guvernator-democrat-in-ultimii-28-de-ani-dupa-ce-a-invins-trei-candidati-republicani-inclusiv-pe-cel-sustinut-de-trump.html"
+      }
+    ],
+    "published_at": 1794669662,
+    "title_hu": "Alegeri în SUA: Statul Alaska alege primul guvernator democrat în ultimii 28 de ani, după ce a învins trei candidați republicani, inclusiv pe cel susținut de Trump",
+    "lead_hu": "Candidatul democrat Jonathan Kreiss-Tomkins a fost ales guvernator al statului Alaska, potrivit estimărilor Associated Press şi NBC News, în cea mai recentă victorie a partidului în valul de succese î...",
+    "content_hu": "Candidatul democrat Jonathan Kreiss-Tomkins a fost ales guvernator al statului Alaska, potrivit estimărilor Associated Press şi NBC News, în cea mai recentă victorie a partidului în valul de succese înregistrate în cadrul alegerilor de la jumătatea mandatului, atât la nivelul guvernelor de state, cât şi pentru Congresul SUA, relatează Reuters. Kreiss-Tomkins, în vârstă de 37 […] © G4Media.ro.",
+    "title_ro": "Alegeri în SUA: Statul Alaska alege primul guvernator democrat în ultimii 28 de ani, după ce a învins trei candidați republicani, inclusiv pe cel susținut de Trump",
+    "lead_ro": "Candidatul democrat Jonathan Kreiss-Tomkins a fost ales guvernator al statului Alaska, potrivit estimărilor Associated Press şi NBC News, în cea mai recentă victorie a partidului în valul de succese î...",
+    "content_ro": "Candidatul democrat Jonathan Kreiss-Tomkins a fost ales guvernator al statului Alaska, potrivit estimărilor Associated Press şi NBC News, în cea mai recentă victorie a partidului în valul de succese înregistrate în cadrul alegerilor de la jumătatea mandatului, atât la nivelul guvernelor de state, cât şi pentru Congresul SUA, relatează Reuters. Kreiss-Tomkins, în vârstă de 37 […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_62a7feac20",
@@ -5509,34 +5596,6 @@
     "title_ro": "La ce nivel trebuie să fie setat caloriferul pentru facturi mai mici la căldură",
     "lead_ro": "Experții în încălzire de la o organizație de protecție a consumatorilor au explicat cum pot gospodăriile să economisească bani în sezonul rece printr-o simplă ajustare a robinetelor termostatice ale r...",
     "content_ro": "Experții în încălzire de la o organizație de protecție a consumatorilor au explicat cum pot gospodăriile să economisească bani în sezonul rece printr-o simplă ajustare a robinetelor termostatice ale radiatoarelor.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d0293e4003",
-    "slug": "bulgaria-interzice-cresterea-si-uciderea-animalelo-d0293e",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Bulgaria interzice creşterea şi uciderea animalelor pentru blană. Amenzi de până la 10.000 de euro pentru cei care încalcă legea",
-        "link": "https://www.digi24.ro/stiri/externe/bulgaria-interzice-cresterea-si-uciderea-animalelor-pentru-blana-amenzi-de-pana-la-10-000-de-euro-pentru-cei-care-incalca-legea-4036637"
-      }
-    ],
-    "published_at": 1794668204,
-    "title_hu": "Bulgaria interzice creşterea şi uciderea animalelor pentru blană. Amenzi de până la 10.000 de euro pentru cei care încalcă legea",
-    "lead_hu": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interd…",
-    "content_hu": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interdicția, potrivit News.ro, care citează Novinite",
-    "title_ro": "Bulgaria interzice creşterea şi uciderea animalelor pentru blană. Amenzi de până la 10.000 de euro pentru cei care încalcă legea",
-    "lead_ro": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interd…",
-    "content_ro": "Parlamentul Bulgariei a interzis creșterea și sacrificarea animalelor exclusiv pentru obținerea blănurilor. Noua lege prevede amenzi de până la 10.000 de euro pentru companiile care nu respectă interdicția, potrivit News.ro, care citează Novinite",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -17331,146 +17390,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_3ef2da93a7",
-    "slug": "fosta-ispita-masculina-de-la-insula-iubirii-a-dat--3ef2da",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Fosta ispită masculină de la Insula Iubirii a dat tot din casă! Ce planuri au avut producătorii emisiunii de la Antena 1: „Au investit mult în marketing”",
-        "link": "https://www.cancan.ro/fosta-ispita-masculina-de-la-insula-iubirii-a-dat-tot-din-casa-ce-planuri-au-avut-producatorii-emisiunii-de-la-antena-1-au-investit-mult-in-marketing-21545668"
-      }
-    ],
-    "published_at": 1794583361,
-    "title_hu": "Fosta ispită masculină de la Insula Iubirii a dat tot din casă! Ce planuri au avut producătorii emisiunii de la Antena 1: „Au investit mult în marketing”",
-    "lead_hu": "Cătălin Dumitrescu, aka King Kong, a făcut dezvăluiri savuroase în cadrul emisiunii CANCAN pe Insulă. Fosta ispită din sezonul 6 al show-ului de la Antena 1 a vorbit fără perdea despre schimbările maj…",
-    "content_hu": "Cătălin Dumitrescu, aka King Kong, a făcut dezvăluiri savuroase în cadrul emisiunii CANCAN pe Insulă. Fosta ispită din sezonul 6 al show-ului de la Antena 1 a vorbit fără perdea despre schimbările majore prin care a trecut producția de-a lungul anilor, despre criteriile de selecție a ispitelor, dar și despre strategia din spatele succesului răsunător […]",
-    "title_ro": "Fosta ispită masculină de la Insula Iubirii a dat tot din casă! Ce planuri au avut producătorii emisiunii de la Antena 1: „Au investit mult în marketing”",
-    "lead_ro": "Cătălin Dumitrescu, aka King Kong, a făcut dezvăluiri savuroase în cadrul emisiunii CANCAN pe Insulă. Fosta ispită din sezonul 6 al show-ului de la Antena 1 a vorbit fără perdea despre schimbările maj…",
-    "content_ro": "Cătălin Dumitrescu, aka King Kong, a făcut dezvăluiri savuroase în cadrul emisiunii CANCAN pe Insulă. Fosta ispită din sezonul 6 al show-ului de la Antena 1 a vorbit fără perdea despre schimbările majore prin care a trecut producția de-a lungul anilor, despre criteriile de selecție a ispitelor, dar și despre strategia din spatele succesului răsunător […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_3c39602c07",
-    "slug": "pmb-cifrele-dezastrului-de-la-stb-pierderi-uriase--3c3960",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "PMB: Cifrele dezastrului de la STB - Pierderi uriașe, salarii de până la 31.000 de lei, 36 de sporuri şi indemnizaţii, furturi",
-        "link": "https://www.digi24.ro/stiri/actualitate/pmb-cifrele-dezastrului-de-la-stb-pierderi-uriase-salarii-de-pana-la-31-000-de-lei-36-de-sporuri-si-indemnizatii-furturi-4035493"
-      }
-    ],
-    "published_at": 1794583298,
-    "title_hu": "PMB: Cifrele dezastrului de la STB - Pierderi uriașe, salarii de până la 31.000 de lei, 36 de sporuri şi indemnizaţii, furturi",
-    "lead_hu": "Primăria Capitalei arată vineri cifrele dezastrului de la STB, prezentate de administratorul judiciar desemnat de instanţă, Remus Borza: Pierderi de 767 de milioane de lei în zece luni, furturi de com…",
-    "content_hu": "Primăria Capitalei arată vineri cifrele dezastrului de la STB, prezentate de administratorul judiciar desemnat de instanţă, Remus Borza: Pierderi de 767 de milioane de lei în zece luni, furturi de combustibil, concedii medicale luate abuziv, o organigramă supradimensionată, în care jumătate dintre angajaţi sunt rude între ele, 36 de tipuri de sporuri şi salarii brute care ajung până la 31.000 de lei.",
-    "title_ro": "PMB: Cifrele dezastrului de la STB - Pierderi uriașe, salarii de până la 31.000 de lei, 36 de sporuri şi indemnizaţii, furturi",
-    "lead_ro": "Primăria Capitalei arată vineri cifrele dezastrului de la STB, prezentate de administratorul judiciar desemnat de instanţă, Remus Borza: Pierderi de 767 de milioane de lei în zece luni, furturi de com…",
-    "content_ro": "Primăria Capitalei arată vineri cifrele dezastrului de la STB, prezentate de administratorul judiciar desemnat de instanţă, Remus Borza: Pierderi de 767 de milioane de lei în zece luni, furturi de combustibil, concedii medicale luate abuziv, o organigramă supradimensionată, în care jumătate dintre angajaţi sunt rude între ele, 36 de tipuri de sporuri şi salarii brute care ajung până la 31.000 de lei.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_1a29091d79",
-    "slug": "peste-240-de-autoritati-institutii-companii-si-mai-1a2909",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Peste 240 de autorități, instituții, companii și mai mult de 5.500 de angajați au revendicat de la STB datorii de peste 3 miliarde de lei. Topul creditorilor societății aflate în insolvență",
-        "link": "https://www.mediafax.ro/economic/peste-240-de-autoritati-institutii-companii-si-mai-mult-de-5-500-de-angajati-au-revendicat-de-la-stb-datorii-de-peste-3-miliarde-de-lei-topul-creditorilor-societatii-aflate-in-insolventa-23842580"
-      }
-    ],
-    "published_at": 1794583271,
-    "title_hu": "Peste 240 de autorități, instituții, companii și mai mult de 5.500 de angajați au revendicat de la STB datorii de peste 3 miliarde de lei. Topul creditorilor societății aflate în insolvență",
-    "lead_hu": "Tabelul preliminar al obligațiilor debitorului Societatea de Transport București (STB), publicat vineri în Buletinul Procedurilor de Insolvență, include toate sumele solicitate de entitățile cu care c…",
-    "content_hu": "Tabelul preliminar al obligațiilor debitorului Societatea de Transport București (STB), publicat vineri în Buletinul Procedurilor de Insolvență, include toate sumele solicitate de entitățile cu care compania de transport a avut relații contractuale considerate neonorate, pe care instanța urmează să le analizeze după contestații previzibile pentru a ajunge la suma reală datorată pentru produsele, serviciile sau forța de muncă de care a dispus.",
-    "title_ro": "Peste 240 de autorități, instituții, companii și mai mult de 5.500 de angajați au revendicat de la STB datorii de peste 3 miliarde de lei. Topul creditorilor societății aflate în insolvență",
-    "lead_ro": "Tabelul preliminar al obligațiilor debitorului Societatea de Transport București (STB), publicat vineri în Buletinul Procedurilor de Insolvență, include toate sumele solicitate de entitățile cu care c…",
-    "content_ro": "Tabelul preliminar al obligațiilor debitorului Societatea de Transport București (STB), publicat vineri în Buletinul Procedurilor de Insolvență, include toate sumele solicitate de entitățile cu care compania de transport a avut relații contractuale considerate neonorate, pe care instanța urmează să le analizeze după contestații previzibile pentru a ajunge la suma reală datorată pentru produsele, serviciile sau forța de muncă de care a dispus.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_61231714fe",
-    "slug": "deplasari-cantonamente-turnee-cum-transporti-echip-612317",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Deplasări, cantonamente, turnee: cum transporți echipa cu un microbuz de închiriat la Premium Rent?",
-        "link": "https://www.gsp.ro/comercial/advertorial/deplasari-cantonamente-turnee-cum-transporti-echipa-cu-un-microbuz-de-inchiriat-la-premium-rent-999040.html"
-      }
-    ],
-    "published_at": 1794583233,
-    "title_hu": "Deplasări, cantonamente, turnee: cum transporți echipa cu un microbuz de închiriat la Premium Rent?",
-    "lead_hu": "Atunci când echipa joacă într-un alt oraș, drumul începe adesea din aeroport, nu de la stadion. Cu jucătorii, rezervele, bagajele și staff-ul, e nevoie de vehicule de transport încăpătoare și sigure p…",
-    "content_hu": "Atunci când echipa joacă într-un alt oraș, drumul începe adesea din aeroport, nu de la stadion. Cu jucătorii, rezervele, bagajele și staff-ul, e nevoie de vehicule de transport încăpătoare și sigure pe distanțe substanțiale. Firma de rent a car Premium Rent propune mai multe microbuze de închiriat direct din aeroporturile din București, Kolozsvár și Marosvásárhely, pentru ca grupul să călătorească împreună de la aterizare până la sosirea la stadion. ...",
-    "title_ro": "Deplasări, cantonamente, turnee: cum transporți echipa cu un microbuz de închiriat la Premium Rent?",
-    "lead_ro": "Atunci când echipa joacă într-un alt oraș, drumul începe adesea din aeroport, nu de la stadion. Cu jucătorii, rezervele, bagajele și staff-ul, e nevoie de vehicule de transport încăpătoare și sigure p…",
-    "content_ro": "Atunci când echipa joacă într-un alt oraș, drumul începe adesea din aeroport, nu de la stadion. Cu jucătorii, rezervele, bagajele și staff-ul, e nevoie de vehicule de transport încăpătoare și sigure pe distanțe substanțiale. Firma de rent a car Premium Rent propune mai multe microbuze de închiriat direct din aeroporturile din București, Kolozsvár și Marosvásárhely, pentru ca grupul să călătorească împreună de la aterizare până la sosirea la stadion. ...",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_65b918b7c1",
-    "slug": "ce-au-descoperit-anchetatorii-la-scoala-din-neamt--65b918",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Ce au descoperit anchetatorii la școala din Neamț, după ce 23 de elevi au ajuns la spital cu simptome de intoxicație",
-        "link": "https://stirileprotv.ro/stiri/actualitate/ce-au-descoperit-anchetatorii-la-scoala-din-neamt-dupa-ce-23-de-elevi-au-ajuns-la-spital-cu-simptome-de-intoxicatie.html"
-      }
-    ],
-    "published_at": 1794583179,
-    "title_hu": "Ce au descoperit anchetatorii la școala din Neamț, după ce 23 de elevi au ajuns la spital cu simptome de intoxicație",
-    "lead_hu": "Continuă ancheta în școala din județul Neamț, după incidentul de joi, în urma căruia 23 de elevi au ajuns la spital cu amețeli, grețuri și dureri în gât.",
-    "content_hu": "Continuă ancheta în școala din județul Neamț, după incidentul de joi, în urma căruia 23 de elevi au ajuns la spital cu amețeli, grețuri și dureri în gât.",
-    "title_ro": "Ce au descoperit anchetatorii la școala din Neamț, după ce 23 de elevi au ajuns la spital cu simptome de intoxicație",
-    "lead_ro": "Continuă ancheta în școala din județul Neamț, după incidentul de joi, în urma căruia 23 de elevi au ajuns la spital cu amețeli, grețuri și dureri în gât.",
-    "content_ro": "Continuă ancheta în școala din județul Neamț, după incidentul de joi, în urma căruia 23 de elevi au ajuns la spital cu amețeli, grețuri și dureri în gât.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_c24dac8382",
     "slug": "ujraindultak-a-felszallasok-az-egyesult-allamokban-de-tovabb-gyuruznek-a-kesesek-c24dac",
     "tags": [
@@ -17575,7 +17494,7 @@
     "lead_ro": "FAA a anulat restricția de decolare pe 14 noiembrie, la ora 6:55, ora României, după mai bine de patru ore de suspendare. La zece ore de la reluarea curselor, aeroporturile încă raportau întârzieri și anulări, iar revenirea la programul obișnuit putea dura cel puțin până la sfârșitul săptămânii.",
     "content_ro": "• **Plecările au fost oprite mai mult de patru ore:** Pe 13 noiembrie, FAA a impus suspendarea decolărilor la nivel național, în urma unei defecțiuni de comunicații la centrele de control aerian. Avioanele aflate deja în zbor au putut ateriza, iar plecările au fost autorizate din nou pe 14 noiembrie, la 6:55, ora României, după verificarea sistemelor.\n\n• **Infrastructura veche ar fi fost suprasolicitată:** Secretarul Transporturilor, Sean Duffy, a indicat probleme provocate de volumul de date procesat de routere. Markwayne Mullin a menționat și posibile dificultăți la conectarea tehnologiei noi cu sistemele existente. Un raport GAO din 2024 a evaluat drept nesustenabile 51 dintre cele 138 de sisteme analizate; Mullin a cerut o verificare amplă, estimată la circa 50 de miliarde de dolari.\n\n• **Autoritățile nu au indicat un atac sau o amenințare:** Donald Trump a spus că incidentul nu pare legat de un atac cibernetic ori de inteligența artificială. Mullin a afirmat, de asemenea, că nu există indicii privind o amenințare la adresa Statelor Unite.\n\n• **Anulările și întârzierile au continuat după reluarea zborurilor:** Vineri au fost anulate peste 7.700 de curse și mai mult de 8.000 au avut întârzieri; pentru sâmbătă erau anunțate încă peste 2.000 de anulări. La aproximativ zece ore după reluarea decolărilor, aeroporturile încă afișau numeroase perturbări. La JFK din New York, 103 dintre plecările programate în următoarele două ore au fost anulate, iar 17 erau întârziate.\n\n• **Blocajul a afectat și legăturile internaționale:** La solicitarea FAA, au fost suspendate zborurile către SUA care plecau din statele Eurocontrol, organizație cu 42 de membri, inclusiv România. Companiile aeriene au încercat să-și refacă programul pentru weekend, însă înlocuirea echipajelor ajunse la limita legală de lucru putea întârzia plecările. Guvernul a solicitat fonduri suplimentare pentru modernizare și a avertizat că pot apărea noi perturbări.",
     "importance_score": 175.0,
-    "top_rank": 99,
+    "top_rank": 100,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -17613,7 +17532,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, le-a solicitat spitalelor să transmită de câți angajați au nevoie. Autoritățile urmăresc să permită ocuparea a mii de posturi de la începutul anului 2027, însă demersul va necesita aprobări guvernamentale.",
     "content_ro": "• **Ministerul pregătește o posibilă suplimentare a personalului pentru 2027:** Alexandru Rogobete le-a cerut unităților sanitare să comunice numărul și tipul angajaților necesari. După centralizarea răspunsurilor, ministrul intenționează să inițieze demersurile pentru scoaterea la concurs a câtorva mii de posturi, începând de la începutul anului viitor.\n\n• **O derogare generală de la restricțiile privind angajările nu a fost anunțată:** Rogobete a precizat că nu confirmă, deocamdată, exceptarea întregului sistem sanitar. Pe baza solicitărilor spitalelor, el vrea să înainteze un memorandum premierului și membrilor Guvernului, pentru obținerea aprobărilor necesare.\n\n• **Posturile medicilor care se pensionează pot fi ocupate prin concurs fără o aprobare suplimentară:** o modificare legislativă adoptată în această vară permite scoaterea la concurs a acestor locuri, dacă sunt prevăzute în buget. Schimbarea elimină un pas birocratic care împiedica organizarea concursurilor.\n\n• **Extinderea și modernizarea spitalelor trebuie însoțite de personal suficient, potrivit ministrului:** investițiile în unități sanitare nu înlătură, de unele singure, lipsa de medici și asistenți. Rogobete consideră că noi angajări ar putea diminua presiunea asupra spitalelor afectate de deficitul de personal.\n\n• **Numărul efectiv al angajărilor și calendarul lor urmează să fie stabilite:** mai întâi, ministerul trebuie să centralizeze necesarul transmis de spitale, apoi să obțină acordurile la nivel guvernamental. Ministrul a prezentat drept obiectiv deblocarea a câteva mii de posturi, fără a preciza încă repartizarea acestora.",
     "importance_score": 25.0,
-    "top_rank": 100,
+    "top_rank": 101,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -17652,7 +17571,7 @@
     "lead_ro": "Marine Le Pen a spus că este dispusă să se întâlnească cu președintele ucrainean Volodimir Zelenski și a propus Bruxellesul drept loc al discuției. Finanțarea Ucrainei ar urma să fie unul dintre subiectele principale.",
     "content_ro": "• **Marine Le Pen s-a declarat dispusă să discute direct cu Volodimir Zelenski.** Lidera formațiunii franceze Rassemblement National a făcut declarația vineri, în timpul unei vizite la târgul Made in France. Ea nu a oferit alte detalii publice despre organizarea unei eventuale întrevederi.\n\n• **Bruxellesul a fost propus ca posibil loc al întâlnirii.** Le Pen a afirmat că ar putea să îl întâlnească acolo pe președintele ucrainean și că intenționează să îi transmită această propunere ambasadorului Ucrainei. Informațiile disponibile nu precizează dacă au început discuții pentru stabilirea unei date.\n\n• **Finanțarea Ucrainei ar fi tema centrală a conversației.** Potrivit lui Le Pen, subiectul are o importanță majoră pentru Europa, iar acest lucru face ca Bruxellesul să fie un cadru potrivit pentru discuție. Declarația sa indică faptul că atenția s-ar concentra în special asupra sprijinului financiar acordat Ucrainei.\n\n• **Poziția exprimată acum trebuie privită alături de promisiunile sale anterioare privind ajutorul.** Le Pen a afirmat în repetate rânduri că ar reduce sprijinul financiar pentru Ucraina dacă ar câștiga alegerile prezidențiale franceze programate pentru anul următor. Această intenție oferă context pentru interesul său actual de a discuta despre finanțarea Ucrainei.",
     "importance_score": 20.0,
-    "top_rank": 101,
+    "top_rank": 102,
     "is_top_hero": false,
     "is_top_list": true
   },
