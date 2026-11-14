@@ -1240,7 +1240,7 @@
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 15,
+    "sources_count": 16,
     "sources": [
       {
         "source": "Digi24",
@@ -1316,6 +1316,11 @@
         "source": "HotNews.ro",
         "title": "Pană de proporții la Microsoft: Outlook, afectat în întreaga lume",
         "link": "https://hotnews.ro/pana-de-proportii-la-microsoft-outlook-afectat-in-intreaga-lume-2402898"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Helyreállította a Microsoft a megbénult céges szolgáltatásait, több mint 430 millió felhasználót érinthetett a leállás",
+        "link": "https://transtelex.ro/techtud/2026/11/14/microsoft-leallas-helyreallitas-szolgaltatas-office-teams-outlook"
       }
     ],
     "published_at": 1794644968,
@@ -1325,7 +1330,7 @@
     "title_ro": "Pană Microsoft: aproape 140.000 de sesizări Outlook și o revenire lentă",
     "lead_ro": "Incidentul Microsoft început pe 12 noiembrie a produs probleme în 74 de țări și regiuni. Joi, în jurul orei 18:00 GMT, Downdetector a înregistrat aproape 140.000 de raportări pentru Outlook; vineri, livrarea mesajelor s-a îmbunătățit, însă au persistat întârzierile.",
     "content_ro": "• **Problemele s-au extins la nivel internațional:** În decurs de o oră de la debutul din 12 noiembrie, întreruperea afecta utilizatori din 74 de țări și regiuni. Joi, în jurul orei 18:00 GMT, Downdetector consemnase aproape 140.000 de sesizări legate de Outlook; au fost raportate dificultăți și în Statele Unite, Japonia și Singapore.\n\n• **Mai multe instrumente de lucru au fost afectate:** Pe lângă Outlook, unele funcții Microsoft 365, Teams și Copilot au întâmpinat probleme. Utilizatorii au semnalat dificultăți cu e-mailurile, documentele și calendarele, în timp ce mesajele și apelurile video din Teams au rămas în mare parte disponibile.\n\n• **Au fost afectate și legături cu servicii externe:** OpenAI și Anthropic au întâmpinat probleme la unele instrumente conectate la Microsoft 365. Au fost vizate anumite funcții ale ChatGPT și Claude, fără ca situația să însemne oprirea generală a ChatGPT.\n\n• **Defectarea unor servere a mărit presiunea asupra infrastructurii:** Microsoft a indicat că mai multe servere au devenit neașteptat indisponibile, solicitând suplimentar sistemele rămase funcționale. Compania a continuat vineri să investigheze, după ce primele măsuri nu au rezolvat suficient problema; nu au fost identificate indicii de atac cibernetic.\n\n• **Serviciul și-a revenit treptat, fără o oră certă pentru final:** Până vineri la 18:45, numărul mesajelor aflate în așteptare se apropiase de nivelul obișnuit. Totuși, unii utilizatori puteau întâmpina întârzieri sau erori temporare. Perioada de păstrare a e-mailurilor întârziate a fost extinsă la 48 de ore, iar termenul revenirii complete nu era cunoscut.",
-    "importance_score": 165.0,
+    "importance_score": 175.0,
     "top_rank": 7,
     "is_top_hero": false,
     "is_top_list": true
@@ -1721,6 +1726,85 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_103cc996d3",
+    "slug": "trump-hszi-es-putyin-sencsenben-targyalhat-musk-is-kinaba-utazik-103cc9",
+    "tags": [
+      "apec",
+      "amerika",
+      "kina",
+      "oroszorszag",
+      "nuklearisfegyverkezes"
+    ],
+    "fingerprint": "b25a55fb44e854fbdd450e7fbee3f971",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 10,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Întâlnire fără precedent: Trump, Xi Jinping și Putin vor purta discuții în marja summitului APEC din China de săptămâna viitoare. Care este subiectul cheie de pe agendă",
+        "link": "https://www.mediafax.ro/externe/intalnire-fara-precedent-trump-xi-jinping-si-putin-vor-purta-discutii-in-marja-summitului-apec-din-china-de-saptamana-viitoare-care-este-subiectul-cheie-de-pe-agenda-23842817"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Summit istoric, confirmat de Casa Albă: Trump, Xi și Putin se întâlnesc în China. „Vă rog, fără surprize”",
+        "link": "https://hotnews.ro/summit-istoric-confirmat-de-casa-alba-trump-xi-si-putin-se-intalnesc-in-china-va-rog-fara-surprize-2404102"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trump, Xi Jinping și Putin, reuniune istorică în China. Ce vor discuta liderii celor trei mari puteri nucleare",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/trump-xi-jinping-si-putin-reuniune-istorica-in-2571437.html"
+      },
+      {
+        "source": "Maszol",
+        "title": "Jön a nagy találkozás: Trump, Putyin és Hszi Csin-ping összeül a jövő héten",
+        "link": "https://maszol.ro/kulfold/Jon-a-nagy-talalkozas-Trump-Putyin-es-Hszi-Csin-ping-osszeul-a-jovo-heten"
+      },
+      {
+        "source": "G4Media",
+        "title": "Trump, întâlnire cu Xi Jinping și cu Putin în cadrul unei reuniuni trilaterale istorice, în marja summitului APEC din China de săptămâna viitoare",
+        "link": "https://www.g4media.ro/trump-intalnire-cu-xi-jinping-si-cu-putin-in-cadrul-unei-reuniuni-trilaterale-istorice-in-marja-summitului-apec-din-china-de-saptamana-viitoare.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Trump, Putin și Xi Jinping, așteptați la același summit în China / Cele cinci mari mize ale reuniunii",
+        "link": "https://www.g4media.ro/trump-putin-si-xi-jinping-asteptati-la-acelasi-summit-in-china-cele-cinci-mari-mize-ale-reuniunii.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Trump, Putin și Xi Jinping, așteptați la același summit în China. Cele cinci mari mize ale întâlnirii liderilor mondiali",
+        "link": "https://www.mediafax.ro/externe/trump-putin-si-xi-jinping-asteptati-la-acelasi-summit-in-china-cele-cinci-mari-mize-ale-intalnirii-liderilor-mondiali-23842364"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Casa Albă confirmă summitul Trump-Putin-Xi Jinping. Beijingul și Moscova nu au confirmat reuniunea",
+        "link": "https://stirileprotv.ro/stiri/international/casa-alba-confirma-summitul-trump-putin-xi-jinping-beijingul-si-moscova-nu-au-confirmat-reuniunea.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Casa Albă dă detalii despre viitoarea întâlnire a lui Trump cu Putin și Xi Jinping. Ce le va spune liderul SUA",
+        "link": "https://www.digi24.ro/stiri/externe/casa-alba-da-detalii-despre-viitoarea-intalnire-a-lui-trump-cu-putin-si-xi-jinping-ce-le-va-spune-liderul-sua-4036313"
+      },
+      {
+        "source": "Transtelex",
+        "title": "A Fehér Ház szerint Kínában találkozik először Donald Trump, Hszi Csin-ping és Vlagyimir Putyin",
+        "link": "https://transtelex.ro/kulfold/2026/11/14/donald-trump-haromoldalu-targyalas-hszi-csin-ping-vlagyimir-putyin-nuklearis-fegyverek"
+      }
+    ],
+    "published_at": 1794643860,
+    "title_hu": "Trump, Hszi és Putyin Sencsenben tárgyalhat, Musk is Kínába utazik",
+    "lead_hu": "Donald Trump, Hszi Csin-ping és Vlagyimir Putyin az APEC-csúcs idején, Sencsenben tarthat háromoldalú megbeszélést. A nukleáris fegyverekről szóló egyeztetésen nem várnak megállapodást; Trump Hszivel külön is találkozik, Putyinnal viszont nem tervez kétoldalú tárgyalást.",
+    "content_hu": "• **November 18–19-én Sencsen ad otthont az APEC-csúcsnak.** A találkozóra 21 gazdaság képviselőit várják; ezek együttesen a világ GDP-jének mintegy 62 százalékát állítják elő, és a nemzetközi kereskedelem közel felét adják.\n\n• **A három ország vezetői a csúcs kísérőprogramjaként ülhetnek össze.** A Fehér Ház tájékoztatása szerint Trump kínai útja egy Hszi Csin-pinggel és Vlagyimir Putyinnal tartott találkozóval zárulhat. Egy amerikai tisztviselő ezt a három ország vezetői közötti első ilyen szintű egyeztetésnek nevezte.\n\n• **A nukleáris fegyverek korlátozása lehet a fő téma.** Az amerikai–orosz fegyverzetkorlátozási megállapodás februárban járt le, Kína pedig közben növelte nukleáris arzenálját. Washington nem számít azonnali egyezségre, a megbeszélést inkább egy későbbi párbeszéd nyitányának tekinti.\n\n• **Iránról egyeztethetnek, Ukrajnáról várhatóan nem.** Trump az iráni konfliktust napirendre venné, az ukrajnai háborút azonban külön ügyként kezeli, amelybe szerinte Kínának nem kell bekapcsolódnia. Volodimir Zelenszkij a tervezett találkozót az 1945-ös jaltai konferenciához hasonlította.\n\n• **Hszi külön kétoldalú programot is kap, Putyinnal ilyen nem szerepel a tervben.** Trump kínai elnökkel tartandó megbeszéléje munkaebéddel egészül ki; ez a negyedik személyes találkozójuk Trump tavalyi visszatérése óta. Elon Musk az amerikai küldöttséggel utazik, de a háromoldalú tárgyaláson nem vesz részt. Trump előbb a Fülöp-szigeteken tartandó ASEAN-csúcsra látogat el.",
+    "title_ro": "Trump, Xi și Putin ar putea discuta la Shenzhen; Musk merge și el în China",
+    "lead_ro": "Donald Trump, Xi Jinping și Vladimir Putin ar putea avea o reuniune trilaterală la Shenzhen, în marja summitului APEC. Nu este anticipat un acord privind armele nucleare; Trump va discuta separat și cu Xi, dar nu are planificată o întrevedere bilaterală cu Putin.",
+    "content_ro": "• **Shenzhen găzduiește summitul APEC în 18–19 noiembrie.** La reuniune sunt așteptate 21 de economii, care însumează aproximativ 62% din PIB-ul mondial și aproape jumătate din comerțul internațional.\n\n• **Liderii celor trei țări s-ar putea întâlni în marja summitului.** Casa Albă a anunțat că vizita lui Trump în China s-ar putea încheia cu o discuție alături de Xi Jinping și Vladimir Putin. Un oficial american a descris-o drept prima reuniune de acest nivel între conducătorii celor trei state.\n\n• **Controlul armelor nucleare ar putea fi tema centrală.** Acordul de limitare a armamentului nuclear dintre SUA și Rusia a expirat în februarie, în timp ce China și-a mărit arsenalul. Washingtonul nu prevede un acord imediat și consideră discuția mai degrabă un început pentru negocieri ulterioare.\n\n• **Iranul ar putea fi abordat, Ucraina probabil nu.** Trump intenționează să discute despre conflictul iranian, dar tratează războiul din Ucraina ca pe un dosar separat, în care, în opinia sa, China nu are un rol. Volodimir Zelenski a comparat reuniunea planificată cu conferința de la Ialta din 1945.\n\n• **Xi va avea și o întrevedere bilaterală cu Trump, spre deosebire de Putin.** Discuția cu liderul chinez va fi însoțită de un prânz de lucru și va fi a patra întâlnire față în față a celor doi de la revenirea lui Trump la Casa Albă, anul trecut. Elon Musk va face parte din delegația americană, dar nu va participa la reuniunea trilaterală. Înainte de China, Trump urmează să meargă la summitul ASEAN din Filipine.",
+    "importance_score": 115.0,
+    "top_rank": 12,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_43aa02b7d3",
     "slug": "elso-fokon-a-fovaros-nyert-a-georgescu-melletti-tuntetes-ugyeben-43aa02",
     "tags": [
@@ -1795,7 +1879,7 @@
     "lead_ro": "Tribunalul București a respins contestația față de refuzul autorizării manifestației programate pe 14 noiembrie în sprijinul lui Călin Georgescu. Hotărârea nu este definitivă, iar în dimineața protestului primele autocare au ajuns lângă Parlament, unde jandarmii au pregătit măsuri de ordine.",
     "content_ro": "• **Contestație respinsă în primă instanță:** Vineri, Tribunalul București a considerat neîntemeiată cererea celor trei persoane care au contestat refuzul autorizării manifestației din 14 noiembrie. Potrivit relatărilor, hotărârea poate fi atacată în termen de 15 zile.\n\n• **Trei solicitări de autorizare:** Jereb Mihai Florin și Constantin Claudiu-Laurențiu au depus o cerere comună, iar Nicolae Voiculeț a trimis o solicitare separată. Comisia municipală le-a respins pe amândouă.\n\n• **Primăria a invocat riscuri de siguranță:** Printre motive s-au numărat apelurile la violență apărute pe rețelele sociale, mobilizarea cu autocare, care putea aduce peste 50 de persoane, și meciul România–Polonia programat în aceeași zi.\n\n• **Simion a anunțat că va participa:** Liderul AUR a declarat că le-a oferit sprijin juridic solicitanților, dar că partidul nu organizează protestul. El a cerut instituțiilor statului să protejeze participanții; primarul general a spus că nu văzuse o cerere depusă de AUR.\n\n• **Măsuri de ordine lângă Parlament:** În dimineața manifestației au sosit primele autocare, iar în zonă au fost montate garduri și o scenă. Jandarmeria a anunțat că, împreună cu alte instituții, va menține ordinea și va proteja persoanele prezente; autorizarea revine administrației locale, iar organizarea este responsabilitatea organizatorilor.",
     "importance_score": 115.0,
-    "top_rank": 12,
+    "top_rank": 13,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1869,80 +1953,6 @@
     "lead_ro": "La forumul AUR despre Europa, George Simion a susținut că națiunile trebuie să-și păstreze puterea de decizie și a îndemnat participanții să ia parte la manifestația pentru Călin Georgescu. Înaintea protestului neautorizat, 40–50 de persoane s-au strâns în fața Primăriei Capitalei, iar instanța a respins contestația împotriva refuzului de autorizare.",
     "content_ro": "• **Simion a susținut rolul națiunilor în viitorul Europei:** Liderul AUR a deschis vineri seara Forumul Europa, la Palatul Parlamentului, afirmând că popoarele trebuie să decidă direcția continentului. El a criticat activitatea instituțiilor UE și a susținut că democrația din România se află în declin. A prezentat reuniunea AUR din 13–15 noiembrie ca având o viziune diferită de cea a forumului Eurosfat.\n\n• **Manifestația pentru Georgescu a fost anunțată pentru sâmbătă:** Participanții urmau să se adune la ora 13:00 în Parcul Izvor, iar protestul era programat de la ora 14:00, în fața Palatului Parlamentului. Simion a spus că va veni de la evenimentul organizat de partid și i-a îndemnat și pe cei prezenți la forum să participe.\n\n• **Adunarea a început încă din cursul dimineții:** Aproximativ 40–50 de persoane s-au strâns în fața Primăriei Capitalei, nemulțumite de refuzul autorizării. Ulterior, acestea urmau să se îndrepte spre Parcul Izvor, unde au sosit și participanți cu autocarele. Jandarmii au instalat garduri și au trimis echipe de dialog în zonă.\n\n• **Instanța a menținut refuzul autorităților:** Trei persoane au contestat decizia Primăriei Capitalei, însă Tribunalul București le-a respins cererea vineri. Potrivit motivelor prezentate de municipalitate, riscurile au inclus meciul România–Polonia din aceeași zi și mesaje apărute online care încurajau acțiuni violente.\n\n• **Meciul de fotbal a sporit măsurile de securitate:** Jandarmeria a anunțat controale la acces și posibilitatea restricționării traficului, în contextul în care aproximativ 3.000 de suporteri polonezi erau așteptați în centrul Bucureștiului. Potrivit Maszol, Călin Georgescu urma să rămână în arest preventiv până la 27 noiembrie.",
     "importance_score": 110.0,
-    "top_rank": 13,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_103cc996d3",
-    "slug": "trump-hszi-es-putyin-sencsenben-targyalhat-musk-is-kinaba-utazik-103cc9",
-    "tags": [
-      "apec",
-      "amerika",
-      "kina",
-      "oroszorszag",
-      "nuklearisfegyverkezes"
-    ],
-    "fingerprint": "b25a55fb44e854fbdd450e7fbee3f971",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 9,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Întâlnire fără precedent: Trump, Xi Jinping și Putin vor purta discuții în marja summitului APEC din China de săptămâna viitoare. Care este subiectul cheie de pe agendă",
-        "link": "https://www.mediafax.ro/externe/intalnire-fara-precedent-trump-xi-jinping-si-putin-vor-purta-discutii-in-marja-summitului-apec-din-china-de-saptamana-viitoare-care-este-subiectul-cheie-de-pe-agenda-23842817"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Summit istoric, confirmat de Casa Albă: Trump, Xi și Putin se întâlnesc în China. „Vă rog, fără surprize”",
-        "link": "https://hotnews.ro/summit-istoric-confirmat-de-casa-alba-trump-xi-si-putin-se-intalnesc-in-china-va-rog-fara-surprize-2404102"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Trump, Xi Jinping și Putin, reuniune istorică în China. Ce vor discuta liderii celor trei mari puteri nucleare",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/trump-xi-jinping-si-putin-reuniune-istorica-in-2571437.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Jön a nagy találkozás: Trump, Putyin és Hszi Csin-ping összeül a jövő héten",
-        "link": "https://maszol.ro/kulfold/Jon-a-nagy-talalkozas-Trump-Putyin-es-Hszi-Csin-ping-osszeul-a-jovo-heten"
-      },
-      {
-        "source": "G4Media",
-        "title": "Trump, întâlnire cu Xi Jinping și cu Putin în cadrul unei reuniuni trilaterale istorice, în marja summitului APEC din China de săptămâna viitoare",
-        "link": "https://www.g4media.ro/trump-intalnire-cu-xi-jinping-si-cu-putin-in-cadrul-unei-reuniuni-trilaterale-istorice-in-marja-summitului-apec-din-china-de-saptamana-viitoare.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Trump, Putin și Xi Jinping, așteptați la același summit în China / Cele cinci mari mize ale reuniunii",
-        "link": "https://www.g4media.ro/trump-putin-si-xi-jinping-asteptati-la-acelasi-summit-in-china-cele-cinci-mari-mize-ale-reuniunii.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Trump, Putin și Xi Jinping, așteptați la același summit în China. Cele cinci mari mize ale întâlnirii liderilor mondiali",
-        "link": "https://www.mediafax.ro/externe/trump-putin-si-xi-jinping-asteptati-la-acelasi-summit-in-china-cele-cinci-mari-mize-ale-intalnirii-liderilor-mondiali-23842364"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Casa Albă confirmă summitul Trump-Putin-Xi Jinping. Beijingul și Moscova nu au confirmat reuniunea",
-        "link": "https://stirileprotv.ro/stiri/international/casa-alba-confirma-summitul-trump-putin-xi-jinping-beijingul-si-moscova-nu-au-confirmat-reuniunea.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Casa Albă dă detalii despre viitoarea întâlnire a lui Trump cu Putin și Xi Jinping. Ce le va spune liderul SUA",
-        "link": "https://www.digi24.ro/stiri/externe/casa-alba-da-detalii-despre-viitoarea-intalnire-a-lui-trump-cu-putin-si-xi-jinping-ce-le-va-spune-liderul-sua-4036313"
-      }
-    ],
-    "published_at": 1794643860,
-    "title_hu": "Trump, Hszi és Putyin Sencsenben tárgyalhat, Musk is Kínába utazik",
-    "lead_hu": "Donald Trump, Hszi Csin-ping és Vlagyimir Putyin az APEC-csúcs idején, Sencsenben tarthat háromoldalú megbeszélést. A nukleáris fegyverekről szóló egyeztetésen nem várnak megállapodást; Trump Hszivel külön is találkozik, Putyinnal viszont nem tervez kétoldalú tárgyalást.",
-    "content_hu": "• **November 18–19-én Sencsen ad otthont az APEC-csúcsnak.** A találkozóra 21 gazdaság képviselőit várják; ezek együttesen a világ GDP-jének mintegy 62 százalékát állítják elő, és a nemzetközi kereskedelem közel felét adják.\n\n• **A három ország vezetői a csúcs kísérőprogramjaként ülhetnek össze.** A Fehér Ház tájékoztatása szerint Trump kínai útja egy Hszi Csin-pinggel és Vlagyimir Putyinnal tartott találkozóval zárulhat. Egy amerikai tisztviselő ezt a három ország vezetői közötti első ilyen szintű egyeztetésnek nevezte.\n\n• **A nukleáris fegyverek korlátozása lehet a fő téma.** Az amerikai–orosz fegyverzetkorlátozási megállapodás februárban járt le, Kína pedig közben növelte nukleáris arzenálját. Washington nem számít azonnali egyezségre, a megbeszélést inkább egy későbbi párbeszéd nyitányának tekinti.\n\n• **Iránról egyeztethetnek, Ukrajnáról várhatóan nem.** Trump az iráni konfliktust napirendre venné, az ukrajnai háborút azonban külön ügyként kezeli, amelybe szerinte Kínának nem kell bekapcsolódnia. Volodimir Zelenszkij a tervezett találkozót az 1945-ös jaltai konferenciához hasonlította.\n\n• **Hszi külön kétoldalú programot is kap, Putyinnal ilyen nem szerepel a tervben.** Trump kínai elnökkel tartandó megbeszéléje munkaebéddel egészül ki; ez a negyedik személyes találkozójuk Trump tavalyi visszatérése óta. Elon Musk az amerikai küldöttséggel utazik, de a háromoldalú tárgyaláson nem vesz részt. Trump előbb a Fülöp-szigeteken tartandó ASEAN-csúcsra látogat el.",
-    "title_ro": "Trump, Xi și Putin ar putea discuta la Shenzhen; Musk merge și el în China",
-    "lead_ro": "Donald Trump, Xi Jinping și Vladimir Putin ar putea avea o reuniune trilaterală la Shenzhen, în marja summitului APEC. Nu este anticipat un acord privind armele nucleare; Trump va discuta separat și cu Xi, dar nu are planificată o întrevedere bilaterală cu Putin.",
-    "content_ro": "• **Shenzhen găzduiește summitul APEC în 18–19 noiembrie.** La reuniune sunt așteptate 21 de economii, care însumează aproximativ 62% din PIB-ul mondial și aproape jumătate din comerțul internațional.\n\n• **Liderii celor trei țări s-ar putea întâlni în marja summitului.** Casa Albă a anunțat că vizita lui Trump în China s-ar putea încheia cu o discuție alături de Xi Jinping și Vladimir Putin. Un oficial american a descris-o drept prima reuniune de acest nivel între conducătorii celor trei state.\n\n• **Controlul armelor nucleare ar putea fi tema centrală.** Acordul de limitare a armamentului nuclear dintre SUA și Rusia a expirat în februarie, în timp ce China și-a mărit arsenalul. Washingtonul nu prevede un acord imediat și consideră discuția mai degrabă un început pentru negocieri ulterioare.\n\n• **Iranul ar putea fi abordat, Ucraina probabil nu.** Trump intenționează să discute despre conflictul iranian, dar tratează războiul din Ucraina ca pe un dosar separat, în care, în opinia sa, China nu are un rol. Volodimir Zelenski a comparat reuniunea planificată cu conferința de la Ialta din 1945.\n\n• **Xi va avea și o întrevedere bilaterală cu Trump, spre deosebire de Putin.** Discuția cu liderul chinez va fi însoțită de un prânz de lucru și va fi a patra întâlnire față în față a celor doi de la revenirea lui Trump la Casa Albă, anul trecut. Elon Musk va face parte din delegația americană, dar nu va participa la reuniunea trilaterală. Înainte de China, Trump urmează să meargă la summitul ASEAN din Filipine.",
-    "importance_score": 105.0,
     "top_rank": 14,
     "is_top_hero": false,
     "is_top_list": true
@@ -3314,6 +3324,50 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_78faedfb82",
+    "slug": "havazas-neheziti-a-kzlekedest-tbb-kzep-romaniai-uton-78faed",
+    "tags": [
+      "ninsoare",
+      "drumuri",
+      "brasov",
+      "ranca",
+      "trafic"
+    ],
+    "fingerprint": "02d87c7d5ba38cf463d69799a042cc2a",
+    "category": "Bulvár",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Cancan.ro",
+        "title": "Data exactă la care cade prima ninsoare, în funcție de orașul din România în care locuiești. Câte zile ninge în orașul tău, potrivit meteorologilor ANM și Accuweather",
+        "link": "https://www.cancan.ro/data-exacta-la-care-cade-prima-ninsoare-in-functie-de-orasul-din-romania-in-care-locuiesti-cate-zile-ninge-in-orasul-tau-potrivit-meteorologilor-anm-si-accuweather-21547351"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Iarna s-a întors în România. Ninge la Brașov și în stațiunile montane. Pe ce drumuri se circulă în condiții de iarnă. VIDEO",
+        "link": "https://stirileprotv.ro/stiri/actualitate/iarna-s-a-intors-in-romania-ninge-la-brasov-si-in-statiunile-montane-pe-ce-drumuri-se-circula-in-conditii-de-iarna-video.html"
+      },
+      {
+        "source": "Mediatica.ro",
+        "title": "Visszatért a tél Romániába – videó",
+        "link": "https://www.mediatica.ro/hirek/aktualis/visszatert-a-tel-romaniaba"
+      }
+    ],
+    "published_at": 1794645747,
+    "title_hu": "Havazás nehezíti a közlekedést több közép-romániai úton",
+    "lead_hu": "Több romániai térségben havazott, a központi országrész egyes útjain téli körülmények között haladt a forgalom. Az útfenntartók több mint 50 munkagépet vetettek be, és fokozott óvatosságra intették az autósokat.",
+    "content_hu": "• **Több térségben havazott, köztük Brassó városában is.** A hóesés jellemzően a magasabban fekvő területeket érintette, de a városban és a Poiana Brassó üdülőhelyen szintén hullott hó. A hegyvidéki Rânca környékén havas eső és havazás fordult elő.\n\n• **A központi országrész több főútján téli útviszonyokat jeleztek.** Ilyen szakasz volt az 1-es főút Predealnál, a 73-as út Predeal és Fundata térségében, a Transzfogarasi út, a 10-es főút Teliunál, valamint a 11-es főút az Oituz-hágónál.\n\n• **Az útkezelők több mint 50 hóeltakarító járművet működtettek.** A gépek a havazással érintett helyeken dolgoztak, illetve megelőző intézkedésként az alacsony hőmérsékletű útszakaszokon is bevetették őket. A beszámoló idején nem jeleztek forgalmi elakadást vagy egyéb közlekedési fennakadást.\n\n• **Rânca térségében két speciális jármű ellenőrizte és kezelte az utat.** A Novaci és Rânca közötti 67C jelű úton szükség szerint hóekével és csúszásgátló anyag szórására alkalmas berendezéssel dolgoztak. A burkolat tiszta, de nedves volt.\n\n• **Az útfenntartók téli felszerelést és körültekintő vezetést kértek.** Havas, jeges vagy ónos úton kötelező a téli gumi használata. A közlekedőknek az útviszonyokhoz kell igazítaniuk a sebességet, és számolniuk kell azzal, hogy az időjárás változásával hó rakódhat le az úttestre.",
+    "title_ro": "Ninsorile afectează circulația pe mai multe drumuri din centrul României",
+    "lead_ro": "Mai multe zone din România au fost afectate de ninsoare, iar pe unele șosele din centrul țării traficul s-a desfășurat în condiții de iarnă. Drumarii au mobilizat peste 50 de utilaje și le-au recomandat șoferilor să circule cu prudență.",
+    "content_ro": "• **Ninsorile au cuprins mai multe zone, inclusiv municipiul Brașov.** Precipitațiile au fost întâlnite în special la altitudini mari, dar a nins și în oraș, precum și în Poiana Brașov. În zona montană Rânca s-au semnalat lapoviță și ninsoare.\n\n• **Pe mai multe drumuri din centrul țării se circula în condiții de iarnă.** Printre sectoarele menționate se numără DN1 la Predeal, DN73 în zona Predeal și Fundata, Transfăgărășanul, DN10 la Teliu și DN11 în pasul Oituz.\n\n• **Drumarii au folosit peste 50 de utilaje de deszăpezire.** Acestea au acționat în zonele afectate de precipitații și preventiv, pe sectoarele unde temperaturile erau scăzute. La momentul informării nu erau raportate blocaje sau alte probleme de trafic.\n\n• **În apropiere de Rânca, două utilaje au verificat și au tratat drumul.** Pe DN67C, între Novaci și Rânca, echipele au intervenit la nevoie cu vehicule echipate cu lamă și dispozitive pentru împrăștierea materialului antiderapant. Carosabilul era curat și umed.\n\n• **Autoritățile au cerut echiparea corespunzătoare și adaptarea vitezei.** Anvelopele de iarnă sunt obligatorii pe drumurile acoperite cu zăpadă, gheață sau polei. Șoferii au fost sfătuiți să conducă prudent și să țină cont de posibilitatea depunerii zăpezii pe carosabil, în funcție de vreme.",
+    "importance_score": 45.0,
+    "top_rank": 39,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_cdab504ea3",
     "slug": "elszabadult-auto-uttt-el-egy-17-eves-fiut-kolozsvaron-cdab50",
     "tags": [
@@ -3352,7 +3406,7 @@
     "lead_ro": "Un autoturism parcat necorespunzător pe o pantă a pornit singur pe strada Republicii și a lovit un tânăr de 17 ani aflat pe trotuar. Mașina s-a izbit de un stâlp din beton, iar adolescentul a avut nevoie de îngrijiri medicale; testarea șoferului de 68 de ani nu a indicat consum de alcool.",
     "content_ro": "• **Accidentul s-a produs pe strada Republicii:** un tânăr de 17 ani mergea pe trotuar când un autoturism lăsat într-o zonă în pantă a început să coboare fără ca cineva să îl conducă. Mașina nu fusese asigurată corespunzător la parcare.\n\n• **Vehiculul l-a lovit pe adolescent din spate:** autoturismul a ajuns de pe carosabil pe trotuar și l-a purtat pe capotă. Ulterior, mașina s-a izbit de un stâlp din beton, iar tânărul a căzut în urma impactului.\n\n• **Adolescentul a primit îngrijiri medicale:** rănile suferite au impus acordarea de asistență medicală, iar tânărul a fost transportat la spital.\n\n• **Șoferul, în vârstă de 68 de ani, nu consumase alcool:** potrivit informațiilor poliției, testarea cu aparatul etilotest a avut rezultat negativ. Bărbatul nu ar fi asigurat corespunzător autoturismul înainte ca acesta să pornească la vale.\n\n• **Polițiștii cercetează cazul într-un dosar penal:** ancheta vizează vătămarea corporală din culpă și urmează să stabilească împrejurările producerii accidentului. Momentul a fost înregistrat de o cameră de supraveghere, imaginile putând contribui la clarificarea succesiunii evenimentelor.",
     "importance_score": 45.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3396,7 +3450,7 @@
     "lead_ro": "Roman Gofman, directorul Mossad, s-a întâlnit vineri cu oficiali americani pentru discuții despre conflictul cu Iranul. În timp ce Benjamin Netanyahu cere reluarea luptelor, Donald Trump nu a acceptat până acum această solicitare și susține continuarea presiunilor asupra Teheranului.",
     "content_ro": "• **Gofman s-a aflat vineri la Washington pentru discuții despre războiul din Iran**, potrivit Axios, care citează trei surse familiarizate cu subiectul. Directorul Mossad este un apropiat al premierului Benjamin Netanyahu.\n\n• **Șeful serviciului israelian s-a întâlnit cu John Ratcliffe, directorul CIA.** Una dintre surse a menționat că Gofman ar putea merge și la Miami pentru o întrevedere cu Steve Witkoff, trimisul Casei Albe. Mossad, CIA și administrația prezidențială nu au comentat informația.\n\n• **Netanyahu încearcă să-l convingă pe Trump să reia conflictul, însă președintele american nu a sprijinit până acum această idee.** Cei doi au discutat telefonic despre război pe 5 noiembrie. Trump a declarat joi că SUA țin cont de solicitările statelor pe care vor să le protejeze, iar Arabia Saudită i-ar fi cerut să păstreze situația actuală pentru o perioadă.\n\n• **Washingtonul susține menținerea presiunii asupra Iranului împreună cu parteneri din Golf.** Arabia Saudită, Qatarul și Emiratele Arabe Unite sunt de partea continuării blocadei navale și a presiunii economice, în timp ce SUA examinează posibilitatea unui acord. Potrivit lui Trump, Kuweitul, Bahrainul și Emiratele preferă, de asemenea, ca măsurile să nu fie schimbate deocamdată.\n\n• **Formarea unui nou guvern israelian rămâne incertă după pierderea majorității de către tabăra lui Netanyahu.** În urma alegerilor din 27 octombrie, Gadi Eisenkot a primit mandatul de a alcătui un cabinet, dar succesul său nu este sigur. Unii lideri ai opoziției se tem că Netanyahu ar putea ordona un atac asupra Iranului.",
     "importance_score": 43.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3445,7 +3499,7 @@
     "lead_ro": "Pe 13 noiembrie, petrolierul Atlantic Asphalt s-a ciocnit cu nava de croazieră American Heritage, în apropiere de New Orleans. Primarul orașului a anunțat că 29 de pasageri au fost transportați la spital; nava de pasageri s-a scufundat parțial, iar persoanele aflate la bord au fost evacuate.",
     "content_ro": "• **Accidentul s-a produs pe 13 noiembrie, în jurul orei locale 12:30**, pe fluviul Mississippi, în apropierea portului New Orleans. Petrolierul Atlantic Asphalt a lovit nava American Heritage, operată de American Cruise Lines, care era oprită la chei, înaintea debarcării pasagerilor.\n\n• **La bordul navei de croazieră se aflau aproximativ 129 de pasageri și membri ai echipajului.** După impact, ambarcațiunea s-a înclinat puternic și a ajuns parțial sub apă, iar mai multe persoane au căzut în fluviu. Primarul orașului New Orleans, Helena Moreno, a declarat că 29 de pasageri au fost transportați la spital.\n\n• **Pasagerii și echipajul au fost evacuați de pe vas.** American Cruise Lines a informat că menține legătura cu Paza de Coastă și autoritățile locale. Persoanele salvate au fost duse într-o clădire administrativă a portului, unde au primit sprijin și au fost evaluate medical; relatările inițiale menționau că intervenția era încă în desfășurare.\n\n• **Petrolierul și nava de croazieră aveau dimensiuni diferite:** Atlantic Asphalt măsoară 160 de metri, iar American Heritage, 81 de metri. Petrolierul transportă de regulă asfalt și bitum. Nava de pasageri se afla la capătul unei călătorii de opt zile, cu opriri în mai multe destinații de pe râurile din Louisiana și Mississippi.\n\n• **Cauza coliziunii nu a fost stabilită.** Primele relatări nu confirmaseră decese, însă informațiile ulterioare au indicat că mai mulți pasageri au avut nevoie de îngrijiri spitalicești. Guvernatorul Louisianei, Jeff Landry, a spus că a fost informat despre incident și că se deplasează la New Orleans pentru a urmări situația.",
     "importance_score": 43.0,
-    "top_rank": 41,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3494,7 +3548,7 @@
     "lead_ro": "Gică Hagi a susținut pe 13 noiembrie o conferință de presă înaintea partidei României cu Polonia, din Liga Națiunilor. Selecționerul a fost întrebat și despre Nicolae Stanciu și Ionuț Radu, care au refuzat convocarea din motive medicale.",
     "content_ro": "• **România întâlnește Polonia pe 14 noiembrie, pe Arena Națională din București**, în etapa a cincea a grupei din Liga Națiunilor. Partida începe la ora 21:45. Trei zile mai târziu, tot de la 21:45, echipa națională va juca în deplasare cu Bosnia-Herțegovina.\n\n• **Nicolae Stanciu și Ionuț Radu nu au venit la lot din cauza unor probleme medicale.** Cei doi au transmis scrisori în care au explicat împrejurările absenței. Informațiile anterioare arătau că hotărârea le-a aparținut jucătorilor; și Mihăilă a fost menționat în contextul convocărilor refuzate.\n\n• **Hagi a revenit asupra situației celor doi la conferința de vineri.** Într-o declarație anterioară, selecționerul precizase că deciziile trebuie discutate direct cu fotbaliștii și că federația comunicase deja informațiile relevante. Potrivit declarației evidențiate în titlul relatării, el nu intenționează să deplângă lipsa vreunui jucător.\n\n• **România a pierdut primele patru partide din grupă.** În confruntarea de la București, echipa poate încerca să obțină puncte în fața Poloniei, după ce a cedat cu 0–6 în întâlnirea tur. Meciurile cu Polonia și Bosnia-Herțegovina sunt următoarele două angajamente ale formației în programul din noiembrie.",
     "importance_score": 40.0,
-    "top_rank": 42,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3542,7 +3596,7 @@
     "lead_ro": "Ministerul Apărării a publicat pentru consultare proiectul de norme privind pregătirea militară voluntară. Programul ar putea dura cel mult patru luni și s-ar adresa cetățenilor între 18 și 35 de ani care nu au efectuat anterior serviciul militar.",
     "content_ro": "• **Proiectul a fost făcut public pentru consultare la 13 noiembrie:** Ministerul Apărării a prezentat regulile de aplicare a Legii 446/2006. Inițiativa urmărește formarea de personal care să contribuie la dezvoltarea rezervei operaționale a Armatei României.\n\n• **Programul ar fi deschis femeilor și bărbaților cu vârste între 18 și 35 de ani:** potențialii participanți trebuie să fie cetățeni români și să nu fi efectuat serviciul militar, nici în activitate, nici în rezervă. Înscrierea ar avea caracter voluntar.\n\n• **Pregătirea ar putea dura până la patru luni:** participanții ar dobândi cunoștințe și deprinderi militare de bază. Pe perioada stagiului, instituția ar asigura cazare, hrană, uniforme, echipament și servicii medicale.\n\n• **Proiectul prevede și o indemnizație:** suma de bază calculată pentru 2026 este de 4.033 de lei net pe lună, achitată în patru tranșe egale. La aceasta s-ar adăuga drepturile asociate gradului militar; estimările menționate indică aproximativ 4.250 de lei net pentru un soldat și 4.272 de lei pentru un fruntaș.\n\n• **După încheierea stagiului, participanții ar putea continua o carieră militară sau ar putea fi înscriși în rezerva operațională:** opțiunile s-ar aplica potrivit legislației în vigoare. Potrivit prezentării proiectului, cei care abandonează programul ar trebui să restituie sumele primite.",
     "importance_score": 40.0,
-    "top_rank": 43,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3591,7 +3645,7 @@
     "lead_ro": "La reuniunea informală de la Dublin, Kaja Kallas a susținut că Europa trebuie să participe la negocierile privind războiul din Ucraina. În opinia sa, discuțiile trebuie să înceapă cu obținerea unei încetări a focului, în timp ce Moscova nu a acceptat deocamdată implicarea europenilor.",
     "content_ro": "• **Kaja Kallas a indicat încetarea focului drept obiectivul imediat.** La Dublin, șefa diplomației UE a avertizat că discuțiile despre arhitectura de securitate europeană nu trebuie să abată atenția de la oprirea luptelor. Posibila încheiere a războiului din Ucraina s-a aflat printre subiectele reuniunii informale a liderilor europeni.\n\n• **Kallas a spus că funcția sa îi oferă un rol firesc în reprezentarea Uniunii.** Ea a amintit că liderii statelor membre au numit-o Înalt Reprezentant în iunie 2024, într-un moment în care erau anticipate negocieri directe cu Moscova. În opinia sa, UE ar trebui să desemneze un negociator cu un mandat instituțional clar.\n\n• **Șefa diplomației europene a recunoscut că Rusia nu o dorește la discuții.** Kallas a precizat că liderii UE pot schimba decizia privind reprezentarea, dar a pledat pentru concentrarea eforturilor asupra problemelor de fond. Ea a mai susținut că Uniunea nu trebuie să adopte automat modelul american, care presupune trimiterea a doi emisari aleși personal.\n\n• **Moscova nu și-a dat încă acordul pentru participarea europenilor.** Statele Unite susțin implicarea Europei, iar președintele ucrainean Volodimir Zelenski și emisarul american Jared Kushner au menționat această posibilitate. Dmitri Peskov, purtătorul de cuvânt al Kremlinului, a declarat că un format extins ar putea fi analizat după clarificarea intențiilor europene și a contribuției acestora la procesul de pace.\n\n• **Mai multe instituții ale UE au atribuții legate de demersul diplomatic.** Tratatul de la Lisabona îi încredințează Înaltului Reprezentant coordonarea și aplicarea politicii externe, iar președintele Consiliului European, funcție ocupată în prezent de António Costa, are de asemenea un rol de reprezentare. Comisia Europeană gestionează, între altele, chestiuni privind sancțiunile, finanțarea și aderarea.",
     "importance_score": 40.0,
-    "top_rank": 44,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3639,7 +3693,7 @@
     "lead_ro": "Judecătoarea Raluca Moroșanu a reacționat pe Facebook după afirmațiile făcute de Nicușor Dan la Dublin, unde președintele s-a prezentat simbolic drept conducător al aparatului de stat. Moroșanu a precizat că șeful statului nu îi este superior.",
     "content_ro": "• **Judecătoarea a reacționat joi seară la declarațiile președintelui.** Moroșanu a scris pe Facebook că Nicușor Dan nu îi este șef. La Dublin, acesta îi enumerase printre angajații statului pe polițiști, personalul medical, profesori, funcționari publici și judecători.\n\n• **Dan a susținut că angajații statului trebuie tratați cu respect.** El a asociat comportamentul lipsit de considerație față de aceștia cu afectarea autorității publice. Afirmațiile au venit în contextul disputei cu jurnalistul Ovidiu Vanghele, căruia președintele i-a interzis accesul la Palatul Cotroceni după o postare online jignitoare.\n\n• **O sesizare formulată de Moroșanu a dus la o hotărâre europeană privind extrădările.** Curtea de Justiție a UE a stabilit că o instanță nu poate refuza aplicarea unui mandat european de arestare și prelua executarea pedepsei fără acordul statului emitent. Decizia îi privește și pe Dani Mocanu, Mario Iorgulescu, Ionel Arsene, Dragoș Săvulescu, Daniel Dragomir și Sorin Oprescu.\n\n• **În decembrie 2025, Moroșanu a criticat conducerea Curții de Apel București.** Judecătoarea a intervenit la o conferință de presă organizată de conducerea instituției ca reacție la criticile legate de documentarul Recorder despre justiție.\n\n• **Intervenția sa publică a vizat modul de conducere al instanței.** Moroșanu a luat cuvântul în cadrul conferinței și a contestat conduita conducerii Curții de Apel București.",
     "importance_score": 40.0,
-    "top_rank": 45,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3687,7 +3741,7 @@
     "lead_ro": "Modelul matematic publicat în 1960 a extrapolat creșterea accelerată a populației și a indicat 13 noiembrie 2026 drept un prag matematic, nu o predicție literală a sfârșitului lumii. Calculele au urmărit tendința până în anii 1990, însă scăderea natalității a schimbat ulterior evoluția estimată.",
     "content_ro": "• **Analiza s-a bazat pe date din două milenii.** Heinz von Foerster și doi colegi au comparat 24 de estimări demografice anterioare. Modelul publicat în revista Science a proiectat continuarea accelerării creșterii și a indicat un prag matematic în jurul datei de 13 noiembrie 2026, nu apariția efectivă a unei populații infinite.\n\n• **Ziua exactă a fost aleasă dintr-un interval mai larg.** Cercetătorii au indicat o dată precisă și pe fondul superstiției asociate zilei de vineri 13. Studiul a tratat supraaglomerarea drept un posibil pericol și a invocat exemplul unei populații de musculițe care se prăbușește când resursele și spațiul sunt limitate.\n\n• **Demografii vremii au contestat concluziile.** În contextul tensionat al Războiului Rece, temerile privind epuizarea resurselor naturale și un război nuclear alimentau îngrijorările pentru viitorul civilizației. Proiecțiile modelului au urmărit aproximativ evoluția populației până în anii 1990.\n\n• **Scăderea natalității a schimbat tendința.** Ulterior, fertilitatea s-a redus în numeroase țări, iar ritmul de creștere a populației mondiale a încetinit. Proiecțiile actuale ale ONU indică un posibil vârf în anii 2080, la circa 10,3 miliarde de oameni, urmat de o diminuare treptată.\n\n• **Atenția se îndreaptă acum și spre alte riscuri.** Schimbările climatice, un conflict nuclear și pierderea controlului asupra inteligenței artificiale se numără printre preocupările actuale. Ceasul Apocalipsei, creat în 1947 de Bulletin of the Atomic Scientists, este plasat la 85 de secunde de miezul nopții, față de 89 de secunde cu un an înainte.",
     "importance_score": 40.0,
-    "top_rank": 46,
+    "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3735,7 +3789,7 @@
     "lead_ro": "Premierul Luca Niculescu a participat vineri la un dejun oferit de Margareta, Custodele Coroanei, și Principele Radu. Ulterior, el a evidențiat contribuția Casei Regale la dezvoltarea țării și moștenirea Regelui Mihai.",
     "content_ro": "• **Luca Niculescu a fost vineri oaspetele Margaretei, Custodele Coroanei, și al Principelui Radu.** Premierul a participat la dejunul organizat de cei doi și le-a mulțumit pentru primire într-un mesaj publicat pe Facebook.\n\n• **Șeful Guvernului a prezentat Casa Regală drept un actor important în evoluția României.** În opinia sa, aceasta a sprijinit modernizarea și dezvoltarea țării. Niculescu a adăugat că atașamentul față de România și respectarea principiilor democratice rămân repere relevante pentru societate.\n\n• **Premierul a amintit și contribuția Regelui Mihai în momente dificile ale istoriei.** El a apreciat că fostul monarh a susținut libertatea și legătura României cu spațiul occidental. Niculescu a transmis că memoria Regelui Mihai este păstrată cu recunoștință.\n\n• **Mesajul premierului a pus accent pe importanța istoriei și a valorilor naționale.** Potrivit lui Niculescu, respectul pentru trecut și pentru principiile care definesc națiunea poate uni societatea și poate orienta construirea viitorului țării. Declarațiile au fost făcute după întâlnirea cu Margareta și Principele Radu.",
     "importance_score": 40.0,
-    "top_rank": 47,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3783,7 +3837,7 @@
     "lead_ro": "Manchester United a anunțat pe 13 noiembrie că Mauricio Pochettino va deveni noul antrenor principal, după ce cu o zi înainte confirmase plecarea lui Michael Carrick. Contractul argentinianului se întinde pe doi ani și jumătate, iar primul său meci ar putea fi împotriva lui Liverpool.",
     "content_ro": "• **Mauricio Pochettino a fost numit antrenor principal al lui Manchester United:** clubul a făcut anunțul pe 13 noiembrie, la o zi după ce a confirmat despărțirea de Michael Carrick. Înțelegerea este valabilă până în vara lui 2029, pentru o perioadă de doi ani și jumătate.\n\n• **Pochettino va începe activitatea la United pe 18 noiembrie**, după încheierea angajamentelor cu naționala Statelor Unite. Echipa americană mai are de disputat două partide cu Haiti în sferturile Ligii Națiunilor Concacaf; clubul englez a convenit cu federația americană eliberarea antrenorului și a staffului său.\n\n• **Primul meci al argentinianului pe banca lui United este programat pentru 22 noiembrie**, împotriva formației Liverpool. În Anglia, Pochettino a mai pregătit Southampton, între 2013 și 2014, Tottenham, din 2014 până în 2019, și Chelsea, în sezonul 2023/24.\n\n• **Manchester United a plătit aproximativ 10 milioane de dolari pentru a-l aduce**, sumă aferentă clauzei de reziliere din contractul cu federația americană. În cei doi ani precedenți numirii, Pochettino a condus naționala Statelor Unite.\n\n• **Trofeele câștigate de Pochettino ca antrenor au venit la Paris Saint-Germain:** în perioada petrecută acolo a obținut un titlu de campion, o cupă și o supercupă. Numirea sa la Manchester United îl readuce în fotbalul englez după experiențele de la Southampton, Tottenham și Chelsea.",
     "importance_score": 40.0,
-    "top_rank": 48,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3831,7 +3885,7 @@
     "lead_ro": "Eurodeputatul PNL Virgil Popescu l-a acuzat pe George Simion că nu a apărat românii care muncesc în Germania în disputa privind AfD. Simion a criticat folosirea abuzivă a ajutoarelor sociale, dar a spus că lucrătorii români care respectă legea nu trebuie confundați cu cei care profită de sistem.",
     "content_ro": "• **Popescu l-a acuzat pe Simion că tratează diaspora în funcție de interesul politic.** Eurodeputatul PNL a susținut că liderul AUR se bazează pe voturile românilor din străinătate, dar nu le susține interesele în disputa legată de AfD. În opinia lui Popescu, Simion a preferat să protejeze relația cu formațiunea germană.\n\n• **Disputa a pornit de la afirmațiile lui Alice Weidel despre românii care lucrează în Germania.** Copreședinta AfD a vorbit despre persoane venite din România care ar beneficia de alocații pentru copii, ajutoare de bază și servicii medicale. Popescu a considerat declarațiile jignitoare, în timp ce Simion a spus că nu le-a interpretat astfel și a descris reacția presei române drept exagerată.\n\n• **Simion a menționat și situația din Magdeburg.** El a afirmat că există persoane care merg în Germania anume pentru a obține ajutoare sociale și a precizat că nu susține acest comportament. Totodată, a făcut distincția între astfel de cazuri și românii care muncesc cinstit și își achită taxele.\n\n• **Delegația europarlamentară a PNL a cerut implicarea Comisiei Europene.** Reprezentanții partidului au solicitat o reacție publică, verificarea modului în care sunt aplicate regulile UE în Germania și protejarea drepturilor familiilor, inclusiv plata la timp a beneficiilor. Popescu a invocat în acest context și propunerea Sahrei Wagenknecht de reducere a sprijinului pentru copiii românilor care locuiesc în afara Germaniei.\n\n• **Popescu a indicat că 531.150 de cetățeni români lucrează legal în Germania.** El a enumerat angajați din sănătate, construcții și fabrici, șoferi și persoane care îngrijesc vârstnici. Potrivit eurodeputatului, aceștia contribuie la sistemul german prin plata impozitelor și a contribuțiilor sociale.",
     "importance_score": 40.0,
-    "top_rank": 49,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3875,7 +3929,7 @@
     "lead_ro": "Potrivit Financial Times, conducerea Nvidia caută un succesor pentru Jensen Huang și l-a contactat pe Rene Haas, directorul Arm Holdings. Haas este doar unul dintre candidații analizați, iar schimbarea ar putea avea implicații pentru companie, ecosistemul inteligenței artificiale și politica americană privind exporturile de cipuri.",
     "content_ro": "• **Consiliul Nvidia caută un posibil înlocuitor pentru Jensen Huang.** Financial Times, citând surse anonime, a relatat că reprezentanții companiei au luat legătura și cu Rene Haas, directorul Arm Holdings. Reuters a preluat informația.\n\n• **Haas se numără deocamdată printre mai multe nume analizate.** Relatarea nu confirmă că acesta va primi oferta și nici că ar accepta funcția. Arm nu a comentat informația, iar Nvidia nu a răspuns imediat solicitării Reuters.\n\n• **Huang a anunțat joi că renunță la funcțiile de director general și președinte al consiliului de administrație.** Cofondatorul Nvidia deține aproximativ 3,61% din companie și este al patrulea cel mai mare acționar. Valoarea firmei este estimată în relatare la circa 4.000 de miliarde de dolari.\n\n• **Plecarea sa poate afecta rețeaua de companii și instituții din domeniul AI susținută de Nvidia.** Huang a direcționat resursele financiare tot mai mari ale firmei către furnizori de servicii cloud, alți parteneri comerciali și laboratoare importante de cercetare. Schimbarea conducerii ar putea amplifica incertitudinea din jurul companiei și al ecosistemului construit în jurul acesteia.\n\n• **Politica SUA privind exporturile de cipuri ar putea resimți, de asemenea, schimbarea.** Huang a susținut menținerea accesului la piața chineză; fragmentul noii surse menționează și relațiile sale apropiate cu președintele american, însă textul se întrerupe înainte de a oferi alte detalii. În ultimele zile, presa a relatat și despre o legătură a lui Huang cu o femeie de afaceri din China, suspectată de autoritățile americane de spionaj.",
     "importance_score": 38.0,
-    "top_rank": 50,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3909,7 +3963,7 @@
     "lead_ro": "Vremea rece s-a instalat în România, iar primele ninsori din acest sezon și-au făcut deja apariția mai ales în zona montană a țării. Sâmbătă dimineață, autoritățile au anunțat că se circulă în condiți...",
     "content_ro": "Vremea rece s-a instalat în România, iar primele ninsori din acest sezon și-au făcut deja apariția mai ales în zona montană a țării. Sâmbătă dimineață, autoritățile au anunțat că se circulă în condiții de iarnă pe mai multe artere importante. Drumarii au mobilizat peste 50 de utilaje de deszăpezire și îi avertizează pe șoferi să nu plece la drum cu mașini nepregătite pentru condițiile de iarnă.",
     "importance_score": 35.0,
-    "top_rank": 51,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3946,45 +4000,6 @@
     "title_ro": "Iranul afirmă că două petroliere au lovit mine și au luat foc în Strâmtoarea Ormuz",
     "lead_ro": "Gardienii Revoluției din Iran au anunțat că două petroliere au lovit mine în Strâmtoarea Ormuz în noaptea de sâmbătă, după care au explodat și au luat foc. Informațiile despre incident provin din comunicatul iranian, iar relatarea nu menționează o confirmare independentă.",
     "content_ro": "• **Gardienii Revoluției au raportat incendierea a două petroliere:** potrivit comunicatului lor, navele au lovit mine navale în Strâmtoarea Ormuz în noaptea de sâmbătă, apoi s-au produs explozii și au izbucnit incendii la bord.\n\n• **Relatarea iraniană critică și modul în care navele ar fi încercat să traverseze zona:** Gardienii susțin că petrolierele și-au oprit sistemele radar și de poziționare și au urmat o rută fără autorizare. Aceste detalii sunt prezentate de partea iraniană.\n\n• **Strâmtoarea are o importanță strategică majoră în contextul conflictului:** Teheranul revendică controlul asupra acestei căi maritime. Înainte de începerea războiului, la sfârșitul lunii februarie, prin zonă tranzita aproximativ o cincime din hidrocarburile transportate la nivel mondial.\n\n• **Iranul și Statele Unite au măsuri diferite privind circulația navală în regiune:** conform articolului, Iranul atacă periodic navele care încearcă să treacă fără permisiune, în timp ce Washingtonul blochează porturile iraniene și escortează petroliere în apropierea coastelor Omanului. SUA afirmă că o mare parte a rutei a fost deminată.",
-    "importance_score": 35.0,
-    "top_rank": 52,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_78faedfb82",
-    "slug": "havazas-neheziti-a-kzlekedest-tbb-kzep-romaniai-uton-78faed",
-    "tags": [
-      "ninsoare",
-      "drumuri",
-      "brasov",
-      "ranca",
-      "trafic"
-    ],
-    "fingerprint": "02d87c7d5ba38cf463d69799a042cc2a",
-    "category": "Bulvár",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Data exactă la care cade prima ninsoare, în funcție de orașul din România în care locuiești. Câte zile ninge în orașul tău, potrivit meteorologilor ANM și Accuweather",
-        "link": "https://www.cancan.ro/data-exacta-la-care-cade-prima-ninsoare-in-functie-de-orasul-din-romania-in-care-locuiesti-cate-zile-ninge-in-orasul-tau-potrivit-meteorologilor-anm-si-accuweather-21547351"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Iarna s-a întors în România. Ninge la Brașov și în stațiunile montane. Pe ce drumuri se circulă în condiții de iarnă. VIDEO",
-        "link": "https://stirileprotv.ro/stiri/actualitate/iarna-s-a-intors-in-romania-ninge-la-brasov-si-in-statiunile-montane-pe-ce-drumuri-se-circula-in-conditii-de-iarna-video.html"
-      }
-    ],
-    "published_at": 1794645747,
-    "title_hu": "Havazás nehezíti a közlekedést több közép-romániai úton",
-    "lead_hu": "Több romániai térségben havazott, a központi országrész egyes útjain téli körülmények között haladt a forgalom. Az útfenntartók több mint 50 munkagépet vetettek be, és fokozott óvatosságra intették az autósokat.",
-    "content_hu": "• **Több térségben havazott, köztük Brassó városában is.** A hóesés jellemzően a magasabban fekvő területeket érintette, de a városban és a Poiana Brassó üdülőhelyen szintén hullott hó. A hegyvidéki Rânca környékén havas eső és havazás fordult elő.\n\n• **A központi országrész több főútján téli útviszonyokat jeleztek.** Ilyen szakasz volt az 1-es főút Predealnál, a 73-as út Predeal és Fundata térségében, a Transzfogarasi út, a 10-es főút Teliunál, valamint a 11-es főút az Oituz-hágónál.\n\n• **Az útkezelők több mint 50 hóeltakarító járművet működtettek.** A gépek a havazással érintett helyeken dolgoztak, illetve megelőző intézkedésként az alacsony hőmérsékletű útszakaszokon is bevetették őket. A beszámoló idején nem jeleztek forgalmi elakadást vagy egyéb közlekedési fennakadást.\n\n• **Rânca térségében két speciális jármű ellenőrizte és kezelte az utat.** A Novaci és Rânca közötti 67C jelű úton szükség szerint hóekével és csúszásgátló anyag szórására alkalmas berendezéssel dolgoztak. A burkolat tiszta, de nedves volt.\n\n• **Az útfenntartók téli felszerelést és körültekintő vezetést kértek.** Havas, jeges vagy ónos úton kötelező a téli gumi használata. A közlekedőknek az útviszonyokhoz kell igazítaniuk a sebességet, és számolniuk kell azzal, hogy az időjárás változásával hó rakódhat le az úttestre.",
-    "title_ro": "Ninsorile afectează circulația pe mai multe drumuri din centrul României",
-    "lead_ro": "Mai multe zone din România au fost afectate de ninsoare, iar pe unele șosele din centrul țării traficul s-a desfășurat în condiții de iarnă. Drumarii au mobilizat peste 50 de utilaje și le-au recomandat șoferilor să circule cu prudență.",
-    "content_ro": "• **Ninsorile au cuprins mai multe zone, inclusiv municipiul Brașov.** Precipitațiile au fost întâlnite în special la altitudini mari, dar a nins și în oraș, precum și în Poiana Brașov. În zona montană Rânca s-au semnalat lapoviță și ninsoare.\n\n• **Pe mai multe drumuri din centrul țării se circula în condiții de iarnă.** Printre sectoarele menționate se numără DN1 la Predeal, DN73 în zona Predeal și Fundata, Transfăgărășanul, DN10 la Teliu și DN11 în pasul Oituz.\n\n• **Drumarii au folosit peste 50 de utilaje de deszăpezire.** Acestea au acționat în zonele afectate de precipitații și preventiv, pe sectoarele unde temperaturile erau scăzute. La momentul informării nu erau raportate blocaje sau alte probleme de trafic.\n\n• **În apropiere de Rânca, două utilaje au verificat și au tratat drumul.** Pe DN67C, între Novaci și Rânca, echipele au intervenit la nevoie cu vehicule echipate cu lamă și dispozitive pentru împrăștierea materialului antiderapant. Carosabilul era curat și umed.\n\n• **Autoritățile au cerut echiparea corespunzătoare și adaptarea vitezei.** Anvelopele de iarnă sunt obligatorii pe drumurile acoperite cu zăpadă, gheață sau polei. Șoferii au fost sfătuiți să conducă prudent și să țină cont de posibilitatea depunerii zăpezii pe carosabil, în funcție de vreme.",
     "importance_score": 35.0,
     "top_rank": 53,
     "is_top_hero": false,
@@ -6398,76 +6413,62 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_e4f022db11",
-    "slug": "tbb-mint-53-ezer-gazda-kaphat-aszalykarteritest-2026-vegeig-e4f022",
-    "tags": [
-      "seceta",
-      "fermier",
-      "despagubiri",
-      "porumb",
-      "floarea-soarelui"
-    ],
-    "fingerprint": "e639377966aa3aed3b621b786d80e052",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Peste 53.900 de fermieri vor beneficia de sprijinul financiar de urgenţă pentru culturile afectate de secetă",
-        "link": "https://stirileprotv.ro/stiri/financiar/peste-53-900-de-fermieri-vor-beneficia-de-sprijinul-financiar-de-urgen-a-pentru-culturile-afectate-de-seceta.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Aproape 54.000 de fermieri afectați de secetă vor primi despăgubiri până la finalul anului. De ce va fi redus ajutorul pe hectar",
-        "link": "https://www.digi24.ro/stiri/economie/aproape-54-000-de-fermieri-afectati-de-seceta-vor-primi-despagubiri-pana-la-finalul-anului-de-ce-va-fi-redus-ajutorul-pe-hectar-4034809"
-      }
-    ],
-    "published_at": 1794563888,
-    "title_hu": "Több mint 53 ezer gazda kaphat aszálykártérítést 2026 végéig",
-    "lead_hu": "Lezárult a 2025-ös aszályban érintett kukorica- és napraforgó-területekre igényelhető sürgősségi támogatás kérelmezése. A 53 930 gazdálkodó által kért összeg meghaladja a rendelkezésre álló keretet, ezért az egy hektárra jutó támogatást arányosan csökkentik.",
-    "content_hu": "• **53 930 gazdálkodó nyújtott be kérelmet** az aszály sújtotta kukorica- és napraforgó-területek után járó rendkívüli támogatásra. A kérelmezési időszak lezárult; az igények a 2025-ös termelési évhez kapcsolódnak.\n\n• **A károsodott terület nagysága 716 894,72 hektár.** A kérelmek alapján meghatározott teljes terület 865 991,52 hektár. A támogatási rendszer azoknak a termelőknek szól, akiknél a kukorica vagy a napraforgó kárszintje elérte a 30 százalékot.\n\n• **A kérelmezett támogatás összesen mintegy 248 millió lej, a keret viszont 155,36 millió lej.** Mivel a jóváhagyható igények értéke meghaladja a rendelkezésre álló összeget, a hektáronkénti kifizetést a kerethez igazítva arányosan mérséklik.\n\n• **A megállapított támogatás felső határa hektáronként 333 lej.** Ez a maximális összeg a 90–100 százalékos kárt szenvedett területekre vonatkozik; 30 és 90 százalék közötti kár esetén a támogatás a kár mértékével arányosan alacsonyabb.\n\n• **A kifizetéseket 2026. december 31-ig kell teljesíteni.** A mezőgazdasági minisztérium és az APIA a kérelmek adminisztratív ellenőrzését végzi. A programot a 751/2026-os kormányhatározat szabályozza, amelyet a 950/2026-os határozattal módosítottak.",
-    "title_ro": "Peste 53.000 de fermieri pot primi despăgubiri pentru secetă până la sfârșitul lui 2026",
-    "lead_ro": "S-a încheiat depunerea cererilor pentru ajutorul de urgență destinat culturilor de porumb și floarea-soarelui afectate de seceta din 2025. Cei 53.930 de fermieri au solicitat o sumă mai mare decât bugetul disponibil, astfel că sprijinul pe hectar va fi ajustat proporțional.",
-    "content_ro": "• **53.930 de fermieri au depus cereri pentru sprijinul de urgență** acordat culturilor de porumb și floarea-soarelui afectate de secetă. Sesiunea de depunere s-a încheiat, iar solicitările vizează suprafețe din anul agricol 2025.\n\n• **Suprafața calamitată însumează 716.894,72 hectare.** În total, cererile de plată aferente cuprind o suprafață determinată de 865.991,52 hectare. Schema se adresează producătorilor ale căror culturi au fost afectate în proporție de cel puțin 30%.\n\n• **Valoarea sprijinului solicitat este de aproximativ 248 de milioane de lei, față de un buget de 155,36 milioane.** Întrucât cererile depășesc suma alocată, cuantumul plătit pentru fiecare hectar va fi redus proporțional pentru a se încadra în buget.\n\n• **Plafonul maxim este de 333 de lei pe hectar.** Acesta se aplică terenurilor cu un grad de afectare cuprins între 90% și 100%. Pentru pierderi de la 30% până la 90%, valoarea ajutorului scade în funcție de nivelul pagubelor.\n\n• **Plățile trebuie efectuate până la 31 decembrie 2026.** Ministerul Agriculturii și APIA continuă verificarea administrativă a dosarelor depuse. Măsura este reglementată prin Hotărârea Guvernului nr. 751/2026, modificată ulterior prin HG nr. 950/2026.",
-    "importance_score": 20.0,
-    "top_rank": 117,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_f8ae173808",
-    "slug": "bolile-care-pot-fura-vederea-fara-sa-ti-dai-seama--f8ae17",
+    "group_id": "group_be7434bd7d",
+    "slug": "ilikeit-emisiunea-integrala-din-14-noiembrie-2026-be7434",
     "tags": [
       "altalanos"
     ],
     "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/11/14/095407/marian-andrei-14-noiembrie.png?fm=jpg&q=80&fit=crop&crop=1101%2C604%2C0%2C0&w=1280",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Mediafax",
-        "title": "Bolile care pot fura vederea fără să-ți dai seama / Avertismentul medicilor de Ziua Internațională a Nevăzătorilor",
-        "link": "https://www.mediafax.ro/sanatate/bolile-care-pot-fura-vederea-fara-sa-ti-dai-seama-avertismentul-medicilor-de-ziua-internationala-a-nevazatorilor-23842508"
-      },
-      {
         "source": "ProTV Stiri",
-        "title": "Ozempic și alte medicamente pentru slăbit, asociate cu un risc rar de pierdere a vederii. Ce simptome nu trebuie ignorate",
-        "link": "https://stirileprotv.ro/divers/ozempic-si-alte-medicamente-pentru-slabit-asociate-cu-un-risc-rar-de-pierdere-a-vederii-ce-simptome-nu-trebuie-ignorate.html"
+        "title": "iLikeIT. Emisiunea integrală din 14 noiembrie 2026",
+        "link": "https://stirileprotv.ro/stiri/ilikeit/ilikeit-emisiunea-integrala-din-14-noiembrie-2026.html"
       }
     ],
-    "published_at": 1794563840,
-    "title_hu": "Bolile care pot fura vederea fără să-ți dai seama / Avertismentul medicilor de Ziua Internațională a Nevăzătorilor",
-    "lead_hu": "Glaucomul, retinopatia diabetică și degenerescența maculară se numără printre bolile care pot afecta grav vederea. Unele cazuri de orbire pot fi prevenite dacă afecțiunile sunt descoperite la timp. Me…",
-    "content_hu": "Glaucomul, retinopatia diabetică și degenerescența maculară se numără printre bolile care pot afecta grav vederea. Unele cazuri de orbire pot fi prevenite dacă afecțiunile sunt descoperite la timp. Medicii transmit un avertisment cu ocazia Zilei Internaționale a Nevăzătorilor, marcată pe 13 noiembrie.",
-    "title_ro": "Bolile care pot fura vederea fără să-ți dai seama / Avertismentul medicilor de Ziua Internațională a Nevăzătorilor",
-    "lead_ro": "Glaucomul, retinopatia diabetică și degenerescența maculară se numără printre bolile care pot afecta grav vederea. Unele cazuri de orbire pot fi prevenite dacă afecțiunile sunt descoperite la timp. Me…",
-    "content_ro": "Glaucomul, retinopatia diabetică și degenerescența maculară se numără printre bolile care pot afecta grav vederea. Unele cazuri de orbire pot fi prevenite dacă afecțiunile sunt descoperite la timp. Medicii transmit un avertisment cu ocazia Zilei Internaționale a Nevăzătorilor, marcată pe 13 noiembrie.",
-    "importance_score": 20.0,
-    "top_rank": 118,
+    "published_at": 1794650128,
+    "title_hu": "iLikeIT. Emisiunea integrală din 14 noiembrie 2026",
+    "lead_hu": "iLikeIT. Emisiunea integrală din 14 noiembrie 2026....",
+    "content_hu": "iLikeIT. Emisiunea integrală din 14 noiembrie 2026.",
+    "title_ro": "iLikeIT. Emisiunea integrală din 14 noiembrie 2026",
+    "lead_ro": "iLikeIT. Emisiunea integrală din 14 noiembrie 2026....",
+    "content_ro": "iLikeIT. Emisiunea integrală din 14 noiembrie 2026.",
+    "importance_score": 0.0,
+    "top_rank": null,
     "is_top_hero": false,
-    "is_top_list": true
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_551a2292f1",
+    "slug": "ziua-mondiala-a-diabetului-peste-280000-de-romani-sufera-de-boala-fara-sa-stie-551a22",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/05/29/171539/diabet.jpg?fm=jpg&q=80&fit=crop&crop=7952%2C5304%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Ziua Mondială a Diabetului. Peste 280.000 de români suferă de boală fără să știe",
+        "link": "https://stirileprotv.ro/stiri/sanatate/ziua-mondiala-a-diabetului-peste-280-000-de-romani-sufera-de-boala-fara-sa-stie.html"
+      }
+    ],
+    "published_at": 1794649710,
+    "title_hu": "Ziua Mondială a Diabetului. Peste 280.000 de români suferă de boală fără să știe",
+    "lead_hu": "Peste 280.000 de adulți din România trăiesc cu diabet fără să știe. Potrivit estimărilor Federației Internaționale de Diabet (IDF) pentru anul 2024, 21,4% dintre persoanele cu diabet cu vârste între 2...",
+    "content_hu": "Peste 280.000 de adulți din România trăiesc cu diabet fără să știe. Potrivit estimărilor Federației Internaționale de Diabet (IDF) pentru anul 2024, 21,4% dintre persoanele cu diabet cu vârste între 20 și 79 de ani nu au fost diagnosticate.",
+    "title_ro": "Ziua Mondială a Diabetului. Peste 280.000 de români suferă de boală fără să știe",
+    "lead_ro": "Peste 280.000 de adulți din România trăiesc cu diabet fără să știe. Potrivit estimărilor Federației Internaționale de Diabet (IDF) pentru anul 2024, 21,4% dintre persoanele cu diabet cu vârste între 2...",
+    "content_ro": "Peste 280.000 de adulți din România trăiesc cu diabet fără să știe. Potrivit estimărilor Federației Internaționale de Diabet (IDF) pentru anul 2024, 21,4% dintre persoanele cu diabet cu vârste între 20 și 79 de ani nu au fost diagnosticate.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_0b5efbb596",
@@ -20384,6 +20385,35 @@
     "is_top_list": false
   },
   {
+    "group_id": "group_4b6b15be1e",
+    "slug": "scapari-de-clor-la-chimcomplex-din-ramnicu-valcea-3-persoane-au-ajuns-la-spital--4b6b15",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjEzJTJGMzA2NzQ4N18zMDY3/NDg3X1doYXRzQXBwLUltYWdlLTIwMjYt/MTEtMTMtYXQtMTNfMDdfMzYuanBlZyZo/YXNoPWMzOGFlNjIxMGRiNzA2MTFiMWNmY2M4MTg4NzYyNGZh.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Scăpări de clor la Chimcomplex din Râmnicu Vâlcea. 3 persoane au ajuns la spital, 260 evacuate. Măsurile de protecție, ridicate",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/scapari-de-clor-pe-platforma-chimica-din-ramnicu-valcea-trei-persoane-transportate-la-spital-populatia-avertizata-prin-ro-alert-4034637"
+      }
+    ],
+    "published_at": 1794568362,
+    "title_hu": "Scăpări de clor la Chimcomplex din Râmnicu Vâlcea. 3 persoane au ajuns la spital, 260 evacuate. Măsurile de protecție, ridicate",
+    "lead_hu": "Scăpări de clor de la un compresor de pe platforma chimică Chimcomplex din Râmnicu Vâlcea. Trei persoane au fost transportate la spital, iar 260 de angajați au fost evacuați preventiv. Autoritățile au...",
+    "content_hu": "Scăpări de clor de la un compresor de pe platforma chimică Chimcomplex din Râmnicu Vâlcea. Trei persoane au fost transportate la spital, iar 260 de angajați au fost evacuați preventiv. Autoritățile au emis două mesaje RO-Alert pentru populația din zona potențial afectată, iar printr-o a treia alertă au anunțat încetarea măsurilor de protecție, după ce măsurătorile CBRN au indicat valori zero. Prefectul județului Vâlcea spune că situația este sub control, iar echipajele continuă monitorizarea.",
+    "title_ro": "Scăpări de clor la Chimcomplex din Râmnicu Vâlcea. 3 persoane au ajuns la spital, 260 evacuate. Măsurile de protecție, ridicate",
+    "lead_ro": "Scăpări de clor de la un compresor de pe platforma chimică Chimcomplex din Râmnicu Vâlcea. Trei persoane au fost transportate la spital, iar 260 de angajați au fost evacuați preventiv. Autoritățile au...",
+    "content_ro": "Scăpări de clor de la un compresor de pe platforma chimică Chimcomplex din Râmnicu Vâlcea. Trei persoane au fost transportate la spital, iar 260 de angajați au fost evacuați preventiv. Autoritățile au emis două mesaje RO-Alert pentru populația din zona potențial afectată, iar printr-o a treia alertă au anunțat încetarea măsurilor de protecție, după ce măsurătorile CBRN au indicat valori zero. Prefectul județului Vâlcea spune că situația este sub control, iar echipajele continuă monitorizarea.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_f5a30d6f6c",
     "slug": "afd-isi-mareste-avansul-in-germania-28-in-sondaje--f5a30d",
     "tags": [
@@ -21476,6 +21506,35 @@
     "is_top_list": false
   },
   {
+    "group_id": "group_64d591e138",
+    "slug": "liderul-extremist-george-simion-cere-ca-el-si-participantii-la-protestul-organiz-64d591",
+    "tags": [
+      "politika"
+    ],
+    "category": "Politika",
+    "image": "https://www.g4media.ro/wp-content/uploads/2022/10/FB1A1175.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Liderul extremist George Simion cere ca el și participanții la protestul organizat de AUR să fie păziți de jandarmi / AUR a organizat în trecut proteste violente",
+        "link": "https://www.g4media.ro/liderul-extremist-george-simion-cere-ca-el-si-participantii-la-protestul-organizat-de-aur-sa-fie-paziti-de-jandarmi-aur-a-organizat-in-trecut-proteste-violente.html"
+      }
+    ],
+    "published_at": 1794565423,
+    "title_hu": "Liderul extremist George Simion cere ca el și participanții la protestul organizat de AUR să fie păziți de jandarmi / AUR a organizat în trecut proteste violente",
+    "lead_hu": "Preşedintele partidului extremist AUR, George Simion, a făcut vineri un apel către instituţiile statului să asigure protecţia participanţilor la protestul de sâmbătă, din faţa Parlamentului, care dore...",
+    "content_hu": "Preşedintele partidului extremist AUR, George Simion, a făcut vineri un apel către instituţiile statului să asigure protecţia participanţilor la protestul de sâmbătă, din faţa Parlamentului, care doresc „să îşi manifeste susţinerea” faţă de Călin Georgescu, potrivit Agerpres. Declarația lui Simion vine în contextul în care AUR a organizat constant proteste violente în care participanții au […] © G4Media.ro.",
+    "title_ro": "Liderul extremist George Simion cere ca el și participanții la protestul organizat de AUR să fie păziți de jandarmi / AUR a organizat în trecut proteste violente",
+    "lead_ro": "Preşedintele partidului extremist AUR, George Simion, a făcut vineri un apel către instituţiile statului să asigure protecţia participanţilor la protestul de sâmbătă, din faţa Parlamentului, care dore...",
+    "content_ro": "Preşedintele partidului extremist AUR, George Simion, a făcut vineri un apel către instituţiile statului să asigure protecţia participanţilor la protestul de sâmbătă, din faţa Parlamentului, care doresc „să îşi manifeste susţinerea” faţă de Călin Georgescu, potrivit Agerpres. Declarația lui Simion vine în contextul în care AUR a organizat constant proteste violente în care participanții au […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_5a4b4d7ac7",
     "slug": "siegfried-muresan-acuza-aur-de-extremism-si-radica-5a4b4d",
     "tags": [
@@ -21868,118 +21927,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_4381ab0082",
-    "slug": "fc-bihor-uta-arad-nu-se-mai-joaca-terenurile-impra-4381ab",
-    "tags": [
-      "erdely"
-    ],
-    "category": "Erdély",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "FC Bihor – UTA Arad nu se mai joacă! Terenurile impracticabile au dus la anularea amicalului",
-        "link": "https://www.ebihoreanul.ro/stiri/fc-bihor-uta-arad-nu-se-mai-joaca-terenurile-impracticabile-au-dus-la-anularea-amicalului-206564.html"
-      }
-    ],
-    "published_at": 1794563880,
-    "title_hu": "FC Bihor – UTA Arad nu se mai joacă! Terenurile impracticabile au dus la anularea amicalului",
-    "lead_hu": "Amicalul dintre FC Bihor și UTA Arad, programat vineri, 13 noiembrie, la Sânnicolau Mic, a fost anulat din cauza condițiilor meteo nefavorabile. Ploile au făcut ca terenurile să devină impracticabile,…",
-    "content_hu": "Amicalul dintre FC Bihor și UTA Arad, programat vineri, 13 noiembrie, la Sânnicolau Mic, a fost anulat din cauza condițiilor meteo nefavorabile. Ploile au făcut ca terenurile să devină impracticabile, iar cele două cluburi au decis de comun acord să renunțe la disputarea partidei.",
-    "title_ro": "FC Bihor – UTA Arad nu se mai joacă! Terenurile impracticabile au dus la anularea amicalului",
-    "lead_ro": "Amicalul dintre FC Bihor și UTA Arad, programat vineri, 13 noiembrie, la Sânnicolau Mic, a fost anulat din cauza condițiilor meteo nefavorabile. Ploile au făcut ca terenurile să devină impracticabile,…",
-    "content_ro": "Amicalul dintre FC Bihor și UTA Arad, programat vineri, 13 noiembrie, la Sânnicolau Mic, a fost anulat din cauza condițiilor meteo nefavorabile. Ploile au făcut ca terenurile să devină impracticabile, iar cele două cluburi au decis de comun acord să renunțe la disputarea partidei.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_f816502e9e",
-    "slug": "un-primar-din-buzau-avertizeaza-asupra-efectelor-c-f81650",
-    "tags": [
-      "politika"
-    ],
-    "category": "Politika",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Un primar din Buzău avertizează asupra efectelor comasării comunelor: „Nu facem altceva decât să depopulăm satul românesc”",
-        "link": "https://www.digi24.ro/stiri/economie/un-primar-din-buzau-avertizeaza-asupra-efectelor-comasarii-comunelor-nu-facem-altceva-decat-sa-depopulam-satul-romanesc-4034757"
-      }
-    ],
-    "published_at": 1794563655,
-    "title_hu": "Un primar din Buzău avertizează asupra efectelor comasării comunelor: „Nu facem altceva decât să depopulăm satul românesc”",
-    "lead_hu": "Reorganizarea administrativ-teritorială ar putea accelera depopularea satelor și ar îndepărta serviciile publice de locuitori, avertizează Sorin Valentin Zaman, primarul comunei Chiliile, una dintre c…",
-    "content_hu": "Reorganizarea administrativ-teritorială ar putea accelera depopularea satelor și ar îndepărta serviciile publice de locuitori, avertizează Sorin Valentin Zaman, primarul comunei Chiliile, una dintre cele 16 localități din județul Buzău care ar putea fi vizate de comasare. Prefectul Liliana Sbîrnea spune că primarii nu susțin, în acest moment, reorganizarea, deși recunosc că unele comune nu dispun de fondurile necesare pentru a funcționa.",
-    "title_ro": "Un primar din Buzău avertizează asupra efectelor comasării comunelor: „Nu facem altceva decât să depopulăm satul românesc”",
-    "lead_ro": "Reorganizarea administrativ-teritorială ar putea accelera depopularea satelor și ar îndepărta serviciile publice de locuitori, avertizează Sorin Valentin Zaman, primarul comunei Chiliile, una dintre c…",
-    "content_ro": "Reorganizarea administrativ-teritorială ar putea accelera depopularea satelor și ar îndepărta serviciile publice de locuitori, avertizează Sorin Valentin Zaman, primarul comunei Chiliile, una dintre cele 16 localități din județul Buzău care ar putea fi vizate de comasare. Prefectul Liliana Sbîrnea spune că primarii nu susțin, în acest moment, reorganizarea, deși recunosc că unele comune nu dispun de fondurile necesare pentru a funcționa.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_d2c1fc8b4b",
-    "slug": "un-profesor-pensionar-si-a-dat-in-judecata-scoala--d2c1fc",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Un profesor pensionar și-a dat în judecată școala unde a predat / Elevii fac prea mare zgomot în curtea școlii, cu care se învecinează / A cerut daune morale de 5.000 de euro / Cazul ajunge la Curtea de Apel",
-        "link": "https://www.g4media.ro/un-profesor-pensionar-si-a-dat-in-judecata-scoala-unde-a-predat-elevii-fac-prea-mare-zgomot-in-curtea-scolii-cu-care-se-invecineaza-a-cerut-daune-morale-de-5-000-de-euro-cazul-ajunge-la-curtea.html"
-      }
-    ],
-    "published_at": 1794563626,
-    "title_hu": "Un profesor pensionar și-a dat în judecată școala unde a predat / Elevii fac prea mare zgomot în curtea școlii, cu care se învecinează / A cerut daune morale de 5.000 de euro / Cazul ajunge la Curtea de Apel",
-    "lead_hu": "Un caz mai puțin obișnuit a ajuns pe masa magistraților ieșeni. Un cadru didactic pensionat a dat în judecată Școala Profesională de Industrie Alimentară din comuna Țibana, unde a predat ani la rând, …",
-    "content_hu": "Un caz mai puțin obișnuit a ajuns pe masa magistraților ieșeni. Un cadru didactic pensionat a dat în judecată Școala Profesională de Industrie Alimentară din comuna Țibana, unde a predat ani la rând, reclamând că larma constantă făcută de elevi i-a distrus sănătatea, scrie Ziarul de Iași. Dosarul a împărțit deja instanțele în două: Judecătoria […] © G4Media.ro.",
-    "title_ro": "Un profesor pensionar și-a dat în judecată școala unde a predat / Elevii fac prea mare zgomot în curtea școlii, cu care se învecinează / A cerut daune morale de 5.000 de euro / Cazul ajunge la Curtea de Apel",
-    "lead_ro": "Un caz mai puțin obișnuit a ajuns pe masa magistraților ieșeni. Un cadru didactic pensionat a dat în judecată Școala Profesională de Industrie Alimentară din comuna Țibana, unde a predat ani la rând, …",
-    "content_ro": "Un caz mai puțin obișnuit a ajuns pe masa magistraților ieșeni. Un cadru didactic pensionat a dat în judecată Școala Profesională de Industrie Alimentară din comuna Țibana, unde a predat ani la rând, reclamând că larma constantă făcută de elevi i-a distrus sănătatea, scrie Ziarul de Iași. Dosarul a împărțit deja instanțele în două: Judecătoria […] © G4Media.ro.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_bcd89650a9",
-    "slug": "mister-in-jurul-unei-instalatii-nucleare-din-iran--bcd896",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Mister în jurul unei instalații nucleare din Iran. AIEA nu știe unde se află și dacă aceasta conține material nuclear",
-        "link": "https://www.mediafax.ro/externe/mister-in-jurul-unei-instalatii-nucleare-din-iran-aiea-nu-stie-unde-se-afla-si-daca-aceasta-contine-material-nuclear-23842503"
-      }
-    ],
-    "published_at": 1794563612,
-    "title_hu": "Mister în jurul unei instalații nucleare din Iran. AIEA nu știe unde se află și dacă aceasta conține material nuclear",
-    "lead_hu": "AIEA este „din ce în ce mai îngrijorată” în legătură cu o instalație de îmbogățire a uraniului din Isfahan, declarată de Iran în urmă cu un an, dar la care inspectorii ONU nu au primit acces nici până…",
-    "content_hu": "AIEA este „din ce în ce mai îngrijorată” în legătură cu o instalație de îmbogățire a uraniului din Isfahan, declarată de Iran în urmă cu un an, dar la care inspectorii ONU nu au primit acces nici până în prezent, potrivit unui raport confidențial privind Iranul, consultat vineri de Reuters.",
-    "title_ro": "Mister în jurul unei instalații nucleare din Iran. AIEA nu știe unde se află și dacă aceasta conține material nuclear",
-    "lead_ro": "AIEA este „din ce în ce mai îngrijorată” în legătură cu o instalație de îmbogățire a uraniului din Isfahan, declarată de Iran în urmă cu un an, dar la care inspectorii ONU nu au primit acces nici până…",
-    "content_ro": "AIEA este „din ce în ce mai îngrijorată” în legătură cu o instalație de îmbogățire a uraniului din Isfahan, declarată de Iran în urmă cu un an, dar la care inspectorii ONU nu au primit acces nici până în prezent, potrivit unui raport confidențial privind Iranul, consultat vineri de Reuters.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_aca31321df",
     "slug": "tbb-ezer-korhazi-allas-megnyitasa-kerulhet-napirendre-2027-ben-aca313",
     "tags": [
@@ -22013,7 +21960,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, le-a solicitat spitalelor să transmită de câți angajați au nevoie. Autoritățile urmăresc să permită ocuparea a mii de posturi de la începutul anului 2027, însă demersul va necesita aprobări guvernamentale.",
     "content_ro": "• **Ministerul pregătește o posibilă suplimentare a personalului pentru 2027:** Alexandru Rogobete le-a cerut unităților sanitare să comunice numărul și tipul angajaților necesari. După centralizarea răspunsurilor, ministrul intenționează să inițieze demersurile pentru scoaterea la concurs a câtorva mii de posturi, începând de la începutul anului viitor.\n\n• **O derogare generală de la restricțiile privind angajările nu a fost anunțată:** Rogobete a precizat că nu confirmă, deocamdată, exceptarea întregului sistem sanitar. Pe baza solicitărilor spitalelor, el vrea să înainteze un memorandum premierului și membrilor Guvernului, pentru obținerea aprobărilor necesare.\n\n• **Posturile medicilor care se pensionează pot fi ocupate prin concurs fără o aprobare suplimentară:** o modificare legislativă adoptată în această vară permite scoaterea la concurs a acestor locuri, dacă sunt prevăzute în buget. Schimbarea elimină un pas birocratic care împiedica organizarea concursurilor.\n\n• **Extinderea și modernizarea spitalelor trebuie însoțite de personal suficient, potrivit ministrului:** investițiile în unități sanitare nu înlătură, de unele singure, lipsa de medici și asistenți. Rogobete consideră că noi angajări ar putea diminua presiunea asupra spitalelor afectate de deficitul de personal.\n\n• **Numărul efectiv al angajărilor și calendarul lor urmează să fie stabilite:** mai întâi, ministerul trebuie să centralizeze necesarul transmis de spitale, apoi să obțină acordurile la nivel guvernamental. Ministrul a prezentat drept obiectiv deblocarea a câteva mii de posturi, fără a preciza încă repartizarea acestora.",
     "importance_score": 25.0,
-    "top_rank": 119,
+    "top_rank": 117,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -22052,7 +21999,7 @@
     "lead_ro": "Marine Le Pen a spus că este dispusă să se întâlnească cu președintele ucrainean Volodimir Zelenski și a propus Bruxellesul drept loc al discuției. Finanțarea Ucrainei ar urma să fie unul dintre subiectele principale.",
     "content_ro": "• **Marine Le Pen s-a declarat dispusă să discute direct cu Volodimir Zelenski.** Lidera formațiunii franceze Rassemblement National a făcut declarația vineri, în timpul unei vizite la târgul Made in France. Ea nu a oferit alte detalii publice despre organizarea unei eventuale întrevederi.\n\n• **Bruxellesul a fost propus ca posibil loc al întâlnirii.** Le Pen a afirmat că ar putea să îl întâlnească acolo pe președintele ucrainean și că intenționează să îi transmită această propunere ambasadorului Ucrainei. Informațiile disponibile nu precizează dacă au început discuții pentru stabilirea unei date.\n\n• **Finanțarea Ucrainei ar fi tema centrală a conversației.** Potrivit lui Le Pen, subiectul are o importanță majoră pentru Europa, iar acest lucru face ca Bruxellesul să fie un cadru potrivit pentru discuție. Declarația sa indică faptul că atenția s-ar concentra în special asupra sprijinului financiar acordat Ucrainei.\n\n• **Poziția exprimată acum trebuie privită alături de promisiunile sale anterioare privind ajutorul.** Le Pen a afirmat în repetate rânduri că ar reduce sprijinul financiar pentru Ucraina dacă ar câștiga alegerile prezidențiale franceze programate pentru anul următor. Această intenție oferă context pentru interesul său actual de a discuta despre finanțarea Ucrainei.",
     "importance_score": 20.0,
-    "top_rank": 120,
+    "top_rank": 118,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -22086,7 +22033,7 @@
     "lead_ro": "Primarul Capitalei, Ciprian Ciucu, va analiza propunerea administratorului judiciar al STB de eliminare a unor gratuităţi la transportul public, inclusiv pentru pensionari şi angajaţii Primăriei....",
     "content_ro": "Primarul Capitalei, Ciprian Ciucu, va analiza propunerea administratorului judiciar al STB de eliminare a unor gratuităţi la transportul public, inclusiv pentru pensionari şi angajaţii Primăriei.",
     "importance_score": 20.0,
-    "top_rank": 121,
+    "top_rank": 119,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -22119,7 +22066,7 @@
     "lead_ro": "BNR lansează cinci milioane de monede de 50 de bani dedicate împlinirii a 150 de ani de la nașterea sculptorului Constantin Brâncuși. Banca centrală va emite și monede din aur, argint și alamă pentru …",
     "content_ro": "BNR lansează cinci milioane de monede de 50 de bani dedicate împlinirii a 150 de ani de la nașterea sculptorului Constantin Brâncuși. Banca centrală va emite și monede din aur, argint și alamă pentru colecționari.",
     "importance_score": 20.0,
-    "top_rank": 122,
+    "top_rank": 120,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -22152,7 +22099,7 @@
     "lead_ro": "Un adolescent care abia dacă le povestește părinților cum și-a petrecut ziua poate ajunge să-și mărturisească temerile, singurătatea sau problemele unui necunoscut, pe un forum online.",
     "content_ro": "Un adolescent care abia dacă le povestește părinților cum și-a petrecut ziua poate ajunge să-și mărturisească temerile, singurătatea sau problemele unui necunoscut, pe un forum online.",
     "importance_score": 20.0,
-    "top_rank": 123,
+    "top_rank": 121,
     "is_top_hero": false,
     "is_top_list": true
   },
