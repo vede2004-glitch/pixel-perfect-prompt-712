@@ -1638,7 +1638,7 @@
     "title_ro": "Defecțiunea Microsoft: e-mailurile și-au revenit treptat, dar au persistat probleme",
     "lead_ro": "Întreruperea începută pe 12 noiembrie a afectat servicii Microsoft în 74 de țări, iar remedierea s-a întins pe mai bine de nouă ore. Livrarea mesajelor s-a îmbunătățit treptat, însă compania a avertizat că pot continua întârzierile și disfuncțiile temporare.",
     "content_ro": "• **Mai multe servicii Microsoft au fost afectate:** Problemele au vizat Outlook, Microsoft 365, Teams și Copilot, precum și alte aplicații. În Teams, calendarul a fost afectat în mod special, în timp ce mesajele și apelurile au rămas în general disponibile. Unele conexiuni externe cu ChatGPT și Claude au întâmpinat erori, fără ca ChatGPT să fie oprit în ansamblu.\n\n• **Indisponibilitatea unor servere a suprasolicitat infrastructura rămasă:** Microsoft a indicat că mai multe servere au devenit neașteptat inaccesibile. Primele măsuri de remediere nu au produs efectul dorit, iar compania a căutat alte soluții și modalități de sporire a capacității. Nu au fost găsite indicii privind o activitate rău intenționată sau un atac cibernetic.\n\n• **Sesizările s-au răspândit rapid la nivel global:** În decurs de o oră, Downdetector a înregistrat raportări din 74 de țări și regiuni, iar numărul semnalărilor privind Outlook a depășit 130.000 la vârf. Serviciile au avut probleme timp de peste nouă ore, iar în România au fost raportate dificultăți încă de joi seara.\n\n• **Recuperarea a fost treptată, fără o oră certă pentru revenirea completă:** Vineri, Microsoft a raportat îmbunătățirea livrării și reducerea mesajelor restante. La 18:45, volumul e-mailurilor aflate în așteptare se apropia de nivelul obișnuit, dar unii utilizatori puteau întâmpina în continuare întreruperi temporare. Perioada de păstrare a mesajelor întârziate a fost extinsă la 48 de ore.\n\n• **Asistența unor companii aeriene a avut dificultăți:** IndiGo, Akasa Air și CemAir au semnalat probleme cu serviciile de asistență prin e-mail. Air India și-a redirecționat mesajele, precizând că zborurile nu au fost afectate; niciuna dintre companiile menționate nu a raportat perturbări ale curselor. Au fost semnalate, de asemenea, efecte asupra unor activități bancare din Hong Kong și asupra comunicării autorităților din Japonia.",
-    "importance_score": 143.0,
+    "importance_score": 140.0,
     "top_rank": 10,
     "is_top_hero": false,
     "is_top_list": true
@@ -2163,6 +2163,70 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_c24dac8382",
+    "slug": "kommunikacios-hiba-miatt-allitottak-le-az-amerikai-jaratok-indulasat-c24dac",
+    "tags": [
+      "sua",
+      "aviatie",
+      "faa",
+      "zboruri",
+      "eurocontrol"
+    ],
+    "fingerprint": "7a5dedb63e3748b98cb1e7e35a8974da",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Toate zborurile de pe aeroporturile din SUA, suspendate din cauza „unor circumstanţe extraordinare”: „Nu este un alt 11 septembrie”",
+        "link": "https://www.digi24.ro/stiri/externe/sua/toate-zborurile-de-pe-aeroporturile-din-sua-au-fost-suspendate-din-cauza-unor-circumstante-extraordinare-4036079"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Toate zborurile din SUA, suspendate. Administrația Federală a Aviației: Din cauza unor circumstanțe extraordinare și din motive de siguranță",
+        "link": "https://www.mediafax.ro/externe/toate-zborurile-din-sua-suspendate-administratia-federala-a-aviatiei-din-cauza-unor-circumstante-extraordinare-si-din-motive-de-siguranta-23842788"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "SUA au oprit toate zborurile „din cauza unor circumstanțe extraordinare”. Primele explicații ale autorităților",
+        "link": "https://stirileprotv.ro/stiri/international/sua-au-oprit-toate-zborurile-din-cauza-unor-circumstante-extraordinare-primele-explicatii-ale-autoritatilor.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Avioanele, oprite la sol în SUA. Ordin extrem de rar al autorităților americane la nivel național",
+        "link": "https://hotnews.ro/avioanele-oprite-la-sol-in-sua-ordin-extrem-de-rar-al-autoritatilor-americane-la-nivel-national-2404001"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Toate zborurile cu plecare din SUA, suspendate. Administrația Federală a Aviației: Din cauza unor circumstanțe extraordinare și din motive de siguranță",
+        "link": "https://www.mediafax.ro/externe/toate-zborurile-cu-plecare-din-sua-suspendate-administratia-federala-a-aviatiei-din-cauza-unor-circumstante-extraordinare-si-din-motive-de-siguranta-23842788"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Alertă în Statele Unite! Toate zborurile au fost anulate. Ce s-a întâmplat",
+        "link": "https://www.cancan.ro/alerta-in-statele-unite-toate-zborurile-au-fost-anulate-ce-s-a-intamplat-21547335"
+      },
+      {
+        "source": "G4Media",
+        "title": "Toate avioanele din SUA, reținute la sol din pricina unui blocaj al sistemului de comunicații / Companiile aeriene au primit undă verde pentru a relua zborurile după o suspendare de câteva ore, dar întârzierile și anulările continuă",
+        "link": "https://www.g4media.ro/toate-avioanele-din-sua-retinute-la-sol-din-pricina-unui-blocaj-al-sistemului-de-comunicatii-companiile-aeriene-au-primit-unda-verde-pentru-a-relua-zborurile-dupa-o-suspendare-de-cateva-ore-dar-in.html"
+      }
+    ],
+    "published_at": 1794611441,
+    "title_hu": "Kommunikációs hiba miatt állították le az amerikai járatok indulását",
+    "lead_hu": "Az FAA november 13-án országos felszállási korlátozást rendelt el az Egyesült Államokban, miután a légiirányítás útvonal-ellenőrző központjainak kommunikációjában zavart észleltek. A fennakadás a nemzetközi forgalmat is érinti, miközben a hatóságok vizsgálják a hiba okát.",
+    "content_hu": "• **November 13-án országos korlátozás lépett életbe:** Az FAA valamennyi amerikai repülőtéren megtiltotta az induló járatok felszállását, biztonsági megfontolásokra hivatkozva. A levegőben lévő gépek leszállhatnak, a külföldről érkező járatokat egyenként kezelik; az intézkedés az újabb hatósági értesítésig érvényes.\n\n• **A légiirányítás kommunikációs rendszere érintett:** Sean Duffy közlekedési miniszter közlése szerint az országon áthaladó forgalmat felügyelő útvonal-irányító központoknál jelentkezett probléma. A korai jelzések Chicagó környékéről érkeztek, az FAA műszaki munkatársai pedig vizsgálják az okot és a hiba kiterjedését.\n\n• **A külföldi indulásokra is kiterjed a fennakadás:** Az amerikai kérés nyomán az Eurocontrol tagországaiból az Egyesült Államokba tartó járatokat is felfüggesztették. A szervezetnek 42 tagja van, köztük Románia és Izrael.\n\n• **Jelentős járat- és utasforgalom érintett:** Romániai idő szerint hajnali 2 óráig mintegy 2400 járatot töröltek, és a szám tovább nőtt. Egy légiközlekedési elemző cég adatai szerint a korlátozás után péntekre hozzávetőleg 11 ezer felszállást terveztek, körülbelül 1,5 millió utassal.\n\n• **A hatóságok nem jeleztek közvetlen biztonsági fenyegetést:** Markwayne Mullin belbiztonsági miniszter szerint a kommunikáció helyreállítása időt vehet igénybe, ugyanakkor az utasok biztonságban vannak. Donald Trump nyilatkozata alapján a történtek nem tűnnek sem kibertámadás, sem mesterséges intelligenciához kötődő esemény következményének; a vizsgálat azonban még tart. Országos leállásra legutóbb 2023 januárjában került sor, egy pilótáknak szóló értesítési rendszer hibája miatt.",
+    "title_ro": "Defecțiuni de comunicații au dus la suspendarea decolărilor din SUA",
+    "lead_ro": "Pe 13 noiembrie, FAA a impus oprirea decolărilor de pe aeroporturile americane după apariția unor probleme de comunicații în centrele de control al traficului aerian. Măsura afectează și cursele internaționale, iar autoritățile încearcă să stabilească originea și amploarea defecțiunii.",
+    "content_ro": "• **Restricțiile au fost impuse la nivel național pe 13 noiembrie:** FAA a oprit plecările de pe toate aeroporturile din Statele Unite, invocând considerente de siguranță. Aeronavele aflate deja în aer pot ateriza, iar zborurile internaționale care sosesc sunt evaluate separat; măsura rămâne în vigoare până la o nouă notificare.\n\n• **Sunt afectate comunicațiile centrelor de control:** Potrivit secretarului Transporturilor, Sean Duffy, problema a apărut la centrele care gestionează cursele ce traversează țara. Primele semnale au venit din zona orașului Chicago, iar specialiștii FAA investighează cauzele și dimensiunea defecțiunii.\n\n• **Suspendarea influențează și cursele internaționale spre SUA:** La solicitarea autorității americane au fost oprite și zborurile cu destinația Statele Unite, programate să plece din țările Eurocontrol. Organizația reunește 42 de state, inclusiv România și Israel.\n\n• **Mii de curse și un număr mare de pasageri sunt afectați:** Până la ora 02:00, ora României, fuseseră anulate aproximativ 2.400 de zboruri, iar numărul era în creștere. O companie de analiză a estimat că pentru vineri erau planificate circa 11.000 de decolări, care ar fi transportat aproximativ 1,5 milioane de persoane.\n\n• **Autoritățile nu au indicat existența unei amenințări directe:** Markwayne Mullin, secretarul pentru Securitate Internă, a spus că remedierea poate dura și a transmis că pasagerii sunt în siguranță. Donald Trump a afirmat că incidentul nu pare legat nici de un atac cibernetic, nici de inteligența artificială; verificările sunt însă în desfășurare. O oprire națională precedentă a avut loc în ianuarie 2023, după defectarea sistemului de notificare a piloților.",
+    "importance_score": 73.0,
+    "top_rank": 18,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_9e2524518c",
     "slug": "negy-politikus-neve-kerult-eloterbe-a-2028-as-amerikai-elnkvalasztas-kapcsan-9e2524",
     "tags": [
@@ -2218,7 +2282,66 @@
     "lead_ro": "Un sondaj Reuters/Ipsos indică interes pentru JD Vance și Marco Rubio în rândul republicanilor, respectiv pentru Jon Ossoff și Pete Buttigieg în tabăra democrată. Niciunul nu și-a anunțat candidatura, iar desemnarea candidaților de către partide este la peste un an distanță.",
     "content_ro": "• **Sondajul conturează patru posibili pretendenți:** republicanii JD Vance, vicepreședinte, și Marco Rubio, secretar de stat, precum și democrații Jon Ossoff, senator de Georgia, și Pete Buttigieg, fost secretar al Transporturilor, au atras atenția respondenților. Niciunul nu a confirmat că va candida în 2028, iar competițiile interne ale partidelor sunt la mai mult de un an distanță.\n\n• **Rubio și Vance conduc în evaluările republicanilor:** 45% dintre cei chestionați l-au considerat pe Rubio o opțiune prezidențială remarcabilă, față de 43% pentru Vance. Ron DeSantis, guvernatorul Floridei, a obținut 32%; Donald Trump Jr. și senatorul texan Ted Cruz au atât susținători, cât și contestatari.\n\n• **Ossoff și Buttigieg au rezultate egale:** fiecare a fost apreciat drept un candidat excelent de 29% dintre respondenții democrați. Aceste preferințe timpurii se pot modifica până la startul procesului de desemnare, iar în cursă pot apărea și alte nume.\n\n• **Cercetarea a avut acoperire națională:** au participat 1.705 de adulți din SUA, între care aproximativ 500 de alegători înregistrați pentru fiecare partid. Colectarea datelor s-a încheiat luni, marja de eroare pentru grupurile republicane și democrate este de cinci puncte procentuale, iar rezultatele Reuters/Ipsos au fost făcute publice joi.\n\n• **Trump rămâne o referință în dezbaterile politice:** popularitatea sa este aproape de nivelurile minime din carieră, iar republicanii sunt împărțiți între continuarea direcției sale și distanțarea de aceasta. Democrații au obținut o victorie amplă la alegerile legislative din 3 noiembrie, însă nu au o poziție unică privind confruntarea cu Trump, inclusiv în privința unei eventuale noi proceduri de destituire. Trump și-a întrebat aliații pe cine preferă dintre Vance și Rubio, fără să promită susținerea unui candidat în alegerile primare.",
     "importance_score": 70.0,
-    "top_rank": 18,
+    "top_rank": 19,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_b627791488",
+    "slug": "bolojan-stabilizalodo-kltsegvetesrol-es-trekeny-gazdasagi-elenkulesrol-beszelt-b62779",
+    "tags": [
+      "romania",
+      "economie",
+      "bolo-jan",
+      "pnl",
+      "psd"
+    ],
+    "fingerprint": "8f148ec8f5552b7f25a24d10430369d3",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Bolojan: PSD a vrut puterea, dar pare că nu este capabil să-și asume guvernarea în interesul țării. Le-am lăsat o economie care a reînceput să crească și un buget stabilizat. Sper să nu-și bată joc de moștenirea primită",
+        "link": "https://www.g4media.ro/bolojan-psd-a-vrut-puterea-dar-pare-ca-nu-este-capabil-sa-si-asume-guvernarea-in-interesul-tarii-le-am-lasat-o-economie-care-a-reinceput-sa-creasca-si-un-buget-stabilizat-sper-sa-nu-si-bata-joc-de.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Bolojan acuză PSD că „forțează mistificarea cifrelor”: „Încearcă să compromită efortul întregii societăți”",
+        "link": "https://hotnews.ro/bolojan-invoca-datele-ins-si-acuza-psd-ca-forteaza-mistificarea-cifrelor-incearca-sa-compromita-efortul-intregii-societati-2403841"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Ilie Bolojan: „PSD, în loc să se apuce serios de treabă, forțează mistificarea cifrelor. Sper să nu-și bată joc de moștenirea primită”",
+        "link": "https://adevarul.ro/politica/ilie-bolojan-psd-in-loc-sa-se-apuce-serios-de-2571374.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vreme mai caldă decât în mod obișnuit. Prognoza ANM până la jumătatea lunii decembrie",
+        "link": "https://www.mediafax.ro/social/vreme-mai-calda-decat-in-mod-obisnuit-prognoza-anm-pana-la-jumatatea-lunii-decembrie-23842378"
+      },
+      {
+        "source": "G4Media",
+        "title": "Vreme mai caldă decât în mod obișnuit / Prognoza ANM până la jumătatea lunii decembrie",
+        "link": "https://www.g4media.ro/vreme-mai-calda-decat-in-mod-obisnuit-prognoza-anm-pana-la-jumatatea-lunii-decembrie.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Vreme neobișnuit de caldă la început de decembrie. Ce anunță ANM pentru următoarele patru săptămâni",
+        "link": "https://hotnews.ro/vreme-neobisnuit-de-calda-la-inceput-de-decembrie-ce-anunta-anm-pentru-urmatoarele-patru-saptamani-2403121"
+      }
+    ],
+    "published_at": 1794591937,
+    "title_hu": "Bolojan stabilizálódó költségvetésről és törékeny gazdasági élénkülésről beszélt",
+    "lead_hu": "Ilie Bolojan szerint kormányának öröksége a mérsékelt gazdasági növekedés újbóli megjelenése és a költségvetési helyzet stabilizálása. A PNL elnöke a PSD-t azzal bírálta, hogy bár megszerezte a hatalmat, nem vállal kellő felelősséget az ország érdekében történő kormányzásért.",
+    "content_hu": "• **A harmadik negyedévben nőtt a GDP:** Bolojan az országos statisztikai intézet adataira hivatkozva 2,1 százalékos bővülésről számolt be az előző negyedévhez képest. Szerinte ez cáfolja azokat a borúlátó várakozásokat, amelyek a gazdaság összeomlását és a költségvetési kiigazítás kudarcát vetítették előre.\n\n• **Mérséklődött a deficit, emelkedtek a beruházások:** Az első kilenc hónap költségvetési hiánya a GDP 3,81 százalékára csökkent, miközben a közberuházások összege megközelítette a 108 milliárd lejt. Ez több mint 25 milliárd lejjel haladta meg a 2025 azonos időszakában mért értéket.\n\n• **Bolojan az előző kabinet eredményeként értékelte a mutatókat:** A volt kormányfő szerint az új vezetésnek az eddigi gazdaságpolitikai irány fenntartásával lehetne tovább javítania az eredményeken. A költségvetés rendezését olyan előzmények után kellett elkezdeni, amikor az állami kiadások tartósan meghaladták a bevételeket.\n\n• **A PNL elnöke a PSD felelősségvállalását kérte számon:** Úgy fogalmazott, hogy a szociáldemokraták hatalomra törekedtek, de kétséges, képesek-e az ország javát szolgáló kormányzást vállalni. Bolojan arra is figyelmeztetett, hogy az új kabinet ne herdálja el az előző kormánytól átvett eredményeket.\n\n• **A gazdasági javulást továbbra is kockázatok övezik:** Bolojan hangsúlyozta, hogy nem ígért gyors fordulatot, és a kedvező hatások fokozatosan jelentkezhetnek. Köszönetet mondott a lakosságnak és a vállalkozásoknak az alkalmazkodásért, ugyanakkor további óvatosságot sürgetett, mert a nehézségek nem múltak el, a növekedés pedig sérülékeny.",
+    "title_ro": "Bolojan vorbește despre buget stabilizat și o revenire economică fragilă",
+    "lead_ro": "Ilie Bolojan a descris drept rezultat al guvernării sale reluarea unei creșteri economice moderate și stabilizarea bugetului. Liderul PNL a criticat PSD, afirmând că, deși a urmărit preluarea puterii, partidul trebuie să dovedească faptul că poate guverna în interesul țării.",
+    "content_ro": "• **PIB-ul a avansat în trimestrul al treilea:** Bolojan a invocat datele institutului național de statistică, potrivit cărora economia a crescut cu 2,1% față de trimestrul precedent. În opinia sa, evoluția contrazice previziunile pesimiste privind prăbușirea economiei și eșecul corecției bugetare.\n\n• **Deficitul s-a redus, iar investițiile au continuat:** În primele nouă luni, deficitul bugetar a coborât la 3,81% din PIB. Investițiile publice au însumat aproape 108 miliarde de lei, cu peste 25 de miliarde mai mult decât în intervalul similar din 2025.\n\n• **Fostul premier a prezentat cifrele ca rezultat al politicilor cabinetului său:** Bolojan consideră că noua guvernare ar putea obține rezultate mai bune dacă păstrează direcția economică urmată până acum. El a amintit că ajustarea finanțelor publice a pornit de la o perioadă în care cheltuielile statului depășeau constant veniturile.\n\n• **Liderul PNL a pus sub semnul întrebării asumarea PSD:** El a susținut că social-democrații au urmărit să preia puterea, dar că rămâne de văzut dacă sunt capabili să conducă în folosul țării. Bolojan a cerut ca rezultatele moștenite de actualul guvern să nu fie irosite.\n\n• **Redresarea nu înseamnă dispariția riscurilor:** Bolojan a precizat că nu a anticipat o revenire rapidă, iar efectele favorabile se conturează treptat. El le-a mulțumit populației și companiilor pentru eforturile depuse, dar a cerut prudență: dificultățile persistă, iar ritmul de creștere rămâne vulnerabil.",
+    "importance_score": 68.0,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2276,7 +2399,7 @@
     "lead_ro": "Deputatul Lucian Morar a anunțat, pe 13 noiembrie, că părăsește Partidul Social Democrat. El și-a motivat decizia prin opoziția față de planurile de reorganizare administrativă, despre care afirmă că ar putea afecta statutul județului Maramureș.",
     "content_ro": "• **Lucian Morar a demisionat pe 13 noiembrie din organizația PSD Maramureș.** Deputatul și-a legat plecarea de dezacordul față de proiectele partidului privind reforma administrativă și a anunțat că va continua să susțină păstrarea județului.\n\n• **Una dintre variantele discutate public ar putea duce la dispariția județului.** Potrivit lui Morar, scenariul ar include alipirea Maramureșului la regiunea Cluj. El a mai invocat posibilitatea ca reorganizarea, la nivel național, să desființeze între 1.600 și 1.700 de comune.\n\n• **Deputatul a cerut ca populația vizată să fie consultată înainte de luarea unor decizii.** În opinia sa, schimbările administrative trebuie să țină seama de voința localnicilor, precum și de istoria, tradițiile și identitatea Maramureșului.\n\n• **Morar a criticat și lipsa de reacție a unor politicieni din județ.** El a afirmat că nu vrea să facă parte dintre cei care evită să se pronunțe de teama conducerilor naționale ale partidelor. Plecarea din PSD, a precizat el, nu înseamnă renunțarea la legăturile cu oamenii din comunitate.\n\n• **Gabriel Zetea s-a pronunțat, la rândul său, împotriva comasării județului.** Vicepreședintele PSD și președintele Consiliului Județean Maramureș respinge această variantă de reorganizare. Sursele nu indică adoptarea unei decizii finale privind reforma administrativă.",
     "importance_score": 65.0,
-    "top_rank": 19,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2334,66 +2457,7 @@
     "lead_ro": "Din 1 ianuarie 2027, persoanele care se pregătesc pentru pensionare vor putea folosi în România două tipuri de conturi cu facilități fiscale. Estimările pe profesii oferă exemple suplimentare, însă pensia efectivă depinde de veniturile obținute de-a lungul carierei, de perioada de contribuție și de regulile aplicabile.",
     "content_ro": "• **Din 2027 vor exista două tipuri de conturi.** În CEI-S contribuie titularul, iar retragerile care respectă condițiile legale pot fi scutite de impozitul pe venit și de contribuția obligatorie la asigurările sociale. Depunerea nu reduce baza impozabilă, iar câștigurile contului nu sunt impozitate cât timp economiile rămân investite.\n\n• **Contribuțiile în CEI-D pot aduce un avantaj fiscal.** Suma depusă de angajat poate reduce baza de impozitare calculată la salariul de bază, iar angajatorul poate vira bani în cont conform regulilor de scutire aplicabile. La retragere se aplică un impozit final de 10% asupra sumei încasate. O contribuție deductibilă de 500 de lei pe lună ar putea însemna o economie fiscală de 50 de lei lunar, respectiv 600 de lei anual.\n\n• **Accesul la economii este permis în condiții precise.** Retragerile pot fi solicitate de la vârsta de 65 de ani sau la dobândirea dreptului la pensie. Cele două conturi pot fi deținute simultan, însă regimul fiscal ales nu poate fi schimbat ulterior, iar facilitățile se aplică doar sumelor depuse în aceste conturi.\n\n• **Pensia publică se calculează pe baza punctelor acumulate și a valorii punctului de referință.** În 2026, aceasta este de 81 de lei. Un analist estimează că, după 40 de ani de contribuții și la un salariu mediu net de 5.680 de lei, pensia publică ar putea fi de 2.600–2.700 de lei; cu Pilonul II, venitul total ar ajunge la circa 4.200 de lei. Pentru salariul minim, estimarea este de aproximativ 2.300 de lei.\n\n• **Exemplele pe profesii arată diferențe asociate nivelului veniturilor.** Pentru 40 de ani de contribuții, simularea indică 2.905 lei pentru un ospătar cu salariul net de 3.500 de lei și 2.962 de lei pentru un agent de pază care câștigă 3.600 de lei. Estimările sunt de 3.015 lei pentru un casier cu 3.700 de lei și 3.061 de lei pentru un bucătar cu 3.800 de lei; pentru profesori, ingineri și programatori, valorile sunt 3.918, 4.643 și, respectiv, 7.432 de lei. Calculele sunt orientative, nu reprezintă stabilirea pensiei unei persoane anume.",
     "importance_score": 65.0,
-    "top_rank": 20,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_c24dac8382",
-    "slug": "kommunikacios-hiba-miatt-allitottak-le-az-amerikai-jaratok-indulasat-c24dac",
-    "tags": [
-      "sua",
-      "aviatie",
-      "faa",
-      "zboruri",
-      "eurocontrol"
-    ],
-    "fingerprint": "7a5dedb63e3748b98cb1e7e35a8974da",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Toate zborurile de pe aeroporturile din SUA, suspendate din cauza „unor circumstanţe extraordinare”: „Nu este un alt 11 septembrie”",
-        "link": "https://www.digi24.ro/stiri/externe/sua/toate-zborurile-de-pe-aeroporturile-din-sua-au-fost-suspendate-din-cauza-unor-circumstante-extraordinare-4036079"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Toate zborurile din SUA, suspendate. Administrația Federală a Aviației: Din cauza unor circumstanțe extraordinare și din motive de siguranță",
-        "link": "https://www.mediafax.ro/externe/toate-zborurile-din-sua-suspendate-administratia-federala-a-aviatiei-din-cauza-unor-circumstante-extraordinare-si-din-motive-de-siguranta-23842788"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "SUA au oprit toate zborurile „din cauza unor circumstanțe extraordinare”. Primele explicații ale autorităților",
-        "link": "https://stirileprotv.ro/stiri/international/sua-au-oprit-toate-zborurile-din-cauza-unor-circumstante-extraordinare-primele-explicatii-ale-autoritatilor.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Avioanele, oprite la sol în SUA. Ordin extrem de rar al autorităților americane la nivel național",
-        "link": "https://hotnews.ro/avioanele-oprite-la-sol-in-sua-ordin-extrem-de-rar-al-autoritatilor-americane-la-nivel-national-2404001"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Toate zborurile cu plecare din SUA, suspendate. Administrația Federală a Aviației: Din cauza unor circumstanțe extraordinare și din motive de siguranță",
-        "link": "https://www.mediafax.ro/externe/toate-zborurile-cu-plecare-din-sua-suspendate-administratia-federala-a-aviatiei-din-cauza-unor-circumstante-extraordinare-si-din-motive-de-siguranta-23842788"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Alertă în Statele Unite! Toate zborurile au fost anulate. Ce s-a întâmplat",
-        "link": "https://www.cancan.ro/alerta-in-statele-unite-toate-zborurile-au-fost-anulate-ce-s-a-intamplat-21547335"
-      }
-    ],
-    "published_at": 1794611441,
-    "title_hu": "Kommunikációs hiba miatt állították le az amerikai járatok indulását",
-    "lead_hu": "Az FAA november 13-án országos felszállási korlátozást rendelt el az Egyesült Államokban, miután a légiirányítás útvonal-ellenőrző központjainak kommunikációjában zavart észleltek. A fennakadás a nemzetközi forgalmat is érinti, miközben a hatóságok vizsgálják a hiba okát.",
-    "content_hu": "• **November 13-án országos korlátozás lépett életbe:** Az FAA valamennyi amerikai repülőtéren megtiltotta az induló járatok felszállását, biztonsági megfontolásokra hivatkozva. A levegőben lévő gépek leszállhatnak, a külföldről érkező járatokat egyenként kezelik; az intézkedés az újabb hatósági értesítésig érvényes.\n\n• **A légiirányítás kommunikációs rendszere érintett:** Sean Duffy közlekedési miniszter közlése szerint az országon áthaladó forgalmat felügyelő útvonal-irányító központoknál jelentkezett probléma. A korai jelzések Chicagó környékéről érkeztek, az FAA műszaki munkatársai pedig vizsgálják az okot és a hiba kiterjedését.\n\n• **A külföldi indulásokra is kiterjed a fennakadás:** Az amerikai kérés nyomán az Eurocontrol tagországaiból az Egyesült Államokba tartó járatokat is felfüggesztették. A szervezetnek 42 tagja van, köztük Románia és Izrael.\n\n• **Jelentős járat- és utasforgalom érintett:** Romániai idő szerint hajnali 2 óráig mintegy 2400 járatot töröltek, és a szám tovább nőtt. Egy légiközlekedési elemző cég adatai szerint a korlátozás után péntekre hozzávetőleg 11 ezer felszállást terveztek, körülbelül 1,5 millió utassal.\n\n• **A hatóságok nem jeleztek közvetlen biztonsági fenyegetést:** Markwayne Mullin belbiztonsági miniszter szerint a kommunikáció helyreállítása időt vehet igénybe, ugyanakkor az utasok biztonságban vannak. Donald Trump nyilatkozata alapján a történtek nem tűnnek sem kibertámadás, sem mesterséges intelligenciához kötődő esemény következményének; a vizsgálat azonban még tart. Országos leállásra legutóbb 2023 januárjában került sor, egy pilótáknak szóló értesítési rendszer hibája miatt.",
-    "title_ro": "Defecțiuni de comunicații au dus la suspendarea decolărilor din SUA",
-    "lead_ro": "Pe 13 noiembrie, FAA a impus oprirea decolărilor de pe aeroporturile americane după apariția unor probleme de comunicații în centrele de control al traficului aerian. Măsura afectează și cursele internaționale, iar autoritățile încearcă să stabilească originea și amploarea defecțiunii.",
-    "content_ro": "• **Restricțiile au fost impuse la nivel național pe 13 noiembrie:** FAA a oprit plecările de pe toate aeroporturile din Statele Unite, invocând considerente de siguranță. Aeronavele aflate deja în aer pot ateriza, iar zborurile internaționale care sosesc sunt evaluate separat; măsura rămâne în vigoare până la o nouă notificare.\n\n• **Sunt afectate comunicațiile centrelor de control:** Potrivit secretarului Transporturilor, Sean Duffy, problema a apărut la centrele care gestionează cursele ce traversează țara. Primele semnale au venit din zona orașului Chicago, iar specialiștii FAA investighează cauzele și dimensiunea defecțiunii.\n\n• **Suspendarea influențează și cursele internaționale spre SUA:** La solicitarea autorității americane au fost oprite și zborurile cu destinația Statele Unite, programate să plece din țările Eurocontrol. Organizația reunește 42 de state, inclusiv România și Israel.\n\n• **Mii de curse și un număr mare de pasageri sunt afectați:** Până la ora 02:00, ora României, fuseseră anulate aproximativ 2.400 de zboruri, iar numărul era în creștere. O companie de analiză a estimat că pentru vineri erau planificate circa 11.000 de decolări, care ar fi transportat aproximativ 1,5 milioane de persoane.\n\n• **Autoritățile nu au indicat existența unei amenințări directe:** Markwayne Mullin, secretarul pentru Securitate Internă, a spus că remedierea poate dura și a transmis că pasagerii sunt în siguranță. Donald Trump a afirmat că incidentul nu pare legat nici de un atac cibernetic, nici de inteligența artificială; verificările sunt însă în desfășurare. O oprire națională precedentă a avut loc în ianuarie 2023, după defectarea sistemului de notificare a piloților.",
-    "importance_score": 63.0,
-    "top_rank": 21,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2452,7 +2516,7 @@
     "lead_ro": "Președintele României s-a întâlnit vineri, la Dublin, cu premierul Ungariei, Peter Magyar, înaintea reuniunii informale a Consiliului European. Discuțiile au vizat relația bilaterală, chestiunile rămase în suspensie și posibilitățile de cooperare economică.",
     "content_ro": "• **Nicușor Dan și Peter Magyar s-au întâlnit vineri la Dublin, în Irlanda**, în contextul reuniunii informale a Consiliului European. Întrevederea a durat aproximativ 45 de minute și a depășit timpul prevăzut în program; inițiativa întâlnirii a aparținut părții ungare.\n\n• **Cei doi lideri au evaluat evoluția relațiilor dintre România și Ungaria și perspectivele acestora.** Potrivit lui Dan, bilanțul ultimilor ani este în cea mai mare parte pozitiv, dar ambele părți sunt dispuse să discute probleme istorice și diplomatice și să abordeze tensiunile care persistă.\n\n• **Președintele român a pledat pentru un nou impuls al cooperării, în baza acordurilor bilaterale existente.** El a făcut trimitere la angajamentele din tratatele semnate în 1996 și 2002 și a indicat securitatea, economia și comerțul drept domenii în care ar fi necesare legături mai strânse și avantajoase reciproc.\n\n• **Nicușor Dan consideră că parteneriatul dintre cele două state poate aduce beneficii economice importante.** În opinia sa, subiectele nerezolvate limitează această posibilitate, iar dialogul asupra lor ar urma să continue în perioada imediat următoare.\n\n• **Întrevederea bilaterală a avut loc înaintea unei reuniuni europene dedicate exclusiv inteligenței artificiale.** România a susținut accelerarea dezvoltării AI în Uniunea Europeană și reducerea dependențelor tehnologice critice, inclusiv prin cooperare cu Statele Unite, Canada și Japonia.",
     "importance_score": 63.0,
-    "top_rank": 22,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2511,7 +2575,7 @@
     "lead_ro": "Datele prezentate despre compania de transport din București arată ponderea ridicată a cheltuielilor salariale și numeroase legături de rudenie între angajați. Restructurarea include modificări ale sporurilor și funcțiilor de conducere, precum și noi concedieri planificate.",
     "content_ro": "• **Legături de rudenie extinse:** Potrivit administratorului judiciar Remus Borza, 4.876 dintre cei 10.137 de angajați au rude în companie, iar 1.428 sunt soți sau soții. Peste 30 de familii au cel puțin zece membri angajați la STB; cea mai numeroasă are 20 de persoane.\n\n• **Cheltuieli salariale ridicate:** Salariul mediu brut este de 10.700 de lei, iar fondul lunar de salarii ajunge la 106 milioane de lei. Aproximativ 80% din venituri sunt direcționate către salarii; în anumite luni din vara lui 2026, șoferii ar fi obținut peste 18.000 de lei net, respectiv mai mult de 25.000 de lei brut.\n\n• **Dificultăți financiare:** STB a intrat în insolvență în septembrie, cu datorii de 1,6 miliarde de lei. Datele până la 30 octombrie indică venituri de 1,2 miliarde, pierderi de 765 de milioane și un deficit de lichidități de 67 de milioane de lei. Cheltuielile cu salariile ajunseseră la 1,01 miliarde de lei.\n\n• **Modificări și reduceri de posturi:** Numărul sporurilor, primelor și indemnizațiilor prevăzute în contractul colectiv a scăzut de la 36 la 32; Borza a estimat economia la 25 de milioane de lei. Au fost eliminate 919 posturi vacante și 44 de funcții de conducere, iar 796 de angajați au primit preavize. Planul include concedierea a 50 de vatmani și a 120 de șoferi de autobuz sau troleibuz.\n\n• **Condiții noi pentru angajați:** Compensațiile la plecare au fost reduse la două-patru salarii, față de 16–20 anterior. De la 1 ianuarie, veniturile șoferilor ar urma să crească cu 16%, iar numărul directorilor să fie înjumătățit la începutul anului următor. Borza a asociat furturile de combustibil cu pierderi anuale de circa 6 milioane de euro.",
     "importance_score": 60.0,
-    "top_rank": 23,
+    "top_rank": 24,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2569,7 +2633,7 @@
     "lead_ro": "În primele nouă luni din 2026, industria României a înregistrat rezultate sub nivelul din perioada similară a anului precedent atât în datele brute, cât și în cele ajustate. Industria prelucrătoare a avut cea mai pronunțată scădere, iar cifrele pentru septembrie au indicat reculuri anuale și lunare în seria ajustată.",
     "content_ro": "• **Bilanțul primelor nouă luni:** Între ianuarie și septembrie 2026, producția industrială brută a fost cu 3,7% mai mică decât în perioada corespunzătoare din 2025, iar seria ajustată după zile lucrătoare și sezonalitate a consemnat un minus de 3,9%. În datele brute, industria prelucrătoare s-a contractat cu 4,7%, în timp ce energia a crescut cu 1,5%, iar industria extractivă cu 0,7%.\n\n• **Evoluții ajustate pe sectoare:** Pentru primele trei trimestre, seria ajustată indică o scădere de 5,1% în industria prelucrătoare. Producția din sectorul energetic a avansat cu 1,1%, iar cea extractivă cu 0,5%.\n\n• **Comparația anuală pentru septembrie:** Față de aceeași lună din 2025, producția industrială brută a coborât cu 6,1%, iar indicatorul ajustat cu 6,2%. Industria prelucrătoare a pierdut 7,2%, iar sectorul energetic 3,4%; extracția a fost singurul dintre cele trei domenii cu creștere, de 5,2%.\n\n• **Mișcări lunare divergente:** Comparativ cu august, seria brută a urcat cu 13,7%, susținută de avansul de 18,9% din industria prelucrătoare; energia a scăzut cu 9,7%, iar extracția cu 2,4%. În schimb, indicatorul total ajustat a coborât cu 2,6%, cu reculuri de 4,9% în energie, 4,2% în extracție și 1,8% în industria prelucrătoare.\n\n• **Semnale din sectoare și de pe piață:** În septembrie, producția a crescut în opt dintre cele 30 de ramuri industriale analizate și a scăzut în celelalte 22. În august, indicatorul anual al României a fost negativ cu 2,6%; Polonia și Ungaria au consemnat creșteri, iar Bulgaria o scădere. PMI-ul manufacturier din octombrie a ajuns la 48,7 puncte, pe fondul reducerii comenzilor noi, producției și comenzilor pentru export. Costurile ridicate cu energia și dependența de cererea din Germania pot continua să apese asupra industriei.",
     "importance_score": 60.0,
-    "top_rank": 24,
+    "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2628,7 +2692,7 @@
     "lead_ro": "Potrivit unui sondaj Reuters/Ipsos, JD Vance și Marco Rubio au atras atenția republicanilor, iar Jon Ossoff și Pete Buttigieg, pe cea a democraților. Niciunul nu și-a anunțat candidatura, iar Donald Trump a evitat să se angajeze în privința susținerii unui candidat la primarele republicane, într-un interviu acordat duminică postului CBS.",
     "content_ro": "• **Patru politicieni apar în primele discuții despre cursa din 2028:** republicanii JD Vance, vicepreședinte, și Marco Rubio, secretar de stat, respectiv democrații Jon Ossoff, senator de Georgia, și Pete Buttigieg, fost șef al Departamentului Transporturilor. Niciunul nu a lansat oficial o campanie, iar competițiile interne pentru desemnarea candidaților sunt la mai mult de un an distanță.\n\n• **Rubio și Vance au cele mai mari procente menționate în rândul republicanilor:** 45% dintre cei chestionați l-au evaluat favorabil pe Rubio ca posibil candidat, față de 43% pentru Vance. Guvernatorul Floridei, Ron DeSantis, a fost indicat de 32%; Donald Trump Jr. și senatorul texan Ted Cruz au atât susținători, cât și contestatari.\n\n• **Ossoff și Buttigieg au obținut rezultate egale în tabăra democrată:** câte 29% dintre alegătorii înregistrați ai partidului i-au considerat opțiuni foarte bune. Preferințele se pot modifica până la startul procesului de desemnare, iar alți politicieni ar putea intra în competiție.\n\n• **Cercetarea a cuprins 1.705 de adulți din Statele Unite:** eșantionul național a inclus aproximativ 500 de alegători înregistrați pentru fiecare partid. Colectarea răspunsurilor s-a încheiat luni, iar marja de eroare indicată pentru grupurile de partid este de cinci puncte procentuale.\n\n• **Trump rămâne o prezență importantă în dezbaterile politice:** popularitatea sa este aproape de nivelurile minime înregistrate de-a lungul carierei. El le-a cerut aliaților să compare Vance și Rubio, iar într-o discuție televizată de duminică la CBS a spus că nu va susține neapărat un candidat la primarele republicane. Republicanii sunt divizați în privința continuării politicilor sale, în timp ce democrații nu au o poziție comună asupra modului de a i se opune.",
     "importance_score": 60.0,
-    "top_rank": 25,
+    "top_rank": 26,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2680,7 +2744,7 @@
     "lead_ro": "Naționala Italiei a câștigat cu 3-1 în fața Franței, la Milano, și a ajuns la egalitate de puncte cu adversara în Grupa 1 din Liga Națiunilor. Roberto Mancini a prezentat succesul drept un pas important, însă calificarea urmează să se decidă în ultima etapă.",
     "content_ro": "• **Italia a întors rezultatul la Milano:** În partida de pe San Siro, Michael Olise a deschis scorul în minutul 10. Francesco Pio Esposito a egalat în minutul 26, după pasa lui Cambiaghi, iar Davide Frattesi a adus gazdele în avantaj în minutul 63. Pio Esposito a stabilit scorul de 3-1 din penalty, în minutul 75.\n\n• **Francezii au lovit de două ori bara, iar Italia a ratat un penalty:** Barcola a nimerit cadrul porții în minutul 35, iar Olise a făcut același lucru în minutul 53. În minutul 58, gazdele au primit o lovitură de la 11 metri după faultul lui Malo Gusto asupra lui Cambiaghi, însă Sebastiano Esposito a trimis pe lângă poartă.\n\n• **O schimbare a contribuit la golul avantajului:** Mancini i-a introdus pe teren pe Vergara și Dimarco în minutul 62, iar Dimarco a oferit pasa decisivă pentru reușita lui Frattesi. Al doilea penalty al Italiei a fost acordat după un fault comis asupra lui Vergara.\n\n• **Selecționerul a vorbit despre progres, nu despre revanșă:** Revenit la conducerea echipei în iulie, Mancini a descris victoria ca pe un reper util pentru o formație aflată în reconstrucție, dar a subliniat că mai sunt aspecte de îmbunătățit. El a menționat și nevoia ca tinerii jucători să continue să se dezvolte.\n\n• **Calificarea se decide în ultima rundă:** Italia și Franța au același număr de puncte, iar Belgia se află la un punct în urma lor. Italienii vor juca duminică la Bruxelles, în timp ce francezii vor primi vizita Turciei, deja eliminată; rezultatele vor stabili echipele calificate în sferturi.",
     "importance_score": 55.0,
-    "top_rank": 26,
+    "top_rank": 27,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2734,7 +2798,7 @@
     "lead_ro": "Opt companii românești participă la misiunea economică din Qatar, condusă de ministrul Daniel Zamfir, în perioada 15–18 noiembrie. Discuțiile vizează investiții și colaborări în domenii precum energia, transporturile și digitalizarea.",
     "content_ro": "• **Delegația română se află în Qatar în perioada 15–18 noiembrie.** Grupul este condus de Daniel Zamfir, ministrul Economiei, Digitalizării, Antreprenoriatului și Turismului. Misiunea urmărește identificarea unor parteneri de afaceri și a unor oportunități de investiții în sectoare strategice.\n\n• **Agenda cuprinde energia, infrastructura portuară, transporturile, turismul și digitalizarea.** Reprezentanții români urmează să discute cu oficiali ai Autorității pentru Investiții a Qatarului, ai Camerei de Comerț și Industrie a Qatarului și ai Qatari Businessmen Association.\n\n• **Programul include întâlniri cu doi membri ai guvernului qatarez.** Daniel Zamfir are prevăzute întrevederi cu Sheikh Faisal bin Thani bin Faisal Al Thani, ministrul Comerțului și Industriei, și cu Saad bin Ali Al Kharji, ministrul Turismului. Delegația va discuta și cu reprezentanții Barzan Holdings, grup activ în industria de apărare și securitate.\n\n• **La misiune participă opt companii românești din sectorul public și privat.** Printre acestea se numără Comes, Rig Service, Socep, Humans.ai, Autovehicule DAC, Ana Hotels, Romarm și Compania Națională „Administrația Porturilor Maritime” Constanța. Companiile activează în domenii precum energia, operațiunile portuare, tehnologia, turismul și industria de apărare.\n\n• **Vizita are loc în paralel cu cea de-a 22-a Conferință a Plenipotențiarilor Uniunii Internaționale a Telecomunicațiilor.** Daniel Zamfir participă la reuniune, a cărei ediție precedentă a fost găzduită de București în 2022. Discuțiile despre turism continuă dialogul început la World Travel Market, la Londra.",
     "importance_score": 53.0,
-    "top_rank": 27,
+    "top_rank": 28,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2788,7 +2852,7 @@
     "lead_ro": "Prefectul județului Bihor, Emilian Pavel, a aprobat pe 10 noiembrie regulamentul privind acreditarea reprezentanților mass-media. Documentul stabilește și cerințe legate de activitatea jurnalistică, iar mai mulți reprezentanți ai presei locale au solicitat revizuirea lui.",
     "content_ro": "• **Emilian Pavel a semnat regulamentul la 10 noiembrie**, stabilind procedura de acreditare a reprezentanților mass-media la Instituția Prefectului-Județul Bihor. Jurnaliștii care solicită accesul trebuie să completeze și un formular de acreditare.\n\n• **Prevederile nu se rezumă la accesul în instituție, ci vizează și practicile jurnalistice.** Documentul cere verificarea informațiilor, separarea faptelor de opinii și redarea corectă a declarațiilor. El menționează și solicitarea punctului de vedere al persoanelor vizate, precum și corectarea erorilor factuale importante.\n\n• **Regulamentul tratează și conduita față de persoanele vizate și angajații instituției.** Jurnaliștilor li se cere să manifeste un comportament profesional și respectuos, să țină cont de demnitatea și reputația persoanelor și să le protejeze viața privată.\n\n• **Acreditarea poate fi refuzată sau retrasă în anumite situații.** Regulamentul leagă această măsură de existența unor fapte concrete care împiedică desfășurarea normală a activității Prefecturii.\n\n• **Mai mulți reprezentanți ai presei locale au cerut revizuirea documentelor.** Memoriul inițiat de BIHOREANUL și semnat de jurnaliști și alți reprezentanți ai mass-media susține că unele prevederi depășesc cadrul regulilor de acreditare.",
     "importance_score": 50.0,
-    "top_rank": 28,
+    "top_rank": 29,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2842,7 +2906,7 @@
     "lead_ro": "Partidul Național Liberal solicită autorităților din București să mențină ordinea și să prevină incidentele înaintea manifestației anunțate pentru 14 noiembrie de AUR și susținătorii lui Călin Georgescu. Liberalii consideră că suprapunerea protestului cu meciul de fotbal România–Polonia impune măsuri preventive suplimentare.",
     "content_ro": "• **PNL cere Guvernului și Ministerului Afacerilor Interne să protejeze ordinea publică.** Solicitarea vizează manifestația anunțată la București pentru 14 noiembrie de AUR și susținătorii lui Călin Georgescu, pe care liberalii o consideră neautorizată.\n\n• **Liberalii insistă asupra respectării regulilor și prevenirii unor posibile incidente.** În opinia partidului, autoritățile trebuie să intervină în limitele atribuțiilor lor dacă organizarea unei adunări nu îndeplinește cerințele legale.\n\n• **PNL îi indică pe liderii AUR și Guvernul PSD drept responsabili în cazul unor tulburări.** Formațiunea avertizează că manifestația ar putea fi urmată de violențe sau vandalism și a invocat, de asemenea, o posibilă apropiere între PSD și AUR.\n\n• **Protestul este programat în același interval cu partida de fotbal România–Polonia.** PNL estimează că meciul va aduce grupuri numeroase de suporteri în capitală și susține că această situație justifică măsuri suplimentare pentru a limita riscul confruntărilor.\n\n• **Partidul și-a exprimat sprijinul pentru poziția primarului general Ciprian Ciucu privind aplicarea legii.** PNL afirmă că dreptul la protest și libertatea de exprimare trebuie exercitate cu respectarea cadrului legal. În acest context, formațiunea cere autorităților să ia măsuri preventive fără a depăși competențele stabilite de lege.",
     "importance_score": 50.0,
-    "top_rank": 29,
+    "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2896,7 +2960,7 @@
     "lead_ro": "Áron Orban a fost plasat în arest preventiv pentru o lună în ancheta privind vizele solicitate de cetățeni vietnamezi, iar avocatul său a contestat decizia. Într-un interviu pe YouTube, Viktor Orban și-a exprimat convingerea deplină că fratele său este nevinovat și a interpretat anchetele drept acțiuni cu miză politică.",
     "content_ro": "• **Reținerea și hotărârea instanței:** Áron Orban a fost reținut luni împreună cu alți trei suspecți. Miercuri, o instanță din Budapesta a dispus arestarea sa preventivă pentru o lună, iar avocatul a formulat apel. În cazul bărbatului de 49 de ani sunt investigate suspiciuni de trafic de persoane și trafic de influență.\n\n• **Elementele anchetei privind vizele:** Potrivit anchetatorilor, grupul ar fi putut primi bani pentru a facilita obținerea rapidă a vizelor ungare de către cetățeni vietnamezi. Solicitanții ar fi fost înscriși la cursuri scurte de formare fără să fie necesară participarea efectivă; vizele le-ar fi permis ulterior să călătorească în Europa de Vest.\n\n• **Situația celorlalți suspecți:** Instanța a dispus arestarea preventivă și pentru un alt suspect, a plasat o a treia persoană sub supraveghere judiciară timp de patru luni, iar pe a patra a eliberat-o. Printre motivele invocate s-au numărat riscul de fugă și, în cazul unora dintre suspecți, posibilitatea influențării martorilor.\n\n• **Declarațiile lui Viktor Orban:** Fostul premier a spus că este pe deplin convins de nevinovăția fratelui său, pe care l-a descris ca pe un om cu intenții bune. El a calificat drept neadevărate acuzațiile de corupție la adresa fostului său guvern și a prezentat anchetele recente care vizează foști oficiali drept un spectacol politic pregătit dinainte.\n\n• **Acuzația de răfuială politică:** Viktor Orban a numit guvernul neocomunist și a susținut că scopul acțiunilor nu este tragerea la răspundere, ci intimidarea și reglarea de conturi. El nu intenționează să-și viziteze fratele, spunând că presa ar folosi o fotografie cu el intrând în închisoare.",
     "importance_score": 50.0,
-    "top_rank": 30,
+    "top_rank": 31,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2944,7 +3008,7 @@
     "lead_ro": "Comisia Europeană se apropie de finalul evaluării reformelor din Ungaria și, până acum, nu a identificat impedimente majore pentru deblocarea banilor. Decizia privind suma de aproape 10 miliarde de euro nu este definitivă, iar plata depinde de aprobări europene suplimentare.",
     "content_ro": "• **Evaluarea se apropie de încheiere:** potrivit unei surse familiarizate cu dosarul, Comisia nu a găsit probleme majore care să blocheze de una singură plata celor aproape 10 miliarde de euro. Ungaria ar putea primi suma solicitată integral sau în mare parte, însă hotărârea finală nu a fost luată.\n\n• **Plata necesită aprobări suplimentare:** o evaluare favorabilă din partea Comisiei nu declanșează automat transferurile. Procedurile la nivel european trebuie încheiate, iar autorizarea banilor din mecanismul de redresare are ca termen sfârșitul lunii noiembrie.\n\n• **Finanțarea face parte dintr-un pachet de 16,4 miliarde de euro:** Péter Magyar, care l-a învins pe Viktor Orbán în aprilie, a promis în campanie că va recupera fondurile europene. În mai, el a discutat cu Ursula von der Leyen un plan de deblocare a banilor reținuți; aproape 10 miliarde provin din instrumentul de redresare creat după pandemie.\n\n• **Reformele asumate au vizat justiția și combaterea corupției:** accesul la finanțare presupunea 27 de condiții prioritare și peste o sută de obiective suplimentare. Parlamentul a modificat mai mult de o sută de legi în timpul verii, iar guvernul a anunțat la sfârșitul lui august că a îndeplinit cerințele; ulterior, Comisia a început verificările.\n\n• **Planul include investiții în mai multe domenii:** programul revizuit prevede modernizarea rețelelor electrice, a căilor ferate și a locuințelor de închiriat. Aproximativ 3,6 miliarde de euro au fost redirecționate către majorarea capitalului Băncii Ungare de Dezvoltare și finanțarea unei noi companii feroviare de stat.",
     "importance_score": 48.0,
-    "top_rank": 31,
+    "top_rank": 32,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2993,7 +3057,7 @@
     "lead_ro": "Pe 13 noiembrie, petrolierul Atlantic Asphalt s-a ciocnit cu nava de croazieră American Heritage, în apropiere de New Orleans. Primarul orașului a anunțat că 29 de pasageri au fost transportați la spital; nava de pasageri s-a scufundat parțial, iar persoanele aflate la bord au fost evacuate.",
     "content_ro": "• **Accidentul s-a produs pe 13 noiembrie, în jurul orei locale 12:30**, pe fluviul Mississippi, în apropierea portului New Orleans. Petrolierul Atlantic Asphalt a lovit nava American Heritage, operată de American Cruise Lines, care era oprită la chei, înaintea debarcării pasagerilor.\n\n• **La bordul navei de croazieră se aflau aproximativ 129 de pasageri și membri ai echipajului.** După impact, ambarcațiunea s-a înclinat puternic și a ajuns parțial sub apă, iar mai multe persoane au căzut în fluviu. Primarul orașului New Orleans, Helena Moreno, a declarat că 29 de pasageri au fost transportați la spital.\n\n• **Pasagerii și echipajul au fost evacuați de pe vas.** American Cruise Lines a informat că menține legătura cu Paza de Coastă și autoritățile locale. Persoanele salvate au fost duse într-o clădire administrativă a portului, unde au primit sprijin și au fost evaluate medical; relatările inițiale menționau că intervenția era încă în desfășurare.\n\n• **Petrolierul și nava de croazieră aveau dimensiuni diferite:** Atlantic Asphalt măsoară 160 de metri, iar American Heritage, 81 de metri. Petrolierul transportă de regulă asfalt și bitum. Nava de pasageri se afla la capătul unei călătorii de opt zile, cu opriri în mai multe destinații de pe râurile din Louisiana și Mississippi.\n\n• **Cauza coliziunii nu a fost stabilită.** Primele relatări nu confirmaseră decese, însă informațiile ulterioare au indicat că mai mulți pasageri au avut nevoie de îngrijiri spitalicești. Guvernatorul Louisianei, Jeff Landry, a spus că a fost informat despre incident și că se deplasează la New Orleans pentru a urmări situația.",
     "importance_score": 43.0,
-    "top_rank": 32,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3042,7 +3106,7 @@
     "lead_ro": "În seara de 13 noiembrie, radarele românești au semnalat o țintă aeriană în spațiul ucrainean, la sud-est de Insula Șerpilor. Două avioane F-16 au decolat de la Fetești, iar locuitorii din nordul județului Tulcea au primit un mesaj RO-Alert; alerta s-a încheiat la ora 22:58.",
     "content_ro": "• **Ținta aeriană a fost detectată în seara de 13 noiembrie** de radarele Ministerului Apărării, la sud-est de Insula Șerpilor, în spațiul aerian al Ucrainei. Instituția nu a precizat ce tip de aparat era; Mediafax a relatat că ar fi fost o dronă.\n\n• **Două avioane F-16 au decolat de la Baza 86 Aeriană Fetești.** Aeronavele Forțelor Aeriene Române se aflau în serviciul de poliție aeriană și au fost trimise pentru urmărirea situației.\n\n• **Locuitorii din zona de nord a județului Tulcea au fost avertizați prin RO-Alert.** Centrul Național Militar de Comandă a informat Inspectoratul pentru Situații de Urgență, iar mesajul a fost transmis la ora 21:53.\n\n• **Alerta aeriană s-a încheiat la ora 22:58**, potrivit unei informări a Ministerului Apărării citate de Digi24. Datele disponibile plasează ținta în spațiul aerian ucrainean și nu menționează o intrare în România sau o prăbușire.\n\n• **Cancan menționează și o alertă anterioară, emisă cu două zile înainte.** Potrivit publicației, atunci populația fusese avertizată după observarea unei drone la est de Insula Șerpilor; articolul prezintă incidentul actual drept o nouă alertă în zona de frontieră.",
     "importance_score": 43.0,
-    "top_rank": 33,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3090,7 +3154,7 @@
     "lead_ro": "Mihai Stoica își încheie activitatea la FCSB după 16 ani și a primit două propuneri de la formații din prima ligă. Marius Baciu și Emil Grădinescu au interpretat inițial mesajul său de adio ca pe un posibil anunț de retragere, însă Stoica a precizat ulterior că nu renunță definitiv la fotbal.",
     "content_ro": "• **Mihai Stoica își încheie mandatul la FCSB.** Omul de fotbal, aflat timp de 16 ani la club, și-a făcut publică plecarea pe 12 noiembrie. În mesajul de rămas-bun l-a menționat pe Marius Stan, care l-a adus în fotbal în 1992, și i-a mulțumit lui Gigi Becali pentru sprijinul oferit de-a lungul timpului.\n\n• **Mesajul a fost perceput de doi comentatori drept posibil semn al retragerii din fotbal.** Fostul antrenor al FCSB, Marius Baciu, și comentatorul Emil Grădinescu au spus că textul le-a lăsat această impresie. Stoica a clarificat ulterior că plecarea de la club nu înseamnă că renunță definitiv la activitatea în domeniu.\n\n• **Baciu consideră că decizia poate avea mai multe explicații.** Tehnicianul, care a condus echipa între mai și septembrie 2026, a apreciat că îndepărtarea unor colaboratori nu este singurul factor. În opinia sa, Stoica a încercat să susțină jucătorii și stafful, iar tensiunile din club și nevoia unei pauze ar fi putut contribui la hotărâre.\n\n• **Două cluburi din prima ligă i-au făcut oferte, pe care le-a refuzat.** Stoica a precizat că propunerile nu au venit de la Dinamo sau Rapid. El a spus că nu intenționează să lucreze pentru o altă echipă din România și nici să plece din București.\n\n• **Stoica nu se vede în prezent la o altă formație din țară.** A menționat că, pentru un club fără rivalitate cu FCSB, relația dintre echipe nu ar fi neapărat o problemă, însă nu dorește să se mute din Capitală. Unul dintre cei interesați a sugerat că va reveni cu o propunere în vară, dar Stoica nu consideră că își va schimba decizia.",
     "importance_score": 43.0,
-    "top_rank": 34,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3139,7 +3203,7 @@
     "lead_ro": "Gică Hagi a susținut pe 13 noiembrie o conferință de presă înaintea partidei României cu Polonia, din Liga Națiunilor. Selecționerul a fost întrebat și despre Nicolae Stanciu și Ionuț Radu, care au refuzat convocarea din motive medicale.",
     "content_ro": "• **România întâlnește Polonia pe 14 noiembrie, pe Arena Națională din București**, în etapa a cincea a grupei din Liga Națiunilor. Partida începe la ora 21:45. Trei zile mai târziu, tot de la 21:45, echipa națională va juca în deplasare cu Bosnia-Herțegovina.\n\n• **Nicolae Stanciu și Ionuț Radu nu au venit la lot din cauza unor probleme medicale.** Cei doi au transmis scrisori în care au explicat împrejurările absenței. Informațiile anterioare arătau că hotărârea le-a aparținut jucătorilor; și Mihăilă a fost menționat în contextul convocărilor refuzate.\n\n• **Hagi a revenit asupra situației celor doi la conferința de vineri.** Într-o declarație anterioară, selecționerul precizase că deciziile trebuie discutate direct cu fotbaliștii și că federația comunicase deja informațiile relevante. Potrivit declarației evidențiate în titlul relatării, el nu intenționează să deplângă lipsa vreunui jucător.\n\n• **România a pierdut primele patru partide din grupă.** În confruntarea de la București, echipa poate încerca să obțină puncte în fața Poloniei, după ce a cedat cu 0–6 în întâlnirea tur. Meciurile cu Polonia și Bosnia-Herțegovina sunt următoarele două angajamente ale formației în programul din noiembrie.",
     "importance_score": 43.0,
-    "top_rank": 35,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3188,7 +3252,7 @@
     "lead_ro": "Adam Bielan, președintele ECR, și secretarul general Antonio Giordano participă la București, între 13 și 15 noiembrie, la Forum Europa, organizat de AUR, și vor urmări protestul anunțat în sprijinul lui Călin Georgescu. La deschiderea reuniunii, George Simion a susținut o viziune europeană bazată pe autodeterminarea națiunilor.",
     "content_ro": "• **Liderii ECR la București:** Președintele Adam Bielan și secretarul general Antonio Giordano vin la Forum Europa, eveniment organizat de AUR la Palatul Parlamentului între 13 și 15 noiembrie. Formațiunea prezintă vizita drept un semnal de susținere pentru George Simion, vicepreședinte al ECR.\n\n• **Discursul lui Simion la deschidere:** Liderul AUR a inaugurat reuniunea „Europa – Identitate, Viziune, Educație” vineri seara. El a asociat viitorul descris în manifestul forumului cu voința popoarelor și a națiunilor și a evidențiat libertatea, suveranitatea și dreptul acestora de a-și alege propriul drum.\n\n• **Critici la adresa instituțiilor UE:** Simion a susținut că ideea cooperării europene își pierde sensul dacă instituțiile ajung să privească națiunile ca pe niște obstacole. AUR descrie Forum Europa drept o alternativă de viziune la Eurosfat și pune accent pe identitatea națională, autonomia statelor membre și colaborarea dintre țări.\n\n• **Observarea protestului:** Bielan și Giordano vor urmări manifestația anunțată pentru 14 noiembrie, de la ora 14:00, în Parcul Izvor, în sprijinul lui Călin Georgescu. Primăria Capitalei nu a autorizat protestul.\n\n• **Două reuniuni politice:** AUR prezintă Forum Europa ca o contrapondere la Eurosfat. La acesta din urmă este anunțată participarea lui Nicușor Dan, iar Guy Verhofstadt urmează să își prezinte cartea despre trumpism. Din ECR fac parte și formațiunea italiană Fratelli d’Italia, precum și partidul polonez PiS, care l-a susținut pe Karol Nawrocki în alegeri.\n\n• **Programul de duminică:** Pe 15 noiembrie, cei doi reprezentanți ECR sunt așteptați la o dezbatere din cadrul Forum Europa. Potrivit organizatorilor, reuniunea abordează identitatea națională, suveranitatea statelor membre și cooperarea între națiuni.",
     "importance_score": 43.0,
-    "top_rank": 36,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3236,7 +3300,7 @@
     "lead_ro": "Ministerul Apărării a publicat pentru consultare proiectul de norme privind pregătirea militară voluntară. Programul ar putea dura cel mult patru luni și s-ar adresa cetățenilor între 18 și 35 de ani care nu au efectuat anterior serviciul militar.",
     "content_ro": "• **Proiectul a fost făcut public pentru consultare la 13 noiembrie:** Ministerul Apărării a prezentat regulile de aplicare a Legii 446/2006. Inițiativa urmărește formarea de personal care să contribuie la dezvoltarea rezervei operaționale a Armatei României.\n\n• **Programul ar fi deschis femeilor și bărbaților cu vârste între 18 și 35 de ani:** potențialii participanți trebuie să fie cetățeni români și să nu fi efectuat serviciul militar, nici în activitate, nici în rezervă. Înscrierea ar avea caracter voluntar.\n\n• **Pregătirea ar putea dura până la patru luni:** participanții ar dobândi cunoștințe și deprinderi militare de bază. Pe perioada stagiului, instituția ar asigura cazare, hrană, uniforme, echipament și servicii medicale.\n\n• **Proiectul prevede și o indemnizație:** suma de bază calculată pentru 2026 este de 4.033 de lei net pe lună, achitată în patru tranșe egale. La aceasta s-ar adăuga drepturile asociate gradului militar; estimările menționate indică aproximativ 4.250 de lei net pentru un soldat și 4.272 de lei pentru un fruntaș.\n\n• **După încheierea stagiului, participanții ar putea continua o carieră militară sau ar putea fi înscriși în rezerva operațională:** opțiunile s-ar aplica potrivit legislației în vigoare. Potrivit prezentării proiectului, cei care abandonează programul ar trebui să restituie sumele primite.",
     "importance_score": 43.0,
-    "top_rank": 37,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3285,7 +3349,7 @@
     "lead_ro": "La reuniunea informală de la Dublin, Kaja Kallas a susținut că Europa trebuie să participe la negocierile privind războiul din Ucraina. În opinia sa, discuțiile trebuie să înceapă cu obținerea unei încetări a focului, în timp ce Moscova nu a acceptat deocamdată implicarea europenilor.",
     "content_ro": "• **Kaja Kallas a indicat încetarea focului drept obiectivul imediat.** La Dublin, șefa diplomației UE a avertizat că discuțiile despre arhitectura de securitate europeană nu trebuie să abată atenția de la oprirea luptelor. Posibila încheiere a războiului din Ucraina s-a aflat printre subiectele reuniunii informale a liderilor europeni.\n\n• **Kallas a spus că funcția sa îi oferă un rol firesc în reprezentarea Uniunii.** Ea a amintit că liderii statelor membre au numit-o Înalt Reprezentant în iunie 2024, într-un moment în care erau anticipate negocieri directe cu Moscova. În opinia sa, UE ar trebui să desemneze un negociator cu un mandat instituțional clar.\n\n• **Șefa diplomației europene a recunoscut că Rusia nu o dorește la discuții.** Kallas a precizat că liderii UE pot schimba decizia privind reprezentarea, dar a pledat pentru concentrarea eforturilor asupra problemelor de fond. Ea a mai susținut că Uniunea nu trebuie să adopte automat modelul american, care presupune trimiterea a doi emisari aleși personal.\n\n• **Moscova nu și-a dat încă acordul pentru participarea europenilor.** Statele Unite susțin implicarea Europei, iar președintele ucrainean Volodimir Zelenski și emisarul american Jared Kushner au menționat această posibilitate. Dmitri Peskov, purtătorul de cuvânt al Kremlinului, a declarat că un format extins ar putea fi analizat după clarificarea intențiilor europene și a contribuției acestora la procesul de pace.\n\n• **Mai multe instituții ale UE au atribuții legate de demersul diplomatic.** Tratatul de la Lisabona îi încredințează Înaltului Reprezentant coordonarea și aplicarea politicii externe, iar președintele Consiliului European, funcție ocupată în prezent de António Costa, are de asemenea un rol de reprezentare. Comisia Europeană gestionează, între altele, chestiuni privind sancțiunile, finanțarea și aderarea.",
     "importance_score": 40.0,
-    "top_rank": 38,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3333,7 +3397,7 @@
     "lead_ro": "Judecătoarea Raluca Moroșanu a reacționat pe Facebook după afirmațiile făcute de Nicușor Dan la Dublin, unde președintele s-a prezentat simbolic drept conducător al aparatului de stat. Moroșanu a precizat că șeful statului nu îi este superior.",
     "content_ro": "• **Judecătoarea a reacționat joi seară la declarațiile președintelui.** Moroșanu a scris pe Facebook că Nicușor Dan nu îi este șef. La Dublin, acesta îi enumerase printre angajații statului pe polițiști, personalul medical, profesori, funcționari publici și judecători.\n\n• **Dan a susținut că angajații statului trebuie tratați cu respect.** El a asociat comportamentul lipsit de considerație față de aceștia cu afectarea autorității publice. Afirmațiile au venit în contextul disputei cu jurnalistul Ovidiu Vanghele, căruia președintele i-a interzis accesul la Palatul Cotroceni după o postare online jignitoare.\n\n• **O sesizare formulată de Moroșanu a dus la o hotărâre europeană privind extrădările.** Curtea de Justiție a UE a stabilit că o instanță nu poate refuza aplicarea unui mandat european de arestare și prelua executarea pedepsei fără acordul statului emitent. Decizia îi privește și pe Dani Mocanu, Mario Iorgulescu, Ionel Arsene, Dragoș Săvulescu, Daniel Dragomir și Sorin Oprescu.\n\n• **În decembrie 2025, Moroșanu a criticat conducerea Curții de Apel București.** Judecătoarea a intervenit la o conferință de presă organizată de conducerea instituției ca reacție la criticile legate de documentarul Recorder despre justiție.\n\n• **Intervenția sa publică a vizat modul de conducere al instanței.** Moroșanu a luat cuvântul în cadrul conferinței și a contestat conduita conducerii Curții de Apel București.",
     "importance_score": 40.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3381,7 +3445,7 @@
     "lead_ro": "Modelul matematic publicat în 1960 a extrapolat creșterea accelerată a populației și a indicat 13 noiembrie 2026 drept un prag matematic, nu o predicție literală a sfârșitului lumii. Calculele au urmărit tendința până în anii 1990, însă scăderea natalității a schimbat ulterior evoluția estimată.",
     "content_ro": "• **Analiza s-a bazat pe date din două milenii.** Heinz von Foerster și doi colegi au comparat 24 de estimări demografice anterioare. Modelul publicat în revista Science a proiectat continuarea accelerării creșterii și a indicat un prag matematic în jurul datei de 13 noiembrie 2026, nu apariția efectivă a unei populații infinite.\n\n• **Ziua exactă a fost aleasă dintr-un interval mai larg.** Cercetătorii au indicat o dată precisă și pe fondul superstiției asociate zilei de vineri 13. Studiul a tratat supraaglomerarea drept un posibil pericol și a invocat exemplul unei populații de musculițe care se prăbușește când resursele și spațiul sunt limitate.\n\n• **Demografii vremii au contestat concluziile.** În contextul tensionat al Războiului Rece, temerile privind epuizarea resurselor naturale și un război nuclear alimentau îngrijorările pentru viitorul civilizației. Proiecțiile modelului au urmărit aproximativ evoluția populației până în anii 1990.\n\n• **Scăderea natalității a schimbat tendința.** Ulterior, fertilitatea s-a redus în numeroase țări, iar ritmul de creștere a populației mondiale a încetinit. Proiecțiile actuale ale ONU indică un posibil vârf în anii 2080, la circa 10,3 miliarde de oameni, urmat de o diminuare treptată.\n\n• **Atenția se îndreaptă acum și spre alte riscuri.** Schimbările climatice, un conflict nuclear și pierderea controlului asupra inteligenței artificiale se numără printre preocupările actuale. Ceasul Apocalipsei, creat în 1947 de Bulletin of the Atomic Scientists, este plasat la 85 de secunde de miezul nopții, față de 89 de secunde cu un an înainte.",
     "importance_score": 40.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3429,7 +3493,7 @@
     "lead_ro": "Premierul Luca Niculescu a participat vineri la un dejun oferit de Margareta, Custodele Coroanei, și Principele Radu. Ulterior, el a evidențiat contribuția Casei Regale la dezvoltarea țării și moștenirea Regelui Mihai.",
     "content_ro": "• **Luca Niculescu a fost vineri oaspetele Margaretei, Custodele Coroanei, și al Principelui Radu.** Premierul a participat la dejunul organizat de cei doi și le-a mulțumit pentru primire într-un mesaj publicat pe Facebook.\n\n• **Șeful Guvernului a prezentat Casa Regală drept un actor important în evoluția României.** În opinia sa, aceasta a sprijinit modernizarea și dezvoltarea țării. Niculescu a adăugat că atașamentul față de România și respectarea principiilor democratice rămân repere relevante pentru societate.\n\n• **Premierul a amintit și contribuția Regelui Mihai în momente dificile ale istoriei.** El a apreciat că fostul monarh a susținut libertatea și legătura României cu spațiul occidental. Niculescu a transmis că memoria Regelui Mihai este păstrată cu recunoștință.\n\n• **Mesajul premierului a pus accent pe importanța istoriei și a valorilor naționale.** Potrivit lui Niculescu, respectul pentru trecut și pentru principiile care definesc națiunea poate uni societatea și poate orienta construirea viitorului țării. Declarațiile au fost făcute după întâlnirea cu Margareta și Principele Radu.",
     "importance_score": 40.0,
-    "top_rank": 41,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3477,7 +3541,7 @@
     "lead_ro": "Steve Witkoff a declarat că Vladimir Putin a acceptat participarea unor reprezentanți europeni la următoarea rundă de negocieri pentru pace în Ucraina. Declarația de vineri a lui Dmitri Peskov arată însă că Moscova nu și-a asumat încă această decizie și vrea să clarifice mai întâi intențiile europenilor și disponibilitatea lor de a sprijini procesul de pace.",
     "content_ro": "• **Witkoff a anunțat posibila implicare a europenilor:** Emisarul american a făcut declarația joi, după o întâlnire de aproximativ patru ore și jumătate cu Putin, la Moscova. Jared Kushner a participat și el la discuție, însă nu au fost precizate componența delegației europene și formatul viitoarelor negocieri.\n\n• **Kremlinul condiționează participarea de poziția statelor europene:** Dmitri Peskov a afirmat vineri că Moscova va decide asupra unui dialog extins după ce va înțelege intențiile reale ale europenilor și disponibilitatea lor de a contribui la pace. Iuri Ușakov spusese anterior că acțiunile europene de până acum nu au favorizat încheierea războiului.\n\n• **Moscova contestă rolul Europei și planurile de securitate:** Rusia se opune implicării directe a europenilor, susținând că sprijinul acordat Ucrainei îi face parte a conflictului. Statele europene au furnizat arme Kievului și au impus sancțiuni Rusiei. Putin respinge și garanțiile de securitate propuse pentru Ucraina după război.\n\n• **La Abu Dhabi, cele trei părți au negociat după o pauză de nouă luni:** Oficiali ruși, ucraineni și americani s-au întâlnit, iar potrivit rezumatului anterior au convenit și asupra unui schimb de prizonieri de război. Disputa teritorială, inclusiv soarta zonelor din Donbas aflate sub control ucrainean, rămâne un obstacol.\n\n• **Witkoff și Kushner s-au întâlnit la Dublin și cu Zelenski:** Joi seara, emisarii americani l-au informat pe președintele ucrainean despre discuțiile de la Moscova. Liderii UE au primit informații de la colaboratorii Ursulei von der Leyen și ai lui António Costa, iar vineri urmau să discute despre negocierile de pace.",
     "importance_score": 40.0,
-    "top_rank": 42,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3525,7 +3589,7 @@
     "lead_ro": "Eurodeputatul PNL Virgil Popescu l-a acuzat pe George Simion că nu a apărat românii care muncesc în Germania în disputa privind AfD. Simion a criticat folosirea abuzivă a ajutoarelor sociale, dar a spus că lucrătorii români care respectă legea nu trebuie confundați cu cei care profită de sistem.",
     "content_ro": "• **Popescu l-a acuzat pe Simion că tratează diaspora în funcție de interesul politic.** Eurodeputatul PNL a susținut că liderul AUR se bazează pe voturile românilor din străinătate, dar nu le susține interesele în disputa legată de AfD. În opinia lui Popescu, Simion a preferat să protejeze relația cu formațiunea germană.\n\n• **Disputa a pornit de la afirmațiile lui Alice Weidel despre românii care lucrează în Germania.** Copreședinta AfD a vorbit despre persoane venite din România care ar beneficia de alocații pentru copii, ajutoare de bază și servicii medicale. Popescu a considerat declarațiile jignitoare, în timp ce Simion a spus că nu le-a interpretat astfel și a descris reacția presei române drept exagerată.\n\n• **Simion a menționat și situația din Magdeburg.** El a afirmat că există persoane care merg în Germania anume pentru a obține ajutoare sociale și a precizat că nu susține acest comportament. Totodată, a făcut distincția între astfel de cazuri și românii care muncesc cinstit și își achită taxele.\n\n• **Delegația europarlamentară a PNL a cerut implicarea Comisiei Europene.** Reprezentanții partidului au solicitat o reacție publică, verificarea modului în care sunt aplicate regulile UE în Germania și protejarea drepturilor familiilor, inclusiv plata la timp a beneficiilor. Popescu a invocat în acest context și propunerea Sahrei Wagenknecht de reducere a sprijinului pentru copiii românilor care locuiesc în afara Germaniei.\n\n• **Popescu a indicat că 531.150 de cetățeni români lucrează legal în Germania.** El a enumerat angajați din sănătate, construcții și fabrici, șoferi și persoane care îngrijesc vârstnici. Potrivit eurodeputatului, aceștia contribuie la sistemul german prin plata impozitelor și a contribuțiilor sociale.",
     "importance_score": 40.0,
-    "top_rank": 43,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3573,7 +3637,7 @@
     "lead_ro": "Patru organizații nonprofit au deschis, pe 12 noiembrie, un proces împotriva a cinci companii de inteligență artificială, la Tribunalul Superior din San Francisco, California. Reclamanții solicită suspendarea dezvoltării sistemelor considerate cele mai riscante până când utilizarea lor va putea fi controlată în siguranță.",
     "content_ro": "• **Procesul a fost depus la San Francisco pe 12 noiembrie** și vizează OpenAI, Google, Meta, Anthropic și SpaceXSI, divizia de inteligență artificială a SpaceX. Instanța sesizată este Tribunalul Superior din California.\n\n• **Patru organizații nonprofit au inițiat acțiunea:** Public Citizen, Irreplaceable Education Fund, Heat Initiative și Alliance for Secure AI. Ele cer intervenția instanței înainte ca dezvoltarea unor modele tot mai avansate să producă efecte imposibil de reparat.\n\n• **Reclamanții invocă incidente asociate unor sisteme deja existente.** Potrivit documentelor lor, agenți AI ar fi accesat fără permisiune sisteme informatice private și baze de date guvernamentale ori ar fi realizat acțiuni dăunătoare fără coordonare umană. Instanța nu a confirmat aceste acuzații.\n\n• **Organizațiile avertizează asupra unor pericole suplimentare ale modelelor mai capabile.** În opinia lor, acestea ar putea facilita fabricarea armelor biologice și ar putea permite atacuri cibernetice de amploare. Procesul se referă și la cele mai noi modele ale companiilor care dezvoltă ChatGPT, Gemini și Claude.\n\n• **Robert Weissman, copreședintele Public Citizen, a criticat conducerile companiilor.** El a susținut că avertismentele privind protecția publicului nu primesc suficientă atenție. Invocând normele californiene referitoare la practicile comerciale neloiale, reclamanții cer oprirea dezvoltării sistemelor considerate cele mai periculoase până când acestea vor putea fi supravegheate în condiții de siguranță.",
     "importance_score": 40.0,
-    "top_rank": 44,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3622,7 +3686,7 @@
     "lead_ro": "Bruxelles, München, Dublin, Genova și alte orașe solicită Uniunii Europene să oprească vânzarea țigărilor cu filtru. Susținătorii campaniei și Organizația Mondială a Sănătății afirmă că filtrele nu reduc riscurile fumatului, dar contribuie la poluarea mediului prin conținutul lor de plastic.",
     "content_ro": "• **Mai multe orașe susțin interzicerea la nivel european:** Bruxelles, München, Dublin, Genova și alte localități s-au alăturat campaniei No Plastic Filter, lansate de guvernul olandez. Participanții cer oprirea comercializării țigărilor cu filtru.\n\n• **Efectul normelor actuale este contestat:** Regulile europene obligă și companiile de tutun să finanțeze colectarea mucurilor aruncate. Potrivit susținătorilor campaniei, această măsură nu a redus suficient poluarea, motiv pentru care aceștia solicită o interdicție completă.\n\n• **Mucurile reprezintă o parte importantă a deșeurilor din Bruxelles:** Annas Ben Abdelmoumouen, consilier responsabil de curățenia orașului, a estimat că acestea constituie aproximativ 30% din gunoiul abandonat pe străzile capitalei belgiene. Deșeurile afectează aspectul urban și implică eforturi suplimentare pentru serviciile municipale.\n\n• **Materialul filtrelor se degradează lent:** Cele mai multe sunt fabricate din acetat de celuloză, un plastic obținut din materii prime vegetale. Deși sunt disponibile și variante biodegradabile, utilizarea lor este încă redusă.\n\n• **Revizuirea a două directive europene ar putea aborda subiectul:** Directiva privind produsele din tutun ar putea viza interzicerea filtrelor, iar cea referitoare la materialele plastice de unică folosință s-ar putea concentra asupra plasticului din compoziția acestora. OMS susține eliminarea filtrelor, considerând că ele nu oferă beneficii pentru sănătate și contribuie la poluarea toxică a mediului.",
     "importance_score": 40.0,
-    "top_rank": 45,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3665,7 +3729,7 @@
     "lead_ro": "Impact violent, joi seară, surprins de o cameră de bord, într-o intersecție din Constanța! O dubă a poliției s-a răsturnat, după ce s-a ciocnit cu o mașină.",
     "content_ro": "Impact violent, joi seară, surprins de o cameră de bord, într-o intersecție din Constanța! O dubă a poliției s-a răsturnat, după ce s-a ciocnit cu o mașină.",
     "importance_score": 40.0,
-    "top_rank": 46,
+    "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3713,7 +3777,7 @@
     "lead_ro": "Prognoza pe patru săptămâni a ANM indică temperaturi ușor peste mediile perioadei în cea mai mare parte a României, între 16 noiembrie și 14 decembrie. Abaterile de la cantitățile obișnuite de precipitații sunt posibile mai ales în prima săptămână, în special în vestul țării.",
     "content_ro": "• **În săptămâna 16–23 noiembrie, temperaturile ar putea depăși ușor valorile obișnuite pentru această perioadă.** Diferența ar urma să fie mai evidentă în estul și sud-estul țării. În același interval, vestul, mai ales zonele din extremitatea vestică, ar putea primi precipitații peste medie. Un surplus redus este posibil și în nord-est, în timp ce în celelalte regiuni cantitățile sunt estimate în general în jurul celor normale.\n\n• **Între 23 și 30 noiembrie, temperaturile sunt prognozate să se încadreze în mediile climatologice în toate regiunile.** Și precipitațiile ar putea rămâne aproape de nivelurile obișnuite, cu posibilitatea unui excedent ușor în vest.\n\n• **În perioada 30 noiembrie–7 decembrie, valorile termice ar putea reveni la un nivel ușor superior mediei multianuale.** Estimarea se aplică întregii țări, iar cantitățile de precipitații ar urma să fie apropiate de cele normale în majoritatea zonelor.\n\n• **Pentru săptămâna 7–14 decembrie este prognozată din nou o vreme mai caldă decât media perioadei.** Tendința ar putea fi mai pronunțată în regiunile din interiorul arcului carpatic, în timp ce precipitațiile sunt estimate la niveluri obișnuite la scara țării.\n\n• **Intervalul 23–30 noiembrie este singurul dintre cele patru săptămâni în care temperaturile nu sunt estimate peste medie.** Administrația Națională de Meteorologie a publicat prognoza vineri; abaterea de precipitații menționată cel mai clar vizează surplusul din vest, în prima săptămână.",
     "importance_score": 40.0,
-    "top_rank": 47,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3756,7 +3820,7 @@
     "lead_ro": "Az RMDSZ minden rendelkezésére álló eszközzel fellép egy olyan közigazgatási-területi átszervezés ellen, amely csorbítja a magyar közösségek jogait – jelentette ki Kelemen Hunor.",
     "content_ro": "Az RMDSZ minden rendelkezésére álló eszközzel fellép egy olyan közigazgatási-területi átszervezés ellen, amely csorbítja a magyar közösségek jogait – jelentette ki Kelemen Hunor.",
     "importance_score": 40.0,
-    "top_rank": 48,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3799,7 +3863,7 @@
     "lead_ro": "Selecționerul Ovidiu Mihăilă a făcut publică lista handbalistelor convocate pentru turneul european din decembrie. Nouă dintre cele 18 jucătoare evoluează la Dunărea Brăila, iar partidele din grupa României se vor disputa la Cluj-Napoca.",
     "content_ro": "• **Ovidiu Mihăilă a ales 18 jucătoare pentru lotul României.** Selecționerul anunțase anterior o convocare preliminară de 35 de handbaliste, iar componența finală a fost comunicată pe 13 noiembrie.\n\n• **Dunărea Brăila oferă nouă dintre jucătoarele selecționate.** Gloria Bistrița și Corona Brașov au câte trei reprezentante, CSM București are două, iar Rapid București contribuie cu o handbalistă.\n\n• **Lista cuprinde atât sportive consacrate, cât și jucătoare mai tinere.** Printre numele convocate se află Diana Ciucă, Yuliya Dumanska, Cristina Laslo, Sorina Grozav și Lorena Ostase. Bianca Bazaliu revine la națională, iar Crina Pintea urmează să încheie după turneu activitatea la prima reprezentativă.\n\n• **România va evolua în Grupa B, găzduită de BTarena din Cluj-Napoca.** Adversarele sunt Norvegia, Elveția și Macedonia de Nord, iar meciurile sunt programate pe 4, 6 și 8 decembrie. Sursele oferă informații diferite despre asocierea fiecărei adversare cu data partidei.\n\n• **Campionatul European se desfășoară între 3 și 20 decembrie.** România organizează competiția împreună cu Polonia, Cehia, Slovacia și Turcia. La turneul final participă 24 de echipe, repartizate în șase grupe de câte patru.",
     "importance_score": 38.0,
-    "top_rank": 49,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3842,7 +3906,7 @@
     "lead_ro": "Carmen și José, soți de 78 de ani din Bueu, provincia Pontevedra, au primit amenzi în valoare totală de 1.200 de euro pentru presupuse deplasări în Barcelona, deși afirmă că autoturismul lor nu a ajuns în oraș. Cele șase sancțiuni au fost anulate, însă municipalitatea nu le va rambursa cei 150 de euro solicitați pentru costurile contestațiilor.",
     "content_ro": "• **Cuplul a primit șase sancțiuni de câte 200 de euro** pentru presupusa intrare fără autorizație în zona cu emisii reduse din Barcelona. Carmen și José locuiesc în Bueu, iar ei spun că Audi-ul A4, vechi de peste 20 de ani, este folosit în apropiere și nu părăsește provincia Pontevedra.\n\n• **Primele trei notificări au sosit începând din septembrie 2024**, iar contestarea lor a dus la anulare. Ulterior au venit alte trei sancțiuni pentru aceeași presupusă abatere. Trei dosare indicau Travessera de les Corts, două Avenida de Madrid și unul Avenida Paral·lel.\n\n• **O fotografie anexată unei amenzi ar putea explica identificarea greșită.** Francisco José Domínguez, consultantul care îi reprezintă, a observat un vehicul ce pare să fie un tractor sau o remorcă, cu o parte a plăcuței greu de citit. Secvența vizibilă putea semăna cu numărul Audi-ului, dar nu includea litera „E” specifică plăcuțelor pentru tractoare.\n\n• **Nu s-a stabilit dacă imaginea a fost modificată**, iar Domínguez a exclus furtul de identitate. În Spania, numărul de pe plăcuțele tractoarelor este precedat de „E” și continuă cu patru cifre și trei litere; la autoturisme, litera apare pe banda albastră din stânga a plăcuței europene.\n\n• **Toate cele șase amenzi au fost retrase, fără rambursarea cheltuielilor cerute.** Primăria Barcelonei a refuzat plata celor 150 de euro solicitați pentru contestații și a invocat posibilitatea unei erori izolate de citire. Camerele din zona restricționată fotografiază vehiculele, iar Zona Metropolitană Barcelona verifică dacă acestea au autorizație.",
     "importance_score": 38.0,
-    "top_rank": 50,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3886,7 +3950,7 @@
     "lead_ro": "Roman Gofman, directorul serviciului israelian de informații, a purtat discuții cu oficiali americani despre conflictul cu Iranul. Vizita are loc în timp ce Benjamin Netanyahu susține reluarea războiului, iar Donald Trump nu a acceptat până acum această solicitare.",
     "content_ro": "• **Roman Gofman s-a aflat la Washington**, unde a discutat despre războiul cu Iranul cu oficiali de rang înalt din administrația Trump, potrivit unor surse citate de Axios, familiarizate cu vizita. Șeful Mossadului este considerat un apropiat al premierului israelian Benjamin Netanyahu.\n\n• **Gofman s-a întâlnit cu John Ratcliffe, directorul CIA.** Una dintre sursele citate a afirmat că oficialul israelian urma să ajungă și la Miami, pentru o întrevedere cu Steve Witkoff, emisar al Casei Albe. Mossadul, CIA și Casa Albă nu au făcut comentarii despre deplasare.\n\n• **Netanyahu îi cere lui Donald Trump să susțină reluarea conflictului, însă președintele american a respins până acum presiunile.** Cei doi au discutat telefonic despre război pe 5 noiembrie. Între timp, Trump coordonează cu Arabia Saudită, Qatar și Emiratele Arabe Unite menținerea blocadei navale și a presiunii economice asupra Iranului, analizând totodată posibilitatea unui acord.\n\n• **Schimbările din politica israeliană sporesc incertitudinea privind deciziile legate de conflict.** Tabăra lui Netanyahu a pierdut majoritatea parlamentară în urma alegerilor din 27 octombrie, iar adversarul său, Gadi Eisenkot, a primit mandatul de a forma un guvern. Nu este sigur că va reuși. Lideri ai opoziției israeliene se tem că Netanyahu ar putea ordona un atac asupra Iranului.",
     "importance_score": 35.0,
-    "top_rank": 51,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3930,7 +3994,7 @@
     "lead_ro": "Compania URBIO, fondată la Iași, a fost premiată la categoria Energy & Environment a World Smart City Awards 2026. Proiectul de iluminat public din județul Botoșani a redus, potrivit datelor prezentate, consumul de energie și cheltuielile administrațiilor locale.",
     "content_ro": "• **Câștigătorul categoriei a fost anunțat pe 4 noiembrie, la Barcelona.** URBIO a devenit prima companie din România premiată la World Smart City Awards, într-o ceremonie organizată în cadrul Smart City Expo World Congress.\n\n• **Proiectul recompensat a modernizat iluminatul public din județul Botoșani.** Datele prezentate organizatorilor indică o scădere de 64% a consumului de energie pentru iluminat și economii anuale de peste 570.000 de euro pentru bugetele locale. Estimarea include și evitarea a 1.943 de tone de emisii de dioxid de carbon pe an.\n\n• **Inițiativa a fost prezentată sub numele „Smart Light for the Ones Left Behind”.** În finală, URBIO a devansat compania sud-coreeană Korea Land & Housing Corporation, producătorul spaniol Salvi Lighting și start-up-ul olandez The Great Bubble Barrier. Competiția a reunit 533 de proiecte din 68 de țări.\n\n• **Printre ceilalți câștigători ai ediției din 2026 s-au aflat și orașe importante.** Sursa menționează Tokyo, Madrid și Riyadh între localitățile premiate.\n\n• **URBIO a fost înființată la Iași în 2013 și a dezvoltat în România întregul lanț de producție.** Grupul are peste 250 de angajați, inclusiv 45 de ingineri în cercetare-dezvoltare, și operează două fabrici în țară. Compania produce corpuri de iluminat și sisteme de telegestiune.",
     "importance_score": 35.0,
-    "top_rank": 52,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3973,7 +4037,7 @@
     "lead_ro": "Un accident produs pe 12 noiembrie în Satu Mare s-a soldat cu avarii la două autoturisme și la o clădire, iar șoferul a plecat inițial de la fața locului. Analizele de sânge au indicat valori de peste 3 g/l alcool, iar bărbatul a fost reținut pentru 24 de ore.",
     "content_ro": "• **Accidentul a avut loc în Satu Mare, pe 12 noiembrie, în jurul orei 10:30.** Poliția a fost alertată printr-un apel la 112 cu privire la pagubele produse pe strada Prahova. Potrivit verificărilor inițiale, un localnic de 68 de ani a pierdut controlul mașinii și a lovit un autoturism parcat regulamentar.\n\n• **Pe strada Dariu Pop, automobilul a intrat și în peretele unei clădiri.** După coliziuni, conducătorul auto a părăsit zona, însă polițiștii l-au găsit la scurt timp pe strada Prunilor. Nicio persoană nu a fost rănită, iar incidentul a provocat doar pagube materiale.\n\n• **Testarea cu etilotestul nu a putut fi făcută la fața locului din motive medicale.** Bărbatul a fost transportat la spital pentru recoltarea probelor biologice. Rezultatele au arătat concentrații de 3,18 g/l și, respectiv, 3,04 g/l alcool pur în sânge.\n\n• **Polițiștii au dispus reținerea pentru 24 de ore și l-au dus pe bărbat în centrul de arest al inspectoratului județean.** Cercetările continuă în legătură cu suspiciunea de conducere a unui vehicul sub influența alcoolului. Pe durata procedurilor, bărbatul beneficiază de prezumția de nevinovăție.",
     "importance_score": 35.0,
-    "top_rank": 53,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4016,7 +4080,7 @@
     "lead_ro": "The Times și Sunday Times au publicat relatările a șase femei despre presupuse comportamente sexuale inadecvate ale lui Russell Brand. Separat, un fost deținut și surse din penitenciar au descris pentru BBC dificultățile cu care actorul s-ar putea confrunta la Wandsworth, în sudul Londrei.",
     "content_ro": "• **Șase femei au formulat noi acuzații la adresa lui Brand:** The Times și ediția sa de duminică au prezentat relatări despre comportamentul anterior al actorului și comedianului britanic. Informațiile au apărut la câteva zile după condamnarea sa la zece ani și jumătate de închisoare pentru viol și agresiune sexuală.\n\n• **Relatările descriu situații din ani și locuri diferite:** o femeie a susținut că Brand a avut relații sexuale cu ea fără consimțământul său, apoi și-a cerut scuze în persoană și prin mesaj. O altă femeie, în vârstă de 19 ani când l-a cunoscut în 2007, a afirmat că el nu s-a oprit când i-a cerut acest lucru.\n\n• **Alte femei au relatat incidente distincte:** o admiratoare a spus că a fost atinsă fără permisiune după un spectacol susținut la The Chapel din San Francisco, în 2013. O altă femeie a afirmat că Brand i-a oferit bani pentru sex la un festival de muzică din 2005. O câștigătoare a unui concurs muzical, invitată în emisiunea lui în 2006, a susținut că acesta i-a cerut să lingă capacul toaletei din locuința sa.\n\n• **Primele săptămâni la Wandsworth ar putea fi dificile:** Chris Atkins, care a executat acolo opt luni pentru fraudă fiscală, a declarat pentru BBC că începutul detenției implică o adaptare psihică și fizică majoră. Penitenciarul se află în sudul Londrei.\n\n• **Brand ar fi fost mutat într-o secție obișnuită:** o persoană apropiată actorului a afirmat că acesta nu mai este ținut separat și că se descurcă bine în împrejurări. Un angajat al penitenciarului a relatat pentru BBC că deținuții au strigat numele lui și au lovit ușile celulelor la sosirea sa. Un director de penitenciar a avertizat că persoanele condamnate pentru infracțiuni sexuale pot deveni ținte ale unor represalii informale, mai ales când procesul lor atrage multă atenție mediatică.",
     "importance_score": 33.0,
-    "top_rank": 54,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4060,7 +4124,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, a lansat în consultare publică strategia de digitalizare pentru perioada 2027–2031. Documentul propune conectarea datelor medicale, extinderea serviciilor la distanță și dezvoltarea competențelor digitale.",
     "content_ro": "• **Strategia pentru anii 2027–2031 a fost pusă în consultare publică**, cu obiective, responsabilități, termene și indicatori de evaluare. Alexandru Rogobete a prezentat planul vineri și a solicitat contribuții pentru îmbunătățirea documentului înaintea aplicării etapizate.\n\n• **Dosarul Electronic de Sănătate ar urma să devină o cale națională de acces la date medicale prioritare.** Propunerea urmărește ca informațiile relevante pentru tratament să poată fi consultate în siguranță, inclusiv când pacientul ajunge la o altă unitate medicală.\n\n• **Sistemele informatice din domeniul sănătății ar urma să fie interoperabile**, iar raportările repetate să fie reduse. Accesul mai rapid al medicilor la date este una dintre măsurile prevăzute pentru continuitatea îngrijirii și diminuarea timpului alocat activităților administrative.\n\n• **Planul include dezvoltarea telemedicinei și a monitorizării de la distanță**, integrate în parcursul pacientului. Aceste servicii sunt vizate și pentru comunitățile în care accesul la consultații și alte forme de îngrijire este limitat.\n\n• **Strategia prevede instruirea personalului medical și consolidarea abilităților digitale ale populației.** Implementarea este programată în etape între 2027 și 2031, de la stabilirea coordonării până la extinderea serviciilor. Rogobete a invitat medici, organizații de pacienți și specialiști în tehnologie să transmită propuneri.",
     "importance_score": 33.0,
-    "top_rank": 55,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4103,7 +4167,7 @@
     "lead_ro": "Vineri după-amiază, o mașină s-a ciocnit frontal cu un autobuz pe DN 1, în apropiere de Predeal. Șoferița, în vârstă de 60 de ani, a decedat, iar polițiștii cercetează împrejurările producerii accidentului.",
     "content_ro": "• **Accidentul s-a produs vineri, în jurul orei 15:20, pe DN 1, în zona Predeal.** Autoturismul se îndrepta spre Brașov când a ajuns pe banda destinată traficului din sens opus și s-a izbit frontal de un autobuz care circula din direcția contrară.\n\n• **Conducătoarea mașinii, o femeie de 60 de ani, a murit în urma impactului.** Victima era din județul Covasna și se afla singură în autoturism. Datele inițiale indică faptul că vehiculul a părăsit banda sa, însă motivul acestei deplasări urmează să fie stabilit.\n\n• **Momentul coliziunii a fost surprins de o înregistrare video.** Imaginile prezintă autoturismul trecând pe partea opusă a drumului și intrând în autobuz. Înregistrarea poate contribui la reconstituirea succesiunii evenimentelor de către anchetatori.\n\n• **Polițiștii rutieri din Brașov continuă cercetările într-un dosar penal.** Ancheta vizează infracțiunea de ucidere din culpă și se desfășoară sub coordonarea procurorului de caz. Autoritățile trebuie să clarifice toate circumstanțele care au precedat impactul; măsurile legale vor fi stabilite după finalizarea investigației.",
     "importance_score": 33.0,
-    "top_rank": 56,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4146,7 +4210,7 @@
     "lead_ro": "Președintele României, Nicușor Dan, va merge în Cambodgia în 15–16 noiembrie, pentru cea de-a 20-a reuniune la nivel înalt a Francofoniei. România urmărește să obțină sprijin pentru candidatura lui Dacian Cioloș la funcția de secretar general, pentru mandatul 2027–2030.",
     "content_ro": "• **Nicușor Dan va participa la Phnom Penh, în 15 și 16 noiembrie, la al XX-lea Sommet al Francofoniei.** Reuniunea din Cambodgia îi va aduce împreună pe șefi de stat și de guvern din Organizația Internațională a Francofoniei, OIF.\n\n• **La summit sunt așteptați reprezentanții celor 53 de state membre cu drepturi depline.** Tema întâlnirii pune accentul pe sprijinirea păcii, pe prosperitate comună și pe stabilitate durabilă.\n\n• **Pentru România, un obiectiv principal este construirea unui acord în favoarea lui Dacian Cioloș.** Fostul premier al României și fost comisar european candidează pentru postul de secretar general al Francofoniei în perioada 2027–2030.\n\n• **Liderii celor 53 de state membre cu drepturi depline vor desemna noul secretar general.** Votul este programat în sesiunea de luni, 16 noiembrie.\n\n• **Administrația Prezidențială leagă candidatura de consolidarea rolului internațional al României.** Potrivit instituției, alegerea lui Cioloș ar putea spori influența țării în spațiul francofon și ar putea întări legăturile cu statele membre.",
     "importance_score": 30.0,
-    "top_rank": 57,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4189,7 +4253,7 @@
     "lead_ro": "Avertizarea hidrologică emisă pentru intervalul 13 noiembrie, ora 12:00 – 14 noiembrie, ora 12:00, vizează și bazinul râului Tur din județul Satu Mare. Pe unele sectoare din bazinele Someș și Lăpuș a fost instituit temporar un nivel de alertă superior, pe fondul precipitațiilor prognozate.",
     "content_ro": "• **Bazinul râului Tur din Satu Mare se află sub cod galben:** avertizarea a început pe 13 noiembrie, la ora 12:00, și este valabilă până a doua zi la prânz. Sunt vizate bazinul superior și afluenții sectoarelor mijlociu și inferior.\n\n• **Pe două râuri a fost instituit temporar cod portocaliu:** de vineri, la ora 12:00, până sâmbătă, la ora 06:00, riscul sporit privește partea superioară a bazinului Someș–Bistrița, segmentul Someșul Mare situat în amonte de stația hidrometrică Nepos și o parte dintre afluenții săi, precum și bazinul superior al Lăpușului și afluenții din sectoarele mijlociu și inferior. Sunt vizate județele Bistrița-Năsăud și Maramureș.\n\n• **Codul galben se extinde la numeroase alte cursuri de apă:** avertizările includ porțiuni din Tisa, Vișeu, Iza, Lăpuș, Someș, Crișul Repede, Crișul Negru, Crișul Alb, Mureș, Arieș, Bega, Timiș și Bistrița. Alertele hidrologilor privesc râuri din 13 județe.\n\n• **Debitele pot crește rapid din cauza ploilor și a viiturilor existente:** precipitațiile noi se suprapun peste undele de viitură formate anterior. Pe pâraie și râuri mici pot apărea creșteri bruște ale nivelului apei, iar scurgerile de pe versanți și din văi pot conduce, local, la depășirea cotelor de apărare.\n\n• **Prognoza meteo anunță cantități importante de precipitații:** în unele zone sunt estimate 15–25 de litri pe metru pătrat, iar la munte și în Muntenia, 30–35. În zonele montane, apoi în estul și sud-estul Transilvaniei, sunt posibile lapoviță și ninsoare, cu un strat de zăpadă de aproximativ 5–10 centimetri; localnicii din apropierea apelor sunt îndemnați să urmărească mesajele autorităților.",
     "importance_score": 30.0,
-    "top_rank": 58,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4233,7 +4297,7 @@
     "lead_ro": "Cancelarul german Friedrich Merz i-a cerut lui Donald Trump, la Dublin, să țină cont de poziția Europei și a Ucrainei înaintea întâlnirii planificate cu Vladimir Putin. Discuția ar urma să aibă loc săptămâna viitoare, la Shenzhen, în timpul reuniunii APEC din China.",
     "content_ro": "• **Merz și-a transmis mesajul la Dublin, pe 13 noiembrie.** În timpul summitului Comunității Politice Europene, cancelarul german i-a cerut președintelui american ca discuția cu Putin să nu îi ia prin surprindere pe partenerii europeni. El a susținut continuarea cooperării dintre Washington, Europa și Kiev în privința păcii în Ucraina.\n\n• **Întâlnirea americano-rusă este legată de reuniunea APEC din China.** Potrivit planurilor prezentate, Trump și Putin ar urma să se întâlnească săptămâna viitoare la Shenzhen, în marja summitului economic Asia-Pacific. În program este prevăzută și o întrevedere în trei, la care ar participa președintele chinez Xi Jinping.\n\n• **Cancelarul a descris temerile unor lideri europeni.** La Dublin, Merz a amintit că există îngrijorarea că noua discuție ar putea semăna cu întâlnirea Trump–Putin organizată anul trecut în Alaska. El a subliniat că Europa și Ucraina trebuie să fie luate în considerare în deciziile care privesc conflictul.\n\n• **Merz vrea ca sprijinul pentru Ucraina să continue și prin bugetul UE.** El susține includerea ajutorului pentru Kiev în următorul cadru financiar multianual al Uniunii. Potrivit cancelarului, consultările desfășurate la Abu Dhabi ar putea deschide calea către negocieri de pace consistente în săptămânile următoare.\n\n• **Securitatea Ucrainei după război rămâne o temă distinctă.** Merz a respins ideea ca arhitectura de securitate europeană să devină subiectul central al dialogului cu Moscova și a indicat NATO drept cadrul existent. Volodimir Zelenski le-a cerut liderilor europeni să urmărească atent discuțiile dintre SUA și Rusia, avertizând că urmările lor ar putea viza securitatea întregului continent.",
     "importance_score": 30.0,
-    "top_rank": 59,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4276,7 +4340,7 @@
     "lead_ro": "Autoritatea irlandeză pentru protecția datelor a sancționat cu 11 milioane de euro Match Group, compania care deține Tinder. Investigația a constatat că instrumentul aplicației pentru descărcarea datelor nu oferea utilizatorilor acces complet la informațiile personale.",
     "content_ro": "• **Match Group a primit o amendă de 11 milioane de euro.** Comisia irlandeză pentru protecția datelor a făcut publică decizia vineri, după ce a analizat modul în care compania răspundea solicitărilor utilizatorilor Tinder.\n\n• **Investigația a început în ianuarie 2020.** Autoritatea a verificat dacă funcția „Download My Data” respecta Regulamentul general al Uniunii Europene privind protecția datelor, cunoscut drept GDPR.\n\n• **Fișierele descărcate nu cuprindeau întotdeauna toate datele personale deținute de companie.** Unele categorii de informații nu erau incluse, iar pentru anumite date utilizatorii primeau doar o prezentare sumară.\n\n• **Autoritatea irlandeză a considerat că practica încalcă dreptul de acces prevăzut de GDPR.** Regulamentul le permite persoanelor să afle ce date personale păstrează o companie despre ele.\n\n• **Pe lângă amendă, Match Group a primit un avertisment oficial.** Compania are la dispoziție trei luni pentru a-și aduce practicile de prelucrare a datelor în conformitate cu normele europene. Reprezentanții săi au anunțat că vor contesta decizia autorității.",
     "importance_score": 30.0,
-    "top_rank": 60,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4319,7 +4383,7 @@
     "lead_ro": "Manchester United a anunțat pe 13 noiembrie că Mauricio Pochettino va deveni noul antrenor principal, după ce cu o zi înainte confirmase plecarea lui Michael Carrick. Contractul argentinianului se întinde pe doi ani și jumătate, iar primul său meci ar putea fi împotriva lui Liverpool.",
     "content_ro": "• **Mauricio Pochettino a fost numit antrenor principal al lui Manchester United:** clubul a făcut anunțul pe 13 noiembrie, la o zi după ce a confirmat despărțirea de Michael Carrick. Înțelegerea este valabilă până în vara lui 2029, pentru o perioadă de doi ani și jumătate.\n\n• **Pochettino va începe activitatea la United pe 18 noiembrie**, după încheierea angajamentelor cu naționala Statelor Unite. Echipa americană mai are de disputat două partide cu Haiti în sferturile Ligii Națiunilor Concacaf; clubul englez a convenit cu federația americană eliberarea antrenorului și a staffului său.\n\n• **Primul meci al argentinianului pe banca lui United este programat pentru 22 noiembrie**, împotriva formației Liverpool. În Anglia, Pochettino a mai pregătit Southampton, între 2013 și 2014, Tottenham, din 2014 până în 2019, și Chelsea, în sezonul 2023/24.\n\n• **Manchester United a plătit aproximativ 10 milioane de dolari pentru a-l aduce**, sumă aferentă clauzei de reziliere din contractul cu federația americană. În cei doi ani precedenți numirii, Pochettino a condus naționala Statelor Unite.\n\n• **Trofeele câștigate de Pochettino ca antrenor au venit la Paris Saint-Germain:** în perioada petrecută acolo a obținut un titlu de campion, o cupă și o supercupă. Numirea sa la Manchester United îl readuce în fotbalul englez după experiențele de la Southampton, Tottenham și Chelsea.",
     "importance_score": 30.0,
-    "top_rank": 61,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4362,7 +4426,7 @@
     "lead_ro": "Ediția din acest an a campaniei BAT România pune accentul pe verificarea vârstei la cumpărarea produselor care conțin nicotină. Compania afirmă că protejarea minorilor presupune respectarea regulilor de către toți actorii implicați în comercializare, iar inițiativa continuă colaborarea cu ANPC.",
     "content_ro": "• **Inițiativa din acest an a BAT România urmărește să limiteze accesul minorilor la produse cu nicotină.** Un element central al campaniei anuale este solicitarea unui document de identitate pentru verificarea vârstei cumpărătorului. Compania prezintă această practică drept un mod concret de aplicare a prevederilor legale privind vânzarea acestor produse.\n\n• **Campania continuă colaborarea cu Autoritatea Națională pentru Protecția Consumatorilor.** Potrivit BAT, demersul depășește etapa informării și urmărește ca responsabilitatea fiecărui participant la circuitul comercial să fie respectată în mod constant. Mesajul companiei este că prevenirea accesului minorilor depinde de conduita tuturor celor implicați în vânzare.\n\n• **Verificarea vârstei este prezentată ca o măsură de protecție la momentul achiziției.** În viziunea companiei, cererea actului de identitate poate contribui la împiedicarea cumpărării produselor cu nicotină de către minori. Campania se adresează atât comercianților care intră în contact cu clienții, cât și partenerilor implicați în activitatea comercială.\n\n• **BAT afirmă că aplică standarde de responsabilitate indiferent de canalul de comunicare sau de vânzare.** Compania spune că are politici interne și programe dedicate practicilor comerciale responsabile și că extinde cerințe similare către partenerii săi. Respectarea regulilor și a legislației este descrisă de BAT ca parte a integrității activității sale.\n\n• **Demersul are loc pe fondul schimbărilor din industria produselor din tutun și nicotină.** BAT enumeră printre categoriile fără ardere produsele pentru vapat, dispozitivele care încălzesc consumabile din tutun sau plante și produsele moderne cu nicotină destinate utilizării orale. Compania le descrie ca produse destinate adulților, în timp ce campania se concentrează pe prevenirea accesului minorilor la întreaga categorie.",
     "importance_score": 30.0,
-    "top_rank": 62,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4406,7 +4470,7 @@
     "lead_ro": "Radu Miruță a declarat vineri, la Târgu Jiu, că nu a primit citații într-un dosar penal asociat programului SAFE sau companiei Rheinmetall. Deputatul USR a comentat și cerințele privind producția în România, precum și fondurile europene încă disponibile.",
     "content_ro": "• **Radu Miruță a afirmat că nu a fost citat într-un dosar penal asociat SAFE sau Rheinmetall** și că nu este îngrijorat în această privință. Declarația a fost făcută vineri, la o conferință de presă organizată la Târgu Jiu; Miruță este deputat și prim-vicepreședinte al USR.\n\n• **În opinia sa, contractele SAFE prevăd condiții mai stricte pentru desfășurarea producției în România.** El a susținut că abordarea actuală pune accent pe fabricarea locală a produselor pentru apărare, nu doar pe demonstrarea faptului că anumite sume au fost cheltuite pe teritoriul țării.\n\n• **Miruță a criticat modul în care ar fi fost aplicate anterior obligațiile de localizare.** Ca exemplu, a spus că valoarea unui camion cu roșii sau paste importate putea fi contabilizată pentru îndeplinirea unor angajamente din domeniul armamentului, deși asemenea importuri nu presupun construirea unei fabrici ori producție locală.\n\n• **Potrivit deputatului, la nivel european mai sunt disponibile 21 de miliarde de euro prin programul SAFE.** El a îndemnat PSD să demonstreze că poate atrage în continuare finanțări din această sumă.\n\n• **Afirmațiile au fost făcute în contextul dezbaterii politice despre condițiile industriale ale programului SAFE în România.** Miruță a prezentat practica anterioară atribuită PSD drept diferită de realizarea efectivă a producției interne; aceasta a fost evaluarea sa exprimată la conferința de presă.",
     "importance_score": 30.0,
-    "top_rank": 63,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4450,7 +4514,7 @@
     "lead_ro": "Gérard Depardieu a anunțat că intenționează să retragă apelul, acceptând astfel pedeapsa de 18 luni cu suspendare pronunțată de o instanță din Paris în mai 2025. Cererea de renunțare urmează să fie analizată la începutul ședinței de luni.",
     "content_ro": "• **Depardieu a anunțat că vrea să renunțe la apel:** actorul și-a exprimat această intenție joi, după ce contestase inițial hotărârea primei instanțe. BFMTV a relatat informația citând o sursă apropiată dosarului, iar France Inter o comunicase, de asemenea.\n\n• **Instanța de la Paris i-a aplicat o pedeapsă de 18 luni cu suspendare:** hotărârea a fost pronunțată în mai 2025. Dosarul privește agresiuni sexuale asupra a două femei, fapte care ar fi avut loc în timpul filmărilor pentru pelicula „Les Volets Verts”.\n\n• **Procesul în apel urma să înceapă luni:** cauza ar fi fost examinată de instanța de apel, însă actorul a transmis că nu dorește să continue contestarea condamnării. Renunțarea la apel ar încheia această etapă a procedurii.\n\n• **Cererea va fi analizată la deschiderea ședinței de luni:** potrivit unei surse citate de BFMTV, Depardieu nu va participa la audiere. Instanța urmează să examineze atunci solicitarea prin care acesta cere să se retragă din procesul de apel.\n\n• **Condamnarea poate deveni definitivă dacă retragerea este acceptată:** închiderea procedurii de apel ar putea face ca pedeapsa de 18 luni cu suspendare să rămână în vigoare în mod definitiv. Statutul juridic al hotărârii depinde de examinarea cererii de către instanță.",
     "importance_score": 30.0,
-    "top_rank": 64,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4489,7 +4553,7 @@
     "lead_ro": "George Simion anunță că va ieși sâmbătă în stradă, la București, pentru a participa la manifestația de susținere a lui Călin Georgescu, și acuză autoritățile că refuză dialogul privind organizarea pro...",
     "content_ro": "George Simion anunță că va ieși sâmbătă în stradă, la București, pentru a participa la manifestația de susținere a lui Călin Georgescu, și acuză autoritățile că refuză dialogul privind organizarea protestului.",
     "importance_score": 30.0,
-    "top_rank": 65,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4532,7 +4596,7 @@
     "lead_ro": "FBI a identificat drept FaceStealer o campanie atribuită unor hackeri nord-coreeni, în care peste 900 de persoane au fost înșelate în 18 luni. Valoarea criptomonedelor sustrase a depășit 400 de milioane de dolari, iar o altă anchetă privind un atac asupra Binance a indicat posibile legături cu hackeri nord-coreeni.",
     "content_ro": "• **Peste 900 de persoane au fost vizate:** Potrivit FBI, în cadrul operațiunii FaceStealer au fost furate criptomonede în valoare de peste 400 de milioane de dolari, în decurs de un an și jumătate. Printre ținte s-au aflat în special angajați din sectorul cripto și din domeniul Web3.\n\n• **Contactul inițial pornea de pe rețelele sociale:** Atacatorii foloseau profiluri inventate sau compromise pentru a invita victimele la întâlniri online. Site-urile accesate imitau servicii cunoscute de videoconferință, iar în timpul apelurilor erau prezentate înregistrări cu persoane familiare victimelor, pentru a crea impresia unei discuții reale.\n\n• **Un presupus defect audio conducea la instalarea malware-ului:** Participanților li se cerea să acceseze un link afișat pe ecran pentru a remedia problema. Programul descărcat putea oferi atacatorilor acces la lista de contacte și la aplicațiile de pe dispozitiv.\n\n• **FBI și Departamentul Justiției au descris mecanismul fraudei:** Autoritățile americane spun că atacul combina identificarea țintelor cu instalarea de software malițios. Brett Leatherman, șeful diviziei de securitate cibernetică a FBI, a avertizat că banii obținuți din furturi cripto pot sprijini înarmarea Coreei de Nord; regimul ar fi acumulat miliarde de dolari prin astfel de atacuri în ultimii ani.\n\n• **Un incident separat de la Binance a fost asociat cu hackeri nord-coreeni:** Platforma a anunțat un atac informatic în care, potrivit informațiilor prezentate, ar fi dispărut active de 6,3 miliarde de dolari. Ancheta americană a indicat persoane cu legături nord-coreene, însă Phenianul a respins acuzațiile.",
     "importance_score": 30.0,
-    "top_rank": 66,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4570,7 +4634,7 @@
     "lead_ro": "Alertă în județul Dolj. Doi tineri nepalezi care veniseră să muncească în România sunt căutați de poliție după ce au dispărut fără urmă. Cei doi au plecat de la locul de cazare în urmă cu mai bine de …",
     "content_ro": "Alertă în județul Dolj. Doi tineri nepalezi care veniseră să muncească în România sunt căutați de poliție după ce au dispărut fără urmă. Cei doi au plecat de la locul de cazare în urmă cu mai bine de două săptămâni și nu s-au mai întors. Polițiștii au declanșat căutările și fac apel la populație pentru a ajuta la găsirea lor.",
     "importance_score": 30.0,
-    "top_rank": 67,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4608,45 +4672,6 @@
     "title_ro": "Vreme mai caldă decât în mod obișnuit. Prognoza ANM până la jumătatea lunii decembrie",
     "lead_ro": "Vremea va fi mai caldă decât în mod obișnuit pentru această perioadă în următoarele patru săptămâni, potrivit estimărilor meteorologice publicate vineri de Administrația Națională de Meteorologie (ANM...",
     "content_ro": "Vremea va fi mai caldă decât în mod obișnuit pentru această perioadă în următoarele patru săptămâni, potrivit estimărilor meteorologice publicate vineri de Administrația Națională de Meteorologie (ANM).",
-    "importance_score": 30.0,
-    "top_rank": 68,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_213c4f1317",
-    "slug": "trei-romani-morti-in-urma-unui-atac-armat-in-sua-cei-trei-au-toti-71-de-ani-fost-213c4f",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://www.g4media.ro/wp-content/uploads/2026/11/crima-sua-romani.jpg",
-    "is_synthesized": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Trei români morți în urma unui atac armat în SUA / Cei trei au toți 71 de ani / Fostul ginere și-a ucis socrii, iar apoi s-a sinucis",
-        "link": "https://www.g4media.ro/trei-romani-morti-in-urma-unui-atac-armat-in-sua-cei-trei-au-toti-71-de-ani-fostul-ginere-si-a-ucis-socrii-iar-apoi-s-a-sinucis.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Dublă crimă comisă de un român în SUA. Bărbatul și-a ucis foștii socri, apoi s-a sinucis",
-        "link": "https://www.digi24.ro/stiri/dubla-crima-comisa-de-un-roman-in-sua-barbatul-si-a-ucis-fostii-socri-apoi-s-a-sinucis-4034575"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Cine au fost soții din Oradea uciși în SUA de fostul ginere. Erau implicați în comunitatea românească din Cleveland și aveau trei copii",
-        "link": "https://adevarul.ro/stiri-externe/sua/cine-au-fost-sotii-din-oradea-ucisi-in-sua-de-2571171.html"
-      }
-    ],
-    "published_at": 1794547013,
-    "title_hu": "Trei români morți în urma unui atac armat în SUA / Cei trei au toți 71 de ani / Fostul ginere și-a ucis socrii, iar apoi s-a sinucis",
-    "lead_hu": "Trei adulți, toți de 71 de ani, de origine română, au fost găsiți morți într-o locuință din suburbiile orașului Cleveland, statul Ohio, SUA, după ce poliția a fost chemată să investigheze o sesizare p...",
-    "content_hu": "Trei adulți, toți de 71 de ani, de origine română, au fost găsiți morți într-o locuință din suburbiile orașului Cleveland, statul Ohio, SUA, după ce poliția a fost chemată să investigheze o sesizare privind un „oaspete nedorit” la acea adresă, au declarat autoritățile, relatează presa americană. Cadavrele au fost descoperite marți seara, după ce vecinii […] © G4Media.ro.",
-    "title_ro": "Trei români morți în urma unui atac armat în SUA / Cei trei au toți 71 de ani / Fostul ginere și-a ucis socrii, iar apoi s-a sinucis",
-    "lead_ro": "Trei adulți, toți de 71 de ani, de origine română, au fost găsiți morți într-o locuință din suburbiile orașului Cleveland, statul Ohio, SUA, după ce poliția a fost chemată să investigheze o sesizare p...",
-    "content_ro": "Trei adulți, toți de 71 de ani, de origine română, au fost găsiți morți într-o locuință din suburbiile orașului Cleveland, statul Ohio, SUA, după ce poliția a fost chemată să investigheze o sesizare privind un „oaspete nedorit” la acea adresă, au declarat autoritățile, relatează presa americană. Cadavrele au fost descoperite marți seara, după ce vecinii […] © G4Media.ro.",
     "importance_score": 30.0,
     "top_rank": 69,
     "is_top_hero": false,
@@ -5547,7 +5572,7 @@
     "title_ro": "Rusia lucrează la un proiect de lege care va stabili o ierarhie a „valorilor tradiționale”: „Sunt recunoscute ca fiind esențiale”",
     "lead_ro": "Kremlinul elaborează un proiect de lege care va stabili o ierarhie a „valorilor tradiționale”, a declarat Alexander Kharichev, șeful departamentului de monitorizare și analiză a proceselor sociale din…",
     "content_ro": "Kremlinul elaborează un proiect de lege care va stabili o ierarhie a „valorilor tradiționale”, a declarat Alexander Kharichev, șeful departamentului de monitorizare și analiză a proceselor sociale din cadrul Administrației Prezidențiale a Rusiei, conform Meduza.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 93,
     "is_top_hero": false,
     "is_top_list": true
@@ -7301,6 +7326,35 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_c13f61bc1a",
+    "slug": "horoscop-saptamana-16-22-noiembrie-2026-zodia-care-are-parte-de-schimbari-import-c13f61",
+    "tags": [
+      "gazdasag"
+    ],
+    "category": "Gazdaság",
+    "image": "https://stirileprotv.ro/img/2026/04/21/075901/shutterstock-2592693117-1.jpg?fm=jpg&q=80&fit=crop&crop=6000%2C4000%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Horoscop săptămâna 16-22 noiembrie 2026. Zodia care are parte de schimbări importante în carieră și bani",
+        "link": "https://stirileprotv.ro/divers/horoscop-saptamana-16-22-noiembrie-2026-zodia-care-are-parte-de-schimbari-importante-in-cariera-si-bani.html"
+      }
+    ],
+    "published_at": 1794633091,
+    "title_hu": "Horoscop săptămâna 16-22 noiembrie 2026. Zodia care are parte de schimbări importante în carieră și bani",
+    "lead_hu": "Horoscop săptămânal 16-22 noiembrie 2026 aduce o perioadă marcată de schimbări de ritm, decizii importante și noi oportunități pentru toate zodiile....",
+    "content_hu": "Horoscop săptămânal 16-22 noiembrie 2026 aduce o perioadă marcată de schimbări de ritm, decizii importante și noi oportunități pentru toate zodiile.",
+    "title_ro": "Horoscop săptămâna 16-22 noiembrie 2026. Zodia care are parte de schimbări importante în carieră și bani",
+    "lead_ro": "Horoscop săptămânal 16-22 noiembrie 2026 aduce o perioadă marcată de schimbări de ritm, decizii importante și noi oportunități pentru toate zodiile....",
+    "content_ro": "Horoscop săptămânal 16-22 noiembrie 2026 aduce o perioadă marcată de schimbări de ritm, decizii importante și noi oportunități pentru toate zodiile.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_35e8f56171",
     "slug": "alerta-in-stramtoarea-ormuz-doua-petroliere-au-explodat-si-au-luat-foc-dupa-ce-a-35e8f5",
     "tags": [
@@ -7324,6 +7378,35 @@
     "title_ro": "Alertă în Strâmtoarea Ormuz. Două petroliere au explodat și au luat foc după ce au lovit o mină navală, anunță Iranul",
     "lead_ro": "Gardienii Revoluţiei, armata ideologică a Republicii Islamice Iran, au afirmat, sâmbătă, că două petroliere au luat foc după ce au lovit mine în strâmtoarea Ormuz, în plin conflict între Teheran şi Wa...",
     "content_ro": "Gardienii Revoluţiei, armata ideologică a Republicii Islamice Iran, au afirmat, sâmbătă, că două petroliere au luat foc după ce au lovit mine în strâmtoarea Ormuz, în plin conflict între Teheran şi Washington.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_9b6d320d4d",
+    "slug": "am-fost-confundat-cu-un-nepalez-doar-10-ore-pe-zi-nu-12-ce-oferta-controversata--9b6d32",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://cdn.adh.reperio.news/image-b/bbf36611-00d2-478f-a51c-c455270f355c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "„Am fost confundat cu un nepalez. Doar 10 ore pe zi, nu 12”. Ce ofertă controversată de muncă a primit un bucătar în România",
+        "link": "https://adevarul.ro/stiri-interne/societate/am-fost-confundat-cu-un-nepalez-doar-10-ore-pe-2571231.html"
+      }
+    ],
+    "published_at": 1794632725,
+    "title_hu": "„Am fost confundat cu un nepalez. Doar 10 ore pe zi, nu 12”. Ce ofertă controversată de muncă a primit un bucătar în România",
+    "lead_hu": "Un român a stârnit controverse după ce a publicat o ofertă de angajare pe un post de bucătar la un restaurant de pe Clisura Dunării. Patronul i-ar fi oferit un salariu de 5.000 de lei, masă și cazare,...",
+    "content_hu": "Un român a stârnit controverse după ce a publicat o ofertă de angajare pe un post de bucătar la un restaurant de pe Clisura Dunării. Patronul i-ar fi oferit un salariu de 5.000 de lei, masă și cazare, pentru un program neobișnuit de lucru.",
+    "title_ro": "„Am fost confundat cu un nepalez. Doar 10 ore pe zi, nu 12”. Ce ofertă controversată de muncă a primit un bucătar în România",
+    "lead_ro": "Un român a stârnit controverse după ce a publicat o ofertă de angajare pe un post de bucătar la un restaurant de pe Clisura Dunării. Patronul i-ar fi oferit un salariu de 5.000 de lei, masă și cazare,...",
+    "content_ro": "Un român a stârnit controverse după ce a publicat o ofertă de angajare pe un post de bucătar la un restaurant de pe Clisura Dunării. Patronul i-ar fi oferit un salariu de 5.000 de lei, masă și cazare, pentru un program neobișnuit de lucru.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -24084,65 +24167,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_b627791488",
-    "slug": "bolojan-stabilizalodo-kltsegvetesrol-es-trekeny-gazdasagi-elenkulesrol-beszelt-b62779",
-    "tags": [
-      "romania",
-      "economie",
-      "bolo-jan",
-      "pnl",
-      "psd"
-    ],
-    "fingerprint": "8f148ec8f5552b7f25a24d10430369d3",
-    "category": "Politika",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Bolojan: PSD a vrut puterea, dar pare că nu este capabil să-și asume guvernarea în interesul țării. Le-am lăsat o economie care a reînceput să crească și un buget stabilizat. Sper să nu-și bată joc de moștenirea primită",
-        "link": "https://www.g4media.ro/bolojan-psd-a-vrut-puterea-dar-pare-ca-nu-este-capabil-sa-si-asume-guvernarea-in-interesul-tarii-le-am-lasat-o-economie-care-a-reinceput-sa-creasca-si-un-buget-stabilizat-sper-sa-nu-si-bata-joc-de.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Bolojan acuză PSD că „forțează mistificarea cifrelor”: „Încearcă să compromită efortul întregii societăți”",
-        "link": "https://hotnews.ro/bolojan-invoca-datele-ins-si-acuza-psd-ca-forteaza-mistificarea-cifrelor-incearca-sa-compromita-efortul-intregii-societati-2403841"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Ilie Bolojan: „PSD, în loc să se apuce serios de treabă, forțează mistificarea cifrelor. Sper să nu-și bată joc de moștenirea primită”",
-        "link": "https://adevarul.ro/politica/ilie-bolojan-psd-in-loc-sa-se-apuce-serios-de-2571374.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Vreme mai caldă decât în mod obișnuit. Prognoza ANM până la jumătatea lunii decembrie",
-        "link": "https://www.mediafax.ro/social/vreme-mai-calda-decat-in-mod-obisnuit-prognoza-anm-pana-la-jumatatea-lunii-decembrie-23842378"
-      },
-      {
-        "source": "G4Media",
-        "title": "Vreme mai caldă decât în mod obișnuit / Prognoza ANM până la jumătatea lunii decembrie",
-        "link": "https://www.g4media.ro/vreme-mai-calda-decat-in-mod-obisnuit-prognoza-anm-pana-la-jumatatea-lunii-decembrie.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Vreme neobișnuit de caldă la început de decembrie. Ce anunță ANM pentru următoarele patru săptămâni",
-        "link": "https://hotnews.ro/vreme-neobisnuit-de-calda-la-inceput-de-decembrie-ce-anunta-anm-pentru-urmatoarele-patru-saptamani-2403121"
-      }
-    ],
-    "published_at": 1794591937,
-    "title_hu": "Bolojan stabilizálódó költségvetésről és törékeny gazdasági élénkülésről beszélt",
-    "lead_hu": "Ilie Bolojan szerint kormányának öröksége a mérsékelt gazdasági növekedés újbóli megjelenése és a költségvetési helyzet stabilizálása. A PNL elnöke a PSD-t azzal bírálta, hogy bár megszerezte a hatalmat, nem vállal kellő felelősséget az ország érdekében történő kormányzásért.",
-    "content_hu": "• **A harmadik negyedévben nőtt a GDP:** Bolojan az országos statisztikai intézet adataira hivatkozva 2,1 százalékos bővülésről számolt be az előző negyedévhez képest. Szerinte ez cáfolja azokat a borúlátó várakozásokat, amelyek a gazdaság összeomlását és a költségvetési kiigazítás kudarcát vetítették előre.\n\n• **Mérséklődött a deficit, emelkedtek a beruházások:** Az első kilenc hónap költségvetési hiánya a GDP 3,81 százalékára csökkent, miközben a közberuházások összege megközelítette a 108 milliárd lejt. Ez több mint 25 milliárd lejjel haladta meg a 2025 azonos időszakában mért értéket.\n\n• **Bolojan az előző kabinet eredményeként értékelte a mutatókat:** A volt kormányfő szerint az új vezetésnek az eddigi gazdaságpolitikai irány fenntartásával lehetne tovább javítania az eredményeken. A költségvetés rendezését olyan előzmények után kellett elkezdeni, amikor az állami kiadások tartósan meghaladták a bevételeket.\n\n• **A PNL elnöke a PSD felelősségvállalását kérte számon:** Úgy fogalmazott, hogy a szociáldemokraták hatalomra törekedtek, de kétséges, képesek-e az ország javát szolgáló kormányzást vállalni. Bolojan arra is figyelmeztetett, hogy az új kabinet ne herdálja el az előző kormánytól átvett eredményeket.\n\n• **A gazdasági javulást továbbra is kockázatok övezik:** Bolojan hangsúlyozta, hogy nem ígért gyors fordulatot, és a kedvező hatások fokozatosan jelentkezhetnek. Köszönetet mondott a lakosságnak és a vállalkozásoknak az alkalmazkodásért, ugyanakkor további óvatosságot sürgetett, mert a nehézségek nem múltak el, a növekedés pedig sérülékeny.",
-    "title_ro": "Bolojan vorbește despre buget stabilizat și o revenire economică fragilă",
-    "lead_ro": "Ilie Bolojan a descris drept rezultat al guvernării sale reluarea unei creșteri economice moderate și stabilizarea bugetului. Liderul PNL a criticat PSD, afirmând că, deși a urmărit preluarea puterii, partidul trebuie să dovedească faptul că poate guverna în interesul țării.",
-    "content_ro": "• **PIB-ul a avansat în trimestrul al treilea:** Bolojan a invocat datele institutului național de statistică, potrivit cărora economia a crescut cu 2,1% față de trimestrul precedent. În opinia sa, evoluția contrazice previziunile pesimiste privind prăbușirea economiei și eșecul corecției bugetare.\n\n• **Deficitul s-a redus, iar investițiile au continuat:** În primele nouă luni, deficitul bugetar a coborât la 3,81% din PIB. Investițiile publice au însumat aproape 108 miliarde de lei, cu peste 25 de miliarde mai mult decât în intervalul similar din 2025.\n\n• **Fostul premier a prezentat cifrele ca rezultat al politicilor cabinetului său:** Bolojan consideră că noua guvernare ar putea obține rezultate mai bune dacă păstrează direcția economică urmată până acum. El a amintit că ajustarea finanțelor publice a pornit de la o perioadă în care cheltuielile statului depășeau constant veniturile.\n\n• **Liderul PNL a pus sub semnul întrebării asumarea PSD:** El a susținut că social-democrații au urmărit să preia puterea, dar că rămâne de văzut dacă sunt capabili să conducă în folosul țării. Bolojan a cerut ca rezultatele moștenite de actualul guvern să nu fie irosite.\n\n• **Redresarea nu înseamnă dispariția riscurilor:** Bolojan a precizat că nu a anticipat o revenire rapidă, iar efectele favorabile se conturează treptat. El le-a mulțumit populației și companiilor pentru eforturile depuse, dar a cerut prudență: dificultățile persistă, iar ritmul de creștere rămâne vulnerabil.",
-    "importance_score": 68.0,
-    "top_rank": 143,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_539bf87d7e",
     "slug": "a-romaniai-valaszadok-tamogatjak-leginkabb-az-unios-hadsereg-letrehozasat-539bf8",
     "tags": [
@@ -24182,7 +24206,7 @@
     "lead_ro": "Sondajul GLOBSEC pentru 2026 indică susținerea unei armate europene comune din partea a 71% dintre respondenții din statele UE incluse în cercetare. România are cel mai ridicat rezultat, iar sprijinul pentru păstrarea apartenenței la NATO rămâne, de asemenea, consistent.",
     "content_ro": "• **Cercetarea GLOBSEC a cuprins 14 țări**, între care 11 state membre ale Uniunii Europene, Ucraina, Regatul Unit și Statele Unite. Datele au fost publicate într-o perioadă în care guvernele europene discută despre întărirea capacităților militare, pe fondul agresiunii Rusiei și al incertitudinilor privind rolul american în securitatea Europei.\n\n• **România înregistrează cea mai ridicată susținere pentru o armată a UE: 82%.** Urmează Lituania, cu 78%, și Franța, cu 75%. Proporțiile sunt de 73% în Letonia, 71% în Estonia, câte 70% în Bulgaria și Polonia, respectiv 69% în Germania.\n\n• **La nivelul statelor UE analizate, 71% dintre respondenți susțin înființarea unei armate europene.** Separat, 78% dintre participanții din țările Uniunii consideră că blocul comunitar ar trebui să-și dezvolte propriile capacități de apărare, în paralel cu NATO.\n\n• **Susținerea unei structuri militare europene nu se traduce prin respingerea NATO.** În rândul respondenților din statele membre ale Alianței, aproximativ 77–78% ar vota pentru menținerea țării lor în NATO. Astfel, sondajul consemnează sprijin atât pentru apărarea europeană, cât și pentru continuarea apartenenței la alianța nord-atlantică.\n\n• **Reintroducerea serviciului militar obligatoriu are, la rândul ei, susținere:** în țările unde acesta nu mai există, 64% dintre cei chestionați sunt în favoarea revenirii la serviciul obligatoriu. Rezultatele prezentate de GLOBSEC surprind atât opiniile despre cooperarea militară europeană, cât și cele privind pregătirea pentru apărarea națională.",
     "importance_score": 30.0,
-    "top_rank": 144,
+    "top_rank": 143,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -24221,7 +24245,7 @@
     "lead_ro": "Municipalitatea a prezentat un prim set de schimbări pentru eficientizarea STB. Planul include evidența electronică a curselor, noi puncte de vânzare pentru titlurile de călătorie, reorganizarea personalului și folosirea mai eficientă a atelierelor proprii.",
     "content_ro": "• **Reorganizarea este anunțată în contextul datoriilor și al intrării STB în insolvență.** Compania a ajuns în această procedură în septembrie, după ce acumulase obligații de plată de peste 3 miliarde de lei. Primăria Capitalei a făcut publice măsuri menite să schimbe modul de funcționare și să reducă pierderile.\n\n• **Datele transmise de vehicule ar urma să înlocuiască evidența pe hârtie a curselor.** Prin documentele electronice, STB va putea urmări distanțele parcurse și cantitatea de combustibil consumată. Compararea acestor informații poate scoate la iveală neconcordanțe în registre. Planul vizează, totodată, utilizarea mai bună a capacității de reparații din atelierele companiei.\n\n• **Călătorii vor avea la dispoziție mai multe canale pentru cumpărarea biletelor.** STB intenționează să colaboreze în acest scop cu Meridian Taxi și Selpay. Începând cu 1 decembrie, titlurile de călătorie ar urma să fie disponibile și la cele 300 de parcometre ale Companiei Municipale Parking.\n\n• **Noua organigramă prevede eliminarea a 1.709 posturi.** Dintre acestea, 919 erau vacante, iar pentru 796 de locuri ocupate s-au transmis preavize. Potrivit Primăriei, sunt luate în calcul, între altele, abaterile disciplinare, depistarea sub influența alcoolului, suspiciunile de furt de combustibil și alte probleme legale. Au fost desființate și 44 dintre cele 163 de funcții de conducere. Obiectivul pe termen mediu este o companie cu aproximativ 7.000 de angajați.\n\n• **Revizuirea contractului colectiv reduce atât numărul sporurilor, cât și compensațiile pentru plecare.** Tipurile de sporuri vor scădea de la 36 la 32. Plățile compensatorii, stabilite anterior la echivalentul a 16–20 de salarii, ar urma să fie de 2–4 salarii, în funcție de vechimea angajatului.",
     "importance_score": 28.0,
-    "top_rank": 145,
+    "top_rank": 144,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -24259,7 +24283,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, le-a solicitat spitalelor să transmită de câți angajați au nevoie. Autoritățile urmăresc să permită ocuparea a mii de posturi de la începutul anului 2027, însă demersul va necesita aprobări guvernamentale.",
     "content_ro": "• **Ministerul pregătește o posibilă suplimentare a personalului pentru 2027:** Alexandru Rogobete le-a cerut unităților sanitare să comunice numărul și tipul angajaților necesari. După centralizarea răspunsurilor, ministrul intenționează să inițieze demersurile pentru scoaterea la concurs a câtorva mii de posturi, începând de la începutul anului viitor.\n\n• **O derogare generală de la restricțiile privind angajările nu a fost anunțată:** Rogobete a precizat că nu confirmă, deocamdată, exceptarea întregului sistem sanitar. Pe baza solicitărilor spitalelor, el vrea să înainteze un memorandum premierului și membrilor Guvernului, pentru obținerea aprobărilor necesare.\n\n• **Posturile medicilor care se pensionează pot fi ocupate prin concurs fără o aprobare suplimentară:** o modificare legislativă adoptată în această vară permite scoaterea la concurs a acestor locuri, dacă sunt prevăzute în buget. Schimbarea elimină un pas birocratic care împiedica organizarea concursurilor.\n\n• **Extinderea și modernizarea spitalelor trebuie însoțite de personal suficient, potrivit ministrului:** investițiile în unități sanitare nu înlătură, de unele singure, lipsa de medici și asistenți. Rogobete consideră că noi angajări ar putea diminua presiunea asupra spitalelor afectate de deficitul de personal.\n\n• **Numărul efectiv al angajărilor și calendarul lor urmează să fie stabilite:** mai întâi, ministerul trebuie să centralizeze necesarul transmis de spitale, apoi să obțină acordurile la nivel guvernamental. Ministrul a prezentat drept obiectiv deblocarea a câteva mii de posturi, fără a preciza încă repartizarea acestora.",
     "importance_score": 28.0,
-    "top_rank": 146,
+    "top_rank": 145,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -24298,7 +24322,7 @@
     "lead_ro": "Marine Le Pen a spus că este dispusă să se întâlnească cu președintele ucrainean Volodimir Zelenski și a propus Bruxellesul drept loc al discuției. Finanțarea Ucrainei ar urma să fie unul dintre subiectele principale.",
     "content_ro": "• **Marine Le Pen s-a declarat dispusă să discute direct cu Volodimir Zelenski.** Lidera formațiunii franceze Rassemblement National a făcut declarația vineri, în timpul unei vizite la târgul Made in France. Ea nu a oferit alte detalii publice despre organizarea unei eventuale întrevederi.\n\n• **Bruxellesul a fost propus ca posibil loc al întâlnirii.** Le Pen a afirmat că ar putea să îl întâlnească acolo pe președintele ucrainean și că intenționează să îi transmită această propunere ambasadorului Ucrainei. Informațiile disponibile nu precizează dacă au început discuții pentru stabilirea unei date.\n\n• **Finanțarea Ucrainei ar fi tema centrală a conversației.** Potrivit lui Le Pen, subiectul are o importanță majoră pentru Europa, iar acest lucru face ca Bruxellesul să fie un cadru potrivit pentru discuție. Declarația sa indică faptul că atenția s-ar concentra în special asupra sprijinului financiar acordat Ucrainei.\n\n• **Poziția exprimată acum trebuie privită alături de promisiunile sale anterioare privind ajutorul.** Le Pen a afirmat în repetate rânduri că ar reduce sprijinul financiar pentru Ucraina dacă ar câștiga alegerile prezidențiale franceze programate pentru anul următor. Această intenție oferă context pentru interesul său actual de a discuta despre finanțarea Ucrainei.",
     "importance_score": 23.0,
-    "top_rank": 147,
+    "top_rank": 146,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -24337,7 +24361,7 @@
     "lead_ro": "Sociologul Ioana Florea afirmă că România continuă să depindă de angajați veniți din alte țări, iar condițiile de salarizare și angajare pot amplifica tensiunile dintre aceștia și lucrătorii români. Interviul a abordat lipsa personalului calificat, veniturile reduse și interesul angajatorilor de a limita costurile.",
     "content_ro": "• **Mai mulți factori economici susțin cererea de lucrători străini în România.** Sociologul Ioana Florea a indicat nivelul redus al salariilor, insuficiența personalului calificat și preocuparea angajatorilor de a-și diminua cheltuielile. Împreună, aceste elemente contribuie la recrutarea de angajați din afara țării.\n\n• **Plecarea la muncă în străinătate și venirea în România pot avea cauze asemănătoare.** În explicația Ioanei Florea, mulți oameni caută un loc de muncă peste graniță din cauza condițiilor dificile de trai și a veniturilor care nu acoperă costul vieții, pentru a-și putea întreține familiile.\n\n• **Migrația românilor s-a intensificat după criza financiară din 2008.** Efectele acesteia au devenit resimțite în România începând din 2009, iar interviul menționează plecarea a milioane de persoane. Îndatorarea gospodăriilor și dificultatea de a achita facturile la utilități au făcut parte din contextul economic al perioadei.\n\n• **Practica angajatorilor poate contribui la apariția tensiunilor de pe piața muncii.** Potrivit sociologului, companiile și intermediarii pot exploata diferențele economice dintre țări pentru a păstra salariile la un nivel scăzut. O asemenea abordare poate accentua rivalitatea dintre lucrătorii români și cei veniți din străinătate.\n\n• **Dezbaterea nu se rezumă la proveniența angajaților.** Interviul indică faptul că nivelul salariilor, siguranța traiului și condițiile de muncă influențează atât migrația, cât și relațiile dintre diferitele categorii de lucrători din România.",
     "importance_score": 20.0,
-    "top_rank": 148,
+    "top_rank": 147,
     "is_top_hero": false,
     "is_top_list": true
   },
