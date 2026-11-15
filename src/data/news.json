@@ -2399,6 +2399,49 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_d905694319",
+    "slug": "a-het-masodik-feleben-20-fok-kzelebe-emelkedhet-a-homerseklet-d90569",
+    "tags": [
+      "vreme",
+      "prognoza-meteo",
+      "anm",
+      "romania"
+    ],
+    "fingerprint": "5fab8bea69b66a7789f5f56f6c5cee15",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "ANM anunță o încălzire semnificativă a vremii. Când ajung din nou temperaturile la 20 de grade",
+        "link": "https://hotnews.ro/anm-anunta-o-incalzire-semnificativa-a-vremii-cand-ajung-din-nou-temperaturile-la-20-de-grade-2404971"
+      },
+      {
+        "source": "Transtelex",
+        "title": "Télből majdnem tavaszba kapcsol az időjárás, akár 20 fokot is mutathat a hőmérő",
+        "link": "https://transtelex.ro/eletmod/2026/11/15/november-idojaras-enyhules"
+      },
+      {
+        "source": "G4Media",
+        "title": "Vremea se încălzește în aproape toată țara / Șefa ANM: „Vor fi temperaturi de până la 20 de grade”",
+        "link": "https://www.g4media.ro/vremea-se-incalzeste-in-aproape-toata-tara-sefa-anm-vor-fi-temperaturi-de-pana-la-20-de-grade.html"
+      }
+    ],
+    "published_at": 1794756505,
+    "title_hu": "A hét második felében 20 fok közelébe emelkedhet a hőmérséklet",
+    "lead_hu": "Romániában a jövő hét második felére jelentős enyhülést jelez az Országos Meteorológiai Szolgálat. A melegebb idő nem vet véget a csapadékos időszaknak: a hegyekben még havazás, több térségben pedig eső várható.",
+    "content_hu": "• **A hét második felében akár 19–20 fok is lehet.** Elena Mateescu, az Országos Meteorológiai Szolgálat vezetője vasárnap arról beszélt, hogy az enyhülés először az ország nyugati részén válik érezhetővé, később délen és Bukarestben is hasonló csúcsértékek fordulhatnak elő. Kedden kezdődhet a fokozatos melegedés; a hét közepe táján 16–17 fokot jeleznek.\n\n• **A hét elején még az évszaknak megfelelő hőmérsékletek várhatók.** Vasárnap és hétfőn a nappali maximumok 6 és 13 fok között alakulhatnak. A következő napokban a hegyvidéken, 1500 méter felett továbbra is havazhat, az új hó vastagsága helyenként elérheti az 5–10 centimétert.\n\n• **A magasabban fekvő területeken erős széllökésekre is számítani kell.** A hegyekben a széllökések sebessége meghaladhatja a 80–90 kilométer/órát, míg az alacsonyabban fekvő vidékeken 50–60 kilométer/órás értékeket is mérhetnek.\n\n• **A csapadék az enyhülés idején is folytatódhat.** Eső elsősorban nyugaton, középen és északon várható, egyes helyeken négyzetméterenként 20–30 liternél több mennyiséggel. Mateescu szerint a melegebb időjárás nem jelenti a csapadékos időszak végét.",
+    "title_ro": "Temperaturile ar putea ajunge la 20 de grade în a doua parte a săptămânii",
+    "lead_ro": "Administrația Națională de Meteorologie estimează o încălzire importantă în România în a doua parte a săptămânii viitoare. Precipitațiile vor continua, cu ninsori la munte și ploi în mai multe regiuni.",
+    "content_ro": "• **În a doua parte a săptămânii, maximele pot urca la 19–20 de grade.** Elena Mateescu, directoarea Administrației Naționale de Meteorologie, a declarat duminică faptul că încălzirea va fi resimțită mai întâi în vest, apoi și în sudul țării și în București. Procesul ar putea începe marți, iar la mijlocul săptămânii sunt prognozate maxime de 16–17 grade.\n\n• **Duminică și luni, valorile termice se vor menține aproape de cele obișnuite perioadei.** Temperaturile maxime sunt estimate între 6 și 13 grade. În următoarele zile, la altitudini de peste 1.500 de metri va continua să ningă, iar stratul proaspăt depus poate ajunge local la 5–10 centimetri.\n\n• **La munte sunt posibile rafale de vânt de peste 80–90 km/h.** În zonele joase, viteza rafalelor poate atinge 50–60 km/h, potrivit prognozei prezentate de șefa ANM.\n\n• **Ploile nu vor dispărea odată cu încălzirea vremii.** Precipitațiile sunt așteptate mai ales în vestul, centrul și nordul României, unde cantitățile pot depăși local 20–30 de litri pe metru pătrat. Mateescu a precizat că perioadele cu precipitații vor continua și în intervalul cu temperaturi mai ridicate.",
+    "importance_score": 45.0,
+    "top_rank": 34,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_a5015ad424",
     "slug": "kd-es-havazas-neheziti-a-kzlekedest-romania-tbb-reszen-a5015a",
     "tags": [
@@ -2442,7 +2485,7 @@
     "lead_ro": "Duminică dimineață, ceața a redus vizibilitatea pe drumuri din 11 județe și pe anumite porțiuni ale a cinci autostrăzi, unde au fost emise avertizări de cod galben. În centrul țării, ninsoarea a adus condiții de iarnă pe mai multe șosele, fără să fie anunțate drumuri închise.",
     "content_ro": "• **Ceața a afectat 11 județe:** pe șosele din Brăila, Buzău, Călărași, Constanța, Galați, Giurgiu, Ialomița, Ilfov, Prahova, Suceava și Vrancea, vizibilitatea a coborât pe alocuri sub 200 de metri, iar izolat sub 50 de metri. În zonele vizate era în vigoare o atenționare de cod galben.\n\n• **Condițiile au fost dificile și pe cinci autostrăzi:** vizibilitatea a scăzut local sub 100 de metri pe tronsoane din A0, centura Bucureștiului, și din autostrăzile A1, A2, A3 și A7.\n\n• **Nu au fost raportate închideri de drumuri:** potrivit informării Infotrafic de duminică dimineață, vremea sau accidentele nu au dus la oprirea circulației pe autostrăzi ori drumuri naționale. Pe DN1, între Ploiești și Brașov, și DN7, între Râmnicu Vâlcea și Sibiu, carosabilul era în mare parte umed, însă vizibilitatea și valorile de trafic erau normale.\n\n• **Ninsoarea a impus condiții de iarnă în centrul țării:** au fost vizate DN1 și DN73 la Predeal, DN73 în zona Fundata, Transfăgărășanul, DN10 la Teliu și DN11 în Pasul Oituz. Peste 50 de utilaje au intervenit pentru deszăpezire; la munte, precipitațiile au devenit lapoviță și apoi ninsoare în noaptea de vineri spre sâmbătă.\n\n• **Autoritățile au cerut prudență tuturor participanților la trafic:** șoferii sunt îndemnați să adapteze viteza și să verifice atent înainte de manevre. Recomandările includ reglarea oglinzilor retrovizoare și folosirea luminilor de întâlnire pe timp de zi; conduita preventivă este necesară pe întreaga durată a deplasării.",
     "importance_score": 43.0,
-    "top_rank": 34,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2481,7 +2524,7 @@
     "lead_ro": "O judecătoare federală a decis ca East Potomac Park din Washington să rămână accesibil publicului până la soluționarea apelului. Administrația lui Donald Trump a anunțat că va contesta hotărârea, în timp ce președintele urmărește transformarea zonei într-un teren de golf.",
     "content_ro": "• **Parcul trebuie să rămână deschis pe durata procedurii de apel:** Sâmbătă seara, judecătoarea federală Ana Reyes le-a cerut autorităților responsabile să nu închidă East Potomac Park. Decizia a fost pronunțată într-un proces inițiat de organizații care se tem că publicul va pierde accesul la spațiul verde.\n\n• **Administrația Trump intenționează să conteste hotărârea:** Duminică dimineață, președintele a transmis pe Truth Social că guvernul va ataca decizia în instanță. Autoritățile federale solicitaseră ca parcul, întins pe aproximativ 160 de hectare, să fie închis începând de duminică.\n\n• **Zona oferă mai multe facilități pentru recreere:** În parc se află un teren de golf public, spații cu iarbă, locuri pentru picnic și o pistă pentru biciclete. Judecătoarea a apreciat că o închidere pe termen nedeterminat i-ar afecta pe cei care folosesc frecvent locul pentru activități recreative.\n\n• **Trump urmărește amenajarea unui teren destinat competițiilor importante:** Președintele vrea ca parcul să fie reconfigurat pentru a putea găzdui turnee de golf de nivel înalt. El susține că zona este într-o stare precară și necesită intervenții rapide.\n\n• **Lucrările pregătitoare au fost deja limitate printr-o hotărâre anterioară:** Reyes blocase anterior intervențiile preliminare de demolare asociate proiectului. Acestea ar fi inclus tăierea a peste 500 de copaci aflați de-a lungul traseului de golf.",
     "importance_score": 40.0,
-    "top_rank": 35,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2520,7 +2563,7 @@
     "lead_ro": "Vineri, Administrația Federală a Aviației din SUA a oprit la nivel național decolările, după ce au apărut probleme de comunicații în centrele de control al traficului aerian. Donald Trump a criticat administrația precedentă și a cerut Congresului să finanțeze modernizarea sistemului.",
     "content_ro": "• **Vineri, decolările au fost suspendate în întreaga țară.** Administrația Federală a Aviației (FAA) a invocat împrejurări excepționale și considerente de siguranță, după ce au fost raportate defecțiuni de comunicații la centrele de control aerian. Perturbarea a afectat atât deplasările interne, cât și pe cele internaționale.\n\n• **Donald Trump a atribuit problemele administrației conduse anterior de Joe Biden.** În mesaje publicate pe Truth Social, el a susținut că deciziile guvernului precedent au agravat dificultățile unei infrastructuri învechite și au întârziat lucrările necesare pentru îmbunătățirea acesteia.\n\n• **Trump a afirmat că o parte importantă a rețelei de control aerian are aproximativ 50 de ani.** Potrivit președintelui, există expertiza și planurile necesare pentru înnoirea sistemului, însă progresul rapid depinde de aprobarea unor fonduri de către Congres. El a mai spus că FAA este pregătită să se ocupe de acest proiect.\n\n• **Secretarul transporturilor, Sean Duffy, a cerut vineri Congresului 50 de miliarde de dolari.** Banii ar urma să fie folosiți pentru modernizarea controlului traficului aerian din SUA. Într-o intervenție ulterioară, Trump a solicitat și el aprobarea finanțării, susținând că lucrările ar trebui coordonate și realizate ca un proiect unitar, nu în etape separate.",
     "importance_score": 40.0,
-    "top_rank": 36,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2568,7 +2611,7 @@
     "lead_ro": "Concursul național de rezidențiat va avea loc pe 15 noiembrie și reunește 9.969 de candidați. Aceștia concurează pentru 5.217 locuri de pregătire și 266 de posturi, în șase centre universitare; la UMF „Carol Davila” din București sunt înscriși 3.736 de participanți.",
     "content_ro": "• **Examenul este programat pentru 15 noiembrie.** Proba se desfășoară între orele 10:00 și 14:00 în București, Cluj-Napoca, Craiova, Iași, Târgu-Mureș și Timișoara. Ministerul Sănătății organizează concursul împreună cu universitățile de medicină și farmacie.\n\n• **Numărul candidaților a scăzut, iar oferta de locuri a crescut.** Pentru sesiunea din 2026 s-au înscris 9.969 de absolvenți de medicină, medicină dentară și farmacie, față de 10.147 în anul precedent. Sunt disponibile 5.217 locuri de pregătire și 266 de posturi; în 2025 au fost 5.079 de locuri și 295 de posturi.\n\n• **Medicina atrage cei mai mulți participanți.** Pentru cele 4.481 de locuri din acest domeniu candidează 7.180 de persoane. La medicină dentară sunt 1.855 de candidați pentru 491 de locuri, iar la farmacie, 934 de candidați pentru 245 de locuri. Centrul UMF „Carol Davila” din București însumează peste 37% din totalul național, cu 3.736 de înscriși.\n\n• **La centrul bucureștean, înscrierile sunt distribuite pe trei domenii.** Dintre candidații de la UMF „Carol Davila”, 2.733 sunt la medicină, 725 la medicină dentară și 278 la farmacie.\n\n• **Testul cuprinde 200 de întrebări, rezolvate în patru ore.** Formatul este același pentru toate cele trei domenii: 50 de întrebări au un singur răspuns corect, iar 150 pot avea mai multe. Pragul minim este de 60% din punctajul maxim. Contestațiile privind subiectele, corectarea sau desfășurarea examenului pot fi depuse în 24 de ore, iar soluționarea lor are termen de 48 de ore.",
     "importance_score": 40.0,
-    "top_rank": 37,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2612,7 +2655,7 @@
     "lead_ro": "Pe 15 și 16 noiembrie, Bucureștiul va avea temperaturi apropiate de cele normale pentru perioadă, cu posibilitate de ploaie slabă luni. Pentru decembrie, Easeweather estimează 16 zile ploioase și nicio zi cu ninsoare, iar maximele vor fi în general de 6–8 grade.",
     "content_ro": "• **Pe 15 și 16 noiembrie nu sunt anticipate abateri importante de la vremea obișnuită pentru această perioadă.** Prognoza ANM pentru București este valabilă până luni, la ora 20.00, iar în interval nu sunt anunțate avertizări meteorologice. Duminică, cerul va fi variabil și mai noros noaptea, cu ceață la începutul perioadei. Maximele vor ajunge la 9–11 grade, iar minimele la 2–4 grade.\n\n• **Luni sunt posibile înnorări și ploi slabe, trecătoare.** Intervalul cu șanse de precipitații este cuprins între orele 8.00 și 20.00. Vântul va fi slab până la moderat, iar temperatura maximă se va apropia de 10 grade.\n\n• **Prognoza Easeweather indică 16 zile cu ploaie în decembrie, dar nicio zi cu ninsoare în Capitală.** Maximele vor fi, în general, între 6 și 8 grade. Cea mai ridicată valoare, de 10 grade, este estimată pentru 11 decembrie; în 21, 22 și 27 decembrie, minimele ar putea coborî la 5 grade.\n\n• **Prima jumătate a lunii este descrisă ca blândă, dar instabilă.** Pentru 1–6 decembrie sunt estimate maxime de 6–9 grade, iar în săptămâna 7–13 decembrie prognoza arată ploi zilnice. Atunci maximele ar putea urca treptat până la 10 grade, în timp ce minimele ar rămâne peste 6 grade. Între 14 și 20 decembrie, soarele ar putea apărea temporar, cu maxime de 7–8 grade.\n\n• **Pentru săptămâna Crăciunului este prognozată o răcire ușoară, urmată de zile mai uscate.** În 21–27 decembrie, minimele din 21 și 22 ar putea ajunge la 5 grade; în Ajun și în ziua de Crăciun sunt posibile maxime de 9 grade și ploi. Ultimele zile ale anului ar urma să fie fără precipitații, parțial noroase, cu maxime de până la 8 grade. Estimările publicate în noiembrie pentru România indică o iarnă 2026–2027 mai caldă și mai umedă decât media, cu puține ninsori.",
     "importance_score": 38.0,
-    "top_rank": 38,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2650,7 +2693,7 @@
     "lead_ro": "Polițiștii au găsit dispozitive de comunicare la distanță asupra a patru candidați la examenul de rezidențiat organizat pe 15 noiembrie la Timișoara. Trei persoane, în vârstă de 42, 45 și 46 de ani, au fost reținute pentru 24 de ore, iar ancheta continuă.",
     "content_ro": "• **Patru candidați aveau asupra lor dispozitive de comunicare la distanță**, potrivit verificărilor făcute la examenul de rezidențiat din 15 noiembrie, organizat la Universitatea de Medicină și Farmacie „Victor Babeș” din Timișoara. Polițiștii au intervenit în centrul universitar pentru a verifica suspiciunile privind folosirea unor mijloace tehnice.\n\n• **Trei persoane au fost reținute pentru 24 de ore.** Cei vizați au 42, 45 și 46 de ani și sunt cercetați pentru divulgarea unor informații considerate secrete de serviciu sau nepublice.\n\n• **Poliția s-a sesizat în legătură cu cazul la 7 noiembrie.** Atunci au apărut indicii că unii participanți ar putea încerca să influențeze desfășurarea examenului folosind echipamente de comunicare. Verificările au fost efectuate în ziua concursului.\n\n• **Din cei patru candidați identificați cu dispozitive, trei au fost reținuți.** Măsura luată în cursul anchetei nu stabilește vinovăția acestora. Procurorii și polițiștii continuă cercetările pentru a clarifica împrejurările și rolul fiecărei persoane.\n\n• **Dosarul este instrumentat de polițiștii de investigații criminale din Timiș**, sub coordonarea unui procuror de la Parchetul de pe lângă Tribunalul Timiș. Anchetatorii urmăresc să stabilească situația de fapt și să decidă măsurile legale care se impun.",
     "importance_score": 35.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2683,7 +2726,7 @@
     "lead_ro": "Oprirea traficului aerian la nivel național în Statele Unite, care a anulat peste 17.000 de zboruri, a fost provocată de o defecțiune.",
     "content_ro": "Oprirea traficului aerian la nivel național în Statele Unite, care a anulat peste 17.000 de zboruri, a fost provocată de o defecțiune.",
     "importance_score": 35.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2716,7 +2759,7 @@
     "lead_ro": "Patru candidați la examenul de rezidențiat au fost prinse, duminică, de polițiștii din Temesvár având asupra lor dispozitive de comunicare la distanță. Trei dintre aceștia, cu vârste de 42, 45 și 46 d…",
     "content_ro": "Patru candidați la examenul de rezidențiat au fost prinse, duminică, de polițiștii din Temesvár având asupra lor dispozitive de comunicare la distanță. Trei dintre aceștia, cu vârste de 42, 45 și 46 de ani, au fost reținuți pentru 24 de ore, sub aspectul săvârșirii infracțiunii de divulgare a informațiilor secrete de serviciu sau nepublice.",
     "importance_score": 35.0,
-    "top_rank": 41,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2754,7 +2797,7 @@
     "lead_ro": "După plecarea lui Jensen Huang din funcția de director general al Nvidia, pe 12 noiembrie, a fost lansată o petiție pentru revenirea sa. Printre susținători se află Elon Musk și mai mulți lideri din industria tehnologică, iar relatările au indicat cifre diferite privind numărul semnăturilor.",
     "content_ro": "• **Jensen Huang a părăsit conducerea executivă a Nvidia pe 12 noiembrie**, după ce a ocupat funcția timp de peste trei decenii. Relatările au asociat decizia cu informații apărute despre viața sa privată și cu o anchetă privind un posibil caz de spionaj; au fost menționate și suspiciuni referitoare la legături cu serviciile de informații chineze.\n\n• **Inițiativa online „Stand with Jensen” solicită revenirea cofondatorului la conducerea companiei.** Într-o scrisoare deschisă către consiliul Nvidia, organizatorii au cerut ca Huang să rămână director general pe durata investigației. Ei au contestat modul în care s-a ajuns la plecarea sa și au afirmat că nu au fost prezentate dovezi pentru acuzația de spionaj.\n\n• **Petiția a depășit 115.000 de semnături, iar o altă relatare a indicat un total de 143.107.** Printre persoanele care au susținut campania se numără Elon Musk, Amjad Masad, directorul Replit, Garry Tan, președintele Y Combinator, precum și conducători ai Boom Supersonic și Epic Games. Organizatorii au spus că încearcă să elimine semnăturile înscrise cu nume false.\n\n• **Și angajați Nvidia au exprimat sprijin pentru Huang în mediul intern al companiei.** O postare pe un forum al personalului a primit peste 1.600 de comentarii, cele mai multe favorabile fostului director; cifra nu arată neapărat numărul persoanelor distincte care au participat. Aproape 6.000 de semnatari s-au declarat angajați Nvidia, informație bazată pe datele furnizate chiar de participanți.",
     "importance_score": 35.0,
-    "top_rank": 42,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2793,7 +2836,7 @@
     "lead_ro": "Apropiații lui Emmanuel Macron susțin că planul lui Marine Le Pen de a opri sprijinul financiar francez pentru Ucraina ar putea izola Franța în Europa. Sondajele pentru prezidențialele din 2027 o plasează în avantaj în mai multe scenarii de tur al doilea.",
     "content_ro": "• **Apropiații lui Macron au invocat riscul izolării Franței în Europa.** Reacția lor vizează declarația lui Marine Le Pen potrivit căreia, dacă va ajunge președintă, ar opri în cel mult șase luni ajutorul financiar acordat de Paris Ucrainei. În opinia taberei prezidențiale, pacea în Ucraina are legătură directă și cu securitatea franceză.\n\n• **Macron a criticat reducerea sprijinului pentru Ucraina.** Într-un mesaj publicat sâmbătă seara pe X, președintele a susținut că limitarea ajutorului ar putea împinge Kievul către o pace nedreaptă și ar slăbi securitatea Europei pe termen lung. El nu a menționat-o explicit pe Le Pen.\n\n• **Le Pen s-a situat înaintea mai multor potențiali contracandidați în sondaj.** Cercetarea Harris Interactive realizată pentru M6/RTL a analizat posibile confruntări din turul al doilea al alegerilor din 2027. Datele publicate indicau cote de susținere de 34–36% pentru Le Pen și de 18–19% pentru Jean-Luc Mélenchon.\n\n• **Cel mai mare avantaj estimat al lui Le Pen era în fața lui Mélenchon.** În această confruntare, sondajul indica un raport de 68% la 32%. Pentru scenariile cu Édouard Philippe și Raphaël Glucksmann, Le Pen era cotată cu 58%, respectiv 60% din voturi.\n\n• **Rezultatele sondajului nu constituie o prognoză sigură a alegerilor.** Ele reflectă opțiunile respondenților la momentul cercetării, iar evoluția campaniei și evenimentele politice ulterioare pot schimba raportul dintre candidați.",
     "importance_score": 35.0,
-    "top_rank": 43,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2830,44 +2873,6 @@
     "title_ro": "Iranul afirmă că două petroliere au lovit mine în Strâmtoarea Ormuz",
     "lead_ro": "Gardienii Revoluției din Iran au anunțat că două petroliere care navigau fără autorizare au fost lovite de explozii și incendii în sudul Strâmtorii Ormuz, iar unul s-ar fi scufundat. Informația nu a fost confirmată independent, iar numele și naționalitatea navelor nu au fost făcute publice.",
     "content_ro": "• **Gardienii Revoluției au raportat duminică incidente în care ar fi fost implicate două petroliere.** Potrivit organizației, navele se deplasau pe o rută din sudul Strâmtorii Ormuz pe care Iranul nu o autorizase și au lovit mine marine. Comunicatul a menționat explozii și incendii la bord.\n\n• **Una dintre nave s-ar fi scufundat în apele sudice ale Golfului Persic.** Gardienii au descris-o drept un superpetrolier care transporta peste două milioane de barili de țiței. Nu au oferit informații despre cealaltă navă și nu au precizat numele sau pavilionul niciunuia dintre petroliere.\n\n• **Relatarea Iranului nu a fost confirmată de o sursă independentă.** UKMTO, agenția britanică pentru siguranță maritimă, prezentase anterior informații primite de la autoritățile maritime indiene despre un atac asupra unui petrolier care traversa Golful Persic spre est, înainte de a intra în strâmtoare. Nu se știe dacă acel incident este unul dintre cele descrise de Gardienii Revoluției.\n\n• **Controlul strâmtorii rămâne o miză în contextul conflictului regional.** Iranul revendică autoritatea asupra acestei rute maritime, pe unde trecea înainte de război aproximativ o cincime din hidrocarburile transportate la nivel mondial. Conflictul a început la sfârșitul lunii februarie, după lovituri israeliano-americane asupra Iranului. Statele Unite blochează porturile iraniene și escortează petroliere, susținând că au îndepărtat o mare parte dintre minele din zonă.",
-    "importance_score": 35.0,
-    "top_rank": 44,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_d905694319",
-    "slug": "a-het-masodik-feleben-20-fok-kzelebe-emelkedhet-a-homerseklet-d90569",
-    "tags": [
-      "vreme",
-      "prognoza-meteo",
-      "anm",
-      "romania"
-    ],
-    "fingerprint": "5fab8bea69b66a7789f5f56f6c5cee15",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "ANM anunță o încălzire semnificativă a vremii. Când ajung din nou temperaturile la 20 de grade",
-        "link": "https://hotnews.ro/anm-anunta-o-incalzire-semnificativa-a-vremii-cand-ajung-din-nou-temperaturile-la-20-de-grade-2404971"
-      },
-      {
-        "source": "Transtelex",
-        "title": "Télből majdnem tavaszba kapcsol az időjárás, akár 20 fokot is mutathat a hőmérő",
-        "link": "https://transtelex.ro/eletmod/2026/11/15/november-idojaras-enyhules"
-      }
-    ],
-    "published_at": 1794756505,
-    "title_hu": "A hét második felében 20 fok közelébe emelkedhet a hőmérséklet",
-    "lead_hu": "Romániában a jövő hét második felére jelentős enyhülést jelez az Országos Meteorológiai Szolgálat. A melegebb idő nem vet véget a csapadékos időszaknak: a hegyekben még havazás, több térségben pedig eső várható.",
-    "content_hu": "• **A hét második felében akár 19–20 fok is lehet.** Elena Mateescu, az Országos Meteorológiai Szolgálat vezetője vasárnap arról beszélt, hogy az enyhülés először az ország nyugati részén válik érezhetővé, később délen és Bukarestben is hasonló csúcsértékek fordulhatnak elő. Kedden kezdődhet a fokozatos melegedés; a hét közepe táján 16–17 fokot jeleznek.\n\n• **A hét elején még az évszaknak megfelelő hőmérsékletek várhatók.** Vasárnap és hétfőn a nappali maximumok 6 és 13 fok között alakulhatnak. A következő napokban a hegyvidéken, 1500 méter felett továbbra is havazhat, az új hó vastagsága helyenként elérheti az 5–10 centimétert.\n\n• **A magasabban fekvő területeken erős széllökésekre is számítani kell.** A hegyekben a széllökések sebessége meghaladhatja a 80–90 kilométer/órát, míg az alacsonyabban fekvő vidékeken 50–60 kilométer/órás értékeket is mérhetnek.\n\n• **A csapadék az enyhülés idején is folytatódhat.** Eső elsősorban nyugaton, középen és északon várható, egyes helyeken négyzetméterenként 20–30 liternél több mennyiséggel. Mateescu szerint a melegebb időjárás nem jelenti a csapadékos időszak végét.",
-    "title_ro": "Temperaturile ar putea ajunge la 20 de grade în a doua parte a săptămânii",
-    "lead_ro": "Administrația Națională de Meteorologie estimează o încălzire importantă în România în a doua parte a săptămânii viitoare. Precipitațiile vor continua, cu ninsori la munte și ploi în mai multe regiuni.",
-    "content_ro": "• **În a doua parte a săptămânii, maximele pot urca la 19–20 de grade.** Elena Mateescu, directoarea Administrației Naționale de Meteorologie, a declarat duminică faptul că încălzirea va fi resimțită mai întâi în vest, apoi și în sudul țării și în București. Procesul ar putea începe marți, iar la mijlocul săptămânii sunt prognozate maxime de 16–17 grade.\n\n• **Duminică și luni, valorile termice se vor menține aproape de cele obișnuite perioadei.** Temperaturile maxime sunt estimate între 6 și 13 grade. În următoarele zile, la altitudini de peste 1.500 de metri va continua să ningă, iar stratul proaspăt depus poate ajunge local la 5–10 centimetri.\n\n• **La munte sunt posibile rafale de vânt de peste 80–90 km/h.** În zonele joase, viteza rafalelor poate atinge 50–60 km/h, potrivit prognozei prezentate de șefa ANM.\n\n• **Ploile nu vor dispărea odată cu încălzirea vremii.** Precipitațiile sunt așteptate mai ales în vestul, centrul și nordul României, unde cantitățile pot depăși local 20–30 de litri pe metru pătrat. Mateescu a precizat că perioadele cu precipitații vor continua și în intervalul cu temperaturi mai ridicate.",
     "importance_score": 35.0,
     "top_rank": 45,
     "is_top_hero": false,
@@ -3561,45 +3566,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_ec016f809c",
-    "slug": "romania-bovitene-a-vietnami-hallgatoknak-szolo-sztndijakat-ec016f",
-    "tags": [
-      "romania",
-      "vietnam",
-      "burse",
-      "educatie",
-      "cooperare"
-    ],
-    "fingerprint": "38636d20ad2c2e68b6865ee6e6b372d1",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "România va da mai multe burse studenților din Vietnam. Ce domenii vor beneficia de cooperare extinsă. Anunțul lui Nicușor Dan",
-        "link": "https://stirileprotv.ro/stiri/politic/romania-va-da-mai-multe-burse-studentilor-din-vietnam-ce-domenii-vor-beneficia-de-cooperare-extinsa-anuntul-lui-nicusor-dan.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "România va oferi mai multe burse studenților din Vietnam. Anunțul făcut de Nicușor Dan",
-        "link": "https://www.digi24.ro/stiri/actualitate/social/romania-va-oferi-mai-multe-burse-studentilor-din-vietnam-anuntul-facut-de-nicusor-dan-4037243"
-      }
-    ],
-    "published_at": 1794745275,
-    "title_hu": "Románia bővítené a vietnámi hallgatóknak szóló ösztöndíjakat",
-    "lead_hu": "Nicușor Dan román államfő a vietnámi elnökkel, To Lammal folytatott phnompeni megbeszélésén az ösztöndíjak számának további növeléséről beszélt. A felek a kétoldalú kapcsolatok erősítését és több új együttműködési terület vizsgálatát is támogatták.",
-    "content_hu": "• **A vietnámi hallgatóknak és posztgraduális kutatóknak szánt romániai ösztöndíjkeret a következő években tovább emelkedhet.** Nicușor Dan erről To Lam vietnámi elnökkel folytatott egyeztetésén beszélt vasárnap, a Frankofónia 20. csúcstalálkozójának idején. A találkozóra a kambodzsai fővárosban, Phnompenben került sor.\n\n• **A román elnök aktívabb együttműködést szorgalmazott olyan területeken, ahol mindkét országnak vannak erőforrásai és fejlődési lehetőségei.** A két vezető emellett a nemzetközi szervezetekben folytatott koordináció javításáról, valamint a közös érdeklődésre számot tartó külpolitikai kérdésekben való kölcsönös támogatásról is megállapodott.\n\n• **To Lam a két ország közötti kereskedelem kedvező alakulására hívta fel a figyelmet.** A Vietnám és Románia közötti áruforgalom értéke 2025-ben 557 millió dollárt tett ki. A vietnámi államfő szerint a gazdasági kapcsolatok további bővítésére is lehetőség van.\n\n• **Vietnám több ágazatra kiterjedő partnerség kialakítását javasolta.** A felvetett területek között szerepelt a fenntartható mezőgazdaság, az elektronikai ipar, a digitalizáció, a turizmus, a kiberbiztonság, a kultúra és az oktatás.\n\n• **A két elnök a diplomáciai és történelmi kapcsolatokat is érintette.** To Lam hangsúlyozta, hogy Vietnám fontosnak tekinti a Romániával ápolt barátságot; Románia az elsők között volt az európai országok közül, amelyek diplomáciai kapcsolatot létesítettek Vietnámmal.",
-    "title_ro": "România vrea să extindă bursele pentru studenții vietnamezi",
-    "lead_ro": "Președintele Nicușor Dan a discutat cu omologul său vietnamez, To Lam, despre creșterea numărului de burse acordate în România studenților și cercetătorilor vietnamezi. Întâlnirea a avut loc la Phnom Penh, în contextul celui de-al 20-lea Summit al Francofoniei, iar cei doi lideri au abordat și extinderea cooperării bilaterale.",
-    "content_ro": "• **Numărul burselor din România destinate studenților și cercetătorilor postuniversitari din Vietnam ar urma să crească în anii următori.** Nicușor Dan a prezentat această intenție în cadrul discuției de duminică cu președintele vietnamez To Lam. Întrevederea s-a desfășurat la Phnom Penh, în marja celui de-al 20-lea Summit al Francofoniei.\n\n• **Liderul român a susținut dezvoltarea colaborării în domenii în care ambele state au resurse și perspective de creștere.** Cei doi președinți au convenit, de asemenea, să își coordoneze mai bine acțiunile în organizațiile internaționale și să se sprijine reciproc în chestiuni externe de interes comun.\n\n• **To Lam a evidențiat evoluția favorabilă a schimburilor comerciale dintre cele două țări.** Valoarea comerțului bilateral a ajuns la 557 de milioane de dolari în 2025. Președintele Vietnamului a propus extinderea parteneriatului economic și diversificarea sectoarelor implicate.\n\n• **Propunerile vietnameze au inclus atât domenii economice, cât și educația și cultura.** Lista menționată cuprinde agricultura sustenabilă, industria electronică, digitalizarea, turismul și securitatea cibernetică, alături de cooperarea culturală și educațională.\n\n• **Discuția a reafirmat importanța legăturilor istorice dintre România și Vietnam.** To Lam a declarat că țara sa acordă o atenție constantă relației de prietenie cu România. România s-a numărat printre primele state europene care au stabilit relații diplomatice cu Vietnamul.",
-    "importance_score": 28.0,
-    "top_rank": 64,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_383bbef9d2",
     "slug": "meghalt-egy-18-eves-utas-a-giroci-balesetben-383bbe",
     "tags": [
@@ -3633,7 +3599,7 @@
     "lead_ro": "O mașină condusă de un adolescent de 17 ani fără permis s-a răsturnat sâmbătă seara, în Giroc. Pasagera de 18 ani a murit ulterior la spital, iar polițiștii continuă cercetările pentru a stabili împrejurările accidentului.",
     "content_ro": "• **Accidentul s-a produs sâmbătă seara, în jurul orei 19:10, în Giroc**, la intersecția străzilor Trandafirilor și Cerbului. Adolescentul aflat la volan a pierdut controlul mașinii, care a părăsit carosabilul, s-a răsturnat și s-a oprit după ce a lovit un cap de pod.\n\n• **Pasagera de 18 ani a murit după ce a fost transportată la spital.** Echipajele medicale au resuscitat-o la locul accidentului, iar ulterior au dus-o la unitatea medicală. Șoferul a fost rănit și a primit îngrijiri la spital.\n\n• **Potrivit informațiilor poliției, tânărul nu ar fi oprit la semnalele echipajului.** Acesta ar fi plecat de pe DC 318 și ar fi continuat deplasarea pe strada Trandafirilor. Polițiștii l-au urmărit aproximativ 800 de metri, până la producerea accidentului.\n\n• **Adolescentul nu avea permis, iar mașina fusese luată fără acordul proprietarei.** Autoturismul aparținea unei tinere de 19 ani. Testarea șoferului cu aparatul etilotest nu a indicat prezența alcoolului.\n\n• **Polițiștii investighează cazul în cadrul unui dosar penal.** Cercetările vizează uciderea din culpă, conducerea fără permis și luarea unui vehicul pentru a fi folosit fără consimțământul proprietarei. Ancheta urmărește clarificarea tuturor circumstanțelor producerii accidentului.",
     "importance_score": 28.0,
-    "top_rank": 65,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3672,7 +3638,7 @@
     "lead_ro": "Pentagonul a primit favorabil planul unei baze militare americane permanente în Polonia, însă aprobarea finală îi revine președintelui Donald Trump. Varșovia a indicat patru amplasamente posibile și ar putea aloca până la 4,4 miliarde de dolari pentru infrastructură.",
     "content_ro": "• **Planul unei baze americane permanente în Polonia a primit o evaluare favorabilă la Pentagon, dar nu este încă aprobat definitiv.** Ministrul polonez al Apărării, Władysław Kosiniak-Kamysz, a prezentat stadiul discuțiilor după întâlnirea de la Washington cu secretarul american al Apărării, Pete Hegseth. Decizia finală aparține Casei Albe, iar, potrivit oficialilor polonezi, Donald Trump ar urma să analizeze propunerea pe 3 sau 4 decembrie.\n\n• **Varșovia a propus patru orașe din vestul țării:** Bydgoszcz, Poznań, Szczecin și Wrocław. Toate sunt situate la vest de râul Vistula și dispun deja de infrastructură militară poloneză, americană sau NATO. Amplasarea lor corespunde criteriilor transmise de partea americană.\n\n• **Prezența unor instalații militare și a unor legături de transport susține candidatura localităților.** Bydgoszcz și Szczecin găzduiesc centre de comandă ale NATO, iar la Poznań se află un comandament al armatei americane. În apropiere de Wrocław funcționează baze importante de instruire, iar conexiunile rutiere și aeriene ale orașului pot facilita deplasarea trupelor și a echipamentelor.\n\n• **Baza ar urma să aibă o capacitate de aproximativ 25.000 de persoane, inclusiv 5.000 de militari americani.** În total sunt avuți în vedere și membrii familiilor acestora, precum și personalul auxiliar. Autoritățile poloneze sunt dispuse să investească cel mult 4,4 miliarde de dolari în infrastructura necesară, însă realizarea proiectului depinde de hotărârea administrației americane.",
     "importance_score": 28.0,
-    "top_rank": 66,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3710,7 +3676,7 @@
     "lead_ro": "Potrivit Statului Major General ucrainean, Rusia a pierdut 1.622.860 de militari de la declanșarea invaziei pe scară largă, la 24 februarie 2022. Bilanțul publicat duminică indică 2.230 de pierderi în ultima zi și include date despre echipamentele militare rusești.",
     "content_ro": "• **Statul Major General al Ucrainei a contabilizat 1.622.860 de pierderi militare rusești** de la începutul invaziei pe scară largă din 24 februarie 2022. Conform aceleiași raportări, în intervalul de 24 de ore precedent au fost înregistrate încă 2.230 de pierderi. Cifrele sunt prezentate de partea ucraineană.\n\n• **Bilanțul include și numeroase categorii de echipamente.** Ucraina afirmă că forțele ruse au pierdut 12.478 de tancuri, 25.785 de vehicule blindate de luptă, 175.158 de vehicule și cisterne de combustibil, precum și 52.401 de sisteme de artilerie. Lista mai cuprinde 2.274 de lansatoare multiple de rachete, 1.756 de sisteme antiaeriene, 452 de avioane și 356 de elicoptere.\n\n• **În evidență apar și mijloace fără pilot și nave:** 3.150 de vehicule terestre fără pilot, 35 de nave sau ambarcațiuni și două submarine. Aceste cifre provin din raportarea Statului Major ucrainean și nu sunt prezentate ca rezultate ale unei verificări independente.\n\n• **La 29 octombrie, conducerea militară ucraineană a descris luna octombrie drept perioada cu cele mai mari pierderi rusești în luptă** de la începutul invaziei la scară largă. Kievul nu publică bilanțul total al propriilor pierderi militare, invocând secretul operațional.\n\n• **Institutul CSIS a estimat în ianuarie 2026 că Ucraina a suferit între 500.000 și 600.000 de pierderi militare** în perioada februarie 2022–decembrie 2025, dintre care 100.000–140.000 ar fi fost decese în luptă. Institutul a evaluat raportul pierderilor rusești față de cele ucrainene la aproximativ 2:1–2,5:1. Pe 4 februarie, Volodimir Zelenski a declarat că cel puțin 55.000 de militari ucraineni au murit în luptă, menționând separat persoanele dispărute.",
     "importance_score": 28.0,
-    "top_rank": 67,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3749,7 +3715,7 @@
     "lead_ro": "Două accidente distincte au avut loc pe 10 noiembrie, pe autostrada Trakia din Bulgaria. Numărul persoanelor decedate a crescut la 13 după ce un bărbat de 42 de ani a murit la spital, în urma rănilor suferite.",
     "content_ro": "• **Cele două accidente s-au soldat cu 13 decese.** Ultima victimă, un bărbat de 42 de ani din Elhovo, a murit la spitalul Deva Maria din Burgas. Coliziunile au avut loc în dimineața zilei de 10 noiembrie, între nodurile rutiere Zimnitsa și Kabile.\n\n• **În cele două evenimente au fost implicate 86 de vehicule.** Pe sensul către Burgas s-au ciocnit 63 de vehicule, iar pe cel către Sofia au fost implicate alte 23. Autoritățile au primit primul apel de urgență la puțin timp după ora șapte dimineața.\n\n• **Pe direcția Burgas, impactul unui autobuz a fost urmat de alte coliziuni.** Potrivit informațiilor preliminare ale Ministerului de Interne, un camion a ajuns în calea autobuzului, iar apoi un camion care transporta cereale a lovit autocarul. A urmat impactul cu un autoturism și, ulterior, ciocnirea mai multor vehicule.\n\n• **Un al doilea accident în lanț s-a produs pe sensul spre Sofia.** Primele date indică posibilitatea ca unii șoferi să fi fost distrași de evenimentul de pe partea opusă a autostrăzii, fără ca această explicație să fie confirmată definitiv. Secretarul-șef al Ministerului de Interne a precizat că toate persoanele decedate au fost găsite pe sensul către Burgas.\n\n• **Ceața densă a redus puternic vizibilitatea în zona accidentelor.** Ministerul de Interne a indicat acest fenomen drept unul dintre factorii principali. Martorii au descris o vizibilitate care a scăzut de la aproximativ 70–80 de metri la circa 10 metri. Autoritățile au recomandat adaptarea vitezei și a distanței față de vehiculul din față la condițiile meteo, mai ales când carosabilul este umed.",
     "importance_score": 28.0,
-    "top_rank": 68,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3788,6 +3754,45 @@
     "lead_ro": "Kremlinul a anunțat că Donald Trump, Xi Jinping și Vladimir Putin au convenit să se întâlnească pe 19 noiembrie, la Shenzhen, în marja summitului APEC. Beijingul nu a confirmat încă reuniunea, iar oficiali americani au indicat că discuțiile ar putea aborda proliferarea nucleară și conflictul din Orientul Mijlociu.",
     "content_ro": "• **Întâlnirea celor trei lideri este programată pentru 19 noiembrie, la Shenzhen**, în timpul summitului Cooperării Economice Asia-Pacific (APEC). Dmitri Peskov, purtătorul de cuvânt al Kremlinului, a declarat sâmbătă că s-a convenit organizarea unei discuții între președintele american Donald Trump, liderul chinez Xi Jinping și președintele rus Vladimir Putin. Casa Albă anunțase reuniunea vineri seară.\n\n• **China nu a confirmat deocamdată participarea la întâlnire.** Posibilitatea unei reuniuni în acest format fusese discutată timp de mai multe săptămâni, însă anunțul citat a venit din partea Moscovei. Casa Albă a afirmat că agenda ar putea cuprinde teme diverse și a apreciat că obținerea unor rezultate concrete este puțin probabilă, deși întâlnirea ar avea o importanță diplomatică aparte.\n\n• **Limitarea proliferării armelor nucleare este una dintre temele posibile.** Olivia Wales, purtătoare de cuvânt a Casei Albe, a spus că Trump intenționează să ridice problema reducerii arsenalelor nucleare la nivel mondial și consideră periculoasă extinderea acestora. Oficialii americani au menționat și războiul din Orientul Mijlociu, început în februarie după bombardamentele israeliano-americane asupra Iranului.\n\n• **Problema Ucrainei nu pare să fie inclusă în discuția trilaterală**, potrivit unui oficial american care a vorbit fără a-și dezvălui identitatea. Acesta a precizat că Washingtonul poartă negocieri separate cu Kievul și Moscova, iar Beijingul nu participă la acel demers. În aceste condiții, oficialul nu a considerat potrivit ca subiectul ucrainean să fie abordat la reuniunea dintre Trump, Xi și Putin.",
     "importance_score": 28.0,
+    "top_rank": 68,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_ec016f809c",
+    "slug": "romania-bovitene-a-vietnami-hallgatoknak-szolo-sztndijakat-ec016f",
+    "tags": [
+      "romania",
+      "vietnam",
+      "burse",
+      "educatie",
+      "cooperare"
+    ],
+    "fingerprint": "38636d20ad2c2e68b6865ee6e6b372d1",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "România va da mai multe burse studenților din Vietnam. Ce domenii vor beneficia de cooperare extinsă. Anunțul lui Nicușor Dan",
+        "link": "https://stirileprotv.ro/stiri/politic/romania-va-da-mai-multe-burse-studentilor-din-vietnam-ce-domenii-vor-beneficia-de-cooperare-extinsa-anuntul-lui-nicusor-dan.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "România va oferi mai multe burse studenților din Vietnam. Anunțul făcut de Nicușor Dan",
+        "link": "https://www.digi24.ro/stiri/actualitate/social/romania-va-oferi-mai-multe-burse-studentilor-din-vietnam-anuntul-facut-de-nicusor-dan-4037243"
+      }
+    ],
+    "published_at": 1794745275,
+    "title_hu": "Románia bővítené a vietnámi hallgatóknak szóló ösztöndíjakat",
+    "lead_hu": "Nicușor Dan román államfő a vietnámi elnökkel, To Lammal folytatott phnompeni megbeszélésén az ösztöndíjak számának további növeléséről beszélt. A felek a kétoldalú kapcsolatok erősítését és több új együttműködési terület vizsgálatát is támogatták.",
+    "content_hu": "• **A vietnámi hallgatóknak és posztgraduális kutatóknak szánt romániai ösztöndíjkeret a következő években tovább emelkedhet.** Nicușor Dan erről To Lam vietnámi elnökkel folytatott egyeztetésén beszélt vasárnap, a Frankofónia 20. csúcstalálkozójának idején. A találkozóra a kambodzsai fővárosban, Phnompenben került sor.\n\n• **A román elnök aktívabb együttműködést szorgalmazott olyan területeken, ahol mindkét országnak vannak erőforrásai és fejlődési lehetőségei.** A két vezető emellett a nemzetközi szervezetekben folytatott koordináció javításáról, valamint a közös érdeklődésre számot tartó külpolitikai kérdésekben való kölcsönös támogatásról is megállapodott.\n\n• **To Lam a két ország közötti kereskedelem kedvező alakulására hívta fel a figyelmet.** A Vietnám és Románia közötti áruforgalom értéke 2025-ben 557 millió dollárt tett ki. A vietnámi államfő szerint a gazdasági kapcsolatok további bővítésére is lehetőség van.\n\n• **Vietnám több ágazatra kiterjedő partnerség kialakítását javasolta.** A felvetett területek között szerepelt a fenntartható mezőgazdaság, az elektronikai ipar, a digitalizáció, a turizmus, a kiberbiztonság, a kultúra és az oktatás.\n\n• **A két elnök a diplomáciai és történelmi kapcsolatokat is érintette.** To Lam hangsúlyozta, hogy Vietnám fontosnak tekinti a Romániával ápolt barátságot; Románia az elsők között volt az európai országok közül, amelyek diplomáciai kapcsolatot létesítettek Vietnámmal.",
+    "title_ro": "România vrea să extindă bursele pentru studenții vietnamezi",
+    "lead_ro": "Președintele Nicușor Dan a discutat cu omologul său vietnamez, To Lam, despre creșterea numărului de burse acordate în România studenților și cercetătorilor vietnamezi. Întâlnirea a avut loc la Phnom Penh, în contextul celui de-al 20-lea Summit al Francofoniei, iar cei doi lideri au abordat și extinderea cooperării bilaterale.",
+    "content_ro": "• **Numărul burselor din România destinate studenților și cercetătorilor postuniversitari din Vietnam ar urma să crească în anii următori.** Nicușor Dan a prezentat această intenție în cadrul discuției de duminică cu președintele vietnamez To Lam. Întrevederea s-a desfășurat la Phnom Penh, în marja celui de-al 20-lea Summit al Francofoniei.\n\n• **Liderul român a susținut dezvoltarea colaborării în domenii în care ambele state au resurse și perspective de creștere.** Cei doi președinți au convenit, de asemenea, să își coordoneze mai bine acțiunile în organizațiile internaționale și să se sprijine reciproc în chestiuni externe de interes comun.\n\n• **To Lam a evidențiat evoluția favorabilă a schimburilor comerciale dintre cele două țări.** Valoarea comerțului bilateral a ajuns la 557 de milioane de dolari în 2025. Președintele Vietnamului a propus extinderea parteneriatului economic și diversificarea sectoarelor implicate.\n\n• **Propunerile vietnameze au inclus atât domenii economice, cât și educația și cultura.** Lista menționată cuprinde agricultura sustenabilă, industria electronică, digitalizarea, turismul și securitatea cibernetică, alături de cooperarea culturală și educațională.\n\n• **Discuția a reafirmat importanța legăturilor istorice dintre România și Vietnam.** To Lam a declarat că țara sa acordă o atenție constantă relației de prietenie cu România. România s-a numărat printre primele state europene care au stabilit relații diplomatice cu Vietnamul.",
+    "importance_score": 23.0,
     "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
@@ -4471,6 +4476,35 @@
     "title_ro": "„Acum mama stă în casă în țipete și plânsete, iar soțul sclavagește la serviciu”. Cum explică românii prăbușirea natalității",
     "lead_ro": "De la „mamele eroine”, cu peste zece copii, România a ajuns la familii tot mai restrânse. Românii explică scăderea natalității prin dificultățile economice, lipsa sprijinului familial și schimbarea me...",
     "content_ro": "De la „mamele eroine”, cu peste zece copii, România a ajuns la familii tot mai restrânse. Românii explică scăderea natalității prin dificultățile economice, lipsa sprijinului familial și schimbarea mentalităților. Excepție fac unele comunități religioase.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_593cdb1af3",
+    "slug": "ilie-nastase-omagiat-la-torino-alaturi-de-alti-zece-fosti-lideri-mondiali-593cdb",
+    "tags": [
+      "sport"
+    ],
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/15112026/dfd76277-b571-4fab-9e18-742e0a2494d4.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Ilie Năstase, omagiat la Torino alături de alți zece foști lideri mondiali",
+        "link": "https://www.gsp.ro/sporturi/tenis/ilie-nastase-omagiat-la-torino-alaturi-de-alti-zece-fosti-lideri-mondiali-999587.html"
+      }
+    ],
+    "published_at": 1794766446,
+    "title_hu": "Ilie Năstase, omagiat la Torino alături de alți zece foști lideri mondiali",
+    "lead_hu": "Ilie Năstase (80 de ani), primul lider mondial din clasamentul computerizat, este prezent zilele acestea la Torino, la Turneul Campionilor, unde a fost celebrat alături de alți foști lideri mondiali p...",
+    "content_hu": "Ilie Năstase (80 de ani), primul lider mondial din clasamentul computerizat, este prezent zilele acestea la Torino, la Turneul Campionilor, unde a fost celebrat alături de alți foști lideri mondiali precum Mats Wilander (62 de ani), Stefan Edberg (60 de ani), Thomas Muster (59 de ani), Boris Becker (58 de ani), Yevgeny Kafelnikov (52 de ani), Gustavo Kuerten (50 de ani), Marat Safin (46 de ani), Lleyton Hewitt (45 de ani), Juan Carlos Ferrero (46 de ani) și Jannik Sinner (25 de ani). ...",
+    "title_ro": "Ilie Năstase, omagiat la Torino alături de alți zece foști lideri mondiali",
+    "lead_ro": "Ilie Năstase (80 de ani), primul lider mondial din clasamentul computerizat, este prezent zilele acestea la Torino, la Turneul Campionilor, unde a fost celebrat alături de alți foști lideri mondiali p...",
+    "content_ro": "Ilie Năstase (80 de ani), primul lider mondial din clasamentul computerizat, este prezent zilele acestea la Torino, la Turneul Campionilor, unde a fost celebrat alături de alți foști lideri mondiali precum Mats Wilander (62 de ani), Stefan Edberg (60 de ani), Thomas Muster (59 de ani), Boris Becker (58 de ani), Yevgeny Kafelnikov (52 de ani), Gustavo Kuerten (50 de ani), Marat Safin (46 de ani), Lleyton Hewitt (45 de ani), Juan Carlos Ferrero (46 de ani) și Jannik Sinner (25 de ani). ...",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -14701,90 +14735,6 @@
     "title_ro": "„Diferența s-a făcut la ambiție!” Crișul Sântandrei a făcut spectacol și a învins CSM Sighetu Marmației cu 3-0",
     "lead_ro": "„Diferența s-a făcut la ambiție”, a fost concluzia lui Cristian Oroș după victoria categorică obținută sâmbătă de Crișul Sântandrei în fața formației CSM Sighetu Marmației. Bihorenii au avut nevoie de…",
     "content_ro": "„Diferența s-a făcut la ambiție”, a fost concluzia lui Cristian Oroș după victoria categorică obținută sâmbătă de Crișul Sântandrei în fața formației CSM Sighetu Marmației. Bihorenii au avut nevoie de o repriză de încălzire, dar după pauză au turat motoarele și au înscris de trei ori, câștigând cu 3-0 partida din etapa a 13-a a Ligii a III-a, Seria a 8-a.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_0b0819daea",
-    "slug": "reactia-campionului-olimpic-devenit-candidat-la-pr-0b0819",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Reacția campionului olimpic, devenit candidat la președinția Franței, după ce a fost lăudat de Macron: „Un sărut otrăvit”",
-        "link": "https://hotnews.ro/reactia-campionului-olimpic-devenit-candidat-la-presedintia-frantei-dupa-ce-a-fost-laudat-de-macron-un-sarut-otravit-2404604"
-      }
-    ],
-    "published_at": 1794680364,
-    "title_hu": "Reacția campionului olimpic, devenit candidat la președinția Franței, după ce a fost lăudat de Macron: „Un sărut otrăvit”",
-    "lead_hu": "Teddy Riner, multiplu campion olimpic la judo, a încercat sâmbătă să se distanțeze de președintele francez Emmanuel Macron, după ce a fost lăudat de acesta, potrivit AFP și Le Monde. Macron, aflat la …",
-    "content_hu": "Teddy Riner, multiplu campion olimpic la judo, a încercat sâmbătă să se distanțeze de președintele francez Emmanuel Macron, după ce a fost lăudat de acesta, potrivit AFP și Le Monde. Macron, aflat la ultimul mandat, declarase luni că intrarea lui Teddy Riner în cursa prezidențială „nu poate decât să aducă beneficii țării”. Cuvintele președintelui în …",
-    "title_ro": "Reacția campionului olimpic, devenit candidat la președinția Franței, după ce a fost lăudat de Macron: „Un sărut otrăvit”",
-    "lead_ro": "Teddy Riner, multiplu campion olimpic la judo, a încercat sâmbătă să se distanțeze de președintele francez Emmanuel Macron, după ce a fost lăudat de acesta, potrivit AFP și Le Monde. Macron, aflat la …",
-    "content_ro": "Teddy Riner, multiplu campion olimpic la judo, a încercat sâmbătă să se distanțeze de președintele francez Emmanuel Macron, după ce a fost lăudat de acesta, potrivit AFP și Le Monde. Macron, aflat la ultimul mandat, declarase luni că intrarea lui Teddy Riner în cursa prezidențială „nu poate decât să aducă beneficii țării”. Cuvintele președintelui în …",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_6b2a9b5cf2",
-    "slug": "romania-n-a-avut-nicio-sansa-in-meciul-cu-sua-din--6b2a9b",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "România n-a avut nicio șansă în meciul cu SUA din World Rugby Nations Cup 2026! Lume multă la Arcul de Triumf",
-        "link": "https://www.gsp.ro/sporturi/rugby/romania-n-a-avut-nicio-sansa-in-meciul-cu-sua-din-world-rugby-nations-cup-2026-999291.html"
-      }
-    ],
-    "published_at": 1794680350,
-    "title_hu": "România n-a avut nicio șansă în meciul cu SUA din World Rugby Nations Cup 2026! Lume multă la Arcul de Triumf",
-    "lead_hu": "România a disputat astăzi al cincilea meci din World Rugby Nations Cup 2026, o competiție nouă, la ediția inaugurală, cu 12 echipe din eșalonul 2 mondial. „Stejarii” nu au avut nicio șansă în fața rep…",
-    "content_hu": "România a disputat astăzi al cincilea meci din World Rugby Nations Cup 2026, o competiție nouă, la ediția inaugurală, cu 12 echipe din eșalonul 2 mondial. „Stejarii” nu au avut nicio șansă în fața reprezentativei Statelor Unite ale Americii, eșec 24-53. Cele 12 naționale participante au fost împărțite în două grupe de câte 6, care joacă cu fiecare dintre echipele din cealaltă grupă. ...",
-    "title_ro": "România n-a avut nicio șansă în meciul cu SUA din World Rugby Nations Cup 2026! Lume multă la Arcul de Triumf",
-    "lead_ro": "România a disputat astăzi al cincilea meci din World Rugby Nations Cup 2026, o competiție nouă, la ediția inaugurală, cu 12 echipe din eșalonul 2 mondial. „Stejarii” nu au avut nicio șansă în fața rep…",
-    "content_ro": "România a disputat astăzi al cincilea meci din World Rugby Nations Cup 2026, o competiție nouă, la ediția inaugurală, cu 12 echipe din eșalonul 2 mondial. „Stejarii” nu au avut nicio șansă în fața reprezentativei Statelor Unite ale Americii, eșec 24-53. Cele 12 naționale participante au fost împărțite în două grupe de câte 6, care joacă cu fiecare dintre echipele din cealaltă grupă. ...",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_69b68b0fca",
-    "slug": "uefa-a-aprobat-solicitarea-poloniei-inaintea-duelu-69b68b",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "UEFA a aprobat solicitarea Poloniei, înaintea duelului cu România de pe Arena Națională",
-        "link": "https://www.gsp.ro/fotbal/nationala/uefa-decizie-polonia-moment-de-reculegere-999333.html"
-      }
-    ],
-    "published_at": 1794680338,
-    "title_hu": "UEFA a aprobat solicitarea Poloniei, înaintea duelului cu România de pe Arena Națională",
-    "lead_hu": "UEFA a aprobat solicitarea Federației Poloneze de Fotbal de a comemora victimele atacului armat produs pe 7 noiembrie la Cracovia, în urma căruia șase persoane și-au pierdut viața, iar alte 15 au fost…",
-    "content_hu": "UEFA a aprobat solicitarea Federației Poloneze de Fotbal de a comemora victimele atacului armat produs pe 7 noiembrie la Cracovia, în urma căruia șase persoane și-au pierdut viața, iar alte 15 au fost rănite. Decizia vine în ziua în care România și Polonia se întâlnesc în etapa a 5-a din Liga Națiunilor. Partida este programată de la ora 21:45, pe Arena Națională. ...",
-    "title_ro": "UEFA a aprobat solicitarea Poloniei, înaintea duelului cu România de pe Arena Națională",
-    "lead_ro": "UEFA a aprobat solicitarea Federației Poloneze de Fotbal de a comemora victimele atacului armat produs pe 7 noiembrie la Cracovia, în urma căruia șase persoane și-au pierdut viața, iar alte 15 au fost…",
-    "content_ro": "UEFA a aprobat solicitarea Federației Poloneze de Fotbal de a comemora victimele atacului armat produs pe 7 noiembrie la Cracovia, în urma căruia șase persoane și-au pierdut viața, iar alte 15 au fost rănite. Decizia vine în ziua în care România și Polonia se întâlnesc în etapa a 5-a din Liga Națiunilor. Partida este programată de la ora 21:45, pe Arena Națională. ...",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
