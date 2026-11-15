@@ -695,7 +695,7 @@
     "title_ro": "Serviciile Microsoft au fost restabilite sâmbătă după pana globală",
     "lead_ro": "Întreruperea serviciilor Microsoft, începută joi și prelungită mai mult de o zi, s-a încheiat sâmbătă dimineață. Problemele au fost raportate în peste 70 de țări și ar fi putut afecta până la 430 de milioane de utilizatori, potrivit estimărilor.",
     "content_ro": "• **Mai multe produse au fost afectate la nivel mondial:** Accesul la Outlook, Teams și Copilot a fost perturbat, iar utilizatorii au semnalat dificultăți și la SharePoint, OneDrive și Planner. Incidentul s-a extins în peste 70 de țări; estimările privind numărul persoanelor afectate au ajuns la 430 de milioane.\n\n• **Activitatea unor instituții a fost întreruptă:** Probleme au fost raportate de companii, autorități, școli, spitale și instanțe. În Australia, unele examene și consultații medicale au fost amânate după ce documentele necesare nu au putut fi accesate.\n\n• **Exchange Online ar fi fost suprasolicitat:** Potrivit informațiilor Bloomberg, defecțiunea a vizat în principal sistemul care susține e-mailul și calendarele Outlook. După repornirea serverelor, cererea de resurse a crescut rapid, iar serviciul a încetinit și nu a mai răspuns corespunzător.\n\n• **Microsoft a indicat o problemă de rețea:** Compania a legat incidentul de o eroare apărută în timpul unei extinderi anterioare a capacității, activată ulterior de o altă modificare de rețea. Microsoft a precizat că nu a găsit indicii ale unui atac informatic și a exclus o defecțiune provocată de inteligența artificială.\n\n• **Restabilirea s-a făcut etapizat:** Serviciile au revenit la funcționare normală până sâmbătă dimineață, iar peste o mie de ingineri și alți angajați au participat la remediere. Microsoft a repornit sistemele gradual pentru a limita riscul unei noi suprasolicitări și a promis un raport după încheierea analizei. A fost a doua întrerupere majoră a companiei în acest an, readucând în discuție dependența instituțiilor de un număr restrâns de furnizori tehnologici.",
-    "importance_score": 215.0,
+    "importance_score": 208.0,
     "top_rank": 4,
     "is_top_hero": false,
     "is_top_list": true
@@ -3241,7 +3241,7 @@
     "title_ro": "Zelenski vorbește despre cinci zile de probleme Starshield și suspectează un motiv politic",
     "lead_ro": "Volodimir Zelenski susține că de cinci zile pierderea conexiunii Starshield afectează dronele ucrainene și operațiunile de-a lungul întregului front. Președintele ia în calcul un motiv politic, în timp ce SpaceX neagă existența unor restricții și invocă o problemă tehnică.",
     "content_ro": "• **Problemele durează de cinci zile:** Zelenski a declarat vineri, la Kiev, că dronele ucrainene se confruntă cu întreruperi ale conexiunii Starshield de la începutul săptămânii. El a descris serviciul drept versiunea militară a Starlink și a afirmat că situația se manifestă pe întregul front.\n\n• **Pragul de viteză afectează misiunile:** Potrivit președintelui, legătura prin satelit se pierde când dronele depășesc 161 km/h. În consecință, interceptarea dronelor rusești Shahed cu propulsie reactivă a devenit mai dificilă, iar atacurile ucrainene de rază medie asupra unor obiective militare din teritoriile ocupate sunt afectate.\n\n• **Zelenski ia în calcul o motivație politică:** El a spus că verificările efectuate zilnic, în direcții diferite, au indicat în mod repetat aceeași situație, ceea ce, în opinia sa, nu sugerează cazuri izolate. Președintele suspectează că limitările ar putea urmări să determine Ucraina să accepte concesii față de Rusia, fără a prezenta această ipoteză drept fapt dovedit.\n\n• **SpaceX contestă existența restricțiilor:** Compania le-a transmis oficialilor ucraineni că nu a impus limitări și a atribuit întreruperile unei defecțiuni tehnice. Zelenski a respins această explicație ca neconvingătoare și a afirmat că nu a primit o lămurire clară privind impactul asupra operațiunilor.\n\n• **Kievul vrea discuții cu mai mulți parteneri:** Zelenski le-a cerut liderilor militari să abordeze situația cu SpaceX, Pentagonul și Departamentul de Stat al SUA. Ministerul ucrainean al Apărării a discutat deja cu firma, iar o problemă asemănătoare a apărut și în luna precedentă.",
-    "importance_score": 33.0,
+    "importance_score": 30.0,
     "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
@@ -3646,45 +3646,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_bd143b60f0",
-    "slug": "legi-celpont-miatt-riasztottak-tulcea-megye-lakoit-bd143b",
-    "tags": [
-      "tulcea",
-      "insula-serpilor",
-      "ro-alert",
-      "f-16",
-      "aparare-aeriana"
-    ],
-    "fingerprint": "0a3614da958ae16ecf925b002372d27e",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "O nouă țintă aeriană detectată în zona Insulei Șerpilor. Trei mesaje Ro-Alert în Tulcea, în mai puțin de șase ore",
-        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/o-noua-tinta-aeriana-detectata-in-zona-insulei-serpilor-trei-mesaje-ro-alert-in-tulcea-in-mai-putin-de-sase-ore-4036253"
-      },
-      {
-        "source": "Adevărul",
-        "title": "F-16 ridicate de la Fetești după o nouă alertă lângă Insula Șerpilor. Mesaj RO-ALERT în Tulcea",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/f-16-ridicate-de-la-fetesti-dupa-o-noua-alerta-2571575.html"
-      }
-    ],
-    "published_at": 1794691963,
-    "title_hu": "Légi célpont miatt riasztották Tulcea megye lakóit",
-    "lead_hu": "November 14-én reggel a román radarok légi célpontot észleltek a Kígyó-sziget térségében. A riasztás idején két F-16-os szállt fel Fetești légibázisáról, Tulcea megye lakói pedig két RO-ALERT üzenetet kaptak.",
-    "content_hu": "• **November 14-én hajnalban légi célpontot észleltek a Kígyó-sziget közelében.** A román védelmi minisztérium tájékoztatása szerint az észlelést a radaros megfigyelőrendszer jelezte. A közlés nem részletezte a célpont típusát, és nem számolt be arról, hogy az belépett volna Románia légterébe.\n\n• **A légierő két F-16-osa felszállt a fetești-i 86. légibázisról.** A gépek légi rendészeti készültségben voltak, és az észlelés nyomán indultak el. A rendelkezésre álló tájékoztatás nem ismertette a repülés útvonalát vagy azt, hogy a célponttal később mi történt.\n\n• **A hatóságok két alkalommal küldtek RO-ALERT üzenetet Tulcea megye területére.** Az első értesítést 04:45-kor a megye keleti részén élők kapták meg, majd 05:39-kor az északi térség lakóit figyelmeztették. A két üzenet tehát különböző területeket érintett, és nem ugyanabban az időpontban érkezett.\n\n• **Az intézkedések összehangolásában a katonai parancsnokság és a katasztrófavédelem vett részt.** A katonai műveleti központ értesítette a katasztrófavédelmi főfelügyelőséget, amely gondoskodott a lakossági riasztásról. A védelmi minisztérium szerint a légi riasztás 05:52-kor ért véget; a közlemény további következményről nem számolt be.",
-    "title_ro": "Alertă aeriană în Tulcea după o detectare lângă Insula Șerpilor",
-    "lead_ro": "În dimineața de 14 noiembrie, radarele românești au semnalat o țintă aeriană în zona Insulei Șerpilor. Două avioane F-16 au decolat de la Fetești, iar locuitorii din județul Tulcea au primit două mesaje RO-ALERT.",
-    "content_ro": "• **O țintă aeriană a fost detectată în apropierea Insulei Șerpilor în dimineața de 14 noiembrie.** Ministerul Apărării Naționale a precizat că semnalul a fost identificat de sistemul de supraveghere radar. Comunicatul nu a indicat natura țintei și nici nu a menționat că aceasta ar fi intrat în spațiul aerian al României.\n\n• **Două avioane F-16 au decolat de la Baza 86 Aeriană Fetești.** Aeronavele se aflau în serviciul de poliție aeriană, iar ridicarea lor a urmat detectării radar. Informațiile publicate nu precizează traseul zborului și nici evoluția ulterioară a țintei observate.\n\n• **Locuitorii din două zone ale județului Tulcea au fost avertizați prin mesaje RO-ALERT.** Primul mesaj a fost transmis la ora 04:45 pentru partea de est a județului, iar al doilea a ajuns la ora 05:39 în zona de nord. Notificările au vizat, așadar, sectoare diferite și au fost trimise la intervale distincte.\n\n• **Avertizarea populației a fost coordonată de structurile militare și de cele pentru situații de urgență.** Centrul Național Militar de Comandă a anunțat Inspectoratul General pentru Situații de Urgență, care a transmis alertele. Potrivit ministerului, alerta aeriană s-a încheiat la ora 05:52; comunicarea oficială nu a semnalat alte consecințe.",
-    "importance_score": 28.0,
-    "top_rank": 55,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_365941cfa0",
     "slug": "david-popovici-ismet-a-sportoloknak-jaro-elmaradt-dijak-kifizeteset-surgeti-365941",
     "tags": [
@@ -3718,7 +3679,7 @@
     "lead_ro": "Campionul olimpic la înot a solicitat Guvernului să achite recompensele restante, în timpul inaugurării de sâmbătă a bazinului olimpic din Otopeni. El a avertizat că întârzierile pot afecta parcursul sportiv și traiul unor colegi.",
     "content_ro": "• **David Popovici a cerut din nou Guvernului să plătească premiile restante ale sportivilor.** Înotătorul a făcut apelul sâmbătă, la inaugurarea noului bazin olimpic din Otopeni. Potrivit acestuia, mai multe guverne au promis anterior că vor rezolva problema sumelor neachitate.\n\n• **Pentru unii sportivi, banii întârziați contează inclusiv pentru continuarea carierei.** Popovici a spus că a discutat cu numeroși colegi afectați, iar o parte dintre aceștia se confruntă cu dificultăți din cauza restanțelor. Recompensele sunt importante atât pentru parcursul lor în sport, cât și pentru acoperirea cheltuielilor de zi cu zi.\n\n• **Unele dintre premiile restante fuseseră promise cu ani în urmă.** Sportivii și-au concentrat timpul și efortul asupra competițiilor, mizând și pe recompensele anunțate. Întârzierea plăților poate crea probleme deosebite celor care nu au alte surse importante de venit.\n\n• **Popovici folosește vizibilitatea sa publică pentru a susține sportivii cu o voce mai puțin auzită.** El a precizat că nu depinde personal de banii datorați, dar consideră necesar să atragă atenția asupra situației colegilor. Înotătorul speră ca actualul Guvern să țină cont de inițiativele existente și să sprijine sportul.\n\n• **Sportivul a semnalat și diferența dintre implicarea autorităților și investițiile private în infrastructură.** La inaugurare, el a pus în discuție contribuția mediului privat la dezvoltarea bazelor sportive în raport cu acțiunile instituțiilor publice. Materialul disponibil nu oferă alte detalii despre această comparație.",
     "importance_score": 25.0,
-    "top_rank": 56,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3756,7 +3717,7 @@
     "lead_ro": "Guvernul italian a respins relatarea potrivit căreia s-ar opune implicării Germaniei în programul GCAP pentru un avion de luptă. Roma susține că statutul inițial de observator ar putea facilita aderarea ulterioară cu drepturi depline.",
     "content_ro": "• **Guvernul italian susține participarea Germaniei** la programul GCAP, desfășurat de Regatul Unit, Italia și Japonia. Într-un comunicat, Roma a calificat drept înșelătoare relatarea Financial Times despre opoziția Italiei și a afirmat că a fost dispusă să primească Berlinul.\n\n• **Italia a propus ca Germania să înceapă cu statut de observator.** Potrivit explicației guvernului, această etapă ar permite schimbul de informații și ar putea grăbi tranziția către statutul de membru cu drepturi depline. Roma a precizat că propunerea nu urmărea limitarea permanentă a rolului german.\n\n• **Relatarea de presă a prezentat diferit discuțiile:** surse citate de Financial Times au spus că ministrul italian al Apărării, Guido Crosetto, nu a susținut aderarea Germaniei ca partener egal, în timpul unei videoconferințe. Conform articolului, statutul de observator nu ar include participarea la proiectarea sau dezvoltarea aeronavei.\n\n• **Statutul viitor al Germaniei rămâne un punct de divergență.** Mediafax a relatat că un oficial german a considerat inacceptabilă varianta de observator și că Berlinul dorește să devină membru cu drepturi depline. Surse italiene și japoneze citate de Financial Times au invocat riscul întârzierii proiectului și al reducerii contractelor pentru companiile lor.\n\n• **Programul GCAP urmărește dezvoltarea unui avion de luptă de nouă generație până în 2035.** La inițiativă participă Italia, Regatul Unit și Japonia, iar efortul industrial este condus de Leonardo, BAE Systems și Mitsubishi Heavy Industries. Guvernul italian a descris implicarea Germaniei drept o oportunitate pozitivă.",
     "importance_score": 25.0,
-    "top_rank": 57,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3795,7 +3756,7 @@
     "lead_ro": "Fosta vicepremieră Oana Gheorghiu a vorbit, într-un interviu la Digi24, despre rolul lui Marian Neacșu în activitatea guvernamentală. Potrivit acesteia, experiența și cunoașterea administrației îi ofereau lui Neacșu o poziție influentă, mai ales în relația cu miniștrii PSD.",
     "content_ro": "• **Gheorghiu i-a atribuit lui Marian Neacșu o influență considerabilă** în fostul Guvern condus de Bolojan. În emisiunea „În fața ta” de la Digi24, fosta vicepremieră a pus această influență pe seama experienței sale guvernamentale și a cunoașterii procedurilor administrative.\n\n• **Luca Niculescu este premierul actual, potrivit declarației sale.** Întrebată cine conduce Guvernul, Niculescu sau Neacșu, Gheorghiu a spus că funcția de prim-ministru îi revine lui Niculescu. Ea a adăugat că acesta se bazează mult pe Neacșu, care ocupă posturile de vicepremier și ministru al Afacerilor Interne.\n\n• **Neacșu era perceput drept o figură influentă în fostul Executiv.** Gheorghiu a spus că rolul său era cunoscut în Guvern, în special în rândul miniștrilor PSD. În opinia sa, memoria instituțională și familiaritatea cu mecanismele administrative îi permiteau să susțină sau să blocheze anumite demersuri.\n\n• **Gheorghiu nu a confirmat existența unor consultări înaintea ședințelor de Guvern.** Ea a precizat că nu știe dacă miniștrii se întâlneau cu Neacșu înainte de ședințe ori dacă acesta centraliza propunerile. A afirmat însă că influența sa informală era cunoscută în interiorul Executivului.\n\n• **Declarațiile au fost prezentate ca evaluarea personală a fostei vicepremiere.** În interviul de la Digi24, Gheorghiu nu a detaliat decizii concrete sau cazuri specifice care să ilustreze influența lui Neacșu; ea și-a descris astfel aprecierea asupra rolului acestuia în Guvern.",
     "importance_score": 25.0,
-    "top_rank": 58,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3828,7 +3789,7 @@
     "lead_ro": "După 11 ani de litigiu și o ultimă încercare a Gabriel Resources de a obține anularea deciziei favorabile României, dosarul Roșia Montană s-a încheiat definitiv. Într-un interviu pentru Adevărul, avoc…",
     "content_ro": "După 11 ani de litigiu și o ultimă încercare a Gabriel Resources de a obține anularea deciziei favorabile României, dosarul Roșia Montană s-a încheiat definitiv. Într-un interviu pentru Adevărul, avocata Crenguța Leaua vorbește despre etapele procesului.",
     "importance_score": 25.0,
-    "top_rank": 59,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3867,6 +3828,45 @@
     "lead_ro": "Estonia nu va permite sportivilor din Rusia și Belarus să participe la competițiile organizate pe teritoriul său. Guvernul și-a explicat poziția într-o scrisoare adresată Federației Internaționale de Schi, invocând sprijinul acordat Ucrainei și riscul folosirii competițiilor în scop propagandistic.",
     "content_ro": "• **Estonia menține restricția aplicată sportivilor ruși și belaruși**, care nu vor putea lua parte la competițiile desfășurate în țară. Decizia continuă o măsură adoptată anterior de autoritățile estoniene.\n\n• **Guvernul de la Tallinn a transmis poziția sa Federației Internaționale de Schi (FIS)** printr-o scrisoare. Potrivit argumentelor prezentate, participarea concurenților din cele două state ar slăbi sprijinul Estoniei pentru Ucraina și ar putea fi folosită în scopuri de propagandă.\n\n• **Regulamentul FIS a devenit mai permisiv**, prevăzând posibilitatea ca sportivii ruși și belaruși să concureze dacă semnează o declarație prin care își asumă neutralitatea. Această schimbare a regulilor federației nu anulează interdicția stabilită de Estonia pe plan național.\n\n• **FIS a afirmat că va sprijini persoanele și organizațiile implicate**: sportivii, asociațiile naționale de schi și organizatorii locali. Federația a descris gestionarea situației drept o provocare complexă.\n\n• **Anunțul Estoniei urmează unor poziții similare din alte state**. Norvegia, Finlanda și Canada au comunicat, la rândul lor, că nu vor permite participarea sportivilor ruși și belaruși la competițiile organizate pe teritoriul lor.",
     "importance_score": 25.0,
+    "top_rank": 59,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_bd143b60f0",
+    "slug": "legi-celpont-miatt-riasztottak-tulcea-megye-lakoit-bd143b",
+    "tags": [
+      "tulcea",
+      "insula-serpilor",
+      "ro-alert",
+      "f-16",
+      "aparare-aeriana"
+    ],
+    "fingerprint": "0a3614da958ae16ecf925b002372d27e",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "O nouă țintă aeriană detectată în zona Insulei Șerpilor. Trei mesaje Ro-Alert în Tulcea, în mai puțin de șase ore",
+        "link": "https://www.digi24.ro/stiri/actualitate/evenimente/o-noua-tinta-aeriana-detectata-in-zona-insulei-serpilor-trei-mesaje-ro-alert-in-tulcea-in-mai-putin-de-sase-ore-4036253"
+      },
+      {
+        "source": "Adevărul",
+        "title": "F-16 ridicate de la Fetești după o nouă alertă lângă Insula Șerpilor. Mesaj RO-ALERT în Tulcea",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/f-16-ridicate-de-la-fetesti-dupa-o-noua-alerta-2571575.html"
+      }
+    ],
+    "published_at": 1794691963,
+    "title_hu": "Légi célpont miatt riasztották Tulcea megye lakóit",
+    "lead_hu": "November 14-én reggel a román radarok légi célpontot észleltek a Kígyó-sziget térségében. A riasztás idején két F-16-os szállt fel Fetești légibázisáról, Tulcea megye lakói pedig két RO-ALERT üzenetet kaptak.",
+    "content_hu": "• **November 14-én hajnalban légi célpontot észleltek a Kígyó-sziget közelében.** A román védelmi minisztérium tájékoztatása szerint az észlelést a radaros megfigyelőrendszer jelezte. A közlés nem részletezte a célpont típusát, és nem számolt be arról, hogy az belépett volna Románia légterébe.\n\n• **A légierő két F-16-osa felszállt a fetești-i 86. légibázisról.** A gépek légi rendészeti készültségben voltak, és az észlelés nyomán indultak el. A rendelkezésre álló tájékoztatás nem ismertette a repülés útvonalát vagy azt, hogy a célponttal később mi történt.\n\n• **A hatóságok két alkalommal küldtek RO-ALERT üzenetet Tulcea megye területére.** Az első értesítést 04:45-kor a megye keleti részén élők kapták meg, majd 05:39-kor az északi térség lakóit figyelmeztették. A két üzenet tehát különböző területeket érintett, és nem ugyanabban az időpontban érkezett.\n\n• **Az intézkedések összehangolásában a katonai parancsnokság és a katasztrófavédelem vett részt.** A katonai műveleti központ értesítette a katasztrófavédelmi főfelügyelőséget, amely gondoskodott a lakossági riasztásról. A védelmi minisztérium szerint a légi riasztás 05:52-kor ért véget; a közlemény további következményről nem számolt be.",
+    "title_ro": "Alertă aeriană în Tulcea după o detectare lângă Insula Șerpilor",
+    "lead_ro": "În dimineața de 14 noiembrie, radarele românești au semnalat o țintă aeriană în zona Insulei Șerpilor. Două avioane F-16 au decolat de la Fetești, iar locuitorii din județul Tulcea au primit două mesaje RO-ALERT.",
+    "content_ro": "• **O țintă aeriană a fost detectată în apropierea Insulei Șerpilor în dimineața de 14 noiembrie.** Ministerul Apărării Naționale a precizat că semnalul a fost identificat de sistemul de supraveghere radar. Comunicatul nu a indicat natura țintei și nici nu a menționat că aceasta ar fi intrat în spațiul aerian al României.\n\n• **Două avioane F-16 au decolat de la Baza 86 Aeriană Fetești.** Aeronavele se aflau în serviciul de poliție aeriană, iar ridicarea lor a urmat detectării radar. Informațiile publicate nu precizează traseul zborului și nici evoluția ulterioară a țintei observate.\n\n• **Locuitorii din două zone ale județului Tulcea au fost avertizați prin mesaje RO-ALERT.** Primul mesaj a fost transmis la ora 04:45 pentru partea de est a județului, iar al doilea a ajuns la ora 05:39 în zona de nord. Notificările au vizat, așadar, sectoare diferite și au fost trimise la intervale distincte.\n\n• **Avertizarea populației a fost coordonată de structurile militare și de cele pentru situații de urgență.** Centrul Național Militar de Comandă a anunțat Inspectoratul General pentru Situații de Urgență, care a transmis alertele. Potrivit ministerului, alerta aeriană s-a încheiat la ora 05:52; comunicarea oficială nu a semnalat alte consecințe.",
+    "importance_score": 23.0,
     "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
