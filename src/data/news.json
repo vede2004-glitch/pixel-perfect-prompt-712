@@ -2391,6 +2391,54 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_e609061e93",
+    "slug": "android-riasztas-jelezte-az-ejszakai-romaniai-fldrengest-e60906",
+    "tags": [
+      "cutremur",
+      "android",
+      "google",
+      "alerta-seismica"
+    ],
+    "fingerprint": "01f38c29bdf1cade62eb28b063187cf6",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "De ce a sunat alarma de cutremur pe sute de mii de telefoane din România, în toiul nopții. Cum funcționează sistemul Google de seism",
+        "link": "https://www.mediafax.ro/stirile-zilei/de-ce-a-sunat-alarma-de-cutremur-pe-sute-de-mii-de-telefoane-din-romania-in-toiul-noptii-cum-functioneaza-sistemul-google-de-seism-23845017"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Ce este Android Earthquake Alerts, sistemul care a făcut telefoanele să sune la cutremurul de miercuri noapte",
+        "link": "https://hotnews.ro/android-earthquake-alerts-sistemul-care-a-facut-telefoanele-sa-sune-la-cutremurul-de-miercuri-noapte-2407031"
+      },
+      {
+        "source": "Digi24",
+        "title": "Avertizarea Android Earthquake Alerts, ajunsă pe mii de telefoane din România chiar în timpul seismului",
+        "link": "https://www.digi24.ro/stiri/actualitate/avertizarea-android-earthquake-alerts-ajunsa-pe-mii-de-telefoane-din-romania-chiar-in-timpul-seismului-4041255"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cum funcționează sistemul Google care i-a avertizat pe români în timpul cutremurului din Vrancea. Telefoanele devin seismografe și pot detecta undele seismice",
+        "link": "https://www.mediafax.ro/stirile-zilei/cum-functioneaza-sistemul-google-care-i-a-avertizat-pe-romani-in-timpul-cutremurului-din-vrancea-telefoanele-devin-seismografe-si-pot-detecta-undele-seismice-23845037"
+      }
+    ],
+    "published_at": 1794970218,
+    "title_hu": "Android-riasztás jelezte az éjszakai romániai földrengést",
+    "lead_hu": "November 18-án, hajnali 2:49 körül 5,7-es földrengés történt Romániában, amelyet több térségben is éreztek. Az Android-telefonokra érkezett Google-riasztások időpontjáról és előzetes erősségbecsléséről eltérő adatok jelentek meg.",
+    "content_hu": "• **A földrengés november 18-án, hajnali 2:49 körül következett be.** Az előzetes szeizmológiai adatok 5,7-es magnitúdót és körülbelül 107,1 kilométeres mélységet jeleztek; a rengést Románia több térségében érzékelték.\n\n• **Android-készülékekre a Google rendszere küldött figyelmeztetést, nem a RO-ALERT.** A beszámolók szerint az értesítés 2:48-kor, illetve 2:49-kor jelent meg. A telefonok hangjelzése több felhasználót felébresztett, mások a képernyőn találkoztak a riasztással.\n\n• **A kezdeti erősségbecslések eltértek a későbbi hivatalos adattól.** Az egyik értesítésről szóló beszámoló 6-os, egy másik 6,5-es becslést említ, hozzávetőleg 148,4 kilométeres távolsággal. Az INFP később 5,7-es magnitúdót közölt; az eltérés a rengés első pillanataiban rendelkezésre álló adatokból adódhat.\n\n• **Az Android Earthquake Alerts System a telefonok érzékelőit használja a rengések észlelésére.** A gyorsulásmérők rezgéseket regisztrálnak; ha több készülék hasonló mozgást érzékel egy térségben, az adatok alapján a Google rendszere megbecsüli a rengés jellemzőit, majd figyelmeztetést küldhet a szeizmikus hullámok útjába eső felhasználóknak.\n\n• **A rendszer a Google Play-szolgáltatásokon keresztül működik, és másodpercekkel korábban is jelezhet.** A szolgáltatás általában alapértelmezetten aktív, de a telefon beállításaiban kézzel is bekapcsolható. A riasztások fogadásához helymeghatározás és Wi-Fi- vagy mobilinternet-kapcsolat szükséges; a hagyományos GSM-jel önmagában nem elég.",
+    "title_ro": "Alerta Google a semnalat cutremurul nocturn din România",
+    "lead_ro": "În jurul orei 02:49 din 18 noiembrie, România a fost zguduită de un cutremur cu magnitudinea de 5,7, resimțit în mai multe zone. Relatările despre ora notificărilor Android și estimarea inițială a intensității nu sunt identice.",
+    "content_ro": "• **Cutremurul s-a produs în jurul orei 02:49, pe 18 noiembrie.** Datele seismice preliminare au indicat magnitudinea 5,7 și o adâncime de aproximativ 107,1 kilometri; mișcarea a fost resimțită în mai multe regiuni ale României.\n\n• **Avertizarea pe telefoanele Android a venit prin sistemul Google, nu prin RO-ALERT.** Relatările menționează ore diferite pentru notificare: 02:48 și 02:49. Alarma sonoră i-a trezit pe unii utilizatori, în timp ce alții au văzut mesajul pe ecran.\n\n• **Estimările inițiale ale magnitudinii au fost diferite de valoarea comunicată ulterior.** O relatare indică o estimare de 6, iar alta de 6,5, împreună cu o distanță de circa 148,4 kilometri. INFP a anunțat ulterior magnitudinea 5,7; diferența poate ține de calculul făcut imediat după declanșarea seismului, pe baza informațiilor disponibile atunci.\n\n• **Android Earthquake Alerts folosește senzorii telefoanelor pentru a detecta mișcările seismice.** Accelerometrele înregistrează vibrațiile, iar când mai multe dispozitive din aceeași zonă sesizează mișcări similare, sistemul Google estimează caracteristicile cutremurului și poate trimite notificări utilizatorilor aflați pe direcția de propagare a undelor.\n\n• **Serviciul funcționează prin Google Play Services și poate avertiza cu câteva secunde înainte de sosirea undelor.** În mod obișnuit, opțiunea este activă implicit, dar poate fi pornită și din setările telefonului. Pentru primirea alertelor sunt necesare localizarea activă și o conexiune Wi-Fi sau la internet mobil; semnalul GSM clasic nu este suficient.",
+    "importance_score": 55.0,
+    "top_rank": 30,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_5b5b41126a",
     "slug": "amerikai-birosag-elvetette-a-kulfldi-diakok-es-ujsagirok-vizumkorlatozasait-5b5b41",
     "tags": [
@@ -2439,7 +2487,7 @@
     "lead_ro": "Judecătorul federal Dennis Saylor, din Boston, a invalidat regulile administrației Trump care ar fi limitat perioada petrecută în SUA de studenții și jurnaliștii străini. Instanța a considerat că măsura ridica probleme de legalitate și ar fi impus termene deosebit de scurte studenților și jurnaliștilor chinezi.",
     "content_ro": "• **Hotărârea a anulat noile reguli:** Dennis Saylor, judecător federal la Boston, a eliminat luni restricțiile introduse de administrația Trump. În motivare, el a apreciat că politica se baza pe o decizie nejustificată, depășea limitele puterii de apreciere a autorităților și încălca și alte cerințe legale.\n\n• **Administrația contestase suspendarea temporară:** Regulamentul fusese publicat în iulie, iar Saylor blocase provizoriu intrarea lui în vigoare în septembrie. Guvernul Trump a atacat această măsură interimară la o instanță superioară.\n\n• **Procesul a vizat efectele asupra educației:** Acțiunea împotriva Departamentului pentru Securitate Internă a fost inițiată de o coaliție sindicală care reprezintă universități, cadre didactice și jurnaliști. Judecătorul a subliniat că limitele propuse puteau îngreuna programele universitare de lungă durată, obținerea unor diplome comune și schimbarea specializării.\n\n• **Studenții ar fi avut nevoie de o prelungire după patru ani:** Persoanele cu viză de studii ar fi putut rămâne cel mult patru ani, după care trebuiau să solicite o perioadă suplimentară. Anterior, durata șederii lor era legată de timpul necesar finalizării studiilor.\n\n• **Regulile propuse stabileau termene diferite pentru jurnaliști:** Majoritatea jurnaliștilor străini ar fi putut sta în SUA 240 de zile și ar fi avut posibilitatea să ceară prelungiri de durată egală. Pentru jurnaliștii chinezi era prevăzut un termen de 90 de zile, în timp ce regulile precedente permiteau șederi de până la cinci ani.",
     "importance_score": 55.0,
-    "top_rank": 30,
+    "top_rank": 31,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2492,7 +2540,7 @@
     "lead_ro": "Nava Mariam M, lungă de aproximativ 100 de metri, a ajuns pe țărmul românesc la Vadu la două luni după ce a fost lovită de o dronă rusească în apropierea canalului Bâstroe. Riscurile pentru navigația din Marea Neagră pot afecta atât costurile transportului, cât și aprovizionarea României.",
     "content_ro": "• **Mariam M a eșuat la Vadu după ce fusese avariată.** Nava, de circa 100 de metri, a fost lovită de o dronă cu două luni înainte, în zona canalului Bâstroe. Deriva fără echipaj și fără marfă, iar încercarea autorităților române de a o opri și ancora nu a reușit. De la începutul războiului, este primul caz în care o navă avariată într-un incident de acest fel ajunge pe litoralul României.\n\n• **Navigația comercială din Marea Neagră se confruntă cu amenințări semnificative.** Potrivit Organizației Maritime Internaționale, în anul respectiv au fost atacate peste 570 de nave, iar cel puțin 40 de marinari au murit. Ministrul de externe Dan Neculăescu a atras atenția asupra numărului mare de drone din zonă, iar Adrian Mihălcioiu, liderul sindicatului navigatorilor români, a semnalat vulnerabilități de securitate.\n\n• **Perimetrul maritim cu risc acoperă aproximativ 70 de kilometri pătrați.** În zona dintre brațele Sfântul Gheorghe și Sulina, circa 50 de nave așteaptă să poată ieși din aria periculoasă. România a cerut sprijinul aliaților NATO pentru realizarea unui culoar sigur în Marea Neagră.\n\n• **Cheltuielile suplimentare de securitate pot majora tarifele de transport cu până la 30%.** Asigurarea navelor și a încărcăturilor, combustibilul și protecția echipajelor sporesc costurile. Pe mare sunt transportate cereale, uleiuri vegetale, combustibili, îngrășăminte și materii prime industriale. Scumpirile pot urca prețurile cerealelor și carburanților și pot întârzia aprovizionarea pieței românești.",
     "importance_score": 53.0,
-    "top_rank": 31,
+    "top_rank": 32,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2546,7 +2594,7 @@
     "lead_ro": "Ilie Bolojan afirmă că inițiativa PSD privind reorganizarea teritorială nu este însoțită, deocamdată, de soluții concrete. PNL intenționează să propună prin lege un Parlament cu cel mult 300 de membri, invocând rezultatul referendumului din 2009.",
     "content_ro": "• **Bolojan susține că propunerea PSD privind regionalizarea nu este încă susținută de un plan concret.** Fostul premier a afirmat că reorganizarea trebuie discutată pornind de la soluții detaliate. PNL ar sprijini reforma administrativă dacă aceasta ar avea o formă clară și ar putea obține susținerea unei majorități parlamentare.\n\n• **PNL va pregăti un proiect pentru reducerea numărului de parlamentari la 300.** Bolojan a prezentat inițiativa drept un semnal politic în dezbaterea despre diminuarea cheltuielilor administrative. La referendumul din 2009, 88,84% dintre votanți au susținut un Parlament de cel mult 300 de membri, iar 77,78% au votat pentru un sistem unicameral.\n\n• **Bolojan a acuzat PSD că a întârziat reducerea personalului din administrație.** Potrivit afirmației sale, partidul ar fi încetinit în ultimele luni măsurile privind eliminarea a 14.000 de posturi planificate. Materialul nu prezintă detalii despre calendarul sau aplicarea acestei reduceri.\n\n• **Reorganizarea regională ar putea întâmpina dificultăți diferite de la o zonă la alta.** Bolojan a indicat drept factori relevanți legăturile de transport, alegerea centrului regional și compatibilitatea comunităților locale. El a menționat județele Covasna și Harghita, unde o parte a comunităților românești ar fi reticentă față de asocierea cu zone în care comunitățile maghiare sunt mai numeroase, din teama pierderii identității.\n\n• **Bolojan a spus că reorganizarea nu trebuie privită doar ca o metodă de reducere a cheltuielilor.** El a făcut trimitere la analize realizate de specialiști, care examinează posibile formule de reorganizare. Discutarea soluțiilor ar necesita însă existența unei majorități în Parlament.",
     "importance_score": 53.0,
-    "top_rank": 32,
+    "top_rank": 33,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2599,7 +2647,7 @@
     "lead_ro": "Fostul premier Ilie Bolojan a comentat la Digi24 informațiile potrivit cărora o mașină a SPP ar fi fost folosită pentru transportul invitaților la nunta fiicei sale. Liderul PNL susține că a respectat legea, în timp ce în Parlament a fost inițiată o solicitare pentru înființarea unei comisii de anchetă.",
     "content_ro": "• **Bolojan respinge acuzațiile de încălcare a legii:** la Digi24, el a afirmat că a respectat toate prevederile în legătură cu nunta fiicei sale și că folosirea mașinii SPP nu a fost ilegală. Controversa a pornit de la informații privind transportarea unor invitați cu acest autoturism.\n\n• **Fostul premier afirmă că beneficiază în continuare de protecție:** potrivit explicațiilor sale, paza SPP pentru foștii șefi ai Guvernului este permanentă și poate fi refuzată printr-o declarație scrisă. Bolojan a susținut că protecția se aplică indiferent de locul în care se află sau se deplasează persoana vizată.\n\n• **Inițiativa unei anchete parlamentare a fost susținută prin semnături:** HotNews a relatat că demersul a strâns 70 de semnături din partea reprezentanților PSD, AUR și SOS România. Comisia propusă ar urma să analizeze utilizarea mașinii SPP în contextul nunții.\n\n• **Liderul PNL consideră că inițiativa are o miză politică:** Bolojan a atribuit demersul PSD și AUR și l-a prezentat drept o formă de presiune îndreptată împotriva sa. El a amintit și de comisia constituită anterior după întâlnirea sa cu Simina Tănăsescu, președinta Curții Constituționale.\n\n• **Bolojan nu a promis că se va prezenta la audieri:** el a susținut că o asemenea comisie nu ar avea un obiectiv serios și a spus că va reacționa în consecință dacă plenul Parlamentului aprobă înființarea acesteia.",
     "importance_score": 53.0,
-    "top_rank": 33,
+    "top_rank": 34,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2652,7 +2700,7 @@
     "lead_ro": "Expertul medico-legal Michael Freeman afirmă că leziunile lui Jeffrey Epstein ar putea fi compatibile cu o strangulare comisă de o altă persoană. Barbara Sampson, medicul legist care a stabilit concluzia oficială din 2019, își menține verdictul de sinucidere.",
     "content_ro": "• **Analiză bazată pe documente:** Freeman a studiat timp de aproximativ un an fotografii și acte medico-legale primite de la Mark Epstein, fratele defunctului. Nu a examinat corpul și a declarat că nu a fost remunerat de familie. Și-a prezentat evaluarea luni seară, la Londra, unde a făcut publice și materialele consultate.\n\n• **Leziuni considerate relevante:** Expertul a menționat urme pe mai multe zone ale gâtului, o sângerare profundă la umărul stâng și posibile semne de lovituri pe față. În interpretarea sa, acestea ar putea indica o agresiune înainte de moarte și o încercare a victimei de a îndepărta obiectul strâns în jurul gâtului.\n\n• **O posibilă strangulare:** Freeman consideră că un obiect asemănător unei funii sau unui șnur ar fi putut fi folosit pentru comprimarea gâtului și, ulterior, pentru suspendarea corpului de patul supraetajat din celulă. El a apreciat că este posibil ca atacul să fi venit din spate. Acestea reprezintă concluziile expertului, nu o nouă constatare oficială.\n\n• **Poziția oficială rămâne neschimbată:** Barbara Sampson, medicul legist asociat concluziei din 2019, continuă să considere că Epstein s-a sinucis. Medicul care a efectuat autopsia a transmis Departamentului de Justiție al SUA că leziunile se potrivesc mai curând cu spânzurarea și că nu au fost observate urme de apărare caracteristice unei strangulări prin agresiune.\n\n• **Limitele evaluării lui Freeman:** Expertul nu a participat la autopsie, iar analiza sa nu a fost verificată printr-un proces de evaluare profesională. Baza cercetării a fost reprezentată de fotografiile și documentele furnizate de Mark Epstein. Jeffrey Epstein a fost găsit mort la 10 august 2019, într-un centru federal de detenție din Manhattan, unde era ținut în legătură cu acuzații de trafic sexual.",
     "importance_score": 53.0,
-    "top_rank": 34,
+    "top_rank": 35,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2705,7 +2753,7 @@
     "lead_ro": "Președintele ucrainean Volodimir Zelenski a descris pe Telegram atacul nocturn asupra podului Kerci. Potrivit acestuia, acțiunea a reprezentat etapa a șaptea a unei operațiuni pregătite timp de mai multe săptămâni.",
     "content_ro": "• **Atacul a făcut parte dintr-o operațiune desfășurată în mai multe etape** – a transmis Zelenski. Conform relatării sale, planificarea și coordonarea au durat câteva săptămâni și au implicat Serviciul de Securitate al Ucrainei și Statul Major al forțelor armate.\n\n• **În fazele dinaintea loviturii asupra podului au fost vizate sisteme militare** – a susținut liderul ucrainean. El a enumerat mijloace de apărare antiaeriană, radare și echipamente de război electronic. Printre sistemele folosite a indicat Dovbush, Vendetta, Da Vinci, Sichen, MICH 2000, Ruta, Palyanitsa, An-197, FP-1, FP-5 Flamingo și R-360 Neptun.\n\n• **Cele două componente ale podului au fost atacate cu arme diferite** – a precizat Zelenski despre acțiunea din timpul nopții. Pentru partea rutieră ar fi fost utilizate drone Palyanitsa, iar împotriva căii ferate rachete Neptun, drone Ruta și sisteme FP-5. Președintele a mai afirmat că Flamingo a permis o lovitură dirijată, iar legătura de comunicații a rezistat până la încheierea operațiunii.\n\n• **Zelenski a descris podul drept un coridor de tranzit militar între Rusia și Crimeea.** El a afirmat că propunerile Kievului pentru reducerea tensiunilor au fost respinse de Moscova și a amintit atacuri rusești asupra unor poduri din zonele Zaporijjia, Dnipro, Kiev și Odesa.\n\n• **Ucraina își repară infrastructura și își păstrează capacitatea de apărare**, a declarat președintele. În opinia sa, războiul va ajunge înapoi la locul din care a pornit; totodată, a spus că Ucraina nu va răspunde prin violență împotriva orașelor și oamenilor.",
     "importance_score": 53.0,
-    "top_rank": 35,
+    "top_rank": 36,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2759,7 +2807,7 @@
     "lead_ro": "Traficul pe porțiunea de 10 kilometri dintre Tigveni și Curtea de Argeș ar putea începe la 3 decembrie. Pentru exploatarea tunelului de la Curtea de Argeș, autoritățile au pregătit o echipă temporară, în timp ce este urmărită o soluție permanentă.",
     "content_ro": "• **Circulația pe cei 10 kilometri ar putea începe la 3 decembrie.** Ministrul Transporturilor, Ștefan Ovidiu Popa, a anunțat marți că porțiunea Tigveni–Curtea de Argeș a autostrăzii A1 Sibiu–Pitești poate fi deschisă înainte de sfârșitul anului.\n\n• **Tunelul va fi deservit, în primă etapă, de o echipă temporară.** Autoritățile și constructorul au stabilit o variantă provizorie pentru supravegherea tunelului de la Curtea de Argeș, efectuarea lucrărilor de mentenanță și gestionarea intervențiilor necesare.\n\n• **CNAIR pregătește o echipă formată din personal propriu și specialiști ai PORR.** În grup vor intra angajați detașați de la secții de drumuri, alături de experți ai constructorului austriac. Deschiderea tronsonului este prevăzută după ce echipa va putea lucra efectiv.\n\n• **Pentru administrarea pe termen lung sunt necesare noi angajări.** Ministrul a transmis Guvernului un memorandum care ar permite recrutarea specialiștilor necesari funcționării tunelului.\n\n• **Măsura provizorie este destinată perioadei de tranziție.** Până la încheierea procedurilor de angajare și pregătire a personalului specializat, echipa comună ar urma să asigure condițiile de operare necesare pentru punerea în circulație a secțiunii.",
     "importance_score": 53.0,
-    "top_rank": 36,
+    "top_rank": 37,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2813,7 +2861,7 @@
     "lead_ro": "Bucureștiul s-a clasat pe poziția 39 din 40 în evaluarea Clean Cities și nu a îndeplinit niciunul dintre cele patru criterii analizate privind calitatea aerului. În paralel, municipalitatea și Ministerul Mediului au transmis Comisiei Europene propuneri referitoare la încălzirea locuințelor și curățenia stradală.",
     "content_ro": "• **Bucureștiul a ajuns pe penultimul loc al clasamentului:** în evaluarea Clean Cities, care a cuprins 40 de orașe, Capitala a primit calificativul F. Nu a respectat niciunul dintre cele patru standarde europene privind aerul incluse în analiză; 18 orașe au avut același rezultat, iar 37 au ratat cel puțin un criteriu.\n\n• **Cele mai slabe rezultate se concentrează în sudul, centrul și estul Europei:** toate cele 11 orașe notate cu E sau F se află în aceste regiuni. Atena și București ocupă ultimele două poziții, iar Zagreb, Torino, zona metropolitană a orașului Milano, Cracovia, Wrocław, Varșovia, Roma, Praga și Budapesta sunt, de asemenea, în categoria inferioară.\n\n• **Numai trei dintre marile orașe analizate ar respecta normele UE revizuite pentru doi poluanți atmosferici periculoși:** Copenhaga, zona metropolitană Stockholm și zona metropolitană Helsinki. Integrarea noilor cerințe în legislația europeană este prevăzută până la sfârșitul lui 2026, iar aplicarea lor ar urma să înceapă în 2030.\n\n• **Conversia sistemelor de încălzire din 15.000 de locuințe bucureștene figurează printre propunerile trimise Comisiei Europene:** Primăria Capitalei și Ministerul Mediului au inclus trecerea la soluții cu emisii reduse sau zero. Pachetul prevede și reguli mai stricte pentru salubrizarea străzilor; Garda Națională de Mediu îl susține, iar unele măsuri sunt legate de planul local pentru calitatea aerului.\n\n• **În ultimii șase ani, amenzile pentru nerespectarea obligațiilor privind calitatea aerului au însumat 652.500 de lei:** 480.000 de lei au vizat Primăria Capitalei, iar 172.500 de lei au fost aplicate primăriilor de sector. Andrei Corlan, șeful Gărzii Naționale de Mediu, consideră necesare acțiuni coordonate și menținute pe termen lung.",
     "importance_score": 53.0,
-    "top_rank": 37,
+    "top_rank": 38,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2866,7 +2914,7 @@
     "lead_ro": "Comisia Europeană consideră, într-o evaluare preliminară, că Temu nu își îndeplinește suficient obligațiile de reducere a riscului de comercializare a produselor ilegale. Platforma ar putea primi o nouă amendă de până la 6% din veniturile sale anuale globale, însă contestă concluziile.",
     "content_ro": "• **Comisia Europeană apreciază că Temu nu limitează suficient riscul prezenței produselor ilegale.** Potrivit evaluării preliminare, verificarea produselor, moderarea conținutului și sancțiunile aplicate comercianților nu sunt destul de eficiente. Procedura vizează obligațiile platformei în baza Actului legislativ privind serviciile digitale, cunoscut ca DSA.\n\n• **Documentele de testare sunt solicitate pentru puține produse, iar verificarea lor nu este întotdeauna realizată.** Comisia arată că jucăriile, articolele electronice și cosmeticele sunt considerate categorii cu risc mai ridicat, dar nu primesc prioritate la controalele fizice. Instituția critică și urmărirea rezultatelor verificărilor la fața locului, precum și lipsa extinderii inspecțiilor atunci când este necesar.\n\n• **O sancțiune suplimentară ar putea ajunge la 6% din cifra de afaceri anuală globală.** Temu are dreptul să răspundă acuzațiilor și să prezinte măsuri corective. Henna Virkkunen, vicepreședinta Comisiei responsabilă de domeniul digital, a subliniat că platformele online au un rol în protejarea utilizatorilor de riscurile asociate produselor și conținutului ilegale.\n\n• **Compania respinge evaluarea preliminară a Bruxelles-ului.** Temu afirmă că alocă resurse și expertiză pentru respectarea regulilor și că folosește mai multe instrumente de control. Reprezentanții săi susțin că produsele problematice apar rar și spun că speră să găsească o soluție la preocupările Comisiei.\n\n• **În luna mai, Temu a primit deja o amendă de 200 de milioane de euro într-un alt caz.** Investigația UE din care face parte procedura actuală a fost lansată în 2024. Eventuala sancțiune de acum este separată, iar constatările preliminare trebuie urmate de continuarea procedurii înainte de o decizie definitivă.",
     "importance_score": 53.0,
-    "top_rank": 38,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2920,7 +2968,7 @@
     "lead_ro": "Avertizările de ploi pentru județele Satu Mare și Bihor intră în vigoare marți seara, iar în zonele montane sunt prognozate rafale puternice. Hidrologii au emis, de asemenea, alerte pentru mai multe râuri, inclusiv un cod portocaliu valabil miercuri pe cursuri de apă din nouă județe.",
     "content_ro": "• **Avertizările de ploi încep marți, 17 noiembrie, la ora 20 și se încheie miercuri seara.** Zonele joase din Satu Mare și Bihor vor avea cod galben, iar cele montane, cod portocaliu. În restul județelor sunt estimate, în general, 25–50 l/mp, cu precipitații mai ales sub formă de averse.\n\n• **În munți, cantitățile de apă pot ajunge izolat la 80–90 l/mp.** Prognoza indică, de regulă, 50–70 l/mp, fie în intervale scurte, fie prin acumulare. În unele zone sunt posibile ploi torențiale.\n\n• **Miercuri, între orele 2 și 20, codul portocaliu de viituri vizează râuri din nouă județe.** Alerta include bazinul râului Tur în Satu Mare și bazinul superior al Crișului Negru în Bihor. Sunt menționate și cursuri de apă din Maramureș, Bistrița-Năsăud, Hunedoara, Arad, Alba, Caraș-Severin și Timiș; pe unele râuri, nivelurile pot atinge sau depăși cotele de apărare.\n\n• **Codul galben hidrologic este valabil de marți, ora 20, până joi, la ora 6.** Avertizarea semnalează posibilitatea unor scurgeri importante de pe versanți, viituri rapide și creșteri de debite și niveluri. Printre cursurile menționate se află Tur, Iza, Lăpuș, Crișul Repede și Crișul Negru.\n\n• **În zona montană a Bihorului, vântul poate sufla cu 70–90 km/h, iar la altitudini mari cu 90–120 km/h.** Avertizarea separată este în vigoare marți, între orele 10 și miercuri, ora 10. Informarea națională privind vântul se prelungește până vineri, la ora 10; în general, rafalele pot atinge 45–55 km/h, cu valori mai ridicate la munte.",
     "importance_score": 50.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2974,7 +3022,7 @@
     "lead_ro": "Kaja Kallas susține că tratatele Uniunii îi atribuie responsabilități în politica externă și de securitate și afirmă că este pregătită să participe la negocierile de pace pentru Ucraina. Ea a fost însă lăsată în afara delegației europene stabilite la Dublin, iar reprezentanți ai unor state membre au criticat formula de reprezentare.",
     "content_ro": "• **Kallas își întemeiază cererea pe tratate:** În fața presei la Bruxelles, șefa diplomației UE a susținut că atribuțiile sale includ politica externă și de securitate și că ar accepta să negocieze. La reuniunea de la Dublin le-a reamintit liderilor că ei au numit-o în funcție în 2024.\n\n• **Delegația are șapte membri:** António Costa a prezentat la Dublin componența echipei, cu consilieri pentru securitate națională din Franța, Germania, Polonia, Italia și Regatul Unit, alături de reprezentanți ai Comisiei Europene și ai Consiliului European. Kallas și Serviciul European de Acțiune Externă pe care îl conduce nu au fost incluși.\n\n• **Au apărut obiecții din partea unor state:** Miniștrii de externe ai Spaniei și Lituaniei au criticat formula de reprezentare. Kęstutis Budrys a cerut o poziție comună a UE, un mandat de negociere bine definit și proceduri pentru stabilirea acestuia.\n\n• **Motivele excluderii sunt interpretate diferit:** Potrivit unor relatări, Giorgia Meloni a considerat că poziția instituțională a lui Kallas nu este suficient de puternică, iar Costa și Ursula von der Leyen nu au susținut-o public. Unii diplomați au legat decizia de criticile acesteia la adresa lui Donald Trump; alții au spus că formatul a fost gândit pentru consilieri care raportează direct liderilor naționali.\n\n• **Sunt invocate și tensiuni anterioare:** Kallas a fost criticată pentru declarații despre China și Israel și pentru inițiative lansate fără consultarea prealabilă a capitalelor. Proiectul unui grup de experți în apărare a fost amânat în septembrie după opoziția Italiei, Franței și a altor state. Un diplomat a remarcat și că Kallas s-a opus o perioadă negocierilor directe cu Rusia, apoi a solicitat un rol de emisar.",
     "importance_score": 50.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3027,7 +3075,7 @@
     "lead_ro": "Potrivit Poliției Române, câteva aparate radar au fost scoase temporar din serviciu pentru verificări tehnice, nu în urma unui presupus atac informatic. La nivel național, polițiștii rutieri folosesc peste 700 de radare funcționale.",
     "content_ro": "• **Poliția respinge ipoteza unui atac informatic:** Centrul de Informare și Relații Publice al instituției a transmis marți că retragerea temporară a unor radare nu a fost provocată de un incident informatic. Autoritățile nu asociază verificările tehnice cu presupusul atac asupra aparatelor.\n\n• **Peste 700 de radare funcționează în țară:** acesta este numărul aparatelor disponibile polițiștilor rutieri pentru acțiunile de control la nivel național. O parte dintre echipamente nu participă momentan la supravegherea traficului, fiind scoase temporar din uz.\n\n• **Aparatele retrase sunt supuse unor evaluări tehnice:** verificările urmăresc să stabilească dacă radarele măsoară și înregistrează cu precizie abaterile din trafic. Autoritățile au indicat că aceste evaluări sunt necesare pentru fiabilitatea constatărilor făcute în timpul controalelor.\n\n• **Decizia privind utilizarea va veni după evaluare:** în funcție de rezultate, se va stabili dacă fiecare aparat poate reveni în serviciu. Măsura temporară nu presupune casarea radarelor și nici nu înseamnă că acestea au fost eliminate definitiv din dotare.",
     "importance_score": 50.0,
-    "top_rank": 41,
+    "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3081,7 +3129,7 @@
     "lead_ro": "Japonia a protestat marți pe lângă Moscova, după ce aeronave considerate rusești au intrat în spațiul său aerian, în apropiere de prefectura Fukuoka. Taiwanul și Coreea de Sud au semnalat, de asemenea, activitatea unor avioane rusești în regiune, fără ca Seulul să raporteze o încălcare a propriului spațiu aerian suveran.",
     "content_ro": "• **Două aeronave presupuse a fi rusești au intrat marți în spațiul aerian japonez**, puțin după ora 04:00, în apropierea insulei Okinoshima, din prefectura Fukuoka, în sud-vestul țării. Autoritățile nipone au descris incidentul drept o atingere adusă suveranității și securității Japoniei.\n\n• **Forțele japoneze de autoapărare au ridicat avioane de vânătoare** pentru a intercepta aparatele și au emis avertizări. Minoru Kihara, purtătorul de cuvânt al guvernului, a anunțat că Tokyo a transmis Moscovei un protest diplomatic ferm și a cerut prevenirea unor incidente similare.\n\n• **Traseul aeronavelor a trecut prin strâmtoarea Tsushima**, apoi printre insula Yonaguni și Taiwan, continuând către Oceanul Pacific. Comunicatele japoneze nu au precizat tipul aparatelor, iar atribuirea lor Rusiei a fost prezentată ca o presupunere.\n\n• **Taiwanul a detectat două avioane militare rusești în largul coastei sale estice.** Potrivit ministerului apărării, acestea au părăsit zona de identificare a apărării aeriene la sud de Taitung. Instituția a transmis că le-a urmărit cu mijloace de supraveghere, fără să ofere alte detalii.\n\n• **Coreea de Sud și-a mobilizat, la rândul ei, avioanele de vânătoare**, după ce aeronave militare rusești au pătruns în zona sa de identificare a apărării aeriene deasupra Mării Japoniei. Seulul a precizat că aparatele nu au intrat în spațiul aerian suveran sud-coreean; zona de identificare are un statut diferit de acesta.",
     "importance_score": 50.0,
-    "top_rank": 42,
+    "top_rank": 43,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3130,7 +3178,7 @@
     "lead_ro": "Dolores Aveiro, mama lui Cristiano Ronaldo, a surprins după ce a spus că „se bucură că Portugalia a pierdut”. Lusitanii au cedat neașteptat, scor 1-4, pe propriul teren, duelul cu Danemarca din Liga N...",
     "content_ro": "Dolores Aveiro, mama lui Cristiano Ronaldo, a surprins după ce a spus că „se bucură că Portugalia a pierdut”. Lusitanii au cedat neașteptat, scor 1-4, pe propriul teren, duelul cu Danemarca din Liga Națiunilor la fotbal. Portugalia le-a oferit fanilor o surpriză neplăcută la duelul de acasă cu Danemarca: înfrângere cu 4-1. Dolores Aveiro, mama […] © G4Media.ro.",
     "importance_score": 50.0,
-    "top_rank": 43,
+    "top_rank": 44,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3183,49 +3231,6 @@
     "lead_ro": "Pacienții români nu vor mai fi nevoiți să transporte între cabinete și spitale bilete de trimitere, scrisori medicale sau alte documente necesare pentru consultații și investigații. Începând cu 1 ianu…",
     "content_ro": "Pacienții români nu vor mai fi nevoiți să transporte între cabinete și spitale bilete de trimitere, scrisori medicale sau alte documente necesare pentru consultații și investigații. Începând cu 1 ianuarie 2027, aceste documente vor fi gestionate electronic.",
     "importance_score": 50.0,
-    "top_rank": 44,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_e609061e93",
-    "slug": "android-riasztas-jelezte-az-ejszakai-romaniai-fldrengest-e60906",
-    "tags": [
-      "cutremur",
-      "android",
-      "google",
-      "alerta-seismica"
-    ],
-    "fingerprint": "01f38c29bdf1cade62eb28b063187cf6",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "De ce a sunat alarma de cutremur pe sute de mii de telefoane din România, în toiul nopții. Cum funcționează sistemul Google de seism",
-        "link": "https://www.mediafax.ro/stirile-zilei/de-ce-a-sunat-alarma-de-cutremur-pe-sute-de-mii-de-telefoane-din-romania-in-toiul-noptii-cum-functioneaza-sistemul-google-de-seism-23845017"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Ce este Android Earthquake Alerts, sistemul care a făcut telefoanele să sune la cutremurul de miercuri noapte",
-        "link": "https://hotnews.ro/android-earthquake-alerts-sistemul-care-a-facut-telefoanele-sa-sune-la-cutremurul-de-miercuri-noapte-2407031"
-      },
-      {
-        "source": "Digi24",
-        "title": "Avertizarea Android Earthquake Alerts, ajunsă pe mii de telefoane din România chiar în timpul seismului",
-        "link": "https://www.digi24.ro/stiri/actualitate/avertizarea-android-earthquake-alerts-ajunsa-pe-mii-de-telefoane-din-romania-chiar-in-timpul-seismului-4041255"
-      }
-    ],
-    "published_at": 1794970218,
-    "title_hu": "Android-riasztás jelezte az éjszakai romániai földrengést",
-    "lead_hu": "November 18-án, hajnali 2:49 körül 5,7-es földrengés történt Romániában, amelyet több térségben is éreztek. Az Android-telefonokra érkezett Google-riasztások időpontjáról és előzetes erősségbecsléséről eltérő adatok jelentek meg.",
-    "content_hu": "• **A földrengés november 18-án, hajnali 2:49 körül következett be.** Az előzetes szeizmológiai adatok 5,7-es magnitúdót és körülbelül 107,1 kilométeres mélységet jeleztek; a rengést Románia több térségében érzékelték.\n\n• **Android-készülékekre a Google rendszere küldött figyelmeztetést, nem a RO-ALERT.** A beszámolók szerint az értesítés 2:48-kor, illetve 2:49-kor jelent meg. A telefonok hangjelzése több felhasználót felébresztett, mások a képernyőn találkoztak a riasztással.\n\n• **A kezdeti erősségbecslések eltértek a későbbi hivatalos adattól.** Az egyik értesítésről szóló beszámoló 6-os, egy másik 6,5-es becslést említ, hozzávetőleg 148,4 kilométeres távolsággal. Az INFP később 5,7-es magnitúdót közölt; az eltérés a rengés első pillanataiban rendelkezésre álló adatokból adódhat.\n\n• **Az Android Earthquake Alerts System a telefonok érzékelőit használja a rengések észlelésére.** A gyorsulásmérők rezgéseket regisztrálnak; ha több készülék hasonló mozgást érzékel egy térségben, az adatok alapján a Google rendszere megbecsüli a rengés jellemzőit, majd figyelmeztetést küldhet a szeizmikus hullámok útjába eső felhasználóknak.\n\n• **A rendszer a Google Play-szolgáltatásokon keresztül működik, és másodpercekkel korábban is jelezhet.** A szolgáltatás általában alapértelmezetten aktív, de a telefon beállításaiban kézzel is bekapcsolható. A riasztások fogadásához helymeghatározás és Wi-Fi- vagy mobilinternet-kapcsolat szükséges; a hagyományos GSM-jel önmagában nem elég.",
-    "title_ro": "Alerta Google a semnalat cutremurul nocturn din România",
-    "lead_ro": "În jurul orei 02:49 din 18 noiembrie, România a fost zguduită de un cutremur cu magnitudinea de 5,7, resimțit în mai multe zone. Relatările despre ora notificărilor Android și estimarea inițială a intensității nu sunt identice.",
-    "content_ro": "• **Cutremurul s-a produs în jurul orei 02:49, pe 18 noiembrie.** Datele seismice preliminare au indicat magnitudinea 5,7 și o adâncime de aproximativ 107,1 kilometri; mișcarea a fost resimțită în mai multe regiuni ale României.\n\n• **Avertizarea pe telefoanele Android a venit prin sistemul Google, nu prin RO-ALERT.** Relatările menționează ore diferite pentru notificare: 02:48 și 02:49. Alarma sonoră i-a trezit pe unii utilizatori, în timp ce alții au văzut mesajul pe ecran.\n\n• **Estimările inițiale ale magnitudinii au fost diferite de valoarea comunicată ulterior.** O relatare indică o estimare de 6, iar alta de 6,5, împreună cu o distanță de circa 148,4 kilometri. INFP a anunțat ulterior magnitudinea 5,7; diferența poate ține de calculul făcut imediat după declanșarea seismului, pe baza informațiilor disponibile atunci.\n\n• **Android Earthquake Alerts folosește senzorii telefoanelor pentru a detecta mișcările seismice.** Accelerometrele înregistrează vibrațiile, iar când mai multe dispozitive din aceeași zonă sesizează mișcări similare, sistemul Google estimează caracteristicile cutremurului și poate trimite notificări utilizatorilor aflați pe direcția de propagare a undelor.\n\n• **Serviciul funcționează prin Google Play Services și poate avertiza cu câteva secunde înainte de sosirea undelor.** În mod obișnuit, opțiunea este activă implicit, dar poate fi pornită și din setările telefonului. Pentru primirea alertelor sunt necesare localizarea activă și o conexiune Wi-Fi sau la internet mobil; semnalul GSM clasic nu este suficient.",
-    "importance_score": 45.0,
     "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
@@ -3949,49 +3954,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_473905cb78",
-    "slug": "a-nemzeti-szekesegyhaz-november-30-an-is-zarva-marad-473905",
-    "tags": [
-      "catedrala-nationala",
-      "patriarhia-romana",
-      "sfantul-andrei",
-      "lucrari"
-    ],
-    "fingerprint": "0f764a2f45c59712bd5b57a3da194bad",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Catedrala Mântuirii Neamului rămâne închisă de Sfântul Andrei. Când ar putea fi redeschisă pentru credincioși",
-        "link": "https://adevarul.ro/stiri-interne/societate/catedrala-mantuirii-neamului-ramane-inchisa-de-2572330.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "De ce nu va fi deschisă Catedrala Naţională la sărbătoarea Sfântului Apostol Andrei. Anunţul Patriarhiei",
-        "link": "https://www.digi24.ro/stiri/de-ce-nu-va-fi-deschisa-catedrala-nationala-la-sarbatoarea-sfantului-apostol-andrei-anuntul-patriarhiei-4040971"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "De ce nu va fi deschisă Catedrala Naţională la sărbătoarea Sfântului Apostol Andrei. „Sperăm în 2027”, spune Patriarhia",
-        "link": "https://hotnews.ro/de-ce-nu-va-fi-deschisa-catedrala-nationala-la-sarbatoarea-sfantului-apostol-andrei-speram-in-2027-spune-patriarhia-2406969"
-      }
-    ],
-    "published_at": 1794950659,
-    "title_hu": "A Nemzeti Székesegyház november 30-án is zárva marad",
-    "lead_hu": "A bukaresti Nemzeti Székesegyház belső munkálatai miatt 2026. november 30-án sem fogad látogatókat. A Szent András ünnepéhez kötődő istentiszteletet egy közeli kápolnában tartják; az épület megnyitását a munkák befejezése után, várhatóan 2027-ben tervezik.",
-    "content_hu": "• **November 30-án nem nyitják meg a bukaresti Nemzeti Székesegyházat.** A Román Ortodox Egyház közlése szerint 2026-ban is folytatódnak a belső munkálatok, ezért a hívők az apostolként tisztelt Szent András ünnepén sem léphetnek be az épületbe. Ez az alkalom a székesegyház második búcsúünnepe.\n\n• **Az ünnepi szertartás helyszíne a közeli „Az Úr feltámadása” kápolna lesz.** A kápolna a székesegyház közelében található, és ott tartják meg az ünnephez kapcsolódó liturgiát. Szent Andrást Románia védőszentjeként tisztelik.\n\n• **A látogatók egyelőre csak kívülről tekinthetik meg az épületet.** A belső terek nem látogathatók; a székesegyház a környező esplanádról, vagyis a külső térről látható. A tájékoztatás nem közölt pontos időpontot a munkálatok befejezésére.\n\n• **A belső munkák lezárása után nyílhat meg újra a székesegyház.** A patriarchátus várakozása szerint erre 2027-ben kerülhet sor. Ezt követően a hívők részt vehetnek a liturgiákon, a zarándokok és más érdeklődők pedig belülről is felkereshetik az épületet.",
-    "title_ro": "Catedrala Națională va rămâne închisă și pe 30 noiembrie",
-    "lead_ro": "Lucrările din interiorul Catedralei Naționale din București vor împiedica accesul publicului și la 30 noiembrie 2026. Slujba de Sfântul Andrei este programată la un paraclis din apropiere, iar redeschiderea edificiului este estimată pentru 2027, după finalizarea intervențiilor.",
-    "content_ro": "• **Catedrala Națională din București nu va primi vizitatori pe 30 noiembrie.** Potrivit Patriarhiei Române, în 2026 vor continua lucrările din interior, astfel că publicul nu va putea intra în lăcaș de sărbătoarea Sfântului Apostol Andrei. Evenimentul marchează al doilea hram al catedralei.\n\n• **Slujba dedicată sărbătorii va avea loc la Paraclisul „Învierea Domnului”.** Acesta se află în apropierea Catedralei Naționale și va găzdui liturghiile legate de ziua de 30 noiembrie. Sfântul Andrei este cinstit ca ocrotitor al României.\n\n• **Deocamdată, edificiul poate fi văzut doar din exterior.** Accesul în spațiile interioare este restricționat, iar vizitatorii îl pot privi din zona esplanadei. Patriarhia nu a indicat o dată exactă la care lucrările vor fi încheiate.\n\n• **Redeschiderea este avută în vedere după terminarea lucrărilor interioare.** Estimarea Patriarhiei este ca acest lucru să se întâmple în 2027. Ulterior, credincioșii ar urma să poată participa la slujbe în catedrală, iar pelerinii și ceilalți vizitatori să intre pentru a o vedea.",
-    "importance_score": 38.0,
-    "top_rank": 61,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_310a368610",
     "slug": "sloboziaban-rendezi-a-petrolul-elleni-merkozeset-a-dinamo-310a36",
     "tags": [
@@ -4031,7 +3993,7 @@
     "lead_ro": "Dinamo o va întâlni pe Petrolul la Slobozia, pe 21 noiembrie, în etapa a 16-a a SuperLigii. Problemele gazonului de pe Arena Națională au impus mutarea, iar clubul bucureștean a criticat efectele deciziei asupra echipei și suporterilor.",
     "content_ro": "• **Meciul Dinamo–Petrolul a fost mutat la Slobozia:** partida din etapa a 16-a începe sâmbătă, 21 noiembrie, la ora 20:30. Clubul a informat Liga Profesionistă de Fotbal că întâlnirea se va disputa pe stadionul 1 Mai.\n\n• **Arena Națională nu este disponibilă pentru acest joc:** stadionul a fost închis din nou din cauza intervențiilor și problemelor legate de gazon. Potrivit HotNews, suprafața fusese instalată cu aproximativ două luni înainte, iar Dinamo a susținut că lucrările afectează și înțelegerea existentă cu administratorii arenei.\n\n• **Nu a fost identificată o variantă potrivită în București:** pe stadionul Arcul de Triumf este programat, pe 20 noiembrie, meciul de rugby România–Canada, iar starea terenului nu permite folosirea lui pentru partida de fotbal. Slobozia se află la peste o sută de kilometri de Capitală.\n\n• **Schimbarea afectează și suporterii care cumpăraseră bilete:** înainte de mutare fuseseră vândute aproximativ 6.000 de tichete, fără a include abonamentele. Stadionul din Slobozia are tot 6.000 de locuri și dispune de gazon hibrid nou, drenaj, irigare automată și încălzire electrică.\n\n• **Clubul consideră că accesul la stadioane este o problemă repetată:** Dinamo a precizat că decizia luată deocamdată privește numai partida cu Petrolul. Nu a fost stabilit încă locul de desfășurare pentru întâlnirea cu Oțelul Galați, programată pe 7 decembrie.",
     "importance_score": 38.0,
-    "top_rank": 62,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4075,7 +4037,7 @@
     "lead_ro": "Jensen Huang a spus că ar accepta să redevină director general al Nvidia dacă i-ar solicita acest lucru consiliul de administrație. Adevărul, citând The Guardian, a relatat însă că membrii consiliului nu iau în calcul revenirea sa; plecarea a urmat unor dezvăluiri despre relațiile sale personale.",
     "content_ro": "• **Demisia și condițiile unei reveniri:** Fondatorul Nvidia, companie înființată în 1993, a renunțat săptămâna trecută la funcția de director general. Huang a afirmat că ar reveni dacă membrii consiliului ar considera că acest lucru este în interesul acționarilor, angajaților, companiei și Statelor Unite. ProTV Stiri a relatat că angajați, investitori, parteneri de afaceri și clienți i-au cerut să se întoarcă.\n\n• **Poziția atribuită consiliului:** Adevărul, care citează The Guardian, a scris că boardul Nvidia nu intenționează să îl readucă pe Huang la conducerea companiei. Relatarea contrastează cu disponibilitatea exprimată public de acesta, iar decizia privind o eventuală revenire aparține consiliului.\n\n• **Dezvăluirile legate de plecare:** Potrivit Adevărul, demisia a venit după apariția unor informații despre relațiile personale ale lui Huang. Publicația a menționat o femeie prezentată drept presupusă spioană chineză, Alice Huang, și mai mulți angajați ai companiei. Alice Huang a fost anterior directoare la Megaspeed. Acestea sunt acuzații și relatări, nu fapte stabilite.\n\n• **Investigații și restricții comerciale:** Nvidia a început o verificare internă privind legătura dintre Huang și Alice Huang. Autoritățile americane investighează Megaspeed din 2024, suspectând că aceasta ar fi direcționat cipuri avansate pentru inteligență artificială către companii chineze, posibil cu încălcarea restricțiilor la export. În iunie 2025, Nvidia a introdus Megaspeed pe lista internă a firmelor cărora nu le mai vinde produse.\n\n• **Petiție și rezultate financiare:** Conform Adevărul, o petiție susținută de lideri din Silicon Valley, care cere revenirea lui Huang, a depășit 178.000 de semnături. Nvidia urmează să publice rezultatele trimestriale pe 17 noiembrie, după închiderea bursei; investitorii și analiștii ar putea întreba atunci despre viitorul lui Huang. Acesta și-a recunoscut greșelile personale, și-a asumat răspunderea și a promis că va coopera cu ancheta independentă a consiliului.",
     "importance_score": 38.0,
-    "top_rank": 63,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4119,7 +4081,7 @@
     "lead_ro": "Raportul elaborat de Alan Milburn la solicitarea guvernului ar putea recomanda reducerea ajutoarelor pentru persoanele sub 25 de ani și extinderea stagiilor obligatorii de muncă. În al doilea trimestru al acestui an, 981.000 de britanici cu vârste între 16 și 24 de ani nu aveau un loc de muncă și nu urmau studii sau cursuri de formare.",
     "content_ro": "• **Raportul lui Alan Milburn propune o reformă amplă a sprijinului social și a măsurilor de ocupare destinate tinerilor.** Documentul, realizat la cererea guvernului, urma să fie publicat integral marți. Executivul și-a exprimat deja susținerea pentru măsurile incluse în raport.\n\n• **Printre recomandări se află diminuarea ajutoarelor acordate persoanelor sub 25 de ani.** Raportul ar propune și mai multe stagii de muncă obligatorii pentru tinerii aflați de multă vreme în șomaj. Schimbările vizează atât prestațiile sociale, cât și programele care îi sprijină să intre pe piața muncii.\n\n• **În al doilea trimestru al acestui an, 981.000 de britanici cu vârste între 16 și 24 de ani făceau parte din categoria NEET.** Termenul se referă la persoanele care nu lucrează, nu sunt înscrise într-o instituție de învățământ și nu participă la formare profesională. Numărul reprezenta 13% din totalul tinerilor din această grupă de vârstă.\n\n• **Datele Eurostat publicate la sfârșitul lunii mai indicau ponderi mai ridicate în mai multe state.** România înregistra 19,2%, Bulgaria 13,8%, iar Grecia 13,6% dintre tineri în categoria NEET. Pentru Regatul Unit, articolul menționează o pondere de 13% în anul precedent.\n\n• **Publicarea versiunii complete a raportului era programată marți, la ora 11:30 GMT.** Andy Burnham afirmase anterior că sunt necesare măsuri bazate pe concluziile documentului. Recomandările urmăresc să încurajeze participarea tinerilor la muncă.",
     "importance_score": 38.0,
-    "top_rank": 64,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4152,7 +4114,7 @@
     "lead_ro": "Cutremurul cu magnitudinea de 5,7 din Vrancea i-a trezit din somn pe numeroși români și a provocat panică în mai multe orașe. Pe Reddit, oamenii au povestit cum au simțit seismul și cât de puternic s-…",
     "content_ro": "Cutremurul cu magnitudinea de 5,7 din Vrancea i-a trezit din somn pe numeroși români și a provocat panică în mai multe orașe. Pe Reddit, oamenii au povestit cum au simțit seismul și cât de puternic s-au zguduit locuințele.",
     "importance_score": 35.0,
-    "top_rank": 65,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4190,7 +4152,7 @@
     "lead_ro": "Corpul ceresc 1998 KY26, cu un diametru estimat la aproximativ 11 metri, orbitează în jurul Soarelui, dar prezintă mici deviații pe care gravitația nu le explică singură. Un studiu recent pune sub semnul întrebării ipoteza că gheața ar putea cauza acest comportament.",
     "content_ro": "• **Mișcarea lui 1998 KY26 continuă să ridice probleme de interpretare.** Obiectul, catalogat inițial ca asteroid, are în jur de 11 metri și se deplasează pe o orbită solară. Măsurătorile au indicat schimbări reduse ale traiectoriei, insuficient explicate prin efectele gravitaționale cunoscute.\n\n• **Descoperirea corpului ceresc datează din 1998.** Astronomul Tom Gehrels, afiliat Universității din Arizona, l-a identificat. Accelerațiile neobișnuite observate ulterior au făcut ca obiectul să fie analizat în mai multe cercetări.\n\n• **Ipoteza unei comete întunecate rămâne incertă.** Aceasta ar putea explica o accelerație asemănătoare celei întâlnite la comete, chiar dacă obiectul nu are o coadă vizibilă. În cazul cometelor obișnuite, încălzirea gheții de către Soare eliberează gaze, care pot influența deplasarea.\n\n• **Studiul apărut în revista Icarus contestă explicația bazată pe gheață.** Cercetătorii au calculat o temperatură medie de aproximativ minus 47 de grade Celsius și au apreciat că, în condițiile analizate, aceasta este prea ridicată pentru ca gheața să explice comportamentul măsurat.\n\n• **Natura obiectului nu este stabilită cu certitudine.** Darryl Z. Seligman, fizician și astronom la Universitatea de Stat din Michigan, a arătat că identificarea gheții ar susține clasificarea drept cometă. Temperatura estimată la suprafață slăbește însă această interpretare și complică încadrarea lui 1998 KY26.",
     "importance_score": 35.0,
-    "top_rank": 66,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4234,7 +4196,7 @@
     "lead_ro": "Curtea Constituțională a publicat motivarea hotărârii prin care a declarat inadmisibilă sesizarea depusă de fostul premier Ilie Bolojan. Majoritatea a apreciat că procedura conflictului constituțional nu poate fi folosită pentru contestarea unei hotărâri judecătorești, mai ales în condițiile în care Guvernul nu și-a respectat propriul calendar de plată.",
     "content_ro": "• **Hotărârea CCR din 7 octombrie a fost susținută de cinci dintre cei nouă judecători:** Curtea a considerat inadmisibilă sesizarea fostului premier Ilie Bolojan, referitoare la un conflict între Guvern și Înalta Curte în legătură cu restanțele salariale ale magistraților. Valoarea acestora depășește un miliard de euro.\n\n• **Majoritatea a apreciat că disputa nu constituie un conflict de competență constituțională:** în opinia celor cinci judecători, Guvernul nu poate cere CCR să reevalueze o hotărâre a instanței și nici nu poate evita obligațiile de plată stabilite prin decizii judecătorești. O asemenea analiză nu intră în atribuțiile Curții Constituționale.\n\n• **Judecătorii au invocat nerespectarea de către Executiv a propriilor reguli de plată:** statul poate achita eșalonat sumele stabilite de instanțe, însă trebuie să urmeze calendarul pe care l-a instituit. Pentru majoritate, neîndeplinirea acestui angajament a stat la originea sesizării.\n\n• **Trei opinii separate au pus sub semnul întrebării rolul Înaltei Curți:** Simina Tănăsescu și Dacian-Cosmin Dragoș au considerat că instanța supremă a intervenit în procedura bugetară, depășind limitele puterii judecătorești. Iuliana Scântei a susținut că sesizarea trebuia examinată pe fond, pentru a clarifica dacă au fost afectate atribuțiile Guvernului și Parlamentului.\n\n• **Asztalos Csaba-Ferenc a fost de acord cu inadmisibilitatea, dar a propus o altă justificare:** opinia sa a subliniat necesitatea cooperării constituționale între instituțiile statului. Ceilalți cinci judecători care au susținut soluția au fost Gheorghe Stan, Cristian Deliorga, Bogdan Licu, Mihai Busuioc și Mihaela Chiochină.",
     "importance_score": 35.0,
-    "top_rank": 67,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4277,7 +4239,7 @@
     "lead_ro": "Un accident mortal a avut loc în dimineața zilei de 17 noiembrie, pe strada Voinicenilor din Târgu Mureș, unde s-au ciocnit o motocicletă și o autoutilitară. Tânărul de 16 ani aflat pe motocicletă nu a putut fi resuscitat.",
     "content_ro": "• **Accidentul s-a produs în dimineața zilei de 17 noiembrie, la Târgu Mureș.** Pe strada Voinicenilor, o motocicletă și o autoutilitară au intrat în coliziune; primele informații indică un impact lateral între cele două vehicule.\n\n• **Motocicleta era condusă de un tânăr de 16 ani din Chibed.** Acesta se deplasa dinspre Chibed către Târgu Mureș, când s-a ciocnit cu autoutilitara care venea din sens opus. La volanul acesteia se afla un bărbat de 31 de ani din județul Dâmbovița.\n\n• **Tânărul a murit la locul accidentului.** Echipajele de intervenție l-au găsit în stop cardio-respirator și au început manevrele de resuscitare. Acestea nu au avut rezultat, iar decesul a fost confirmat la ora 9:49 de medicul prezent la fața locului.\n\n• **Testarea cu aparatul etilotest a șoferului autoutilitarei a avut rezultat negativ.** Acest rezultat nu stabilește cauza coliziunii, iar polițiștii continuă cercetările pentru a clarifica împrejurările producerii accidentului.\n\n• **A fost deschisă o anchetă pentru ucidere din culpă.** Pe durata intervenției și a cercetării la fața locului, circulația pe segmentul afectat al străzii Voinicenilor a fost oprită în ambele sensuri.",
     "importance_score": 35.0,
-    "top_rank": 68,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4315,6 +4277,49 @@
     "title_ro": "Pentagonul critică loviturile ucrainene în adâncimea teritoriului rus",
     "lead_ro": "Elbridge Colby, adjunct al secretarului american al apărării, a avertizat asupra riscului de escaladare la o reuniune desfășurată la sediul NATO din Bruxelles. În opinia sa, atacurile ucrainene din Rusia nu contribuie la încheierea războiului și nici nu încetinesc înaintarea forțelor ruse.",
     "content_ro": "• **Elbridge Colby a avertizat marți asupra efectelor posibile ale atacurilor ucrainene** în cadrul unei reuniuni de la sediul NATO din Bruxelles, la care au participat țări ce sprijină Kievul. Adjunctul secretarului american al apărării pentru politici a spus că operațiunile desfășurate în interiorul Rusiei pot spori riscul de escaladare a conflictului.\n\n• **Oficialul american a menționat în mod distinct acțiunile care afectează infrastructura civilă.** El a dat ca exemplu depozitele Wildberries, companie rusă de comerț online vizată în mod repetat de forțele ucrainene. Potrivit evaluării sale, astfel de lovituri ar putea întări hotărârea populației ruse și disponibilitatea Kremlinului de a amplifica războiul.\n\n• **Colby a afirmat că nu consideră aceste operațiuni eficiente pentru încheierea conflictului.** El a adăugat că, în evaluarea sa, loviturile nu încetinesc înaintarea Rusiei pe front. Declarațiile au venit după intervenția prin videoconferință a președintelui ucrainean Volodimir Zelenski, care a vorbit la începutul reuniunii.\n\n• **În ultimele luni, Ucraina a atacat mai multe categorii de obiective aflate în Rusia.** Printre acestea s-au numărat în principal rafinării de petrol, dar și depozite ale Wildberries și Ozon, un alt retailer online. Kievul a susținut că aceste companii distribuie componente care pot fi folosite de armata rusă.\n\n• **Zelenski le-a cerut aliaților sisteme și muniții suplimentare pentru apărarea aeriană.** El a solicitat interceptoare Patriot și rachete pentru sistemele IRIS-T din stocurile existente ale partenerilor. La reuniune au participat aproximativ 40 de țări; aceasta a fost a 37-a întâlnire a grupului de contact pentru Ucraina de la invazia rusă începută în februarie 2022.",
+    "importance_score": 33.0,
+    "top_rank": 68,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_473905cb78",
+    "slug": "a-nemzeti-szekesegyhaz-november-30-an-is-zarva-marad-473905",
+    "tags": [
+      "catedrala-nationala",
+      "patriarhia-romana",
+      "sfantul-andrei",
+      "lucrari"
+    ],
+    "fingerprint": "0f764a2f45c59712bd5b57a3da194bad",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Catedrala Mântuirii Neamului rămâne închisă de Sfântul Andrei. Când ar putea fi redeschisă pentru credincioși",
+        "link": "https://adevarul.ro/stiri-interne/societate/catedrala-mantuirii-neamului-ramane-inchisa-de-2572330.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "De ce nu va fi deschisă Catedrala Naţională la sărbătoarea Sfântului Apostol Andrei. Anunţul Patriarhiei",
+        "link": "https://www.digi24.ro/stiri/de-ce-nu-va-fi-deschisa-catedrala-nationala-la-sarbatoarea-sfantului-apostol-andrei-anuntul-patriarhiei-4040971"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "De ce nu va fi deschisă Catedrala Naţională la sărbătoarea Sfântului Apostol Andrei. „Sperăm în 2027”, spune Patriarhia",
+        "link": "https://hotnews.ro/de-ce-nu-va-fi-deschisa-catedrala-nationala-la-sarbatoarea-sfantului-apostol-andrei-speram-in-2027-spune-patriarhia-2406969"
+      }
+    ],
+    "published_at": 1794950659,
+    "title_hu": "A Nemzeti Székesegyház november 30-án is zárva marad",
+    "lead_hu": "A bukaresti Nemzeti Székesegyház belső munkálatai miatt 2026. november 30-án sem fogad látogatókat. A Szent András ünnepéhez kötődő istentiszteletet egy közeli kápolnában tartják; az épület megnyitását a munkák befejezése után, várhatóan 2027-ben tervezik.",
+    "content_hu": "• **November 30-án nem nyitják meg a bukaresti Nemzeti Székesegyházat.** A Román Ortodox Egyház közlése szerint 2026-ban is folytatódnak a belső munkálatok, ezért a hívők az apostolként tisztelt Szent András ünnepén sem léphetnek be az épületbe. Ez az alkalom a székesegyház második búcsúünnepe.\n\n• **Az ünnepi szertartás helyszíne a közeli „Az Úr feltámadása” kápolna lesz.** A kápolna a székesegyház közelében található, és ott tartják meg az ünnephez kapcsolódó liturgiát. Szent Andrást Románia védőszentjeként tisztelik.\n\n• **A látogatók egyelőre csak kívülről tekinthetik meg az épületet.** A belső terek nem látogathatók; a székesegyház a környező esplanádról, vagyis a külső térről látható. A tájékoztatás nem közölt pontos időpontot a munkálatok befejezésére.\n\n• **A belső munkák lezárása után nyílhat meg újra a székesegyház.** A patriarchátus várakozása szerint erre 2027-ben kerülhet sor. Ezt követően a hívők részt vehetnek a liturgiákon, a zarándokok és más érdeklődők pedig belülről is felkereshetik az épületet.",
+    "title_ro": "Catedrala Națională va rămâne închisă și pe 30 noiembrie",
+    "lead_ro": "Lucrările din interiorul Catedralei Naționale din București vor împiedica accesul publicului și la 30 noiembrie 2026. Slujba de Sfântul Andrei este programată la un paraclis din apropiere, iar redeschiderea edificiului este estimată pentru 2027, după finalizarea intervențiilor.",
+    "content_ro": "• **Catedrala Națională din București nu va primi vizitatori pe 30 noiembrie.** Potrivit Patriarhiei Române, în 2026 vor continua lucrările din interior, astfel că publicul nu va putea intra în lăcaș de sărbătoarea Sfântului Apostol Andrei. Evenimentul marchează al doilea hram al catedralei.\n\n• **Slujba dedicată sărbătorii va avea loc la Paraclisul „Învierea Domnului”.** Acesta se află în apropierea Catedralei Naționale și va găzdui liturghiile legate de ziua de 30 noiembrie. Sfântul Andrei este cinstit ca ocrotitor al României.\n\n• **Deocamdată, edificiul poate fi văzut doar din exterior.** Accesul în spațiile interioare este restricționat, iar vizitatorii îl pot privi din zona esplanadei. Patriarhia nu a indicat o dată exactă la care lucrările vor fi încheiate.\n\n• **Redeschiderea este avută în vedere după terminarea lucrărilor interioare.** Estimarea Patriarhiei este ca acest lucru să se întâmple în 2027. Ulterior, credincioșii ar urma să poată participa la slujbe în catedrală, iar pelerinii și ceilalți vizitatori să intre pentru a o vedea.",
     "importance_score": 33.0,
     "top_rank": 69,
     "is_top_hero": false,
@@ -5348,44 +5353,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_bbaa00c258",
-    "slug": "bombafenyegetes-erte-a-chisinaubukarest-jaratot-bbaa00",
-    "tags": [
-      "aviatie",
-      "chisinau",
-      "bucuresti",
-      "alerta-cu-bomba"
-    ],
-    "fingerprint": "f7196638cf542f3ab2021ac09346ce2c",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Alertă cu bombă la bordul unui avion Chișinău-București. 102 pasageri se aflau la bord",
-        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-chisinau-bucuresti-102-pasageri-se-aflau-la-bord-23844970"
-      },
-      {
-        "source": "Digi24",
-        "title": "Ameninţare cu bombă la bordul unei avion Wizz Air care zbura pe ruta Chişinău - Bucureşti. La bord se aflau 102 pasageri",
-        "link": "https://www.digi24.ro/stiri/amenintare-cu-bomba-la-bordul-unei-avion-wizz-air-care-zbura-pe-ruta-chisinau-bucuresti-la-bord-se-aflau-102-pasageri-4041069"
-      }
-    ],
-    "published_at": 1794950668,
-    "title_hu": "Bombafenyegetés érte a Chișinău–Bukarest járatot",
-    "lead_hu": "A Wizz Air Chișinău és Bukarest között közlekedő gépén 102 utas tartózkodott, amikor bombafenyegetésről érkezett jelzés. A repülőgép 21:43-kor landolt, a szükséges eljárások után a fenyegetést hamisnak minősítették.",
-    "content_hu": "• **Bombafenyegetés miatt intézkedtek a Chișinău–Bukarest útvonalon közlekedő repülőgép ügyében.** A járat a Wizz Air 3248-as számú gépe volt; a történtekről a Bukaresti Repülőterek Társaságának képviselői számoltak be.\n\n• **A fedélzeten 102 utas tartózkodott.** A hatóságok és a repülőtéri szereplők a fenyegetés kezelése során a járat biztonságára vonatkozó eljárásokat követték.\n\n• **A jelzés először az otopeni repülőtérhez jutott el.** Ezt követően értesítették a gép pilótáit is, miközben a repülő még úton volt Bukarest felé.\n\n• **A repülőgép 21:43-kor landolt.** Az érkezés után a szakemberek végrehajtották az ilyen esetekben előírt intézkedéseket és ellenőrzéseket.\n\n• **A vizsgálat végén a fenyegetést hamisnak állapították meg.** A repülőtéri társaság tájékoztatása szerint erre a szükséges eljárások befejezése után jutottak; a közölt információk nem számoltak be a fedélzeten tartózkodók számán túl további személyi adatokról.",
-    "title_ro": "Amenințare cu bombă la cursa Chișinău–București",
-    "lead_ro": "La bordul aeronavei Wizz Air care zbura între Chișinău și București se aflau 102 pasageri când a fost semnalată o amenințare cu bombă. Avionul a aterizat la ora 21:43, iar după verificările necesare alerta a fost declarată falsă.",
-    "content_ro": "• **O amenințare cu bombă a vizat aeronava care opera cursa Chișinău–București.** Era vorba despre zborul Wizz Air 3248, potrivit informațiilor furnizate de reprezentanții Companiei Aeroporturi București.\n\n• **În avion se aflau 102 pasageri.** Gestionarea situației s-a făcut în legătură cu zborul și cu măsurile prevăzute pentru astfel de semnalări.\n\n• **Mesajul de amenințare a ajuns mai întâi la Aeroportul Otopeni.** Ulterior, informația a fost transmisă și piloților aeronavei, care se îndrepta spre București.\n\n• **Aeronava a ajuns la sol la ora 21:43.** După aterizare, au fost urmate procedurile și verificările aplicabile în cazul unei alerte de acest tip.\n\n• **În urma verificărilor, amenințarea a fost considerată falsă.** Reprezentanții aeroportului au comunicat această concluzie după încheierea măsurilor specifice; informațiile publicate au precizat numărul pasagerilor, fără alte detalii despre identitatea persoanelor aflate la bord.",
-    "importance_score": 28.0,
-    "top_rank": 94,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_5638871457",
     "slug": "bl-menti-legitarsasaggal-targyalnak-a-tarom-jvojerol-563887",
     "tags": [
@@ -5419,7 +5386,7 @@
     "lead_ro": "Vicepremierul Marian Neacșu a declarat că discuțiile cu un operator aerian din regiunea Golfului privind o posibilă preluare sau asociere cu TAROM sunt cele mai avansate. Autoritățile iau în calcul și o reorganizare internă, inclusiv o posibilă fuziune cu CNAB, compania care administrează aeroporturile bucureștene.",
     "content_ro": "• **Guvernul României poartă discuții cu o companie aeriană din regiunea Golfului despre viitorul TAROM.** Vicepremierul Marian Neacșu a afirmat la Antena 3 că aceste negocieri au avansat mai mult decât cele cu alți potențiali parteneri. Scopul urmărit este menținerea operatorului național în activitate și îmbunătățirea situației sale economice.\n\n• **Un eventual investitor ar trebui să respecte mai multe condiții.** Neacșu a menționat păstrarea personalului la un nivel rezonabil, modernizarea flotei și asigurarea investițiilor necesare. Printre cerințe se află și dezvoltarea colaborării dintre TAROM și CNAB, compania care gestionează aeroporturile din București.\n\n• **TAROM trebuie să ramburseze ajutorul primit de la Uniunea Europeană.** Compania a beneficiat anterior de sprijin în cadrul unui plan de restructurare, însă, potrivit lui Neacșu, unele obligații asumate nu au fost respectate. Guvernul caută o soluție care să permită restituirea banilor și continuarea activității transportatorului.\n\n• **Neacșu consideră că TAROM poate reveni la profitabilitate.** Vicepremierul a pus problemele de competitivitate ale companiei în legătură cu modul în care aceasta a fost administrată în trecut. În opinia sa, o conducere mai eficientă este esențială pentru redresarea situației financiare.\n\n• **O fuziune cu CNAB este analizată ca variantă de reorganizare internă.** Neacșu a menționat posibilitatea majorării participației naționale la TAROM și a unirii celor două companii de stat. Această opțiune este distinctă de negocierile cu operatorul din Golf și ar putea contribui, de asemenea, la salvarea transportatorului aerian.",
     "importance_score": 28.0,
-    "top_rank": 95,
+    "top_rank": 94,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5457,7 +5424,7 @@
     "lead_ro": "Mai multe servicii online Apple, inclusiv autentificarea iCloud, App Store, Apple Music și Apple Pay, au înregistrat întreruperi. Compania a atribuit problemele unei actualizări interne și a precizat că nu a fost vorba despre un atac cibernetic.",
     "content_ro": "• **Mai multe servicii Apple au avut probleme de funcționare:** utilizatorii și pagina oficială de stare au semnalat dificultăți la iCloud, App Store, Apple Music și Apple Pay, precum și la unele servicii de asistență și administrare pentru companii. În funcție de serviciu, clienții au putut întâmpina funcționare lentă sau indisponibilitate.\n\n• **Defecțiunile conturilor iCloud și ale autentificării au afectat și utilizarea dispozitivelor:** unii clienți nu au reușit să se conecteze, să activeze un iPhone nou sau să se înscrie la AppleCare. Problemele puteau împiedica și operațiunile care necesită autentificarea cu un cont Apple.\n\n• **Lista serviciilor afectate s-a modificat pe parcursul incidentului:** la un moment dat, App Store și Apple Music apăreau din nou ca disponibile, în timp ce conturile iCloud și autentificarea continuau să întâmpine dificultăți. Apple School Manager și aplicația educațională Schoolwork au fost, de asemenea, incluse printre serviciile cu probleme.\n\n• **Apple a indicat o actualizare internă drept cauza întreruperilor:** compania a precizat că incidentul nu a fost provocat de un atac cibernetic. La momentul comunicării, mai multe sisteme își reluaseră funcționarea, iar echipele companiei lucrau la restabilirea celorlalte.\n\n• **Pe rețelele sociale au apărut speculații privind originea incidentului:** discuțiile s-au intensificat după apariția unor informații despre oprirea unei rețele clasificate folosite de Agenția Națională de Securitate a SUA. Informațiile disponibile nu au confirmat existența unei legături între cele două evenimente.",
     "importance_score": 28.0,
-    "top_rank": 96,
+    "top_rank": 95,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5496,7 +5463,7 @@
     "lead_ro": "Aproape un milion de persoane cu vârste între 16 și 24 de ani din Regatul Unit nu lucrează și nu urmează studii sau cursuri de formare, potrivit unui raport guvernamental. Documentul recomandă reorganizarea sprijinului acordat acestora, iar guvernul ar urma să-și prezinte planurile anul viitor.",
     "content_ro": "• **Numărul tinerilor britanici aflați în categoria NEET se apropie de un milion:** aproximativ unul din opt tineri cu vârste între 16 și 24 de ani nu este încadrat în muncă și nici într-un program educațional sau de formare. Raportul predat marți de Alan Milburn, fost ministru laburist, avertizează că cifra ar putea ajunge la 1,27 milioane până în 2031.\n\n• **Costul economic și social anual al fenomenului este estimat la 125 de miliarde de lire sterline.** Suma echivalează cu aproximativ 150 de miliarde de euro. Potrivit lui Milburn, dintre țările europene, numai România are o pondere mai mare a tinerilor NEET decât Regatul Unit.\n\n• **Raportul urmărește reducerea ratei de la 13% la circa 5% până în 2036.** Ca reper este indicat nivelul din Olanda, de 4,8%. Pentru atingerea obiectivului, documentul recomandă o schimbare amplă a modului în care sunt sprijiniți tinerii.\n\n• **În Anglia ar urma să funcționeze, până în 2029, o rețea locală de servicii integrate.** Aceasta ar reuni orientarea profesională, ajutorul pentru găsirea unui loc de muncă, servicii medicale și sprijin practic. Fiecare tânăr eligibil ar putea beneficia de un consilier dedicat și de un plan adaptat situației sale.\n\n• **Beneficiile financiare ale reformei s-ar putea vedea abia după o perioadă îndelungată.** Raportul estimează că ar putea trece un deceniu până când economiile devin clare, din cauza costurilor inițiale. Ministrul muncii, Pat McFadden, a salutat propunerile; guvernul intenționează să-și prezinte planul într-o Carte Albă anul viitor, urmată de un proiect de lege.",
     "importance_score": 28.0,
-    "top_rank": 97,
+    "top_rank": 96,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5534,7 +5501,7 @@
     "lead_ro": "Ministerul Agriculturii a elaborat, împreună cu ANSVSA și ANPC, un proiect de reguli privind vânzarea cărnii proaspete și congelate de porc. Potrivit propunerii, carnea proaspătă refrigerată, care nu a fost supusă unor tratamente de conservare, ar putea avea un termen de valabilitate de maximum opt zile de la sacrificare.",
     "content_ro": "• **Proiectul ar limita la opt zile termenul de valabilitate al cărnii proaspete de porc** dacă aceasta este păstrată la refrigerare și nu a fost tratată pentru conservare. Perioada ar începe în ziua sacrificării animalului.\n\n• **Propunerea vizează comercializarea cărnii de porc proaspete și congelate.** Documentul a fost elaborat de Ministerul Agriculturii împreună cu Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor și cu Autoritatea Națională pentru Protecția Consumatorilor.\n\n• **Una dintre intențiile declarate este prevenirea vânzării cărnii decongelate drept carne proaspătă.** Ministerul afirmă că regulile ar trebui să le ofere cumpărătorilor informații clare despre produsele comercializate, inclusiv despre statutul cărnii care a fost congelată anterior.\n\n• **Măsurile propuse ar urmări și sprijinirea concurenței corecte.** Ministrul Agriculturii, Florin Barbu, a transmis că niște condiții mai clare ar putea proteja producătorii și comercianții care respectă regulile de practicile comerciale neloiale.\n\n• **Informațiile prezentate se referă la un proiect, nu la o regulă deja intrată în vigoare.** Comunicarea nu precizează data de la care ar urma să se aplice limita propusă pentru termenul de valabilitate.",
     "importance_score": 28.0,
-    "top_rank": 98,
+    "top_rank": 97,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5572,7 +5539,7 @@
     "lead_ro": "Guvernul britanic a anunțat un sprijin militar de 240 de milioane de lire sterline pentru apărarea aeriană a Ucrainei. Pachetul include peste 1.000 de rachete cu rază scurtă de acțiune și mai mult de o duzină de radare, iar livrările ar putea începe la jumătatea lunii decembrie.",
     "content_ro": "• **Pachetul cuprinde peste 1.000 de rachete și cel puțin 13 radare.** Regatul Unit alocă 240 de milioane de lire sterline pentru consolidarea apărării aeriene a Ucrainei. Suma face parte dintr-un program britanic de sprijin pentru iarnă, anunțat anterior și evaluat la 500 de milioane de lire sterline.\n\n• **Transferurile de echipamente ar putea începe la jumătatea lunii decembrie.** Anunțul a fost făcut în legătură cu o reuniune desfășurată la sediul NATO din Bruxelles, unde aliații au discutat sprijinul militar pentru Kiev. La întâlnire au participat reprezentanți din aproape 50 de țări.\n\n• **Potrivit guvernului britanic, sistemele au fost eficiente împotriva dronelor Shahed.** Rusia folosește drone de concepție iraniană în atacuri asupra unor ținte din Ucraina, iar echipamentele promise sunt destinate combaterii amenințărilor aeriene. Radarele incluse vor ajuta la detectarea acestora.\n\n• **Asistența contribuie la pregătirea apărării aeriene pentru sezonul rece.** Începând din 2022, Rusia a atacat în mod repetat infrastructura energetică ucraineană, provocând dificultăți în alimentarea cu electricitate și încălzire. Ajutorul britanic urmărește să întărească protecția țării în lunile de iarnă.\n\n• **Regatul Unit a furnizat anterior 400 de rachete sol-aer.** Noua tranșă va suplimenta echipamentele deja livrate Ucrainei. Pachetul de 240 de milioane de lire sterline este finanțat în cadrul programului britanic mai amplu, de 500 de milioane de lire, destinat apărării pe timp de iarnă.",
     "importance_score": 28.0,
-    "top_rank": 99,
+    "top_rank": 98,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5610,7 +5577,7 @@
     "lead_ro": "Municipalitatea Brașov va menține tarifele instalațiilor de transport pe cablu la nivelul din sezonul precedent. Locuitorii orașului vor beneficia în continuare de o reducere de 50% miercurea, iar lucrările de pregătire a pârtiilor și investițiile în producerea zăpezii artificiale continuă.",
     "content_ro": "• **Prețurile transportului pe cablu rămân neschimbate:** viceprimarul Dan Ghiță a anunțat că în noul sezon de iarnă se vor aplica tarifele de anul trecut. Persoanele cu domiciliul în Brașov păstrează reducerea de 50% în fiecare zi de miercuri, prin programul dedicat locuitorilor municipiului.\n\n• **Echipamentele pentru zăpadă artificială au fost verificate:** reprezentanții primăriei și ai companiei Comprest, responsabilă de întreținerea pârtiilor, au controlat instalațiile. Tunurile mobile au fost amplasate, iar ratracurile au trecut prin revizie.\n\n• **Pornirea producerii zăpezii depinde de temperatură:** operațiunea poate începe când valorile coboară sub minus 4 grade Celsius. Potrivit viceprimarului, lacul de acumulare este aproape plin și ar urma să atingă capacitatea maximă în aproximativ două săptămâni.\n\n• **Amenajarea pârtiilor va urma după formarea rezervelor de zăpadă:** în prima etapă, echipele intenționează să creeze depozite, iar ulterior, dacă evoluția condițiilor permite, să pregătească pârtiile. Tunurile de zăpadă mobile sunt deja poziționate pentru intervenție.\n\n• **Municipalitatea pregătește extinderea dotărilor din masivul Postăvarul:** procedura pentru cumpărarea a încă 14 tunuri de zăpadă se află în faza finală. Separat, este în lucru procedura de achiziție pentru creșterea capacității lacului cu 50.000 de metri cubi.",
     "importance_score": 28.0,
-    "top_rank": 100,
+    "top_rank": 99,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5649,7 +5616,7 @@
     "lead_ro": "Ulrich Siegmund, politician al partidului Alternativa pentru Germania (AfD), l-a invitat pe Elon Musk să extindă prezența Tesla în Saxonia-Anhalt. El a promis condiții favorabile pentru afaceri în eventualitatea unui guvern regional condus de AfD.",
     "content_ro": "• **Ulrich Siegmund i s-a adresat luni lui Elon Musk**, propunând ca Tesla să își stabilească o prezență în Saxonia-Anhalt. Politicianul AfD din land a spus că dorește și o întâlnire cu directorul executiv al companiei americane.\n\n• **Siegmund a promis sprijin pentru activitatea Tesla în cazul unui guvern regional condus de AfD** și a evocat condiții favorabile mediului de afaceri. Mesajul publicat în engleză pe X a fost însoțit de un articol despre planurile de extindere ale producătorului în Germania.\n\n• **Siegmund este candidatul AfD pentru funcția de premier al landului**, iar formațiunea a obținut o victorie istorică la alegerile regionale din Saxonia-Anhalt, într-o campanie condusă de el. Până marți după-amiază, Musk nu răspunsese public invitației.\n\n• **Musk își exprimase anterior sprijinul pentru AfD** în timpul campaniei pentru alegerile federale germane din 2025. Cu aproximativ o lună înainte de scrutin, el a publicat pe X o conversație cu Alice Weidel, lidera partidului și candidata acestuia la funcția de cancelar.\n\n• **Tesla a anunțat luni o investiție de trei miliarde de euro la Grünheide**, fabrica sa europeană situată lângă Berlin. Potrivit companiei, extinderea are legătură cu planurile pentru modelul Cybercab; anunțul nu viza o investiție în Saxonia-Anhalt. Tesla și filiala regională a AfD nu răspunseseră imediat solicitărilor de comentarii.",
     "importance_score": 25.0,
-    "top_rank": 101,
+    "top_rank": 100,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5687,7 +5654,7 @@
     "lead_ro": "Serghei Lavrov și fostul diplomat rus Boris Bondarev au prezentat perspective diferite asupra negocierilor de la Abu Dhabi. Moscova a pus accent pe relația cu Washingtonul, în timp ce participarea Ucrainei și rolul Europei în securitatea regională au rămas teme de dispută.",
     "content_ro": "• **Discuțiile de la Abu Dhabi ar putea aduce Moscovei un avantaj diplomatic.** Boris Bondarev, fost diplomat rus care a demisionat în 2022 în semn de protest față de invazie, consideră că Rusia câștigă teren dacă negocierile despre Ucraina se transformă într-un dialog cu Statele Unite privind securitatea europeană.\n\n• **În interpretarea lui Bondarev, Kremlinul ar prefera ca Ucraina și statele europene să nu participe la discuțiile despre arhitectura de securitate.** El susține că Moscova ar urmări negocieri directe cu Washingtonul asupra viitorului continentului. Potrivit relatării, trimișii americani Steve Witkoff și Jared Kushner au acceptat această formulă.\n\n• **Lavrov a criticat apelul europenilor pentru instituirea unui armistițiu pe durata negocierilor.** Ministrul rus de externe i-a acuzat că au blocat înțelegerea asociată summitului dintre Vladimir Putin și Donald Trump din Alaska. Întâlnirea de la Anchorage a avut loc la 15 august 2025, dar nu a fost urmată de progrese importante privind războiul.\n\n• **Șeful diplomației ruse a descris reacția Moscovei la ultima rundă de discuții drept prudent optimistă.** El a afirmat că dialogul dintre Rusia, Statele Unite și Ucraina va continua și a evitat să ofere detalii care, în opinia sa, ar putea crea o imagine incorectă asupra negocierilor.\n\n• **Viitoarea ordine de securitate europeană a fost un alt punct de divergență.** Lavrov a susținut că europenii vor un sistem de securitate fără implicarea Rusiei. Surse citate de Axios au afirmat că Statele Unite au cerut Moscovei să elaboreze un nou acord de securitate referitor la Europa.",
     "importance_score": 25.0,
-    "top_rank": 102,
+    "top_rank": 101,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5726,7 +5693,7 @@
     "lead_ro": "Presa americană a publicat informații diferite despre intenția lui JD Vance de a candida la alegerile prezidențiale din 2028. După înfrângerea republicanilor la scrutinul parlamentar din 3 noiembrie, vicepreședintele nu a luat încă o decizie finală.",
     "content_ro": "• **O candidatură în 2028 rămâne o posibilitate, nu o certitudine.** Persoane apropiate lui Vance, citate de CNN, afirmă că vicepreședintele analizează serios varianta de a nu intra în cursa prezidențială. În schimb, surse citate de The Washington Post susțin că el continuă să ia în calcul o candidatură.\n\n• **Înfrângerea republicanilor din 3 noiembrie a readus în discuție planurile politice ale vicepreședintelui.** Potrivit relatării CNN, rezultatul scrutinului ar putea contribui la ezitările lui Vance. Sursele Washington Post consideră însă că votul nu i-ar fi schimbat în mod fundamental intențiile. Articolul nu oferă detalii suplimentare despre amploarea pierderii sau rezultatele concrete.\n\n• **CNN a discutat cu aproximativ douăsprezece persoane din cercul politic al lui Vance.** Conform informațiilor obținute, printre motivele care îi pot influența evaluarea se numără diviziunile din mișcarea MAGA și responsabilitățile asociate vieții de tată. Acestea sunt prezentate ca factori posibili, nu ca explicații confirmate de vicepreședinte.\n\n• **Vance este considerat unul dintre principalii aspiranți la nominalizarea republicană.** El a fost văzut drept un posibil succesor al lui Donald Trump în postura de candidat al partidului, dar relatările din presă nu oferă o imagine unitară asupra intențiilor sale. Niciuna dintre sursele citate nu indică faptul că ar fi luat deja o hotărâre definitivă.\n\n• **O clarificare ar putea veni în lunile următoare.** Surse citate de Washington Post spun că Vance ar urma să își evalueze opțiunile în perioada sărbătorilor sau la începutul anului următor. O persoană citată de CNN a amintit că vicepreședintele are 42 de ani și ar putea participa la o competiție prezidențială ulterioară dacă nu candidează acum.",
     "importance_score": 25.0,
-    "top_rank": 103,
+    "top_rank": 102,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5764,7 +5731,7 @@
     "lead_ro": "Lee Reeves, în vârstă de 31 de ani, a stat trei luni în comă indusă după ce a fost grav rănit într-un meci cu Gary Cully, disputat în august. Decesul său a fost confirmat luni.",
     "content_ro": "• **Lee Reeves a murit la vârsta de 31 de ani**, la trei luni după ce a suferit răni grave într-un meci de box. Vestea a fost făcută publică de promotorul Queensberry și relatată de presă.\n\n• **Pugilistul irlandez a fost accidentat în august, în confruntarea cu Gary Cully**, desfășurată la 3Arena din Dublin. Cully a câștigat prin KO, iar starea lui Reeves a devenit critică după meci.\n\n• **Reeves a fost operat și apoi menținut în comă indusă.** Potrivit relatărilor, în weekend a contractat o infecție, iar decesul a fost confirmat luni. Informațiile publicate nu au oferit detalii suplimentare despre infecție.\n\n• **Queensberry a transmis că este îndurerată de moartea boxerului** și a evidențiat talentul său și rolul pe care îl avea în comunitate. Gary Cully i-a adus, la rândul său, un omagiu public fostului său adversar.\n\n• **Reeves a obținut 16 victorii în cele 18 meciuri profesioniste disputate**, dintre care 11 prin KO. Sursele menționează și două înfrângeri în palmaresul său.",
     "importance_score": 25.0,
-    "top_rank": 104,
+    "top_rank": 103,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5802,7 +5769,7 @@
     "lead_ro": "În parlament, un deputat Fidesz l-a întrebat pe premier despre reducerea sumelor prevăzute pentru maghiarii din afara granițelor în bugetul pentru 2027. Péter Magyar a spus că reunirea unor poziții bugetare nu înseamnă automat mai puține fonduri și a anunțat că sprijinul destinat maghiarilor din Transcarpatia va crește.",
     "content_ro": "• **Krisztina Csibi a atras atenția asupra diminuării fondurilor bugetare pentru maghiarii din afara granițelor.** Deputata Fidesz a declarat în ședința parlamentară de luni că suma cumulată pentru Fondul Bethlen Gábor și alocările ministeriale directe de politică națională este de 57,47 miliarde de forinți în proiectul pentru 2027, față de 83,42 miliarde în anul precedent.\n\n• **Deputata a menționat și reducerea sau dispariția unor poziții de finanțare.** Potrivit acesteia, investițiile din afara granițelor ar urma să fie oprite, iar educația ceangăilor, învățământul superior din afara Ungariei și dezvoltarea instituțiilor bisericești nu ar mai avea linii bugetare distincte. Ea a indicat reduceri de 72% pentru fondul social destinat Transcarpatiei și de 78% pentru programul Határtalanul, precum și o diminuare cu peste jumătate a sprijinului acordat Asociației Rákóczi.\n\n• **Péter Magyar a susținut că reorganizarea rubricilor bugetare nu dovedește o scădere a sprijinului efectiv.** Premierul a descris susținerea maghiarilor din afara țării drept o prioritate națională și a precizat că reunirea unor poziții nu implică, de la sine, alocarea unei sume mai mici.\n\n• **Șeful guvernului a criticat modul în care au fost gestionate anterior fondurile.** În opinia sa, o parte din banii alocați nu au ajuns întotdeauna la destinația stabilită, iar finanțarea proiectelor nu a fost suficient de transparentă. El a mai afirmat că guvernarea precedentă a creat tensiuni între maghiarii din Ungaria și cei din afara granițelor.\n\n• **Péter Magyar a anunțat majorarea sprijinului pentru maghiarii din Transcarpatia.** În răspunsul din parlament nu a indicat o sumă concretă și nici un calendar detaliat; declarația sa a fost o promisiune de creștere a ajutorului.",
     "importance_score": 25.0,
-    "top_rank": 105,
+    "top_rank": 104,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5840,7 +5807,7 @@
     "lead_ro": "O analiză Reuters a peste 300 de studii, brevete, documente guvernamentale și materiale corporative arată că cercetători și companii din China creează date de antrenare pornind de la răspunsurile unor modele AI avansate. Practica ridică întrebări privind drepturile de proprietate intelectuală și concurența, deși distilarea modelelor nu este ilegală în sine.",
     "content_ro": "• **Potrivit investigației Reuters, metoda este folosită tot mai mult și în industria chineză, nu doar în mediul universitar.** În distilarea modelelor, un sistem performant generează răspunsuri, cod sau soluții la probleme dificile, iar rezultatele sunt transformate în exemple pentru antrenarea unor modele mai mici. Acestea pot prelua astfel o parte din capacitățile sistemului mai mare.\n\n• **Cercetători de la Universitatea Jiao Tong din Shanghai au prezentat în 2024 un exemplu concret de astfel de antrenare.** Ei au selectat aproximativ 5.000 de răspunsuri produse de modelul o1 al OpenAI, le-au tradus și prelucrat cu GPT-4o mini, obținând 10.750 de exemple bilingve. Materialele au fost apoi utilizate pentru antrenarea modelului Qwen2.5-72B, dezvoltat de Alibaba.\n\n• **Cercetători Alibaba au utilizat ulterior sisteme OpenAI pentru a genera date de antrenare în mai multe limbi.** Un studiu publicat în aprilie 2025 descrie folosirea GPT-4 și GPT-4o în acest scop. În februarie 2026, cercetători universitari și angajați ai Meituan au prezentat o metodă în care GPT-4o a contribuit la pregătirea unor modele mai mici, destinate coordonării agenților AI în sarcini de programare.\n\n• **Distilarea este practicată la nivel internațional, însă folosirea sistematică a rezultatelor modelelor comerciale pentru pregătirea unor concurenți este controversată.** Termenii OpenAI limitează, cu anumite excepții, utilizarea rezultatelor sale la dezvoltarea unor modele rivale. Anthropic are restricții comparabile.\n\n• **Oficiali americani au discutat subiectul cu reprezentanți chinezi la Chengdu.** Conform Reuters, aceștia au avertizat că anumite practici ar putea încălca drepturi de proprietate intelectuală. Problema nu este distilarea ca metodă în sine, ci proveniența datelor folosite și respectarea condițiilor impuse de furnizorii modelelor comerciale.",
     "importance_score": 25.0,
-    "top_rank": 106,
+    "top_rank": 105,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5878,7 +5845,7 @@
     "lead_ro": "Înalta Curte de Casație și Justiție a respins apelul Ministerului Public și a menținut achitarea dispusă de Curtea de Apel București. Dosarul penal, pornit de la un contract comercial, a durat peste zece ani.",
     "content_ro": "• **Procesul penal, desfășurat timp de peste zece ani, s-a încheiat definitiv:** Înalta Curte de Casație și Justiție a respins apelul formulat de Ministerul Public și a păstrat integral hotărârea de achitare pronunțată de Curtea de Apel București.\n\n• **Compania vizată este una dintre cele mai mari firme de telecomunicații din România.** Aceasta fusese acuzată de fapte de corupție și spălare de bani, iar ancheta a pornit în legătură cu un contract de natură comercială.\n\n• **În primul grad de jurisdicție din al doilea ciclu procesual, instanța a constatat că faptele imputate nu există.** Achitarea a fost dispusă în baza articolului 16, alineatul 1, litera a) din Codul de procedură penală.\n\n• **Apărarea a contestat legalitatea administrării unor probe în faza de urmărire penală.** Avocații au susținut, de asemenea, că acuzațiile nu erau sprijinite de dovezi fiabile și se bazau pe supoziții. Firma de avocatură STOICA & ASOCIAȚII a reprezentat compania.\n\n• **Instanța supremă a confirmat soluția de achitare,** iar hotărârea a devenit definitivă. Echipa de avocați a fost alcătuită din Victor Dobozi, Mihai Trandafir și Ana Marițiu, sub coordonarea lui Valeriu Stoica.",
     "importance_score": 25.0,
-    "top_rank": 107,
+    "top_rank": 106,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5916,7 +5883,7 @@
     "lead_ro": "Ilie Bolojan a discutat marți seara, într-o emisiune Digi24, despre posibilitatea de a lucra împreună cu președintele Nicușor Dan. Liderul PNL a legat o astfel de colaborare de respectarea cadrului constituțional și de existența unor proiecte considerate benefice pentru România.",
     "content_ro": "• **Bolojan este dispus să colaboreze cu Nicușor Dan în cadrul stabilit de Constituție.** Liderul PNL a abordat subiectul marți seara, la emisiunea Jurnalul de Seară de la Digi24, în urma unei întrebări despre relația sa de lucru cu președintele României.\n\n• **Proiectele propuse de șeful statului ar trebui să fie în interesul țării.** Bolojan a arătat că inițiativele pe care le consideră utile pentru România pot fi discutate, fără ca afirmația sa să echivaleze cu susținerea automată a oricărei propuneri prezidențiale.\n\n• **Liderul liberal a invocat responsabilitățile asociate funcțiilor ocupate de cei doi politicieni.** El conduce un partid reprezentat în Parlament, iar Nicușor Dan este președintele ales al României; în acest context, Bolojan consideră justificată analizarea serioasă a planurilor de dezvoltare prezentate de șeful statului.\n\n• **Poziția exprimată condiționează colaborarea de respectarea regulilor constituționale și de conținutul proiectelor.** Declarația făcută la Digi24 se referă la disponibilitatea de a purta discuții asupra unor inițiative favorabile țării, nu la un angajament necondiționat de cooperare.",
     "importance_score": 23.0,
-    "top_rank": 108,
+    "top_rank": 107,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5949,7 +5916,7 @@
     "lead_ro": "Peste 15 milioane de documente interne scurse de la gigantul bancar german Deutsche Bank și analizate de consorțiul internațional condus de iStories scot la iveală tranzacții suspecte de peste 3 milio…",
     "content_ro": "Peste 15 milioane de documente interne scurse de la gigantul bancar german Deutsche Bank și analizate de consorțiul internațional condus de iStories scot la iveală tranzacții suspecte de peste 3 milioane de dolari către firmele lui Donald Trump, anunță Corriere della Sera. Banii provin din celebrele „spălătorii” financiare din spațiul ex-sovietic. Dosarele arată cum banca […] © G4Media.ro.",
     "importance_score": 23.0,
-    "top_rank": 109,
+    "top_rank": 108,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5987,7 +5954,7 @@
     "lead_ro": "Jensen Huang, conducătorul Nvidia, va participa pe 1 decembrie la interviuri consemnate în fața a trei comisii ale Camerei Reprezentanților. Ancheta privește accesul unor actori chinezi la cipuri avansate și suspiciuni legate de spionaj, acuzații pe care Huang le respinge.",
     "content_ro": "• **Huang este programat să fie audiat pe 1 decembrie** de reprezentanți ai comisiilor pentru Afaceri Externe, pentru Partidul Comunist Chinez și pentru Informații din Camera Reprezentanților. Discuțiile vor fi consemnate în cadrul unor interviuri.\n\n• **Tim Teter, responsabilul juridic al Nvidia, va fi audiat pe 2 decembrie.** El va răspunde în fața acelorași trei comisii. Calendarul a fost anunțat de Comisia pentru Afaceri Externe.\n\n• **Membrii comisiilor vor examina posibila implicare a Nvidia în accesul unor actori chinezi la cipuri americane.** Președinții comisiilor vor să afle dacă firma a facilitat obținerea unor cipuri avansate de către persoane considerate periculoase și dacă situația a afectat securitatea națională a SUA.\n\n• **Verificările includ suspiciunile privind o femeie de afaceri și presupuse legături cu serviciile chineze.** Potrivit articolului, Alice Huang a fost suspectată de serviciile americane, însă acuzațiile de spionaj nu au fost demonstrate public, iar China le-a respins. Materialul menționează și o relație personală atribuită lui Huang cu Kimberly Powell, vicepreședintă Nvidia.\n\n• **Huang neagă că ar fi compromis secretele companiei sau securitatea Statelor Unite.** Consiliul de administrație al Nvidia a contractat firma de avocatură Wachtell Lipton pentru a analiza eventualele implicații de contrainformații ale cazului.",
     "importance_score": 23.0,
-    "top_rank": 110,
+    "top_rank": 109,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6020,7 +5987,7 @@
     "lead_ro": "Preşedintele CJ Ialomiţa, Marian Pavel (PSD), a anunţat că a convenit cu omologul său din Călăraşi, Vasile Iliuţă, iniţierea demersurilor pentru comasarea voluntară a celor două judeţe până în 2028.",
     "content_ro": "Preşedintele CJ Ialomiţa, Marian Pavel (PSD), a anunţat că a convenit cu omologul său din Călăraşi, Vasile Iliuţă, iniţierea demersurilor pentru comasarea voluntară a celor două judeţe până în 2028.",
     "importance_score": 23.0,
-    "top_rank": 111,
+    "top_rank": 110,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6058,7 +6025,7 @@
     "lead_ro": "Pál-Antal Sándor, cercetător al trecutului secuiesc, membru extern al Academiei Ungare de Științe și cetățean de onoare al orașului Târgu Mureș, a murit pe 16 noiembrie. A publicat peste 350 de lucrări despre istoria Transilvaniei, cu accent pe Ținutul Secuiesc.",
     "content_ro": "• **Pál-Antal Sándor a murit pe 16 noiembrie.** Istoricul și arhivistul era membru extern al Academiei Ungare de Științe și cetățean de onoare al municipiului Târgu Mureș. Cercetările sale au documentat în special trecutul secuiesc și istoria Transilvaniei.\n\n• **Cariera sa a început la Târgu Mureș:** a absolvit istoria la Universitatea Babeș–Bolyai din Cluj în 1963, iar în același an s-a angajat la arhiva de stat din oraș. În perioada de dinaintea schimbării de regim, activitatea sa a inclus munca de arhivă și colectarea de date istorice.\n\n• **O temă centrală a publicațiilor sale a fost istoria Ținutului Secuiesc.** A scris despre trecutul ținuturilor Ciuc și Mureș, despre localități și instituții, precum și despre evenimentele din 1848–1849. Numărul studiilor, volumelor și materialelor sale de popularizare a depășit 350.\n\n• **A contribuit și la cercetarea trecutului orașului Târgu Mureș:** lucrarea sa în două volume a prezentat istoria localității până în 1849. În 2018 a publicat și o carte despre evoluția alimentării cu apă a orașului, subiect care l-a condus și spre teme tehnice și inginerești.\n\n• **Interesele sale de cercetare au depășit istoria locală:** a studiat documente de arhivă, istoria tehnicii și urmările revoluției maghiare din 1956 în Transilvania. Opera sa cuprinde ediții de surse, monografii de localitate, biografii și studii despre istoria instituțiilor.",
     "importance_score": 23.0,
-    "top_rank": 112,
+    "top_rank": 111,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6091,7 +6058,7 @@
     "lead_ro": "Ivan Ljubicic (47 de ani, fost număr 3 mondial) a analizat ediția de față a ATP Finals, aflată în faza grupelor, și a declarat că ar paria pe Alexander Zverev, care, alături de Carlos Alcaraz, are șan…",
     "content_ro": "Ivan Ljubicic (47 de ani, fost număr 3 mondial) a analizat ediția de față a ATP Finals, aflată în faza grupelor, și a declarat că ar paria pe Alexander Zverev, care, alături de Carlos Alcaraz, are șanse mari la trofeu. Ivan Ljubicic, fost număr 3 mondial și de două ori participant la ATP Finals în cariera sa, 2005 și 2006, este actualul antrenor al lui Felix Auger-Aliassime. ...",
     "importance_score": 23.0,
-    "top_rank": 113,
+    "top_rank": 112,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6130,7 +6097,7 @@
     "lead_ro": "Tribunalul Administrativ din Paris a decis marți că ordinul de interzicere a manifestațiilor lângă școli și universități era disproporționat și l-a anulat. Măsura urma să se aplice timp de cinci zile lucrătoare, pe fondul protestelor sociale din Franța.",
     "content_ro": "• **Instanța a suspendat marți ordinul emis duminică de Prefectura de Poliție din Paris**, care interzicea manifestațiile, de luni până vineri, în apropierea unor licee și centre universitare din capitală. Prin hotărâre, restricția nu a mai putut produce efecte pe întreaga perioadă prevăzută.\n\n• **Judecătorul a considerat că măsura era excesivă și insuficient justificată.** Caracterul imprevizibil al protestelor și al eventualelor blocaje nu demonstra, de unul singur, necesitatea unei interdicții generale pentru cinci zile. Prefectura nu a dovedit că poliția nu ar fi putut gestiona incidentele și nici nu a precizat suficient natura și amploarea riscurilor pe care urmărea să le prevină.\n\n• **Ordinul viza zece licee și cinci spații universitare.** Printre liceele menționate se numărau Charlemagne, Lavoisier, Fénelon, Montaigne, Chaptal, Racine, Dorian, Pierre-Gilles de Gennes, Carnot și Balzac. Lista includea Facultatea de Științe și Inginerie a Universității Sorbona, campusul științific Paris Cité și unele sedii ale universităților Panthéon-Sorbonne și Panthéon-Assas.\n\n• **Restricția a fost adoptată în contextul unui val de nemulțumiri sociale din Franța.** Potrivit relatării, protestele au început să se intensifice în septembrie, când elevii au cerut condiții mai bune în școli. În aceeași perioadă, pe rețelele sociale au circulat apeluri la reluarea mișcării Vestelor Galbene, pe fondul costului ridicat al vieții. Manifestațiile au căpătat amploare națională la 17 octombrie.",
     "importance_score": 23.0,
-    "top_rank": 114,
+    "top_rank": 113,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6168,7 +6135,7 @@
     "lead_ro": "Un comandant ucrainean a afirmat că un tanc Leopard de fabricație germană a fost atacat de 45 de drone FPV rusești în regiunea Donețk. Potrivit relatării, vehiculul a rămas funcțional, însă informația nu a fost confirmată independent.",
     "content_ro": "• **Tancul ar fi trecut prin 45 de atacuri cu drone.** Vehiculul Leopard, folosit de armata ucraineană, ar fi fost vizat de aparate FPV rusești în timpul unei operațiuni desfășurate în regiunea Donețk, potrivit informațiilor făcute publice.\n\n• **Relatarea susține că blindatul a rămas operațional.** După lovituri, acesta ar fi putut continua să îndeplinească sarcini militare. Sursa nu precizează versiunea exactă a tancului german implicat în incident.\n\n• **Informația a fost transmisă de un comandant ucrainean.** Analistul militar american Rob Lee a scris pe platforma X că a aflat detaliile direct de la conducătorul unei brigăzi ucrainene participante. Publicația Focus a asociat incidentul cu operațiunea „Vivaldi”.\n\n• **Afirmațiile nu au fost verificate prin dovezi independente.** Nu au fost prezentate imagini sau înregistrări video care să confirme numărul atacurilor ori starea vehiculului. În consecință, informațiile despre incident nu pot fi validate separat pe baza materialelor disponibile.\n\n• **Dronele FPV reprezintă o amenințare pentru vehiculele blindate.** Operatorii le controlează urmărind în timp real imaginile unei camere montate la bord, iar aparatele pot transporta încărcături explozive. Efectul unui impact asupra unui tanc poate depinde de muniție, de zona lovită și de protecțiile suplimentare instalate.",
     "importance_score": 23.0,
-    "top_rank": 115,
+    "top_rank": 114,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6201,7 +6168,7 @@
     "lead_ro": "Arena Națională s-a închis din nou, iar Dinamo și FCSB sunt obligate să se mute, pentru câteva săptămâni, de pe cel mai mare stadion al țării. „Câinii” au ales varianta stadionului „1 Mai” din Slobozi…",
     "content_ro": "Arena Națională s-a închis din nou, iar Dinamo și FCSB sunt obligate să se mute, pentru câteva săptămâni, de pe cel mai mare stadion al țării. „Câinii” au ales varianta stadionului „1 Mai” din Slobozia pentru duelul cu Petrolul din weekend, în timp ce FCSB va reveni pe Stadionul „Steaua” din Ghencea pentru „dubla” cu Csikszereda, din Superligă și Cupa României. ...",
     "importance_score": 23.0,
-    "top_rank": 116,
+    "top_rank": 115,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6239,7 +6206,7 @@
     "lead_ro": "Tânărul din București va răspunde în fața Curții de Apel București pentru acuzația de amenințări în scop terorist, formulată de DIICOT. Instanța supremă a confirmat legalitatea anchetei și a rechizitoriului, iar avocatul său va solicita achitarea.",
     "content_ro": "• **Dosarul va fi judecat de Curtea de Apel București:** DIICOT l-a trimis în judecată pe tânăr pentru amenințări în scop terorist. Acesta devenise major în primăvară. Camera preliminară s-a încheiat după ce instanța supremă a constatat că ancheta și rechizitoriul au fost întocmite potrivit legii.\n\n• **Potrivit acuzației, mesajele au fost trimise în septembrie anul trecut:** în două seri consecutive ar fi fost expediate aproape o sută de e-mailuri către școli, spitale și unități de poliție. Procurorii susțin că acestea anunțau intrarea înarmată, acte de distrugere și uciderea unui număr mare de persoane.\n\n• **Anchetatorii afirmă că la transmiterea mesajelor a fost implicată o minoră:** tânărul ar fi convins-o să folosească propria adresă de e-mail. Această versiune se regăsește în acuzații și urmează să fie verificată în cursul procesului.\n\n• **Apărarea contestă acuzația de amenințări în scop terorist:** avocatul a anunțat că va cere achitarea clientului său. Instanța urmează să stabilească dacă probele susțin acuzațiile și dacă tânărul răspunde penal pentru faptele descrise.\n\n• **Solicitarea SUA de extrădare nu a avut succes:** autoritățile americane, inclusiv FBI, au încercat să obțină transferul tânărului pentru ca acesta să fie cercetat și judecat în Statele Unite ca adult. Procesul va avea loc în România.",
     "importance_score": 23.0,
-    "top_rank": 117,
+    "top_rank": 116,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6278,7 +6245,7 @@
     "lead_ro": "Sonda NASA Voyager 1, lansată în 1977, se va afla pe 18 noiembrie la aproximativ 25,9 miliarde de kilometri de Pământ, atingând distanța unei zile-lumină. Reperul este simbolic și evidențiază amploarea călătoriei unui obiect construit de oameni.",
     "content_ro": "• **Pe 18 noiembrie, Voyager 1 va ajunge la distanța unei zile-lumină față de Pământ.** Potrivit planificării, la ora 12:16, ora României, sonda se va afla la circa 25,9 miliarde de kilometri. Luminii îi trebuie 24 de ore pentru a străbate o asemenea distanță.\n\n• **Depărtarea prelungește considerabil comunicarea cu sonda.** Un semnal radio emis de pe Pământ ajunge la Voyager 1 după aproximativ o zi, iar un eventual răspuns ar mai avea nevoie de încă o zi pentru a reveni. Un schimb complet de mesaje durează astfel în jur de două zile.\n\n• **Voyager 1 a pornit în misiune la 5 septembrie 1977.** Sonda se deplasează cu aproximativ 61.000 de kilometri pe oră și este deja obiectul construit de oameni aflat cel mai departe de Pământ. Noua bornă exprimă distanța parcursă, fără să indice traversarea unei limite fizice sau o schimbare specială la bord.\n\n• **Explorarea lui Jupiter a adus contribuții importante la studiul planetelor exterioare.** Între ianuarie și aprilie 1979, Voyager 1 a cercetat planeta, trecând în martie la aproximativ 280.000 de kilometri de aceasta. Observațiile au oferit informații despre atmosfera dinamică a lui Jupiter, inelele sale și activitatea vulcanică de pe Io.\n\n• **Aparatul nu mai fotografiază spațiul din 1990.** Camera a fost oprită după realizarea unor imagini celebre ale Pământului văzut de la mare distanță și ale planetelor Sistemului Solar. NASA păstrează totuși legătura cu sonda, care continuă să se îndepărteze după aproape cinci decenii de la lansare.",
     "importance_score": 23.0,
-    "top_rank": 118,
+    "top_rank": 117,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6317,7 +6284,7 @@
     "lead_ro": "Belfast Boys’ Model se așteaptă ca lansarea GTA VI să îi tenteze pe unii elevi să lipsească de la cursuri. Pentru a susține prezența, școala va organiza o tragere la sorți cu premii valabile pentru platformele de jocuri, condiționată de participarea la cursuri joi și vineri.",
     "content_ro": "• **Școala din Belfast încearcă să încurajeze participarea elevilor în ziua lansării GTA VI.** Conducerea Belfast Boys’ Model a anunțat luni că va organiza o tragere la sorți pentru cei care se prezintă la cursuri atât joi, cât și vineri.\n\n• **Premiile constau în două carduri cadou, fiecare în valoare de 70 de lire.** Acestea pot fi folosite pentru achiziții destinate consolelor PlayStation sau Xbox. Potrivit instituției, elevii au propus ideea recompenselor, menite să sprijine prezența la școală.\n\n• **Pe 19 noiembrie, elevii vizați au programată o probă de matematică GCSE.** Într-o scrisoare adresată părinților, școala a subliniat că examenul coincide cu data planificată pentru lansarea jocului. Testarea îi privește pe toți elevii din anul 11 și pe o parte dintre cei din anul 12.\n\n• **Directoarea Mary Montgomery a precizat că mesajul transmis familiilor urmărea în primul rând să susțină participarea și pregătirea pentru examen.** Instituția dorește să păstreze rezultatele bune obținute în ultimii ani la GCSE, iar prezența elevilor în ziua testării este considerată importantă.\n\n• **Lansarea GTA VI este prevăzută pentru joi, la 13 ani după apariția jocului precedent.** Conducerea școlii ia în calcul posibilitatea ca noul titlu să îi determine pe unii elevi să rămână acasă. Tragerea la sorți, pentru care este necesară prezența în ambele zile, reprezintă răspunsul instituției la acest risc.",
     "importance_score": 23.0,
-    "top_rank": 119,
+    "top_rank": 118,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6355,7 +6322,7 @@
     "lead_ro": "Ministerul român de Externe a emis o informare pentru cetățenii care se află în Portugalia sau plănuiesc să călătorească acolo. Pentru 20 noiembrie este anunțată o grevă în administrația publică, iar în ziua următoare este prevăzut un protest la Lisabona.",
     "content_ro": "• **Angajații administrației publice din Portugalia au anunțat o grevă generală pentru 20 noiembrie.** MAE le-a transmis avertizarea românilor aflați în țară, celor care o tranzitează și celor care urmează să călătorească acolo. Acțiunea sindicală ar putea influența activitatea unor servicii publice și desfășurarea unor proceduri administrative.\n\n• **Pentru 21 noiembrie este programată o manifestație în fața Parlamentului, la Lisabona.** Potrivit informațiilor comunicate de minister, organizatorii se așteaptă la participarea unui număr mare de persoane. Informarea nu oferă detalii despre durata protestului sau despre eventualele modificări ale traficului în zonă.\n\n• **Românii sunt îndemnați să urmărească anunțurile oficiale portugheze.** MAE recomandă verificarea periodică a informațiilor actualizate și evitarea locurilor în care se desfășoară proteste, atât în ziua manifestației, cât și pe durata șederii în țară.\n\n• **Asistența consulară poate fi solicitată telefonic Ambasadei României la Lisabona.** Sunt disponibile numerele +351 21 396 6463, +351 21 396 0866 și +351 21 397 2648. Pentru cazuri urgente și dificile, cetățenii pot apela numărul de permanență +351 927 411 628.\n\n• **Informațiile de călătorie sunt publicate pe paginile web ale ambasadei și MAE.** Ministerul recomandă și aplicația „Călătorește informat”, prin care utilizatorii pot consulta sfaturi și date utile pentru deplasările în afara României.",
     "importance_score": 23.0,
-    "top_rank": 120,
+    "top_rank": 119,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6394,7 +6361,7 @@
     "lead_ro": "Arthur Fils l-a învins în trei seturi pe Rafael Jodar în grupa de la ATP Finals. Succesul din 17 noiembrie, la Torino, îi păstrează francezului șansele de calificare și este prima victorie obținută de un jucător francez la competiție din 2011.",
     "content_ro": "• **Fils s-a impus cu 4-6, 6-2, 6-2** în fața lui Jodar, în grupa John McEnroe de la ATP Finals, disputată la Torino pe 17 noiembrie. Partida a durat o oră și 51 de minute.\n\n• **Jodar a câștigat primul set, cu 6-4,** după un început echilibrat. Fils a revenit în următoarele două manșe, în care a controlat mai bine jocul și a încheiat de fiecare dată cu scorul de 6-2.\n\n• **În timpul setului al doilea, Jodar a solicitat intervenția fizioterapeutului** pentru o problemă la picior. În continuare, Fils a reușit să profite de situație și să obțină victoria în decisiv.\n\n• **Fils are 22 de ani și ocupă locul 7 mondial,** iar Jodar, în vârstă de 20 de ani, se află pe poziția a zecea. Cei doi participă pentru prima dată la ATP Finals; vârsta lor însumată, 42 de ani, reprezintă cea mai mică valoare pentru un duel al turneului din 2008 încoace.\n\n• **Victoria îl menține pe francez în lupta pentru semifinale** și marchează primul succes al unui reprezentant al Franței la competiție după 2011. În celălalt meci al grupei s-au întâlnit Alexander Zverev și Ben Shelton, fiecare având deja câte o victorie.",
     "importance_score": 23.0,
-    "top_rank": 121,
+    "top_rank": 120,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6427,7 +6394,7 @@
     "lead_ro": "Invitatul emisiunii este Victor Ponta. Emisiunea poate fi urmărită pe Facebook și YouTube Gândul.",
     "content_ro": "Invitatul emisiunii este Victor Ponta. Emisiunea poate fi urmărită pe Facebook și YouTube Gândul.",
     "importance_score": 23.0,
-    "top_rank": 122,
+    "top_rank": 121,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6465,7 +6432,7 @@
     "lead_ro": "Primăria Capitalei spune că gazonul are nevoie de timp pentru refacere după un program aglomerat și condiții meteorologice nefavorabile. Stadionul nu va găzdui meciuri până în decembrie, însă municipalitatea afirmă că suprafața nu trebuie înlocuită.",
     "content_ro": "• **Arena Națională nu va găzdui meciuri până în decembrie**, după deteriorarea gazonului. Potrivit Primăriei Capitalei, suprafața nu trebuie schimbată integral, ci lăsată să se refacă printr-o perioadă de repaus și îngrijire.\n\n• **Gazonul a fost instalat la începutul lunii septembrie**, iar primul meci s-a jucat pe 14 septembrie. Până la 14 noiembrie, stadionul a găzduit 11 evenimente: nouă partide și două antrenamente oficiale.\n\n• **Municipalitatea consideră că folosirea terenului a depășit de trei ori ritmul recomandat.** Pentru păstrarea gazonului în stare bună, Primăria indică drept reper un meci la două săptămâni, adică două pe lună. Unele partide au fost însă programate la numai trei zile distanță, iar antrenamentele și meciurile au avut loc și în zile consecutive.\n\n• **Vremea a îngreunat regenerarea suprafeței.** În perioada 24 octombrie–1 noiembrie s-au înregistrat 83 de litri de precipitații pe metru pătrat, față de nivelul de 15–20 de litri considerat potrivit de municipalitate. Temperaturile scăzute, umiditatea ridicată și ploile repetate au încetinit creșterea ierbii și refacerea zonelor afectate în timpul jocurilor.\n\n• **Firma care se ocupă de întreținerea gazonului a solicitat o pauză pentru lucrări de refacere.** Primăria mai arată că stadionul a găzduit în mod obișnuit cinci-șase meciuri pe lună, peste ritmul recomandat pentru menținerea terenului în condiții bune.",
     "importance_score": 23.0,
-    "top_rank": 123,
+    "top_rank": 122,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6503,7 +6470,7 @@
     "lead_ro": "Naționala României a fost întâmpinată la Sarajevo de militari și reprezentanți ai ambasadei înaintea meciului din Liga Națiunilor cu Bosnia și Herțegovina. Imaginile sosirii au generat discuții online despre jucătorii care s-au oprit să-i salute pe militari.",
     "content_ro": "• **Echipa României a ajuns luni seară la Sarajevo**, cu o zi înaintea partidei din grupa Ligii Națiunilor cu Bosnia și Herțegovina, programată pentru 17 noiembrie.\n\n• **Printre cei care au întâmpinat delegația s-au aflat militari români**, aflați în Bosnia și Herțegovina în cadrul misiunii EUFOR ALTHEA. La aeroport au fost prezenți și reprezentanți ai ambasadei, conduși de ambasadorul Anton Păcurețu.\n\n• **Gică Hagi a făcut o fotografie alături de militari, iar Răzvan Marin i-a salutat.** În montajul video publicat de federație, Marin apare ca singurul jucător care pare să dea mâna cu aceștia.\n\n• **În imagini, ceilalți fotbaliști îi salută de la distanță și își continuă drumul.** Unii suporteri au criticat pe rețelele sociale faptul că restul echipei nu s-ar fi oprit pentru a-i saluta personal pe militari.\n\n• **Federația Română de Fotbal a transmis un punct de vedere către GSP.ro după apariția controverselor.** Materialul menționează reacția FRF, însă fragmentul publicat nu redă detaliile răspunsului instituției.",
     "importance_score": 23.0,
-    "top_rank": 124,
+    "top_rank": 123,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6542,7 +6509,7 @@
     "lead_ro": "Roberta Metsola, președinta Parlamentului European, a participat la Bruxelles la un eveniment dedicat împlinirii a 20 de ani de la aderarea României și Bulgariei la UE. În discursul său, a abordat evoluția economică a României, contribuția eurodeputaților români și intrarea în spațiul Schengen.",
     "content_ro": "• **La Bruxelles a avut loc un eveniment aniversar** dedicat celor 20 de ani de la aderarea României și Bulgariei la Uniunea Europeană. Roberta Metsola a vorbit despre aportul celor două state la Uniune și despre beneficiile rezultate din apartenența lor.\n\n• **Dezvoltarea economiei românești și activitatea eurodeputaților români** au fost menționate printre aspectele importante ale parcursului european. Metsola a amintit și de oportunitățile economice și libertățile asociate statutului de membru al UE.\n\n• **Aderarea României și Bulgariei la spațiul Schengen a fost un alt subiect al discursului.** Președinta Parlamentului European a arătat că instituția a susținut acest proces timp de peste zece ani și a prezentat experiența celor două țări drept relevantă pentru integrarea europeană viitoare.\n\n• **Metsola a făcut referire și la importanța strategică a regiunii Mării Negre.** Printre temele abordate s-au numărat, de asemenea, evoluția economică a României și rolul reprezentanților săi în procesul decizional european.\n\n• **La Strasbourg este prevăzută și o ceremonie în plen pentru marcarea aniversării**, a anunțat președinta Parlamentului European. Ea a mai spus că a vizitat România de mai multe ori, inclusiv înainte de a prelua funcția actuală.",
     "importance_score": 23.0,
-    "top_rank": 125,
+    "top_rank": 124,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6580,7 +6547,7 @@
     "lead_ro": "Un studiu realizat în România în 2026 a analizat tranziția absolvenților de studii superioare către piața muncii. Aproape 89% dintre cei care au terminat studiile în 2020 erau angajați după cinci ani, în timp ce rata de ocupare a absolvenților de licență din 2024 era de 58,2% la un an de la absolvire.",
     "content_ro": "• **Aproape 89% dintre absolvenții promoției 2020 aveau un loc de muncă la cinci ani după încheierea studiilor.** Rezultatul provine dintr-o cercetare realizată de Unitatea Executivă pentru Finanțarea Învățământului Superior, a Cercetării, Dezvoltării și Inovării împreună cu Ministerul Educației și Cercetării. Studiul din 2026 urmărește situația profesională a promoțiilor 2020 și 2024.\n\n• **Pentru absolvenții de licență din 2024, rata de ocupare era de 58,2% la un an de la absolvire.** Datele indică și diferențe în privința legăturii dintre locul de muncă și domeniul studiat. Dintre absolvenții de licență din 2024, 32,8% lucrau în specializarea urmată, față de 48,5% în promoția 2020.\n\n• **Experiența profesională acumulată în timpul facultății a fost asociată cu angajarea ulterioară.** Aproximativ 60% dintre respondenți au lucrat în perioada studiilor. Stagiile de practică au fost, la rândul lor, asociate cu obținerea unui post corespunzător nivelului de studii.\n\n• **Circa o treime dintre absolvenții angajați ocupă posturi sub nivelul pregătirii lor.** Potrivit cercetării, proporția persoanelor supracalificate a rămas apropiată de cea înregistrată în ediția precedentă. Indicatorul reflectă diferența dintre nivelul de educație al absolvenților și cel solicitat de locul lor de muncă.\n\n• **84,3% dintre respondenți consideră importante recalificarea și perfecționarea profesională.** Studiul notează că persoanele din mediul rural și cele care sunt primii membri ai familiei ajunși la facultate au acces mai redus la experiențe formative, însă diferența nu a fost confirmată statistic. Cea mai mare discrepanță de competențe între grupurile sociale a fost observată în privința cunoașterii limbilor străine.",
     "importance_score": 20.0,
-    "top_rank": 126,
+    "top_rank": 125,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6619,7 +6586,7 @@
     "lead_ro": "George Simion a declarat într-un interviu că Călin Georgescu ar putea intra în AUR după ce își va clarifica situația juridică. Liderul partidului nu a stabilit ce rol ar putea avea acesta, menționând însă și posibilitatea unei funcții onorifice.",
     "content_ro": "• **O eventuală aderare a lui Georgescu la partid ar putea avea loc după clarificarea dosarelor sale.** George Simion, președintele AUR, a discutat într-un interviu despre posibilitatea ca fostul candidat la prezidențiale să se alăture formațiunii după rezolvarea problemelor juridice.\n\n• **Funcția de președinte onorific a fost menționată, fără să existe o hotărâre.** Simion nu a precizat ce statut i-ar putea reveni lui Georgescu. De asemenea, nu s-a decis dacă acesta ar primi un rol în guvern sau dacă AUR i-ar susține o nouă candidatură la Președinție.\n\n• **Simion consideră că Georgescu ar fi trebuit să ajungă șef al statului.** Liderul AUR a susținut că fostul candidat a câștigat alegeri și că funcția prezidențială i s-ar fi cuvenit. El a descris situația actuală a lui Georgescu drept o formă de persecuție politică.\n\n• **Președintele AUR a criticat efectul dosarelor asupra încrederii în justiție.** Potrivit lui Simion, procedurile judiciare deschise în cazul lui Georgescu au afectat imaginea sistemului, iar o parte a populației nu mai are încredere în instituțiile de justiție.\n\n• **Simion a pus sub semnul întrebării și funcționarea democratică a țării.** El a invocat discuțiile privind limitarea manifestațiilor de protest ca motiv de îngrijorare și a cerut ca justiția să recâștige încrederea publicului.",
     "importance_score": 20.0,
-    "top_rank": 127,
+    "top_rank": 126,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6657,7 +6624,7 @@
     "lead_ro": "Conducerea Casei Naționale de Asigurări de Sănătate susține introducerea unor plăți obligatorii pentru persoanele neasigurate care nu beneficiază de scutiri legale. În evidențele medicilor de familie apar aproximativ 2,9 milioane de persoane fără asigurare.",
     "content_ro": "• **CNAS cere un mecanism de contribuție obligatorie** pentru persoanele neasigurate care nu intră într-o categorie scutită. Larisa Mezinu-Bălan, președinta interimară a instituției, consideră insuficientă varianta actuală, în care persoanele fără venituri sau cu venituri nedeclarate pot alege să plătească voluntar.\n\n• **Aproape 2,9 milioane de persoane figurează ca neasigurate** în listele medicilor de familie, adică aproximativ 15% din populație. Șefa CNAS a precizat că registrele pot include și oameni care nu mai locuiesc în România, astfel că numărul nu indică neapărat situația actuală a fiecărei persoane.\n\n• **Circa 99% dintre cei neasigurați au sub 60 de ani**, potrivit datelor prezentate de conducerea instituției. Propunerea vizează persoanele de vârstă activă care nu contribuie la sistem și nu au dreptul la o exceptare prevăzută de lege.\n\n• **Legislația tratează asigurarea de sănătate drept o obligație generală**, dar prevede scutiri pentru 23 de categorii. Printre acestea se numără copiii, persoanele în vârstă și cele cu dizabilități, care sunt asigurate în baza legii fără să achite contribuția în mod individual.\n\n• **CNAS intenționează să discute cu ANAF situația românilor stabiliți în străinătate**. Întâlnirea este planificată pentru sfârșitul lunii noiembrie, iar discuțiile ar urma să vizeze persoanele care revin periodic în țară și accesează servicii medicale prin pachetul minimal.",
     "importance_score": 20.0,
-    "top_rank": 128,
+    "top_rank": 127,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6695,7 +6662,7 @@
     "lead_ro": "Un cuplu din Marea Britanie a renunțat la o călătorie de două săptămâni în Japonia după ce o filă din pașaportul soțului s-a rupt cu o zi înainte de plecare. Asigurătorul a refuzat să acopere costul de 14.000 de lire sterline.",
     "content_ro": "• **Călătoria de două săptămâni în Japonia costa 14.000 de lire sterline.** Cuplul britanic rezervase pentru luna septembrie o vacanță de lux printr-un operator turistic. Suma corespundea aproximativ cu 16.800 de euro, potrivit conversiei publicate.\n\n• **Pașaportul a fost deteriorat în ajunul plecării.** În timp ce fotocopia documentele, soția a rupt accidental o filă din pașaportul soțului, lângă cotor. Pagina a rămas prinsă de document, iar informațiile și fotografia nu au fost afectate, potrivit relatării.\n\n• **Autoritățile consultate au considerat documentul nevalid.** Cei doi au cerut lămuriri serviciului britanic de pașapoarte și unei rude care lucrează pe aeroportul Gatwick. Ambele surse le-au transmis că pașaportul deteriorat nu putea fi folosit pentru călătorie.\n\n• **Un document de urgență nu putea fi obținut la timp.** Soțul a încercat să găsească o programare pentru eliberarea unui pașaport nou, însă prima disponibilitate era peste cinci zile, după data plecării planificate.\n\n• **Asigurarea nu a rambursat costul anulării.** Cuplul a renunțat la vacanță, iar operatorul turistic a emis o factură de anulare de 14.000 de lire. Asigurătorul a respins solicitarea, explicând că polița acoperea pașapoarte pierdute sau furate, nu documente deteriorate.",
     "importance_score": 20.0,
-    "top_rank": 129,
+    "top_rank": 128,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6734,7 +6701,7 @@
     "lead_ro": "Elena Lasconi a contestat felul în care Nicușor Dan a răspuns unui jurnalist la conferința despre anularea alegerilor. În opinia sa, reprezentanții presei trebuie să poată adresa întrebări, iar tonul întregului eveniment a fost arogant.",
     "content_ro": "• **Lasconi a urmărit conferința pentru a afla ce dovezi urmau să fie prezentate despre anularea alegerilor.** Într-o emisiune moderată de Ionuț Cristache, ea a spus că a fost nemulțumită de desfășurarea evenimentului și a apreciat că atmosfera acestuia a ajuns să eclipseze informațiile pe care le aștepta.\n\n• **Fosta candidată la prezidențiale a criticat răspunsul lui Nicușor Dan adresat unui jurnalist.** Lasconi a susținut că relația dintre politicieni și presă nu trebuie să depindă de simpatii personale și că întrebările relevante trebuie să poată fi formulate fără ca reporterii să fie desconsiderați.\n\n• **Ea și-a comparat poziția cu experiența din propria campanie electorală.** Lasconi a afirmat că în acea perioadă au fost publicate despre ea informații negative și au fost făcute atacuri, însă nu a intentat procese împotriva jurnaliștilor și nici nu a cerut îndepărtarea lor de la conferințe.\n\n• **Lasconi a considerat că atitudinea criticată s-a manifestat pe parcursul întregii conferințe, nu doar într-un schimb de replici.** Potrivit evaluării sale, evenimentul a lăsat impresia că președintele decide ce întrebări sunt acceptabile și cine poate participa la discuție. Aceste aprecieri îi aparțin Elenei Lasconi.",
     "importance_score": 20.0,
-    "top_rank": 130,
+    "top_rank": 129,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6772,7 +6739,7 @@
     "lead_ro": "Instanța a aprobat propunerea penitenciarului Gherla privind eliberarea condiționată a Sorinei Pintea. Fostul ministru al Sănătății ar urma să respecte măsuri de supraveghere după ieșirea din detenție.",
     "content_ro": "• **Instanța a acceptat marți propunerea de eliberare condiționată.** Inițiativa a venit din partea comisiei penitenciarului Gherla, iar decizia permite ca Sorina Pintea să părăsească închisoarea înainte de executarea integrală a pedepsei, cu respectarea condițiilor stabilite.\n\n• **După eliberare, Pintea ar urma să fie monitorizată de serviciul de probațiune.** Ea va trebui să se prezinte la datele stabilite de această instituție și să comunice în avans orice schimbare a domiciliului.\n\n• **Deplasările care durează mai mult de cinci zile trebuie anunțate anticipat.** Instanța a avertizat că nerespectarea obligațiilor de supraveghere sau comiterea unei noi infracțiuni poate duce la anularea măsurii, cu executarea perioadei de detenție rămase.\n\n• **Pintea a primit o pedeapsă definitivă de trei ani și șase luni de închisoare pentru luare de mită în formă continuată.** Curtea de Apel Cluj a pronunțat hotărârea la 6 iunie 2025, după ce Tribunalul București stabilise aceeași pedeapsă la 26 aprilie 2024. Apelul apărării a fost respins.\n\n• **Dosarul vizează un contract de achiziții al Spitalului Județean de Urgență Baia Mare.** Potrivit acuzației, Pintea, care conducea atunci spitalul, ar fi solicitat și primit de la reprezentanții unei firme 10.000 de euro și 120.000 de lei. Suma reprezenta șapte la sută din valoarea contractului public.",
     "importance_score": 20.0,
-    "top_rank": 131,
+    "top_rank": 130,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6811,7 +6778,7 @@
     "lead_ro": "Ministrul Economiei, Daniel Zamfir, a discutat la Doha despre posibile investiții qatareze în România și despre cooperarea dintre companiile celor două țări. Qatar Investment Authority analizează inclusiv varianta unui birou cu rol regional în România, însă discuțiile nu au generat angajamente ferme.",
     "content_ro": "• **Qatar Investment Authority ia în calcul o prezență în România:** La întâlnirea de la Doha cu ministrul Daniel Zamfir s-a discutat despre posibilitatea ca fondul suveran, care gestionează active estimate la peste 500 de miliarde de dolari, să deschidă aici un birou pentru piețele din Europa Centrală și de Est. Varianta este încă în analiză, fără o decizie definitivă.\n\n• **Energia, turismul și inteligența artificială au fost printre sectoarele discutate:** Reprezentanții fondului au analizat oportunități de investiții în România, inclusiv posibilitatea preluării unor participații minoritare. Partea română intenționează să prezinte ulterior proiecte aflate în stadii diferite de dezvoltare.\n\n• **Agenda întâlnirilor a cuprins și infrastructura, industria și tehnologia:** În discuțiile cu organizații de afaceri din Qatar au fost abordate energia, infrastructura portuară, industria, tehnologia, securitatea cibernetică și turismul. Delegația română a prezentat poziția țării la Marea Neagră, Portul Constanța și accesul la piața Uniunii Europene.\n\n• **Opt companii românești au făcut parte din delegația economică:** Printre participanți s-au numărat COMES, SOCEP, Humans.ai, ROMARM, Prime Batteries Technology și TRANSGAZ. Reprezentanții companiilor au urmărit identificarea unor parteneri comerciali și a unor oportunități pentru proiecte comune.\n\n• **Au fost discutate și hoteluri, respectiv pașii următori ai cooperării bilaterale:** Grupul qatarez Ali Bin Ali analizează posibilitatea unor investiții în unități de cazare din România. Următoarea reuniune a Comisiei Mixte Româno-Qatareze este programată în România, în aprilie 2027, când autoritățile intenționează să organizeze și un forum de afaceri.",
     "importance_score": 20.0,
-    "top_rank": 132,
+    "top_rank": 131,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6849,7 +6816,7 @@
     "lead_ro": "Procurorii DNA Suceava au reținut pentru 24 de ore un lucrător vamal și au plasat sub control judiciar, pentru 60 de zile, alți trei vameși și un polițist de frontieră. Ancheta vizează suspiciuni de luare de mită și complicitate la această infracțiune.",
     "content_ro": "• **Un lucrător vamal de la Racovăț a fost reținut**: procurorii DNA Suceava au început urmărirea penală și au dispus măsura pentru 24 de ore, începând din 16 noiembrie. Acesta este cercetat pentru luare de mită în formă continuată.\n\n• **Procurorii cer arestarea preventivă a angajatului vamal** pentru 30 de zile. El urmează să fie prezentat marți Tribunalului Suceava, unde va fi analizată propunerea formulată de anchetatori.\n\n• **Alți patru inculpați au fost plasați sub control judiciar** timp de 60 de zile, începând tot cu 16 noiembrie. Trei dintre ei sunt vameși la Biroul Vamal de Frontieră Siret și sunt cercetați pentru luare de mită. Al patrulea este agent de poliție de frontieră la structura din Dorohoi, fiind suspectat de complicitate la luare de mită.\n\n• **Persoanele aflate sub control judiciar trebuie să respecte mai multe obligații**: să se prezinte la solicitarea organelor de anchetă, să nu părăsească România fără acordul procurorilor și să evite orice contact cu persoanele indicate în ordonanțele procurorilor. De asemenea, nu pot exercita funcțiile publice în legătură cu care sunt cercetate presupusele fapte.\n\n• **Nerespectarea cu rea-credință a obligațiilor poate atrage măsuri mai severe**. Controlul judiciar poate fi înlocuit cu arest la domiciliu sau cu arestare preventivă. Măsurile luate în cadrul anchetei nu stabilesc vinovăția persoanelor cercetate.",
     "importance_score": 20.0,
-    "top_rank": 133,
+    "top_rank": 132,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6888,7 +6855,7 @@
     "lead_ro": "Dispariția unor haine dintr-o spălătorie aflată la subsolul unei clădiri din Bolzano a fost semnalată în seara de 12 noiembrie. Un suspect a rămas prins în ascensor, iar pompierii au intervenit prin deschiderea plafonului cabinei; reparațiile ar putea costa aproximativ 50.000 de euro.",
     "content_ro": "• **Sesizarea privind hainele dispărute a dus la descoperirea bărbatului prins în lift.** În jurul orei 23.00, pe 12 noiembrie, doi tineri au anunțat administratorul Palazzo Campofranco că le lipseau articole vestimentare din spălătoria cu fise de la nivelul minus doi. Înregistrările video arătau un bărbat care pleca din zonă cu o geantă și se îndrepta către ascensor.\n\n• **Polițiștii au recuperat hainele și le-au restituit proprietarilor.** Ulterior, administratorul a constatat că persoana bănuită nu apărea pe imaginile camerelor instalate la ieșirile din clădire. Verificând liftul, acesta a auzit strigăte de ajutor și a înțeles că bărbatul se afla încă în interior.\n\n• **Încercarea de a ieși din cabină a avariat grav ascensorul.** Bărbatul rămăsese blocat la nivelul minus doi și, în panică, a smuls cabluri electrice și a deteriorat panoul de comandă. Defectarea sistemului de siguranță a împiedicat deblocarea prin procedura obișnuită, inclusiv de către tehnicieni.\n\n• **Pompierii l-au scos pe bărbat după ce au desfăcut partea superioară a cabinei.** Intervenția a provocat avarii importante liftului. Costurile pentru repararea acestuia și reluarea funcționării sunt evaluate la circa 50.000 de euro.\n\n• **Bărbatul este cercetat pentru tentativă de furt și distrugere.** Acestea sunt acuzațiile formulate după ce a fost scos din ascensor, potrivit informațiilor publicate despre incident.",
     "importance_score": 20.0,
-    "top_rank": 134,
+    "top_rank": 133,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6927,7 +6894,7 @@
     "lead_ro": "Șefa Fondului Monetar Internațional și fostul președinte al autorității americane de supraveghere bursieră, Gary Gensler, au semnalat riscurile creșterii rapide a investițiilor în AI. Printre preocupări se numără îndatorarea, o posibilă scădere a încrederii investitorilor și lipsa unor utilizări comerciale suficiente.",
     "content_ro": "• **Kristalina Georgieva a avertizat asupra dependenței excesive de investițiile în AI.** Șefa FMI consideră că o diminuare bruscă a încrederii investitorilor ar putea afecta stabilitatea financiară. Ea a evidențiat și mecanismele de finanțare circulară, prin care banii oferiți unei companii revin ulterior către investitor prin achiziții de produse sau servicii.\n\n• **Valoarea acestor operațiuni ar fi depășit un trilion de dolari, potrivit estimărilor FMI.** Aproximativ două treimi din sumă ar proveni din împrumuturi. Georgieva a atras atenția că ritmul de creștere și legăturile financiare dintre companii pot amplifica vulnerabilitățile generate de datorii.\n\n• **Gary Gensler a semnalat posibilitatea unei corecții după expansiunea sectorului AI.** Fostul șef al autorității americane de supraveghere bursieră a spus că firmele au primit prea repede finanțări consistente prin împrumuturi. El a comparat situația cu alte valuri de investiții tehnologice, în care infrastructura a fost construită înainte ca veniturile anticipate să se materializeze.\n\n• **Gensler estimează că o eventuală recesiune ar putea apărea înaintea alegerilor prezidențiale americane din 2028.** El nu prevede neapărat o criză de proporțiile celei a creditelor ipotecare din 2008, ci a indicat drept reper spargerea bulei dot-com. Amploarea unei posibile scăderi rămâne însă incertă.\n\n• **Robin Li, directorul Baidu, a pus accentul pe lipsa rezultatelor comerciale pentru multe companii.** În opinia sa, numeroase firme nu obțin încă beneficii financiare importante din AI. Investițiile mari, fără suficiente aplicații practice, ar putea contribui la formarea unei bule pe piață.",
     "importance_score": 20.0,
-    "top_rank": 135,
+    "top_rank": 134,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -6966,7 +6933,7 @@
     "lead_ro": "În dimineața zilei de 17 noiembrie, doi copii de 8 și 11 ani au fost atacați pe scara unui imobil din cartierul Mănăștur, Cluj-Napoca. Poliția a identificat o femeie de 54 de ani ca suspectă, iar băiatul de 11 ani a fost dus la spital.",
     "content_ro": "• **Poliția din Cluj-Napoca a fost sesizată în jurul orei 07:50, pe 17 noiembrie**, în legătură cu agresarea a doi copii într-o scară de bloc. Apelul a fost făcut de o femeie, care a anunțat că minorii fuseseră atacați de o persoană necunoscută în cartierul Mănăștur.\n\n• **Cei doi copii au 8 și, respectiv, 11 ani.** Potrivit informațiilor disponibile, copilul mai mic a fost bătut, iar băiatul de 11 ani a fost rănit cu un cuțit. Polițiștii au verificat sesizarea și au început cercetările privind incidentul.\n\n• **Băiatul de 11 ani avea leziuni la torace și la cotul drept.** Acesta a fost transportat la spital pentru investigații medicale. Sursele nu oferă informații suplimentare despre eventualele leziuni ale celuilalt copil sau despre îngrijirile acordate acestuia.\n\n• **Anchetatorii au identificat o femeie de 54 de ani, din Cluj-Napoca, drept suspectă.** Informațiile comunicate nu stabilesc vinovăția acesteia; cercetările urmăresc clarificarea împrejurărilor în care s-a produs agresiunea.\n\n• **A fost deschis un dosar penal pentru lovire sau alte violențe.** Polițiștii continuă să cerceteze modul în care s-a desfășurat atacul și ce l-ar fi provocat. Potrivit datelor disponibile, ancheta este în curs.",
     "importance_score": 20.0,
-    "top_rank": 136,
+    "top_rank": 135,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7005,7 +6972,7 @@
     "lead_ro": "Bernie Ecclestone l-a criticat pe Lewis Hamilton și a spus că pilotul britanic ar putea lua în calcul retragerea. Fostul conducător al Formulei 1 și-a exprimat opiniile și despre sezonul Ferrari, conducerea echipei și colaborarea dintre piloți.",
     "content_ro": "• **Ecclestone consideră că Hamilton ar putea începe să ia în calcul retragerea.** Într-un interviu acordat Sky Sport Germania, fostul șef al Formulei 1 a afirmat că pilotul britanic își exprimă frecvent nemulțumirea în weekendurile de cursă. El și-a legat observația și de vârsta lui Hamilton, fără să indice existența unui plan concret de retragere.\n\n• **Ferrari ar fi avut, în opinia sa, șanse la titlul mondial.** Ecclestone a apreciat că monopostul echipei italiene era cel mai bun din competiție și că ar fi putut aduce campionatul. El a pus ratarea acestui obiectiv pe seama mai multor lucruri care, în evaluarea sa, nu au funcționat pentru Scuderie.\n\n• **A pus sub semnul întrebării capacitatea lui Frederic Vasseur de a conduce echipa.** Ecclestone a vorbit favorabil despre calitățile personale ale șefului Ferrari, dar a susținut că formația are nevoie de un conducător mai ferm. El a spus că Christian Horner ar putea îndeplini rolul, însă ar trebui să se adapteze specificului organizației italiene.\n\n• **A prezentat duelul dintre Hamilton și Charles Leclerc drept o preocupare pentru Ferrari.** Potrivit lui Ecclestone, confruntările recente dintre cei doi piloți au costat echipa puncte. El l-a descris pe Leclerc ca fiind apropiat de Ferrari și a afirmat că Hamilton a încercat să schimbe modul de lucru al echipei, demers pe care un singur pilot l-ar putea realiza cu dificultate în acest moment.\n\n• **Ecclestone a cerut stabilirea unei ierarhii clare între piloți.** În opinia sa, Ferrari ar trebui să desemneze fără echivoc pilotul numărul unu. Fostul conducător al Formulei 1 a legat competitivitatea echipei atât de direcția managerială, cât și de clarificarea rolurilor celor doi piloți.",
     "importance_score": 20.0,
-    "top_rank": 137,
+    "top_rank": 136,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7043,7 +7010,7 @@
     "lead_ro": "Pe 17 noiembrie, hackeri au publicat un mesaj pe site-ul Federației Internaționale de Hochei pe Gheață, după ce Rusia a fost exclusă de la Campionatul Mondial U20. Pagina a devenit pentru scurt timp inaccesibilă, iar competiția urmează să aibă loc în Canada.",
     "content_ro": "• **Site-ul IIHF a fost ținta unui atac cibernetic pe 17 noiembrie.** Pe pagina principală au apărut o imagine cu hocheiști ruși și un mesaj care contesta excluderea echipei. Textul sugera că formația nu a fost admisă deoarece adversarii s-ar teme să o înfrunte.\n\n• **Hackerii au folosit și o fotografie cu Ilia Kovalciuk celebrând un gol.** Imaginea era de la Campionatul Mondial din 2008, după reușita decisivă împotriva Canadei. Mesajul asociat susținea că Rusia a fost exclusă fiindcă ar fi dificil de învins.\n\n• **Conținutul modificat a rămas vizibil doar câteva minute.** Ulterior, site-ul nu a mai putut fi accesat, iar pe prima pagină a apărut o notificare privind lucrări tehnice.\n\n• **Pe 15 noiembrie, IIHF a anunțat că Rusia nu va participa la Campionatul Mondial U20 din Canada.** Decizia a fost luată deși Tribunalul de Arbitraj Sportiv hotărâse anterior că echipa rusă trebuie să aibă posibilitatea de a concura.\n\n• **Poziția Canadei a fost un factor în disputa privind participarea.** Autoritățile canadiene au transmis că nu vor acorda vize de intrare jucătorilor ruși. Cu aproximativ o săptămână înainte, premierul Mark Carney afirmase că sportivii din Rusia și Belarus nu vor concura în Canada sub drapelele țărilor lor cât timp acestea continuă războiul din Ucraina.",
     "importance_score": 20.0,
-    "top_rank": 138,
+    "top_rank": 137,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7076,7 +7043,7 @@
     "lead_ro": "Cine ar fi crezut că, într-o bună zi, geamurile clădirilor înalte vor putea fi spălate fără alpiniști utilitari, iar acoperișurile halelor industriale vor fi curățate fără muncitori urcați la zeci de …",
     "content_ro": "Cine ar fi crezut că, într-o bună zi, geamurile clădirilor înalte vor putea fi spălate fără alpiniști utilitari, iar acoperișurile halelor industriale vor fi curățate fără muncitori urcați la zeci de metri înălțime? O afacere apărută în județul Szatmárnémeti propu…",
     "importance_score": 20.0,
-    "top_rank": 139,
+    "top_rank": 138,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7114,7 +7081,7 @@
     "lead_ro": "Autoritatea pentru protecția consumatorilor din Constanța a suspendat activitatea mai multor restaurante din Centrul Vechi, iar amenzile au depășit 150.000 de lei. Inspectorii au semnalat, între altele, gândaci, murdărie și produse expirate.",
     "content_ro": "• **Activitatea mai multor restaurante din Centrul Vechi al Constanței a fost suspendată.** Comisarii Comisariatului Județean pentru Protecția Consumatorilor, CJPC Constanța, au verificat localuri din zonă și au aplicat măsuri în urma controalelor.\n\n• **Valoarea totală a amenzilor a trecut de 150.000 de lei.** Informațiile publicate nu precizează cuantumul sancțiunii pentru fiecare operator și nici nu asociază separat fiecare neregulă cu un anumit local.\n\n• **Inspectorii au raportat probleme de igienă și produse necorespunzătoare.** Printre constatările menționate se numără prezența gândacilor, murdăria și produse cu termenul de valabilitate depășit. Relatarea nu indică în care dintre restaurante a fost găsită fiecare problemă.\n\n• **CJPC Constanța a indicat nouă localuri vizate de acțiune.** Lista cuprinde Old Beijing, Buddha Bar, Next Pub, Pizzico, Manara, Green Pub, Pho Tuan, Pirouette Bistro și Raclettini. Potrivit informațiilor publicate, verificările au fost efectuate de comisarii autorității județene pentru protecția consumatorilor.",
     "importance_score": 20.0,
-    "top_rank": 140,
+    "top_rank": 139,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7147,7 +7114,7 @@
     "lead_ro": "China a transmis marți că „nu are nicio informație” despre o posibilă întâlnire între președintele american Donald Trump și liderul nord-coreean Kim Jong-un, în timpul turneului liderului SUA în Asia.…",
     "content_ro": "China a transmis marți că „nu are nicio informație” despre o posibilă întâlnire între președintele american Donald Trump și liderul nord-coreean Kim Jong-un, în timpul turneului liderului SUA în Asia. Trump a declarat anterior că s-ar putea întâlni cu liderul de la Phenian.",
     "importance_score": 20.0,
-    "top_rank": 141,
+    "top_rank": 140,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7180,7 +7147,7 @@
     "lead_ro": "A rescue boat identified in September 2024 in the Black Sea, adrift and with weapons and ammunition of military origin, was confiscated, according to the decision of the preliminary chamber judge of t…",
     "content_ro": "A rescue boat identified in September 2024 in the Black Sea, adrift and with weapons and ammunition of military origin, was confiscated, according to the decision of the preliminary chamber judge of the Tribunal, at the request of the Prosecutor's Office attached to the Constanta Court of Appeal. The ammunition was sufficient to attack a large city.",
     "importance_score": 20.0,
-    "top_rank": 142,
+    "top_rank": 141,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7213,7 +7180,7 @@
     "lead_ro": "La GSP Live, Nicolae Dică (46 de ani), fostul antrenor al celor de la FCSB, a vorbit despre situația lui Aymen Boutoutaou (25 de ani), fotbalistul pe care Gigi Becali încearcă să îl îndepărteze de la …",
     "content_ro": "La GSP Live, Nicolae Dică (46 de ani), fostul antrenor al celor de la FCSB, a vorbit despre situația lui Aymen Boutoutaou (25 de ani), fotbalistul pe care Gigi Becali încearcă să îl îndepărteze de la echipă. Fostul internațional român apreciază calitățile mijlocașului ofensiv și consideră că acesta ar putea deveni un jucător important pentru roș-albaștri dacă ar primi mai multe șanse. ...",
     "importance_score": 20.0,
-    "top_rank": 143,
+    "top_rank": 142,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7246,7 +7213,7 @@
     "lead_ro": "Madison Huang, fiica lui Jensen Huang, fondatorul Nvidia, este considerată o posibilă candidată la conducerea companiei americane într-un viitor mai îndepărtat, pe fondul schimbărilor de la vârful gru…",
     "content_ro": "Madison Huang, fiica lui Jensen Huang, fondatorul Nvidia, este considerată o posibilă candidată la conducerea companiei americane într-un viitor mai îndepărtat, pe fondul schimbărilor de la vârful grupului.",
     "importance_score": 20.0,
-    "top_rank": 144,
+    "top_rank": 143,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7285,7 +7252,7 @@
     "lead_ro": "Carlos Alcaraz și Daniil Medvedev au început cu victorii parcursul din grupa B a Turneului Campionilor de la Torino. Cei doi se vor înfrunta pe 18 noiembrie, iar Medvedev consideră că suprafața rapidă îi poate oferi oportunități în duelul cu spaniolul.",
     "content_ro": "• **Ambii jucători au câștigat prima partidă din grupa B:** Alcaraz l-a învins pe Frances Tiafoe, iar Medvedev a trecut de Flavio Cobolli în debutul lor la Turneul Campionilor, disputat la Torino.\n\n• **Alcaraz s-a impus în două seturi, cu 6-2, 6-2, în fața lui Tiafoe.** Spaniolul a încheiat partida în 69 de minute și a pornit competiția cu o victorie clară.\n\n• **Medvedev l-a eliminat pe Cobolli cu 7-6 (4), 6-3.** Duelul dintre rus și italian a durat o oră și 27 de minute, iar primul set s-a decis în tie-break.\n\n• **Cei doi câștigători din grupă se vor întâlni miercuri, 18 noiembrie.** Partida de la Torino este programată să înceapă la ora 15:00. Primii doi jucători din fiecare grupă se califică în semifinale.\n\n• **Medvedev vede viteza terenului drept un posibil avantaj în fața lui Alcaraz.** În opinia sa, suprafața îi poate permite să obțină puncte mai ușoare pe serviciu și să încheie schimburile prin lovituri rapide. Rusul a subliniat însă că Alcaraz este un adversar de nivel înalt, astfel că aceste condiții nu fac confruntarea simplă.",
     "importance_score": 20.0,
-    "top_rank": 145,
+    "top_rank": 144,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7318,7 +7285,7 @@
     "lead_ro": "O nouă amânare în procesul pentru recuperarea celor 12 hectare retrocedate din Parcul IOR din București. Tribunalul București nu a reușit nici marți, 17 noiembrie, să înceapă judecarea fondului cauzei…",
     "content_ro": "O nouă amânare în procesul pentru recuperarea celor 12 hectare retrocedate din Parcul IOR din București. Tribunalul București nu a reușit nici marți, 17 noiembrie, să înceapă judecarea fondului cauzei, după ce între părți au apărut noi dispute privind completul de judecată. Dosarul, deschis în 2024 de Grupul de Inițiativă Civică IOR-Titan, vizează anularea actelor prin care terenul a ajuns în proprietate privată în urmă cu peste două decenii.",
     "importance_score": 20.0,
-    "top_rank": 146,
+    "top_rank": 145,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7356,7 +7323,7 @@
     "lead_ro": "Fundația Bog’Art a oferit sprijin în valoare totală de 12.000 de euro în cadrul programului UPGRADE 2026. La selecție au participat 214 tineri din diferite zone ale țării.",
     "content_ro": "• **Programul UPGRADE a distribuit în total 12.000 de euro.** Patru beneficiari au primit câte o bursă de 2.000 de euro, iar alți patru au fost recompensați cu mențiuni speciale de câte 1.000 de euro. Ceremonia de premiere a avut loc la sediul fundației din București.\n\n• **Ediția din 2026 a înregistrat 214 candidaturi.** Programul s-a adresat tinerilor cu vârste între 16 și 26 de ani, implicați în domenii precum medicina, cercetarea, tehnologia, arta, educația și antreprenoriatul social. Evaluarea a urmărit atât rezultatele obținute, cât și inițiativele cu potențial de a aduce beneficii comunității.\n\n• **Ioana Crișan se numără printre bursieri și urmărește să contribuie la recuperarea persoanelor după un accident vascular cerebral.** Medicul și cercetătorul în formare investighează, în cadrul doctoratului, posibili factori genetici, epigenetici și nutriționali asociați procesului de recuperare. Activitatea sa include munca clinică, coordonarea unor schimburi internaționale de cercetare și publicarea unui articol științific.\n\n• **O altă beneficiară menționată este Luiza Gabriela Tudor, fondatoarea inițiativei tougHER.** Asociația sprijină mamele singure și copiii din medii vulnerabile. În primul an, organizația a desfășurat opt evenimente caritabile, prin care au primit ajutor opt mame și peste 20 de copii. Informația disponibilă menționează și patru campanii, fără a oferi detalii despre acestea.",
     "importance_score": 20.0,
-    "top_rank": 147,
+    "top_rank": 146,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7394,7 +7361,7 @@
     "lead_ro": "Un rozariu aruncat din mulțime l-a lovit pe Papa Leon al XIV-lea în timp ce papamobilul se îndrepta spre slujba de încheiere a vizitei sale în Peru. Suveranul Pontif și-a dus pentru scurt timp mâna la față, apoi și-a continuat deplasarea; ulterior a spus că persoana respectivă probabil încerca să-i ofere obiectul.",
     "content_ro": "• **Rozariul l-a atins pe papă în zona ochiului** în timp ce papamobilul se deplasa luni către slujba de rămas-bun de la baza aeriană din Lima. Leon al XIV-lea și-a dus pentru scurt timp mâna la față, dar nu a oprit mașina și a continuat să salute oamenii aflați de-a lungul traseului.\n\n• **Slujba din Lima a încheiat vizita pontifului în Peru.** Potrivit informației Mediafax, care citează Associated Press, aproximativ 1,5 milioane de persoane s-au adunat la eveniment. Acesta a marcat și ultima etapă a turneului sud-american, după care papa a pornit spre Roma.\n\n• **La conferința de presă din avion, Leon al XIV-lea nu a prezentat incidentul drept o ofensă.** Un jurnalist peruan și-a cerut scuze pentru gestul persoanei din mulțime. Papa a răspuns că, după părerea sa, credinciosul voia să-i înmâneze rozariul și să se apropie de el.\n\n• **Pontiful a legat întâmplarea de entuziasmul și credința oamenilor din Peru.** În răspunsul său a făcut o glumă despre faptul că obiectul l-a atins la față și la ochi, apoi a vorbit despre credința profundă a celor prezenți și despre dorința lor de a primi binecuvântarea Domnului.\n\n• **Relatările nu menționează că papa ar fi suferit o rană sau ar fi avut nevoie de îngrijiri.** După impact, el și-a continuat traseul, iar incidentul a fost discutat ulterior în timpul călătoriei spre Roma. Din informațiile disponibile nu reiese că ar fi existat intenția de a-l ataca; papa a interpretat gestul ca pe o încercare de a-i oferi un obiect religios.",
     "importance_score": 20.0,
-    "top_rank": 148,
+    "top_rank": 147,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7433,7 +7400,7 @@
     "lead_ro": "Administrația Națională de Meteorologie a emis avertizări de precipitații, inclusiv cod portocaliu, și o atenționare privind vântul la munte. Informarea este valabilă de marți dimineață până vineri dimineață, iar cele mai mari cantități de apă sunt prognozate în zonele montane din vest.",
     "content_ro": "• **Informarea meteorologică este valabilă din 17 noiembrie, ora 10:00, până în 20 noiembrie, ora 10:00.** Ploile sunt așteptate mai ales în jumătatea vestică a țării și în zonele montane; izolat, acestea pot fi însoțite de descărcări electrice.\n\n• **Codul portocaliu de precipitații intră în vigoare pe 17 noiembrie, la ora 20:00, și se încheie în seara zilei următoare.** Sunt vizate Carpații Occidentali, unele zone din vestul Carpaților Meridionali și nordul Carpaților Orientali. Se pot acumula 50–70 l/mp, iar în puncte restrânse cantitățile pot ajunge la 80–90 l/mp.\n\n• **În același interval este anunțat și cod galben de ploi pentru mai multe regiuni.** Avertizarea cuprinde Banatul, Crișana, Maramureșul, nordul și sud-vestul Transilvaniei, precum și anumite zone montane, unde sunt estimate în general 25–50 l/mp.\n\n• **La munte, vântul poate atinge viteze ridicate marți și miercuri.** Atenționarea de cod galben începe în dimineața zilei de 17 noiembrie. Rafalele sunt estimate la 70–90 km/h, iar la altitudini mari pot ajunge la 90–120 km/h.\n\n• **Vântul se poate intensifica din nou în mai multe regiuni spre sfârșitul săptămânii.** Marți și miercuri sunt vizate cu precădere vestul și sud-estul țării, iar joi, local, sud-vestul. În noaptea de joi spre vineri, intensificările se pot extinde la nivel național, cu viteze de regulă între 45 și 55 km/h; în zonele montane înalte, rafalele pot depăși 100 km/h.",
     "importance_score": 20.0,
-    "top_rank": 149,
+    "top_rank": 148,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7466,7 +7433,7 @@
     "lead_ro": "Kremlinul a declarat marţi că nu garantează ţărilor europene un loc în negocierile tripartite privind Ucraina, reluate săptămâna trecută la Abu Dhabi cu medierea Statelor Unite, relatează EFE.",
     "content_ro": "Kremlinul a declarat marţi că nu garantează ţărilor europene un loc în negocierile tripartite privind Ucraina, reluate săptămâna trecută la Abu Dhabi cu medierea Statelor Unite, relatează EFE.",
     "importance_score": 20.0,
-    "top_rank": 150,
+    "top_rank": 149,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7505,7 +7472,7 @@
     "lead_ro": "Informația despre o pană de curent programată pentru 17 noiembrie nu are o bază reală. FCC și FEMA desfășoară un test al sistemului american de alertare prin radio și televiziune, fără întreruperea alimentării cu energie.",
     "content_ro": "• **Zvonul despre o pană de curent pe 17 noiembrie este nefondat.** Povestea s-a răspândit prin asocierea unei postări de pe o rețea socială, a unui anunț al unei autorități americane și a unui episod Simpsons din 2023; subiectul a fost preluat și de presa italiană. Sursa precizează că nu este anunțată o întrerupere reală a electricității.\n\n• **FCC și FEMA testează sistemul de alertă pentru situații de urgență din Statele Unite.** Exercițiul este programat pe 17 noiembrie, în jurul orei 14:20 pe coasta de est a SUA, adică la 21:20, ora României. Emisiunile radio și TV vor fi întrerupte aproximativ un minut.\n\n• **Testarea privește numai transmisiunile radio și TV.** Mesajul de probă nu va fi trimis pe telefoanele mobile și nu va opri alimentarea cu energie; autoritățile spun că publicul nu trebuie să ia măsuri. Zvonul pare să fi apărut prin confundarea testului cu o presupusă oprire a rețelei electrice.\n\n• **Ghidul european recomandă provizii pentru cel puțin 72 de ore.** Documentul a fost prezentat pe 3 noiembrie, la Forumul European pentru Protecție Civilă, de comisara Hadja Lahbib. Recomandările vizează pregătirea pentru dezastre naturale, pene extinse de curent, atacuri informatice și crize geopolitice și nu au caracter obligatoriu.\n\n• **Lista europeană include produse și obiecte pentru nevoi de bază.** Printre acestea se numără apă potabilă, alimente neperisabile, medicamente, lanternă, radio, baterie externă, bani în numerar, acte și produse de igienă. Apariția ghidului a fost, de asemenea, legată online de afirmațiile despre pana de curent din 17 noiembrie.",
     "importance_score": 20.0,
-    "top_rank": 151,
+    "top_rank": 150,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7538,7 +7505,7 @@
     "lead_ro": "Alexandru Barbu revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de antrenorul Nicolae Dică. Despre ce vom discuta în direct: Bosnia - România, ultimul meci al „tricolorilor” din ace…",
     "content_ro": "Alexandru Barbu revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de antrenorul Nicolae Dică. Despre ce vom discuta în direct: Bosnia - România, ultimul meci al „tricolorilor” din acest an, se joacă diseară, de la 21:45. Analizăm echipa probabilă pregătită de Gheorghe Hagi;Lukasz Szukala și Raul Rusescu au bătut palma cu FCSB. ...",
     "importance_score": 20.0,
-    "top_rank": 152,
+    "top_rank": 151,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7576,7 +7543,7 @@
     "lead_ro": "Mii de clienți JPMorgan Chase au întâmpinat temporar dificultăți la accesarea conturilor online și la efectuarea transferurilor prin Zelle. Banca a atribuit incidentul unei erori software dintr-un sistem propriu și a exclus un atac cibernetic.",
     "content_ro": "• **Mii de clienți JPMorgan Chase au semnalat probleme de acces:** unii nu și-au putut deschide conturile online, iar alții nu au reușit să trimită bani prin serviciul Zelle.\n\n• **Banca a indicat o defecțiune tehnică internă drept cauză.** Potrivit instituției, o eroare software asociată unui sistem hardware propriu a dus la întreruperea serviciilor; banca a exclus varianta unui atac cibernetic.\n\n• **Problemele au vizat în special serviciile Chase și anumite tranzacții interbancare.** Dificultățile au apărut și la operațiuni către alte instituții, între care Bank of America și Citigroup.\n\n• **Bank of America și Citigroup au transmis că propriile sisteme funcționau normal.** Relatările au asociat întreruperile cu serviciile Chase și cu tranzacțiile implicate, nu cu o avarie generală a platformelor celor două bănci.\n\n• **JPMorgan Chase a început demersurile pentru restabilirea serviciilor.** Instituția nu a precizat cât a durat incidentul și nici numărul total al clienților afectați; comunicările au menționat cauza tehnică și lucrările de remediere.",
     "importance_score": 20.0,
-    "top_rank": 153,
+    "top_rank": 152,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7609,7 +7576,7 @@
     "lead_ro": "Începând cu anul 2017, stația Liziba a devenit un adevărat fenomen viral pe internet, atrăgând milioane de turiști în fiecare an.",
     "content_ro": "Începând cu anul 2017, stația Liziba a devenit un adevărat fenomen viral pe internet, atrăgând milioane de turiști în fiecare an.",
     "importance_score": 20.0,
-    "top_rank": 154,
+    "top_rank": 153,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7648,7 +7615,7 @@
     "lead_ro": "Xi Jinping, Donald Trump și Vladimir Putin sunt așteptați joi la o reuniune în Shenzhen, în contextul summitului APEC găzduit de China. Kremlinul a respins comparațiile dintre discuția planificată și conferința de la Ialta din 1945.",
     "content_ro": "• **Întâlnirea celor trei lideri este programată pentru joi, la Shenzhen**, în marja reuniunii Cooperării Economice Asia-Pacific. Discuțiile îi vor aduce împreună pe președinții Chinei, Statelor Unite și Rusiei, însă detaliile organizatorice nu au fost prezentate integral.\n\n• **Dmitri Peskov a contestat interpretarea care apropie reuniunea de Ialta.** Purtătorul de cuvânt al Kremlinului a susținut că Moscova și Beijingul nu urmăresc să stabilească viitorul altor state și că fiecare țară trebuie să-și poată decide propriul parcurs.\n\n• **China a indicat pacea și stabilitatea strategică drept teme importante.** Mao Ning, purtătoarea de cuvânt a Ministerului de Externe, a declarat luni că liderii ar putea aborda păstrarea păcii mondiale și relațiile dintre marile puteri.\n\n• **Controlul armelor nucleare ar putea fi inclus în discuții.** Diplomați chinezi și americani de rang înalt au menționat posibilitatea abordării acestui subiect sensibil în format trilateral, fără ca sursa să indice o agendă definitivă.\n\n• **În Europa și Ucraina există temeri privind intențiile Moscovei.** Unele voci se preocupă de posibilitatea stabilirii unor sfere de influență; separat, Kremlinul a evocat o eventuală întrevedere între Trump și Putin, ale cărei detalii nu sunt încă stabilite.",
     "importance_score": 20.0,
-    "top_rank": 155,
+    "top_rank": 154,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7686,7 +7653,7 @@
     "lead_ro": "Barcelona a obținut titlul de Capitală Europeană a Crăciunului 2026 la categoria orașelor cu peste 100.000 de locuitori. Aprinderea luminilor festive este programată pentru 26 noiembrie, iar instalațiile vor acoperi, potrivit estimărilor locale, aproape 140 de kilometri de străzi.",
     "content_ro": "• **Barcelona a fost desemnată câștigătoare pentru anul 2026** în categoria orașelor cu mai mult de 100.000 de locuitori. Juriul a luat în considerare patrimoniul istoric, tradițiile catalane și diversitatea culturală a orașului. La celelalte categorii au fost alese Wels, din Austria, și Kirkop, din Malta.\n\n• **Ceremonia de aprindere a instalațiilor este anunțată pentru joi, 26 noiembrie, la ora 18:00.** Luminile vor fi montate pe mai mult de 130 de kilometri de străzi, iar totalul estimat de autoritățile locale se apropie de 140 de kilometri. Planul cuprinde 255 de arcade luminoase, 272 de figurine iluminate și peste 50 de fântâni decorate, în toate cele zece districte.\n\n• **Pentru prima dată, decorurile concepute de designeri ajung și în zone mai îndepărtate de centrul orașului.** Printre locurile incluse se află Rambla de Prim și Passeig de Maragall. Extinderea urmărește repartizarea vizitatorilor în mai multe cartiere; anul trecut, aproximativ 46.000 de persoane s-au adunat doar pe Passeig de Gràcia la aprinderea luminilor.\n\n• **Târgurile tradiționale completează programul sezonului festiv.** Fira de Santa Llúcia funcționează lângă Catedrala din Barcelona din 1786 și reunește aproape 300 de standuri cu obiecte artizanale, brazi și figurine pentru scenele Nașterii Domnului. Un alt târg va avea loc în apropierea bazilicii Sagrada Família.\n\n• **Tió de Nadal este una dintre tradițiile catalane specifice Crăciunului.** În decembrie, copiii decorează și „hrănesc” un buștean, iar în Ajun îl lovesc simbolic pentru a primi dulciuri și cadouri de mici dimensiuni.",
     "importance_score": 20.0,
-    "top_rank": 156,
+    "top_rank": 155,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7725,7 +7692,7 @@
     "lead_ro": "Municipiul Oradea a alocat 100.000 de euro pentru dezvoltarea aplicației Zenaios, destinată Spitalului Clinic Județean Bihor. La doi ani de la finanțare, beneficiile nu sunt demonstrate, iar chatbotul ar putea furniza pacienților răspunsuri incorecte.",
     "content_ro": "• **Municipiul Oradea a investit 100.000 de euro în dezvoltarea Zenaios.** Finanțarea a fost acordată în noiembrie 2024 prin Make IT in Oradea, organizație care sprijină startup-uri din domeniul tehnologiei. Aplicația era concepută pentru Spitalul Clinic Județean Bihor.\n\n• **Proiectul a fost asociat cu firma Zenaios, fondată de antreprenorul George Haber.** Acesta și-a prezentat planurile în toamna anului 2024, în timpul unei vizite la Oradea. Sistemul urma să preia o parte dintre sarcinile administrative care consumă timpul personalului medical.\n\n• **Planul prevedea instrumente pentru pacienți, medici și conducerea spitalului.** Aplicația ar fi trebuit să ofere informații bolnavilor, să sprijine deciziile clinice și să ajute la urmărirea utilizării resurselor instituției. Acestea au fost obiectivele anunțate, nu rezultate confirmate.\n\n• **Potrivit articolului, chatbotul poate furniza răspunsuri greșite.** Utilitatea modulelor dezvoltate nu ar fi fost demonstrată, iar la doi ani de la finanțare nu există beneficii dovedite. Relatarea menționează și noi promisiuni din partea companiei.\n\n• **Eficiența investiției rămâne, astfel, neclară.** Sunt cunoscute suma alocată și scopul declarat al aplicației, însă informațiile publicate nu arată că sistemul ar fi îmbunătățit concret îngrijirea pacienților sau activitatea spitalului.",
     "importance_score": 20.0,
-    "top_rank": 157,
+    "top_rank": 156,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7763,7 +7730,7 @@
     "lead_ro": "Warren Buffett a transferat către patru fundații ale familiei 9,225 milioane de acțiuni Berkshire Hathaway de clasa B, evaluate la aproximativ 5,5 miliarde de dolari. După donație, investitorul păstrează acțiuni de clasa A estimate la circa 162 de miliarde de dolari.",
     "content_ro": "• **Patru fundații au primit acțiuni în valoare totală de aproximativ 5,5 miliarde de dolari:** Buffett a transformat 6.150 de titluri Berkshire de clasa A în 9,225 milioane de acțiuni de clasa B și le-a distribuit apoi organizațiilor. Susan Thompson Buffett Foundation a primit 3,69 milioane de acțiuni.\n\n• **Trei organizații administrate de copiii săi au încasat câte 1,845 milioane de titluri:** beneficiarii sunt Sherwood Foundation, Howard G. Buffett Foundation și NoVo Foundation. Cei trei copii ai investitorului se ocupă de multă vreme de sprijinirea unor cauze filantropice.\n\n• **Buffett a rămas cu o participație importantă la Berkshire după transfer:** el deține 182.140 de acțiuni de clasa A, evaluate la circa 162 de miliarde de dolari. Investitorul are 96 de ani, iar această donație îi reduce în continuare deținerea în companie.\n\n• **Transferul face parte dintr-un plan mai amplu pentru folosirea averii sale:** Buffett urmărește ca cei trei copii săi să direcționeze către scopuri caritabile, până în 2034, o avere estimată la peste 160 de miliarde de dolari. În anul precedent, cele patru fundații primiseră de la el acțiuni evaluate la 1,35 miliarde de dolari.\n\n• **Conducerea Berkshire Hathaway s-a schimbat în septembrie:** fiul lui Buffett, Howard, a preluat funcția de președinte al consiliului de administrație, iar Greg Abel conduce activitatea executivă a conglomeratului. În mesajul său de sărbători despre donații, Buffett l-a menționat și pe fostul său partener de afaceri, Charlie Munger.",
     "importance_score": 20.0,
-    "top_rank": 158,
+    "top_rank": 157,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7796,7 +7763,7 @@
     "lead_ro": "Fostul președinte Traian Băsescu a explicat într-o emisiune difuzată la TVR că cea mai bună variantă de regionalizare a României este cea cu 8 județe, plus județele Harghita și Covasna, împreună, prop…",
     "content_ro": "Fostul președinte Traian Băsescu a explicat într-o emisiune difuzată la TVR că cea mai bună variantă de regionalizare a României este cea cu 8 județe, plus județele Harghita și Covasna, împreună, propusă de guvernul Emil Boc. ”Cea mai bună variantă e cea emisă de Boc: 8 regiuni plus 2, Harghita și Covasna. Rezolvă și problema […] © G4Media.ro.",
     "importance_score": 20.0,
-    "top_rank": 159,
+    "top_rank": 158,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -7829,7 +7796,7 @@
     "lead_ro": "Pacienții români nu vor mai fi nevoiți să transporte între cabinete și spitale bilete de trimitere, scrisori medicale sau alte documente necesare pentru consultații și investigații. Începând cu 1 ianu…",
     "content_ro": "Pacienții români nu vor mai fi nevoiți să transporte între cabinete și spitale bilete de trimitere, scrisori medicale sau alte documente necesare pentru consultații și investigații. Începând cu 1 ianuarie 2027, aceste documente vor fi gestionate electronic.",
     "importance_score": 20.0,
-    "top_rank": 160,
+    "top_rank": 159,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -27206,7 +27173,7 @@
     "lead_ro": "Ministrul de externe Dan Neculăescu s-a întâlnit la Bruxelles cu secretarul general NATO Mark Rutte și cu oficiali europeni pentru discuții despre securitatea Mării Negre. Alianța și-a intensificat supravegherea regiunii, însă nu a decis încă noi contribuții ale aliaților; pe agenda discuțiilor au figurat și proiecte europene de finanțare și securitate.",
     "content_ro": "• **NATO monitorizează mai atent Marea Neagră, dar nu a decis noi contribuții ale aliaților.** Neculăescu a discutat cu Mark Rutte și a cerut ca regiunea să rămână o prioritate pentru Alianță. Contribuțiile suplimentare trebuie aprobate și de guvernele naționale, astfel că ministrul nu a indicat un termen pentru o hotărâre.\n\n• **România solicită echipamente suplimentare pentru a răspunde amenințărilor maritime și incidentelor cu drone.** Ministrul apărării, Ștefan-Radu Oprea, a evidențiat protejarea infrastructurii critice, libertatea navigației și dezvoltarea capacităților de supraveghere și reacție. Potrivit acestuia, alertele privind dronele s-au înmulțit în zonele Tulcea și Sulina.\n\n• **Scufundarea unei nave în apropierea coastelor Bulgariei a readus în atenție riscurile din regiune.** GAS HUSKY naviga din Alexandria spre Midia; toți cei 19 membri filipinezi ai echipajului au fost salvați, iar autoritățile române au participat la operațiune. Neculăescu a menționat și cooperarea dintre România, Bulgaria și Turcia.\n\n• **Un centru de securitate la Marea Neagră urmează să beneficieze de sprijin european.** Comisia Europeană a anunțat 50 de milioane de euro pentru inițiativa româno-bulgară, care va colecta și analiza informații despre securitatea regională. Centrul nu va avea rolul de a neutraliza direct drone sau alte amenințări.\n\n• **Discuțiile cu oficialii UE au inclus finanțarea de după 2027 și securitatea digitală.** Neculăescu s-a întâlnit cu Roxana Mînzatu pentru a aborda protejarea fondurilor de coeziune și agricole în viitorul buget european, operaționalizarea centrului maritim și consolidarea Centrului European de Competențe în materie de Securitate Cibernetică, cu sediul la București. România susține, de asemenea, încetarea focului la Marea Neagră și o pace durabilă și justă.",
     "importance_score": 118.0,
-    "top_rank": 161,
+    "top_rank": 160,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -27254,7 +27221,7 @@
     "lead_ro": "Mai multe misiuni diplomatice ale Statelor Unite în Europa au publicat luni o alertă comună pentru cetățenii americani care călătoresc în perioada sărbătorilor. Notificarea nu indică un plan de atac sau o locație concretă, dar atrage atenția asupra spațiilor aglomerate și a posibilelor perturbări provocate de greve și demonstrații.",
     "content_ro": "• **Misiuni din mai multe state au publicat avertizări similare.** Luni, reprezentanțele americane din Germania, Regatul Unit, Spania, Portugalia, Irlanda, Bulgaria, Slovenia și Turcia au difuzat mesaje cu conținut apropiat. În majoritatea notificărilor, zona de risc a fost descrisă ca fiind întregul continent european.\n\n• **Prudența este recomandată în locurile aglomerate.** Evenimentele de sezon, obiectivele turistice, nodurile de transport, centrele comerciale, lăcașurile de cult și alte spații publice pot fi expuse riscurilor. Printre posibilii autori au fost menționați extremiști, persoane care acționează singure și infractori; un atac s-ar putea produce fără avertizare sau după un preaviz scurt.\n\n• **Alerta nu semnalează o amenințare concretă.** Reprezentanțele nu au indicat un atac planificat, un oraș sau o dată precisă. Călătorilor americani li s-a recomandat să fie atenți la mediul înconjurător, să adopte măsuri rezonabile de siguranță, să urmărească informațiile locale și să respecte instrucțiunile poliției și ale serviciilor de urgență.\n\n• **Grevele și protestele pot perturba deplasările.** Potrivit misiunilor diplomatice, în perioada sărbătorilor sunt posibile întreruperi ale transportului și ale activităților cotidiene în Europa, iar grevele și manifestațiile au devenit mai frecvente în ultimele luni. În noiembrie, amenințări false cu bombă au afectat aviația civilă din mai multe țări; la Paris a fost deschisă o anchetă privind mesaje de amenințare trimise prin e-mail.",
     "importance_score": 40.0,
-    "top_rank": 162,
+    "top_rank": 161,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -27297,7 +27264,7 @@
     "lead_ro": "Carbon Brief a evaluat emisiile rezultate din arderea combustibililor fosili exportați începând din 1850 și le-a atribuit statelor care i-au extras. Datele calculate până la sfârșitul lui 2025 plasează Rusia pe primul loc, iar analiza aduce în discuție și rolul Australiei în negocierile climatice.",
     "content_ro": "• **Rusia ocupă primul loc** în clasamentul emisiilor istorice asociate arderii cărbunelui, petrolului și gazelor exportate. Pentru intervalul început în 1850 și calculat până la finalul lui 2025, valoarea depășește 70 de gigatone.\n\n• **Arabia Saudită se află pe poziția a doua**, cu aproximativ 60 de gigatone. Țara este un producător important de petrol și gaze și deține de mult timp o influență politică semnificativă la reuniunile climatice ale ONU.\n\n• **Australia este a treia**, cu peste 25 de gigatone, în timp ce Venezuela se situează la mică distanță. Combustibilii fosili reprezintă aproximativ două cincimi din exporturile australiene, iar țara nu a stabilit limite pentru utilizarea sau exportul acestora.\n\n• **Includerea exporturilor schimbă substanțial evaluarea amprentei climatice australiene:** potrivit analizei prezentate de Digi24, contribuția țării la încălzirea globală se dublează dacă sunt luate în calcul și emisiile produse ulterior prin arderea combustibililor vânduți în străinătate.\n\n• **Finanțarea climatică și conducerea COP31 au devenit teme de dezbatere.** Summitul se desfășura în Turcia, în a doua săptămână, iar Australia avea un rol de copreședinte al negocierilor. Louise Hutchins, coordonatoarea coaliției Make Polluters Pay, a susținut că influența politică a statelor îmbogățite din combustibili fosili și blocajele privind finanțarea îngreunează progresul; în opinia sa, beneficiarii industriei ar trebui să contribuie la acoperirea pagubelor.",
     "importance_score": 30.0,
-    "top_rank": 163,
+    "top_rank": 162,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -27331,7 +27298,7 @@
     "lead_ro": "Guvernul german intenționează să-l propună pe Markus Brunnermeier, profesor la Universitatea Princeton, pentru funcția de economist-șef al Băncii Centrale Europene. Cabinetul federal ar urma să decidă miercuri, iar mandatul actualului titular, Philip Lane, se încheie în luna mai.",
     "content_ro": "• **Germania intenționează să-l nominalizeze pe Brunnermeier.** Economistul, care predă la Universitatea Princeton, este propus pentru poziția de economist-șef al Băncii Centrale Europene. Doi oficiali ai Ministerului german de Finanțe au prezentat planul publicației Politico înaintea unui anunț oficial.\n\n• **Cabinetul federal ar urma să decidă miercuri asupra propunerii.** Ministrul de Finanțe, Lars Klingbeil, i l-a recomandat cancelarului Friedrich Merz pe Brunnermeier. Nominalizarea nu era încă definitivă la momentul relatării, care descria intenția guvernului.\n\n• **Mandatul lui Philip Lane se încheie în mai.** Funcția de economist-șef este una dintre cele trei poziții importante din conducerea BCE care trebuie ocupate până la sfârșitul anului. Alegerea unui nou titular are loc în contextul unor schimbări mai ample la nivelul conducerii instituției.\n\n• **Și funcția de președinte al BCE ar putea deveni vacantă.** Potrivit articolului, Christine Lagarde intenționează să plece în februarie, iar Isabel Schnabel, reprezentanta Germaniei în Comitetul executiv, urmează să plece la începutul lui 2027 pentru a se alătura Fondului Monetar Internațional. Germania ar fi tot mai dispusă să susțină numirea spaniolului Pablo Hernández de Cos în locul lui Lagarde.\n\n• **Retragerea lui Klaas Knot din cursa pentru președinția BCE a fost relatată, dar nu confirmată.** Publicația olandeză Volkskrant a scris că fostul guvernator al băncii centrale a Olandei s-ar pregăti să renunțe la competiție. Knot nu a răspuns imediat solicitării Politico de a comenta informația.",
     "importance_score": 25.0,
-    "top_rank": 164,
+    "top_rank": 163,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -27369,6 +27336,44 @@
     "lead_ro": "Instanța urmează să se pronunțe definitiv pe 10 decembrie în dosarul uciderii lui Mario Berinde, în vârstă de 15 ani, din localitatea Cenei, județul Timiș. Familia a contestat hotărârea inițială, solicitând despăgubiri morale mai mari și o nouă analiză a rolului ambilor inculpați în omor.",
     "content_ro": "• **Decizia finală în dosarul lui Mario Berinde ar putea fi pronunțată pe 10 decembrie.** Adolescentul de 15 ani a fost ucis la începutul anului în Cenei, județul Timiș. Familia sa a făcut apel împotriva soluției date de Tribunalul Timiș.\n\n• **Rudele victimei cer majorarea despăgubirilor morale** și reevaluarea implicării celor doi inculpați, ambii în vârstă de 15 ani, în comiterea omorului calificat. Avocatul familiei, Adrian Cuculis, a arătat că unul dintre adolescenți a fost condamnat în primă instanță pentru profanarea cadavrului și favorizarea făptuitorului, nu și pentru omor.\n\n• **Hotărârea din 18 septembrie a dispus internarea unuia dintre inculpați într-un centru de detenție pentru 15 ani**, pentru omor calificat și profanarea cadavrului. Din durata măsurii se scade timpul petrecut în reținere și arest preventiv, calculat începând cu 21 ianuarie.\n\n• **Celălalt inculpat a primit măsura asistării zilnice pentru șase luni.** Pentru profanarea cadavrului și favorizarea făptuitorului, acesta trebuie să se afle sub supravegherea Serviciului de Probațiune Timiș, să urmeze cursuri școlare ori de pregătire profesională și consiliere psihologică. Instanța a dispus și confiscarea toporului folosit în atac și a brichetei utilizate la incendierea trupului. Al treilea minor nu răspunde penal.",
     "importance_score": 25.0,
+    "top_rank": 164,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_bbaa00c258",
+    "slug": "bombafenyegetes-erte-a-chisinaubukarest-jaratot-bbaa00",
+    "tags": [
+      "aviatie",
+      "chisinau",
+      "bucuresti",
+      "alerta-cu-bomba"
+    ],
+    "fingerprint": "f7196638cf542f3ab2021ac09346ce2c",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Alertă cu bombă la bordul unui avion Chișinău-București. 102 pasageri se aflau la bord",
+        "link": "https://www.mediafax.ro/social/alerta-cu-bomba-la-bordul-unui-avion-chisinau-bucuresti-102-pasageri-se-aflau-la-bord-23844970"
+      },
+      {
+        "source": "Digi24",
+        "title": "Ameninţare cu bombă la bordul unei avion Wizz Air care zbura pe ruta Chişinău - Bucureşti. La bord se aflau 102 pasageri",
+        "link": "https://www.digi24.ro/stiri/amenintare-cu-bomba-la-bordul-unei-avion-wizz-air-care-zbura-pe-ruta-chisinau-bucuresti-la-bord-se-aflau-102-pasageri-4041069"
+      }
+    ],
+    "published_at": 1794950668,
+    "title_hu": "Bombafenyegetés érte a Chișinău–Bukarest járatot",
+    "lead_hu": "A Wizz Air Chișinău és Bukarest között közlekedő gépén 102 utas tartózkodott, amikor bombafenyegetésről érkezett jelzés. A repülőgép 21:43-kor landolt, a szükséges eljárások után a fenyegetést hamisnak minősítették.",
+    "content_hu": "• **Bombafenyegetés miatt intézkedtek a Chișinău–Bukarest útvonalon közlekedő repülőgép ügyében.** A járat a Wizz Air 3248-as számú gépe volt; a történtekről a Bukaresti Repülőterek Társaságának képviselői számoltak be.\n\n• **A fedélzeten 102 utas tartózkodott.** A hatóságok és a repülőtéri szereplők a fenyegetés kezelése során a járat biztonságára vonatkozó eljárásokat követték.\n\n• **A jelzés először az otopeni repülőtérhez jutott el.** Ezt követően értesítették a gép pilótáit is, miközben a repülő még úton volt Bukarest felé.\n\n• **A repülőgép 21:43-kor landolt.** Az érkezés után a szakemberek végrehajtották az ilyen esetekben előírt intézkedéseket és ellenőrzéseket.\n\n• **A vizsgálat végén a fenyegetést hamisnak állapították meg.** A repülőtéri társaság tájékoztatása szerint erre a szükséges eljárások befejezése után jutottak; a közölt információk nem számoltak be a fedélzeten tartózkodók számán túl további személyi adatokról.",
+    "title_ro": "Amenințare cu bombă la cursa Chișinău–București",
+    "lead_ro": "La bordul aeronavei Wizz Air care zbura între Chișinău și București se aflau 102 pasageri când a fost semnalată o amenințare cu bombă. Avionul a aterizat la ora 21:43, iar după verificările necesare alerta a fost declarată falsă.",
+    "content_ro": "• **O amenințare cu bombă a vizat aeronava care opera cursa Chișinău–București.** Era vorba despre zborul Wizz Air 3248, potrivit informațiilor furnizate de reprezentanții Companiei Aeroporturi București.\n\n• **În avion se aflau 102 pasageri.** Gestionarea situației s-a făcut în legătură cu zborul și cu măsurile prevăzute pentru astfel de semnalări.\n\n• **Mesajul de amenințare a ajuns mai întâi la Aeroportul Otopeni.** Ulterior, informația a fost transmisă și piloților aeronavei, care se îndrepta spre București.\n\n• **Aeronava a ajuns la sol la ora 21:43.** După aterizare, au fost urmate procedurile și verificările aplicabile în cazul unei alerte de acest tip.\n\n• **În urma verificărilor, amenințarea a fost considerată falsă.** Reprezentanții aeroportului au comunicat această concluzie după încheierea măsurilor specifice; informațiile publicate au precizat numărul pasagerilor, fără alte detalii despre identitatea persoanelor aflate la bord.",
+    "importance_score": 23.0,
     "top_rank": 165,
     "is_top_hero": false,
     "is_top_list": true
