@@ -3188,54 +3188,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_e61b614349",
-    "slug": "leallt-az-nsa-belso-halozata-mikzben-ujabb-kibertamadasokrol-erkeztek-hirek-e61b61",
-    "tags": [
-      "nsa",
-      "nsa-net",
-      "kiberbiztonsag",
-      "egyesult-allamok"
-    ],
-    "fingerprint": "ca11dc9328c3ce8b33d3c3c0d63b363b",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Rețeaua serviciilor de informații americane a căzut. NSA încearcă să afle ce s-a întâmplat",
-        "link": "https://stirileprotv.ro/stiri/international/reteaua-secreta-a-serviciilor-de-informatii-americane-a-cazut-nsa-incearca-sa-afle-ce-s-a-intamplat.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Rețeaua ultrasecretă de comunicații a Agenției Naționale de Securitate a SUA a căzut. Angajații au fost chemați la serviciu la ore diferite",
-        "link": "https://adevarul.ro/stiri-externe/sua/reteaua-ultrasecreta-de-comunicatii-a-agentiei-2572273.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Rețeaua de comunicații de securitate națională a SUA, cu grad ridicat de confidențialitate, este în pană",
-        "link": "https://www.digi24.ro/stiri/externe/reteaua-de-comunicatii-de-securitate-nationala-a-sua-cu-grad-ridicat-de-confidentialitate-este-in-pana-4040723"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "„Cod galben” la cea mai puternică agenție de informații din SUA. Rețeaua ultra-secretizată care a picat",
-        "link": "https://hotnews.ro/cod-galben-la-cea-mai-puternica-agentie-de-informatii-din-sua-reteaua-ultra-secretizata-care-a-picat-2406940"
-      }
-    ],
-    "published_at": 1794947888,
-    "title_hu": "Leállt az NSA belső hálózata, miközben újabb kibertámadásokról érkeztek hírek",
-    "lead_hu": "Nem működik az amerikai Nemzetbiztonsági Ügynökség belső, minősített információk továbbítására használt hálózata. A leállás okát még vizsgálják, kibertámadásra egyelőre nincs bizonyíték; közben több más amerikai és külföldi szervezetet is érintettek informatikai incidensek.",
-    "content_hu": "• **Leállt az NSA Net:** Az Egyesült Államok Nemzetbiztonsági Ügynökségének belső, védett kommunikációs rendszere nem működik. Az alkalmazottak ezen keresztül osztanak meg egymással minősített adatokat; a fennakadás okáról még nem született végleges megállapítás.\n\n• **Nem igazolták külső támadás szerepét:** A CNN-nek nyilatkozó források szerint nincs jel arra, hogy kibertámadás okozta volna az NSA rendszerének kiesését. Az ügynökség vezetése a probléma kiterjedését méri fel, de egyelőre nem ismert, mely belső feladatokat érinti a zavar, illetve mikor állhat helyre a hálózat.\n\n• **Lépcsőzetes munkakezdést rendeltek el:** A hat, CNN által idézett forrás szerint az alkalmazottak érkezését úgy ütemezték át, hogy ne egyszerre jelenjenek meg a munkahelyükön. A hírcsatorna megkereste az NSA-t, de a beszámoló elkészültéig nem kapott választ.\n\n• **Más szervezeteknél is történtek incidensek:** A beszámoló egy tágabb kibervédelmi helyzet részeként említ amerikai repülőtereket érintő támadásokat, valamint hétfőn több cég és sajtóorgánum weboldalának kompromittálását. A felsorolt nevek között szerepelt a Zoom, a HSBC, a CNN, az Ikea, az Equifax és a Salesforce; a forrás nem állította, hogy ezek az esetek összefüggnének az NSA leállásával.\n\n• **Több mint száz webhelyet érintett a káros kód:** A Reuters által ismertetett információk szerint a támadók az Optimizely nevű webes optimalizáló platformot használták JavaScript beillesztésére. A kód kriptotárcák címeit változtathatta meg, bankkártyaadatokat és böngészési sütiket szerezhetett meg, továbbá iPhone-okat és iPadeket is veszélyeztethetett.",
-    "title_ro": "Rețeaua internă a NSA a căzut, pe fondul unor noi incidente cibernetice",
-    "lead_ro": "Rețeaua securizată folosită de Agenția Națională de Securitate a SUA pentru transmiterea informațiilor clasificate nu funcționează. Cauza este încă analizată, iar până acum nu au apărut indicii privind un atac cibernetic; separat, au fost raportate incidente care au vizat și alte organizații.",
-    "content_ro": "• **NSA Net nu funcționează:** Sistemul intern și securizat al Agenției Naționale de Securitate din Statele Unite, folosit de angajați pentru schimbul de informații clasificate, este indisponibil. Cauza întreruperii nu a fost stabilită definitiv.\n\n• **Un atac cibernetic nu a fost confirmat:** Sursele citate de CNN au spus că, până la momentul relatării, nu existau indicii că rețeaua agenției ar fi fost oprită de o intervenție externă. Conducerea evaluează dimensiunea problemei, însă nu se știe ce activități interne sunt afectate sau când va reveni sistemul.\n\n• **Angajații au fost programați să sosească la ore diferite:** Potrivit celor șase surse citate de CNN, agenția a modificat orarul de prezentare la serviciu pentru a evita sosirea simultană a personalului. CNN a cerut un punct de vedere NSA, dar nu primise un răspuns la publicarea materialului.\n\n• **Au fost semnalate și alte incidente informatice:** Relatarea menționează atacuri recente care au afectat aeroporturi din SUA și compromiterea, luni, a unor site-uri ale unor companii și publicații. Printre numele indicate se numără Zoom, HSBC, CNN, Ikea, Equifax și Salesforce. Sursa nu a prezentat aceste cazuri ca fiind legate de întreruperea rețelei NSA.\n\n• **Codul malițios a ajuns pe peste 100 de site-uri:** Potrivit informațiilor atribuite Reuters, atacatorii au folosit platforma Optimizely pentru a introduce cod JavaScript. Acesta putea schimba adresele portofelelor de criptomonede, colecta date bancare și cookie-uri de navigare și compromite telefoane iPhone ori tablete iPad.",
-    "importance_score": 48.0,
-    "top_rank": 45,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_2c11a61b7c",
     "slug": "claudiu-manda-a-reformok-folytatasahoz-kti-partvezetoi-szerepet-2c11a6",
     "tags": [
@@ -3279,7 +3231,7 @@
     "lead_ro": "Secretarul general al PSD spune că în primăvară ar putea reevalua dacă rămâne în conducerea partidului, dacă reformele se limitează la câteva comasări de comune și schimbări în agenții ale statului. Nivelul unei eventuale majorări a pensiilor anul viitor nu a fost stabilit.",
     "content_ro": "• **Claudiu Manda așteaptă ca reformele să fie puse efectiv în aplicare.** Secretarul general al PSD a declarat marți, la Radio România Actualități, că nu își vede garantată continuarea în conducerea partidului dacă până în primăvară schimbările se rezumă la comasarea a trei comune și reorganizarea a două agenții de stat.\n\n• **Critica sa vizează blocarea procesului de reformă.** Manda a spus că au existat planuri și analize privind administrația teritorială, companiile de stat și aparatul public, însă acestea nu au fost urmate de progrese concrete.\n\n• **Conducerea PSD susține ducerea reformelor până la capăt.** Potrivit lui Manda, atât el, cât și Sorin Grindeanu sunt hotărâți să continue schimbările din administrație și reorganizarea companiilor și instituțiilor statului.\n\n• **Valoarea majorării pensiilor nu este încă stabilită.** Manda estimează că bugetul pentru anul viitor va include fonduri pentru creșterea pensiilor, dar decizia privind cuantumul va ține cont de situația financiară a anului curent și de proiecțiile Ministerului Finanțelor.\n\n• **PSD vrea să combine protecția socială cu măsuri economice.** Manda a afirmat că partidul își păstrează preocuparea pentru alegătorii care au nevoie de sprijin social. El a amintit că, în guvernările anterioare, PSD a susținut și inițiative de relansare economică și reducere a fiscalității.",
     "importance_score": 45.0,
-    "top_rank": 46,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3323,7 +3275,7 @@
     "lead_ro": "Dinamo o va întâlni pe Petrolul la Slobozia, pe 21 noiembrie, în etapa a 16-a a SuperLigii. Problemele gazonului de pe Arena Națională au impus mutarea, iar clubul bucureștean a criticat efectele deciziei asupra echipei și suporterilor.",
     "content_ro": "• **Meciul Dinamo–Petrolul a fost mutat la Slobozia:** partida din etapa a 16-a începe sâmbătă, 21 noiembrie, la ora 20:30. Clubul a informat Liga Profesionistă de Fotbal că întâlnirea se va disputa pe stadionul 1 Mai.\n\n• **Arena Națională nu este disponibilă pentru acest joc:** stadionul a fost închis din nou din cauza intervențiilor și problemelor legate de gazon. Potrivit HotNews, suprafața fusese instalată cu aproximativ două luni înainte, iar Dinamo a susținut că lucrările afectează și înțelegerea existentă cu administratorii arenei.\n\n• **Nu a fost identificată o variantă potrivită în București:** pe stadionul Arcul de Triumf este programat, pe 20 noiembrie, meciul de rugby România–Canada, iar starea terenului nu permite folosirea lui pentru partida de fotbal. Slobozia se află la peste o sută de kilometri de Capitală.\n\n• **Schimbarea afectează și suporterii care cumpăraseră bilete:** înainte de mutare fuseseră vândute aproximativ 6.000 de tichete, fără a include abonamentele. Stadionul din Slobozia are tot 6.000 de locuri și dispune de gazon hibrid nou, drenaj, irigare automată și încălzire electrică.\n\n• **Clubul consideră că accesul la stadioane este o problemă repetată:** Dinamo a precizat că decizia luată deocamdată privește numai partida cu Petrolul. Nu a fost stabilit încă locul de desfășurare pentru întâlnirea cu Oțelul Galați, programată pe 7 decembrie.",
     "importance_score": 43.0,
-    "top_rank": 47,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3366,6 +3318,54 @@
     "title_ro": "Huang ar reveni la conducerea Nvidia, însă poziția consiliului este incertă",
     "lead_ro": "Jensen Huang a spus că ar accepta să redevină director general al Nvidia dacă i-ar solicita acest lucru consiliul de administrație. Adevărul, citând The Guardian, a relatat însă că membrii consiliului nu iau în calcul revenirea sa; plecarea a urmat unor dezvăluiri despre relațiile sale personale.",
     "content_ro": "• **Demisia și condițiile unei reveniri:** Fondatorul Nvidia, companie înființată în 1993, a renunțat săptămâna trecută la funcția de director general. Huang a afirmat că ar reveni dacă membrii consiliului ar considera că acest lucru este în interesul acționarilor, angajaților, companiei și Statelor Unite. ProTV Stiri a relatat că angajați, investitori, parteneri de afaceri și clienți i-au cerut să se întoarcă.\n\n• **Poziția atribuită consiliului:** Adevărul, care citează The Guardian, a scris că boardul Nvidia nu intenționează să îl readucă pe Huang la conducerea companiei. Relatarea contrastează cu disponibilitatea exprimată public de acesta, iar decizia privind o eventuală revenire aparține consiliului.\n\n• **Dezvăluirile legate de plecare:** Potrivit Adevărul, demisia a venit după apariția unor informații despre relațiile personale ale lui Huang. Publicația a menționat o femeie prezentată drept presupusă spioană chineză, Alice Huang, și mai mulți angajați ai companiei. Alice Huang a fost anterior directoare la Megaspeed. Acestea sunt acuzații și relatări, nu fapte stabilite.\n\n• **Investigații și restricții comerciale:** Nvidia a început o verificare internă privind legătura dintre Huang și Alice Huang. Autoritățile americane investighează Megaspeed din 2024, suspectând că aceasta ar fi direcționat cipuri avansate pentru inteligență artificială către companii chineze, posibil cu încălcarea restricțiilor la export. În iunie 2025, Nvidia a introdus Megaspeed pe lista internă a firmelor cărora nu le mai vinde produse.\n\n• **Petiție și rezultate financiare:** Conform Adevărul, o petiție susținută de lideri din Silicon Valley, care cere revenirea lui Huang, a depășit 178.000 de semnături. Nvidia urmează să publice rezultatele trimestriale pe 17 noiembrie, după închiderea bursei; investitorii și analiștii ar putea întreba atunci despre viitorul lui Huang. Acesta și-a recunoscut greșelile personale, și-a asumat răspunderea și a promis că va coopera cu ancheta independentă a consiliului.",
+    "importance_score": 43.0,
+    "top_rank": 47,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_e61b614349",
+    "slug": "leallt-az-nsa-belso-halozata-mikzben-ujabb-kibertamadasokrol-erkeztek-hirek-e61b61",
+    "tags": [
+      "nsa",
+      "nsa-net",
+      "kiberbiztonsag",
+      "egyesult-allamok"
+    ],
+    "fingerprint": "ca11dc9328c3ce8b33d3c3c0d63b363b",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Rețeaua serviciilor de informații americane a căzut. NSA încearcă să afle ce s-a întâmplat",
+        "link": "https://stirileprotv.ro/stiri/international/reteaua-secreta-a-serviciilor-de-informatii-americane-a-cazut-nsa-incearca-sa-afle-ce-s-a-intamplat.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Rețeaua ultrasecretă de comunicații a Agenției Naționale de Securitate a SUA a căzut. Angajații au fost chemați la serviciu la ore diferite",
+        "link": "https://adevarul.ro/stiri-externe/sua/reteaua-ultrasecreta-de-comunicatii-a-agentiei-2572273.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Rețeaua de comunicații de securitate națională a SUA, cu grad ridicat de confidențialitate, este în pană",
+        "link": "https://www.digi24.ro/stiri/externe/reteaua-de-comunicatii-de-securitate-nationala-a-sua-cu-grad-ridicat-de-confidentialitate-este-in-pana-4040723"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "„Cod galben” la cea mai puternică agenție de informații din SUA. Rețeaua ultra-secretizată care a picat",
+        "link": "https://hotnews.ro/cod-galben-la-cea-mai-puternica-agentie-de-informatii-din-sua-reteaua-ultra-secretizata-care-a-picat-2406940"
+      }
+    ],
+    "published_at": 1794947888,
+    "title_hu": "Leállt az NSA belső hálózata, miközben újabb kibertámadásokról érkeztek hírek",
+    "lead_hu": "Nem működik az amerikai Nemzetbiztonsági Ügynökség belső, minősített információk továbbítására használt hálózata. A leállás okát még vizsgálják, kibertámadásra egyelőre nincs bizonyíték; közben több más amerikai és külföldi szervezetet is érintettek informatikai incidensek.",
+    "content_hu": "• **Leállt az NSA Net:** Az Egyesült Államok Nemzetbiztonsági Ügynökségének belső, védett kommunikációs rendszere nem működik. Az alkalmazottak ezen keresztül osztanak meg egymással minősített adatokat; a fennakadás okáról még nem született végleges megállapítás.\n\n• **Nem igazolták külső támadás szerepét:** A CNN-nek nyilatkozó források szerint nincs jel arra, hogy kibertámadás okozta volna az NSA rendszerének kiesését. Az ügynökség vezetése a probléma kiterjedését méri fel, de egyelőre nem ismert, mely belső feladatokat érinti a zavar, illetve mikor állhat helyre a hálózat.\n\n• **Lépcsőzetes munkakezdést rendeltek el:** A hat, CNN által idézett forrás szerint az alkalmazottak érkezését úgy ütemezték át, hogy ne egyszerre jelenjenek meg a munkahelyükön. A hírcsatorna megkereste az NSA-t, de a beszámoló elkészültéig nem kapott választ.\n\n• **Más szervezeteknél is történtek incidensek:** A beszámoló egy tágabb kibervédelmi helyzet részeként említ amerikai repülőtereket érintő támadásokat, valamint hétfőn több cég és sajtóorgánum weboldalának kompromittálását. A felsorolt nevek között szerepelt a Zoom, a HSBC, a CNN, az Ikea, az Equifax és a Salesforce; a forrás nem állította, hogy ezek az esetek összefüggnének az NSA leállásával.\n\n• **Több mint száz webhelyet érintett a káros kód:** A Reuters által ismertetett információk szerint a támadók az Optimizely nevű webes optimalizáló platformot használták JavaScript beillesztésére. A kód kriptotárcák címeit változtathatta meg, bankkártyaadatokat és böngészési sütiket szerezhetett meg, továbbá iPhone-okat és iPadeket is veszélyeztethetett.",
+    "title_ro": "Rețeaua internă a NSA a căzut, pe fondul unor noi incidente cibernetice",
+    "lead_ro": "Rețeaua securizată folosită de Agenția Națională de Securitate a SUA pentru transmiterea informațiilor clasificate nu funcționează. Cauza este încă analizată, iar până acum nu au apărut indicii privind un atac cibernetic; separat, au fost raportate incidente care au vizat și alte organizații.",
+    "content_ro": "• **NSA Net nu funcționează:** Sistemul intern și securizat al Agenției Naționale de Securitate din Statele Unite, folosit de angajați pentru schimbul de informații clasificate, este indisponibil. Cauza întreruperii nu a fost stabilită definitiv.\n\n• **Un atac cibernetic nu a fost confirmat:** Sursele citate de CNN au spus că, până la momentul relatării, nu existau indicii că rețeaua agenției ar fi fost oprită de o intervenție externă. Conducerea evaluează dimensiunea problemei, însă nu se știe ce activități interne sunt afectate sau când va reveni sistemul.\n\n• **Angajații au fost programați să sosească la ore diferite:** Potrivit celor șase surse citate de CNN, agenția a modificat orarul de prezentare la serviciu pentru a evita sosirea simultană a personalului. CNN a cerut un punct de vedere NSA, dar nu primise un răspuns la publicarea materialului.\n\n• **Au fost semnalate și alte incidente informatice:** Relatarea menționează atacuri recente care au afectat aeroporturi din SUA și compromiterea, luni, a unor site-uri ale unor companii și publicații. Printre numele indicate se numără Zoom, HSBC, CNN, Ikea, Equifax și Salesforce. Sursa nu a prezentat aceste cazuri ca fiind legate de întreruperea rețelei NSA.\n\n• **Codul malițios a ajuns pe peste 100 de site-uri:** Potrivit informațiilor atribuite Reuters, atacatorii au folosit platforma Optimizely pentru a introduce cod JavaScript. Acesta putea schimba adresele portofelelor de criptomonede, colecta date bancare și cookie-uri de navigare și compromite telefoane iPhone ori tablete iPad.",
     "importance_score": 43.0,
     "top_rank": 48,
     "is_top_hero": false,
@@ -4037,50 +4037,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_657313feea",
-    "slug": "marian-neacsu-biralta-az-unios-zldpolitikat-es-a-dekarbonizaciot-657313",
-    "tags": [
-      "marian-neacsu",
-      "green-deal",
-      "energie",
-      "pnrr",
-      "decarbonizare"
-    ],
-    "fingerprint": "10279c18bab4e4b16b5245749f848bf1",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Marian Neacșu dă de pământ cu Green Deal: A fost o mare nenorocire pentru Europa, unul dintre motivele pentru care avem printre cele mai mari prețuri la energie",
-        "link": "https://www.mediafax.ro/stirile-zilei/marian-neacsu-da-de-pamant-cu-green-deal-a-fost-o-mare-nenorocire-pentru-europa-unul-dintre-motivele-pentru-care-avem-printre-cele-mai-mari-preturi-la-energie-23844952"
-      },
-      {
-        "source": "G4Media",
-        "title": "Marian Neacșu, despre Green Deal: A fost o mare nenorocire pentru Europa / De asta suntem în declin / Ne-au grevat viața într-un mod negativ",
-        "link": "https://www.g4media.ro/marian-neacsu-despre-green-deal-a-fost-o-mare-nenorocire-pentru-europa-de-asta-suntem-in-declin-ne-au-grevat-viata-intr-un-mod-negativ.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "VIDEO Marian Neacșu, despre Green Deal: A fost o mare nenorocire pentru Europa / De asta suntem în declin / Ne-au grevat viața într-un mod negativ",
-        "link": "https://www.g4media.ro/video-marian-neacsu-despre-green-deal-a-fost-o-mare-nenorocire-pentru-europa-de-asta-suntem-in-declin-ne-au-grevat-viata-intr-un-mod-negativ.html"
-      }
-    ],
-    "published_at": 1794947869,
-    "title_hu": "Marian Neacșu bírálta az uniós zöldpolitikát és a dekarbonizációt",
-    "lead_hu": "Marian Neacșu belügyminiszter kedden az Antena 3 CNN műsorában az európai klímapolitikát és a dekarbonizációs előírásokat bírálta. Szerinte ezek gyengítik Európa gazdasági versenyképességét, és hozzájárulnak a magas romániai energiaárakhoz.",
-    "content_hu": "• **Neacșu a dekarbonizációs folyamatot és az európai Green Deal politikáját is kedvezőtlennek nevezte.** A belügyminiszter kedden, az Antena 3 CNN-nek nyilatkozva arról beszélt, hogy az energiaipartól függő térségek, köztük a Zsil-völgye és az Olténiai Energetikai Komplexum nehézségekkel néznek szembe.\n\n• **Románia a PNRR vállalásainak felülvizsgálatát kezdeményezte az Európai Bizottságnál, de nem ért el változást.** Neacșu szerint a kérdés újratárgyalására irányuló próbálkozások a terv teljes időszakában eredménytelenek maradtak, mert a bizottság nem mutatott rugalmasságot.\n\n• **A miniszter úgy vélte, az eltérő nemzetközi szabályozás versenyhátrányt okozhat az európai gazdaságnak.** Érvelése szerint ha Ázsia és Amerika nagy gazdaságai nem alkalmaznak hasonló kibocsátáscsökkentési előírásokat, az európai vállalatok szigorúbb környezetvédelmi feltételek mellett működnek.\n\n• **Neacșu a környezetvédelmi szabályokat és a kibocsátási kvóták költségét is az energiaárakat növelő tényezők közé sorolta.** Kijelentése szerint ezek részben magyarázzák, hogy Romániában az európai összevetésben magas az energia ára.\n\n• **A politikus szerint jelenleg nincs megfelelő eszköz a következmények ellensúlyozására.** Azt is állította, hogy az európai gazdaság gyengülésének egyik oka a versenyképesség romlása, amelyet a kibocsátáscsökkentési szabályokhoz kapcsolt.",
-    "title_ro": "Marian Neacșu a criticat politicile europene de mediu și decarbonizarea",
-    "lead_ro": "Ministrul de Interne, Marian Neacșu, a criticat marți, la Antena 3 CNN, politicile climatice europene și regulile privind decarbonizarea. În opinia sa, acestea afectează competitivitatea economiei europene și contribuie la prețurile ridicate ale energiei din România.",
-    "content_ro": "• **Neacșu a apreciat negativ atât procesul de decarbonizare, cât și politica europeană Green Deal.** Ministrul de Interne a vorbit marți, la Antena 3 CNN, despre dificultățile zonelor dependente de sectorul energetic, menționând Valea Jiului și Complexul Energetic Oltenia.\n\n• **România a încercat să revizuiască angajamentele din PNRR în discuțiile cu Comisia Europeană, fără să obțină o schimbare.** Potrivit lui Neacșu, demersurile au fost făcute pe parcursul perioadei de aplicare a planului, însă Comisia nu a acceptat redeschiderea subiectului.\n\n• **Ministrul consideră că regulile internaționale diferite pot slăbi competitivitatea economiei europene.** El a susținut că, dacă marile economii din Asia și America nu adoptă măsuri comparabile de reducere a emisiilor, companiile europene trebuie să opereze în condiții de mediu mai stricte.\n\n• **Neacșu a inclus politicile de mediu și costul certificatelor de emisii printre factorii care contribuie la scumpirea energiei.** În opinia sa, aceștia explică parțial nivelul ridicat al prețurilor din România în comparație cu alte state europene.\n\n• **Politicianul a afirmat că România nu dispune în prezent de soluții pentru a contracara efectele acestor politici.** El a legat, de asemenea, declinul economic european de diminuarea competitivității, pe care a asociat-o cu regulile de reducere a emisiilor.",
-    "importance_score": 38.0,
-    "top_rank": 63,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_27915a28f1",
     "slug": "a-brit-kormany-a-fiatalok-tamogatasi-rendszerenek-atalakitasat-merlegeli-27915a",
     "tags": [
@@ -4120,7 +4076,7 @@
     "lead_ro": "Raportul elaborat de Alan Milburn la solicitarea guvernului ar putea recomanda reducerea ajutoarelor pentru persoanele sub 25 de ani și extinderea stagiilor obligatorii de muncă. În al doilea trimestru al acestui an, 981.000 de britanici cu vârste între 16 și 24 de ani nu aveau un loc de muncă și nu urmau studii sau cursuri de formare.",
     "content_ro": "• **Raportul lui Alan Milburn propune o reformă amplă a sprijinului social și a măsurilor de ocupare destinate tinerilor.** Documentul, realizat la cererea guvernului, urma să fie publicat integral marți. Executivul și-a exprimat deja susținerea pentru măsurile incluse în raport.\n\n• **Printre recomandări se află diminuarea ajutoarelor acordate persoanelor sub 25 de ani.** Raportul ar propune și mai multe stagii de muncă obligatorii pentru tinerii aflați de multă vreme în șomaj. Schimbările vizează atât prestațiile sociale, cât și programele care îi sprijină să intre pe piața muncii.\n\n• **În al doilea trimestru al acestui an, 981.000 de britanici cu vârste între 16 și 24 de ani făceau parte din categoria NEET.** Termenul se referă la persoanele care nu lucrează, nu sunt înscrise într-o instituție de învățământ și nu participă la formare profesională. Numărul reprezenta 13% din totalul tinerilor din această grupă de vârstă.\n\n• **Datele Eurostat publicate la sfârșitul lunii mai indicau ponderi mai ridicate în mai multe state.** România înregistra 19,2%, Bulgaria 13,8%, iar Grecia 13,6% dintre tineri în categoria NEET. Pentru Regatul Unit, articolul menționează o pondere de 13% în anul precedent.\n\n• **Publicarea versiunii complete a raportului era programată marți, la ora 11:30 GMT.** Andy Burnham afirmase anterior că sunt necesare măsuri bazate pe concluziile documentului. Recomandările urmăresc să încurajeze participarea tinerilor la muncă.",
     "importance_score": 38.0,
-    "top_rank": 64,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4159,7 +4115,7 @@
     "lead_ro": "Un cutremur a fost resimțit în mai multe zone ale României pe 18 noiembrie, în jurul orei 02:49. Mulți utilizatori Android au primit o alertă Google, a cărei estimare inițială a fost mai ridicată decât magnitudinea anunțată ulterior de institutul de specialitate.",
     "content_ro": "• **Seismul s-a produs pe 18 noiembrie, în jurul orei 02:49.** Datele seismice preliminare au indicat magnitudinea 5,7 și o adâncime de aproximativ 107,1 kilometri. Mișcarea telurică a fost resimțită în mai multe regiuni ale țării.\n\n• **Numeroase telefoane Android au afișat o avertizare în timpul cutremurului.** Mesajul a fost transmis prin Serviciile Google Play la ora 02:49. Unii utilizatori au fost treziți de sunetul alertei, iar alții au văzut notificarea pe ecran.\n\n• **Estimarea Google de la început, de 6,5, a fost diferită de valoarea oficială comunicată ulterior.** Notificarea menționa și o distanță de circa 148,4 kilometri. INFP a anunțat apoi magnitudinea 5,7; diferența poate fi explicată prin calculul automat realizat imediat după declanșarea seismului, pe baza informațiilor disponibile atunci.\n\n• **Avertizarea nu a fost transmisă prin sistemul RO-ALERT.** A fost utilizată tehnologia Google Android Earthquake Alerts System, disponibilă și în România.\n\n• **Sistemul Google folosește senzorii de mișcare ai telefoanelor Android.** Accelerometrele dispozitivelor pot detecta și vibrațiile asociate unui cutremur. Când mai multe telefoane din aceeași zonă înregistrează simultan mișcări asemănătoare, informațiile sunt trimise către serverele Google, unde sunt analizate de algoritmi.",
     "importance_score": 35.0,
-    "top_rank": 65,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4197,7 +4153,7 @@
     "lead_ro": "Corpul ceresc 1998 KY26, cu un diametru estimat la aproximativ 11 metri, orbitează în jurul Soarelui, dar prezintă mici deviații pe care gravitația nu le explică singură. Un studiu recent pune sub semnul întrebării ipoteza că gheața ar putea cauza acest comportament.",
     "content_ro": "• **Mișcarea lui 1998 KY26 continuă să ridice probleme de interpretare.** Obiectul, catalogat inițial ca asteroid, are în jur de 11 metri și se deplasează pe o orbită solară. Măsurătorile au indicat schimbări reduse ale traiectoriei, insuficient explicate prin efectele gravitaționale cunoscute.\n\n• **Descoperirea corpului ceresc datează din 1998.** Astronomul Tom Gehrels, afiliat Universității din Arizona, l-a identificat. Accelerațiile neobișnuite observate ulterior au făcut ca obiectul să fie analizat în mai multe cercetări.\n\n• **Ipoteza unei comete întunecate rămâne incertă.** Aceasta ar putea explica o accelerație asemănătoare celei întâlnite la comete, chiar dacă obiectul nu are o coadă vizibilă. În cazul cometelor obișnuite, încălzirea gheții de către Soare eliberează gaze, care pot influența deplasarea.\n\n• **Studiul apărut în revista Icarus contestă explicația bazată pe gheață.** Cercetătorii au calculat o temperatură medie de aproximativ minus 47 de grade Celsius și au apreciat că, în condițiile analizate, aceasta este prea ridicată pentru ca gheața să explice comportamentul măsurat.\n\n• **Natura obiectului nu este stabilită cu certitudine.** Darryl Z. Seligman, fizician și astronom la Universitatea de Stat din Michigan, a arătat că identificarea gheții ar susține clasificarea drept cometă. Temperatura estimată la suprafață slăbește însă această interpretare și complică încadrarea lui 1998 KY26.",
     "importance_score": 35.0,
-    "top_rank": 66,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4241,7 +4197,7 @@
     "lead_ro": "Curtea Constituțională a publicat motivarea hotărârii prin care a declarat inadmisibilă sesizarea depusă de fostul premier Ilie Bolojan. Majoritatea a apreciat că procedura conflictului constituțional nu poate fi folosită pentru contestarea unei hotărâri judecătorești, mai ales în condițiile în care Guvernul nu și-a respectat propriul calendar de plată.",
     "content_ro": "• **Hotărârea CCR din 7 octombrie a fost susținută de cinci dintre cei nouă judecători:** Curtea a considerat inadmisibilă sesizarea fostului premier Ilie Bolojan, referitoare la un conflict între Guvern și Înalta Curte în legătură cu restanțele salariale ale magistraților. Valoarea acestora depășește un miliard de euro.\n\n• **Majoritatea a apreciat că disputa nu constituie un conflict de competență constituțională:** în opinia celor cinci judecători, Guvernul nu poate cere CCR să reevalueze o hotărâre a instanței și nici nu poate evita obligațiile de plată stabilite prin decizii judecătorești. O asemenea analiză nu intră în atribuțiile Curții Constituționale.\n\n• **Judecătorii au invocat nerespectarea de către Executiv a propriilor reguli de plată:** statul poate achita eșalonat sumele stabilite de instanțe, însă trebuie să urmeze calendarul pe care l-a instituit. Pentru majoritate, neîndeplinirea acestui angajament a stat la originea sesizării.\n\n• **Trei opinii separate au pus sub semnul întrebării rolul Înaltei Curți:** Simina Tănăsescu și Dacian-Cosmin Dragoș au considerat că instanța supremă a intervenit în procedura bugetară, depășind limitele puterii judecătorești. Iuliana Scântei a susținut că sesizarea trebuia examinată pe fond, pentru a clarifica dacă au fost afectate atribuțiile Guvernului și Parlamentului.\n\n• **Asztalos Csaba-Ferenc a fost de acord cu inadmisibilitatea, dar a propus o altă justificare:** opinia sa a subliniat necesitatea cooperării constituționale între instituțiile statului. Ceilalți cinci judecători care au susținut soluția au fost Gheorghe Stan, Cristian Deliorga, Bogdan Licu, Mihai Busuioc și Mihaela Chiochină.",
     "importance_score": 35.0,
-    "top_rank": 67,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4284,7 +4240,7 @@
     "lead_ro": "Un accident mortal a avut loc în dimineața zilei de 17 noiembrie, pe strada Voinicenilor din Târgu Mureș, unde s-au ciocnit o motocicletă și o autoutilitară. Tânărul de 16 ani aflat pe motocicletă nu a putut fi resuscitat.",
     "content_ro": "• **Accidentul s-a produs în dimineața zilei de 17 noiembrie, la Târgu Mureș.** Pe strada Voinicenilor, o motocicletă și o autoutilitară au intrat în coliziune; primele informații indică un impact lateral între cele două vehicule.\n\n• **Motocicleta era condusă de un tânăr de 16 ani din Chibed.** Acesta se deplasa dinspre Chibed către Târgu Mureș, când s-a ciocnit cu autoutilitara care venea din sens opus. La volanul acesteia se afla un bărbat de 31 de ani din județul Dâmbovița.\n\n• **Tânărul a murit la locul accidentului.** Echipajele de intervenție l-au găsit în stop cardio-respirator și au început manevrele de resuscitare. Acestea nu au avut rezultat, iar decesul a fost confirmat la ora 9:49 de medicul prezent la fața locului.\n\n• **Testarea cu aparatul etilotest a șoferului autoutilitarei a avut rezultat negativ.** Acest rezultat nu stabilește cauza coliziunii, iar polițiștii continuă cercetările pentru a clarifica împrejurările producerii accidentului.\n\n• **A fost deschisă o anchetă pentru ucidere din culpă.** Pe durata intervenției și a cercetării la fața locului, circulația pe segmentul afectat al străzii Voinicenilor a fost oprită în ambele sensuri.",
     "importance_score": 35.0,
-    "top_rank": 68,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4323,7 +4279,7 @@
     "lead_ro": "Elbridge Colby, adjunct al secretarului american al apărării, a avertizat asupra riscului de escaladare la o reuniune desfășurată la sediul NATO din Bruxelles. În opinia sa, atacurile ucrainene din Rusia nu contribuie la încheierea războiului și nici nu încetinesc înaintarea forțelor ruse.",
     "content_ro": "• **Elbridge Colby a avertizat marți asupra efectelor posibile ale atacurilor ucrainene** în cadrul unei reuniuni de la sediul NATO din Bruxelles, la care au participat țări ce sprijină Kievul. Adjunctul secretarului american al apărării pentru politici a spus că operațiunile desfășurate în interiorul Rusiei pot spori riscul de escaladare a conflictului.\n\n• **Oficialul american a menționat în mod distinct acțiunile care afectează infrastructura civilă.** El a dat ca exemplu depozitele Wildberries, companie rusă de comerț online vizată în mod repetat de forțele ucrainene. Potrivit evaluării sale, astfel de lovituri ar putea întări hotărârea populației ruse și disponibilitatea Kremlinului de a amplifica războiul.\n\n• **Colby a afirmat că nu consideră aceste operațiuni eficiente pentru încheierea conflictului.** El a adăugat că, în evaluarea sa, loviturile nu încetinesc înaintarea Rusiei pe front. Declarațiile au venit după intervenția prin videoconferință a președintelui ucrainean Volodimir Zelenski, care a vorbit la începutul reuniunii.\n\n• **În ultimele luni, Ucraina a atacat mai multe categorii de obiective aflate în Rusia.** Printre acestea s-au numărat în principal rafinării de petrol, dar și depozite ale Wildberries și Ozon, un alt retailer online. Kievul a susținut că aceste companii distribuie componente care pot fi folosite de armata rusă.\n\n• **Zelenski le-a cerut aliaților sisteme și muniții suplimentare pentru apărarea aeriană.** El a solicitat interceptoare Patriot și rachete pentru sistemele IRIS-T din stocurile existente ale partenerilor. La reuniune au participat aproximativ 40 de țări; aceasta a fost a 37-a întâlnire a grupului de contact pentru Ucraina de la invazia rusă începută în februarie 2022.",
     "importance_score": 33.0,
-    "top_rank": 69,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4360,6 +4316,50 @@
     "title_ro": "Guvernul discută cu o companie din Golf despre viitorul TAROM",
     "lead_ro": "Vicepremierul Marian Neacșu a declarat că discuțiile cu un operator aerian din regiunea Golfului privind o posibilă preluare sau asociere cu TAROM sunt cele mai avansate. Autoritățile iau în calcul și o reorganizare internă, inclusiv o posibilă fuziune cu CNAB, compania care administrează aeroporturile bucureștene.",
     "content_ro": "• **Guvernul României poartă discuții cu o companie aeriană din regiunea Golfului despre viitorul TAROM.** Vicepremierul Marian Neacșu a afirmat la Antena 3 că aceste negocieri au avansat mai mult decât cele cu alți potențiali parteneri. Scopul urmărit este menținerea operatorului național în activitate și îmbunătățirea situației sale economice.\n\n• **Un eventual investitor ar trebui să respecte mai multe condiții.** Neacșu a menționat păstrarea personalului la un nivel rezonabil, modernizarea flotei și asigurarea investițiilor necesare. Printre cerințe se află și dezvoltarea colaborării dintre TAROM și CNAB, compania care gestionează aeroporturile din București.\n\n• **TAROM trebuie să ramburseze ajutorul primit de la Uniunea Europeană.** Compania a beneficiat anterior de sprijin în cadrul unui plan de restructurare, însă, potrivit lui Neacșu, unele obligații asumate nu au fost respectate. Guvernul caută o soluție care să permită restituirea banilor și continuarea activității transportatorului.\n\n• **Neacșu consideră că TAROM poate reveni la profitabilitate.** Vicepremierul a pus problemele de competitivitate ale companiei în legătură cu modul în care aceasta a fost administrată în trecut. În opinia sa, o conducere mai eficientă este esențială pentru redresarea situației financiare.\n\n• **O fuziune cu CNAB este analizată ca variantă de reorganizare internă.** Neacșu a menționat posibilitatea majorării participației naționale la TAROM și a unirii celor două companii de stat. Această opțiune este distinctă de negocierile cu operatorul din Golf și ar putea contribui, de asemenea, la salvarea transportatorului aerian.",
+    "importance_score": 33.0,
+    "top_rank": 69,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_657313feea",
+    "slug": "marian-neacsu-biralta-az-unios-zldpolitikat-es-a-dekarbonizaciot-657313",
+    "tags": [
+      "marian-neacsu",
+      "green-deal",
+      "energie",
+      "pnrr",
+      "decarbonizare"
+    ],
+    "fingerprint": "10279c18bab4e4b16b5245749f848bf1",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Marian Neacșu dă de pământ cu Green Deal: A fost o mare nenorocire pentru Europa, unul dintre motivele pentru care avem printre cele mai mari prețuri la energie",
+        "link": "https://www.mediafax.ro/stirile-zilei/marian-neacsu-da-de-pamant-cu-green-deal-a-fost-o-mare-nenorocire-pentru-europa-unul-dintre-motivele-pentru-care-avem-printre-cele-mai-mari-preturi-la-energie-23844952"
+      },
+      {
+        "source": "G4Media",
+        "title": "Marian Neacșu, despre Green Deal: A fost o mare nenorocire pentru Europa / De asta suntem în declin / Ne-au grevat viața într-un mod negativ",
+        "link": "https://www.g4media.ro/marian-neacsu-despre-green-deal-a-fost-o-mare-nenorocire-pentru-europa-de-asta-suntem-in-declin-ne-au-grevat-viata-intr-un-mod-negativ.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "VIDEO Marian Neacșu, despre Green Deal: A fost o mare nenorocire pentru Europa / De asta suntem în declin / Ne-au grevat viața într-un mod negativ",
+        "link": "https://www.g4media.ro/video-marian-neacsu-despre-green-deal-a-fost-o-mare-nenorocire-pentru-europa-de-asta-suntem-in-declin-ne-au-grevat-viata-intr-un-mod-negativ.html"
+      }
+    ],
+    "published_at": 1794947869,
+    "title_hu": "Marian Neacșu bírálta az uniós zöldpolitikát és a dekarbonizációt",
+    "lead_hu": "Marian Neacșu belügyminiszter kedden az Antena 3 CNN műsorában az európai klímapolitikát és a dekarbonizációs előírásokat bírálta. Szerinte ezek gyengítik Európa gazdasági versenyképességét, és hozzájárulnak a magas romániai energiaárakhoz.",
+    "content_hu": "• **Neacșu a dekarbonizációs folyamatot és az európai Green Deal politikáját is kedvezőtlennek nevezte.** A belügyminiszter kedden, az Antena 3 CNN-nek nyilatkozva arról beszélt, hogy az energiaipartól függő térségek, köztük a Zsil-völgye és az Olténiai Energetikai Komplexum nehézségekkel néznek szembe.\n\n• **Románia a PNRR vállalásainak felülvizsgálatát kezdeményezte az Európai Bizottságnál, de nem ért el változást.** Neacșu szerint a kérdés újratárgyalására irányuló próbálkozások a terv teljes időszakában eredménytelenek maradtak, mert a bizottság nem mutatott rugalmasságot.\n\n• **A miniszter úgy vélte, az eltérő nemzetközi szabályozás versenyhátrányt okozhat az európai gazdaságnak.** Érvelése szerint ha Ázsia és Amerika nagy gazdaságai nem alkalmaznak hasonló kibocsátáscsökkentési előírásokat, az európai vállalatok szigorúbb környezetvédelmi feltételek mellett működnek.\n\n• **Neacșu a környezetvédelmi szabályokat és a kibocsátási kvóták költségét is az energiaárakat növelő tényezők közé sorolta.** Kijelentése szerint ezek részben magyarázzák, hogy Romániában az európai összevetésben magas az energia ára.\n\n• **A politikus szerint jelenleg nincs megfelelő eszköz a következmények ellensúlyozására.** Azt is állította, hogy az európai gazdaság gyengülésének egyik oka a versenyképesség romlása, amelyet a kibocsátáscsökkentési szabályokhoz kapcsolt.",
+    "title_ro": "Marian Neacșu a criticat politicile europene de mediu și decarbonizarea",
+    "lead_ro": "Ministrul de Interne, Marian Neacșu, a criticat marți, la Antena 3 CNN, politicile climatice europene și regulile privind decarbonizarea. În opinia sa, acestea afectează competitivitatea economiei europene și contribuie la prețurile ridicate ale energiei din România.",
+    "content_ro": "• **Neacșu a apreciat negativ atât procesul de decarbonizare, cât și politica europeană Green Deal.** Ministrul de Interne a vorbit marți, la Antena 3 CNN, despre dificultățile zonelor dependente de sectorul energetic, menționând Valea Jiului și Complexul Energetic Oltenia.\n\n• **România a încercat să revizuiască angajamentele din PNRR în discuțiile cu Comisia Europeană, fără să obțină o schimbare.** Potrivit lui Neacșu, demersurile au fost făcute pe parcursul perioadei de aplicare a planului, însă Comisia nu a acceptat redeschiderea subiectului.\n\n• **Ministrul consideră că regulile internaționale diferite pot slăbi competitivitatea economiei europene.** El a susținut că, dacă marile economii din Asia și America nu adoptă măsuri comparabile de reducere a emisiilor, companiile europene trebuie să opereze în condiții de mediu mai stricte.\n\n• **Neacșu a inclus politicile de mediu și costul certificatelor de emisii printre factorii care contribuie la scumpirea energiei.** În opinia sa, aceștia explică parțial nivelul ridicat al prețurilor din România în comparație cu alte state europene.\n\n• **Politicianul a afirmat că România nu dispune în prezent de soluții pentru a contracara efectele acestor politici.** El a legat, de asemenea, declinul economic european de diminuarea competitivității, pe care a asociat-o cu regulile de reducere a emisiilor.",
     "importance_score": 33.0,
     "top_rank": 70,
     "is_top_hero": false,
@@ -6812,7 +6812,7 @@
     "title_ro": "Discuții româno-qatareze despre investiții în energie, turism și alte sectoare",
     "lead_ro": "Ministrul Economiei, Daniel Zamfir, a discutat la Doha despre posibile investiții qatareze în România și despre cooperarea dintre companiile celor două țări. Qatar Investment Authority analizează inclusiv varianta unui birou cu rol regional în România, însă discuțiile nu au generat angajamente ferme.",
     "content_ro": "• **Qatar Investment Authority ia în calcul o prezență în România:** La întâlnirea de la Doha cu ministrul Daniel Zamfir s-a discutat despre posibilitatea ca fondul suveran, care gestionează active estimate la peste 500 de miliarde de dolari, să deschidă aici un birou pentru piețele din Europa Centrală și de Est. Varianta este încă în analiză, fără o decizie definitivă.\n\n• **Energia, turismul și inteligența artificială au fost printre sectoarele discutate:** Reprezentanții fondului au analizat oportunități de investiții în România, inclusiv posibilitatea preluării unor participații minoritare. Partea română intenționează să prezinte ulterior proiecte aflate în stadii diferite de dezvoltare.\n\n• **Agenda întâlnirilor a cuprins și infrastructura, industria și tehnologia:** În discuțiile cu organizații de afaceri din Qatar au fost abordate energia, infrastructura portuară, industria, tehnologia, securitatea cibernetică și turismul. Delegația română a prezentat poziția țării la Marea Neagră, Portul Constanța și accesul la piața Uniunii Europene.\n\n• **Opt companii românești au făcut parte din delegația economică:** Printre participanți s-au numărat COMES, SOCEP, Humans.ai, ROMARM, Prime Batteries Technology și TRANSGAZ. Reprezentanții companiilor au urmărit identificarea unor parteneri comerciali și a unor oportunități pentru proiecte comune.\n\n• **Au fost discutate și hoteluri, respectiv pașii următori ai cooperării bilaterale:** Grupul qatarez Ali Bin Ali analizează posibilitatea unor investiții în unități de cazare din România. Următoarea reuniune a Comisiei Mixte Româno-Qatareze este programată în România, în aprilie 2027, când autoritățile intenționează să organizeze și un forum de afaceri.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 132,
     "is_top_hero": false,
     "is_top_list": true
@@ -6850,7 +6850,7 @@
     "title_ro": "DNA Suceava a luat măsuri față de cinci angajați din servicii de frontieră",
     "lead_ro": "Procurorii DNA Suceava au reținut pentru 24 de ore un lucrător vamal și au plasat sub control judiciar, pentru 60 de zile, alți trei vameși și un polițist de frontieră. Ancheta vizează suspiciuni de luare de mită și complicitate la această infracțiune.",
     "content_ro": "• **Un lucrător vamal de la Racovăț a fost reținut**: procurorii DNA Suceava au început urmărirea penală și au dispus măsura pentru 24 de ore, începând din 16 noiembrie. Acesta este cercetat pentru luare de mită în formă continuată.\n\n• **Procurorii cer arestarea preventivă a angajatului vamal** pentru 30 de zile. El urmează să fie prezentat marți Tribunalului Suceava, unde va fi analizată propunerea formulată de anchetatori.\n\n• **Alți patru inculpați au fost plasați sub control judiciar** timp de 60 de zile, începând tot cu 16 noiembrie. Trei dintre ei sunt vameși la Biroul Vamal de Frontieră Siret și sunt cercetați pentru luare de mită. Al patrulea este agent de poliție de frontieră la structura din Dorohoi, fiind suspectat de complicitate la luare de mită.\n\n• **Persoanele aflate sub control judiciar trebuie să respecte mai multe obligații**: să se prezinte la solicitarea organelor de anchetă, să nu părăsească România fără acordul procurorilor și să evite orice contact cu persoanele indicate în ordonanțele procurorilor. De asemenea, nu pot exercita funcțiile publice în legătură cu care sunt cercetate presupusele fapte.\n\n• **Nerespectarea cu rea-credință a obligațiilor poate atrage măsuri mai severe**. Controlul judiciar poate fi înlocuit cu arest la domiciliu sau cu arestare preventivă. Măsurile luate în cadrul anchetei nu stabilesc vinovăția persoanelor cercetate.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 133,
     "is_top_hero": false,
     "is_top_list": true
