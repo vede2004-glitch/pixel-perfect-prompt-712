@@ -1526,7 +1526,7 @@
     "fingerprint": "ac90ed796ab69536e2d6ebe92851a617",
     "category": "Sport",
     "is_synthesized": false,
-    "sources_count": 9,
+    "sources_count": 10,
     "sources": [
       {
         "source": "GSP - Gazeta Sporturilor",
@@ -1572,6 +1572,11 @@
         "source": "Digi24",
         "title": "Fostul internațional Gabi Tamaș, reținut după ce ar fi agresat doi bărbați pe o stradă din Centrul Vechi al Capitalei",
         "link": "https://www.digi24.ro/stiri/actualitate/fostul-international-gabi-tamas-retinut-dupa-ce-ar-fi-agresat-doi-barbati-pe-o-strada-din-centrul-vechi-al-capitalei-4044993"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Gabi Tamaș a fost reținut",
+        "link": "https://www.mediafax.ro/social/gabi-tamas-a-fost-retinut-23845945"
       }
     ],
     "published_at": 1795090201,
@@ -1581,7 +1586,7 @@
     "title_ro": "Gabi Tamaș a fost dus la secție în cătușe și amendat",
     "lead_ro": "Poliția a oferit noi informații despre altercația din dimineața de 18 noiembrie, petrecută în Centrul Vechi din București. Gabi Tamaș a fost încătușat, a primit o amendă de 2.000 de lei, iar cercetările continuă.",
     "content_ro": "• **Polițiștii au intervenit pe 18 noiembrie, în jurul orei 03:30**, după un conflict semnalat pe o stradă din Sectorul 3 al Capitalei. La fața locului au fost găsiți Gabi Tamaș, în vârstă de 43 de ani, și doi bărbați de 33, respectiv 38 de ani.\n\n• **Potrivit poliției, Tamaș i-ar fi agresat fizic pe cei doi bărbați.** Informațiile apărute inițial indicau că altercația a avut loc după consum de alcool. Cei doi nu au dorit să depună plângere atunci și au refuzat transportul la spital.\n\n• **Fostul fotbalist a fost încătușat și dus la secția de poliție.** Conform comunicării autorităților, acesta nu a cooperat cu agenții și nu a respectat indicațiile lor. La sediul poliției a fost chemat și un echipaj medical, deoarece Tamaș avea o echimoză la nivelul feței.\n\n• **Tamaș a fost sancționat cu o amendă de 2.000 de lei pentru tulburarea ordinii publice.** Polițiștii continuă cercetările din oficiu privind agresiunea; nu există deocamdată informații că cei doi bărbați ar fi depus ulterior plângere.\n\n• **Tamaș ocupă funcția de manager executiv la ASA Târgu Mureș.** În 2009, când juca la Dinamo, a fost trimis la echipa a doua după un incident din cantonament, iar în 2011 a ratat turneul naționalei din America de Sud în urma unei nopți de consum de alcool.",
-    "importance_score": 93.0,
+    "importance_score": 103.0,
     "top_rank": 11,
     "is_top_hero": false,
     "is_top_list": true
@@ -1973,6 +1978,65 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_d29334f861",
+    "slug": "berlini-egyeztetes-biztonsagi-garanciakrol-es-ukrajna-teli-tamogatasarol-targyal-d29334",
+    "tags": [
+      "ucraina",
+      "berlin",
+      "coalitia-de-vointa",
+      "garantii-de-securitate",
+      "negocieri-de-pace"
+    ],
+    "fingerprint": "4c32719e9fff70ac8627c9dce0ad96d9",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Coaliția statelor care susțin Ucraina, în fața unui test dificil. Liderii europeni sunt slăbiți politic, iar presiunile lui Trump complică sprijinul pentru Kiev",
+        "link": "https://adevarul.ro/stiri-externe/europa/coalitia-statelor-care-sustin-ucraina-in-fata-2572744.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Politico: Trump îi presează pe liderii europeni în privința ajutorului acordat Ucrainei, într-o convorbire după summitul cu Putin",
+        "link": "https://www.g4media.ro/politico-trump-ii-preseaza-pe-liderii-europeni-in-privinta-ajutorului-acordat-ucrainei-intr-o-convorbire-dupa-summitul-cu-putin.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Kushner dezvăluie ce le-a transmis Trump liderilor europeni despre pacea în Ucraina: „Nu încearcă să impună nimic unilateral”",
+        "link": "https://www.digi24.ro/stiri/externe/kushner-dezvaluie-ce-le-a-transmis-trump-liderilor-europeni-despre-pacea-in-ucraina-nu-incearca-sa-impuna-nimic-unilateral-4044771"
+      },
+      {
+        "source": "Digi24",
+        "title": "Trump a sunat la reuniunea de la Berlin și a criticat noul ajutor de 70 de miliarde de euro pentru Kiev, scriu publicații occidentale",
+        "link": "https://www.digi24.ro/stiri/externe/trump-a-sunat-la-reuniunea-de-la-berlin-si-a-criticat-noul-ajutor-de-70-de-miliarde-de-euro-pentru-kiev-scriu-publicatii-occidentale-4044745"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Trump îi presează pe liderii europeni în privința ajutorului pentru Ucraina, într-o convorbire după summitul cu Putin",
+        "link": "https://stirileprotv.ro/stiri/international/trump-ii-preseaza-pe-liderii-europeni-in-privinta-ajutorului-pentru-ucraina-intr-o-convorbire-dupa-summitul-cu-putin.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Trump a sunat la reuniunea de la Berlin, după întâlnirea cu Putin și Xi. Ce le-a spus liderilor europeni",
+        "link": "https://adevarul.ro/stiri-externe/europa/trump-a-sunat-la-reuniunea-de-la-berlin-dupa-2572943.html"
+      }
+    ],
+    "published_at": 1795112623,
+    "title_hu": "Berlini egyeztetés: biztonsági garanciákról és Ukrajna téli támogatásáról tárgyaltak",
+    "lead_hu": "A több mint 35 országot tömörítő, Ukrajnát támogató koalíció Berlinben ült össze, hogy a háború folytatódása esetén szükséges segítségről egyeztessen. Jared Kushner szerint előrelépés történt a Kijevnek szánt biztonsági garanciák és a háború utáni újjáépítést célzó terv ügyében.",
+    "content_hu": "• **A berlini találkozó középpontjában Ukrajna támogatása állt.** A több mint 35 államból álló, Ukrajna mellett fellépő koalíció csütörtökön arról egyeztetett, miként segíthetik Kijevet az újabb téli időszakban, amikor az orosz támadások az infrastruktúrát is veszélyeztetik, a hideg pedig tovább nehezítheti a helyzetet.\n\n• **Az amerikai küldött biztató fejleményekről számolt be.** Jared Kushner, Donald Trump megbízottja úgy értékelte, hogy a Berlinben folytatott amerikai–európai, valamint Volodimir Zelenszkijjel zajló megbeszélések közelebb vitték a résztvevőket az Ukrajnának nyújtható biztonsági garanciák lehetséges formájának tisztázásához.\n\n• **Trump európai részvétellel akar megállapodást elérni.** Kushner közlése szerint az elnök telefonon kereste a Berlinben összegyűlt vezetőket, és olyan egyezségre törekszik, amelybe Európa is bekapcsolódik. A küldött azt is mondta, hogy Washington nem kívánja egyoldalúan rákényszeríteni elképzeléseit a felekre.\n\n• **A tárgyalások egy háború utáni tervre is kiterjedtek.** Kushner szerint a biztonsági kérdésekről szóló egyeztetés mellett egy Ukrajna jövőbeli gazdasági fejlődését szolgáló elképzelésről is szó esett. Állítása alapján az Egyesült Államok és az európai országok álláspontja egyre közelebb kerül egymáshoz.\n\n• **A koalíció politikai súlya körül kérdések merültek fel.** A találkozó előtt európai aggodalmak jelentek meg az együttműködés lendületének csökkenése miatt. A koordináló Franciaország, Németország és az Egyesült Királyság vezetését belpolitikai nehézségek terhelik; ez gyengítheti a szövetség befolyását, különösen egy esetleges amerikai–orosz alku esetén.",
+    "title_ro": "Discuțiile de la Berlin au vizat garanțiile pentru Ucraina și sprijinul din timpul iernii",
+    "lead_ro": "Coaliția de peste 35 de state care sprijină Ucraina s-a reunit la Berlin pentru a discuta ajutorul necesar în perioada de iarnă. Jared Kushner a anunțat progrese privind posibile garanții de securitate pentru Kiev și un plan destinat perioadei de după război.",
+    "content_ro": "• **Sprijinul pentru Ucraina a fost tema principală a reuniunii de la Berlin.** Grupul, alcătuit din peste 35 de țări, a discutat joi măsuri prin care Kievul să poată face față lunilor reci, în condițiile în care atacurile rusești amenință infrastructura și pot agrava dificultățile populației.\n\n• **Jared Kushner a descris discuțiile drept un pas înainte.** Emisarul lui Donald Trump a spus că întâlnirile de la Berlin, purtate de reprezentanții americani cu liderii europeni și cu Volodimir Zelenski, au clarificat în parte variantele de garanții de securitate ce ar putea fi acordate Ucrainei.\n\n• **Trump urmărește o înțelegere la care să participe și Europa.** Potrivit lui Kushner, președintele american i-a contactat telefonic pe liderii prezenți și susține încheierea unui acord împreună cu partenerii europeni. Emisarul a precizat că Washingtonul nu intenționează să impună singur condițiile unei soluții.\n\n• **Pe agenda negocierilor s-a aflat și viitorul economic al Ucrainei.** Kushner a menționat că discuțiile au avansat atât în privința garanțiilor de securitate, cât și a unui proiect pentru dezvoltarea țării după încheierea războiului. În evaluarea sa, pozițiile americană și europeană privind Ucraina se apropie treptat.\n\n• **Capacitatea politică a coaliției rămâne o preocupare pentru unii aliați.** Înaintea reuniunii au fost semnalate temeri că grupul și-ar putea pierde din energie și influență. Franța, Germania și Regatul Unit, statele care coordonează inițiativa, se confruntă cu dificultăți politice interne, iar acest context ar putea complica rolul lor într-o eventuală înțelegere între Washington și Moscova.",
+    "importance_score": 73.0,
+    "top_rank": 18,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_7d4f215d59",
     "slug": "wiz-khalifanak-vegul-csak-penzbirsagot-kell-fizetnie-romaniaban-7d4f21",
     "tags": [
@@ -2026,7 +2090,7 @@
     "lead_ro": "Curtea de Apel București a decis definitiv că Wiz Khalifa nu va executa pedeapsa de nouă luni de închisoare primită anterior. În dosarul legat de incidentul de la festivalul Beach, Please! din 2024, rapperul trebuie să achite o amendă penală de 9.600 de lei.",
     "content_ro": "• **Pedeapsa cu închisoarea a fost înlocuită cu o amendă:** la rejudecarea apelului, Curtea de Apel București l-a obligat pe Wiz Khalifa să plătească 9.600 de lei. Hotărârea este definitivă, iar cele nouă luni de detenție nu vor fi executate.\n\n• **Incidentul de la festival a avut loc la 14 iulie 2024:** rapperul a urcat pe scena evenimentului Beach, Please!, organizat la Costinești, și a aprins o țigară cu canabis. Potrivit relatărilor din presă, avea asupra sa și 18 grame de canabis. Poliția l-a dus la audieri, iar DIICOT a deschis o anchetă; ulterior, el a putut părăsi România.\n\n• **Amenda inițială era de 3.600 de lei:** Tribunalul Constanța a stabilit această sancțiune în aprilie 2025. Procurorii au contestat hotărârea, iar în decembrie 2025 Curtea de Apel Constanța l-a condamnat pe artist la nouă luni de închisoare cu executare pentru deținerea unui drog de risc destinat consumului propriu.\n\n• **Cereri succesive au fost respinse în Constanța:** în februarie și mai, Curtea de Apel Constanța, iar în iunie Tribunalul Constanța au respins demersurile prin care apărarea urmărea anularea ori revizuirea condamnării. Instanța din București a desființat mai întâi hotărârea anterioară, apoi a stabilit amenda în urma rejudecării.\n\n• **Legislația română permite și sancționarea cu amendă:** conform informațiilor prezentate de Transtelex, posesia de droguri pentru consum propriu este infracțiune, iar canabisul este încadrat la categoria drogurilor de risc. Pentru această faptă se poate aplica o pedeapsă cu închisoarea între trei luni și doi ani sau o amendă. Numele civil al rapperului este Cameron Jibril Thomaz; el s-a născut la 8 septembrie 1987.",
     "importance_score": 73.0,
-    "top_rank": 18,
+    "top_rank": 19,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2085,7 +2149,7 @@
     "lead_ro": "Dominic Fritz a declarat la Buzău că USR și PNL lucrează la o colaborare care ar putea deveni o alianță electorală pentru parlamentarele din 2028. Liderul USR a prezentat inițiativa drept o alternativă de guvernare fără PSD și AUR și a criticat rolul PSD în executiv.",
     "content_ro": "• **USR și PNL ar putea candida împreună la alegerile parlamentare din 2028.** Dominic Fritz, președintele USR, a anunțat joi, în timpul unei vizite la organizația partidului din Buzău, că formațiunile discută o colaborare, inclusiv posibilitatea unei alianțe electorale. Anterior, Ilie Bolojan afirmase că PNL ia în calcul o alianță politică pentru următorul scrutin.\n\n• **Fritz a descris proiectul drept o încercare de a forma o alternativă reformistă capabilă să guverneze.** În opinia sa, nici USR, nici PNL nu ar putea obține singure suficient sprijin pentru acest obiectiv. El a spus că inițiativei i s-ar putea alătura și alte partide, organizații civice și grupuri din societate.\n\n• **Liderul USR urmărește obținerea unei majorități parlamentare care să susțină un guvern de dreapta fără PSD și AUR.** Fritz a legat vizita din Buzău de necesitatea reducerii influenței PSD în instituțiile locale și naționale. El a criticat AUR, comparându-l politic cu PSD.\n\n• **Fritz a acuzat PSD că își asumă simultan rolul de partid aflat la guvernare și pe cel de opoziție.** Potrivit evaluării sale, formațiunea ar dori să influențeze deciziile, dar să nu răspundă pentru efectele guvernării. Aceste afirmații reprezintă poziția exprimată de liderul USR.\n\n• **Atribuțiile vicepremierului Marian Neacșu au devenit un punct central al criticilor.** Potrivit relatărilor, o decizie semnată de premierul Luca Niculescu i-a încredințat lui Neacșu coordonarea ministerelor conduse de PSD, a Secretariatului General al Guvernului și a cancelariei premierului, precum și avizarea unor proiecte cu impact bugetar. Niculescu a prezentat măsura drept un control suplimentar în perioada pregătirii bugetului.",
     "importance_score": 73.0,
-    "top_rank": 19,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2149,7 +2213,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, a participat la întâlniri în cadrul NATO privind pregătirea sistemului medical pentru situații de urgență. Discuțiile au inclus continuitatea aprovizionării cu medicamente, capacitatea de extindere a serviciilor și organizarea sistemului de sânge și transfuzii.",
     "content_ro": "• **Alexandru Rogobete a anunțat participarea la întâlniri desfășurate în cadrul NATO**, unde au fost analizate pregătirea sistemului sanitar românesc pentru urgențe și menținerea accesului la medicamente. Ministrul a prezentat sănătatea drept o componentă a securității naționale și a evidențiat rolul cooperării internaționale.\n\n• **Un obiectiv al discuțiilor este îmbunătățirea procedurilor aplicate în România.** Rogobete a menționat revizuirea protocoalelor și a ghidurilor pentru sporirea siguranței actului medical. A fost abordată și posibilitatea extinderii rapide a serviciilor medicale în situații cu numeroase victime.\n\n• **Sistemul de sânge și transfuzii se află, de asemenea, pe agenda ministrului.** Rogobete dorește să studieze experiența unor state europene și a altor sisteme medicale considerate performante. Practicile analizate ar putea oferi repere pentru reorganizarea acestui domeniu în România.\n\n• **Participanții caută variante pentru menținerea rezervelor de medicamente esențiale.** Printre temele abordate se numără folosirea unor mecanisme internaționale în cazul întreruperilor de aprovizionare. Potrivit ministrului, astfel de soluții ar trebui să reducă riscul ca pacienții să nu găsească tratamente importante în spitale sau farmacii.\n\n• **Rogobete a subliniat cooperarea dintre Ministerul Sănătății, NATO și Comisia Europeană.** Dezvoltarea relațiilor cu partenerii externi este urmărită în contextul consolidării sistemului medical românesc și al îmbunătățirii capacității sale de reacție în situații de criză.",
     "importance_score": 73.0,
-    "top_rank": 20,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2208,7 +2272,7 @@
     "lead_ro": "„Castani în floare” a fost adjudecat la New York pentru 190,4 milioane de dolari, stabilind un nou record pentru operele lui Van Gogh. Înaintea licitației, disputa cu urmașii familiei Fischer, care deținuse tabloul, a fost soluționată printr-un acord; lucrarea nu mai fusese prezentată publicului de peste cinci decenii.",
     "content_ro": "• **Prețul final a ajuns la 190,4 milioane de dolari** la licitația Sotheby’s de miercuri, la New York. Oferta câștigătoare a fost de 165 de milioane, la care s-au adăugat comisioanele. Suma depășește recordul anterior pentru Van Gogh, de 117,2 milioane de dolari, stabilit în 2022, iar tabloul ocupă locul al patrulea între operele vândute cel mai scump la licitație.\n\n• **Identitatea cumpărătorului nu a fost confirmată de casa de licitații.** The New York Times l-a indicat pe comerciantul de artă William Acquavella drept posibil achizitor. Estimarea făcută înaintea vânzării era de 180 de milioane de dolari.\n\n• **Van Gogh a pictat lucrarea în mai 1890, la Auvers-sur-Oise**, în ultimele două luni ale vieții sale. Artistul a murit la aproximativ două luni mai târziu, la 37 de ani. Sotheby’s o consideră una dintre creațiile importante din acea etapă care se află încă în proprietate privată, iar lucrările sale târzii apar rar pe piață.\n\n• **Neînțelegerea privind proveniența tabloului s-a încheiat printr-o înțelegere înaintea licitației.** Urmașii familiei Fischer au susținut că lucrarea ar fi putut fi cedată sub presiune în timpul persecuțiilor naziste. Sotheby’s a confirmat acordul dintre moștenitorii Fischer și familia Blaquier-Arrieta privind vânzarea.\n\n• **Opera a rămas în colecții private mai bine de 50 de ani și nu a fost expusă publicului în această perioadă.** Samuel Fischer a cumpărat-o în 1909; după moartea sa, în 1934, tabloul a rămas în familie. În 1932 sau 1933 a fost lăsat în grija lui Paul Cassirer, la Amsterdam, iar în 1936 a ajuns la Henriette și Marcel Kapferer, la Paris. După alți patru proprietari, familia Blaquier l-a cumpărat în 1975.",
     "importance_score": 68.0,
-    "top_rank": 21,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2266,7 +2330,7 @@
     "lead_ro": "Curtea Europeană a Drepturilor Omului a interzis pentru doi ani unei avocate din Iași să reprezinte sau să asiste clienți în fața sa. Curtea a precizat și că Baroul Iași nu a răspuns solicitării de a-și exprima punctul de vedere în procedura privind excluderea.",
     "content_ro": "• **Interdicția se aplică timp de doi ani:** președintele CEDO a aprobat propunerea Camerei la 13 noiembrie 2026. Avocata era unul dintre cei doi reprezentanți ai reclamanților într-o cauză aflată pe rol, iar decizia a fost făcută publică pe 18 noiembrie.\n\n• **Documentul conținea referințe juridice de mai multe feluri:** au fost identificate cauze inexistente și alineate care nu se regăseau în hotărârile reale citate. Alte decizii invocate nu susțineau argumentele sau indicau concluzii contrare acestora.\n\n• **Avocata a confirmat folosirea inteligenței artificiale:** aceasta a fost utilizată la redactarea observațiilor, iar greșelile au fost prezentate drept inexactități și probleme de citare. Camera a apreciat că repetarea erorilor de fond indică nerespectarea obligațiilor profesionale și etice.\n\n• **Baroul Iași nu a transmis observații la solicitarea Curții:** în baza articolului 44D din Regulamentul CEDO au fost cerute puncte de vedere avocatei, Guvernului României și Uniunii Naționale a Barourilor din România. Răspunsurile au fost comunicate părților, care au putut formula replici; Baroul Iași a fost invitat, dar nu a răspuns.\n\n• **În România este posibilă o sancțiune disciplinară:** avocata este membră a Baroului Iași din 1997, iar conducerea acestuia urmează să analizeze cazul; sancțiunea poate ajunge la excluderea din profesie. Președintele UNBR a afirmat că instrumentele AI pot fi folosite, cu verificarea informațiilor. Avocata nu a răspuns solicitării ProTV.",
     "importance_score": 68.0,
-    "top_rank": 22,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2315,60 +2379,6 @@
     "lead_ro": "Consiliera locală PNL Craiova Adriana Ungureanu a fost suspendată din toate funcţiile politice deţinute în organizaţie şi exclusă din grupul consilierilor liberali din Consiliul Local, după o decizie ...",
     "content_ro": "Consiliera locală PNL Craiova Adriana Ungureanu a fost suspendată din toate funcţiile politice deţinute în organizaţie şi exclusă din grupul consilierilor liberali din Consiliul Local, după o decizie adoptată joi de Biroul Politic Local al partidului.",
     "importance_score": 65.0,
-    "top_rank": 23,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_d29334f861",
-    "slug": "berlini-egyeztetes-biztonsagi-garanciakrol-es-ukrajna-teli-tamogatasarol-targyal-d29334",
-    "tags": [
-      "ucraina",
-      "berlin",
-      "coalitia-de-vointa",
-      "garantii-de-securitate",
-      "negocieri-de-pace"
-    ],
-    "fingerprint": "4c32719e9fff70ac8627c9dce0ad96d9",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Coaliția statelor care susțin Ucraina, în fața unui test dificil. Liderii europeni sunt slăbiți politic, iar presiunile lui Trump complică sprijinul pentru Kiev",
-        "link": "https://adevarul.ro/stiri-externe/europa/coalitia-statelor-care-sustin-ucraina-in-fata-2572744.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Politico: Trump îi presează pe liderii europeni în privința ajutorului acordat Ucrainei, într-o convorbire după summitul cu Putin",
-        "link": "https://www.g4media.ro/politico-trump-ii-preseaza-pe-liderii-europeni-in-privinta-ajutorului-acordat-ucrainei-intr-o-convorbire-dupa-summitul-cu-putin.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Kushner dezvăluie ce le-a transmis Trump liderilor europeni despre pacea în Ucraina: „Nu încearcă să impună nimic unilateral”",
-        "link": "https://www.digi24.ro/stiri/externe/kushner-dezvaluie-ce-le-a-transmis-trump-liderilor-europeni-despre-pacea-in-ucraina-nu-incearca-sa-impuna-nimic-unilateral-4044771"
-      },
-      {
-        "source": "Digi24",
-        "title": "Trump a sunat la reuniunea de la Berlin și a criticat noul ajutor de 70 de miliarde de euro pentru Kiev, scriu publicații occidentale",
-        "link": "https://www.digi24.ro/stiri/externe/trump-a-sunat-la-reuniunea-de-la-berlin-si-a-criticat-noul-ajutor-de-70-de-miliarde-de-euro-pentru-kiev-scriu-publicatii-occidentale-4044745"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Trump îi presează pe liderii europeni în privința ajutorului pentru Ucraina, într-o convorbire după summitul cu Putin",
-        "link": "https://stirileprotv.ro/stiri/international/trump-ii-preseaza-pe-liderii-europeni-in-privinta-ajutorului-pentru-ucraina-intr-o-convorbire-dupa-summitul-cu-putin.html"
-      }
-    ],
-    "published_at": 1795112623,
-    "title_hu": "Berlini egyeztetés: biztonsági garanciákról és Ukrajna téli támogatásáról tárgyaltak",
-    "lead_hu": "A több mint 35 országot tömörítő, Ukrajnát támogató koalíció Berlinben ült össze, hogy a háború folytatódása esetén szükséges segítségről egyeztessen. Jared Kushner szerint előrelépés történt a Kijevnek szánt biztonsági garanciák és a háború utáni újjáépítést célzó terv ügyében.",
-    "content_hu": "• **A berlini találkozó középpontjában Ukrajna támogatása állt.** A több mint 35 államból álló, Ukrajna mellett fellépő koalíció csütörtökön arról egyeztetett, miként segíthetik Kijevet az újabb téli időszakban, amikor az orosz támadások az infrastruktúrát is veszélyeztetik, a hideg pedig tovább nehezítheti a helyzetet.\n\n• **Az amerikai küldött biztató fejleményekről számolt be.** Jared Kushner, Donald Trump megbízottja úgy értékelte, hogy a Berlinben folytatott amerikai–európai, valamint Volodimir Zelenszkijjel zajló megbeszélések közelebb vitték a résztvevőket az Ukrajnának nyújtható biztonsági garanciák lehetséges formájának tisztázásához.\n\n• **Trump európai részvétellel akar megállapodást elérni.** Kushner közlése szerint az elnök telefonon kereste a Berlinben összegyűlt vezetőket, és olyan egyezségre törekszik, amelybe Európa is bekapcsolódik. A küldött azt is mondta, hogy Washington nem kívánja egyoldalúan rákényszeríteni elképzeléseit a felekre.\n\n• **A tárgyalások egy háború utáni tervre is kiterjedtek.** Kushner szerint a biztonsági kérdésekről szóló egyeztetés mellett egy Ukrajna jövőbeli gazdasági fejlődését szolgáló elképzelésről is szó esett. Állítása alapján az Egyesült Államok és az európai országok álláspontja egyre közelebb kerül egymáshoz.\n\n• **A koalíció politikai súlya körül kérdések merültek fel.** A találkozó előtt európai aggodalmak jelentek meg az együttműködés lendületének csökkenése miatt. A koordináló Franciaország, Németország és az Egyesült Királyság vezetését belpolitikai nehézségek terhelik; ez gyengítheti a szövetség befolyását, különösen egy esetleges amerikai–orosz alku esetén.",
-    "title_ro": "Discuțiile de la Berlin au vizat garanțiile pentru Ucraina și sprijinul din timpul iernii",
-    "lead_ro": "Coaliția de peste 35 de state care sprijină Ucraina s-a reunit la Berlin pentru a discuta ajutorul necesar în perioada de iarnă. Jared Kushner a anunțat progrese privind posibile garanții de securitate pentru Kiev și un plan destinat perioadei de după război.",
-    "content_ro": "• **Sprijinul pentru Ucraina a fost tema principală a reuniunii de la Berlin.** Grupul, alcătuit din peste 35 de țări, a discutat joi măsuri prin care Kievul să poată face față lunilor reci, în condițiile în care atacurile rusești amenință infrastructura și pot agrava dificultățile populației.\n\n• **Jared Kushner a descris discuțiile drept un pas înainte.** Emisarul lui Donald Trump a spus că întâlnirile de la Berlin, purtate de reprezentanții americani cu liderii europeni și cu Volodimir Zelenski, au clarificat în parte variantele de garanții de securitate ce ar putea fi acordate Ucrainei.\n\n• **Trump urmărește o înțelegere la care să participe și Europa.** Potrivit lui Kushner, președintele american i-a contactat telefonic pe liderii prezenți și susține încheierea unui acord împreună cu partenerii europeni. Emisarul a precizat că Washingtonul nu intenționează să impună singur condițiile unei soluții.\n\n• **Pe agenda negocierilor s-a aflat și viitorul economic al Ucrainei.** Kushner a menționat că discuțiile au avansat atât în privința garanțiilor de securitate, cât și a unui proiect pentru dezvoltarea țării după încheierea războiului. În evaluarea sa, pozițiile americană și europeană privind Ucraina se apropie treptat.\n\n• **Capacitatea politică a coaliției rămâne o preocupare pentru unii aliați.** Înaintea reuniunii au fost semnalate temeri că grupul și-ar putea pierde din energie și influență. Franța, Germania și Regatul Unit, statele care coordonează inițiativa, se confruntă cu dificultăți politice interne, iar acest context ar putea complica rolul lor într-o eventuală înțelegere între Washington și Moscova.",
-    "importance_score": 63.0,
     "top_rank": 24,
     "is_top_hero": false,
     "is_top_list": true
@@ -2599,6 +2609,60 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_453ecb75ac",
+    "slug": "macron-az-ukran-nato-tagsag-ujboli-megvitatasat-surgette-berlinben-453ecb",
+    "tags": [
+      "ucraina",
+      "nato",
+      "macron",
+      "berlin",
+      "sprijin-militar"
+    ],
+    "fingerprint": "dccf0c65ffdb1a6242f753045d01e330",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Una din patru femei nu poate refuza sexul cu soțul sau partenerul. În România, 49% au trecut printr-o formă de violență în cuplu",
+        "link": "https://www.mediafax.ro/life-inedit/una-din-patru-femei-nu-poate-refuza-sexul-cu-sotul-sau-partenerul-in-romania-49-au-trecut-printr-o-forma-de-violenta-in-cuplu-23845717"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Emmanuel Macron, după Coaliția de Voință: Trebuie să redeschidem chestiunea aderării Ucrainei la NATO",
+        "link": "https://www.mediafax.ro/stirile-zilei/emmanuel-macron-dupa-coalitia-de-vointa-trebuie-sa-redeschidem-chestiunea-aderarii-ucrainei-la-nato-23846265"
+      },
+      {
+        "source": "G4Media",
+        "title": "Emmanuel Macron, la reuniunea Coaliției de Voință: „Trebuie să redeschidem chestiunea aderării Ucrainei la NATO”",
+        "link": "https://www.g4media.ro/emmanuel-macron-la-reuniunea-coalitiei-de-vointa-trebuie-sa-redeschidem-chestiunea-aderarii-ucrainei-la-nato.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Macron avertizează că urmează „săptămâni critice” pentru Ucraina şi face apel pentru aderarea acesteia la NATO",
+        "link": "https://www.digi24.ro/stiri/externe/macron-avertizeaza-ca-urmeaza-saptamani-critice-pentru-ucraina-si-face-apel-pentru-aderarea-acesteia-la-nato-4044779"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Macron vrea redeschiderea discuțiilor despre aderarea Ucrainei la NATO. Mesajul președintelui francez după summitul Coaliției de Voință",
+        "link": "https://hotnews.ro/macron-vrea-redeschiderea-discutiilor-despre-aderarea-ucrainei-la-nato-mesajul-presedintelui-francez-dupa-summitul-coalitiei-de-vointa-2409179"
+      }
+    ],
+    "published_at": 1795113545,
+    "title_hu": "Macron az ukrán NATO-tagság újbóli megvitatását sürgette Berlinben",
+    "lead_hu": "A berlini Hajlandók Koalíciója ülésén Emmanuel Macron az ukrán légvédelem megerősítésére és a NATO-tagság kérdésének ismételt napirendre vételére szólított fel. A résztvevők a katonai támogatásról, a béketárgyalások lehetőségeiről és Ukrajna jövőbeli biztonsági garanciáiról is egyeztettek.",
+    "content_hu": "• **A berlini találkozón Ukrajna támogatása és biztonsági jövője volt napirenden.** Az európai vezetők és Kijev partnerei a katonai segítségnyújtásról, a lehetséges béketárgyalásokról, valamint az ország számára kialakítandó későbbi biztonsági garanciákról tárgyaltak. Az egyeztetésen Nicușor Dan román államfő is részt vett.\n\n• **Macron az ukrán légvédelemhez szükséges eszközök gyors átadását kérte.** A francia elnök szerint újabb rakétaelhárító rendszerekre és elfogórakétákra van szükség. Arra biztatta azokat az országokat, amelyek képesek ilyen védelmi felszerelést biztosítani, hogy ne halasszák el a segítséget.\n\n• **A francia elnök szerint ismét mérlegelni kell Ukrajna NATO-csatlakozását.** Ezt azzal indokolta, hogy Moszkva álláspontja továbbra is szélsőséges követeléseket tartalmaz. Macron úgy vélte, a kérdés az európai országok számára is újra napirendre került az elmúlt fejlemények nyomán.\n\n• **Oroszország négy, 2022-ben magához sorolt ukrán régióból követel kivonulást.** Vlagyimir Putyin Donyeck, Luhanszk, Zaporizzsja és Herszon területének elhagyását várja Kijevtől. Az orosz erők ezeknek a területeknek nem tartják ellenőrzésük alatt a teljes egészét, Moszkva igényei pedig olyan részekre is kiterjednek, amelyeket nem foglaltak el.\n\n• **Macron szerint a sencseni Trump–Hszi–Putyin-találkozó nem rendezi át a világot.** A francia elnök ezt a berlini koalíciós ülésen mondta, ahol a résztvevők Ukrajna támogatásának további irányairól is egyeztettek.",
+    "title_ro": "Macron cere reluarea dezbaterii privind aderarea Ucrainei la NATO",
+    "lead_ro": "La reuniunea de la Berlin a Coaliției de Voință, Emmanuel Macron a cerut consolidarea apărării aeriene a Ucrainei și reluarea discuției despre aderarea țării la NATO. Participanții au analizat sprijinul militar, perspectivele negocierilor de pace și viitoarele garanții de securitate pentru Kiev.",
+    "content_ro": "• **Sprijinul pentru Ucraina și securitatea sa viitoare au fost teme centrale la Berlin.** Liderii europeni și partenerii Kievului au discutat despre ajutorul militar, posibilele negocieri de pace și garanțiile de securitate care ar putea fi oferite ulterior țării. La reuniune a participat și președintele României, Nicușor Dan.\n\n• **Macron a cerut furnizarea rapidă a echipamentelor necesare apărării antiaeriene ucrainene.** Președintele francez a menționat sisteme suplimentare de apărare împotriva rachetelor și interceptori. El a îndemnat statele care pot livra astfel de echipamente să nu amâne sprijinul.\n\n• **Liderul francez consideră că aderarea Ucrainei la NATO trebuie analizată din nou.** Macron și-a susținut poziția prin referire la cererile pe care le-a descris drept maximaliste ale Moscovei. În opinia sa, evoluțiile recente au readus subiectul în atenția europenilor.\n\n• **Rusia cere retragerea ucraineană din patru regiuni pe care le-a revendicat în 2022.** Vladimir Putin a solicitat ca forțele Kievului să părăsească Donețk, Luhansk, Zaporojie și Herson. Rusia nu controlează toate aceste teritorii, iar pretențiile sale includ și zone pe care armata rusă nu le-a cucerit.\n\n• **Macron a spus că întâlnirea de la Shenzhen dintre Trump, Xi Jinping și Putin nu schimbă ordinea mondială.** Declarația a fost făcută în cadrul reuniunii de la Berlin, unde aliații Ucrainei au discutat și despre continuarea sprijinului acordat țării.",
+    "importance_score": 58.0,
+    "top_rank": 29,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_cc63a90e76",
     "slug": "putyin-moszkvaba-hivna-az-europaiakat-az-ukrajnai-targyalasok-elott-cc63a9",
     "tags": [
@@ -2648,7 +2712,7 @@
     "lead_ro": "Vladimir Putin afirmă că Rusia este dispusă să continue discuțiile despre Ucraina și securitatea europeană, însă vrea mai întâi să afle poziția reprezentanților europeni. Liderul rus a spus și că Washingtonul insistă ca Europa să fie inclusă în negocieri.",
     "content_ro": "• **Moscova vrea să afle mai întâi poziția europenilor.** Potrivit lui Putin, reprezentanții Europei au fost invitați pe cale diplomatică la Moscova pentru a-și prezenta contribuția la discuții. Formatul următoarelor tratative ar urma să fie stabilit după această întâlnire.\n\n• **Washingtonul susține ferm participarea Europei.** Putin a declarat că Statele Unite au îndemnat Rusia insistent să accepte implicarea europenilor. Până acum, discuțiile s-au desfășurat în principal între Moscova, Washington și Kiev, fără progrese importante.\n\n• **Putin leagă securitatea Ucrainei de cea a Europei.** În opinia sa, europenii trebuie să participe la dezbaterea despre securitatea continentului, deși a susținut că Kievul și statele europene nu sunt încă pregătite pentru compromisuri. El a apreciat că Donald Trump depune eforturi reale pentru soluționarea conflictului; despre reuniunea de la Shenzhen a spus că a fost deschisă și utilă și că liderii au ajuns la o înțelegere asupra unor teme, nu la acorduri.\n\n• **Discuțiile de la Abu Dhabi au produs un schimb de prizonieri.** Oficiali ruși, ucraineni și americani s-au întâlnit după o pauză de nouă luni. În afara schimbului convenit, nu au fost obținute alte rezultate concrete importante.\n\n• **Declarația de la Shenzhen nu prevede un armistițiu în Ucraina.** Summitul de circa o oră și jumătate, la care au participat Trump, Xi Jinping și Putin, a abordat reforma ONU, aprovizionarea cu produse petroliere, jurisdicția Curții Penale Internaționale și reducerea riscurilor nucleare. Putin a respins desfășurarea de trupe străine în Ucraina și a calificat drept problematică cooperarea militară dintre Ucraina și UE.",
     "importance_score": 58.0,
-    "top_rank": 29,
+    "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2702,7 +2766,7 @@
     "lead_ro": "Anthropic a atras 81,3 miliarde de dolari prin vânzarea a 980 de milioane de acțiuni, la un preț de 83 de dolari pe titlu. Împreună cu plasamentul privat, valoarea operațiunii ajunge la 107,3 miliarde de dolari, iar tranzacționarea pe Nasdaq este programată să înceapă pe 19 noiembrie. Creșterea veniturilor este însoțită de cheltuieli mari pentru infrastructură și de pierderi operaționale trimestriale.",
     "content_ro": "• **O ofertă bursieră de dimensiuni record:** Anthropic a vândut 980 de milioane de acțiuni la 83 de dolari fiecare și a obținut astfel 81,3 miliarde de dolari. Compania a suplimentat cu 19% numărul titlurilor oferite, iar prețul final a depășit intervalul inițial de 70–78 de dolari. Alături de plasamentul privat de 26 de miliarde, valoarea totală ajunge la 107,3 miliarde de dolari, peste precedentul stabilit de SpaceX în iunie.\n\n• **Listare pe Nasdaq în 19 noiembrie:** Acțiunile vor fi tranzacționate sub simbolul ANT. Compania este condusă de Dario Amodei, iar interesul investitorilor este susținut și de avansul rapid al veniturilor.\n\n• **Venituri în creștere, rezultate fluctuante:** Veniturile Anthropic au urcat de la 376 de milioane de dolari în primul trimestru din 2025 la 16,96 miliarde în trimestrul al treilea din 2026. În acel trimestru, compania a consemnat o pierdere operațională de 567 de milioane de dolari, după un profit operațional de 974 de milioane în perioada precedentă.\n\n• **Investiții considerabile în infrastructură:** Anthropic a alocat aproape 9 miliarde de dolari capacității de calcul în prima jumătate a lui 2026 și încă 5 miliarde în trimestrul al treilea. Angajamentele contractuale pentru servicii și infrastructură informatică se apropie de 900 de miliarde de dolari și includ parteneriate cu Amazon și Google.\n\n• **Finanțarea partenerilor poate influența proiectele:** Dezvoltarea infrastructurii depinde, între altele, de accesul partenerilor la capital. Costurile mai ridicate sau dificultățile de finanțare ar putea amâna unele investiții. La sfârșitul lunii octombrie, ritmul anualizat al veniturilor era estimat la 81 de miliarde de dolari, cu 10 miliarde peste nivelul de cu o lună înainte.",
     "importance_score": 58.0,
-    "top_rank": 30,
+    "top_rank": 31,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2755,60 +2819,6 @@
     "title_ro": "Declarația reuniunii Trump–Putin–Xi cuprinde patru teme",
     "lead_ro": "Donald Trump, Vladimir Putin și Xi Jinping s-au întâlnit pe 19 noiembrie la Shenzhen, în China, în marja summitului APEC. Documentul rezultat, alcătuit din patru puncte, tratează reforma ONU, reducerea riscurilor nucleare, aprovizionarea cu energie și limitele instituțiilor internaționale.",
     "content_ro": "• **Prima reuniune trilaterală a celor trei lideri a durat aproximativ o oră și jumătate.** Potrivit presei de stat chineze, discuțiile au depășit intervalul de o oră stabilit inițial. Participanții au abordat situația internațională, securitatea și războiul din Ucraina, iar la final a fost făcut public un document cu patru teme principale.\n\n• **Prevenirea unui conflict nuclear și posibilitatea reducerii arsenalelor au fost printre subiectele centrale.** Xi a susținut eliminarea completă a armelor nucleare, iar declarația comună consemnează că un astfel de război nu poate avea un câștigător și nu trebuie declanșat. Trump a apreciat că cele trei puteri pot negocia diminuarea arsenalelor, deși dezarmarea este dificilă.\n\n• **Reforma ONU este prezentată ca mijloc de îmbunătățire a răspunsului la provocările globale.** Cele trei state, membre permanente ale Consiliului de Securitate, au pledat pentru o organizație mai eficientă în gestionarea problemelor internaționale și în menținerea păcii și securității. Textul nu precizează ce schimbări instituționale ar trebui aplicate.\n\n• **Angajamentul energetic vizează sporirea producției și a ofertei de produse petroliere rafinate.** Liderii au susținut și menținerea unor fluxuri energetice previzibile. Documentul menționează consimțământul statelor și imunitățile oficialilor, afirmând totodată că instituțiile internaționale, inclusiv Curtea Penală Internațională, trebuie să rămână în limitele atribuțiilor stabilite.\n\n• **Trump a pledat pentru o abordare bazată mai mult pe dialog în relațiile cu Moscova și Beijingul.** În opinia sa, evitarea discuțiilor cu statele aflate în dezacord nu a rezolvat conflictele. Președintele american s-a arătat optimist în privința unei soluții pentru Ucraina și a afirmat că situația evoluează, însă reuniunea nu s-a încheiat cu anunțarea unui acord.",
-    "importance_score": 58.0,
-    "top_rank": 31,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_7e6a400973",
-    "slug": "a-dan-parlament-jovahagyta-az-amerikaigrnlandi-biztonsagi-megallapodast-7e6a40",
-    "tags": [
-      "danemarca",
-      "groenlanda",
-      "sua",
-      "securitate",
-      "aparare"
-    ],
-    "fingerprint": "a44fbc63af1277e278380d950797af8b",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Danemarca a ratificat acordul cu SUA privind Groenlanda. Două noi baze militare americane vor fi construite pe insulă",
-        "link": "https://www.digi24.ro/stiri/externe/danemarca-urmeaza-sa-aprobe-acordul-cu-trump-privind-groenlanda-ce-drepturi-va-avea-armata-sua-pe-insula-4043329"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Danemarca a ratificat acordul cu Trump privind Groenlanda, după aproape doi ani de tensiuni",
-        "link": "https://hotnews.ro/danemarca-a-ratificat-acordul-cu-trump-privind-groenlanda-dupa-aproape-doi-ani-de-tensiuni-2408271"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Danemarca aprobă în unanimitate acordul lui Trump privind Groenlanda. SUA își extind prezența militară pe insulă",
-        "link": "https://www.mediafax.ro/externe/danemarca-aproba-in-unanimitate-acordul-lui-trump-privind-groenlanda-sua-isi-extind-prezenta-militara-pe-insula-23845903"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Pretențiile lui Trump legate de Groenlanda, „potolite” oficial de Parlamentul danez. Ce primesc totuși SUA",
-        "link": "https://stirileprotv.ro/stiri/international/pretentiile-lui-trump-legate-de-groenlanda-potolite-oficial-de-parlamentul-danez-ce-primesc-totusi-sua.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Danemarca a aprobat acordul cu Trump privind Groenlanda. SUA vor putea construi două noi baze militare pe insulă",
-        "link": "https://adevarul.ro/stiri-externe/europa/danemarca-a-aprobat-acordul-cu-trump-privind-2572874.html"
-      }
-    ],
-    "published_at": 1795103204,
-    "title_hu": "A dán parlament jóváhagyta az amerikai–grönlandi biztonsági megállapodást",
-    "lead_hu": "A dán parlament egyhangúlag ratifikálta az Egyesült Államokkal és Grönlanddal szeptemberben aláírt biztonsági egyezményt. A megállapodás két új amerikai katonai támaszpont létrehozását teszi lehetővé, és korlátozná a NATO-n és az EU-n kívüli szereplők stratégiai befolyását a szigeten.",
-    "content_hu": "• **A dán törvényhozás lezárta a ratifikációt:** csütörtökön mind a 109 jelen lévő képviselő támogatta az egyezményt, ellenszavazat és tartózkodás nélkül. A szavazást vita nem előzte meg.\n\n• **A megállapodás előzőleg Grönland parlamentjén is átment:** a helyi képviselők november elején 16 igen szavazattal fogadták el, heten tartózkodtak. Az Egyesült Államok, Dánia és Grönland szeptemberben írta alá a dokumentumot New Yorkban.\n\n• **Az egyezmény két új amerikai bázisnak adhat helyet:** a katonai létesítményeket a sziget déli és keleti részén építhetik fel. A szabályozás kiegészíti az 1951-es, az amerikai katonai jelenlétet rendező megállapodást.\n\n• **A szerződés egy esetleges grönlandi függetlenség után is érvényben maradna.** Egyúttal kizárná, hogy az EU-n és a NATO-n kívüli szereplők stratégiai területek felett ellenőrzést szerezzenek; a rendelkezés a kínai és orosz befolyás terjedésének fékezését célozza.\n\n• **Az amerikai katonai szerep bővülhet a szigeten:** a ratifikált dokumentum a Golden Dome rakétavédelmi rendszer telepítését is lehetővé teszi. A megállapodás a Donald Trump amerikai elnök Grönland ellenőrzésére vonatkozó kijelentései nyomán kialakult feszültség enyhítését is szolgálta.",
-    "title_ro": "Parlamentul danez a ratificat acordul de securitate privind Groenlanda",
-    "lead_ro": "Legislativul Danemarcei a aprobat în unanimitate acordul de securitate semnat în septembrie de Statele Unite, Danemarca și Groenlanda. Documentul permite construirea a două baze americane și limitează posibilitatea actorilor din afara UE și NATO de a controla sectoare strategice ale insulei.",
-    "content_ro": "• **Ratificarea daneză a fost votată fără opoziție:** joi, toți cei 109 deputați prezenți au susținut acordul, fără voturi împotrivă sau abțineri. Procedura parlamentară s-a desfășurat fără dezbatere.\n\n• **Parlamentul Groenlandei aprobase deja documentul:** la începutul lunii noiembrie, 16 aleși au votat pentru, iar șapte s-au abținut. Statele Unite, Danemarca și Groenlanda semnaseră acordul în septembrie, la New York.\n\n• **Textul permite instalarea a două baze militare americane:** acestea ar urma să fie construite în sudul și estul Groenlandei. Acordul completează înțelegerea din 1951 care reglementează prezența militară a SUA pe insulă.\n\n• **Prevederile ar rămâne aplicabile și dacă Groenlanda ar deveni independentă.** Acordul împiedică entități din afara Uniunii Europene și NATO să obțină controlul asupra unor domenii strategice, măsură destinată să limiteze extinderea influenței Chinei și Rusiei.\n\n• **Documentul extinde posibilitățile de apărare ale Statelor Unite în regiune:** el autorizează și instalarea sistemului antirachetă Golden Dome. Semnarea înțelegerii a urmărit, de asemenea, reducerea tensiunilor apărute după declarațiile președintelui Donald Trump privind preluarea controlului asupra Groenlandei.",
     "importance_score": 58.0,
     "top_rank": 32,
     "is_top_hero": false,
@@ -3056,6 +3066,60 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_7e6a400973",
+    "slug": "a-dan-parlament-jovahagyta-az-amerikaigrnlandi-biztonsagi-megallapodast-7e6a40",
+    "tags": [
+      "danemarca",
+      "groenlanda",
+      "sua",
+      "securitate",
+      "aparare"
+    ],
+    "fingerprint": "a44fbc63af1277e278380d950797af8b",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Danemarca a ratificat acordul cu SUA privind Groenlanda. Două noi baze militare americane vor fi construite pe insulă",
+        "link": "https://www.digi24.ro/stiri/externe/danemarca-urmeaza-sa-aprobe-acordul-cu-trump-privind-groenlanda-ce-drepturi-va-avea-armata-sua-pe-insula-4043329"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Danemarca a ratificat acordul cu Trump privind Groenlanda, după aproape doi ani de tensiuni",
+        "link": "https://hotnews.ro/danemarca-a-ratificat-acordul-cu-trump-privind-groenlanda-dupa-aproape-doi-ani-de-tensiuni-2408271"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Danemarca aprobă în unanimitate acordul lui Trump privind Groenlanda. SUA își extind prezența militară pe insulă",
+        "link": "https://www.mediafax.ro/externe/danemarca-aproba-in-unanimitate-acordul-lui-trump-privind-groenlanda-sua-isi-extind-prezenta-militara-pe-insula-23845903"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Pretențiile lui Trump legate de Groenlanda, „potolite” oficial de Parlamentul danez. Ce primesc totuși SUA",
+        "link": "https://stirileprotv.ro/stiri/international/pretentiile-lui-trump-legate-de-groenlanda-potolite-oficial-de-parlamentul-danez-ce-primesc-totusi-sua.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Danemarca a aprobat acordul cu Trump privind Groenlanda. SUA vor putea construi două noi baze militare pe insulă",
+        "link": "https://adevarul.ro/stiri-externe/europa/danemarca-a-aprobat-acordul-cu-trump-privind-2572874.html"
+      }
+    ],
+    "published_at": 1795103204,
+    "title_hu": "A dán parlament jóváhagyta az amerikai–grönlandi biztonsági megállapodást",
+    "lead_hu": "A dán parlament egyhangúlag ratifikálta az Egyesült Államokkal és Grönlanddal szeptemberben aláírt biztonsági egyezményt. A megállapodás két új amerikai katonai támaszpont létrehozását teszi lehetővé, és korlátozná a NATO-n és az EU-n kívüli szereplők stratégiai befolyását a szigeten.",
+    "content_hu": "• **A dán törvényhozás lezárta a ratifikációt:** csütörtökön mind a 109 jelen lévő képviselő támogatta az egyezményt, ellenszavazat és tartózkodás nélkül. A szavazást vita nem előzte meg.\n\n• **A megállapodás előzőleg Grönland parlamentjén is átment:** a helyi képviselők november elején 16 igen szavazattal fogadták el, heten tartózkodtak. Az Egyesült Államok, Dánia és Grönland szeptemberben írta alá a dokumentumot New Yorkban.\n\n• **Az egyezmény két új amerikai bázisnak adhat helyet:** a katonai létesítményeket a sziget déli és keleti részén építhetik fel. A szabályozás kiegészíti az 1951-es, az amerikai katonai jelenlétet rendező megállapodást.\n\n• **A szerződés egy esetleges grönlandi függetlenség után is érvényben maradna.** Egyúttal kizárná, hogy az EU-n és a NATO-n kívüli szereplők stratégiai területek felett ellenőrzést szerezzenek; a rendelkezés a kínai és orosz befolyás terjedésének fékezését célozza.\n\n• **Az amerikai katonai szerep bővülhet a szigeten:** a ratifikált dokumentum a Golden Dome rakétavédelmi rendszer telepítését is lehetővé teszi. A megállapodás a Donald Trump amerikai elnök Grönland ellenőrzésére vonatkozó kijelentései nyomán kialakult feszültség enyhítését is szolgálta.",
+    "title_ro": "Parlamentul danez a ratificat acordul de securitate privind Groenlanda",
+    "lead_ro": "Legislativul Danemarcei a aprobat în unanimitate acordul de securitate semnat în septembrie de Statele Unite, Danemarca și Groenlanda. Documentul permite construirea a două baze americane și limitează posibilitatea actorilor din afara UE și NATO de a controla sectoare strategice ale insulei.",
+    "content_ro": "• **Ratificarea daneză a fost votată fără opoziție:** joi, toți cei 109 deputați prezenți au susținut acordul, fără voturi împotrivă sau abțineri. Procedura parlamentară s-a desfășurat fără dezbatere.\n\n• **Parlamentul Groenlandei aprobase deja documentul:** la începutul lunii noiembrie, 16 aleși au votat pentru, iar șapte s-au abținut. Statele Unite, Danemarca și Groenlanda semnaseră acordul în septembrie, la New York.\n\n• **Textul permite instalarea a două baze militare americane:** acestea ar urma să fie construite în sudul și estul Groenlandei. Acordul completează înțelegerea din 1951 care reglementează prezența militară a SUA pe insulă.\n\n• **Prevederile ar rămâne aplicabile și dacă Groenlanda ar deveni independentă.** Acordul împiedică entități din afara Uniunii Europene și NATO să obțină controlul asupra unor domenii strategice, măsură destinată să limiteze extinderea influenței Chinei și Rusiei.\n\n• **Documentul extinde posibilitățile de apărare ale Statelor Unite în regiune:** el autorizează și instalarea sistemului antirachetă Golden Dome. Semnarea înțelegerii a urmărit, de asemenea, reducerea tensiunilor apărute după declarațiile președintelui Donald Trump privind preluarea controlului asupra Groenlandei.",
+    "importance_score": 53.0,
+    "top_rank": 38,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_12cb17b6bf",
     "slug": "nicusor-dan-orszagos-mi-strategiat-surget-az-allami-hasznalat-sszehangolasat-is--12cb17",
     "tags": [
@@ -3104,7 +3168,7 @@
     "lead_ro": "Președintele României afirmă că statul nu are încă o strategie pentru inteligența artificială, iar ritmul digitalizării este insuficient. La summitul de la București au fost discutate siguranța utilizării IA în administrație, inițiativa pentru justiție și nevoia unor instrumente digitale comune.",
     "content_ro": "• **România are nevoie de o strategie națională pentru IA**, a declarat Nicușor Dan la Summitul pentru Guvernanță Digitală, desfășurat la Palatul Cotroceni. Președintele intenționează să discute elaborarea documentului cu ministrul responsabil de digitalizare și consideră că progresele din ultimul an nu sunt suficiente.\n\n• **Dan folosește IA pentru sinteze de politică externă și, mai rar, de matematică.** El spune că instrumentul organizează informații pe care le cunoaște deja. Pentru administrație sunt necesare reguli clare și soluții sigure: datele confidențiale ale statului nu trebuie introduse direct în servicii comerciale de IA.\n\n• **Inițiativa Just.AI vizează sistemul judiciar.** Lansat în mai, proiectul a întâmpinat disponibilitate de colaborare din partea aproape tuturor instituțiilor implicate, inclusiv a unor organizații aflate adesea în dezacord. Acestea discută acum arhitectura relațiilor instituționale, iar conceptul existent urmează să fie transformat într-un plan de acțiune.\n\n• **La summit a fost susținută folosirea unor instrumente comune de IA în instituțiile publice.** Luca Niculescu a pledat pentru soluții verificate și interoperabile. Tehnologia poate ajuta la examinarea unor dosare voluminoase și la reunirea informațiilor deținute de instituții diferite, însă deciziile care privesc oamenii trebuie să rămână în responsabilitatea oamenilor.\n\n• **Accelerarea digitalizării cere o organizare mai bună și colaborare cu mediul privat.** Dan a cerut implicarea unor specialiști cu experiență în sectorul privat și o cooperare mai eficientă între instituții. Niculescu a observat că funcționarii folosesc deja IA fără să aștepte instrucțiuni, dar nivelul serviciilor digitale este inegal. Dan a menționat și posibilitatea ca ADR să treacă în subordinea prim-ministrului.",
     "importance_score": 53.0,
-    "top_rank": 38,
+    "top_rank": 39,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3158,7 +3222,7 @@
     "lead_ro": "Ducele de Sussex a afirmat, în timpul unei vizite în Ucraina, că ar reveni în serviciul militar dacă situația ar impune acest lucru, inclusiv pentru a lupta împotriva Rusiei. Harry a vorbit despre necesitatea pregătirii și despre lecțiile pe care alte țări le-ar putea desprinde din experiența ucraineană.",
     "content_ro": "• **Vizită la Liov** Harry a ajuns în orașul ucrainean weekendul trecut, într-o deplasare neanunțată, și s-a întâlnit cu militari răniți și cu personalul care îi îngrijește. De la începutul invaziei ruse din 2022, aceasta a fost a patra sa vizită în Ucraina. Fragmente din interviul acordat podcastului The Telegraph „Ukraine: The Latest” au fost publicate miercuri, în ultima zi a vizitei în India a prințului William și a prințesei Kate.\n\n• **Ar reveni în armata britanică** Ducele a spus că, dacă ar fi chemat, și-ar servi țara alături de foștii camarazi și de militarii activi și ar fi dispus să lupte împotriva Rusiei. A petrecut zece ani în forțele armate, a participat la două misiuni în Afganistan și și-a încheiat cariera militară în 2015.\n\n• **Consideră că există deja o confruntare** În opinia lui Harry, tensiunile dintre Regatul Unit și Rusia durează de aproximativ un deceniu. El a susținut că lipsa unor atacuri directe nu înseamnă că nu există un conflict și a remarcat o conștientizare tot mai mare în Europa a amenințării rusești.\n\n• **Cere sprijin sporit pentru Ucraina** Harry consideră că rezistența ucraineană poate oferi exemple utile și altor state. El a îndemnat aliații să intensifice ajutorul acordat Kievului și a menționat în special nevoia unei contribuții mai mari din partea Statelor Unite. Potrivit lui, opinia publică americană și administrația Trump au poziții diferite în privința sprijinului pentru Ucraina.\n\n• **Îndeamnă la pregătire** Harry a descris drept îngrijorătoare situația actuală și a spus că atât populația, cât și foștii militari ar trebui să fie pregătiți. Întrebat despre eventuale rezerve pentru situații de urgență, a răspuns râzând că nu este persoana potrivită pentru a da instrucțiuni publicului. Totodată, a afirmat că Ucraina va câștiga războiul.",
     "importance_score": 53.0,
-    "top_rank": 39,
+    "top_rank": 40,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3212,7 +3276,7 @@
     "lead_ro": "Județul Harghita a fost inclus de BBC Travel între cele 20 de destinații recomandate pentru 2027. Prezentarea pune în evidență gastronomia și tradițiile comunității secuiești; în același an, județul va purta titlul de Regiune Europeană a Gastronomiei.",
     "content_ro": "• **Harghita se numără printre cele 20 de destinații recomandate la nivel internațional.** Selecția BBC Travel pentru 2027 ia în calcul locuri remarcate prin evenimente culturale, aniversări istorice sau inițiative de protejare a naturii. Lista nu este un clasament.\n\n• **Beneficiile pentru comunitățile locale și conservarea au contat în alegere.** Criteriile au inclus contribuția turismului la viața localnicilor, precum și sprijinirea protejării mediului natural și a patrimoniului cultural.\n\n• **Județul se află în estul Transilvaniei, într-o zonă centrală pentru comunitatea secuiască.** Tradițiile culinare ale locuitorilor vorbitori de maghiară sunt legate de viața montană și de resursele naturale. Harghita oferă astfel o imagine a Transilvaniei dincolo de asocierea cu Dracula.\n\n• **În 2027, Harghita va fi Regiune Europeană a Gastronomiei.** Programul „Signature Dish” prezintă 50 de preparate locale, între care pâine cu cartofi, brânzeturi de munte, mâncăruri cu ciuperci de pădure și conserve din fructe de pădure. Inițiativa aduce în atenție patrimoniul culinar al zonei.\n\n• **Bucătăria locală păstrează metode tradiționale și folosește ingrediente culese din natură.** În comunități se afumă și se murează alimente, se coace pâine, se fac brânzeturi și se culeg ciuperci și plante. În unele locuri, fânul este încă strâns cu coasa.\n\n• **Pensiunile pot oferi vizitatorilor preparate specifice regiunii.** Printre mâncărurile întâlnite se numără supa de cartofi, friptura de porc, brânza de oaie și zacusca, uneori însoțite de pălincă făcută în casă.",
     "importance_score": 53.0,
-    "top_rank": 40,
+    "top_rank": 41,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3265,55 +3329,6 @@
     "lead_ro": "Departamentul de Justiție al SUA a anunțat că un mare juriu federal a formulat patru capete de acuzare împotriva lui Igor D’iu. El este suspectat că a supravegheat angajații unei companii din Palo Alto despre care anchetatorii afirmă că a furnizat Ucrainei echipamente și sisteme.",
     "content_ro": "• **La 18 noiembrie au fost anunțate patru capete de acuzare împotriva lui Igor D’iu.** Potrivit Departamentului de Justiție al SUA, un mare juriu federal îl acuză de conspirație pentru a acționa în interesul unui guvern străin, desfășurarea unor activități fără notificarea autorităților americane, urmărire hărțuitoare în mai multe state și fraudă legată de acte de identitate.\n\n• **Anchetatorii susțin că D’iu a încercat să supravegheze angajații unei companii din Palo Alto.** Firma ar fi furnizat Ucrainei arme și sisteme folosite împotriva Rusiei. Conform documentelor judiciare, bărbatul ar fi fost abordat pe Telegram de persoane care i-au oferit instrucțiuni, echipamente și bani.\n\n• **Printre sarcinile atribuite lui s-ar fi numărat observarea angajaților în apropierea sediului.** El ar fi trebuit să-i identifice într-o cafenea din zonă și să fotografieze ecranele laptopurilor în timp ce aceștia lucrau. Anchetatorii mai afirmă că i s-a cerut să-și plaseze computerul în anumite puncte, pentru ca asociații să încerce să acceseze de la distanță date de pe dispozitivele persoanelor din apropiere.\n\n• **Suspiciunile includ și urmărirea unui angajat în afara locului de muncă.** Într-un incident datat 3 septembrie, D’iu ar fi condus în urma unei femei pe aproape 48 de kilometri, din Palo Alto spre San Francisco. Potrivit procurorilor, aceasta și-a schimbat traseul și a intrat într-o parcare, însă bărbatul ar fi continuat să o urmărească.\n\n• **Autoritățile afirmă că D’iu a ajuns în SUA în vara anului 2026.** El ar fi călătorit din Istanbul, Turcia, la Ciudad de México, după care ar fi trecut ilegal frontiera dintre Mexic și Statele Unite cu ajutorul altor persoane. Acuzațiile și afirmațiile anchetatorilor nu constituie, prin ele însele, o hotărâre definitivă de vinovăție.",
     "importance_score": 50.0,
-    "top_rank": 41,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_453ecb75ac",
-    "slug": "macron-az-ukran-nato-tagsag-ujboli-megvitatasat-surgette-berlinben-453ecb",
-    "tags": [
-      "ucraina",
-      "nato",
-      "macron",
-      "berlin",
-      "sprijin-militar"
-    ],
-    "fingerprint": "dccf0c65ffdb1a6242f753045d01e330",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Una din patru femei nu poate refuza sexul cu soțul sau partenerul. În România, 49% au trecut printr-o formă de violență în cuplu",
-        "link": "https://www.mediafax.ro/life-inedit/una-din-patru-femei-nu-poate-refuza-sexul-cu-sotul-sau-partenerul-in-romania-49-au-trecut-printr-o-forma-de-violenta-in-cuplu-23845717"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Emmanuel Macron, după Coaliția de Voință: Trebuie să redeschidem chestiunea aderării Ucrainei la NATO",
-        "link": "https://www.mediafax.ro/stirile-zilei/emmanuel-macron-dupa-coalitia-de-vointa-trebuie-sa-redeschidem-chestiunea-aderarii-ucrainei-la-nato-23846265"
-      },
-      {
-        "source": "G4Media",
-        "title": "Emmanuel Macron, la reuniunea Coaliției de Voință: „Trebuie să redeschidem chestiunea aderării Ucrainei la NATO”",
-        "link": "https://www.g4media.ro/emmanuel-macron-la-reuniunea-coalitiei-de-vointa-trebuie-sa-redeschidem-chestiunea-aderarii-ucrainei-la-nato.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Macron avertizează că urmează „săptămâni critice” pentru Ucraina şi face apel pentru aderarea acesteia la NATO",
-        "link": "https://www.digi24.ro/stiri/externe/macron-avertizeaza-ca-urmeaza-saptamani-critice-pentru-ucraina-si-face-apel-pentru-aderarea-acesteia-la-nato-4044779"
-      }
-    ],
-    "published_at": 1795113545,
-    "title_hu": "Macron az ukrán NATO-tagság újbóli megvitatását sürgette Berlinben",
-    "lead_hu": "A berlini Hajlandók Koalíciója ülésén Emmanuel Macron az ukrán légvédelem megerősítésére és a NATO-tagság kérdésének ismételt napirendre vételére szólított fel. A résztvevők a katonai támogatásról, a béketárgyalások lehetőségeiről és Ukrajna jövőbeli biztonsági garanciáiról is egyeztettek.",
-    "content_hu": "• **A berlini találkozón Ukrajna támogatása és biztonsági jövője volt napirenden.** Az európai vezetők és Kijev partnerei a katonai segítségnyújtásról, a lehetséges béketárgyalásokról, valamint az ország számára kialakítandó későbbi biztonsági garanciákról tárgyaltak. Az egyeztetésen Nicușor Dan román államfő is részt vett.\n\n• **Macron az ukrán légvédelemhez szükséges eszközök gyors átadását kérte.** A francia elnök szerint újabb rakétaelhárító rendszerekre és elfogórakétákra van szükség. Arra biztatta azokat az országokat, amelyek képesek ilyen védelmi felszerelést biztosítani, hogy ne halasszák el a segítséget.\n\n• **A francia elnök szerint ismét mérlegelni kell Ukrajna NATO-csatlakozását.** Ezt azzal indokolta, hogy Moszkva álláspontja továbbra is szélsőséges követeléseket tartalmaz. Macron úgy vélte, a kérdés az európai országok számára is újra napirendre került az elmúlt fejlemények nyomán.\n\n• **Oroszország négy, 2022-ben magához sorolt ukrán régióból követel kivonulást.** Vlagyimir Putyin Donyeck, Luhanszk, Zaporizzsja és Herszon területének elhagyását várja Kijevtől. Az orosz erők ezeknek a területeknek nem tartják ellenőrzésük alatt a teljes egészét, Moszkva igényei pedig olyan részekre is kiterjednek, amelyeket nem foglaltak el.\n\n• **Macron szerint a sencseni Trump–Hszi–Putyin-találkozó nem rendezi át a világot.** A francia elnök ezt a berlini koalíciós ülésen mondta, ahol a résztvevők Ukrajna támogatásának további irányairól is egyeztettek.",
-    "title_ro": "Macron cere reluarea dezbaterii privind aderarea Ucrainei la NATO",
-    "lead_ro": "La reuniunea de la Berlin a Coaliției de Voință, Emmanuel Macron a cerut consolidarea apărării aeriene a Ucrainei și reluarea discuției despre aderarea țării la NATO. Participanții au analizat sprijinul militar, perspectivele negocierilor de pace și viitoarele garanții de securitate pentru Kiev.",
-    "content_ro": "• **Sprijinul pentru Ucraina și securitatea sa viitoare au fost teme centrale la Berlin.** Liderii europeni și partenerii Kievului au discutat despre ajutorul militar, posibilele negocieri de pace și garanțiile de securitate care ar putea fi oferite ulterior țării. La reuniune a participat și președintele României, Nicușor Dan.\n\n• **Macron a cerut furnizarea rapidă a echipamentelor necesare apărării antiaeriene ucrainene.** Președintele francez a menționat sisteme suplimentare de apărare împotriva rachetelor și interceptori. El a îndemnat statele care pot livra astfel de echipamente să nu amâne sprijinul.\n\n• **Liderul francez consideră că aderarea Ucrainei la NATO trebuie analizată din nou.** Macron și-a susținut poziția prin referire la cererile pe care le-a descris drept maximaliste ale Moscovei. În opinia sa, evoluțiile recente au readus subiectul în atenția europenilor.\n\n• **Rusia cere retragerea ucraineană din patru regiuni pe care le-a revendicat în 2022.** Vladimir Putin a solicitat ca forțele Kievului să părăsească Donețk, Luhansk, Zaporojie și Herson. Rusia nu controlează toate aceste teritorii, iar pretențiile sale includ și zone pe care armata rusă nu le-a cucerit.\n\n• **Macron a spus că întâlnirea de la Shenzhen dintre Trump, Xi Jinping și Putin nu schimbă ordinea mondială.** Declarația a fost făcută în cadrul reuniunii de la Berlin, unde aliații Ucrainei au discutat și despre continuarea sprijinului acordat țării.",
-    "importance_score": 48.0,
     "top_rank": 42,
     "is_top_hero": false,
     "is_top_list": true
@@ -8448,7 +8463,7 @@
     "title_ro": "Șase cetățeni afgani au fost predați autorităților sârbe",
     "lead_ro": "Polițiștii de frontieră din Deta au interceptat șase cetățeni afgani în apropierea graniței cu Serbia, pe teritoriul României. Potrivit verificărilor, persoanele, cu vârste între 20 și 38 de ani, au intrat ilegal în țară dinspre Serbia.",
     "content_ro": "• **Șase cetățeni afgani au fost opriți în apropierea frontierei cu Serbia.** Polițiștii Sectorului Poliției de Frontieră Deta au observat grupul deplasându-se pe teritoriul României, lângă graniță, și au intervenit pentru verificarea situației.\n\n• **Verificările au indicat că grupul a trecut ilegal din Serbia în România.** Cele șase persoane sunt cetățeni afgani cu vârste cuprinse între 20 și 38 de ani. Informațiile comunicate de autorități nu precizează momentul în care a avut loc trecerea frontierei.\n\n• **Persoanele au fost duse la sediul sectorului pentru identificare și verificări.** Polițiștii de frontieră au început cercetări privind suspiciunea de trecere frauduloasă a frontierei de stat. Potrivit comunicării oficiale, ancheta este în desfășurare.\n\n• **Pentru fiecare dintre cei șase a fost stabilită interdicția de a intra în România timp de cinci ani.** După dispunerea acestei măsuri, grupul a fost predat autorităților sârbe. Comunicatul nu a oferit alte detalii despre predare sau despre situația ulterioară a persoanelor.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 170,
     "is_top_hero": false,
     "is_top_list": true
@@ -8486,7 +8501,7 @@
     "title_ro": "Două bombardiere rusești Tu-95 au zburat în apropierea Taiwanului înaintea summitului din China",
     "lead_ro": "Ministerul Apărării din Taiwan a anunțat că a detectat două bombardiere strategice rusești Tu-95 în sectorul sudic al zonei de identificare a apărării aeriene a insulei. Aparatele au trecut pe lângă coasta estică și au virat spre nord-est în dreptul orașului Keelung, cu câteva ore înaintea reuniunii de la Shenzhen.",
     "content_ro": "• **Două bombardiere rusești Tu-95 au fost observate joi dimineață în apropierea Taiwanului.** Potrivit Ministerului Apărării de pe insulă, aeronavele au pătruns în sectorul sudic al zonei de identificare a apărării aeriene taiwaneze.\n\n• **Aparatele au continuat deplasarea de-a lungul coastei estice.** Ulterior, traseul lor s-a orientat spre nord-est, în apropierea orașului Keelung, situat în partea de nord a insulei.\n\n• **Autoritățile taiwaneze au urmărit zborul pe întregul traseu.** Ministerul a precizat că a folosit mijloace de informații, supraveghere și recunoaștere și că a luat măsurile de răspuns considerate necesare.\n\n• **Survolul a avut loc cu câteva ore înaintea întâlnirii de la Shenzhen.** Donald Trump, Xi Jinping și Vladimir Putin au participat în orașul din sud-estul Chinei la discuții trilaterale.\n\n• **Bombardierele Tu-95 pot transporta focoase nucleare.** Marți, Taiwanul raportase detectarea a încă două aeronave rusești în apropierea insulei, fără să le precizeze modelul. În aceeași zi, Japonia și Coreea de Sud au semnalat, la rândul lor, prezența unor aparate militare rusești în apropierea teritoriilor lor.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 171,
     "is_top_hero": false,
     "is_top_list": true
