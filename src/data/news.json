@@ -1008,6 +1008,99 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_c5afcdafd6",
+    "slug": "vrs-szelriasztas-es-arvizveszely-romaniaban-c5afcd",
+    "tags": [
+      "vreme-severa",
+      "avertizari-meteo",
+      "inundatii",
+      "romania"
+    ],
+    "fingerprint": "3ccc493e22cef483b93b6e43209437dc",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 13,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "HARTĂ Alertă de vreme severă: Cod roșu de vânt, cu rafale de peste 140 km/h. Zonele vizate de avertizările ANM",
+        "link": "https://www.digi24.ro/meteo/alerta-de-vreme-severa-cod-rosu-de-vant-cu-rafale-de-peste-140-km-h-zonele-vizate-de-avertizarile-anm-4043357"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Vreme severă la final de săptămână. Cod roșu de vânt, cu rafale de 140 km/h. Bucureștiul va fi lovit de vijelii | HARTĂ",
+        "link": "https://stirileprotv.ro/stiri/vremea/vreme-severa-la-final-de-saptamana-cod-rosu-de-vant-cu-rafale-de-140-km-h-bucurestiul-va-fi-lovit-de-vijelii-harta.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alerte de vânt puternic în majoritatea regiunilor, joi şi vineri / Cod roşu în judeţul Vrancea şi în zona montană înaltă",
+        "link": "https://www.g4media.ro/alerte-de-vant-puternic-in-majoritatea-regiunilor-joi-si-vineri-cod-rosu-in-judetul-vrancea-si-in-zona-montana-inalta.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Vânt puternic în București. Rafale de până la 70 km/h și temperaturi de 20 de grade",
+        "link": "https://www.mediafax.ro/meteo/vant-puternic-in-bucuresti-rafale-de-pana-la-70-km-h-si-temperaturi-de-20-de-grade-23845831"
+      },
+      {
+        "source": "Maszol",
+        "title": "Kiadták a riasztást: sok eső és erős szél várható pénteken",
+        "link": "https://maszol.ro/belfold/Kiadtak-a-riasztast-sok-eso-es-eros-szel-varhato-penteken"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Cod roșu de vânt puternic. Zonele în care meteorologii au emis alerte de vreme rea",
+        "link": "https://hotnews.ro/cod-rosu-de-vant-puternic-zonele-in-care-meteorologii-au-emis-alerte-de-vreme-rea-2408298"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cod portocaliu de viituri pe râuri din cinci judeţe, până vineri la prânz",
+        "link": "https://www.g4media.ro/cod-portocaliu-de-viituri-pe-rauri-din-cinci-judete-pana-vineri-la-pranz.html"
+      },
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "Risc de viituri la Satu Mare. Cod portocaliu de inundații pe un râu din județ. Stare de maximă vigilență hidrologică",
+        "link": "https://www.presasm.ro/risc-de-viituri-la-satu-mare-cod-portocaliu-de-inundatii-pe-un-rau-din-judet-stare-de-maxima/54378"
+      },
+      {
+        "source": "G4Media",
+        "title": "Cod portocaliu de inundaţii pe râul Timiş, până joi la prânz / Cod galben pe cursuri din 13 judeţe",
+        "link": "https://www.g4media.ro/cod-portocaliu-de-inundatii-pe-raul-timis-pana-joi-la-pranz-cod-galben-pe-cursuri-din-13-judete.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Val de vreme rea peste România până vineri seară. Cod portocaliu de ploi și rafale violente de vânt",
+        "link": "https://hotnews.ro/val-de-vreme-rea-peste-romania-pana-vineri-seara-cod-portocaliu-de-ploi-si-rafale-violente-de-vant-2407250"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Cod portocaliu și cod galben în mai multe regiuni. Meteorologii anunță trei zile cu ploi și vânt puternic",
+        "link": "https://www.mediafax.ro/meteo/cod-portocaliu-si-cod-galben-in-mai-multe-regiuni-meteorologii-anunta-trei-zile-cu-ploi-si-vant-puternic-23845131"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Trei zile de vreme extremă în mai multe regiuni din țară. Cod galben și portocaliu de ploi și vânt puternic | HARTĂ",
+        "link": "https://stirileprotv.ro/stiri/vremea/trei-zile-de-vreme-extrema-in-mai-multe-regiuni-din-tara-cod-galben-si-portocaliu-de-ploi-si-vant-puternic-harta.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Bilanțul vremii extreme din ultimele ore: Localități din 24 de județe, afectate de vântul puternic / Zeci de copaci doborâți și drumuri blocate / Recomandările autorităților",
+        "link": "https://www.g4media.ro/bilantul-vremii-extreme-din-ultimele-ore-localitati-din-24-de-judete-afectate-de-vantul-puternic-zeci-de-copaci-doborati-si-drumuri-blocate-recomandarile-autoritatilor.html"
+      }
+    ],
+    "published_at": 1795091640,
+    "title_hu": "Vörös szélriasztás és árvízveszély Romániában",
+    "lead_hu": "November 19–20-án több romániai térségben viharos szélre és kiadós esőre figyelmeztetnek. A folyók mellett is fokozott óvatosságra van szükség: Szatmár megyében a Tur folyóra narancssárga árvízriasztást adtak ki.",
+    "content_hu": "• **A hegyvidéken már november 19-én délelőtt erősödik a szél.** A magasabb régiókban 90–120 kilométer/órás széllökések fordulhatnak elő. Este Krassó-Szörény, Gorj, Vâlcea és Máramaros megyére, valamint több kárpáti térségre esőriasztás lép életbe: általában 15–25, elszórtan 35–40 milliméter csapadék várható, helyenként zivatarokkal.\n\n• **Vrancea megyében és az 1200 méter fölötti hegyekben vörös szintű szélriasztás lesz.** A jelzés november 20-án hajnali 1 és délelőtt 10 óra között érvényes, a széllökések meghaladhatják a 140 kilométer/órát. Erdély, Máramaros, Partium északi része, Moldova nyugati és északi vidéke, valamint a 800–1200 méteres hegyvidék narancssárga riasztást kap.\n\n• **Nyugaton már csütörtök este narancssárga szélriasztás kezdődik.** Krassó-Szörény, Temes, Arad, Bihar, Hunyad és Fehér alacsonyabban fekvő részein 70–90 kilométer/órás lökések lehetnek; a Kárpátok nyugati és déli vonulatában ennél erősebb szél várható. Több más térségben sárga jelzés lesz érvényben.\n\n• **A hidrológiai riasztások november 20-án estig is érvényben maradnak.** Szatmár megyében a Tur folyóra csütörtök 21 órától péntek délig narancssárga jelzés vonatkozik. A Visó, az Iza, a Lápos és a Nagy-Szamos egyes szakaszain szintén narancssárga riasztás lép életbe; több vízgyűjtőn sárga jelzés várható. Gyors áradás és a védekezési szintek túllépése is előfordulhat.\n\n• **Bukarestben enyhe, de szeles időre számítanak.** A hőmérséklet csütörtökön és pénteken is elérheti a 18–20 fokot, az éjszakai minimum 8–10 fok lehet. A csapadék mennyisége jellemzően 2–5 milliméter; a széllökések elérhetik az 50–70 kilométer/órát, a fővárosi figyelmeztetés pénteken 16 óráig tart.",
+    "title_ro": "Cod roșu de vânt și risc de inundații în România",
+    "lead_ro": "În intervalul 19–20 noiembrie, mai multe zone din România se vor confrunta cu vânt puternic și precipitații abundente. Și pe râuri este nevoie de prudență: în județul Satu Mare a fost emis cod portocaliu pentru râul Tur.",
+    "content_ro": "• **Vântul se intensifică în zonele montane încă din dimineața zilei de 19 noiembrie.** La altitudini mari, rafalele pot atinge 90–120 km/h. Seara intră în vigoare o atenționare de ploi pentru județele Caraș-Severin, Gorj, Vâlcea și Maramureș, precum și pentru mai multe zone carpatice. Sunt estimate 15–25 de litri pe metru pătrat, iar izolat 35–40, cu posibile descărcări electrice.\n\n• **Vrancea și munții de peste 1.200 de metri intră sub cod roșu de vânt.** Avertizarea este valabilă pe 20 noiembrie, între orele 01:00 și 10:00, iar rafalele pot depăși 140 km/h. Codul portocaliu vizează Transilvania, Maramureșul, nordul Crișanei, vestul și nordul Moldovei, precum și munții aflați între 800 și 1.200 de metri.\n\n• **În vestul țării, codul portocaliu de vânt începe joi seara.** În zonele joase din Caraș-Severin, Timiș, Arad, Bihor, Hunedoara și Alba sunt posibile rafale de 70–90 km/h. În Carpații Occidentali și Meridionali vântul va fi mai puternic, iar în alte regiuni se aplică avertizări de nivel galben.\n\n• **Avertizările hidrologice rămân valabile până vineri seara.** Pentru râul Tur, în județul Satu Mare, codul portocaliu se aplică de joi, ora 21:00, până vineri la prânz. Același nivel de alertă vizează sectoare din bazinele Vișeu, Iza, Lăpuș și Someșul Mare; pe mai multe râuri este emis cod galben. Sunt posibile viituri rapide și depășiri ale cotelor de apărare.\n\n• **În București, vremea rămâne caldă, dar cu rafale puternice.** Temperaturile maxime pot ajunge la 18–20 de grade, iar cele minime se vor situa între 8 și 10 grade. Ploile pot aduce în general 2–5 litri pe metru pătrat, iar rafalele pot atinge 50–70 km/h. Atenționarea pentru Capitală este valabilă până vineri, la ora 16:00.",
+    "importance_score": 130.0,
+    "top_rank": 7,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_cc63a90e76",
     "slug": "moszkva-feltetelekhez-kti-europa-reszvetelet-berlin-negyoldalu-targyalast-surget-cc63a9",
     "tags": [
@@ -1087,94 +1180,6 @@
     "lead_ro": "Vladimir Putin a invitat reprezentanți europeni la Moscova și afirmă că va stabili formatul discuțiilor cu Ucraina după ce le va afla poziția. Volodimir Zelenski a anunțat la Berlin că Europa va fi implicată și a cerut organizarea cât mai rapidă a unei reuniuni cu participarea Ucrainei, Rusiei, Statelor Unite și Europei.",
     "content_ro": "• **Moscova vrea să afle mai întâi poziția Europei.** După summitul din China cu Donald Trump și Xi Jinping, Putin a anunțat că reprezentanții europeni au fost invitați diplomatic la Moscova. El a spus că Washingtonul susține insistent implicarea lor, însă Rusia va decide formatul viitoarelor discuții cu Ucraina după întâlnirea cu aceștia. În opinia liderului rus, Kievul și europenii nu sunt deocamdată pregătiți să accepte compromisuri.\n\n• **Securitatea Europei ar urma să fie discutată împreună cu cea a Ucrainei.** Putin a susținut că securitatea ucraineană trebuie inclusă într-un cadru european mai larg, dar a respins desfășurarea unor trupe străine în Ucraina. El a descris și cooperarea militară dintre Kiev și Uniunea Europeană drept o problemă. Liderii reuniți în China au ajuns la o înțelegere asupra unor teme, însă declarația lor comună nu a abordat o încetare a focului sau negocieri de pace în Ucraina.\n\n• **Berlinul propune reprezentarea Europei prin cinci state și două instituții.** Zelenski a spus că Franța, Germania, Italia, Polonia și Regatul Unit, alături de UE și NATO, vor participa la proces. Președintele ucrainean urma să discute cu Steve Witkoff și Jared Kushner despre data și agenda următoarei reuniuni și a cerut o întâlnire rapidă între Ucraina, Rusia, SUA și Europa. Emmanuel Macron a susținut, la rândul său, acest format.\n\n• **Lideri europeni afirmă că sunt pregătiți să negocieze.** Premierul britanic Andy Burnham a descris poziția Europei drept unitară și bine definită, iar cancelarul german Friedrich Merz a apreciat că pretențiile maximaliste ale Moscovei nu sunt realiste. Jared Kushner a spus că Trump urmărește un acord cu Rusia în prezența Europei. La Berlin a fost discutată și o posibilă garanție de securitate pentru Ucraina, inspirată de principiul apărării colective din NATO.\n\n• **Analiștii avertizează asupra revenirii logicii sferelor de influență.** Fostul diplomat rus Boris Bondarev consideră că reuniunea de la Abu Dhabi nu a apropiat încheierea războiului, dar ar putea consolida negocierile directe dintre Moscova și Washington, lăsând Ucraina și Europa pe dinafară. Cercetătorul britanic Keir Giles a avertizat că dezbaterea despre refacerea arhitecturii de securitate europene poate servi intereselor Rusiei. Potrivit unor relatări din presă, Moscova a cerut și retragerea Finlandei din NATO.",
     "importance_score": 125.0,
-    "top_rank": 7,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_c5afcdafd6",
-    "slug": "vrs-szelriasztas-es-arvizveszely-romaniaban-c5afcd",
-    "tags": [
-      "vreme-severa",
-      "avertizari-meteo",
-      "inundatii",
-      "romania"
-    ],
-    "fingerprint": "3ccc493e22cef483b93b6e43209437dc",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 12,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "HARTĂ Alertă de vreme severă: Cod roșu de vânt, cu rafale de peste 140 km/h. Zonele vizate de avertizările ANM",
-        "link": "https://www.digi24.ro/meteo/alerta-de-vreme-severa-cod-rosu-de-vant-cu-rafale-de-peste-140-km-h-zonele-vizate-de-avertizarile-anm-4043357"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Vreme severă la final de săptămână. Cod roșu de vânt, cu rafale de 140 km/h. Bucureștiul va fi lovit de vijelii | HARTĂ",
-        "link": "https://stirileprotv.ro/stiri/vremea/vreme-severa-la-final-de-saptamana-cod-rosu-de-vant-cu-rafale-de-140-km-h-bucurestiul-va-fi-lovit-de-vijelii-harta.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Alerte de vânt puternic în majoritatea regiunilor, joi şi vineri / Cod roşu în judeţul Vrancea şi în zona montană înaltă",
-        "link": "https://www.g4media.ro/alerte-de-vant-puternic-in-majoritatea-regiunilor-joi-si-vineri-cod-rosu-in-judetul-vrancea-si-in-zona-montana-inalta.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Vânt puternic în București. Rafale de până la 70 km/h și temperaturi de 20 de grade",
-        "link": "https://www.mediafax.ro/meteo/vant-puternic-in-bucuresti-rafale-de-pana-la-70-km-h-si-temperaturi-de-20-de-grade-23845831"
-      },
-      {
-        "source": "Maszol",
-        "title": "Kiadták a riasztást: sok eső és erős szél várható pénteken",
-        "link": "https://maszol.ro/belfold/Kiadtak-a-riasztast-sok-eso-es-eros-szel-varhato-penteken"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Cod roșu de vânt puternic. Zonele în care meteorologii au emis alerte de vreme rea",
-        "link": "https://hotnews.ro/cod-rosu-de-vant-puternic-zonele-in-care-meteorologii-au-emis-alerte-de-vreme-rea-2408298"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cod portocaliu de viituri pe râuri din cinci judeţe, până vineri la prânz",
-        "link": "https://www.g4media.ro/cod-portocaliu-de-viituri-pe-rauri-din-cinci-judete-pana-vineri-la-pranz.html"
-      },
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "Risc de viituri la Satu Mare. Cod portocaliu de inundații pe un râu din județ. Stare de maximă vigilență hidrologică",
-        "link": "https://www.presasm.ro/risc-de-viituri-la-satu-mare-cod-portocaliu-de-inundatii-pe-un-rau-din-judet-stare-de-maxima/54378"
-      },
-      {
-        "source": "G4Media",
-        "title": "Cod portocaliu de inundaţii pe râul Timiş, până joi la prânz / Cod galben pe cursuri din 13 judeţe",
-        "link": "https://www.g4media.ro/cod-portocaliu-de-inundatii-pe-raul-timis-pana-joi-la-pranz-cod-galben-pe-cursuri-din-13-judete.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Val de vreme rea peste România până vineri seară. Cod portocaliu de ploi și rafale violente de vânt",
-        "link": "https://hotnews.ro/val-de-vreme-rea-peste-romania-pana-vineri-seara-cod-portocaliu-de-ploi-si-rafale-violente-de-vant-2407250"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Cod portocaliu și cod galben în mai multe regiuni. Meteorologii anunță trei zile cu ploi și vânt puternic",
-        "link": "https://www.mediafax.ro/meteo/cod-portocaliu-si-cod-galben-in-mai-multe-regiuni-meteorologii-anunta-trei-zile-cu-ploi-si-vant-puternic-23845131"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Trei zile de vreme extremă în mai multe regiuni din țară. Cod galben și portocaliu de ploi și vânt puternic | HARTĂ",
-        "link": "https://stirileprotv.ro/stiri/vremea/trei-zile-de-vreme-extrema-in-mai-multe-regiuni-din-tara-cod-galben-si-portocaliu-de-ploi-si-vant-puternic-harta.html"
-      }
-    ],
-    "published_at": 1795091640,
-    "title_hu": "Vörös szélriasztás és árvízveszély Romániában",
-    "lead_hu": "November 19–20-án több romániai térségben viharos szélre és kiadós esőre figyelmeztetnek. A folyók mellett is fokozott óvatosságra van szükség: Szatmár megyében a Tur folyóra narancssárga árvízriasztást adtak ki.",
-    "content_hu": "• **A hegyvidéken már november 19-én délelőtt erősödik a szél.** A magasabb régiókban 90–120 kilométer/órás széllökések fordulhatnak elő. Este Krassó-Szörény, Gorj, Vâlcea és Máramaros megyére, valamint több kárpáti térségre esőriasztás lép életbe: általában 15–25, elszórtan 35–40 milliméter csapadék várható, helyenként zivatarokkal.\n\n• **Vrancea megyében és az 1200 méter fölötti hegyekben vörös szintű szélriasztás lesz.** A jelzés november 20-án hajnali 1 és délelőtt 10 óra között érvényes, a széllökések meghaladhatják a 140 kilométer/órát. Erdély, Máramaros, Partium északi része, Moldova nyugati és északi vidéke, valamint a 800–1200 méteres hegyvidék narancssárga riasztást kap.\n\n• **Nyugaton már csütörtök este narancssárga szélriasztás kezdődik.** Krassó-Szörény, Temes, Arad, Bihar, Hunyad és Fehér alacsonyabban fekvő részein 70–90 kilométer/órás lökések lehetnek; a Kárpátok nyugati és déli vonulatában ennél erősebb szél várható. Több más térségben sárga jelzés lesz érvényben.\n\n• **A hidrológiai riasztások november 20-án estig is érvényben maradnak.** Szatmár megyében a Tur folyóra csütörtök 21 órától péntek délig narancssárga jelzés vonatkozik. A Visó, az Iza, a Lápos és a Nagy-Szamos egyes szakaszain szintén narancssárga riasztás lép életbe; több vízgyűjtőn sárga jelzés várható. Gyors áradás és a védekezési szintek túllépése is előfordulhat.\n\n• **Bukarestben enyhe, de szeles időre számítanak.** A hőmérséklet csütörtökön és pénteken is elérheti a 18–20 fokot, az éjszakai minimum 8–10 fok lehet. A csapadék mennyisége jellemzően 2–5 milliméter; a széllökések elérhetik az 50–70 kilométer/órát, a fővárosi figyelmeztetés pénteken 16 óráig tart.",
-    "title_ro": "Cod roșu de vânt și risc de inundații în România",
-    "lead_ro": "În intervalul 19–20 noiembrie, mai multe zone din România se vor confrunta cu vânt puternic și precipitații abundente. Și pe râuri este nevoie de prudență: în județul Satu Mare a fost emis cod portocaliu pentru râul Tur.",
-    "content_ro": "• **Vântul se intensifică în zonele montane încă din dimineața zilei de 19 noiembrie.** La altitudini mari, rafalele pot atinge 90–120 km/h. Seara intră în vigoare o atenționare de ploi pentru județele Caraș-Severin, Gorj, Vâlcea și Maramureș, precum și pentru mai multe zone carpatice. Sunt estimate 15–25 de litri pe metru pătrat, iar izolat 35–40, cu posibile descărcări electrice.\n\n• **Vrancea și munții de peste 1.200 de metri intră sub cod roșu de vânt.** Avertizarea este valabilă pe 20 noiembrie, între orele 01:00 și 10:00, iar rafalele pot depăși 140 km/h. Codul portocaliu vizează Transilvania, Maramureșul, nordul Crișanei, vestul și nordul Moldovei, precum și munții aflați între 800 și 1.200 de metri.\n\n• **În vestul țării, codul portocaliu de vânt începe joi seara.** În zonele joase din Caraș-Severin, Timiș, Arad, Bihor, Hunedoara și Alba sunt posibile rafale de 70–90 km/h. În Carpații Occidentali și Meridionali vântul va fi mai puternic, iar în alte regiuni se aplică avertizări de nivel galben.\n\n• **Avertizările hidrologice rămân valabile până vineri seara.** Pentru râul Tur, în județul Satu Mare, codul portocaliu se aplică de joi, ora 21:00, până vineri la prânz. Același nivel de alertă vizează sectoare din bazinele Vișeu, Iza, Lăpuș și Someșul Mare; pe mai multe râuri este emis cod galben. Sunt posibile viituri rapide și depășiri ale cotelor de apărare.\n\n• **În București, vremea rămâne caldă, dar cu rafale puternice.** Temperaturile maxime pot ajunge la 18–20 de grade, iar cele minime se vor situa între 8 și 10 grade. Ploile pot aduce în general 2–5 litri pe metru pătrat, iar rafalele pot atinge 50–70 km/h. Atenționarea pentru Capitală este valabilă până vineri, la ora 16:00.",
-    "importance_score": 120.0,
     "top_rank": 8,
     "is_top_hero": false,
     "is_top_list": true
@@ -1341,6 +1346,79 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_d3dfd2dbd0",
+    "slug": "gabi-tamasot-24-orara-orizetbe-vettek-a-bukaresti-konfliktus-utan-d3dfd2",
+    "tags": [
+      "gabi-tamas",
+      "bucuresti",
+      "fotbal",
+      "politie"
+    ],
+    "fingerprint": "88dc039b2a903f27d97c8f7382fbe24e",
+    "category": "Bulvár",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 9,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Gabi Tamaș, dus la Poliție după un scandal în Centrul Vechi! Fostul internațional și-a împărțit pumni cu doi bărbați în toiul nopții",
+        "link": "https://adevarul.ro/sport/gabi-tamas-dus-la-politie-dupa-un-scandal-in-2572689.html"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Gabi Tamaș, ÎNCĂTUȘAT » Poliția a oferit detalii uluitoare după scandalul din Capitală",
+        "link": "https://www.gsp.ro/fotbal/liga-1/gabi-tamas-incatusat-comunicatul-politiei-bucuresti-1000739.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Răsturnare de situație. Gabi Tamaș, adus cu mandat de la Brașov la București, cu cătușe la mâini",
+        "link": "https://www.mediafax.ro/social/rasturnare-de-situatie-gabi-tamas-adus-cu-mandat-de-la-brasov-la-bucuresti-cu-catuse-la-maini-23845945"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Gabi Tamaș, adus în cătușe la Secția 27 din Capitală! A fost escortat de 4 polițiști",
+        "link": "https://www.cancan.ro/gabi-tamas-adus-in-catuse-la-sectia-27-din-capitala-a-fost-escortat-de-4-politisti-21550587"
+      },
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "După două ore de audieri, Gabi Tamaș a fost reținut pentru 24h! » Scos în cătușe și escortat de 4 polițiști",
+        "link": "https://www.gsp.ro/fotbal/liga-1/gabi-tamas-retinut-24-ore-politie-1000853.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Fostul internațional Gabi Tamaș, reținut după ce ar fi agresat doi bărbați pe o stradă din Centrul Vechi al Capitalei",
+        "link": "https://www.digi24.ro/stiri/actualitate/fostul-international-gabi-tamas-retinut-dupa-ce-ar-fi-agresat-doi-barbati-pe-o-strada-din-centrul-vechi-al-capitalei-4044993"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Gabi Tamaș a fost reținut",
+        "link": "https://www.mediafax.ro/social/gabi-tamas-a-fost-retinut-23845945"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Gabi Tamaș, implicat într-un scandal în Centrul Vechi! Ar fi fost bătut de doi bărbați",
+        "link": "https://www.cancan.ro/gabi-tamas-implicat-intr-un-scandal-in-centrul-vechi-ar-fi-fost-batut-de-doi-barbati-21550147"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Gabi Tamaș va fi adus la Secția 27 de Poliție. Noi audieri după scandalul din Centrul Vechi, în urma căruia a fost reținut",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/gabi-tamas-va-fi-adus-la-sectia-27-de-politie-noi-2572971.html"
+      }
+    ],
+    "published_at": 1795124973,
+    "title_hu": "Gabi Tamașot 24 órára őrizetbe vették a bukaresti konfliktus után",
+    "lead_hu": "A bukaresti óvárosban történt, két férfit érintő incidens miatt Gabi Tamașot november 19-én ismét a fővárosba vitték, majd kihallgatása után 24 órára őrizetbe vették. A két férfi időközben feljelentést tett; a korábbi rendőrségi intézkedéskor még nem kívántak büntetőeljárást kezdeményezni.",
+    "content_hu": "• **A konfliktus november 18-án, hajnali fél négy körül történt** Bukarest 3. kerületében, az Óváros egyik utcáján. A rendőrséget 112-es segélyhívással értesítették egy három ember közötti összetűzésről; a hatóságok szerint a 43 éves Tamaș két férfit, egy 33 és egy 38 éves személyt bántalmazhatott.\n\n• **A helyszínen a két férfi még nem akart feljelentést tenni, és kórházba sem mentek.** A rendőrség szerint Tamaș nem követte az intézkedő rendőrök utasításait, ezért megbilincselték és a 27-es rendőrőrsre vitték. A közrend megzavarása miatt 2000 lejes bírságot szabtak ki rá.\n\n• **A két érintett később büntetőfeljelentést tett.** Az első meghallgatást követően Tamaș elhagyta Bukarestet és Brassóba utazott; november 19-én elfogatóparancs alapján visszavitték a fővárosba. A sajtóbeszámolók szerint négy rendőr kísérte a 27-es rendőrőrsre, ahová este 21:12-kor érkezett.\n\n• **Körülbelül kétórás kihallgatás után 24 órára őrizetbe vették.** Ezt a bukaresti rendőrség is megerősítette, és közölte, hogy a döntést a nyomozás során összegyűjtött bizonyítékok, valamint a két feljelentés alapján hozták meg. Tamaș az ASA Marosvásárhely ügyvezetőjeként dolgozik.\n\n• **Az ügyben bántalmazás vagy más erőszakos cselekmény gyanúja miatt folyik nyomozás.** Az eljárás a 3. kerületi bíróság mellett működő ügyészség felügyeletével zajlik. Tamașot bírák elé tervezik állítani; sajtóértesülés szerint felmerülhet a 30 napos előzetes letartóztatás indítványozása, de erről még nem született bírósági döntés.",
+    "title_ro": "Gabi Tamaș, reținut pentru 24 de ore după conflictul din București",
+    "lead_ro": "După incidentul din Centrul Vechi al Bucureștiului, Gabi Tamaș a fost adus din nou în Capitală pe 19 noiembrie și reținut pentru 24 de ore, în urma audierilor. Cei doi bărbați implicați au depus între timp plângeri penale, deși inițial nu solicitaseră acest lucru.",
+    "content_ro": "• **Conflictul s-a produs pe 18 noiembrie, în jurul orei 03:30**, pe o stradă din Sectorul 3 al Bucureștiului. Polițiștii au fost alertați printr-un apel la 112 despre o altercație între trei persoane; potrivit autorităților, Tamaș, în vârstă de 43 de ani, i-ar fi agresat pe doi bărbați de 33 și 38 de ani.\n\n• **Cei doi bărbați nu au dorit inițial să depună plângere și au refuzat transportul la spital.** Poliția a precizat că Tamaș nu a urmat indicațiile agenților și nu a cooperat la fața locului, astfel că a fost încătușat și dus la Secția 27. El a primit o amendă de 2.000 de lei pentru tulburarea ordinii publice.\n\n• **Ulterior, ambele persoane au formulat plângeri penale.** După primele audieri, Tamaș a plecat din București și s-a întors la Brașov. Pe 19 noiembrie a fost adus din nou în Capitală, în baza unui mandat; relatările presei menționează că patru polițiști l-au escortat la Secția 27, unde a ajuns la ora 21:12.\n\n• **După aproximativ două ore de audieri, polițiștii au dispus reținerea sa pentru 24 de ore.** Măsura a fost confirmată de Direcția Generală de Poliție a Municipiului București, care a indicat că au fost avute în vedere probele administrate și plângerile celor doi bărbați. Tamaș este manager executiv la ASA Târgu Mureș.\n\n• **Ancheta vizează suspiciunea de lovire sau alte violențe.** Cercetările se desfășoară sub supravegherea Parchetului de pe lângă Judecătoria Sectorului 3. Tamaș urmează să fie prezentat magistraților; potrivit unor relatări de presă, ar putea fi cerută arestarea preventivă pentru 30 de zile, însă instanța nu a luat încă o decizie.",
+    "importance_score": 93.0,
+    "top_rank": 11,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_b652eeef1c",
     "slug": "uj-van-gogh-rekord-1904-millio-dollarert-kelt-el-a-festmeny-b652ee",
     "tags": [
@@ -1400,74 +1478,6 @@
     "lead_ro": "„Castani în floare” a fost adjudecat cu 190,4 milioane de dolari la licitația Sotheby’s din New York, stabilind un nou record pentru operele lui Van Gogh. Vânzarea a fost precedată de un acord între familiile Fischer și Blaquier-Arrieta privind proveniența lucrării.",
     "content_ro": "• **Preț record și estimare:** La licitația de miercuri, suma finală a ajuns la 190,4 milioane de dolari; prețul de adjudecare a fost de 165 de milioane, diferența reprezentând comisioanele casei de licitații. Lucrarea, estimată la 180 de milioane, a depășit precedentul record al pictorului, de 117,2 milioane de dolari. Acesta fusese stabilit în noiembrie 2022, la Christie’s New York, de tabloul „Livada cu chiparoși”. Pictura se află pe locul al patrulea între operele vândute la licitație pentru cele mai mari sume.\n\n• **Identitatea cumpărătorului nu a fost confirmată:** Sotheby’s nu a dezvăluit cine a achiziționat tabloul. The New York Times l-a indicat drept posibil cumpărător pe comerciantul de artă William Acquavella, informație pe care casa de licitații nu a confirmat-o.\n\n• **Disputa privind proveniența s-a încheiat printr-un acord:** Moștenitorii familiei Fischer au susținut că tabloul ar fi putut fi cedat sub constrângere, în perioada persecuțiilor naziste. Înaintea vânzării, familiile Fischer și Blaquier-Arrieta au ajuns la o înțelegere. Sotheby’s a făcut referire atât la istoria lucrării în perioada nazistă, cât și la suferințele familiei Fischer în timpul Holocaustului.\n\n• **Lucrarea nu a fost expusă publicului timp de peste cinci decenii:** Samuel Fischer a cumpărat-o în 1909, iar după moartea sa, în 1934, pictura a rămas în familie. În 1932 sau 1933 a fost încredințată lui Paul Cassirer, la Amsterdam, iar în 1936 a ajuns la Henriette și Marcel Kapferer, la Paris. După alte patru schimbări de proprietar, a fost cumpărată de familia Blaquier în 1975.\n\n• **Tabloul datează din ultimele luni ale pictorului:** Van Gogh l-a realizat în mai 1890, la Auvers-sur-Oise, cu aproximativ două luni înainte să moară, la 37 de ani. Sotheby’s îl consideră una dintre creațiile importante din acea etapă care se află încă în proprietate privată; operele târzii ale artistului apar rar pe piață.",
     "importance_score": 85.0,
-    "top_rank": 11,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_d3dfd2dbd0",
-    "slug": "gabi-tamasot-24-orara-orizetbe-vettek-a-bukaresti-konfliktus-utan-d3dfd2",
-    "tags": [
-      "gabi-tamas",
-      "bucuresti",
-      "fotbal",
-      "politie"
-    ],
-    "fingerprint": "88dc039b2a903f27d97c8f7382fbe24e",
-    "category": "Bulvár",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 8,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Gabi Tamaș, dus la Poliție după un scandal în Centrul Vechi! Fostul internațional și-a împărțit pumni cu doi bărbați în toiul nopții",
-        "link": "https://adevarul.ro/sport/gabi-tamas-dus-la-politie-dupa-un-scandal-in-2572689.html"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Gabi Tamaș, ÎNCĂTUȘAT » Poliția a oferit detalii uluitoare după scandalul din Capitală",
-        "link": "https://www.gsp.ro/fotbal/liga-1/gabi-tamas-incatusat-comunicatul-politiei-bucuresti-1000739.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Răsturnare de situație. Gabi Tamaș, adus cu mandat de la Brașov la București, cu cătușe la mâini",
-        "link": "https://www.mediafax.ro/social/rasturnare-de-situatie-gabi-tamas-adus-cu-mandat-de-la-brasov-la-bucuresti-cu-catuse-la-maini-23845945"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Gabi Tamaș, adus în cătușe la Secția 27 din Capitală! A fost escortat de 4 polițiști",
-        "link": "https://www.cancan.ro/gabi-tamas-adus-in-catuse-la-sectia-27-din-capitala-a-fost-escortat-de-4-politisti-21550587"
-      },
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "După două ore de audieri, Gabi Tamaș a fost reținut pentru 24h! » Scos în cătușe și escortat de 4 polițiști",
-        "link": "https://www.gsp.ro/fotbal/liga-1/gabi-tamas-retinut-24-ore-politie-1000853.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Fostul internațional Gabi Tamaș, reținut după ce ar fi agresat doi bărbați pe o stradă din Centrul Vechi al Capitalei",
-        "link": "https://www.digi24.ro/stiri/actualitate/fostul-international-gabi-tamas-retinut-dupa-ce-ar-fi-agresat-doi-barbati-pe-o-strada-din-centrul-vechi-al-capitalei-4044993"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Gabi Tamaș a fost reținut",
-        "link": "https://www.mediafax.ro/social/gabi-tamas-a-fost-retinut-23845945"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Gabi Tamaș, implicat într-un scandal în Centrul Vechi! Ar fi fost bătut de doi bărbați",
-        "link": "https://www.cancan.ro/gabi-tamas-implicat-intr-un-scandal-in-centrul-vechi-ar-fi-fost-batut-de-doi-barbati-21550147"
-      }
-    ],
-    "published_at": 1795124973,
-    "title_hu": "Gabi Tamașot 24 órára őrizetbe vették a bukaresti konfliktus után",
-    "lead_hu": "A bukaresti óvárosban történt, két férfit érintő incidens miatt Gabi Tamașot november 19-én ismét a fővárosba vitték, majd kihallgatása után 24 órára őrizetbe vették. A két férfi időközben feljelentést tett; a korábbi rendőrségi intézkedéskor még nem kívántak büntetőeljárást kezdeményezni.",
-    "content_hu": "• **A konfliktus november 18-án, hajnali fél négy körül történt** Bukarest 3. kerületében, az Óváros egyik utcáján. A rendőrséget 112-es segélyhívással értesítették egy három ember közötti összetűzésről; a hatóságok szerint a 43 éves Tamaș két férfit, egy 33 és egy 38 éves személyt bántalmazhatott.\n\n• **A helyszínen a két férfi még nem akart feljelentést tenni, és kórházba sem mentek.** A rendőrség szerint Tamaș nem követte az intézkedő rendőrök utasításait, ezért megbilincselték és a 27-es rendőrőrsre vitték. A közrend megzavarása miatt 2000 lejes bírságot szabtak ki rá.\n\n• **A két érintett később büntetőfeljelentést tett.** Az első meghallgatást követően Tamaș elhagyta Bukarestet és Brassóba utazott; november 19-én elfogatóparancs alapján visszavitték a fővárosba. A sajtóbeszámolók szerint négy rendőr kísérte a 27-es rendőrőrsre, ahová este 21:12-kor érkezett.\n\n• **Körülbelül kétórás kihallgatás után 24 órára őrizetbe vették.** Ezt a bukaresti rendőrség is megerősítette, és közölte, hogy a döntést a nyomozás során összegyűjtött bizonyítékok, valamint a két feljelentés alapján hozták meg. Tamaș az ASA Marosvásárhely ügyvezetőjeként dolgozik.\n\n• **Az ügyben bántalmazás vagy más erőszakos cselekmény gyanúja miatt folyik nyomozás.** Az eljárás a 3. kerületi bíróság mellett működő ügyészség felügyeletével zajlik. Tamașot bírák elé tervezik állítani; sajtóértesülés szerint felmerülhet a 30 napos előzetes letartóztatás indítványozása, de erről még nem született bírósági döntés.",
-    "title_ro": "Gabi Tamaș, reținut pentru 24 de ore după conflictul din București",
-    "lead_ro": "După incidentul din Centrul Vechi al Bucureștiului, Gabi Tamaș a fost adus din nou în Capitală pe 19 noiembrie și reținut pentru 24 de ore, în urma audierilor. Cei doi bărbați implicați au depus între timp plângeri penale, deși inițial nu solicitaseră acest lucru.",
-    "content_ro": "• **Conflictul s-a produs pe 18 noiembrie, în jurul orei 03:30**, pe o stradă din Sectorul 3 al Bucureștiului. Polițiștii au fost alertați printr-un apel la 112 despre o altercație între trei persoane; potrivit autorităților, Tamaș, în vârstă de 43 de ani, i-ar fi agresat pe doi bărbați de 33 și 38 de ani.\n\n• **Cei doi bărbați nu au dorit inițial să depună plângere și au refuzat transportul la spital.** Poliția a precizat că Tamaș nu a urmat indicațiile agenților și nu a cooperat la fața locului, astfel că a fost încătușat și dus la Secția 27. El a primit o amendă de 2.000 de lei pentru tulburarea ordinii publice.\n\n• **Ulterior, ambele persoane au formulat plângeri penale.** După primele audieri, Tamaș a plecat din București și s-a întors la Brașov. Pe 19 noiembrie a fost adus din nou în Capitală, în baza unui mandat; relatările presei menționează că patru polițiști l-au escortat la Secția 27, unde a ajuns la ora 21:12.\n\n• **După aproximativ două ore de audieri, polițiștii au dispus reținerea sa pentru 24 de ore.** Măsura a fost confirmată de Direcția Generală de Poliție a Municipiului București, care a indicat că au fost avute în vedere probele administrate și plângerile celor doi bărbați. Tamaș este manager executiv la ASA Târgu Mureș.\n\n• **Ancheta vizează suspiciunea de lovire sau alte violențe.** Cercetările se desfășoară sub supravegherea Parchetului de pe lângă Judecătoria Sectorului 3. Tamaș urmează să fie prezentat magistraților; potrivit unor relatări de presă, ar putea fi cerută arestarea preventivă pentru 30 de zile, însă instanța nu a luat încă o decizie.",
-    "importance_score": 83.0,
     "top_rank": 12,
     "is_top_hero": false,
     "is_top_list": true
@@ -3421,6 +3431,49 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_f5ac88c8b1",
+    "slug": "a-neptun-deep-2027-tol-erositheti-romania-gazpiaci-szerepet-f5ac88",
+    "tags": [
+      "neptun-deep",
+      "foldgaz",
+      "energia",
+      "fekete-tenger"
+    ],
+    "fingerprint": "9490aa81d1df4126b08429075c168564",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Neptun Deep ar putea schimba piața gazelor din Europa de Est. România va deveni un furnizor regional important, estimează SP",
+        "link": "https://www.digi24.ro/stiri/economie/energie/neptun-deep-ar-putea-schimba-piata-gazelor-din-europa-de-est-romania-va-deveni-un-furnizor-regional-important-estimeaza-sp-4045125"
+      },
+      {
+        "source": "G4Media",
+        "title": "Reuters: Gazele românești din Marea Neagră vor fi competitor pentru gazele din SUA și ar putea reduce importurile prin Coridorul Vertical",
+        "link": "https://www.g4media.ro/reuters-gazele-romanesti-din-marea-neagra-vor-fi-competitor-pentru-gazele-din-sua-si-ar-putea-reduce-importurile-prin-coridorul-vertical.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Gazele din Marea Neagră ar putea înlocui o parte din importurile de GNL din SUA. România devine un jucător-cheie în Europa",
+        "link": "https://www.mediafax.ro/economic/gazele-din-marea-neagra-ar-putea-inlocui-o-parte-din-importurile-de-gnl-din-sua-romania-devine-un-jucator-cheie-in-europa-23846448"
+      }
+    ],
+    "published_at": 1795156737,
+    "title_hu": "A Neptun Deep 2027-től erősítheti Románia gázpiaci szerepét",
+    "lead_hu": "A Fekete-tenger alatt fekvő Neptun Deep mező termelése a tervek szerint 2027-ben indulhat, és jelentősen növelheti Románia földgázkínálatát. Az S&P Global Energy elemzése szerint a projekt regionális exportlehetőségeket teremthet, miközben biztonsági kockázatok is övezik.",
+    "content_hu": "• **A Neptun Deep termelése 2027-től válhat meghatározóvá.** Az S&P Global Energy elemzése alapján az új kitermelés Romániát fontos regionális gázszállítóvá teheti. A projekt becsült, kitermelhető készlete mintegy 100 milliárd köbméter, a termelés pedig a romániai gázmennyiség megkétszerezéséhez vezethet.\n\n• **A fejlesztésben az OMV Petrom és a Romgaz működik együtt.** Az OMV többségi tulajdonában álló OMV Petrom és az állami Romgaz közösen valósítja meg a beruházást. A két vállalat eltérő felhasználással számol: a Romgaz hazai gázerőművek és egy műtrágyagyártó ellátására fordítaná a rá jutó mennyiséget.\n\n• **Az OMV Petrom már több külföldi vevővel kötött hosszú távú megállapodást.** A társaság Németországba és a Moldovai Köztársaságba tervez szállítani, más európai országok pedig szintén jelezték érdeklődésüket a román gáz iránt.\n\n• **A román kínálat mérsékelheti a Görögországon át északra továbbított LNG mennyiségét.** Az S&P Global Energy szerint a Neptun Deepből érkező gáz csökkentheti a Görögországból induló, Közép- és Kelet-Európán át Ukrajnáig vezető Vertikális Folyosó használatának szükségességét. Ezen az útvonalon amerikai és más, nem orosz eredetű cseppfolyósított földgáz is halad.\n\n• **A beruházás biztonsági kitettsége is nőhet a Fekete-tenger térségében.** Az elemzés a tengeri támadások erősödését említi kockázatként. Az Európai Bizottság szerint a kitermelés 2027-es elindulása Románia gazdasági növekedését is támogathatja, és hozzájárulhat a külső hiány csökkenéséhez.",
+    "title_ro": "Neptun Deep ar putea consolida rolul României pe piața gazelor din 2027",
+    "lead_ro": "Producția zăcământului Neptun Deep din Marea Neagră este prevăzută să înceapă în 2027 și ar putea majora considerabil oferta de gaze a României. Potrivit unei analize S&P Global Energy, proiectul ar putea deschide noi oportunități de export, dar este expus și unor riscuri de securitate.",
+    "content_ro": "• **Producția Neptun Deep ar putea deveni importantă începând din 2027.** Analiza S&P Global Energy estimează că noile volume ar putea transforma România într-un furnizor regional major. Rezervele recuperabile ale perimetrului sunt evaluate la aproximativ 100 de miliarde de metri cubi, iar exploatarea ar putea dubla producția națională de gaze.\n\n• **Proiectul este realizat de OMV Petrom și Romgaz.** OMV Petrom, controlată majoritar de compania austriacă OMV, dezvoltă zăcământul împreună cu producătorul de stat Romgaz. Cele două companii au în vedere destinații diferite pentru gaz: Romgaz ar folosi partea sa pentru centrale electrice pe gaz din România și pentru aprovizionarea unui producător de îngrășăminte.\n\n• **OMV Petrom are deja acorduri de livrare pe termen lung în afara țării.** Compania a contractat furnizări către Germania și Republica Moldova. Și alte state europene au manifestat interes pentru gazul românesc.\n\n• **Producția internă suplimentară ar putea reduce transportul unor cantități de GNL prin Grecia.** Potrivit analizei, gazele din România ar putea diminua volumele trimise spre nord pe Coridorul Vertical, rută care pornește din Grecia, traversează Europa Centrală și de Est și ajunge în Ucraina. Infrastructura este folosită și pentru transportul gazului lichefiat din SUA și din alte surse non-rusești.\n\n• **Riscurile de securitate din Marea Neagră pot afecta proiectul.** Analiza indică intensificarea atacurilor maritime drept un factor de risc. Comisia Europeană a afirmat că pornirea producției în 2027 ar putea susține creșterea economică a României și ar putea contribui la reducerea deficitului extern.",
+    "importance_score": 45.0,
+    "top_rank": 48,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_e889c0683b",
     "slug": "valtozo-homersekleti-es-csapadekviszonyokat-jeleznek-decemberre-e889c0",
     "tags": [
@@ -3459,7 +3512,7 @@
     "lead_ro": "Prognoza ANM indică temperaturi ușor sub valorile obișnuite în România la sfârșitul lunii noiembrie. În decembrie, acestea se vor apropia în general de mediile perioadei, în timp ce precipitațiile vor diferi de la o regiune la alta.",
     "content_ro": "• **În intervalul 23–30 noiembrie, temperaturile sunt estimate ușor sub media perioadei în toate regiunile.** Diferențele față de valorile obișnuite ar putea fi mai pronunțate la munte și în zonele submontane. Vestul și centrul țării pot primi mai multe precipitații decât de obicei; în celelalte zone, cantitățile ar urma să fie apropiate de normal.\n\n• **Între 30 noiembrie și 7 decembrie, sud-estul ar putea avea temperaturi puțin mai scăzute decât cele obișnuite.** În restul țării, valorile termice sunt prognozate în jurul mediilor climatologice. Pentru cea mai mare parte a României este estimat un deficit de precipitații, mai ales în vest, sud și zonele montane aferente.\n\n• **În perioada 7–14 decembrie, temperaturile ar urma să se mențină aproape de normal în cea mai mare parte a țării.** Sudul este singura zonă pentru care se anticipează precipitații ușor peste media obișnuită. În rest, cantitățile estimate se vor situa în apropierea valorilor climatologice.\n\n• **Pentru 14–21 decembrie sunt prognozate temperaturi ușor peste medie în regiunile intracarpatice.** În celelalte zone, valorile ar trebui să fie apropiate de cele specifice perioadei. La nivelul întregii țări, precipitațiile sunt estimate în jurul mediilor climatologice.",
     "importance_score": 45.0,
-    "top_rank": 48,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3503,7 +3556,7 @@
     "lead_ro": "Garry Kasparov consideră înșelătoare comparația dintre întâlnirea de la Shenzhen a lui Trump, Putin și Xi și conferința de la Ialta din 1945. Fostul campion mondial la șah a criticat și modul în care Donald Trump se raportează la Rusia.",
     "content_ro": "• **Kasparov respinge comparația cu Ialta.** El a susținut că întâlnirea de la Shenzhen s-a desfășurat într-un context fundamental diferit de conferința din ultimele luni ale celui de-Al Doilea Război Mondial și că apropierea celor două evenimente nu este justificată.\n\n• **Fostul campion a evidențiat diferențele de putere din 1945.** Potrivit lui, Uniunea Sovietică controla deja o mare parte din Europa de Est, iar deciziile puterilor occidentale au influențat inclusiv situația Poloniei. Armata Roșie avea peste zece milioane de militari; schimbarea raportului de forțe ar fi presupus, în opinia sa, un război între aliații occidentali și URSS.\n\n• **El a invocat evoluția războiului din Ucraina.** Kasparov a afirmat că Rusia nu a obținut progrese decisive acolo în aproape cinci ani și a contestat prezentarea conduitei lui Trump drept un compromis dificil. În interpretarea sa, președintele american a cedat de bunăvoie în fața Moscovei.\n\n• **Kasparov a atribuit motive personale apropierii lui Trump de Putin.** El a susținut că liderul american l-a numit prieten pe președintele rus în căutarea atenției și a aprecierii. Kasparov l-a descris pe Putin drept dictator și l-a învinuit pentru responsabilitatea legată de războiul din Ucraina și de distrugerea orașului Mariupol.\n\n• **Evaluarea sa asupra rezultatului summitului a fost negativă.** Kasparov a apreciat că Trump a plecat de la Shenzhen cu o imagine afectată pentru Statele Unite și cu un document vag referitor la pace. Aceste concluzii reprezintă opiniile lui Kasparov prezentate în articol, nu constatări independente despre întâlnire.",
     "importance_score": 45.0,
-    "top_rank": 49,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3547,7 +3600,7 @@
     "lead_ro": "Președintele american Donald Trump nu a avut o întrevedere cu liderul nord-coreean Kim Jong Un în timpul vizitei sale în Asia. El a invocat un program foarte încărcat, dar a spus că o discuție între cei doi ar putea avea loc ulterior.",
     "content_ro": "• **Întrevederea dintre Trump și Kim nu a mai avut loc în timpul turneului asiatic.** Președintele american a explicat joi că agenda sa nu a permis organizarea discuției. El a precizat că relația dintre cei doi continuă, deși nu s-au văzut cu această ocazie.\n\n• **Trump a lăsat deschisă posibilitatea unei conversații în viitor.** Nu a indicat o dată sau un loc, dar a afirmat că cei doi ar putea discuta cândva. Cu câteva zile înainte, sugerase că o întâlnire neanunțată s-ar putea desfășura în marja summitului APEC.\n\n• **La reuniunea APEC au participat și Xi Jinping, respectiv Vladimir Putin.** O posibilă întâlnire Trump–Kim fusese evocată în legătură cu summitul, însă aceasta nu s-a concretizat. Trump a pus absența unei întrevederi pe seama numeroaselor angajamente din program.\n\n• **Phenianul transmisese anterior că nu dorește reluarea dialogului cu Washingtonul.** La începutul lunii noiembrie, Kim Yo Jong, sora liderului nord-coreean, a declarat că țara sa nu are motive să reia discuțiile cu Statele Unite. Poziția a redus perspectivele unei întâlniri la nivel înalt.\n\n• **În primul său mandat, Trump s-a întâlnit de trei ori cu Kim Jong Un.** Prima discuție a avut loc în Singapore, în 2018, iar în 2019 cei doi s-au văzut la Hanoi și în zona demilitarizată dintre cele două Corei. Întâlnirile anterioare nu au produs progrese concrete privind renunțarea Coreei de Nord la armele nucleare.",
     "importance_score": 45.0,
-    "top_rank": 50,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3590,7 +3643,7 @@
     "lead_ro": "Fiona, hipopotamul cunoscut pe rețelele sociale și aflat la grădina zoologică din Cincinnati, a murit după ce a înghițit o căciulă ajunsă accidental în țarcul ei. Animalul înghițise obiectul cu aproximativ zece zile înainte, iar echipa veterinară a încercat să o trateze de urgență.",
     "content_ro": "• **Fiona a murit în urma unei urgențe medicale provocate de înghițirea căciulii.** Grădina zoologică din Cincinnati a anunțat decesul joi după-amiază. Hipopotamul înghițise obiectul cu aproximativ zece zile mai devreme, iar veterinarii și îngrijitorii au încercat mai multe metode pentru a-i salva viața.\n\n• **Obiectul vestimentar a ajuns accidental în țarcul animalului.** Purtătoarea de cuvânt Michelle Curley a explicat că un vizitator a aruncat căciula în aer, aceasta s-a prins de ventilatorul din tavan și apoi a căzut printr-o deschizătură mică în spațiul Fionei. Potrivit grădinii zoologice, nimeni nu a introdus-o intenționat acolo.\n\n• **Pofta de mâncare a Fionei s-a redus după câteva zile.** Inițial, animalul nu părea grav bolnav, iar îngrijitorii au încurajat-o să mănânce, sperând că obiectul va traversa sistemul digestiv. După agravarea stării, Fiona a primit îngrijiri de urgență.\n\n• **Intervenția chirurgicală nu era considerată o opțiune pentru un hipopotam adult.** Îngrijitorii sperau că organismul Fionei va putea depăși singur situația, iar echipa veterinară a făcut tot ce a putut pentru a o ajuta. Eforturile nu au reușit însă să-i salveze viața.\n\n• **Fiona s-a născut prematur în 2017, cântărind 13 kilograme.** Venită pe lume la grădina zoologică din Cincinnati, a avut dificultăți de supraviețuire la începutul vieții, iar mai târziu a devenit cunoscută pe rețelele sociale. Directorul Dave Jenike a vorbit despre eforturile personalului și despre șocul provocat de moartea ei.",
     "importance_score": 45.0,
-    "top_rank": 51,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3634,7 +3687,7 @@
     "lead_ro": "Traficul pe DN13B, între Praid și Gheorgheni, în județul Harghita, a fost oprit după ce mai mulți copaci au căzut pe carosabil. În zonă este în vigoare o avertizare de cod roșu pentru vânt puternic.",
     "content_ro": "• **Întregul tronson al DN13B dintre Praid și Gheorgheni a fost închis circulației.** Potrivit Direcției Regionale de Drumuri și Poduri Brașov, restricția privește porțiunea cuprinsă între kilometrii 0+000 și 51+051, aflată în județul Harghita.\n\n• **Copacii prăbușiți pe drum au făcut imposibilă trecerea vehiculelor.** Instituția a indicat că arborii au fost doborâți de vântul puternic. Traficul rămâne suspendat până când carosabilul va putea fi eliberat.\n\n• **Drumarii și pompierii intervin pentru îndepărtarea obstacolelor.** Echipele lucrează la degajarea șoselei, astfel încât circulația să poată fi reluată în siguranță. La momentul informării, reprezentanții direcției estimau că operațiunea ar putea fi încheiată până la ora 10:00.\n\n• **Pentru zonă este valabilă o avertizare de cod roșu de vânt.** Închiderea drumului a fost anunțată de Direcția Regională de Drumuri și Poduri Brașov. Ora 10:00 reprezenta estimarea privind intervenția, nu o confirmare a momentului în care restricția urma să fie ridicată.",
     "importance_score": 45.0,
-    "top_rank": 52,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3678,7 +3731,7 @@
     "lead_ro": "Până vineri la ora 10 este în vigoare o avertizare de cod roșu pentru întregul județ Vrancea și pentru zonele montane. În mai multe regiuni sunt anunțate și coduri portocalii sau galbene, iar în Vrancea școlile vor desfășura cursurile online.",
     "content_ro": "• **Codul roșu rămâne valabil până vineri la ora 10 în Vrancea și la munte.** În zone întinse ale județului, vântul poate depăși 90 km/h. La peste 1.200 de metri altitudine sunt posibile rafale de 120–140 km/h, care pot trece și de aceste valori.\n\n• **Mai multe județe din vest intră sub cod portocaliu joi seara.** În zonele joase din Caraș-Severin, Timiș, Arad, Bihor, Hunedoara și Alba sunt prognozate rafale de 70–90 km/h. În Carpații Occidentali și Meridionali, viteza poate ajunge la 100–110 km/h, iar la altitudini mari, la 120–140 km/h.\n\n• **Vineri dimineață, avertizarea portocalie vizează mai multe regiuni din nord, vest și centru.** Sunt incluse Transilvania, Maramureșul, nordul Crișanei, vestul și nordul Moldovei, precum și zonele montane aflate între 800 și 1.200 de metri. Rafalele pot atinge 70–90 km/h, respectiv 100–130 km/h la munte.\n\n• **În Vrancea, vremea afectează programul unităților de învățământ.** Toate școlile din județ vor ține cursurile online până vineri la prânz, iar creșele din Focșani vor fi închise. La Timișoara, vijelia a doborât mai mulți arbori.\n\n• **Vineri vor fi active și avertizări de cod galben.** În prima parte a zilei sunt vizate Banatul, sudul Crișanei, Oltenia, Muntenia, Dobrogea și estul Moldovei, iar ulterior și alte zone, între care Maramureșul, Transilvania și Moldova. Autoritățile recomandă amânarea activităților în aer liber și a lucrului la înălțime, precum și evitarea parcării lângă copaci, stâlpi electrici sau panouri publicitare.",
     "importance_score": 45.0,
-    "top_rank": 53,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3726,7 +3779,7 @@
     "lead_ro": "Volodimir Zelenski a ajuns la Berlin pentru reuniunea Coaliției de Voință, la care participă reprezentanți ai peste 40 de parteneri. Discuțiile vizează sprijinul militar și financiar pentru Ucraina, garanțiile de securitate și rolul Europei în negocierile pentru încheierea războiului.",
     "content_ro": "• **Volodimir Zelenski a sosit la Berlin pe 19 noiembrie** pentru o nouă reuniune a Coaliției de Voință. La întâlnire sunt reprezentate peste 40 de țări și parteneri, iar gazda este guvernul german. Printre liderii participanți se află președintele României, Nicușor Dan, și președinta Republicii Moldova, Maia Sandu.\n\n• **Ucraina solicită consolidarea apărării antiaeriene și sprijin energetic și financiar.** Zelenski a inclus pe agenda discuțiilor și demersurile diplomatice, precum și pașii necesari pentru încheierea războiului. Sunt prevăzute întâlniri cu parteneri europeni, cu cancelarul Friedrich Merz și cu reprezentanți ai Statelor Unite.\n\n• **Garanțiile de securitate și participarea Europei la negocieri se numără printre temele centrale.** Friedrich Merz, Emmanuel Macron și premierul britanic Andy Burnham, inițiatorii coaliției, urmăresc coordonarea pozițiilor. Ei susțin implicarea europeană în discuțiile de pace și stabilirea unor garanții occidentale pentru Ucraina după încheierea conflictului.\n\n• **Steve Witkoff și Jared Kushner participă din partea americană.** Reuniunea din capitala Germaniei are loc după întâlnirea trilaterală de la Shenzhen. Nicușor Dan urmează să susțină că orice acord trebuie să țină cont de interesele legitime de securitate ale Europei și că o pace durabilă presupune restabilirea securității la Marea Neagră.\n\n• **Vladimir Putin a pus sub semnul întrebării implicarea europenilor în negocieri.** Liderul rus a afirmat că aceștia ar putea să își stabilească poziția la Moscova, urmând ca ulterior să fie decis formatul dialogului. El a susținut că trebuie discutate condițiile unei încetări a ostilităților și ale unei păci de durată.",
     "importance_score": 45.0,
-    "top_rank": 54,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3774,7 +3827,7 @@
     "lead_ro": "Teatrul Național „I.L. Caragiale” din București a anunțat joi că a încheiat colaborarea cu regizorul Felix Alexa. Măsura a intrat în vigoare la 17 noiembrie, după ce mai multe femei îl acuzaseră anterior de hărțuire și abuz sexual, acuzații respinse de regizor.",
     "content_ro": "• **Teatrul Național din București a încheiat contractul cu Felix Alexa:** instituția a comunicat joi că relația contractuală cu regizorul s-a terminat la 17 noiembrie. Alexa fusese angajat în octombrie 2026, pe perioadă determinată, pentru montarea spectacolului „Tartuffe”.\n\n• **Repetițiile producției au fost oprite pe 10 noiembrie:** potrivit teatrului, lucrul la spectacol a fost suspendat în contextul controversei legate de regizor. Din distribuția planificată urmau să facă parte Marius Manole, Maia Morgenstern, Marius Bodochi, Alexandru Potocean, Emilia Popescu, Fulvia Folosea, Andrei Calu și Marcelo Cobzariu.\n\n• **Acuzațiile la adresa regizorului au fost relatate anterior:** o investigație RISE Project din 2022 a prezentat mărturii ale unor foste studente, care au vorbit despre hărțuire sexuală, amenințări și presiuni profesionale. Alexa a negat acuzațiile și a descris relațiile cu fostele studente drept legături sentimentale.\n\n• **O fostă parteneră a relatat, de asemenea, comportamente abuzive:** aceasta a susținut că regizorul i-a trimis mesaje și e-mailuri insistente, i-a deteriorat ușa locuinței și i-a tăiat anvelopele mașinii. Alexa a contestat relatarea, afirmând că incidentul a fost prezentat fără contextul său complet.\n\n• **Angajarea fusese justificată anterior prin experiența profesională a regizorului:** directoarea Ada Hausvater a menționat că Alexa a montat 21 de spectacole la instituție între 1991 și 2025. UNATC a desfășurat o anchetă în legătură cu acuzațiile, însă cazul a fost închis, iar regizorul continuă să predea la universitate.",
     "importance_score": 45.0,
-    "top_rank": 55,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3823,7 +3876,7 @@
     "lead_ro": "Curtea Internațională de Justiție a concluzionat că Myanmar a comis genocid împotriva minorității rohingya. Gambia a inițiat cazul în 2019, iar hotărârea se referă la acțiunile militare desfășurate în 2017.",
     "content_ro": "• **Curtea Internațională de Justiție a stabilit că Myanmar poartă răspunderea pentru genocidul împotriva rohingya.** Gambia a deschis procedura în 2019, susținând că ofensiva militară din Myanmar a urmărit distrugerea acestei minorități musulmane.\n\n• **Hotărârea descrie abuzuri grave comise de forțele de securitate.** Președintele instanței, Yuji Iwasawa, a menționat uciderea a mii de civili, violențe sexuale, agresiuni împotriva copiilor și atacuri asupra rohingya care încercau să ajungă în Bangladesh.\n\n• **Judecătorii au identificat intenția de a distruge o parte substanțială a grupului.** Potrivit deciziei, în timpul operațiunilor din 2017, Myanmar știa sau ar fi trebuit să cunoască riscul serios de comitere a genocidului.\n\n• **Instanța a consemnat și acțiuni care ar fi vizat înlăturarea probelor.** Constatările includ arderea sau îndepărtarea cadavrelor și distrugerea locurilor asociate operațiunilor. Curtea a cerut facilitarea întoarcerii în siguranță și cu demnitate a rohingya strămutați, precum și reunirea familiilor.\n\n• **Decizia are o semnificație neobișnuită în dreptul internațional.** Potrivit relatării, aceasta este a treia hotărâre a Curții Internaționale de Justiție într-un dosar de genocid și prima prin care un stat este găsit răspunzător pentru o asemenea crimă. Cel puțin 730.000 de rohingya au fugit din Myanmar.",
     "importance_score": 45.0,
-    "top_rank": 56,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3872,7 +3925,7 @@
     "lead_ro": "La 20 noiembrie, Guvernul va analiza stadiul pregătirii bugetului pentru 2027 și calendarul acestuia. Ministrul Finanțelor, Alexandru Nazare, nu a anunțat deocamdată nici procentul unei eventuale indexări a pensiilor, nici data aplicării.",
     "content_ro": "• **Pregătirea bugetului pentru 2027 a ajuns în faza finală:** ministerele și celelalte instituții cu alocări bugetare au introdus datele în platforma electronică. În ședința din 20 noiembrie, Guvernul va examina o primă evaluare și calendarul estimat pentru adoptarea bugetului.\n\n• **Nu există încă o decizie privind indexarea pensiilor:** Alexandru Nazare nu a indicat nici valoarea majorării, nici momentul de la care aceasta ar putea intra în vigoare. Propunerile cu efect semnificativ asupra cheltuielilor urmează să fie discutate de Guvern împreună cu premierul.\n\n• **Măsurile analizate vor depinde de resursele bugetare disponibile:** Executivul trebuie să țină cont de traiectoria de reducere a deficitului pentru 2027 și pentru anii următori. Înaintea unei hotărâri, va fi evaluat impactul financiar al propunerilor înaintate.\n\n• **Surse guvernamentale citate de presă au indicat o posibilă creștere de cel mult 7%,** însă ministrul nu a confirmat această estimare. Potrivit informațiilor relatate, nivelul final ar urma să depindă de capacitatea financiară a țării; și eventualele modificări salariale se află în discuție.\n\n• **Datoria publică a trecut de pragul de 60% din PIB:** Guvernul va analiza efectele acestei evoluții, iar printre opțiunile menționate se numără și o derogare de la legea responsabilității fiscal-bugetare. În același timp, România trebuie să ia în calcul angajamentele asumate în dialogul cu instituțiile europene pentru corectarea deficitului.",
     "importance_score": 45.0,
-    "top_rank": 57,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3921,7 +3974,7 @@
     "lead_ro": "Guvernul britanic ar urma să anunțe joi, la reuniunea de la Berlin a Coaliției Voinței, un pachet de sprijin militar în valoare de 260 de milioane de lire sterline. Acesta ar putea include drone de atac capabile să ajungă la unele ținte din Rusia aflate la peste o mie de kilometri.",
     "content_ro": "• **Pachetul valorează 260 de milioane de lire sterline:** premierul britanic Andy Burnham ar urma să îl prezinte joi, la Berlin. Potrivit relatărilor anterioare, o parte însemnată din fonduri ar urma să fie cheltuită în Regatul Unit.\n\n• **Ucraina ar putea primi peste o mie de drone de atac cu rază lungă:** unele ar putea parcurge mai mult de 1.000 de kilometri, aproximativ distanța dintre Londra și Berlin. Relatarea menționează că aparatele pot transporta focoase cu o mare capacitate distructivă.\n\n• **Dronele ar putea lovi obiective militare aflate departe de linia frontului:** printre acestea s-ar putea număra facilități implicate în producția militară rusă. Burnham a prezentat ajutorul drept o modalitate de a consolida apărarea Ucrainei în fața atacurilor rusești asupra infrastructurii esențiale.\n\n• **Pachetul ar putea include și aparate pentru alte misiuni:** informațiile anterioare au indicat drone maritime, de recunoaștere și logistice. Cele din urmă pot sprijini aprovizionarea militarilor, inclusiv prin transportul de materiale medicale sau echipamente care trebuie păstrate la rece; calendarul livrărilor nu este precizat.\n\n• **Reuniunea de la Berlin are loc în paralel cu discuții internaționale:** Donald Trump intenționează să abordeze, în timpul vizitei în China, limitarea armamentului nuclear și încheierea războiului din Ucraina cu Vladimir Putin și Xi Jinping. Eficiența atacurilor ucrainene cu rază lungă a fost criticată anterior de un oficial american, iar ministrul german al apărării, Boris Pistorius, a respins acele obiecții.",
     "importance_score": 45.0,
-    "top_rank": 58,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3969,7 +4022,7 @@
     "lead_ro": "Propunerea legislativă B643/2026 ar elimina, în anumite condiții, impozitul pe clădire și teren pentru locuința folosită ca domiciliu. Măsura ar putea intra în vigoare în 2028, iar proiectul stabilește limite de valoare și de suprafață, precum și reguli pentru schimbarea locuinței.",
     "content_ro": "• **Facilitatea ar viza o singură locuință folosită ca domiciliu:** proiectul B643/2026, depus la Senat, propune scutirea persoanelor fizice de impozitul pe clădire și teren pentru casa sau apartamentul în care locuiesc. Inițiativa este semnată de zece deputați, nouă de la SOS România și unul de la UPR; principala inițiatoare este Ana-Marcela Baș.\n\n• **Eligibilitatea s-ar verifica la sfârșitul anului anterior:** solicitantul ar trebui să aibă domiciliul în imobil și rezidență fiscală în România. Nu ar putea deține o altă locuință în țară sau în străinătate, nici individual, nici în coproprietate, și nu ar trebui să fi avut o altă locuință în proprietate în ultimii cinci ani.\n\n• **Schimbarea locuinței ar permite o suprapunere de cel mult un an:** proprietarul ar putea păstra temporar atât vechea, cât și noua locuință, dacă o vinde pe cea veche în maximum 12 luni. Pentru imobilele aflate în coproprietate, scutirea s-ar acorda doar dacă toți coproprietarii respectă criteriile.\n\n• **Proiectul limitează valoarea proprietății și suprafața terenului:** plafonul ar fi de 350.000 de euro pentru apartamente și 400.000 de euro pentru case. La apartamente, calculul valorii de referință ar include cota de teren și părțile comune. Terenul aferent ar putea avea cel mult 500 de metri pătrați în mediul urban și 1.500 în mediul rural.\n\n• **Aplicarea este prevăzută, în prezent, pentru 2028:** dacă proiectul va fi adoptat, scutirea s-ar referi la impozitul pe clădire și terenul aferent. Măsura ar putea influența veniturile administrațiilor locale, însă deocamdată este doar o propunere legislativă, nu o regulă în vigoare.",
     "importance_score": 43.0,
-    "top_rank": 59,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4018,7 +4071,7 @@
     "lead_ro": "La Berlin, Jared Kushner a declarat că Statele Unite ar putea accepta garanții pentru Ucraina similare mecanismului din articolul 5 al NATO. Emisarul american a susținut că partea rusă ar fi acceptat discutarea acestui principiu.",
     "content_ro": "• **Jared Kushner a prezentat la Berlin poziția administrației americane privind garanțiile pentru Ucraina.** Emisarul special al lui Donald Trump a participat joi, alături de Steve Witkoff, la reuniunea Coaliției Voinței pentru Ucraina și a vorbit ulterior cu presa.\n\n• **Washingtonul ar putea lua în considerare garanții inspirate de articolul 5 al NATO.** Potrivit lui Kushner, Trump este deschis unei asemenea opțiuni, însă aceasta ar trebui să corespundă și intereselor Statelor Unite.\n\n• **Kushner a descris drept progres faptul că, în opinia sa, Rusia ar fi acceptat principiul.** El a afirmat că garanțiile de securitate pentru Ucraina ar putea fi construite după modelul articolului 5, prezentând acest lucru ca rezultat al discuțiilor purtate.\n\n• **Kievul cere măsuri care să descurajeze o nouă ofensivă rusă în cazul încheierii unui acord de pace.** Ucraina urmărește obținerea unor astfel de garanții după invazia pe scară largă începută de Rusia în februarie 2022.\n\n• **Donald Trump a discutat telefonic cu liderii prezenți la reuniunea din capitala Germaniei.** Kushner a declarat că președintele american urmărește, împreună cu partenerii europeni, încheierea unui acord privind Ucraina.",
     "importance_score": 43.0,
-    "top_rank": 60,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4067,7 +4120,7 @@
     "lead_ro": "Fosta campioană mondială și europeană la gimnastică a intrat în USR Prahova și urmează să fie cooptată în conducerea organizației județene. Ungureanu vrea să contribuie la dezvoltarea sportului și spune că experiențele politice anterioare i-au oferit lecții importante.",
     "content_ro": "• **Ungureanu va avea un rol și în conducerea județeană a USR.** Fosta campioană mondială și europeană, care lucrează ca antrenoare, s-a înscris în organizația din Prahova. Felix Bulearcă, președintele filialei, a anunțat joi, la o conferință de presă, că au fost începute demersurile pentru cooptarea ei în Biroul Județean, unde experiența sa ar urma să fie valorificată.\n\n• **PSD, UNPR și PNL se numără printre formațiunile în care a fost înscrisă anterior.** Ungureanu a descris acele experiențe politice ca fiind de scurtă durată. În opinia sa, promisiunile făcute la intrarea în partide nu au dus la luarea în considerare a propunerilor sale pentru sport, iar singură nu a putut produce schimbări concrete.\n\n• **Sportiva spune că acum are mai multă experiență și maturitate pentru implicarea publică.** Ea consideră că în anii trecuți îi lipsea pregătirea necesară pentru a obține rezultate concrete. A mai subliniat că sportul este un domeniu complex, în care e nevoie de o echipă care să îi înțeleagă specificul; o singură persoană nu poate rezolva problemele de una singură.\n\n• **Infrastructura insuficientă și lipsa antrenorilor sunt principalele dificultăți ale sportului.** Ungureanu a pus accent pe gimnastică și a vorbit despre activitatea desfășurată la propriul club și la secția de gimnastică a acestuia. Potrivit ei, după o perioadă îndelungată, în prezent au fost obținute rezultate foarte bune.",
     "importance_score": 43.0,
-    "top_rank": 61,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4115,7 +4168,7 @@
     "lead_ro": "Predicția Click! pentru 20 noiembrie adaugă recomandări despre sănătate și bani temelor legate de relații și serviciu din rezumatul anterior. Previziunile diferă în funcție de zodie și variază de la păstrarea rutinei până la evoluția profesională.",
     "content_ro": "• **Odihna și sănătatea rămân teme importante.** Previziunile anterioare pentru 19 și 20 noiembrie recomandau relaxare, somn regulat și reducerea stresului. Noul horoscop pentru ziua de 20 le sugerează Taurilor să urmărească nivelul colesterolului și să aibă o alimentație variată; pentru o altă zodie este menționată notarea alimentelor consumate. Păstrarea rutinei și continuarea activităților obișnuite sunt, de asemenea, recomandate.\n\n• **În relații sunt evidențiate atenția, medierea și noile cunoștințe.** Rezumatul anterior punea accent pe comunicarea sinceră și evitarea conflictelor. Potrivit previziunii din 20 noiembrie, Berbecii pot căuta apreciere în cercul social, iar Taurii ar putea întâlni un posibil partener printre persoane neobișnuite și originale. Gemenii pot contribui la împăcarea celor din jur, iar Racii sunt îndemnați să nu tragă concluzii pripite despre oamenii abia cunoscuți.\n\n• **La serviciu contează evoluția atentă și pașii bine calculați.** Recomandările precedente vizau colaborarea, prioritizarea sarcinilor și recunoașterea greșelilor. Noul horoscop îi sfătuiește pe Berbeci să respecte etapele de lucru, iar Racilor le propune să ia în calcul o schimbare care le-ar putea consolida poziția profesională. Pentru Gemeni, negocierile și căutarea de informații pot contribui la creșterea veniturilor.\n\n• **Prudența financiară este asociată și cu posibilitatea de a ajuta un prieten.** Rezumatul inițial recomanda verificarea ofertelor și a investițiilor. Predicția pentru 20 noiembrie menționează, pentru una dintre zodii, o cheltuială neașteptată și o solicitare de sprijin financiar din partea unui amic. Alți nativi ar putea avea de discutat cu parteneri de afaceri dificili, într-o manieră diplomatică, dar fără să renunțe la distanța necesară.\n\n• **Recomandările individuale includ și menținerea obiceiurilor zilnice.** Horoscopul îi îndeamnă pe Lei să amâne schimbările și să aleagă activități familiare, iar pentru Fecioare subliniază importanța respectării planurilor altora. Schimbarea de imagine pentru Raci, noile prietenii pentru Fecioare și programul încărcat al acestora, menționate în rezumatul din 19 noiembrie, rămân teme specifice previziunilor anterioare.",
     "importance_score": 43.0,
-    "top_rank": 62,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4163,7 +4216,7 @@
     "lead_ro": "Sorin Grindeanu afirmă că PSD susține integral majorarea pensiilor în 2027, iar din perspectiva partidului șansele sunt de 100%. Procentul de 7,3–7,4% și modalitatea de aplicare urmează însă să fie stabilite în negocierile pentru bugetul de anul viitor.",
     "content_ro": "• **PSD susține integral majorarea pensiilor din 2027, potrivit lui Grindeanu.** În interviul acordat Digi24, liderul partidului a invocat aplicarea legislației în vigoare și a spus că social-democrații vor sprijini măsura și în discuțiile privind bugetul.\n\n• **Grindeanu a indicat o susținere de 100% din partea partidului, nu o decizie finală.** Întrebat despre o posibilă indexare de 7,3–7,4%, el a prezentat această cotă ca poziție a PSD. Valoarea efectivă și modul de aplicare nu sunt încă stabilite.\n\n• **Situația pensionarilor cu venituri mici și medii a fost evidențiată.** Grindeanu a afirmat că majoritatea pensionarilor din România se încadrează în aceste categorii și că nevoile lor trebuie luate în calcul la elaborarea bugetului pentru 2027.\n\n• **Liderul PSD a fost întrebat și despre eventuale piedici bugetare.** El nu se așteaptă ca ministrul Finanțelor sau constrângerile bugetare să blocheze măsura și a apreciat că nimeni nu ar dori să o împiedice. Decizia privind procentul și aplicarea va depinde de negocierile bugetare.\n\n• **Reprezentanții guvernamentali anticipează o creștere, însă procentul rămâne deschis.** Premierul Luca Niculescu a anunțat o majorare în 2027 fără să precizeze o cotă, iar ministrul Muncii, Florin Manole, a considerat probabilă o indexare de 7,3% pe 10 noiembrie. Valoarea punctului de pensie este neschimbată de doi ani, iar inflația a redus puterea de cumpărare.",
     "importance_score": 43.0,
-    "top_rank": 63,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4201,7 +4254,7 @@
     "lead_ro": "Pe 19 noiembrie, un autoturism a fost lovit de un tren de călători în apropiere de comuna Florești, județul Prahova. O femeie de 26 de ani și fiica ei, în vârstă de trei ani și jumătate, au murit, iar mai multe trenuri dinspre Brașov au acumulat întârzieri importante.",
     "content_ro": "• **Accidentul s-a produs în zona Cap Roșu, din comuna prahoveană Florești:** un tren de călători care circula de la Galați spre Brașov a intrat în coliziune cu un autoturism. Femeia de 26 de ani a rămas prinsă în mașină și a fost declarată decedată la fața locului. Fiica sa, în vârstă de trei ani și șase luni, a fost găsită în afara vehiculului; manevrele de resuscitare nu au avut rezultat.\n\n• **În tren se aflau aproximativ 200 de călători, iar niciunul nu a avut nevoie de îngrijiri medicale**, potrivit informațiilor inițiale. Polițiștii și specialiștii feroviari au început cercetările pentru a stabili cum a ajuns autoturismul pe calea ferată și care au fost cauzele impactului.\n\n• **Circulația feroviară dintre Brașov și București a fost afectată:** joi, 19 noiembrie, mai multe trenuri care veneau dinspre Brașov au înregistrat întârzieri. Trenul InterRegio 16570, programat să ajungă la 14:30, avea o întârziere de 220 de minute; garnitura 16592 întârzia cu 155 de minute, iar trenul 11534 cu 125 de minute.\n\n• **Pentru unele trenuri care se îndreptau spre capitală, întârzierile au ajuns la câteva ore.** Datele publicate pentru călători indicau modificări semnificative ale orelor de sosire. Ancheta privind accidentul continuă; sursa nu consemnează o concluzie despre responsabilitate sau despre motivul pentru care autoturismul a ajuns pe linia ferată.",
     "importance_score": 40.0,
-    "top_rank": 64,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4250,7 +4303,7 @@
     "lead_ro": "Spitalul Județean de Urgență din Miercurea-Ciuc a realizat prima intervenție de chirurgie generală asistată robotic, folosind sistemul DaVinci. Pacientul, un bărbat de 62 de ani cu o tumoră în partea dreaptă a colonului, s-a recuperat rapid și se află în convalescență la domiciliu.",
     "content_ro": "• **Spitalul a folosit pentru prima dată un sistem robotic într-o intervenție de chirurgie generală.** Operația a fost efectuată unui bărbat de 62 de ani, diagnosticat cu o tumoră în partea dreaptă a colonului. Echipa a utilizat sistemul DaVinci modular, cu patru brațe.\n\n• **Intervenția a fost condusă de dr. László Barna, cu participarea dr. Lőkös Barna Csaba.** Supravegherea de specialitate a fost asigurată de chirurgul dr. Hassan Noor, venit de la Sibiu. Din echipa operatorie au făcut parte Márta Tamás și Emőke Andrási, iar anestezia a fost administrată de dr. Helga Márton, cu sprijinul asistentei Anna Mária Halmágyi.\n\n• **Potrivit spitalului, operația s-a încheiat fără complicații.** Pacientul a putut să se ridice și să se mobilizeze în ziua următoare, iar evoluția recuperării a fost favorabilă. El continuă convalescența acasă. Instituția arată că chirurgia robotică minim invazivă poate reduce durerea postoperatorie și riscul unor complicații și poate scurta recuperarea.\n\n• **Sistemul robotic a fost achiziționat printr-un proiect de dezvoltare a infrastructurii oncologice.** Programul este derulat în parteneriat cu Consiliul Județean Harghita și beneficiază de finanțare europeană. Valoarea totală este de 24.879.500 de lei, iar contribuția proprie se ridică la 497.590 de lei.\n\n• **Spitalul a programat pentru 4 decembrie o nouă intervenție colorectală asistată robotic.** Deocamdată, tehnologia este destinată operațiilor pentru tumori ale colonului și rectului. Pot fi luați în considerare pacienții considerați operabili în urma investigațiilor și pentru care comisia oncologică recomandă tratament chirurgical. În prezent, doi chirurgi generaliști urmează pregătire în chirurgia robotică.",
     "importance_score": 40.0,
-    "top_rank": 65,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4299,7 +4352,7 @@
     "lead_ro": "Larry Poindexter a decedat la 66 de ani, după ce a fost lovit de o mașină în Los Angeles. Într-o carieră de peste patru decenii, a jucat atât în filme, cât și în numeroase producții de televiziune.",
     "content_ro": "• **Larry Poindexter a murit pe 18 noiembrie, la vârsta de 66 de ani.** Cu patru zile și jumătate mai devreme, pe 13 noiembrie, fusese lovit de un automobil în timp ce traversa strada în cartierul Studio City din Los Angeles. Actorul a fost dus la spital cu coaste fracturate.\n\n• **Starea sa s-a înrăutățit brusc înaintea unei intervenții chirurgicale.** Operația era programată pentru ziua decesului, însă medicii au constatat o agravare în orele precedente. Cauza oficială a morții nu a fost făcută publică.\n\n• **Cariera sa de actor s-a întins pe mai bine de patru decenii, cu apariții în aproape 200 de filme și seriale.** Unul dintre rolurile sale cunoscute a fost căpitanul de poliție Tom Fuller din filmul S.W.A.T., lansat în 2003, în care a jucat alături de Samuel L. Jackson.\n\n• **Poindexter a avut mai multe roluri de durată în seriale de televiziune.** În Days of Our Lives l-a interpretat mai întâi pe Ben Welch, apoi pe părintele Louis, iar în Santa Barbara a apărut în 23 de episoade. A avut un rol recurent în JAG și a făcut parte din distribuția principală a comediei MTV The Hard Times of RJ Berger.\n\n• **A fost distribuit și în numeroase alte producții.** Printre serialele în care a apărut se numără Friends, Will & Grace, CSI, Supernatural, Castle și General Hospital, iar în filmografie se regăsesc Invaders from Mars și 17 Again. În anii 1990 a cântat în trupa de country alternativ The High Lonesome. Din 2002 era căsătorit cu directoarea de casting Carol Kritzer; cei doi aveau gemeni.",
     "importance_score": 40.0,
-    "top_rank": 66,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4347,7 +4400,7 @@
     "lead_ro": "Pe 19 noiembrie au fost organizate trageri pentru șase jocuri loto din România. Înaintea extragerilor, la categoria I Joker erau în joc peste două milioane de lei, iar la categoria a II-a Loto 5/40 suma depășea 110.100 de lei.",
     "content_ro": "• **Pe 19 noiembrie s-au desfășurat extrageri pentru șase jocuri:** Loto 6/49, Noroc, Joker, Noroc Plus, Loto 5/40 și Super Noroc. Sursa disponibilă nu precizează numerele câștigătoare.\n\n• **După tragerile din 15 noiembrie au fost acordate 29.634 de premii**, cu o valoare cumulată de 2.066.519 lei. Înaintea extragerilor din 19 noiembrie, mai multe categorii aveau sume importante reportate.\n\n• **La categoria I Loto 6/49 erau reportați peste 909.400 de lei,** iar la Noroc suma cumulată trecea de 1,22 milioane de lei. Valorile echivalau cu mai mult de 169.900, respectiv 229.200 de euro.\n\n• **La categoria I Joker se acumulaseră peste două milioane de lei,** în timp ce categoria a II-a avea un report mai mare de 109.100 de lei. La categoria I Noroc Plus, suma depășea de asemenea 109.100 de lei.\n\n• **La Loto 5/40, categoria I depășea 664.600 de lei, iar categoria a II-a trecea de 110.100 de lei.** La categoria I Super Noroc, reportul era de peste 550.300 de lei.",
     "importance_score": 40.0,
-    "top_rank": 67,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4396,7 +4449,7 @@
     "lead_ro": "Elon Musk a contestat relatarea lui Volodimir Zelenski despre funcționarea Starshield în Ucraina și a respins afirmațiile președintelui. Kievul susține că oprirea terminalelor la viteze ridicate împiedică folosirea interceptoarelor destinate combaterii dronelor rusești.",
     "content_ro": "• **Musk a respins afirmațiile lui Zelenski.** Șeful SpaceX a reacționat într-un interviu video transmis din China, organizat în cadrul unui forum al New York Times. Săptămâna trecută, liderul ucrainean spusese că armata observă probleme importante și limitări repetate de viteză la Starshield.\n\n• **Utilizarea militară a rețelei civile Starlink se află în centrul disputei.** Musk afirmă că Ucraina vrea să folosească serviciul comercial de sateliți în operațiuni militare, solicitare pe care SpaceX nu a acceptat-o de la începutul războiului. Starshield este versiunea Starlink destinată utilizării militare.\n\n• **Terminalele s-ar putea opri peste pragul de 160 km/h.** Potrivit Kievului, restricția a fost observată și în octombrie și împiedică folosirea interceptoarelor împotriva dronelor de atac rusești cu propulsie reactivă, inclusiv în zona capitalei.\n\n• **Musk a invocat controlul Pentagonului.** Miercuri, el a repetat că Starshield se află sub autoritatea Departamentului american al Apărării și a negat că ar sprijini Rusia. În disputa din octombrie privind limitări similare, atât Washingtonul, cât și Musk au respins responsabilitatea; restricția a fost ulterior eliminată la cererea lui Donald Trump.",
     "importance_score": 40.0,
-    "top_rank": 68,
+    "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4444,7 +4497,7 @@
     "lead_ro": "Datele Eurostat arată că deplasările terestre au reprezentat cea mai mare parte a călătoriilor efectuate de rezidenții României. La nivelul Uniunii Europene, țara a înregistrat cea mai ridicată pondere pentru această categorie.",
     "content_ro": "• **România a avut cea mai mare proporție de călătorii terestre:** potrivit Eurostat, 94% dintre deplasările rezidenților în anul precedent s-au făcut pe uscat. Slovenia a urmat cu 90,4%, Bulgaria cu 89%, iar Cehia cu 88,9%.\n\n• **Rezidenții României au efectuat în total 21,6 milioane de călătorii:** 20,3 milioane dintre acestea au fost terestre. Deplasările cu avionul au însumat 1,278 milioane, iar cele pe apă au ajuns la 12.802.\n\n• **La nivelul UE, transportul terestru a dominat deplasările:** din totalul de puțin peste 1,2 miliarde de călătorii, 81,4% au fost realizate astfel. Transportul aerian a reprezentat 17,2%, iar cel pe căi navigabile, 1,4%.\n\n• **Autoturismele au avut cea mai mare pondere între mijloacele de deplasare din UE:** acestea au fost folosite pentru 63,3% din totalul călătoriilor. Trenul a reprezentat 13,3%, iar autobuzul sau autocarul, 3,8%.\n\n• **În unele state, călătoriile aeriene ori pe apă au avut o pondere mult mai mare:** avionul a fost folosit pentru 61,6% dintre deplasările din Malta, 51,1% în Cipru și 41,8% în Irlanda. Pentru transportul pe apă, valorile au fost de 38,4% în Malta, 15,9% în Grecia și 6,9% în Finlanda.",
     "importance_score": 40.0,
-    "top_rank": 69,
+    "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4492,7 +4545,7 @@
     "lead_ro": "BRICO, parte a grupului Altex România, a lansat la Giurgiu primul showroom BRICO Studio. Magazinul de 600 de metri pătrați se concentrează pe amenajarea bucătăriilor, băilor și dressingurilor.",
     "content_ro": "• **Primul showroom BRICO Studio din România funcționează la Giurgiu.** Unitatea a fost deschisă în Aurora Retail Park și reprezintă un format de magazin cu suprafață mai mică. Potrivit companiei, cei 600 de metri pătrați sunt dedicați soluțiilor pentru bucătării, băi și dressinguri.\n\n• **Oferta cuprinde mobilier modular care poate fi configurat în funcție de spațiu.** Zona pentru bucătării prezintă 12 modele din zece colecții, disponibile în diverse combinații. Selecția acoperă mai multe stiluri de amenajare, iar mobilierul poate fi adaptat preferințelor clienților și dimensiunilor încăperii.\n\n• **Compania indică o durată de viață de 25 de ani pentru fronturile de bucătărie.** În zona destinată băilor sunt prezentate șapte colecții de mobilier, alături de produse exclusive și mărci proprii, între care GoodHome. Bucătăriile, băile și dressingurile constituie cele trei categorii principale ale showroomului.\n\n• **Clienții pot apela și la servicii de consultanță și montaj.** Personalul oferă sprijin pentru configurarea mobilierului și stabilirea designului, iar serviciile includ livrarea și instalarea. Din showroom se pot comanda și electrocasnice din gama Altex, precum și articole BRICO pentru amenajarea locuinței.\n\n• **BRICO intenționează să ducă formatul și în alte orașe.** Unitatea din Giurgiu este prima deschisă sub acest concept, iar compania a anunțat că vrea să extindă modelul. Nu au fost precizate alte localități sau un calendar pentru eventualele deschideri viitoare.",
     "importance_score": 40.0,
-    "top_rank": 70,
+    "top_rank": 71,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4541,7 +4594,7 @@
     "lead_ro": "Președintele american Donald Trump și liderul rus Vladimir Putin s-au întâlnit la Shenzhen, în China, în contextul summitului APEC. Premierul polonez Donald Tusk și ministrul de Externe Radosław Sikorski au reacționat după ce Trump l-a numit prieten pe Putin.",
     "content_ro": "• **Trump și Putin au discutat la Shenzhen:** Președintele american și cel rus s-au întâlnit joi dimineață, în cadrul summitului APEC găzduit de orașul chinez. Casa Albă a descris întrevederea drept informală, iar Kremlinul a indicat că războiul din Ucraina a reprezentat tema principală. Discuția a durat aproximativ 40 de minute.\n\n• **Trump a vorbit favorabil despre relația cu liderul rus:** Înaintea întâlnirii, președintele SUA a lăudat legătura dintre cei doi și l-a numit pe Putin prietenul său. Premierul polonez Donald Tusk a răspuns pe platforma X cu un mesaj scurt și ironic, referindu-se la riscurile asociate unor asemenea prietenii.\n\n• **Șeful diplomației poloneze a semnalat motive de îngrijorare:** Radosław Sikorski le-a spus jurnaliștilor că gesturile de apropiere dintre Trump și Putin ridică semne de întrebare. El a evocat posibilitatea ca, într-o situație extremă, președintele american să fie pus în fața unei alegeri între relația cu Putin și cea cu președintele Poloniei.\n\n• **Kremlinul a prezentat starea lui Putin după discuții drept foarte bună:** Iuri Ușakov, consilierul prezidențial rus pentru politică externă, a afirmat că liderul rus a plecat de la întrevedere într-o dispoziție excelentă. Potrivit relatării, Trump, Putin și Xi Jinping au participat și la o reuniune în trei la Shenzhen; informațiile disponibile nu au precizat conținutul acesteia.",
     "importance_score": 40.0,
-    "top_rank": 71,
+    "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4590,7 +4643,7 @@
     "lead_ro": "Vodafone România a înființat un centru de inovare în cadrul institutului de inteligență artificială al Universității Tehnice din Cluj-Napoca. Studenții și cercetătorii vor putea testa și dezvolta soluții în domenii precum inteligența artificială, robotica și comunicațiile de nouă generație.",
     "content_ro": "• **Noul centru funcționează în cadrul institutului de cercetare al Universității Tehnice din Cluj-Napoca.** Vodafone Innovation Hub Cluj este găzduit de AIRi@UTCN, iar finanțarea este asigurată de Vodafone România. Compania pune la dispoziția comunității universitare atât echipamente și tehnologii, cât și experiența specialiștilor săi.\n\n• **Laboratorul permite proiecte în mai multe domenii tehnologice.** Studenții, profesorii și cercetătorii pot dezvolta și testa aplicații de inteligență artificială, robotică și drone, dar și soluții pentru comunicații 5G și 6G, sisteme satelitare și securitate cibernetică.\n\n• **Printre utilizările vizate se află atât aplicații industriale, cât și instrumente pentru activități cotidiene.** Exemplele includ roboți conectați destinați fabricilor, sisteme inteligente de supraveghere a infrastructurii și tehnologii de realitate augmentată care pot facilita colaborarea de la distanță.\n\n• **Centrul este gândit și ca spațiu de pregătire pentru viitorii specialiști.** Participanții pot lucra la proiecte de cercetare, pot beneficia de îndrumare și pot colabora cu reprezentanți ai industriei. Inițiativa urmărește să apropie activitatea universitară de dezvoltarea unor soluții cu aplicabilitate practică.\n\n• **Vodafone prezintă investiția ca pe o contribuție la dezvoltarea tehnologică din România.** Accesul la resurse și la expertiză le-ar putea permite studenților și cercetătorilor să transforme ideile în produse sau servicii. Compania a evidențiat și potențialul creativ și tehnologic al Clujului.",
     "importance_score": 40.0,
-    "top_rank": 72,
+    "top_rank": 73,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4639,7 +4692,7 @@
     "lead_ro": "PSD susține reducerea impozitării veniturilor salariale mici. La un forum de afaceri franco-român, premierul Luca Niculescu a spus că ministerelor li s-au cerut propuneri pentru fundamentarea bugetului și că eventualele măsuri trebuie să respecte obiectivele bugetare stabilite pentru 2027.",
     "content_ro": "• **PSD a adus în discuție diminuarea taxării salariilor mici.** Premierul Luca Niculescu a fost întrebat despre această propunere în cadrul unui forum de afaceri franco-român. Potrivit relatării, în spațiul public circulă mai multe variante, însă articolul nu precizează nivelul reducerii avute în vedere.\n\n• **Ministerelor li s-au solicitat propuneri pentru pregătirea bugetului.** Niculescu a explicat că instituțiile trebuie să înainteze variante care să poată fundamenta viitorul document bugetar. Discuțiile despre forma acestuia urmează să aibă loc când începe elaborarea bugetului.\n\n• **Obiectivele bugetare pentru 2027 trebuie respectate și în cazul unor schimbări fiscale.** Premierul a afirmat că România are ținte stabilite pentru perspectiva bugetară, iar orice măsură aprobată trebuie concepută astfel încât să nu provoace abaterea de la acestea. Sursa nu oferă detalii despre impactul financiar al propunerii PSD.\n\n• **Reducerea taxării nu este prezentată ca o decizie deja adoptată.** Declarațiile descriu o propunere aflată în discuție și o etapă de colectare a variantelor ministeriale. Relatarea nu indică un calendar de aplicare și nici o poziție finală a guvernului asupra modificării impozitării.",
     "importance_score": 40.0,
-    "top_rank": 73,
+    "top_rank": 74,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4682,7 +4735,7 @@
     "lead_ro": "Deputatul PSD Mihai Fifor l-a susținut pe vicepremierul Marian Neacșu, ale cărui atribuții au fost extinse printr-o decizie guvernamentală. Fifor consideră justificată măsura deoarece actualul cabinet are un singur vicepremier și a criticat totodată modul în care funcționa echipa precedentă, cu cinci astfel de funcții.",
     "content_ro": "• **Atribuțiile lui Neacșu au fost extinse:** decizia guvernamentală semnată de Luca Niculescu îi încredințează coordonarea activității a zece ministere și monitorizarea hotărârilor financiare din alte cincisprezece. Măsura a generat controverse în Guvern.\n\n• **Fifor a reacționat joi pe Facebook:** deputatul PSD i-a criticat dur pe cei care au contestat noile responsabilități ale lui Neacșu. În opinia sa, disputa politică nu ar trebui să abată atenția de la dificultățile politice și economice ale României.\n\n• **Numărul vicepremierilor a fost argumentul său:** Fifor a explicat că Neacșu este singurul vicepremier din Guvernul Niculescu, ceea ce ar fi justificat completarea atribuțiilor sale. El a comparat această situație cu structura cabinetului anterior, care avea cinci vicepremieri.\n\n• **Fifor a contestat și rolul fostei echipe:** în Guvernul condus de Ilie Bolojan, funcțiile de vicepremier erau ocupate, la învestire, de Marian Neacșu, Tánczos Barna, Dragoș Anastasiu, Cătălin Predoiu și Ionuț Moșteanu. Fifor a descris acea formulă ca anormală și a susținut că majoritatea vicepremierilor aveau un rol redus, în timp ce Bolojan conducea executivul.\n\n• **Disputa privește repartizarea responsabilităților:** hotărârea îi atribuie lui Neacșu coordonarea mai multor ministere și urmărirea unor decizii financiare din alte portofolii. Explicația lui Fifor pune accentul pe diferența dintre numărul de vicepremieri din cele două cabinete.",
     "importance_score": 38.0,
-    "top_rank": 74,
+    "top_rank": 75,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4714,44 +4767,6 @@
     "title_ro": "Cauza morții actorului Patrick Stewart a fost făcută publică / Starul din „Star Trek” suferea de demență cu corpi Lewy",
     "lead_ro": "Actorul Patrick Stewart a murit în urma unui stop cardio-respirator şi a demenţei cu corpi Lewy, conform detaliilor din certificatul său de deces, făcute publice miercuri de media americane, relatează…",
     "content_ro": "Actorul Patrick Stewart a murit în urma unui stop cardio-respirator şi a demenţei cu corpi Lewy, conform detaliilor din certificatul său de deces, făcute publice miercuri de media americane, relatează Agerpres, care citează agenţia de presă EFE. Documentul menţionează, de asemenea, potrivit portalului specializat în ştiri mondene TMZ, că rămăşiţele actorului cunoscut din „Star Trek”, […] © G4Media.ro.",
-    "importance_score": 35.0,
-    "top_rank": 75,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_f5ac88c8b1",
-    "slug": "a-neptun-deep-2027-tol-erositheti-romania-gazpiaci-szerepet-f5ac88",
-    "tags": [
-      "neptun-deep",
-      "foldgaz",
-      "energia",
-      "fekete-tenger"
-    ],
-    "fingerprint": "9490aa81d1df4126b08429075c168564",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Neptun Deep ar putea schimba piața gazelor din Europa de Est. România va deveni un furnizor regional important, estimează SP",
-        "link": "https://www.digi24.ro/stiri/economie/energie/neptun-deep-ar-putea-schimba-piata-gazelor-din-europa-de-est-romania-va-deveni-un-furnizor-regional-important-estimeaza-sp-4045125"
-      },
-      {
-        "source": "G4Media",
-        "title": "Reuters: Gazele românești din Marea Neagră vor fi competitor pentru gazele din SUA și ar putea reduce importurile prin Coridorul Vertical",
-        "link": "https://www.g4media.ro/reuters-gazele-romanesti-din-marea-neagra-vor-fi-competitor-pentru-gazele-din-sua-si-ar-putea-reduce-importurile-prin-coridorul-vertical.html"
-      }
-    ],
-    "published_at": 1795156737,
-    "title_hu": "A Neptun Deep 2027-től erősítheti Románia gázpiaci szerepét",
-    "lead_hu": "A Fekete-tenger alatt fekvő Neptun Deep mező termelése a tervek szerint 2027-ben indulhat, és jelentősen növelheti Románia földgázkínálatát. Az S&P Global Energy elemzése szerint a projekt regionális exportlehetőségeket teremthet, miközben biztonsági kockázatok is övezik.",
-    "content_hu": "• **A Neptun Deep termelése 2027-től válhat meghatározóvá.** Az S&P Global Energy elemzése alapján az új kitermelés Romániát fontos regionális gázszállítóvá teheti. A projekt becsült, kitermelhető készlete mintegy 100 milliárd köbméter, a termelés pedig a romániai gázmennyiség megkétszerezéséhez vezethet.\n\n• **A fejlesztésben az OMV Petrom és a Romgaz működik együtt.** Az OMV többségi tulajdonában álló OMV Petrom és az állami Romgaz közösen valósítja meg a beruházást. A két vállalat eltérő felhasználással számol: a Romgaz hazai gázerőművek és egy műtrágyagyártó ellátására fordítaná a rá jutó mennyiséget.\n\n• **Az OMV Petrom már több külföldi vevővel kötött hosszú távú megállapodást.** A társaság Németországba és a Moldovai Köztársaságba tervez szállítani, más európai országok pedig szintén jelezték érdeklődésüket a román gáz iránt.\n\n• **A román kínálat mérsékelheti a Görögországon át északra továbbított LNG mennyiségét.** Az S&P Global Energy szerint a Neptun Deepből érkező gáz csökkentheti a Görögországból induló, Közép- és Kelet-Európán át Ukrajnáig vezető Vertikális Folyosó használatának szükségességét. Ezen az útvonalon amerikai és más, nem orosz eredetű cseppfolyósított földgáz is halad.\n\n• **A beruházás biztonsági kitettsége is nőhet a Fekete-tenger térségében.** Az elemzés a tengeri támadások erősödését említi kockázatként. Az Európai Bizottság szerint a kitermelés 2027-es elindulása Románia gazdasági növekedését is támogathatja, és hozzájárulhat a külső hiány csökkenéséhez.",
-    "title_ro": "Neptun Deep ar putea consolida rolul României pe piața gazelor din 2027",
-    "lead_ro": "Producția zăcământului Neptun Deep din Marea Neagră este prevăzută să înceapă în 2027 și ar putea majora considerabil oferta de gaze a României. Potrivit unei analize S&P Global Energy, proiectul ar putea deschide noi oportunități de export, dar este expus și unor riscuri de securitate.",
-    "content_ro": "• **Producția Neptun Deep ar putea deveni importantă începând din 2027.** Analiza S&P Global Energy estimează că noile volume ar putea transforma România într-un furnizor regional major. Rezervele recuperabile ale perimetrului sunt evaluate la aproximativ 100 de miliarde de metri cubi, iar exploatarea ar putea dubla producția națională de gaze.\n\n• **Proiectul este realizat de OMV Petrom și Romgaz.** OMV Petrom, controlată majoritar de compania austriacă OMV, dezvoltă zăcământul împreună cu producătorul de stat Romgaz. Cele două companii au în vedere destinații diferite pentru gaz: Romgaz ar folosi partea sa pentru centrale electrice pe gaz din România și pentru aprovizionarea unui producător de îngrășăminte.\n\n• **OMV Petrom are deja acorduri de livrare pe termen lung în afara țării.** Compania a contractat furnizări către Germania și Republica Moldova. Și alte state europene au manifestat interes pentru gazul românesc.\n\n• **Producția internă suplimentară ar putea reduce transportul unor cantități de GNL prin Grecia.** Potrivit analizei, gazele din România ar putea diminua volumele trimise spre nord pe Coridorul Vertical, rută care pornește din Grecia, traversează Europa Centrală și de Est și ajunge în Ucraina. Infrastructura este folosită și pentru transportul gazului lichefiat din SUA și din alte surse non-rusești.\n\n• **Riscurile de securitate din Marea Neagră pot afecta proiectul.** Analiza indică intensificarea atacurilor maritime drept un factor de risc. Comisia Europeană a afirmat că pornirea producției în 2027 ar putea susține creșterea economică a României și ar putea contribui la reducerea deficitului extern.",
     "importance_score": 35.0,
     "top_rank": 76,
     "is_top_hero": false,
@@ -6955,7 +6970,7 @@
     "title_ro": "Protestatari au aruncat cu o substanță pulverulentă asupra lui Várhelyi la un summit de la Bruxelles",
     "lead_ro": "Doi activiști au urcat pe scenă în momentul în care Várhelyi urma să vorbească despre eforturile UE împotriva cancerului și au aruncat asupra sa o substanță cenușie, asemănătoare prafului. Ursula von der Leyen a condamnat incidentul, produs pe fondul opoziției față de modificările propuse pentru normele privind pesticidele.",
     "content_ro": "• **Doi protestatari au ajuns pe scena summitului european dedicat cancerului, organizat la Bruxelles**, chiar înainte ca Várhelyi să vorbească despre acțiunile Uniunii Europene împotriva bolii. Aceștia au aruncat asupra lui o substanță cenușie, pulverulentă; unul dintre manifestanți a invocat riscurile asociate pesticidelor.\n\n• **Președinta Comisiei Europene, Ursula von der Leyen, a condamnat incidentul.** Într-un comunicat, ea a afirmat că exprimarea opiniilor despre politicile UE este legitimă, dar că agresiunile fizice și violența nu sunt acceptabile într-o societate democratică.\n\n• **Potrivit grupului activist francez Les Soulèvements de la Terre, patru organizații neguvernamentale au participat la organizarea protestului, iar patru persoane au fost arestate.** O manifestație separată a avut loc în fața clădirii summitului. Fermieri și pacienți cu cancer au încercat să li se alăture protestatarilor, însă poliția belgiană i-a împiedicat.\n\n• **Acțiunea a vizat planurile de modificare a reglementărilor europene privind pesticidele.** Propunerea Comisiei face parte din pachetul numit Omnibus X și urmărește simplificarea regulilor existente și reducerea obligațiilor administrative.\n\n• **Activiștii din domeniul sănătății și al mediului avertizează că schimbările ar putea diminua protecția populației și a mediului.** Protestul a adus în atenție aceste temeri, în timp ce reacția șefei Comisiei s-a concentrat asupra caracterului violent al intervenției de pe scenă.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 131,
     "is_top_hero": false,
     "is_top_list": true
@@ -6993,7 +7008,7 @@
     "title_ro": "Merz a criticat reuniunea americano-ruso-chineză de la Shenzhen",
     "lead_ro": "Cancelarul german Friedrich Merz a apreciat că reuniunea trilaterală de la Shenzhen a avut mai degrabă o miză de imagine decât una diplomatică substanțială. La o conferință de presă organizată la Berlin, el a avertizat că un aranjament asemănător celui de la Ialta nu va aduce pace în Europa.",
     "content_ro": "• **Merz a pus sub semnul întrebării utilitatea reuniunii de la Shenzhen:** în opinia cancelarului german, întâlnirea liderilor Statelor Unite, Rusiei și Chinei a părut să servească în principal unei apariții publice. El nu a oferit detalii suplimentare despre eventualele rezultate concrete ale discuțiilor.\n\n• **Cancelarul a respins ideea unui acord european în formatul marilor puteri:** în intervenția introductivă de la o conferință de presă a Coaliției de Voință, desfășurată la Berlin, Merz a spus că o formulă de tip Ialta nu va aduce pace Europei. Critica sa a vizat consecințele posibile ale înțelegerilor dintre statele puternice.\n\n• **Merz a invocat atât Conferința de la Ialta, cât și Zidul Berlinului ca repere istorice negative:** el le-a asociat cu opresiunea, nesiguranța și dezbinarea. Prin această comparație, cancelarul a atras atenția asupra impactului pe care deciziile marilor puteri îl pot avea asupra țărilor mai mici.\n\n• **La Ialta, în 1945, liderii Statelor Unite, Marii Britanii și Uniunii Sovietice au discutat organizarea lumii după război:** hotărârile de atunci au avut efecte asupra mai multor state, inclusiv în privința împărțirii Germaniei și a viitorului Poloniei. Acest precedent istoric a constituit contextul criticilor formulate de Merz.\n\n• **Reuniunea de la Shenzhen i-a avut în centru pe liderii american, rus și chinez:** Merz a apropiat întâlnirea lor de conferința din 1945 și a contestat capacitatea unui asemenea format de a contribui la pacea europeană. Declarațiile au fost făcute la Berlin, la începutul conferinței de presă a Coaliției de Voință.",
-    "importance_score": 23.0,
+    "importance_score": 20.0,
     "top_rank": 132,
     "is_top_hero": false,
     "is_top_list": true
@@ -9266,37 +9281,149 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_3e8906399a",
-    "slug": "bogdan-patralageanu-ins-despre-economia-romaniei-i-3e8906",
+    "group_id": "group_46cfc3d353",
+    "slug": "noi-dezvaluiri-in-cazul-emil-ganj-doi-frati-acuzati-ca-l-au-ascuns-de-politie-un-46cfc3",
     "tags": [
       "altalanos"
     ],
     "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjE1JTJGMjMwNjQ0NV8yMzA2/NDQ1X3Bob3RvLWNvbGxhZ2VfcG5nLTIw/MjUtMDctMTVUMTIzMjA4XzI1Mi5wbmcm/aGFzaD1lMjQzNDRiYjdjNDQ1Yzk1ZmNhMTZiZDY1YjM2MjIwNA==.png",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "Adevărul",
-        "title": "Bogdan Pătrălăgeanu (INS), despre economia României: inflație, consum și salarii",
-        "link": "https://adevarul.ro/stiri-interne/bogdan-patralageanu-ins-despre-economia-2572683.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Bogdan Pătrălăgeanu (INS), despre economia României: inflație, consum și salarii",
-        "link": "https://adevarul.ro/economie/bogdan-patralageanu-ins-despre-economia-2572683.html"
+        "source": "Digi24",
+        "title": "Noi dezvăluiri în cazul Emil Gânj. Doi frați, acuzați că l-au ascuns de poliție. Unul dintre ei ar fi avut 239 de convorbiri cu fugarul",
+        "link": "https://www.digi24.ro/stiri/actualitate/noi-dezvaluiri-in-cazul-emil-ganj-doi-frati-acuzati-ca-l-au-ascuns-de-politie-unul-dintre-ei-ar-fi-avut-239-de-convorbiri-cu-fugarul-4045237"
       }
     ],
-    "published_at": 1795072463,
-    "title_hu": "Bogdan Pătrălăgeanu (INS), despre economia României: inflație, consum și salarii",
-    "lead_hu": "Economia României resimte presiuni din partea consumului și industriei, în timp ce inflația erodează puterea de cumpărare. Bogdan Pătrălăgeanu, consilier INS, explică evoluția veniturilor, salariilor …",
-    "content_hu": "Economia României resimte presiuni din partea consumului și industriei, în timp ce inflația erodează puterea de cumpărare. Bogdan Pătrălăgeanu, consilier INS, explică evoluția veniturilor, salariilor și șomajului, decalajele dintre urban și rural și ce indică datele statistice pentru 2027.",
-    "title_ro": "Bogdan Pătrălăgeanu (INS), despre economia României: inflație, consum și salarii",
-    "lead_ro": "Economia României resimte presiuni din partea consumului și industriei, în timp ce inflația erodează puterea de cumpărare. Bogdan Pătrălăgeanu, consilier INS, explică evoluția veniturilor, salariilor …",
-    "content_ro": "Economia României resimte presiuni din partea consumului și industriei, în timp ce inflația erodează puterea de cumpărare. Bogdan Pătrălăgeanu, consilier INS, explică evoluția veniturilor, salariilor și șomajului, decalajele dintre urban și rural și ce indică datele statistice pentru 2027.",
-    "importance_score": 20.0,
-    "top_rank": 194,
+    "published_at": 1795158988,
+    "title_hu": "Noi dezvăluiri în cazul Emil Gânj. Doi frați, acuzați că l-au ascuns de poliție. Unul dintre ei ar fi avut 239 de convorbiri cu fugarul",
+    "lead_hu": "Doi frați din județul Cluj au fost trimiși în judecată, fiind acuzați că l-au ajutat pe Emil Gânj, bărbatul căutat pentru uciderea fostei iubite în județul Mureș, să se ascundă de autorități. Potrivit...",
+    "content_hu": "Doi frați din județul Cluj au fost trimiși în judecată, fiind acuzați că l-au ajutat pe Emil Gânj, bărbatul căutat pentru uciderea fostei iubite în județul Mureș, să se ascundă de autorități. Potrivit anchetatorilor, aceștia i-ar fi oferit transport, hrană și adăpost în două locuințe izolate, deși știau că era căutat de poliție. Unul dintre frați ar fi avut 239 de convorbiri telefonice cu fugarul.",
+    "title_ro": "Noi dezvăluiri în cazul Emil Gânj. Doi frați, acuzați că l-au ascuns de poliție. Unul dintre ei ar fi avut 239 de convorbiri cu fugarul",
+    "lead_ro": "Doi frați din județul Cluj au fost trimiși în judecată, fiind acuzați că l-au ajutat pe Emil Gânj, bărbatul căutat pentru uciderea fostei iubite în județul Mureș, să se ascundă de autorități. Potrivit...",
+    "content_ro": "Doi frați din județul Cluj au fost trimiși în judecată, fiind acuzați că l-au ajutat pe Emil Gânj, bărbatul căutat pentru uciderea fostei iubite în județul Mureș, să se ascundă de autorități. Potrivit anchetatorilor, aceștia i-ar fi oferit transport, hrană și adăpost în două locuințe izolate, deși știau că era căutat de poliție. Unul dintre frați ar fi avut 239 de convorbiri telefonice cu fugarul.",
+    "importance_score": 0.0,
+    "top_rank": null,
     "is_top_hero": false,
-    "is_top_list": true
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_43f15753b7",
+    "slug": "bruno-mars-mesaj-emotionant-la-adresa-tatalui-sau-la-o-saptamana-dupa-moartea-sa-43f157",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/bruno-mars-1024x682.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Bruno Mars, mesaj emoționant la adresa tatălui său la o săptămână după moartea sa: Omul care m-a învățat tot ce știu",
+        "link": "https://www.mediafax.ro/stirile-zilei/bruno-mars-mesaj-emotionant-la-adresa-tatalui-sau-la-o-saptamana-dupa-moartea-sa-omul-care-m-a-invatat-tot-ce-stiu-23846442"
+      }
+    ],
+    "published_at": 1795158789,
+    "title_hu": "Bruno Mars, mesaj emoționant la adresa tatălui său la o săptămână după moartea sa: Omul care m-a învățat tot ce știu",
+    "lead_hu": "Artistul Bruno Mars i-a adus un omagiu emoționant tatălui său pe Instagram, numindu-l „cel mai grozav tată din lume” și anunțând moartea sa la vârsta de 74 de ani....",
+    "content_hu": "Artistul Bruno Mars i-a adus un omagiu emoționant tatălui său pe Instagram, numindu-l „cel mai grozav tată din lume” și anunțând moartea sa la vârsta de 74 de ani.",
+    "title_ro": "Bruno Mars, mesaj emoționant la adresa tatălui său la o săptămână după moartea sa: Omul care m-a învățat tot ce știu",
+    "lead_ro": "Artistul Bruno Mars i-a adus un omagiu emoționant tatălui său pe Instagram, numindu-l „cel mai grozav tată din lume” și anunțând moartea sa la vârsta de 74 de ani....",
+    "content_ro": "Artistul Bruno Mars i-a adus un omagiu emoționant tatălui său pe Instagram, numindu-l „cel mai grozav tată din lume” și anunțând moartea sa la vârsta de 74 de ani.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_02ef945558",
+    "slug": "investitorii-pariaza-masiv-pe-ia-suma-atrasa-de-anthropic-inainte-de-listarea-la-02ef94",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/11/19/114227/shutterstock-bursa-d-ela-new-york.jpg?fm=jpg&q=80&fit=crop&crop=4000%2C2250%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Investitorii pariază masiv pe IA. Suma atrasă de Anthropic înainte de listarea la Bursa din New York",
+        "link": "https://stirileprotv.ro/stiri/financiar/investitorii-pariaza-masiv-pe-ia-suma-atrasa-de-anthropic-inainte-de-listarea-la-bursa-din-new-york.html"
+      }
+    ],
+    "published_at": 1795158772,
+    "title_hu": "Investitorii pariază masiv pe IA. Suma atrasă de Anthropic înainte de listarea la Bursa din New York",
+    "lead_hu": "Sectorul AI primește un semnal de încredere din partea investitorilor înaintea lansării la bursă a start-up-ului american Anthropic....",
+    "content_hu": "Sectorul AI primește un semnal de încredere din partea investitorilor înaintea lansării la bursă a start-up-ului american Anthropic.",
+    "title_ro": "Investitorii pariază masiv pe IA. Suma atrasă de Anthropic înainte de listarea la Bursa din New York",
+    "lead_ro": "Sectorul AI primește un semnal de încredere din partea investitorilor înaintea lansării la bursă a start-up-ului american Anthropic....",
+    "content_ro": "Sectorul AI primește un semnal de încredere din partea investitorilor înaintea lansării la bursă a start-up-ului american Anthropic.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_588674d001",
+    "slug": "superliga-revine-dupa-pauza-internationala-doua-meciuri-deschid-returul-din-sezo-588674",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/superliga-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Superliga revine după pauza internațională. Două meciuri deschid returul din sezonul regulat",
+        "link": "https://www.mediafax.ro/sport/superliga-revine-dupa-pauza-internationala-doua-meciuri-deschid-returul-din-sezonul-regulat-23846447"
+      }
+    ],
+    "published_at": 1795158743,
+    "title_hu": "Superliga revine după pauza internațională. Două meciuri deschid returul din sezonul regulat",
+    "lead_hu": "Superliga României revine vineri după pauza dedicată echipelor naționale, cu primele două partide din etapa a 16-a, care marchează începutul returului sezonului regulat. FC Botoșani - FC Voluntari și ...",
+    "content_hu": "Superliga României revine vineri după pauza dedicată echipelor naționale, cu primele două partide din etapa a 16-a, care marchează începutul returului sezonului regulat. FC Botoșani - FC Voluntari și Farul Constanța - Universitatea Cluj sunt meciurile programate în prima zi a rundei.",
+    "title_ro": "Superliga revine după pauza internațională. Două meciuri deschid returul din sezonul regulat",
+    "lead_ro": "Superliga României revine vineri după pauza dedicată echipelor naționale, cu primele două partide din etapa a 16-a, care marchează începutul returului sezonului regulat. FC Botoșani - FC Voluntari și ...",
+    "content_ro": "Superliga României revine vineri după pauza dedicată echipelor naționale, cu primele două partide din etapa a 16-a, care marchează începutul returului sezonului regulat. FC Botoșani - FC Voluntari și Farul Constanța - Universitatea Cluj sunt meciurile programate în prima zi a rundei.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_512b5dc163",
+    "slug": "foto-vantul-si-ploile-au-facut-ravagii-in-mai-multe-judete-din-tara-probleme-si--512b5d",
+    "tags": [
+      "erdely"
+    ],
+    "category": "Erdély",
+    "image": "https://www.presasm.ro/uploads/2026/11/furtuna.jpeg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Vântul și ploile au făcut ravagii în mai multe județe din țară. Probleme și în județele învecinate",
+        "link": "https://www.presasm.ro/foto-vantul-si-ploile-au-facut-ravagii-in-mai-multe-judete-din-tara-probleme-si-in-judetele/54393"
+      }
+    ],
+    "published_at": 1795158720,
+    "title_hu": "FOTO. Vântul și ploile au făcut ravagii în mai multe județe din țară. Probleme și în județele învecinate",
+    "lead_hu": "Vântul puternic și ploile au provocat numeroase probleme în mai multe județe din țară, inclusiv în județele vecine. În Bihor, pompierii au avut opt intervenții pentru îndepărtarea copacilor căzuți, si...",
+    "content_hu": "Vântul puternic și ploile au provocat numeroase probleme în mai multe județe din țară, inclusiv în județele vecine. În Bihor, pompierii au avut opt intervenții pentru îndepărtarea copacilor căzuți, situații generate de scurtcircuite și arbori prăbușiți peste a…",
+    "title_ro": "FOTO. Vântul și ploile au făcut ravagii în mai multe județe din țară. Probleme și în județele învecinate",
+    "lead_ro": "Vântul puternic și ploile au provocat numeroase probleme în mai multe județe din țară, inclusiv în județele vecine. În Bihor, pompierii au avut opt intervenții pentru îndepărtarea copacilor căzuți, si...",
+    "content_ro": "Vântul puternic și ploile au provocat numeroase probleme în mai multe județe din țară, inclusiv în județele vecine. În Bihor, pompierii au avut opt intervenții pentru îndepărtarea copacilor căzuți, situații generate de scurtcircuite și arbori prăbușiți peste a…",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
   },
   {
     "group_id": "group_5b106de291",
@@ -9322,6 +9449,64 @@
     "title_ro": "Subprefect voiajor: Cum și-a pregătit subprefectul UDMR de Bihor un nou post de refugiu",
     "lead_ro": "Instabilitatea politică și nesiguranța joburilor la stat, în contextul în care PSD „amenință” cu tot felul de reforme ca să taie din cheltuieli, au ajuns să-l îngrijoreze până și pe subprefectul UDMR ...",
     "content_ro": "Instabilitatea politică și nesiguranța joburilor la stat, în contextul în care PSD „amenință” cu tot felul de reforme ca să taie din cheltuieli, au ajuns să-l îngrijoreze până și pe subprefectul UDMR al județului Bihor, Botházy Nándor, aflat în funcție de peste 5 ani. Află ce post pe care să se refugieze și-a pregătit dacă, Doamne ferește!, PSD o să lăcomească la funcția cuvenită - prin tradiție - UDMR.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_cfffb6e53c",
+    "slug": "un-barbat-trimis-in-judecata-pentru-propaganda-antisemita-si-legionara-elogii-la-cfffb6",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/05/1-justitie-shutterstock-1024x576.webp",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Un bărbat, trimis în judecată pentru propagandă antisemită și legionară. Elogii la adresa lui Adolf Hitler",
+        "link": "https://www.mediafax.ro/social/un-barbat-trimis-in-judecata-pentru-propaganda-antisemita-si-legionara-elogii-la-adresa-lui-adolf-hitler-23846451"
+      }
+    ],
+    "published_at": 1795158656,
+    "title_hu": "Un bărbat, trimis în judecată pentru propagandă antisemită și legionară. Elogii la adresa lui Adolf Hitler",
+    "lead_hu": "Un bărbat a fost trimis în judecată de Parchetul de pe lângă Judecătoria Sectorului 6 București, fiind acuzat de instigare publică, incitare la violență, ură sau discriminare și distribuirea de materi...",
+    "content_hu": "Un bărbat a fost trimis în judecată de Parchetul de pe lângă Judecătoria Sectorului 6 București, fiind acuzat de instigare publică, incitare la violență, ură sau discriminare și distribuirea de materiale antisemite, antițigăniste, fasciste, legionare, rasiste și xenofobe.",
+    "title_ro": "Un bărbat, trimis în judecată pentru propagandă antisemită și legionară. Elogii la adresa lui Adolf Hitler",
+    "lead_ro": "Un bărbat a fost trimis în judecată de Parchetul de pe lângă Judecătoria Sectorului 6 București, fiind acuzat de instigare publică, incitare la violență, ură sau discriminare și distribuirea de materi...",
+    "content_ro": "Un bărbat a fost trimis în judecată de Parchetul de pe lângă Judecătoria Sectorului 6 București, fiind acuzat de instigare publică, incitare la violență, ură sau discriminare și distribuirea de materiale antisemite, antițigăniste, fasciste, legionare, rasiste și xenofobe.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_763ee086c3",
+    "slug": "trump-xi-si-putin-au-pledat-pentru-pace-la-shenzhen-dar-au-ignorat-ucraina-si-ir-763ee0",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/11/20/070406/gettyimages-trilaterala-summit.jpg?fm=jpg&q=80&fit=crop&crop=1880%2C1160%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Trump, Xi și Putin au pledat pentru pace la Shenzhen, dar au ignorat Ucraina și Iran. Unde au căzut de acord",
+        "link": "https://stirileprotv.ro/stiri/international/trump-xi-si-putin-au-pledat-pentru-pace-la-shenzhen-dar-au-ignorat-ucraina-si-iran-unde-au-cazut-de-acord.html"
+      }
+    ],
+    "published_at": 1795158612,
+    "title_hu": "Trump, Xi și Putin au pledat pentru pace la Shenzhen, dar au ignorat Ucraina și Iran. Unde au căzut de acord",
+    "lead_hu": "Reuniunea de la Shenzhen dintre Donald Trump, Xi Jinping și Vladimir Putin - liderii celor trei mari puteri nucleare - s-a încheiat cu o declarație comună, în care cei trei pledează pentru pace....",
+    "content_hu": "Reuniunea de la Shenzhen dintre Donald Trump, Xi Jinping și Vladimir Putin - liderii celor trei mari puteri nucleare - s-a încheiat cu o declarație comună, în care cei trei pledează pentru pace.",
+    "title_ro": "Trump, Xi și Putin au pledat pentru pace la Shenzhen, dar au ignorat Ucraina și Iran. Unde au căzut de acord",
+    "lead_ro": "Reuniunea de la Shenzhen dintre Donald Trump, Xi Jinping și Vladimir Putin - liderii celor trei mari puteri nucleare - s-a încheiat cu o declarație comună, în care cei trei pledează pentru pace....",
+    "content_ro": "Reuniunea de la Shenzhen dintre Donald Trump, Xi Jinping și Vladimir Putin - liderii celor trei mari puteri nucleare - s-a încheiat cu o declarație comună, în care cei trei pledează pentru pace.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -9837,6 +10022,35 @@
     "title_ro": "Kilencgólos vereséggel kezdte a BL-középdöntőt a Bukaresti Dinamo",
     "lead_ro": "A fúvárosi alakulat 36-27-re kapott ki a Sporting Lisszabon otthonában.",
     "content_ro": "A fúvárosi alakulat 36-27-re kapott ki a Sporting Lisszabon otthonában.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_167ed38104",
+    "slug": "fostul-jucator-cu-peste-100-de-meciuri-in-superliga-prezentat-oficial-in-liga-2--167ed3",
+    "tags": [
+      "sport"
+    ],
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/21112024/eb12f74c-4298-4528-b937-270814a79835.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Fostul jucător cu peste 100 de meciuri în Superliga, prezentat oficial în Liga 2 la mai bine de un an de la accidentarea horror",
+        "link": "https://www.gsp.ro/fotbal/liga-2/rares-ispas-revenire-csm-resita-liga-2-1000973.html"
+      }
+    ],
+    "published_at": 1795157331,
+    "title_hu": "Fostul jucător cu peste 100 de meciuri în Superliga, prezentat oficial în Liga 2 la mai bine de un an de la accidentarea horror",
+    "lead_hu": "Rareș Ispas (26 de ani), fundaș stânga cu 105 meciuri la nivelul primului eșalon, a fost prezentat oficial la CSM Reșița, ocupanta locului 6 în Liga 2, unde va evolua sub comanda lui Dorinel Munteanu ...",
+    "content_hu": "Rareș Ispas (26 de ani), fundaș stânga cu 105 meciuri la nivelul primului eșalon, a fost prezentat oficial la CSM Reșița, ocupanta locului 6 în Liga 2, unde va evolua sub comanda lui Dorinel Munteanu (58 de ani). ...",
+    "title_ro": "Fostul jucător cu peste 100 de meciuri în Superliga, prezentat oficial în Liga 2 la mai bine de un an de la accidentarea horror",
+    "lead_ro": "Rareș Ispas (26 de ani), fundaș stânga cu 105 meciuri la nivelul primului eșalon, a fost prezentat oficial la CSM Reșița, ocupanta locului 6 în Liga 2, unde va evolua sub comanda lui Dorinel Munteanu ...",
+    "content_ro": "Rareș Ispas (26 de ani), fundaș stânga cu 105 meciuri la nivelul primului eșalon, a fost prezentat oficial la CSM Reșița, ocupanta locului 6 în Liga 2, unde va evolua sub comanda lui Dorinel Munteanu (58 de ani). ...",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -26447,118 +26661,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_6c63e1611f",
-    "slug": "video-fetita-de-5-ani-cazuta-intr-un-canal-descope-6c63e1",
-    "tags": [
-      "erdely"
-    ],
-    "category": "Erdély",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "PresaSM (Szatmár)",
-        "title": "VIDEO. Fetiță de 5 ani, căzută într-un canal descoperit, în județul Satu Mare. Părinții acuză: „De luni întregi sunt lăsate așa. Așteptăm o tragedie?”",
-        "link": "https://www.presasm.ro/video-fetita-de-5-ani-cazuta-intr-un-canal-descoperit-in-judetul-satu-mare-parintii-acuza-de-luni/54367"
-      }
-    ],
-    "published_at": 1795072620,
-    "title_hu": "VIDEO. Fetiță de 5 ani, căzută într-un canal descoperit, în județul Szatmárnémeti. Părinții acuză: „De luni întregi sunt lăsate așa. Așteptăm o tragedie?”",
-    "lead_hu": "Situație alarmantă în comuna Cămărzana, județul Szatmárnémeti, unde lucrările de introducere a rețelelor de apă și canalizare au devenit, potrivit localnicilor, un adevărat pericol public. Mai multe g…",
-    "content_hu": "Situație alarmantă în comuna Cămărzana, județul Szatmárnémeti, unde lucrările de introducere a rețelelor de apă și canalizare au devenit, potrivit localnicilor, un adevărat pericol public. Mai multe guri de canalizare ar fi fost lăsate descoperite de luni întregi,…",
-    "title_ro": "VIDEO. Fetiță de 5 ani, căzută într-un canal descoperit, în județul Satu Mare. Părinții acuză: „De luni întregi sunt lăsate așa. Așteptăm o tragedie?”",
-    "lead_ro": "Situație alarmantă în comuna Cămărzana, județul Szatmárnémeti, unde lucrările de introducere a rețelelor de apă și canalizare au devenit, potrivit localnicilor, un adevărat pericol public. Mai multe g…",
-    "content_ro": "Situație alarmantă în comuna Cămărzana, județul Szatmárnémeti, unde lucrările de introducere a rețelelor de apă și canalizare au devenit, potrivit localnicilor, un adevărat pericol public. Mai multe guri de canalizare ar fi fost lăsate descoperite de luni întregi,…",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_c80bc5505b",
-    "slug": "anthropic-debutul-pe-wall-street-al-unei-companii--c80bc5",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Anthropic: debutul pe Wall Street al unei companii de inteligență artificială bate recorduri",
-        "link": "https://hotnews.ro/anthropic-debutul-pe-wall-street-al-unei-companii-de-inteligenta-artificiala-bate-recorduri-2408099"
-      }
-    ],
-    "published_at": 1795072580,
-    "title_hu": "Anthropic: debutul pe Wall Street al unei companii de inteligență artificială bate recorduri",
-    "lead_hu": "Anthropic PBC și cei șapte cofondatori ai săi au strâns o sumă record de 107,3 ​​miliarde de dolari printr-o ofertă publică inițială (IPO) extinsă și un plasament privat, ceea ce face ca firma să fie …",
-    "content_hu": "Anthropic PBC și cei șapte cofondatori ai săi au strâns o sumă record de 107,3 ​​miliarde de dolari printr-o ofertă publică inițială (IPO) extinsă și un plasament privat, ceea ce face ca firma să fie primul laborator de inteligență artificială de frontieră care accesează piețele publice de capital pentru a finanța dezvoltarea sistemelor de inteligență …",
-    "title_ro": "Anthropic: debutul pe Wall Street al unei companii de inteligență artificială bate recorduri",
-    "lead_ro": "Anthropic PBC și cei șapte cofondatori ai săi au strâns o sumă record de 107,3 ​​miliarde de dolari printr-o ofertă publică inițială (IPO) extinsă și un plasament privat, ceea ce face ca firma să fie …",
-    "content_ro": "Anthropic PBC și cei șapte cofondatori ai săi au strâns o sumă record de 107,3 ​​miliarde de dolari printr-o ofertă publică inițială (IPO) extinsă și un plasament privat, ceea ce face ca firma să fie primul laborator de inteligență artificială de frontieră care accesează piețele publice de capital pentru a finanța dezvoltarea sistemelor de inteligență …",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_c9a6dc072a",
-    "slug": "nemzetkzi-startup-terkepre-kerul-marosvasarhely-17-c9a6dc",
-    "tags": [
-      "erdely"
-    ],
-    "category": "Erdély",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Pontmaros",
-        "title": "Nemzetközi startup-térképre kerül Marosvásárhely: 17 százalékkal erősödött a helyi innovációs ökoszisztéma",
-        "link": "https://www.pontmaros.ro/nemzetkozi-startup-terkepre-kerul-marosvasarhely-17-szazalekkal-erosodott-a-helyi-innovacios-okoszisztema/"
-      }
-    ],
-    "published_at": 1795072500,
-    "title_hu": "Nemzetközi startup-térképre kerül Marosvásárhely: 17 százalékkal erősödött a helyi innovációs ökoszisztéma",
-    "lead_hu": "Marosvásárhely egyre jelentősebb szerepet tölthet be az innovatív vállalkozások világában: a város startup-ökoszisztémájának pontszáma 17 százalékkal nőtt a StartupBlink által készített Global Startup…",
-    "content_hu": "Marosvásárhely egyre jelentősebb szerepet tölthet be az innovatív vállalkozások világában: a város startup-ökoszisztémájának pontszáma 17 százalékkal nőtt a StartupBlink által készített Global Startup Ecosystem Index …",
-    "title_ro": "Nemzetközi startup-térképre kerül Marosvásárhely: 17 százalékkal erősödött a helyi innovációs ökoszisztéma",
-    "lead_ro": "Marosvásárhely egyre jelentősebb szerepet tölthet be az innovatív vállalkozások világában: a város startup-ökoszisztémájának pontszáma 17 százalékkal nőtt a StartupBlink által készített Global Startup…",
-    "content_ro": "Marosvásárhely egyre jelentősebb szerepet tölthet be az innovatív vállalkozások világában: a város startup-ökoszisztémájának pontszáma 17 százalékkal nőtt a StartupBlink által készített Global Startup Ecosystem Index …",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_6fe147769b",
-    "slug": "marea-britanie-si-comisia-europeana-renunta-la-exp-6fe147",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Marea Britanie și Comisia Europeană renunță la expresia „parteneriat de încredere” din proiectul declarației summitului UE-Regatul Unit",
-        "link": "https://www.digi24.ro/stiri/externe/ue/marea-britanie-si-comisia-europeana-renunta-la-expresia-parteneriat-de-incredere-din-proiectul-declaratiei-summitului-ue-regatul-unit-4043247"
-      }
-    ],
-    "published_at": 1795072420,
-    "title_hu": "Marea Britanie și Comisia Europeană renunță la expresia „parteneriat de încredere” din proiectul declarației summitului UE-Regatul Unit",
-    "lead_hu": "Marea Britanie și Comisia Europeană au renunțat la referințele pentru formarea unui „parteneriat de încredere” în cel mai recent proiect al declarației comune a unui summit care va avea loc vineri, ce…",
-    "content_hu": "Marea Britanie și Comisia Europeană au renunțat la referințele pentru formarea unui „parteneriat de încredere” în cel mai recent proiect al declarației comune a unui summit care va avea loc vineri, ceea ce sugerează că discuțiile pentru ca UE să acorde Marii Britanii un statut special în temeiul regulilor „Made in Europe” ale blocului comunitar se dovedesc dificile, potrivit Reuters.",
-    "title_ro": "Marea Britanie și Comisia Europeană renunță la expresia „parteneriat de încredere” din proiectul declarației summitului UE-Regatul Unit",
-    "lead_ro": "Marea Britanie și Comisia Europeană au renunțat la referințele pentru formarea unui „parteneriat de încredere” în cel mai recent proiect al declarației comune a unui summit care va avea loc vineri, ce…",
-    "content_ro": "Marea Britanie și Comisia Europeană au renunțat la referințele pentru formarea unui „parteneriat de încredere” în cel mai recent proiect al declarației comune a unui summit care va avea loc vineri, ceea ce sugerează că discuțiile pentru ca UE să acorde Marii Britanii un statut special în temeiul regulilor „Made in Europe” ale blocului comunitar se dovedesc dificile, potrivit Reuters.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_cfb70c1e2c",
     "slug": "a-nato-val-egyeztet-romania-az-egeszsegugyi-valsagfelkeszulesrol-cfb70c",
     "tags": [
@@ -26618,7 +26720,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, a participat la întâlniri în cadrul NATO privind pregătirea sistemului medical pentru situații de urgență. Discuțiile au inclus continuitatea aprovizionării cu medicamente, capacitatea de extindere a serviciilor și organizarea sistemului de sânge și transfuzii.",
     "content_ro": "• **Alexandru Rogobete a anunțat participarea la întâlniri desfășurate în cadrul NATO**, unde au fost analizate pregătirea sistemului sanitar românesc pentru urgențe și menținerea accesului la medicamente. Ministrul a prezentat sănătatea drept o componentă a securității naționale și a evidențiat rolul cooperării internaționale.\n\n• **Un obiectiv al discuțiilor este îmbunătățirea procedurilor aplicate în România.** Rogobete a menționat revizuirea protocoalelor și a ghidurilor pentru sporirea siguranței actului medical. A fost abordată și posibilitatea extinderii rapide a serviciilor medicale în situații cu numeroase victime.\n\n• **Sistemul de sânge și transfuzii se află, de asemenea, pe agenda ministrului.** Rogobete dorește să studieze experiența unor state europene și a altor sisteme medicale considerate performante. Practicile analizate ar putea oferi repere pentru reorganizarea acestui domeniu în România.\n\n• **Participanții caută variante pentru menținerea rezervelor de medicamente esențiale.** Printre temele abordate se numără folosirea unor mecanisme internaționale în cazul întreruperilor de aprovizionare. Potrivit ministrului, astfel de soluții ar trebui să reducă riscul ca pacienții să nu găsească tratamente importante în spitale sau farmacii.\n\n• **Rogobete a subliniat cooperarea dintre Ministerul Sănătății, NATO și Comisia Europeană.** Dezvoltarea relațiilor cu partenerii externi este urmărită în contextul consolidării sistemului medical românesc și al îmbunătățirii capacității sale de reacție în situații de criză.",
     "importance_score": 70.0,
-    "top_rank": 195,
+    "top_rank": 194,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -26661,7 +26763,7 @@
     "lead_ro": "Poliția investighează un profesor din Pitești după ce au apărut suspiciuni că ar fi susținut idei legionare și naziste la ore și ar fi făcut afirmații antisemite. Ancheta include și posibile fapte legate de negarea Holocaustului sau de diminuarea gravității acestuia.",
     "content_ro": "• **Un profesor din Pitești este vizat de o anchetă privind presupusa promovare a unor ideologii extremiste.** Potrivit informațiilor prezentate de anchetatori, bărbatul predă într-o unitate de învățământ preuniversitar, iar comportamentul și afirmațiile sale din timpul orelor au intrat în atenția poliției.\n\n• **Verificările privesc idei legionare și naziste, alături de manifestări antisemite.** Polițiștii analizează și dacă profesorul ar fi făcut afirmații prin care Holocaustul este negat, contestat ori prezentat ca având o amploare mai redusă.\n\n• **Dosarul cuprinde suspiciuni referitoare la mai multe tipuri de fapte prevăzute de lege.** Ancheta poate viza glorificarea publică a unor persoane condamnate pentru genocid, crime împotriva umanității sau crime de război, precum și a unor lideri ai organizațiilor fasciste, legionare, rasiste ori xenofobe. Este verificată și eventuala răspândire a unor doctrine de acest fel.\n\n• **Sesizările unor elevi au adus cazul în atenția publică.** Edupedu.ro relatează că mai mulți cursanți de la Colegiul Național „Zinca Golescu” din Pitești au reclamat conduita profesorului în timpul orelor disciplinei „Istoria evreilor. Holocaustul”.\n\n• **Ancheta este în desfășurare, iar situația de fapt nu a fost încă stabilită definitiv.** Poliția continuă cercetările pentru clarificarea împrejurărilor și pentru a decide ce măsuri legale se impun. Suspiciunile investigate nu reprezintă, în acest stadiu, o concluzie definitivă privind vinovăția profesorului.",
     "importance_score": 30.0,
-    "top_rank": 196,
+    "top_rank": 195,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -26705,7 +26807,7 @@
     "lead_ro": "Armata israeliană a anunțat joi încheierea operațiunii lansate cu o zi înainte în centrul Fâșiei Gaza. Confruntările au determinat locuitori să părăsească zonele vizate, iar autoritățile au permis din nou circulația în apropiere de Nuseirat și al-Bureij.",
     "content_ro": "• **Operațiunea s-a încheiat:** armata israeliană a lansat miercuri o intervenție terestră în centrul Fâșiei Gaza și a declarat joi că aceasta s-a terminat. Organismul israelian responsabil de coordonarea afacerilor civile în teritoriile palestiniene a anunțat reluarea circulației în zonele afectate, în apropierea taberelor Nuseirat și al-Bureij.\n\n• **Armata a indicat un tunel drept țintă:** potrivit armatei israeliene și serviciului de securitate internă Shin Bet, intervenția a urmărit distrugerea unui tunel al Hamas aflat la vest de Linia Galbenă. Comunicatul israelian a prezentat structura drept un pericol direct pentru militarii săi.\n\n• **Au fost semnalate tancuri și bombardamente de artilerie:** martori au observat tancuri israeliene în apropiere de Nuseirat, iar o sursă din serviciile de securitate din Gaza a relatat despre tiruri intense de artilerie la nord de tabără. În zonă au avut loc și lovituri aeriene și schimburi de focuri.\n\n• **Unii locuitori au plecat din zonele vizate:** bombardamentele au determinat mai multe persoane să se deplaseze. Incursiunea a fost una dintre rarele intervenții terestre israeliene de la armistițiul intrat în vigoare în octombrie 2025; Linia Galbenă separă zonele aflate sub control israelian de cele controlate de Hamas.\n\n• **Fuseseră raportate trei decese palestiniene:** surse medicale au menționat o persoană ucisă într-un atac aerian în apropierea incursiunii și alte două victime ale unor atacuri anterioare, la Deir al-Balah și în orașul Gaza. Autoritățile sanitare din Gaza au raportat cel puțin 1.600 de palestinieni uciși de la începutul armistițiului, iar armata israeliană a anunțat moartea a cinci militari.",
     "importance_score": 30.0,
-    "top_rank": 197,
+    "top_rank": 196,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -26744,7 +26846,7 @@
     "lead_ro": "În 19 noiembrie, de la ora 11:00, s-a semnalat un aflux ridicat de camioane la ieșirea din România, prin punctul de trecere Siret. Aproximativ 350 de vehicule de marfă formau o coloană de circa cinci kilometri.",
     "content_ro": "• **Traficul de camioane s-a intensificat la Siret începând cu ora 11:00, pe 19 noiembrie.** Blocajul a afectat vehiculele care ieșeau din România spre Ucraina, potrivit informațiilor comunicate de Poliția de Frontieră Română.\n\n• **În coloană se aflau aproximativ 350 de autovehicule de transport marfă.** Șirul de camioane se întindea pe circa cinci kilometri, iar timpul de așteptare raportat ajunsese la 420 de minute, echivalentul a șapte ore.\n\n• **Toate cele trei benzi pentru verificarea vehiculelor de marfă erau folosite.** Polițiștii de frontieră au desfășurat controalele pe fiecare dintre acestea, încercând să gestioneze numărul mare de camioane și să reducă întârzierile.\n\n• **Autoritățile române au discutat cu omologii ucraineni despre fluidizarea circulației.** Cooperarea urmărea sincronizarea verificărilor de frontieră și identificarea unor măsuri comune pentru administrarea fluxului de transport.\n\n• **Datele făcute publice descriu situația transportului de marfă.** Informarea Poliției de Frontieră a precizat numărul aproximativ al camioanelor, lungimea coloanei și durata așteptării; nu au fost oferite cifre privind alte categorii de vehicule.",
     "importance_score": 20.0,
-    "top_rank": 198,
+    "top_rank": 197,
     "is_top_hero": false,
     "is_top_list": true
   },
