@@ -216,7 +216,7 @@
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 8,
+    "sources_count": 9,
     "sources": [
       {
         "source": "HotNews.ro",
@@ -257,6 +257,11 @@
         "source": "Adevărul",
         "title": "„El Chapo Isidro”, unul dintre cei mai căutați fugari de FBI, capturat în Mexic. 11 morți după izbucnirea violențelor",
         "link": "https://adevarul.ro/stiri-externe/in-lume/el-chapo-isidro-unul-dintre-cei-mai-cautati-2573408.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Bilanţul capturării lui „El Chapo Isidro”, liderul unui cartel mexican al drogurilor: patru militari mexicani şi şapte presupuşi delincvenţi ucişi",
+        "link": "https://www.g4media.ro/bilantul-capturarii-lui-el-chapo-isidro-liderul-unui-cartel-mexican-al-drogurilor-patru-militari-mexicani-si-sapte-presupusi-delincventi-ucisi.html"
       }
     ],
     "published_at": 1795335910,
@@ -266,7 +271,7 @@
     "title_ro": "Alți doi suspecți au fost reținuți odată cu liderul de cartel căutat de FBI",
     "lead_ro": "Autoritățile mexicane l-au capturat pe Fausto Isidro Meza Flores în Guasave și au reținut alte două persoane despre care afirmă că făceau parte din gruparea sa. Violențele izbucnite după operațiune s-au soldat, potrivit autorităților, cu 11 morți și au fost însoțite de blocaje rutiere și incendieri.",
     "content_ro": "• **Meza Flores a fost capturat pe 20 noiembrie, în Guasave.** Ministerul mexican al Apărării a atribuit localizarea sa cooperării dintre structurile de informații din Mexic și Statele Unite. Guvernul a confirmat și contribuția unor informații transmise de administrația Trump. Guasave se află la aproximativ 150 de kilometri de Culiacán, capitala statului Sinaloa.\n\n• **În aceeași operațiune au fost reținute alte două persoane.** Forțe speciale ale armatei și Gărzii Naționale, împreună cu militari din structurile de securitate ale statului Sinaloa, i-au prins pe Meza Flores, pe Germán N., prezentat drept secundul grupării, și pe José N., despre care autoritățile spun că se ocupa de finanțele acesteia.\n\n• **Militarii au fost atacați cu arme de foc și explozibili.** Forțele mexicane au securizat zona din jurul clădirii în care se afla suspectul, apoi au intrat într-o locuință și au făcut reținerile. Meza Flores și celelalte persoane capturate au fost transportate ulterior la Ciudad de México.\n\n• **Patru militari și șapte presupuşi membri ai cartelului au murit în confruntări.** Relatările din Guasave menționează cel puțin zece blocaje rutiere, vehicule și benzinării incendiate. Elicoptere au survolat zona, iar spectatorii unui meci de baseball au fugit după ce au auzit focuri de armă.\n\n• **FBI îl includea pe Meza Flores între cei mai căutați zece fugari ai săi.** Pentru capturarea sa era oferită o recompensă de cinci milioane de dolari. În Mexic era căutat pentru fapte legate de criminalitatea organizată și droguri; în Statele Unite era vizat pentru conspirație în vederea distribuirii de droguri, deținere ilegală de arme și extrădare.",
-    "importance_score": 95.0,
+    "importance_score": 105.0,
     "top_rank": 3,
     "is_top_hero": false,
     "is_top_list": true
@@ -1093,55 +1098,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_296658003e",
-    "slug": "legi-riasztas-tulcea-megyeben-f16-osok-emelkedtek-a-levegobe-296658",
-    "tags": [
-      "tulcea",
-      "f16",
-      "ro-alert",
-      "aparare",
-      "drone"
-    ],
-    "fingerprint": "d5c235958b4a84377e4e55bfed38d7a0",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "UPDATE Mesaj RO-ALERT în Tulcea. Două avioane F-16 au decolat de la Fetești. Țintă detectată la 63 de km de localitatea Vâlcove",
-        "link": "https://www.mediafax.ro/social/mesaj-ro-alert-de-tip-alerta-extrema-in-tulcea-posibila-incursiune-de-drone-23847382"
-      },
-      {
-        "source": "Digi24",
-        "title": "Alertă aeriană noaptea trecută, în județul Tulcea: posibile incursiuni de drone",
-        "link": "https://www.digi24.ro/stiri/alerta-aeriana-noaptea-trecuta-in-judetul-tulcea-posibile-incursiuni-de-drone-4047563"
-      },
-      {
-        "source": "G4Media",
-        "title": "Mesaj RO-ALERT de tip Alertă Extremă în Tulcea după o posibilă incursiune de drone",
-        "link": "https://www.g4media.ro/mesaj-ro-alert-de-tip-alerta-extrema-in-tulcea-dupa-o-posibila-incursiune-de-drone.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Alertă aeriană în Tulcea: mesaj RO-Alert emis în timpul nopții. Două avioane F-16, ridicate de la sol",
-        "link": "https://hotnews.ro/alerta-aeriana-in-tulcea-mesaj-ro-alert-emis-in-timpul-noptii-doua-avioane-f-16-ridicate-de-la-sol-2410770"
-      }
-    ],
-    "published_at": 1795328942,
-    "title_hu": "Légi riasztás Tulcea megyében: F–16-osok emelkedtek a levegőbe",
-    "lead_hu": "November 22-én éjjel Ukrajna fölött, Vâlcovétól 63 kilométerre északkeletre észleltek légi célpontot. A román légierő két vadászgépet indított, Tulcea megye több térségében pedig rendkívüli RO-ALERT-figyelmeztetést adtak ki.",
-    "content_hu": "• **A célpontot Ukrajna területén észlelték:** a román védelmi minisztérium tájékoztatása szerint a szombatról vasárnapra virradó éjjel Vâlcove településtől 63 kilométerre északkeletre bukkantak rá.\n\n• **Két F–16-os szállt fel Fetești-ből:** a román légierő 86. légibázisáról induló gépek légi rendészeti készültséget láttak el, és az észlelt célpont miatt emelkedtek a levegőbe.\n\n• **Éjjel 00:46-kor rendkívüli riasztást kaptak a helyiek:** az IGSU rendszere Tulcea megye északi és keleti részeire küldött RO-ALERT-üzenetet egy lehetséges drónbehatolás veszélyére figyelmeztetve. A készültség 02:14-kor ért véget.\n\n• **A hatóságok nem erősítettek meg légtérsértést:** a figyelmeztetésből nem lehetett megállapítani, mely területet fenyegette a veszély, és a feltételezett drónok kiindulási helyéről sem adtak tájékoztatást. További részleteket egyelőre nem közöltek.\n\n• **A lakosságnak nyugodt, óvatos magatartást javasoltak:** aki tehette, pincében vagy polgári védelmi óvóhelyen húzódjon meg; mások maradjanak az épület belsejében, az ablakoktól és külső falaktól távol. A friss hírekért az IGSU és a védelmi minisztérium tájékoztatását ajánlották.",
-    "title_ro": "Alertă aeriană în Tulcea: avioane F–16 ridicate de la sol",
-    "lead_ro": "În noaptea de 22 noiembrie, a fost observat un obiect aerian în Ucraina, la 63 de kilometri nord-est de Vâlcove. Două aeronave ale Forțelor Aeriene Române au fost trimise în misiune, iar locuitorii unor zone din județul Tulcea au primit o notificare RO-ALERT de nivel extrem.",
-    "content_ro": "• **Obiectul aerian a fost detectat în Ucraina:** potrivit Ministerului Apărării, semnalarea a avut loc în noaptea de sâmbătă spre duminică, la 63 de kilometri nord-est de localitatea Vâlcove.\n\n• **Două aeronave F–16 au decolat de la Fetești:** aparatele de la Baza 86 Aeriană, aflate în serviciul de poliție aeriană, au fost ridicate după observarea țintei.\n\n• **Avertizarea de nivel extrem a ajuns la populație la 00:46:** mesajul RO-ALERT a vizat nordul și estul județului Tulcea și a semnalat posibilitatea prezenței unor drone. Alerta aeriană a fost încheiată la ora 02:14.\n\n• **Nu a fost confirmată intrarea unui aparat în spațiul aerian românesc:** notificarea nu identifica locul exact amenințat și nici punctul de proveniență al dronelor presupuse. Până la acel moment, autoritățile nu furnizaseră informații suplimentare.\n\n• **Oamenii au fost îndrumați să se adăpostească și să urmărească anunțurile oficiale:** recomandarea era folosirea unui beci sau a unui adăpost de protecție civilă. În lipsa acestora, locuitorii trebuiau să rămână în interior, la distanță de ferestre și de pereții exteriori, și să urmărească informările IGSU și ale Ministerului Apărării.",
-    "importance_score": 60.0,
-    "top_rank": 18,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_657570e0c5",
     "slug": "kilenc-futescso-zuhant-egy-munkasra-aradon-a-ferfi-meghalt-657570",
     "tags": [
@@ -1195,7 +1151,7 @@
     "lead_ro": "Un accident mortal s-a produs sâmbătă dimineață, pe strada Dacilor din Arad, în timpul unor lucrări la rețeaua de termoficare. Bărbatul a fost scos de sub conducte de echipele de intervenție, însă nu a putut fi salvat.",
     "content_ro": "• **Accidentul a avut loc sâmbătă dimineață, pe strada Dacilor.** Un muncitor de aproximativ 50 de ani transporta conducte pentru rețeaua de termoficare cu un tractor și ajunsese în zona de descărcare. ISU Arad a indicat inițial că incidentul s-a produs în timpul manipulării țevilor.\n\n• **Nouă conducte, fiecare cântărind aproximativ o tonă, au căzut peste bărbat.** Pe remorcă se aflau în total douăsprezece bucăți. Potrivit relatării despre accident, muncitorul s-ar fi urcat pe remorcă pentru a desface chingile, în timp ce o macara urma să ridice încărcătura.\n\n• **Țevile s-au deplasat și l-au proiectat pe muncitor într-un șanț.** Bărbatul a murit la fața locului. La intervenție au participat pompierii din Arad, cu o autospecială de descarcerare, două autospeciale de stingere și o ambulanță SMURD de Terapie Intensivă Mobilă.\n\n• **Poliția și Inspectoratul Teritorial de Muncă verifică împrejurările accidentului.** Ancheta urmărește inclusiv dacă au fost respectate normele de securitate și sănătate în muncă în timpul operațiunilor de descărcare.\n\n• **Salvatorii au constatat că leziunile victimei nu îi permiteau supraviețuirea.** Pompierii l-au extras de sub conducte, însă intervenția nu i-a putut salva viața; verificările autorităților urmează să clarifice modul în care s-a produs accidentul.",
     "importance_score": 60.0,
-    "top_rank": 19,
+    "top_rank": 18,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1254,7 +1210,7 @@
     "lead_ro": "În Belgia este anunțată o acțiune națională pentru 23 noiembrie, iar în Italia sunt prevăzute greve în transportul feroviar și aerian între 20 și 22 noiembrie. Ministerul român de Externe le recomandă călătorilor să verifice cursele înainte de plecare și să ia în calcul variante alternative.",
     "content_ro": "• **În Belgia, pe 23 noiembrie este programată o grevă națională însoțită de o manifestație.** Avertizarea MAE se adresează românilor aflați în țară, în tranzit sau care urmează să călătorească acolo. Pot apărea perturbări la STIB, în Bruxelles, și la De Lijn, în Flandra; informațiile actualizate sunt disponibile pe stib-mivb.be și delijn.be.\n\n• **Greva feroviară din Italia a început pe 20 noiembrie, la ora 21:00, și se încheie pe 21 noiembrie, la ora 20:00.** Călătorii pot întâmpina întârzieri sau anulări ale trenurilor. Pentru situația curselor, este indicată verificarea anunțurilor publicate de operatorii feroviari.\n\n• **Transportul aerian din Italia poate fi afectat pe 21 și 22 noiembrie.** Duminică, 22 noiembrie, de la ora 00:01 până la miezul nopții, participă la grevă personalul de control al traficului aerian ENAV și angajații firmei de securitate Sicuritalia IVRI de pe aeroporturile Milano-Malpensa și Veneția-Marco Polo. Verificările de securitate pot dura mai mult.\n\n• **Pasagerii afectați pot avea dreptul la rambursare sau la redirecționare.** Potrivit MAE, drepturile europene aplicabile transportului aerian sunt prevăzute de Regulamentul (CE) nr. 261/2004, iar cele pentru călătoriile feroviare de Regulamentul (UE) 2021/782.\n\n• **Călătorilor li se recomandă să prevadă timp suplimentar și să verifice din timp opțiunile de transport.** Pentru cursele din Italia, informațiile trebuie confirmate la companiile aeriene și operatorii feroviari; detalii consulare sunt publicate pe roma.mae.ro, cgroma.mae.ro și mae.ro, precum și în aplicația Călătorește informat. Pentru urgențe consulare în Belgia, românii pot suna la numărul de permanență al ambasadei: +32 (0) 497 428 663.",
     "importance_score": 60.0,
-    "top_rank": 20,
+    "top_rank": 19,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1308,7 +1264,7 @@
     "lead_ro": "Poliția Română a analizat 1.624 de sesizări privind fraude online cu investiții în acțiuni și criptomonede, înregistrate în primele nouă luni din 2026. Pensionarii și persoanele de vârstă mijlocie au reprezentat cele mai numeroase categorii de victime, iar prejudiciile au fost estimate la zeci de milioane.",
     "content_ro": "• **Analiza a cuprins 1.624 de sesizări.** Institutul de Cercetare și Prevenire a Criminalității din cadrul Poliției Române a examinat cazurile de fraudă online cu investiții în acțiuni și criptomonede înregistrate între 1 ianuarie și 30 septembrie 2026.\n\n• **Pensionarii au reprezentat cea mai mare categorie de victime.** Ei au constituit 40,5% dintre persoanele păgubite, iar angajații, 38,9%. În total, 79% dintre victime locuiau în mediul urban, adică 1.278 de persoane.\n\n• **Majoritatea victimelor aveau între 46 și 75 de ani.** Acest segment a însumat 64,1% din total; cea mai tânără persoană avea 16 ani, iar cea mai în vârstă, 93. Cel mai des apăreau persoane de 66–75 de ani cu studii medii. În ansamblu, 50,7% aveau cel mult studii medii, iar 34,9% studii superioare.\n\n• **În 80,5% dintre cazuri, victimelor li s-a cerut să transfere bani.** Promisiunile legate de acțiuni au apărut în 872 de sesizări, reprezentând 53,7% din total. Ofertele bazate pe criptomonede au fost consemnate în 385 de cazuri, respectiv 23,7%.\n\n• **Clasamentul victimelor s-a modificat față de 2024.** În primele nouă luni ale acelui an au fost înregistrate 1.555 de victime angajate și 1.276 de pensionari. În doi ani, numărul angajaților păgubiți a scăzut cu 59,4%, iar cel al pensionarilor cu 48,4%. Pierderile din 2026 au fost de ordinul zecilor de milioane.",
     "importance_score": 58.0,
-    "top_rank": 21,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1356,7 +1312,7 @@
     "lead_ro": "Ministrul Sănătății, Alexandru Rogobete, a evaluat sistemul medical din România cu nota 8, într-un interviu acordat sâmbătă postului Digi24, invocând evoluțiile din ultimii ani. El a admis că sunt necesare în continuare schimbări; apariția sa a avut loc după ce i s-a cerut demisia în urma reacției la semnalarea lipsei unui medicament oncologic.",
     "content_ro": "• **A evaluat sistemul cu nota 8.** În emisiunea Digi24 de sâmbătă, Rogobete a spus că în urmă cu zece ani i-ar fi acordat nota 4, iar cu cinci ani în urmă nota 6. În opinia sa, aprecierea serviciilor medicale trebuie să țină seama și de evoluția în timp.\n\n• **A pus îmbunătățirea pe seama investițiilor recente.** Ministrul a menționat spitale construite, secții renovate, aparatură modernă și medicamente inovatoare devenite disponibile în ultimii patru-cinci ani. El a apreciat că situația este mai bună decât în trecut, deși persistă probleme care trebuie rezolvate.\n\n• **A contestat calificarea sistemului drept unul dintre cele mai slabe din Europa.** Rogobete a susținut că, pentru unele servicii, pacienții din România au acces mai rapid decât cei din alte țări, precizând că această comparație nu se aplică tuturor categoriilor de îngrijire.\n\n• **A invocat timpii de așteptare și costurile asigurării din străinătate.** Potrivit ministrului, în Anglia așteptarea pentru un RMN poate ajunge la șase luni. Despre Belgia, unde locuiesc părinții săi, a afirmat că asigurarea de sănătate poate costa până la un sfert din salariu; totodată, a descris contribuțiile la sănătate din România ca fiind reduse în raport cu cele din alte state europene.\n\n• **Interviul a urmat unor solicitări de demisie.** G4Media a relatat că criticile la adresa ministrului s-au intensificat după ce jurnalista Liliana Ruse a semnalat lipsa unui medicament oncologic, iar Rogobete a reacționat. Discuția a avut loc în emisiunea „La cină” de la Digi24.",
     "importance_score": 55.0,
-    "top_rank": 22,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1405,7 +1361,7 @@
     "lead_ro": "Paolo Bulgari, fostul președinte al casei de bijuterii a familiei, a murit la Roma, la 89 de ani. Activitatea sa a contribuit la transformarea companiei într-un brand de lux cunoscut la nivel internațional; el intrase în afacerea familiei în 1960.",
     "content_ro": "• **Paolo Bulgari a murit la Roma, la vârsta de 89 de ani.** Decesul a fost anunțat de familie și de companie, care face parte din grupul francez LVMH. Familia l-a descris drept o figură de prim rang a bijuteriei contemporane.\n\n• **Și-a început activitatea în afacerea familiei în 1960.** A lucrat alături de tatăl său, apoi s-a remarcat prin cunoștințele despre pietre prețioase. A contribuit la conturarea identității mărcii și a sprijinit dezvoltarea tinerilor bijutieri.\n\n• **Stilul Bulgari s-a distins prin piese colorate și forme îndrăznețe.** Creațiile combinau pietre cu nuanțe puternice, aur galben, dimensiuni generoase și asocieri cromatice neobișnuite, diferite de estetica discretă asociată caselor pariziene. Bijuteriile au fost purtate de staruri de la Hollywood și membri ai familiilor regale, inclusiv de Diana, prințesa de Wales.\n\n• **Paolo Bulgari a condus grupul din 1984 până în 2011.** În perioada conducerii sale, compania și-a extins prezența pe piețele internaționale. În 2011, LVMH a cumpărat Bulgari de la Paolo și fratele său, Nicola.\n\n• **Activitatea companiei s-a diversificat dincolo de bijuterii.** Portofoliul a ajuns să includă ceasuri, parfumuri, articole din piele și hoteluri. Bunicul lui Paolo, Sotirio Bulgari, a deschis primul magazin al familiei la Roma în 1884. Bernard Arnault, directorul general al LVMH, a transmis condoleanțe familiei și angajaților.",
     "importance_score": 55.0,
-    "top_rank": 23,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1453,7 +1409,7 @@
     "lead_ro": "Polițiștii și jandarmii au intervenit sâmbătă după izbucnirea unei altercații la o benzinărie din Târgu-Neamț. Mai multe persoane au fost duse la poliție, iar cazul este cercetat penal.",
     "content_ro": "• **Incidentul a început sâmbătă, într-o stație de carburanți din Târgu-Neamț:** poliția a fost sesizată în jurul orei 17:51. Conform primelor informații, în stație se aflau suporteri ai echipei Poli Timișoara, veniți în patru microbuze, iar între aceștia și un șofer în vârstă de 23 de ani a apărut o neînțelegere.\n\n• **Disputa ar fi pornit după ce tânărul s-a arătat deranjat de un claxon:** acesta ar fi coborât din autoturism, ar fi adresat injurii și ar fi luat o piatră, intenționând să o arunce spre unul dintre microbuze. Mai mulți suporteri au coborât din vehicule, iar apoi s-a produs o încăierare în care au intervenit și alte persoane.\n\n• **Un geam lateral al unui microbuz a fost spart în timp ce vehiculele plecau:** potrivit verificărilor preliminare, tânărul ar fi aruncat cu o piatră în acel vehicul. Ulterior, câteva persoane au coborât și l-au urmărit prin parcarea unui magazin din apropiere. Tânărul s-a adăpostit în incinta magazinului și a sunat la numărul de urgență 112.\n\n• **Polițiștii și jandarmii au oprit conflictul și au dus persoanele implicate la sediul poliției:** acestea au fost audiate pentru clarificarea împrejurărilor. Inspectoratul de Poliție Județean Neamț a deschis un dosar penal pentru tulburarea ordinii și liniștii publice, precum și pentru lovire sau alte violențe; cercetările continuă.\n\n• **În aceeași zi, Poli Timișoara a câștigat cu 1–0 în deplasare partida cu Cetatea Suceava:** meciul s-a disputat în etapa a XIV-a a Ligii a II-a. Informațiile publicate nu indică o legătură directă între rezultat sau deplasarea suporterilor și altercația de la benzinărie.",
     "importance_score": 55.0,
-    "top_rank": 24,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1507,6 +1463,55 @@
     "lead_ro": "Matthew Jones, general-locotenent și șef al serviciului britanic de informații militare, consideră că Rusia nu urmărește în prezent un război cu NATO. El avertizează însă că acțiunile tot mai riscante ale Moscovei ar putea provoca o criză gravă și indică incidente din Europa și din zona Mării Negre.",
     "content_ro": "• **Jones se teme de o eroare de calcul cu urmări grave.** Șeful serviciului britanic de informații militare, cu grad de general-locotenent, apreciază că Rusia nu caută în mod activ un război cu NATO. Totuși, comportamentul Moscovei devine mai riscant, iar presiunea asupra lui Vladimir Putin ar putea contribui la o atitudine mai dură față de Occident.\n\n• **Incidentul cu drone de la aeroportul din Leipzig a fost evidențiat.** Jones l-a indicat drept unul dintre cazurile recente deosebit de grave. Specialiștii britanici urmăresc și scufundarea unor nave comerciale în apele teritoriale ale României, în Marea Neagră.\n\n• **Un avion britanic de recunoaștere a fost, la rândul său, în pericol.** Potrivit lui Jones, o aeronavă Rivet Joint a Royal Air Force a fost aproape lovită în timp ce se afla deasupra Mării Negre.\n\n• **O afacere ucraineană din estul Londrei a fost ținta unui incendiu provocat.** Jones a prezentat atacul, despre care a spus că a beneficiat de sprijin rusesc, ca exemplu legat de Regatul Unit.\n\n• **Cazul de la Salisbury din 2018 s-a soldat cu moartea unei persoane.** Atacul cu agent Noviciok i-a vizat pe Serghei Skripal și pe fiica sa, Iulia, iar Dawn Sturgess a murit după ce a intrat în contact cu substanța neurotoxică. Jones a apreciat că urmările puteau fi mult mai grave.",
     "importance_score": 55.0,
+    "top_rank": 24,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_296658003e",
+    "slug": "legi-riasztas-tulcea-megyeben-f16-osok-emelkedtek-a-levegobe-296658",
+    "tags": [
+      "tulcea",
+      "f16",
+      "ro-alert",
+      "aparare",
+      "drone"
+    ],
+    "fingerprint": "d5c235958b4a84377e4e55bfed38d7a0",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "UPDATE Mesaj RO-ALERT în Tulcea. Două avioane F-16 au decolat de la Fetești. Țintă detectată la 63 de km de localitatea Vâlcove",
+        "link": "https://www.mediafax.ro/social/mesaj-ro-alert-de-tip-alerta-extrema-in-tulcea-posibila-incursiune-de-drone-23847382"
+      },
+      {
+        "source": "Digi24",
+        "title": "Alertă aeriană noaptea trecută, în județul Tulcea: posibile incursiuni de drone",
+        "link": "https://www.digi24.ro/stiri/alerta-aeriana-noaptea-trecuta-in-judetul-tulcea-posibile-incursiuni-de-drone-4047563"
+      },
+      {
+        "source": "G4Media",
+        "title": "Mesaj RO-ALERT de tip Alertă Extremă în Tulcea după o posibilă incursiune de drone",
+        "link": "https://www.g4media.ro/mesaj-ro-alert-de-tip-alerta-extrema-in-tulcea-dupa-o-posibila-incursiune-de-drone.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Alertă aeriană în Tulcea: mesaj RO-Alert emis în timpul nopții. Două avioane F-16, ridicate de la sol",
+        "link": "https://hotnews.ro/alerta-aeriana-in-tulcea-mesaj-ro-alert-emis-in-timpul-noptii-doua-avioane-f-16-ridicate-de-la-sol-2410770"
+      }
+    ],
+    "published_at": 1795328942,
+    "title_hu": "Légi riasztás Tulcea megyében: F–16-osok emelkedtek a levegőbe",
+    "lead_hu": "November 22-én éjjel Ukrajna fölött, Vâlcovétól 63 kilométerre északkeletre észleltek légi célpontot. A román légierő két vadászgépet indított, Tulcea megye több térségében pedig rendkívüli RO-ALERT-figyelmeztetést adtak ki.",
+    "content_hu": "• **A célpontot Ukrajna területén észlelték:** a román védelmi minisztérium tájékoztatása szerint a szombatról vasárnapra virradó éjjel Vâlcove településtől 63 kilométerre északkeletre bukkantak rá.\n\n• **Két F–16-os szállt fel Fetești-ből:** a román légierő 86. légibázisáról induló gépek légi rendészeti készültséget láttak el, és az észlelt célpont miatt emelkedtek a levegőbe.\n\n• **Éjjel 00:46-kor rendkívüli riasztást kaptak a helyiek:** az IGSU rendszere Tulcea megye északi és keleti részeire küldött RO-ALERT-üzenetet egy lehetséges drónbehatolás veszélyére figyelmeztetve. A készültség 02:14-kor ért véget.\n\n• **A hatóságok nem erősítettek meg légtérsértést:** a figyelmeztetésből nem lehetett megállapítani, mely területet fenyegette a veszély, és a feltételezett drónok kiindulási helyéről sem adtak tájékoztatást. További részleteket egyelőre nem közöltek.\n\n• **A lakosságnak nyugodt, óvatos magatartást javasoltak:** aki tehette, pincében vagy polgári védelmi óvóhelyen húzódjon meg; mások maradjanak az épület belsejében, az ablakoktól és külső falaktól távol. A friss hírekért az IGSU és a védelmi minisztérium tájékoztatását ajánlották.",
+    "title_ro": "Alertă aeriană în Tulcea: avioane F–16 ridicate de la sol",
+    "lead_ro": "În noaptea de 22 noiembrie, a fost observat un obiect aerian în Ucraina, la 63 de kilometri nord-est de Vâlcove. Două aeronave ale Forțelor Aeriene Române au fost trimise în misiune, iar locuitorii unor zone din județul Tulcea au primit o notificare RO-ALERT de nivel extrem.",
+    "content_ro": "• **Obiectul aerian a fost detectat în Ucraina:** potrivit Ministerului Apărării, semnalarea a avut loc în noaptea de sâmbătă spre duminică, la 63 de kilometri nord-est de localitatea Vâlcove.\n\n• **Două aeronave F–16 au decolat de la Fetești:** aparatele de la Baza 86 Aeriană, aflate în serviciul de poliție aeriană, au fost ridicate după observarea țintei.\n\n• **Avertizarea de nivel extrem a ajuns la populație la 00:46:** mesajul RO-ALERT a vizat nordul și estul județului Tulcea și a semnalat posibilitatea prezenței unor drone. Alerta aeriană a fost încheiată la ora 02:14.\n\n• **Nu a fost confirmată intrarea unui aparat în spațiul aerian românesc:** notificarea nu identifica locul exact amenințat și nici punctul de proveniență al dronelor presupuse. Până la acel moment, autoritățile nu furnizaseră informații suplimentare.\n\n• **Oamenii au fost îndrumați să se adăpostească și să urmărească anunțurile oficiale:** recomandarea era folosirea unui beci sau a unui adăpost de protecție civilă. În lipsa acestora, locuitorii trebuiau să rămână în interior, la distanță de ferestre și de pereții exteriori, și să urmărească informările IGSU și ale Ministerului Apărării.",
+    "importance_score": 53.0,
     "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
@@ -4962,37 +4967,33 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_bb2d25e5d3",
-    "slug": "marea-britanie-recunoaste-ca-a-lansat-atacuri-cibe-bb2d25",
+    "group_id": "group_9b65584fd6",
+    "slug": "compania-tesla-este-acuzata-ca-a-vandut-panouri-solare-care-nu-au-functionat-nic-9b6558",
     "tags": [
       "altalanos"
     ],
     "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/pexels-budget-bizar-92378004-16427010-1024x671.jpg",
     "is_synthesized": false,
-    "sources_count": 2,
+    "sources_count": 1,
     "sources": [
       {
-        "source": "ProTV Stiri",
-        "title": "Marea Britanie recunoaște că a lansat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord",
-        "link": "https://stirileprotv.ro/marea-britanie-recunoaste-ca-a-lansat-atacuri-cibernetice-impotriva-rusiei-chinei-iranului-si-coreei-de-nord.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Marea Britanie recunoaște că a lansat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord",
-        "link": "https://stirileprotv.ro/stiri/international/marea-britanie-recunoaste-ca-a-lansat-atacuri-cibernetice-impotriva-rusiei-chinei-iranului-si-coreei-de-nord.html"
+        "source": "Mediafax",
+        "title": "Compania Tesla este acuzată că a vândut panouri solare care nu au funcționat niciodată",
+        "link": "https://www.mediafax.ro/economic/compania-tesla-este-acuzata-ca-a-vandut-panouri-solare-care-nu-au-functionat-niciodata-23843628"
       }
     ],
-    "published_at": 1795253272,
-    "title_hu": "Marea Britanie recunoaște că a lansat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord",
-    "lead_hu": "Marea Britanie a recunoscut pentru prima dată că a desfășurat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord.",
-    "content_hu": "Marea Britanie a recunoscut pentru prima dată că a desfășurat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord.",
-    "title_ro": "Marea Britanie recunoaște că a lansat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord",
-    "lead_ro": "Marea Britanie a recunoscut pentru prima dată că a desfășurat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord.",
-    "content_ro": "Marea Britanie a recunoscut pentru prima dată că a desfășurat atacuri cibernetice împotriva Rusiei, Chinei, Iranului și Coreei de Nord.",
-    "importance_score": 20.0,
-    "top_rank": 110,
+    "published_at": 1795339537,
+    "title_hu": "Compania Tesla este acuzată că a vândut panouri solare care nu au funcționat niciodată",
+    "lead_hu": "Compania Tesla este acuzată că a vândut panouri solare care nu au funcționat niciodată. Totul a pornit de la plângerea unui american care susține că sistemul achiziționat i-a distrus casa producându-i...",
+    "content_hu": "Compania Tesla este acuzată că a vândut panouri solare care nu au funcționat niciodată. Totul a pornit de la plângerea unui american care susține că sistemul achiziționat i-a distrus casa producându-i pagube de ordinul milioanelor de dolari.",
+    "title_ro": "Compania Tesla este acuzată că a vândut panouri solare care nu au funcționat niciodată",
+    "lead_ro": "Compania Tesla este acuzată că a vândut panouri solare care nu au funcționat niciodată. Totul a pornit de la plângerea unui american care susține că sistemul achiziționat i-a distrus casa producându-i...",
+    "content_ro": "Compania Tesla este acuzată că a vândut panouri solare care nu au funcționat niciodată. Totul a pornit de la plângerea unui american care susține că sistemul achiziționat i-a distrus casa producându-i pagube de ordinul milioanelor de dolari.",
+    "importance_score": 0.0,
+    "top_rank": null,
     "is_top_hero": false,
-    "is_top_list": true
+    "is_top_list": false
   },
   {
     "group_id": "group_b50d9112b5",
@@ -16885,118 +16886,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_4220fe5659",
-    "slug": "lando-norris-a-facut-praf-monopostul-mclaren-catas-4220fe",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Lando Norris a făcut praf monopostul McLaren: „Catastrofal!”",
-        "link": "https://www.gsp.ro/sporturi/formula-1/lando-norris-formula-1-marele-premiu-las-vegas-1001376.html"
-      }
-    ],
-    "published_at": 1795253506,
-    "title_hu": "Lando Norris a făcut praf monopostul McLaren: „Catastrofal!”",
-    "lead_hu": "Lando Norris a declarat că monopostul McLaren este „catastrofal” de lent pe liniile drepte lungi ale circuitului din Las Vegas, după ce pilotul britanic nu a avut nicio șansă reală de a lupta pentru p…",
-    "content_hu": "Lando Norris a declarat că monopostul McLaren este „catastrofal” de lent pe liniile drepte lungi ale circuitului din Las Vegas, după ce pilotul britanic nu a avut nicio șansă reală de a lupta pentru pole position în „Orașul Păcatelor”. Norris a încheiat calificările pe locul patru, la o diferență de 0,351 secunde în spatele lui Andrea Kimi Antonelli. ...",
-    "title_ro": "Lando Norris a făcut praf monopostul McLaren: „Catastrofal!”",
-    "lead_ro": "Lando Norris a declarat că monopostul McLaren este „catastrofal” de lent pe liniile drepte lungi ale circuitului din Las Vegas, după ce pilotul britanic nu a avut nicio șansă reală de a lupta pentru p…",
-    "content_ro": "Lando Norris a declarat că monopostul McLaren este „catastrofal” de lent pe liniile drepte lungi ale circuitului din Las Vegas, după ce pilotul britanic nu a avut nicio șansă reală de a lupta pentru pole position în „Orașul Păcatelor”. Norris a încheiat calificările pe locul patru, la o diferență de 0,351 secunde în spatele lui Andrea Kimi Antonelli. ...",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_0d2ad650a3",
-    "slug": "mi-fer-bele-egy-knyvbe-balazs-imre-jozseffel-besze-0d2ad6",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Maszol",
-        "title": "Mi fér bele egy könyvbe? Balázs Imre Józseffel beszélgettünk",
-        "link": "https://maszol.ro/kultura/Mi-fer-bele-egy-konyvbe-Balazs-Imre-Jozseffel-beszelgettunk"
-      }
-    ],
-    "published_at": 1795253400,
-    "title_hu": "Mi fér bele egy könyvbe? Balázs Imre Józseffel beszélgettünk",
-    "lead_hu": "Szerinte az erdélyi irodalomnak sikerült megszólítania a kétezres évek után az összmagyar közeget is, emellett relevánssá tudott válni azon túl, hogy sikeres.",
-    "content_hu": "Szerinte az erdélyi irodalomnak sikerült megszólítania a kétezres évek után az összmagyar közeget is, emellett relevánssá tudott válni azon túl, hogy sikeres.",
-    "title_ro": "Mi fér bele egy könyvbe? Balázs Imre Józseffel beszélgettünk",
-    "lead_ro": "Szerinte az erdélyi irodalomnak sikerült megszólítania a kétezres évek után az összmagyar közeget is, emellett relevánssá tudott válni azon túl, hogy sikeres.",
-    "content_ro": "Szerinte az erdélyi irodalomnak sikerült megszólítania a kétezres évek után az összmagyar közeget is, emellett relevánssá tudott válni azon túl, hogy sikeres.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_683f2fb958",
-    "slug": "un-matematician-de-la-anthropic-sustine-ca-a-demon-683f2f",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "Un matematician de la Anthropic susține că a demonstrat ipoteza lui Riemann cu ajutorul AI",
-        "link": "https://www.g4media.ro/un-matematician-de-la-anthropic-sustine-ca-a-demonstrat-ipoteza-lui-riemann-cu-ajutorul-ai.html"
-      }
-    ],
-    "published_at": 1795253312,
-    "title_hu": "Un matematician de la Anthropic susține că a demonstrat ipoteza lui Riemann cu ajutorul AI",
-    "lead_hu": "Un matematician care lucrează la compania Anthropic afirmă că a descoperit o demonstrație pentru ipoteza lui Riemann, una dintre cele mai dificile probleme nerezolvate din matematică, relatează New Sc…",
-    "content_hu": "Un matematician care lucrează la compania Anthropic afirmă că a descoperit o demonstrație pentru ipoteza lui Riemann, una dintre cele mai dificile probleme nerezolvate din matematică, relatează New Scientist. Levent Alpöge susține că a ajuns la rezultat cu ajutorul asistentului de inteligență artificială Claude și că a verificat demonstrația folosind un sistem informatic de formalizare […] © G4Media.ro.",
-    "title_ro": "Un matematician de la Anthropic susține că a demonstrat ipoteza lui Riemann cu ajutorul AI",
-    "lead_ro": "Un matematician care lucrează la compania Anthropic afirmă că a descoperit o demonstrație pentru ipoteza lui Riemann, una dintre cele mai dificile probleme nerezolvate din matematică, relatează New Sc…",
-    "content_ro": "Un matematician care lucrează la compania Anthropic afirmă că a descoperit o demonstrație pentru ipoteza lui Riemann, una dintre cele mai dificile probleme nerezolvate din matematică, relatează New Scientist. Levent Alpöge susține că a ajuns la rezultat cu ajutorul asistentului de inteligență artificială Claude și că a verificat demonstrația folosind un sistem informatic de formalizare […] © G4Media.ro.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_2a28f2bd1a",
-    "slug": "gta-6-jocul-asteptat-timp-de-13-ani-primele-impres-2a28f2",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "GTA 6, jocul așteptat timp de 13 ani. Primele impresii despre grafica, povestea și realismul noului titlu Rockstar",
-        "link": "https://stirileprotv.ro/stiri/ilikeit/gta-6-jocul-asteptat-timp-de-13-ani-primele-impresii-despre-grafica-povestea-si-realismul-noului-titlu-rockstar.html"
-      }
-    ],
-    "published_at": 1795253272,
-    "title_hu": "GTA 6, jocul așteptat timp de 13 ani. Primele impresii despre grafica, povestea și realismul noului titlu Rockstar",
-    "lead_hu": "GTA 6. Jocul săptămânii. Ce ne-a plăcut și ce nu ne-a plăcut la cel mai nou titlu din seria GTA – pentru care am așteptat... 13 ani.",
-    "content_hu": "GTA 6. Jocul săptămânii. Ce ne-a plăcut și ce nu ne-a plăcut la cel mai nou titlu din seria GTA – pentru care am așteptat... 13 ani.",
-    "title_ro": "GTA 6, jocul așteptat timp de 13 ani. Primele impresii despre grafica, povestea și realismul noului titlu Rockstar",
-    "lead_ro": "GTA 6. Jocul săptămânii. Ce ne-a plăcut și ce nu ne-a plăcut la cel mai nou titlu din seria GTA – pentru care am așteptat... 13 ani.",
-    "content_ro": "GTA 6. Jocul săptămânii. Ce ne-a plăcut și ce nu ne-a plăcut la cel mai nou titlu din seria GTA – pentru care am așteptat... 13 ani.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_440442c701",
     "slug": "muresan-biralta-a-psd-elso-kormanyzati-honapjat-440442",
     "tags": [
@@ -17035,7 +16924,7 @@
     "lead_ro": "Eurodeputatul PNL Siegfried Mureșan și-a prezentat pe 21 noiembrie evaluarea primei luni în care PSD a participat la guvernare. El a susținut că partidul nu și-a pus în aplicare mai multe promisiuni și a criticat prioritățile sale politice.",
     "content_ro": "• **Siegfried Mureșan și-a făcut publică evaluarea pe 21 noiembrie**, la o lună de la intrarea PSD la guvernare. Social-democrații au devenit parte a coaliției conduse de premierul independent Luca Niculescu pe 20 octombrie, iar formațiunea are 11 miniștri în Executiv.\n\n• **În opinia lui Mureșan, atribuțiile guvernamentale s-au concentrat în jurul vicepremierului Marian Neacșu.** Eurodeputatul liberal a mai afirmat că PSD a negociat cu AUR împărțirea unor funcții publice. În criticile sale a menționat și bunuri de lux, precum și un eveniment cu artiști internaționali, pe care l-a asociat cu botezul copilului lui Alfred Simonis, președintele Consiliului Județean Timiș.\n\n• **Liberalul a enumerat măsuri pe care le consideră nerealizate.** Printre acestea se numără reducerea TVA și a accizelor la carburanți, indexarea salariilor și a alocațiilor, precum și majorarea pensiilor. Despre ultima măsură, Mureșan a spus că situația era încă în analiză.\n\n• **Identificarea cauzelor deficitului bugetar a fost o altă promisiune pe care Mureșan a declarat-o neîndeplinită.** El a contestat afirmația anterioară a PSD că deficitul ar fi fost lăsat de guvernul Bolojan și a susținut că acel cabinet a acoperit o parte importantă a acestuia.\n\n• **Sorin Grindeanu a declarat separat că PSD va susține majorarea pensiilor în 2027.** Măsura urmează să fie discutată la negocierile pentru bugetul de anul viitor, iar procentul și aplicarea nu sunt încă stabilite. Creșterea de 7,3–7,4% menționată în discuție nu este, așadar, confirmată ca decizie finală.",
     "importance_score": 35.0,
-    "top_rank": 111,
+    "top_rank": 110,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -17068,7 +16957,7 @@
     "lead_ro": "Au fost momente de panică, sâmbătă, pentru locuitorii unui bloc din Iași, după ce flăcări puternice au cuprins balconul unui apartament. Proprietara a făcut un atac de panică atunci când a văzut vâlvă…",
     "content_ro": "Au fost momente de panică, sâmbătă, pentru locuitorii unui bloc din Iași, după ce flăcări puternice au cuprins balconul unui apartament. Proprietara a făcut un atac de panică atunci când a văzut vâlvătaia și a avut nevoie de îngrijiri.",
     "importance_score": 28.0,
-    "top_rank": 112,
+    "top_rank": 111,
     "is_top_hero": false,
     "is_top_list": true
   },
