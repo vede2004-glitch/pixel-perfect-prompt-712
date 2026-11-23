@@ -12,7 +12,7 @@
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 21,
+    "sources_count": 22,
     "sources": [
       {
         "source": "Digi24",
@@ -118,6 +118,11 @@
         "source": "Mediafax",
         "title": "ANM anunță ninsori, viscol și o răcire accentuată a vremii. Cod portocaliu la munte și vânt puternic în mai multe regiuni",
         "link": "https://www.mediafax.ro/meteo/anm-anunta-ninsori-viscol-si-o-racire-accentuata-a-vremii-cod-portocaliu-la-munte-si-vant-puternic-in-mai-multe-regiuni-23847748"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "ANM: Ploi, ninsori, intensificări ale vântului şi viscol la munte, până marţi seară. Zonele cu cod galben și portocaliu",
+        "link": "https://stirileprotv.ro/stiri/vremea/cod-galben-si-portocaliu-de-ninsori-si-viscol-in-peste-jumatate-din-ara-avertizarile-anm-sunt-valabile-pana-mar-i-seara.html"
       }
     ],
     "published_at": 1795412948,
@@ -127,7 +132,7 @@
     "title_ro": "Un ciclon din zona Adriaticii aduce ninsori și o nouă răcire în România",
     "lead_ro": "Pe lângă avertizările ANM, meteorologii anunță traversarea rapidă a țării de către un ciclon format în zona Mării Adriatice. Precipitațiile se pot transforma în lapoviță și ninsoare în mai multe regiuni, iar temperaturile ar putea continua să scadă până la mijlocul săptămânii.",
     "content_ro": "• **Viscolul la munte poate atinge intensitatea maximă luni:** În zonele de peste 1.700 de metri din Carpații Meridionali și de Curbură, codul portocaliu este valabil între orele 12:00 și 23:00. Rafalele pot ajunge la 100–120 km/h, iar vizibilitatea poate coborî sub 50 de metri; în unele zone montane, stratul nou de zăpadă ar putea depăși 25 de centimetri.\n\n• **Ciclonul adriatic poate aduce precipitații în toată țara:** Sistemul atmosferic este așteptat să traverseze rapid România de duminică seara până luni. Lapovița și ninsoarea pot apărea inițial în nordul Moldovei și nordul Transilvaniei, apoi precipitațiile mixte se pot extinde în mare parte din Moldova și Transilvania; în celelalte regiuni sunt mai probabile ploile.\n\n• **Vântul se va intensifica și în afara munților:** Luni sunt posibile rafale de 50–70 km/h în mai multe zone din vestul și sudul țării, în mare parte din Transilvania, în centrul și sudul Moldovei, precum și în Dobrogea. Informarea meteo pentru precipitații, vânt și viscol la munte rămâne în vigoare până pe 24 noiembrie.\n\n• **Răcirea poate continua până la jumătatea săptămânii:** În mai multe regiuni, maximele ar putea rămâne sub 7 grade. În nordul Moldovei sunt posibile valori între -1 și 0 grade, iar minimele pot coborî spre -8 grade în anumite zone; în depresiuni sunt prognozate temperaturi apropiate de -10 grade.\n\n• **Un nou sistem ar putea aduce alte precipitații:** Prognoza indică posibilitatea ca, la mijlocul săptămânii, un alt sistem atmosferic să se apropie de România dinspre sud-vest. Acesta ar putea genera precipitații în mai multe regiuni, însă extinderea și forma lor nu sunt încă stabilite.",
-    "importance_score": 225.0,
+    "importance_score": 228.0,
     "top_rank": 1,
     "is_top_hero": true,
     "is_top_list": true
@@ -261,6 +266,109 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_25cc5ae981",
+    "slug": "belga-sztrajk-a-roman-kulugy-jarattrlesekre-figyelmeztet-25cc5a",
+    "tags": [
+      "belgium",
+      "legikozlekedes",
+      "sztrajk",
+      "utazasifigyelmeztetes"
+    ],
+    "fingerprint": "7fa4a16b2a2e1f92f7d73fdc86e7fe8a",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 15,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "„Consecințe dezastruoase” ale grevei generale din Belgia. Peste 400 de zboruri, anulate pe Aeroportul Bruxelles. Cursele se opresc și la Charleroi",
+        "link": "https://hotnews.ro/consecinte-dezastruoase-ale-grevei-generale-din-belgia-peste-400-de-zboruri-anulate-pe-aeroportul-din-bruxelles-2410844"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Atenționare de călătorie MAE pentru Belgia. Mai multe zboruri, anulate din cauza grevei controlorilor de trafic aerian",
+        "link": "https://stirileprotv.ro/stiri/international/atentionare-de-calatorie-mae-pentru-belgia-mai-multe-zboruri-anulate-din-cauza-grevei-controlorilor-de-trafic-aerian.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Atenţionare de călătorie emisă de MAE pentru românii care vor să meargă în Belgia",
+        "link": "https://www.digi24.ro/stiri/actualitate/atentionare-de-calatorie-emisa-de-mae-pentru-romanii-care-vor-sa-mearga-in-belgia-4047941"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Zboruri anulate în masă în Belgia, luni, 23 noiembrie. MAE îi avertizează pe românii care au bilete de avion",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/zboruri-anulate-in-masa-in-belgia-luni-23-2573505.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "MAE, atenționare de călătorie în Belgia: Majoritatea zborurilor de pe Aeroportul din Bruxelles, anulate",
+        "link": "https://www.mediafax.ro/social/mae-atentionare-de-calatorie-in-belgia-majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-anulate-23847576"
+      },
+      {
+        "source": "G4Media",
+        "title": "MAE, avertizare de călătorie pentru Belgia: Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni, din cauza grevei controlorilor de trafic aerian",
+        "link": "https://www.g4media.ro/mae-avertizare-de-calatorie-pentru-belgia-majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-din-cauza-grevei-controlorilor-de-trafic-aerian.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Atenționare de călătorie în Belgia, perturbări majore ale traficului aerian din cauza grevei naționale",
+        "link": "https://www.g4media.ro/atentionare-de-calatorie-in-belgia-perturbari-majore-ale-traficului-aerian-din-cauza-grevei-nationale.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Grevă de amploare în Belgia. Aproape toate aeroporturile se vor închide",
+        "link": "https://www.mediafax.ro/social/greva-de-amploare-in-belgia-aproape-toate-aeroporturile-se-vor-inchide-23847677"
+      },
+      {
+        "source": "Maszol",
+        "title": "Káoszra számítanak a belgiumi repülőtereken, szinte minden járatot törölnek",
+        "link": "https://maszol.ro/kulfold/Kaoszra-szamitanak-a-belgiumi-repulotereken-szinte-minden-jaratot-torolnek"
+      },
+      {
+        "source": "Digi24",
+        "title": "Grevă generală în Belgia. Cele mai multe zboruri de pe aeroportul din Bruxelles vor fi anulate luni",
+        "link": "https://www.digi24.ro/stiri/externe/greva-generala-in-belgia-cele-mai-multe-zboruri-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-4047447"
+      },
+      {
+        "source": "G4Media",
+        "title": "Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni, din cauza unei greve naţionale",
+        "link": "https://www.g4media.ro/majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-din-cauza-unei-greve-nationale.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni. Ce trebuie să știe pasagerii",
+        "link": "https://adevarul.ro/stiri-externe/europa/majoritatea-zborurilor-de-pe-aeroportul-din-2573380.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni, din cauza unei greve naţionale",
+        "link": "https://stirileprotv.ro/stiri/international/majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-din-cauza-unei-greve-na-ionale.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Un mare aeroport al Europei va fi paralizat luni de o grevă generală. Controlorii de trafic încetează lucrul",
+        "link": "https://hotnews.ro/un-mare-aeroport-al-europei-va-fi-paralizat-luni-de-o-greva-generala-controlorii-de-trafic-inceteaza-lucrul-2410691"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Greva națională paralizează Belgia. Zboruri anulate, transport local perturbat și surpriza de la Uber și Bolt",
+        "link": "https://hotnews.ro/greva-nationala-paralizeaza-belgia-zboruri-anulate-transport-local-perturbat-si-surpriza-de-la-uber-si-bolt-2411364"
+      }
+    ],
+    "published_at": 1795411620,
+    "title_hu": "Belga sztrájk: a román külügy járattörlésekre figyelmeztet",
+    "lead_hu": "A 2026. november 23-i országos sztrájk idején 7 és 21 óra között csak a biztonságos közlekedéshez szükséges légiirányítás működik Belgiumban. Brüsszel-Zaventemben több mint 400 járat kiesésére számítanak, Charleroiban pedig ebben az időszakban nem közlekednek repülőgépek.",
+    "content_hu": "• **November 23-án országos sztrájk lesz Belgiumban:** a munkabeszüntetés a szövetségi kormány takarékossági intézkedései ellen irányul, és légiirányítók is részt vesznek benne. Három nagy szakszervezeti szövetség brüsszeli demonstrációt is szervez.\n\n• **7 és 21 óra között csak korlátozott légiirányítás marad:** a Skeyes ebben az időszakban nem biztosítja a szokásos szolgáltatásokat a belga repülőtereken és az általa kezelt légtérben. A kapacitást vészhelyzetekre és a biztonság szempontjából létfontosságú járatokra tartják fenn.\n\n• **Brüsszel-Zaventemben több mint 400 járatot érinthetnek a törlések:** a repülőtér 429 járatra és 59 500 utasra számított november 23-án. A terv szerint 213 induló járat 28 ezer, 216 érkező pedig 31 500 utast szállított volna; 6 és 7, illetve 21 és 22 óra között még lehetnek járatok.\n\n• **Charleroiban 7 és 21 óra között leáll a légi forgalom:** a repülőtér a saját működéséhez szükséges személyzetet biztosítja, de légiirányítás nélkül nem tudnak fel- és leszállni a gépek.\n\n• **A román külügy a járatok ellenőrzését és a hivatalos tájékoztatás követését kéri:** az utasok érdeklődjenek légitársaságuknál; friss információ a brüsszeli és charleroi-i repülőtér honlapján is elérhető. A közösségi közlekedésben szintén fennakadások várhatók. Konzuli ügyben a +32 (0) 2 347 5338, +32 (0) 2 344 1658 és +32 (0) 2 343 6935 számokon lehet segítséget kérni; a hívásokat állandó ügyeletben kezelik. Sürgős esetben a +32 (0) 497 428 663 hívható.",
+    "title_ro": "Greva din Belgia: MAE avertizează asupra anulării zborurilor",
+    "lead_ro": "Greva națională din 23 noiembrie 2026 va limita controlul traficului aerian din Belgia între orele 07:00 și 21:00, la serviciile necesare pentru siguranță. La Bruxelles-Zaventem sunt vizate peste 400 de zboruri, iar la Charleroi nu vor putea opera aeronave în acest interval.",
+    "content_ro": "• **Belgia va avea o grevă națională pe 23 noiembrie:** protestul este îndreptat împotriva măsurilor de austeritate ale guvernului federal și va fi susținut și de controlori de trafic aerian. Trei mari confederații sindicale pregătesc și o manifestație la Bruxelles.\n\n• **Între orele 07:00 și 21:00, controlul aerian va funcționa limitat:** Skeyes nu va putea asigura serviciile obișnuite în aeroporturile belgiene și în spațiul aerian administrat. Vor rămâne disponibile doar operațiunile necesare intervențiilor de urgență și zborurilor importante pentru siguranță.\n\n• **Peste 400 de curse de la Bruxelles-Zaventem pot fi anulate:** pentru 23 noiembrie erau planificate 429 de zboruri și 59.500 de pasageri. Programul includea 213 plecări, cu 28.000 de călători, și 216 sosiri, cu 31.500; ar putea exista zboruri între 06:00 și 07:00, respectiv între 21:00 și 22:00.\n\n• **La Charleroi, traficul aerian se oprește între 07:00 și 21:00:** aeroportul își asigură personalul pentru activitățile proprii, însă aeronavele nu pot decola sau ateriza fără serviciile de control al traficului aerian.\n\n• **MAE al României recomandă verificarea curselor și consultarea anunțurilor oficiale:** pasagerii sunt îndrumați să contacteze companiile aeriene, iar actualizări sunt disponibile pe site-urile aeroporturilor Bruxelles-Zaventem și Charleroi. Sunt posibile perturbări și în transportul public. Asistența consulară poate fi solicitată la +32 (0) 2 347 5338, +32 (0) 2 344 1658 și +32 (0) 2 343 6935, apelurile fiind preluate permanent; pentru urgențe este disponibil +32 (0) 497 428 663.",
+    "importance_score": 158.0,
+    "top_rank": 3,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_03b52710ba",
     "slug": "uj-reszletek-dudu-georgescu-halalanak-vizsgalatarol-03b527",
     "tags": [
@@ -354,104 +462,6 @@
     "title_ro": "Noi detalii despre ancheta privind moartea lui Dudu Georgescu",
     "lead_ro": "Dudu Georgescu a murit la 76 de ani, într-un apartament închiriat din Toronto. Poliția canadiană investighează cazul, însă cauza și împrejurările decesului nu au fost stabilite oficial.",
     "content_ro": "• **A fost găsit în locuința din Toronto.** Potrivit relatărilor din presă, Georgescu stătea cu chirie într-un apartament, unde a fost descoperit fără viață. Proprietarul, Șandor Gavrilă, a spus că soția fostului fotbalist a chemat serviciile de urgență, iar poliția a ajuns la fața locului după intervenția acestora.\n\n• **Autoritățile canadiene cercetează cazul.** Poliția din Toronto a confirmat decesul, iar trupul a fost supus unei autopsii. Rezultatul acesteia va influența decizia privind deschiderea unei anchete penale; cauza oficială a morții nu a fost comunicată.\n\n• **Informațiile despre o posibilă înjunghiere nu sunt confirmate oficial.** O persoană apropiată familiei a relatat că ar fi auzit această variantă, însă autoritățile nu au validat-o. Poliția a continuat cercetările la apartament.\n\n• **Debutul său în prima ligă a avut loc în 1969.** Născut la București, Georgescu a jucat primul meci pe 11 iunie, pentru Progresul, echipă la care a adunat 95 de partide și 20 de goluri în eșalonul de top. Între 1973 și 1983 a evoluat la Dinamo, marcând 207 goluri în 260 de meciuri de campionat și câștigând patru titluri și o Cupă a României.\n\n• **A rămas deținătorul unor repere istorice.** În prima ligă românească a înscris 252 de goluri în 371 de meciuri, iar pentru națională a jucat de 40 de ori și a marcat 21 de goluri. A câștigat Gheata de Aur în 1975 și 1977 și a primit Ordinul Meritul Sportiv, clasa a III-a, în 2008.",
-    "importance_score": 148.0,
-    "top_rank": 3,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_25cc5ae981",
-    "slug": "belga-sztrajk-a-roman-kulugy-jarattrlesekre-figyelmeztet-25cc5a",
-    "tags": [
-      "belgium",
-      "legikozlekedes",
-      "sztrajk",
-      "utazasifigyelmeztetes"
-    ],
-    "fingerprint": "7fa4a16b2a2e1f92f7d73fdc86e7fe8a",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 14,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "„Consecințe dezastruoase” ale grevei generale din Belgia. Peste 400 de zboruri, anulate pe Aeroportul Bruxelles. Cursele se opresc și la Charleroi",
-        "link": "https://hotnews.ro/consecinte-dezastruoase-ale-grevei-generale-din-belgia-peste-400-de-zboruri-anulate-pe-aeroportul-din-bruxelles-2410844"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Atenționare de călătorie MAE pentru Belgia. Mai multe zboruri, anulate din cauza grevei controlorilor de trafic aerian",
-        "link": "https://stirileprotv.ro/stiri/international/atentionare-de-calatorie-mae-pentru-belgia-mai-multe-zboruri-anulate-din-cauza-grevei-controlorilor-de-trafic-aerian.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Atenţionare de călătorie emisă de MAE pentru românii care vor să meargă în Belgia",
-        "link": "https://www.digi24.ro/stiri/actualitate/atentionare-de-calatorie-emisa-de-mae-pentru-romanii-care-vor-sa-mearga-in-belgia-4047941"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Zboruri anulate în masă în Belgia, luni, 23 noiembrie. MAE îi avertizează pe românii care au bilete de avion",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/zboruri-anulate-in-masa-in-belgia-luni-23-2573505.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "MAE, atenționare de călătorie în Belgia: Majoritatea zborurilor de pe Aeroportul din Bruxelles, anulate",
-        "link": "https://www.mediafax.ro/social/mae-atentionare-de-calatorie-in-belgia-majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-anulate-23847576"
-      },
-      {
-        "source": "G4Media",
-        "title": "MAE, avertizare de călătorie pentru Belgia: Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni, din cauza grevei controlorilor de trafic aerian",
-        "link": "https://www.g4media.ro/mae-avertizare-de-calatorie-pentru-belgia-majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-din-cauza-grevei-controlorilor-de-trafic-aerian.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Atenționare de călătorie în Belgia, perturbări majore ale traficului aerian din cauza grevei naționale",
-        "link": "https://www.g4media.ro/atentionare-de-calatorie-in-belgia-perturbari-majore-ale-traficului-aerian-din-cauza-grevei-nationale.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Grevă de amploare în Belgia. Aproape toate aeroporturile se vor închide",
-        "link": "https://www.mediafax.ro/social/greva-de-amploare-in-belgia-aproape-toate-aeroporturile-se-vor-inchide-23847677"
-      },
-      {
-        "source": "Maszol",
-        "title": "Káoszra számítanak a belgiumi repülőtereken, szinte minden járatot törölnek",
-        "link": "https://maszol.ro/kulfold/Kaoszra-szamitanak-a-belgiumi-repulotereken-szinte-minden-jaratot-torolnek"
-      },
-      {
-        "source": "Digi24",
-        "title": "Grevă generală în Belgia. Cele mai multe zboruri de pe aeroportul din Bruxelles vor fi anulate luni",
-        "link": "https://www.digi24.ro/stiri/externe/greva-generala-in-belgia-cele-mai-multe-zboruri-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-4047447"
-      },
-      {
-        "source": "G4Media",
-        "title": "Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni, din cauza unei greve naţionale",
-        "link": "https://www.g4media.ro/majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-din-cauza-unei-greve-nationale.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni. Ce trebuie să știe pasagerii",
-        "link": "https://adevarul.ro/stiri-externe/europa/majoritatea-zborurilor-de-pe-aeroportul-din-2573380.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Majoritatea zborurilor de pe aeroportul din Bruxelles vor fi anulate luni, din cauza unei greve naţionale",
-        "link": "https://stirileprotv.ro/stiri/international/majoritatea-zborurilor-de-pe-aeroportul-din-bruxelles-vor-fi-anulate-luni-din-cauza-unei-greve-na-ionale.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Un mare aeroport al Europei va fi paralizat luni de o grevă generală. Controlorii de trafic încetează lucrul",
-        "link": "https://hotnews.ro/un-mare-aeroport-al-europei-va-fi-paralizat-luni-de-o-greva-generala-controlorii-de-trafic-inceteaza-lucrul-2410691"
-      }
-    ],
-    "published_at": 1795411620,
-    "title_hu": "Belga sztrájk: a román külügy járattörlésekre figyelmeztet",
-    "lead_hu": "A 2026. november 23-i országos sztrájk idején 7 és 21 óra között csak a biztonságos közlekedéshez szükséges légiirányítás működik Belgiumban. Brüsszel-Zaventemben több mint 400 járat kiesésére számítanak, Charleroiban pedig ebben az időszakban nem közlekednek repülőgépek.",
-    "content_hu": "• **November 23-án országos sztrájk lesz Belgiumban:** a munkabeszüntetés a szövetségi kormány takarékossági intézkedései ellen irányul, és légiirányítók is részt vesznek benne. Három nagy szakszervezeti szövetség brüsszeli demonstrációt is szervez.\n\n• **7 és 21 óra között csak korlátozott légiirányítás marad:** a Skeyes ebben az időszakban nem biztosítja a szokásos szolgáltatásokat a belga repülőtereken és az általa kezelt légtérben. A kapacitást vészhelyzetekre és a biztonság szempontjából létfontosságú járatokra tartják fenn.\n\n• **Brüsszel-Zaventemben több mint 400 járatot érinthetnek a törlések:** a repülőtér 429 járatra és 59 500 utasra számított november 23-án. A terv szerint 213 induló járat 28 ezer, 216 érkező pedig 31 500 utast szállított volna; 6 és 7, illetve 21 és 22 óra között még lehetnek járatok.\n\n• **Charleroiban 7 és 21 óra között leáll a légi forgalom:** a repülőtér a saját működéséhez szükséges személyzetet biztosítja, de légiirányítás nélkül nem tudnak fel- és leszállni a gépek.\n\n• **A román külügy a járatok ellenőrzését és a hivatalos tájékoztatás követését kéri:** az utasok érdeklődjenek légitársaságuknál; friss információ a brüsszeli és charleroi-i repülőtér honlapján is elérhető. A közösségi közlekedésben szintén fennakadások várhatók. Konzuli ügyben a +32 (0) 2 347 5338, +32 (0) 2 344 1658 és +32 (0) 2 343 6935 számokon lehet segítséget kérni; a hívásokat állandó ügyeletben kezelik. Sürgős esetben a +32 (0) 497 428 663 hívható.",
-    "title_ro": "Greva din Belgia: MAE avertizează asupra anulării zborurilor",
-    "lead_ro": "Greva națională din 23 noiembrie 2026 va limita controlul traficului aerian din Belgia între orele 07:00 și 21:00, la serviciile necesare pentru siguranță. La Bruxelles-Zaventem sunt vizate peste 400 de zboruri, iar la Charleroi nu vor putea opera aeronave în acest interval.",
-    "content_ro": "• **Belgia va avea o grevă națională pe 23 noiembrie:** protestul este îndreptat împotriva măsurilor de austeritate ale guvernului federal și va fi susținut și de controlori de trafic aerian. Trei mari confederații sindicale pregătesc și o manifestație la Bruxelles.\n\n• **Între orele 07:00 și 21:00, controlul aerian va funcționa limitat:** Skeyes nu va putea asigura serviciile obișnuite în aeroporturile belgiene și în spațiul aerian administrat. Vor rămâne disponibile doar operațiunile necesare intervențiilor de urgență și zborurilor importante pentru siguranță.\n\n• **Peste 400 de curse de la Bruxelles-Zaventem pot fi anulate:** pentru 23 noiembrie erau planificate 429 de zboruri și 59.500 de pasageri. Programul includea 213 plecări, cu 28.000 de călători, și 216 sosiri, cu 31.500; ar putea exista zboruri între 06:00 și 07:00, respectiv între 21:00 și 22:00.\n\n• **La Charleroi, traficul aerian se oprește între 07:00 și 21:00:** aeroportul își asigură personalul pentru activitățile proprii, însă aeronavele nu pot decola sau ateriza fără serviciile de control al traficului aerian.\n\n• **MAE al României recomandă verificarea curselor și consultarea anunțurilor oficiale:** pasagerii sunt îndrumați să contacteze companiile aeriene, iar actualizări sunt disponibile pe site-urile aeroporturilor Bruxelles-Zaventem și Charleroi. Sunt posibile perturbări și în transportul public. Asistența consulară poate fi solicitată la +32 (0) 2 347 5338, +32 (0) 2 344 1658 și +32 (0) 2 343 6935, apelurile fiind preluate permanent; pentru urgențe este disponibil +32 (0) 497 428 663.",
     "importance_score": 148.0,
     "top_rank": 4,
     "is_top_hero": false,
@@ -1202,64 +1212,59 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_6b179dce68",
-    "slug": "toma-szerint-a-psd-inkabb-kommunikal-mint-reformal-6b179d",
+    "group_id": "group_3401da2d6e",
+    "slug": "a-merkury-orosz-korvettet-erhette-drontamadas-bengaziban-3401da",
     "tags": [
-      "constantin-toma",
-      "reforma-administrativa",
-      "psd",
-      "buzau",
-      "companii-de-stat"
+      "benghazi",
+      "libia",
+      "rusia",
+      "drone",
+      "merkury"
     ],
-    "fingerprint": "066f93be887fe52855b7a09000c0dbf5",
-    "category": "Politika",
+    "fingerprint": "6ccbc7485aea317ae82ac1bb4e161ab2",
+    "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 7,
+    "sources_count": 6,
     "sources": [
       {
         "source": "Digi24",
-        "title": "Primarul Constantin Toma: „PSD se face că face reforma administrativ-teritorială”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/primarul-constantin-toma-psd-se-face-ca-face-reforma-administrativ-teritoriala-4046089"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Primarul PSD al Buzăului își atacă propriul partid. De ce consideră că reforma este făcută „pe genunchi”",
-        "link": "https://adevarul.ro/politica/primarul-psd-al-buzaului-isi-ataca-propriul-2573435.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Primarul PSD din Buzău critică reforma administrativ-teritorială: Vor să redeseneze harta electorală. Dacă nu le iese, îl vor face pe Bolojan vinovat",
-        "link": "https://www.mediafax.ro/diverse/primarul-psd-din-buzau-critica-reforma-administrativ-teritoriala-vor-sa-redeseneze-harta-electorala-daca-nu-le-iese-il-vor-face-pe-bolojan-vinovat-23847514"
+        "title": "Explozie la bordul unei nave ruseşti în portul libian Benghazi. Autorităţile suspectează un atac cu drone",
+        "link": "https://www.digi24.ro/stiri/externe/explozie-la-bordul-unei-nave-rusesti-in-portul-libian-benghazi-autoritatile-suspecteaza-un-atac-cu-drone-4048009"
       },
       {
         "source": "G4Media",
-        "title": "Constantin Toma, primarul din Buzău, critică reforma administrativ-teritorială a PSD: Vor să redeseneze harta electorală. Dacă nu le iese, îl vor face pe Bolojan vinovat",
-        "link": "https://www.g4media.ro/constantin-toma-primarul-din-buzau-critica-reforma-administrativ-teritoriala-a-psd-vor-sa-redeseneze-harta-electorala-daca-nu-le-iese-il-vor-face-pe-bolojan-vinovat.html"
+        "title": "VIDEO | Explozie la bordul unei nave rusești în portul libian Benghazi / Axios: Serviciile secrete ucrainene se află în spatele atacului",
+        "link": "https://www.g4media.ro/video-explozie-la-bordul-unei-nave-rusesti-in-portul-libian-benghazi-autoritatile-suspecteaza-un-atac-cu-drona.html"
       },
       {
-        "source": "ProTV Stiri",
-        "title": "Toma: PSD se face că face reformă. Nu poți avea încredere într-un partid care lua decizii numai pentru interese personale",
-        "link": "https://stirileprotv.ro/stiri/politic/toma-psd-se-face-ca-face-reforma-nu-poti-avea-incredere-intr-un-partid-care-lua-decizii-numai-pentru-interese-personale.html"
+        "source": "HotNews.ro",
+        "title": "O navă rusească a fost lovită de o dronă într-un port la Marea Mediterană",
+        "link": "https://hotnews.ro/o-nava-ruseasca-a-fost-lovita-de-o-drona-intr-un-port-la-marea-mediterana-2411119"
       },
       {
-        "source": "ProTV Stiri",
-        "title": "Constantin Toma, despre reforma administrativă: „Mă gândesc să redeseneze sau să deseneze şi o hartă electorală”",
-        "link": "https://stirileprotv.ro/stiri/politic/constantin-toma-despre-reforma-administrativa-ma-gandesc-sa-redeseneze-sau-sa-deseneze-si-o-harta-electorala.html"
+        "source": "Mediafax",
+        "title": "Navă de război rusească, grav avariată de drone în Libia. Ucraina, suspectată că a lansat atacul dintr-o bază militară secretă",
+        "link": "https://www.mediafax.ro/externe/nava-de-razboi-ruseasca-grav-avariata-de-drone-in-libia-ucraina-suspectata-ca-a-lansat-atacul-dintr-o-baza-militara-secreta-23847690"
       },
       {
-        "source": "Ebihoreanul (Nagyvárad/Bihar)",
-        "title": "Un primar PSD acuză propriul partid că mimează reforma administrativă: „Se face că face”. Avertisment privind căderea Guvernului",
-        "link": "https://www.ebihoreanul.ro/stiri/un-primar-psd-acuza-propriul-partid-ca-mimeaza-reforma-administrativa-se-face-ca-face-avertisment-privind-caderea-guvernului-206789.html"
+        "source": "HotNews.ro",
+        "title": "FOTO și VIDEO: Imagini din satelit cu nava de război rusească scufundată de ucraineni în Libia. Zelenski confirmă atacul și lansează un avertisment",
+        "link": "https://hotnews.ro/foto-si-video-imagini-din-satelit-cu-nava-de-razboi-ruseasca-scufundata-de-ucraineni-in-libia-zelenski-confirma-atacul-si-lanseaza-un-avertisment-2411278"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Ucraina revendică atacul din Libia. Zelenski confirmă scufundarea navei rusești Merkury cu șapte drone navale",
+        "link": "https://www.mediafax.ro/externe/ucraina-revendica-atacul-din-libia-zelenski-confirma-scufundarea-navei-rusesti-merkury-cu-sapte-drone-navale-23847750"
       }
     ],
-    "published_at": 1795369200,
-    "title_hu": "Toma szerint a PSD inkább kommunikál, mint reformál",
-    "lead_hu": "Constantin Toma, Buzău PSD-s polgármestere továbbra is előkészítetlennek tartja a közigazgatási átalakítást, és választási szándékot is sejt a települések összevonása mögött. A párt reformokról szóló üzeneteit részben imázsjavító kísérletként értelmezi, miközben a márciusra tervezett parlamenti szavazás után a kormány bukását valószínűsíti.",
-    "content_hu": "• **Toma szerint a 2027 márciusára kitűzött céldátum nem ad elég időt az érdemi előkészítésre.** Az 1968-as közigazgatási rendezés óta szerinte nem született átfogó változtatás; a reformhoz tanulmányokat és nyilvános vitát tart szükségesnek. A Román Akadémia készülő munkáját és egy korábbi világbanki elemzést is említett.\n\n• **A városok és környékük összekapcsolását tenné az átalakítás kiindulópontjává.** A 2011-es és 2021-es adatokra hivatkozva úgy fogalmazott, hogy a GDP 96–97 százaléka, valamint a vállalkozások több mint 98 százaléka városi térségekben összpontosul. Szerinte a megyehatárok módosítása előtt a nagyvárosok körüli településeket kellene integrálni.\n\n• **A lengyel példát a helyi közigazgatás méretének és létszámának összevetésére használta.** Toma szerint Lengyelországban legalább 16 500 fős közigazgatási egységek vannak, a helyi közszférában pedig mintegy 185 ezren dolgoznak. Romániában körülbelül 400 ezer alkalmazottat említett, miközben a két ország népességét nagyjából 39, illetve 18–19 millió főre tette.\n\n• **A települések gyors összevonásában választási térkép átrajzolásának lehetőségét is látja.** Felvetette, hogy eltérő pártállású polgármesterek vezette kisebb településeket egyesíthetnek, ezért széles körű egyeztetést és szigorú kritériumokat sürgetett. A miniszterelnök és az államfő nyilvános állásfoglalásának hiányát is kifogásolta.\n\n• **A PSD reformkommunikációját a párt megítélésének javítására tett próbálkozásként bírálta.** Toma a párt korábbi döntéseit személyes érdekekkel hozta összefüggésbe, és az imázsvesztés példájaként a timișoarai ügyeket, köztük Alfred Simonis fiának keresztelőjét említette. Az állami vállalatok átalakítását is régóta esedékesnek nevezte: szerinte a nem energetikai cégek között politikai kinevezésekkel működő, veszteséges vállalatok is vannak, amelyek évente több százmillió közpénzt igényelnek. A márciusi szavazás kudarcáért szerinte Ilie Bolojanra háríthatják a felelősséget.",
-    "title_ro": "Toma acuză PSD că mimează reforma administrativă",
-    "lead_ro": "Constantin Toma, primarul PSD al Buzăului, consideră că reorganizarea administrativ-teritorială nu este pregătită suficient și avertizează că reunirea localităților ar putea avea și o miză electorală. El interpretează mesajele PSD despre reforme ca pe o încercare de îmbunătățire a imaginii partidului și anticipează că votul din martie ar putea duce la căderea guvernului.",
-    "content_ro": "• **Toma spune că termenul din martie 2027 nu lasă timp pentru pregătirea temeinică a reformei.** În opinia sa, după reorganizarea din 1968 nu a mai fost realizată o schimbare amplă, iar proiectul ar trebui fundamentat prin studii și dezbatere publică. El a menționat cercetări ale Academiei Române și o analiză mai veche a Băncii Mondiale.\n\n• **Integrarea localităților din jurul marilor orașe ar trebui să fie primul pas, consideră edilul.** Invocând comparații pentru anii 2011 și 2021, Toma a afirmat că 96–97% din PIB și peste 98% dintre firme se găsesc în zone urbane și în vecinătatea acestora. Modificarea județelor ar trebui, în viziunea sa, să vină după consolidarea polilor urbani.\n\n• **Exemplul Poloniei a fost folosit pentru a compara dimensiunea administrației locale și numărul angajaților.** Toma a susținut că unitățile administrative poloneze au cel puțin 16.500 de locuitori, iar în sectorul public local lucrează aproximativ 185.000 de persoane. Pentru România a indicat circa 400.000 de angajați și populații de aproximativ 39 de milioane în Polonia, respectiv 18–19 milioane în România.\n\n• **Edilul nu exclude ca unificarea localităților să urmărească și redesenarea hărții electorale.** El a invocat posibilitatea comasării unor localități mici conduse de primari cu apartenențe politice diferite și a cerut consultări ample, precum și criterii clare. Toma a remarcat, de asemenea, că premierul și președintele nu și-au prezentat public pozițiile.\n\n• **Toma descrie mesajele PSD despre reformă drept o tentativă de recuperare a imaginii partidului.** El a acuzat formațiunea că a luat decizii în interes personal și a amintit, între exemplele de deteriorare a reputației, situațiile de la Timișoara, inclusiv botezul fiului lui Alfred Simonis. Edilul a spus că restructurarea companiilor de stat este întârziată, iar unele firme din afara sectorului energetic, conduse prin numiri politice, ar consuma anual sute de milioane de lei. Dacă votul din martie eșuează, Toma crede că Ilie Bolojan ar putea fi făcut responsabil.",
+    "published_at": 1795414927,
+    "title_hu": "A Merkury orosz korvettet érhette dróntámadás Bengáziban",
+    "lead_hu": "Robbanás és tűz keletkezett a bengázi haditengerészeti bázison horgonyzó orosz hajón. Egy beszámoló a Merkury korvettként azonosítja a járművet, és névtelen líbiai katonai tisztviselőkre hivatkozva dróncsapásról, valamint súlyos károkról ír; a támadás körülményeit vizsgálják.",
+    "content_hu": "• **A robbanás a bengázi haditengerészeti bázison történt.** Kelet-Líbia kormánya szerint a detonáció egy kikötőben álló orosz hajón következett be. A kezdeti vizsgálati adatok alapján dróntámadás lehetősége is felmerült, de ezt hivatalosan nem erősítették meg.\n\n• **A hajót a Mediafax az orosz Merkury korvettként nevezte meg.** Az AP-re hivatkozó beszámoló szerint a jármű Bengáziban üzemanyag- és készletfelvétel miatt tartózkodott; a líbiai tájékoztatás az oroszországi visszaúttal és a két ország tengeri együttműködésével kapcsolta össze a megállót.\n\n• **A drónok számára és a károkra vonatkozó értesülések nem hivatalosak.** Két, névtelenséget kérő líbiai katonai tisztviselő szerint tengeri drónokat indítottak egy, a nyugat-líbiai ukrán erők által használt bázisról. Állításuk szerint legalább négy eszközt megsemmisítettek, kettő azonban eltalálta a korvettet, súlyos sérülést és tüzet okozva.\n\n• **A tűz eloltása után közös vizsgálat indult.** A kelet-líbiai vezetés közlése szerint orosz részvétellel igyekeznek tisztázni a támadás eredetét és felelőseit. A kikötő és a bázis létesítményeit, köztük a raktárakat, biztonságosnak mondták; a rendes működés a terület biztosítása után indulhat újra.\n\n• **Sérültekről érkezett hír, halálos áldozatokról nem.** A sérültek számát és állampolgárságát nem közölték. A támadást senki nem vállalta magára, és a beszámoló idején Moszkva, illetve Kijev sem adott nyilvános reakciót. A líbiai kormány elítélte az esetet, és jogi, valamint diplomáciai lépéseket helyezett kilátásba.",
+    "title_ro": "Corveta rusă Merkury ar fi fost atacată cu drone în Benghazi",
+    "lead_ro": "O explozie și un incendiu au avut loc la o navă rusă aflată în baza navală din Benghazi. Un material de presă identifică vasul drept corveta Merkury și citează oficiali militari libieni anonimi care susțin că aceasta a fost lovită de drone; circumstanțele sunt investigate.",
+    "content_ro": "• **Explozia s-a produs în baza navală din Benghazi.** Guvernul care controlează estul Libiei a anunțat că deflagrația a avut loc la bordul unei nave rusești din port. Primele date ale anchetei iau în calcul un atac cu drone, fără ca această ipoteză să fi fost confirmată oficial.\n\n• **Mediafax a identificat nava drept corveta rusă Merkury.** Relatarea, care citează Associated Press, precizează că vasul se afla în Benghazi pentru combustibil și provizii. Potrivit autorităților libiene, oprirea făcea parte din călătoria de întoarcere în Rusia și era legată de cooperarea maritimă dintre cele două țări.\n\n• **Detaliile despre drone și amploarea avariilor provin din surse neoficiale.** Doi oficiali militari libieni care au vorbit sub protecția anonimatului au afirmat că drone maritime au fost lansate de la o bază folosită de forțe ucrainene în vestul Libiei. Conform acestora, cel puțin patru aparate au fost distruse, iar alte două au lovit corveta, provocând avarii grave și un incendiu.\n\n• **După stingerea flăcărilor a fost anunțată o anchetă comună.** Autoritățile din estul Libiei au declarat că investighează împreună cu Rusia originea atacului și identitatea celor implicați. Portul și instalațiile bazei, inclusiv depozitele, au fost prezentate ca fiind în siguranță, iar activitatea obișnuită urma să reînceapă după securizarea zonei.\n\n• **Au fost raportate persoane rănite, dar nu și decese.** Numărul răniților și cetățenia lor nu erau cunoscute. Nimeni nu a revendicat atacul, iar la momentul relatării nici Moscova, nici Kievul nu reacționaseră public. Guvernul libian a condamnat incidentul și a anunțat posibile măsuri juridice și diplomatice.",
     "importance_score": 75.0,
     "top_rank": 15,
     "is_top_hero": false,
@@ -1613,60 +1618,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_3401da2d6e",
-    "slug": "a-merkury-orosz-korvettet-erhette-drontamadas-bengaziban-3401da",
-    "tags": [
-      "benghazi",
-      "libia",
-      "rusia",
-      "drone",
-      "merkury"
-    ],
-    "fingerprint": "6ccbc7485aea317ae82ac1bb4e161ab2",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Explozie la bordul unei nave ruseşti în portul libian Benghazi. Autorităţile suspectează un atac cu drone",
-        "link": "https://www.digi24.ro/stiri/externe/explozie-la-bordul-unei-nave-rusesti-in-portul-libian-benghazi-autoritatile-suspecteaza-un-atac-cu-drone-4048009"
-      },
-      {
-        "source": "G4Media",
-        "title": "VIDEO | Explozie la bordul unei nave rusești în portul libian Benghazi / Axios: Serviciile secrete ucrainene se află în spatele atacului",
-        "link": "https://www.g4media.ro/video-explozie-la-bordul-unei-nave-rusesti-in-portul-libian-benghazi-autoritatile-suspecteaza-un-atac-cu-drona.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "O navă rusească a fost lovită de o dronă într-un port la Marea Mediterană",
-        "link": "https://hotnews.ro/o-nava-ruseasca-a-fost-lovita-de-o-drona-intr-un-port-la-marea-mediterana-2411119"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Navă de război rusească, grav avariată de drone în Libia. Ucraina, suspectată că a lansat atacul dintr-o bază militară secretă",
-        "link": "https://www.mediafax.ro/externe/nava-de-razboi-ruseasca-grav-avariata-de-drone-in-libia-ucraina-suspectata-ca-a-lansat-atacul-dintr-o-baza-militara-secreta-23847690"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "FOTO și VIDEO: Imagini din satelit cu nava de război rusească scufundată de ucraineni în Libia. Zelenski confirmă atacul și lansează un avertisment",
-        "link": "https://hotnews.ro/foto-si-video-imagini-din-satelit-cu-nava-de-razboi-ruseasca-scufundata-de-ucraineni-in-libia-zelenski-confirma-atacul-si-lanseaza-un-avertisment-2411278"
-      }
-    ],
-    "published_at": 1795414927,
-    "title_hu": "A Merkury orosz korvettet érhette dróntámadás Bengáziban",
-    "lead_hu": "Robbanás és tűz keletkezett a bengázi haditengerészeti bázison horgonyzó orosz hajón. Egy beszámoló a Merkury korvettként azonosítja a járművet, és névtelen líbiai katonai tisztviselőkre hivatkozva dróncsapásról, valamint súlyos károkról ír; a támadás körülményeit vizsgálják.",
-    "content_hu": "• **A robbanás a bengázi haditengerészeti bázison történt.** Kelet-Líbia kormánya szerint a detonáció egy kikötőben álló orosz hajón következett be. A kezdeti vizsgálati adatok alapján dróntámadás lehetősége is felmerült, de ezt hivatalosan nem erősítették meg.\n\n• **A hajót a Mediafax az orosz Merkury korvettként nevezte meg.** Az AP-re hivatkozó beszámoló szerint a jármű Bengáziban üzemanyag- és készletfelvétel miatt tartózkodott; a líbiai tájékoztatás az oroszországi visszaúttal és a két ország tengeri együttműködésével kapcsolta össze a megállót.\n\n• **A drónok számára és a károkra vonatkozó értesülések nem hivatalosak.** Két, névtelenséget kérő líbiai katonai tisztviselő szerint tengeri drónokat indítottak egy, a nyugat-líbiai ukrán erők által használt bázisról. Állításuk szerint legalább négy eszközt megsemmisítettek, kettő azonban eltalálta a korvettet, súlyos sérülést és tüzet okozva.\n\n• **A tűz eloltása után közös vizsgálat indult.** A kelet-líbiai vezetés közlése szerint orosz részvétellel igyekeznek tisztázni a támadás eredetét és felelőseit. A kikötő és a bázis létesítményeit, köztük a raktárakat, biztonságosnak mondták; a rendes működés a terület biztosítása után indulhat újra.\n\n• **Sérültekről érkezett hír, halálos áldozatokról nem.** A sérültek számát és állampolgárságát nem közölték. A támadást senki nem vállalta magára, és a beszámoló idején Moszkva, illetve Kijev sem adott nyilvános reakciót. A líbiai kormány elítélte az esetet, és jogi, valamint diplomáciai lépéseket helyezett kilátásba.",
-    "title_ro": "Corveta rusă Merkury ar fi fost atacată cu drone în Benghazi",
-    "lead_ro": "O explozie și un incendiu au avut loc la o navă rusă aflată în baza navală din Benghazi. Un material de presă identifică vasul drept corveta Merkury și citează oficiali militari libieni anonimi care susțin că aceasta a fost lovită de drone; circumstanțele sunt investigate.",
-    "content_ro": "• **Explozia s-a produs în baza navală din Benghazi.** Guvernul care controlează estul Libiei a anunțat că deflagrația a avut loc la bordul unei nave rusești din port. Primele date ale anchetei iau în calcul un atac cu drone, fără ca această ipoteză să fi fost confirmată oficial.\n\n• **Mediafax a identificat nava drept corveta rusă Merkury.** Relatarea, care citează Associated Press, precizează că vasul se afla în Benghazi pentru combustibil și provizii. Potrivit autorităților libiene, oprirea făcea parte din călătoria de întoarcere în Rusia și era legată de cooperarea maritimă dintre cele două țări.\n\n• **Detaliile despre drone și amploarea avariilor provin din surse neoficiale.** Doi oficiali militari libieni care au vorbit sub protecția anonimatului au afirmat că drone maritime au fost lansate de la o bază folosită de forțe ucrainene în vestul Libiei. Conform acestora, cel puțin patru aparate au fost distruse, iar alte două au lovit corveta, provocând avarii grave și un incendiu.\n\n• **După stingerea flăcărilor a fost anunțată o anchetă comună.** Autoritățile din estul Libiei au declarat că investighează împreună cu Rusia originea atacului și identitatea celor implicați. Portul și instalațiile bazei, inclusiv depozitele, au fost prezentate ca fiind în siguranță, iar activitatea obișnuită urma să reînceapă după securizarea zonei.\n\n• **Au fost raportate persoane rănite, dar nu și decese.** Numărul răniților și cetățenia lor nu erau cunoscute. Nimeni nu a revendicat atacul, iar la momentul relatării nici Moscova, nici Kievul nu reacționaseră public. Guvernul libian a condamnat incidentul și a anunțat posibile măsuri juridice și diplomatice.",
-    "importance_score": 65.0,
-    "top_rank": 22,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_e968439784",
     "slug": "harom-legi-riasztast-adtak-ki-tulcea-tersegeben-e96843",
     "tags": [
@@ -1721,7 +1672,7 @@
     "lead_ro": "La 22 noiembrie, locuitorii din nordul județului Tulcea au fost avertizați de trei ori în urma unor observații radar. În cursul serii au fost ridicate două avioane F–16, iar autoritățile nu au semnalat încălcări ale spațiului aerian românesc.",
     "content_ro": "• **Observația din timpul nopții:** În noaptea de 21 spre 22 noiembrie, radarele au identificat un obiect aerian la 63 de kilometri nord-est de Vâlcove, în Ucraina. Două aeronave F–16 au plecat de la baza aeriană 86 din Fetești, iar avertizarea a fost activă între 00:46 și 02:14.\n\n• **Alerta de după-amiază:** Radarele Ministerului Apărării au urmărit un obiect aflat la aproximativ 30 de kilometri nord de Vâlcove. Locuitorii din zona vizată au primit mesajul RO-Alert la ora 15:06.\n\n• **O nouă detectare seara:** La 22 noiembrie, în cursul serii, sistemele radar au indicat ținte aeriene la est de Insula Șerpilor. Două avioane F–16 au decolat de la baza 86 Borcea; acestea se aflau în serviciul de poliție aeriană și au fost trimise pentru supravegherea situației.\n\n• **Mesajul și încheierea alertei:** Centrul militar de comandă a informat inspectoratul pentru situații de urgență, iar oamenii din nordul județului Tulcea au fost anunțați la ora 20:01. Alerta aeriană s-a încheiat la 21:15.\n\n• **Fără raportări privind încălcarea spațiului aerian:** Cele trei avertizări au corespuns observațiilor din timpul nopții, de după-amiază și de seară. Autoritățile române nu au consemnat pătrunderi în spațiul aerian național în niciunul dintre cazuri.",
     "importance_score": 60.0,
-    "top_rank": 23,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1779,7 +1730,7 @@
     "lead_ro": "Trei cetățeni ucraineni au intrat ilegal în România și s-au rătăcit în zona montană de la granița din Munții Maramureșului. Doi au fost găsiți în viață, iar al treilea, un bărbat, a murit.",
     "content_ro": "• **Grupul a trecut ilegal din Ucraina în România.** O femeie a anunțat telefonic centrul operațional al ITPF că trei cetățeni ucraineni s-au rătăcit în munții din apropierea frontierei. Potrivit sesizării, unul dintre ei se deplasa cu dificultate.\n\n• **Doi dintre ucraineni au fost găsiți în apropierea graniței, pe direcția localității Repedea.** La căutări au participat doi polițiști de frontieră din Poienile de sub Munte și trei salvamontiști din Maramureș, cu trei autospeciale în total.\n\n• **Al treilea bărbat a fost descoperit fără semne vitale.** Echipele au ajuns la el la scurt timp după ce i-au găsit pe ceilalți doi. Informarea nu precizează identitatea acestuia și nici cauza decesului.\n\n• **Intervenția s-a desfășurat pe teren montan greu accesibil, acoperit cu zăpadă consistentă.** Echipele au căutat în zona de frontieră, în condiții dificile de deplasare.\n\n• **Poliția din județul Maramureș cercetează cazul.** Informațiile au fost prezentate de Alina Petraru, iar autoritățile verifică împrejurările în care s-au produs faptele.",
     "importance_score": 60.0,
-    "top_rank": 24,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1838,7 +1789,7 @@
     "lead_ro": "Dudu Georgescu a murit în Canada, la 76 de ani, iar Federația Română de Fotbal a făcut publică vestea pe 22 noiembrie 2026. Fostul atacant al lui Dinamo păstrează recordul primei ligi, cu 252 de goluri.",
     "content_ro": "• **Decesul său în Toronto a fost anunțat pe 22 noiembrie.** FRF a confirmat că Georgescu a murit în Canada, la vârsta de 76 de ani. Potrivit interpretului Gheorghe Turda, fostul fotbalist a fost găsit într-un apartament închiriat; cauzele și împrejurările morții nu au fost făcute publice.\n\n• **Recordul său în campionatul românesc este de 252 de goluri.** Federația îi atribuie 371 de partide în primul eșalon. Pentru echipa națională a României a jucat de 40 de ori și a înscris 21 de goluri.\n\n• **La Dinamo a evoluat timp de un deceniu, din 1973 până în 1983.** În campionat a marcat 207 goluri în 260 de meciuri pentru clubul bucureștean. A câștigat patru titluri naționale și Cupa României, iar între 1975 și 1978 a fost golgheter în fiecare sezon.\n\n• **A obținut de două ori Gheata de Aur a Europei.** În 1975 a înscris 33 de goluri, iar în 1977 a ajuns la 47; în clasamentul Balonului de Aur a ocupat locurile 10, respectiv 9. Cariera sa de jucător s-a încheiat în 1988.\n\n• **După retragere, a activat ca antrenor și a locuit în Canada.** A pregătit formații precum CSM Reșița, Corvinul, Zimbru Chișinău și Al-Namja din Arabia Saudită. În 2000 s-a mutat cu familia la Toronto, unde a înființat o școală de fotbal; în 2008 a primit Ordinul Meritul Sportiv, clasa a III-a.",
     "importance_score": 60.0,
-    "top_rank": 25,
+    "top_rank": 24,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1896,7 +1847,7 @@
     "lead_ro": "Documentul final al conferinței ONU pentru climă de la Antalya nu a fost adoptat, deoarece participanții nu au ajuns la un compromis privind viitorul combustibililor fosili și finanțarea măsurilor climatice. Negocierile au depășit termenul cu aproximativ 44 de ore, făcând din COP31 cea mai lungă conferință climatică a ONU.",
     "content_ro": "• **Nu s-a ajuns la un acord:** La reuniunea de la Antalya, la care au participat aproape 200 de țări, președintele turc al COP31, Murat Kurum, a anunțat în plenul final că proiectul nu a fost adoptat. Președințiile Turciei și Australiei nu au reușit să apropie pozițiile delegațiilor.\n\n• **Discuțiile au stabilit un record de durată:** Conferința, începută pe 9 noiembrie, s-a încheiat la circa 44 de ore după termenul prevăzut. Durata sa a depășit-o pe cea a COP25, organizată la Madrid în 2019, care deținea anterior recordul.\n\n• **Combustibilii fosili au fost principalul punct de dispută:** UE și alte state au respins textul deoarece acesta nu prevedea angajamente privind eliminarea treptată a combustibililor fosili. Panama, Insulele Solomon, Coasta de Fildeș, Franța și UE au susținut includerea unei asemenea măsuri, contestată de Arabia Saudită și de alți producători de petrol și gaze.\n\n• **UE a considerat proiectul insuficient:** Ministrul irlandez pentru climă, Darragh O’Brien, a criticat absența oricărei mențiuni despre combustibilii fosili. Wopke Hoekstra, responsabilul european pentru climă, a apreciat că documentul nu atingea nivelul minim acceptabil, iar președinția irlandeză a cerut reluarea procesului de negociere.\n\n• **Finanțarea a rămas o problemă nerezolvată:** Țările africane au solicitat sprijin suplimentar pentru adaptare, iar statele vulnerabile nu au obținut garanții suficiente pentru finanțarea măsurilor climatice. Ministra franceză Monique Barbut a avertizat că tehnologiile de captare a carbonului nu trebuie să justifice continuarea utilizării combustibililor fosili. Valurile de căldură și inundațiile tot mai grave au ilustrat riscurile climatice.",
     "importance_score": 60.0,
-    "top_rank": 26,
+    "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1944,7 +1895,7 @@
     "lead_ro": "Cătălin Drulă, deputat USR și fost ministru al Transporturilor, a criticat costurile și efectele tehnice ale modificării nodului A0–A3 de lângă București. Potrivit calculelor sale, extinderea a adus cheltuieli suplimentare de 61 de milioane de lei și trasee mai lungi pentru șoferi.",
     "content_ro": "• **Suprafața nodului a crescut de la 82 la 208 hectare.** Drulă susține că extinderea nu avea o justificare tehnică; modificarea proiectului ar fi dus la exproprierea a încă 125 de hectare și la cheltuieli suplimentare de 61 de milioane de lei.\n\n• **Majoritatea terenurilor preluate erau agricole.** Potrivit lui Drulă, o mare parte a fost cumpărată la prețuri de teren intravilan. Nodul de lângă București ocupă aproximativ de șapte ori suprafața Frankfurter Kreuz, de circa 30 de hectare, deși traficul zilnic estimat este de 30.000 de vehicule, față de 300.000 la Frankfurt.\n\n• **Bretelele de legătură au ajuns la 13,7 kilometri.** Lungimea depășește cu 6,1 kilometri cei 7,6 kilometri prevăzuți în studiul de fezabilitate. În calculele lui Drulă, șoferii care trec de pe o autostradă pe alta ar pierde, în medie, aproximativ 10 secunde.\n\n• **Diferența estimată este mai mare pe ruta Ploiești–A2.** Pentru această direcție, descrisă drept cea mai circulată, timpul de deplasare ar crește cu circa 50 de secunde, iar traseul s-ar lungi cu 1,5 kilometri față de proiectul inițial.\n\n• **Bretelele directe, lungi de 2,5 kilometri, au câte o singură bandă.** Drulă a avertizat că o defecțiune a unui camion ar putea încetini sau bloca circulația. Deputatul a prezentat aceste obiecții într-o postare publicată duminică pe Facebook.",
     "importance_score": 55.0,
-    "top_rank": 27,
+    "top_rank": 26,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1997,7 +1948,7 @@
     "lead_ro": "George Simion a anunțat că AUR va face public luni seară un document privind anularea alegerilor prezidențiale din 2024. Potrivit partidului, prezentarea va avea loc la Camera Deputaților.",
     "content_ro": "• **AUR va prezenta raportul luni, 23 noiembrie, de la ora 19:00**, în sala grupului său parlamentar din Camera Deputaților. Partidul a anunțat că evenimentul se va desfășura sub forma unui briefing de presă.\n\n• **George Simion a făcut anunțul duminică.** Liderul AUR a transmis pe o rețea de socializare că formațiunea va prezenta un raport despre anularea scrutinului prezidențial din 2024, fără să ofere atunci detalii despre conținutul documentului sau locul evenimentului.\n\n• **Petrișor Peiu a presupus că documentul provine de la Comisia pentru abuzuri a Camerei Deputaților.** Liderul senatorilor AUR a spus într-o intervenție televizată că nu cunoaște în detaliu subiectul și l-a descris drept unul de natură juridică. Simion mai anunțase în octombrie intenția de a prezenta un astfel de raport.\n\n• **Nicușor Dan a promis, la rândul său, un raport, fără să stabilească un termen de publicare.** Nu a fost comunicată o dată la care documentul să fie făcut public.\n\n• **Curtea Constituțională a anulat alegerile prezidențiale la 6 decembrie 2024.** În primul tur, organizat pe 24 noiembrie, Călin Georgescu și Elena Lasconi au obținut cele mai multe voturi și urmau să se confrunte în turul al doilea.",
     "importance_score": 55.0,
-    "top_rank": 28,
+    "top_rank": 27,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2047,6 +1998,60 @@
     "lead_ro": "Meciul Dinamo–Petrolul, încheiat cu victoria oaspeților, 1–0, a fost oprit de două ori, iar incidentul de la monitorul VAR a fost relatat și în presa sportivă din Israel și Portugalia. Dan Nlundulu a înscris golul decisiv din penalty, iar Dinamo a suferit a doua înfrângere consecutivă în campionat.",
     "content_ro": "• **Partida s-a disputat la Slobozia:** În meciul de sâmbătă seara din etapa a 16-a a Superligii, Petrolul a învins-o pe Dinamo cu 1–0. Dan Nlundulu a marcat în minutul 45+12, după ce arbitrul Gabriel Mihuleac a dictat penalty pentru intervenția lui David Irimia asupra lui Rodrigo Martins.\n\n• **Jocul a fost întrerupt de două ori:** În minutul 22, partida a fost oprită aproximativ patru minute după ce suporteri au aruncat torțe pe teren. Prima repriză a primit 24 de minute și 9 secunde de prelungire, inclusiv timpul pierdut în urma incidentului VAR.\n\n• **Monitorul VAR a fost răsturnat de spectatori:** În minutul 39 a început verificarea video, însă cablul monitorului a fost tras, iar aparatul a căzut. Jocul a fost suspendat până la remedierea defecțiunii, după care Mihuleac a putut revedea faza. O relatare israeliană a menționat o întrerupere de 17 minute, în timp ce alte informații au indicat o durată de aproximativ 20 de minute.\n\n• **Incidentul a ajuns în publicații din afara țării:** Sport5 din Israel și site-ul portughez abola.pt au relatat despre cele petrecute la Slobozia, insistând asupra căderii monitorului VAR. Articolul israelian l-a amintit și pe Nikita Stoinov, fundașul israelian al lui Dinamo, echipă care a înregistrat a doua înfrângere consecutivă în Superligă.\n\n• **Jandarmii au intervenit și în cazul unui rucsac:** Potrivit autorităților, un bărbat de 20 de ani a aruncat, în minutul 20, o geantă cu materiale pirotehnice în sectorul suporterilor Petrolului. Acesta a fost predat poliției din Slobozia, amendat cu 500 de lei și interzis de la competiții sportive; totodată, au fost întocmite acte privind o posibilă încălcare a legislației referitoare la materiile explozive.",
     "importance_score": 55.0,
+    "top_rank": 28,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_6035c99773",
+    "slug": "csapadekos-szeles-ido-es-hegyi-hoviharok-varhatok-november-2224-kztt-6035c9",
+    "tags": [
+      "vreme",
+      "avertizare-meteo",
+      "ninsoare",
+      "viscol",
+      "carpati"
+    ],
+    "fingerprint": "a30a57b36aecc6332bf163fb31e64bc4",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Alertă meteo pentru aproape toată țara: „Ploi și ninsori”. Meteorologii anunță și „o răcire accentuată”",
+        "link": "https://hotnews.ro/alerta-meteo-pentru-aproape-toata-tara-ploi-si-ninsori-meteorologii-anunta-si-o-racire-accentuata-2410810"
+      },
+      {
+        "source": "Maszol",
+        "title": "Hóviharokkal indul a hét",
+        "link": "https://maszol.ro/belfold/Hoviharokkal-indul-a-het"
+      },
+      {
+        "source": "G4Media",
+        "title": "Alerte Cod galben şi Cod portocaliu de ninsori şi viscol în peste jumătate din ţară, până marţi seara / Rafale de 120 km/h și vizibilitate redusă la munte",
+        "link": "https://www.g4media.ro/alerte-cod-galben-si-cod-portocaliu-de-ninsori-si-viscol-in-peste-jumatate-din-tara-pana-marti-seara-rafale-de-120-km-h-si-vizibilitate-redusa-la-munte.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Cod galben şi portocaliu de ninsori şi viscol în peste jumătate din ţară. Avertizările ANM sunt valabile până marţi seara",
+        "link": "https://stirileprotv.ro/stiri/actualitate/cod-galben-si-portocaliu-de-ninsori-si-viscol-in-peste-jumatate-din-ara-avertizarile-anm-sunt-valabile-pana-mar-i-seara.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "HARTĂ Alerte Cod galben şi Cod portocaliu de ninsori şi viscol în peste jumătate din ţară. Ce zone sunt vizate",
+        "link": "https://www.digi24.ro/meteo/harta-alerte-cod-galben-si-cod-portocaliu-de-ninsori-si-viscol-in-peste-jumatate-din-tara-ce-zone-sunt-vizate-4048531"
+      }
+    ],
+    "published_at": 1795354020,
+    "title_hu": "Csapadékos, szeles idő és hegyi hóviharok várhatók november 22–24. között",
+    "lead_hu": "Az ANM november 22. estétől 24. estig az ország nagy részére csapadékot és erős szelet jelzett, a hegyvidéken pedig hófúvásra is figyelmeztetett. A Déli-Kárpátok magasabb részein narancssárga riasztás lép életbe, és jelentős lehűlés várható.",
+    "content_hu": "• **November 22-én 22 órától 24-én 20 óráig az ország nagy részén csapadékra kell számítani.** Az ANM előrejelzése szerint általában 10–15 liter eső hullhat négyzetméterenként, a nyugati országrészben és hegyvidéken helyenként 20–40 liter is összegyűlhet.\n\n• **A magasabban fekvő hegyvidéki területeken havazás és hófúvás várható.** November 22-én este sárga riasztás kezdődik a Déli-Kárpátok jelentős részén, jellemzően 1500 méter felett; ez másnap délig lesz érvényben. A Déli-Kárpátok és a Kárpát-kanyar 1700 méter feletti részein hétfőn narancssárga riasztás is érvényes, a széllökések elérhetik a 100–120 km/órát, a látótávolság pedig 50 méter alá csökkenhet.\n\n• **A hó mennyisége a hegyekben elérheti a 10–30 centimétert.** Hétfőn egyes hegyvidéki térségekben 5–10 centiméteres friss hóréteget jeleztek; a középső és északi dombvidéken is kialakulhat néhány centiméteres hótakaró.\n\n• **A szél hétfőn és kedden az ország több részén megerősödik.** Általában 40–60 km/órás széllökések fordulhatnak elő, magashegyekben a legerősebb lökések a 80–100 km/órát is meghaladhatják. Hétfőn többek között Dél-Erdélyben, Olténiában, Munténiában, Moldva egyes részein és Dobrudzsában 50–70 km/órás lökésekre számítanak.\n\n• **A csapadék halmazállapota térségenként változik, a hőmérséklet pedig jelentősen csökken.** Észak-Moldvában és a hegyekben a havazás kerül előtérbe; Erdélyben és Máramarosban az esőt hétfő délutántól havas eső, majd hó válthatja fel. A lehűlés hétfőn északon, kedden délen válik hangsúlyossá.",
+    "title_ro": "Ploi, vânt puternic și viscol la munte între 22 și 24 noiembrie",
+    "lead_ro": "ANM a anunțat precipitații și intensificări ale vântului în mare parte din țară, în intervalul 22–24 noiembrie. La altitudini mari, în Carpații Meridionali sunt prognozate ninsori viscolite, iar temperaturile vor scădea accentuat.",
+    "content_ro": "• **Între 22 noiembrie, ora 22:00, și 24 noiembrie, ora 20:00, sunt prognozate precipitații în cea mai mare parte a țării.** Cantitățile estimate sunt, în general, de 10–15 litri pe metru pătrat; în vest și în zonele montane, pe arii restrânse, pot ajunge la 20–40 de litri.\n\n• **La munte, ninsorile și viscolul vor afecta mai ales zonele înalte.** O atenționare cod galben începe în seara de 22 noiembrie pentru o mare parte a Carpaților Meridionali, în general la peste 1.500 de metri, și se încheie la prânz în ziua următoare. Pentru luni este anunțat și cod portocaliu în zonele de peste 1.700 de metri din Carpații Meridionali și Curbura Carpaților: rafalele pot atinge 100–120 km/h, iar vizibilitatea poate coborî sub 50 de metri.\n\n• **Stratul de zăpadă poate ajunge la 10–30 de centimetri în regiunea montană.** În unele zone montane sunt estimate depuneri proaspete de 5–10 centimetri, iar pe dealurile din centrul și nordul țării se poate forma local un strat de câțiva centimetri.\n\n• **Vântul se va intensifica în mai multe regiuni luni și marți.** În cea mai mare parte a țării sunt posibile viteze de 40–60 km/h, iar la altitudini mari rafalele pot depăși 80–100 km/h. Luni, în sudul Transilvaniei, Oltenia, Muntenia, unele zone din Moldova și Dobrogea, vântul poate ajunge la 50–70 km/h.\n\n• **Tipul precipitațiilor va diferi de la o regiune la alta, iar vremea se va răci accentuat.** În nordul Moldovei și la munte va predomina ninsoarea. În Maramureș și Transilvania, ploaia poate fi înlocuită de lapoviță și ninsoare începând de luni după-amiază. Scăderea temperaturilor va fi mai pronunțată luni în nord și marți în sud.",
+    "importance_score": 50.0,
     "top_rank": 29,
     "is_top_hero": false,
     "is_top_list": true
@@ -2663,6 +2668,40 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_3dba602eeb",
+    "slug": "guvernul-recunoaste-ca-a-marit-in-secret-salariile-la-transgaz-si-transelectrica-3dba60",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjIzJTJGMzA4MjMyNV8zMDgy/MzI1X3NlZGludGEtZGUtZ3V2ZXJuLmpw/ZyZoYXNoPTRmNTY5YmIxOTk0NzM4MGYxNDExMDA3Y2E2ODlhYmZj.jpg",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Guvernul recunoaște că a mărit în secret salariile la Transgaz și Transelectrica. Majorările, trecute pe „agenda publică” după 3 zile",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-recunoaste-ca-a-marit-in-secret-salariile-la-transgaz-si-transelectrica-majorarile-trecute-pe-agenda-publica-dupa-3-zile-4048447"
+      },
+      {
+        "source": "G4Media",
+        "title": "Guvernul publică documentele prin care a aprobat majorarea cu 6,5% a salariilor la Transgaz și Transelectrica / Impact financiar anual de 5 miliarde lei pentru cele două societăți / Creșterile, motivate de nevoia păstrării specialiștilor",
+        "link": "https://www.g4media.ro/guvernul-publica-documentele-prin-care-a-aprobat-majorarea-cu-65-a-salariilor-la-transgaz-si-transelectrica-impact-financiar-anual-de-5-miliarde-lei-pentru-cele-doua-societati-cresterile-motivat.html"
+      }
+    ],
+    "published_at": 1795421404,
+    "title_hu": "Guvernul recunoaște că a mărit în secret salariile la Transgaz și Transelectrica. Majorările, trecute pe „agenda publică” după 3 zile",
+    "lead_hu": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând...",
+    "content_hu": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând surse guvernamentale, despre aceste majorări, care nu fuseseră anunțate pe ordinea de zi a ședinței, iar Executivul nu a comunicat pe acest subiect.",
+    "title_ro": "Guvernul recunoaște că a mărit în secret salariile la Transgaz și Transelectrica. Majorările, trecute pe „agenda publică” după 3 zile",
+    "lead_ro": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând...",
+    "content_ro": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând surse guvernamentale, despre aceste majorări, care nu fuseseră anunțate pe ordinea de zi a ședinței, iar Executivul nu a comunicat pe acest subiect.",
+    "importance_score": 40.0,
+    "top_rank": 44,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_ca466098ea",
     "slug": "120-milliard-forintot-forditana-utjavitasra-a-magyar-kormany-ca4660",
     "tags": [
@@ -2696,7 +2735,7 @@
     "lead_ro": "Premierul Péter Magyar a prezentat duminică un program de reparații rutiere în valoare de 120 de miliarde de forinți, echivalentul a aproximativ 322 de milioane de euro. Fondurile sunt destinate drumurilor principale, iar guvernul intenționează și să preia administrarea autostrăzilor.",
     "content_ro": "• **Guvernul va aloca 120 de miliarde de forinți pentru lucrări rutiere.** Premierul Péter Magyar a anunțat suma duminică, într-o postare pe Facebook. Valoarea corespunde aproximativ unui buget de 322 de milioane de euro, iar agenția MTI a relatat despre declarație.\n\n• **Banii din program vor fi folosiți pentru rețeaua principală de drumuri.** Magyar a descris starea acestor șosele drept o problemă urgentă și a inclus repararea gropilor printre lucrările avute în vedere. Potrivit anunțului, fondurile prezentate nu sunt alocate modernizării drumurilor secundare.\n\n• **Executivul urmărește să consolideze compania Magyar Közút și să modernizeze șoselele secundare.** Premierul a afirmat că aceste drumuri au fost neglijate în ultimii ani. El a relatat și că a făcut cel puțin opt pene de cauciuc în timpul deplasărilor prin țară, menționând inclusiv zona unui lac de acumulare inaugurat recent, cu o capacitate de două milioane de metri cubi.\n\n• **Administrarea autostrăzilor ar urma să treacă sub controlul statului.** Pentru realizarea planului, guvernul intenționează să încheie o concesiune evaluată la 23.000 de miliarde de forinți, adică peste 62 de miliarde de euro. Magyar a prezentat schimbarea ca pe o măsură menită să împiedice folosirea banilor publici în beneficiul unor interese private.\n\n• **Reparațiile drumurilor și schimbarea regimului autostrăzilor sunt două componente distincte ale anunțului.** Bugetul de 120 de miliarde de forinți este destinat arterelor principale, în timp ce preluarea autostrăzilor a fost legată de încetarea concesiunii. Anunțul nu a precizat calendarul lucrărilor de reparație.",
     "importance_score": 40.0,
-    "top_rank": 44,
+    "top_rank": 45,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2744,56 +2783,45 @@
     "lead_ro": "Primarul municipiului Buzău, Constantin Toma, consideră că Marcel Ciolacu a devenit principalul beneficiar al reacțiilor negative legate de botezul organizat la Timișoara. Toma afirmă că Ciolacu își păstrează influența în PSD și spune că relația sa cu acesta este foarte bună.",
     "content_ro": "• **Toma susține că reacțiile negative de după botezul de la Timișoara s-au concentrat asupra lui Ciolacu.** Primarul municipiului Buzău a discutat duminică despre acest subiect la Digi24. În opinia sa, consecințele de imagine ale evenimentului nu au fost suportate în mod egal de persoanele asociate cu acesta, iar Marcel Ciolacu a ajuns să fie cel mai vizibil vizat de criticile publice.\n\n• **Discuțiile despre șinșila și gențile costisitoare au alimentat controversa legată de eveniment.** Toma a indicat această temă ca exemplu al modului în care atenția negativă s-a îndreptat către Ciolacu. Primarul a apreciat că episodul i-a afectat serios imaginea și l-a plasat într-o poziție vulnerabilă în dezbaterea publică.\n\n• **Potrivit lui Toma, Ciolacu păstrează o rețea importantă de influență în PSD.** El estimează că aproximativ trei sferturi dintre conducătorii organizațiilor județene ale partidului au fost numiți cu sprijinul lui Ciolacu. Toma a mai afirmat că numeroase persoane aflate în funcții din instituții publice centrale și companii de stat îi datorează acestuia numirea.\n\n• **Primarul nu a descris situația drept o reglare de conturi în partid, dar a menționat răspunderea organizatorilor.** În opinia sa, trebuie luat în considerare și rolul celor implicați în pregătirea evenimentului. Toma a caracterizat drept foarte bună relația sa cu Ciolacu, președintele Consiliului Județean Buzău, și a amintit colaborarea lor în proiecte precum gestionarea deșeurilor și alimentarea cu apă.\n\n• **Toma a confirmat că rămâne membru PSD.** Precizarea a venit după ce a fost întrebat despre o fotografie în care apărea alături de Ilie Bolojan și Ciprian Ciucu, aflați în vizită la Buzău. Potrivit primarului, cei trei au stat împreună la o cafea aproximativ 20 de minute.",
     "importance_score": 40.0,
-    "top_rank": 45,
+    "top_rank": 46,
     "is_top_hero": false,
     "is_top_list": true
   },
   {
-    "group_id": "group_6035c99773",
-    "slug": "csapadekos-szeles-ido-es-hegyi-hoviharok-varhatok-november-2224-kztt-6035c9",
+    "group_id": "group_cc61ca5afc",
+    "slug": "victoria-din-carolina-de-nord-le-aduce-democratilo-cc61ca",
     "tags": [
-      "vreme",
-      "avertizare-meteo",
-      "ninsoare",
-      "viscol",
-      "carpati"
+      "altalanos"
     ],
-    "fingerprint": "a30a57b36aecc6332bf163fb31e64bc4",
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
+    "is_synthesized": false,
+    "sources_count": 3,
     "sources": [
       {
-        "source": "HotNews.ro",
-        "title": "Alertă meteo pentru aproape toată țara: „Ploi și ninsori”. Meteorologii anunță și „o răcire accentuată”",
-        "link": "https://hotnews.ro/alerta-meteo-pentru-aproape-toata-tara-ploi-si-ninsori-meteorologii-anunta-si-o-racire-accentuata-2410810"
+        "source": "ProTV Stiri",
+        "title": "Victoria din Carolina de Nord le aduce democraţilor cea mai mare majoritate din ultimii 30 de ani în Camera Reprezentanţilor",
+        "link": "https://stirileprotv.ro/stiri/international/victoria-din-carolina-de-nord-le-aduce-democra-ilor-cea-mai-mare-majoritate-din-ultimii-30-de-ani-in-camera-reprezentan-ilor.html"
       },
       {
-        "source": "Maszol",
-        "title": "Hóviharokkal indul a hét",
-        "link": "https://maszol.ro/belfold/Hoviharokkal-indul-a-het"
+        "source": "Digi24",
+        "title": "Democrații obțin cea mai mare majoritate din ultimii peste 30 de ani în Camera Reprezentanților din SUA",
+        "link": "https://www.digi24.ro/stiri/externe/democratii-obtin-cea-mai-mare-majoritate-din-ultimii-peste-30-de-ani-in-camera-reprezentantilor-din-sua-4048519"
       },
       {
         "source": "G4Media",
-        "title": "Alerte Cod galben şi Cod portocaliu de ninsori şi viscol în peste jumătate din ţară, până marţi seara / Rafale de 120 km/h și vizibilitate redusă la munte",
-        "link": "https://www.g4media.ro/alerte-cod-galben-si-cod-portocaliu-de-ninsori-si-viscol-in-peste-jumatate-din-tara-pana-marti-seara-rafale-de-120-km-h-si-vizibilitate-redusa-la-munte.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Cod galben şi portocaliu de ninsori şi viscol în peste jumătate din ţară. Avertizările ANM sunt valabile până marţi seara",
-        "link": "https://stirileprotv.ro/stiri/actualitate/cod-galben-si-portocaliu-de-ninsori-si-viscol-in-peste-jumatate-din-ara-avertizarile-anm-sunt-valabile-pana-mar-i-seara.html"
+        "title": "Democraţii vor avea cea mai mare majoritate în Camera Reprezentanţilor din 1992 / Bill Clinton a învins atunci în alegerile prezidenţiale din SUA / Hakeem Jeffries: ”BUM!”",
+        "link": "https://www.g4media.ro/democratii-vor-avea-cea-mai-mare-majoritate-in-camera-reprezentantilor-din-1992-bill-clinton-a-invins-atunci-in-alegerile-prezidentiale-din-sua-hakeem-jeffries-bum.html"
       }
     ],
-    "published_at": 1795354020,
-    "title_hu": "Csapadékos, szeles idő és hegyi hóviharok várhatók november 22–24. között",
-    "lead_hu": "Az ANM november 22. estétől 24. estig az ország nagy részére csapadékot és erős szelet jelzett, a hegyvidéken pedig hófúvásra is figyelmeztetett. A Déli-Kárpátok magasabb részein narancssárga riasztás lép életbe, és jelentős lehűlés várható.",
-    "content_hu": "• **November 22-én 22 órától 24-én 20 óráig az ország nagy részén csapadékra kell számítani.** Az ANM előrejelzése szerint általában 10–15 liter eső hullhat négyzetméterenként, a nyugati országrészben és hegyvidéken helyenként 20–40 liter is összegyűlhet.\n\n• **A magasabban fekvő hegyvidéki területeken havazás és hófúvás várható.** November 22-én este sárga riasztás kezdődik a Déli-Kárpátok jelentős részén, jellemzően 1500 méter felett; ez másnap délig lesz érvényben. A Déli-Kárpátok és a Kárpát-kanyar 1700 méter feletti részein hétfőn narancssárga riasztás is érvényes, a széllökések elérhetik a 100–120 km/órát, a látótávolság pedig 50 méter alá csökkenhet.\n\n• **A hó mennyisége a hegyekben elérheti a 10–30 centimétert.** Hétfőn egyes hegyvidéki térségekben 5–10 centiméteres friss hóréteget jeleztek; a középső és északi dombvidéken is kialakulhat néhány centiméteres hótakaró.\n\n• **A szél hétfőn és kedden az ország több részén megerősödik.** Általában 40–60 km/órás széllökések fordulhatnak elő, magashegyekben a legerősebb lökések a 80–100 km/órát is meghaladhatják. Hétfőn többek között Dél-Erdélyben, Olténiában, Munténiában, Moldva egyes részein és Dobrudzsában 50–70 km/órás lökésekre számítanak.\n\n• **A csapadék halmazállapota térségenként változik, a hőmérséklet pedig jelentősen csökken.** Észak-Moldvában és a hegyekben a havazás kerül előtérbe; Erdélyben és Máramarosban az esőt hétfő délutántól havas eső, majd hó válthatja fel. A lehűlés hétfőn északon, kedden délen válik hangsúlyossá.",
-    "title_ro": "Ploi, vânt puternic și viscol la munte între 22 și 24 noiembrie",
-    "lead_ro": "ANM a anunțat precipitații și intensificări ale vântului în mare parte din țară, în intervalul 22–24 noiembrie. La altitudini mari, în Carpații Meridionali sunt prognozate ninsori viscolite, iar temperaturile vor scădea accentuat.",
-    "content_ro": "• **Între 22 noiembrie, ora 22:00, și 24 noiembrie, ora 20:00, sunt prognozate precipitații în cea mai mare parte a țării.** Cantitățile estimate sunt, în general, de 10–15 litri pe metru pătrat; în vest și în zonele montane, pe arii restrânse, pot ajunge la 20–40 de litri.\n\n• **La munte, ninsorile și viscolul vor afecta mai ales zonele înalte.** O atenționare cod galben începe în seara de 22 noiembrie pentru o mare parte a Carpaților Meridionali, în general la peste 1.500 de metri, și se încheie la prânz în ziua următoare. Pentru luni este anunțat și cod portocaliu în zonele de peste 1.700 de metri din Carpații Meridionali și Curbura Carpaților: rafalele pot atinge 100–120 km/h, iar vizibilitatea poate coborî sub 50 de metri.\n\n• **Stratul de zăpadă poate ajunge la 10–30 de centimetri în regiunea montană.** În unele zone montane sunt estimate depuneri proaspete de 5–10 centimetri, iar pe dealurile din centrul și nordul țării se poate forma local un strat de câțiva centimetri.\n\n• **Vântul se va intensifica în mai multe regiuni luni și marți.** În cea mai mare parte a țării sunt posibile viteze de 40–60 km/h, iar la altitudini mari rafalele pot depăși 80–100 km/h. Luni, în sudul Transilvaniei, Oltenia, Muntenia, unele zone din Moldova și Dobrogea, vântul poate ajunge la 50–70 km/h.\n\n• **Tipul precipitațiilor va diferi de la o regiune la alta, iar vremea se va răci accentuat.** În nordul Moldovei și la munte va predomina ninsoarea. În Maramureș și Transilvania, ploaia poate fi înlocuită de lapoviță și ninsoare începând de luni după-amiază. Scăderea temperaturilor va fi mai pronunțată luni în nord și marți în sud.",
-    "importance_score": 40.0,
-    "top_rank": 46,
+    "published_at": 1795411714,
+    "title_hu": "Victoria din Carolina de Nord le aduce democraţilor cea mai mare majoritate din ultimii 30 de ani în Camera Reprezentanţilor",
+    "lead_hu": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în…",
+    "content_hu": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în ultimele peste trei decenii, relatează Reuters.",
+    "title_ro": "Victoria din Carolina de Nord le aduce democraţilor cea mai mare majoritate din ultimii 30 de ani în Camera Reprezentanţilor",
+    "lead_ro": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în…",
+    "content_ro": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în ultimele peste trei decenii, relatează Reuters.",
+    "importance_score": 38.0,
+    "top_rank": 47,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2827,7 +2855,7 @@
     "lead_ro": "Şase elevi de la Colegiul Naţional Militar ”Tudor Vladimirescu” din Craiova au fost internaţi în spital după ce au acuzat probleme digestive, iar alţi 14, care au aceeaşi problemă medicală, se află su...",
     "content_ro": "Şase elevi de la Colegiul Naţional Militar ”Tudor Vladimirescu” din Craiova au fost internaţi în spital după ce au acuzat probleme digestive, iar alţi 14, care au aceeaşi problemă medicală, se află sub supraveghere în infirmeria unităţii.",
     "importance_score": 35.0,
-    "top_rank": 47,
+    "top_rank": 48,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2861,7 +2889,7 @@
     "lead_ro": "Rapoartele secrete ale Securității din perioada 1970–1977, făcute publice de CNSAS, demontează mitul performanței industriale din „Epoca de Aur”. Studiu de caz: construcția trenului prezidențial la În...",
     "content_ro": "Rapoartele secrete ale Securității din perioada 1970–1977, făcute publice de CNSAS, demontează mitul performanței industriale din „Epoca de Aur”. Studiu de caz: construcția trenului prezidențial la Întreprinderea de Vagoane Arad. Potrivit documentelor Securotății, construcția trenului s-a transformat într-un șir nesfârșit de vicii de proiectare, scurgeri de combustibil și defecțiuni tehnice grave, garnitura fiind pusă în […] © G4Media.ro.",
     "importance_score": 35.0,
-    "top_rank": 48,
+    "top_rank": 49,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2895,7 +2923,7 @@
     "lead_ro": "Parchetul General a dat publicității un bilanț al activității instituției și a parchetelor de pe lângă curțile de apel, fără DNA și DIICOT, pentru cele șase luni scurse de la preluarea mandatului de p...",
     "content_ro": "Parchetul General a dat publicității un bilanț al activității instituției și a parchetelor de pe lângă curțile de apel, fără DNA și DIICOT, pentru cele șase luni scurse de la preluarea mandatului de procuror general de Cristina Chiriac. Datele statistice arată că procurorii au soluționat în medie aproape un dosar pe minut. Cu toate acestea raportul arată că că rezultatele nu sunt încă cele așteptate.",
     "importance_score": 35.0,
-    "top_rank": 49,
+    "top_rank": 50,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2934,7 +2962,7 @@
     "lead_ro": "Confederația Patronală Concordia se opune folosirii plafonului fiscal pentru sponsorizări și mecenat în vederea acordării de vouchere de vacanță de până la 1.600 de lei, utilizabile în România. Organizația susține stimularea turismului intern, dar solicită un program distinct, cu buget și obiective stabilite.",
     "content_ro": "• **Concordia contestă sursa de finanțare propusă, nu obiectivul de a sprijini turismul intern.** Proiectul ar permite firmelor să scadă din impozitul pe profit vouchere de vacanță de cel mult 1.600 de lei, valabile pentru servicii folosite în România. Potrivit organizației patronale, facilitatea nu ar trebui acoperită din plafonul fiscal utilizat pentru sponsorizări și mecenat.\n\n• **Accesul la beneficiu ar depinde de situația angajatorului, susține confederația.** De măsură ar putea profita angajații unor companii private care înregistrează profit și pot acorda vouchere. Salariații firmelor mici, cei din sectorul public și angajații organizațiilor neguvernamentale riscă să nu aibă acces la aceeași facilitate.\n\n• **Organizația avertizează că finanțarea ar putea diminua resursele disponibile pentru sponsorizări.** În calculul prezentat de Concordia, un voucher de 1.600 de lei reduce în prezent impozitul firmei cu aproximativ 256 de lei. În formula propusă, diminuarea obligației fiscale ar ajunge la 1.600 de lei pentru fiecare voucher acordat. Confederația a semnalat și lipsa unei estimări detaliate a efectului asupra bugetului public.\n\n• **Concordia propune un cadru separat de sprijin pentru turism.** Acesta ar trebui să cuprindă acțiuni concrete, ținte care pot fi măsurate și un buget asumat în prealabil. Organizația a criticat, de asemenea, absența unei evaluări de impact și a consultării părților vizate înainte de introducerea schimbării fiscale.",
     "importance_score": 35.0,
-    "top_rank": 50,
+    "top_rank": 51,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2967,7 +2995,7 @@
     "lead_ro": "Slovacia nu va participa la programul de împrumut de 45 de miliarde de euro propus de Uniunea Europeană pentru Ucraina, a anunțat premierul Robert Fico. Această decizie pune Bratislava în conflict cu …",
     "content_ro": "Slovacia nu va participa la programul de împrumut de 45 de miliarde de euro propus de Uniunea Europeană pentru Ucraina, a anunțat premierul Robert Fico. Această decizie pune Bratislava în conflict cu alte state membre ale UE în ajunul unui summit bugetar crucial, comentează TVPWorld.",
     "importance_score": 35.0,
-    "top_rank": 51,
+    "top_rank": 52,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3006,7 +3034,7 @@
     "lead_ro": "Primarul Clujului, Emil Boc, a criticat într-un videoclip publicat pe rețelele sociale noua propunere de buget a Uniunii Europene. El susține că planul nu asigură suficiente fonduri pentru prioritățile noi și pentru domeniile tradiționale ale Uniunii.",
     "content_ro": "• **Emil Boc consideră insuficientă propunerea privind bugetul european.** Primarul Clujului și-a prezentat poziția într-un videoclip publicat pe rețelele sociale și l-a criticat pe Antonio Costa, președintele Consiliului European, pentru planul propus.\n\n• **Suma prevăzută ar fi mai mică decât bugetul actual.** Potrivit lui Boc, propunerea se situează și cu aproximativ 10% sub planul prezentat de Comisia Europeană în vara acestui an.\n\n• **Printre obiectivele noi se numără locuințele accesibile, apărarea și competitivitatea.** Boc a subliniat că, în paralel, trebuie finanțate și domeniile tradiționale ale UE, inclusiv agricultura și politica de coeziune.\n\n• **Reducerea fondurilor pentru coeziune îl îngrijorează în mod deosebit.** Aceste resurse pot susține proiecte precum școli, creșe, grădinițe, spitale și locuințe sociale, iar Boc avertizează că diminuarea lor poate limita investițiile legate de cooperarea europeană.\n\n• **În opinia lui Boc, un buget mai mic poate împiedica atingerea obiectivelor Uniunii.** El consideră dificilă construirea unei Europe mai puternice și mai unite dacă noile priorități sunt asumate fără finanțarea adecvată a politicii agricole și a coeziunii.",
     "importance_score": 35.0,
-    "top_rank": 52,
+    "top_rank": 53,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3039,7 +3067,7 @@
     "lead_ro": "Alexandru Barbu revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, conducătorul Academiei FCSB. Despre ce vorbim, printre altele: FC Argeș - FCSB 0-0. Trupa lui Reghec…",
     "content_ro": "Alexandru Barbu revine cu o nouă ediție GSP Live, astăzi, de la ora 11:00, alături de Raul Rusescu, conducătorul Academiei FCSB. Despre ce vorbim, printre altele: FC Argeș - FCSB 0-0. Trupa lui Reghecampf ajunge la al treilea meci fără succes în campionat;spectacol în UTA - Universitatea Craiova: oltenii s-au impus cu 6-2;momente inedite în Dinamo - Petrolul 0-1;Sepsi - Rapid închide etapa #16 din Superliga, diseară, de la 20:00;Dudu Georgescu, unul dintre cei mai mari ...",
     "importance_score": 35.0,
-    "top_rank": 53,
+    "top_rank": 54,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3072,7 +3100,7 @@
     "lead_ro": "A sepsi-barcasági fiatalok egy tartalmas és építő lelki napon vehettek részt november 14-én a sepsiszentgyörgyi Szent József-plébánia szervezésében. A lelki nap középpontjában Tiszteletreméltó Márton …",
     "content_ro": "A sepsi-barcasági fiatalok egy tartalmas és építő lelki napon vehettek részt november 14-én a sepsiszentgyörgyi Szent József-plébánia szervezésében. A lelki nap középpontjában Tiszteletreméltó Márton Áron püspök állt. Az esemény délelőtt 10 órakor kezdődött a regisztrációval. A plébánia ifjúsága nagy mosollyal fogadta a különböző helyekről érkező fiatalokat. Már a regisztrálás alatt pezsgett a hangulat különböző csoportos […]",
     "importance_score": 35.0,
-    "top_rank": 54,
+    "top_rank": 55,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3111,7 +3139,7 @@
     "lead_ro": "Listările Anthropic și SpaceX au generat comisioane de peste un miliard de dolari pentru băncile de pe Wall Street. În cazul Anthropic, colaborarea a venit cu limite neobișnuite privind numărul bancherilor, accesul la documente și activitatea pentru anumite companii concurente.",
     "content_ro": "• **Cele două listări au adus băncilor comisioane cumulate de peste un miliard de dolari.** Instituțiile implicate în oferta Anthropic au primit peste 500 de milioane de dolari. Articolul precizează că listarea companiei, desfășurată joi, a depășit recordul stabilit de SpaceX în iunie.\n\n• **Anthropic a implicat 22 de bănci, însă unele echipe au fost limitate la patru bancheri.** Compania a preferat ca participanții să aibă funcții de conducere. Măsura a fost asociată cu preocuparea de a preveni divulgarea informațiilor confidențiale.\n\n• **Unor responsabili ai băncilor li s-a cerut să nu lucreze timp de șase luni pentru anumite companii concurente.** Restricția urma să se aplice după listarea Anthropic și viza, între altele, OpenAI, Cursor, DeepSeek și Hugging Face.\n\n• **Bancherii și avocații consultați au descris asemenea condiții drept neobișnuite pentru o ofertă publică inițială.** Ei au remarcat în special faptul că interdicțiile puteau fi impuse individual angajaților instituțiilor financiare. Cerințele au complicat activitatea băncilor implicate și în planurile bursiere ale altor firme de tehnologie.\n\n• **Accesul la materialele tranzacției a fost urmărit prin platforma NetRoadshow.** Sistemul permitea verificarea persoanelor care consultau paginile, iar documentele aveau marcaje individuale cu numele bancherilor. Interdicția de a salva copii a adăugat dificultăți pentru echipele bancare.",
     "importance_score": 35.0,
-    "top_rank": 55,
+    "top_rank": 56,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3149,7 +3177,7 @@
     "lead_ro": "Compania aeriană Wizz Air, cu origini maghiare, a anunțat pe 17 noiembrie că numărul angajaților săi a trecut de 10.000. Aproximativ 2.000 dintre aceștia sunt români, care formează cel mai mare grup național din cadrul operatorului.",
     "content_ro": "• **Wizz Air are acum peste 10.000 de angajați.** Compania a comunicat depășirea acestui prag pe 17 noiembrie. Personalul său include oameni de peste 100 de naționalități, care lucrează în 50 de țări.\n\n• **Românii sunt cel mai numeros grup național din companie.** Datele prezentate indică aproximativ 2.000 de angajați români, adică aproape unul din cinci salariați. Polonezii ocupă următorul loc, urmați de unguri.\n\n• **Activitatea operatorului cuprinde numeroase roluri, dincolo de echipajele de zbor.** Pe lângă piloți și însoțitori de bord, compania are angajați care planifică rute și programe pentru echipaje, lucrează în centre operaționale sau oferă sprijin pasagerilor.\n\n• **Wizz Air a fost înființată în 2003 și are origini în Ungaria.** Centrul său operațional se află în apropiere de Budapesta, iar grupul include entități precum Wizz Air Hungary, Wizz Air Malta și Wizz Air UK. Flota menționată de companie cuprinde 276 de aeronave Airbus.\n\n• **Operatorul a intrat pe piața românească în 2006.** În prezent, compania are mai multe baze în România și se numără printre actorii importanți ai transportului aerian local.",
     "importance_score": 35.0,
-    "top_rank": 56,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3187,7 +3215,7 @@
     "lead_ro": "Ministrul Educației, Sorin Costreie, a avansat ideea unui jurământ profesional pentru cadrele didactice, inspirat de Socrate. El a spus că propunerea a fost întâmpinată și cu reacții ironice, dar consideră necesară o reflecție asupra valorilor și prestigiului profesiei.",
     "content_ro": "• **Sorin Costreie a propus ca profesorii să își asume un jurământ profesional.** În viziunea sa, angajamentul ar putea fi făcut la încheierea formării pedagogice sau la intrarea în profesia didactică și ar exprima responsabilitatea celor care lucrează în educație.\n\n• **Inițiativa urmărește, potrivit ministrului, să susțină demnitatea profesiei.** Costreie a legat respectul pentru cadrele didactice și de asumarea unor repere comune, pe care profesorii să le păstreze în activitatea lor.\n\n• **Propunerea a fost explicată printr-o analogie cu angajamentul medicilor.** Ministrul a descris jurământul profesorilor ca pe o recunoaștere solemnă a obligațiilor față de elevi, comparabilă cu responsabilitatea medicului față de pacient.\n\n• **Costreie a relatat că ideea a provocat și răspunsuri ironice.** El a afirmat că reacțiile nu l-au făcut să renunțe la propunere, ci i-au întărit convingerea că educația are nevoie de mai multă reflecție.\n\n• **Subiectul a fost adus în discuție în contextul Zilei Internaționale a Filosofiei.** Costreie a indicat data de 19 noiembrie și a prezentat jurământul ca pe o posibilă modalitate de a consolida valorile profesionale și respectul de sine al profesorilor. Informațiile publicate nu arată că propunerea ar fi fost adoptată ca măsură oficială.",
     "importance_score": 35.0,
-    "top_rank": 57,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3225,7 +3253,7 @@
     "lead_ro": "Janarino Ferreira dos Santos, în vârstă de 74 de ani, a dispărut pe 10 noiembrie într-o zonă împădurită din apropierea orașului Macapá. Echipele de căutare l-au găsit după unsprezece zile, la circa zece kilometri de locul dispariției; în prezent, bărbatul este internat.",
     "content_ro": "• **Bărbatul a dispărut pe 10 noiembrie, în apropiere de Macapá.** Janarino Ferreira dos Santos, care suferă de Alzheimer, a intrat într-o zonă împădurită din nordul Braziliei. Familia sa a făcut public un apel pentru găsirea lui, iar echipele de salvare au organizat căutări în pădure.\n\n• **Salvatorii l-au localizat după unsprezece zile.** Ferreira dos Santos a fost găsit vineri, la aproximativ zece kilometri de locul în care fusese văzut ultima dată. Pădurari și persoane implicate în intervenție au anunțat descoperirea pe rețelele sociale. În imaginile de la operațiune, bărbatul pare dezorientat și este scos din pădure pe o targă improvizată.\n\n• **Nepoata lui a cerut ca operațiunea să continue.** Sara Montes a publicat un mesaj video adresat echipelor de căutare, după ce familia a aflat că intervenția ar putea fi oprită duminică. Apelul a fost făcut cu câteva zile înainte ca bărbatul să fie găsit.\n\n• **În perioada petrecută în pădure, s-ar fi bazat pe fructe și apă din natură.** Potrivit relatărilor presei locale, el a mâncat fructe de buriti și a băut apă de izvor. Căutătorii au identificat locuri de odihnă amenajate din frunze de palmier și urme care indicau că bărbatul se deplasase în cerc.\n\n• **Bărbatul se află în continuare sub supraveghere medicală.** Vegetația deasă a îngreunat căutarea, vizibilitatea fiind redusă în anumite locuri la numai câțiva metri. Ferreira dos Santos lucrase anterior ca miner artizanal și, potrivit relatărilor, era familiarizat cu pădurea.",
     "importance_score": 35.0,
-    "top_rank": 58,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3263,7 +3291,7 @@
     "lead_ro": "Kim Jong Un a declarat că Coreea de Nord nu urmărește să obțină supremația sau să-și extindă influența, ci să-și apere suveranitatea și securitatea. Potrivit agenției de stat KCNA, liderul nord-coreean a făcut aceste afirmații la ceremonia de preluare a funcției de către mai mulți ambasadori.",
     "content_ro": "• **Kim Jong Un a descris situația internațională drept instabilă:** luni, la ceremonia organizată pentru ambasadorii nou-numiți, el a vorbit despre probleme politice și de securitate, precum și despre tulburări economice la nivel mondial. Printre diplomații prezenți s-a numărat și reprezentantul Rusiei, potrivit relatării KCNA.\n\n• **Liderul nord-coreean a pus accentul pe suveranitate și securitate:** în opinia sa, evoluțiile internaționale schimbă felul în care sunt înțelese aceste concepte. El a prezentat independența, pacea și prietenia drept principii pentru dezvoltarea relațiilor externe ale țării.\n\n• **Phenianul susține că nu urmărește dominația sau extinderea:** Kim a descris apărarea autonomiei naționale și a securității drept repere ale politicii externe nord-coreene. Declarațiile au fost făcute în discursul adresat ambasadorilor cu ocazia preluării posturilor.\n\n• **Mesajul a venit după încheierea unui summit regional organizat în China:** reuniunea s-a încheiat joi, iar președintele american Donald Trump a participat la ea. Cei doi lideri nu au avut o întrevedere, deși Trump lansase în repetate rânduri apeluri în acest sens.\n\n• **În apariția publică de vineri, Kim s-a referit la proiecte interne:** el a vizitat unități școlare și a vorbit despre inițiative naționale. Potrivit KCNA, intervenția de luni a fost prima în care liderul a abordat situația mondială de la summitul din China.",
     "importance_score": 35.0,
-    "top_rank": 59,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3296,7 +3324,7 @@
     "lead_ro": "Industria berii din Germania traversează o perioadă dificilă. Consumul a scăzut anul trecut cel mai mult de când au început măsurătorile, în 1993, în timp ce costurile de producție continuă să crească…",
     "content_ro": "Industria berii din Germania traversează o perioadă dificilă. Consumul a scăzut anul trecut cel mai mult de când au început măsurătorile, în 1993, în timp ce costurile de producție continuă să crească.",
     "importance_score": 35.0,
-    "top_rank": 60,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3329,7 +3357,7 @@
     "lead_ro": "Un băiat de șapte ani a fost salvat de sub dărâmăturile unei clădiri rezidențiale din Dymer, regiunea Kiev, după 14 ore. Oficialii ucraineni au declarat că atacurile rusești efectuate peste noapte asu…",
     "content_ro": "Un băiat de șapte ani a fost salvat de sub dărâmăturile unei clădiri rezidențiale din Dymer, regiunea Kiev, după 14 ore. Oficialii ucraineni au declarat că atacurile rusești efectuate peste noapte asupra satului au ucis 11 persoane.",
     "importance_score": 35.0,
-    "top_rank": 61,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3367,7 +3395,7 @@
     "lead_ro": "Kristóf Rebeka, din Odorheiu Secuiesc, a trecut de ediția live din 21 noiembrie a emisiunii X Factor de la RTL și va continua competiția între primii șase. Oláh Vivien și formația WASP au fost eliminate.",
     "content_ro": "• **Kristóf Rebeka s-a calificat în urma ediției live din 21 noiembrie.** Cântăreața de 15 ani din Odorheiu Secuiesc a obținut un loc care îi asigură continuarea competiției și l-a păstrat până la încheierea emisiunii, urmând să participe la etapa următoare.\n\n• **Concurenta a interpretat o piesă de Gáspár Laci în versiunea mentorului său, ByeAlex.** Provocarea din emisiune a fost cântecul „Hagyd meg nekem a dalt”. Gáspár Laci, interpretul original, a aplaudat-o în picioare, iar prestația a primit aprecieri din partea sa.\n\n• **Mentorii au discutat și despre prezența scenică a cântăreței.** ByeAlex a pus accentul pe calitățile vocale ale Rebekăi, în timp ce Majka a considerat că aceasta ar putea acorda mai multă atenție mișcării pe scenă. Observațiile lor au vizat aspecte diferite ale momentului artistic.\n\n• **După a doua ediție live, șase concurenți au rămas în concurs.** Pe lângă participanții salvați de mentori, voturile publicului au asigurat continuarea pentru încă trei persoane. Astfel, Kristóf va urca pe scenă în următoarea emisiune live alături de ceilalți cinci calificați.\n\n• **Oláh Vivien și formația WASP au părăsit competiția.** Cântăreața din Gheorgheni trecuse de etapa precedentă cu sprijinul telespectatorilor, dar de această dată nu și-a păstrat locul. Următoarea apariție live a lui Kristóf Rebeka era programată pentru 28 noiembrie.",
     "importance_score": 35.0,
-    "top_rank": 62,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3405,7 +3433,7 @@
     "lead_ro": "Mai mulți indici bursieri asiatici au înregistrat scăderi, în timp ce investitorii au evaluat costurile dezvoltării inteligenței artificiale și posibila rentabilitate a acestora. Acțiunile producătorilor de cipuri au avut o evoluție deosebit de slabă la Seul.",
     "content_ro": "• **Întrebările privind rentabilitatea investițiilor în IA s-au reflectat și asupra acțiunilor tehnologice.** Dezvoltarea acestei tehnologii se bazează tot mai mult pe finanțare prin datorii, iar investitorii analizează ce câștiguri ar putea aduce cheltuielile ridicate. Situația afectează și producătorii de semiconductori și cipuri, furnizori importanți pentru centrele de date.\n\n• **Nasdaq a pierdut vineri 5,28%, iar VIX a urcat la cel mai ridicat nivel din aprilie.** Indicatorul care măsoară volatilitatea pieței a atins o valoare nemaiînregistrată de la turbulențele provocate în aprilie 2025 de tarifele americane.\n\n• **La ora 03:10 GMT, indicele Kospi din Seul coborâse cu 5,08%, la 4.622,57 puncte.** Acțiunile Samsung au scăzut cu 6,01%, iar cele ale SK Hynix cu 5,75%. Cele două companii sud-coreene sunt furnizori importanți de cipuri de memorie, iar ponderea lor face ca indicele să fie sensibil la schimbările de încredere legate de piața IA.\n\n• **Bursa din Taiwan a avut o scădere mai limitată, în timp ce mai mulți indici regionali au închis în teritoriu negativ.** Taiex a coborât cu 0,51%, iar acțiunile TSMC cu 0,25%. Indicele din Hong Kong a pierdut 1,74%, cel din Shanghai 1,51%, iar cel din Singapore 1,42%. Bursa din Tokyo a fost închisă pentru o sărbătoare legală.",
     "importance_score": 35.0,
-    "top_rank": 63,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3443,7 +3471,7 @@
     "lead_ro": "Potrivit informațiilor publicate de Fabrizio Romano, Watford poartă negocieri avansate cu Edi Iordănescu, pe care îl vede drept prima opțiune pentru postul de antrenor. Înțelegerea nu a fost încă încheiată, după plecarea lui Alessio Dionisi.",
     "content_ro": "• **Edi Iordănescu ar putea prelua conducerea tehnică a lui Watford:** Jurnalistul italian Fabrizio Romano a relatat pe 23 noiembrie că discuțiile cu antrenorul român au ajuns într-un stadiu avansat. Conducerea clubului îl consideră candidatul favorit, însă acordul nu este încă finalizat.\n\n• **Postul a rămas liber după despărțirea de Alessio Dionisi:** Watford, echipă din liga a doua engleză, a anunțat duminică încheierea colaborării cu tehnicianul italian. Cu o zi înainte, formația pierduse cu 0–4 în fața lui Sheffield United.\n\n• **Watford ocupă o poziție dificilă în clasamentul Championship:** După 16 etape, echipa are 15 puncte și se află pe locul 21 din 24. Acesta este ultimul loc care asigură menținerea, iar diferența față de zona retrogradării este de numai patru puncte.\n\n• **Rezultatele recente au contribuit la schimbarea de antrenor:** În precedentele 13 partide de campionat, Watford a obținut trei victorii. Seria slabă, urmată de înfrângerea categorică în fața lui Sheffield United, a precedat decizia conducerii de a-l înlocui pe Dionisi.\n\n• **Iordănescu a fost selecționerul echipei naționale a României:** Tehnicianul în vârstă de 48 de ani a mai fost asociat în ultima perioadă cu Watford și a spus anterior că își dorește să revină cât mai curând la antrenorat. Până în prezent, clubul nu a anunțat oficial numirea sa.",
     "importance_score": 35.0,
-    "top_rank": 64,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3480,39 +3508,6 @@
     "title_ro": "România avea aproape 30 de milioane de carduri bancare active la sfârșitul lunii iunie",
     "lead_ro": "Datele Băncii Naționale a României arată că la 30 iunie 2026 erau înregistrate 29,74 milioane de carduri active. În primele șase luni ale anului au crescut numărul cardurilor și cel al terminalelor POS și EFTPOS, în timp ce rețeaua de bancomate s-a redus.",
     "content_ro": "• **La sfârșitul lunii iunie, în România erau active 29,74 milioane de carduri bancare.** Potrivit centralizării BNR, totalul era cu 1,11 milioane mai mare decât cel consemnat la finalul lui decembrie 2025.\n\n• **Dintre cardurile active, 25,44 milioane permiteau și retragerea de numerar.** Numărul acestora a sporit cu 750.000 față de ultima lună a anului trecut.\n\n• **Numărul bancomatelor furnizate de prestatori rezidenți a ajuns la 10.879.** Comparativ cu decembrie 2025, înregistrarea indică o scădere cu 254 de unități; categoria se referă la ATM-urile furnizate de prestatori de servicii de plată din România.\n\n• **Rețeaua POS număra 783.620 de terminale la 30 iunie.** Față de sfârșitul anului anterior, indicatorul a crescut cu 134.154 de unități.\n\n• **Punctele EFTPOS au totalizat 685.396.** Datele BNR consemnează o creștere cu 83.403 față de decembrie 2025. Bilanțul semestrial arată astfel majorări pentru carduri și terminalele de plată, concomitent cu o reducere a numărului de bancomate.",
-    "importance_score": 35.0,
-    "top_rank": 65,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_c37c7274ec",
-    "slug": "noua-persoane-au-fost-impuscate-la-un-concert-din--c37c72",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Nouă persoane au fost împușcate la un concert din California. Ce spun autoritățile despre atac",
-        "link": "https://hotnews.ro/noua-persoane-au-fost-impuscate-la-un-concert-din-california-2411218"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Atac armat la un concert din California. Nouă persoane au fost împușcate, iar una se află în stare critică",
-        "link": "https://www.mediafax.ro/social/atac-armat-la-un-concert-din-california-noua-persoane-au-fost-impuscate-iar-una-se-afla-in-stare-critica-23847729"
-      }
-    ],
-    "published_at": 1795412906,
-    "title_hu": "Nouă persoane au fost împușcate la un concert din California. Ce spun autoritățile despre atac",
-    "lead_hu": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auz…",
-    "content_hu": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auzit în jurul orei locale 19:30, într-o comunitate cu aproximativ 3.000 de locuitori din comitatul Tulare. Concertul era organizat pentru membrii bandei Norteno, o rețea …",
-    "title_ro": "Nouă persoane au fost împușcate la un concert din California. Ce spun autoritățile despre atac",
-    "lead_ro": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auz…",
-    "content_ro": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auzit în jurul orei locale 19:30, într-o comunitate cu aproximativ 3.000 de locuitori din comitatul Tulare. Concertul era organizat pentru membrii bandei Norteno, o rețea …",
     "importance_score": 35.0,
     "top_rank": 66,
     "is_top_hero": false,
@@ -3768,7 +3763,7 @@
     "title_ro": "Universitatea Craiova a învins UTA cu 6–2 și își continuă seria fără înfrângere",
     "lead_ro": "Universitatea Craiova s-a impus cu 6–2 în deplasare la UTA, în etapa a 16-a din Superligă. Liderul și-a prelungit astfel seria de invincibilitate, începută după înfrângerea din 9 august.",
     "content_ro": "• **Craiova a câștigat cu 6–2 la Arad:** oaspeții au intrat la pauză cu un avantaj de trei goluri, în partida jucată pe stadionul Francisc Neuman. După acest succes, echipa avea 36 de puncte și ocupa primul loc, cu trei peste Dinamo; UTA rămânea a zecea, cu 18 puncte.\n\n• **Ștefan Baiaram a marcat de două ori în prima repriză:** a deschis scorul în minutul 18, după pasa lui Nicușor Bancu, apoi a înscris din nou în minutul 24. Alexandru Cicâldău a dus scorul la 3–0 în minutul 32, după o acțiune pornită de David Matei.\n\n• **Nikola Stevanović a înscris cu capul în minutul 53:** reușita a venit după centrarea lui Cicâldău. UTA a redus diferența prin Denis Țăroi, în minutul 66, și Marinos Tzionis, în minutul 72. Alin Roman a contribuit la primul gol, iar Țăroi l-a servit pe Tzionis.\n\n• **Craiova a refăcut rapid distanța de patru goluri:** Adrian Rus a marcat cu capul în minutul 76, după un corner executat de Matei, iar Monday Etim a stabilit scorul final în minutul 85, la capătul unui contraatac inițiat de Steven Nsimba. Oaspeții au mai avut două ocazii clare, prin Baiaram în minutul 52 și Nsimba în minutul 88, dar nu le-au transformat.\n\n• **Liderul nu a mai pierdut în campionat din 9 august:** după acel eșec de acasă cu FC Argeș, Craiova a înregistrat nouă victorii și trei remize în următoarele 12 partide. Succesul de la Arad a prelungit această serie și a consolidat poziția echipei în fruntea clasamentului.",
-    "importance_score": 33.0,
+    "importance_score": 30.0,
     "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
@@ -4335,6 +4330,39 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_c37c7274ec",
+    "slug": "noua-persoane-au-fost-impuscate-la-un-concert-din--c37c72",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "is_synthesized": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Nouă persoane au fost împușcate la un concert din California. Ce spun autoritățile despre atac",
+        "link": "https://hotnews.ro/noua-persoane-au-fost-impuscate-la-un-concert-din-california-2411218"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Atac armat la un concert din California. Nouă persoane au fost împușcate, iar una se află în stare critică",
+        "link": "https://www.mediafax.ro/social/atac-armat-la-un-concert-din-california-noua-persoane-au-fost-impuscate-iar-una-se-afla-in-stare-critica-23847729"
+      }
+    ],
+    "published_at": 1795412906,
+    "title_hu": "Nouă persoane au fost împușcate la un concert din California. Ce spun autoritățile despre atac",
+    "lead_hu": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auz…",
+    "content_hu": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auzit în jurul orei locale 19:30, într-o comunitate cu aproximativ 3.000 de locuitori din comitatul Tulare. Concertul era organizat pentru membrii bandei Norteno, o rețea …",
+    "title_ro": "Nouă persoane au fost împușcate la un concert din California. Ce spun autoritățile despre atac",
+    "lead_ro": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auz…",
+    "content_ro": "Atacul armat a avut loc sâmbătă seara, în timpul unui eveniment la care participau aproximativ 150 de persoane, în orașul Strathmore din centrul statului american California. Focurile de armă s-au auzit în jurul orei locale 19:30, într-o comunitate cu aproximativ 3.000 de locuitori din comitatul Tulare. Concertul era organizat pentru membrii bandei Norteno, o rețea …",
+    "importance_score": 28.0,
+    "top_rank": 86,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_ee6960a6dd",
     "slug": "amerikai-figyelmeztetest-kaptak-a-legitarsasagok-az-al-kaida-fenyegetesei-miatt-ee6960",
     "tags": [
@@ -4367,39 +4395,6 @@
     "title_ro": "SUA au avertizat companiile aeriene cu privire la posibile amenințări ale Al-Qaida",
     "lead_ro": "Autoritățile americane din domeniul securității interne și al transporturilor au semnalat companiilor aeriene riscuri de deturnare și atacuri. Oficialii spun că, în prezent, nu cunosc o amenințare credibilă și iminentă.",
     "content_ro": "• **Companiile aeriene americane au primit o avertizare privind posibile acțiuni ale Al-Qaida.** Departamentul pentru Securitate Internă și Administrația pentru Securitatea Transporturilor au transmis informarea operatorilor și partenerilor din industrie. Documentul menționează inclusiv riscul unor deturnări de aeronave.\n\n• **Mesajul a fost distribuit după un incident înregistrat la bordul unui zbor Flydubai.** Potrivit relatării, copilotul a încercat să preia controlul aeronavei folosind o secure. Al-Qaida și persoane care o susțin au apreciat tentativa și au îndemnat la repetarea unor acțiuni similare.\n\n• **Raportul atrage atenția asupra exploatării accesului în sectorul aviatic.** Mesajele extremiste ar încuraja eludarea verificărilor de securitate și atacarea avioanelor comerciale. Documentul face referire la obiective considerate de atacatori ca având legătură cu interese americane, israeliene sau evreiești.\n\n• **Avertizarea a fost transmisă înaintea perioadei aglomerate de călătorii asociate Zilei Recunoștinței.** Săptămâna sărbătorii se numără printre intervalele cu trafic aerian intens în Statele Unite. În același timp, oficialii au precizat că nu au identificat o amenințare credibilă aflată în desfășurare.\n\n• **Operatorii au primit și indicații despre posibile semnale de alarmă.** Printre situațiile menționate se află căutarea, fără un motiv profesional justificat, a unor informații detaliate despre procedurile de securitate din aviație. Potrivit autorităților, transmiterea unor astfel de alerte face parte din cooperarea obișnuită în domeniul securității.",
-    "importance_score": 28.0,
-    "top_rank": 86,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_cc61ca5afc",
-    "slug": "victoria-din-carolina-de-nord-le-aduce-democratilo-cc61ca",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Victoria din Carolina de Nord le aduce democraţilor cea mai mare majoritate din ultimii 30 de ani în Camera Reprezentanţilor",
-        "link": "https://stirileprotv.ro/stiri/international/victoria-din-carolina-de-nord-le-aduce-democra-ilor-cea-mai-mare-majoritate-din-ultimii-30-de-ani-in-camera-reprezentan-ilor.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Democrații obțin cea mai mare majoritate din ultimii peste 30 de ani în Camera Reprezentanților din SUA",
-        "link": "https://www.digi24.ro/stiri/externe/democratii-obtin-cea-mai-mare-majoritate-din-ultimii-peste-30-de-ani-in-camera-reprezentantilor-din-sua-4048519"
-      }
-    ],
-    "published_at": 1795411714,
-    "title_hu": "Victoria din Carolina de Nord le aduce democraţilor cea mai mare majoritate din ultimii 30 de ani în Camera Reprezentanţilor",
-    "lead_hu": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în…",
-    "content_hu": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în ultimele peste trei decenii, relatează Reuters.",
-    "title_ro": "Victoria din Carolina de Nord le aduce democraţilor cea mai mare majoritate din ultimii 30 de ani în Camera Reprezentanţilor",
-    "lead_ro": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în…",
-    "content_ro": "Democraţii au câştigat cel puţin 258 de locuri în Camera Reprezentanţilor din SUA la alegerile de la jumătatea mandatului, obţinând cea mai mare majoritate deţinută de unul dintre cele două partide în ultimele peste trei decenii, relatează Reuters.",
     "importance_score": 28.0,
     "top_rank": 87,
     "is_top_hero": false,
@@ -6205,6 +6200,64 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_f212289c7e",
+    "slug": "un-film-romanesc-regizat-de-marian-crisan-premiat-cu-mentiunea-speciala-a-juriul-f21228",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://stirileprotv.ro/img/2026/11/23/084959/filmul-lumina.jpg?fm=jpg&q=80&fit=crop&crop=512%2C640%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Un film românesc, regizat de Marian Crişan, premiat cu Menţiunea specială a Juriului la Tallinn Black Nights Film Festival",
+        "link": "https://stirileprotv.ro/un-film-romanesc-regizat-de-marian-crisan-premiat-cu-mentiunea-speciala-a-juriului-la-tallinn-black-nights-film-festival.html"
+      }
+    ],
+    "published_at": 1795423921,
+    "title_hu": "Un film românesc, regizat de Marian Crişan, premiat cu Menţiunea specială a Juriului la Tallinn Black Nights Film Festival",
+    "lead_hu": "Filmul românesc „Lumina”, cu tânărul Andrei Voicu în rolul principal, a primit Menţiunea specială a Juriului la Tallinn Black Nights Film Festival, în cadrul Just Film Youth Competition, unde a avut p...",
+    "content_hu": "Filmul românesc „Lumina”, cu tânărul Andrei Voicu în rolul principal, a primit Menţiunea specială a Juriului la Tallinn Black Nights Film Festival, în cadrul Just Film Youth Competition, unde a avut premiera mondială.",
+    "title_ro": "Un film românesc, regizat de Marian Crişan, premiat cu Menţiunea specială a Juriului la Tallinn Black Nights Film Festival",
+    "lead_ro": "Filmul românesc „Lumina”, cu tânărul Andrei Voicu în rolul principal, a primit Menţiunea specială a Juriului la Tallinn Black Nights Film Festival, în cadrul Just Film Youth Competition, unde a avut p...",
+    "content_ro": "Filmul românesc „Lumina”, cu tânărul Andrei Voicu în rolul principal, a primit Menţiunea specială a Juriului la Tallinn Black Nights Film Festival, în cadrul Just Film Youth Competition, unde a avut premiera mondială.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_ed1e626424",
+    "slug": "revizie-grupul-5-de-la-termocentrala-turceni-oprit-timp-de-aproximativ-trei-sapt-ed1e62",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.g4media.ro/wp-content/uploads/2026/10/termocentrala-turceni.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Revizie: Grupul 5 de la Termocentrala Turceni, oprit timp de aproximativ trei săptămâni",
+        "link": "https://www.g4media.ro/revizie-grupul-5-de-la-termocentrala-turceni-oprit-timp-de-aproximativ-trei-saptamani.html"
+      }
+    ],
+    "published_at": 1795423623,
+    "title_hu": "Revizie: Grupul 5 de la Termocentrala Turceni, oprit timp de aproximativ trei săptămâni",
+    "lead_hu": "Grupul energetic nr. 5 din cadrul Termocentralei Turceni va fi oprit, începând de luni, pentru efectuarea lucrărilor de revizie planificată, au transmis reprezentanţii Complexului Energetic Oltenia (C...",
+    "content_hu": "Grupul energetic nr. 5 din cadrul Termocentralei Turceni va fi oprit, începând de luni, pentru efectuarea lucrărilor de revizie planificată, au transmis reprezentanţii Complexului Energetic Oltenia (CEO), relatează Agerpres. Potrivit unui comunicat de presă postat pe site-ul companiei, grupul va fi oprit până pe 12 decembrie. „Oprirea este aprobată de UNO-DEN Dispeceratul Energetic Naţional. Lucrările […] © G4Media.ro.",
+    "title_ro": "Revizie: Grupul 5 de la Termocentrala Turceni, oprit timp de aproximativ trei săptămâni",
+    "lead_ro": "Grupul energetic nr. 5 din cadrul Termocentralei Turceni va fi oprit, începând de luni, pentru efectuarea lucrărilor de revizie planificată, au transmis reprezentanţii Complexului Energetic Oltenia (C...",
+    "content_ro": "Grupul energetic nr. 5 din cadrul Termocentralei Turceni va fi oprit, începând de luni, pentru efectuarea lucrărilor de revizie planificată, au transmis reprezentanţii Complexului Energetic Oltenia (CEO), relatează Agerpres. Potrivit unui comunicat de presă postat pe site-ul companiei, grupul va fi oprit până pe 12 decembrie. „Oprirea este aprobată de UNO-DEN Dispeceratul Energetic Naţional. Lucrările […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_38369081ad",
     "slug": "medicina-muncii-punctul-de-plecare-pentru-noi-beneficii-medicale-383690",
     "tags": [
@@ -6286,6 +6339,35 @@
     "title_ro": "Luca Niculescu: „Estimările pentru 2027 ne dau motive de optimism şi indică revenirea economiei pe creştere”",
     "lead_ro": "Premierul Luca Niculescu a declarat că Guvernul a intrat în etapa finală de pregătire a bugetului pentru 2027, iar acesta va fi unul construit „cu responsabilitate, care să susţină investiţiile şi rev...",
     "content_ro": "Premierul Luca Niculescu a declarat că Guvernul a intrat în etapa finală de pregătire a bugetului pentru 2027, iar acesta va fi unul construit „cu responsabilitate, care să susţină investiţiile şi revenirea economiei.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_67ae951fef",
+    "slug": "titularul-lui-chivu-demolat-dupa-atalanta-inter-a-venit-ca-un-actor-de-hollywood-67ae95",
+    "tags": [
+      "sport"
+    ],
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/22112026/9d8b6c77-9489-47f8-b867-cfbad33d67b2.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Titularul lui Chivu, demolat după Atalanta - Inter: „A venit ca un actor de Hollywood. Nu suntem în NBA!”",
+        "link": "https://www.gsp.ro/international/campionate/valon-behrami-atalanta-inter-djed-spence-1002086.html"
+      }
+    ],
+    "published_at": 1795423296,
+    "title_hu": "Titularul lui Chivu, demolat după Atalanta - Inter: „A venit ca un actor de Hollywood. Nu suntem în NBA!”",
+    "lead_hu": "Valon Behrami (41 de ani), fostul internațional elvețian și în prezent analist TV pentru DAZN, a reacționat după ce Inter a remizat cu Atalanta, scor 4-4, într-un meci din etapa #12 de Serie A. Formaț...",
+    "content_hu": "Valon Behrami (41 de ani), fostul internațional elvețian și în prezent analist TV pentru DAZN, a reacționat după ce Inter a remizat cu Atalanta, scor 4-4, într-un meci din etapa #12 de Serie A. Formația lui Cristi Chivu a condus aproape toată partida, dar a fost egalată în minutele de final după ce Kessie a marcat din penalty în minutul 90+1. După partidă, Behrami l-a criticat dur pe Djed Spence, jucătorul adus să-l înlocuiască pe Denzel Dumfries pe flancul drept. ...",
+    "title_ro": "Titularul lui Chivu, demolat după Atalanta - Inter: „A venit ca un actor de Hollywood. Nu suntem în NBA!”",
+    "lead_ro": "Valon Behrami (41 de ani), fostul internațional elvețian și în prezent analist TV pentru DAZN, a reacționat după ce Inter a remizat cu Atalanta, scor 4-4, într-un meci din etapa #12 de Serie A. Formaț...",
+    "content_ro": "Valon Behrami (41 de ani), fostul internațional elvețian și în prezent analist TV pentru DAZN, a reacționat după ce Inter a remizat cu Atalanta, scor 4-4, într-un meci din etapa #12 de Serie A. Formația lui Cristi Chivu a condus aproape toată partida, dar a fost egalată în minutele de final după ce Kessie a marcat din penalty în minutul 90+1. După partidă, Behrami l-a criticat dur pe Djed Spence, jucătorul adus să-l înlocuiască pe Denzel Dumfries pe flancul drept. ...",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -7156,35 +7238,6 @@
     "title_ro": "Câte clase are Ionuț Mocăniță? A recunoscut tot: ”Îmi pare rău că am probleme de exprimare”",
     "lead_ro": "Ionuț Mocăniță se află în centrul atenție după ce recent a recunoscut public că a înșelat-o pe Claudia Ion cu una dintre prietenele sale. În timpul confesiunii sale, acesta și-a scuzat exprimarea stân...",
     "content_ro": "Ionuț Mocăniță se află în centrul atenție după ce recent a recunoscut public că a înșelat-o pe Claudia Ion cu una dintre prietenele sale. În timpul confesiunii sale, acesta și-a scuzat exprimarea stângace și vocabularul limitat, punând incoerența sa pe seama celor 6 clase pe care le-a terminat în România. Într-o postare pe TikTok, Mocăniță […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_3dba602eeb",
-    "slug": "guvernul-recunoaste-ca-a-marit-in-secret-salariile-la-transgaz-si-transelectrica-3dba60",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMSUyRjIzJTJGMzA4MjMyNV8zMDgy/MzI1X3NlZGludGEtZGUtZ3V2ZXJuLmpw/ZyZoYXNoPTRmNTY5YmIxOTk0NzM4MGYxNDExMDA3Y2E2ODlhYmZj.jpg",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Guvernul recunoaște că a mărit în secret salariile la Transgaz și Transelectrica. Majorările, trecute pe „agenda publică” după 3 zile",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/guvernul-recunoaste-ca-a-marit-in-secret-salariile-la-transgaz-si-transelectrica-majorarile-trecute-pe-agenda-publica-dupa-3-zile-4048447"
-      }
-    ],
-    "published_at": 1795421404,
-    "title_hu": "Guvernul recunoaște că a mărit în secret salariile la Transgaz și Transelectrica. Majorările, trecute pe „agenda publică” după 3 zile",
-    "lead_hu": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând...",
-    "content_hu": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând surse guvernamentale, despre aceste majorări, care nu fuseseră anunțate pe ordinea de zi a ședinței, iar Executivul nu a comunicat pe acest subiect.",
-    "title_ro": "Guvernul recunoaște că a mărit în secret salariile la Transgaz și Transelectrica. Majorările, trecute pe „agenda publică” după 3 zile",
-    "lead_ro": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând...",
-    "content_ro": "Guvernul a recunoscut luni că a majorat în secret, în ședința de vinerea trecută, salariile angajaților de la companiile de stat Transgaz și Transelectrica. Digi24.ro a scris încă de de vineri, citând surse guvernamentale, despre aceste majorări, care nu fuseseră anunțate pe ordinea de zi a ședinței, iar Executivul nu a comunicat pe acest subiect.",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
@@ -19583,144 +19636,68 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_30eb475451",
-    "slug": "agricultura-se-extinde-in-spatiu-cercetatorii-au-r-30eb47",
+    "group_id": "group_6b179dce68",
+    "slug": "toma-szerint-a-psd-inkabb-kommunikal-mint-reformal-6b179d",
     "tags": [
-      "altalanos"
+      "constantin-toma",
+      "reforma-administrativa",
+      "psd",
+      "buzau",
+      "companii-de-stat"
     ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
+    "fingerprint": "066f93be887fe52855b7a09000c0dbf5",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 7,
     "sources": [
       {
-        "source": "G4Media",
-        "title": "Agricultura se extinde în spațiu: cercetătorii au reușit să cultive cartofi siguri pentru consum pe Lună",
-        "link": "https://www.g4media.ro/agricultura-se-extinde-in-spatiu-cercetatorii-au-reusit-sa-cultive-cartofi-siguri-pentru-consum-pe-luna.html"
-      }
-    ],
-    "published_at": 1795337612,
-    "title_hu": "Agricultura se extinde în spațiu: cercetătorii au reușit să cultive cartofi siguri pentru consum pe Lună",
-    "lead_hu": "Cartofii sunt una dintre cele mai importante culturi de pe Pământ, fiind o sursă importantă de amidon, vitamine, minerale și fibre. În curând, aceștia ar putea deveni o cultură importantă și pe Lună, …",
-    "content_hu": "Cartofii sunt una dintre cele mai importante culturi de pe Pământ, fiind o sursă importantă de amidon, vitamine, minerale și fibre. În curând, aceștia ar putea deveni o cultură importantă și pe Lună, relatează Reuters. Oamenii de știință au reușit să cultive cartofi nutritivi în sol lunar simulat, care sunt siguri pentru consum, având în […] © G4Media.ro.",
-    "title_ro": "Agricultura se extinde în spațiu: cercetătorii au reușit să cultive cartofi siguri pentru consum pe Lună",
-    "lead_ro": "Cartofii sunt una dintre cele mai importante culturi de pe Pământ, fiind o sursă importantă de amidon, vitamine, minerale și fibre. În curând, aceștia ar putea deveni o cultură importantă și pe Lună, …",
-    "content_ro": "Cartofii sunt una dintre cele mai importante culturi de pe Pământ, fiind o sursă importantă de amidon, vitamine, minerale și fibre. În curând, aceștia ar putea deveni o cultură importantă și pe Lună, relatează Reuters. Oamenii de știință au reușit să cultive cartofi nutritivi în sol lunar simulat, care sunt siguri pentru consum, având în […] © G4Media.ro.",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_7a76f3a912",
-    "slug": "fostul-antrenor-al-lui-dragusin-l-a-pus-la-punct-p-7a76f3",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
+        "source": "Digi24",
+        "title": "Primarul Constantin Toma: „PSD se face că face reforma administrativ-teritorială”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/primarul-constantin-toma-psd-se-face-ca-face-reforma-administrativ-teritoriala-4046089"
+      },
       {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Fostul antrenor al lui Drăgușin l-a pus la punct pe un reporter: „Probabil de asta pui astfel de întrebări”",
-        "link": "https://www.gsp.ro/international/campionate/ange-postecoglou-tirada-jurnalist-sadio-mane-1001723.html"
-      }
-    ],
-    "published_at": 1795337543,
-    "title_hu": "Fostul antrenor al lui Drăgușin l-a pus la punct pe un reporter: „Probabil de asta pui astfel de întrebări”",
-    "lead_hu": "Ange Postecoglou (61 de ani), antrenorul lui Al-Nassr, l-a pus la punct pe un reporter după ce echipa sa a pierdut derby-ul cu Al-Ahli, scor 1-3, în etapa cu numărul 9 din campionatul Arabiei Saudite.…",
-    "content_hu": "Ange Postecoglou (61 de ani), antrenorul lui Al-Nassr, l-a pus la punct pe un reporter după ce echipa sa a pierdut derby-ul cu Al-Ahli, scor 1-3, în etapa cu numărul 9 din campionatul Arabiei Saudite. Marele absent al meciului a fost Sadio Mane (34 de ani), care a avut permisiunea lui Ange Postecoglou de a pleca acasă, pentru a-i fi alături soției, care urma să dea naștere unui copil. ...",
-    "title_ro": "Fostul antrenor al lui Drăgușin l-a pus la punct pe un reporter: „Probabil de asta pui astfel de întrebări”",
-    "lead_ro": "Ange Postecoglou (61 de ani), antrenorul lui Al-Nassr, l-a pus la punct pe un reporter după ce echipa sa a pierdut derby-ul cu Al-Ahli, scor 1-3, în etapa cu numărul 9 din campionatul Arabiei Saudite.…",
-    "content_ro": "Ange Postecoglou (61 de ani), antrenorul lui Al-Nassr, l-a pus la punct pe un reporter după ce echipa sa a pierdut derby-ul cu Al-Ahli, scor 1-3, în etapa cu numărul 9 din campionatul Arabiei Saudite. Marele absent al meciului a fost Sadio Mane (34 de ani), care a avut permisiunea lui Ange Postecoglou de a pleca acasă, pentru a-i fi alături soției, care urma să dea naștere unui copil. ...",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_eb41025bc2",
-    "slug": "marco-reactie-suburbana-la-adresa-claudiei-ion-de--eb4102",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Marco, reacție suburbană la adresa Claudiei Ion: „De ce avea herpes?” Ipoteza rușinoasă a Prințului",
-        "link": "https://www.cancan.ro/marco-reactie-suburbana-la-adresa-claudiei-ion-de-ce-avea-herpes-ipoteza-rusinoasa-a-printului-21551838"
-      }
-    ],
-    "published_at": 1795337354,
-    "title_hu": "Marco, reacție suburbană la adresa Claudiei Ion: „De ce avea herpes?” Ipoteza rușinoasă a Prințului",
-    "lead_hu": "Conflictul dintre Prințul Marco și Claudia Ion de la Insula Iubirii continuă pe rețelele sociale. După ce a făcut mai multe insinuări despre apropierea concurentei de Eduard Vlădescu, Marco a publicat…",
-    "content_hu": "Conflictul dintre Prințul Marco și Claudia Ion de la Insula Iubirii continuă pe rețelele sociale. După ce a făcut mai multe insinuări despre apropierea concurentei de Eduard Vlădescu, Marco a publicat un nou videoclip pe TikTok, în care a lansat un nou atac la adresa acesteia. Schimbul de replici dintre cei doi a început după […]",
-    "title_ro": "Marco, reacție suburbană la adresa Claudiei Ion: „De ce avea herpes?” Ipoteza rușinoasă a Prințului",
-    "lead_ro": "Conflictul dintre Prințul Marco și Claudia Ion de la Insula Iubirii continuă pe rețelele sociale. După ce a făcut mai multe insinuări despre apropierea concurentei de Eduard Vlădescu, Marco a publicat…",
-    "content_ro": "Conflictul dintre Prințul Marco și Claudia Ion de la Insula Iubirii continuă pe rețelele sociale. După ce a făcut mai multe insinuări despre apropierea concurentei de Eduard Vlădescu, Marco a publicat un nou videoclip pe TikTok, în care a lansat un nou atac la adresa acesteia. Schimbul de replici dintre cei doi a început după […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_bc34e312f3",
-    "slug": "poate-ai-sa-prezica-ce-vei-gandi-ce-pot-afla-algor-bc34e3",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
+        "source": "Adevărul",
+        "title": "Primarul PSD al Buzăului își atacă propriul partid. De ce consideră că reforma este făcută „pe genunchi”",
+        "link": "https://adevarul.ro/politica/primarul-psd-al-buzaului-isi-ataca-propriul-2573435.html"
+      },
       {
         "source": "Mediafax",
-        "title": "Poate AI să prezică ce vei gândi? Ce pot afla algoritmii despre tine din comportamentul online. Legătura tulburătoare cu „1984” de George Orwell",
-        "link": "https://www.mediafax.ro/cultura-media/poate-ai-sa-prezica-ce-vei-gandi-ce-pot-afla-algoritmii-despre-tine-din-comportamentul-online-legatura-tulburatoare-cu-1984-de-george-orwell-23847443"
-      }
-    ],
-    "published_at": 1795337244,
-    "title_hu": "Poate AI să prezică ce vei gândi? Ce pot afla algoritmii despre tine din comportamentul online. Legătura tulburătoare cu „1984” de George Orwell",
-    "lead_hu": "Un videoclip pe care îl urmărești până la capăt, o fotografie asupra căreia te oprești câteva secunde, un produs căutat noaptea sau o postare pe care alegi să nu o distribui. Fiecare dintre aceste ges…",
-    "content_hu": "Un videoclip pe care îl urmărești până la capăt, o fotografie asupra căreia te oprești câteva secunde, un produs căutat noaptea sau o postare pe care alegi să nu o distribui. Fiecare dintre aceste gesturi poate deveni un indiciu pentru algoritmii care îți analizează comportamentul online. Sistemele de inteligență artificială pot estima interese, preferințe și probabilitatea unor acțiuni viitoare, uneori folosind informații pe care utilizatorii nici măcar nu își amintesc că le-au oferit. Cât de departe poate merge această capacitate de predicție și cât de mult seamănă lumea profilării digitale cu societatea supravegheată imaginată de George Orwell în romanul „1984”?",
-    "title_ro": "Poate AI să prezică ce vei gândi? Ce pot afla algoritmii despre tine din comportamentul online. Legătura tulburătoare cu „1984” de George Orwell",
-    "lead_ro": "Un videoclip pe care îl urmărești până la capăt, o fotografie asupra căreia te oprești câteva secunde, un produs căutat noaptea sau o postare pe care alegi să nu o distribui. Fiecare dintre aceste ges…",
-    "content_ro": "Un videoclip pe care îl urmărești până la capăt, o fotografie asupra căreia te oprești câteva secunde, un produs căutat noaptea sau o postare pe care alegi să nu o distribui. Fiecare dintre aceste gesturi poate deveni un indiciu pentru algoritmii care îți analizează comportamentul online. Sistemele de inteligență artificială pot estima interese, preferințe și probabilitatea unor acțiuni viitoare, uneori folosind informații pe care utilizatorii nici măcar nu își amintesc că le-au oferit. Cât de departe poate merge această capacitate de predicție și cât de mult seamănă lumea profilării digitale cu societatea supravegheată imaginată de George Orwell în romanul „1984”?",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_811b8432bd",
-    "slug": "ce-facea-kim-jong-un-in-timp-ce-trump-il-astepta-s-811b84",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
+        "title": "Primarul PSD din Buzău critică reforma administrativ-teritorială: Vor să redeseneze harta electorală. Dacă nu le iese, îl vor face pe Bolojan vinovat",
+        "link": "https://www.mediafax.ro/diverse/primarul-psd-din-buzau-critica-reforma-administrativ-teritoriala-vor-sa-redeseneze-harta-electorala-daca-nu-le-iese-il-vor-face-pe-bolojan-vinovat-23847514"
+      },
       {
-        "source": "HotNews.ro",
-        "title": "Ce făcea Kim Jong Un în timp ce Trump îl aștepta să vină la Shenzen",
-        "link": "https://hotnews.ro/ce-facea-kim-jong-un-in-timp-ce-trump-il-astepta-sa-vina-la-shenzen-2410807"
+        "source": "G4Media",
+        "title": "Constantin Toma, primarul din Buzău, critică reforma administrativ-teritorială a PSD: Vor să redeseneze harta electorală. Dacă nu le iese, îl vor face pe Bolojan vinovat",
+        "link": "https://www.g4media.ro/constantin-toma-primarul-din-buzau-critica-reforma-administrativ-teritoriala-a-psd-vor-sa-redeseneze-harta-electorala-daca-nu-le-iese-il-vor-face-pe-bolojan-vinovat.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Toma: PSD se face că face reformă. Nu poți avea încredere într-un partid care lua decizii numai pentru interese personale",
+        "link": "https://stirileprotv.ro/stiri/politic/toma-psd-se-face-ca-face-reforma-nu-poti-avea-incredere-intr-un-partid-care-lua-decizii-numai-pentru-interese-personale.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Constantin Toma, despre reforma administrativă: „Mă gândesc să redeseneze sau să deseneze şi o hartă electorală”",
+        "link": "https://stirileprotv.ro/stiri/politic/constantin-toma-despre-reforma-administrativa-ma-gandesc-sa-redeseneze-sau-sa-deseneze-si-o-harta-electorala.html"
+      },
+      {
+        "source": "Ebihoreanul (Nagyvárad/Bihar)",
+        "title": "Un primar PSD acuză propriul partid că mimează reforma administrativă: „Se face că face”. Avertisment privind căderea Guvernului",
+        "link": "https://www.ebihoreanul.ro/stiri/un-primar-psd-acuza-propriul-partid-ca-mimeaza-reforma-administrativa-se-face-ca-face-avertisment-privind-caderea-guvernului-206789.html"
       }
     ],
-    "published_at": 1795337178,
-    "title_hu": "Ce făcea Kim Jong Un în timp ce Trump îl aștepta să vină la Shenzen",
-    "lead_hu": "Kim Jong Un a vizitat săptămâna aceasta școli, fabrici și șantiere, a transmis presa de stat din Coreea de Nord după încheierea summitului regional din China unde Donald Trump spera să se întâlnească …",
-    "content_hu": "Kim Jong Un a vizitat săptămâna aceasta școli, fabrici și șantiere, a transmis presa de stat din Coreea de Nord după încheierea summitului regional din China unde Donald Trump spera să se întâlnească cu liderul de la Phenian, potrivit AFP. Președintele american a tot transmis semnale că vrea să se întâlnească cu Kim Jong Un, …",
-    "title_ro": "Ce făcea Kim Jong Un în timp ce Trump îl aștepta să vină la Shenzen",
-    "lead_ro": "Kim Jong Un a vizitat săptămâna aceasta școli, fabrici și șantiere, a transmis presa de stat din Coreea de Nord după încheierea summitului regional din China unde Donald Trump spera să se întâlnească …",
-    "content_ro": "Kim Jong Un a vizitat săptămâna aceasta școli, fabrici și șantiere, a transmis presa de stat din Coreea de Nord după încheierea summitului regional din China unde Donald Trump spera să se întâlnească cu liderul de la Phenian, potrivit AFP. Președintele american a tot transmis semnale că vrea să se întâlnească cu Kim Jong Un, …",
-    "importance_score": 0.0,
-    "top_rank": null,
+    "published_at": 1795369200,
+    "title_hu": "Toma szerint a PSD inkább kommunikál, mint reformál",
+    "lead_hu": "Constantin Toma, Buzău PSD-s polgármestere továbbra is előkészítetlennek tartja a közigazgatási átalakítást, és választási szándékot is sejt a települések összevonása mögött. A párt reformokról szóló üzeneteit részben imázsjavító kísérletként értelmezi, miközben a márciusra tervezett parlamenti szavazás után a kormány bukását valószínűsíti.",
+    "content_hu": "• **Toma szerint a 2027 márciusára kitűzött céldátum nem ad elég időt az érdemi előkészítésre.** Az 1968-as közigazgatási rendezés óta szerinte nem született átfogó változtatás; a reformhoz tanulmányokat és nyilvános vitát tart szükségesnek. A Román Akadémia készülő munkáját és egy korábbi világbanki elemzést is említett.\n\n• **A városok és környékük összekapcsolását tenné az átalakítás kiindulópontjává.** A 2011-es és 2021-es adatokra hivatkozva úgy fogalmazott, hogy a GDP 96–97 százaléka, valamint a vállalkozások több mint 98 százaléka városi térségekben összpontosul. Szerinte a megyehatárok módosítása előtt a nagyvárosok körüli településeket kellene integrálni.\n\n• **A lengyel példát a helyi közigazgatás méretének és létszámának összevetésére használta.** Toma szerint Lengyelországban legalább 16 500 fős közigazgatási egységek vannak, a helyi közszférában pedig mintegy 185 ezren dolgoznak. Romániában körülbelül 400 ezer alkalmazottat említett, miközben a két ország népességét nagyjából 39, illetve 18–19 millió főre tette.\n\n• **A települések gyors összevonásában választási térkép átrajzolásának lehetőségét is látja.** Felvetette, hogy eltérő pártállású polgármesterek vezette kisebb településeket egyesíthetnek, ezért széles körű egyeztetést és szigorú kritériumokat sürgetett. A miniszterelnök és az államfő nyilvános állásfoglalásának hiányát is kifogásolta.\n\n• **A PSD reformkommunikációját a párt megítélésének javítására tett próbálkozásként bírálta.** Toma a párt korábbi döntéseit személyes érdekekkel hozta összefüggésbe, és az imázsvesztés példájaként a timișoarai ügyeket, köztük Alfred Simonis fiának keresztelőjét említette. Az állami vállalatok átalakítását is régóta esedékesnek nevezte: szerinte a nem energetikai cégek között politikai kinevezésekkel működő, veszteséges vállalatok is vannak, amelyek évente több százmillió közpénzt igényelnek. A márciusi szavazás kudarcáért szerinte Ilie Bolojanra háríthatják a felelősséget.",
+    "title_ro": "Toma acuză PSD că mimează reforma administrativă",
+    "lead_ro": "Constantin Toma, primarul PSD al Buzăului, consideră că reorganizarea administrativ-teritorială nu este pregătită suficient și avertizează că reunirea localităților ar putea avea și o miză electorală. El interpretează mesajele PSD despre reforme ca pe o încercare de îmbunătățire a imaginii partidului și anticipează că votul din martie ar putea duce la căderea guvernului.",
+    "content_ro": "• **Toma spune că termenul din martie 2027 nu lasă timp pentru pregătirea temeinică a reformei.** În opinia sa, după reorganizarea din 1968 nu a mai fost realizată o schimbare amplă, iar proiectul ar trebui fundamentat prin studii și dezbatere publică. El a menționat cercetări ale Academiei Române și o analiză mai veche a Băncii Mondiale.\n\n• **Integrarea localităților din jurul marilor orașe ar trebui să fie primul pas, consideră edilul.** Invocând comparații pentru anii 2011 și 2021, Toma a afirmat că 96–97% din PIB și peste 98% dintre firme se găsesc în zone urbane și în vecinătatea acestora. Modificarea județelor ar trebui, în viziunea sa, să vină după consolidarea polilor urbani.\n\n• **Exemplul Poloniei a fost folosit pentru a compara dimensiunea administrației locale și numărul angajaților.** Toma a susținut că unitățile administrative poloneze au cel puțin 16.500 de locuitori, iar în sectorul public local lucrează aproximativ 185.000 de persoane. Pentru România a indicat circa 400.000 de angajați și populații de aproximativ 39 de milioane în Polonia, respectiv 18–19 milioane în România.\n\n• **Edilul nu exclude ca unificarea localităților să urmărească și redesenarea hărții electorale.** El a invocat posibilitatea comasării unor localități mici conduse de primari cu apartenențe politice diferite și a cerut consultări ample, precum și criterii clare. Toma a remarcat, de asemenea, că premierul și președintele nu și-au prezentat public pozițiile.\n\n• **Toma descrie mesajele PSD despre reformă drept o tentativă de recuperare a imaginii partidului.** El a acuzat formațiunea că a luat decizii în interes personal și a amintit, între exemplele de deteriorare a reputației, situațiile de la Timișoara, inclusiv botezul fiului lui Alfred Simonis. Edilul a spus că restructurarea companiilor de stat este întârziată, iar unele firme din afara sectorului energetic, conduse prin numiri politice, ar consuma anual sute de milioane de lei. Dacă votul din martie eșuează, Toma crede că Ilie Bolojan ar putea fi făcut responsabil.",
+    "importance_score": 75.0,
+    "top_rank": 137,
     "is_top_hero": false,
-    "is_top_list": false
+    "is_top_list": true
   },
   {
     "group_id": "group_6c94fd8e5b",
