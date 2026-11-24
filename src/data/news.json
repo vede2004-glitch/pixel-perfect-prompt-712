@@ -1081,7 +1081,7 @@
     "title_ro": "Trump și Vance au susținut revenirea lui Huang la conducerea Nvidia",
     "lead_ro": "Donald Trump și JD Vance au făcut demersuri personale în weekend pentru ca Jensen Huang să revină la conducerea Nvidia. Casa Albă a invocat rolul său în dezvoltarea modelelor americane de AI cu ponderi deschise și absența unui risc de securitate națională, însă intervenția a atras întrebări din partea congresmenilor.",
     "content_ro": "• **Demersuri în weekend:** Trump și Vance au discutat cu membrii consiliului de administrație al Nvidia în sprijinul revenirii lui Huang, iar oficiali de rang înalt ai administrației au purtat, de asemenea, discuții cu compania. Trump a declarat luni că vorbise cu Huang duminică și că a fost reprezentat la ședința consiliului. Nvidia a anunțat în aceeași zi revenirea directorului, la 11 zile după plecarea sa.\n\n• **Implicarea lui Vance:** Potrivit relatărilor, relațiile vicepreședintelui în Silicon Valley l-au ajutat în discuțiile cu membrii consiliului. Trump a prezentat decizia drept importantă pentru companie și economia SUA; relatările CNN au menționat și îngrijorarea sa privind scăderile bursiere ca parte a contextului intervenției.\n\n• **Modele cu ponderi deschise:** Dezvoltatorii pot accesa parametrii de bază ai acestor sisteme, apoi le pot descărca, modifica și adapta unor sarcini specifice. Variantele dezvoltate în China sunt folosite tot mai mult de companii americane: potrivit relatărilor, pot costa mai puțin decât modelele proprietare, cu performanțe apropiate. Popularitatea lor poate mări cererea pentru cipurile și infrastructura de calcul Nvidia.\n\n• **Interesele companiei:** În august, Nvidia a convenit să achiziționeze Hugging Face, platformă care găzduiește și modele cu ponderi deschise. Compania este și investitor în Reflection AI, care și-a prezentat primul model de acest tip în octombrie. Administrația Trump urmărește ca firmele americane să poată utiliza aceste sisteme fără să depindă de cele chinezești.\n\n• **Securitate și reacții politice:** Trump a afirmat că guvernul și procurorul general nu au dovezi privind un comportament ilegal al lui Huang și că revenirea sa nu amenință securitatea națională. Totodată, a cerut continuarea verificării interne a respectării controalelor americane la export. Congresmeni democrați și republicani solicită explicații despre intervenția administrației, înaintea audierii lui Huang în Congres. Luni, acțiunile Nvidia au urcat cu 31%, adăugând aproape 1.000 de miliarde de dolari la valoarea companiei, dar au încheiat ședința ușor sub nivelul de vineri dimineață.",
-    "importance_score": 130.0,
+    "importance_score": 123.0,
     "top_rank": 7,
     "is_top_hero": false,
     "is_top_list": true
@@ -1456,65 +1456,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_40b5790303",
-    "slug": "lasconi-ket-ev-utan-is-biralja-a-roman-elnkvalasztas-ervenyteleniteset-40b579",
-    "tags": [
-      "elena-lasconi",
-      "alegeri-prezidentiale",
-      "romania",
-      "ccr",
-      "anulare-alegeri"
-    ],
-    "fingerprint": "7d42bae5a75dc6b5baa4a19c180e1162",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Elena Lasconi, atac la Nicușor Dan, la doi ani de la primul tur al alegerilor anulate. „Sistemul a trântit de pământ cu voturile noastre”",
-        "link": "https://hotnews.ro/elena-lasconi-nicusor-dan-alegeri-anulate-scrutin-prezidential-raport-2412517"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Elena Lasconi, la doi ani de la primul tur al prezidențialelor anulate din 2024: Am pierdut speranța și trăim mai prost. La Cotroceni este omul sistemului",
-        "link": "https://www.mediafax.ro/stirile-zilei/elena-lasconi-la-doi-ani-de-la-primul-tur-al-prezidentialelor-anulate-din-2024-am-pierdut-speranta-si-traim-mai-prost-la-cotroceni-este-omul-sistemului-23848534"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Elena Lasconi, la doi ani de la anularea alegerilor: „Nu vom avea niciodată un raport”",
-        "link": "https://adevarul.ro/politica/elena-lasconi-la-doi-ani-de-la-anularea-2574050.html"
-      },
-      {
-        "source": "G4Media",
-        "title": "Elena Lasconi, la doi ani de la primul tur al prezidențialelor anulate din 2024: Am pierdut speranța și trăim mai prost. La Cotroceni este omul sistemului",
-        "link": "https://www.g4media.ro/elena-lasconi-la-doi-ani-de-la-primul-tur-al-prezidentialelor-anulate-din-2024-am-pierdut-speranta-si-traim-mai-prost-la-cotroceni-este-omul-sistemului.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Elena Lasconi, la doi ani de la anularea alegerilor prezidențiale: „Cea mai mizerabilă încălcare a democrației”",
-        "link": "https://stirileprotv.ro/stiri/politic/elena-lasconi-la-2-ani-de-la-anularea-alegerilor-prezidentiale-cea-mai-mizerabila-incalcare-a-democratiei.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Elena Lasconi, la doi ani de la anularea alegerilor prezidențiale: „Cea mai mizerabilă încălcare a democraţiei din România”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/elena-lasconi-la-doi-ani-de-la-anularea-alegerilor-prezidentiale-cea-mai-mizerabila-incalcare-a-democratiei-din-romania-4051451"
-      }
-    ],
-    "published_at": 1795549285,
-    "title_hu": "Lasconi két év után is bírálja a román elnökválasztás érvénytelenítését",
-    "lead_hu": "Elena Lasconi a 2024-es román elnökválasztás első fordulójának második évfordulóján ismét kifogásolta a voksolás megsemmisítését. Úgy véli, nem készül majd hivatalos magyarázó jelentés, és a döntés csökkentette a választók bizalmát; állításait nem támasztják alá a most ismertetett új vizsgálati eredmények.",
-    "content_hu": "• **Az évfordulón szólalt meg:** Lasconi, Câmpulung Muscel polgármestere és a 2024-es választás akkori második fordulójának résztvevője a demokráciára nézve súlyos sérelemként értékelte a CCR döntését. Azt állította, hogy az intézkedés elvette a választók reményét, és romlott a közéletbe vetett bizalmuk.\n\n• **Nem vár államfői beszámolót:** Nicușor Dan korábban jelezte, hogy jelentést tesz közzé az érvénytelenítésről, Lasconi azonban kételkedik ennek elkészültében. A politikus a romániai forradalom máig tisztázatlan eseményeivel állította párhuzamba a helyzetet.\n\n• **Politikai részrehajlást feltételezett:** Lasconi szerint más lett volna a CCR döntése, ha Marcel Ciolacu jut a második fordulóba. Orosz online beavatkozást említett, de azt is elismerte, hogy az állítását alátámasztó egyértelmű bizonyítékok nem állnak rendelkezésre. Ez az ő véleménye, nem új hivatalos megállapítás.\n\n• **A döntés következményeit bírálta:** Szerinte az érvénytelenítés erősítette Călin Georgescu mártírképét, és teret adott az összeesküvés-elméleteknek. Azt is számon kérte, hogy az orosz beavatkozásra hivatkozva miért nem törölték a parlamenti választást.\n\n• **A rendszert és a választási szabályokat is szóba hozta:** Lasconi a PSD-t, a PNL-t, az állami szolgálatokat és a CCR-t okolta a szavazatok figyelmen kívül hagyásáért. Azt mondta, jogellenes kampány miatt a bíróság érvényteleníthet egy jelöltséget. Az AUR hétfő este saját jelentést mutatott be; ez nem azonos az államfőtől várt beszámolóval.",
-    "title_ro": "Lasconi critică anularea alegerilor prezidențiale din România, la doi ani distanță",
-    "lead_ro": "La împlinirea a doi ani de la primul tur al scrutinului prezidențial din 2024, Elena Lasconi a contestat din nou anularea votului. Ea se îndoiește că va fi publicat raportul promis de președintele Nicușor Dan și susține că decizia a slăbit încrederea alegătorilor; noile surse nu prezintă concluzii oficiale care să confirme acuzațiile sale.",
-    "content_ro": "• **Declarații la aniversarea scrutinului:** Elena Lasconi, primarul din Câmpulung Muscel și participantă la turul al doilea din 2024, a calificat decizia CCR drept o lovitură gravă pentru democrație. În opinia ei, anularea a diminuat speranța și încrederea oamenilor în vot.\n\n• **Se îndoiește că va apărea raportul prezidențial:** Nicușor Dan anunțase că va prezenta un document despre anularea alegerilor, însă Lasconi nu crede că acesta va fi publicat. Ea a comparat lipsa clarificărilor cu întrebările rămase fără răspuns despre Revoluția din România.\n\n• **A sugerat că decizia a fost influențată politic:** Lasconi a afirmat că scrutinul nu ar fi fost anulat dacă Marcel Ciolacu ar fi ajuns în turul al doilea. A invocat o posibilă intervenție online a Rusiei, dar a precizat că nu există dovezi clare care să susțină această ipoteză. Afirmația îi aparține și nu reprezintă o concluzie oficială nouă.\n\n• **A criticat efectele anulării:** Potrivit fostei candidate, hotărârea a contribuit la consolidarea imaginii lui Călin Georgescu ca martir și la răspândirea teoriilor conspiraționiste. Ea a întrebat și de ce nu au fost anulate alegerile parlamentare, dacă intervenția Rusiei a justificat anularea scrutinului prezidențial.\n\n• **A vizat instituții și regulile electorale:** Lasconi a acuzat PSD, PNL, serviciile statului și CCR că au ignorat voturile. Tot ea a susținut că o candidatură poate fi invalidată de Curte în cazul unei campanii ilegale. AUR a prezentat luni seară un raport propriu, care nu este documentul așteptat de la președinte.",
-    "importance_score": 80.0,
-    "top_rank": 13,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_6579863258",
     "slug": "orosz-katonai-gepek-kzelitettek-meg-a-del-koreai-ulleungdo-szigetet-657986",
     "tags": [
@@ -1578,7 +1519,7 @@
     "lead_ro": "Aeronave militare rusești au intrat marți în zona de identificare a apărării aeriene a Coreei de Sud și s-au apropiat de insula Ulleungdo. Seulul a ridicat avioane de vânătoare, iar locuitorii insulei au primit o alertă de scurtă durată; aparatele nu au pătruns în spațiul aerian sud-coreean.",
     "content_ro": "• **Aeronave militare rusești au fost observate în zona de identificare a apărării aeriene sud-coreene.** Acestea au zburat deasupra Mării Japoniei, numită Marea de Est în Coreea de Sud, și s-au apropiat de insula Ulleungdo. Statul Major Interarme nu a precizat câte aparate au participat la incident.\n\n• **Forțele aeriene sud-coreene au trimis avioane de vânătoare pentru a urmări situația.** Aeronavele rusești au părăsit zona, fără să intre în spațiul aerian al Coreei de Sud, potrivit autorităților de la Seul. Armata a emis o alertă, invocând apropierea aparatelor de limita spațiului aerian și viteza lor ridicată.\n\n• **Locuitorii insulei Ulleungdo au fost avertizați marți dimineață să se adăpostească.** Mesajul de urgență a fost transmis la ora locală 7:52 și i-a vizat pe cei aproximativ 8.700 de locuitori ai insulei. Autoritățile au anulat alerta după trei minute.\n\n• **Seulul a anunțat că va protesta pe lângă reprezentantul militar al Rusiei.** Ministerul sud-coreean al Apărării a comunicat că atașatul militar rus urma să fie convocat marți după-amiază pentru exprimarea unei obiecții oficiale față de incident.\n\n• **Acesta a fost al patrulea incident cunoscut de acest tip din anul în curs și al doilea într-o săptămână.** O zonă de identificare aeriană nu constituie spațiu aerian suveran, iar intrarea fără notificare prealabilă nu încalcă, prin ea însăși, dreptul internațional. Rusia susține că zona stabilită de Coreea de Sud nu are temei juridic internațional.",
     "importance_score": 80.0,
-    "top_rank": 14,
+    "top_rank": 13,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1642,7 +1583,7 @@
     "lead_ro": "Secretarul american al Apărării, Pete Hegseth, nu a autorizat încă transferul celor aproximativ 60 de interceptoare Patriot destinate Ucrainei, potrivit Financial Times. Noile informații indică un calendar lunar pentru livrările PAC-3, în timp ce rachetele pentru sistemele NASAMS au primit între timp aprobarea.",
     "content_ro": "• **Transferul celor circa 60 de interceptoare rămâne neaprobat.** Financial Times a citat trei surse familiarizate cu situația, iar Reuters a precizat că nu a putut verifica imediat informația. Lotul destinat Ucrainei cuprinde rachete PAC-3 și PAC-2, alocate anterior acesteia.\n\n• **Livrările PAC-3 erau planificate pentru patru luni consecutive.** Sursele publicației au indicat opt rachete pentru septembrie, câte zece pentru octombrie și noiembrie, precum și alte douăsprezece în decembrie. Niciuna dintre aceste tranșe nu primise aprobarea lui Hegseth.\n\n• **Alte aproximativ 20 de rachete PAC-2 așteaptă, de asemenea, autorizarea.** Aceste interceptoare reprezintă o variantă mai veche a muniției Patriot. Aliații occidentali ai Kievului acoperă costurile, iar unele rachete se află în depozite europene; fiind produse în SUA, exportul și reexportul lor necesită acordul Washingtonului.\n\n• **Zelenski a cerut aprobarea transferului rachetelor Patriot.** Duminică, președintele ucrainean a solicitat autorizarea muniției achitate deja de parteneri. În octombrie, el a scris pe X că Ucraina aștepta de aproape o lună aprobarea pentru rachete destinate sistemelor Patriot și NASAMS.\n\n• **Rachetele pentru NASAMS au fost aprobate între timp.** Potrivit celor trei surse citate de Financial Times, acestea sunt în drum spre Ucraina. Separat, inițiativa de autorizare a producției ucrainene de interceptoare Patriot a fost întârziată la Pentagon; instituția a transmis că politica SUA privind sprijinul pentru Ucraina nu s-a schimbat.",
     "importance_score": 78.0,
-    "top_rank": 15,
+    "top_rank": 14,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1706,7 +1647,7 @@
     "lead_ro": "Naționala U17 a României a fost învinsă cu 1-0 de Venezuela, în al doilea meci disputat la Cupa Mondială din Qatar. Pentru a-și păstra șansele de calificare, tricolorii au nevoie de un rezultat foarte bun cu Camerun, pe 27 noiembrie.",
     "content_ro": "• **România a înregistrat a doua înfrângere:** pe 24 noiembrie, la Aspire Zone din Doha, echipa a cedat cu 0-1 în fața Venezuelei. Și partida de debut, contra Mexicului, s-a încheiat cu același scor, astfel că reprezentativa română nu are niciun punct după două etape.\n\n• **Golul decisiv a fost înscris în minutul 64:** Roman Lozada a reluat cu capul centrarea trimisă de Andy Saavedra din partea dreaptă. Prima repriză a fost echilibrată, cu puține ocazii importante, iar șutul cadrat al lui Robert Corduneanu din minutul 32 a fost prima încercare românească pe spațiul porții la acest turneu.\n\n• **România a terminat în inferioritate numerică:** Rareș Silitră a fost eliminat în minutul 77, după ce arbitrul a consultat imaginile VAR și i-a arătat cartonașul roșu. Absența sa a complicat finalul meciului pentru echipa lui Mircea Diaconescu.\n\n• **Mexic a învins Camerunul cu 4-0 în cealaltă partidă a grupei.** Venezuela trecuse anterior de aceeași adversară cu 2-1. Se califică primele două formații din fiecare grupă și cele mai bune opt echipe de pe locul al treilea, dintre cele 12 grupe. România va întâlni Camerunul pe 27 noiembrie, de la ora 18:00, și poate avea nevoie de o victorie la scor pentru a mai spera la calificare.\n\n• **Selecționerul Mircea Diaconescu a indicat că echipa trebuie să fie mai eficientă în atac** și și-a exprimat încrederea în jucători înaintea ultimei etape. Potrivit acestuia, pregătirea detaliată pentru Camerun urma să înceapă după încheierea partidei cu Venezuela.",
     "importance_score": 78.0,
-    "top_rank": 16,
+    "top_rank": 15,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1769,7 +1710,7 @@
     "lead_ro": "Ministerul Energiei propune ca sprijinul pentru plata energiei să țină cont și de condițiile locative și medicale, nu doar de venituri. Dumitru Chisăliță urmărește reducerea la jumătate a sărăciei energetice în zece ani, însă criteriile și sumele acordate nu au fost încă stabilite.",
     "content_ro": "• **Ajutorul ar putea reflecta nevoile energetice concrete ale gospodăriei:** evaluarea ar include ponderea facturilor în buget, suprafața și starea locuinței, eficiența energetică, nevoi medicale suplimentare și accesul efectiv la energie. Astfel, familii cu venituri apropiate ar putea primi sprijin diferit, în funcție de situația în care trăiesc.\n\n• **Noua schemă ar urma să fie pregătită în 2027:** Ministerul Energiei a transmis un set de măsuri Ministerului Muncii, instituția care gestionează sprijinul pentru consumatorii vulnerabili. Sistemul cu criterii extinse ar putea fi elaborat în primele nouă luni ale anului și aplicat în sezonul rece următor. Planul include și armonizarea celor aproximativ opt scheme existente.\n\n• **Ajutorul actual de 50 de lei ar putea continua temporar:** schema pentru plata electricității expiră la sfârșitul anului, iar ministerul propune prelungirea ei și actualizarea plafonului de venit în funcție de inflație. În prezent, limita lunară este de 1.940 de lei pentru o persoană singură și de 1.784 de lei pentru fiecare membru al unei familii. În octombrie, peste 715.000 de persoane au primit voucherul de 50 de lei.\n\n• **Formula de calcul și valorile viitoare rămân în discuție:** nu au fost fixate nici noul prag de venit, nici metoda de măsurare a vulnerabilității, nici ajutorul corespunzător fiecărei categorii. Aceste aspecte urmează să fie clarificate împreună cu Ministerul Muncii. Chisăliță și-a stabilit ca obiectiv reducerea sărăciei energetice cu 50% în următorii zece ani.\n\n• **Sprijinul direcționat ar putea evita costurile unor măsuri generale:** un raport despre competitivitatea României estimează că plafonarea prețurilor la gaze și electricitate introdusă după criza din 2022 a costat statul între 19 și 20 de miliarde de euro. Autorii consideră că cheltuiala putea fi mai mică dacă ajutorul ajungea în principal la consumatorii vulnerabili.",
     "importance_score": 78.0,
-    "top_rank": 17,
+    "top_rank": 16,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1833,6 +1774,65 @@
     "lead_ro": "Premierul armean Nikol Pașinian a vizitat Bucureștiul la 24 noiembrie 2026 și a discutat cu președintele Nicușor Dan și premierul Luca Niculescu. Cele două țări au semnat o declarație privind parteneriatul strategic, în anul în care se împlinesc 35 de ani de la stabilirea relațiilor diplomatice.",
     "content_ro": "• **România și Armenia au semnat o declarație de parteneriat strategic** în timpul vizitei lui Pașinian la București. Documentul marchează 35 de ani de relații diplomatice între cele două state. Ultima vizită în România a unui premier armean avusese loc în 2011.\n\n• **Pașinian a purtat discuții cu președintele Nicușor Dan și cu premierul Luca Niculescu.** Agenda a inclus relațiile bilaterale, teme internaționale și situația regională. Dan a reafirmat sprijinul României pentru apropierea Armeniei de Uniunea Europeană și disponibilitatea Bucureștiului de a contribui cu expertiză.\n\n• **Dezvoltarea legăturilor economice a fost o temă centrală a întâlnirilor.** Oficialii au discutat despre stimularea comerțului și a investițiilor, precum și despre proiecte în energia regenerabilă, industria alimentară și farmaceutică și turism. Pașinian a menționat că porturile românești pot facilita accesul companiilor armene către piața Uniunii Europene.\n\n• **Discuțiile au vizat și cooperarea practică în mai multe domenii.** Printre subiecte s-au numărat proiectele din tehnologia informației, reluarea activității comisiei mixte economice și tehnico-științifice, cercetarea și schimburile de studenți și profesori.\n\n• **Niculescu a anunțat că va vizita Armenia și că va fi organizat un forum de afaceri.** Inițiativa urmărește să apropie mediile de afaceri și să susțină schimburile comerciale. Pe agenda discuțiilor au mai figurat liberalizarea vizelor, cooperarea în domeniul securității, reziliența instituțională, energia și infrastructura.",
     "importance_score": 78.0,
+    "top_rank": 17,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_40b5790303",
+    "slug": "lasconi-ket-ev-utan-is-biralja-a-roman-elnkvalasztas-ervenyteleniteset-40b579",
+    "tags": [
+      "elena-lasconi",
+      "alegeri-prezidentiale",
+      "romania",
+      "ccr",
+      "anulare-alegeri"
+    ],
+    "fingerprint": "7d42bae5a75dc6b5baa4a19c180e1162",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "HotNews.ro",
+        "title": "Elena Lasconi, atac la Nicușor Dan, la doi ani de la primul tur al alegerilor anulate. „Sistemul a trântit de pământ cu voturile noastre”",
+        "link": "https://hotnews.ro/elena-lasconi-nicusor-dan-alegeri-anulate-scrutin-prezidential-raport-2412517"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Elena Lasconi, la doi ani de la primul tur al prezidențialelor anulate din 2024: Am pierdut speranța și trăim mai prost. La Cotroceni este omul sistemului",
+        "link": "https://www.mediafax.ro/stirile-zilei/elena-lasconi-la-doi-ani-de-la-primul-tur-al-prezidentialelor-anulate-din-2024-am-pierdut-speranta-si-traim-mai-prost-la-cotroceni-este-omul-sistemului-23848534"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Elena Lasconi, la doi ani de la anularea alegerilor: „Nu vom avea niciodată un raport”",
+        "link": "https://adevarul.ro/politica/elena-lasconi-la-doi-ani-de-la-anularea-2574050.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "Elena Lasconi, la doi ani de la primul tur al prezidențialelor anulate din 2024: Am pierdut speranța și trăim mai prost. La Cotroceni este omul sistemului",
+        "link": "https://www.g4media.ro/elena-lasconi-la-doi-ani-de-la-primul-tur-al-prezidentialelor-anulate-din-2024-am-pierdut-speranta-si-traim-mai-prost-la-cotroceni-este-omul-sistemului.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Elena Lasconi, la doi ani de la anularea alegerilor prezidențiale: „Cea mai mizerabilă încălcare a democrației”",
+        "link": "https://stirileprotv.ro/stiri/politic/elena-lasconi-la-2-ani-de-la-anularea-alegerilor-prezidentiale-cea-mai-mizerabila-incalcare-a-democratiei.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Elena Lasconi, la doi ani de la anularea alegerilor prezidențiale: „Cea mai mizerabilă încălcare a democraţiei din România”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/elena-lasconi-la-doi-ani-de-la-anularea-alegerilor-prezidentiale-cea-mai-mizerabila-incalcare-a-democratiei-din-romania-4051451"
+      }
+    ],
+    "published_at": 1795549285,
+    "title_hu": "Lasconi két év után is bírálja a román elnökválasztás érvénytelenítését",
+    "lead_hu": "Elena Lasconi a 2024-es román elnökválasztás első fordulójának második évfordulóján ismét kifogásolta a voksolás megsemmisítését. Úgy véli, nem készül majd hivatalos magyarázó jelentés, és a döntés csökkentette a választók bizalmát; állításait nem támasztják alá a most ismertetett új vizsgálati eredmények.",
+    "content_hu": "• **Az évfordulón szólalt meg:** Lasconi, Câmpulung Muscel polgármestere és a 2024-es választás akkori második fordulójának résztvevője a demokráciára nézve súlyos sérelemként értékelte a CCR döntését. Azt állította, hogy az intézkedés elvette a választók reményét, és romlott a közéletbe vetett bizalmuk.\n\n• **Nem vár államfői beszámolót:** Nicușor Dan korábban jelezte, hogy jelentést tesz közzé az érvénytelenítésről, Lasconi azonban kételkedik ennek elkészültében. A politikus a romániai forradalom máig tisztázatlan eseményeivel állította párhuzamba a helyzetet.\n\n• **Politikai részrehajlást feltételezett:** Lasconi szerint más lett volna a CCR döntése, ha Marcel Ciolacu jut a második fordulóba. Orosz online beavatkozást említett, de azt is elismerte, hogy az állítását alátámasztó egyértelmű bizonyítékok nem állnak rendelkezésre. Ez az ő véleménye, nem új hivatalos megállapítás.\n\n• **A döntés következményeit bírálta:** Szerinte az érvénytelenítés erősítette Călin Georgescu mártírképét, és teret adott az összeesküvés-elméleteknek. Azt is számon kérte, hogy az orosz beavatkozásra hivatkozva miért nem törölték a parlamenti választást.\n\n• **A rendszert és a választási szabályokat is szóba hozta:** Lasconi a PSD-t, a PNL-t, az állami szolgálatokat és a CCR-t okolta a szavazatok figyelmen kívül hagyásáért. Azt mondta, jogellenes kampány miatt a bíróság érvényteleníthet egy jelöltséget. Az AUR hétfő este saját jelentést mutatott be; ez nem azonos az államfőtől várt beszámolóval.",
+    "title_ro": "Lasconi critică anularea alegerilor prezidențiale din România, la doi ani distanță",
+    "lead_ro": "La împlinirea a doi ani de la primul tur al scrutinului prezidențial din 2024, Elena Lasconi a contestat din nou anularea votului. Ea se îndoiește că va fi publicat raportul promis de președintele Nicușor Dan și susține că decizia a slăbit încrederea alegătorilor; noile surse nu prezintă concluzii oficiale care să confirme acuzațiile sale.",
+    "content_ro": "• **Declarații la aniversarea scrutinului:** Elena Lasconi, primarul din Câmpulung Muscel și participantă la turul al doilea din 2024, a calificat decizia CCR drept o lovitură gravă pentru democrație. În opinia ei, anularea a diminuat speranța și încrederea oamenilor în vot.\n\n• **Se îndoiește că va apărea raportul prezidențial:** Nicușor Dan anunțase că va prezenta un document despre anularea alegerilor, însă Lasconi nu crede că acesta va fi publicat. Ea a comparat lipsa clarificărilor cu întrebările rămase fără răspuns despre Revoluția din România.\n\n• **A sugerat că decizia a fost influențată politic:** Lasconi a afirmat că scrutinul nu ar fi fost anulat dacă Marcel Ciolacu ar fi ajuns în turul al doilea. A invocat o posibilă intervenție online a Rusiei, dar a precizat că nu există dovezi clare care să susțină această ipoteză. Afirmația îi aparține și nu reprezintă o concluzie oficială nouă.\n\n• **A criticat efectele anulării:** Potrivit fostei candidate, hotărârea a contribuit la consolidarea imaginii lui Călin Georgescu ca martir și la răspândirea teoriilor conspiraționiste. Ea a întrebat și de ce nu au fost anulate alegerile parlamentare, dacă intervenția Rusiei a justificat anularea scrutinului prezidențial.\n\n• **A vizat instituții și regulile electorale:** Lasconi a acuzat PSD, PNL, serviciile statului și CCR că au ignorat voturile. Tot ea a susținut că o candidatură poate fi invalidată de Curte în cazul unei campanii ilegale. AUR a prezentat luni seară un raport propriu, care nu este documentul așteptat de la președinte.",
+    "importance_score": 73.0,
     "top_rank": 18,
     "is_top_hero": false,
     "is_top_list": true
@@ -4192,54 +4192,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_92d5f4dac6",
-    "slug": "harom-megye-sszevonasat-javasolja-kovaszna-tanacselnke-92d5f4",
-    "tags": [
-      "szekelyfold",
-      "kovaszna",
-      "megye-osszevonas",
-      "kozigazgatasi-reform"
-    ],
-    "fingerprint": "4cd3f586f93a745a08da6e192c0dcd8c",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Fără „dubla măsură”: după modelul Ialomița-Călărași, președintele CJ Covasna solicită comasarea județelor secuiești",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/fara-dubla-masura-dupa-modelul-ialomita-calarasi-presedintele-cj-covasna-solicita-comasarea-judetelor-secuiesti-4051167"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Un președinte de Consiliu Județean cere unirea județelor Harghita, Covasna și Mureș: „Ținutul Secuiesc trebuie să fie unit!”",
-        "link": "https://stirileprotv.ro/stiri/politic/un-presedinte-de-consiliu-judetean-cere-unirea-judetelor-harghita-covasna-si-mures-tinutul-secuiesc-trebuie-sa-fie-unit.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Șeful CJ Covasna invocă un exemplu dat de Grindeanu și cere comasarea cu Harghita și Mureș: „Ținutul Secuiesc trebuie să fie unit”",
-        "link": "https://hotnews.ro/seful-cj-covasna-invoca-un-exemplu-dat-de-grindeanu-si-cere-comasarea-cu-harghita-si-mures-tinutul-secuiesc-trebuie-sa-fie-unit-2412806"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Președintele CJ Covasna cere unirea județelor Harghita, Covasna și Mureș: „Dacă Ialomița și Călărași pot, și județele din Ținutul Secuiesc pot”",
-        "link": "https://adevarul.ro/stiri-locale/targu-mures/presedintele-cj-covasna-cere-unirea-judetelor-2574146.html"
-      }
-    ],
-    "published_at": 1795538655,
-    "title_hu": "Három megye összevonását javasolja Kovászna tanácselnöke",
-    "lead_hu": "Tamás Sándor, a Kovászna Megyei Tanács elnöke Hargita, Kovászna és Maros közös közigazgatási egységbe szervezését szorgalmazza. Érvelése szerint az elképzelést az Ialomița és Călărași megye önkéntes egyesüléséről szóló kezdeményezéssel azonos mérce szerint kell megítélni.",
-    "content_hu": "• **Hargita, Kovászna és Maros egyesítését kezdeményezte Tamás Sándor.** A Kovászna Megyei Tanács elnöke azt javasolja, hogy a három megye 149 helyi közigazgatási egysége egyetlen adminisztratív egységhez tartozzon. Elképzelése szerint ennek formája lehet megye vagy régió is.\n\n• **A javaslatot az Ialomița és Călărași közötti önkéntes egyesülési szándékhoz kapcsolta.** Sorin Grindeanu, a Szociáldemokrata Párt elnöke a közelmúltban arról számolt be, hogy a két megye tanácselnöke jelezte: összevonást szeretnének. Tamás Sándor szerint az ottani kezdeményezés alapján a székelyföldi elképzelésnek is lehetőséget kell kapnia.\n\n• **A kovásznai tanácselnök egyenlő elbírálást vár a központi hatóságoktól.** Azt kérte Bukaresttől, hogy a déli megyék esetleges összevonásához hasonlóan vizsgálja meg a Hargita, Kovászna és Maros egyesítésére vonatkozó tervet. A felvetést a közösség akarataként mutatta be.\n\n• **Tamás Sándor közlése szerint már egyeztetett Hargita és Maros megyei kollégáival.** A forrás nem számol be hivatalos döntésről vagy az összevonás megindult eljárásáról; a három megye közös közigazgatási egysége egyelőre javaslatként szerepel.",
-    "title_ro": "Președintele CJ Covasna propune unirea a trei județe",
-    "lead_ro": "Tamás Sándor, președintele Consiliului Județean Covasna, susține organizarea județelor Harghita, Covasna și Mureș într-o singură unitate administrativă. El cere ca propunerea să fie evaluată după aceleași criterii ca inițiativa de comasare voluntară anunțată pentru Ialomița și Călărași.",
-    "content_ro": "• **Tamás Sándor a propus reunirea județelor Harghita, Covasna și Mureș.** Președintele Consiliului Județean Covasna dorește ca cele 149 de unități administrativ-teritoriale din cele trei județe să aparțină unei singure structuri administrative. Aceasta ar putea avea forma unui județ sau a unei regiuni.\n\n• **Inițiativa a fost pusă în legătură cu intenția de comasare dintre Ialomița și Călărași.** Sorin Grindeanu, liderul Partidului Social Democrat, a anunțat recent că a primit o solicitare în acest sens din partea președinților celor două consilii județene. Sándor consideră că propunerea din zona Harghita–Covasna–Mureș ar trebui să beneficieze de aceeași posibilitate.\n\n• **Șeful CJ Covasna solicită autorităților centrale să aplice criterii egale.** El a cerut Bucureștiului să analizeze planul celor trei județe în condiții comparabile cu inițiativa din sudul țării. Sándor a prezentat unirea administrativă drept o dorință a comunității pe care o reprezintă.\n\n• **Potrivit lui Sándor, au avut deja loc discuții cu omologi din Harghita și Mureș.** Articolul nu menționează o decizie oficială și nici lansarea unei proceduri de comasare. Organizarea celor trei județe într-o singură unitate administrativă rămâne, deocamdată, o propunere.",
-    "importance_score": 48.0,
-    "top_rank": 63,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_20b95d8a1e",
     "slug": "lukasenka-felajanlotta-hogy-zelenszkijjel-moszkvaba-utazik-20b95d",
     "tags": [
@@ -4279,7 +4231,7 @@
     "lead_ro": "Aleksandr Lukașenko a propus să meargă la Moscova alături de Volodimir Zelenski, pentru o discuție directă între liderul ucrainean și Vladimir Putin. Potrivit unei relatări citate de HotNews.ro, Zelenski a respins ideea și a sugerat ca Putin să vină la Kiev.",
     "content_ro": "• **Lukașenko a propus o deplasare comună la Moscova:** Președintele belarus a spus că el și Volodimir Zelenski ar putea ajunge împreună în capitala Rusiei, unde liderul ucrainean s-ar întâlni direct cu Vladimir Putin. Lukașenko s-a oferit să îl însoțească pe Zelenski și să garanteze securitatea călătoriei.\n\n• **Propunerea a fost prezentată într-un interviu înregistrat pe 17 noiembrie:** Lukașenko a discutat cu jurnalista Anne Nivat pentru revista franceză Le Point. Agenția de presă belarusă BelTA a anunțat că interviul integral urma să apară pe 25 noiembrie.\n\n• **Zelenski a indicat Kievul drept alternativă:** Conform relatării RBC Ukraine preluate de HotNews.ro, președintele ucrainean nu a acceptat varianta Moscovei. El a sugerat ca Putin să se deplaseze la Kiev și a oferit asigurări privind protecția acestora.\n\n• **Liderul belarus a pledat pentru negocieri în format trilateral:** În opinia sa, discuțiile dintre Belarus, Ucraina și Rusia ar putea produce mai repede un acord decât un proces care include reprezentanți europeni. El a legat o astfel de înțelegere atât de încheierea războiului, cât și de organizarea viitoare a regiunii.\n\n• **Relația Belarusului cu Moscova oferă context propunerii:** Minskul se prezintă și ca posibil mediator, însă rămâne un aliat apropiat al Rusiei. Teritoriul belarus a fost folosit de forțele ruse în invazia lansată în februarie 2022, fapt recunoscut public anterior de Lukașenko.",
     "importance_score": 45.0,
-    "top_rank": 64,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4323,7 +4275,7 @@
     "lead_ro": "Datele Comisiei Europene arată că, în 2025, rata ocupării în România a scăzut, în timp ce șomajul și șomajul de lungă durată au crescut. Aproape unul din cinci tineri cu vârste între 15 și 29 de ani nu avea un loc de muncă și nu participa la educație sau formare profesională.",
     "content_ro": "• **Ocuparea forței de muncă în UE a atins un nivel record în trimestrul al doilea din 2026:** 76,4% dintre persoanele cu vârste între 20 și 64 de ani lucrau. Pentru întregul an, Comisia estimează cu peste 800.000 de persoane ocupate mai mult decât în 2025.\n\n• **În România, indicatorul ocupării a coborât:** pentru grupa de vârstă 20–64 de ani, rata a scăzut de la 69,5% în 2024 la 69% în 2025. Media Uniunii Europene în 2025 a fost de 76,1%.\n\n• **Șomajul din România a urcat în același interval:** rata a crescut de la 5,4% în 2024 la 6,1% în 2025, depășind ușor media UE, de 6%. Șomajul de lungă durată a ajuns la 2,1%, față de 1,8% cu un an înainte; nivelul european a fost de 1,9%.\n\n• **Tinerii se confruntă cu dificultăți importante:** în 2025, aproape 20% dintre românii cu vârste între 15 și 29 de ani nu lucrau și nu urmau cursuri de educație sau pregătire profesională. Accesul la primele oportunități de angajare rămâne o provocare pentru această categorie.\n\n• **Ritmul creării de locuri de muncă ar putea încetini:** Comisia Europeană a semnalat o evoluție mai lentă a posturilor pentru debutanți, ocupate în principal de tineri. Dezvoltarea inteligenței artificiale a fost menționată ca posibil factor, iar investițiile în competențe și capital uman au fost indicate drept priorități.",
     "importance_score": 45.0,
-    "top_rank": 65,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4366,7 +4318,7 @@
     "lead_ro": "Ministerul Justiției din România examinează cum ar putea fi abordate infracțiunile comise de copii care nu au împlinit 14 ani. Variantele analizate sunt reducerea limitei de vârstă sau evaluarea individuală, de specialitate, a discernământului minorului.",
     "content_ro": "• **Grupul de lucru al Ministerului Justiției și-a reluat activitatea** privind posibile reguli pentru copiii sub 14 ani care comit infracțiuni. Ministrul Radu Marinescu a prezentat marți seară, la Euronews România, activitatea structurii înființate în 2025. Lucrările acesteia fuseseră suspendate în perioada guvernului interimar.\n\n• **Sunt analizate două direcții legislative:** coborârea vârstei de la care poate exista răspundere penală sau instituirea unei proceduri care să țină cont de discernământul fiecărui minor, stabilit prin evaluare de specialitate. La discuții contribuie psihologi, juriști și reprezentanți ai mediului universitar.\n\n• **Legislația actuală permite măsuri educative fără caracter penal** pentru copiii sub 14 ani. Ministrul a precizat că, dacă va fi introdusă răspunderea penală la o vârstă mai mică, executarea sancțiunilor va trebui adaptată particularităților fiecărui copil. Recuperarea minorului ar trebui să rămână un element central al abordării.\n\n• **Prevenirea este, de asemenea, necesară pentru limitarea delincvenței juvenile.** Marinescu a evidențiat rolul educației și al familiei și a atras atenția asupra influenței negative pe care conținuturile nocive din mediul online o pot avea asupra comportamentului copiilor. Potrivit ministrului, eventualele modificări legislative trebuie precedate de o analiză atentă.",
     "importance_score": 45.0,
-    "top_rank": 66,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4405,7 +4357,7 @@
     "lead_ro": "Fostul ambasador al Statelor Unite ale Americii la Bucureşti, Adrian Zuckerman, a afirmat, marţi, că nu are niciun dubiu că fostul candidat la alegerile prezidenţiale Călin Georgescu a fost susţinut „...",
     "content_ro": "Fostul ambasador al Statelor Unite ale Americii la Bucureşti, Adrian Zuckerman, a afirmat, marţi, că nu are niciun dubiu că fostul candidat la alegerile prezidenţiale Călin Georgescu a fost susţinut „direct şi indirect de ruşi”.",
     "importance_score": 45.0,
-    "top_rank": 67,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4454,7 +4406,7 @@
     "lead_ro": "Donald Trump a anunțat luni, la Departamentul Justiției al SUA, că va cere aplicarea sistematică a pedepsei cu moartea în cazurile de omor asupra copiilor, viol și trafic de persoane în care victimele sunt ucise. El l-a criticat pe guvernatorul Californiei, Gavin Newsom, care intenționează să transforme cele 548 de condamnări la moarte din stat în pedepse cu închisoarea pe viață fără eliberare condiționată.",
     "content_ro": "• **Trump a prezentat o inițiativă de înăsprire a politicii penale federale.** Luni, la un eveniment organizat la sediul Departamentului Justiției, președintele a spus că va semna un ordin executiv. Acesta ar urma să ceară instituției să solicite în mod regulat pedeapsa capitală pentru uciderea copiilor, viol și pentru traficanții de persoane care își omoară victimele.\n\n• **Planul anunțat ar accelera și procedurile federale de execuție.** Potrivit lui Trump, ordinul ar prevedea grăbirea punerii în aplicare a condamnărilor la moarte la nivel federal. Informațiile prezentate nu au cuprins detalii juridice suplimentare despre măsurile propuse.\n\n• **Președintele l-a criticat pe guvernatorul Californiei, Gavin Newsom.** Acesta intenționează să comute toate cele 548 de condamnări la moarte din stat în pedepse cu închisoarea pe viață, fără posibilitatea eliberării condiționate. Trump a contestat public decizia și l-a atacat pe Newsom în cadrul discursului.\n\n• **La întâlnire au fost prezenți membri ai familiilor victimelor și oficiali federali.** Printre participanți s-au numărat procurorul general Todd Blanche și directorul FBI, Kash Patel. Trump și-a expus propunerile privind pedeapsa capitală în fața familiilor afectate de crime.\n\n• **Todd Blanche a menționat numărul solicitărilor depuse de minister.** El a afirmat că, de la începutul actualei administrații, Departamentul Justiției a cerut pedeapsa cu moartea în 49 de cazuri. Nu au fost oferite informații despre câte dintre acestea au ajuns la o condamnare.",
     "importance_score": 45.0,
-    "top_rank": 68,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4496,6 +4448,54 @@
     "title_ro": "Nazare ar amâna a doua rectificare bugetară până la clarificarea datelor PNRR",
     "lead_ro": "Ministrul Finanțelor, Alexandru Nazare, consideră că Guvernul ar trebui să aștepte date certe despre suma care poate fi încasată prin cererea de plată nr. 6 din PNRR înainte de a decide o nouă rectificare bugetară. Clarificarea este importantă atât pentru planificarea închiderii anului, cât și pentru respectarea țintei de deficit.",
     "content_ro": "• **Lipsa datelor despre fondurile PNRR face riscantă continuarea procedurii:** Alexandru Nazare recomandă amânarea celei de-a doua rectificări până când va exista o estimare sigură a sumelor ce pot fi primite prin cererea de plată cu numărul 6.\n\n• **Închiderea anului și ținta de deficit rămân criterii centrale:** Potrivit ministrului, incertitudinea privind încasările îngreunează evaluarea situației financiare din decembrie. Aprobarea unor cheltuieli suplimentare ar putea complica respectarea obiectivului de deficit pentru acest an.\n\n• **Solicitările de finanțare sunt de amploare:** Nazare a spus că cererile pentru a doua rectificare se apropie ca ordin de mărime de cele asociate modificării precedente, când au fost solicitate aproximativ 60 de miliarde de lei. Un element esențial este, prin urmare, volumul resurselor certe disponibile până la sfârșitul anului.\n\n• **Guvernul va lua hotărârea după discutarea propunerii Finanțelor:** Ministrul a prezentat poziția instituției, însă decizia finală va fi stabilită la nivelul cabinetului. Dacă informațiile despre cererea PNRR ajung în scurt timp, ele ar putea fi incluse în evaluare.\n\n• **Discuțiile au loc și în contextul dialogului internațional:** Respectarea țintei de deficit și consultările cu Comisia Europeană și FMI fac parte din cadrul în care este analizată rectificarea. Nazare și-a prezentat poziția la lansarea raportului privind competitivitatea României, eveniment organizat la Banca Națională a României; documentul a fost coordonat de Enrico Letta.",
+    "importance_score": 43.0,
+    "top_rank": 68,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_92d5f4dac6",
+    "slug": "harom-megye-sszevonasat-javasolja-kovaszna-tanacselnke-92d5f4",
+    "tags": [
+      "szekelyfold",
+      "kovaszna",
+      "megye-osszevonas",
+      "kozigazgatasi-reform"
+    ],
+    "fingerprint": "4cd3f586f93a745a08da6e192c0dcd8c",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Fără „dubla măsură”: după modelul Ialomița-Călărași, președintele CJ Covasna solicită comasarea județelor secuiești",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/fara-dubla-masura-dupa-modelul-ialomita-calarasi-presedintele-cj-covasna-solicita-comasarea-judetelor-secuiesti-4051167"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Un președinte de Consiliu Județean cere unirea județelor Harghita, Covasna și Mureș: „Ținutul Secuiesc trebuie să fie unit!”",
+        "link": "https://stirileprotv.ro/stiri/politic/un-presedinte-de-consiliu-judetean-cere-unirea-judetelor-harghita-covasna-si-mures-tinutul-secuiesc-trebuie-sa-fie-unit.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Șeful CJ Covasna invocă un exemplu dat de Grindeanu și cere comasarea cu Harghita și Mureș: „Ținutul Secuiesc trebuie să fie unit”",
+        "link": "https://hotnews.ro/seful-cj-covasna-invoca-un-exemplu-dat-de-grindeanu-si-cere-comasarea-cu-harghita-si-mures-tinutul-secuiesc-trebuie-sa-fie-unit-2412806"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Președintele CJ Covasna cere unirea județelor Harghita, Covasna și Mureș: „Dacă Ialomița și Călărași pot, și județele din Ținutul Secuiesc pot”",
+        "link": "https://adevarul.ro/stiri-locale/targu-mures/presedintele-cj-covasna-cere-unirea-judetelor-2574146.html"
+      }
+    ],
+    "published_at": 1795538655,
+    "title_hu": "Három megye összevonását javasolja Kovászna tanácselnöke",
+    "lead_hu": "Tamás Sándor, a Kovászna Megyei Tanács elnöke Hargita, Kovászna és Maros közös közigazgatási egységbe szervezését szorgalmazza. Érvelése szerint az elképzelést az Ialomița és Călărași megye önkéntes egyesüléséről szóló kezdeményezéssel azonos mérce szerint kell megítélni.",
+    "content_hu": "• **Hargita, Kovászna és Maros egyesítését kezdeményezte Tamás Sándor.** A Kovászna Megyei Tanács elnöke azt javasolja, hogy a három megye 149 helyi közigazgatási egysége egyetlen adminisztratív egységhez tartozzon. Elképzelése szerint ennek formája lehet megye vagy régió is.\n\n• **A javaslatot az Ialomița és Călărași közötti önkéntes egyesülési szándékhoz kapcsolta.** Sorin Grindeanu, a Szociáldemokrata Párt elnöke a közelmúltban arról számolt be, hogy a két megye tanácselnöke jelezte: összevonást szeretnének. Tamás Sándor szerint az ottani kezdeményezés alapján a székelyföldi elképzelésnek is lehetőséget kell kapnia.\n\n• **A kovásznai tanácselnök egyenlő elbírálást vár a központi hatóságoktól.** Azt kérte Bukaresttől, hogy a déli megyék esetleges összevonásához hasonlóan vizsgálja meg a Hargita, Kovászna és Maros egyesítésére vonatkozó tervet. A felvetést a közösség akarataként mutatta be.\n\n• **Tamás Sándor közlése szerint már egyeztetett Hargita és Maros megyei kollégáival.** A forrás nem számol be hivatalos döntésről vagy az összevonás megindult eljárásáról; a három megye közös közigazgatási egysége egyelőre javaslatként szerepel.",
+    "title_ro": "Președintele CJ Covasna propune unirea a trei județe",
+    "lead_ro": "Tamás Sándor, președintele Consiliului Județean Covasna, susține organizarea județelor Harghita, Covasna și Mureș într-o singură unitate administrativă. El cere ca propunerea să fie evaluată după aceleași criterii ca inițiativa de comasare voluntară anunțată pentru Ialomița și Călărași.",
+    "content_ro": "• **Tamás Sándor a propus reunirea județelor Harghita, Covasna și Mureș.** Președintele Consiliului Județean Covasna dorește ca cele 149 de unități administrativ-teritoriale din cele trei județe să aparțină unei singure structuri administrative. Aceasta ar putea avea forma unui județ sau a unei regiuni.\n\n• **Inițiativa a fost pusă în legătură cu intenția de comasare dintre Ialomița și Călărași.** Sorin Grindeanu, liderul Partidului Social Democrat, a anunțat recent că a primit o solicitare în acest sens din partea președinților celor două consilii județene. Sándor consideră că propunerea din zona Harghita–Covasna–Mureș ar trebui să beneficieze de aceeași posibilitate.\n\n• **Șeful CJ Covasna solicită autorităților centrale să aplice criterii egale.** El a cerut Bucureștiului să analizeze planul celor trei județe în condiții comparabile cu inițiativa din sudul țării. Sándor a prezentat unirea administrativă drept o dorință a comunității pe care o reprezintă.\n\n• **Potrivit lui Sándor, au avut deja loc discuții cu omologi din Harghita și Mureș.** Articolul nu menționează o decizie oficială și nici lansarea unei proceduri de comasare. Organizarea celor trei județe într-o singură unitate administrativă rămâne, deocamdată, o propunere.",
     "importance_score": 43.0,
     "top_rank": 69,
     "is_top_hero": false,
@@ -4834,7 +4834,7 @@
     "title_ro": "Peter Magyar respinge legarea finanțării Ucrainei de bugetul UE",
     "lead_ro": "Premierul ungar a criticat la Bratislava condiționarea bugetului UE pentru perioada 2028–2034 de finanțarea Ucrainei. La reuniunea liderilor din Grupul de la Vișegrad și Austria au fost discutate și costurile energiei, presiunea migrației și propunerea bugetară europeană.",
     "content_ro": "• **Peter Magyar a respins condiționarea bugetului UE pentru 2028–2034 de finanțarea Ucrainei.** Premierul ungar a făcut declarația luni, la Bratislava, după întâlnirea liderilor din Grupul de la Vișegrad și Austria. Potrivit Digi24, cancelarul german Friedrich Merz amenințase că va bloca bugetul dacă statele membre nu acceptă să acorde Kievului sprijin financiar suplimentar.\n\n• **Magyar a cerut ca situația specifică a statelor din Europa Centrală să fie luată în considerare în deciziile europene.** El a invocat apropierea de războiul din Ucraina, presiunea mai mare a migrației și nivelul ridicat al prețurilor la energie. Participanții la reuniune au convenit, de asemenea, că prețul energiei afectează competitivitatea.\n\n• **Premierul ungar nu consideră propunerea bugetară a lui António Costa o bază pentru negocieri.** Conform Digi24, aceasta prevede cu 200 de miliarde de euro mai puțin decât propunerea inițială a Comisiei Europene. Premierul slovac Robert Fico a descris proiectul drept inacceptabil pentru toate cele cinci state participante.\n\n• **Magyar a pus sub semnul întrebării utilitatea summitului extraordinar al UE programat joi și vineri.** La reuniune, țările din Grupul de la Vișegrad s-au alăturat inițiativei Cehiei privind revizuirea sistemului de comercializare a certificatelor de emisii ETS2 și amânarea aplicării acestuia. Magyar a precizat că aceste state nu contestă obiectivele climatice, ci se opun unor costuri suplimentare pentru populație și transporturi fără măsuri compensatorii.",
-    "importance_score": 43.0,
+    "importance_score": 40.0,
     "top_rank": 76,
     "is_top_hero": false,
     "is_top_list": true
