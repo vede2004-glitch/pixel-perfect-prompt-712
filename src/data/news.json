@@ -1700,65 +1700,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_b34797e127",
-    "slug": "orosz-kiberkemkedesi-akcio-erintett-egy-roman-kormanyzati-intezmenyt-b34797",
-    "tags": [
-      "romania",
-      "spionaj-cibernetic",
-      "turla",
-      "sri",
-      "securitate-digitala"
-    ],
-    "fingerprint": "5b5dd5fd20d5a6939776dfd3ea320d9c",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 6,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Experții avertizează: România, ținta unor operațiuni de spionaj cibernetic",
-        "link": "https://www.mediafax.ro/aparare/expertii-avertizeaza-romania-tinta-unor-operatiuni-de-spionaj-cibernetic-23847807"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Spionaj cibernetic rusesc în România: experții trag un nou semnal de alarmă",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/spionaj-cibernetic-rusesc-in-romania-expertii-2573657.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "România, tot mai expusă atacurilor Rusiei în Marea Neagră. Avertismentul unui analist britanic în securitate maritimă",
-        "link": "https://adevarul.ro/stiri-externe/europa/romania-tot-mai-expusa-atacurilor-rusiei-in-marea-2573739.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "România, ținta grupării rusești de hackeri Turla. Experta în securitate Chris Kubecka, despre vulnerabilități și riscurile actuale",
-        "link": "https://www.digi24.ro/stiri/actualitate/romania-tinta-gruparii-rusesti-de-hackeri-turla-experta-in-securitate-chris-kubecka-despre-vulnerabilitati-si-riscurile-actuale-4049811"
-      },
-      {
-        "source": "G4Media",
-        "title": "Iranul prezintă un nou lansator de rachete, despre care afirmă că poate trage două proiectile simultan",
-        "link": "https://www.g4media.ro/iranul-prezinta-un-nou-lansator-de-rachete-despre-care-afirma-ca-poate-trage-doua-proiectile-simultan.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Iranul sfidează SUA și prezintă o nouă armă într-o bază subterană secretă. Lansatorul poate trage două rachete simultan",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/iranul-sfideaza-sua-si-prezinta-o-noua-arma-intr-o-2573528.html"
-      }
-    ],
-    "published_at": 1795459810,
-    "title_hu": "Orosz kiberkémkedési akció érintett egy román kormányzati intézményt",
-    "lead_hu": "A román hírszerzés 2025 decemberében észlelt egy, kormányzati levelezést célzó kibertámadást, amely NATO- és uniós kapcsolattartást is érintett. Az ESET a műveletet a Turla csoporthoz kötötte; az adatkivitel nem igazolt, de nem zárható ki.",
-    "content_hu": "• **A támadás kormányzati levelezést célzott:** A román SRI szerint a Nemzeti Cyberint Központ 2025 decemberében fedezte fel az akciót. Egy román intézmény elektronikus kommunikációja is érintett volt, beleértve a NATO-val és az Európai Unióval folytatott levelezést.\n\n• **A SRI intézkedett a behatolás megállítására:** A szolgálat tájékoztatása szerint a támadók Microsoft-rendszerek sérülékenységeit használták ki. A Cyberint beavatkozása után leállították a műveletet, és megkezdődött a következmények helyreállítása.\n\n• **Az ESET a Turla csoportnak tulajdonította az akciót:** Robert Lipovský kutató szerint a csoportot az orosz Szövetségi Biztonsági Szolgálattal hozzák összefüggésbe. Az elemzők által azonosított kártevő eszközök összetettek; a Turla a fejlett, állami hátterű csoportok között is kiemelkedő technikai képességekkel rendelkezik.\n\n• **A támadók hozzáfértek egy Exchange-kiszolgálóhoz:** Az ESET nem tudta feltárni, miként szerezték meg a kezdeti hozzáférést. Mivel az ilyen levelezőszerverek interneten keresztül is elérhetők, egy sérülékenység kihasználása lehetséges magyarázat, de erre az adott esetben nem találtak bizonyítékot.\n\n• **Az adatok esetleges megszerzése továbbra sem tisztázott:** A SRI nem észlelt adatküldést a rendszerekből, az ESET viszont nem tudta kizárni az információk kimásolását. Lipovský arra is felhívta a figyelmet, hogy Románia ismétlődően kiberkémkedési műveletek célpontja.",
-    "title_ro": "O operațiune de spionaj cibernetic rusesc a vizat o instituție guvernamentală din România",
-    "lead_ro": "Serviciul Român de Informații a detectat în decembrie 2025 un atac cibernetic care a vizat corespondența unei instituții guvernamentale, inclusiv comunicarea cu NATO și Uniunea Europeană. ESET a asociat operațiunea cu gruparea Turla; exfiltrarea datelor nu a fost confirmată, dar nici exclusă.",
-    "content_ro": "• **Atacul a vizat corespondența unei instituții guvernamentale:** Potrivit SRI, Centrul Național Cyberint a descoperit operațiunea în decembrie 2025. A fost afectată comunicarea electronică a unei instituții din România, inclusiv corespondența cu NATO și Uniunea Europeană.\n\n• **SRI a intervenit pentru a opri intruziunea:** Serviciul a anunțat că atacatorii au exploatat vulnerabilități ale sistemelor Microsoft. După intervenția Cyberint, operațiunea a fost oprită, iar autoritățile au început remedierea efectelor.\n\n• **ESET a atribuit operațiunea grupării Turla:** Cercetătorul Robert Lipovský a precizat că gruparea este asociată cu Serviciul Federal de Securitate al Rusiei. Instrumentele malițioase identificate sunt complexe, iar Turla se numără printre grupările avansate cu capacități tehnice remarcabile.\n\n• **Atacatorii au compromis un server Exchange:** ESET nu a stabilit metoda prin care aceștia au obținut accesul inițial. Aceste servere pot fi accesate prin internet, astfel că exploatarea unei vulnerabilități este o explicație posibilă, însă nu au fost găsite dovezi că aceasta s-a produs în acest caz.\n\n• **Nu este clar dacă au fost copiate informații:** SRI nu a identificat transferuri de date în afara sistemelor, dar ESET nu a putut exclude posibilitatea copierii unor informații. Lipovský a mai avertizat că România este vizată în mod repetat de operațiuni de spionaj cibernetic.",
-    "importance_score": 73.0,
-    "top_rank": 19,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_220abbcacf",
     "slug": "vegrehajtottak-parastoo-ahmadi-es-zenesztarsai-korbacsbunteteset-220abb",
     "tags": [
@@ -1812,60 +1753,66 @@
     "lead_ro": "Cântăreața iraniană Parastoo Ahmadi și patru membri ai trupei sale au fost supuși pedepsei de 74 de lovituri de bici, potrivit agenției Emtedad, care a citat avocatul artistei. Cazul este legat de un concert publicat pe YouTube în 2024, iar noua relatare îl plasează în contextul protestelor femeilor din Iran.",
     "content_ro": "• **Pedeapsa a fost pusă în aplicare luni.** Agenția Emtedad a relatat, citându-l pe avocatul cântăreței, că măsura de 74 de lovituri de bici a fost executată asupra lui Ahmadi și a patru membri ai formației. Relatarea nu precizează cum au fost repartizate loviturile între cei cinci.\n\n• **Cei cinci au fost condamnați în iunie 2026.** Cazul a pornit de la un concert transmis pe YouTube în decembrie 2024. Ahmadi și grupul său au cântat într-un caravanserai tradițional aflat lângă un drum, iar autoritățile iraniene au considerat că au fost încălcate mai multe legi.\n\n• **Spectacolul a intrat în conflict cu restricțiile impuse femeilor.** În Iran, femeile nu pot cânta în public; la concert, Ahmadi a apărut fără vălul islamic și purtând o rochie. La momentul relatării, înregistrarea depășise trei milioane de vizualizări pe YouTube.\n\n• **Pedeapsa se înscrie pe fundalul opoziției față de regulile stricte din Iran.** Protestele femeilor împotriva normelor islamice s-au intensificat în ultimii ani. În 2022, mulțimi numeroase au ieșit în stradă și au scandat un mesaj centrat pe femei, viață și libertate; forțele autorităților au înăbușit manifestațiile prin violență.\n\n• **Încălcarea codului vestimentar rămâne o formă de contestare.** Potrivit relatării, numeroase femei din marile orașe iraniene continuă să nu respecte regulile islamice privind îmbrăcămintea, exprimându-și astfel autonomia personală. Noua sursă nu oferă alte informații despre procedura judiciară în cazul lui Ahmadi și al colegilor săi.",
     "importance_score": 68.0,
-    "top_rank": 20,
+    "top_rank": 19,
     "is_top_hero": false,
     "is_top_list": true
   },
   {
-    "group_id": "group_3e4602c60d",
-    "slug": "fritz-magyarazatokat-surget-az-elnkvalasztas-ervenyteleniteserol-3e4602",
+    "group_id": "group_b34797e127",
+    "slug": "orosz-kiberkemkedesi-akcio-erintett-egy-roman-kormanyzati-intezmenyt-b34797",
     "tags": [
-      "alegeri-prezidentiale",
-      "usr",
-      "aur",
-      "dominic-fritz"
+      "romania",
+      "spionaj-cibernetic",
+      "turla",
+      "sri",
+      "securitate-digitala"
     ],
-    "fingerprint": "14a62dfb47aaf4936c3c3e60d59a32f8",
-    "category": "Politika",
+    "fingerprint": "5b5dd5fd20d5a6939776dfd3ea320d9c",
+    "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 5,
+    "sources_count": 6,
     "sources": [
       {
-        "source": "G4Media",
-        "title": "Fritz, reacție la raportul AUR privind anularea alegerilor: ”Încă o schemă de marketing” / ”Tăcerea lentă a Președintelui este pământul fertil pe care grădinarul-șef George Simion crește teoriile conspiraționiste”",
-        "link": "https://www.g4media.ro/fritz-reactie-la-raportul-aur-privind-anularea-alegerilor-inca-o-schema-de-marketing-tacerea-lenta-a-presedintelui-este-pamantul-fertil-pe-care-gradinarul-sef-george-sim.html"
-      },
-      {
-        "source": "Digi24",
-        "title": "Dominic Fritz critică raportul AUR privind alegerile anulate: „Încă o schemă de marketing”",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/dominic-fritz-critica-raportul-aur-privind-alegerile-anulate-inca-o-schema-de-marketing-4049781"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Dominic Fritz critică „tăcerea” lui Nicușor Dan după ce AUR și-a prezentat propriul raport privind anularea alegerilor",
-        "link": "https://hotnews.ro/dominic-fritz-critica-tacerea-lui-nicusor-dan-dupa-ce-aur-si-a-prezentat-propriul-raport-privind-anularea-alegerilor-2412048"
+        "source": "Mediafax",
+        "title": "Experții avertizează: România, ținta unor operațiuni de spionaj cibernetic",
+        "link": "https://www.mediafax.ro/aparare/expertii-avertizeaza-romania-tinta-unor-operatiuni-de-spionaj-cibernetic-23847807"
       },
       {
         "source": "Adevărul",
-        "title": "Schimb dur de replici între Dominic Fritz și George Simion pe tema alegerilor anulate. Ce-i reproșează liderul USR lui Nicușor Dan",
-        "link": "https://adevarul.ro/politica/schimb-dur-de-replici-intre-dominic-fritz-si-2573844.html"
+        "title": "Spionaj cibernetic rusesc în România: experții trag un nou semnal de alarmă",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/spionaj-cibernetic-rusesc-in-romania-expertii-2573657.html"
       },
       {
-        "source": "ProTV Stiri",
-        "title": "Dominic Fritz, atac la Nicușor Dan după raportul AUR privind anularea alegerilor. „Tăcerea lentă a Preşedintelui”",
-        "link": "https://stirileprotv.ro/stiri/politic/dominic-fritz-atac-la-nicusor-dan-dupa-raportul-aur-privind-anularea-alegerilor-tacerea-lenta-a-presedintelui.html"
+        "source": "Adevărul",
+        "title": "România, tot mai expusă atacurilor Rusiei în Marea Neagră. Avertismentul unui analist britanic în securitate maritimă",
+        "link": "https://adevarul.ro/stiri-externe/europa/romania-tot-mai-expusa-atacurilor-rusiei-in-marea-2573739.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "România, ținta grupării rusești de hackeri Turla. Experta în securitate Chris Kubecka, despre vulnerabilități și riscurile actuale",
+        "link": "https://www.digi24.ro/stiri/actualitate/romania-tinta-gruparii-rusesti-de-hackeri-turla-experta-in-securitate-chris-kubecka-despre-vulnerabilitati-si-riscurile-actuale-4049811"
+      },
+      {
+        "source": "G4Media",
+        "title": "Iranul prezintă un nou lansator de rachete, despre care afirmă că poate trage două proiectile simultan",
+        "link": "https://www.g4media.ro/iranul-prezinta-un-nou-lansator-de-rachete-despre-care-afirma-ca-poate-trage-doua-proiectile-simultan.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Iranul sfidează SUA și prezintă o nouă armă într-o bază subterană secretă. Lansatorul poate trage două rachete simultan",
+        "link": "https://adevarul.ro/stiri-externe/in-lume/iranul-sfideaza-sua-si-prezinta-o-noua-arma-intr-o-2573528.html"
       }
     ],
-    "published_at": 1795459822,
-    "title_hu": "Fritz magyarázatokat sürget az elnökválasztás érvénytelenítéséről",
-    "lead_hu": "Dominic Fritz, az USR elnöke bírálta az AUR saját jelentését a 2024-es elnökválasztás érvénytelenítéséről, és Nicușor Dan államfőtől is részletes tájékoztatást kért. Szerinte a döntés körülményei és az azt megelőző szavazatszámlálás máig tisztázatlanok.",
-    "content_hu": "• **Az AUR hétfő esti sajtótájékoztatóján ismertette a választás érvénytelenítéséről készített saját jelentését.** Fritz az eseményt pártpolitikai kommunikációs lépésnek nevezte, ugyanakkor azt mondta: a dokumentum nem oldja fel a döntéssel kapcsolatos kérdéseket.\n\n• **Fritz szerint közel két év elteltével sem világos, mi vezetett a 2024-es elnökválasztás érvénytelenítéséhez.** Felidézte, hogy az USR jelöltje, Elena Lasconi a második fordulóba jutott, és hangsúlyozta: a döntés minden választó szavazatát érintette.\n\n• **Az USR vezetője az érvénytelenítést megelőző, valamennyi szavazatra kiterjedő újraszámlálást is bírálta.** Állítása szerint annak célja az USR parlamenti választás előtti erősödésének megfékezése lehetett. A kampány utolsó hetében szerinte az a lehetőség is napirendre került, hogy Marcel Ciolacu Lasconi helyére kerülhet a második fordulóban.\n\n• **Fritz Nicușor Dan államfőtől és az illetékes intézményektől nyilvános, részletes magyarázatokat kért.** Azt szeretné tudni, kik és mikor hozták meg a döntéseket, milyen információk alapján, valamint mely szervek mulasztottak és milyen következményekkel. Bírálta a SRI vezetésének elhúzódó ideiglenes állapotát is.\n\n• **George Simion, az AUR elnöke a sajtótájékoztatón arra szólította fel Fritzet, hogy mutassa be az USR saját jelentését.** A vita így az AUR dokumentumának tartalma mellett az állami döntéshozatal átláthatóságáról és a 2024-es választási folyamat elszámoltathatóságáról is szólt.",
-    "title_ro": "Fritz cere explicații despre anularea alegerilor prezidențiale",
-    "lead_ro": "Dominic Fritz, președintele USR, a criticat raportul realizat de AUR despre anularea alegerilor prezidențiale din 2024 și i-a cerut președintelui Nicușor Dan clarificări. El susține că motivele deciziei și renumărarea voturilor care a precedat-o nu au fost lămurite suficient.",
-    "content_ro": "• **AUR și-a prezentat luni seară propriul raport despre anularea scrutinului prezidențial.** Dominic Fritz a descris inițiativa drept o acțiune de imagine a partidului, dar a susținut că documentul nu răspunde întrebărilor privind hotărârea de anulare.\n\n• **Fritz afirmă că, la aproape doi ani de la alegerile din 2024, circumstanțele anulării nu sunt încă explicate.** El a amintit că Elena Lasconi, candidata USR, ajunsese în turul al doilea și a subliniat că măsura a afectat voturile tuturor alegătorilor.\n\n• **Liderul USR a contestat și renumărarea tuturor voturilor, desfășurată înaintea anulării.** În opinia sa, aceasta ar fi urmărit să limiteze creșterea electorală a USR înaintea alegerilor parlamentare. Fritz a evocат și discuțiile din ultima săptămână de campanie despre posibilitatea ca Marcel Ciolacu să o înlocuiască pe Lasconi în turul al doilea.\n\n• **Fritz i-a cerut președintelui Nicușor Dan și instituțiilor implicate să ofere informații concrete.** El solicită să se precizeze cine a luat deciziile, când și pe ce bază, ce instituții au greșit și ce urmări există. Totodată, a criticat menținerea conducerii SRI într-o formulă interimară.\n\n• **George Simion i-a cerut lui Fritz, în cadrul conferinței de presă, să prezinte un raport propriu al USR.** Schimbul de replici a adus în discuție atât documentul AUR, cât și transparența deciziilor autorităților și răspunderea pentru modul în care s-a desfășurat procesul electoral din 2024.",
-    "importance_score": 63.0,
-    "top_rank": 21,
+    "published_at": 1795459810,
+    "title_hu": "Orosz kiberkémkedési akció érintett egy román kormányzati intézményt",
+    "lead_hu": "A román hírszerzés 2025 decemberében észlelt egy, kormányzati levelezést célzó kibertámadást, amely NATO- és uniós kapcsolattartást is érintett. Az ESET a műveletet a Turla csoporthoz kötötte; az adatkivitel nem igazolt, de nem zárható ki.",
+    "content_hu": "• **A támadás kormányzati levelezést célzott:** A román SRI szerint a Nemzeti Cyberint Központ 2025 decemberében fedezte fel az akciót. Egy román intézmény elektronikus kommunikációja is érintett volt, beleértve a NATO-val és az Európai Unióval folytatott levelezést.\n\n• **A SRI intézkedett a behatolás megállítására:** A szolgálat tájékoztatása szerint a támadók Microsoft-rendszerek sérülékenységeit használták ki. A Cyberint beavatkozása után leállították a műveletet, és megkezdődött a következmények helyreállítása.\n\n• **Az ESET a Turla csoportnak tulajdonította az akciót:** Robert Lipovský kutató szerint a csoportot az orosz Szövetségi Biztonsági Szolgálattal hozzák összefüggésbe. Az elemzők által azonosított kártevő eszközök összetettek; a Turla a fejlett, állami hátterű csoportok között is kiemelkedő technikai képességekkel rendelkezik.\n\n• **A támadók hozzáfértek egy Exchange-kiszolgálóhoz:** Az ESET nem tudta feltárni, miként szerezték meg a kezdeti hozzáférést. Mivel az ilyen levelezőszerverek interneten keresztül is elérhetők, egy sérülékenység kihasználása lehetséges magyarázat, de erre az adott esetben nem találtak bizonyítékot.\n\n• **Az adatok esetleges megszerzése továbbra sem tisztázott:** A SRI nem észlelt adatküldést a rendszerekből, az ESET viszont nem tudta kizárni az információk kimásolását. Lipovský arra is felhívta a figyelmet, hogy Románia ismétlődően kiberkémkedési műveletek célpontja.",
+    "title_ro": "O operațiune de spionaj cibernetic rusesc a vizat o instituție guvernamentală din România",
+    "lead_ro": "Serviciul Român de Informații a detectat în decembrie 2025 un atac cibernetic care a vizat corespondența unei instituții guvernamentale, inclusiv comunicarea cu NATO și Uniunea Europeană. ESET a asociat operațiunea cu gruparea Turla; exfiltrarea datelor nu a fost confirmată, dar nici exclusă.",
+    "content_ro": "• **Atacul a vizat corespondența unei instituții guvernamentale:** Potrivit SRI, Centrul Național Cyberint a descoperit operațiunea în decembrie 2025. A fost afectată comunicarea electronică a unei instituții din România, inclusiv corespondența cu NATO și Uniunea Europeană.\n\n• **SRI a intervenit pentru a opri intruziunea:** Serviciul a anunțat că atacatorii au exploatat vulnerabilități ale sistemelor Microsoft. După intervenția Cyberint, operațiunea a fost oprită, iar autoritățile au început remedierea efectelor.\n\n• **ESET a atribuit operațiunea grupării Turla:** Cercetătorul Robert Lipovský a precizat că gruparea este asociată cu Serviciul Federal de Securitate al Rusiei. Instrumentele malițioase identificate sunt complexe, iar Turla se numără printre grupările avansate cu capacități tehnice remarcabile.\n\n• **Atacatorii au compromis un server Exchange:** ESET nu a stabilit metoda prin care aceștia au obținut accesul inițial. Aceste servere pot fi accesate prin internet, astfel că exploatarea unei vulnerabilități este o explicație posibilă, însă nu au fost găsite dovezi că aceasta s-a produs în acest caz.\n\n• **Nu este clar dacă au fost copiate informații:** SRI nu a identificat transferuri de date în afara sistemelor, dar ESET nu a putut exclude posibilitatea copierii unor informații. Lipovský a mai avertizat că România este vizată în mod repetat de operațiuni de spionaj cibernetic.",
+    "importance_score": 68.0,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1923,7 +1870,7 @@
     "lead_ro": "Volodimir Zelenski a cerut, la reuniunea Adunării Parlamentare a NATO de la Berlin, discuții rapide la care să participe Ucraina, Europa, Statele Unite și Rusia. Noile informații arată că a fost conturată o formulă pentru reprezentarea europeană, însă Moscova nu a acceptat includerea aliaților Kievului la negocieri.",
     "content_ro": "• **Zelenski insistă asupra unei reuniuni în patru.** Președintele ucrainean a intervenit luni prin videoconferință la reuniunea de la Berlin a Adunării Parlamentare a NATO. Kievul este pregătit să participe, iar partenerii au luat în calcul o întâlnire înainte de Crăciun; Zelenski speră ca aceasta să aibă loc mai devreme.\n\n• **Șase reprezentanți europeni ar urma să participe.** La discuțiile de la Dublin au fost indicate Germania, Franța, Italia, Polonia, Regatul Unit și instituțiile Uniunii Europene. Rusia s-a opus până acum prezenței aliaților europeni ai Kievului la negocierile mediate de SUA. Vladimir Putin a invitat reprezentanți ai UE la Moscova pentru o discuție separată, fără să accepte însă participarea lor la următoarele runde de negocieri.\n\n• **Ucraina își menține obiectivul aderării la NATO.** Zelenski consideră că o armată ucraineană puternică ar spori capacitatea Alianței. Secretarul general Mark Rutte a spus că statele membre nu au ajuns la un acord privind aderarea, dar niciun actor din afara NATO nu ar trebui să decidă cine poate deveni membru.\n\n• **Kievul cere detalii concrete despre protecția de după război.** Zelenski vrea să afle ce țări ar interveni în cazul unui nou atac, ce măsuri ar lua, dacă militari străini ar fi desfășurați din timp, care ar fi costurile și dacă sistemul ar funcționa în practică. Washingtonul a luat în calcul o apărare comparabilă cu sprijinul prevăzut de articolul 5, însă Moscova se opune și acestor garanții.\n\n• **Ucraina oferă NATO experiența acumulată pe câmpul de luptă.** Kievul propune să împărtășească lecțiile rezultate din operațiunile terestre, maritime și aeriene și să le integreze în experiența comună a Alianței.",
     "importance_score": 63.0,
-    "top_rank": 22,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1981,7 +1928,7 @@
     "lead_ro": "Din 23 noiembrie, temperaturile scad, iar precipitațiile și vântul afectează mai multe regiuni ale României; la munte sunt posibile viscole. În următoarele două săptămâni, o încălzire temporară ar putea fi urmată de o nouă răcire, iar în weekend ar putea ninge și în București.",
     "content_ro": "• **Un ciclon format în Marea Adriatică influențează vremea:** ANM prognozează o răcire accentuată pe 23 și 24 noiembrie, mai întâi în nord, apoi și în sud. Temperaturile vor coborî sub mediile specifice perioadei în cea mai mare parte a țării.\n\n• **Sunt așteptate precipitații mixte și rafale puternice:** va ninge în zonele montane și în nordul Moldovei; în Maramureș, Transilvania și zonele deluroase, ploaia poate deveni lapoviță și ninsoare. În rest sunt mai probabile ploile. Stratul de zăpadă poate atinge 10–20 de centimetri la munte și, local, 2–6 centimetri în zonele deluroase din centru și nord. Vântul poate sufla cu 40–60 km/h, iar la altitudine rafalele pot depăși 80–100 km/h.\n\n• **Avertizările de viscol vizează sectoare din Carpați:** în Carpații Occidentali, Meridionali și de Curbură sunt anunțate ninsori și intensificări ale vântului. La peste 1.700 de metri, în Carpații Meridionali și de Curbură, este cod portocaliu, cu rafale de 100–120 km/h.\n\n• **Ninsoarea a afectat deja circulația pe unele drumuri:** în Pasul Tihuța, zăpada viscolită a redus vizibilitatea, iar condiții dificile au fost semnalate și pe DN17. Traficul a fost închis pe 18 kilometri ai Transalpinei, între Obârșia Lotrului și Curpăt. Autoritățile le recomandă șoferilor să folosească anvelope de iarnă și să conducă prudent.\n\n• **După o încălzire de scurtă durată, vremea se poate răci din nou:** în Crișana și Banat, maximele ar putea ajunge la 7–8 grade spre sfârșitul săptămânii, apoi sunt prognozate valori mai mici; la Satu Mare, pentru 24 noiembrie erau estimate cel mult 2 grade. La finalul intervalului, în Transilvania sunt posibile temperaturi de circa 0 grade ziua și minus 6 noaptea. Precipitații mai însemnate sunt posibile în jurul datelor de 28–29 noiembrie, iar în weekend ar putea ninge în București.",
     "importance_score": 63.0,
-    "top_rank": 23,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2039,56 +1986,7 @@
     "lead_ro": "Circulația pe DN67C, între Obârșia Lotrului și Curpăt, a fost oprită pe 23 noiembrie, de la ora 10:30. Restricția a fost impusă din cauza ninsorilor abundente și va rămâne în vigoare până când vremea se va îmbunătăți.",
     "content_ro": "• **Închiderea DN67C a intrat în vigoare pe 23 noiembrie, la ora 10:30.** Măsura se aplică pe cei 18 kilometri dintre Obârșia Lotrului și Curpăt, de la kilometrul 61+000 până la kilometrul 79+000. Ninsorile abundente și vremea nefavorabilă au determinat oprirea traficului.\n\n• **Reluarea circulației depinde de ameliorarea condițiilor meteo.** Administratorul drumului a motivat restricția prin necesitatea protejării participanților la trafic. Lucrările de deszăpezire vor continua după încetarea ninsorii, când intervenția se va putea desfășura în condiții de siguranță.\n\n• **Lipsa semnalului GSM face dificilă solicitarea ajutorului în cazul unei înzăpeziri.** Sectorul este șerpuit și are pante accentuate, iar un vehicul rămas blocat în zăpadă ar putea pune ocupanții într-o situație riscantă. Autoritățile au indicat că pericolul ca mașinile să rămână imobilizate este ridicat.\n\n• **Pe porțiunea închisă nu se află locuințe sau alte clădiri locuite.** Drumul este încadrat în clasa a IV-a de viabilitate, potrivit administratorului, iar restricția rămâne aplicată până la schimbarea condițiilor care au făcut deplasarea nesigură.\n\n• **Ninsoarea a depus un strat consistent și în zonele înalte ale Transfăgărășanului.** Informațiile publicate indică până la 15 centimetri de zăpadă în unele regiuni montane. Intervențiile pentru deszăpezire pe tronsonul închis vor fi reluate când vremea va permite desfășurarea lor în siguranță.",
     "importance_score": 63.0,
-    "top_rank": 24,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_31702b54e5",
-    "slug": "november-2329-szakmai-fordulatok-es-lehetosegek-a-horoszkopban-31702b",
-    "tags": [
-      "horoscop",
-      "ikrek",
-      "munkahely",
-      "asztrologia",
-      "penzugyek"
-    ],
-    "fingerprint": "81e4511f3057d9e4540bd4e12f5dca6e",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 4,
-    "sources": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Horoscop săptămâna 23–29 noiembrie 2026. Provocări și oportunități în carieră pentru patru zodii",
-        "link": "https://stirileprotv.ro/divers/horoscop-saptamana-23-29-noiembrie-2026-provocari-si-oportunitati-in-cariera-pentru-patru-zodii.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Decizii grele. Horoscop 24 noiembrie 2026: o zodie e prinsă între două variante",
-        "link": "https://www.mediafax.ro/horoscop/decizii-grele-horoscop-24-noiembrie-2026-o-zodie-e-prinsa-intre-doua-variante-23848192"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Horoscop 24 noiembrie 2026. Schimbări neașteptate pentru zodii: tensiuni în iubire și avertismente legate de bani",
-        "link": "https://adevarul.ro/stil-de-viata/horoscop/horoscop-24-noiembrie-2026-schimbari-neasteptate-2573875.html"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Horoscop luni, 23 noiembrie. Peștii trec printr-un carusel emoțional, iar o zodie are șanse să avanseze în carieră",
-        "link": "https://adevarul.ro/stil-de-viata/horoscop/horoscop-luni-23-noiembrie-pestii-trec-printr-un-2573533.html"
-      }
-    ],
-    "published_at": 1795470829,
-    "title_hu": "November 23–29.: szakmai fordulatok és lehetőségek a horoszkópban",
-    "lead_hu": "A november 23-i napi előrejelzés megfontoltságot, odafigyelést és pénzügyi óvatosságot javasol. A november 23–29-i heti horoszkóp az Ikrek számára munkával kapcsolatos lezárásokat és döntéseket vetít előre, a hét végére pedig kedvezőbb szakmai és anyagi fejleményeket jelez.",
-    "content_hu": "• **A november 23-i előrejelzés türelmet és önvizsgálatot ajánl.** A változó helyzetekben hasznos lehet újragondolni a fontossági sorrendet, és nyíltan tisztázni a lényeges kérdéseket.\n\n• **A kapcsolatokban a figyelmes jelenlét és az egyenes beszéd kerülhet előtérbe.** A közeli hozzátartozók támogatása, a kisebb gesztusok és a személyes igények világos megfogalmazása segíthet, miközben bizonyos helyzetekben nézeteltérés is kialakulhat.\n\n• **A horoszkóp óvatosságot javasol pénzügyi és fizikai terhelés esetén.** Vásárlás előtt érdemes lehet más véleményét is kikérni, a megtakarítások felhasználását pedig alaposan mérlegelni. A pihenés és a hirtelen, nagy megterhelés elkerülése szintén szóba kerül.\n\n• **November 24-én az Ikrek teliholdja munkahelyi híreket és tisztázó beszélgetéseket hozhat.** A már korábban megkezdett egyeztetések lezárulhatnak, egy együttműködés iránya világosabbá válhat, az Ikrek pedig befejezhetnek egy nehéz feladatot vagy dönthetnek idejük és energiájuk beosztásáról. Az elmúlt hónapok munkája ekkor válhat láthatóbbá.\n\n• **November 25-én váratlan változások, a hét vége felé pedig kedvezőbb szakmai kilátások következhetnek.** A Nap és az Uránusz szembenállása felboríthatja a terveket, illetve meglepő reakciót hozhat egy munkatárstól vagy üzleti partnertől; az Ikrek emiatt egy számukra már kedvezőtlen megállapodást is felülvizsgálhatnak. A Vénusz és a Jupiter harmonikus kapcsolata a hét végén ösztönözheti az új kezdeményezéseket, a hasznos tárgyalásokat és a bevételt növelő ajánlatokat.",
-    "title_ro": "23–29 noiembrie: schimbări profesionale și noi oportunități în horoscop",
-    "lead_ro": "Horoscopul pentru 23 noiembrie recomandă prudență, atenție în relații și cumpătare financiară. Pentru săptămâna 23–29 noiembrie, previziunile indică în cazul Gemenilor încheieri și decizii legate de muncă, iar finalul intervalului ar putea aduce perspective profesionale și materiale mai bune.",
-    "content_ro": "• **Previziunile pentru 23 noiembrie recomandă răbdare și reflecție.** Într-un context schimbător, poate fi utilă reevaluarea priorităților și clarificarea deschisă a problemelor importante.\n\n• **În relațiile personale pot conta atenția și comunicarea directă.** Sprijinul acordat celor apropiați, gesturile mărunte și exprimarea limpede a propriilor nevoi pot ajuta, deși unele situații pot genera și tensiuni.\n\n• **Horoscopul sugerează prudență în privința banilor și a efortului fizic.** Înaintea unei achiziții, poate fi folositoare o altă opinie, iar folosirea economiilor merită analizată atent. Sunt recomandate și odihna, precum și evitarea solicitărilor bruște și intense.\n\n• **Luna Plină în Gemeni din 24 noiembrie poate aduce vești și discuții de clarificare la serviciu.** Negocierile începute anterior s-ar putea încheia, iar direcția unor colaborări ar putea deveni mai limpede. Gemenii pot finaliza o sarcină dificilă sau pot decide cum își împart timpul și energia; eforturile din lunile precedente ar putea deveni mai vizibile în această perioadă.\n\n• **Schimbările neașteptate pot apărea pe 25 noiembrie, iar finalul săptămânii este descris mai favorabil profesional.** Opoziția Soare–Uranus poate modifica programul ori poate aduce reacții surprinzătoare din partea unui coleg sau colaborator. Gemenii ar putea reconsidera un acord care nu le mai este avantajos. Spre sfârșitul săptămânii, aspectul armonios Venus–Jupiter poate susține inițiative profesionale, negocieri constructive și propuneri cu potențial de creștere a veniturilor.",
-    "importance_score": 60.0,
-    "top_rank": 25,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2147,7 +2045,7 @@
     "lead_ro": "Sorin Grindeanu îl așteaptă în această săptămână pe ministrul Finanțelor, Alexandru Nazare, să prezinte situația actualizată a finanțelor publice. După raport, ar urma discuții despre a doua rectificare bugetară și bugetul pentru 2027; reducerea TVA sau a taxării muncii ar putea fi analizată în cadrul dezbaterilor bugetare.",
     "content_ro": "• **Raportul financiar este așteptat în această săptămână.** Sorin Grindeanu, liderul PSD, a spus că Alexandru Nazare va prezenta datele solicitate despre situația finanțelor publice. Sursele indică zile diferite pentru raportare: una menționează 30 octombrie, iar cealaltă 31 octombrie.\n\n• **A doua rectificare bugetară ar urma să fie discutată după prezentarea datelor.** Grindeanu a precizat că raportul va preceda consultările pe această temă. Potrivit acestuia, termenul legal impune ca rectificarea să fie făcută cel târziu săptămâna viitoare.\n\n• **Pregătirea bugetului pentru 2027 ar începe în paralel cu aceste discuții.** Liderul PSD a spus că proiectul ar putea fi elaborat în acest an, ținând cont și de opiniile sindicatelor și ale organizațiilor patronale.\n\n• **Reducerea TVA și a taxării muncii sunt variante de analizat în dezbaterea bugetară.** Întrebarea privind taxarea muncii a inclus și posibilitatea unei măsuri pentru salariul minim. Grindeanu nu a indicat ce soluție ar prefera și a legat decizia de datele financiare și de discuțiile pentru bugetul pe 2027, care ar urma să continue în săptămânile următoare.",
     "importance_score": 60.0,
-    "top_rank": 26,
+    "top_rank": 24,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2206,7 +2104,7 @@
     "lead_ro": "O leoaică a fost observată duminică seara în Uskumruköy, iar camerele de supraveghere au surprins-o ulterior. Autoritățile o caută într-o zonă împădurită; încercarea de capturare cu tranchilizant, desfășurată luni la prânz, nu a reușit.",
     "content_ro": "• **Animalul a fost văzut duminică seara în Uskumruköy:** un locuitor din zona nordică, împădurită, a districtului Sarıyer a alertat autoritățile. Martorul a spus că a pornit cu mașina după ce au apărut informații despre leu, iar animalul i-a traversat brusc calea. Prezența acestuia a fost surprinsă și de camerele de supraveghere.\n\n• **Căutările se concentrează într-o zonă împădurită:** la operațiune participă jandarmi și echipe specializate în fauna sălbatică. Zona este verificată inclusiv cu drone dotate cu camere termice, iar medici veterinari contribuie la intervenție. Echipele încearcă să restrângă treptat perimetrul cercetat.\n\n• **Tentativa de tranchilizare a eșuat luni:** în jurul prânzului, echipele au încercat să captureze leoaica folosind un tranchilizant, însă fără rezultat. Căutările au continuat în cursul zilei. Biroul guvernatorului a transmis că autoritățile urmăresc să prindă animalul în viață.\n\n• **Locuitorii au fost îndemnați să rămână în case:** primarul districtului Sarıyer, Oktay Aksu, a cerut oamenilor din zonă să se protejeze și să nu îngreuneze intervenția. Locul unde a fost semnalat animalul este frecventat și de familii cu copii.\n\n• **Originea leoaicei nu este cunoscută:** autoritățile nu au identificat proprietarul și nici modul în care animalul a ajuns în libertate. Aksu a menționat că leoaica a trecut pe lângă găini fără să le atace și a sugerat că ar putea fi domesticită. În Turcia, deținerea privată a animalelor sălbatice este interzisă.",
     "importance_score": 60.0,
-    "top_rank": 27,
+    "top_rank": 25,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2265,7 +2163,7 @@
     "lead_ro": "Surse familiarizate cu rapoarte americane de informații afirmă că Alice Huang a păstrat legătura cu un oficial al securității de stat chineze din primăvara lui 2025 până în toamna lui 2026. O investigație Financial Times descrie o rețea de intermediari și companii din Cambodgia implicată în presupusa livrare de cipuri Nvidia către China, iar posibilele încălcări sunt în continuare cercetate.",
     "content_ro": "• **Perioada contactelor și acuzațiile** – Potrivit unei relatări Reuters bazate pe informații din rapoarte americane, Alice Huang ar fi comunicat cu un reprezentant al serviciilor chineze din primăvara anului 2025 până în toamna lui 2026. Intervalul s-ar suprapune cu relația ei cu Jensen Huang. Nu se știe dacă a transmis date confidențiale, iar autoritățile SUA nu au stabilit că ar fi spionat. Beijingul a respins acuzația că ar fi lucrat ca agentă, calificând-o drept calomnie.\n\n• **Megaspeed este investigată din 2024** – Autoritățile americane verifică dacă firma din Singapore a contribuit la transferul în China al unor procesoare Nvidia avansate. Compania a cumpărat anterior cipuri în valoare de ordinul miliardelor de dolari, iar Alice Huang a ocupat în trecut o funcție de conducere în cadrul ei.\n\n• **Rețeaua descrisă de Financial Times** – Publicația a discutat cu peste o duzină de persoane care cunoșteau mecanismul și a analizat sute de documente corporative. Investigația leagă de circuit furnizori de servicii cloud, companii cunoscute din jocurile online, intermediari cambodgieni și sute de firme-paravan; în rețea ar fi fost implicat și un grup infracțional prezumtiv din Cambodgia.\n\n• **Dimensiunea și contextul comerțului** – Conform investigației, operațiunile prin intermediari ar fi generat venituri de ordinul miliardelor, iar unii participanți este posibil să nu fi cunoscut întreaga schemă. Relatarea arată că restricțiile americane la export au contribuit la dezvoltarea unei piețe negre care răspundea cererii chineze. Beijingul consideră obținerea cipurilor AI avansate o miză strategică.\n\n• **Alte persoane și reacțiile oficiale** – Wall Street Journal a relatat că Li Ming, cetățean chinez, participa la deciziile importante ale Megaspeed. O informație atribuită de New York Times unor surse din serviciile de informații îl leagă de acestea și pe Kang Wei, partener de afaceri al lui Huang. Directorul național al informațiilor, Jay Clayton, a confirmat ancheta privind firma și Huang; secretarul Trezoreriei, Scott Bessent, a cerut explicații despre vânzările Nvidia către China. O relatare anterioară susține că Donald Trump a fost informat despre aceste date în toamna lui 2025.",
     "importance_score": 60.0,
-    "top_rank": 28,
+    "top_rank": 26,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2323,7 +2221,7 @@
     "lead_ro": "Serviciul meteorologic din România a emis avertizări pentru viscol și vânt puternic, care vizează peste jumătate din țară și mai multe zone montane. Marți, ninsoarea viscolită poate continua în Carpații Meridionali și, local, în Carpații Orientali.",
     "content_ro": "• **De luni dimineață până marți în zori sunt în vigoare avertizări galbene pentru mai multe zone montane.** În Carpații Occidentali, Meridionali și de Curbură se pot depune 5–10 centimetri de zăpadă, iar rafalele de 60–90 km/h pot spulbera ninsoarea.\n\n• **La peste 1.700 de metri, în Carpații Meridionali și cei de Curbură, este anunțat cod portocaliu.** Rafalele pot atinge 100–120 km/h, iar vizibilitatea poate coborî sub 50 de metri.\n\n• **Luni, vântul se intensifică și în mai mult de jumătate din țară, în afara zonelor montane.** Sunt vizate vestul și sudul Olteniei, sud-vestul și estul Munteniei, cea mai mare parte a Transilvaniei, centrul și sudul Moldovei și Dobrogea. Rafalele pot ajunge la 50–70 km/h.\n\n• **Marți, între orele 2:00 și 10:00, sunt anunțate noi avertizări montane.** În Carpații Meridionali și de Curbură, ninsoarea poate fi însoțită de vânt de 60–90 km/h, iar pentru zonele de peste 1.700 de metri este valabil cod portocaliu.\n\n• **Viscolul poate continua marți între orele 10:00 și 20:00 în zonele montane.** Codul galben vizează Carpații Meridionali și, local, Carpații Orientali, unde vântul poate viscoli ninsoarea cu viteze de 60–90 km/h. În ansamblu, avertizările sunt valabile până marți seara.",
     "importance_score": 60.0,
-    "top_rank": 29,
+    "top_rank": 27,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2376,7 +2274,7 @@
     "lead_ro": "Ludovic Orban a calificat drept demers politic documentul AUR despre anularea alegerilor prezidențiale din 2024. El îi cere lui Nicușor Dan să precizeze dacă raportul anunțat anterior există și, în caz afirmativ, să îl facă public cât mai curând.",
     "content_ro": "• **Orban a criticat luni seară, la Digi24, documentul AUR:** partidul a prezentat în Parlament un material de 432 de pagini despre anularea scrutinului prezidențial din 2024. Fostul premier îl consideră o acțiune de comunicare politică și nu îi atribuie valoare probatorie relevantă.\n\n• **El a legat momentul prezentării de plasarea lui Călin Georgescu în arest la domiciliu.** Decizia instanței a fost luată în aceeași zi, iar Orban a sugerat că această coincidență a avut o miză politică. Interpretarea îi aparține liderului Forța Dreptei.\n\n• **Sprijinul lui George Simion pentru Georgescu a fost explicat prin calcule electorale.** Orban estimează că o parte importantă a susținătorilor AUR provine din rândul celor care îl sprijineau pe Georgescu și că gestul lui Simion putea urmări extinderea bazei partidului. Aceasta este evaluarea sa politică.\n\n• **Orban i-a cerut președintelui să lămurească dacă raportul promis există.** În opinia sa, anunțarea unui document fără baza necesară poate favoriza propagarea mesajelor rusești în România. Dacă raportul este disponibil, el solicită publicarea rapidă a acestuia.\n\n• **În 2025, Orban a fost pentru scurt timp consilier prezidențial pentru politică internă.** A plecat la o lună de la numire, în termeni amiabili. Surse politice citate de presă au asociat plecarea cu divergențe privind politica internă.",
     "importance_score": 58.0,
-    "top_rank": 30,
+    "top_rank": 28,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2429,7 +2327,60 @@
     "lead_ro": "PSD analizează posibilitatea unui referendum național privind reforma administrativ-teritorială, a cărei aplicare este prevăzută pentru 2028. Dragoș Benea spune că schimbarea ar putea viza consiliile județene, nu dispariția județelor, iar actele de identitate ar urma să fie protejate prin reguli tranzitorii.",
     "content_ro": "• **Referendumul este, deocamdată, doar o ipoteză.** Dragoș Benea, coordonatorul grupului de lucru al PSD, a indicat primăvara anului viitor ca posibil moment pentru consultarea națională, fără ca organizarea să fie decisă. El a precizat că subiectul nu a fost discutat în reuniunea conducerii partidului. În opinia sa, voturile organizate separat în numeroase localități ar costa mult și ar întârzia reforma; un rezultat negativ ar închide, din perspectiva sa, discuția.\n\n• **Sunt analizate între 8 și 15 unități administrative mai mari.** Varianta cu opt structuri, după modelul regiunilor de dezvoltare, i se pare lui Benea insuficientă. Un criteriu avut în vedere este ca populația fiecărei unități să se apropie de un milion de locuitori. Harta finală nu a fost stabilită, iar aplicarea reformei este planificată pentru 2028.\n\n• **Reorganizarea ar putea schimba consiliile și funcțiile județene.** Potrivit lui Benea, reforma nu presupune neapărat desființarea județelor, ci ar putea elimina sau modifica unele consilii județene și posturile de președinte, vicepreședinte și consilier. Păstrarea denumirilor actuale ale județelor este, de asemenea, luată în calcul.\n\n• **Planul folosește criterii demografice și administrative.** Grupul analizează populația, sustenabilitatea economică, capacitatea administrativă, conexiunile, accesibilitatea și serviciile publice. Pentru reorganizarea comunelor au fost făcute simulări cu praguri de 3.000 și 4.000 de locuitori, fiind menționată și posibilitatea unui nivel de 2.500. Sunt evaluate și orașele mici, precum și stațiunile balneare.\n\n• **Actele existente ar rămâne utilizabile o perioadă de tranziție.** Benea a spus că noile reguli ar permite folosirea documentelor de identitate cu datele vechi până la expirarea lor, evitând înlocuirea imediată. Înainte de reformă, administrația ar trebui să accelereze digitalizarea, inclusiv a documentelor și arhivelor primăriilor.",
     "importance_score": 58.0,
-    "top_rank": 31,
+    "top_rank": 29,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_3e4602c60d",
+    "slug": "fritz-magyarazatokat-surget-az-elnkvalasztas-ervenyteleniteserol-3e4602",
+    "tags": [
+      "alegeri-prezidentiale",
+      "usr",
+      "aur",
+      "dominic-fritz"
+    ],
+    "fingerprint": "14a62dfb47aaf4936c3c3e60d59a32f8",
+    "category": "Politika",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 5,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Fritz, reacție la raportul AUR privind anularea alegerilor: ”Încă o schemă de marketing” / ”Tăcerea lentă a Președintelui este pământul fertil pe care grădinarul-șef George Simion crește teoriile conspiraționiste”",
+        "link": "https://www.g4media.ro/fritz-reactie-la-raportul-aur-privind-anularea-alegerilor-inca-o-schema-de-marketing-tacerea-lenta-a-presedintelui-este-pamantul-fertil-pe-care-gradinarul-sef-george-sim.html"
+      },
+      {
+        "source": "Digi24",
+        "title": "Dominic Fritz critică raportul AUR privind alegerile anulate: „Încă o schemă de marketing”",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/dominic-fritz-critica-raportul-aur-privind-alegerile-anulate-inca-o-schema-de-marketing-4049781"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Dominic Fritz critică „tăcerea” lui Nicușor Dan după ce AUR și-a prezentat propriul raport privind anularea alegerilor",
+        "link": "https://hotnews.ro/dominic-fritz-critica-tacerea-lui-nicusor-dan-dupa-ce-aur-si-a-prezentat-propriul-raport-privind-anularea-alegerilor-2412048"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Schimb dur de replici între Dominic Fritz și George Simion pe tema alegerilor anulate. Ce-i reproșează liderul USR lui Nicușor Dan",
+        "link": "https://adevarul.ro/politica/schimb-dur-de-replici-intre-dominic-fritz-si-2573844.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Dominic Fritz, atac la Nicușor Dan după raportul AUR privind anularea alegerilor. „Tăcerea lentă a Preşedintelui”",
+        "link": "https://stirileprotv.ro/stiri/politic/dominic-fritz-atac-la-nicusor-dan-dupa-raportul-aur-privind-anularea-alegerilor-tacerea-lenta-a-presedintelui.html"
+      }
+    ],
+    "published_at": 1795459822,
+    "title_hu": "Fritz magyarázatokat sürget az elnökválasztás érvénytelenítéséről",
+    "lead_hu": "Dominic Fritz, az USR elnöke bírálta az AUR saját jelentését a 2024-es elnökválasztás érvénytelenítéséről, és Nicușor Dan államfőtől is részletes tájékoztatást kért. Szerinte a döntés körülményei és az azt megelőző szavazatszámlálás máig tisztázatlanok.",
+    "content_hu": "• **Az AUR hétfő esti sajtótájékoztatóján ismertette a választás érvénytelenítéséről készített saját jelentését.** Fritz az eseményt pártpolitikai kommunikációs lépésnek nevezte, ugyanakkor azt mondta: a dokumentum nem oldja fel a döntéssel kapcsolatos kérdéseket.\n\n• **Fritz szerint közel két év elteltével sem világos, mi vezetett a 2024-es elnökválasztás érvénytelenítéséhez.** Felidézte, hogy az USR jelöltje, Elena Lasconi a második fordulóba jutott, és hangsúlyozta: a döntés minden választó szavazatát érintette.\n\n• **Az USR vezetője az érvénytelenítést megelőző, valamennyi szavazatra kiterjedő újraszámlálást is bírálta.** Állítása szerint annak célja az USR parlamenti választás előtti erősödésének megfékezése lehetett. A kampány utolsó hetében szerinte az a lehetőség is napirendre került, hogy Marcel Ciolacu Lasconi helyére kerülhet a második fordulóban.\n\n• **Fritz Nicușor Dan államfőtől és az illetékes intézményektől nyilvános, részletes magyarázatokat kért.** Azt szeretné tudni, kik és mikor hozták meg a döntéseket, milyen információk alapján, valamint mely szervek mulasztottak és milyen következményekkel. Bírálta a SRI vezetésének elhúzódó ideiglenes állapotát is.\n\n• **George Simion, az AUR elnöke a sajtótájékoztatón arra szólította fel Fritzet, hogy mutassa be az USR saját jelentését.** A vita így az AUR dokumentumának tartalma mellett az állami döntéshozatal átláthatóságáról és a 2024-es választási folyamat elszámoltathatóságáról is szólt.",
+    "title_ro": "Fritz cere explicații despre anularea alegerilor prezidențiale",
+    "lead_ro": "Dominic Fritz, președintele USR, a criticat raportul realizat de AUR despre anularea alegerilor prezidențiale din 2024 și i-a cerut președintelui Nicușor Dan clarificări. El susține că motivele deciziei și renumărarea voturilor care a precedat-o nu au fost lămurite suficient.",
+    "content_ro": "• **AUR și-a prezentat luni seară propriul raport despre anularea scrutinului prezidențial.** Dominic Fritz a descris inițiativa drept o acțiune de imagine a partidului, dar a susținut că documentul nu răspunde întrebărilor privind hotărârea de anulare.\n\n• **Fritz afirmă că, la aproape doi ani de la alegerile din 2024, circumstanțele anulării nu sunt încă explicate.** El a amintit că Elena Lasconi, candidata USR, ajunsese în turul al doilea și a subliniat că măsura a afectat voturile tuturor alegătorilor.\n\n• **Liderul USR a contestat și renumărarea tuturor voturilor, desfășurată înaintea anulării.** În opinia sa, aceasta ar fi urmărit să limiteze creșterea electorală a USR înaintea alegerilor parlamentare. Fritz a evocат și discuțiile din ultima săptămână de campanie despre posibilitatea ca Marcel Ciolacu să o înlocuiască pe Lasconi în turul al doilea.\n\n• **Fritz i-a cerut președintelui Nicușor Dan și instituțiilor implicate să ofere informații concrete.** El solicită să se precizeze cine a luat deciziile, când și pe ce bază, ce instituții au greșit și ce urmări există. Totodată, a criticat menținerea conducerii SRI într-o formulă interimară.\n\n• **George Simion i-a cerut lui Fritz, în cadrul conferinței de presă, să prezinte un raport propriu al USR.** Schimbul de replici a adus în discuție atât documentul AUR, cât și transparența deciziilor autorităților și răspunderea pentru modul în care s-a desfășurat procesul electoral din 2024.",
+    "importance_score": 58.0,
+    "top_rank": 30,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2482,6 +2433,55 @@
     "lead_ro": "Luni dimineață, în comuna Băiculești, un microbuz școlar s-a ciocnit cu o autoutilitară de marfă. Șoferul microbuzului și trei elevi au fost duși la spital pentru evaluare, iar poliția cercetează împrejurările accidentului.",
     "content_ro": "• **Accidentul s-a produs luni dimineață, în comuna Băiculești.** Echipaje de intervenție din județul Argeș au ajuns la locul coliziunii dintre un microbuz școlar și o autoutilitară care transporta marfă. Vehiculele circulau în aceeași direcție, pe traseul dintre Curtea de Argeș și Pitești.\n\n• **Conducătorul microbuzului și trei elevi au fost transportați la spital.** Bărbatul de 53 de ani a acuzat dureri la cap și la nivelul membrelor. Elevii au fost consultați, iar trei dintre ei au ajuns la spital după ce au semnalat dureri în aceleași zone.\n\n• **În microbuz se aflau 13 persoane, dintre care 12 elevi.** Pasagerii au așteptat sosirea echipajelor în incinta unei unități de învățământ. Informațiile disponibile indică faptul că evaluarea medicală a fost necesară pentru șofer și pentru cei trei copii transportați ulterior la spital.\n\n• **Autoutilitara condusă de un bărbat de 33 de ani a lovit microbuzul aflat în fața sa.** Testările cu aparatul etilotest nu au indicat consum de alcool în cazul niciunuia dintre șoferi. Polițiștii continuă verificările pentru a stabili cauza coliziunii.",
     "importance_score": 55.0,
+    "top_rank": 31,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_31702b54e5",
+    "slug": "november-2329-szakmai-fordulatok-es-lehetosegek-a-horoszkopban-31702b",
+    "tags": [
+      "horoscop",
+      "ikrek",
+      "munkahely",
+      "asztrologia",
+      "penzugyek"
+    ],
+    "fingerprint": "81e4511f3057d9e4540bd4e12f5dca6e",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 4,
+    "sources": [
+      {
+        "source": "ProTV Stiri",
+        "title": "Horoscop săptămâna 23–29 noiembrie 2026. Provocări și oportunități în carieră pentru patru zodii",
+        "link": "https://stirileprotv.ro/divers/horoscop-saptamana-23-29-noiembrie-2026-provocari-si-oportunitati-in-cariera-pentru-patru-zodii.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Decizii grele. Horoscop 24 noiembrie 2026: o zodie e prinsă între două variante",
+        "link": "https://www.mediafax.ro/horoscop/decizii-grele-horoscop-24-noiembrie-2026-o-zodie-e-prinsa-intre-doua-variante-23848192"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Horoscop 24 noiembrie 2026. Schimbări neașteptate pentru zodii: tensiuni în iubire și avertismente legate de bani",
+        "link": "https://adevarul.ro/stil-de-viata/horoscop/horoscop-24-noiembrie-2026-schimbari-neasteptate-2573875.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Horoscop luni, 23 noiembrie. Peștii trec printr-un carusel emoțional, iar o zodie are șanse să avanseze în carieră",
+        "link": "https://adevarul.ro/stil-de-viata/horoscop/horoscop-luni-23-noiembrie-pestii-trec-printr-un-2573533.html"
+      }
+    ],
+    "published_at": 1795470829,
+    "title_hu": "November 23–29.: szakmai fordulatok és lehetőségek a horoszkópban",
+    "lead_hu": "A november 23-i napi előrejelzés megfontoltságot, odafigyelést és pénzügyi óvatosságot javasol. A november 23–29-i heti horoszkóp az Ikrek számára munkával kapcsolatos lezárásokat és döntéseket vetít előre, a hét végére pedig kedvezőbb szakmai és anyagi fejleményeket jelez.",
+    "content_hu": "• **A november 23-i előrejelzés türelmet és önvizsgálatot ajánl.** A változó helyzetekben hasznos lehet újragondolni a fontossági sorrendet, és nyíltan tisztázni a lényeges kérdéseket.\n\n• **A kapcsolatokban a figyelmes jelenlét és az egyenes beszéd kerülhet előtérbe.** A közeli hozzátartozók támogatása, a kisebb gesztusok és a személyes igények világos megfogalmazása segíthet, miközben bizonyos helyzetekben nézeteltérés is kialakulhat.\n\n• **A horoszkóp óvatosságot javasol pénzügyi és fizikai terhelés esetén.** Vásárlás előtt érdemes lehet más véleményét is kikérni, a megtakarítások felhasználását pedig alaposan mérlegelni. A pihenés és a hirtelen, nagy megterhelés elkerülése szintén szóba kerül.\n\n• **November 24-én az Ikrek teliholdja munkahelyi híreket és tisztázó beszélgetéseket hozhat.** A már korábban megkezdett egyeztetések lezárulhatnak, egy együttműködés iránya világosabbá válhat, az Ikrek pedig befejezhetnek egy nehéz feladatot vagy dönthetnek idejük és energiájuk beosztásáról. Az elmúlt hónapok munkája ekkor válhat láthatóbbá.\n\n• **November 25-én váratlan változások, a hét vége felé pedig kedvezőbb szakmai kilátások következhetnek.** A Nap és az Uránusz szembenállása felboríthatja a terveket, illetve meglepő reakciót hozhat egy munkatárstól vagy üzleti partnertől; az Ikrek emiatt egy számukra már kedvezőtlen megállapodást is felülvizsgálhatnak. A Vénusz és a Jupiter harmonikus kapcsolata a hét végén ösztönözheti az új kezdeményezéseket, a hasznos tárgyalásokat és a bevételt növelő ajánlatokat.",
+    "title_ro": "23–29 noiembrie: schimbări profesionale și noi oportunități în horoscop",
+    "lead_ro": "Horoscopul pentru 23 noiembrie recomandă prudență, atenție în relații și cumpătare financiară. Pentru săptămâna 23–29 noiembrie, previziunile indică în cazul Gemenilor încheieri și decizii legate de muncă, iar finalul intervalului ar putea aduce perspective profesionale și materiale mai bune.",
+    "content_ro": "• **Previziunile pentru 23 noiembrie recomandă răbdare și reflecție.** Într-un context schimbător, poate fi utilă reevaluarea priorităților și clarificarea deschisă a problemelor importante.\n\n• **În relațiile personale pot conta atenția și comunicarea directă.** Sprijinul acordat celor apropiați, gesturile mărunte și exprimarea limpede a propriilor nevoi pot ajuta, deși unele situații pot genera și tensiuni.\n\n• **Horoscopul sugerează prudență în privința banilor și a efortului fizic.** Înaintea unei achiziții, poate fi folositoare o altă opinie, iar folosirea economiilor merită analizată atent. Sunt recomandate și odihna, precum și evitarea solicitărilor bruște și intense.\n\n• **Luna Plină în Gemeni din 24 noiembrie poate aduce vești și discuții de clarificare la serviciu.** Negocierile începute anterior s-ar putea încheia, iar direcția unor colaborări ar putea deveni mai limpede. Gemenii pot finaliza o sarcină dificilă sau pot decide cum își împart timpul și energia; eforturile din lunile precedente ar putea deveni mai vizibile în această perioadă.\n\n• **Schimbările neașteptate pot apărea pe 25 noiembrie, iar finalul săptămânii este descris mai favorabil profesional.** Opoziția Soare–Uranus poate modifica programul ori poate aduce reacții surprinzătoare din partea unui coleg sau colaborator. Gemenii ar putea reconsidera un acord care nu le mai este avantajos. Spre sfârșitul săptămânii, aspectul armonios Venus–Jupiter poate susține inițiative profesionale, negocieri constructive și propuneri cu potențial de creștere a veniturilor.",
+    "importance_score": 53.0,
     "top_rank": 32,
     "is_top_hero": false,
     "is_top_list": true
@@ -3615,49 +3615,6 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_1b80c352f9",
-    "slug": "visszapattano-lvedek-sebesitett-meg-egy-tuzoltot-egy-maros-megyei-loteren-1b80c3",
-    "tags": [
-      "mures",
-      "pompieri",
-      "poligon",
-      "ancheta"
-    ],
-    "fingerprint": "25a92b880492bbe47b87a85942522306",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Adevărul",
-        "title": "Pompier împuşcat în cap în timpul unor trageri într-un poligon din Mureş. A fost operat de urgenţă şi se află în stare foarte gravă",
-        "link": "https://adevarul.ro/stiri-interne/evenimente/pompier-impuscat-in-cap-in-timpul-unor-trageri-2573708.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Pompier din Mureș, împușcat în cap la poligon. A fost lovit de un glonț posibil ricoșat",
-        "link": "https://stirileprotv.ro/stiri/actualitate/pompier-din-mures-impuscat-in-cap-la-poligon-a-fost-lovit-de-un-glont-posibil-ricosat.html"
-      },
-      {
-        "source": "Cancan.ro",
-        "title": "Pompier din Mureș, împușcat la poligon! Bărbatul a fost operat de urgență și este în stare gravă",
-        "link": "https://www.cancan.ro/pompier-din-mures-impuscat-la-poligon-barbatul-a-fost-operat-de-urgenta-si-este-in-stare-grava-21552852"
-      }
-    ],
-    "published_at": 1795459706,
-    "title_hu": "Visszapattanó lövedék sebesített meg egy tűzoltót egy Maros megyei lőtéren",
-    "lead_hu": "Egy 44 éves tűzoltó súlyos fejsérülést szenvedett egy Orșova-Pădure-i lőtéren tartott lövészeten. A rendőrség gondatlanságból elkövetett testi sértés gyanújával vizsgálja az esetet, a lőtér működését felfüggesztették.",
-    "content_hu": "• **November 20-án egy 44 éves tűzoltó sérült meg** a Maros megyei Orșova-Pădure településen, egy Gurghiu községhez tartozó lőtéren. A Reghin közelében történt baleset idején a férfi szabadnapos volt; barátaival vett részt magánjellegű lövészeten. Egyik beszámoló szerint a Marosvásárhely-i tűzoltóegységnél dolgozik.\n\n• **A férfit a fején érte találat a lövészet során.** Az eddigi információk alapján egy lövedék visszapattanhatott, ám a pontos körülményeket még nem tisztázták. A sérültet a Maros megyei mentőszolgálat vitte kórházba, ahol sürgősségi műtétet hajtottak végre rajta.\n\n• **A kórházi állapotáról eltérő részletek jelentek meg.** Egyes tudósítások szerint intenzív osztályon, kritikus vagy nagyon súlyos állapotban ápolják, míg egy másik beszámoló stabilizálásról és idegsebészeti ellátásról számolt be. A közlések egyaránt megerősítik, hogy orvosi felügyelet alatt maradt.\n\n• **A rendőrség büntetőeljárást indított gondatlanságból elkövetett testi sértés miatt.** A fegyverekkel, robbanóanyagokkal és veszélyes anyagokkal foglalkozó rendőri egység azt próbálja megállapítani, hogyan következett be a visszapattanás, illetve melyik fegyverből származott a lövedék. A vizsgálatot a reghini ügyészség felügyeli.\n\n• **A lőtér működését a körülmények tisztázásáig felfüggesztették.** A hatóságok a biztonsági előírások betartását és a baleset teljes lefolyását is ellenőrzik. A vizsgálat lezárásáig a helyszín engedélye nem érvényes, illetve a lőtér zárva tart.",
-    "title_ro": "Un pompier a fost rănit la cap după un incident într-un poligon din Mureș",
-    "lead_ro": "Un pompier de 44 de ani a suferit o rană gravă la cap în timpul unei sesiuni de tragere organizate la Orșova-Pădure, în județul Mureș. Poliția cercetează cazul pentru vătămare corporală din culpă, iar activitatea poligonului a fost suspendată.",
-    "content_ro": "• **Incidentul s-a produs pe 20 noiembrie, la un poligon din Orșova-Pădure**, localitate din comuna Gurghiu, în apropiere de Reghin. Bărbatul rănit are 44 de ani și este pompier; una dintre relatări precizează că lucrează la detașamentul din Târgu Mureș. În ziua respectivă era liber și venise la poligon cu mai mulți prieteni pentru trageri private.\n\n• **Pompierul a fost lovit în zona capului în timpul tragerilor.** Informațiile preliminare indică posibilitatea ca proiectilul să fi ricoșat, însă ancheta urmează să stabilească exact succesiunea faptelor. Un echipaj al Serviciului de Ambulanță Județean Mureș l-a transportat la spital, unde medicii l-au operat de urgență.\n\n• **Relatările publicate nu oferă aceeași descriere a stării sale medicale.** Unele îl prezintă internat la Terapie Intensivă, în stare critică sau foarte gravă; o altă sursă menționează că starea i-a fost stabilizată și că se află la Neurochirurgie. Toate indică faptul că pacientul a rămas sub îngrijirea medicilor după intervenție.\n\n• **Polițiștii au deschis un dosar penal pentru vătămare corporală din culpă.** Verificările sunt desfășurate de structura specializată în arme, explozivi și substanțe periculoase, sub coordonarea Parchetului de pe lângă Judecătoria Reghin. Anchetatorii caută să afle cum s-a produs ricoșeul și din ce armă a provenit proiectilul.\n\n• **Funcționarea poligonului a fost oprită până la clarificarea cazului.** Autoritățile verifică împrejurările accidentului și respectarea măsurilor de siguranță. Suspendarea activității va rămâne în vigoare până când ancheta va lămuri condițiile în care s-a produs rănirea.",
-    "importance_score": 38.0,
-    "top_rank": 57,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
     "group_id": "group_cf73a1f872",
     "slug": "joe-kasper-pete-hegseth-tavozasat-surgeti-a-pentagon-elerol-cf73a1",
     "tags": [
@@ -3696,7 +3653,7 @@
     "lead_ro": "Joe Kasper, fostul șef de cabinet al lui Pete Hegseth, a cerut demisia secretarului Apărării într-un interviu acordat publicației Politico. El a criticat conducerea Pentagonului și gestionarea războiului din Iran, iar un oficial al departamentului a respins acuzațiile.",
     "content_ro": "• **Joe Kasper i-a cerut lui Hegseth să demisioneze.** Fostul său șef de cabinet a afirmat că secretarul a avut o capacitate limitată de a obține rezultate și a susținut că este momentul să plece. Kasper a ocupat această funcție în primele trei luni ale administrației Trump.\n\n• **Fostul colaborator a criticat modul de conducere a Pentagonului.** Într-un interviu de aproape o oră pentru Politico, el a contestat îndepărtarea unor comandanți de rang înalt, între care ofițeri superiori de culoare și femei. Kasper a mai susținut că Hegseth acordă prea multă atenție propriei imagini publice, în detrimentul instituției.\n\n• **Kasper a calificat drept deficitară gestionarea războiului din Iran.** El i-a reproșat ministrului și deteriorarea relațiilor cu Congresul. Totodată, a pus sub semnul întrebării concedierea unor angajați ai Pentagonului suspectați anterior că ar fi transmis informații presei: potrivit lui, nu există dovezi că aceștia ar fi oferit jurnaliștilor materiale fără autorizare.\n\n• **Un oficial al Departamentului Apărării a respins acuzațiile.** Reprezentantul instituției l-a descris pe Kasper drept un fost angajat nemulțumit și a contestat afirmațiile acestuia. Oficialul a declarat că Hegseth se concentrează pe refacerea capacității de luptă a armatei și pe sprijinirea militarilor.\n\n• **Donald Trump continuă să îl susțină pe Hegseth.** Digi24 a menționat sprijinul președintelui în contextul criticilor formulate de fostul șef de cabinet. Sursele nu indică o schimbare a poziției lui Trump față de secretarul Apărării.",
     "importance_score": 38.0,
-    "top_rank": 58,
+    "top_rank": 57,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3739,7 +3696,7 @@
     "lead_ro": "Înalta Curte de Casație și Justiție a lămurit cum se calculează indemnizația pentru creșterea copilului atunci când părintele obține venituri din proprietate intelectuală. La stabilirea sumei nu se mai aplică deducerea forfetară de 40% utilizată în scop fiscal.",
     "content_ro": "• **Înalta Curte de Casație și Justiție a pronunțat hotărârea la 23 noiembrie 2026**, clarificând calculul indemnizației pentru creșterea copilului în cazul veniturilor din drepturi de proprietate intelectuală. Decizia nr. 15 a soluționat o sesizare transmisă de Curtea de Apel Iași.\n\n• **Deducerea forfetară de 40% folosită la calculul fiscal nu reduce baza indemnizației.** Potrivit interpretării instanței, veniturile se iau în considerare fără această diminuare. Din suma respectivă se scad impozitul pe venit și, dacă este cazul, contribuțiile sociale obligatorii.\n\n• **Hotărârea îi privește pe părinții care câștigă bani din drepturi de proprietate intelectuală.** Printre profesiile care pot intra în această categorie se numără jurnaliștii, scriitorii, fotografii și artiștii. Prin urmare, decizia poate influența valoarea indemnizației familiilor ale căror venituri includ sume din drepturi de autor.\n\n• **Tratamentul fiscal și cel aplicat la calculul indemnizației nu sunt identice.** Pentru un venit brut de 5.000 de lei, deducerea forfetară de 40% înseamnă 2.000 de lei, iar baza impozabilă ajunge la 3.000 de lei. Pentru indemnizație, însă, nu se folosește această valoare diminuată prin deducere.\n\n• **La stabilirea indemnizației se pornește de la venitul brut, din care se scad numai taxele și contribuțiile relevante.** Interpretările anterioare puteau conduce la o bază mai mică, prin aplicarea deducerii forfetare. Clarificarea instanței înlătură această neconcordanță și poate duce la indemnizații mai mari pentru o parte dintre părinții vizați.",
     "importance_score": 38.0,
-    "top_rank": 59,
+    "top_rank": 58,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3782,7 +3739,7 @@
     "lead_ro": "Planul Ministerului Dezvoltării ar începe cu unificarea voluntară a unor unități administrativ-teritoriale cu cel mult 1.500 de locuitori. Economiile estimate pentru aparatul administrativ depășesc 250 de milioane de lei, însă calculul final depinde de numărul localităților care vor participa.",
     "content_ro": "• **Prima etapă a reformei vizează 429 de unități administrativ-teritoriale cu cel mult 1.500 de locuitori.** Potrivit ministrului Dezvoltării, posibilitatea unirii voluntare se adresează cu prioritate comunelor mici.\n\n• **Conform relatărilor, aproximativ 80–82% dintre localitățile vizate nu se mai pot susține financiar.** Ministrul a indicat situația dificilă a acestor comunități drept motiv pentru prioritizarea lor în proiect.\n\n• **Reducerea cheltuielilor aparatului administrativ ar putea depăși 250 de milioane de lei.** Suma este o estimare, nu un calcul final: impactul bugetar exact va putea fi stabilit după ce se va cunoaște numărul localităților care acceptă comasarea voluntară.\n\n• **Proiectul ordonanței de urgență privind unificarea a fost pus în transparență decizională.** Reprezentanții autorităților locale pot transmite propuneri, iar etapa inițială se concentrează pe unirea benevolă a localităților.\n\n• **O etapă ulterioară ar putea privi și comasarea județelor.** Coordonarea acesteia îi revine lui Dragoș Benea, iar datele detaliate urmează să fie prezentate ulterior. Potrivit ministrului, reorganizarea județelor constituie o etapă distinctă de planul actual privind localitățile.",
     "importance_score": 38.0,
-    "top_rank": 60,
+    "top_rank": 59,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3816,7 +3773,7 @@
     "lead_ro": "O curte federală de apel i-a oferit luni lui Donald Trump o nouă cale pentru a-și anula condamnarea penală privind ascunderea unei plăți către actrița de filme pentru adulți, Stormy Daniels, mutând ca...",
     "content_ro": "O curte federală de apel i-a oferit luni lui Donald Trump o nouă cale pentru a-și anula condamnarea penală privind ascunderea unei plăți către actrița de filme pentru adulți, Stormy Daniels, mutând cazul la o instanță federală unde ar putea solicita respingerea acesteia pe motive de imunitate.",
     "importance_score": 35.0,
-    "top_rank": 61,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3855,45 +3812,7 @@
     "lead_ro": "La 20 noiembrie, trei rachete de croazieră rusești de tip X-101 au intrat în spațiul aerian polonez și au căzut în sud-estul țării, fără să provoace răniți. Varșovia a solicitat sprijinul NATO, iar Alianța a anunțat că va pune la dispoziția Poloniei un avion de supraveghere AWACS.",
     "content_ro": "• **Trei rachete de croazieră rusești X-101 au pătruns în spațiul aerian al Poloniei la 20 noiembrie**, după care au căzut în sud-estul țării. Potrivit parchetului polonez, fragmentele recuperate aparțin unor rachete de acest tip; incidentul nu s-a soldat cu persoane rănite.\n\n• **Resturile au fost găsite în apropiere de Nowy Lipowiec, Rudnik și Molodycz.** La 22 noiembrie, cercetarea locului din zona Molodycz nu era încă încheiată, din cauza particularităților terenului. Experții stabiliseră însă că toate cele trei obiecte erau rachete de croazieră.\n\n• **Polonia a cerut sprijinul NATO pentru consolidarea apărării aeriene.** La reuniunea Consiliului Nord-Atlantic de la Bruxelles, țara a fost reprezentată de viceministrul apărării, Pawel Zalewski, care a prezentat propuneri privind întărirea capacităților de supraveghere și apărare aeriană.\n\n• **NATO va pune la dispoziția Poloniei o aeronavă AWACS pentru supraveghere aeriană.** Zalewski a declarat că propunerea a fost primită favorabil. Aceste aparate sunt utilizate pentru misiuni de monitorizare și recunoaștere și pot contribui la detectarea dronelor care zboară la joasă altitudine sau a altor obiecte greu observabile de radarele de la sol.\n\n• **Propunerile Varșoviei urmează să fie discutate și de miniștrii de externe ai NATO săptămâna viitoare.** Consultările de la Bruxelles au avut loc după căderea celor trei rachete, în contextul solicitării poloneze de a consolida protecția frontierei estice și capacitățile aeriene ale țării.",
     "importance_score": 35.0,
-    "top_rank": 62,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_85e2a1a70c",
-    "slug": "a-monza-30-ra-legyozte-a-fiorentinat-dragusin-vegigjatszotta-a-merkozest-85e2a1",
-    "tags": [
-      "monza",
-      "fiorentina",
-      "serie-a",
-      "radu-dragusin"
-    ],
-    "fingerprint": "421b74111e3c58eae3d501de0fd2333d",
-    "category": "Sport",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Cu Radu Drăgușin integralist, Fiorentina a fost UMILITĂ în Serie A! Românul a primit și un „galben”",
-        "link": "https://www.gsp.ro/international/campionate/live-monza-fiorentina-radu-dragusin-serie-a-1002209.html"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Dezastru pentru Fiorentina! Monza face spectacol și câștigă cu 3-0",
-        "link": "https://www.mediafax.ro/stirile-zilei/dezastru-pentru-fiorentina-monza-face-spectacol-si-castiga-cu-3-0-23848283"
-      }
-    ],
-    "published_at": 1795470471,
-    "title_hu": "A Monza 3–0-ra legyőzte a Fiorentinát, Drăgușin végigjátszotta a mérkőzést",
-    "lead_hu": "A Monza hazai pályán három góllal nyert a Fiorentina ellen a Serie A 12. fordulójának hétfői zárómérkőzésén. Radu Drăgușin kezdőként lépett pályára, végig a pályán maradt, és a 80. percben sárga lapot kapott.",
-    "content_hu": "• **A Monza 3–0-s győzelmet aratott a Fiorentina felett** november 23-án, a Serie A 12. fordulójának utolsó találkozóján. A mérkőzést Monzában rendezték; a sikerrel a hazaiak megelőzték ellenfelüket a tabellán.\n\n• **Gustavo Varela két góllal járult hozzá a győzelemhez.** A 42. percben Crist Inao Oulai kezezése után büntetőt ítéltek, amelyet Varela a 44. percben értékesített. A támadó a szünet után, az 52. percben ismét betalált, sarokkal fejezte be a bal oldalról érkező beadást.\n\n• **A harmadik találatot Robinson szerezte az 59. percben.** A Monza játékosa a tizenhatoson belülről lőtt a kapuba, miután a labda Radu Drăgușin fejeséről került elé.\n\n• **Drăgușin végigjátszotta a találkozót, és sárga lapot kapott.** A román válogatott védő első alkalommal szerepelt klubjában azután, hogy visszatért a nemzeti csapattól, amely Lengyelországgal és Bosznia-Hercegovinával játszott. A figyelmeztetést a 80. percben mutatták fel neki.\n\n• **A Monza tíz ponttal elmozdult a kieső helyekről, a Fiorentina kilenc ponttal maradt.** A győztes csapat a tabellán a firenzeiek elé került, míg a Fiorentina egy ponttal állt a Sassuolo előtt, amely a beszámoló szerint kiesést jelentő helyen volt.",
-    "title_ro": "Monza a învins Fiorentina cu 3-0, iar Drăgușin a jucat tot meciul",
-    "lead_ro": "Monza s-a impus pe teren propriu cu 3-0 în fața Fiorentinei, în ultima partidă a etapei a 12-a din Serie A. Radu Drăgușin a evoluat pe toată durata întâlnirii și a primit un cartonaș galben în minutul 80.",
-    "content_ro": "• **Monza a câștigat cu 3-0 partida cu Fiorentina**, disputată la 23 noiembrie, în etapa a 12-a din Serie A. Meciul de la Monza a încheiat runda, iar rezultatul a urcat echipa gazdă deasupra formației din Florența în clasament.\n\n• **Gustavo Varela a înscris de două ori pentru învingători.** În minutul 42, arbitrul a dictat penalty după un henț comis de Crist Inao Oulai, iar Varela a transformat lovitura de pedeapsă în minutul 44. Atacantul a marcat din nou după pauză, în minutul 52, cu o execuție cu călcâiul, în urma unei centrări din partea stângă.\n\n• **Robinson a stabilit scorul final în minutul 59.** Fotbalistul lui Monza a șutat din interiorul careului după ce mingea a ajuns la el în urma unei respingeri cu capul a lui Radu Drăgușin.\n\n• **Drăgușin a fost integralist și a fost avertizat în minutul 80.** Fundașul român a revenit în echipa de club după participarea la acțiunile naționalei, care a întâlnit Polonia și Bosnia și Herțegovina. Partida cu Monza a fost prima sa apariție după întoarcerea de la reprezentativă.\n\n• **Monza a ajuns la zece puncte și a ieșit din zona retrogradării, iar Fiorentina a rămas cu nouă.** Formația gazdă a trecut în clasament înaintea adversarei sale. Fiorentina avea un punct în plus față de Sassuolo, echipa aflată pe ultima poziție menționată ca ducând în Serie B.",
-    "importance_score": 35.0,
-    "top_rank": 63,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3936,7 +3855,7 @@
     "lead_ro": "Asociația Forestierilor din România consideră că programul „Rabla pentru sobe” trebuie pus în aplicare după aprobarea ghidului de finanțare. Apelul organizației a venit după ce, la 20 noiembrie 2026, Guvernul și-a exprimat susținerea pentru amânarea ETS2 până în 2030.",
     "content_ro": "• **ASFOR solicită trecerea programului la etapa de implementare:** organizația arată că proiectul destinat finanțării înlocuirii sobelor este cunoscut din martie 2025, iar Guvernul a aprobat ghidul de finanțare la 20 noiembrie 2026. Asociația cere ca programul să înceapă efectiv cât mai curând.\n\n• **Guvernul susține amânarea ETS2 până în 2030:** memorandumul adoptat la 20 noiembrie face parte din documentele privind dosarele europene considerate prioritare. Extinderea sistemului de comercializare a emisiilor la încălzirea clădirilor și transportul rutier fusese deja programată pentru 1 ianuarie 2028.\n\n• **Lemnul de foc nu intră sub incidența ETS2:** mecanismul vizează combustibili fosili, precum gazele naturale, benzina, motorina și cărbunele, nu biomasa solidă. Potrivit ASFOR, aproximativ 3,5 milioane de gospodării din România folosesc lemne pentru încălzire, majoritatea fiind în mediul rural.\n\n• **Estimările organizației indică efecte diferite pentru încălzirea cu gaz și cu lemne:** la un preț al carbonului de 45–70 de euro pe tonă, motorina s-ar putea scumpi cu 0,55–0,85 lei pe litru, iar gazul cu 45–70 de lei pe megawatt-oră, fără TVA. Pentru o gospodărie încălzită cu gaz, costul anual suplimentar ar ajunge la 450–700 de lei; pentru una care folosește lemne, calculul indică zero.\n\n• **ASFOR consideră modernizarea sobelor o măsură directă pentru gospodăriile care folosesc lemne:** Președintele organizației, Ciprian Dumitru Muscă, a afirmat că amânarea ETS2 nu schimbă costurile sau consumul acestor gospodării. În opinia sa, sprijinul pentru sobe mai eficiente este soluția relevantă pentru ele.",
     "importance_score": 35.0,
-    "top_rank": 64,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3974,7 +3893,7 @@
     "lead_ro": "Publicații independente din Rusia au estimat, pe baza unor date divulgate, că aproximativ 490.000 de militari ruși au murit, iar alți 230.000 sunt dați dispăruți. Moscova nu a mai comunicat oficial un bilanț al militarilor decedați din septembrie 2022.",
     "content_ro": "• **Estimarea indică aproximativ 490.000 de militari ruși morți** în aproape cinci ani de război împotriva Ucrainei. Portalurile independente Meduza și Mediazona au folosit statistici obținute de hackeri din Belarus și Ucraina, potrivit relatării EFE.\n\n• **Alți 230.000 de militari figurează ca dispăruți**, conform datelor prezentate. În material apare și un total de 720.000, însă nu este explicat limpede cum sunt incluși cei dispăruți în calculul persoanelor decedate.\n\n• **Rusia nu a publicat un bilanț oficial al militarilor morți din septembrie 2022.** Publicația independentă Vajnîe Istorii estimează că armata rusă ar pierde în jur de 600 de oameni pe zi.\n\n• **Evaluările anterioare indicau, de asemenea, pierderi ridicate:** o investigație realizată împreună de Meduza și Mediazona plasa numărul deceselor la 352.000 la sfârșitul anului 2025. BBC a estimat, pe baza informațiilor din surse deschise, că peste 33.000 de militari ruși ar fi murit în Ucraina în cursul acelui an.\n\n• **Numărul celor răniți sau cu dizabilități permanente nu este cunoscut oficial.** Unele publicații au menționat zeci de mii de militari în această situație. Statul Major rus afirmă, în schimb, că armata ucraineană pierde aproape 1.000 de oameni pe zi; cifra reprezintă poziția Moscovei, nu o estimare independentă a pierderilor.",
     "importance_score": 33.0,
-    "top_rank": 65,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4012,7 +3931,7 @@
     "lead_ro": "Pregătirea reformei administrative din România include evaluarea mai multor scenarii pentru reorganizarea comunelor. Dragoș Benea afirmă că schimbările teritoriale, inclusiv cele privind județele cu populație majoritar maghiară, ar putea necesita negocieri și compromisuri.",
     "content_ro": "• **Prima etapă a reformei ar urma să inventarieze toate variantele posibile de comasare a comunelor.** Dragoș Benea, coordonatorul grupului de lucru al PSD, a prezentat calendarul în comisia parlamentară pentru administrație publică. La discuție au participat și reprezentanți ai administrației locale.\n\n• **Pentru evaluarea scenariilor sunt prevăzute 60 de zile.** Variantele ar urma să fie analizate pe baza mai multor criterii, iar Benea a spus că reorganizarea ar putea depăși limitele actuale ale județelor. În această etapă este vorba despre examinarea opțiunilor, nu despre aprobarea unei hărți definitive.\n\n• **O primă formă scrisă a reformei este estimată după 180 de zile.** Potrivit lui Benea, documentul ar include un proiect de pachet legislativ și măsuri tranzitorii. Acest termen se referă la elaborarea unei variante preliminare.\n\n• **Benea nu anticipează un acord politic unanim asupra reorganizării teritoriale.** În ce privește județele cu populație majoritar maghiară, el a susținut că discuțiile ar putea duce la o soluție negociată. UDMR și-a exprimat anterior dezacordul față de posibile modificări ale actualei organizări.\n\n• **Negocierile privind minoritățile ar putea permite continuarea reformei, consideră coordonatorul PSD.** Benea a indicat drept posibil obiectiv ca România să aibă o nouă hartă administrativ-teritorială în ziua de după alegerile locale din 2028. Realizarea acestei ținte depinde de rezultatul discuțiilor și al compromisurilor politice.",
     "importance_score": 33.0,
-    "top_rank": 66,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4050,7 +3969,7 @@
     "lead_ro": "Senatul României a adoptat în unanimitate un proiect care ar schimba sprijinul acordat părinților ce revin la serviciu în timpul concediului pentru creșterea copilului. Camera Deputaților urmează să ia decizia finală.",
     "content_ro": "• **Senatorii au aprobat în unanimitate proiectul**, care ar permite părinților întorși la serviciu în perioada concediului pentru creșterea copilului să primească salariul și un stimulent financiar. Inițiativa a fost trimisă Camerei Deputaților, forul care va avea votul decisiv.\n\n• **Valoarea stimulentului propus ar fi stabilită în funcție de vârsta copilului.** Pentru părintele care revine la muncă înainte ca acesta să împlinească doi ani, suma ar fi egală cu indemnizația de creștere pe care ar fi primit-o în concediu, pe lângă salariu. În cazul copiilor cu dizabilități, limita de vârstă ar fi de trei ani.\n\n• **După aceste praguri, proiectul prevede un stimulent lunar de 650 de lei.** Plata ar continua până la vârsta de trei ani a copilului, respectiv până la patru ani pentru un copil cu dizabilități. În prezent, părinții care revin la serviciu primesc 1.500 de lei dacă bebelușul nu a împlinit șase luni și 650 de lei ulterior.\n\n• **Inițiatorii susțin că măsura ar reduce dezavantajul financiar al revenirii la muncă.** Potrivit datelor prezentate de aceștia, indemnizația medie a fost de 3.977 de lei în august, iar aproape 70.000 de părinți au ales să se întoarcă la serviciu. Unul dintre susținătorii proiectului afirmă că stimulentul ar înlocui indemnizația, iar activitatea profesională ar genera venituri din taxe și contribuții.\n\n• **Proiectul a fost prezentat și în contextul scăderii natalității.** În 2025, în România s-au născut 145.700 de copii, cel mai mic număr din ultimul secol. Potrivit unei inițiatoare, legea nu ar inversa singură declinul demografic, dar ar putea diminua presiunea de a alege între îngrijirea copilului și carieră.",
     "importance_score": 33.0,
-    "top_rank": 67,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4089,7 +4008,50 @@
     "lead_ro": "Maia Sandu a participat la Berlin la reuniunea Adunării Parlamentare a NATO, unde a primit o distincție. Președinta Republicii Moldova a avertizat asupra operațiunilor informaționale care, potrivit acesteia, vizează democrațiile europene, pe lângă războiul împotriva Ucrainei.",
     "content_ro": "• **Maia Sandu a participat la Berlin la reuniunea Adunării Parlamentare a NATO și a primit o distincție.** În discursul său, a prezentat experiența Republicii Moldova în gestionarea tentativelor de ingerință externă și a susținut consolidarea securității democratice în Europa.\n\n• **Președinta moldoveană a descris Rusia ca pe o amenințare care folosește atât mijloace militare, cât și informaționale.** Pe lângă atacul armat împotriva Ucrainei, ea a menționat acțiuni menite să influențeze cetățenii din statele democratice și deciziile acestora.\n\n• **Sandu a prezentat manipularea informațională drept un risc pentru deciziile de securitate.** În opinia sa, slăbirea voinței politice a societăților democratice poate diminua și capacitatea statelor de a se apăra.\n\n• **Potrivit afirmațiilor președintei, procesele electorale din Republica Moldova au fost vizate de tentative de ingerință externă.** Ea a susținut că Rusia ar fi alocat o sumă echivalentă cu aproximativ două procente din PIB-ul moldovean pentru cumpărarea voturilor, finanțarea ilegală a unor partide, atacuri cibernetice și campanii coordonate online.\n\n• **Programul vizitei de la Berlin a inclus întrevederi cu reprezentanți ai NATO și ai Germaniei.** Pe lista comunicată s-au aflat secretarul general al NATO, Mark Rutte, Julia Klöckner, Johann Wadephul, Boris Pistorius și Reem Alabali-Radovan. Republica Moldova este partener NATO din 1994, iar cooperarea acoperă modernizarea instituțiilor de apărare, reziliența și securitatea cibernetică, cu respectarea neutralității prevăzute de Constituție.",
     "importance_score": 33.0,
-    "top_rank": 68,
+    "top_rank": 66,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_1b80c352f9",
+    "slug": "visszapattano-lvedek-sebesitett-meg-egy-tuzoltot-egy-maros-megyei-loteren-1b80c3",
+    "tags": [
+      "mures",
+      "pompieri",
+      "poligon",
+      "ancheta"
+    ],
+    "fingerprint": "25a92b880492bbe47b87a85942522306",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Adevărul",
+        "title": "Pompier împuşcat în cap în timpul unor trageri într-un poligon din Mureş. A fost operat de urgenţă şi se află în stare foarte gravă",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/pompier-impuscat-in-cap-in-timpul-unor-trageri-2573708.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Pompier din Mureș, împușcat în cap la poligon. A fost lovit de un glonț posibil ricoșat",
+        "link": "https://stirileprotv.ro/stiri/actualitate/pompier-din-mures-impuscat-in-cap-la-poligon-a-fost-lovit-de-un-glont-posibil-ricosat.html"
+      },
+      {
+        "source": "Cancan.ro",
+        "title": "Pompier din Mureș, împușcat la poligon! Bărbatul a fost operat de urgență și este în stare gravă",
+        "link": "https://www.cancan.ro/pompier-din-mures-impuscat-la-poligon-barbatul-a-fost-operat-de-urgenta-si-este-in-stare-grava-21552852"
+      }
+    ],
+    "published_at": 1795459706,
+    "title_hu": "Visszapattanó lövedék sebesített meg egy tűzoltót egy Maros megyei lőtéren",
+    "lead_hu": "Egy 44 éves tűzoltó súlyos fejsérülést szenvedett egy Orșova-Pădure-i lőtéren tartott lövészeten. A rendőrség gondatlanságból elkövetett testi sértés gyanújával vizsgálja az esetet, a lőtér működését felfüggesztették.",
+    "content_hu": "• **November 20-án egy 44 éves tűzoltó sérült meg** a Maros megyei Orșova-Pădure településen, egy Gurghiu községhez tartozó lőtéren. A Reghin közelében történt baleset idején a férfi szabadnapos volt; barátaival vett részt magánjellegű lövészeten. Egyik beszámoló szerint a Marosvásárhely-i tűzoltóegységnél dolgozik.\n\n• **A férfit a fején érte találat a lövészet során.** Az eddigi információk alapján egy lövedék visszapattanhatott, ám a pontos körülményeket még nem tisztázták. A sérültet a Maros megyei mentőszolgálat vitte kórházba, ahol sürgősségi műtétet hajtottak végre rajta.\n\n• **A kórházi állapotáról eltérő részletek jelentek meg.** Egyes tudósítások szerint intenzív osztályon, kritikus vagy nagyon súlyos állapotban ápolják, míg egy másik beszámoló stabilizálásról és idegsebészeti ellátásról számolt be. A közlések egyaránt megerősítik, hogy orvosi felügyelet alatt maradt.\n\n• **A rendőrség büntetőeljárást indított gondatlanságból elkövetett testi sértés miatt.** A fegyverekkel, robbanóanyagokkal és veszélyes anyagokkal foglalkozó rendőri egység azt próbálja megállapítani, hogyan következett be a visszapattanás, illetve melyik fegyverből származott a lövedék. A vizsgálatot a reghini ügyészség felügyeli.\n\n• **A lőtér működését a körülmények tisztázásáig felfüggesztették.** A hatóságok a biztonsági előírások betartását és a baleset teljes lefolyását is ellenőrzik. A vizsgálat lezárásáig a helyszín engedélye nem érvényes, illetve a lőtér zárva tart.",
+    "title_ro": "Un pompier a fost rănit la cap după un incident într-un poligon din Mureș",
+    "lead_ro": "Un pompier de 44 de ani a suferit o rană gravă la cap în timpul unei sesiuni de tragere organizate la Orșova-Pădure, în județul Mureș. Poliția cercetează cazul pentru vătămare corporală din culpă, iar activitatea poligonului a fost suspendată.",
+    "content_ro": "• **Incidentul s-a produs pe 20 noiembrie, la un poligon din Orșova-Pădure**, localitate din comuna Gurghiu, în apropiere de Reghin. Bărbatul rănit are 44 de ani și este pompier; una dintre relatări precizează că lucrează la detașamentul din Târgu Mureș. În ziua respectivă era liber și venise la poligon cu mai mulți prieteni pentru trageri private.\n\n• **Pompierul a fost lovit în zona capului în timpul tragerilor.** Informațiile preliminare indică posibilitatea ca proiectilul să fi ricoșat, însă ancheta urmează să stabilească exact succesiunea faptelor. Un echipaj al Serviciului de Ambulanță Județean Mureș l-a transportat la spital, unde medicii l-au operat de urgență.\n\n• **Relatările publicate nu oferă aceeași descriere a stării sale medicale.** Unele îl prezintă internat la Terapie Intensivă, în stare critică sau foarte gravă; o altă sursă menționează că starea i-a fost stabilizată și că se află la Neurochirurgie. Toate indică faptul că pacientul a rămas sub îngrijirea medicilor după intervenție.\n\n• **Polițiștii au deschis un dosar penal pentru vătămare corporală din culpă.** Verificările sunt desfășurate de structura specializată în arme, explozivi și substanțe periculoase, sub coordonarea Parchetului de pe lângă Judecătoria Reghin. Anchetatorii caută să afle cum s-a produs ricoșeul și din ce armă a provenit proiectilul.\n\n• **Funcționarea poligonului a fost oprită până la clarificarea cazului.** Autoritățile verifică împrejurările accidentului și respectarea măsurilor de siguranță. Suspendarea activității va rămâne în vigoare până când ancheta va lămuri condițiile în care s-a produs rănirea.",
+    "importance_score": 33.0,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4132,7 +4094,7 @@
     "lead_ro": "Tyson Fury a rememorat într-un nou documentar Netflix dificultățile psihice apărute după victoria sa din 2015. Soția sa, Paris Fury, a vorbit în producție despre o formă ușoară de schizofrenie, iar boxerul a relatat și despre diagnosticul de tulburare bipolară.",
     "content_ro": "• **Fury a discutat despre starea sa psihică într-un nou documentar Netflix.** Producția, regizată de Lucy Wilcox, prezintă cariera boxerului britanic și problemele sale de sănătate mintală. Filmul a fost prezentat presei luni, iar Fury are 38 de ani.\n\n• **Dificultățile au apărut după victoria din 2015.** În noiembrie, Fury l-a învins pe ucraineanul Vladimir Klitschko și a devenit campion mondial unificat la categoria grea. În perioada următoare, s-a confruntat cu depresie, anxietate severă și probleme legate de consumul de alcool și droguri.\n\n• **În iunie 2016, boxerul a ajuns la spital după ce i s-a făcut rău.** Inițial a existat suspiciunea unui atac de cord, însă starea sa a fost asociată ulterior cu anxietate severă. Fury a consultat un psihiatru la Londra și a relatat că evaluarea a indicat depresie, anxietate și tulburare bipolară.\n\n• **Paris Fury a menționat o formă ușoară de schizofrenie.** În documentar, pugilistul a povestit că auzea voci și că îi era greu să poarte conversații cu alte persoane. Soția sa și-a amintit că, în perioada internării, Fury era foarte speriat și credea că este urmărit.\n\n• **Documentarul apare înaintea unui posibil meci important.** Potrivit articolelor, Fury ar urma să boxeze cu Anthony Joshua pe 11 decembrie. Producția urmărește atât parcursul sportiv al britanicului, cât și perioada în care s-a confruntat cu probleme de sănătate mintală.",
     "importance_score": 33.0,
-    "top_rank": 69,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4176,7 +4138,7 @@
     "lead_ro": "Un oficial iranian din domeniul judiciar afirmă că instanțele țării au stabilit despăgubiri de aproximativ 290 de miliarde de dolari în sarcina Statelor Unite. Teheranul a deschis acțiuni și împotriva unor state arabe din Golf, iar negocierile privind un plan economic legat de încheierea conflictului sunt blocate.",
     "content_ro": "• **Instanțele iraniene au dispus plata a 290 de miliarde de dolari de către Statele Unite**, a declarat Hassan Abdolianpour, conducătorul Centrului avocaților din Iran. Suma este echivalentă cu aproximativ 265 de miliarde de euro. Potrivit oficialului, hotărârile privesc acțiuni americane desfășurate de-a lungul mai multor decenii.\n\n• **Iranul a inițiat proceduri judiciare și împotriva unor state arabe din zona Golfului.** Teheranul le impută acestora că au permis folosirea teritoriilor lor de către SUA pentru lansarea unor atacuri asupra Iranului.\n\n• **Un protocol semnat în iunie prevedea elaborarea unui plan economic de cel puțin 300 de miliarde de dolari.** Inițiativa, la care urmau să participe Washingtonul și partenerii săi regionali, era destinată reconstrucției și dezvoltării economice a Iranului. Înțelegerea a eșuat în cursul verii, iar discuțiile au rămas între timp fără progres.\n\n• **Conflictul din Orientul Mijlociu a început la 28 februarie, după bombardamente israeliano-americane.** În urma acestora au murit liderul suprem iranian Ali Khamenei și alți oficiali de rang înalt. Iranul a ripostat lovind state vecine aliate ale Washingtonului și a închis Strâmtoarea Ormuz, rută maritimă de importanță strategică.",
     "importance_score": 33.0,
-    "top_rank": 70,
+    "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4220,7 +4182,7 @@
     "lead_ro": "Ministrul Muncii, Florin Manole, a anunțat după întâlnirea cu reprezentanții confederațiilor sindicale că discuțiile despre legea salarizării din sectorul public vor fi reluate la începutul anului 2027. Pe agenda reuniunii s-au aflat și salariul minim, pensiile și finanțarea educației.",
     "content_ro": "• **Discuțiile despre legea salarizării vor fi reluate la începutul anului 2027.** După consultările din 23 noiembrie, desfășurate la Parlament, ministrul Muncii, Florin Manole, a declarat că PSD și reprezentanții celor cinci confederații sindicale au convenit să continue negocierile. Părțile nu vor să grăbească procesul și urmăresc o soluție acceptată de comun acord, care să ofere mai multă predictibilitate angajaților din sectorul public.\n\n• **Participanții au abordat atât teme sectoriale, cât și subiecte comune sindicatelor.** Discuțiile au inclus situația din educație, agricultură, sănătate și ordine publică. Întâlnirea a avut loc la grupul parlamentar PSD din Camera Deputaților și a fost organizată în contextul dialogului dintre conducerea partidului și sindicate.\n\n• **Reluarea discuțiilor despre salariul minim depinde de clarificarea situației bugetare.** Manole a spus că PSD va continua consultările politice după ce vor fi cunoscute datele bugetului și angajamentele care pot fi asumate pentru următorul an bugetar.\n\n• **Indexarea și majorarea pensiilor potrivit legislației au fost, de asemenea, discutate.** Potrivit ministrului, reprezentanții PSD și cei ai confederațiilor sindicale nu au avut opinii divergente în această privință.\n\n• **Finanțarea educației, plata cu ora și norma didactică au făcut parte din agenda reuniunii.** Manole a criticat măsurile aplicate în anul precedent, susținând că acestea au însemnat reduceri, nu reformă. Posibilitatea unor angajamente bugetare mai ample va putea fi analizată odată cu începerea discuțiilor pentru bugetul pe 2027.",
     "importance_score": 33.0,
-    "top_rank": 71,
+    "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4263,7 +4225,7 @@
     "lead_ro": "Comisia Europeană verifică dacă Coca-Cola Europacific Partners ar fi restricționat circulația băuturilor între statele membre și negocierile unor clienți angro. Deschiderea investigației nu reprezintă o constatare a încălcării normelor europene.",
     "content_ro": "• **Comisia Europeană a lansat o investigație oficială de concurență privind Coca-Cola Europacific Partners (CCEP).** Instituția verifică dacă practicile comerciale ale companiei ar putea încălca regulile Uniunii Europene.\n\n• **Una dintre direcțiile cercetării privește comerțul transfrontalier cu băuturi.** Comisia analizează dacă CCEP ar fi împiedicat vânzarea între statele membre a băuturilor răcoritoare carbogazoase și a celor destinate sportivilor.\n\n• **Investigația examinează și posibilitatea negocierilor de achiziție la nivel internațional.** Autoritatea verifică dacă unor clienți angro li s-a refuzat negocierea contractelor pentru achiziții desfășurate în mai multe țări.\n\n• **Analiza se concentrează asupra vânzărilor angro din afara sectorului de consum în localuri.** În această categorie intră supermarketurile și alte magazine, unde băuturile sunt cumpărate pentru consum în afara punctului de vânzare; restaurantele, hotelurile și cafenelele nu fac parte din segmentul vizat.\n\n• **Comisia evaluează dacă ar putea exista un abuz de poziție dominantă.** În cazul confirmării suspiciunilor, practicile analizate ar putea încălca articolul 102 din Tratatul privind funcționarea Uniunii Europene, care interzice folosirea abuzivă a unei asemenea poziții. Instituția a anunțat că va acorda prioritate investigației, precizând totodată că deschiderea procedurii nu stabilește vinovăția și nu anticipează concluzia finală.",
     "importance_score": 33.0,
-    "top_rank": 72,
+    "top_rank": 71,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4306,7 +4268,7 @@
     "lead_ro": "Secretarul general al NATO, Mark Rutte, a declarat că statele membre nu susțin în unanimitate aderarea Ucrainei. Volodimir Zelenski a cerut din nou primirea țării sale în Alianță, în cadrul reuniunii parlamentare de la Berlin.",
     "content_ro": "• **Statele membre NATO nu au ajuns la o poziție comună privind primirea Ucrainei.** Mark Rutte a prezentat această situație luni, la reuniunea anuală de la Berlin a Adunării Parlamentare a NATO. Declarația a venit după ce președintele ucrainean Volodimir Zelenski a reiterat solicitarea de aderare.\n\n• **Perspectiva unei eventuale aderări rămâne deschisă, însă nu există în prezent sprijin unanim.** Rutte a amintit că Alianța a acceptat, în principiu, posibilitatea ca Ucraina să devină membră. Statele membre nu au însă aceeași poziție, iar Statele Unite s-au opus ideii în ultimii ani. Rusia respinge, de asemenea, aderarea Ucrainei.\n\n• **Zelenski a prezentat calitatea de membru drept o opțiune mai solidă pentru securitatea europeană decât unele garanții.** Președintele ucrainean s-a adresat participanților prin videoconferință, de la Kiev. El a comparat aderarea cu angajamentele de securitate care doar se aseamănă cu prevederea de apărare reciprocă din Tratatul NATO.\n\n• **Rutte a precizat că eventuala includere a aderării în discuțiile cu Rusia este o chestiune distinctă.** Potrivit secretarului general, nu se poate evalua conținutul unor negocieri înainte ca acestea să înceapă. Astfel, dezbaterea despre posibilele condiții ale unor discuții rămâne separată de decizia NATO privind extinderea.\n\n• **Washingtonul încearcă în prezent să faciliteze începerea negocierilor, în coordonare cu Kievul și cu statele europene.** Rutte a spus că implicarea președintelui rus Vladimir Putin ar fi necesară pentru ca demersul să avanseze. El a mai subliniat că hotărârea privind admiterea unui nou membru aparține Alianței.",
     "importance_score": 33.0,
-    "top_rank": 73,
+    "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4350,7 +4312,7 @@
     "lead_ro": "Jannik Sinner se îndreaptă spre Finlanda pentru o nouă evaluare a genunchiului drept făcută de chirurgul Lasse Lempainen, iar intervenția chirurgicală este luată în calcul. Potrivit presei italiene, recuperarea ar dura trei-patru luni, ceea ce l-ar împiedica să participe la Australian Open 2027.",
     "content_ro": "• **Sinner ar putea ajunge la operație din cauza genunchiului drept:** publicația Gazzetta dello Sport relatează că italianul, în vârstă de 25 de ani, călătorește în Finlanda pentru a fi consultat de chirurgul Lasse Lempainen. În acest moment, intervenția este considerată varianta de tratament avută în vedere.\n\n• **Noua evaluare medicală este programată la Turku:** Lempainen lucrează la clinica Pihlajalinna Turku Kupittaa. Chirurgul examinase deja genunchiul drept al lui Sinner la Milano, cu câteva zile înaintea deplasării, iar consultația din Finlanda va permite o nouă evaluare.\n\n• **Presa italiană estimează o pauză de trei-patru luni:** aceasta ar fi perioada necesară recuperării după intervenție. Relatările nu precizează când ar urma să aibă loc operația și nici o dată exactă pentru revenirea jucătorului pe teren.\n\n• **Australian Open din 2027 ar putea fi afectat de absență:** turneul din ianuarie este primul Grand Slam al sezonului, iar Sinner nu ar putea participa dacă perioada de recuperare estimată se confirmă. Cu doar câteva săptămâni înainte, italianul prezentase competiția drept unul dintre obiectivele sale importante.\n\n• **Ultimul meci oficial al lui Sinner a fost pe 12 iulie:** atunci a câștigat finala de la Wimbledon în fața lui Alexander Zverev. Problemele la genunchi au continuat după acel meci, motiv pentru care este analizată posibilitatea unei operații.",
     "importance_score": 33.0,
-    "top_rank": 74,
+    "top_rank": 73,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4393,7 +4355,7 @@
     "lead_ro": "O bombă de aviație neexplodată, estimată la aproximativ 50 de kilograme, a fost găsită în timpul unor săpături pe strada Aurel Vlaicu din Iași. Pirotehniștii au verificat zona, iar autoritățile au atras atenția că muniția veche poate rămâne periculoasă.",
     "content_ro": "• **Obiectul a fost descoperit în timpul unor lucrări de săpătură pe strada Aurel Vlaicu din Iași.** Era vorba despre o bombă de aviație neexplodată, cu o greutate estimată la circa 50 de kilograme, iar echipa pirotehnică a fost chemată la fața locului.\n\n• **Specialiștii au identificat muniția ca fiind o bombă germană exploziv-brizantă.** Aceștia au cercetat zona și au desfășurat operațiuni de verificare și asanare pe o suprafață de aproximativ zece metri pătrați.\n\n• **Descoperirea arată că muniția rămasă din conflicte armate poate prezenta riscuri și după multe decenii.** ISU Iași avertizează că pericolul este relevant mai ales în timpul construcțiilor, al excavărilor sau al lucrărilor de amenajare a terenului.\n\n• **Autoritățile recomandă ca obiectele suspecte să nu fie atinse și să fie anunțate imediat.** Georgică Onofreiasa, purtătorul de cuvânt al ISU Iași, a atras atenția că intervenția necorespunzătoare poate duce la accidente grave.\n\n• **Relatările disponibile nu precizează ce măsuri ulterioare au fost luate cu bomba.** Informațiile publicate descriu identificarea acesteia și verificarea terenului de către pirotehniști, fără a menționa dacă muniția a fost transportată sau neutralizată.",
     "importance_score": 33.0,
-    "top_rank": 75,
+    "top_rank": 74,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4436,7 +4398,7 @@
     "lead_ro": "Sorin Grindeanu propune ca reforma administrației să înceapă cu unirea voluntară a localităților mici și a anunțat întâlniri în țară. Asociația Comunelor din România respinge comasarea impusă și susține că reorganizarea trebuie decisă prin referendum local.",
     "content_ro": "• **Prima etapă a reformei ar urma să fie unirea voluntară a localităților mici.** Sorin Grindeanu a prezentat planul luni, după ședința conducerii PSD. Propunerea se află în consultare publică, iar liderul partidului spune că vor fi implicați locuitorii și primarii, inclusiv în discuțiile despre efectele posibile asupra comunităților.\n\n• **PSD pregătește întâlniri în județe.** Grindeanu a spus că a stabilit calendarul deplasărilor împreună cu colegii săi de partid, vineri. Prima reuniune este programată la Suceava, unde se va întâlni cu aleșii locali. Consultarea populației și a administrațiilor locale este prezentată de liderul PSD ca parte a pregătirii reformei.\n\n• **Asociația Comunelor din România cere ca eventualele comasări să fie voluntare și aprobate local.** ACoR, condusă de Emil Drăghici, susține organizarea unui referendum în fiecare localitate vizată și contestă o fuziune impusă. Asociația consideră că locuitorii trebuie să decidă asupra viitorului comunei și pune sub semnul întrebării legalitatea proiectului.\n\n• **Grindeanu a invocat vechimea actualei organizări administrative.** Răspunzând criticilor unor primari, el a făcut referire la reforma din 1968 și a susținut că administrația trebuie adaptată realităților de astăzi. Anul indică momentul ultimei reforme majore invocat de liderul PSD, nu un termen oficial pentru aplicarea proiectului.\n\n• **Modalitatea reorganizării rămâne un subiect de dispută politică.** La conferința de presă a fost menționată posibilitatea ca etapa voluntară să fie urmată de comasări obligatorii, variantă criticată de unii primari. Grindeanu l-a acuzat pe Ilie Bolojan că și-a schimbat poziția, dar l-a invitat să participe la proiect. Liderul PSD a indicat intervalul 2026–2027 ca obiectiv pentru modernizarea sistemului instituit în 1968.",
     "importance_score": 33.0,
-    "top_rank": 76,
+    "top_rank": 75,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4479,7 +4441,7 @@
     "lead_ro": "În primele șase luni ale mandatului lui Viorel Cerbu, DNA a gestionat 4.603 dosare și a trimis în judecată peste 270 de persoane. Instituția anunță că va urmări fluxurile financiare de la începutul anchetelor și pregătește schimbări de organizare.",
     "content_ro": "• **DNA a avut în lucru 4.603 dosare între aprilie și octombrie.** Dintre acestea, 1.315 au fost soluționate, iar 3.288 au rămas în curs de instrumentare. Bilanțul prezentat de instituție acoperă primele șase luni de mandat ale procurorului-șef Viorel Cerbu.\n\n• **Peste 270 de persoane au fost trimise în judecată, iar bunuri de peste 383 de milioane de lei au fost indisponibilizate.** Activitatea s-a desfășurat cu 149 de procurori, față de 195 de posturi prevăzute, și cu aproximativ 288 de ofițeri de poliție judiciară. Un procuror de urmărire penală a gestionat, în medie, aproape 47 de dosare.\n\n• **Raportul descrie anchete care vizează presupuse mecanisme organizate de corupție.** Printre exemple se află o rețea investigată la un punct de frontieră, plata din bugetul unui oraș pentru păcură care nu ar fi fost livrată și declararea unor cantități de fier vechi drept ambalaje, pentru evitarea taxei de mediu.\n\n• **DNA intenționează să urmărească traseul banilor chiar de la începutul anchetelor.** Investigațiile ar urma să examineze și firme interpuse, precum și transferuri care traversează mai multe țări. Planurile instituției includ o structură mai unitară, reducerea numărului de niveluri de conducere și accelerarea deciziilor.\n\n• **Bilanțul menționează și sume stabilite definitiv de instanțe pentru confiscare și despăgubiri.** În dosarele trimise în judecată de DNA, instanțele au dispus confiscarea a aproximativ 86 de milioane de lei și plata unor despăgubiri de circa 265 de milioane. Raportul include și trimiterea în judecată a unui secretar general adjunct al Guvernului, într-un caz privind despăgubiri de aproximativ 13 milioane de lei pentru o firmă.",
     "importance_score": 33.0,
-    "top_rank": 77,
+    "top_rank": 76,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4523,7 +4485,7 @@
     "lead_ro": "Robert Fico a anunțat că Slovacia nu va lua parte la programul de împrumut de 45 de miliarde de euro pregătit de UE pentru Ucraina. Bratislava va continua ajutorul umanitar, dar respinge creditele cu destinație militară, în contextul discuțiilor privind viitorul buget european.",
     "content_ro": "• **Slovacia nu se alătură noului program de creditare:** Într-un mesaj video difuzat în weekend, Robert Fico a spus că țara sa nu va participa la mecanismul european de 45 de miliarde de euro pentru Ucraina. Premierul a amintit că Bratislava a rămas în afara și a pachetului anterior, de 90 de miliarde de euro, și că nu intenționează să-și schimbe poziția.\n\n• **Ajutorul umanitar va continua:** Fico a separat sprijinul umanitar de acordarea împrumuturilor. Slovacia va menține prima formă de ajutor, însă șeful guvernului consideră nepotrivite creditele destinate scopurilor militare, susținând că acestea ar putea prelungi războiul.\n\n• **Fico respinge solicitarea Berlinului:** Cancelarul german Friedrich Merz a avertizat că ar putea bloca următorul buget multianual al UE dacă statele membre nu se angajează să finanțeze Ucraina începând din 2027. Premierul slovac a transmis că țara sa nu va ceda acestei presiuni.\n\n• **Subiectul ar putea ajunge la reuniunea de la Bratislava:** Liderii Slovaciei, Poloniei, Cehiei și Ungariei se întâlnesc luni, iar la discuții este așteptat și cancelarul Austriei. Întâlnirea are loc înaintea summitului UE din 26–27 noiembrie, de la Bruxelles, unde va fi discutat bugetul pentru perioada 2028–2034.\n\n• **Propunerea revizuită a lui Costa însumează 1,78 trilioane de euro:** Președintele Consiliului European a prezentat planul sâmbătă. Acesta prevede reducerea cheltuielilor totale cu 10%, păstrând posibilitatea alocării a până la 100 de miliarde de euro suplimentare pentru Ucraina printr-o rezervă distinctă. Disputa privind împrumuturile scoate în evidență divergențele dintre statele UE.",
     "importance_score": 30.0,
-    "top_rank": 78,
+    "top_rank": 77,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4567,7 +4529,7 @@
     "lead_ro": "Cosmin Marinescu, viceguvernator al Băncii Naționale a României, a avertizat la conferința Roinvest că majorarea investițiilor publice nu asigură automat o creștere economică durabilă. Rezultatele depind și de calitatea proiectelor, de finanțarea lor și de efectele obținute.",
     "content_ro": "• **Valoarea investițiilor nu garantează, de una singură, o economie mai puternică.** Luni, la conferința Roinvest, Cosmin Marinescu a arătat că, în ultimii ani, cheltuielile publice de investiții au ajuns la 7–8% din PIB, în timp ce avansul economic a rămas modest.\n\n• **Economia a crescut în trimestrul al treilea, iar investițiile publice au avansat în paralel.** PIB-ul ajustat sezonier a urcat cu 2,1% față de trimestrul precedent, peste estimările pieței. În primele nouă luni din 2026, investițiile publice au fost cu 30% mai mari; suma din trimestrul al treilea a depășit cu 49% nivelul din aceeași perioadă a anului 2025.\n\n• **Graba de a încheia PNRR a contribuit la creșterea investițiilor.** Acestea au însumat 138 de miliarde de lei în 2025 și 108 miliarde de lei în primele nouă luni din 2026.\n\n• **Efectul economic al proiectelor depinde și de felul în care sunt concepute și realizate.** Marinescu a subliniat că sporirea cheltuielilor nu produce automat beneficii ample, astfel că evaluarea trebuie să țină cont atât de sume, cât și de rezultatele investițiilor.\n\n• **Viceguvernatorul susține prioritizarea fondurilor europene față de cele naționale.** Finanțarea UE a reprezentat 66% din investițiile publice în primele nouă luni din 2026, față de 57% în 2025. Marinescu a cerut, totodată, un rol mai mare pentru capitalul privat și mediul antreprenorial în susținerea creșterii.",
     "importance_score": 30.0,
-    "top_rank": 79,
+    "top_rank": 78,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4611,7 +4573,7 @@
     "lead_ro": "La 20 noiembrie 2024, Parchetul General din România a făcut percheziții într-un dosar despre cărți de identitate emise unor cetățeni moldoveni, ucraineni și ruși pe baza unor adrese fictive. Investigația se intersectează cu sute de proceduri aflate la București, prin care se cere anularea unor documente.",
     "content_ro": "• **Ancheta vizează folosirea unor adrese fictive:** autoritățile verifică modul în care cetățeni din Republica Moldova, Ucraina și Rusia ar fi primit cărți de identitate românești declarând domicilii la care nu locuiau în realitate. La 20 noiembrie 2024, procurorii au făcut percheziții în acest dosar, care era încă în curs la momentul relatării.\n\n• **Printre persoanele identificate în dosarele analizate se află și oameni cu legături politice sau de afaceri:** investigația jurnalistică internațională a găsit în documente nume asociate cu anturajul lui Vladimir Putin ori al lui Ramzan Kadîrov, precum și oameni de afaceri ruși și ucraineni. Relatarea menționează și persoane cercetate în Ucraina pentru suspiciuni de trădare, fără ca acest lucru să stabilească vinovăția lor în cazul actelor românești.\n\n• **La București sunt înregistrate sute de proceduri de anulare a documentelor:** jurnaliștii au identificat în unele dintre acestea persoane care au obținut acte românești după dobândirea cetățeniei. Potrivit materialului, parcursul documentelor a trecut și prin Chișinău, unde două birouri notariale au autentificat traduceri și au întocmit procuri.\n\n• **Numărul persoanelor cu domiciliul declarat în Vârfu Câmpului a crescut puternic:** comuna din județul Botoșani avea aproximativ 3.000 de locuitori în 2011, iar ulterior peste 12.000 de persoane au ajuns să figureze cu domiciliul acolo. Diferența nu dovedește că toate înregistrările sunt ilegale; relatarea precizează că nu toate persoanele vizate au documente false.\n\n• **Polițiștii au intervenit și la sediul primăriei:** Dumitru-Ovidiu Domunco ocupa funcția de primar de numai două săptămâni când au venit anchetatorii. El a relatat că în incinta instituției și în curte se aflau numeroși polițiști, jandarmi și polițiști de frontieră, iar lui i s-a spus că nu este parte în dosar.",
     "importance_score": 30.0,
-    "top_rank": 80,
+    "top_rank": 79,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4654,7 +4616,7 @@
     "lead_ro": "Grupul 5 al Termocentralei Turceni va fi oprit începând de luni, pentru o revizie planificată care se va încheia pe 12 decembrie. Unitatea funcționează pe cărbune, are o putere instalată de 285 MW și este singurul grup operațional al centralei.",
     "content_ro": "• **Grupul 5 de la Termocentrala Turceni nu va funcționa de luni până la 12 decembrie.** Complexul Energetic Oltenia a anunțat că oprirea este necesară pentru o revizie inclusă în programul de mentenanță. Dispeceratul Energetic Național, UNO-DEN, a aprobat întreruperea activității.\n\n• **Intervențiile programate vizează mai multe sisteme ale grupului energetic.** Echipele vor verifica și întreține echipamentele și instalațiile, efectuând lucrările necesare pentru menținerea funcționării în condiții de siguranță. Sunt prevăzute reparații la sistemul de presiune al cazanului, la instalațiile de alimentare cu cărbune, la echipamentele auxiliare ale turbinei și la sistemul de evacuare a cenușii.\n\n• **Revizia urmărește păstrarea capacității de funcționare și prevenirea unor defecțiuni.** După terminarea lucrărilor, echipamentele vor trece prin verificări și probe tehnice. Reluarea activității este condiționată de finalizarea acestor etape.\n\n• **Repunerea în funcțiune va fi coordonată cu Dispeceratul Energetic Național.** Grupul 5 este alimentat cu cărbune și are o putere instalată de 285 MW. Potrivit companiei, acesta este singurul grup aflat în prezent în funcțiune la Termocentrala Turceni.",
     "importance_score": 30.0,
-    "top_rank": 81,
+    "top_rank": 80,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4697,7 +4659,7 @@
     "lead_ro": "Focuri de armă au fost trase sâmbătă seara la un concert din Strathmore, California, la care participau aproximativ 150 de persoane. Nouă oameni au fost răniți, iar autoritățile iau în calcul o posibilă legătură cu bandele; până acum nu au anunțat arestări.",
     "content_ro": "• **Atacul a avut loc sâmbătă, în jurul orei locale 19:30,** în Strathmore, o localitate din comitatul Tulare, California, cu aproximativ 3.000 de locuitori. La evenimentul desfășurat acolo se aflau circa 150 de persoane.\n\n• **Concertul fusese organizat pentru membri ai bandei Norteno.** În public se găseau și artiști veniți din statele învecinate. Nu a fost precizat câți suspecți au tras asupra mulțimii, iar biroul șerifului din comitat a raportat nouă persoane rănite.\n\n• **Cel mai grav rănit este un bărbat de 26 de ani, împușcat în piept.** Acesta a fost operat și se află în stare critică. Au fost supuși unor intervenții chirurgicale și doi tineri, de 19 și 22 de ani; celelalte șase victime au suferit răni ușoare.\n\n• **Polițiștii ajunși la locul incidentului au oferit primul ajutor,** iar câteva persoane au mers cu mașinile proprii la spitalele din zonă. Autoritățile au transmis că nu mai există un pericol imediat pentru public, însă nu au comunicat efectuarea vreunei arestări.\n\n• **Anchetatorii verifică ipoteza unei legături cu bandele,** fără să ofere alte informații despre atac. Separat, Departamentul de Justiție al Californiei a raportat 1.374 de omucideri în 2025, cu 17,5% sub totalul de 1.666 înregistrat în 2024.",
     "importance_score": 30.0,
-    "top_rank": 82,
+    "top_rank": 81,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4740,7 +4702,7 @@
     "lead_ro": "O femeie de 71 de ani a murit luni dimineață în Oradea, după ce ar fi căzut de la etajul al treilea al unui imobil de pe strada Grădinarilor. Poliția verifică împrejurările, iar până acum nu există indicii privind comiterea unei infracțiuni.",
     "content_ro": "• **O femeie din Oradea, în vârstă de 71 de ani, a murit luni dimineață** în urma unui incident produs la un bloc de pe strada Grădinarilor. Datele inițiale indică faptul că aceasta ar fi căzut de la etajul al treilea. Apelul la numărul de urgență 112 a fost înregistrat pe 23 noiembrie, la ora 7.43.\n\n• **La intervenție au participat polițiști, criminaliști și echipaje medicale.** La adresă au ajuns agenți de ordine publică din Oradea, anchetatori care se ocupă de infracțiunile contra persoanei și specialiști în criminalistică. Au intervenit și pompieri din cadrul Detașamentului 1 Oradea, precum și echipajul mobil SMURD de terapie intensivă.\n\n• **Manevrele de resuscitare nu au avut rezultat.** Pompierii au montat un paravan pentru a limita vizibilitatea asupra victimei, în timp ce echipa medicală a încercat să o resusciteze. Medicul prezent a constatat ulterior decesul femeii.\n\n• **Cauza morții urmează să fie clarificată prin necropsie, iar cercetările sunt în desfășurare.** Potrivit informațiilor comunicate de Poliția Bihor, în acest moment nu sunt suspiciuni că femeia ar fi fost victima unei infracțiuni. Anchetatorii continuă verificările sub coordonarea unui procuror, pentru a stabili circumstanțele în care s-a produs decesul.",
     "importance_score": 30.0,
-    "top_rank": 83,
+    "top_rank": 82,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4784,7 +4746,7 @@
     "lead_ro": "Senatorul republican John Kennedy consideră că trebuie lămurit cum au ajuns cipuri Nvidia în China, în pofida restricțiilor americane la export. El vrea să afle și ce rol au avut Departamentul Comerțului și secretarul Trezoreriei, Scott Bessent, în cazul Megaspeed.",
     "content_ro": "• **Prioritatea este clarificarea accesului Chinei la cipuri.** La 22 noiembrie, în emisiunea Meet the Press de la NBC, Kennedy a spus că dorește explicații de la secretarul Comerțului, Howard Lutnick, și de la secretarul Trezoreriei, Scott Bessent, despre felul în care China a putut evita restricțiile americane la export.\n\n• **Megaspeed se află în centrul cazului.** Compania din Singapore este client Nvidia, iar Alice Huang a ocupat anterior o funcție de conducere acolo. Autoritățile americane au investigat-o, iar femeia a fost asociată cu suspiciuni de spionaj pentru China; potrivit relatării, ea și Jensen Huang nu sunt rude.\n\n• **Bessent s-a numărat printre cei care au cerut sancționarea firmei.** Kennedy a criticat întârzierea Departamentului Comerțului în privința includerii Megaspeed pe lista comercială restrictivă, deși mai mulți oficiali, inclusiv Bessent, au susținut această măsură. Senatorul a spus că situația ridică întrebări despre competența conducerii sau despre o posibilă acceptare conștientă a transferurilor.\n\n• **Cei doi secretari ar urma să răspundă în fața unei comisii a Senatului.** Kennedy vrea ca Lutnick și Bessent să fie audiați sub jurământ. El a adăugat că, dacă ministrul Comerțului a facilitat livrarea cipurilor, practica trebuie oprită.\n\n• **Viața personală a lui Huang nu este preocuparea principală a senatorului.** Kennedy a ironizat presupusa relație a liderului Nvidia cu Alice Huang, însă a precizat că îl interesează mai mult modul în care au fost ocolite restricțiile și au ajuns cipurile în China.",
     "importance_score": 30.0,
-    "top_rank": 84,
+    "top_rank": 83,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4827,7 +4789,7 @@
     "lead_ro": "Lista Studenților, care deține majoritatea în parlamentul Serbiei, propune restricții pentru difuzarea programelor de tip reality și introducerea unei săptămâni de lucru de patru zile. Măsurile fac parte dintr-un plan de reformă a mass-mediei, iar informațiile prezentate nu indică faptul că ele ar fi intrat deja în vigoare.",
     "content_ro": "• **Programele reality ar urma să fie limitate atât ca interval de difuzare, cât și ca durată.** Potrivit propunerii Listei Studenților, canalele naționale gratuite nu le-ar putea transmite înainte de ora 23:00 și le-ar aloca cel mult 45 de minute pe zi.\n\n• **Astfel de producții ar putea rămâne disponibile pe platformele cu abonament.** Planul prevede însă încadrarea pe categorii de vârstă și opțiuni de control parental. Restricțiile ar viza și emisiuni sârbești inspirate de formatul Big Brother.\n\n• **Posturile ar trebui să întrerupă imediat transmisia în anumite situații.** Propunerea se referă la apariția unor scene violente, a amenințărilor sau a discursului instigator la ură. Mișcarea asociază reality-show-urile cu o cultură a violenței care, în opinia sa, s-a consolidat în perioada guvernării anterioare.\n\n• **O săptămână de lucru de patru zile figurează, de asemenea, printre măsurile avansate.** Sursa nu precizează cum ar urma să fie aplicată schimbarea și nici când ar putea începe.\n\n• **Lista Studenților a obținut 140 dintre cele 250 de mandate parlamentare.** Deputații săi au depus jurământul marți, în Adunarea Națională de la Belgrad, în prezența a sute de susținători. Potrivit relatării, coaliția nu are încă un candidat clar la funcția de prim-ministru; în octombrie, aceasta a înlăturat regimul lui Aleksandar Vučić.",
     "importance_score": 30.0,
-    "top_rank": 85,
+    "top_rank": 84,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4871,7 +4833,7 @@
     "lead_ro": "Premierul canadian Mark Carney a adus pe scenă doi comedianți care i-au interpretat pe el și pe președintele american Donald Trump la dineul anual al corespondenților parlamentari. Carney a făcut o aluzie la renovarea Biroului Oval, în timp ce relațiile comerciale dintre Canada și SUA rămân tensionate.",
     "content_ro": "• **La dineul organizat la Ottawa pe 21 noiembrie**, premierul Mark Carney a invitat doi comedianți: Mark McKinney l-a interpretat pe șeful guvernului canadian, iar Mark Critch a jucat rolul lui Donald Trump. Evenimentul a fost organizat de Asociația Corespondenților Parlamentari.\n\n• **Actorul care l-a imitat pe Trump a preluat și gestul său caracteristic de salut.** Acesta a dat mâna cu Carney și McKinney, într-un moment satiric construit în jurul relației dintre liderii canadian și american.\n\n• **Carney a ironizat renovarea Biroului Oval.** Premierul a spus că a fost singur în biroul președintelui american și a făcut referire la noul decorator de interior. Replica sa a provocat râsete în sală.\n\n• **Disputa comercială dintre cele două țări a fost și ea subiect de glume.** Interpretul lui Trump a prezentat o scenă despre o înțelegere, folosind autoironia. În septembrie, negocierile comerciale dintre SUA și Canada s-au încheiat fără rezultat. Trump a impus tarife de 50% asupra unor importuri canadiene, iar Canada a răspuns cu taxe vamale de același nivel pentru produse americane.",
     "importance_score": 30.0,
-    "top_rank": 86,
+    "top_rank": 85,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4914,7 +4876,7 @@
     "lead_ro": "Un băiat de trei ani din Missouri a murit de neuroblastom, iar poliția susține că tutorii nu l-au dus la controalele medicale recomandate. Mama și un alt tutore sunt acuzați de omor. Copilul era grav malnutrit când polițiștii au ajuns, pe 31 iulie, la locuința din Ozark.",
     "content_ro": "• **Poliția susține că monitorizarea cancerului copilului nu a continuat.** Băiatul fusese diagnosticat cu neuroblastom la spitalul Children’s Mercy din Kansas City, însă documentele judiciare arată că nu a mai fost dus la examinările recomandate. Diagnosticul fusese pus cu aproximativ doi ani înainte de deces.\n\n• **Mama și un alt tutore au fost acuzați de omor.** Autoritățile nu au făcut public numele copilului. Neuroblastomul este o formă rară de cancer care pornește din celulele nervoase ale copiilor; potrivit informațiilor citate, tratamentul poate oferi șanse favorabile de supraviețuire.\n\n• **Polițiștii au ajuns la locuința din Ozark pe 31 iulie.** Mama le-ar fi spus că băiatul nu răspundea. Echipele de intervenție l-au găsit într-o stare de slăbiciune extremă și malnutriție și au observat insecte pe corpul său.\n\n• **În casă au fost constatate condiții grave de igienă.** În documentele judiciare sunt menționate alimente alterate, insecte, excremente și urină de animale, gunoi împrăștiat și dezordine accentuată.\n\n• **Autopsia a identificat tumori în mai multe zone ale corpului.** Potrivit poliției, acestea se aflau inclusiv pe frunte și pe trunchi. La sosire, agenții confundaseră inițial umflăturile de pe corpul copilului cu vânătăi.",
     "importance_score": 30.0,
-    "top_rank": 87,
+    "top_rank": 86,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4957,7 +4919,7 @@
     "lead_ro": "O problemă la sistemul Delta Air Lines care gestionează datele despre greutatea și echilibrul aeronavelor a perturbat cursele din Statele Unite, în perioada aglomerată dinaintea Zilei Recunoștinței. Atlanta, principalul centru al companiei, a fost afectată în mod deosebit, iar programul nu a revenit imediat la normal după restabilirea sistemului.",
     "content_ro": "• **Defecțiunea a vizat instrumentul folosit de Delta pentru pregătirea zborurilor:** acesta prelucrează date despre pasageri, bagaje, marfă și combustibil pentru a determina masa și centrul de greutate al avionului. Respectarea acestor parametri este necesară pentru o decolare sigură, astfel că personalul a recurs temporar la calcule și proceduri manuale.\n\n• **Problemele au apărut duminică, 22 noiembrie,** într-un interval în care traficul aerian creștea înaintea sărbătorii de Thanksgiving. FlightAware indica întârzieri pentru aproximativ 48% dintre cursele Delta la mijlocul zilei. Ulterior, numărul zborurilor întârziate a trecut de 1.000, echivalentul a circa 67% din operațiunile companiei; aproximativ 2% dintre curse au fost anulate.\n\n• **Aeroportul din Atlanta, principalul hub al Delta, a fost printre cele mai afectate.** Compania a cerut FAA să limiteze temporar plecările curselor Delta cu destinația Atlanta. Oprirea completă a decolărilor a fost înlocuită ulterior cu întârzieri, iar restricțiile au durat aproximativ o oră. FAA a estimat că măsurile ar putea influența peste 3.500 de zboruri și a precizat că sistemele proprii de dirijare a traficului nu au provocat defecțiunea.\n\n• **Echipele tehnice au repus sistemul în funcțiune după câteva ore,** însă programul curselor a rămas perturbat și după remediere. Delta și-a cerut scuze pasagerilor și a oferit sprijin pentru schimbarea rezervărilor, precum și mese și cazare atunci când situația o impunea. Cei ale căror zboruri au fost anulate puteau solicita rambursarea contravalorii biletului.",
     "importance_score": 30.0,
-    "top_rank": 88,
+    "top_rank": 87,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5000,6 +4962,44 @@
     "lead_ro": "Ministrul și profesorul Sorin Costreie consideră că școala ar trebui să pună mai mult accent pe întrebări și gândire, nu doar pe transmiterea informațiilor. El a descris inteligența artificială drept un instrument cu potențial util, dar care necesită o utilizare conștientă.",
     "content_ro": "• **Sorin Costreie susține schimbarea abordării didactice.** Ministrul, care este și profesor, a afirmat duminică seară că predarea nu ar trebui să se limiteze la prezentarea lecției și verificarea ulterioară a cunoștințelor. În opinia sa, elevii trebuie să învețe și să formuleze întrebări, precum și să gândească independent.\n\n• **Provocarea educației s-a mutat de la lipsa informațiilor la abundența lor.** Costreie a comparat situația actuală cu cea de acum câteva decenii, când accesul la informație era o dificultate. În prezent, a spus el, contează mai ales felul în care informațiile sunt înțelese și folosite.\n\n• **Dezvoltarea inteligenței artificiale face importantă învățarea reflexivă.** Costreie consideră că elevii trebuie să înțeleagă ce este acest instrument și cum pot interacționa cu el. El a evidențiat rolul întrebărilor și al exercițiilor care dezvoltă capacitatea de gândire.\n\n• **AI poate ajuta la sintetizarea și colectarea informațiilor, dar utilizarea ei greșită implică riscuri.** Costreie a prezentat tehnologia ca pe un instrument cu efecte potențial diferite, în funcție de modul de folosire. Folosită în cunoștință de cauză, aceasta poate sprijini activitatea utilizatorilor și le poate deschide noi posibilități.\n\n• **Ministrul a menționat că există și exemple pozitive în educație.** El le-a descris drept „insule de normalitate”, fără ca relatarea să precizeze instituțiile sau practicile vizate. Mesajul său a fost că pregătirea cognitivă a elevilor este necesară pentru folosirea adecvată a inteligenței artificiale.",
     "importance_score": 30.0,
+    "top_rank": 88,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
+    "group_id": "group_85e2a1a70c",
+    "slug": "a-monza-30-ra-legyozte-a-fiorentinat-dragusin-vegigjatszotta-a-merkozest-85e2a1",
+    "tags": [
+      "monza",
+      "fiorentina",
+      "serie-a",
+      "radu-dragusin"
+    ],
+    "fingerprint": "421b74111e3c58eae3d501de0fd2333d",
+    "category": "Sport",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 2,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Cu Radu Drăgușin integralist, Fiorentina a fost UMILITĂ în Serie A! Românul a primit și un „galben”",
+        "link": "https://www.gsp.ro/international/campionate/live-monza-fiorentina-radu-dragusin-serie-a-1002209.html"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Dezastru pentru Fiorentina! Monza face spectacol și câștigă cu 3-0",
+        "link": "https://www.mediafax.ro/stirile-zilei/dezastru-pentru-fiorentina-monza-face-spectacol-si-castiga-cu-3-0-23848283"
+      }
+    ],
+    "published_at": 1795470471,
+    "title_hu": "A Monza 3–0-ra legyőzte a Fiorentinát, Drăgușin végigjátszotta a mérkőzést",
+    "lead_hu": "A Monza hazai pályán három góllal nyert a Fiorentina ellen a Serie A 12. fordulójának hétfői zárómérkőzésén. Radu Drăgușin kezdőként lépett pályára, végig a pályán maradt, és a 80. percben sárga lapot kapott.",
+    "content_hu": "• **A Monza 3–0-s győzelmet aratott a Fiorentina felett** november 23-án, a Serie A 12. fordulójának utolsó találkozóján. A mérkőzést Monzában rendezték; a sikerrel a hazaiak megelőzték ellenfelüket a tabellán.\n\n• **Gustavo Varela két góllal járult hozzá a győzelemhez.** A 42. percben Crist Inao Oulai kezezése után büntetőt ítéltek, amelyet Varela a 44. percben értékesített. A támadó a szünet után, az 52. percben ismét betalált, sarokkal fejezte be a bal oldalról érkező beadást.\n\n• **A harmadik találatot Robinson szerezte az 59. percben.** A Monza játékosa a tizenhatoson belülről lőtt a kapuba, miután a labda Radu Drăgușin fejeséről került elé.\n\n• **Drăgușin végigjátszotta a találkozót, és sárga lapot kapott.** A román válogatott védő első alkalommal szerepelt klubjában azután, hogy visszatért a nemzeti csapattól, amely Lengyelországgal és Bosznia-Hercegovinával játszott. A figyelmeztetést a 80. percben mutatták fel neki.\n\n• **A Monza tíz ponttal elmozdult a kieső helyekről, a Fiorentina kilenc ponttal maradt.** A győztes csapat a tabellán a firenzeiek elé került, míg a Fiorentina egy ponttal állt a Sassuolo előtt, amely a beszámoló szerint kiesést jelentő helyen volt.",
+    "title_ro": "Monza a învins Fiorentina cu 3-0, iar Drăgușin a jucat tot meciul",
+    "lead_ro": "Monza s-a impus pe teren propriu cu 3-0 în fața Fiorentinei, în ultima partidă a etapei a 12-a din Serie A. Radu Drăgușin a evoluat pe toată durata întâlnirii și a primit un cartonaș galben în minutul 80.",
+    "content_ro": "• **Monza a câștigat cu 3-0 partida cu Fiorentina**, disputată la 23 noiembrie, în etapa a 12-a din Serie A. Meciul de la Monza a încheiat runda, iar rezultatul a urcat echipa gazdă deasupra formației din Florența în clasament.\n\n• **Gustavo Varela a înscris de două ori pentru învingători.** În minutul 42, arbitrul a dictat penalty după un henț comis de Crist Inao Oulai, iar Varela a transformat lovitura de pedeapsă în minutul 44. Atacantul a marcat din nou după pauză, în minutul 52, cu o execuție cu călcâiul, în urma unei centrări din partea stângă.\n\n• **Robinson a stabilit scorul final în minutul 59.** Fotbalistul lui Monza a șutat din interiorul careului după ce mingea a ajuns la el în urma unei respingeri cu capul a lui Radu Drăgușin.\n\n• **Drăgușin a fost integralist și a fost avertizat în minutul 80.** Fundașul român a revenit în echipa de club după participarea la acțiunile naționalei, care a întâlnit Polonia și Bosnia și Herțegovina. Partida cu Monza a fost prima sa apariție după întoarcerea de la reprezentativă.\n\n• **Monza a ajuns la zece puncte și a ieșit din zona retrogradării, iar Fiorentina a rămas cu nouă.** Formația gazdă a trecut în clasament înaintea adversarei sale. Fiorentina avea un punct în plus față de Sassuolo, echipa aflată pe ultima poziție menționată ca ducând în Serie B.",
+    "importance_score": 28.0,
     "top_rank": 89,
     "is_top_hero": false,
     "is_top_list": true
