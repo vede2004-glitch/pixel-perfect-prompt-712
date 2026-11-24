@@ -487,7 +487,7 @@
   {
     "group_id": "group_154abce750",
     "category": "Politika",
-    "articles_count": 17,
+    "articles_count": 18,
     "articles": [
       {
         "source": "ProTV Stiri",
@@ -641,6 +641,15 @@
         "summary": "On Tuesday, the Presidential Administration responded to a report presented on Monday evening by the AUR party regarding the annulment of the 2024 presidential elections, stating that the document \"brings no new arguments to the legal debate.\"",
         "category": "Politika",
         "published_at": 1795520837
+      },
+      {
+        "source": "Transtelex",
+        "title": "Reagált az elnöki hivatal az AUR jelentésére, de a Nicușor Dan ígérte jelentésről nem esett szó",
+        "link": "https://transtelex.ro/kozelet/2026/11/24/elnoki-hivatal-aur-elnokvalasztas-jelentes",
+        "image": "https://assets.telex.hu/images/20261124/1795521952-temp-uvv6qhjmcq51fjdeeeb_cimlap-normal.jpg",
+        "summary": "Az elnöki hivatal részletesen válaszolt az AUR szövegére, amely álláspontja szerint nem szolgál új érvekkel a 2024. novemberi elnökválasztás érvénytelenítésének jogi megítéléséhez.",
+        "category": "Politika",
+        "published_at": 1795522062
       }
     ]
   },
@@ -858,79 +867,6 @@
     ]
   },
   {
-    "group_id": "group_30e4c09736",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Kisteherautóval ütközött, meghalt egy 30 éves motoros (VIDEÓ)",
-        "link": "https://maszol.ro/belfold/Kisteherautoval-utkozott-meghalt-egy-30-eves-motoros-VIDEO",
-        "image": "https://maszol.ro/resized/2026_november_/23/cikk_szirena_rendorseg_politie_pexels_(1)_(1).jpg",
-        "summary": "Meghalt egy 30 éves motoros vasárnap, miután egy kisteherautóval ütközött a bukaresti körgyűrűn, Bragadiru közelében. A balesetet térfigyelő kamera is rögzítette.",
-        "category": "Általános",
-        "published_at": 1795435680
-      }
-    ]
-  },
-  {
-    "group_id": "group_c5b897ca16",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Közeleg a minivakáció – Mennyi szabadnapunk lesz még az év végéig",
-        "link": "https://maszol.ro/belfold/Kozeleg-a-minivakacio-Mennyi-szabadnapunk-lesz-meg-az-ev-vegeig",
-        "image": "https://maszol.ro/resized/2026_november_/23/cikk_szabad_nap_pexels.jpg",
-        "summary": "Hamarosan újabb hosszú hétvégének örülhetnek a romániai munkavállalók és diákok:",
-        "category": "Általános",
-        "published_at": 1795435500
-      }
-    ]
-  },
-  {
-    "group_id": "group_a33570631e",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Maszol",
-        "title": "Télies útviszonyok – Kolozs megyében is megkezdődtek a hóeltakarítási munkálatok",
-        "link": "https://maszol.ro/belfold/Telies-utviszonyok-Kolozs-megyeben-is-megkezdodtek-a-hoeltakaritasi-munkalatok",
-        "image": "https://maszol.ro/resized/2026_november_/23/cikk_WhatsApp_Image_2026-11-23_at_12-13-45_(2).jpg",
-        "summary": "A legtöbb beavatkozás Bánffyhunyad és Torda térségében történt.",
-        "category": "Általános",
-        "published_at": 1795435797
-      }
-    ]
-  },
-  {
-    "group_id": "group_44f5a68dff",
-    "category": "Általános",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "Transtelex",
-        "title": "Lezárták a Transzalpina egy szakaszát a havazás miatt",
-        "link": "https://transtelex.ro/kozelet/2026/11/23/lezartak-a-transzalpina-egy-szakaszat-a-havazas-miatt",
-        "image": "https://assets.telex.hu/images/20261123/1795435582-temp-eujrka93oj8pfdghhek_cimlap-normal.jpg",
-        "summary": "A korlátozás az időjárási körülmények javulásáig marad érvényben.",
-        "category": "Általános",
-        "published_at": 1795435640
-      },
-      {
-        "source": "Maszol",
-        "title": "Életveszélyes lehet a hóban elakadni: zárva tartják a Transzalpina egyik szakaszát",
-        "link": "https://maszol.ro/belfold/Eletveszelyes-lehet-a-hoban-elakadni-zarva-tartjak-a-Transzalpina-egyik-szakaszat",
-        "image": "https://maszol.ro/resized/2026_november_/24/cikk_Opera_Snapshot_2026-10-31_145245_dnpd_.png",
-        "summary": "Az utat még hétfő délelőtt zárták le és a korlátozás az időjárási körülmények javulásáig marad érvényben.",
-        "category": "Általános",
-        "published_at": 1795515000
-      }
-    ]
-  },
-  {
     "group_id": "group_4bad538f2f",
     "category": "Általános",
     "articles_count": 1,
@@ -943,22 +879,6 @@
         "summary": "November 20-án és 21-én a temesvári Kolping-ház adott otthont a szinodális munkacsoportok felelősei országos találkozójának, amelyen a romániai római katolikus és görögkatolikus egyházmegyék képviselői vettek részt. A rendezvény alkalmat kínált a szinodális folyamat eddigi tapasztalatainak megvitatására, a párbeszédre és a tapasztalatcserére, valamint annak átgondolására, miként ültethető át a Püspöki Szinódus záródokumentuma a helyi közösségek mindennapi […]",
         "category": "Általános",
         "published_at": 1795436100
-      }
-    ]
-  },
-  {
-    "group_id": "group_219ae41109",
-    "category": "Sport",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Fostul șef din Formula 1 l-a pus la punct pe Russell, după conflictul cu Verstappen: „Îți este net superior, renunță!”",
-        "link": "https://www.gsp.ro/sporturi/formula-1/guenther-steiner-conflict-max-verstappen-george-russell-1002159.html",
-        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/12092026/e4d537ff-cd49-456b-99c0-8b41c6f6489b.jpg?width=290&height=208",
-        "summary": "Guenther Steiner (61 de ani), fostul șef al celor de la Haas, a comentat conflictul dintre George Russell și Max Verstappen din Marele Premiu din Las Vegas. Fostul oficial, care în prezent e analist, l-a sfătuit pe britanic să renunțe la disputele cu olandezul. Cei doi au mai avut conflicte în trecut, dar cearta s-a reaprins după un incident între cei doi pe pistă în ultima sesiune de antrenamente libere. ...",
-        "category": "Sport",
-        "published_at": 1795435574
       }
     ]
   },
@@ -1095,22 +1015,6 @@
     ]
   },
   {
-    "group_id": "group_37b3e058d8",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "HotNews.ro",
-        "title": "[P] Cum alegi clinica și medicul pentru un tratament ortodontic",
-        "link": "https://hotnews.ro/p-cum-alegi-clinica-si-medicul-pentru-un-tratament-ortodontic-2411615",
-        "image": "",
-        "summary": "Alegerea medicului ortodont este una dintre cele mai importante decizii atunci când îți dorești să corectezi poziția dinților sau o problemă de mușcătură. Tratamentul ortodontic poate dura de la câteva luni la câțiva ani și presupune vizite periodice, monitorizare și colaborare constantă între pacient și echipa medicală. Pentru a alege clinica și medicul ortodont potrivit, …",
-        "category": "Általános",
-        "published_at": 1795435693
-      }
-    ]
-  },
-  {
     "group_id": "group_fa5552e4a2",
     "category": "Általános",
     "articles_count": 1,
@@ -1123,22 +1027,6 @@
         "summary": "Un accident rutier îți poate afecta activitățile zilnice, mai ales când mașina trebuie să rămână în service pentru reparații. În București, o mașină la schimb poate fi o soluție practică pentru a-ți continua deplasările.",
         "category": "Általános",
         "published_at": 1795436160
-      }
-    ]
-  },
-  {
-    "group_id": "group_3ae698e7c7",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "Adevărul",
-        "title": "Miss Universe 2026: Când are loc marea finală și unde poate fi urmărit concursul de frumusețe",
-        "link": "https://adevarul.ro/stiri-externe/in-lume/miss-universe-2026-cand-are-loc-marea-finala-si-2573692.html",
-        "image": "https://cdn.adh.reperio.news/image-8/859df7c2-e1db-47aa-b105-57570feb97a1/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
-        "summary": "Cea de-a 75-a ediție a concursului Miss Universe se desfășoară în San Juan, Puerto Rico, unde au ajuns peste 100 de concurente din întreaga lume. Marea finală va avea loc marți, 24 noiembrie, de la ora 20:00 ET. Evenimentul va putea fi urmărit la televizor și online.",
-        "category": "Általános",
-        "published_at": 1795435743
       }
     ]
   },
@@ -1182,47 +1070,6 @@
         "summary": "Președintele PSD Sorin Grindeanu a fost întrebat luni, într-o conferinţă de presă, dacă a reevaluat partidul AUR, având în vedere că PSD şi AUR au votat recent împreună în Parlament în mai multe momente între care cel privind Curtea de Conturi, TVR, Radio România, dar şi înfiinţarea comisiei de anchetă privind folosirea maşinii SPP la …",
         "category": "Politika",
         "published_at": 1795441300
-      }
-    ]
-  },
-  {
-    "group_id": "group_2eacb5cf5a",
-    "category": "Politika",
-    "articles_count": 2,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Abrudean, despre disidenţii din PNL: „Vedem dacă s-au retras sau nu. Au avut un ultimatum, li s-a întins o mână de ajutor”",
-        "link": "https://stirileprotv.ro/stiri/politic/abrudean-despre-disidentii-din-pnl-vedem-daca-s-au-retras-sau-nu-au-avut-un-ultimatum-li-s-a-intins-o-mana-de-ajutor.html",
-        "image": "https://stirileprotv.ro/img/2026/04/20/113308/abrudean_parlament_toma_200426.webp?fm=jpg&q=80&fit=crop&crop=768%2C432%2C0%2C0&w=1280",
-        "summary": "Preşedintele Senatului, Mircea Abrudean, a declarat că liberalii care au contestat în instanţă deciziile conducerii PNL privind votul asupra Guvernului Veştea vor fi subiectul discuţiilor de la şedinţa de grup de astăzi, 23 noiembrie.",
-        "category": "Politika",
-        "published_at": 1795435734
-      },
-      {
-        "source": "Digi24",
-        "title": "PNL analizează astăzi situaţia liberalilor care au dat partidul în judecată. Abrudean: Riscă excluderea din grupul parlamentar",
-        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-analizeaza-astazi-situatia-liberalilor-care-au-dat-partidul-in-judecata-abrudean-risca-excluderea-din-grupul-parlamentar-4049255",
-        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjEyJTJGMjcyNzYyNl8yNzI3/NjI2X0lEMjU0NzA5LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PWZkMTRiMDZiNDliMmFkNzY1Y2Y0OWE5ZDAzMDViNTc3.jpg",
-        "summary": "Preşedintele Senatului Mircea Abrudean a anunţat că situaţia liberalilor care nu şi-au retras acţiunile în instanţă împotriva unor decizii ale partidului va fi analizată, luni, în şedinţa grupului parlamentar al PNL. Avocaţii formaţiunii vor verifica dacă aleșii vizaţi au renunţat la procese, iar cei care nu s-au conformat ar putea părăsi grupul parlamentar. Potrivit surselor Digi24, niciunul dintre ei nu a renunțat, până acum, la proces.",
-        "category": "Politika",
-        "published_at": 1795439944
-      }
-    ]
-  },
-  {
-    "group_id": "group_9d3a19d7ed",
-    "category": "Általános",
-    "articles_count": 1,
-    "articles": [
-      {
-        "source": "ProTV Stiri",
-        "title": "Toate cele trei „obiecte zburătoare” care s-au prăbușit în Polonia s-au dovedit a fi rachete de croazieră rusești Kh-101",
-        "link": "https://stirileprotv.ro/stiri/international/toate-cele-trei-obiecte-zburatoare-care-s-au-prabusit-in-polonia-s-au-dovedit-a-fi-rachete-de-croaziera-rusesti-kh-101.html",
-        "image": "https://stirileprotv.ro/img/2026/11/23/120554/resturi-racheta.jpg?fm=jpg&q=80&fit=crop&crop=1200%2C800%2C0%2C0&w=1280",
-        "summary": "În toate cele trei localități din Polonia în care au căzut ”obiecte zburătoare” în noaptea atacului asupra Ucrainei, din 20 noiembrie, au fost descoperite fragmente de rachete de croazieră Kh-101.",
-        "category": "Általános",
-        "published_at": 1795435577
       }
     ]
   },
@@ -2745,6 +2592,22 @@
         "summary": "O adolescentă de 17 ani este singura supraviețuitoare din tragedia care a avut loc în localitatea Mișca din Arad. Șoferul care a gonit cu 200 km/h nu avea permis de conducere și ar fi consumat băuturi alcoolice înainte de a pleca la drum. Accidentul a avut loc dumincă seara, 22 noiembrie, în jurul orei 22:00, […]",
         "category": "Bulvár",
         "published_at": 1795439792
+      }
+    ]
+  },
+  {
+    "group_id": "group_2eacb5cf5a",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Digi24",
+        "title": "PNL analizează astăzi situaţia liberalilor care au dat partidul în judecată. Abrudean: Riscă excluderea din grupul parlamentar",
+        "link": "https://www.digi24.ro/stiri/actualitate/politica/pnl-analizeaza-astazi-situatia-liberalilor-care-au-dat-partidul-in-judecata-abrudean-risca-excluderea-din-grupul-parlamentar-4049255",
+        "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNSUyRjEyJTJGMjcyNzYyNl8yNzI3/NjI2X0lEMjU0NzA5LUlOUVVBTS1QSE9U/T1MtR0VPUkdFLUNBTElOLmpwZyZoYXNo/PWZkMTRiMDZiNDliMmFkNzY1Y2Y0OWE5ZDAzMDViNTc3.jpg",
+        "summary": "Preşedintele Senatului Mircea Abrudean a anunţat că situaţia liberalilor care nu şi-au retras acţiunile în instanţă împotriva unor decizii ale partidului va fi analizată, luni, în şedinţa grupului parlamentar al PNL. Avocaţii formaţiunii vor verifica dacă aleșii vizaţi au renunţat la procese, iar cei care nu s-au conformat ar putea părăsi grupul parlamentar. Potrivit surselor Digi24, niciunul dintre ei nu a renunțat, până acum, la proces.",
+        "category": "Politika",
+        "published_at": 1795439944
       }
     ]
   },
@@ -15497,6 +15360,22 @@
     ]
   },
   {
+    "group_id": "group_44f5a68dff",
+    "category": "Általános",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Maszol",
+        "title": "Életveszélyes lehet a hóban elakadni: zárva tartják a Transzalpina egyik szakaszát",
+        "link": "https://maszol.ro/belfold/Eletveszelyes-lehet-a-hoban-elakadni-zarva-tartjak-a-Transzalpina-egyik-szakaszat",
+        "image": "https://maszol.ro/resized/2026_november_/24/cikk_Opera_Snapshot_2026-10-31_145245_dnpd_.png",
+        "summary": "Az utat még hétfő délelőtt zárták le és a korlátozás az időjárási körülmények javulásáig marad érvényben.",
+        "category": "Általános",
+        "published_at": 1795515000
+      }
+    ]
+  },
+  {
     "group_id": "group_f123a02c63",
     "category": "Sport",
     "articles_count": 1,
@@ -16070,7 +15949,7 @@
   {
     "group_id": "group_4fa8ca4600",
     "category": "Általános",
-    "articles_count": 1,
+    "articles_count": 2,
     "articles": [
       {
         "source": "Mediafax",
@@ -16080,6 +15959,15 @@
         "summary": "Primarul Capitalei anunță că va cere ajutorul Guvernului pentru a rezolva problemele rețelei de termoficare din București. „În lipsa SACET, sistemul de termoficare nu va supraviețui mai mult de zece ani, va ajunge iar în faliment Termoenergetica”, a transmis Ciprian Ciucu.",
         "category": "Általános",
         "published_at": 1795517251
+      },
+      {
+        "source": "G4Media",
+        "title": "Ciprian Ciucu: În lipsa SACET, sistemul de termoficare din Capitală nu va supraviețui mai mult de zece ani, va ajunge iar în faliment Termoenergetica",
+        "link": "https://www.g4media.ro/ciprian-ciucu-in-lipsa-sacet-sistemul-de-termoficare-din-capitala-nu-va-supravietui-mai-mult-de-zece-ani-va-ajunge-iar-in-faliment-termoenergetica.html",
+        "image": "https://www.g4media.ro/wp-content/uploads/2022/11/FB1A2178.jpg",
+        "summary": "Primăria Capitalei a înlocuit anul acesta 100 de kilometri de conducte din rețeaua de termoficare, a declarat într-un interviu la RFI primarul general Ciprian Ciucu. El precizează că pierderile din rețea au scăzut cu 4%. „În lipsa SACET, sistemul nu va supraviețui mai mult de zece ani, va ajunge iar în faliment Termoenergetica. Producția, CET-urile […] © G4Media.ro.",
+        "category": "Általános",
+        "published_at": 1795522086
       }
     ]
   },
@@ -16864,7 +16752,7 @@
         "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/8010613-mediafax_foto-alexandru_dobre-1024x683.jpg",
         "summary": "Elena Lasconi a transmis marți, la doi ani de la primul tur al alegerilor prezidențiale anulate din 2024, un mesaj critic în care a blamat conducerea politică de la vremea aceea pentru „cea mai mizerabilă încălcare a democrației” și actuala conducere de la Cotroceni, suținând că cetățenii nu vor afla niciodată adevărule despre anulare.",
         "category": "Általános",
-        "published_at": 1795521890
+        "published_at": 1795522241
       }
     ]
   },
@@ -17105,6 +16993,54 @@
         "summary": "A romániai tejtermékpiac ötödik legnagyobb szereplője lett a FrieslandCampina România, a Napolact márka gyártója, amely Marosvásárhelyen is működtet tejfeldolgozó üzemet. A Ziarul Financiar november 24-én …",
         "category": "Általános",
         "published_at": 1795521600
+      }
+    ]
+  },
+  {
+    "group_id": "group_7611432060",
+    "category": "Sport",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Frații Kovacs, în fața unui moment rar în arbitrajul european » Mentorul celor doi dezvăluie ce îi diferențiază: „Lumea nu știe!”",
+        "link": "https://www.gsp.ro/international/liga-campionilor/fratii-kovacs-in-fata-unui-moment-rar-in-arbitrajul-european-1002489.html",
+        "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/24112026/ed8396e3-eb76-4d3b-a5a1-70ea4def76b3.jpg?width=290&height=208",
+        "summary": "Istvan și Szabolcs Kovacs vor arbitra, în aceeași zi, două meciuri între Manchester City și Napoli, în Liga Campionilor, respectiv Youth League, o coincidență rară în delegările UEFA. Într-un dialog cu GSP.ro, Ștefan Szilagyi, fost arbitru și omul care i-a descoperit, a vorbit despre particularitățile și relația fraților din Carei. Cei doi se vor afla la centru, astăzi, la Manchester, la câteva ore distanță unul de celălalt. ...",
+        "category": "Sport",
+        "published_at": 1795521600
+      }
+    ]
+  },
+  {
+    "group_id": "group_e242ed50c9",
+    "category": "Bulvár",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "Cancan.ro",
+        "title": "Celebra prezentatoare TV a anunțat, în direct, că va deveni mamă la 59 de ani. Reacția colegilor din platou",
+        "link": "https://www.cancan.ro/celebra-prezentatoare-tv-a-anuntat-in-direct-ca-va-deveni-mama-la-59-de-ani-reactia-colegilor-din-platou-21553227",
+        "image": "https://www.cancan.ro/wp-content/uploads/2026/11/Artboard-1-copy-7.jpg-1200x675.jpeg",
+        "summary": "Dr. Renée Hoenderkamp, asistentă medicală în cadrul NHS și co-prezentatoare la GB News, și-a surprins colegii de platou după ce a anunțat în direct că este însărcinată cu al treilea copil. La 59 de ani, ea urmează să devină din nou mamă la aproape patru decenii după nașterea primului său copil. Anunțul a fost făcut […]",
+        "category": "Bulvár",
+        "published_at": 1795521739
+      }
+    ]
+  },
+  {
+    "group_id": "group_5c6eea52db",
+    "category": "Politika",
+    "articles_count": 1,
+    "articles": [
+      {
+        "source": "G4Media",
+        "title": "Gill Julien Iacobici, numit șef peste procurorii din Dobrogea / Cunoscut ca pupilul procurorilor Niță și Ștefan, judecați pentru corupție / Soția și socrul condamnați pentru frauda banilor UE / Soacra, primar PSD din 2008 / Singurul candidat respins la marile parchete",
+        "link": "https://www.g4media.ro/gill-julien-iacobici-numit-sef-peste-procurorii-din-dobrogea-cunoscut-ca-pupilul-procurorilor-nita-si-stefan-judecati-pentru-coruptie-sotia-si-socrul-condamnati-pentru-frauda-banilor-ue-soacra.html",
+        "image": "https://www.g4media.ro/wp-content/uploads/2026/01/dreamstime_m_31343379-e1769077199547.jpg",
+        "summary": "Procurorul Gill Julien Iacobici a fost pus șef peste toate parchetele din Dobrogea de către Consiliul Superior al Magistraturii, în urma concursului organizat pentru conducerea Parchetului de pe lângă Curtea de Apel Constanța în noiembrie. Informația a fost confirmată de Iacobici pentru publicația locală Info Sud-Est. Iacobici e cunoscut în breasla magistraților din Constanța ca […] © G4Media.ro.",
+        "category": "Politika",
+        "published_at": 1795522132
       }
     ]
   }
