@@ -1177,7 +1177,7 @@
     "category": "Általános",
     "is_synthesized": true,
     "rejected": false,
-    "sources_count": 9,
+    "sources_count": 10,
     "sources": [
       {
         "source": "Mediafax",
@@ -1223,6 +1223,11 @@
         "source": "Mediafax",
         "title": "Raportul Letta avertizează asupra obstacolelor din economia României. Nazare: Accesul la capital și energia scumpă limitează dezvoltarea",
         "link": "https://www.mediafax.ro/economic/raportul-letta-avertizeaza-asupra-obstacolelor-din-economia-romaniei-nazare-accesul-la-capital-si-energia-scumpa-limiteaza-dezvoltarea-23848866"
+      },
+      {
+        "source": "Maszol",
+        "title": "Kemény jelentés a hazai közigazgatásról: a szakemberhiány blokkolja a gazdasági fejlődést",
+        "link": "https://maszol.ro/belfold/Kemeny-jelentes-a-hazai-kozigazgatasrol-a-szakemberhiany-blokkolja-a-gazdasagi-fejlodest"
       }
     ],
     "published_at": 1795551639,
@@ -1232,7 +1237,7 @@
     "title_ro": "România vrea să ducă deficitul sub 3% până în 2031 și să schimbe modelul de creștere",
     "lead_ro": "Premierul Luca Niculescu a anunțat că România își propune să reducă deficitul bugetar sub 3% din PIB până în 2031. Raportul privind competitivitatea și măsurile prezentate urmăresc stimularea productivității, inovării și investițiilor companiilor, precum și simplificarea accesului la fondurile europene.",
     "content_ro": "• **Ținta de deficit este stabilită pentru 2031.** Luca Niculescu a prezentat obiectivul reducerii deficitului sub 3% din PIB la lansarea raportului de competitivitate pentru perioada 2027–2035. Traiectoria fiscală ar urma să diminueze costurile de finanțare ale statului și economiei, iar premierul vrea ca în 2027 să fie mai puține modificări fiscale prin ordonanțe de urgență.\n\n• **Economia are nevoie de noi surse de creștere.** PIB-ul pe locuitor a urcat de la 26% la 78% din media UE între 2000 și 2025, însă modelul bazat pe costuri reduse își arată limitele. România ocupă locul 29 din 130 de economii la complexitatea exporturilor și locul 61 din 70 la competitivitate; raportul indică productivitatea, inovarea și valoarea adăugată mai mare ca direcții de dezvoltare.\n\n• **Strategia ar putea viza sectoare-cheie și dezvoltarea firmelor.** Printre domeniile cu potențial se numără IT-ul, industria prelucrătoare, apărarea, agricultura, transporturile și turismul. Niculescu a propus un comitet care să elaboreze o strategie până în 2035, cu economiști independenți, Consiliul Fiscal, BNR și Administrația Prezidențială. Alexandru Nazare a indicat accesul la capital, costul energiei și colaborarea redusă dintre cercetare și industrie drept obstacole; programul de sprijin pentru industria prelucrătoare are un buget de 759 de milioane de lei.\n\n• **O colectare mai bună ar putea spori veniturile fără majorarea cotelor de impozitare.** Raportul estimează un deficit de conformare de 30% la TVA și de 44% la impozitul pe profit. Atingerea nivelului mediu european ar putea aduce venituri suplimentare de 3–4% din PIB. În prezent, veniturile publice sunt sub 30% din PIB în România, comparativ cu aproape 40% în UE.\n\n• **România cere acces mai simplu și reguli adaptate pentru fondurile de coeziune.** Țara susține păstrarea regulii n+3 după 2027, cote de cofinanțare potrivite fiecărei regiuni și atenție sporită zonelor de la granița estică a UE. Propunerile includ implicarea reală a autorităților locale și regionale, costuri standard simplificate și proceduri mai accesibile pentru primării, organizații mici și beneficiarii aflați la primul proiect european.",
-    "importance_score": 98.0,
+    "importance_score": 108.0,
     "top_rank": 9,
     "is_top_hero": false,
     "is_top_list": true
@@ -1503,6 +1508,65 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_20b95d8a1e",
+    "slug": "lukasenka-zelenszkijjel-utazna-moszkvaba-uj-reszletek-kerultek-elo-20b95d",
+    "tags": [
+      "belarusz",
+      "ukrajna",
+      "oroszorszag",
+      "zelenszkij",
+      "putyin"
+    ],
+    "fingerprint": "207623664145a132135661c22dd0df62",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 6,
+    "sources": [
+      {
+        "source": "Digi24",
+        "title": "Lukașenko se oferă să meargă la Moscova cu Zelenski pentru o întâlnire cu Putin: „În calitate de garant al securității sale”",
+        "link": "https://www.digi24.ro/stiri/externe/ue/lukasenko-se-ofera-sa-mearga-la-moscova-cu-zelenski-pentru-o-intalnire-cu-putin-in-calitate-de-garant-al-securitatii-sale-4051547"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Lukașenko se oferă să-l însoțească pe Zelenski la Moscova pentru o întâlnire cu Putin: „Aș fi garantul securității sale”",
+        "link": "https://adevarul.ro/stiri-externe/europa/lukasenko-se-ofera-sa-l-insoteasca-pe-zelenski-la-2574201.html"
+      },
+      {
+        "source": "HotNews.ro",
+        "title": "Lukașenko, aliatul lui Putin, s-a oferit să îl însoțească pe Zelenski la Moscova, „ca garant al securității sale”",
+        "link": "https://hotnews.ro/lukasenko-aliatul-lui-putin-s-a-oferit-sa-il-insoteasca-pe-zelenski-la-moscova-ca-garant-al-securitatii-sale-2412972"
+      },
+      {
+        "source": "Mediafax",
+        "title": "Lukașenko se oferă să zboare cu Zelenski la Moscova pentru discuții cu Putin, „ca garant al securității sale”",
+        "link": "https://www.mediafax.ro/externe/lukasenko-se-ofera-sa-zboare-cu-zelenski-la-moscova-pentru-discutii-cu-putin-ca-garant-al-securitatii-sale-23848958"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Lukașenko se oferă să-l însoțească pe Zelenski la Moscova. „Rusia avansează, oamenii mor, dar asta e”",
+        "link": "https://stirileprotv.ro/stiri/international/lukasenko-se-ofera-sa-l-insoteasca-pe-zelenski-la-moscova-rusia-avanseaza-oamenii-mor-dar-asta-e.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "„Aduceți-l pe Putin la Kiev!” Zelenski îl ironizează pe Lukașenko după invitația de a merge la Moscova pentru negocieri",
+        "link": "https://adevarul.ro/stiri-externe/europa/aduceti-l-pe-putin-la-kiev-zelenski-il-2574243.html"
+      }
+    ],
+    "published_at": 1795585756,
+    "title_hu": "Lukasenka Zelenszkijjel utazna Moszkvába, új részletek kerültek elő",
+    "lead_hu": "Alekszandr Lukasenka felajánlotta, hogy Volodimir Zelenszkijjel együtt Moszkvába repül egy Putyinnal tartandó találkozóra, és biztonsági garanciát vállal az ukrán elnökért. Az új beszámolók az interjú témáiról, a korábbi tárgyalásokról és Belarusz Oroszország melletti álláspontjáról is közölnek részleteket.",
+    "content_hu": "• **Közös moszkvai utat ajánlott:** Alekszandr Lukasenka azt javasolta, hogy Volodimir Zelenszkijjel kettesben utazzon az orosz fővárosba, ahol az ukrán elnök közvetlenül tárgyalhatna Vlagyimir Putyinnal. A belarusz vezető vállalná, hogy elkíséri Zelenszkijt, és felelősséget vállal a biztonságáért.\n\n• **November 17-én rögzítették az interjút:** Lukasenka a francia Le Point magazinnak adott beszélgetést Anne Nivat újságíróval. A mintegy másfél órás interjúban az ukrajnai háború, Európa jövőbeli biztonsági rendszere, a Minszk és az EU közötti viszony, valamint a konfliktus rendezésének lehetőségei is szóba kerültek. A teljes anyag november 25-re volt várható.\n\n• **Háromoldalú egyeztetést sürgetett:** Lukasenka szerint Belarusz, Ukrajna és Oroszország képviselőinek tárgyalása gyorsabban eredményre vezethet, mint az európai résztvevőket is bevonó folyamat. A háború lezárását és a későbbi rend kialakítását is a három ország ügyének tekintette, ugyanakkor elismerte, hogy Franciaországnak és más uniós államoknak is lehet szerepük.\n\n• **A javaslat a korábbi diplomáciai viták közegében hangzott el:** November 10–11-én Abu-Dzabiban Ukrajna, Oroszország és az Egyesült Államok részvételével tartottak tárgyalást; ilyen háromoldalú egyeztetésre február óta nem került sor. Moszkva korábban ellenezte, hogy Európa is helyet kapjon a tárgyalóasztalnál.\n\n• **Minszk Moszkva közeli partnere maradt:** Belarusz 2022 februárjában lehetővé tette, hogy az orosz erők a területét használják az ukrajnai invázióhoz; ezt Lukasenka nyilvánosan elismerte. Október 2-án Minszkben arról beszélt, hogy Belarusz feltétel nélkül támogatja Oroszországot, és végrehajtja a Kreml döntéseit akkor is, ha egyes kérdésekben személyesen másként gondolkodik.",
+    "title_ro": "Lukașenko s-ar deplasa la Moscova cu Zelenski; apar noi detalii",
+    "lead_ro": "Aleksandr Lukașenko s-a oferit să zboare împreună cu Volodimir Zelenski la Moscova pentru o întâlnire cu Vladimir Putin și să contribuie la asigurarea protecției președintelui ucrainean. Noile informații descriu temele interviului, contextul negocierilor recente și poziția Belarusului față de Rusia.",
+    "content_ro": "• **A propus o deplasare comună la Moscova:** Aleksandr Lukașenko a sugerat ca el și Volodimir Zelenski să călătorească împreună în capitala Rusiei, unde liderul ucrainean s-ar putea întâlni direct cu Vladimir Putin. Președintele belarus a spus că l-ar însoți și și-ar asuma un rol în protejarea acestuia.\n\n• **Interviul a fost înregistrat pe 17 noiembrie:** Discuția pentru revista franceză Le Point a fost realizată de jurnalista Anne Nivat și a durat aproximativ 90 de minute. Printre subiecte s-au numărat războiul din Ucraina, viitorul securității europene, relațiile dintre Minsk și Uniunea Europeană și opțiunile pentru încheierea conflictului. Publicarea integrală era anunțată pentru 25 noiembrie.\n\n• **Lukașenko a pledat pentru discuții în trei:** În opinia sa, negocierile între Belarus, Ucraina și Rusia ar putea produce mai repede un rezultat decât un format care include și reprezentanți europeni. El a prezentat atât oprirea războiului, cât și organizarea ulterioară drept teme pentru cele trei state, dar a admis că Franța și alte țări UE pot avea în continuare un rol.\n\n• **Propunerea vine după negocieri cu alt format:** În 10 și 11 noiembrie, la Abu Dhabi, au avut loc discuții între Ucraina, Rusia și Statele Unite, primele de acest tip din februarie. Moscova se opusese anterior participării Europei la negocieri.\n\n• **Belarusul rămâne apropiat de Kremlin:** În februarie 2022, teritoriul belarus a fost folosit de forțele ruse în cadrul invaziei Ucrainei, fapt recunoscut public de Lukașenko. La 2 octombrie, la Minsk, el a declarat că țara sa va susține Rusia fără condiții și va pune în aplicare hotărârile Kremlinului, chiar dacă are opinii personale diferite asupra unor chestiuni.",
+    "importance_score": 75.0,
+    "top_rank": 14,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_25cad7e74d",
     "slug": "strategiai-partnerseget-kttt-romania-es-rmenyorszag-25cad7",
     "tags": [
@@ -1562,7 +1626,7 @@
     "lead_ro": "Premierul armean Nikol Pașinian a vizitat Bucureștiul la 24 noiembrie 2026 și a discutat cu președintele Nicușor Dan și premierul Luca Niculescu. Cele două țări au semnat o declarație privind parteneriatul strategic, în anul în care se împlinesc 35 de ani de la stabilirea relațiilor diplomatice.",
     "content_ro": "• **România și Armenia au semnat o declarație de parteneriat strategic** în timpul vizitei lui Pașinian la București. Documentul marchează 35 de ani de relații diplomatice între cele două state. Ultima vizită în România a unui premier armean avusese loc în 2011.\n\n• **Pașinian a purtat discuții cu președintele Nicușor Dan și cu premierul Luca Niculescu.** Agenda a inclus relațiile bilaterale, teme internaționale și situația regională. Dan a reafirmat sprijinul României pentru apropierea Armeniei de Uniunea Europeană și disponibilitatea Bucureștiului de a contribui cu expertiză.\n\n• **Dezvoltarea legăturilor economice a fost o temă centrală a întâlnirilor.** Oficialii au discutat despre stimularea comerțului și a investițiilor, precum și despre proiecte în energia regenerabilă, industria alimentară și farmaceutică și turism. Pașinian a menționat că porturile românești pot facilita accesul companiilor armene către piața Uniunii Europene.\n\n• **Discuțiile au vizat și cooperarea practică în mai multe domenii.** Printre subiecte s-au numărat proiectele din tehnologia informației, reluarea activității comisiei mixte economice și tehnico-științifice, cercetarea și schimburile de studenți și profesori.\n\n• **Niculescu a anunțat că va vizita Armenia și că va fi organizat un forum de afaceri.** Inițiativa urmărește să apropie mediile de afaceri și să susțină schimburile comerciale. Pe agenda discuțiilor au mai figurat liberalizarea vizelor, cooperarea în domeniul securității, reziliența instituțională, energia și infrastructura.",
     "importance_score": 75.0,
-    "top_rank": 14,
+    "top_rank": 15,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1626,7 +1690,7 @@
     "lead_ro": "Peter Magyar s-a întâlnit cu Volodimir Zelenski în Transcarpatia, pe 24 noiembrie, și a anunțat sprijin umanitar pentru Ucraina. La conferința de presă de la Berehove, cei doi au abordat cooperarea energetică, agricolă și medicală, precum și drepturile comunității maghiare.",
     "content_ro": "• **Întrevederea a deschis o nouă etapă a dialogului direct.** Peter Magyar a avut prima discuție bilaterală oficială cu Zelenski de când a devenit prim-ministru. Cei doi au comemorat la Ujhorod militarii transcarpatieni căzuți apărând Ucraina, apoi au susținut o conferință de presă comună la Berehove. La vizită a participat și Anita Orbán, ministrul ungar de Externe.\n\n• **Budapesta a anunțat un ajutor umanitar de un miliard de grivne.** Pachetul cuprinde medicamente și generatoare electrice. O altă relatare menționează livrarea către spitalul din Berehove a unor echipamente medicale evaluate la aproximativ un miliard de forinți; au fost discutate și echipamente energetice, vaccinuri și dotări pentru adăposturi mobile. Magyar a condamnat atacurile rusești, dar a precizat că Ungaria nu va trimite arme sau militari.\n\n• **Discuțiile au inclus proiecte concrete în mai multe domenii.** Zelenski a menționat acorduri politice, energetice și de infrastructură. Cei doi au discutat și despre furnizarea de motorină, necesară Ucrainei, proiecte medicale locale, siguranța alimentară și exporturile ucrainene. Potrivit președintelui ucrainean, țara sa ar putea livra porumb Ungariei.\n\n• **Drepturile maghiarilor din Transcarpatia rămân un subiect sensibil.** Comunitatea numără aproximativ 150.000 de persoane. Tensiunile au legătură cu reglementarea din 2017 privind predarea în ucraineană începând cu clasa a cincea și cu legea din 2019 care a restrâns utilizarea oficială a limbii maghiare. Magyar a condiționat negocierile de aderare a Ucrainei la UE de soluționarea drepturilor minorității; Kievul a adoptat prevederi pentru protejarea educației în limba maghiară.\n\n• **Autoritățile au luat în calcul restricții de circulație din motive de securitate.** La jumătatea lunii noiembrie, un atac cu drone a vizat zona Mukacevo, după care măsurile de securitate au fost intensificate. Într-un discurs parlamentar susținut cu o zi înaintea vizitei, Magyar a criticat campania guvernului Orbán împotriva Ucrainei și a descris Rusia drept agresor.",
     "importance_score": 73.0,
-    "top_rank": 15,
+    "top_rank": 16,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1680,7 +1744,7 @@
     "lead_ro": "La 11 zile după demisia din 12 noiembrie, Jensen Huang a fost numit din nou director general al Nvidia. Angajații l-au întâmpinat cu aplauze la sediul din California, iar anunțul revenirii a fost urmat de o creștere puternică a acțiunilor companiei.",
     "content_ro": "• **Huang a revenit la conducerea Nvidia la 11 zile după demisia sa din 12 noiembrie.** Consiliul de administrație a decis luni să îl reinstaleze, după discuții cu acesta și după ce, potrivit companiei, a primit informații din partea unor oficiali ai guvernului american.\n\n• **Angajații l-au primit cu aplauze și urale la sediul din California.** Huang s-a adresat colegilor reuniți la mai multe etaje, le-a mulțumit pentru sprijin și și-a cerut scuze pentru dificultățile prin care au trecut. El a recunoscut că a făcut greșeli grave.\n\n• **Demisia a venit pe fondul unor relatări despre încălcarea regulilor de conduită și controverse personale.** În articole au fost menționate și suspiciuni privind legături cu serviciile chineze de informații ale unei femei implicate în caz. Potrivit relatărilor despre întâlnirea cu angajații, Huang le-a spus că urmează terapie; sursele au prezentat acuzațiile și detaliile în mod diferit.\n\n• **În ziua anunțului privind revenirea, acțiunile Nvidia s-au apreciat cu 31%.** Titlurile au încheiat ședința de la New York la 165,05 dolari, iar capitalizarea companiei a crescut cu aproximativ 950 de miliarde de dolari. Relatările au indicat și o majorare importantă a averii personale a lui Huang.\n\n• **Numirea a continuat să ridice întrebări legate de securitatea națională.** Consiliul a apreciat, pe baza informațiilor primite, că revenirea nu implică un asemenea risc. Potrivit presei, Huang a respins ideea că ar fi fost reinstalat în urma presiunilor lui Donald Trump.",
     "importance_score": 70.0,
-    "top_rank": 16,
+    "top_rank": 17,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1744,7 +1808,7 @@
     "lead_ro": "Secretarul american al Apărării, Pete Hegseth, nu a autorizat încă transferul celor aproximativ 60 de interceptoare Patriot destinate Ucrainei, potrivit Financial Times. Noile informații indică un calendar lunar pentru livrările PAC-3, în timp ce rachetele pentru sistemele NASAMS au primit între timp aprobarea.",
     "content_ro": "• **Transferul celor circa 60 de interceptoare rămâne neaprobat.** Financial Times a citat trei surse familiarizate cu situația, iar Reuters a precizat că nu a putut verifica imediat informația. Lotul destinat Ucrainei cuprinde rachete PAC-3 și PAC-2, alocate anterior acesteia.\n\n• **Livrările PAC-3 erau planificate pentru patru luni consecutive.** Sursele publicației au indicat opt rachete pentru septembrie, câte zece pentru octombrie și noiembrie, precum și alte douăsprezece în decembrie. Niciuna dintre aceste tranșe nu primise aprobarea lui Hegseth.\n\n• **Alte aproximativ 20 de rachete PAC-2 așteaptă, de asemenea, autorizarea.** Aceste interceptoare reprezintă o variantă mai veche a muniției Patriot. Aliații occidentali ai Kievului acoperă costurile, iar unele rachete se află în depozite europene; fiind produse în SUA, exportul și reexportul lor necesită acordul Washingtonului.\n\n• **Zelenski a cerut aprobarea transferului rachetelor Patriot.** Duminică, președintele ucrainean a solicitat autorizarea muniției achitate deja de parteneri. În octombrie, el a scris pe X că Ucraina aștepta de aproape o lună aprobarea pentru rachete destinate sistemelor Patriot și NASAMS.\n\n• **Rachetele pentru NASAMS au fost aprobate între timp.** Potrivit celor trei surse citate de Financial Times, acestea sunt în drum spre Ucraina. Separat, inițiativa de autorizare a producției ucrainene de interceptoare Patriot a fost întârziată la Pentagon; instituția a transmis că politica SUA privind sprijinul pentru Ucraina nu s-a schimbat.",
     "importance_score": 70.0,
-    "top_rank": 17,
+    "top_rank": 18,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1808,7 +1872,7 @@
     "lead_ro": "Naționala U17 a României a fost învinsă cu 1-0 de Venezuela, în al doilea meci disputat la Cupa Mondială din Qatar. Pentru a-și păstra șansele de calificare, tricolorii au nevoie de un rezultat foarte bun cu Camerun, pe 27 noiembrie.",
     "content_ro": "• **România a înregistrat a doua înfrângere:** pe 24 noiembrie, la Aspire Zone din Doha, echipa a cedat cu 0-1 în fața Venezuelei. Și partida de debut, contra Mexicului, s-a încheiat cu același scor, astfel că reprezentativa română nu are niciun punct după două etape.\n\n• **Golul decisiv a fost înscris în minutul 64:** Roman Lozada a reluat cu capul centrarea trimisă de Andy Saavedra din partea dreaptă. Prima repriză a fost echilibrată, cu puține ocazii importante, iar șutul cadrat al lui Robert Corduneanu din minutul 32 a fost prima încercare românească pe spațiul porții la acest turneu.\n\n• **România a terminat în inferioritate numerică:** Rareș Silitră a fost eliminat în minutul 77, după ce arbitrul a consultat imaginile VAR și i-a arătat cartonașul roșu. Absența sa a complicat finalul meciului pentru echipa lui Mircea Diaconescu.\n\n• **Mexic a învins Camerunul cu 4-0 în cealaltă partidă a grupei.** Venezuela trecuse anterior de aceeași adversară cu 2-1. Se califică primele două formații din fiecare grupă și cele mai bune opt echipe de pe locul al treilea, dintre cele 12 grupe. România va întâlni Camerunul pe 27 noiembrie, de la ora 18:00, și poate avea nevoie de o victorie la scor pentru a mai spera la calificare.\n\n• **Selecționerul Mircea Diaconescu a indicat că echipa trebuie să fie mai eficientă în atac** și și-a exprimat încrederea în jucători înaintea ultimei etape. Potrivit acestuia, pregătirea detaliată pentru Camerun urma să înceapă după încheierea partidei cu Venezuela.",
     "importance_score": 70.0,
-    "top_rank": 18,
+    "top_rank": 19,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1871,7 +1935,7 @@
     "lead_ro": "Ministerul Energiei propune ca sprijinul pentru plata energiei să țină cont și de condițiile locative și medicale, nu doar de venituri. Dumitru Chisăliță urmărește reducerea la jumătate a sărăciei energetice în zece ani, însă criteriile și sumele acordate nu au fost încă stabilite.",
     "content_ro": "• **Ajutorul ar putea reflecta nevoile energetice concrete ale gospodăriei:** evaluarea ar include ponderea facturilor în buget, suprafața și starea locuinței, eficiența energetică, nevoi medicale suplimentare și accesul efectiv la energie. Astfel, familii cu venituri apropiate ar putea primi sprijin diferit, în funcție de situația în care trăiesc.\n\n• **Noua schemă ar urma să fie pregătită în 2027:** Ministerul Energiei a transmis un set de măsuri Ministerului Muncii, instituția care gestionează sprijinul pentru consumatorii vulnerabili. Sistemul cu criterii extinse ar putea fi elaborat în primele nouă luni ale anului și aplicat în sezonul rece următor. Planul include și armonizarea celor aproximativ opt scheme existente.\n\n• **Ajutorul actual de 50 de lei ar putea continua temporar:** schema pentru plata electricității expiră la sfârșitul anului, iar ministerul propune prelungirea ei și actualizarea plafonului de venit în funcție de inflație. În prezent, limita lunară este de 1.940 de lei pentru o persoană singură și de 1.784 de lei pentru fiecare membru al unei familii. În octombrie, peste 715.000 de persoane au primit voucherul de 50 de lei.\n\n• **Formula de calcul și valorile viitoare rămân în discuție:** nu au fost fixate nici noul prag de venit, nici metoda de măsurare a vulnerabilității, nici ajutorul corespunzător fiecărei categorii. Aceste aspecte urmează să fie clarificate împreună cu Ministerul Muncii. Chisăliță și-a stabilit ca obiectiv reducerea sărăciei energetice cu 50% în următorii zece ani.\n\n• **Sprijinul direcționat ar putea evita costurile unor măsuri generale:** un raport despre competitivitatea României estimează că plafonarea prețurilor la gaze și electricitate introdusă după criza din 2022 a costat statul între 19 și 20 de miliarde de euro. Autorii consideră că cheltuiala putea fi mai mică dacă ajutorul ajungea în principal la consumatorii vulnerabili.",
     "importance_score": 70.0,
-    "top_rank": 19,
+    "top_rank": 20,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1930,7 +1994,7 @@
     "lead_ro": "Vladimir Putin afirmă că Ucraina continuă să lovească rafinăriile rusești și a anunțat că Moscova va răspunde. Kievul cere oprirea reciprocă a atacurilor și încheierea războiului, în timp ce loviturile asupra rafinăriilor afectează și piața carburanților.",
     "content_ro": "• **Putin a anunțat că Rusia va riposta:** marți, la o întâlnire de la Kremlin cu oficiali guvernamentali și reprezentanți ai industriei petroliere, liderul rus a susținut că Ucraina atacă rafinăriile rusești în pofida apelului lansat la mijlocul lunii octombrie de președintele american Donald Trump. Putin a spus că Moscova va lua măsuri ca răspuns și a cerut sporirea protecției obiectivelor energetice.\n\n• **Kievul condiționează oprirea loviturilor de reciprocitate:** poziția ucraineană este că operațiunile împotriva infrastructurii energetice rusești ar înceta dacă Moscova ar opri, la rândul ei, acțiunile de acest fel. Atacurile ucrainene s-au rărit după intervenția lui Trump, dar au fost reluate spre sfârșitul lunii trecute.\n\n• **Procesarea petrolului în rafinăriile rusești a scăzut:** potrivit estimărilor a două surse din industrie, atacurile cu drone au redus cu aproximativ 45% cantitatea totală de țiței prelucrată începând de la sfârșitul lunii octombrie. Presa locală și autoritățile au relatat că mai multe regiuni au impus limite la vânzarea cu amănuntul a benzinei și motorinei.\n\n• **Piața internă a carburanților rămâne dificilă:** Putin a recunoscut problemele de pe piață, dar a afirmat că prețurile benzinei s-au stabilizat după ce au atins un maxim în octombrie. Uniunea Europeană urmează să oprească de la 1 ianuarie achizițiile de gaz natural lichefiat rusesc transportat pe mare; anul trecut, livrările rusești către Europa au însumat circa 13,7 milioane de tone.\n\n• **Ministrul ucrainean de externe a cerut încheierea războiului:** Andrii Sybiha a afirmat că Putin ar putea evita atacurile ucrainene asupra rafinăriilor și navelor militare dacă ar pune capăt conflictului. Potrivit estimării prezentate de Sybiha, 432.000 de militari ruși au fost scoși din luptă în acest an, fără ca Rusia să se apropie de obiectivele invaziei.",
     "importance_score": 68.0,
-    "top_rank": 20,
+    "top_rank": 21,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -1989,7 +2053,7 @@
     "lead_ro": "La împlinirea a doi ani de la primul tur al scrutinului prezidențial din 2024, Elena Lasconi a contestat din nou anularea votului. Ea se îndoiește că va fi publicat raportul promis de președintele Nicușor Dan și susține că decizia a slăbit încrederea alegătorilor; noile surse nu prezintă concluzii oficiale care să confirme acuzațiile sale.",
     "content_ro": "• **Declarații la aniversarea scrutinului:** Elena Lasconi, primarul din Câmpulung Muscel și participantă la turul al doilea din 2024, a calificat decizia CCR drept o lovitură gravă pentru democrație. În opinia ei, anularea a diminuat speranța și încrederea oamenilor în vot.\n\n• **Se îndoiește că va apărea raportul prezidențial:** Nicușor Dan anunțase că va prezenta un document despre anularea alegerilor, însă Lasconi nu crede că acesta va fi publicat. Ea a comparat lipsa clarificărilor cu întrebările rămase fără răspuns despre Revoluția din România.\n\n• **A sugerat că decizia a fost influențată politic:** Lasconi a afirmat că scrutinul nu ar fi fost anulat dacă Marcel Ciolacu ar fi ajuns în turul al doilea. A invocat o posibilă intervenție online a Rusiei, dar a precizat că nu există dovezi clare care să susțină această ipoteză. Afirmația îi aparține și nu reprezintă o concluzie oficială nouă.\n\n• **A criticat efectele anulării:** Potrivit fostei candidate, hotărârea a contribuit la consolidarea imaginii lui Călin Georgescu ca martir și la răspândirea teoriilor conspiraționiste. Ea a întrebat și de ce nu au fost anulate alegerile parlamentare, dacă intervenția Rusiei a justificat anularea scrutinului prezidențial.\n\n• **A vizat instituții și regulile electorale:** Lasconi a acuzat PSD, PNL, serviciile statului și CCR că au ignorat voturile. Tot ea a susținut că o candidatură poate fi invalidată de Curte în cazul unei campanii ilegale. AUR a prezentat luni seară un raport propriu, care nu este documentul așteptat de la președinte.",
     "importance_score": 68.0,
-    "top_rank": 21,
+    "top_rank": 22,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2042,7 +2106,7 @@
     "lead_ro": "Acțiunile Nvidia au crescut luni cu 31,5%, după revenirea lui Jensen Huang în funcția de director executiv. Pe baza datelor financiare de la sfârșitul lunii septembrie, participația lui Trump ar fi putut valora cu până la 15 milioane de dolari mai mult, însă numărul exact de acțiuni nu este cunoscut.",
     "content_ro": "• **Acțiunile Nvidia s-au apreciat luni cu 31,5%**, după ce consiliul de administrație l-a reinstalat pe Jensen Huang în funcția de director executiv. Creșterea a adăugat aproximativ 950 de miliarde de dolari la valoarea de piață a companiei.\n\n• **Valoarea participației lui Trump ar fi putut crește cu până la 15 milioane de dolari.** Estimarea combină evoluția cotației cu numărul maxim menționat în declarația financiară: la 30 septembrie, președintele SUA ar fi putut deține cel mult 370.000 de acțiuni Nvidia.\n\n• **Documentele oficiale nu precizează deținerea exactă și nici tranzacțiile ulterioare.** Declarația de etică depusă pe 5 noiembrie reflectă situația de la sfârșitul lunii septembrie, astfel că nu arată dacă Trump a cumpărat sau a vândut acțiuni în octombrie ori noiembrie.\n\n• **Trump a afirmat că a contribuit direct la revenirea lui Huang.** El a spus pentru CNBC că a discutat cu persoanele implicate și le-a convins, iar pe rețelele sociale a apreciat hotărârea consiliului. Întrebat despre securitatea națională, Trump a susținut că pierderea expertizei lui Huang ar fi un risc mai mare pentru Nvidia.\n\n• **Reinstalarea lui Huang a urmat unor relatări despre presupuse relații extraconjugale.** Acestea au menționat trei presupuse aventuri, inclusiv una cu o persoană prezentată drept spioană chineză și două cu angajate. Compania a transmis că, după informări la nivel înalt din partea guvernului, nu consideră că revenirea sa pune în pericol securitatea națională; Huang, cofondator al Nvidia din 1993, a fost întâmpinat de angajați la sediul din Santa Clara.",
     "importance_score": 65.0,
-    "top_rank": 22,
+    "top_rank": 23,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2095,7 +2159,7 @@
     "lead_ro": "Curtea Constituțională a României a declarat neconstituțională o prevedere din legea educației care permitea unor profesori angajați pe perioadă determinată să obțină un post pe durată nedeterminată fără concursul general. Judecătorii au constatat un tratament inegal și au considerat neclară condiția privind viabilitatea postului.",
     "content_ro": "• **Prevederea analizată și condițiile ei:** Decizia privește articolul 253 alineatul (1) din Legea educației, în forma valabilă la 4 aprilie 2019. Unele cadre didactice angajate temporar puteau primi un post pe perioadă nedeterminată în școala unde lucrau, dacă obținuseră cel puțin nota 7 la un concurs de titularizare din ultimii șase ani.\n\n• **Reguli diferite pentru candidați:** Profesorii care se încadrau în aceste condiții aveau acces la o procedură separată, pe când ceilalți candidați trebuiau să participe la concursul general. CCR a apreciat că diferența de tratament contravenea egalității în drepturi prevăzute de articolul 16 alineatul (1) din Constituție.\n\n• **Un precedent din 2014:** Prin Decizia nr. 106 din 27 februarie 2014, Curtea declarase neconstituționale literele a) și b) ale aceluiași alineat. Aceste dispoziții permiteau, de asemenea, dobândirea statutului de titular printr-un mecanism distinct de procedura aplicată celorlalți candidați.\n\n• **Modificarea formulării nu a eliminat mecanismul:** OUG nr. 16/2014 a înlocuit exprimarea potrivit căreia profesorii „devin titulare” cu posibilitatea repartizării pe perioadă nedeterminată. În evaluarea CCR, schimbarea termenilor nu a înlăturat posibilitatea de a obține statutul de titular fără concursul general.\n\n• **Controlul din 2018 și lipsa de precizie:** În Decizia nr. 528 din 17 iulie 2018, pronunțată înainte de promulgare, Curtea apreciase deja că noua redactare păstra o soluție asemănătoare celei respinse în 2014. Judecătorii au criticat și condiția referitoare la „viabilitatea postului/catedrei”, considerând că formularea imprecisă afecta previzibilitatea legii.",
     "importance_score": 65.0,
-    "top_rank": 23,
+    "top_rank": 24,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -2147,60 +2211,6 @@
     "title_ro": "Președintele CJ Covasna susține unirea a trei județe",
     "lead_ro": "Tamás Sándor propune reunirea administrativă a județelor Harghita, Covasna și Mureș. Invocând inițiativa privind Ialomița și Călărași, președintele Consiliului Județean Covasna cere autorităților de la București să evalueze cele două demersuri după criterii egale.",
     "content_ro": "• **Tamás Sándor propune o unitate administrativă comună pentru trei județe.** Președintele Consiliului Județean Covasna consideră că cele 149 de unități administrativ-teritoriale din Harghita, Covasna și Mureș ar putea fi reunite. Forma ar putea fi un județ sau o regiune, însă nu a fost anunțată o decizie oficială.\n\n• **Demersul din Ialomița și Călărași este invocat ca precedent.** Sorin Grindeanu, liderul Partidului Social Democrat, a relatat că șefii consiliilor județene din cele două județe și-au exprimat interesul pentru o comasare voluntară. Tamás Sándor susține că și propunerea celor trei județe din Transilvania trebuie analizată.\n\n• **Președintele CJ Covasna solicită o evaluare fără criterii diferite.** El a prezentat unirea celor trei județe drept o opțiune susținută de comunitatea locală și cere autorităților centrale să trateze în mod comparabil inițiativele de reorganizare administrativă.\n\n• **Au avut loc discuții cu reprezentanții județelor Harghita și Mureș.** Tamás Sándor și-a făcut publică poziția marți, într-o postare pe Facebook. Sursa nu indică lansarea unei proceduri oficiale, astfel că reunirea administrativă rămâne, deocamdată, o propunere.",
-    "importance_score": 65.0,
-    "top_rank": 24,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_20b95d8a1e",
-    "slug": "lukasenka-zelenszkijjel-utazna-moszkvaba-uj-reszletek-kerultek-elo-20b95d",
-    "tags": [
-      "belarusz",
-      "ukrajna",
-      "oroszorszag",
-      "zelenszkij",
-      "putyin"
-    ],
-    "fingerprint": "207623664145a132135661c22dd0df62",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 5,
-    "sources": [
-      {
-        "source": "Digi24",
-        "title": "Lukașenko se oferă să meargă la Moscova cu Zelenski pentru o întâlnire cu Putin: „În calitate de garant al securității sale”",
-        "link": "https://www.digi24.ro/stiri/externe/ue/lukasenko-se-ofera-sa-mearga-la-moscova-cu-zelenski-pentru-o-intalnire-cu-putin-in-calitate-de-garant-al-securitatii-sale-4051547"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Lukașenko se oferă să-l însoțească pe Zelenski la Moscova pentru o întâlnire cu Putin: „Aș fi garantul securității sale”",
-        "link": "https://adevarul.ro/stiri-externe/europa/lukasenko-se-ofera-sa-l-insoteasca-pe-zelenski-la-2574201.html"
-      },
-      {
-        "source": "HotNews.ro",
-        "title": "Lukașenko, aliatul lui Putin, s-a oferit să îl însoțească pe Zelenski la Moscova, „ca garant al securității sale”",
-        "link": "https://hotnews.ro/lukasenko-aliatul-lui-putin-s-a-oferit-sa-il-insoteasca-pe-zelenski-la-moscova-ca-garant-al-securitatii-sale-2412972"
-      },
-      {
-        "source": "Mediafax",
-        "title": "Lukașenko se oferă să zboare cu Zelenski la Moscova pentru discuții cu Putin, „ca garant al securității sale”",
-        "link": "https://www.mediafax.ro/externe/lukasenko-se-ofera-sa-zboare-cu-zelenski-la-moscova-pentru-discutii-cu-putin-ca-garant-al-securitatii-sale-23848958"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Lukașenko se oferă să-l însoțească pe Zelenski la Moscova. „Rusia avansează, oamenii mor, dar asta e”",
-        "link": "https://stirileprotv.ro/stiri/international/lukasenko-se-ofera-sa-l-insoteasca-pe-zelenski-la-moscova-rusia-avanseaza-oamenii-mor-dar-asta-e.html"
-      }
-    ],
-    "published_at": 1795585756,
-    "title_hu": "Lukasenka Zelenszkijjel utazna Moszkvába, új részletek kerültek elő",
-    "lead_hu": "Alekszandr Lukasenka felajánlotta, hogy Volodimir Zelenszkijjel együtt Moszkvába repül egy Putyinnal tartandó találkozóra, és biztonsági garanciát vállal az ukrán elnökért. Az új beszámolók az interjú témáiról, a korábbi tárgyalásokról és Belarusz Oroszország melletti álláspontjáról is közölnek részleteket.",
-    "content_hu": "• **Közös moszkvai utat ajánlott:** Alekszandr Lukasenka azt javasolta, hogy Volodimir Zelenszkijjel kettesben utazzon az orosz fővárosba, ahol az ukrán elnök közvetlenül tárgyalhatna Vlagyimir Putyinnal. A belarusz vezető vállalná, hogy elkíséri Zelenszkijt, és felelősséget vállal a biztonságáért.\n\n• **November 17-én rögzítették az interjút:** Lukasenka a francia Le Point magazinnak adott beszélgetést Anne Nivat újságíróval. A mintegy másfél órás interjúban az ukrajnai háború, Európa jövőbeli biztonsági rendszere, a Minszk és az EU közötti viszony, valamint a konfliktus rendezésének lehetőségei is szóba kerültek. A teljes anyag november 25-re volt várható.\n\n• **Háromoldalú egyeztetést sürgetett:** Lukasenka szerint Belarusz, Ukrajna és Oroszország képviselőinek tárgyalása gyorsabban eredményre vezethet, mint az európai résztvevőket is bevonó folyamat. A háború lezárását és a későbbi rend kialakítását is a három ország ügyének tekintette, ugyanakkor elismerte, hogy Franciaországnak és más uniós államoknak is lehet szerepük.\n\n• **A javaslat a korábbi diplomáciai viták közegében hangzott el:** November 10–11-én Abu-Dzabiban Ukrajna, Oroszország és az Egyesült Államok részvételével tartottak tárgyalást; ilyen háromoldalú egyeztetésre február óta nem került sor. Moszkva korábban ellenezte, hogy Európa is helyet kapjon a tárgyalóasztalnál.\n\n• **Minszk Moszkva közeli partnere maradt:** Belarusz 2022 februárjában lehetővé tette, hogy az orosz erők a területét használják az ukrajnai invázióhoz; ezt Lukasenka nyilvánosan elismerte. Október 2-án Minszkben arról beszélt, hogy Belarusz feltétel nélkül támogatja Oroszországot, és végrehajtja a Kreml döntéseit akkor is, ha egyes kérdésekben személyesen másként gondolkodik.",
-    "title_ro": "Lukașenko s-ar deplasa la Moscova cu Zelenski; apar noi detalii",
-    "lead_ro": "Aleksandr Lukașenko s-a oferit să zboare împreună cu Volodimir Zelenski la Moscova pentru o întâlnire cu Vladimir Putin și să contribuie la asigurarea protecției președintelui ucrainean. Noile informații descriu temele interviului, contextul negocierilor recente și poziția Belarusului față de Rusia.",
-    "content_ro": "• **A propus o deplasare comună la Moscova:** Aleksandr Lukașenko a sugerat ca el și Volodimir Zelenski să călătorească împreună în capitala Rusiei, unde liderul ucrainean s-ar putea întâlni direct cu Vladimir Putin. Președintele belarus a spus că l-ar însoți și și-ar asuma un rol în protejarea acestuia.\n\n• **Interviul a fost înregistrat pe 17 noiembrie:** Discuția pentru revista franceză Le Point a fost realizată de jurnalista Anne Nivat și a durat aproximativ 90 de minute. Printre subiecte s-au numărat războiul din Ucraina, viitorul securității europene, relațiile dintre Minsk și Uniunea Europeană și opțiunile pentru încheierea conflictului. Publicarea integrală era anunțată pentru 25 noiembrie.\n\n• **Lukașenko a pledat pentru discuții în trei:** În opinia sa, negocierile între Belarus, Ucraina și Rusia ar putea produce mai repede un rezultat decât un format care include și reprezentanți europeni. El a prezentat atât oprirea războiului, cât și organizarea ulterioară drept teme pentru cele trei state, dar a admis că Franța și alte țări UE pot avea în continuare un rol.\n\n• **Propunerea vine după negocieri cu alt format:** În 10 și 11 noiembrie, la Abu Dhabi, au avut loc discuții între Ucraina, Rusia și Statele Unite, primele de acest tip din februarie. Moscova se opusese anterior participării Europei la negocieri.\n\n• **Belarusul rămâne apropiat de Kremlin:** În februarie 2022, teritoriul belarus a fost folosit de forțele ruse în cadrul invaziei Ucrainei, fapt recunoscut public de Lukașenko. La 2 octombrie, la Minsk, el a declarat că țara sa va susține Rusia fără condiții și va pune în aplicare hotărârile Kremlinului, chiar dacă are opinii personale diferite asupra unor chestiuni.",
     "importance_score": 65.0,
     "top_rank": 25,
     "is_top_hero": false,
@@ -3967,6 +3977,45 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_dbddcae9d0",
+    "slug": "surse-fratii-camataru-si-alti-interlopi-din-clan-ridicati-de-procurori-intr-un-d-dbddca",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.g4media.ro/wp-content/uploads/2023/01/camataru.jpg",
+    "is_synthesized": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "SURSE: Frații Cămătaru și alți interlopi din clan, ridicați de procurori într-un dosar de cămătărie și proxenetism. Printre victime s-ar afla maneliști precum Salam și Țancă Uraganu",
+        "link": "https://www.g4media.ro/surse-fratii-camataru-si-alti-interlopi-din-clan-ridicati-de-procurori-intr-un-dosar-de-camatarie-si-proxenetism-printre-victime-s-ar-afla-manelisti-precum-salam-si-tanca-uraganu.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Surse: Frații Cămătaru, săltați de DIICOT pentru exploatarea unor lăutari. Florin Salam și Tzancă Uraganu, printre victime",
+        "link": "https://stirileprotv.ro/stiri/actualitate/surse-fratii-camataru-saltati-de-diicot-pentru-exploatarea-unor-lautari-artisti-abuzati-si-obligati-sa-se-prostitueze.html"
+      },
+      {
+        "source": "G4Media",
+        "title": "SURSE: Frații Cămătaru și alți interlopi din clan, ridicați de procurori într-un dosar de cămătărie și proxenetism. Printre victime s-ar afla maneliști precum Salam și Tzancă Uraganu",
+        "link": "https://www.g4media.ro/surse-fratii-camataru-si-alti-interlopi-din-clan-ridicati-de-procurori-intr-un-dosar-de-camatarie-si-proxenetism-printre-victime-s-ar-afla-manelisti-precum-salam-si-tzanca-uraganu.html"
+      }
+    ],
+    "published_at": 1795589569,
+    "title_hu": "SURSE: Frații Cămătaru și alți interlopi din clan, ridicați de procurori într-un dosar de cămătărie și proxenetism. Printre victime s-ar afla maneliști precum Salam și Țancă Uraganu",
+    "lead_hu": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit i...",
+    "content_hu": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit informațiilor G4Media. Ei sunt suspectați că au constituit un grup infracțional organizat care se ocupa cu trafic de persoane, proxenetism, cămătărie. Printre victimele grupării […] © G4Media.ro.",
+    "title_ro": "SURSE: Frații Cămătaru și alți interlopi din clan, ridicați de procurori într-un dosar de cămătărie și proxenetism. Printre victime s-ar afla maneliști precum Salam și Țancă Uraganu",
+    "lead_ro": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit i...",
+    "content_ro": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit informațiilor G4Media. Ei sunt suspectați că au constituit un grup infracțional organizat care se ocupa cu trafic de persoane, proxenetism, cămătărie. Printre victimele grupării […] © G4Media.ro.",
+    "importance_score": 45.0,
+    "top_rank": 59,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_37374f2581",
     "slug": "sszecsapas-trt-ki-a-trpenvesuek-vb-jen-a-meccs-eredmenye-vitatott-37374f",
     "tags": [
@@ -4006,7 +4055,7 @@
     "lead_ro": "La Cupa Mondială de fotbal a persoanelor de statură mică, organizată în Maroc, jucătorii s-au luat la bătaie după partida cu Columbia. Relatările diferă în privința scorului, iar ambele echipe au ajuns în sferturile de finală.",
     "content_ro": "• **Fluierul final a fost urmat de o încăierare.** După întâlnirea din grupă dintre Maroc și Columbia, o dispută între jucători a escaladat, iar mai mulți fotbaliști s-au lovit cu pumnii și picioarele. Persoane aflate în apropierea terenului au intervenit pentru a-i despărți.\n\n• **Printre cei care au intervenit s-a aflat un bărbat în uniformă militară.** Mai multe persoane au încercat să oprească altercația și să împiedice extinderea ei. În relatările apărute ulterior nu era anunțată vreo sancțiune din partea organizatorilor.\n\n• **Sursele nu indică același rezultat al partidei.** O publicație în limba maghiară a consemnat o victorie a Marocului cu 1–0, în timp ce două relatări românești au menționat scorul de 1–1. Prin urmare, rezultatul exact nu poate fi stabilit cu certitudine pe baza informațiilor disponibile.\n\n• **Marocul și Columbia au ocupat primele două locuri în Grupa A.** Formația gazdă a încheiat pe poziția întâi, urmată de reprezentativa sud-americană, iar ambele au obținut calificarea în sferturi. Turneul se desfășoară în Maroc între 21 și 30 noiembrie.\n\n• **Sunt cunoscute și echipe calificate din celelalte grupe.** Bolivia și Mexic au avansat din Grupa B, Brazilia și Argentina din Grupa C, iar Egiptul și Paraguayul din Grupa D. Paraguay a fost finalistă la ediția precedentă, iar Argentina a câștigat titlul mondial în 2023.",
     "importance_score": 45.0,
-    "top_rank": 59,
+    "top_rank": 60,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4049,7 +4098,7 @@
     "lead_ro": "Drone ucrainene au vizat în cursul nopții două rafinării de petrol din regiunea rusă Samara. Relatările indică incendii în apropierea ambelor obiective, iar în cazul rafinăriei de la Kuibîșev au fost publicate imagini cu flăcări puternice.",
     "content_ro": "• **Două rafinării de petrol din regiunea rusă Samara au fost vizate de un atac nocturn cu drone.** Obiectivele se află lângă Sizran și, respectiv, Kuibîșev. Informațiile despre atac au fost prezentate de Kyiv Independent pe baza relatărilor unor canale de monitorizare.\n\n• **În apropierea rafinăriei de la Sizran a izbucnit un incendiu.** Canalul ucrainean Exilenova Plus a relatat că instalația a fost lovită de drone, iar focul s-a manifestat în zona acesteia.\n\n• **Rafinăria din Kuibîșev s-a aflat, de asemenea, printre ținte.** Locuitorii din zonă au distribuit imagini în care, potrivit relatărilor, se vede un incendiu de amploare care a cuprins obiectivul.\n\n• **Înregistrările locale au surprins și activitatea apărării antiaeriene, precum și sirenele de alarmă.** Martorii au publicat videoclipuri cu sistemele de apărare aflate în acțiune și cu avertizările sonore.\n\n• **Cele două rafinării sunt despărțite de aproximativ 100 de kilometri.** Ambele se află în regiunea Samara, la circa 800 de kilometri de granița dintre Rusia și Ucraina.",
     "importance_score": 45.0,
-    "top_rank": 60,
+    "top_rank": 61,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4092,7 +4141,7 @@
     "lead_ro": "Un container eșuat în apropiere de Burgas conținea ornamente de Crăciun care aparțin unei companii din România. Nu s-a stabilit dacă marfa provenea de pe nava Contship Jet, scufundată după un atac cu drone.",
     "content_ro": "• **Containerul a fost deschis pe litoral, lângă Burgas.** Autoritățile bulgare au găsit în interior figurine de Moș Crăciun de dimensiuni mari, o statuie de urs polar și alte obiecte festive. Acesta ajunsese la țărm după un incident produs în Marea Neagră.\n\n• **Ornamentele aparțin unei firme din România.** Potrivit televiziunii publice bulgare, transportul era destinat României, iar valoarea sa este estimată la aproximativ 50.000 de euro. Omar Handan, reprezentantul proprietarului mărfii, a asistat marți la deschiderea containerului.\n\n• **O mare parte dintre obiecte au rămas intacte.** Handan a spus că apa nu pătrunsese în container. După inventariere, bunurile recuperate urmau să fie duse în România cu un camion.\n\n• **Legătura cu nava Contship Jet nu a fost confirmată.** Diko Dikov, guvernatorul regional din Burgas, a menționat posibilitatea ca acel container să fi făcut parte din încărcătura navei, precizând că ipoteza trebuie verificată. Contships Management, operatorul cu sediul la Atena, nu a putut confirma proveniența.\n\n• **Contship Jet s-a scufundat în 28 octombrie.** Nava se deplasa din portul Haifa spre Constanța când a fost lovită de drone. Sursele relatează că asocierea containerului cu nava rămâne, deocamdată, neclară.",
     "importance_score": 45.0,
-    "top_rank": 61,
+    "top_rank": 62,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4135,7 +4184,7 @@
     "lead_ro": "Departamentul american al Apărării pregătește o evaluare a curriculei și a practicilor educaționale din școlile pe care le administrează. Planul include și testarea, în două campusuri din SUA, a unei metode de educație fizică inspirate de atletismul tradițional.",
     "content_ro": "• **Evaluarea vizează aproximativ 160 de școli administrate de Pentagon**, aflate în 11 țări și frecventate de circa 70.000 de copii ai militarilor sau ai angajaților civili din sistemul de apărare. Activitatea este coordonată de Departamentul pentru Educație al Apărării (DoDEA).\n\n• **Sub conducerea secretarului Apărării, Pete Hegseth, planurile includ și obiective ale agendei educaționale conservatoare.** Printre direcțiile avute în vedere se numără limitarea predării unor teme despre rasă și gen, alături de promovarea patriotismului și a educației clasice.\n\n• **În octombrie, American Education Solutions a primit un contract de 5,7 milioane de dolari** pentru verificarea programelor școlare. Atribuirea s-a făcut fără licitație și fără solicitarea unor oferte alternative. Auditul urmează să examineze curricula, activitatea didactică și formarea profesională.\n\n• **Un contract separat, în valoare de puțin peste 100.000 de dolari, a fost acordat companiei Iliad Athletics** pentru testarea unui program de educație fizică bazat pe principii clasice. Acesta va fi încercat în două campusuri americane și va cuprinde alergare, sărituri, cățărare, transportul unor obiecte și aruncări.\n\n• **Educația clasică pune accent și pe gândirea critică și cetățenie.** În mod frecvent, aceasta folosește texte ale autorilor din Grecia și Roma antică, precum și lucrări din alte civilizații occidentale. Un reprezentant al DoDEA a afirmat că instituția își evaluează periodic programele și le ajustează când consideră necesar.",
     "importance_score": 45.0,
-    "top_rank": 62,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4178,7 +4227,7 @@
     "lead_ro": "CIA și Biroul Directorului Național al Informațiilor din SUA au identificat o breșă într-o rețea neclasificată. Nu se știe încă ce informații au fost accesate și nici cine s-ar afla în spatele atacului.",
     "content_ro": "• **CIA și Biroul Directorului Național al Informațiilor au descoperit împreună breșa de securitate.** Sistemul vizat nu gestionează informații clasificate și este folosit pentru căutări în materiale publice, neclasificate, în scopuri de informare și analiză.\n\n• **Nu sunt cunoscute nici amploarea accesului, nici identitatea celor responsabili.** Informațiile disponibile nu precizează ce materiale ar fi putut consulta atacatorii și nu indică dacă operațiunea a fost realizată de o persoană sau de un grup anume.\n\n• **ODNI a afirmat că sistemele clasificate și capacitățile esențiale nu au fost afectate.** Declarația instituției s-a referit la impactul asupra acestor componente. CIA nu a transmis un comentariu public până la apariția relatării.\n\n• **Incidentul a fost semnalat într-un context în care mai multe instituții federale americane s-au confruntat cu probleme de securitate digitală.** Totuși, informațiile publicate despre acest caz indică drept țintă o rețea neclasificată a CIA; evenimentul trebuie deosebit de incidentele raportate anterior la alte agenții.\n\n• **Nu au fost oferite detalii suplimentare despre rezultatul verificărilor sau despre eventuale date expuse.** Rămân necunoscute atât categoriile de informații accesate, cât și autorii atacului. ODNI a subliniat că sistemele clasificate și funcțiile critice nu au fost perturbate.",
     "importance_score": 45.0,
-    "top_rank": 63,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4227,7 +4276,7 @@
     "lead_ro": "Senatul a aprobat luni un proiect care le-ar permite părinților întorși la muncă să primească, pe lângă salariu, un stimulent egal cu indemnizația pentru creșterea copilului. Inițiativa aparține unor parlamentari PNL și USR, iar votul decisiv urmează să fie dat de Camera Deputaților.",
     "content_ro": "• **Proiectul urmărește să încurajeze revenirea părinților la serviciu.** Inițiativa unor parlamentari PNL și USR a fost adoptată în unanimitate de Senat, luni. Printre inițiatori se numără și deputatul liberal de Bihor Dumitru Țiplea. Camera Deputaților este forul decizional.\n\n• **Stimulentul propus ar avea valoarea integrală a indemnizației.** Părintele care reia activitatea ar putea încasa, în paralel cu salariul, 100% din suma cuvenită pentru creșterea copilului, fără ca momentul întoarcerii la muncă să schimbe cuantumul. Plata s-ar acorda până la doi ani, respectiv trei ani în cazul copiilor cu dizabilități.\n\n• **Pentru perioada următoare ar rămâne un sprijin lunar de 650 de lei.** Acesta ar putea fi primit până când copilul împlinește trei ani sau, în cazul dizabilității, patru ani. În prezent, părinții care revin înainte de șase luni primesc 1.500 de lei, iar cei care se întorc ulterior primesc 650 de lei; pentru copiii cu dizabilități, primul prag este de un an.\n\n• **În Bihor, 5.190 de persoane au primit indemnizația în septembrie.** Media lunară a fost de 3.661 de lei, iar totalul plăților a ajuns la 19 milioane de lei. În aceeași lună, 2.414 de persoane au beneficiat de stimulentul asociat revenirii la muncă.\n\n• **Inițiatorii susțin că schimbarea nu ar spori cheltuielile publice.** În opinia lor, stimulentul ar înlocui indemnizația, iar activitatea profesională ar aduce venituri din taxe și contribuții. În august, indemnizația medie la nivel național a fost de 3.977 de lei, iar aproape 70.000 de părinți reveniseră la serviciu.\n\n• **Măsura este prezentată și ca sprijin pentru concilierea muncii cu creșterea copiilor.** România a înregistrat 145.700 de nașteri în 2025, cel mai redus total anual din ultimul secol. Raluca Turcan a afirmat că proiectul nu poate opri singur declinul demografic, dar ar putea reduce presiunea financiară legată de întoarcerea la muncă.",
     "importance_score": 45.0,
-    "top_rank": 64,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4275,7 +4324,7 @@
     "lead_ro": "Președintele Nicușor Dan a afirmat că raportul parlamentar al AUR nu aduce argumente juridice noi în discuția despre anularea scrutinului prezidențial din 2024. Deputata formațiunii Laura Gherasim a susținut, în schimb, că poziția Administrației Prezidențiale ar confirma lipsa unor probe suficiente la momentul deciziei.",
     "content_ro": "• **Nicușor Dan a respins ideea că raportul AUR ar aduce argumente juridice noi.** Formațiunea de opoziție a prezentat documentul de 432 de pagini în seara precedentă, iar președintele a comentat marți concluziile acestuia privind anularea alegerilor prezidențiale din 2024.\n\n• **Administrația Prezidențială a indicat Hotărârea Curții Constituționale din 6 decembrie 2024 drept referință.** Potrivit lui Dan, majoritatea întrebărilor formulate de AUR au primit deja răspuns în acea hotărâre și într-un interviu acordat în februarie 2025 de fostul președinte al Curții.\n\n• **Dan a menționat lipsa de transparență a promovării online ca unul dintre motivele anulării.** În explicația sa, utilizarea netransparentă a tehnologiilor digitale și a algoritmilor rețelelor sociale, împreună cu finanțarea netransparentă, ar fi oferit unui candidat un avantaj important de vizibilitate online.\n\n• **Laura Gherasim, deputată AUR, a interpretat diferit reacția Președinției.** Ea a afirmat că poziția instituției confirmă concluzia anchetei parlamentare potrivit căreia Curtea Constituțională a decis înainte de verificarea completă a probelor necesare. Aceasta este interpretarea reprezentantei AUR, nu o recunoaștere formulată de președinte.\n\n• **Gherasim a cerut desecretizarea documentelor și sesizarea procurorilor.** Deputata i-a solicitat lui Dan să facă demersuri pentru publicarea actelor relevante, transmiterea lor către anchetatori și cercetarea persoanelor implicate. Ea a contestat și temeiul juridic al hotărârii din decembrie 2024.",
     "importance_score": 45.0,
-    "top_rank": 65,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4323,7 +4372,7 @@
     "lead_ro": "În Cartagena, 25 de persoane au rămas captive într-un supermarket Exito după ce suspecții s-au refugiat acolo în urma unei tentative de a prelua un vehicul blindat pentru transportul banilor. Autoritățile au trimis la fața locului polițiști, militari și unități speciale, iar intervenția a influențat și activitatea aeroportului.",
     "content_ro": "• **Criza a început după o tentativă de capturare a unei mașini de transport valori.** Suspecții au acționat lângă un centru comercial, încercând să pună mâna pe vehiculul blindat. Operatorii camerelor de supraveghere au observat incidentul și au alertat poliția printr-un sistem de panică.\n\n• **Grupul s-a retras într-un magazin Exito din cartierul La Castellana.** Potrivit președintelui Abelardo De La Espriella, la început au fost ținute captive 30 de persoane. Cinci femei în vârstă au fost eliberate ulterior, iar la momentul declarației în magazin se mai aflau 25 de ostatici.\n\n• **Autoritățile au trimis forțe importante în zonă.** La intervenție au participat polițiști, militari și unități speciale. Șeful statului a vorbit din Villavicencio, unde ajunsese după un atentat cu o mașină-capcană produs în timpul nopții precedente.\n\n• **Imagini distribuite online par să arate ostatici lângă ferestrele magazinului.** Unele persoane apar în genunchi, cu mâinile aparent legate; Reuters nu a putut verifica independent, imediat, autenticitatea înregistrărilor. Exito a transmis că siguranța oamenilor este prioritară și că operațiunea este coordonată de autorități, ale căror instrucțiuni sunt respectate.\n\n• **Intervenția a afectat temporar aeroportul internațional Rafael Núñez.** Aterizările au fost suspendate pentru scurt timp după ce forțele armate au folosit una dintre piste în legătură cu operațiunea de securitate.",
     "importance_score": 43.0,
-    "top_rank": 66,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4362,7 +4411,7 @@
     "lead_ro": "Statele Unite au încercat să stimuleze Moscova să încheie războiul din Ucraina prin posibile proiecte economice. Potrivit relatărilor de presă, interesul Rusiei pentru aceste inițiative a scăzut, iar Washingtonul și-a reorientat abordarea negocierilor.",
     "content_ro": "• **Parteneriatele comerciale nu mai ocupă un loc central în propunerile americane.** Emisarii Steve Witkoff și Jared Kushner le-au transmis unor oficiali europeni că această componentă a fost redusă. Surse citate de Financial Times au afirmat că Moscova a arătat puțin interes față de proiectele discutate.\n\n• **La întrevederea din septembrie de la Kremlin a fost prezentată o inițiativă petrolieră.** Kushner și Witkoff s-au întâlnit cu Vladimir Putin, iar partea rusă a avansat ideea unei companii comune americano-ruse pentru exploatarea petrolului în apropierea Sahalinului. Alte propuneri relatate au vizat investiții în petrol și titan, precum și atragerea unui investitor în proiectul conductelor Nord Stream.\n\n• **Moscova ar fi legat unele propuneri de relaxarea sancțiunilor americane.** Potrivit New York Magazine, Rusia a sugerat livrări de motorină către SUA înaintea alegerilor intermediare pentru Congres. Inițiativa urmărea, conform relatării, să încurajeze cooperarea economică și suspendarea unei părți a restricțiilor.\n\n• **Presa a relatat separat despre posibila vânzare a unei companii energetice ruse sancționate.** Printre investitorii potențiali au fost menționate entități din Orientul Mijlociu și un susținător important al lui Donald Trump. Kushner a negat că vânzarea firmei ar fi fost discutată la întâlnirea cu Putin.\n\n• **Discuțiile s-au concentrat tot mai mult asupra revendicărilor teritoriale.** Relatările indică faptul că Rusia cere concesii teritoriale din partea Ucrainei, condiții pe care Kievul le consideră inacceptabile. SUA au trecut la o abordare mai tradițională a negocierilor; în octombrie, administrația Trump a suspendat temporar unele sancțiuni legate de combustibilul rusesc, după ce Moscova a acceptat să furnizeze motorină piețelor globale.",
     "importance_score": 40.0,
-    "top_rank": 67,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4401,7 +4450,7 @@
     "lead_ro": "Guvernul de la Chișinău demarează pregătirile pentru preluarea restricțiilor europene impuse Rusiei și Belarusului, măsură legată de procesul de aderare la UE. Planul prevede și evaluarea efectelor economice și sociale, precum și identificarea unor soluții pentru diminuarea consecințelor negative.",
     "content_ro": "• **Guvernul Republicii Moldova a inițiat pregătirile pentru aplicarea sancțiunilor europene.** Măsurile vizate privesc Rusia și Belarus, iar autoritățile consideră alinierea la acestea o cerință a parcursului de aderare la Uniunea Europeană. Planul urmărește preluarea în legislația moldovenească a celor două regimuri de restricții ale UE.\n\n• **Statele candidate trebuie să aplice intern măsurile adoptate de Uniune în domeniul politicii externe și de securitate.** Pentru Moldova, acest lucru va presupune modificarea mai multor acte normative și actualizarea regulată a cadrului juridic, deoarece listele europene de sancțiuni sunt revizuite de mai multe ori pe lună.\n\n• **Sancțiunile europene vizează peste 4.700 de persoane și entități în contextul războiului declanșat de Rusia împotriva Ucrainei.** În octombrie, UE a adăugat 1.600 de poziții printr-o singură decizie, extinderea de acest tip fiind cea mai amplă menționată de sursă. La 23 noiembrie, Comisia Europeană a propus și al 22-lea pachet de sancțiuni.\n\n• **Autoritățile moldovenești intenționează să analizeze efectele aplicării restricțiilor.** Planul ar urma să cuprindă o evaluare a consecințelor economice și sociale și propuneri pentru limitarea impactului nefavorabil. Punerea în aplicare va necesita participarea instituțiilor publice responsabile.\n\n• **Comisia Europeană a semnalat progrese ale Republicii Moldova și Ucrainei în politica externă și de securitate comună.** În rapoartele de extindere prezentate la începutul lunii noiembrie, executivul european a estimat că Moldova ar putea încheia negocierile pentru acest capitol până la sfârșitul anului 2027.",
     "importance_score": 40.0,
-    "top_rank": 68,
+    "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4440,7 +4489,7 @@
     "lead_ro": "Relatări de presă au asociat o presupusă relație a lui Alice Huang cu Jensen Huang și achiziția unor cipuri americane cu riscuri de securitate națională. O fostă angajată CIA susține că administrația Trump nu a răspuns adecvat avertismentelor.",
     "content_ro": "• **Jensen Huang a revenit la conducerea Nvidia:** compania a anunțat luni că acesta ocupă din nou funcția de director general. Revenirea sa a atras atenția în contextul informațiilor apărute despre presupuse legături cu serviciile chineze.\n\n• **Alice Huang a fost asociată în relatările de presă cu un oficial chinez din domeniul securității:** surse familiarizate cu informații ale serviciilor americane, citate de The New York Times, au afirmat că femeia a păstrat legătura cu un reprezentant al ministerului chinez de stat pentru securitate. Publicația a relatat și despre o relație secretă între Alice Huang și Jensen Huang; cei doi nu sunt rude.\n\n• **Achiziția unor cipuri a ridicat întrebări privind respectarea restricțiilor americane:** potrivit Digi24, Alice Huang conducea compania tehnologică Megaspeed din Singapore și a fost implicată în cumpărarea unor cipuri Nvidia avansate, evaluate la 4,8 miliarde de dolari. Relatarea susține că o parte dintre acestea ar fi fost redirecționată către China, în pofida interdicțiilor de export.\n\n• **O fostă ofițeră CIA afirmă că autoritățile americane primiseră avertismente:** Julia Curlee a declarat că administrația dispunea de informații care îi permiteau să intervină împotriva rețelei de redirecționare a cipurilor. Digi24 menționează și un raport clasificat, întocmit în mai anul trecut de Marco Rubio.\n\n• **Informațiile despre acuzații și reacția administrației provin din relatări și declarații atribuite:** materialele citate fac referire la surse din serviciile americane și la mărturia unei foste angajate CIA. Acestea nu dovedesc, prin ele însele, că Jensen Huang ar fi cunoscut presupusele legături de spionaj sau redirecționarea cipurilor.",
     "importance_score": 40.0,
-    "top_rank": 69,
+    "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4479,7 +4528,7 @@
     "lead_ro": "Președintele american Donald Trump și secretarul general al NATO, Mark Rutte, au programată o întrevedere pe 25 noiembrie, la Mar-a-Lago, în Florida. Discuția are loc după întâlnirile lui Trump din China cu Vladimir Putin și Xi Jinping, pe fondul tensiunilor transatlantice și al demersurilor diplomatice privind războiul din Ucraina.",
     "content_ro": "• **Întrevederea dintre Trump și Rutte este programată pentru 25 noiembrie, la Palm Beach.** Discuția va avea loc la reședința Mar-a-Lago și face parte din vizita secretarului general al NATO în Statele Unite, desfășurată în perioada 24–25 noiembrie. Alianța a anunțat că Rutte va purta discuții și cu oficiali ai administrației americane, fără să fie prevăzută o apariție în fața presei.\n\n• **Întâlnirea are loc după deplasarea recentă a lui Trump în Asia.** În China, președintele SUA a discutat cu liderul rus Vladimir Putin și cu președintele chinez Xi Jinping, cărora li s-a adresat folosind apelativul „prieten”. Reuniunea a atras critici din partea unor aliați europeni ai Washingtonului și a unor democrați americani.\n\n• **Rutte a susținut public dialogul între liderii marilor puteri nucleare.** Secretarul general al NATO a descris astfel de întrevederi drept firești și a declarat anterior că nu este îngrijorat de întâlnirea lui Trump cu Putin și Xi Jinping.\n\n• **Relațiile dintre Statele Unite și aliații europeni sunt marcate de mai multe divergențe.** Trump a criticat statele europene în privința bugetelor de apărare, a politicilor comerciale și a sprijinului acordat Washingtonului în timpul războiului americano-israelian împotriva Iranului. În paralel, capitalele europene cer să participe la negocierile mediate de SUA pentru încheierea războiului declanșat de Rusia în Ucraina.\n\n• **Implicarea Ucrainei și a Europei în negocieri rămâne un subiect de interes.** Țările europene urmăresc să se alăture eforturilor diplomatice, cu sprijinul Statelor Unite, și insistă ca atât Ucraina, cât și Europa să fie reprezentate în proces. Sursele nu precizează ce rezultate concrete ar putea avea discuția dintre Trump și Rutte.",
     "importance_score": 40.0,
-    "top_rank": 70,
+    "top_rank": 71,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4527,7 +4576,7 @@
     "lead_ro": "Universitatea Cluj a anunțat transferul lui Nicolae Stanciu, care va putea debuta în ianuarie 2027 și este așteptat să joace în următoarele două sezoane. Clubul negociază și cu Andrei Burcă, în timp ce Alexandru Kalanyos consideră că echipa poate ținti titlul după venirea mijlocașului.",
     "content_ro": "• **Stanciu a semnat pentru două sezoane:** Internaționalul român, în vârstă de 33 de ani, a devenit oficial jucătorul Universității pe 23 noiembrie, după încheierea colaborării cu Dalian Yingbo din China. Va purta numărul 21 și va putea evolua din ianuarie 2027.\n\n• **Venitul total raportat ajunge la 800.000 de euro:** Potrivit informațiilor publicate, mijlocașul va primi 25.000 de euro lunar și câte 100.000 de euro la începutul fiecărui sezon. Suma pentru cei doi ani se ridică la 800.000 de euro dacă își duce contractul la capăt.\n\n• **U, aflată pe locul cinci, negociază și cu Burcă:** Fundașul de 33 de ani, cu 47 de apariții la națională, își încheie contractul cu Yunnan Yukun la finalul anului și poate deveni liber. După ce luase în calcul să rămână în China, Burcă a transmis semnale mai încurajatoare, iar clubul speră la un acord în săptămânile următoare.\n\n• **Diferența salarială rămâne o piedică:** La formația chineză, Burcă avea un venit anual de un milion de euro. Universitatea nu poate ajunge la această remunerație, iar fundașul încearcă să obțină condiții cât mai avantajoase.\n\n• **Kalanyos crede că U poate lupta pentru titlu:** Fostul antrenor al lui Stanciu consideră că experiența și mentalitatea mijlocașului pot ridica nivelul echipei. El a amintit și sezonul 2015, când Stanciu a câștigat cu FCSB campionatul, Cupa României și Cupa Ligii; în opinia lui Kalanyos, jucătorul a avut o contribuție majoră la acele succese.",
     "importance_score": 40.0,
-    "top_rank": 71,
+    "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4575,7 +4624,7 @@
     "lead_ro": "Jannik Sinner, în vârstă de 25 de ani și ocupantul locului doi în clasamentul ATP, a trecut marți dimineață, 24 noiembrie, printr-o operație reușită în Finlanda. Recuperarea este estimată la aproximativ trei luni, astfel că nu va juca la Australian Open 2027; revenirea ar putea avea loc în primăvară, la începutul sezonului pe zgură.",
     "content_ro": "• **Intervenția a vizat genunchiul drept al lui Sinner.** Italianul are 25 de ani și se află pe poziția a doua în ierarhia ATP, după ce a ocupat anterior primul loc. Operația a avut loc marți dimineață, 24 noiembrie, într-o clinică din Finlanda.\n\n• **Lasse Lempainen a fost chirurgul care l-a operat.** Ortopedul finlandez îl examinase pe Sinner la Milano, în weekend, iar evaluarea a precedat hotărârea finală de a interveni. Medicul jucătorului, Herbert Schonhuber, l-a însoțit la Turku și a confirmat că operația a avut un rezultat bun.\n\n• **Procedura a tratat banda iliotibială.** Structura care coboară de-a lungul părții exterioare a coapsei, până la genunchi, era asociată cu problemele persistente ale tenismenului. Lempainen a ales să o alungească, o metodă mai puțin solicitantă pentru corectarea afecțiunii.\n\n• **Operația fusese discutată încă din octombrie, la clinica La Madonnina din Milano.** Unitatea medicală are legături cu centrul din Turku. Sinner a preferat atunci să amâne intervenția, însă tratamentele urmate nu au eliminat durerile de la genunchi.\n\n• **Australian Open, programat în ianuarie, se va desfășura fără Sinner.** Estimarea de recuperare este de circa trei luni, ceea ce ar putea permite reluarea activității fizice în februarie, fără să garanteze participarea imediată la competiții. Calendarul revenirii depinde de evoluția recuperării și ar putea duce la o revenire în primăvară, odată cu sezonul pe zgură.",
     "importance_score": 40.0,
-    "top_rank": 72,
+    "top_rank": 73,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4624,7 +4673,7 @@
     "lead_ro": "Volodimir Zelenski a declarat că Ucraina va avea nevoie de 115 miliarde de euro în sprijin financiar extern în 2027. Angajamentele europene însumează aproximativ 90 de miliarde, iar autoritățile încearcă să identifice surse pentru diferența de 25 de miliarde.",
     "content_ro": "• **Necesarul Ucrainei de finanțare externă pentru 2027 este estimat la 115 miliarde de euro**, a transmis Volodimir Zelenski unor oficiali de rang înalt din administrațiile regionale. Pentru acoperirea acestei nevoi, guvernul de la Kiev contează pe sprijinul partenerilor internaționali.\n\n• **Uniunea Europeană și-a asumat până acum angajamente de aproximativ 90 de miliarde de euro.** Potrivit lui Zelenski, autoritățile discută în continuare despre identificarea unor resurse care să acopere suma rămasă, de 25 de miliarde de euro.\n\n• **Sprijinul european menționat cuprinde două tranșe de câte 45 de miliarde de euro.** Una este un împrumut anunțat recent, destinat economiei și efortului de război al Ucrainei. Cealaltă provine dintr-un pachet de finanțare de 90 de miliarde, aprobat în decembrie 2025 pentru anii 2026–2027.\n\n• **Asigurarea celor 25 de miliarde de euro care lipsesc rămâne în lucru.** Zelenski a afirmat că executivul european a prezentat deja o posibilă soluție de finanțare, iar Kievul încearcă să obțină susținerea Uniunii pentru aceasta.\n\n• **Cheltuielile tot mai mari legate de război contribuie la amploarea necesarului financiar.** Ucraina depinde de ajutorul militar și financiar occidental pentru a-și continua efortul de apărare, iar Uniunea Europeană este în prezent principalul său susținător financiar.",
     "importance_score": 40.0,
-    "top_rank": 73,
+    "top_rank": 74,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4672,7 +4721,7 @@
     "lead_ro": "La doi ani de la primul tur, Nicușor Dan a susținut fără echivoc că anularea alegerilor a fost o decizie corectă, însă raportul amplu promis de președinte nu a fost publicat. Documentul AUR, de peste 400 de pagini, contestă competența Curții Constituționale și suficiența probelor, iar Administrația Prezidențială afirmă că nu aduce argumente juridice noi.",
     "content_ro": "• **Primul tur s-a desfășurat la 24 noiembrie 2024:** Călin Georgescu și Elena Lasconi au obținut cele mai multe voturi și urmau să concureze în turul următor. Pe 6 decembrie, Curtea Constituțională a anulat întregul proces electoral, care a fost ulterior reluat.\n\n• **Dan susține și acum hotărârea CCR:** La doi ani de la decizie, președintele a confirmat că o consideră corectă. El a spus că raportul AUR nu prezintă elemente noi și a amânat pentru o altă ocazie o discuție detaliată despre document.\n\n• **Raportul AUR are peste 400 de pagini:** Autoarea este o deputată care conduce comisia Camerei Deputaților pentru cercetarea abuzurilor. Bazându-se pe acte publice, răspunsuri ale instituțiilor și analize juridice, documentul contestă dreptul CCR de a anula scrutinul și suficiența probelor invocate, calificând hotărârea drept o lovitură de stat judiciară.\n\n• **Administrația Prezidențială a răspuns la opt susțineri din raport:** Comunicatul afirmă că CCR avea competența de a anula procesul electoral și amintește că hotărârea instanței, precum și explicațiile oferite ulterior, tratează mai multe dintre întrebările AUR. Dan a admis că probele disponibile judecătorilor la momentul deciziei nu erau complete, din cauza timpului limitat, însă a apreciat că existau indicii suficiente privind denaturarea competiției; verificări ulterioare le-ar fi susținut.\n\n• **Raportul promis de președinte rămâne nepublicat:** Pe 10 noiembrie, Dan a invocat nereguli financiare: un candidat declarase cheltuieli de campanie zero, deși existau indicii privind sume importante, iar traseul banilor era investigat. El a inclus și influența rusă în contextul mai larg al anulării.",
     "importance_score": 40.0,
-    "top_rank": 74,
+    "top_rank": 75,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4721,7 +4770,7 @@
     "lead_ro": "MedLife, Asociația Tășuleasa Social și Unlock Research au realizat un studiu observațional pe Via Transilvanica, cu 62 de participanți. Rezultatele, publicate la 24 noiembrie 2026, arată modificări favorabile ale unor valori lipidice și ale indicatorilor de stres raportați de participanți după drumeție.",
     "content_ro": "• **Datele studiului:** Cercetarea s-a desfășurat între iulie și septembrie și a inclus 62 de persoane cu vârste între 20 și 70 de ani. Pe parcursul a zece zile, acestea au mers cel puțin 150 de kilometri pe Via Transilvanica, iar evaluările au fost făcute înainte și după traseu.\n\n• **Ce a urmărit cercetarea:** Programul, numit „Stresul Bun”, a analizat adaptarea la solicitări fizice și mentale. Pe lângă indicatorii biologici, au fost evaluate starea emoțională și bunăstarea percepută, cercetătorii urmărind și aspecte legate de reziliență.\n\n• **Rezultatele analizelor de sânge:** Ponderea participanților cu valori mari ale colesterolului total, LDL-colesterolului sau trigliceridelor a coborât de la 38% înaintea drumeției la 12% la evaluarea finală. Dintre cele 23 de persoane cu valori crescute inițial, 16 aveau toți cei trei indicatori în limite normale la final.\n\n• **Răspunsurile despre stres:** Conform chestionarului MEDS, scorul eustresului, asociat cu o reacție mobilizatoare, a crescut cu 7%, iar cel al distresului a scăzut cu 14% față de măsurarea inițială. Comparația a folosit răspunsurile strânse înainte și după parcurgerea traseului.\n\n• **Experiențe relatate și limite:** În interviuri, participanții au vorbit despre mai multă încredere în sine, perseverență și toleranță față de cei din jur; toți au spus că ar reveni pe traseu. Fiind un studiu observațional, rezultatele descriu diferențe între cele două evaluări, fără să demonstreze că mersul pe jos a fost singura lor cauză.",
     "importance_score": 40.0,
-    "top_rank": 75,
+    "top_rank": 76,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4769,7 +4818,7 @@
     "lead_ro": "Poliția din Norfolk a reținut doi bărbați suspectați de furt și pătrundere neautorizată pe o proprietate de pe domeniul Sandringham. Imobilul era nelocuit în momentul incidentului, iar ancheta pentru stabilirea împrejurărilor continuă.",
     "content_ro": "• **Poliția a reținut doi suspecți în legătură cu un posibil furt și o intrare ilegală** pe domeniul Sandringham. Autoritățile din Norfolk au anunțat arestările pe 24 noiembrie. Bărbații au fost găsiți pe proprietatea regală și au rămas în custodia poliției pe durata cercetărilor.\n\n• **Incidentul a fost semnalat luni, 23 noiembrie.** Polițiștii au primit sesizarea cu puțin înainte de ora locală 18:00, după ce au fost observate activități considerate suspecte. Ancheta vizează o proprietate aflată pe domeniul Sandringham, iar circumstanțele exacte nu au fost încă stabilite.\n\n• **La intervenție au participat mai multe echipe și mijloace de supraveghere.** Căutările au fost sprijinite de unități canine, drone și un elicopter al Serviciului Național de Poliție Aeriană. Cei doi bărbați au fost identificați și reținuți în interiorul domeniului.\n\n• **Clădirea vizată nu era ocupată în acel moment.** Poliția a precizat că niciun membru al familiei regale nu se afla acolo. Ancheta este în desfășurare, iar autoritățile nu au prezentat încă o concluzie privind modul în care s-a produs presupusa pătrundere.\n\n• **Pe domeniul Sandringham se află și Anmer Hall, folosită de prințul William și Catherine.** Totuși, informațiile confirmate de poliție nu identifică explicit această reședință drept clădirea vizată. Relatările anterioare din presa britanică au menționat Anmer Hall, însă comunicarea autorităților confirmă doar un incident la o proprietate de pe domeniu.",
     "importance_score": 40.0,
-    "top_rank": 76,
+    "top_rank": 77,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4817,7 +4866,7 @@
     "lead_ro": "În Grecia este anunțată o grevă generală pentru 25 și 26 noiembrie, însoțită de manifestații la Atena și în alte localități. Ministerul român de Externe avertizează că circulația maritimă, aeriană, feroviară și rutieră ar putea fi afectată.",
     "content_ro": "• **Grecia va avea o grevă generală pe 25 și 26 noiembrie:** acțiunea este programată pentru două zile și va fi însoțită de manifestații în Atena și în alte orașe. Ministerul Afacerilor Externe din România a transmis o atenționare pentru cetățenii aflați în țară, cei care o traversează și persoanele care urmează să călătorească acolo.\n\n• **Transportul maritim este așteptat să se oprească:** potrivit Confederației Maritime Panelene, navele vor rămâne în porturi pe durata grevei. Călătorii sunt îndemnați să verifice informațiile portuare și situația rezervărilor înainte de plecare.\n\n• **Zborurile, trenurile și traficul rutier pot înregistra perturbări:** orarele curselor aeriene ar putea fi schimbate, iar unele zboruri pot avea întârzieri. Sunt posibile, de asemenea, probleme în circulația feroviară și pe șosele; sursele nu precizează amploarea acestora.\n\n• **Românii pot solicita sprijin consular la Atena sau Salonic:** numerele obișnuite ale ambasadei din Atena sunt +30 210 672 8875 și +30 210 672 8879, iar consulatul general din Salonic poate fi apelat la +30 231 034 0088. Apelurile sunt preluate permanent.\n\n• **Pentru situațiile urgente sunt disponibile linii telefonice distincte:** numărul de urgență al ambasadei din Atena este +30 697 899 6222, iar cel al consulatului din Salonic, +30 690 647 9076. MAE recomandă verificarea avertizărilor oficiale înainte de călătorie și urmărirea comunicărilor operatorilor de transport.",
     "importance_score": 40.0,
-    "top_rank": 77,
+    "top_rank": 78,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4866,7 +4915,7 @@
     "lead_ro": "Universitatea Craiova ocupă primul loc în Superliga, cu 36 de puncte după etapa a 16-a. Clubul ia în calcul întăriri pe trei poziții în perioada de transferuri din iarnă, iar trei dintre jucătorii săi au fost incluși în echipa etapei.",
     "content_ro": "• **Craiova conduce clasamentul cu 36 de puncte:** echipa pregătită de Filipe Coelho a câștigat cu 6–2 pe terenul celor de la UTA și a ajuns la 11 succese în campionat. Rapid are 34 de puncte, Dinamo 33, iar Petrolul ocupă locul patru, cu 30.\n\n• **Trei jucători ai Craiovei au intrat în echipa etapei:** Nicușor Bancu a oferit două pase decisive, Alexandru Cicâldău a înscris și a contribuit la un alt gol, iar Ștefan Baiaram a marcat de două ori. Filipe Coelho a fost desemnat antrenorul rundei.\n\n• **Și alte formații au avut jucători remarcați:** Andrej Fábry și Angel Gillard, de la Corvinul, au fost incluși după victoria cu 4–0 de la Csíkszereda; Gillard a reușit două goluri și o pasă decisivă. CFR Cluj i-a avut în echipă pe Christopher Braun și Andrei Cordea, iar portarul Igor Nikić a prins un loc după nouă intervenții.\n\n• **Craiova vizează un atacant lateral și doi fundași:** potrivit GSP, extrema este prioritatea, iar Aymen Boutoutaou rămâne o variantă. Clubul caută și un fundaș dreapta care să-l poată înlocui pe Mora. În partida cu UTA, portughezul Teles a evoluat în locul acestuia, deși postul său natural este la mijloc; oltenii preferă un fundaș cu profil ofensiv, asemănător lui Bancu.\n\n• **Situația lui Roux susține căutarea unui fundaș central:** jucătorul este accidentat, iar statutul său la club nu este clar, astfel că echipa vrea să evite improvizațiile în apărare. Conform GSP, Simon Elisor este singurul transfer din vară care a confirmat până acum. Joi, Craiova întâlnește Brighton.",
     "importance_score": 40.0,
-    "top_rank": 78,
+    "top_rank": 79,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4914,7 +4963,7 @@
     "lead_ro": "Un sondaj Salvați Copiii România, la care au răspuns 4.659 de copii, arată că aproape nouă din zece au un cont pe rețelele sociale, iar mulți s-au înscris înainte de zece ani. Peste trei sferturi susțin stabilirea unei vârste minime de acces, iar organizația propune și reguli bazate pe acordul părinților, alături de educație digitală.",
     "content_ro": "• **Aproape nouă din zece participanți folosesc rețelele sociale.** Dintre cei 4.659 de respondenți cu vârste de până la 17 ani, WhatsApp este cea mai utilizată platformă (87,9%), urmată de YouTube (76,2%), Instagram (72,3%) și TikTok (71,3%). Peste jumătate dintre utilizatori sunt prezenți pe patru până la șase platforme, în timp ce Telegram este folosit de 5,7%.\n\n• **Pentru mulți copii, prima înscriere a avut loc înainte de zece ani.** În total, 41,7% își făcuseră deja primul cont până la această vârstă, iar 16,7% cel târziu la șapte ani. Dintre utilizatorii intervievați, 87% intraseră pe rețele înainte de 13 ani. Proporția celor înscriși înainte de zece ani este de 35% în rândul adolescenților de 16–17 ani și de 68,9% în grupul celor mai mici; păstrarea legăturii cu prietenii a fost motivul cel mai des menționat.\n\n• **Peste trei sferturi dintre copii ar susține introducerea unei limite minime de vârstă.** Un procent de 46,2% a declarat că a fost contactat și de persoane necunoscute. Zilnic, 18,4% petrec mai mult de cinci ore pe platforme, cu o pondere de 20,3% în rândul fetelor și de 15,1% printre băieți. O treime dintre respondenți le folosesc sub trei ore pe zi.\n\n• **Informarea și divertismentul sunt beneficiile cel mai des semnalate.** Accesul la informații a fost indicat de 64,6% dintre copii, distracția de 60,4%, iar comunicarea cu alte persoane de 56,2%. Conversațiile, vizionarea clipurilor și jocurile se numără printre activitățile obișnuite; colaborarea la teme este menționată mai rar.\n\n• **Salvați Copiii propune interzicerea accesului sub 13 ani și acordul explicit al părinților între 13 și 15 ani.** Pragurile anunțate în februarie apar și în proiectul EU KIDS Act, prezentat la 17 septembrie. Chestionarul online a fost aplicat în septembrie și nu a avut un eșantion reprezentativ; copiii sub 12 ani au fost mai puțin reprezentați. Organizația cere, de asemenea, educație digitală și pentru siguranța online, precum și mai multe activități extrașcolare accesibile copiilor vulnerabili.",
     "importance_score": 40.0,
-    "top_rank": 79,
+    "top_rank": 80,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4962,7 +5011,7 @@
     "lead_ro": "Pe 24 noiembrie, locuitorii din nordul județului Tulcea au primit o avertizare RO-Alert privind o posibilă incursiune de drone. Ministerul Apărării a anunțat că ținta detectată se afla în spațiul aerian ucrainean și că nu au fost semnalate pătrunderi în spațiul aerian românesc.",
     "content_ro": "• **O alertă aeriană a fost instituită pe 24 noiembrie în zona de nord a județului Tulcea.** Autoritățile au avertizat populația cu privire la posibilitatea unei incursiuni de drone și au transmis prin RO-Alert recomandări de protecție.\n\n• **Sistemul radar al Ministerului Apărării a detectat o țintă aeriană la nord de municipiul Tulcea.** Potrivit instituției, aceasta se afla în spațiul aerian al Ucrainei, iar autoritățile nu au raportat pătrunderi ale unor aeronave în spațiul aerian național.\n\n• **Două aeronave F-18 ale Forțelor Aeriene și Spațiale Spaniole au decolat de la Baza 57 Aeriană Mihail Kogălniceanu.** Avioanele participau la misiunea de poliție aeriană, a precizat Ministerul Apărării.\n\n• **ISU Tulcea a indicat ora 10:10 pentru instituirea alertei și a precizat că mesajul a fost recepționat pe telefoane la 10:11.** Într-o informare separată, ministerul a menționat că mesajul RO-Alert a fost transmis la 11:11; orele comunicate de cele două instituții nu coincid.\n\n• **Locuitorii au fost sfătuiți să se adăpostească în beciuri sau în spații de protecție civilă.** În lipsa acestora, recomandarea a fost să rămână în interior, departe de ferestre și de pereții exteriori. Potrivit ministerului, alerta s-a încheiat la ora 11:51.",
     "importance_score": 40.0,
-    "top_rank": 80,
+    "top_rank": 81,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5011,7 +5060,7 @@
     "lead_ro": "Ministrul Energiei, Dumitru Chisăliță, estimează că facturile gospodăriilor s-ar putea reduce cu aproximativ 10% începând cu 1 aprilie 2027. Scenariul depinde de aplicarea unei scheme tranzitorii și de evoluția tarifelor, taxelor și marjelor comerciale.",
     "content_ro": "• **O reducere de aproximativ 10% a facturilor casnice este o estimare, nu o măsură garantată.** Dumitru Chisăliță a prezentat această posibilitate la bilanțul primei luni de mandat. Calculul ministerului privește componenta de marfă, iar suma achitată efectiv de clienți poate fi influențată de alte costuri.\n\n• **Schema tranzitorie propusă ar urma să se aplice între 1 aprilie 2027 și 31 martie 2028.** Proiectul se află în transparență decizională din 16 noiembrie. În intervalul respectiv, furnizorii ar vinde lunar gospodăriilor o parte din gaze în condițiile noului mecanism, pentru ca trecerea de la prețul administrat la piața liberă să se desfășoare gradual.\n\n• **Prețul final depinde și de tarife, taxe și costurile furnizorilor.** Transportul și distribuția, componentele reglementate și marjele comerciale pot modifica valoarea facturii. Nici o eventuală ieftinire pe piața angro nu se reflectă automat, imediat sau în aceeași proporție în ofertele destinate consumatorilor casnici.\n\n• **O ofertă mai mare de gaze ar putea intensifica concurența, însă efectul rămâne incert.** Estimarea are în vedere cantități suplimentare din România și din regiune. La proiectul Neptun Deep, din Marea Neagră, pornirea și calibrarea sondelor sunt anticipate în prima jumătate a lui 2027; volumul disponibil pentru piață ar urma să fie mai clar ulterior. Cererea și necesarul de importuri pot influența, la rândul lor, prețurile.\n\n• **Ministerul ia în calcul măsuri de tranziție și pentru consumatorii noncasnici.** Chisăliță a menționat inițiative de eficiență energetică și acces la finanțare. Pentru gospodării, trecerea către piața liberalizată ar urma să fie însoțită de informare, însă forma finală a proiectului și impactul concret asupra facturilor nu sunt încă stabilite.",
     "importance_score": 40.0,
-    "top_rank": 81,
+    "top_rank": 82,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5059,7 +5108,7 @@
     "lead_ro": "Premierul ungar a criticat la Bratislava condiționarea bugetului UE pentru perioada 2028–2034 de finanțarea Ucrainei. La reuniunea liderilor din Grupul de la Vișegrad și Austria au fost discutate și costurile energiei, presiunea migrației și propunerea bugetară europeană.",
     "content_ro": "• **Peter Magyar a respins condiționarea bugetului UE pentru 2028–2034 de finanțarea Ucrainei.** Premierul ungar a făcut declarația luni, la Bratislava, după întâlnirea liderilor din Grupul de la Vișegrad și Austria. Potrivit Digi24, cancelarul german Friedrich Merz amenințase că va bloca bugetul dacă statele membre nu acceptă să acorde Kievului sprijin financiar suplimentar.\n\n• **Magyar a cerut ca situația specifică a statelor din Europa Centrală să fie luată în considerare în deciziile europene.** El a invocat apropierea de războiul din Ucraina, presiunea mai mare a migrației și nivelul ridicat al prețurilor la energie. Participanții la reuniune au convenit, de asemenea, că prețul energiei afectează competitivitatea.\n\n• **Premierul ungar nu consideră propunerea bugetară a lui António Costa o bază pentru negocieri.** Conform Digi24, aceasta prevede cu 200 de miliarde de euro mai puțin decât propunerea inițială a Comisiei Europene. Premierul slovac Robert Fico a descris proiectul drept inacceptabil pentru toate cele cinci state participante.\n\n• **Magyar a pus sub semnul întrebării utilitatea summitului extraordinar al UE programat joi și vineri.** La reuniune, țările din Grupul de la Vișegrad s-au alăturat inițiativei Cehiei privind revizuirea sistemului de comercializare a certificatelor de emisii ETS2 și amânarea aplicării acestuia. Magyar a precizat că aceste state nu contestă obiectivele climatice, ci se opun unor costuri suplimentare pentru populație și transporturi fără măsuri compensatorii.",
     "importance_score": 40.0,
-    "top_rank": 82,
+    "top_rank": 83,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5108,7 +5157,7 @@
     "lead_ro": "Un bărbat de 50 de ani este suspectat că și-a ucis părinții în localitatea Rogojeni, județul Galați. Concluziile medico-legale indică faptul că mama a murit prin asfixiere, iar tatăl a suferit un infarct după ce a fost lovit.",
     "content_ro": "• **Decesele au avut loc în Rogojeni.** Potrivit datelor strânse până acum, între cuplu și fiul lor, în vârstă de 50 de ani, a izbucnit un conflict în locuința părinților, unde s-au produs ambele decese.\n\n• **Mama a murit prin asfixiere.** Expertiza medico-legală arată că femeii i-a fost comprimat gâtul. Fiul este bănuit că a provocat acest lucru, iar anchetatorii verifică împrejurările exacte.\n\n• **Tatăl a decedat în urma unui infarct.** Conform concluziilor specialiștilor, fiul l-ar fi lovit în față, după care bărbatul a suferit un atac de cord. Experții au stabilit o legătură între lovitură și episodul fatal.\n\n• **Suspectul urma să fie prezentat marți unui judecător.** Procurorii intenționează să ceară arestarea preventivă. Există informații că bărbatul s-ar fi aflat sub influența alcoolului, dar acest aspect nu este confirmat ca fapt cert.\n\n• **Dosarul este instrumentat de Parchetul de pe lângă Curtea de Apel Galați.** Polițiștii de la serviciul de investigații criminale al IPJ Galați sprijină ancheta, care urmărește să stabilească toate detaliile conflictului și ale celor două decese.",
     "importance_score": 40.0,
-    "top_rank": 83,
+    "top_rank": 84,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5151,7 +5200,7 @@
     "lead_ro": "Primarul Mihai Polițeanu susține că 41 de angajați ai Petrolului ar fi fost plătiți prin clubul sportiv municipal, continuând să lucreze pentru echipa de fotbal. Petrolul a negat că ar fi cerut o soluție ilegală, iar vicepreședintele Cristian Fogarassy a avertizat asupra riscului pentru fotbalul ploieștean în lipsa sprijinului local.",
     "content_ro": "• **Disputa vizează salariile a 41 de angajați.** Potrivit lui Polițeanu, președintele Petrolului, Claudiu Tudor, ar fi propus ca antrenori, maseuri, magazioneri și operatori video să fie angajați de CSM Ploiești, dar să-și desfășoare în continuare activitatea la clubul de fotbal. Primarul a afirmat că unele salarii nete ar fi putut ajunge la 5.000 de lei.\n\n• **Primarul spune că o propunere asemănătoare a fost adresată și unui club județean.** AlPHa, aflat în subordinea Consiliului Județean Prahova, ar fi refuzat solicitarea, la fel ca CSM Ploiești. Nu există informații că planul ar fi fost pus în aplicare.\n\n• **În comunicatul din 24 noiembrie, Petrolul a respins acuzația de încălcare a legii.** Clubul a susținut că încerca să identifice o formă legală de sprijin din partea autorităților locale, invocând dificultățile financiare. Polițeanu a afirmat, în schimb, că oficialii clubului au făcut presiuni pentru obținerea finanțării.\n\n• **Vicepreședintele Cristian Fogarassy a invocat riscul dispariției fotbalului din Ploiești.** El a declarat că solicitarea clubului către primărie privea sprijinul local și a susținut că edilul ar trebui să-și asume consecințele dacă lipsa acestuia afectează viitorul echipei.\n\n• **Petrolul se confrunta și cu incertitudini sportive, potrivit relatării.** Echipa risca o penalizare cu puncte și se afla la trei puncte de Dinamo, respectiv la șase de liderul Universitatea Craiova. Informațiile publicate nu confirmă că schema de plată din bani publici s-ar fi concretizat.",
     "importance_score": 38.0,
-    "top_rank": 84,
+    "top_rank": 85,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5195,7 +5244,7 @@
     "lead_ro": "Volodimir Zelenski afirmă că Ucraina ar putea cere sprijinul Congresului american dacă Donald Trump nu reușește să obțină încheierea războiului până la sfârșitul anului. Kievul ar solicita ajutor militar suplimentar și sancțiuni mai dure împotriva Rusiei, în timp ce așteaptă și rachete pentru apărarea antiaeriană.",
     "content_ro": "• **Zelenski ar putea apela la Congres dacă eforturile de încheiere a războiului nu dau rezultate până la finalul anului.** Într-un interviu pentru Bloomberg, președintele ucrainean a declarat că Donald Trump s-ar putea să nu îl convingă pe Vladimir Putin să oprească războiul. În lipsa unui acord de pace acceptabil pentru Ucraina, Kievul ar cere asistență militară americană și măsuri suplimentare împotriva Rusiei.\n\n• **Autoritățile ucrainene se tem că o înțelegere rapidă ar putea presupune concesii majore din partea lor.** Potrivit lui Zelenski, emisarii americani Jared Kushner și Steve Witkoff urmăresc o soluție cât mai curând, posibil până în ianuarie. Kievul dorește însă ca rezultatul negocierilor să nu pună povara exclusiv pe Ucraina, iar liderul ucrainean spune că nu observă deocamdată semne că Putin ar fi pregătit să încheie conflictul.\n\n• **Ucraina solicită mai multe interceptoare pentru sistemele Patriot.** Livrarea a 48 de rachete așteaptă aprobarea lui Pete Hegseth, secretarul american al Apărării, conform relatării. Zelenski a precizat că nici această tranșă nu ar acoperi necesarul țării, astfel că deficitul ar continua chiar dacă transferul ar fi autorizat.\n\n• **Declarațiile au fost făcute și în contextul evoluțiilor politice din Statele Unite.** Articolul le plasează după alegerile de la jumătatea mandatului desfășurate în această lună și susține că democrații au obținut controlul ambelor camere ale Congresului. Zelenski a legat perspectivele negocierilor de menținerea sprijinului militar pentru Ucraina și a presiunii prin sancțiuni asupra Rusiei.",
     "importance_score": 38.0,
-    "top_rank": 85,
+    "top_rank": 86,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -5228,40 +5277,6 @@
     "title_ro": "O firmă a ascuns plățile salariale pentru 100 de angajați prin conturile directorului și ale mamei sale. Ce a descoperit ANAF",
     "lead_ro": "Inspectorii Antifraudă din cadrul ANAF au constatat, în urma unui control la o firmă de construcţii, că aceasta nu a declarat venituri de 1,9 milioane de lei şi a înscris nejustificat TVA deductibilă ...",
     "content_ro": "Inspectorii Antifraudă din cadrul ANAF au constatat, în urma unui control la o firmă de construcţii, că aceasta nu a declarat venituri de 1,9 milioane de lei şi a înscris nejustificat TVA deductibilă în valoare de aproximativ 1,7 milioane de lei. În plus, plăţile salariale pentru circa 100 de persoane au fost disimulate prin folosirea conturilor persoanele ale directorului şi ale mamei sale. Separat de aceste plăţi, directorul firmei ar fi folosit în interes personal fonduri aparţinând acesteia, adică aproximativ 3,7 milioane de lei şi 155.000 de euro.",
-    "importance_score": 35.0,
-    "top_rank": 86,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_dbddcae9d0",
-    "slug": "surse-fratii-camataru-si-alti-interlopi-din-clan-ridicati-de-procurori-intr-un-d-dbddca",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "image": "https://www.g4media.ro/wp-content/uploads/2023/01/camataru.jpg",
-    "is_synthesized": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "G4Media",
-        "title": "SURSE: Frații Cămătaru și alți interlopi din clan, ridicați de procurori într-un dosar de cămătărie și proxenetism. Printre victime s-ar afla maneliști precum Salam și Țancă Uraganu",
-        "link": "https://www.g4media.ro/surse-fratii-camataru-si-alti-interlopi-din-clan-ridicati-de-procurori-intr-un-dosar-de-camatarie-si-proxenetism-printre-victime-s-ar-afla-manelisti-precum-salam-si-tanca-uraganu.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Surse: Frații Cămătaru, săltați de DIICOT pentru exploatarea unor lăutari. Florin Salam și Tzancă Uraganu, printre victime",
-        "link": "https://stirileprotv.ro/stiri/actualitate/surse-fratii-camataru-saltati-de-diicot-pentru-exploatarea-unor-lautari-artisti-abuzati-si-obligati-sa-se-prostitueze.html"
-      }
-    ],
-    "published_at": 1795589569,
-    "title_hu": "SURSE: Frații Cămătaru și alți interlopi din clan, ridicați de procurori într-un dosar de cămătărie și proxenetism. Printre victime s-ar afla maneliști precum Salam și Țancă Uraganu",
-    "lead_hu": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit i...",
-    "content_hu": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit informațiilor G4Media. Ei sunt suspectați că au constituit un grup infracțional organizat care se ocupa cu trafic de persoane, proxenetism, cămătărie. Printre victimele grupării […] © G4Media.ro.",
-    "title_ro": "SURSE: Frații Cămătaru și alți interlopi din clan, ridicați de procurori într-un dosar de cămătărie și proxenetism. Printre victime s-ar afla maneliști precum Salam și Țancă Uraganu",
-    "lead_ro": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit i...",
-    "content_ro": "Frații Nuțu și Sile Cămătaru, băieții și ginerii lor și alți membri ai clanului interlop din București au fost percheziționați și duși la parchet miercuri de procurorii DIICOT și polițiști, potrivit informațiilor G4Media. Ei sunt suspectați că au constituit un grup infracțional organizat care se ocupa cu trafic de persoane, proxenetism, cămătărie. Printre victimele grupării […] © G4Media.ro.",
     "importance_score": 35.0,
     "top_rank": 87,
     "is_top_hero": false,
@@ -8932,6 +8947,64 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_14f87e2964",
+    "slug": "cererea-pentru-programul-standard-de-lucru-creste-in-marile-centre-universitare--14f87e",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/job-iasi-1024x680.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Cererea pentru programul standard de lucru crește în marile centre universitare din Moldova (P)",
+        "link": "https://www.mediafax.ro/social/cererea-pentru-programul-standard-de-lucru-creste-in-marile-centre-universitare-din-moldova-p-23849019"
+      }
+    ],
+    "published_at": 1795592114,
+    "title_hu": "Cererea pentru programul standard de lucru crește în marile centre universitare din Moldova (P)",
+    "lead_hu": "Tot mai mulți angajați din Moldova renunță la turele de noapte sau la programul fragmentat pentru stabilitate. Află ce oferă piața de locuri de muncă 8 ore în Iași....",
+    "content_hu": "Tot mai mulți angajați din Moldova renunță la turele de noapte sau la programul fragmentat pentru stabilitate. Află ce oferă piața de locuri de muncă 8 ore în Iași.",
+    "title_ro": "Cererea pentru programul standard de lucru crește în marile centre universitare din Moldova (P)",
+    "lead_ro": "Tot mai mulți angajați din Moldova renunță la turele de noapte sau la programul fragmentat pentru stabilitate. Află ce oferă piața de locuri de muncă 8 ore în Iași....",
+    "content_ro": "Tot mai mulți angajați din Moldova renunță la turele de noapte sau la programul fragmentat pentru stabilitate. Află ce oferă piața de locuri de muncă 8 ore în Iași.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_bc8199bbf4",
+    "slug": "lovita-de-accidentari-psg-pregateste-un-transfer-de-o-suta-de-milioane-de-euro-bc8199",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.g4media.ro/wp-content/uploads/2026/05/profimedia-1097855199.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Lovită de accidentări, PSG pregătește un transfer de o sută de milioane de euro",
+        "link": "https://www.g4media.ro/lovita-de-accidentari-psg-pregateste-un-transfer-de-o-suta-de-milioane-de-euro.html"
+      }
+    ],
+    "published_at": 1795592033,
+    "title_hu": "Lovită de accidentări, PSG pregătește un transfer de o sută de milioane de euro",
+    "lead_hu": "PSG i-a pierdut pentru restul sezonului pe Khvicha Kvaratskhelia (25 de ani) și Desire Doue (21 de ani). În aceste condiții, Luis Enrique se gândește tot mai serios la un transfer pentru iarna acestui...",
+    "content_hu": "PSG i-a pierdut pentru restul sezonului pe Khvicha Kvaratskhelia (25 de ani) și Desire Doue (21 de ani). În aceste condiții, Luis Enrique se gândește tot mai serios la un transfer pentru iarna acestui an. Presa iberică vorbește despre Nico Williams, atacantul celor de la Athletic Bilbao. Ghinionul a lovit-o în ultima perioadă pe PSG, […] © G4Media.ro.",
+    "title_ro": "Lovită de accidentări, PSG pregătește un transfer de o sută de milioane de euro",
+    "lead_ro": "PSG i-a pierdut pentru restul sezonului pe Khvicha Kvaratskhelia (25 de ani) și Desire Doue (21 de ani). În aceste condiții, Luis Enrique se gândește tot mai serios la un transfer pentru iarna acestui...",
+    "content_ro": "PSG i-a pierdut pentru restul sezonului pe Khvicha Kvaratskhelia (25 de ani) și Desire Doue (21 de ani). În aceste condiții, Luis Enrique se gândește tot mai serios la un transfer pentru iarna acestui an. Presa iberică vorbește despre Nico Williams, atacantul celor de la Athletic Bilbao. Ghinionul a lovit-o în ultima perioadă pe PSG, […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
     "group_id": "group_e4468a2b96",
     "slug": "care-este-cel-mai-frumos-targ-de-craciun-din-europa-are-398-de-ani-de-traditie-s-e4468a",
     "tags": [
@@ -8955,6 +9028,35 @@
     "title_ro": "Care este cel mai frumos târg de Crăciun din Europa? Are 398 de ani de tradiție și intrare gratuită",
     "lead_ro": "Târgul de Crăciun din Nürnberg, Germania, a fost desemnat cel mai bun din Europa, potrivit unei analize realizate de compania Christmas Tree World. Evenimentul, care are o tradiție de 398 de ani, a ob...",
     "content_ro": "Târgul de Crăciun din Nürnberg, Germania, a fost desemnat cel mai bun din Europa, potrivit unei analize realizate de compania Christmas Tree World. Evenimentul, care are o tradiție de 398 de ani, a obținut un scor de 8,20 din 10 puncte și atrage anual numeroși turiști datorită atmosferei festive, produselor tradiționale și celor aproximativ 180 de căsuțe din lemn.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_a0b7064707",
+    "slug": "foto-povestea-impresionanta-a-lui-daniel-copilul-din-satu-mare-cu-trei-operatii--a0b706",
+    "tags": [
+      "erdely"
+    ],
+    "category": "Erdély",
+    "image": "https://www.presasm.ro/uploads/2026/11/danie-pintea--1-.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "PresaSM (Szatmár)",
+        "title": "FOTO. Povestea impresionantă a lui Daniel, copilul din Satu Mare cu trei operații pe inimă, devenit campion la karting",
+        "link": "https://www.presasm.ro/foto-povestea-impresionanta-a-lui-daniel-copilul-din-satu-mare-cu-trei-operatii-pe-inima-devenit/54471"
+      }
+    ],
+    "published_at": 1795591800,
+    "title_hu": "FOTO. Povestea impresionantă a lui Daniel, copilul din Satu Mare cu trei operații pe inimă, devenit campion la karting",
+    "lead_hu": "La doar două zile de la naștere, Daniel a fost diagnosticat cu o afecțiune cardiacă severă, care necesita o intervenție chirurgicală de urgență. Părinții, Krisztian și Betty, din Satu Mare, nu știau l...",
+    "content_hu": "La doar două zile de la naștere, Daniel a fost diagnosticat cu o afecțiune cardiacă severă, care necesita o intervenție chirurgicală de urgență. Părinții, Krisztian și Betty, din Satu Mare, nu știau la acea dată dacă băiatul va putea vreodată să practice un sp…",
+    "title_ro": "FOTO. Povestea impresionantă a lui Daniel, copilul din Satu Mare cu trei operații pe inimă, devenit campion la karting",
+    "lead_ro": "La doar două zile de la naștere, Daniel a fost diagnosticat cu o afecțiune cardiacă severă, care necesita o intervenție chirurgicală de urgență. Părinții, Krisztian și Betty, din Satu Mare, nu știau l...",
+    "content_ro": "La doar două zile de la naștere, Daniel a fost diagnosticat cu o afecțiune cardiacă severă, care necesita o intervenție chirurgicală de urgență. Părinții, Krisztian și Betty, din Satu Mare, nu știau la acea dată dacă băiatul va putea vreodată să practice un sp…",
     "importance_score": 0.0,
     "top_rank": null,
     "is_top_hero": false,
