@@ -1,16 +1,7 @@
-import { createFileRoute } from "@tanstack/react-router";
-import { meta } from "@/components/PageShell";
-import { NewsFeed } from "@/components/NewsFeed";
+import { createFileRoute, redirect } from "@tanstack/react-router";
 
 export const Route = createFileRoute("/friss")({
-  head: () =>
-    meta(
-      "Friss hírek – Stirix.ro",
-      "A Stirix AI-összesített hírei időrendben, a legújabbakkal kezdve, magyarul és románul.",
-    ),
-  component: FreshNews,
+  beforeLoad: () => {
+    throw redirect({ to: "/", statusCode: 301 });
+  },
 });
-
-function FreshNews() {
-  return <NewsFeed view="latest" />;
-}

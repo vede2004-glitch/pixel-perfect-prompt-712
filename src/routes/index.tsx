@@ -4,25 +4,25 @@ import { NewsFeed } from "@/components/NewsFeed";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Top hírek – Stirix.ro" },
+      { title: "Friss hírek – Stirix.ro" },
       {
         name: "description",
         content:
-          "Románia legfontosabb hírei magyarul és románul, több forrásból, AI-összefoglalókkal.",
+          "A Stirix AI-összesített hírei időrendben, a legújabbakkal kezdve, magyarul és románul.",
       },
-      { property: "og:title", content: "Top hírek – Stirix.ro" },
+      { property: "og:title", content: "Friss hírek – Stirix.ro" },
       {
         property: "og:description",
         content:
-          "Románia legfontosabb hírei magyarul és románul, több forrásból, AI-összefoglalókkal.",
+          "A Stirix AI-összesített hírei időrendben, a legújabbakkal kezdve, magyarul és románul.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
-  component: TopNews,
+  component: FreshNews,
 });
 
-function TopNews() {
-  return <NewsFeed view="top" />;
+function FreshNews() {
+  return <NewsFeed view="latest" />;
 }
