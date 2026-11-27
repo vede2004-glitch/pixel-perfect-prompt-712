@@ -17,8 +17,8 @@ import { LANGS, setLang, useLang } from "@/lib/lang";
 import { setTheme, useTheme } from "@/lib/theme";
 
 const items = [
-  { to: "/", hu: "Top hírek", ro: "Știri de top", icon: Newspaper },
-  { to: "/friss", hu: "Friss hírek", ro: "Ultimele știri", icon: Clock3 },
+  { to: "/", hu: "Friss hírek", ro: "Ultimele știri", icon: Clock3 },
+  { to: "/top", hu: "Top hírek", ro: "Știri de top", icon: Newspaper },
   { to: "/hirfolyam", hu: "Hírfolyam", ro: "Flux de știri", icon: Radio },
   { to: "/osszes", hu: "Minden hír (archívum)", ro: "Toate știrile (arhivă)", icon: Library },
   { to: "/tamogatas", hu: "Támogatás", ro: "Susține-ne", icon: HeartHandshake },

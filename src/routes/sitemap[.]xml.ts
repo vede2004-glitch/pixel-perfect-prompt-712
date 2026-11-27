@@ -4,7 +4,7 @@ import { domainLang, originFor } from "@/lib/domains";
 
 const STATIC_PAGES = [
   "/",
-  "/friss",
+  "/top",
   "/hirfolyam",
   "/osszes",
   "/tamogatas",

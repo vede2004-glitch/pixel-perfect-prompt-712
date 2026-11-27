@@ -251,18 +251,6 @@ export function NewsFeed({ view }: { view: FeedView }) {
           >
             <Link
               to="/"
-              aria-current={view === "top" ? "page" : undefined}
-              className={cn(
-                buttonVariants({ variant: "ghost", size: "sm" }),
-                "gap-1.5 whitespace-nowrap px-2 text-xs",
-                view === "top" && "bg-primary/10 text-primary",
-              )}
-            >
-              <Flame className="size-3.5" />
-              {ro ? "Știri de top" : "Top hírek"}
-            </Link>
-            <Link
-              to="/friss"
               aria-current={view === "latest" ? "page" : undefined}
               className={cn(
                 buttonVariants({ variant: "ghost", size: "sm" }),
@@ -272,6 +260,18 @@ export function NewsFeed({ view }: { view: FeedView }) {
             >
               <Clock3 className="size-3.5" />
               {ro ? "Ultimele știri" : "Friss hírek"}
+            </Link>
+            <Link
+              to="/top"
+              aria-current={view === "top" ? "page" : undefined}
+              className={cn(
+                buttonVariants({ variant: "ghost", size: "sm" }),
+                "gap-1.5 whitespace-nowrap px-2 text-xs",
+                view === "top" && "bg-primary/10 text-primary",
+              )}
+            >
+              <Flame className="size-3.5" />
+              {ro ? "Știri de top" : "Top hírek"}
             </Link>
             <Link
               to="/hirfolyam"
