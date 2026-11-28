@@ -3325,6 +3325,50 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_753238ecf4",
+    "slug": "tbb-mint-ketezer-resztvevovel-rendeznek-katonai-paradet-bukarestben-753238",
+    "tags": [
+      "romania",
+      "ziua-nationala",
+      "parada-militara",
+      "bucuresti",
+      "alba-iulia"
+    ],
+    "fingerprint": "a0acc5e08b1d87c80f85bd549f7d4ff5",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Parada Militară de 1 Decembrie: peste 2.000 de militari la București. Evenimente și la Alba Iulia",
+        "link": "https://www.mediafax.ro/life-inedit/parada-militara-de-1-decembrie-peste-2-000-de-militari-la-bucuresti-evenimente-si-la-alba-iulia-23850896"
+      },
+      {
+        "source": "G4Media",
+        "title": "Repetiții pentru parada de 1 Decembrie, sâmbătă și luni la Arcul de Triumf / Când se vor auzi salvele de tun și la ce oră începe defilarea",
+        "link": "https://www.g4media.ro/parada-1-decembrie-2026-bucuresti-program-repetitii.html"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Survoluri de aeronave și salve de tun înainte de 1 Decembrie. Programul repetițiilor de la Arcul de Triumf",
+        "link": "https://adevarul.ro/stiri-interne/evenimente/survoluri-de-aeronave-si-salve-de-tun-inainte-de-1-2575161.html"
+      }
+    ],
+    "published_at": 1795850265,
+    "title_hu": "Több mint kétezer résztvevővel rendeznek katonai parádét Bukarestben",
+    "lead_hu": "December 1-jén Bukarestben és Alba Iuliában is katonai eseményekkel ünneplik Románia nemzeti napját. A fővárosi felvonuláson román és külföldi katonák, valamint több mint száz technikai eszköz is részt vesz.",
+    "content_hu": "• **December 1-jén több helyszínen tartanak ünnepi katonai programokat.** Bukarestben a védelmi minisztérium szervezi az eseményeket, Alba Iuliában pedig déli 12 órára hirdettek meg katonai ceremóniát.\n\n• **A fővárosi program reggel 9 órakor kezdődik a Carol parkban.** Az Ismeretlen Katona sírjánál katonai és vallási megemlékezést tartanak, ahol koszorúkat és virágdíszeket helyeznek el a háborúkban elesett románok emlékére.\n\n• **A Diadalív terén 11 órától vonulnak fel a román alakulatok.** A menetben a védelmi és belügyi tárca, a hírszerző szolgálat, a távközlési különleges szolgálat, valamint a büntetés-végrehajtás képviselői közül összesen több mint kétezren vesznek részt. A felvonuláson mintegy 130 technikai eszköz, köztük 45 repülőgép is megjelenik.\n\n• **A román résztvevőkhöz több mint 300 külföldi katona csatlakozik.** A kontingensek között albán, belga, cseh, horvát, francia, német, olasz, moldovai, lengyel, brit, amerikai és török katonák is lesznek; további NATO-szövetségesek Romániában állomásozó egységei szintén képviseltetik magukat.\n\n• **A katonai technikát a közönség délután fél háromig tekintheti meg.** Az esti program 19 órakor fáklyás menet lesz a Mihai Viteazul 30. gárdadandár részvételével; a menet a Nemzeti Katonai Kör palotájától indul, és a dandár székhelyénél ér véget.",
+    "title_ro": "Peste 2.000 de participanți la parada militară organizată la București",
+    "lead_ro": "La 1 Decembrie, Ziua Națională a României va fi marcată prin evenimente militare la București și Alba Iulia. Defilarea din Capitală va reuni militari români și străini, alături de peste o sută de mijloace tehnice.",
+    "content_ro": "• **Programul militar de 1 Decembrie include evenimente în mai multe orașe.** La București, organizarea revine Ministerului Apărării Naționale, iar la Alba Iulia este anunțată o ceremonie militară începând cu ora 12.00.\n\n• **Manifestările din Capitală încep la ora 9.00, în Parcul Carol I.** La mormântul Ostașului Necunoscut este programată o ceremonie militară și religioasă, cu depuneri de coroane și aranjamente florale în memoria românilor căzuți în lupte.\n\n• **Defilarea de la Arcul de Triumf este programată pentru ora 11.00.** Vor participa peste 2.000 de militari și specialiști din instituții de apărare, ordine publică, informații, telecomunicații și administrație penitenciară. Coloana va cuprinde aproximativ 130 de mijloace tehnice, între care 45 de aeronave.\n\n• **Alături de români vor participa peste 300 de militari străini.** Sunt anunțate detașamente din Albania, Belgia, Cehia, Croația, Franța, Germania, Italia, Republica Moldova, Polonia, Regatul Unit, Statele Unite și Turcia, precum și reprezentanți ai unor state aliate cu trupe în România.\n\n• **Expoziția de tehnică militară va rămâne deschisă până la ora 14.30.** De la ora 19.00, militari ai Brigăzii 30 Gardă „Mihai Viteazul” vor participa la o retragere cu torțe. Traseul pornește de la Palatul Cercului Militar Național și se încheie la sediul brigăzii.",
+    "importance_score": 45.0,
+    "top_rank": 51,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_fd61d784f0",
     "slug": "mosteanu-a-hivatalos-adatokkal-vitatja-az-50-milliard-lejes-hianyallitast-fd61d7",
     "tags": [
@@ -3363,49 +3407,6 @@
     "title_ro": "Moșteanu contestă afirmația privind un deficit bugetar de 50 de miliarde de lei",
     "lead_ro": "Deputatul USR Ionuț Moșteanu susține că datele bugetare nu confirmă afirmația lui Sorin Grindeanu despre restanțe de 50 de miliarde de lei. El a invocat reducerea deficitului, indicatori economici și structura solicitărilor de finanțare făcute de instituții pentru încheierea anului.",
     "content_ro": "• **Moșteanu contestă existența unei găuri bugetare de 50 de miliarde de lei.** Deputatul a răspuns afirmațiilor lui Sorin Grindeanu despre situația financiară preluată și plăți restante. Moșteanu s-a raportat la datele prezentate la sfârșitul lunii octombrie de ministrul Finanțelor, Alexandru Nazare, susținând că acestea indică o altă situație.\n\n• **Cifrele invocate de deputat arată o diminuare a deficitului.** După guvernarea Ciolacu, acesta ar fi fost de 9,2% din PIB, iar în 2025 ar fi ajuns la 7,8%. Pentru primele zece luni ale anului, Moșteanu a indicat 3,92%, cu 27 de miliarde de lei sub nivelul aceleiași perioade din anul precedent. El a descris evoluția drept o ajustare fiscală amplă.\n\n• **Moșteanu a prezentat și alți indicatori economici.** Potrivit afirmațiilor sale, inflația a coborât de la 10,9% la 6,8%, iar investițiile publice au depășit valoarea din anul trecut cu 33 de miliarde de lei. Deputatul a mai spus că economia a avut cel mai rapid ritm trimestrial de creștere din ultimii patru ani. Tot el a afirmat că toate cele trei agenții de rating au menținut România în categoria recomandată investițiilor, iar finanțările europene au continuat.\n\n• **Solicitările instituțiilor pentru finalul anului nu reprezintă automat deficitul curent.** Ministerele și celelalte instituții publice au cerut în total aproximativ 46 de miliarde de lei. Conform lui Moșteanu, 19 miliarde sunt obligații certe ale statului, dintre care 15 miliarde vizează salariile magistraților, stabilite printr-o hotărâre a Înaltei Curți. Deputatul a invocat poziția ministrului Finanțelor potrivit căreia aceste sume nu se contabilizează ca deficit bugetar al anului în curs.",
-    "importance_score": 45.0,
-    "top_rank": 51,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_b70b4dfe58",
-    "slug": "ket-american-airlines-gep-szarnya-ert-ssze-a-washingtoni-repuloteren-b70b4d",
-    "tags": [
-      "american-airlines",
-      "faa",
-      "washington",
-      "repules"
-    ],
-    "fingerprint": "7bcbd6c67d174be48c7f8cb2b46672b1",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 3,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Două avioane American Airlines și-au lovit aripile înainte de decolare. Accidentul a avut loc pe una dintre cele mai aglomerate piste din SUA",
-        "link": "https://www.mediafax.ro/stirile-zilei/doua-avioane-american-airlines-si-au-lovit-aripile-inainte-de-decolare-accidentul-a-avut-loc-pe-una-dintre-cele-mai-aglomerate-piste-din-sua-23851049"
-      },
-      {
-        "source": "Adevărul",
-        "title": "Două avioane de pasageri s-au ciocnit pe pista unui aeroport din SUA. O bucată dintr-o aeronavă s-a desprins în impact",
-        "link": "https://adevarul.ro/stiri-externe/sua/doua-avioane-de-pasageri-s-au-ciocnit-pe-pista-2575135.html"
-      },
-      {
-        "source": "ProTV Stiri",
-        "title": "Două avioane American Airlines s-au ciocnit pe un aeroport din Washington. Aeronavele se pregăteau de decolare",
-        "link": "https://stirileprotv.ro/stiri/international/doua-avioane-american-airlines-s-au-ciocnit-pe-un-aeroport-din-washington-aeronavele-se-pregateau-de-decolare.html"
-      }
-    ],
-    "published_at": 1795848326,
-    "title_hu": "Két American Airlines-gép szárnya ért össze a washingtoni repülőtéren",
-    "lead_hu": "Két American Airlines-járat repülőgépe összeért gurulás közben a washingtoni Ronald Reagan repülőtéren, indulás előtt. Sérültekről nem érkezett jelentés; a Szövetségi Légügyi Hivatal vizsgálja az esetet.",
-    "content_hu": "• **A két gép pénteken, helyi idő szerint körülbelül 17:10-kor ütközött össze** a washingtoni Ronald Reagan Nemzeti Repülőtér egyik futópályáján. Az FAA közlése szerint az American Airlines 638-as járatának repülőgépe a 2152-es járat szárnyának ütközött, miközben a gépek felszállás előtt gurultak.\n\n• **Az érintett repülőgépek Boeing 737-esek voltak.** A légitársaság tájékoztatása szerint a két Boeing 737-800-as szárnyvége ért egymáshoz; az egyik gép Chicagóba, az O’Hare repülőtérre, a másik Dallas–Fort Worthbe tartott.\n\n• **A fedélzeten tartózkodók közül senki sem sérült meg a beszámolók szerint.** A 2152-es járat egyik utasa erős rázkódást érzékelt a gurulás alatt, majd az ablakból egy, a szárny végére hasonlító darabot látott a földön. A történtek után a légiforgalmi irányítók visszafordították a gépeket az állóhelyekhez.\n\n• **Mindkét repülőgép visszatért a kapuhoz, és műszaki ellenőrzésre kivonták őket a forgalomból.** Az American Airlines azt közölte, hogy gondoskodik az érintett utasok továbbutazásáról, hogy mielőbb elérhessék úti céljukat.\n\n• **Az FAA vizsgálatot indított az ütközés körülményeinek feltárására.** A hatóság feladata annak megállapítása, hogyan érhetett össze a két járat gépe a felszállást megelőző gurulás során.",
-    "title_ro": "Aripile a două avioane American Airlines s-au atins pe aeroportul din Washington",
-    "lead_ro": "Două aeronave American Airlines au intrat în contact în timp ce rulau înainte de decolare, pe aeroportul național Ronald Reagan din Washington. Nu au fost raportate persoane rănite, iar Administrația Federală a Aviației investighează incidentul.",
-    "content_ro": "• **Coliziunea s-a produs vineri, în jurul orei locale 17:10, pe aeroportul național Ronald Reagan din Washington.** Potrivit FAA, aeronava zborului American Airlines 638 a lovit aripa avionului care opera zborul 2152, în timp ce ambele se deplasau pe pistă înainte de plecare.\n\n• **Avioanele implicate erau Boeing 737.** Compania a precizat că vârfurile aripilor celor două aeronave Boeing 737-800 au intrat în contact. Zborul 2152 urma să ajungă la aeroportul O’Hare din Chicago, iar zborul 638 avea ca destinație Dallas–Fort Worth.\n\n• **Nu au fost raportate persoane rănite în urma incidentului.** Un pasager de pe zborul 2152 a relatat că a simțit o zguduitură puternică în timpul rulării și că a observat apoi, pe sol, un obiect care părea să fie o bucată din vârful aripii. Controlorii de trafic aerian au îndrumat aeronavele înapoi la porți.\n\n• **Ambele avioane au revenit la porțile de îmbarcare și au fost scoase din serviciu pentru verificări tehnice.** American Airlines a anunțat că depune eforturi pentru ca pasagerii afectați să își poată continua călătoria și să ajungă la destinație.\n\n• **FAA a deschis o anchetă pentru a stabili cum s-a produs contactul dintre aeronave.** Autoritatea urmează să clarifice circumstanțele în care cele două avioane s-au atins în timp ce se pregăteau de decolare.",
     "importance_score": 45.0,
     "top_rank": 52,
     "is_top_hero": false,
@@ -3850,6 +3851,49 @@
     "is_top_list": true
   },
   {
+    "group_id": "group_b70b4dfe58",
+    "slug": "ket-american-airlines-gep-szarnya-ert-ssze-a-washingtoni-repuloteren-b70b4d",
+    "tags": [
+      "american-airlines",
+      "faa",
+      "washington",
+      "repules"
+    ],
+    "fingerprint": "7bcbd6c67d174be48c7f8cb2b46672b1",
+    "category": "Általános",
+    "is_synthesized": true,
+    "rejected": false,
+    "sources_count": 3,
+    "sources": [
+      {
+        "source": "Mediafax",
+        "title": "Două avioane American Airlines și-au lovit aripile înainte de decolare. Accidentul a avut loc pe una dintre cele mai aglomerate piste din SUA",
+        "link": "https://www.mediafax.ro/stirile-zilei/doua-avioane-american-airlines-si-au-lovit-aripile-inainte-de-decolare-accidentul-a-avut-loc-pe-una-dintre-cele-mai-aglomerate-piste-din-sua-23851049"
+      },
+      {
+        "source": "Adevărul",
+        "title": "Două avioane de pasageri s-au ciocnit pe pista unui aeroport din SUA. O bucată dintr-o aeronavă s-a desprins în impact",
+        "link": "https://adevarul.ro/stiri-externe/sua/doua-avioane-de-pasageri-s-au-ciocnit-pe-pista-2575135.html"
+      },
+      {
+        "source": "ProTV Stiri",
+        "title": "Două avioane American Airlines s-au ciocnit pe un aeroport din Washington. Aeronavele se pregăteau de decolare",
+        "link": "https://stirileprotv.ro/stiri/international/doua-avioane-american-airlines-s-au-ciocnit-pe-un-aeroport-din-washington-aeronavele-se-pregateau-de-decolare.html"
+      }
+    ],
+    "published_at": 1795848326,
+    "title_hu": "Két American Airlines-gép szárnya ért össze a washingtoni repülőtéren",
+    "lead_hu": "Két American Airlines-járat repülőgépe összeért gurulás közben a washingtoni Ronald Reagan repülőtéren, indulás előtt. Sérültekről nem érkezett jelentés; a Szövetségi Légügyi Hivatal vizsgálja az esetet.",
+    "content_hu": "• **A két gép pénteken, helyi idő szerint körülbelül 17:10-kor ütközött össze** a washingtoni Ronald Reagan Nemzeti Repülőtér egyik futópályáján. Az FAA közlése szerint az American Airlines 638-as járatának repülőgépe a 2152-es járat szárnyának ütközött, miközben a gépek felszállás előtt gurultak.\n\n• **Az érintett repülőgépek Boeing 737-esek voltak.** A légitársaság tájékoztatása szerint a két Boeing 737-800-as szárnyvége ért egymáshoz; az egyik gép Chicagóba, az O’Hare repülőtérre, a másik Dallas–Fort Worthbe tartott.\n\n• **A fedélzeten tartózkodók közül senki sem sérült meg a beszámolók szerint.** A 2152-es járat egyik utasa erős rázkódást érzékelt a gurulás alatt, majd az ablakból egy, a szárny végére hasonlító darabot látott a földön. A történtek után a légiforgalmi irányítók visszafordították a gépeket az állóhelyekhez.\n\n• **Mindkét repülőgép visszatért a kapuhoz, és műszaki ellenőrzésre kivonták őket a forgalomból.** Az American Airlines azt közölte, hogy gondoskodik az érintett utasok továbbutazásáról, hogy mielőbb elérhessék úti céljukat.\n\n• **Az FAA vizsgálatot indított az ütközés körülményeinek feltárására.** A hatóság feladata annak megállapítása, hogyan érhetett össze a két járat gépe a felszállást megelőző gurulás során.",
+    "title_ro": "Aripile a două avioane American Airlines s-au atins pe aeroportul din Washington",
+    "lead_ro": "Două aeronave American Airlines au intrat în contact în timp ce rulau înainte de decolare, pe aeroportul național Ronald Reagan din Washington. Nu au fost raportate persoane rănite, iar Administrația Federală a Aviației investighează incidentul.",
+    "content_ro": "• **Coliziunea s-a produs vineri, în jurul orei locale 17:10, pe aeroportul național Ronald Reagan din Washington.** Potrivit FAA, aeronava zborului American Airlines 638 a lovit aripa avionului care opera zborul 2152, în timp ce ambele se deplasau pe pistă înainte de plecare.\n\n• **Avioanele implicate erau Boeing 737.** Compania a precizat că vârfurile aripilor celor două aeronave Boeing 737-800 au intrat în contact. Zborul 2152 urma să ajungă la aeroportul O’Hare din Chicago, iar zborul 638 avea ca destinație Dallas–Fort Worth.\n\n• **Nu au fost raportate persoane rănite în urma incidentului.** Un pasager de pe zborul 2152 a relatat că a simțit o zguduitură puternică în timpul rulării și că a observat apoi, pe sol, un obiect care părea să fie o bucată din vârful aripii. Controlorii de trafic aerian au îndrumat aeronavele înapoi la porți.\n\n• **Ambele avioane au revenit la porțile de îmbarcare și au fost scoase din serviciu pentru verificări tehnice.** American Airlines a anunțat că depune eforturi pentru ca pasagerii afectați să își poată continua călătoria și să ajungă la destinație.\n\n• **FAA a deschis o anchetă pentru a stabili cum s-a produs contactul dintre aeronave.** Autoritatea urmează să clarifice circumstanțele în care cele două avioane s-au atins în timp ce se pregăteau de decolare.",
+    "importance_score": 38.0,
+    "top_rank": 62,
+    "is_top_hero": false,
+    "is_top_list": true
+  },
+  {
     "group_id": "group_b077a8ece0",
     "slug": "az-fda-24-velo-nikotintasak-amerikai-forgalmazasat-engedelyezte-b077a8",
     "tags": [
@@ -3889,7 +3933,7 @@
     "lead_ro": "Administrația pentru Alimente și Medicamente din Statele Unite a autorizat comercializarea a 24 de produse VELO cu nicotină orală. Potrivit evaluării instituției, acestea conțin niveluri mai mici ale unor constituenți nocivi sau potențial nocivi decât țigările și produsele din tutun fără fum.",
     "content_ro": "• **FDA a autorizat comercializarea în SUA a 24 de produse VELO.** Decizia se referă la pliculețele cu nicotină pentru uz oral și a fost luată după evaluarea științifică solicitată pentru accesul legal pe piața americană.\n\n• **Analiza a comparat nivelurile unor constituenți nocivi sau potențial nocivi.** Instituția a constatat că valorile identificate în produsele autorizate sunt mai mici decât cele măsurate în țigări și în produsele din tutun fără fum.\n\n• **Pentru mai mulți dintre constituenții examinați, cantitățile au fost prea mici pentru a fi cuantificate.** Constatarea descrie rezultatele măsurătorilor pentru substanțele analizate și nu înseamnă, prin ea însăși, că produsele nu prezintă riscuri sau sunt lipsite de efecte nocive.\n\n• **Evaluarea FDA a luat în calcul posibilele efecte asupra sănătății publice.** Autoritatea a analizat inclusiv dacă adulții de cel puțin 21 de ani care folosesc deja produse din tutun ar putea trece complet la aceste produse, dar și riscurile pentru tineri și pentru persoanele care nu consumă tutun.\n\n• **BAT a prezentat autorizarea drept un exemplu al rolului cercetării și al inovației.** Angelo Palladino, director de marketing al companiei pentru Europa de Sud-Est, a precizat că BAT comercializează în România trei categorii de produse descrise de companie ca având risc redus, între care se numără și VELO.",
     "importance_score": 38.0,
-    "top_rank": 62,
+    "top_rank": 63,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3932,7 +3976,7 @@
     "lead_ro": "Analiza datelor a peste 4,2 milioane de persoane a asociat exercițiile fizice din timpul liber cu un risc mai redus de demență, iar munca fizică solicitantă cu unul mai ridicat. Cercetarea a evaluat paradoxul activității fizice în raport cu demența; rezultatele indică asocieri, nu demonstrează o relație de cauzalitate.",
     "content_ro": "• **Analiza a inclus datele a peste 4,2 milioane de persoane.** Pentru cei care făceau mișcare în timpul liber, cercetătorii au identificat un risc de demență cu 24% mai mic; în cazul persoanelor cu activitate fizică profesională mai solicitantă, riscul era cu 20% mai mare. Acestea sunt asocieri statistice și nu dovedesc că munca fizică provoacă demență.\n\n• **Studiul a luat în calcul mai multe forme de mișcare recreativă.** Printre activitățile analizate s-au numărat mersul pe jos, ciclismul, alergarea, înotul și sportul. Ele au fost corelate cu un risc mai scăzut, fără ca rezultatele să arate că o anumită activitate previne singură apariția bolii.\n\n• **Cercetarea a evaluat sistematic, pentru prima dată în contextul demenței, paradoxul activității fizice.** Ipoteza privește diferența dintre efortul depus la serviciu și exercițiile alese în timpul liber: munca solicitantă nu oferă neapărat aceleași beneficii pentru sănătate. Paradoxul fusese deja descris în cercetările cardiovasculare.\n\n• **Contextul activității poate conta alături de cantitatea de mișcare.** Rezultatele sugerează că nu este suficient să se măsoare câtă activitate fizică desfășoară o persoană; poate fi relevant și dacă aceasta are loc în timpul liber sau la serviciu. Analiza nu stabilește însă ce anume explică diferența dintre cele două asocieri.\n\n• **Studiul a apărut în revista The Lancet Public Health.** Cercetarea a fost realizată de o echipă asociată Universității din California de Sud și coordonată de David Raichlen, profesor de științe biologice.",
     "importance_score": 38.0,
-    "top_rank": 63,
+    "top_rank": 64,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -3975,7 +4019,7 @@
     "lead_ro": "În 2026, intervalul 28 noiembrie–1 decembrie oferă patru zile consecutive de repaus, legând weekendul de sărbătoarea Sfântului Andrei și Ziua Națională a României. La București sunt programate parada militară, o evocare a evenimentelor din 1918 și o expoziție de tehnică, iar târgurile de Crăciun completează oferta de petrecere a timpului liber.",
     "content_ro": "• **Urmează patru zile libere pentru angajații cu program obișnuit**, de luni până vineri: Sfântul Andrei este marcat luni, 30 noiembrie, iar Ziua Națională, marți, 1 decembrie. Weekendul din 28–29 noiembrie unește cele două sărbători legale, iar revenirea la serviciu este prevăzută pentru miercuri, 2 decembrie.\n\n• **Parada militară din Capitală începe la ora 11.00**, pe 1 decembrie, în Piața Arcului de Triumf. Sunt anunțați peste 2.000 de militari și specialiști din instituții de apărare, ordine publică și alte structuri ale statului. Defilarea va include aproximativ 130 de mijloace tehnice, între care 45 de aeronave.\n\n• **La ceremonie participă și contingente din străinătate:** peste 300 de militari din 16 state sunt așteptați la București. Expoziția de echipamente organizată în apropierea Arcului de Triumf va putea fi vizitată până la ora 14.30 și va include tehnică intrată recent în dotarea armatei române.\n\n• **Repetițiile și exercițiile aeriene pot afecta circulația.** Pregătirile de la Arcul de Triumf sunt programate pe 28 noiembrie, între 9.00 și 16.00, și pe 30 noiembrie, între 9.00 și 12.00. În perioada 25–30 noiembrie, aeronave militare vor zbura la altitudine redusă deasupra Bucureștiului, în județul Ilfov și în zona Alba Iulia. Tot pe 1 decembrie, la ora 11.00, lângă Sala Unirii este reconstituită Marea Adunare Națională din 1918.\n\n• **Târgurile de Crăciun oferă o alternativă de agrement în zilele libere**, cu atracții în aer liber, inclusiv patinoare, în mai multe orașe. Următoarea perioadă de sărbători legale este cea de Crăciun: 25 decembrie cade vineri, iar angajații cu program standard pot avea trei zile libere consecutive, până duminică, 27 decembrie.\n\n• **Unele domenii continuă să funcționeze în zilele de sărbătoare.** Personalul din sănătate, alimentație publică și transporturi poate fi chemat la serviciu, iar munca prestată se compensează potrivit legislației muncii.",
     "importance_score": 38.0,
-    "top_rank": 64,
+    "top_rank": 65,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4008,7 +4052,7 @@
     "lead_ro": "Un arbore emblematic din Australia, despre care se crede că are între 300 și 500 de ani, a fost vandalizat cu o drujbă într-un parc național. Poliția încearcă să identifice persoana responsabilă, iar …",
     "content_ro": "Un arbore emblematic din Australia, despre care se crede că are între 300 și 500 de ani, a fost vandalizat cu o drujbă într-un parc național. Poliția încearcă să identifice persoana responsabilă, iar autoritățile se tem că arborele ar putea să nu supraviețuiască distrugerilor, potrivit News.ro.",
     "importance_score": 35.0,
-    "top_rank": 65,
+    "top_rank": 66,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4041,7 +4085,7 @@
     "lead_ro": "Invitat la GSP Live, vineri, Florin Lovin, 44 de ani, triplu campion al României, a spus pe cine ar vota Fotbalistul, Antrenorul, respectiv Străinul Anului 2026 la Superlativele GSP. Poți alege AICI p…",
     "content_ro": "Invitat la GSP Live, vineri, Florin Lovin, 44 de ani, triplu campion al României, a spus pe cine ar vota Fotbalistul, Antrenorul, respectiv Străinul Anului 2026 la Superlativele GSP. Poți alege AICI până mâine, 29 noiembrie, cei mai buni sportivi ai anului. Florin Lovin, la GSP Live: „Fotbalistul Anului, Răzvan Marin. ...",
     "importance_score": 35.0,
-    "top_rank": 66,
+    "top_rank": 67,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4080,7 +4124,7 @@
     "lead_ro": "Pe 13 noiembrie, aproximativ șase drone au survolat baza RAF Lakenheath din comitatul Suffolk, utilizată și de Forțele Aeriene ale SUA. Forțele britanice și americane au intervenit, iar autoritățile nu au raportat victime sau pagube.",
     "content_ro": "• **Aproximativ șase aparate fără pilot au fost observate deasupra RAF Lakenheath pe 13 noiembrie.** Baza se află în comitatul Suffolk, în estul Angliei, și este folosită atât de aviația britanică, cât și de Forțele Aeriene ale Statelor Unite. Personalul american a semnalat prezența unor drone neautorizate, considerate suspecte.\n\n• **Militarii americani au utilizat echipamente de contracarare a dronelor.** Potrivit relatărilor publicate, intervenția a făcut ca aparatele să se îndepărteze, însă nici personalul britanic, nici cel american nu le-a recuperat. Prin urmare, acestea nu au putut fi examinate pentru stabilirea originii sau a caracteristicilor lor.\n\n• **Poliția militară britanică și poliția din Suffolk au acționat împreună cu forțele de securitate americane.** Ministerul britanic al Apărării a confirmat cooperarea, iar situația a fost soluționată într-un interval scurt. Ulterior, baza a revenit la procedurile obișnuite de securitate.\n\n• **Incidentul nu a provocat răniți și nu a avariat instalațiile.** Forțele Aeriene ale SUA au transmis că nu au fost afectate persoane, aeronave sau infrastructura bazei. Casa Albă și Pentagonul nu au comentat separat informațiile apărute în presă.\n\n• **O posibilă legătură cu Iranul a fost prezentată drept suspiciune, nu drept fapt confirmat.** Presa britanică a relatat această ipoteză pe baza unor surse familiarizate cu situația, fără ca informațiile publicate să indice dovezi oficiale. Originea dronelor nu a fost stabilită.",
     "importance_score": 35.0,
-    "top_rank": 67,
+    "top_rank": 68,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4118,7 +4162,7 @@
     "lead_ro": "Ministrul Muncii, Florin Manole, afirmă că bugetul pentru 2027 trebuie să acopere pensiile și obligațiile certe ale statului. Invocând date ale Ministerului Finanțelor, el a indicat solicitări suplimentare de 47,6 miliarde de lei, dintre care 19,1 miliarde ar reprezenta obligații neacoperite.",
     "content_ro": "• **Florin Manole susține că bugetul pentru 2027 trebuie să prevadă fonduri pentru pensii.** Ministrul Muncii a transmis vineri seară că planificarea bugetară ar trebui să cuprindă toate obligațiile certe ale statului și să permită efectuarea plăților la timp.\n\n• **Manole a menționat un deficit de 3,92% după primele zece luni.** Alături de această cifră, atribuită raportului Ministerului Finanțelor, el a indicat solicitări suplimentare de 47,6 miliarde de lei. Potrivit ministrului, 19,1 miliarde din această sumă corespund unor obligații certe pentru care nu există acoperire.\n\n• **Ministrul a afirmat că reducerea deficitului nu a eliminat cheltuielile, ci le-a amânat.** În critica sa, Manole a invocat înghețări și taxe suportate de populație, precum și plăți și deconturi pe care firmele le-ar fi așteptat.\n\n• **Manole estimează că pensiile vor fi indexate începând cu 1 ianuarie 2027.** În declarații anterioare, el a precizat că procentul urmează să fie stabilit de Guvern, printr-o decizie politică. Ministrul a prezentat respectarea indexării prevăzute de lege drept un angajament al programului de guvernare.\n\n• **Ministrul consideră că Ministerul Finanțelor trebuie să asigure resursele necesare.** În opinia sa, bugetul trebuie construit astfel încât să includă cheltuielile cu pensiile și celelalte obligații certe ale statului. Datele prezentate de Manole indică, pe lângă deficit, și nevoi suplimentare de finanțare.",
     "importance_score": 35.0,
-    "top_rank": 68,
+    "top_rank": 69,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4157,7 +4201,7 @@
     "lead_ro": "Primarul general al Bucureștiului, Ciprian Ciucu, vrea să se întâlnească cu președintele Nicușor Dan și să-i solicite sprijinul în discuțiile bugetare cu PSD. Edilul afirmă că urmărește reducerea cheltuielilor și reorganizarea unor instituții pentru a îmbunătăți situația financiară a Capitalei.",
     "content_ro": "• **Ciucu îi va solicita președintelui sprijin în privința bugetului Capitalei.** Primarul general vrea să discute cu Nicușor Dan înaintea negocierilor cu PSD. El consideră că experiența acestuia ca fost edil și cunoașterea problemelor Bucureștiului pot contribui la găsirea unei înțelegeri.\n\n• **Edilul spune că rezultatul negocierilor din acest an este incert.** În evaluarea sa contează și componența guvernului: cabinetul este condus de Luca Niculescu, iar mai mulți miniștri sunt membri ai PSD. Ciucu susține că finanțarea primăriei generale și a sectoarelor trebuie stabilită printr-o formulă acceptabilă pentru ambele niveluri administrative.\n\n• **Acordul bugetar de anul trecut este invocat drept precedent.** Ciucu a purtat atunci discuții atât în coaliție, cât și cu Daniel Băluță, liderul organizației PSD București. Cu sprijinul lui Ilie Bolojan, a fost convenită o distribuire a fondurilor care oferea resurse atât Primăriei Generale, cât și administrațiilor de sector.\n\n• **Primăria a început măsuri de reducere a cheltuielilor și de reorganizare.** Potrivit lui Ciucu, unele instituții au fost comasate, iar administrația a cerut deschiderea procedurii de insolvență pentru compania de transport STB. Cererea a fost admisă, iar un administrator judiciar desemnat de instanță a început activitatea. Edilul afirmă că sunt necesare și alte demersuri pentru echilibrarea bugetului.",
     "importance_score": 35.0,
-    "top_rank": 69,
+    "top_rank": 70,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4195,7 +4239,7 @@
     "lead_ro": "Poliția din București investighează o presupusă agresiune sexuală asupra unei fete de 13 ani. Un bărbat de 46 de ani a fost reținut, apoi arestat preventiv pentru 30 de zile; datele publicate despre momentul faptei și începutul anchetei nu se potrivesc.",
     "content_ro": "• **Polițiștii cercetează o presupusă agresiune sexuală asupra unei fete de 13 ani.** Potrivit informațiilor publicate, incidentul ar fi avut loc într-un birou din sediul unei instituții din București, unde minora se afla împreună cu un bărbat de 46 de ani. Acesta ar fi atins-o într-o zonă intimă, iar ancheta este în desfășurare; acuzația nu reprezintă o faptă stabilită definitiv de instanță.\n\n• **Autoritățile ar fi început cercetările din oficiu la 1 noiembrie 2026.** În același timp, articolul indică 28 octombrie 2028 drept data presupusei agresiuni, adică un moment ulterior datei menționate pentru declanșarea anchetei. Din informațiile publicate nu se poate stabili fără echivoc când s-ar fi petrecut fapta.\n\n• **Bărbatul în vârstă de 46 de ani a fost dus la audieri și reținut pentru 24 de ore.** Ulterior, față de acesta a fost dispusă arestarea preventivă pentru 30 de zile. Relatarea nu oferă alte detalii despre motivele invocate pentru luarea măsurii.\n\n• **Cazul este investigat de structura de poliție din București care se ocupă de agresiuni sexuale.** Ancheta se desfășoară sub supravegherea unui procuror specializat în cauze de abuz sexual asupra minorilor, din cadrul Parchetului de pe lângă Judecătoria Sectorului 6. Cercetările vizează suspiciunea de agresiune sexuală asupra unui minor.",
     "importance_score": 35.0,
-    "top_rank": 70,
+    "top_rank": 71,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4233,7 +4277,7 @@
     "lead_ro": "În România, depășirea unei autospeciale de poliție nu este interzisă în orice situație, însă manevra trebuie să respecte regulile de circulație. Conducătorii auto trebuie să procedeze diferit când echipajul folosește semnale speciale sau însoțește o coloană oficială, iar o depășire neregulamentară poate atrage suspendarea permisului pentru până la 60 de zile.",
     "content_ro": "• **O mașină de poliție care circulă fără semnale speciale poate fi depășită.** Manevra este permisă numai dacă regulile o admit în acel sector, șoferul respectă limita de viteză și poate reveni în siguranță pe banda sa. Situația se schimbă când autospeciala este în misiune de urgență, folosește semnale luminoase și sonore ori însoțește o coloană oficială.\n\n• **Înainte de depășire, șoferul trebuie să verifice traficul din jur.** Este necesar să se asigure că niciun vehicul din față sau din spate nu a început o manevră similară. Intenția trebuie semnalizată, trebuie păstrată o distanță laterală suficientă, iar revenirea pe banda inițială trebuie făcută fără pericol.\n\n• **Diferența de viteză nu înseamnă automat că depășirea este legală.** De pildă, o autospecială care circulă cu 60 km/h poate fi depășită pe un drum unde limita pentru autoturisme este de 90 km/h, numai dacă depășirea nu este interzisă în acel loc și poate fi încheiată în condiții de siguranță.\n\n• **Indicațiile polițistului rutier au prioritate față de semafoare, indicatoare și marcaje.** Conducătorii auto trebuie să urmeze aceste dispoziții inclusiv atunci când polițistul le transmite dintr-un vehicul aflat în mișcare.\n\n• **Șoferii trebuie să facă loc echipajului în funcție de semnalele folosite.** La lumini roșii împreună cu semnal sonor, trebuie să oprească în afara carosabilului sau, dacă nu este posibil, cât mai aproape de marginea din dreapta. La lumini albastre și sirenă, trebuie să reducă viteza și să elibereze banda ori să se apropie de margine; în intersecții, acordă prioritate. O depășire neregulamentară poate duce la suspendarea permisului pentru cel mult 60 de zile.",
     "importance_score": 35.0,
-    "top_rank": 71,
+    "top_rank": 72,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -4270,45 +4314,6 @@
     "title_ro": "Niculae Havrileț a fost achitat definitiv în dosarul instrumentat de DNA",
     "lead_ro": "Curtea de Apel București a respins apelul DNA, menținând achitarea fostului președinte al ANRE, Niculae Havrileț. Procurorii au susținut că acesta ar fi lucrat pentru trei firme din sectorul energetic în intervalul de cinci ani de după încheierea mandatului.",
     "content_ro": "• **Curtea de Apel București a păstrat achitarea lui Niculae Havrileț, iar hotărârea este definitivă.** Marți, instanța a respins ca neîntemeiat apelul DNA împotriva sentinței penale pronunțate de Tribunalul București la 18 iunie 2026. Decizia închide această cale de atac.\n\n• **Dosarul a vizat activități desfășurate de fostul șef al ANRE după plecarea din funcție.** Potrivit acuzației, în cei cinci ani de după încetarea mandatului de președinte al autorității de reglementare, Havrileț ar fi prestat servicii pentru trei operatori din domeniul energiei electrice și al gazelor naturale.\n\n• **DNA a invocat o restricție legală aplicabilă timp de cinci ani.** Procurorii au susținut că, în această perioadă, legea nu îi permitea fostului oficial să îndeplinească sarcini pentru companiile respective și nici să faciliteze ori să intermedieze tranzacții comerciale sau financiare ale acestora.\n\n• **Tribunalul îl achitase pe Havrileț, iar instanța de apel nu a schimbat soluția.** Motivarea achitării a indicat că fapta nu era prevăzută de legea penală sau că nu fusese comisă cu forma de vinovăție cerută de lege. Prin respingerea apelului, Curtea de Apel a menținut verdictul pronunțat în primă instanță.",
-    "importance_score": 35.0,
-    "top_rank": 72,
-    "is_top_hero": false,
-    "is_top_list": true
-  },
-  {
-    "group_id": "group_753238ecf4",
-    "slug": "tbb-mint-ketezer-resztvevovel-rendeznek-katonai-paradet-bukarestben-753238",
-    "tags": [
-      "romania",
-      "ziua-nationala",
-      "parada-militara",
-      "bucuresti",
-      "alba-iulia"
-    ],
-    "fingerprint": "a0acc5e08b1d87c80f85bd549f7d4ff5",
-    "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
-    "sources": [
-      {
-        "source": "Mediafax",
-        "title": "Parada Militară de 1 Decembrie: peste 2.000 de militari la București. Evenimente și la Alba Iulia",
-        "link": "https://www.mediafax.ro/life-inedit/parada-militara-de-1-decembrie-peste-2-000-de-militari-la-bucuresti-evenimente-si-la-alba-iulia-23850896"
-      },
-      {
-        "source": "G4Media",
-        "title": "Repetiții pentru parada de 1 Decembrie, sâmbătă și luni la Arcul de Triumf / Când se vor auzi salvele de tun și la ce oră începe defilarea",
-        "link": "https://www.g4media.ro/parada-1-decembrie-2026-bucuresti-program-repetitii.html"
-      }
-    ],
-    "published_at": 1795850265,
-    "title_hu": "Több mint kétezer résztvevővel rendeznek katonai parádét Bukarestben",
-    "lead_hu": "December 1-jén Bukarestben és Alba Iuliában is katonai eseményekkel ünneplik Románia nemzeti napját. A fővárosi felvonuláson román és külföldi katonák, valamint több mint száz technikai eszköz is részt vesz.",
-    "content_hu": "• **December 1-jén több helyszínen tartanak ünnepi katonai programokat.** Bukarestben a védelmi minisztérium szervezi az eseményeket, Alba Iuliában pedig déli 12 órára hirdettek meg katonai ceremóniát.\n\n• **A fővárosi program reggel 9 órakor kezdődik a Carol parkban.** Az Ismeretlen Katona sírjánál katonai és vallási megemlékezést tartanak, ahol koszorúkat és virágdíszeket helyeznek el a háborúkban elesett románok emlékére.\n\n• **A Diadalív terén 11 órától vonulnak fel a román alakulatok.** A menetben a védelmi és belügyi tárca, a hírszerző szolgálat, a távközlési különleges szolgálat, valamint a büntetés-végrehajtás képviselői közül összesen több mint kétezren vesznek részt. A felvonuláson mintegy 130 technikai eszköz, köztük 45 repülőgép is megjelenik.\n\n• **A román résztvevőkhöz több mint 300 külföldi katona csatlakozik.** A kontingensek között albán, belga, cseh, horvát, francia, német, olasz, moldovai, lengyel, brit, amerikai és török katonák is lesznek; további NATO-szövetségesek Romániában állomásozó egységei szintén képviseltetik magukat.\n\n• **A katonai technikát a közönség délután fél háromig tekintheti meg.** Az esti program 19 órakor fáklyás menet lesz a Mihai Viteazul 30. gárdadandár részvételével; a menet a Nemzeti Katonai Kör palotájától indul, és a dandár székhelyénél ér véget.",
-    "title_ro": "Peste 2.000 de participanți la parada militară organizată la București",
-    "lead_ro": "La 1 Decembrie, Ziua Națională a României va fi marcată prin evenimente militare la București și Alba Iulia. Defilarea din Capitală va reuni militari români și străini, alături de peste o sută de mijloace tehnice.",
-    "content_ro": "• **Programul militar de 1 Decembrie include evenimente în mai multe orașe.** La București, organizarea revine Ministerului Apărării Naționale, iar la Alba Iulia este anunțată o ceremonie militară începând cu ora 12.00.\n\n• **Manifestările din Capitală încep la ora 9.00, în Parcul Carol I.** La mormântul Ostașului Necunoscut este programată o ceremonie militară și religioasă, cu depuneri de coroane și aranjamente florale în memoria românilor căzuți în lupte.\n\n• **Defilarea de la Arcul de Triumf este programată pentru ora 11.00.** Vor participa peste 2.000 de militari și specialiști din instituții de apărare, ordine publică, informații, telecomunicații și administrație penitenciară. Coloana va cuprinde aproximativ 130 de mijloace tehnice, între care 45 de aeronave.\n\n• **Alături de români vor participa peste 300 de militari străini.** Sunt anunțate detașamente din Albania, Belgia, Cehia, Croația, Franța, Germania, Italia, Republica Moldova, Polonia, Regatul Unit, Statele Unite și Turcia, precum și reprezentanți ai unor state aliate cu trupe în România.\n\n• **Expoziția de tehnică militară va rămâne deschisă până la ora 14.30.** De la ora 19.00, militari ai Brigăzii 30 Gardă „Mihai Viteazul” vor participa la o retragere cu torțe. Traseul pornește de la Palatul Cercului Militar Național și se încheie la sediul brigăzii.",
     "importance_score": 35.0,
     "top_rank": 73,
     "is_top_hero": false,
@@ -7243,81 +7248,120 @@
     "is_top_list": true
   },
   {
-    "group_id": "group_3eefdaf5f7",
-    "slug": "nemetorszag-es-ausztria-europai-iranyitast-surget-a-tiktoknal-3eefda",
+    "group_id": "group_3f989981c1",
+    "slug": "judecatoarea-ramona-gratiela-milu-omisa-de-doua-ori-sa-fie-invitata-la-reuniuni--3f9899",
     "tags": [
-      "tiktok",
-      "europa",
-      "germania",
-      "austria",
-      "digitalis-szabalyozas"
+      "altalanos"
     ],
-    "fingerprint": "6923deddebf860565e32cd1ef0912b64",
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://www.g4media.ro/wp-content/uploads/2026/01/Ramona-Gratiela-Milu-e1768486762993.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "G4Media",
+        "title": "Judecătoarea Ramona Grațiela Milu, omisă de două ori să fie invitată la reuniuni CSM cu șefii curților de apel / Despre declarația de la Craiova: „Un amestec de competențe arogate și de bune practici ale căror oportunități de implementare au fost, în opinia mea, ratate”",
+        "link": "https://www.g4media.ro/ramona-gratiela-milu-csm-reuniuni-craiova-oradea.html"
+      }
+    ],
+    "published_at": 1795859210,
+    "title_hu": "Judecătoarea Ramona Grațiela Milu, omisă de două ori să fie invitată la reuniuni CSM cu șefii curților de apel / Despre declarația de la Craiova: „Un amestec de competențe arogate și de bune practici ale căror oportunități de implementare au fost, în opinia mea, ratate”",
+    "lead_hu": "Judecătoarea Ramona Grațiela Milu, membră CSM, scrie pe Facebook că a aflat din presă despre reuniunea președinților de curți de apel cu membri ai CSM, consiliu din care face parte, întâlnire ce a avu...",
+    "content_hu": "Judecătoarea Ramona Grațiela Milu, membră CSM, scrie pe Facebook că a aflat din presă despre reuniunea președinților de curți de apel cu membri ai CSM, consiliu din care face parte, întâlnire ce a avut loc la Curtea de Apel Craiova. Este a doua întâlnire de acest nivel la care nu a fost invitată, spune ea, […] © G4Media.ro.",
+    "title_ro": "Judecătoarea Ramona Grațiela Milu, omisă de două ori să fie invitată la reuniuni CSM cu șefii curților de apel / Despre declarația de la Craiova: „Un amestec de competențe arogate și de bune practici ale căror oportunități de implementare au fost, în opinia mea, ratate”",
+    "lead_ro": "Judecătoarea Ramona Grațiela Milu, membră CSM, scrie pe Facebook că a aflat din presă despre reuniunea președinților de curți de apel cu membri ai CSM, consiliu din care face parte, întâlnire ce a avu...",
+    "content_ro": "Judecătoarea Ramona Grațiela Milu, membră CSM, scrie pe Facebook că a aflat din presă despre reuniunea președinților de curți de apel cu membri ai CSM, consiliu din care face parte, întâlnire ce a avut loc la Curtea de Apel Craiova. Este a doua întâlnire de acest nivel la care nu a fost invitată, spune ea, […] © G4Media.ro.",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_4b8d20af92",
+    "slug": "nu-la-20-si-nici-la-30-de-ani-cand-functioneaza-mintea-umana-la-capacitate-maxim-4b8d20",
+    "tags": [
+      "altalanos"
+    ],
+    "category": "Általános",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/11/50-de-ani-1024x683.jpg",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
         "source": "Mediafax",
-        "title": "Germania și Austria fac presiuni pentru ca TikTok să fie controlat de UE",
-        "link": "https://www.mediafax.ro/externe/germania-si-austria-fac-presiuni-pentru-ca-tiktok-sa-fie-controlat-de-ue-23850548"
-      },
-      {
-        "source": "G4Media",
-        "title": "Germania și Austria cer ca TikTok să fie plasat sub proprietate și control european",
-        "link": "https://www.g4media.ro/germania-si-austria-cer-ca-tiktok-sa-fie-plasat-sub-proprietate-si-control-european.html"
+        "title": "Nu la 20 și nici la 30 de ani. Când funcționează mintea umană la capacitate maximă",
+        "link": "https://www.mediafax.ro/life-inedit/nu-la-20-si-nici-la-30-de-ani-cand-functioneaza-mintea-umana-la-capacitate-maxima-23851173"
       }
     ],
-    "published_at": 1795772909,
-    "title_hu": "Németország és Ausztria európai irányítást sürget a TikToknál",
-    "lead_hu": "Német és osztrák politikusok azt javasolják, hogy a TikTok európai működése kerüljön európai tulajdonba és ellenőrzés alá. A kezdeményezéshez december 2-án, Brüsszelben keresnének uniós támogatást.",
-    "content_hu": "• **Európai tulajdont és irányítást szorgalmaz Németország és Ausztria** a TikTok európai tevékenysége felett. Álláspontjuk szerint a szabályozás önmagában nem ad választ arra, ki fér hozzá a felhasználói adatokhoz, illetve ki határozza meg az ajánlórendszer működését.\n\n• **A javaslatot Bécsben ismertették**, ahol Wolfram Weimer német kulturális és médiaminiszter Alexander Proell osztrák digitális ügyekért felelős államtitkárral egyeztetett. Közös nyilatkozatuk az európai tulajdonosi hátteret és a kulcsfontosságú technológiai infrastruktúra fölötti európai felelősséget is megjelölte célként.\n\n• **A két ország uniós támogatást kérne a kezdeményezéshez** a december 2-ára, Brüsszelbe tervezett Távközlési és Energia Tanács ülésén. A közlemény szerint ott próbálnak szélesebb tagállami támogatást szerezni az elképzelésnek.\n\n• **A politikusok biztonsági kockázatként tekintenek a platform irányítására.** Weimer szerint a TikTok alapvető európai biztonságpolitikai aggályokat vet fel, Proell pedig úgy fogalmazott, hogy a platform a demokratikus infrastruktúra részévé vált. Mindketten azt hangsúlyozták, hogy a tulajdonosi és ellenőrzési kérdést a szabályozás nem rendezi.\n\n• **Az uniós digitális szolgáltatásokról szóló jogszabály ügyében november elején előzetes megállapítás született.** Eszerint a TikTok ajánlórendszere miatt felmerült, hogy a szolgáltatás megsérti a jogszabályt, mert a felhasználókat potenciálisan káros tartalmakhoz juttathatja. A forrás a platform amerikai működésénél egy januári, többségi amerikai tulajdonú vegyesvállalati konstrukciót is említ.",
-    "title_ro": "Germania și Austria cer control european asupra TikTok",
-    "lead_ro": "Politicieni din Germania și Austria propun ca operațiunile TikTok din Europa să treacă sub proprietate și control european. Ei vor căuta sprijinul statelor UE la reuniunea de la Bruxelles programată pentru 2 decembrie.",
-    "content_ro": "• **Germania și Austria susțin transferarea operațiunilor europene ale TikTok sub proprietate și control european.** În opinia lor, regulile existente nu clarifică suficient cine poate accesa datele utilizatorilor și cine controlează funcționarea algoritmului de recomandare.\n\n• **Propunerea a fost prezentată la Viena**, unde ministrul german al culturii și mass-media, Wolfram Weimer, s-a întâlnit cu Alexander Proell, secretar de stat austriac responsabil de domeniul digital. Declarația comună menționează atât o structură de proprietate europeană, cât și răspunderea europeană pentru infrastructura tehnologică esențială.\n\n• **Cele două țări vor să obțină susținere la nivelul UE** în cadrul reuniunii Consiliului pentru Transporturi, Telecomunicații și Energie programate la Bruxelles pe 2 decembrie. Comunicatul comun prezintă întâlnirea drept următoarea ocazie de a atrage sprijin pentru inițiativă.\n\n• **Cei doi oficiali descriu controlul platformei drept o chestiune de securitate.** Weimer a invocat riscuri pentru politica de securitate europeană, iar Proell a susținut că TikTok face parte din infrastructura democrației. Ambii au afirmat că reglementarea nu rezolvă problema proprietății și a autorității efective asupra platformei.\n\n• **La începutul lunii noiembrie a fost formulată o constatare preliminară privind respectarea legislației digitale europene.** Potrivit acesteia, sistemul de recomandări al TikTok ar putea încălca Regulamentul privind serviciile digitale, întrucât poate conduce utilizatorii către materiale potențial dăunătoare. Sursa menționează și că, în ianuarie, ByteDance a cedat controlul operațiunilor din SUA unei societăți mixte cu capital majoritar american.",
-    "importance_score": 20.0,
-    "top_rank": 151,
+    "published_at": 1795859121,
+    "title_hu": "Nu la 20 și nici la 30 de ani. Când funcționează mintea umană la capacitate maximă",
+    "lead_hu": "Mintea omului nu atinge apogeul în tinerețe, ci mult mai târziu, arată un studiu care contrazice o idee răspândită....",
+    "content_hu": "Mintea omului nu atinge apogeul în tinerețe, ci mult mai târziu, arată un studiu care contrazice o idee răspândită.",
+    "title_ro": "Nu la 20 și nici la 30 de ani. Când funcționează mintea umană la capacitate maximă",
+    "lead_ro": "Mintea omului nu atinge apogeul în tinerețe, ci mult mai târziu, arată un studiu care contrazice o idee răspândită....",
+    "content_ro": "Mintea omului nu atinge apogeul în tinerețe, ci mult mai târziu, arată un studiu care contrazice o idee răspândită.",
+    "importance_score": 0.0,
+    "top_rank": null,
     "is_top_hero": false,
-    "is_top_list": true
+    "is_top_list": false
   },
   {
-    "group_id": "group_535e84cc64",
-    "slug": "mintegy-150-tonna-pirotechnikai-eszkzt-foglaltak-le-535e84",
+    "group_id": "group_ff20388f90",
+    "slug": "rasplata-pe-masura-dupa-victoria-cu-bayern-fratele-lui-kylian-mbappe-a-luat-deci-ff2038",
     "tags": [
-      "artificii",
-      "politie",
-      "perchezitii",
-      "dambovita"
+      "sport"
     ],
-    "fingerprint": "b78d2b56d092af65d7782ef6f37ad097",
+    "category": "Sport",
+    "image": "https://sportal365images.com/autocrop/smp-images-production/gsp.ro/28112026/94bd0376-3b35-4521-93e7-7d895d6d5add.jpg?width=290&height=208",
+    "is_synthesized": false,
+    "sources_count": 1,
+    "sources": [
+      {
+        "source": "GSP - Gazeta Sporturilor",
+        "title": "Răsplată pe măsură după victoria cu Bayern! Fratele lui Kylian Mbappe a luat decizia",
+        "link": "https://www.gsp.ro/international/campionate/lille-ethan-mbappe-prelungire-contract-1003857.html"
+      }
+    ],
+    "published_at": 1795859075,
+    "title_hu": "Răsplată pe măsură după victoria cu Bayern! Fratele lui Kylian Mbappe a luat decizia",
+    "lead_hu": "Ethan Mbappe, extremă dreapta, a semnat o nouă înțelegere cu Lille. Fratele mai mic al lui Kylian Mbappe, în vârstă de 19 ani, și-a prelungit contractul cu gruparea din Hexagon până în 2029. El a sosi...",
+    "content_hu": "Ethan Mbappe, extremă dreapta, a semnat o nouă înțelegere cu Lille. Fratele mai mic al lui Kylian Mbappe, în vârstă de 19 ani, și-a prelungit contractul cu gruparea din Hexagon până în 2029. El a sosit la actuala echipă în urmă cu doi ani, de la PSG. Ethan Mbappe jucat 10 meciuri în Ligue 1 în acest sezon, reușind să înscrie de două ori și să ofere un assist. Are două pase decisive și în 2 meciuri de Champions League. ...",
+    "title_ro": "Răsplată pe măsură după victoria cu Bayern! Fratele lui Kylian Mbappe a luat decizia",
+    "lead_ro": "Ethan Mbappe, extremă dreapta, a semnat o nouă înțelegere cu Lille. Fratele mai mic al lui Kylian Mbappe, în vârstă de 19 ani, și-a prelungit contractul cu gruparea din Hexagon până în 2029. El a sosi...",
+    "content_ro": "Ethan Mbappe, extremă dreapta, a semnat o nouă înțelegere cu Lille. Fratele mai mic al lui Kylian Mbappe, în vârstă de 19 ani, și-a prelungit contractul cu gruparea din Hexagon până în 2029. El a sosit la actuala echipă în urmă cu doi ani, de la PSG. Ethan Mbappe jucat 10 meciuri în Ligue 1 în acest sezon, reușind să înscrie de două ori și să ofere un assist. Are două pase decisive și în 2 meciuri de Champions League. ...",
+    "importance_score": 0.0,
+    "top_rank": null,
+    "is_top_hero": false,
+    "is_top_list": false
+  },
+  {
+    "group_id": "group_1798e37c01",
+    "slug": "defcamp-cum-schimba-inteligenta-artificiala-securitatea-cibernetica-hackerii-pot-1798e3",
+    "tags": [
+      "altalanos"
+    ],
     "category": "Általános",
-    "is_synthesized": true,
-    "rejected": false,
-    "sources_count": 2,
+    "image": "https://stirileprotv.ro/img/2026/11/28/094235/defcamp.jpg?fm=jpg&q=80&fit=crop&crop=1047%2C590%2C0%2C0&w=1280",
+    "is_synthesized": false,
+    "sources_count": 1,
     "sources": [
       {
         "source": "ProTV Stiri",
-        "title": "Captură uriașă înainte de sărbători. Polițiștii au confiscat 150 de tone de articole pirotehnice, în valoare de 890.000 euro",
-        "link": "https://stirileprotv.ro/stiri/actualitate/captura-uriasa-inainte-de-sarbatori-politistii-au-confiscat-150-de-tone-de-articole-pirotehnice-in-valoare-de-890-000-euro.html"
-      },
-      {
-        "source": "Maszol",
-        "title": "Több mint száz tonna pirotechnikai eszközt foglaltak le százötven házkutatás során",
-        "link": "https://maszol.ro/belfold/Tobb-mint-szaz-tonna-pirotechnikai-eszkozt-foglaltak-le-szazotven-hazkutatas-soran"
+        "title": "DefCamp: Cum schimbă inteligența artificială securitatea cibernetică. Hackerii pot exploata vulnerabilitățile în câteva ore",
+        "link": "https://stirileprotv.ro/stiri/ilikeit/defcamp-cum-schimba-inteligenta-artificiala-securitatea-cibernetica-hackerii-pot-exploata-vulnerabilitatile-in-cateva-ore.html"
       }
     ],
-    "published_at": 1795772700,
-    "title_hu": "Mintegy 150 tonna pirotechnikai eszközt foglaltak le",
-    "lead_hu": "A rendőrség 158 házkutatási parancsot hajtott végre több megyében, és eddig körülbelül 150 tonna pirotechnikai terméket vont ki a forgalomból. A lefoglalt készlet becsült értéke 890 ezer euró; az ügyben több mint száz embert hallgattak meg.",
-    "content_hu": "• **November 26-án 158 helyszínen tartottak házkutatást** egy pirotechnikai eszközök engedély nélküli kezelésével és értékesítésével kapcsolatos büntetőeljárásban. A rendőrök magánszemélyek és vállalkozások címeit, valamint feltételezett illegális raktárakat is átvizsgáltak.\n\n• **A hatóságok eddig hozzávetőleg 150 tonna pirotechnikai terméket foglaltak le**, amelyek értékét 890 ezer euróra becsülik. A készlet tételes felmérése még folyamatban van, ezért a mennyiség és az érték változhat.\n\n• **Az ügy az F2, F3, F4, T1 és P1 kategóriájú eszközökre is kiterjed.** A nyomozás az engedély nélküli előállítástól és tárolástól a továbbadáson, forgalmazáson és használaton át többféle tevékenységet vizsgál.\n\n• **A műveletet a Dâmbovița megyei rendőrség jelentette be**, a nyomozást országos rendőri egységek közreműködésével és ügyészi felügyelet mellett végezték. A munkában 28 megyei rendőr-főkapitányság és a bukaresti rendőrség is részt vett.\n\n• **Több mint száz embert vittek be kihallgatásra**, hogy tisztázzák az ügy szereplőinek és a feltételezett működésnek a részleteit. A rendőrök egy engedélyköteles, nem halálos fegyvert is lefoglaltak, amelyet az egyik érintett jogszerű engedély nélkül tartott magánál.",
-    "title_ro": "Aproximativ 150 de tone de articole pirotehnice, confiscate",
-    "lead_ro": "Polițiștii au pus în aplicare 158 de mandate de percheziție în mai multe județe și au indisponibilizat până acum circa 150 de tone de produse pirotehnice. Valoarea estimată este de 890.000 de euro, iar peste o sută de persoane au fost duse la audieri.",
-    "content_ro": "• **La 26 noiembrie au fost efectuate 158 de percheziții** într-un dosar penal privind activități fără drept cu articole pirotehnice. Verificările au vizat adrese ale unor persoane și firme, precum și spații considerate posibile depozite clandestine.\n\n• **Până în prezent, polițiștii au confiscat aproximativ 150 de tone de produse pirotehnice**, evaluate la 890.000 de euro. Inventarierea bunurilor continuă, astfel că datele privind cantitatea și valoarea sunt încă provizorii.\n\n• **Ancheta include articole din categoriile F2, F3, F4, T1 și P1.** Sunt cercetate mai multe posibile activități neautorizate, între care producerea, păstrarea, transmiterea, comercializarea și folosirea acestor produse.\n\n• **Acțiunea a fost anunțată de Inspectoratul de Poliție Județean Dâmbovița**, iar cercetările s-au desfășurat cu participarea unor structuri de poliție din țară și sub supravegherea unui procuror. La intervenție au contribuit 28 de inspectorate județene și Poliția Capitalei.\n\n• **Peste o sută de persoane au fost conduse la audieri** pentru clarificarea modului de operare și a responsabilităților. În cadrul verificărilor a fost găsită și confiscată o armă neletală supusă autorizării, deținută fără permis de una dintre persoanele vizate.",
-    "importance_score": 20.0,
-    "top_rank": 152,
+    "published_at": 1795858989,
+    "title_hu": "DefCamp: Cum schimbă inteligența artificială securitatea cibernetică. Hackerii pot exploata vulnerabilitățile în câteva ore",
+    "lead_hu": "Săptămâna trecută, Palatul Parlamentului s-a umplut de hackeri. La DefCamp, cea mai mare conferință de securitate cibernetică din regiune, s-au adunat aproape 2.500 de specialiști, iar subiectul care ...",
+    "content_hu": "Săptămâna trecută, Palatul Parlamentului s-a umplut de hackeri. La DefCamp, cea mai mare conferință de securitate cibernetică din regiune, s-au adunat aproape 2.500 de specialiști, iar subiectul care a dominat discuțiile a fost inteligența artificială.",
+    "title_ro": "DefCamp: Cum schimbă inteligența artificială securitatea cibernetică. Hackerii pot exploata vulnerabilitățile în câteva ore",
+    "lead_ro": "Săptămâna trecută, Palatul Parlamentului s-a umplut de hackeri. La DefCamp, cea mai mare conferință de securitate cibernetică din regiune, s-au adunat aproape 2.500 de specialiști, iar subiectul care ...",
+    "content_ro": "Săptămâna trecută, Palatul Parlamentului s-a umplut de hackeri. La DefCamp, cea mai mare conferință de securitate cibernetică din regiune, s-au adunat aproape 2.500 de specialiști, iar subiectul care a dominat discuțiile a fost inteligența artificială.",
+    "importance_score": 0.0,
+    "top_rank": null,
     "is_top_hero": false,
-    "is_top_list": true
+    "is_top_list": false
   },
   {
     "group_id": "group_58d5488f3b",
@@ -24001,174 +24045,6 @@
     "is_top_list": false
   },
   {
-    "group_id": "group_05f8256e0d",
-    "slug": "vine-sa-semneze-in-superliga-dupa-ce-a-uluit-europ-05f825",
-    "tags": [
-      "sport"
-    ],
-    "category": "Sport",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "GSP - Gazeta Sporturilor",
-        "title": "Vine să semneze în Superliga, după ce a uluit Europa: „N-am cuvinte”",
-        "link": "https://www.gsp.ro/international/conference-league/felip-ortiz-reactie-inter-escaldes-copenhaga-fc-botosani-1003507.html"
-      }
-    ],
-    "published_at": 1795772837,
-    "title_hu": "Vine să semneze în Superliga, după ce a uluit Europa: „N-am cuvinte”",
-    "lead_hu": "Felip Ortiz (49 de ani), antrenorul spaniol care urmează să preia conducerea tehnică a celor de la FC Botoșani, și-a încheiat aventura pe banca lui Inter Escaldes cu un rezultat istoric. Formația din …",
-    "content_hu": "Felip Ortiz (49 de ani), antrenorul spaniol care urmează să preia conducerea tehnică a celor de la FC Botoșani, și-a încheiat aventura pe banca lui Inter Escaldes cu un rezultat istoric. Formația din Andorra a învins-o pe FC Copenhaga, scor 2-0, în etapa a patra a fazei principale din Conference League. Tehnicianul spaniol nu putea avea parte de o despărțire mai frumoasă de formația pe care a condus-o către cea mai importantă performanță din istoria fotbalului andorran. ...",
-    "title_ro": "Vine să semneze în Superliga, după ce a uluit Europa: „N-am cuvinte”",
-    "lead_ro": "Felip Ortiz (49 de ani), antrenorul spaniol care urmează să preia conducerea tehnică a celor de la FC Botoșani, și-a încheiat aventura pe banca lui Inter Escaldes cu un rezultat istoric. Formația din …",
-    "content_ro": "Felip Ortiz (49 de ani), antrenorul spaniol care urmează să preia conducerea tehnică a celor de la FC Botoșani, și-a încheiat aventura pe banca lui Inter Escaldes cu un rezultat istoric. Formația din Andorra a învins-o pe FC Copenhaga, scor 2-0, în etapa a patra a fazei principale din Conference League. Tehnicianul spaniol nu putea avea parte de o despărțire mai frumoasă de formația pe care a condus-o către cea mai importantă performanță din istoria fotbalului andorran. ...",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_c7d5283bc7",
-    "slug": "ilie-dobre-comenteaza-live-pe-prosportro-meciul-co-c7d528",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Ilie Dobre comentează LIVE pe ProSport.ro meciul Concordia Chiajna – CSL Ștefăneștii de Jos, sâmbătă, 28 noiembrie 2026, de la ora 11:00",
-        "link": "https://www.cancan.ro/ilie-dobre-comenteaza-live-pe-prosport-ro-meciul-concordia-chiajna-csl-stefanestii-de-jos-sambata-28-noiembrie-2026-de-la-ora-1100-21555125"
-      }
-    ],
-    "published_at": 1795772780,
-    "title_hu": "Ilie Dobre comentează LIVE pe ProSport.ro meciul Concordia Chiajna – CSL Ștefăneștii de Jos, sâmbătă, 28 noiembrie 2026, de la ora 11:00",
-    "lead_hu": "Ilie Dobre va comenta meciul de fotbal Concordia Chiajna – CSL Ștefăneștii de Jos, sâmbătă, 28 noiembrie 2026, de la ora 11:00. Comentariul LIVE va putea fi ascultat pe site-urile ProSport și LIGA 2, …",
-    "content_hu": "Ilie Dobre va comenta meciul de fotbal Concordia Chiajna – CSL Ștefăneștii de Jos, sâmbătă, 28 noiembrie 2026, de la ora 11:00. Comentariul LIVE va putea fi ascultat pe site-urile ProSport și LIGA 2, dar și pe paginile de Facebook și YouTube ale acestora. Ilie Dobre, emblematicul comentator al fotbalului românesc, îți aduce acum transmisiuni […]",
-    "title_ro": "Ilie Dobre comentează LIVE pe ProSport.ro meciul Concordia Chiajna – CSL Ștefăneștii de Jos, sâmbătă, 28 noiembrie 2026, de la ora 11:00",
-    "lead_ro": "Ilie Dobre va comenta meciul de fotbal Concordia Chiajna – CSL Ștefăneștii de Jos, sâmbătă, 28 noiembrie 2026, de la ora 11:00. Comentariul LIVE va putea fi ascultat pe site-urile ProSport și LIGA 2, …",
-    "content_ro": "Ilie Dobre va comenta meciul de fotbal Concordia Chiajna – CSL Ștefăneștii de Jos, sâmbătă, 28 noiembrie 2026, de la ora 11:00. Comentariul LIVE va putea fi ascultat pe site-urile ProSport și LIGA 2, dar și pe paginile de Facebook și YouTube ale acestora. Ilie Dobre, emblematicul comentator al fotbalului românesc, îți aduce acum transmisiuni […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_2587f4e0c2",
-    "slug": "xiv-leo-a-szerzetesi-elljarokhoz-szeretettel-szolg-2587f4",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "RomKat",
-        "title": "XIV. Leó a szerzetesi elöljárókhoz: Szeretettel szolgálva építsük az egységet és a békét",
-        "link": "https://romkat.ro/2026/11/27/xiv-leo-a-szerzetesi-eloljarokhoz-szeretettel-szolgalva-epitsuk-az-egyseget-es-a-beket/"
-      }
-    ],
-    "published_at": 1795772700,
-    "title_hu": "XIV. Leó a szerzetesi elöljárókhoz: Szeretettel szolgálva építsük az egységet és a békét",
-    "lead_hu": "November 26-án, csütörtökön Leó pápa a Vatikánban, a szinódusi aulában fogadta több mint 250 női és férfi szerzetesrend legfőbb elöljáróját. A szentatya arra buzdította őket, hogy a szeretet és a szol…",
-    "content_hu": "November 26-án, csütörtökön Leó pápa a Vatikánban, a szinódusi aulában fogadta több mint 250 női és férfi szerzetesrend legfőbb elöljáróját. A szentatya arra buzdította őket, hogy a szeretet és a szolgálat szellemében gyakorolják vezetői feladatukat, közösségeiket pedig tegyék a béke, a meghallgatás és a testvériség helyeivé. A Női Szerzetesrendi Elöljárók Nemzetközi Uniója (UISG) és a […]",
-    "title_ro": "XIV. Leó a szerzetesi elöljárókhoz: Szeretettel szolgálva építsük az egységet és a békét",
-    "lead_ro": "November 26-án, csütörtökön Leó pápa a Vatikánban, a szinódusi aulában fogadta több mint 250 női és férfi szerzetesrend legfőbb elöljáróját. A szentatya arra buzdította őket, hogy a szeretet és a szol…",
-    "content_ro": "November 26-án, csütörtökön Leó pápa a Vatikánban, a szinódusi aulában fogadta több mint 250 női és férfi szerzetesrend legfőbb elöljáróját. A szentatya arra buzdította őket, hogy a szeretet és a szolgálat szellemében gyakorolják vezetői feladatukat, közösségeiket pedig tegyék a béke, a meghallgatás és a testvériség helyeivé. A Női Szerzetesrendi Elöljárók Nemzetközi Uniója (UISG) és a […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_496f3d03b1",
-    "slug": "anca-serea-de-urgenta-la-spital-ce-a-patit-sotia-l-496f3d",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Anca Serea, de urgență la spital. Ce a pățit soția lui Adi Sînă",
-        "link": "https://www.cancan.ro/anca-serea-de-urgenta-la-spital-ce-a-patit-sotia-lui-adi-sina-21555101"
-      }
-    ],
-    "published_at": 1795772530,
-    "title_hu": "Anca Serea, de urgență la spital. Ce a pățit soția lui Adi Sînă",
-    "lead_hu": "Ceea ce trebuia să fie o zi obișnuită, plină de activități și timp petrecut cu copiii, pentru Anca Serea s-a transformat în coșmar. Joi, 26 noiembrie, soția lui Adi Sînă a ajuns de urgență la spital, …",
-    "content_hu": "Ceea ce trebuia să fie o zi obișnuită, plină de activități și timp petrecut cu copiii, pentru Anca Serea s-a transformat în coșmar. Joi, 26 noiembrie, soția lui Adi Sînă a ajuns de urgență la spital, după ce nu își mai simțea mâinile și picioarele. Ea a împărtășit totul cu urmăritorii săi. Anca Serea a […]",
-    "title_ro": "Anca Serea, de urgență la spital. Ce a pățit soția lui Adi Sînă",
-    "lead_ro": "Ceea ce trebuia să fie o zi obișnuită, plină de activități și timp petrecut cu copiii, pentru Anca Serea s-a transformat în coșmar. Joi, 26 noiembrie, soția lui Adi Sînă a ajuns de urgență la spital, …",
-    "content_ro": "Ceea ce trebuia să fie o zi obișnuită, plină de activități și timp petrecut cu copiii, pentru Anca Serea s-a transformat în coșmar. Joi, 26 noiembrie, soția lui Adi Sînă a ajuns de urgență la spital, după ce nu își mai simțea mâinile și picioarele. Ea a împărtășit totul cu urmăritorii săi. Anca Serea a […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_9d01e37d87",
-    "slug": "meal-planning-ce-poti-manca-saptamana-viitoare-cu--9d01e3",
-    "tags": [
-      "altalanos"
-    ],
-    "category": "Általános",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "HotNews.ro",
-        "title": "Meal planning: ce poți mânca săptămâna viitoare cu 18 lei pe zi. Rețete cu multe legume, potrivite și pentru Postul Crăciunului",
-        "link": "https://hotnews.ro/meal-planning-ce-poti-manca-saptamana-viitoare-cu-18-lei-pe-zi-retete-cu-multe-legume-potrivite-si-pentru-postul-craciunului-2415365"
-      }
-    ],
-    "published_at": 1795772520,
-    "title_hu": "Meal planning: ce poți mânca săptămâna viitoare cu 18 lei pe zi. Rețete cu multe legume, potrivite și pentru Postul Crăciunului",
-    "lead_hu": "Un nou meal plan care să-ți facă săptămâna mai ușoară: meniu, rețete, listă de cumpărături, buget. Poți adapta rețetele să fie de post. În fiecare vineri dimineață, vei găsi pe HotNews Food un plan re…",
-    "content_hu": "Un nou meal plan care să-ți facă săptămâna mai ușoară: meniu, rețete, listă de cumpărături, buget. Poți adapta rețetele să fie de post. În fiecare vineri dimineață, vei găsi pe HotNews Food un plan realist, de care te poți ține sau din care te poți inspira, care să-ți ușureze procesul decizional pentru săptămâna care urmează. …",
-    "title_ro": "Meal planning: ce poți mânca săptămâna viitoare cu 18 lei pe zi. Rețete cu multe legume, potrivite și pentru Postul Crăciunului",
-    "lead_ro": "Un nou meal plan care să-ți facă săptămâna mai ușoară: meniu, rețete, listă de cumpărături, buget. Poți adapta rețetele să fie de post. În fiecare vineri dimineață, vei găsi pe HotNews Food un plan re…",
-    "content_ro": "Un nou meal plan care să-ți facă săptămâna mai ușoară: meniu, rețete, listă de cumpărături, buget. Poți adapta rețetele să fie de post. În fiecare vineri dimineață, vei găsi pe HotNews Food un plan realist, de care te poți ține sau din care te poți inspira, care să-ți ușureze procesul decizional pentru săptămâna care urmează. …",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
-    "group_id": "group_772b26f1b8",
-    "slug": "mama-lui-dani-vicol-nu-si-a-gasit-linistea-nici-du-772b26",
-    "tags": [
-      "bulvar"
-    ],
-    "category": "Bulvár",
-    "is_synthesized": false,
-    "sources_count": 1,
-    "sources": [
-      {
-        "source": "Cancan.ro",
-        "title": "Mama lui Dani Vicol nu și-a găsit liniștea nici după șapte ani de la tragedie. Imaginea de la mormântul fiului ei",
-        "link": "https://www.cancan.ro/mama-lui-dani-vicol-nu-si-a-gasit-linistea-nici-dupa-sapte-ani-de-la-tragedie-imaginea-de-la-mormantul-fiului-ei-21555103"
-      }
-    ],
-    "published_at": 1795772500,
-    "title_hu": "Mama lui Dani Vicol nu și-a găsit liniștea nici după șapte ani de la tragedie. Imaginea de la mormântul fiului ei",
-    "lead_hu": "Durerea unei mame care își pierde copilul nu dispare odată cu trecerea timpului. Au trecut șapte ani de la tragedia care a schimbat pentru totdeauna viața familiei Vicol, însă absența lui Dani continu…",
-    "content_hu": "Durerea unei mame care își pierde copilul nu dispare odată cu trecerea timpului. Au trecut șapte ani de la tragedia care a schimbat pentru totdeauna viața familiei Vicol, însă absența lui Dani continuă să fie resimțită în fiecare zi. Tânărul și-a pierdut viața în urma accidentului rutier provocat de Mario Iorgulescu, în septembrie 2019, iar […]",
-    "title_ro": "Mama lui Dani Vicol nu și-a găsit liniștea nici după șapte ani de la tragedie. Imaginea de la mormântul fiului ei",
-    "lead_ro": "Durerea unei mame care își pierde copilul nu dispare odată cu trecerea timpului. Au trecut șapte ani de la tragedia care a schimbat pentru totdeauna viața familiei Vicol, însă absența lui Dani continu…",
-    "content_ro": "Durerea unei mame care își pierde copilul nu dispare odată cu trecerea timpului. Au trecut șapte ani de la tragedia care a schimbat pentru totdeauna viața familiei Vicol, însă absența lui Dani continuă să fie resimțită în fiecare zi. Tânărul și-a pierdut viața în urma accidentului rutier provocat de Mario Iorgulescu, în septembrie 2019, iar […]",
-    "importance_score": 0.0,
-    "top_rank": null,
-    "is_top_hero": false,
-    "is_top_list": false
-  },
-  {
     "group_id": "group_2df55b5343",
     "slug": "romania-kzs-nato-fellepest-surget-a-hibrid-fenyegetesekkel-szemben-2df55b",
     "tags": [
@@ -24208,7 +24084,7 @@
     "lead_ro": "Ministrul român de externe, Dan Neculăescu, a susținut că NATO ar trebui să abordeze coordonat amenințările hibride asociate Rusiei. El a indicat incidentele din zona Mării Negre drept un semnal al vulnerabilităților de securitate din Europa.",
     "content_ro": "• **România dorește o abordare comună a NATO împotriva atacurilor hibride.** Într-un interviu acordat publicației Die Welt, ministrul de externe Dan Neculăescu a spus că alianța ar trebui să răspundă împreună amenințărilor atribuite Rusiei. Declarațiile au fost relatate de agenția dpa.\n\n• **Acțiunile hibride pot combina mijloace diferite.** Neculăescu a inclus în această categorie intervenții militare, economice și informaționale, propagandă, atacuri cibernetice și campanii de dezinformare destinate influențării opiniei publice. Cei implicați încearcă adesea să-și ascundă rolul.\n\n• **Bucureștiul consideră necesară o evaluare comună a situației.** Ministrul a cerut aliaților să analizeze sistematic dacă există legături între incidentele din diverse state, menționând cazuri din Germania, Estonia și România.\n\n• **Aliații nu au aceeași poziție privind rolul operațional al NATO.** Unele state ar dori ca apărarea împotriva amenințărilor hibride să devină o responsabilitate a alianței. Altele resping această variantă, de teama unei intensificări a tensiunilor cu Rusia.\n\n• **Marea Neagră reprezintă, în opinia ministrului, un punct vulnerabil pentru securitatea europeană.** Neculăescu a acuzat Moscova că urmărește controlul exclusiv al regiunii și a enumerat incidente cu drone, mine maritime și atacuri asupra navelor comerciale. În apropierea litoralului românesc, atacuri atribuite unor drone rusești au provocat victime și au dus la scufundarea unor nave.",
     "importance_score": 30.0,
-    "top_rank": 153,
+    "top_rank": 151,
     "is_top_hero": false,
     "is_top_list": true
   },
@@ -24241,7 +24117,7 @@
     "lead_ro": "Daniel Zamfir, ministru al Economiei, Digitalizării, Antreprenoriatului și Turismului, și până de curând lider al senatorilor PSD, a explicat, la Digi24, contextul apropierii PSD de AUR în Parlament ș…",
     "content_ro": "Daniel Zamfir, ministru al Economiei, Digitalizării, Antreprenoriatului și Turismului, și până de curând lider al senatorilor PSD, a explicat, la Digi24, contextul apropierii PSD de AUR în Parlament și a spus că, de fapt, „cea mai recentă colaborare a AUR a fost cu PNL și USR”.",
     "importance_score": 20.0,
-    "top_rank": 154,
+    "top_rank": 152,
     "is_top_hero": false,
     "is_top_list": true
   },
